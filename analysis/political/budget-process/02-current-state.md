@@ -139,7 +139,7 @@ When no budget resolution passes, Congress uses "deeming resolutions" to set spe
 
 ## Debt Ceiling Dynamics
 
-### Current Status
+### Current Status (as of 2024)
 
 **Debt Limit History** (recent):
 
@@ -191,17 +191,14 @@ When no budget resolution passes, Congress uses "deeming resolutions" to set spe
 
 ## Government Shutdowns
 
-### Recent Shutdown History
+### Recent Shutdown History (as of 2024)
 
 | Dates | Duration | Primary Issue |
 |-------|----------|---------------|
-| Dec 2018 - Jan 2019 | 35 days | Border wall funding |
-
-| Jan 2018 | 3 days | Immigration (DACA) |
-| Jan 2018 | Hours | Technical, resolved quickly |
-| Oct 2013 | 16 days | Defunding ACA |
-| Oct 2013 | Hours | Technical |
-| Sept-Oct 2013 | 16 days | ACA repeal demand |
+| Dec 22, 2018 – Jan 25, 2019 | 35 days | Border wall funding |
+| Jan 20–22, 2018 | 3 days | Immigration (DACA) |
+| Jan 19–20, 2018 | Hours | Technical lapse |
+| Oct 1–17, 2013 | 16 days | ACA defunding demand |
 
 ### 2018-2019 Shutdown (Longest Ever)
 
@@ -381,15 +378,15 @@ When no budget resolution passes, Congress uses "deeming resolutions" to set spe
 
 ## Fiscal Outlook
 
-### Current Trajectory
+### Current Trajectory (as of 2024)
 
 **Federal Debt**:
 
-- Gross debt: ~$34 trillion (2024)
+- Gross debt: ~$34 trillion (as of 2024)
 
-- Debt held by public: ~$27 trillion
+- Debt held by public: ~$27 trillion (as of 2024)
 
-- Debt-to-GDP ratio: ~123%
+- Debt-to-GDP ratio: ~123% (as of 2024)
 
 - Projected to rise indefinitely
 
@@ -403,9 +400,9 @@ When no budget resolution passes, Congress uses "deeming resolutions" to set spe
 | FY 2021 | $2.8 trillion |
 | FY 2020 | $3.1 trillion |
 
-### Long-Term Projections
+### Long-Term Projections (as of 2024)
 
-**CBO 30-Year Outlook**:
+**CBO 30-Year Outlook** (2024 projections):
 
 - Debt-to-GDP: 180%+ by 2054
 
@@ -516,6 +513,40 @@ When no budget resolution passes, Congress uses "deeming resolutions" to set spe
 - Borrowing costs elevated
 
 - Business planning disrupted
+
+## Sources
+
+### Congressional Budget Office (CBO)
+
+- "The Budget and Economic Outlook" (annual reports)
+- "Long-Term Budget Projections" (30-year outlook)
+- "Budgetary and Economic Effects of the Fiscal Responsibility Act of 2023"
+- "Costs of Government Shutdowns"
+
+### Government Accountability Office (GAO)
+
+- "Debt Limit: Market Response to Recent Impasses" (GAO-15-476)
+- "Government Shutdown: Permanent Funding Lapse Legislation" (GAO-19-86)
+- "Federal Budget: Opportunities Exist to Improve Collaboration on Estimates" (GAO-24-106300)
+
+### Office of Management and Budget (OMB)
+
+- Historical Tables (annual budget submissions)
+- "OMB Circular A-11: Preparation, Submission, and Execution of the Budget"
+- Continuing Resolution Impact Reports
+
+### Treasury Department
+
+- Daily Treasury Statement (debt tracking)
+- "Treasury Extraordinary Measures" notifications to Congress
+- "Monthly Statement of the Public Debt"
+
+### Congressional Research Service (CRS)
+
+- "Introduction to the Federal Budget Process" (R46240)
+- "Continuing Resolutions: Overview of Components and Practices" (R42647)
+- "The Debt Limit: History and Recent Increases" (RL31967)
+- "Shutdown of the Federal Government: Causes, Processes, and Effects" (RL34680)
 
 ## Document Navigation
 

@@ -140,8 +140,14 @@ SEC. 3. HOLDING OF PAY.
         enactment of all regular appropriations for such fiscal year.
 
 (b) DEFINITION.—For purposes of this section, "all regular appropriations"
-    means the 12 regular appropriations Acts or a continuing resolution
-    that has been in effect for at least 180 days.
+    means:
+    (1) all 12 regular appropriations Acts; or
+    (2) a full-year continuing resolution enacted by recorded vote that
+        covers the entire fiscal year and is not a short-term extension.
+
+(c) EXCLUSION.—A continuing resolution that expires before the end of
+    the fiscal year shall not constitute completion of regular appropriations
+    for purposes of this section.
 
 SEC. 4. RELEASE OF PAY.
 
@@ -414,8 +420,14 @@ SEC. 201. JOINT BUDGET RESOLUTION.
     fiscal year to which it applies.
 
 (c) AUTOMATIC RESOLUTION.—If no joint budget resolution is enacted by
-    April 15, the budget levels from the President's budget shall serve
-    as the deeming resolution for purposes of points of order.
+    April 15, the budget levels from the most recently enacted appropriations,
+    adjusted for inflation using the Consumer Price Index for All Urban
+    Consumers (CPI-U), shall serve as the deeming resolution for purposes
+    of points of order.
+
+(d) EXCLUSION OF PRESIDENTIAL BUDGET.—In no case shall the President's
+    budget submission serve as the automatic deeming resolution, to
+    preserve congressional primacy over appropriations.
 
 SEC. 202. ENHANCED ENFORCEMENT.
 

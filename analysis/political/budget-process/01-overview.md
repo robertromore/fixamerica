@@ -8,7 +8,7 @@ The federal budget process is fundamentally broken. The Congressional Budget Act
 
 ### What's Broken
 
-**Process Failures**
+**Process Failures (as of 2024)**
 
 | Symptom | Evidence |
 |---------|----------|
@@ -116,7 +116,7 @@ The federal budget process is fundamentally broken. The Congressional Budget Act
 
 - Original intent forgotten
 
-### Key Failures Timeline
+### Key Failures Timeline (as of 2024)
 
 | Year | Crisis |
 |------|--------|
