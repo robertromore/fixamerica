@@ -2,7 +2,7 @@
 
 ## Federal Workforce
 
-### Size and Composition
+### Size and Composition (as of 2024)
 
 **Total Federal Civilian Workforce**: Approximately 2.1 million (excluding Postal Service)
 
@@ -23,11 +23,11 @@
 | Department of Homeland Security | ~240,000 |
 | Department of Justice | ~115,000 |
 
-### Demographics and Trends
+### Demographics and Trends (as of 2024)
 
 **Age Distribution**:
 
-- Average age: 47 years
+- Average age: 47 years (2024)
 - 30% eligible for retirement within 5 years
 - Difficulty attracting younger workers
 - Knowledge transfer challenges
@@ -109,7 +109,7 @@ Codified in 5 U.S.C. § 2301:
 
 ## Political Appointments
 
-### Categories
+### Categories (as of 2024)
 
 | Type | Number | Characteristics |
 |------|--------|-----------------|
@@ -284,6 +284,34 @@ When regulatory agencies serve the interests of the industries they regulate rat
 - Technology modernization needed
 - Morale recovery ongoing
 - Structural vulnerabilities remain
+
+## Sources
+
+### Workforce Data
+
+- Office of Personnel Management. "FedScope: Federal Workforce Data." <https://www.fedscope.opm.gov/>
+- Office of Personnel Management. "Federal Employment Reports." <https://www.opm.gov/policy-data-oversight/data-analysis-documentation/federal-employment-reports/>
+- Partnership for Public Service. "Federal Workforce Data." <https://ourpublicservice.org/fed-figures/>
+
+### Hiring and Retention
+
+- Office of Personnel Management. "Hiring Process Analysis." <https://www.opm.gov/policy-data-oversight/hiring-information/>
+- GAO. "Federal Hiring: OPM Needs to Improve Management and Oversight." <https://www.gao.gov/products/gao-19-696>
+
+### Employee Morale
+
+- Office of Personnel Management. "Federal Employee Viewpoint Survey." <https://www.opm.gov/fevs/>
+- Partnership for Public Service. "Best Places to Work in the Federal Government." <https://bestplacestowork.org/>
+
+### Political Appointments
+
+- Partnership for Public Service. "Political Appointee Tracker." <https://ourpublicservice.org/political-appointee-tracker/>
+- Washington Post / Partnership for Public Service. "Tracking Trump/Biden Nominees." <https://www.washingtonpost.com/graphics/politics/trump-administration-appointee-tracker/>
+
+### Agency Independence
+
+- Congressional Research Service. "Independence of Federal Financial Regulators." CRS Report R43391.
+- Administrative Conference of the United States. "Agency Structures." <https://www.acus.gov/>
 
 ## Document Navigation
 

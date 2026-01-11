@@ -53,9 +53,9 @@ Reforms must survive political transitions:
 | Bill | Purpose |
 |------|---------|
 | Preventing a Patronage System Act | Codify civil service protections |
-| FAIR Act | Anti-capture reforms |
-| Federal Hiring Reform Act | Streamline hiring |
-| Inspector General Protection Act | Strengthen IGs |
+| Federal Regulatory Integrity Act | Anti-capture reforms |
+| Federal Workforce Modernization Act | Streamline hiring |
+| Inspector General Protection Act | Strengthen IGs (see [Ethics and Accountability](../ethics-accountability/11-legislation.md)) |
 
 **Coalition Building**:
 

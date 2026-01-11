@@ -557,7 +557,8 @@ Each agency should develop:
 - 5 U.S.C. § 2301 (Merit system principles)
 - 5 U.S.C. § 2302 (Prohibited personnel practices)
 - 5 U.S.C. §§ 7501-7543 (Adverse actions)
-- 5 U.S.C. App. (Administrative Procedure Act)
+- 5 U.S.C. §§ 551-559 (APA: definitions, rulemaking, adjudication)
+- 5 U.S.C. §§ 701-706 (APA: judicial review)
 - 5 U.S.C. §§ 3345-3349d (Federal Vacancies Reform Act)
 
 ### Executive Orders

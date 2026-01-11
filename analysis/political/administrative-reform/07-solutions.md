@@ -281,8 +281,10 @@ Rulemaking is slow, litigation-heavy, and uncertain.
 |--------|--------|
 | Clearer standards | Less arbitrary and capricious risk |
 | Administrative record | Better documentation |
-| Standing limitations | Reduce nuisance suits |
+| Procedural screening | Expedited dismissal of procedurally deficient claims |
 | Expedited review | Faster resolution |
+
+**Note on Procedural Screening**: Reforms targeting litigation abuse should focus on procedural deficiencies (e.g., failure to exhaust administrative remedies, lack of ripeness, speculative harms) rather than restricting substantive standing. Public-interest standing, citizen-suit provisions, and environmental/consumer standing must be preserved to maintain accountability against regulatory capture.
 
 ### Solution: Regulatory Certainty
 
