@@ -302,10 +302,12 @@ This is normal-not a crisis.
 
 The presidency is decided by:
 
-- national popular vote or proportional regional vote (per design)
+- national popular vote (as mandated by [Article VI, Section 2](09-constitution.md))
 - certification aggregated from regions
 
 No single region can veto national outcomes.
+
+> **Design note:** An earlier draft explored proportional regional vote allocation as an alternative. This approach was **not adopted** in the constitutional design, which explicitly prohibits regional allocation or weighting of electoral votes. See [Article VI, Section 2(c)](09-constitution.md).
 
 ---
 

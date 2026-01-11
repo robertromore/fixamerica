@@ -285,13 +285,21 @@ This prevents local militarization.
 
 Domestic deployment of armed force requires **two independent civilian authorizations**.
 
-Possible combinations:
+The constitutional keyholders are:
 
-- Federal Executive + Regional Authority
-- Federal Legislature + Regional Authority
-- Regional Authority + Judicial Certification
+- **Key 1:** The President of the United States
+- **Key 2:** A supermajority (two-thirds) of Regional Governors
+
+If the President is a party to the constitutional crisis necessitating deployment:
+
+- **Key 1:** The Chief Justice of the United States (procedural certification only)
+- **Key 2:** A supermajority of Regional Governors
 
 No single actor can act alone.
+
+Authorization timing, scope limits, and expiration follow [Article XII, Section 2](09-constitution.md) (48-hour response window, 30-day automatic expiration, written public disclosure within 72 hours).
+
+> **Design note:** Earlier drafts explored alternative keyholder combinations (Federal Legislature + Regional Authority, Regional Authority + Judicial Certification). These alternatives were **not adopted**. The constitution requires the specific keyholders above to ensure clear accountability and prevent diffusion of responsibility.
 
 ---
 

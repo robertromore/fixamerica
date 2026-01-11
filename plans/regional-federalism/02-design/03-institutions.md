@@ -155,6 +155,34 @@ The Senate does *not* function as a routine legislative choke point.
 
 ---
 
+### 5.3a Federal lawmaking under narrowed Senate powers
+
+How does ordinary federal legislation pass?
+
+1. House introduces and passes bill (within enumerated federal powers)
+2. Bill is presented to President for signature
+3. President signs or vetoes (override by House two-thirds vote)
+
+The Senate does **not** participate in ordinary lawmaking. Its powers are limited to:
+
+- treaties (ratification)
+- confirmations (judicial and constitutional officers)
+- amendments (participation)
+- intergovernmental disputes (adjudication)
+
+For bills touching interregional coordination (as designated by prior statute), the Senate may delay and propose amendments for up to sixty days, after which the bill proceeds automatically. The designation of "interregional coordination" categories must be established by law before bill introduction—no retroactive expansion.
+
+This design:
+
+- eliminates Senate as legislative bottleneck,
+- preserves Senate role for federalism-specific functions,
+- provides explicit veto override mechanism (House two-thirds),
+- prevents Senate self-expansion of delay authority.
+
+See [Article IV, Section 5](09-constitution.md) for constitutional text.
+
+---
+
 ### 5.4 Institutional effect
 
 The Senate becomes:

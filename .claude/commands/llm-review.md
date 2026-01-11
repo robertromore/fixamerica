@@ -5,9 +5,10 @@ This skill manages LLM-to-LLM document review cycles using the project's formal 
 ## Usage
 
 - `/llm-review` - Show options (start new or continue existing)
-- `/llm-review start <topic>` - Start a new review for the given topic
+- `/llm-review start {topic}` - Start a new review for the given topic
 - `/llm-review continue` - Continue an existing review where you are the next actor
 - `/llm-review status` - Show status of all active reviews
+- `/llm-review close {topic}` - Close a completed review and commit changes
 
 ## Instructions
 
@@ -16,10 +17,11 @@ When this skill is invoked:
 ### If no arguments or "status"
 
 1. List all active reviews by reading files in `.metadata/reviews/active/`
-2. For each tracker, show: Topic, Status, Next Actor, Next Action
-3. If the user is the next actor on any review, highlight that
+2. Optionally list recent closed reviews from `.metadata/reviews/closed/`
+3. For each tracker, show: Topic, Status, Next Actor, Next Action
+4. If the user is the next actor on any review, highlight that
 
-### If "start <topic>" or user wants to start a new review
+### If "start" with topic or user wants to start a new review
 
 1. Ask the user for:
    - **Topic name**: Short identifier (e.g., `campaign-finance`, `healthcare-analysis`)
@@ -76,13 +78,63 @@ When this skill is invoked:
    - Read the input file specified in the step
    - Perform the action (review, response, implement, verify, or fix)
    - Write output file to appropriate location
+   - **Include a "Handoff Prompt for Next Actor" section at the end of the output file**
    - Update the tracker:
      - Mark step as `done` with Output and Summary filled in
      - Add next step with status `planned`
      - Update Current State section
      - Update Issues table and Agreements Log as needed
      - Update `Last updated` date in Meta section
+     - Update Handoff Prompts section with the prompt from your output file
 7. If no, provide the handoff prompt for the correct actor
+
+### If "close" with topic or user wants to close a completed review
+
+1. Read the tracker at `.metadata/reviews/active/{topic}-tracker.md`
+2. Verify the review is ready to close:
+   - All issues have status `resolved` or `wontfix`
+   - Final verification step has status `done`
+   - Meta status is `closed`
+3. If not ready, explain what's still pending
+4. If ready, perform the closing steps:
+   - Move tracker from `active/` to `closed/`
+   - Stage all files from the review cycle:
+     - Modified source files (from changelogs)
+     - Changelog files
+     - Review and response files
+     - The closed tracker
+   - Create commit with message format shown below
+5. Report the commit hash and summary
+
+Commit message format:
+
+```text
+{topic} review: {brief summary}
+
+- ISSUE-XX: {resolution summary}
+- ISSUE-YY: {resolution summary}
+
+Co-Authored-By: Claude <noreply@anthropic.com>
+Co-Authored-By: Codex <noreply@openai.com>
+```
+
+### Output File Handoff Requirement
+
+Every output file (reviews, responses, changelogs, verification files) MUST end with:
+
+```markdown
+---
+
+## Handoff Prompt for Next Actor
+
+[Complete prompt that the user can copy-paste to the next LLM, including:
+- Tracker path
+- Step number and action
+- Key context from this step
+- Any decisions made or issues identified]
+```
+
+This ensures seamless handoff without requiring the user to construct prompts manually.
 
 ## Protocol Reference
 
@@ -123,6 +175,8 @@ Full protocol: `.metadata/protocols/llm-review-protocol.md`
 
 ### Output Locations
 
+- Active trackers: `.metadata/reviews/active/`
+- Closed trackers: `.metadata/reviews/closed/`
 - Initial reviews: `.metadata/reviews/llms/{reviewer}/`
 - Response files: `.metadata/review-responses/llms/{llm}/{topic}-review/`
 - Changelogs: `.metadata/changelog/`

@@ -180,6 +180,22 @@ The Senate shall not function as a routine legislative veto.
 
 ---
 
+### Section 5. Federal Lawmaking
+
+(a) Bills within enumerated federal powers may be introduced in the House of Representatives.
+
+(b) Upon passage by the House, bills shall be presented to the President for signature.
+
+(c) The President may sign or veto the bill. A presidential veto may be overridden by a two-thirds vote of the House of Representatives.
+
+(d) The Senate shall not have veto power over ordinary legislation. Senate concurrence is required only for matters specified in Section 4.
+
+(e) For bills that Congress by statute designates as touching interregional coordination, the Senate may delay presentation to the President by up to sixty days to propose amendments. Such designation must be made by law prior to bill introduction and may not be applied retroactively. Failure to act within sixty days results in automatic presentation to the President.
+
+(f) No body other than Congress may expand the categories subject to Senate delay.
+
+---
+
 # ARTICLE V - THE EXECUTIVE BRANCH
 
 ### Section 1. The Presidency
@@ -366,7 +382,15 @@ Standing and political question doctrines shall not bar such cases.
 
 ### Section 2. Time Limits
 
-Decisions in mandatory jurisdiction cases shall be issued within constitutionally defined timeframes.
+(a) Decisions in mandatory jurisdiction cases shall be issued within the following timeframes:
+
+- Trial court: thirty days from submission
+- Appellate court: thirty days from trial decision
+- Supreme Court: thirty days from appellate decision
+
+(b) Extensions may be granted only for cause, in writing, and may not exceed fifteen additional days per level.
+
+(c) Failure to issue a decision within the time limit triggers the self-executing default rules of Section 4.
 
 ---
 

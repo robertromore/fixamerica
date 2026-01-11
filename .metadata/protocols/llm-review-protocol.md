@@ -109,14 +109,29 @@ Pre-written prompts for each LLM to continue the review.
 When completing a step:
 
 1. Write your output file to the appropriate location
-2. Update the tracker:
+2. **Include a handoff prompt at the end of your output file** (see Output File Requirements below)
+3. Update the tracker:
    - Change your step's status to `done`
    - Fill in Output and Summary fields
    - Add the next step with status `planned`
    - Update Current State section with next actor and action
    - Update Issues table if issues were resolved or identified
    - Update Agreements Log if key decisions were made
-3. The next LLM reads the tracker to know their task
+   - Update Handoff Prompts section with the prompt from your output file
+4. The next LLM reads the tracker to know their task
+
+## Output File Requirements
+
+**Every output file MUST end with a handoff prompt section.** This ensures the next actor can continue without requiring the user to construct a prompt.
+
+The section should be titled `## Handoff Prompt for Next Actor` and contain a complete prompt that the user can copy-paste to the next LLM.
+
+The handoff prompt should include:
+
+- The tracker path
+- The step number and expected action
+- Specific context from the current step that the next actor needs
+- Any decisions that were made or issues that were resolved/identified
 
 ## Issue Severity Levels
 
@@ -132,8 +147,9 @@ All file names use snake_case with dates as `YYYY_MM_DD`:
 - **Reviews**: `.metadata/reviews/llms/{llm}/{topic}_review_{YYYY_MM_DD}.md`
 - **Responses**: `.metadata/review-responses/llms/{llm}/{topic}-review/{NN}_{action}_to_{other_llm}_{description}_{YYYY_MM_DD}.md`
 - **Changelogs**: `.metadata/changelog/{llm1}_{llm2}_{topic}_{description}_{YYYY_MM_DD}.md`
-- **Trackers**: `.metadata/reviews/active/{topic}-tracker.md`
-- **Archives**: `.metadata/reviews/active/{topic}-tracker-archive.md`
+- **Trackers (active)**: `.metadata/reviews/active/{topic}-tracker.md`
+- **Trackers (closed)**: `.metadata/reviews/closed/{topic}-tracker.md`
+- **Step Archives**: `.metadata/reviews/active/{topic}-tracker-archive.md`
 
 ## Conflict Resolution
 
@@ -160,6 +176,36 @@ Review is complete when:
 - Final verification step has status `done`
 - Both LLMs have no pending concerns
 - Tracker Meta status is set to `closed`
+- Tracker is moved from `.metadata/reviews/active/` to `.metadata/reviews/closed/`
+- Changes are committed to git (see Closing a Review below)
+
+## Closing a Review
+
+When a review is verified complete:
+
+1. Set tracker Meta status to `closed`
+2. Set Current State next actor to `none`
+3. Move tracker from `active/` to `closed/`
+4. Commit all changes from the review cycle:
+   - Modified source files
+   - Changelog files
+   - Review/response files
+   - The closed tracker
+5. Use commit message format: `{topic} review: {brief summary of changes}`
+
+Example commit message:
+
+```text
+regional-federalism-design review: align design docs with constitution
+
+- ISSUE-01: Updated elections design for NPV
+- ISSUE-02: Updated armed-forces two-key authorization
+- ISSUE-03: Added judicial timelines to Article XI
+- ISSUE-04: Added federal lawmaking procedure to Article IV
+
+Co-Authored-By: Claude <noreply@anthropic.com>
+Co-Authored-By: Codex <noreply@openai.com>
+```
 
 ## Archive Policy
 
