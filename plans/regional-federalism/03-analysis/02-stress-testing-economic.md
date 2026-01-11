@@ -213,6 +213,12 @@ Practices treated as dumping:
 
 Penalties apply automatically, not discretionarily.
 
+> **Implementation note:** The constitution establishes anti-dumping rules as a
+> constraint on regional economic policy (Article II, Section 2) but does not
+> specify enforcement mechanisms. Automatic penalty structures described here
+> are proposed implementation requirements that should be codified in the
+> Allocation Framework Act (Article XVII, Section 1).
+
 ---
 
 ### 5.3 Result
@@ -395,6 +401,11 @@ Remote work allows:
 - labor law applies based on residence,
 - anti-avoidance rules prevent shell relocation,
 - regional equalization fees capture arbitrage gains.
+
+> **Implementation note:** Regional equalization fees for remote-work arbitrage
+> are not defined in the constitution. These mechanisms should be codified in
+> the Fiscal Equalization Act (Article XVII, Section 1) to ensure consistent
+> enforcement across regions.
 
 ---
 

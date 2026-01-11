@@ -409,7 +409,9 @@ Widespread violence can:
 If regional and federal forces split into partisan camps,
 constitutional design may slow but not stop escalation.
 
-This is why Appendix A is critical.
+This is why the armed-forces fragmentation design is critical.
+See [Armed Forces and Civilian Control](../02-design/06-armed-forces.md) for
+the structural safeguards against security-force factionalization.
 
 ---
 

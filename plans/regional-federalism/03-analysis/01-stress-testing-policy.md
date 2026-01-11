@@ -154,6 +154,12 @@ Example (abortion):
 - regions determine gestational limits, access frameworks, funding rules,
 - courts enforce floors, not outcomes.
 
+> **Implementation note:** The constitution establishes rights floors as a structural
+> principle (Article III) but does not enumerate specific floor content. The baseline
+> bodily autonomy protection described here is illustrative of how floors would function;
+> actual floor definitions would emerge through implementation legislation and judicial
+> interpretation of constitutional principles.
+
 Result:
 
 > Losers lose **somewhere**, not **everywhere**.
@@ -199,6 +205,12 @@ Example (guns):
 - national floor preserves right to keep arms,
 - regions decide licensing, training, carry rules,
 - courts prevent bans that violate the floor.
+
+> **Implementation note:** The constitution establishes rights floors as a structural
+> principle (Article III) but does not enumerate specific floor content. The core
+> gun rights floor described here is illustrative of how floors would function;
+> actual floor definitions would emerge through implementation legislation and judicial
+> interpretation of constitutional principles.
 
 Result:
 

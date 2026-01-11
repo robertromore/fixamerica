@@ -557,7 +557,14 @@ Congress shall enact enabling legislation to implement this Constitution, includ
 - Any provisions of prior federal law inconsistent with the national popular vote requirement (including the Electoral College) are superseded and inapplicable.
 - If no candidate receives a majority of votes cast, a runoff election between the two candidates receiving the most votes shall be held within twenty-one days. If Congress has enacted a different majority mechanism (such as ranked-choice voting or instant runoff), that mechanism supersedes this default.
 
-(d) Default rules remain in effect until Congress enacts superseding legislation.
+(d) If Congress fails to enact appropriations for any fiscal year by the start of that fiscal year, the following automatic fiscal continuation shall apply:
+
+- Spending shall continue at the prior fiscal year's enacted levels for all previously authorized programs.
+- Prior-year levels shall be adjusted by the Consumer Price Index for All Urban Consumers (CPI-U) as published by the Bureau of Labor Statistics, or by a successor index designated by statute.
+- No new programs, expansions of existing programs, or new spending initiatives may be funded under automatic continuation.
+- Automatic continuation terminates upon enactment of appropriations for the affected fiscal year.
+
+(e) Default rules remain in effect until Congress enacts superseding legislation.
 
 ---
 
