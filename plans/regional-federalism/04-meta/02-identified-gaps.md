@@ -15,13 +15,14 @@ The legitimacy of a design increases when its limits are named.
 ## Table of Contents
 
 1. Scope and Framing
-2. Category I: Unsolvable Structural Limits
-3. Category II: High-Risk but Low-Probability Scenarios
-4. Category III: Under-Specified Domains
-5. Category IV: Long-Horizon Systemic Risks
-6. Category V: Implementation and Transition Risks
-7. Category VI: Tradeoffs Accepted by Design
-8. Summary: Why These Gaps Do Not Invalidate the System
+2. Gap Priority Summary
+3. Category I: Unsolvable Structural Limits
+4. Category II: High-Risk but Low-Probability Scenarios
+5. Category III: Under-Specified Domains
+6. Category IV: Long-Horizon Systemic Risks
+7. Category V: Implementation and Transition Risks
+8. Category VI: Tradeoffs Accepted by Design
+9. Summary: Why These Gaps Do Not Invalidate the System
 
 ---
 
@@ -41,7 +42,33 @@ These gaps are:
 
 ---
 
-## 2. Category I: Unsolvable Structural Limits
+## 2. Gap Priority Summary
+
+| Gap | Category | Severity | Mitigability |
+|-----|----------|----------|--------------|
+| 1 | I - Structural | High | Low |
+| 2 | I - Structural | High | Low |
+| 3 | II - Low-Probability | Critical | Medium |
+| 4 | II - Low-Probability | Critical | Low |
+| 5 | III - Under-Specified | Medium | Medium |
+| 6 | III - Under-Specified | Medium | Low |
+| 7 | III - Under-Specified | Medium | Medium |
+| 8 | III - Under-Specified | Medium | Medium |
+| 9 | IV - Long-Horizon | Medium | Medium |
+| 10 | IV - Long-Horizon | Medium | High |
+| 11 | IV - Long-Horizon | Medium | Medium |
+| 12 | V - Transition | High | Low |
+| 13 | V - Transition | Medium | Medium |
+| 14 | VI - Tradeoffs | Low | N/A |
+| 15 | VI - Tradeoffs | Low | N/A |
+
+**Severity:** Critical (system-threatening) | High (major risk) | Medium (significant) | Low (minor)
+
+**Mitigability:** How addressable through design or policy (High/Medium/Low/N/A for accepted tradeoffs)
+
+---
+
+## 3. Category I: Unsolvable Structural Limits
 
 ### Gap 1 — Civic Culture and Democratic Norms
 
@@ -79,7 +106,7 @@ Deliberately under-constrained to avoid censorship and authoritarian drift.
 
 ---
 
-## 3. Category II: High-Risk but Low-Probability Scenarios
+## 4. Category II: High-Risk but Low-Probability Scenarios
 
 ### Gap 3 — Coordinated Capture Across All Levels
 
@@ -119,7 +146,7 @@ Unpreventable by constitutional design alone.
 
 ---
 
-## 4. Category III: Under-Specified Domains
+## 5. Category III: Under-Specified Domains
 
 ### Gap 5 — Media and Information Power
 
@@ -155,9 +182,54 @@ Left to political evolution; constitutional regulation deemed riskier.
 
 ---
 
-## 5. Category IV: Long-Horizon Systemic Risks
+### Gap 7 — Implementation Act Dependency and Statutory Capture
 
-### Gap 7 — Inter-Regional Divergence Over Time
+**Description:**
+The constitutional system depends on three major implementation acts:
+
+- Allocation Framework Act (defining jurisdictional boundaries and spillover criteria)
+- Fiscal Equalization Act (establishing transfer formulas and the Independent Fiscal Council)
+- Elections Implementation Act (specifying procedures for federal elections)
+
+Article XVII provides default rules if Congress fails to enact these acts, but defaults are designed as emergency backstops, not optimal governance.
+
+**Risk:**
+
+- Prolonged operation under defaults degrades system performance and legitimacy.
+- Implementation acts, once enacted, may be captured or weaponized by future majorities.
+- Many design assumptions depend on statutory detail not yet defined.
+
+**Status:**
+Partially mitigated by constitutional defaults and declining incentive rates; ongoing vigilance required to prevent statutory erosion of constitutional intent.
+
+---
+
+### Gap 8 — Rights-Floor Content and Enforcement Detail
+
+**Description:**
+The constitution establishes rights floors as a structural principle (Article III) but does not enumerate specific floor content. Analysis documents assume:
+
+- baseline bodily autonomy protections,
+- core gun rights,
+- labor rights floors,
+- anti-discrimination guarantees.
+
+Actual floor definitions require implementation legislation and judicial interpretation.
+
+**Risk:**
+
+- Rights floors may be defined narrowly or unevenly across administrations.
+- Judicial interpretation may diverge from design intent.
+- Political conflict over floor content may replicate current nationalized battles.
+
+**Status:**
+Intentional under-specification to allow democratic adaptation; content emerges through implementation acts and constitutional adjudication. Article III provides interpretive guidance but not substantive definition.
+
+---
+
+## 6. Category IV: Long-Horizon Systemic Risks
+
+### Gap 9 — Inter-Regional Divergence Over Time
 
 **Description:**
 Even with equalization, regions may diverge economically and culturally.
@@ -170,7 +242,7 @@ Mitigated by mobility, benefits spine, amendment adaptability; not eliminable.
 
 ---
 
-### Gap 8 — Institutional Fatigue and Complexity
+### Gap 10 — Institutional Fatigue and Complexity
 
 **Description:**
 The system is administratively complex and demanding.
@@ -183,9 +255,26 @@ Accepted tradeoff in exchange for survivability.
 
 ---
 
-## 6. Category V: Implementation and Transition Risks
+### Gap 11 — Boundary Revision Politics and Regional Identity Crystallization
 
-### Gap 9 — Constitutional Transition Vulnerability
+**Description:**
+Regional boundaries are subject to periodic review (Article I, Section 4), but the political dynamics of boundary revision are unpredictable.
+
+**Risk:**
+
+- Regional identities may harden around current boundaries, making revision politically toxic.
+- Boundary revision commissions may become sites of partisan conflict.
+- Proposals perceived as advantaging one party may delegitimize the process.
+- "Winners and losers" narratives around map changes could undermine regional cooperation.
+
+**Status:**
+Mitigated by supermajority and popular referendum requirements; long-horizon risk that may intensify as regional identities mature.
+
+---
+
+## 7. Category V: Implementation and Transition Risks
+
+### Gap 12 — Constitutional Transition Vulnerability
 
 **Description:**
 The transition from the current constitution to this system:
@@ -202,7 +291,7 @@ Outside scope of stable-state design; requires separate transition protocol.
 
 ---
 
-### Gap 10 — Uneven Regional Capacity at Inception
+### Gap 13 — Uneven Regional Capacity at Inception
 
 **Description:**
 Regions may begin with:
@@ -219,9 +308,9 @@ Mitigated over time; cannot be equalized instantly.
 
 ---
 
-## 7. Category VI: Tradeoffs Accepted by Design
+## 8. Category VI: Tradeoffs Accepted by Design
 
-### Gap 11 — Slower Crisis Response
+### Gap 14 — Slower Crisis Response
 
 **Description:**
 Multi-key authorization and procedural safeguards reduce speed.
@@ -234,7 +323,7 @@ Explicitly accepted to prevent abuse and irreversible centralization.
 
 ---
 
-### Gap 12 — Visible and Persistent Disagreement
+### Gap 15 — Visible and Persistent Disagreement
 
 **Description:**
 Regional pluralism makes disagreement more visible and enduring.
@@ -247,7 +336,7 @@ Intentional; visibility reduces illusion-driven backlash.
 
 ---
 
-## 8. Summary: Why These Gaps Do Not Invalidate the System
+## 9. Summary: Why These Gaps Do Not Invalidate the System
 
 These gaps:
 
