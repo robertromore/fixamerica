@@ -96,8 +96,18 @@ States and localities administer elections under REC supervision:
 | Level | Responsibilities |
 |-------|------------------|
 | **Regional** | Standards, certification, audits, dispute resolution |
-| **State** | Voter registration, ballot design approval, result compilation |
+| **State** | Voter registration, ballot design approval, result compilation and transmission |
 | **Local** | Polling place operations, ballot counting, provisional ballots |
+
+**State Role Is Ministerial:**
+
+Per Article VI, Section 4, certification authority resides in regional institutions. The state role in federal elections is ministerial:
+
+- States compile county/local results and transmit them to the Regional Election Commission
+- States have no discretionary authority to delay, modify, or refuse transmission
+- State compilation does not constitute certification; only the REC certifies results
+- If a state fails to transmit compiled results by the deadline, county/local results are transmitted directly to the REC
+- No state official may condition transmission on any substantive review or approval
 
 ### 2.4 Federal Election Assistance
 
@@ -239,24 +249,22 @@ Unless a Region adopts an alternative method under Section 5.4:
 - Unranked candidates receive no preference
 - Skipped rankings are ignored; next valid ranking is counted
 
-### 5.4 Alternative Majority Mechanisms
+### 5.4 Uniform National Method
 
-A Region may adopt an alternative method for its voters if the method:
-- Produces a majority winner
-- Is approved by Regional legislature
-- Provides clear voter instructions
-- Is certified by the FEAA as compliant
+Presidential elections shall use ranked-choice voting (instant runoff) as the uniform national majority mechanism. Regional variation in majority methods is prohibited to ensure:
 
-**Approved alternatives include:**
-- Traditional runoff election (within 21 days)
-- Approval voting
-- STAR voting (Score Then Automatic Runoff)
+- Compatible ballot aggregation across all Regions
+- Consistent voter experience nationwide
+- Simplified national tabulation
+- Reduced litigation risk from method conflicts
 
-### 5.5 Default Runoff (Constitutional Fallback)
+The constitutional default runoff (Article XVII, Section 2(c)) applies only if Congress repeals this Act without enacting a replacement majority mechanism.
 
-If no Region-approved method produces a majority winner, the constitutional default applies:
+### 5.5 Constitutional Fallback
 
-- Runoff election between top two candidates
+If this Act is repealed and Congress does not enact a replacement majority mechanism, the constitutional default (Article XVII, Section 2(c)) applies:
+
+- Runoff election between the top two candidates
 - Held within 21 days of initial election
 - Same voting procedures as initial election
 - Winner determined by plurality
@@ -264,10 +272,14 @@ If no Region-approved method produces a majority winner, the constitutional defa
 ### 5.6 National Vote Tabulation
 
 The FEAA shall:
-1. Receive certified results from each REC
-2. Apply ranked-choice tabulation to national totals
-3. Publish round-by-round results
-4. Certify national winner within 7 days of receiving all Regional certifications
+
+1. Receive certified ranked-choice ballot data from each REC
+2. Aggregate all ballots into a single national pool
+3. Apply ranked-choice tabulation (instant runoff) to the national totals
+4. Publish round-by-round elimination results
+5. Certify the national winner within 7 days of receiving all Regional certifications
+
+All Regions use the same ranked-choice ballot format to ensure seamless national aggregation.
 
 ---
 
@@ -294,14 +306,16 @@ Regional Assembly elections are matters of Regional law, not governed by this Ac
 
 ### 7.1 Certification Timeline
 
+Per Article VI, Section 4 of the Regional Federal Constitution:
+
 | Event | Deadline |
 |-------|----------|
 | Election Day | First Tuesday after first Monday in November |
-| Provisional ballot resolution | +7 days |
-| County/local certification | +10 days |
-| State certification | +14 days |
-| **Regional certification** | **+21 days** |
-| National certification | +28 days |
+| Provisional ballot resolution | +5 days |
+| County/local certification | +8 days |
+| State compilation and transmission | +12 days |
+| **Regional certification** | **+14 days** |
+| National certification | +21 days |
 
 ### 7.2 Regional Certification
 

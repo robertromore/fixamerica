@@ -406,6 +406,23 @@ If courts fail to act, constitutional default rules shall apply automatically.
 
 ---
 
+### Section 5. Judicial Capacity
+
+(a) Congress shall ensure adequate judicial capacity to meet the time limits specified in Section 2.
+
+(b) Authorized capacity measures include:
+
+- temporary assignment of federal judges to regional courts,
+- appointment of special masters for overflow cases,
+- establishment of emergency judicial panels,
+- expedited hiring and training of judicial staff.
+
+(c) Capacity measures are enabling mechanisms to fulfill constitutional obligations. No capacity measure may be used to delay or condition mandatory jurisdiction; mandatory jurisdiction applies immediately upon ratification regardless of capacity status.
+
+(d) Failure to ensure adequate capacity does not excuse judicial delay. Courts shall meet constitutional time limits using available resources.
+
+---
+
 # ARTICLE XII - ARMED FORCES AND CIVILIAN CONTROL
 
 ### Section 1. Force Structure
@@ -478,9 +495,49 @@ Rights and standards shall be construed as floors unless explicitly stated other
 
 ---
 
-# ARTICLE XV - RATIFICATION
+# ARTICLE XV - RATIFICATION AND TRANSITION
+
+### Section 1. Effect Upon Ratification
 
 This amendment package shall take effect upon ratification pursuant to its own terms.
+
+---
+
+### Section 2. Transition Authority
+
+(a) Notwithstanding Section 1, certain operational provisions of this Constitution may be activated in phases pursuant to transition legislation enacted prior to ratification, provided such legislation:
+
+- is enacted by both chambers of Congress and signed by the President prior to ratification,
+- specifies a maximum transition period not exceeding four years from ratification,
+- does not delay the immediate provisions identified in Section 3,
+- does not expand existing governmental authority beyond that permitted under the prior Constitution.
+
+(b) Transition legislation shall govern sequencing and continuity during the transition period but may not claim supremacy over this Constitution. Any conflict between transition legislation and this Constitution shall be resolved in favor of this Constitution.
+
+(c) Transition legislation expires automatically upon completion of the transition period and may not be extended.
+
+---
+
+### Section 3. Immediate Provisions
+
+The following provisions take effect immediately upon ratification and may not be delayed by transition legislation:
+
+- Congressional representation for the District of Columbia (Article XVI, Section 1(a))
+- Rights floors and the floor presumption (Article III; Article XIV, Section 2)
+- Prohibition on power expansion during transition
+- The amendment process (Article X)
+- Mandatory jurisdiction for constitutional cases (Article XI, Section 1)
+- Two-key authorization requirements for domestic deployment (Article XII, Section 2)
+
+---
+
+### Section 4. Transition Completion
+
+Upon completion of the transition period:
+
+- All transition legislation terminates automatically
+- All provisions of this Constitution are fully operative
+- Any residual authority claimed under transition legislation is void
 
 ---
 
@@ -571,6 +628,66 @@ Congress shall enact enabling legislation to implement this Constitution, includ
 ### Section 3. Purpose
 
 These default rules exist to prevent deliberate nonimplementation from becoming a method of constitutional sabotage. The Constitution shall operate even if Congress fails to act.
+
+---
+
+# SCHEDULE A - INITIAL REGIONAL BOUNDARIES
+
+The following Regions are established upon ratification. These boundaries may be revised pursuant to Article I, Section 4.
+
+---
+
+### Region 1 — Northeast
+
+Connecticut, Maine, Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania, Rhode Island, Vermont
+
+---
+
+### Region 2 — Southeast
+
+Alabama, Florida, Georgia, Kentucky, Louisiana, Mississippi, North Carolina, South Carolina, Tennessee, Virginia, West Virginia
+
+---
+
+### Region 3 — Midwest
+
+Illinois, Indiana, Iowa, Michigan, Minnesota, Ohio, Wisconsin
+
+---
+
+### Region 4 — Great Plains
+
+Kansas, Missouri, Nebraska, North Dakota, Oklahoma, South Dakota
+
+---
+
+### Region 5 — Southwest
+
+Arizona, Colorado, Nevada, New Mexico, Texas, Utah
+
+---
+
+### Region 6 — Pacific
+
+Alaska, California, Hawaii, Oregon, Washington
+
+---
+
+### Region 7 — Mountain
+
+Idaho, Montana, Wyoming
+
+---
+
+### Schedule Notes
+
+(a) The District of Columbia is not assigned to any Region upon ratification. Its regional assignment shall be determined pursuant to Article XVI, Section 1(b).
+
+(b) United States territories are not assigned to any Region upon ratification. Their regional assignment shall be determined pursuant to Article XVI, Section 2(a).
+
+(c) Tribal lands within state boundaries remain under tribal and federal jurisdiction as provided in Article XVI, Section 3.
+
+(d) These initial boundaries are based on geographic, economic, and demographic considerations as of ratification. Future boundary revisions shall follow the process established in Article I, Section 4.
 
 ---
 

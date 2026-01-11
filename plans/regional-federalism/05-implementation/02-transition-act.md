@@ -60,15 +60,17 @@ This Act is enacted pursuant to:
 - existing constitutional legislative authority,
 - and conditional upon ratification of the Regional Federal Constitution.
 
-### Section 2.2 — Supremacy During Transition
+### Section 2.2 — Constitutional Authorization
+
+This Act operates pursuant to Article XV, Section 2 of the Regional Federal Constitution, which authorizes phased activation of operational provisions during transition.
 
 During the transition period:
 
-- this Act governs sequencing and continuity,
-- the prior Constitution remains operative except where explicitly superseded by this Act,
-- no actor may claim authority directly from the new Constitution until activation phases are complete.
+- this Act governs sequencing and continuity for operational provisions,
+- the prior Constitution remains operative for matters not yet transitioned,
+- immediate provisions identified in Article XV, Section 3 take effect upon ratification and are not subject to phased activation.
 
-This prevents premature invocation and selective enforcement.
+Any conflict between this Act and the Regional Federal Constitution shall be resolved in favor of the Constitution. This Act does not claim supremacy over constitutional provisions.
 
 ---
 
@@ -96,9 +98,10 @@ No new powers may be claimed under the new Constitution in this phase.
 
 ### Phase II — Regional Formation (6–18 Months)
 
-**Purpose:** Create regions without disrupting governance.
+**Purpose:** Operationalize constitutionally established regions without disrupting governance.
 
-- Regions formally constituted by statute
+- Regions are established by Schedule A of the Regional Federal Constitution upon ratification
+- This Act provides operational procedures for activating regional governance
 - Provisional regional assemblies formed from existing state delegations
 - Regions draft constitutions under federal rights floors
 - No new regional laws take effect yet
@@ -278,11 +281,12 @@ Mandatory jurisdiction without adequate court capacity creates delay failure. Th
 - Assignment is voluntary for judges but compensated at current salary plus regional differential
 - Assigned judges retain federal status and return to federal courts at Phase V
 
-**Capacity Certification:**
+**Capacity Monitoring:**
 
-- Mandatory jurisdiction provisions shall not activate in any Region until the GAO certifies that Region's courts meet minimum capacity thresholds
-- If a Region fails capacity certification, its mandatory jurisdiction activation is delayed (not waived) until certification is achieved
-- Delayed activation does not delay overall transition timeline; other Regions proceed
+- The GAO shall monitor regional court capacity and report to Congress quarterly during the transition period
+- Reports shall identify capacity shortfalls and recommend corrective actions
+- Capacity monitoring is informational only and does not condition mandatory jurisdiction activation
+- Mandatory jurisdiction activates upon ratification pursuant to Article XI, Section 1 and Article XV, Section 3; capacity constraints do not delay constitutional obligations
 
 **Contingency:**
 
