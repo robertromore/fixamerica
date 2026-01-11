@@ -203,11 +203,24 @@ A plausible range is **6-10**. Many designs converge around **7** because it:
 - avoids "two nations" polarization
 - creates institutions that feel large but not alien
 
+### 5.4 Formation and Revision
+
+This document defines criteria for *what makes a good region*, but does not specify the process for creating or revising boundaries. The constitutional design addresses formation and revision through:
+
+- an Independent Boundary Review Commission,
+- periodic review following each decennial census,
+- supermajority consent of affected regions plus national referendum,
+- election blackout periods to prevent manipulation.
+
+See [The Regional Federal Constitution](../02-design/09-constitution.md), Article I, Section 4 for the complete boundary revision mechanism.
+
 ---
 
 ## 6. Sketching Plausible U.S. Regions
 
 Below are **example** region groupings. These are not "the" answer; they are testable sketches.
+
+> **Note on non-state entities:** The example maps include DC for geographic completeness, but the constitutional definition of regions is "a grouping of States." DC, territories, and tribal nations are handled separately in [Article XVI (Non-State Entities)](../02-design/09-constitution.md) of the constitutional design, which specifies representation, regional assignment procedures, and sovereignty preservation.
 
 ### Option A: 7 Regions (coarse, strong coordination)
 
@@ -240,6 +253,8 @@ Example:
 
 ### Option C: Functional Regions (overlay model)
 
+> **Design note:** This option was explored as a conceptual alternative but is **not adopted** in the constitutional design. The constitution establishes fixed geographic regions (Options A/B) rather than functional overlays. This section is retained for analytical completeness.
+
 Rather than one fixed set of regions, you define "region maps" for:
 
 - energy governance
@@ -249,7 +264,7 @@ Rather than one fixed set of regions, you define "region maps" for:
 
 And allow regional institutions to overlap.
 
-**Trade-off:** extremely realistic, but politically harder to explain and constitutionalize.
+**Trade-off:** extremely realistic, but politically harder to explain and constitutionalize. See [The Regional Federal Constitution](../02-design/09-constitution.md), Article I for the adopted approach.
 
 ---
 
@@ -480,6 +495,8 @@ If you wanted the smallest change that still matters:
 - give them limited coordination powers (infrastructure, grid, public health)
 - keep Senate and elections mostly unchanged initially
 - build legitimacy gradually
+
+Even the minimal version requires explicit **transfer and de-duplication** of specified cross-border functions (e.g., grid reliability standards, regional housing compacts, public health procurement) from states to regions. Regions must replace, not merely add to, state-level duplication. See the [Allocation Framework Act](../05-implementation/03-allocation-framework-act.md) for the operational specification of which functions transfer and the de-duplication timetable.
 
 ### Full version (FV-RF)
 

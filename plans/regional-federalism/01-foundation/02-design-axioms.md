@@ -119,6 +119,20 @@ No civilian authority may:
 
 ---
 
+### Design Note: Reconciling Axioms 7 and 8
+
+Axiom 7 (self-executing law) and Axiom 8 (fragmented coercion) appear in tension: how can law "act automatically" while enforcement remains multi-actor? The constitutional design resolves this by distinguishing two enforcement modes:
+
+1. **Automatic/default enforcement** (Axiom 7): Certification deadlines, default rules upon inaction, and automatic transfers operate without coercion. If Congress fails to act, defaults take effect. If officials fail to certify, certification is automatic. No physical force is required—the law simply moves forward.
+
+2. **Coercive enforcement** (Axiom 8): When physical force is required (domestic deployment, asset seizure, arrest of officials), multiple actors must authorize. The two-key authorization model requires both the President and a supermajority of Regional Governors before armed forces may act domestically.
+
+Self-execution handles procedural compliance; fragmented coercion handles physical enforcement. Neither axiom is compromised.
+
+See [Armed Forces and Civilian Control](../02-design/06-armed-forces.md) and [Judiciary and Constitutional Enforcement](../02-design/07-judiciary.md) for implementation details.
+
+---
+
 ## Axiom 9 — Adaptation Is Safer Than Rigidity
 
 A constitution that cannot change:
