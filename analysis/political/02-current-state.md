@@ -79,23 +79,23 @@ Since the 2010 Supreme Court decision:
 
 ## Key Statistics
 
-### Trust and Approval
+### Trust and Approval (as of 2024)
 
 | Metric | Current Level | Historical Context |
 |--------|---------------|-------------------|
-| Trust in federal government | 20% | Was 77% in 1964 |
-| Congressional approval | 15-20% | Consistently below 30% since 2010 |
-| Satisfaction with democracy | 46% | Declining steadily |
-| Belief vote is accurately counted | 59% | Down from 70%+ |
+| Trust in federal government | 20% (2024) | Was 77% in 1964 |
+| Congressional approval | 15-20% (2024) | Consistently below 30% since 2010 |
+| Satisfaction with democracy | 46% (2024) | Declining steadily |
+| Belief vote is accurately counted | 59% (2024) | Down from 70%+ |
 
-### Electoral Competition
+### Electoral Competition (as of 2024)
 
 | Metric | Value |
 |--------|-------|
 | Competitive House seats (2022) | ~35 of 435 (~8%) |
-| Incumbent re-election rate (House) | 95%+ |
+| Incumbent re-election rate (House, 2022) | 95%+ |
 | Average margin of victory in "safe" seats | 25+ points |
-| States with independent redistricting | 10 |
+| States with independent redistricting (2024) | 10 |
 
 ### Money in Politics
 
@@ -103,9 +103,9 @@ Since the 2010 Supreme Court decision:
 |--------|-------|
 | Total 2020 election spending | $14.4 billion |
 | Dark money spending (2020) | $1+ billion |
-| Average cost to win House seat | $2+ million |
-| Average cost to win Senate seat | $27+ million |
-| Registered lobbyists in DC | 12,000+ |
+| Average cost to win House seat (2022) | $2+ million |
+| Average cost to win Senate seat (2022) | $27+ million |
+| Registered lobbyists in DC (2024) | 12,000+ |
 
 ### Voter Participation
 
@@ -113,17 +113,17 @@ Since the 2010 Supreme Court decision:
 |--------|-------|
 | Presidential election turnout (2020) | 66% (highest in century) |
 | Midterm election turnout (2022) | 46% |
-| Primary election turnout | 15-25% typically |
-| Americans registered to vote | ~70% of eligible |
+| Primary election turnout (typical) | 15-25% |
+| Americans registered to vote (2024) | ~70% of eligible |
 
-### Partisan Polarization
+### Partisan Polarization (as of 2024)
 
 | Metric | Value |
 |--------|-------|
-| Americans with "very unfavorable" view of other party | 60%+ |
+| Americans with "very unfavorable" view of other party (2024) | 60%+ |
 | Mixed-party marriages declining | Down 50% since 1970s |
-| Partisan gap on policy issues | Widest ever measured |
-| Trust in media by party | 30+ point gap |
+| Partisan gap on policy issues (2024) | Widest ever measured |
+| Trust in media by party (2024) | 30+ point gap |
 
 ## Impact
 
@@ -172,3 +172,33 @@ Since the 2010 Supreme Court decision:
 - **State ballot initiatives**: Voters directly implementing reforms where legislatures won't
 - **Lawsuit challenges**: Legal battles over redistricting maps, voting rules, campaign finance
 - **2024 and beyond**: High-stakes elections testing democratic resilience
+
+## Sources
+
+### Polling and Trust Data
+
+- Pew Research Center. "Public Trust in Government: 1958-2024." <https://www.pewresearch.org/politics/public-trust-in-government/>
+- Gallup. "Congress and the Public." <https://news.gallup.com/poll/1600/congress-public.aspx>
+- Pew Research Center. "Partisan Antipathy." <https://www.pewresearch.org/politics/partisan-antipathy/>
+
+### Electoral Competition
+
+- Cook Political Report. "House Race Ratings." <https://www.cookpolitical.com/ratings/house-race-ratings>
+- OpenSecrets. "Reelection Rates Over the Years." <https://www.opensecrets.org/elections-overview/reelection-rates>
+- National Conference of State Legislatures. "Redistricting Commissions." <https://www.ncsl.org/redistricting-and-census/redistricting-commissions>
+
+### Campaign Finance
+
+- OpenSecrets. "Cost of Election." <https://www.opensecrets.org/elections-overview/cost-of-election>
+- OpenSecrets. "Dark Money Basics." <https://www.opensecrets.org/dark-money/basics>
+- OpenSecrets. "Lobbying Data Summary." <https://www.opensecrets.org/federal-lobbying>
+
+### Voter Participation
+
+- U.S. Census Bureau. "Voting and Registration." <https://www.census.gov/topics/public-sector/voting.html>
+- United States Elections Project. "Voter Turnout." <https://www.electproject.org/>
+
+### RCV and Primary Reform
+
+- FairVote. "Ranked Choice Voting." <https://fairvote.org/our-reforms/ranked-choice-voting/>
+- National Conference of State Legislatures. "State Primary Election Types." <https://www.ncsl.org/elections-and-campaigns/state-primary-election-types>

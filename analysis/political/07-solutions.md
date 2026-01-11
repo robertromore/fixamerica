@@ -464,3 +464,22 @@ All candidates appear on a single primary ballot. All voters can participate. To
 1. **Multi-member districts** - Federal legislation
 2. **Constitutional amendments** - Campaign finance, electoral college
 3. **Court reform** - When political conditions allow
+
+## Related Reform Areas
+
+The following subtopics contain additional solutions not fully covered above:
+
+| Area | Key Reforms | Details |
+|------|-------------|---------|
+| Election Security | Voting machine standards, cybersecurity, post-election audits | [Election Security](election-security/07-solutions.md) |
+| Media and Information | Platform accountability, local journalism support, media literacy | [Media and Information](media-and-information/07-solutions.md) |
+| Civic Education | Curriculum reform, civic engagement programs, voter education | [Civic Education](civic-education/07-solutions.md) |
+| Political Violence | Election worker protection, de-escalation, threat response | [Political Violence](political-violence/07-solutions.md) |
+| Administrative Reform | Civil service protection, regulatory independence, agency reform | [Administrative Reform](administrative-reform/07-solutions.md) |
+| Government Transparency | FOIA reform, open data, classification reform | [Government Transparency](government-transparency/07-solutions.md) |
+| Ethics and Accountability | Conflicts of interest, financial disclosure, enforcement | [Ethics and Accountability](ethics-accountability/07-solutions.md) |
+| Executive Reform | Emergency powers, appointments, presidential accountability | [Executive Reform](executive-reform/07-solutions.md) |
+| Judicial Reform | Supreme Court ethics, term limits, court expansion | [Judicial Reform](judicial-reform/07-solutions.md) |
+| War Powers | AUMF reform, congressional authorization, military oversight | [War Powers](war-powers/07-solutions.md) |
+| Budget Process | Debt ceiling reform, shutdown prevention, appropriations | [Budget Process](budget-process/07-solutions.md) |
+| Democratic Innovation | Citizens' assemblies, participatory budgeting, deliberative democracy | [Democratic Innovation](democratic-innovation/07-solutions.md) |

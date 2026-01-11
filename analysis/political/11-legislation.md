@@ -98,10 +98,12 @@ Based on feasibility and impact:
 
 | Bill | Purpose | Details |
 |------|---------|---------|
-| National Referendum Act | Federal initiative process | [Direct Democracy](direct-democracy/11-legislation.md) |
+| National Referendum Act* | Federal initiative process | [Direct Democracy](direct-democracy/11-legislation.md) |
 | Civic Education Enhancement | Civics curriculum funding | [Civic Education](civic-education/11-legislation.md) |
 | Media Literacy Act | Combat misinformation | [Media and Information](media-and-information/11-legislation.md) |
 | Local Journalism Preservation | Tax incentives for local news | [Media and Information](media-and-information/11-legislation.md) |
+
+*\*Requires constitutional amendment. A federal initiative process is not authorized under current Article I legislative powers. See Amendment XXX (Federal Initiative Amendment) in [Direct Democracy](direct-democracy/11-legislation.md) for the required constitutional change.*
 
 ### Safety and Security
 

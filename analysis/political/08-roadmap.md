@@ -453,3 +453,22 @@
 - Problems addressed before becoming crises
 - Cross-partisan cooperation normalized
 - Faith in democratic institutions restored
+
+## Related Reform Roadmaps
+
+The following subtopics contain detailed implementation roadmaps for areas not fully covered above:
+
+| Area | Roadmap Focus | Details |
+|------|---------------|---------|
+| Election Security | Voting system upgrades, audit implementation, threat response | [Election Security](election-security/08-roadmap.md) |
+| Media and Information | Platform regulation timeline, local news support phases | [Media and Information](media-and-information/08-roadmap.md) |
+| Civic Education | Curriculum rollout, civic program expansion | [Civic Education](civic-education/08-roadmap.md) |
+| Political Violence | Protection program phasing, prevention infrastructure | [Political Violence](political-violence/08-roadmap.md) |
+| Administrative Reform | Civil service reform sequence, regulatory independence | [Administrative Reform](administrative-reform/08-roadmap.md) |
+| Government Transparency | FOIA modernization, open data implementation | [Government Transparency](government-transparency/08-roadmap.md) |
+| Ethics and Accountability | Ethics enforcement phasing, disclosure requirements | [Ethics and Accountability](ethics-accountability/08-roadmap.md) |
+| Executive Reform | Emergency powers reform, accountability measures | [Executive Reform](executive-reform/08-roadmap.md) |
+| Judicial Reform | Court reform sequencing, ethics implementation | [Judicial Reform](judicial-reform/08-roadmap.md) |
+| War Powers | AUMF replacement timeline, oversight implementation | [War Powers](war-powers/08-roadmap.md) |
+| Budget Process | Debt ceiling reform, shutdown prevention phasing | [Budget Process](budget-process/08-roadmap.md) |
+| Democratic Innovation | Citizens' assembly pilots, participatory budgeting rollout | [Democratic Innovation](democratic-innovation/08-roadmap.md) |

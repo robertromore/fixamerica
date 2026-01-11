@@ -411,3 +411,22 @@
 
 **Start Now**
 The system won't reform itself. Those who benefit from dysfunction will fight to preserve it. Change requires millions of citizens demanding better. Your participation matters. Start where you are, use what you have, do what you can.
+
+## Related Action Guides
+
+The following subtopics contain additional action items for areas not fully covered above:
+
+| Area | Action Focus | Details |
+|------|--------------|---------|
+| Election Security | Advocate for audits, report vulnerabilities, support secure voting | [Election Security](election-security/10-actions.md) |
+| Media and Information | Support local journalism, combat misinformation, media literacy | [Media and Information](media-and-information/10-actions.md) |
+| Civic Education | Volunteer for civic programs, advocate for curriculum reform | [Civic Education](civic-education/10-actions.md) |
+| Political Violence | Support election workers, de-escalation training, threat reporting | [Political Violence](political-violence/10-actions.md) |
+| Administrative Reform | Advocate for civil service protection, agency independence | [Administrative Reform](administrative-reform/10-actions.md) |
+| Government Transparency | FOIA requests, open data advocacy, classification reform | [Government Transparency](government-transparency/10-actions.md) |
+| Ethics and Accountability | Report ethics violations, support enforcement, disclosure advocacy | [Ethics and Accountability](ethics-accountability/10-actions.md) |
+| Executive Reform | Support oversight, emergency powers reform advocacy | [Executive Reform](executive-reform/10-actions.md) |
+| Judicial Reform | Court ethics advocacy, support reform organizations | [Judicial Reform](judicial-reform/10-actions.md) |
+| War Powers | Contact Congress on AUMF, support oversight reform | [War Powers](war-powers/10-actions.md) |
+| Budget Process | Advocate for debt ceiling reform, shutdown prevention | [Budget Process](budget-process/10-actions.md) |
+| Democratic Innovation | Participate in citizens' assemblies, participatory budgeting | [Democratic Innovation](democratic-innovation/10-actions.md) |

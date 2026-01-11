@@ -163,7 +163,7 @@ Expansion of democracy, but also of party machines:
 | 2010 | REDMAP gerrymandering project |
 | 2013 | Shelby County v. Holder guts Voting Rights Act |
 | 2014 | McCutcheon v. FEC |
-| 2018 | Alaska adopts ranked-choice voting (ballot measure) |
+| 2020 | Alaska adopts ranked-choice voting (Ballot Measure 2) |
 | 2020 | Record $14.4 billion spent on elections |
 
 ## Lessons from the Past
