@@ -43,7 +43,7 @@ The 2010 Citizens United decision fundamentally transformed American political f
 
 ```text
 
-## Key Statistics
+## Key Statistics (as of 2024)
 
 ### Money in Federal Elections
 
@@ -62,7 +62,7 @@ The 2010 Citizens United decision fundamentally transformed American political f
 | Dark money | ~$70 million | $1.0+ billion | 1,400%+ |
 | Total outside spending | $338 million | $3.0+ billion | 800%+ |
 
-### Who's Giving
+### Who's Giving (as of 2020)
 
 **Large Donors Dominate**
 
@@ -79,7 +79,7 @@ The 2010 Citizens United decision fundamentally transformed American political f
 - Only about 0.01% are major donors ($10,000+)
 - Elite donors have vastly disproportionate influence
 
-### Fundraising Time Burden
+### Fundraising Time Burden (as of 2024)
 
 **House Members**
 
@@ -300,7 +300,7 @@ Money doesn't guarantee victory, but underfunded candidates rarely win competiti
 - Challenges to dark money
 - City-level experiments
 
-### Public Opinion
+### Public Opinion (as of 2024)
 
 | Issue | Support |
 |-------|---------|
@@ -321,6 +321,42 @@ Bipartisan agreement that money is problem; disagreement on solutions.
 6. **Public wants reform**: Strong majorities support change
 7. **Solutions blocked**: Federal legislation stalled; Supreme Court hostile
 8. **State/local progress**: Some reform success at lower levels
+
+## Sources
+
+### Federal Election Commission (FEC)
+
+- Federal Election Commission. "Campaign Finance Statistics." <https://www.fec.gov/data/>
+- Federal Election Commission. "Disclosure Data Catalog." <https://www.fec.gov/data/browse-data/?tab=bulk-data>
+
+### Center for Responsive Politics / OpenSecrets
+
+- OpenSecrets. "Cost of Election." <https://www.opensecrets.org/elections-overview/cost-of-election>
+- OpenSecrets. "Outside Spending." <https://www.opensecrets.org/outside-spending>
+- OpenSecrets. "Dark Money Basics." <https://www.opensecrets.org/dark-money/basics>
+- OpenSecrets. "Donor Demographics." <https://www.opensecrets.org/elections-overview/donor-demographics>
+
+### Brennan Center for Justice
+
+- Brennan Center for Justice. "The State of Campaign Finance." <https://www.brennancenter.org/issues/reform-money-politics>
+- Brennan Center for Justice. "Small Donor Public Financing." <https://www.brennancenter.org/our-work/research-reports/small-donor-public-financing>
+
+### Campaign Finance Institute
+
+- Campaign Finance Institute. "Historical Data." <https://cfinst.org/>
+- Campaign Finance Institute. "Small Donor Trends." <https://cfinst.org/Press/PReleases/>
+
+### Academic Sources
+
+- Gilens, Martin, and Benjamin I. Page. "Testing Theories of American Politics: Elites, Interest Groups, and Average Citizens." *Perspectives on Politics* 12, no. 3 (2014): 564-581.
+- Lessig, Lawrence. *Republic, Lost: How Money Corrupts Congress—and a Plan to Stop It.* New York: Twelve, 2011.
+
+### Legal Sources
+
+- *Citizens United v. Federal Election Commission*, 558 U.S. 310 (2010)
+- *Buckley v. Valeo*, 424 U.S. 1 (1976)
+- *McCutcheon v. FEC*, 572 U.S. 185 (2014)
+- *SpeechNow.org v. FEC*, 599 F.3d 686 (D.C. Cir. 2010)
 
 ## Related Topics
 

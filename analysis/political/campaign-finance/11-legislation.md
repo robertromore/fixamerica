@@ -275,9 +275,9 @@ SEC. 3. MY VOICE VOUCHER PILOT PROGRAM.
 
 (c) ELIGIBLE INDIVIDUALS.—An individual is eligible if such
     individual is—
-    (1) a United States citizen or lawful permanent resident;
+    (1) a United States citizen;
     (2) 18 years of age or older; and
-    (3) registered to vote.
+    (3) registered to vote or eligible to register to vote.
 
 (d) PARTICIPATING CANDIDATES.—A candidate may participate if
     the candidate—

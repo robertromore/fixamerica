@@ -62,8 +62,8 @@ The fundamental legal framework treats political spending as protected speech:
 
 | Principle | Court Ruling | Effect |
 |-----------|--------------|--------|
-| Money = Speech | Buckley v. Valeo (1976) | Spending limits unconstitutional |
-| Corporate personhood | Citizens United (2010) | Corporations can spend unlimited amounts |
+| Money = Speech | Buckley v. Valeo (1976) | Independent expenditure limits unconstitutional |
+| Corporate independent expenditures | Citizens United (2010) | Corporations can spend unlimited amounts independently |
 | No Super PAC limits | SpeechNow.org v. FEC (2010) | Unlimited contributions to independent groups |
 | No aggregate limits | McCutcheon v. FEC (2014) | Can donate to unlimited number of candidates |
 
@@ -92,17 +92,17 @@ The fundamental legal framework treats political spending as protected speech:
 
 ## By the Numbers
 
-### Scale of Money in Politics
+### Scale of Money in Politics (as of 2024)
 
 | Metric | Amount | Trend |
 |--------|--------|-------|
 | 2020 presidential race | $14+ billion | Record spending |
-| Average winning House race | $2+ million | Increasing |
-| Average winning Senate race | $15+ million | Increasing |
+| Average winning House race (2022) | $2+ million | Increasing |
+| Average winning Senate race (2022) | $15+ million | Increasing |
 | Super PAC spending (2020) | $2+ billion | Up 1000%+ since 2010 |
 | Dark money (2020) | $1+ billion | Largely untraceable |
 
-### Time Spent Fundraising
+### Time Spent Fundraising (as of 2024)
 
 | Position | Call Time Expected | % of Work Week |
 |----------|-------------------|----------------|
@@ -110,7 +110,7 @@ The fundamental legal framework treats political spending as protected speech:
 | Senator | 2-4 hours/day | 20-40% |
 | Party pressure | Constant | Pervasive |
 
-### Donor Demographics
+### Donor Demographics (as of 2020)
 
 | Donor Type | Share of Contributions |
 |------------|------------------------|
@@ -142,8 +142,8 @@ The fundamental legal framework treats political spending as protected speech:
 
 ### Key Legal Principles
 
-- **Corruption**: Only "quid pro quo" corruption (explicit exchange) recognized by courts
-- **Appearance of corruption**: Once a basis for regulation; now largely dismissed
+- **Corruption (contributions)**: Quid pro quo corruption and its appearance justify contribution limits
+- **Corruption (independent expenditures)**: Only quid pro quo corruption recognized; appearance rejected in Citizens United
 - **Independence**: If spending isn't "coordinated," it's considered independent and unlimited
 - **Disclosure**: Generally upheld, but with significant loopholes
 

@@ -81,9 +81,8 @@ Campaign finance became a major problem as industrialization created vast privat
 **The Law**
 
 - Required detailed disclosure of contributions and spending
-- Set limits on media advertising
-- Created voluntary public financing for presidential campaigns
-- Limited self-funding by candidates
+- Set limits on media advertising spending
+- Laid groundwork for public financing (presidential public financing established in 1974)
 
 ### 1974: Post-Watergate Reforms
 
@@ -97,9 +96,11 @@ Campaign finance became a major problem as industrialization created vast privat
 
 - Created Federal Election Commission (FEC)
 - Set contribution limits ($1,000/individual to candidate)
-- Set spending limits for candidates
+- Set spending limits for candidates (including self-funding limits)
 - Established matching funds for presidential primaries
 - Required robust disclosure
+
+*Note: Expenditure limits including self-funding were struck down in Buckley v. Valeo (1976).*
 
 **This was the high-water mark of campaign finance regulation.**
 

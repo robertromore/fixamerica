@@ -9,18 +9,18 @@ The most fundamental cause of unlimited money in politics is the Supreme Court's
 **The Doctrine**
 
 - Political spending is political speech
-- Corporations have First Amendment rights
-- Only "quid pro quo" corruption justifies limits
-- "Appearance of corruption" is not a valid concern
+- Corporations have First Amendment rights to make independent expenditures
+- For contributions: quid pro quo corruption and its appearance justify limits
+- For independent expenditures: only quid pro quo corruption recognized (appearance rejected in Citizens United)
 
 **Why It's So Powerful**
 This isn't a statute that can be changed by Congress—it's constitutional interpretation that only the Court or an amendment can overturn.
 
 | Doctrine | Effect |
 |----------|--------|
-| Money = Speech | Spending limits unconstitutional |
-| Corporate personhood | Corporate political spending protected |
-| Narrow corruption definition | Most influence isn't legally "corruption" |
+| Money = Speech | Independent expenditure limits unconstitutional |
+| Corporate independent expenditures | Corporate independent spending protected (Citizens United) |
+| Narrow corruption definition | For independent spending, only quid pro quo corruption recognized |
 | Independence fiction | "Uncoordinated" spending is unlimited |
 
 ### The "Independence" Fiction
