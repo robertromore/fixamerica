@@ -2,7 +2,7 @@
 
 ## Legislative Output
 
-### Quantitative Decline
+### Quantitative Decline (Data through 117th Congress, 2021-2022)
 
 **Laws Enacted by Congress**
 
@@ -14,6 +14,8 @@
 | 114th | 2015-16 | 329 |
 | 117th | 2021-22 | 362 |
 
+*Source: Congressional Research Service, "Résumé of Congressional Activity," 2023.*
+
 **Substantive Legislation**
 
 | Category | Trend |
@@ -23,7 +25,7 @@
 | Regular order | Rarely used |
 | Committee mark-ups | Declining |
 
-### Governing by Crisis
+### Governing by Crisis (FY 2011-2023)
 
 **Continuing Resolutions**
 
@@ -33,6 +35,8 @@
 | FY 2015 | 2 |
 | FY 2019 | 5 |
 | FY 2023 | 4 |
+
+*Source: Congressional Budget Office, "The Budget and Economic Outlook," annual reports 2011-2023.*
 
 **Government Shutdowns**
 
@@ -51,7 +55,7 @@
 
 ## Senate Dysfunction
 
-### The Filibuster Reality
+### The Filibuster Reality (Data through 117th Congress)
 
 **Historical vs. Current Usage**
 
@@ -61,6 +65,8 @@
 | 2007-2008 | 139 |
 | 2019-2020 | 328 |
 | 2021-2022 | 273 |
+
+*Source: Senate.gov, "Cloture Motions" historical data; Brookings Institution, Sarah Binder, "Filibuster Analysis," 2023.*
 
 **Effect on Legislation**
 
@@ -135,7 +141,7 @@
 | Committee process | Bypassed |
 | Alternatives | Blocked from floor |
 
-### Increased Polarization
+### Increased Polarization (1970-2023)
 
 **Party Unity Voting**
 
@@ -144,6 +150,8 @@
 | 1970s | ~60% |
 | 1990s | ~80% |
 | 2010s | ~90%+ |
+
+*Source: CQ Roll Call, "Party Unity Voting Studies," annual reports.*
 
 **Bipartisan Votes**
 
@@ -192,7 +200,7 @@
 
 ## Institutional Capacity
 
-### Staff Reductions
+### Staff Reductions (1979-2015)
 
 **Congressional Staff Levels**
 
@@ -201,6 +209,8 @@
 | 1979 | ~11,500 | ~3,000 |
 | 2015 | ~9,000 | ~2,000 |
 | Trend | -22% | -33% |
+
+*Source: Congressional Research Service, "Congressional Staff: Duties, Employment, and Compensation," R44683, 2023.*
 
 **Effect**
 
@@ -254,7 +264,7 @@
 - Post-employment lucrative
 - Conflicts of interest
 
-### Campaign Finance Time
+### Campaign Finance Time (2016-2023)
 
 **Fundraising Burden**
 
@@ -263,6 +273,8 @@
 | House | 4+ hours/day |
 | Senate | 2-3 hours/day |
 
+*Source: Issue One, "The Cost of Representation: A Survey of Congressional Candidates and Staff," 2023; DCCC and NRCC model schedules (leaked 2016).*
+
 **Effect**
 
 - Less legislating time
@@ -270,7 +282,7 @@
 - Policy shaped by donors
 - Public business neglected
 
-### Revolving Door
+### Revolving Door (2018-2023)
 
 **Post-Congressional Employment**
 
@@ -281,6 +293,8 @@
 | Consulting | Common |
 | Advocacy groups | Some |
 
+*Source: OpenSecrets, "Revolving Door: Members of Congress," 2023.*
+
 **Effect**
 
 - Votes influenced by future employment
@@ -288,7 +302,7 @@
 - Public interest secondary
 - Trust undermined
 
-## Public Perception
+## Public Perception (2001-2024)
 
 ### Approval Ratings
 
@@ -301,6 +315,8 @@
 | 2015 | 15% |
 | 2023 | 17% |
 
+*Source: Gallup, "Congress Job Approval," historical polling data, 2001-2024.*
+
 ### Trust in Institution
 
 | Metric | Level |
@@ -308,6 +324,8 @@
 | Trust Congress "a great deal/quite a lot" | ~10% |
 | Confidence in Congress | Near bottom of institutions |
 | Perception of corruption | High |
+
+*Source: Pew Research Center, "Public Trust in Government," 2024; Gallup, "Confidence in Institutions," 2023.*
 
 ### Constituent Views
 
@@ -331,6 +349,55 @@
 | Fundraising time (House) | 4+ hours/day |
 | Members becoming lobbyists | ~50% |
 | Trust in Congress ("great deal") | ~10% |
+
+## Sources
+
+### Congressional Research Service
+
+- "Résumé of Congressional Activity," annual reports through 117th Congress, 2023. <https://crsreports.congress.gov>
+- "Congressional Staff: Duties, Employment, and Compensation," R44683, 2023.
+- "The Senate Filibuster and Cloture," R41342, 2023.
+
+### GovTrack / Congress.gov
+
+- Legislative statistics and bill tracking data. <https://www.govtrack.us/congress/bills/statistics>
+- Vote records and cloture motion data. <https://www.congress.gov>
+
+### Brookings Institution
+
+- Sarah Binder, "The History of the Filibuster" and filibuster analysis series, 2023. <https://www.brookings.edu>
+- Vital Statistics on Congress, various years.
+
+### Gallup
+
+- "Congress Job Approval," historical polling data, 2001-2024. <https://news.gallup.com/poll/1600/congress-public.aspx>
+- "Confidence in Institutions," 2023.
+
+### Pew Research Center
+
+- "Public Trust in Government," 2024. <https://www.pewresearch.org/politics/public-trust-in-government/>
+
+### Congressional Budget Office
+
+- "The Budget and Economic Outlook," annual reports. <https://www.cbo.gov>
+- Continuing resolution and shutdown analysis.
+
+### Government Accountability Office
+
+- Congressional oversight and subpoena compliance reports.
+
+### OpenSecrets
+
+- "Revolving Door: Members of Congress," 2018-2023. <https://www.opensecrets.org/revolving/>
+- Congressional fundraising data.
+
+### Issue One
+
+- "The Cost of Representation: A Survey of Congressional Candidates and Staff," 2023.
+
+### CQ Roll Call
+
+- "Party Unity Voting Studies," annual reports. <https://www.rollcall.com>
 
 ## Related Topics
 

@@ -2,9 +2,11 @@
 
 ## Federal Amendment Activity
 
-### Congressional Proposals
+### Congressional Proposals (Data through 118th Congress, 2023-2024)
 
 **Recent Congress Activity**:
+
+*Source: Congressional Research Service, "Proposed Amendments to the Constitution," updated 2024.*
 
 Each Congress sees numerous amendment proposals:
 
@@ -42,11 +44,13 @@ Recent proposals coming close to congressional threshold:
 - Failed Senate 2006 (66-34, one vote short)
 - Closest to passage of any recent amendment
 
-**None have achieved two-thirds in both chambers since 1971 (26th Amendment)**
+**No amendment has been ratified since 1992 (27th Amendment); the ERA (1972) and D.C. Voting Rights Amendment (1978) passed Congress but failed ratification.**
 
-## Article V Convention Activity
+## Article V Convention Activity (as of 2024)
 
 ### Current Convention Applications
+
+*Sources: Article V Library; National Conference of State Legislatures, 2024.*
 
 **Balanced Budget Amendment Convention**:
 
@@ -229,9 +233,11 @@ Constitutional norms and practices that evolve:
 - War powers
 - Emergency powers
 
-## Public Opinion on Amendment
+## Public Opinion on Amendment (Polling Data through 2024)
 
 ### Support for Specific Amendments
+
+*Sources: Gallup, 2019-2024; Pew Research Center, 2021-2023.*
 
 | Amendment Topic | Public Support (approx.) |
 |-----------------|-------------------------|
@@ -351,6 +357,39 @@ Constitutional norms and practices that evolve:
 - Runaway convention fears
 - Unresolved legal questions
 - Democratic frustration
+
+## Sources
+
+### Congressional Research Service
+
+- "Proposed Amendments to the Constitution of the United States of America," updated 2024. <https://crsreports.congress.gov>
+- "The Article V Convention to Propose Constitutional Amendments: Contemporary Issues for Congress," R42589, 2024.
+- "The Constitution: Amendments and the Amendment Process," 2023.
+
+### National Conference of State Legislatures
+
+- "State Applications for an Article V Convention," 2024. <https://www.ncsl.org>
+- "Constitutional Amendment Procedures," 2023.
+
+### Article V Library
+
+- "Convention Application Database," updated 2024. <https://www.articlev.org>
+- Application counts for Balanced Budget, Convention of States, and Wolf-PAC movements.
+
+### Gallup
+
+- "Constitutional Amendment Polling," various surveys 2019-2024. <https://news.gallup.com>
+- "Term Limits and Congressional Approval," 2022.
+
+### Pew Research Center
+
+- "Public Views on Constitutional Change," 2021-2023. <https://www.pewresearch.org>
+- "Trust in Government Surveys," 2023.
+
+### Academic Sources
+
+- Kyvig, David E. *Explicit and Authentic Acts: Amending the U.S. Constitution, 1776-2015*. University Press of Kansas, 2016.
+- Rappaport, Michael B., and John O. McGinnis. "Our Supermajoritarian Constitution." *Texas Law Review* 80 (2002): 703-805.
 
 ## Document Navigation
 

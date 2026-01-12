@@ -23,11 +23,11 @@ The single most important cause of two-party dominance is **Duverger's Law**—t
    - Barriers to entry become insurmountable
 
 **Why It's So Powerful**
-Duverger's Law isn't a suggestion—it's nearly deterministic:
+Duverger's Law is one of the most robust findings in political science (Duverger 1954; Riker 1982; Cox 1997):
 
-- Every country using plurality voting has two-party dominance
-- No country has sustained multi-party competition under plurality voting
-- The U.S. is not exceptional; it's typical
+- Plurality voting *tends toward* two-party dominance over time
+- While some countries (UK, Canada, India) sustain third parties under plurality voting, they typically do so through regional concentration or specific historical party systems
+- The U.S. exemplifies the pattern: no nationally competitive third party since 1856
 
 ### Single-Member Districts
 
@@ -44,7 +44,7 @@ Multi-member districts change everything:
 - District elects 3-5 representatives
 - Seats allocated proportionally
 - Minorities (political, not just racial) get representation
-- Eliminates gerrymandering (can't carve up larger districts)
+- Substantially reduces gerrymandering (can't carve up larger districts)
 
 **Why We Have Single-Member Districts**
 

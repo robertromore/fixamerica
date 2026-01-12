@@ -22,7 +22,6 @@ The amendment process fundamentally shapes American government:
 
 - Two-thirds vote in both House and Senate
 - Used for all 27 existing amendments
-- Congress can propose with simple majority but needs supermajority to propose amendment
 - Most common and predictable method
 
 **Convention Proposal**:

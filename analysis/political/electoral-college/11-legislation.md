@@ -105,6 +105,18 @@ by appropriate legislation.
 
 **Purpose**: Award electoral votes to national popular vote winner without constitutional amendment.
 
+**Note on Placeholders:**
+
+This model legislation uses bracketed placeholders that states should customize:
+
+- `[State]` - Insert state name
+- `[X]` - Insert appropriate numeric value based on state context
+- `[Secretary of State/Chief Election Official]` - Insert appropriate state official title
+- `[Governor]` - Insert appropriate executive title
+- `[date]` - Insert effective date
+
+Where possible, consider relative thresholds (e.g., percentage thresholds rather than fixed numbers) to account for state differences.
+
 **Model State Legislation**:
 
 ```text

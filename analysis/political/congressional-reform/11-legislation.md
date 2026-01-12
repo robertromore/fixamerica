@@ -30,9 +30,17 @@ STANDING RULE XXII (AMENDED)
        on the underlying matter.
    (c) The majority may move to table any non-germane amendments.
 
-3. CLOTURE VOTE. At any time after 30 hours of post-cloture debate,
-   the Majority Leader may demand a vote on cloture, which shall
-   require three-fifths of Senators duly chosen and sworn.
+3. CLOTURE VOTE. At any time after 30 hours of continuous debate
+   following the filing of a cloture motion, the Majority Leader may
+   demand a vote on cloture, which shall require three-fifths of
+   Senators duly chosen and sworn.
+
+3A. POST-CLOTURE DEBATE. If cloture is invoked under section 3 or 4:
+   (a) Debate shall be limited to 30 hours, divided equally between
+       proponents and opponents;
+   (b) Only germane amendments may be considered;
+   (c) Upon expiration of debate time, the Presiding Officer shall
+       put the question on final passage.
 
 4. DECLINING THRESHOLD. If cloture fails:
    (a) A second cloture vote may be held after 48 additional hours,
@@ -53,6 +61,8 @@ STANDING RULE XXII (AMENDED)
 
 - **Section 2(a)**: Requires actual continuous debate—the talking filibuster.
 - **Section 2(b)**: If opponents stop talking, the matter proceeds to a vote.
+- **Section 3**: Cloture vote occurs after 30 hours of continuous pre-cloture debate.
+- **Section 3A**: Post-cloture debate capped at 30 hours split between sides, ensuring timely final vote.
 - **Section 4**: Declining threshold ensures eventual majority rule while giving minority time to make their case.
 - **Section 5(c)**: Carve-out for voting rights, following precedent of existing carve-outs.
 

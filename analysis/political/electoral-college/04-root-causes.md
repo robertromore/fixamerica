@@ -36,7 +36,7 @@ The Electoral College emerged from unresolved tensions at the Convention:
 - Demagogues could manipulate masses
 - Electors would be more informed, deliberate
 
-**Madison's View** (Federalist 68 often attributed to Hamilton):
+**Hamilton's View** (Federalist 68):
 
 - Electors as "men most capable of analyzing the qualities"
 - Buffer between people and presidency

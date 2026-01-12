@@ -68,7 +68,7 @@
 
 ### Faithless Elector Laws
 
-**Current Status** (post-*Chiafalo v. Washington*, 2020):
+**Current Status** (as of 2024, post-*Chiafalo v. Washington*, 2020):
 
 States may enforce elector pledges through:
 
@@ -79,11 +79,15 @@ States may enforce elector pledges through:
 | Vote cancellation | 5 states |
 | No enforcement | 17 states |
 
-**Historical Faithless Electors**:
+*Source: FairVote, NCSL, 2024.*
+
+**Historical Faithless Electors** (through 2020):
 
 - 165 faithless electors in U.S. history
 - 2016: 10 attempted (7 successful) - most in modern era
 - Never changed outcome
+
+*Source: FairVote, National Archives.*
 
 ### Contingent Election
 
@@ -157,8 +161,9 @@ If no candidate receives 270 electoral votes:
 - Member states agree to award electoral votes to national popular vote winner
 - Takes effect when states totaling 270+ EVs join
 - Effectively creates national popular vote without amendment
+- Uses states' existing constitutional authority over elector selection
 
-**Current Status** (as of 2024):
+**Current Status** (as of 2024, post-2020 apportionment):
 
 | Status | States | Electoral Votes |
 |--------|--------|-----------------|
@@ -167,7 +172,9 @@ If no candidate receives 270 electoral votes:
 | Active legislation | 10+ | ~70 |
 | Needed for activation | - | 61 more |
 
-**Member States**:
+*Source: National Popular Vote Inc., 2024.*
+
+**Member States** (as of 2024):
 
 | State | EVs | Year | State | EVs | Year |
 |-------|-----|------|-------|-----|------|
@@ -180,6 +187,8 @@ If no candidate receives 270 electoral votes:
 | DC | 3 | 2010 | New Mexico | 5 | 2019 |
 | Vermont | 3 | 2011 | Oregon | 8 | 2019 |
 | Minnesota | 10 | 2023 | Maine | 4 | 2024 |
+
+*Source: National Popular Vote Inc., 2024.*
 
 ### Constitutional Amendment Efforts
 
@@ -249,7 +258,7 @@ If no candidate receives 270 electoral votes:
 - Republican-controlled states generally resistant
 - Some bipartisan support in competitive states
 
-## Public Opinion
+## Public Opinion (as of 2023)
 
 ### Support for National Popular Vote
 
@@ -259,13 +268,17 @@ If no candidate receives 270 electoral votes:
 | Pew | 58% | 40% | 2020 |
 | AP-NORC | 55% | 43% | 2023 |
 
-**Partisan Breakdown**:
+*Source: Gallup, Pew Research Center, AP-NORC, 2020-2023.*
+
+**Partisan Breakdown** (as of 2023):
 
 | Party | Support NPV | Oppose NPV |
 |-------|-------------|------------|
 | Democrats | 80-89% | 10-15% |
 | Independents | 55-65% | 30-40% |
 | Republicans | 30-45% | 50-65% |
+
+*Source: Gallup, Pew Research Center, 2020-2023.*
 
 ### Arguments in Public Discourse
 
@@ -282,6 +295,34 @@ If no candidate receives 270 electoral votes:
 - "Prevents dominance by large population centers"
 - "Founders' wisdom shouldn't be discarded"
 - "Creates national recount chaos"
+
+## Sources
+
+### Electoral College Structure
+
+- National Archives. "Electoral College." <https://www.archives.gov/electoral-college>
+- Congressional Research Service. "The Electoral College: A 2024 Perspective."
+
+### NPV Compact
+
+- National Popular Vote Inc. "Status of National Popular Vote Bill in Each State," 2024. <https://www.nationalpopularvote.com/state-status>
+
+### Electoral History and Data
+
+- FairVote. "Faithless Electors." <https://fairvote.org/resources/faithless-electors/>
+- 270toWin. "Historical Presidential Elections." <https://www.270towin.com/historical-presidential-elections/>
+
+### Public Opinion
+
+- Gallup. "Americans' Support for the Electoral College," 2020.
+- Pew Research Center. "National Popular Vote," 2020.
+- AP-NORC. "Public Attitudes on Electoral College," 2023.
+
+### Legal and Reform
+
+- NCSL. "Faithless Elector State Laws," 2024.
+- U.S. Supreme Court. *Chiafalo v. Washington*, 140 S. Ct. 2316 (2020).
+- U.S. Congress. Electoral Count Reform Act of 2022 (P.L. 117-328).
 
 ## Document Navigation
 

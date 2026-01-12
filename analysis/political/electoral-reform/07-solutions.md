@@ -35,9 +35,9 @@ Arrow's Impossibility Theorem proves no voting system can satisfy all desirable 
 
 **Advantages**
 
-- ✅ Eliminates spoiler effect
+- ✅ Largely eliminates spoiler effect
 - ✅ Allows sincere voting (rank true preference first)
-- ✅ Produces majority winners
+- ✅ Produces majority winners (among final-round active ballots)
 - ✅ Reduces negative campaigning (seek 2nd-choice votes)
 - ✅ Proven in U.S. contexts (Maine, Alaska, 50+ cities)
 
@@ -46,6 +46,7 @@ Arrow's Impossibility Theorem proves no voting system can satisfy all desirable 
 - ❌ Slightly more complex than plurality
 - ❌ Doesn't ensure proportional representation (single-winner)
 - ❌ Rare cases of "non-monotonicity" (voting for candidate hurts them)
+- ❌ Ballot exhaustion: Winner may not have majority of *all original ballots* if many voters don't rank enough candidates
 
 **Best For**
 
@@ -57,10 +58,12 @@ Arrow's Impossibility Theorem proves no voting system can satisfy all desirable 
 
 | Jurisdiction | Status |
 |--------------|--------|
-| Maine | Statewide (state + federal) |
+| Maine | Federal elections + state primaries* |
 | Alaska | Statewide (with top-four primary) |
 | New York City | Local primaries |
 | 50+ cities | Various local elections |
+
+*\*Maine uses RCV for all federal races (U.S. House, Senate, and President) and state primaries. State general elections for governor and legislature use plurality voting due to a Maine Supreme Judicial Court ruling that RCV violates state constitutional requirements for plurality-determined offices.*
 
 ### Tier 2: Approval Voting
 
@@ -155,7 +158,7 @@ Arrow's Impossibility Theorem proves no voting system can satisfy all desirable 
 
 - ✅ Most representative outcomes
 - ✅ Minority viewpoints get representation
-- ✅ Eliminates gerrymandering (larger districts)
+- ✅ Substantially reduces gerrymandering (larger districts)
 - ✅ Enables multi-party democracy
 
 **Disadvantages**
@@ -188,7 +191,7 @@ Arrow's Impossibility Theorem proves no voting system can satisfy all desirable 
 
 **Why It Matters**
 
-- Eliminates gerrymandering (can't carve up larger districts)
+- Substantially reduces gerrymandering (can't carve up larger districts)
 - Enables proportional representation
 - Gives voice to minority viewpoints
 - Works with RCV (STV) or party-list
@@ -311,7 +314,7 @@ Arrow's Impossibility Theorem proves no voting system can satisfy all desirable 
 
 | Jurisdiction | System | Results |
 |--------------|--------|---------|
-| **Maine** | RCV (statewide) | Multiple candidates, majority winners |
+| **Maine** | RCV (federal + primaries) | Multiple candidates, majority winners |
 | **Alaska** | Top-four + RCV | Moderate winners, cross-partisan appeal |
 | **San Francisco** | RCV (local) | 20+ years, high voter satisfaction |
 | **Cambridge, MA** | STV (city council) | Proportional representation since 1941 |
@@ -386,14 +389,14 @@ The ideal reform package for maximum impact:
 1. **Open primaries** (all candidates, all voters)
 2. **RCV general election** (rank choices)
 3. **Multi-member districts** (where possible)
-4. **Independent redistricting** (eliminate gerrymandering)
+4. **Independent redistricting** (reduce gerrymandering)
 
 See [Primary Reform](../primary-reform/01-overview.md) and [Redistricting](../redistricting/01-overview.md) for complementary reforms.
 
 ## Related Topics
 
 - [Primary Reform](../primary-reform/01-overview.md) - Open primaries work best with RCV
-- [Redistricting](../redistricting/01-overview.md) - Multi-member districts eliminate gerrymandering
+- [Redistricting](../redistricting/01-overview.md) - Multi-member districts reduce gerrymandering
 - [Party Systems](../party-systems/01-overview.md) - Electoral systems determine party competition
 - [Political Reform: Solutions](../07-solutions.md) - Comprehensive reform package
 

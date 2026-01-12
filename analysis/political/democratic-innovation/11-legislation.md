@@ -409,6 +409,21 @@ SEC. 2. GRANT PROGRAM.
 
 ## State Model Legislation
 
+**Note on Placeholders:**
+
+This model legislation uses bracketed placeholders that states should customize:
+
+- `[State]` - Insert state name
+- `[X]` - Insert appropriate numeric value based on state context (e.g., petition signature thresholds)
+- `[$amount]` - Insert dollar amounts appropriate for state cost of living and budget
+- `[date]` - Insert effective date
+- `[House/Assembly]` - Insert chamber name per state constitution
+- `[agency]` - Insert relevant state agency name
+
+Where possible, consider relative thresholds rather than fixed numbers to account for population differences (e.g., "0.5% of eligible voters" or "5% of the municipal budget" rather than fixed dollar amounts or signature counts).
+
+---
+
 ### Citizens' Assembly Act (Model)
 
 **Purpose**: Model legislation for states to establish citizens' assemblies.

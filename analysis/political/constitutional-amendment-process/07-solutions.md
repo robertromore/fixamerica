@@ -185,7 +185,7 @@ No clear rules on ratification timeline, application expiration, or rescission.
 
 - Deadlines in amendment text (not just preamble) are binding
 - Absent deadline, 10-year limit applies
-- Congress may extend deadline before expiration by simple majority
+- Congress may extend deadline before expiration by two-thirds vote of each chamber
 
 **Application Expiration**:
 

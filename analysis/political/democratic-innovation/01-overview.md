@@ -19,7 +19,7 @@ Traditional representative democracy faces a fundamental tension:
 | Majority rule produces good policy | Majorities can be uninformed or manipulated |
 | Competition produces accountability | Safe seats and polarization reduce accountability |
 
-### The Legitimacy Crisis
+### The Legitimacy Crisis (2024 Polling Data)
 
 | Metric | Value |
 |--------|-------|
@@ -27,6 +27,8 @@ Traditional representative democracy faces a fundamental tension:
 | Belief government serves "people like me" | 19% |
 | Satisfaction with democracy | 38% |
 | Belief in system responsiveness | 25% |
+
+*Source: Pew Research Center, 2024; Gallup, 2024.*
 
 Democratic innovations offer pathways to rebuild trust by giving citizens genuine voice in governance.
 
@@ -88,11 +90,13 @@ Direct citizen decision-making over allocation of public funds.
 
 **Origins**: Porto Alegre, Brazil (1989)
 
-**Spread**:
+**Spread** (as of 2024):
 
 - 3,000+ cities worldwide
-- NYC largest U.S. program ($40M+ annually)
+- NYC largest U.S. program ($40M+ annually, FY 2023 allocation)
 - Expanding from local to state level
+
+*Source: Participatory Budgeting Project, 2023.*
 
 ### Liquid Democracy
 
@@ -142,13 +146,15 @@ Online platforms enabling citizen participation:
 
 ## The American Context
 
-### Current State
+### Current State (as of 2024)
 
 Democratic innovation in the United States lags other democracies:
 
 - **Local**: Participatory budgeting in ~30 cities
 - **State**: Minimal adoption; few pilots
 - **Federal**: No formal mechanisms beyond traditional hearings
+
+*Source: Participatory Budgeting Project; National Civic League, 2024.*
 
 ### Barriers to Adoption
 

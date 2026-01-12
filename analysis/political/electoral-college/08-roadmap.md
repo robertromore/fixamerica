@@ -31,13 +31,13 @@ Electoral College reform faces a fundamental obstacle: those who benefit from th
 
 ## Phase 1: Build to 270 (Current - Year 5)
 
-### Current Position
+### Current Position (as of 2024)
 
-**Secured**: 209 electoral votes (17 states + DC)
+**Secured**: 209 electoral votes (17 states + DC) *Source: National Popular Vote Inc., 2024.*
 
 **Needed**: 61 more electoral votes
 
-### Priority States for NPV
+### Priority States for NPV (as of 2024)
 
 **Tier 1 - Most Viable** (30 EVs):
 

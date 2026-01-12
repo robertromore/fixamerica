@@ -1,10 +1,10 @@
 # Direct Democracy: Current State
 
-## State Ballot Initiative Systems
+## State Ballot Initiative Systems (as of 2024)
 
 ### Initiative States
 
-Twenty-four states allow citizen-initiated ballot measures:
+Twenty-four states allow citizen-initiated ballot measures. Examples of major initiative states:
 
 | State | Initiative Type | Signature Requirement | Recent Notable Measures |
 |-------|----------------|----------------------|------------------------|
@@ -18,6 +18,8 @@ Twenty-four states allow citizen-initiated ballot measures:
 | Ohio | Direct & Indirect | 3% (statute), varies (constitutional) | Issue 1 (abortion rights), marijuana |
 | Montana | Direct | 5% (statute), 10% (constitutional) | Medicaid expansion, marijuana |
 | Nevada | Direct | 10% across 75% of assembly districts | Background checks, minimum wage |
+
+*Table shows 10 major initiative states. See NCSL for the complete list of all 24 states.*
 
 ### Initiative Types
 
@@ -71,7 +73,7 @@ All 50 states allow legislatures to refer measures to voters:
 
 ### Popular Referendum (Veto Referendum)
 
-Twenty-three states allow citizens to challenge enacted laws:
+Twenty-three states allow citizens to challenge enacted laws (as of 2024):
 
 | State | Signature Requirement | Time Limit | Recent Use |
 |-------|---------------------|------------|------------|
@@ -92,7 +94,7 @@ Twenty-three states allow citizens to challenge enacted laws:
 
 ### State-Level Recall
 
-Nineteen states allow recall of state officials:
+Nineteen states allow recall of state officials (as of 2024):
 
 | State | Signature Requirement | Grounds Required | Recent Use |
 |-------|---------------------|------------------|------------|
@@ -127,21 +129,23 @@ More widespread than state-level:
 | 2012 | Governor Walker | Wisconsin | Survived (53%-47%) |
 | 2011 | Senate President Pearce | Arizona | Recalled (first legislator in AZ history) |
 
-## Participatory Budgeting
+## Participatory Budgeting (as of 2024)
 
 ### Current Implementation
 
 **United States**:
 
-- Active in 400+ municipalities
+- Active in 400+ municipalities (as of 2024)
 - $300+ million allocated through PB annually
 - Largest programs: NYC, Chicago, Boston, Seattle
+
+*Source: Participatory Budgeting Project, 2023.*
 
 **New York City** (largest U.S. program):
 
 - Started 2011 in 4 council districts
 - Expanded to 35 districts by 2020
-- $35 million allocated annually
+- $35 million allocated annually (FY 2023)
 - 100,000+ participants per cycle
 
 **Chicago**:
@@ -178,7 +182,7 @@ More widespread than state-level:
 
 **Ireland's Constitutional Convention and Citizens' Assembly**:
 
-- 2012-2014: Constitutional Convention (66 citizens + 33 politicians)
+- 2012-2014: Constitutional Convention (100 members: 66 citizens + 33 politicians + 1 independent chair)
 - 2016-2018: Citizens' Assembly (99 randomly selected citizens)
 - Recommended: Same-sex marriage (passed 62%)
 - Recommended: Abortion legalization (passed 66%)
@@ -264,11 +268,11 @@ More widespread than state-level:
 - Not officially connected to government
 - Influences agenda-setting
 
-## National Popular Vote Interstate Compact
+## National Popular Vote Interstate Compact (as of 2024)
 
 ### Current Status
 
-States/jurisdictions in the compact: **17 + DC = 209 electoral votes**
+States/jurisdictions in the compact (as of 2024): **17 + DC = 209 electoral votes**
 
 | State | Electoral Votes | Year Joined |
 |-------|----------------|-------------|
@@ -292,6 +296,8 @@ States/jurisdictions in the compact: **17 + DC = 209 electoral votes**
 | Maine | 4 | 2024 |
 
 **Needed to activate**: 270 electoral votes (61 more needed)
+
+*Source: National Popular Vote Interstate Compact, 2024.*
 
 ### Recent Activity
 
@@ -330,6 +336,34 @@ States/jurisdictions in the compact: **17 + DC = 209 electoral votes**
 - Off-cycle measures: Much lower, less representative
 - Demographic skews in initiative elections
 - Absentee/mail voting impact
+
+## Sources
+
+### Initiative, Referendum, and Recall
+
+- National Conference of State Legislatures (NCSL). "Initiative and Referendum States," 2024. <https://www.ncsl.org/elections-and-campaigns/initiative-and-referendum-states>
+- NCSL. "Recall of State Officials," 2024. <https://www.ncsl.org/elections-and-campaigns/recall-of-state-officials>
+- Ballotpedia. "States with initiative or referendum," 2024. <https://ballotpedia.org/States_with_initiative_or_referendum>
+
+### Participatory Budgeting
+
+- Participatory Budgeting Project. "Annual Report 2023." <https://www.participatorybudgeting.org/>
+- NYC Civic Engagement Commission. "Participatory Budgeting," 2024. <https://www.nyc.gov/site/civicengagement/participate/participatory-budgeting.page>
+
+### National Popular Vote
+
+- National Popular Vote Interstate Compact. "Status of National Popular Vote Bill in Each State," 2024. <https://www.nationalpopularvote.com/state-status>
+
+### Democratic Innovation
+
+- OECD. "Innovative Citizen Participation and New Democratic Institutions: Catching the Deliberative Wave." Paris: OECD Publishing, 2020.
+- Citizens' Assembly (Ireland). Reports 2016-2021. <https://www.citizensassembly.ie/>
+
+### Trust and Engagement
+
+- Pew Research Center. "Public Trust in Government: 1958-2024," July 2024.
+- Gallup. "Trust in Government Surveys," 2024.
+- U.S. Census Bureau. "Voting and Registration in the Election," 2020, 2022.
 
 ## Document Navigation
 

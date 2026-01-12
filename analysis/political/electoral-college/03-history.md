@@ -363,7 +363,7 @@ The Convention faced a fundamental question: How should the president be selecte
 - Raised objection threshold
 - Reinforced state certification authority
 
-### NPV Compact Progress
+### NPV Compact Progress (as of 2024)
 
 **Adoption Timeline**:
 
@@ -374,6 +374,8 @@ The Convention faced a fundamental question: How should the president be selecte
 | 2013-2014 | RI, NY | 164 |
 | 2018-2019 | CT, CO, DE, NM, OR | 196 |
 | 2023-2024 | MN, ME | 209 |
+
+*Source: National Popular Vote Inc., 2024.*
 
 ## Lessons from History
 

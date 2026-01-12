@@ -161,7 +161,7 @@ The Athenians believed:
 
 **The Process**:
 
-- Constitutional Convention (2012-2014): 100 members (33 politicians + 66 random citizens)
+- Constitutional Convention (2012-2014): 100 members (66 random citizens + 33 politicians + 1 independent chair)
 - Citizens' Assembly (2016-2018): 99 randomly selected citizens only
 
 **Major Outcomes**:

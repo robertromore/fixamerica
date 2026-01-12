@@ -25,7 +25,7 @@ The Electoral College can elect presidents who lose the popular vote, as happene
 - Effectively creates national popular vote without constitutional amendment
 - Uses states' existing constitutional authority over elector selection
 
-**Current Status**:
+**Current Status** (as of 2024, post-2020 apportionment):
 
 | Category | Count |
 |----------|-------|
@@ -33,6 +33,8 @@ The Electoral College can elect presidents who lose the popular vote, as happene
 | Electoral votes secured | 209 |
 | Electoral votes needed | 61 |
 | States passed one chamber | 6 (~50 EVs) |
+
+*Source: National Popular Vote Inc., 2024.*
 
 **Benefits**:
 

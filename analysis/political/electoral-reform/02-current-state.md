@@ -40,7 +40,7 @@ French political scientist [Maurice Duverger](https://en.wikipedia.org/wiki/Maur
 3. **Strategic effect**: Politicians and donors consolidate into two competitive coalitions
 4. **Feedback loop**: Two parties become entrenched, making alternatives seem impossible
 
-**Result**: The U.S. has had the same two major parties since 1856.[^6] No other democracy with plurality voting has avoided two-party dominance long-term.
+**Result**: The U.S. has had the same two major parties since 1856.[^6] While some democracies using plurality voting (UK, Canada, India) sustain regional or niche third parties, none has achieved sustained *nationally competitive* multi-party democracy.
 
 ### Wasted Votes
 
@@ -76,7 +76,7 @@ Under plurality voting, the strategic imperative is to make the other major cand
 
 Under RCV, candidates seek to be voters' second choice, incentivizing coalition-building and civility.
 
-## Key Statistics
+## Key Statistics (as of 2024)
 
 ### Voter Dissatisfaction
 
@@ -180,7 +180,7 @@ Despite millions of votes, third parties hold essentially zero power at the fede
 - Long-term problems ignored (no electoral incentive)
 - See [Campaign Finance](../campaign-finance/01-overview.md) for more
 
-## Recent Developments
+## Recent Developments (as of 2024)
 
 ### Positive Momentum
 
@@ -254,6 +254,32 @@ The frustrating reality:
 | Negative campaigning dominates | RCV incentivizes positive campaigns | Consultants profit from negativity |
 
 The solutions are known and tested. The obstacle is political will—and the fact that those in power benefit from the current system.
+
+## Sources
+
+### Public Opinion Data
+
+- Gallup: Third-party support polling, voter dissatisfaction surveys
+- Pew Research Center: Political polarization data, democratic attitudes
+- AP-NORC: Electoral confidence polling
+
+### Electoral Competition Data
+
+- Cook Political Report: House race competitiveness ratings
+- Ballotpedia: Election results, ballot measure tracking
+- FairVote: Wasted votes analysis, RCV adoption tracking
+
+### Voting System Adoption
+
+- FairVote: RCV implementation tracking (50+ cities using RCV)
+- National Conference of State Legislatures (NCSL): State election law changes
+- Center for Election Science: Approval voting implementations
+
+### Historical Data
+
+- Federal Election Commission (FEC): Official election results
+- MIT Election Data + Science Lab: Election data archives
+- State election offices: Implementation dates and scope
 
 ## References
 

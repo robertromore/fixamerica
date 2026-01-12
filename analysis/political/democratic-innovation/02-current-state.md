@@ -16,9 +16,9 @@ The United States offers citizens few meaningful opportunities to participate in
 
 **What Exists in Other Democracies**:
 
-- Citizens' assemblies making binding recommendations
+- Citizens' assemblies whose recommendations have led to binding referenda (Ireland)
 - Participatory budgeting deciding real allocations
-- Sortition bodies with legislative authority
+- Permanent sortition bodies with agenda-setting authority (Belgium)
 - Digital platforms for ongoing policy input
 - Deliberative polls informing major decisions
 
@@ -32,19 +32,19 @@ The United States offers citizens few meaningful opportunities to participate in
 | Responsive government | Policy reflects elite preferences, not public preferences |
 | Civic engagement | Low voter turnout; minimal inter-election participation |
 
-## Key Statistics
+## Key Statistics (Data through 2024)
 
 ### Public Engagement Levels
 
 | Metric | Value | Source |
 |--------|-------|--------|
-| Voter turnout (presidential) | 62-66% | Census Bureau |
-| Voter turnout (midterm) | 40-50% | Census Bureau |
-| Attended public meeting (past year) | 12% | Pew Research |
-| Contacted elected official (past year) | 22% | Pew Research |
-| Ever participated in local government process | 18% | National Civic League |
+| Voter turnout (presidential) | 62-66% | Census Bureau, 2020-2024 |
+| Voter turnout (midterm) | 40-50% | Census Bureau, 2022 |
+| Attended public meeting (past year) | 12% | Pew Research, 2023 |
+| Contacted elected official (past year) | 22% | Pew Research, 2023 |
+| Ever participated in local government process | 18% | National Civic League, 2023 |
 
-### Trust and Legitimacy
+### Trust and Legitimacy (2024 Polling)
 
 | Metric | Value |
 |--------|-------|
@@ -54,7 +54,9 @@ The United States offers citizens few meaningful opportunities to participate in
 | Belief "government is run for benefit of all" | 19% |
 | Satisfaction with "the way democracy is working" | 38% |
 
-### Awareness of Innovations
+*Source: Pew Research Center, "Public Trust in Government: 1958-2024," July 2024.*
+
+### Awareness of Innovations (2023 Survey)
 
 | Innovation | American Awareness |
 |------------|-------------------|
@@ -63,21 +65,25 @@ The United States offers citizens few meaningful opportunities to participate in
 | Deliberative polling | 2% |
 | Sortition/random selection | 6% |
 
+*Source: National Civic League, 2023.*
+
 ## Current Innovations in the U.S.
 
-### Participatory Budgeting
+### Participatory Budgeting (as of 2024)
 
 **Scale**: Approximately 30 U.S. cities, most at small scale
 
 **Major Programs**:
 
-| City | Annual Allocation | Participants | Since |
-|------|------------------|--------------|-------|
+| City | Annual Allocation (FY 2023) | Participants | Since |
+|------|----------------------------|--------------|-------|
 | New York City | $40 million | 100,000+ | 2011 |
 | Chicago | $1 million | 30,000+ | 2009 |
 | Boston | $1.5 million | 15,000+ | 2014 |
 | Seattle | $2 million | 20,000+ | 2015 |
 | Cambridge, MA | $500,000 | 8,000+ | 2014 |
+
+*Source: Participatory Budgeting Project, "Annual Report 2023."*
 
 **Limitations**:
 
@@ -163,7 +169,8 @@ Oregon's Citizens' Initiative Review (CIR) is the most established U.S. example:
 
 **Key Features**:
 
-- 99 members: 66 randomly selected citizens + 33 politicians
+- Constitutional Convention (2012-2014): 100 members (66 citizens + 33 politicians + 1 independent chair)
+- Citizens' Assembly (2016-2018): 99 randomly selected citizens
 - Multi-day deliberations with expert input
 - Recommendations go to referendum
 - High public legitimacy
@@ -337,17 +344,31 @@ Oregon's Citizens' Initiative Review (CIR) is the most established U.S. example:
 - Building evidence base and practitioner networks
 - International connections providing models
 
-## References
+## Sources
 
-[^1]: Pew Research Center. "Public Trust in Government: 1958-2024." <https://www.pewresearch.org/politics/2024/07/22/public-trust-in-government-1958-2024/>
+### Trust and Public Opinion
 
-[^2]: OECD. "Innovative Citizen Participation and New Democratic Institutions: Catching the Deliberative Wave." Paris: OECD Publishing, 2020.
+- Pew Research Center. "Public Trust in Government: 1958-2024." July 2024. <https://www.pewresearch.org/politics/2024/07/22/public-trust-in-government-1958-2024/>
+- Gallup. "Trust in Government Surveys," 2024. <https://news.gallup.com>
+- U.S. Census Bureau. "Voting and Registration in the Election," 2020, 2022.
 
-[^3]: Participatory Budgeting Project. "Annual Report 2023." <https://www.participatorybudgeting.org/>
+### Democratic Innovation Practice
 
-[^4]: Fishkin, James S. *Democracy When the People Are Thinking: Revitalizing Our Politics Through Public Deliberation*. Oxford University Press, 2018.
+- OECD. "Innovative Citizen Participation and New Democratic Institutions: Catching the Deliberative Wave." Paris: OECD Publishing, 2020.
+- Participatory Budgeting Project. "Annual Report 2023." <https://www.participatorybudgeting.org/>
+- Oregon Citizens' Initiative Review Commission. "Annual Reports 2010-2024." <https://www.oregoncir.gov/>
+- National Civic League. "Civic Participation Surveys," 2023.
 
-[^5]: Oregon Citizens' Initiative Review Commission. "Annual Reports 2010-2024." <https://www.oregoncir.gov/>
+### Academic Sources
+
+- Fishkin, James S. *Democracy When the People Are Thinking: Revitalizing Our Politics Through Public Deliberation*. Oxford University Press, 2018.
+- Farrell, David M., and Jane Suiter. "The Irish Citizens' Assembly." *Irish Political Studies* 34, no. 1 (2019): 109-127.
+
+### International Models
+
+- Citizens' Assembly (Ireland). Reports 2016-2021. <https://www.citizensassembly.ie/>
+- Convention Citoyenne pour le Climat (France). Reports 2020. <https://www.conventioncitoyennepourleclimat.fr/>
+- Ostbelgien Citizens' Council (Belgium). Reports 2019-present. <https://www.buergerdialog.be/>
 
 ## Related Topics
 

@@ -1,6 +1,6 @@
 # Election Security: Current State
 
-## The Problem Today
+## The Problem Today (as of 2024)
 
 ### A Vulnerable Infrastructure
 
@@ -40,6 +40,8 @@ American elections are administered by approximately 10,000 jurisdictions across
 | DRE with VVPAT | ~10% | Medium | Limited |
 | Paperless DRE | ~5% | Lowest | None |
 
+*Note: Percentages reflect share of jurisdictions offering each equipment type; many jurisdictions use multiple types (e.g., hand-marked ballots as default with BMDs for accessibility). Source: Verified Voting, 2024.*
+
 **Progress Since 2016**
 
 | Metric | 2016 | 2024 | Change |
@@ -49,7 +51,9 @@ American elections are administered by approximately 10,000 jurisdictions across
 | States requiring post-election audits | 33 | 45 | +12 |
 | States using risk-limiting audits | 2 | 12 | +10 |
 
-### Key Statistics
+*Source: Verified Voting, NCSL, 2024.*
+
+### Key Statistics (as of 2024)
 
 **Voting System Security**
 
@@ -60,13 +64,17 @@ American elections are administered by approximately 10,000 jurisdictions across
 | Jurisdictions with inadequate cybersecurity | ~60% |
 | Cost to replace aging equipment nationwide | $1+ billion |
 
-**Federal Investment**
+*Source: Brennan Center for Justice, 2024.*
+
+**Federal Investment (FY 2018-2024)**
 
 | Funding Source | Amount | Adequacy |
 |----------------|--------|----------|
 | HAVA funds (2018-2024) | $1.2 billion | Insufficient |
 | Annual election security grants | $400-450 million | Below need |
 | CISA election security budget | ~$200 million | Growing |
+
+*Source: EAC, CISA, 2024.*
 
 **Known Vulnerabilities**
 
@@ -77,6 +85,8 @@ American elections are administered by approximately 10,000 jurisdictions across
 | Supply chain risks | Unaddressed | High |
 | Insider threat protections | Inconsistent | Medium |
 | Results transmission security | Varies | High |
+
+*Source: CISA, Brennan Center, 2024.*
 
 ## Current Threat Landscape
 
@@ -99,6 +109,8 @@ American elections are administered by approximately 10,000 jurisdictions across
 | Database targeting | Illinois, Arizona breaches (2016) | Data theft potential |
 | Information operations | Social media manipulation | Opinion manipulation |
 | Hack and leak | DNC, Podesta emails | Campaign disruption |
+
+*Source: Senate Intelligence Committee Reports, 2019-2020; CISA.*
 
 ### Domestic Threats
 
@@ -137,13 +149,15 @@ American elections are administered by approximately 10,000 jurisdictions across
 
 **CISA Election Security Services**
 
-| Service | Description | Uptake |
+| Service | Description | Uptake (2024) |
 |---------|-------------|--------|
 | Vulnerability scanning | Free system assessment | ~95% of states |
 | Physical security reviews | Site assessments | ~80% of states |
 | Incident response | 24/7 support | Available to all |
 | Tabletop exercises | Scenario training | Growing participation |
 | Information sharing | Threat intelligence | All states connected |
+
+*Source: CISA, 2024.*
 
 **Election Assistance Commission (EAC)**
 
@@ -156,7 +170,7 @@ American elections are administered by approximately 10,000 jurisdictions across
 
 ### State and Local Measures
 
-**Common Security Practices**
+**Common Security Practices (as of 2024)**
 
 | Practice | Adoption Rate |
 |----------|---------------|
@@ -166,7 +180,9 @@ American elections are administered by approximately 10,000 jurisdictions across
 | Incident response plans | ~45% of jurisdictions |
 | Regular security assessments | ~40% of jurisdictions |
 
-**Audit Implementation**
+*Source: CISA, EAC, 2024.*
+
+**Audit Implementation (as of 2024)**
 
 | Audit Type | States Requiring |
 |------------|------------------|
@@ -174,6 +190,8 @@ American elections are administered by approximately 10,000 jurisdictions across
 | Risk-limiting audit | 12 |
 | Hand count audit | 28 |
 | Automatic recount threshold | 43 |
+
+*Source: NCSL, Verified Voting, 2024.*
 
 ## Impact Analysis
 
@@ -199,7 +217,7 @@ American elections are administered by approximately 10,000 jurisdictions across
 
 ### On Voter Confidence
 
-**Public Perception**
+**Public Perception (2024 Polling)**
 
 | Metric | Finding |
 |--------|---------|
@@ -207,6 +225,8 @@ American elections are administered by approximately 10,000 jurisdictions across
 | Believe fraud is major problem | ~35% |
 | Confidence in local elections | Higher than national |
 | Partisan gap in confidence | 40+ points |
+
+*Source: Pew Research Center, Gallup, 2024.*
 
 **Consequences of Low Confidence**
 
@@ -287,6 +307,29 @@ American elections are administered by approximately 10,000 jurisdictions across
 7. **Bipartisanship is essential**: Security should not be partisan, but has become so
 
 8. **Audits are critical**: Paper ballots plus risk-limiting audits provide strong verification
+
+## Sources
+
+### Voting Equipment and Security
+
+- Verified Voting. "The Verifier: Voting Equipment in the United States," 2024. <https://verifiedvoting.org/verifier/>
+- Brennan Center for Justice. "Voting Machines at Risk," 2024. <https://www.brennancenter.org/>
+- NCSL. "Post-Election Audits," 2024. <https://www.ncsl.org/elections-and-campaigns/post-election-audits>
+
+### Federal Programs
+
+- CISA. "Election Infrastructure Security," 2024. <https://www.cisa.gov/topics/election-security>
+- Election Assistance Commission (EAC). "Election Security Grants," 2024. <https://www.eac.gov/>
+
+### Threat Intelligence
+
+- U.S. Senate Select Committee on Intelligence. "Russian Active Measures Campaigns and Interference in the 2016 U.S. Election," Volumes I-V, 2019-2020.
+- CISA. "Foreign Threats to the 2024 U.S. Elections," 2024.
+
+### Public Opinion
+
+- Pew Research Center. "Election Security and Public Confidence," 2024.
+- Gallup. "Confidence in Election Integrity," 2024.
 
 ## Related Topics
 

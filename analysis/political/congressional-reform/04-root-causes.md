@@ -11,7 +11,9 @@
 | Equal state representation | Wyoming = California |
 | Two senators per state | Small-state overrepresentation |
 | Staggered terms | Slow to change |
-| Constitutional entrenchment | Cannot be amended (Art. V) |
+| Constitutional entrenchment | Requires unanimous state consent (Art. V)* |
+
+*Article V prohibits depriving any state of equal Senate representation without its consent, making this provision politically near-impossible to amend.
 
 **Bicameral Friction**
 

@@ -414,6 +414,21 @@ specified in Article I.
 
 ## State Model Legislation
 
+**Note on Placeholders:**
+
+This model legislation uses bracketed placeholders that states should customize:
+
+- `[State]` - Insert state name
+- `[X]` - Insert appropriate numeric value based on state context
+- `[$amount]` - Insert dollar amounts appropriate for state cost of living
+- `[date]` - Insert effective date
+- `[House/Assembly]` - Insert chamber name per state constitution
+- `[agency]` - Insert relevant state agency name
+
+Where possible, consider relative thresholds (e.g., percentage of eligible voters rather than fixed numbers) to account for state population differences.
+
+---
+
 ### Citizen Initiative Review Act
 
 **Purpose**: Establish citizen review panels for ballot measures.

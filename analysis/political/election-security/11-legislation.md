@@ -599,6 +599,20 @@ This Act takes effect upon enactment.
 
 ## State Model Legislation
 
+**Note on Placeholders:**
+
+This model legislation uses bracketed placeholders that states should customize:
+
+- `[State]` - Insert state name
+- `[X]` - Insert appropriate numeric value based on state context
+- `[$amount]` - Insert dollar amounts appropriate for state budget
+- `[date]` - Insert effective date
+- `[agency]` - Insert relevant state agency name
+
+Where possible, consider relative thresholds (e.g., percentage of jurisdictions rather than fixed numbers) to account for state size differences.
+
+---
+
 ### Model Paper Ballot Act
 
 **Purpose**: State legislation requiring paper ballots for all elections.
