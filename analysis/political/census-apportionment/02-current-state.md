@@ -74,10 +74,12 @@ States losing representation:
 | Black alone | -3.30% (undercounted) |
 | Hispanic | -4.99% (undercounted) |
 | American Indian/Alaska Native (on reservation) | -5.64% (undercounted) |
-| Asian | -2.62% (undercounted) |
+| Asian | +2.62% (overcounted) |
 | Children under 5 | -2.79% (undercounted) |
 | Renters | -1.48% (undercounted) |
 | Owners | +0.43% (overcounted) |
+
+*Source: U.S. Census Bureau, 2020 Post-Enumeration Survey, March 2022.*
 
 **Impact Calculation**
 
@@ -115,7 +117,7 @@ The ACS provides ongoing demographic data between censuses, used for:
 - Complexity of questionnaire
 - Resource constraints for follow-up
 
-## Key Statistics
+## Key Statistics (2020 Census)
 
 ### Representation Disparities
 
@@ -186,8 +188,10 @@ The ACS provides ongoing demographic data between censuses, used for:
 |----------|----------|-----------|
 | Wyoming Rule | ~545-570 | Smallest state sets ratio |
 | Cube Root Rule | ~690 | Mathematical model |
-| Fifty Thousand | 6,600+ | Constitutional minimum |
+| Fifty Thousand | 6,600+ | Original Article the First (unratified) |
 | Fixed increase | 500-600 | Modest expansion |
+
+*Note: The constitutional minimum is 1 representative per 30,000 people (Article I, Section 2), which would allow up to 11,000+ representatives. The "Fifty Thousand" proposal references the original unratified Article the First from 1789.*
 
 **State-Level Impact of Wyoming Rule**
 
@@ -368,6 +372,35 @@ Many states have established Complete Count Committees to improve enumeration:
 7. **Differential privacy tradeoffs**: Privacy protection comes at cost of small-area accuracy
 
 8. **Funding allocation at stake**: $1.5+ trillion annually distributed based on census data
+
+## Sources
+
+### Census Bureau
+
+- U.S. Census Bureau. "2020 Census Results." <https://www.census.gov/2020census>
+- U.S. Census Bureau. "Post-Enumeration Survey." <https://www.census.gov/programs-surveys/decennial-census/about/coverage-measurement.html>
+- U.S. Census Bureau. "2020 Census Apportionment Results." April 2021.
+
+### Congressional Research Service
+
+- Congressional Research Service. "Apportionment and Redistricting Process for the U.S. House of Representatives." 2021.
+- Congressional Research Service. "The U.S. House of Representatives Apportionment Formula in Theory and Practice." 2020.
+
+### Government Accountability Office
+
+- GAO. "2020 Census: Innovations Helped with Implementation, but Bureau Can Improve Preparations for Future Censuses." GAO-21-478, 2021.
+- GAO. "Decennial Census: Continued Management Attention Needed to Address Challenges and Risks." GAO-18-141, 2018.
+
+### Academic Sources
+
+- Balinski, Michel L., and H. Peyton Young. *Fair Representation: Meeting the Ideal of One Man, One Vote*. Yale University Press, 1982.
+- National Academies of Sciences. *Modernizing the U.S. Census*. National Academies Press, 2010.
+
+### Legal Sources
+
+- *Department of Commerce v. New York*, 588 U.S. ___ (2019)
+- *Department of Commerce v. Montana*, 503 U.S. 442 (1992)
+- *Utah v. Evans*, 536 U.S. 452 (2002)
 
 ## Related Topics
 

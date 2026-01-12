@@ -244,8 +244,8 @@ SEC. 4. IMPLEMENTATION.
 SEC. 5. REDISTRICTING TRANSITION.
 
 (a) TIMING.—States shall complete redistricting for the expanded
-    House not later than [date], to be effective for the general
-    election in November 2032.
+    House not later than 18 months after delivery of decennial census
+    redistricting data, to be effective for the next general election.
 
 (b) STANDARDS.—Redistricting under this section shall comply with
     all applicable provisions of the Voting Rights Act and other
@@ -460,6 +460,8 @@ title 13, United States Code.
 
 ## State Model Legislation
 
+*Note: In model legislation below, bracketed fields such as [State], [Department of Corrections], [Secretary of State], and $[amount] are state-specific parameters to be filled by enacting legislatures. Timing provisions use relative dates tied to census milestones.*
+
 ### State Prison-Based Gerrymandering Reform Act (Model)
 
 **Purpose**: Model legislation for states to reallocate incarcerated persons to their home addresses for redistricting purposes.
@@ -505,9 +507,9 @@ SECTION 4. DATA COLLECTION.
 (a) REQUIREMENT.—The [Department of Corrections] shall maintain
     records of the last known address of each incarcerated person.
 
-(b) TRANSMISSION.—Not later than [date] following each decennial
-    census, the [Department of Corrections] shall transmit
-    address data to the [Secretary of State/Redistricting
+(b) TRANSMISSION.—Not later than 60 days following delivery of
+    decennial census redistricting data, the [Department of Corrections]
+    shall transmit address data to the [Secretary of State/Redistricting
     Commission/Legislative Services Agency].
 
 (c) COORDINATION.—The [Secretary of State] shall coordinate with
@@ -521,7 +523,8 @@ SECTION 5. REDISTRICTING DATABASE.
     to their last known addresses.
 
 (b) PUBLIC AVAILABILITY.—The adjusted database shall be made
-    publicly available not later than [date].
+    publicly available not later than 90 days following delivery of
+    decennial census redistricting data.
 
 (c) OFFICIAL DATA.—The adjusted database shall be the official
     data for all redistricting in [State].
@@ -612,14 +615,14 @@ SECTION 7. REPORTING.
     to the Governor and Legislature on census preparation and
     response rates.
 
-(b) FINAL REPORT.—Not later than [date] following each decennial
-    census, the Committee shall submit a final report evaluating
-    the completeness of the enumeration.
+(b) FINAL REPORT.—Not later than 18 months following Census Day of
+    each decennial census, the Committee shall submit a final report
+    evaluating the completeness of the enumeration.
 
 SECTION 8. SUNSET.
 
-This Act shall remain in effect until [date following completion
-of census cycle], unless renewed by the Legislature.
+This Act shall remain in effect until 24 months following delivery of
+decennial census redistricting data, unless renewed by the Legislature.
 ```
 
 ## Legal Considerations

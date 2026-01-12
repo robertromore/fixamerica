@@ -106,7 +106,7 @@
 |------|------|-------|---------|
 | *Wesberry v. Sanders* | 1964 | Congressional district equality | One person, one vote |
 | *Department of Commerce v. Montana* | 1992 | Apportionment method | Huntington-Hill upheld |
-| *Utah v. Evans* | 2002 | Imputation for overseas military | Allowed |
+| *Utah v. Evans* | 2002 | Hot-deck imputation for missing household data | Upheld (distinct from sampling) |
 | *Department of Commerce v. New York* | 2019 | Citizenship question | Blocked (pretextual) |
 | *Trump v. New York* | 2020 | Undocumented exclusion | Dismissed as not ripe |
 

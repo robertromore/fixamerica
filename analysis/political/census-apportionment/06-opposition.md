@@ -198,7 +198,7 @@ Small states lose proportionally but maintain constitutional minimum.
 | Argument | Proponents | Validity |
 |----------|------------|----------|
 | Constitution requires "actual enumeration" | Textualists | Debated—adjustment is post-enumeration |
-| Sampling is not counting | Some legal scholars | *Utah v. Evans* allowed sampling for some purposes |
+| Sampling is not counting | Some legal scholars | *Utah v. Evans* upheld imputation (distinct from sampling); 13 U.S.C. § 195 prohibits sampling for apportionment |
 | Political manipulation risk | Various | Legitimate concern |
 
 **Practical Concerns**

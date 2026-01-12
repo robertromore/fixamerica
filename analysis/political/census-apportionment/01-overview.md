@@ -117,7 +117,7 @@ Congress capped the House at 435 in 1929 and has never increased it. As populati
 - Electoral College more distorted
 - Representation less proportional
 
-## By the Numbers
+## By the Numbers (2020 Census)
 
 ### Census Operations
 
@@ -210,7 +210,7 @@ Statistical noise added to census data to prevent re-identification of individua
 |---------|------|
 | Protects individual privacy | Reduces small-area accuracy |
 | Prevents data reconstruction | May affect redistricting data |
-| Legally required | Creates uncertainty |
+| Meets confidentiality requirements (13 U.S.C. § 9) | Creates uncertainty |
 | Future-proofs against technology | Complicated for users |
 
 ### Census Bureau Independence

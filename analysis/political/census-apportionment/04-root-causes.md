@@ -13,7 +13,7 @@ Understanding why census and apportionment issues remain unresolved requires exa
 | Element | Constraint | Problem |
 |---------|------------|---------|
 | Decennial requirement | Count every 10 years | Data outdated by year 10 |
-| Actual enumeration | Must count, not sample | Expensive, inaccurate for mobile populations |
+| Actual enumeration | Sampling prohibited for apportionment (13 U.S.C. § 195) | Expensive, limits statistical methods |
 | State-based apportionment | Seats go to states | Representation tied to geographic units |
 | Congressional discretion | House size set by law | No automatic adjustment |
 

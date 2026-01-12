@@ -260,8 +260,8 @@ First census after Voting Rights Act (1965):
 
 | Change | Impact |
 |--------|--------|
-| Internet option (limited) | Technology modernization |
-| Multiple race categories | First time allowed |
+| GPS for address canvassing | Improved geographic accuracy |
+| Multiple race categories | First time respondents could select multiple races |
 | Paid advertising campaign | Hard-to-count outreach |
 | Partnership program | Community engagement |
 
