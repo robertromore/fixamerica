@@ -51,10 +51,13 @@ The Founders were acutely aware of corruption risks:
 - Executive orders on conflicts
 - Early disclosure requirements
 
-**Eisenhower Administration**:
+**Kennedy Administration**:
 
-- Executive Order 10939 on ethics
-- Strengthened conflict rules
+- Executive Order 10939 (May 5, 1961): "To Provide a Guide on Ethical Standards to Government Officials"
+- Established ethical conduct standards for executive branch officials
+- Built on earlier Truman-era ethics efforts
+
+*Source: Executive Order 10939, 26 FR 3951, Federal Register (May 5, 1961).*
 
 ### Criminal Statutes
 

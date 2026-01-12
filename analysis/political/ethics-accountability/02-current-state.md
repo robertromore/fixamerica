@@ -10,7 +10,7 @@
 | Criminal Conflict of Interest (18 U.S.C. 208) | Bars participation in matters affecting finances | Most executive employees |
 | Post-Employment Restrictions (18 U.S.C. 207) | Limits revolving door | Former officials |
 | Bribery and Illegal Gratuities (18 U.S.C. 201) | Prohibits corrupt payments | All federal officials |
-| Foreign Gifts Act | Restricts foreign gifts | All federal employees |
+| Foreign Gifts and Decorations Act (5 U.S.C. 7342) | Restricts foreign gifts | All federal employees |
 | Emoluments Clauses | Constitutional prohibitions | Officers of the United States |
 
 ### Office of Government Ethics
@@ -128,7 +128,7 @@ Multiple suits filed during Trump administration:
 
 ### Structure
 
-**Number**: 74 federal Inspectors General
+**Number**: 74 federal Inspectors General (as of 2024)
 
 **Types**:
 
@@ -252,7 +252,7 @@ State ethics regimes vary widely:
 | New Jersey | Strong disclosure requirements |
 | Various | Independent ethics commissions |
 
-## Recent Developments
+## Recent Developments (as of 2024)
 
 ### Trump Administration
 
@@ -264,8 +264,9 @@ State ethics regimes vary widely:
 
 ### Biden Administration
 
-- Ethics Executive Order
-- Restored IG independence
+- Ethics Executive Order (EO 14019)
+- Pledged advance notice to Congress for IG removals
+- Supported IG protection legislation
 - Strengthened ethics pledges
 - Some gaps remain
 
@@ -275,6 +276,35 @@ State ethics regimes vary widely:
 - Protecting Our Democracy Act
 - Various standalone bills
 - Limited enactment
+
+## Sources
+
+### Government Sources
+
+- **Office of Government Ethics (OGE)**: Ethics regulations, financial disclosure forms, guidance documents. <https://www.oge.gov/>
+- **Council of the Inspectors General on Integrity and Efficiency (CIGIE)**: IG community data and reports. <https://www.ignet.gov/>
+- **Government Accountability Office (GAO)**: Reports on ethics program effectiveness and enforcement gaps.
+- **Congressional Research Service (CRS)**: Reports on ethics law, IG independence, whistleblower protection.
+
+### Legal Sources
+
+- **Ethics in Government Act of 1978** (5 U.S.C. App. §§ 101-505)
+- **Criminal Conflict of Interest Statutes** (18 U.S.C. §§ 201-209)
+- **Inspector General Act of 1978** (5 U.S.C. App.)
+- **Whistleblower Protection Act** (5 U.S.C. § 2302)
+- **Foreign Gifts and Decorations Act** (5 U.S.C. § 7342)
+
+### Academic and Nonprofit Sources
+
+- **Project on Government Oversight (POGO)**: Watchdog reports on ethics enforcement and IG independence.
+- **Campaign Legal Center**: Analysis of ethics rules and enforcement.
+- **Government Accountability Project**: Whistleblower protection advocacy and case tracking.
+- **Brookings Institution**: Research on government ethics and accountability.
+
+### Key Court Cases
+
+- *CREW v. Trump*, No. 17-cv-458 (S.D.N.Y.) - Emoluments Clause standing
+- *District of Columbia v. Trump*, No. 17-cv-1596 (D. Md.) - Emoluments litigation
 
 ## Document Navigation
 
