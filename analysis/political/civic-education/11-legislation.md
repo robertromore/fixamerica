@@ -194,6 +194,8 @@ SEC. 5. NATIONAL MEDIA LITERACY RESOURCE CENTER.
 
 ## State Model Legislation
 
+*Note: In model legislation below, bracketed fields such as [State], [State Board of Education], [Department of Education], and $[amount] are state-specific parameters to be filled by enacting legislatures. Timing provisions use relative dates tied to enactment.*
+
 ### Comprehensive Civic Education Act
 
 **Purpose**: Establish comprehensive civic education requirements at the state level.
@@ -222,8 +224,8 @@ SECTION 2. FINDINGS AND PURPOSE.
 
 SECTION 3. CIVIC EDUCATION REQUIREMENTS.
 
-(a) COURSE REQUIREMENT.—Beginning with the class of [year],
-    all students shall complete at least:
+(a) COURSE REQUIREMENT.—Beginning with the first graduating class
+    two years after enactment, all students shall complete at least:
     (1) One full-year course in United States history, including
         the Constitution and founding documents;
     (2) One semester course in United States government and
@@ -272,7 +274,8 @@ SECTION 5. ASSESSMENT.
 
 (a) CIVIC KNOWLEDGE ASSESSMENT.—The [State Board of Education]
     shall develop or adopt an assessment of civic knowledge
-    to be administered to all students in grade [8 and/or 11].
+    to be administered to all students in grade 8 (or, at state
+    option, grade 11, or both).
 
 (b) ACCOUNTABILITY.—Civic education results shall be included
     in school and district report cards.
@@ -326,8 +329,8 @@ SECTION 8. FUNDING.
 
 SECTION 9. EFFECTIVE DATE.
 
-This Act shall take effect on [date], with full implementation
-required by [date].
+This Act shall take effect on July 1 following enactment, with
+full implementation required within 36 months of enactment.
 ```
 
 ### Media Literacy Standards Act
@@ -368,12 +371,62 @@ SECTION 3. IMPLEMENTATION.
 (b) PROFESSIONAL DEVELOPMENT.—The [Department] shall provide
     professional development for teachers in media literacy.
 
-(c) TIMELINE.—Full implementation shall be required by [date].
+(c) TIMELINE.—Full implementation shall be required within 24
+    months of enactment.
 
 SECTION 4. ASSESSMENT.
 
 Media literacy skills shall be incorporated into state
 assessments in relevant subjects.
+```
+
+### Adult Civic Education Grant Program (Federal Addendum)
+
+**Purpose**: Extend civic education grant eligibility to adult education and immigrant integration programs.
+
+**Draft Text** (Addition to SEC. 4 of Civics Secures Democracy Act):
+
+```text
+(e) ADULT CIVIC EDUCATION.—States and grantees may use funds under
+    this section for adult civic education, including:
+    (1) Civic education programs at community colleges and adult
+        education centers;
+    (2) Library-based civic learning initiatives;
+    (3) Naturalization civics preparation beyond USCIS test content;
+    (4) Integration of civic education with English language
+        instruction;
+    (5) Community-based civic discussion and deliberation programs.
+
+(f) ELIGIBILITY.—Eligible entities for adult civic education grants
+    include community colleges, public libraries, adult education
+    providers funded under the Workforce Innovation and Opportunity
+    Act, and nonprofit organizations serving immigrant populations.
+```
+
+### State Adult Civic Education Standards (Optional Model)
+
+**Purpose**: Enable states to include adult civic education in their civic education frameworks.
+
+**Draft Text**:
+
+```text
+SECTION 1. ADULT CIVIC EDUCATION.
+
+(a) STANDARDS.—The [State Board of Education] may adopt standards
+    for adult civic education programs offered through community
+    colleges, adult education centers, and public libraries.
+
+(b) COORDINATION.—The [Department of Education] shall coordinate
+    with the [Department of Labor/Workforce Development] to
+    integrate civic education with adult basic education and
+    workforce preparation programs.
+
+(c) IMMIGRANT CIVIC INTEGRATION.—The [Department] may develop
+    resources for naturalization civics preparation that extend
+    beyond USCIS test content to include:
+    (1) State and local government orientation;
+    (2) Civic engagement opportunities;
+    (3) Rights and responsibilities of citizenship.
 ```
 
 ## Regulatory Framework

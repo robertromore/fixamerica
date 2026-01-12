@@ -2,7 +2,7 @@
 
 ## K-12 Civic Education
 
-### State Requirements
+### State Requirements (2024)
 
 **Civics Course Requirements**:
 
@@ -13,6 +13,8 @@
 | Require semester of civics | 29 |
 | No state requirement | 12 |
 
+*Source: Education Commission of the States, 50-State Comparison: Civic Education Policies, 2024.*
+
 **Civics Assessment**:
 
 | Type | Number of States |
@@ -21,6 +23,10 @@
 | Civics in state accountability | 8 |
 | U.S. citizenship test required | 17 |
 | No civics assessment | ~30 |
+
+*Note: Assessment categories are not mutually exclusive. A state may require a citizenship test but not include civics in accountability. "No civics assessment" refers to states without any standardized civics testing, though some of these may still require civics coursework.*
+
+*Source: Education Commission of the States, Civics Assessment Requirements, 2024.*
 
 ### Time Allocation
 
@@ -57,7 +63,7 @@
 - Current events and controversy
 - Deliberation and discussion skills
 
-### National Assessment Results
+### National Assessment Results (NAEP 2022)
 
 **NAEP Civics (8th Grade)**:
 
@@ -67,6 +73,8 @@
 | 2010 | 24% | 67% |
 | 2018 | 24% | 66% |
 | 2022 | 22% | 63% |
+
+*Source: National Center for Education Statistics, NAEP Civics Assessment, 2022.*
 
 **Proficiency by Demographics (2022)**:
 
@@ -78,6 +86,8 @@
 | Asian | 33% |
 | Free/Reduced Lunch | 13% |
 | Non-Free Lunch | 32% |
+
+*Source: National Center for Education Statistics, NAEP Civics Assessment by Student Demographics, 2022.*
 
 ### Teacher Preparation
 
@@ -97,9 +107,9 @@
 
 ## Adult Civic Knowledge
 
-### General Knowledge Levels
+### General Knowledge Levels (2023)
 
-**Annenberg Constitution Day Survey (Recent)**:
+**Annenberg Constitution Day Survey (2023)**:
 
 | Question | Percent Correct |
 |----------|-----------------|
@@ -109,6 +119,8 @@
 | Name Chief Justice | ~20% |
 | Name own representative | ~40% |
 | Name both senators | ~30% |
+
+*Source: Annenberg Public Policy Center, Constitution Day Civics Survey, September 2023.*
 
 **Trends**:
 
@@ -135,7 +147,7 @@
 
 ## Media Literacy
 
-### Current State of Instruction
+### Current State of Instruction (2024)
 
 **Media Literacy Requirements**:
 
@@ -144,6 +156,8 @@
 | Explicit media literacy standards | ~15 |
 | Media literacy in other standards | ~20 |
 | Minimal or no standards | ~15 |
+
+*Source: Media Literacy Now, State of Media Literacy Education Report, 2024.*
 
 **Implementation Reality**:
 
@@ -154,12 +168,14 @@
 
 ### Digital Information Challenges
 
-**Student Capabilities**:
+**Student Capabilities (Stanford SHEG Study, 2019)**:
 
-- Stanford study: Most students couldn't identify bias or ads
+- Most students couldn't identify bias or ads
 - Difficulty evaluating source credibility
 - Struggle to distinguish news from opinion
 - Poor understanding of how information spreads
+
+*Source: Stanford History Education Group, "Students' Civic Online Reasoning," 2019.*
 
 **Information Environment**:
 
@@ -174,12 +190,14 @@
 
 **Definition**: Structured service combined with reflection and civic learning
 
-**Current State**:
+**Current State (2022)**:
 
 - 35% of high schools offer service learning
 - ~1/3 of students participate in any service activity
 - Quality varies dramatically
 - Often disconnected from curriculum
+
+*Source: National Center for Education Statistics, Arts Education and Service Learning Surveys, 2022.*
 
 **Effective Practices** (When Done Well):
 
@@ -224,7 +242,7 @@
 
 ## Civic Engagement Outcomes
 
-### Youth Participation
+### Youth Participation (2020-2022)
 
 **Voting**:
 
@@ -233,7 +251,9 @@
 - Significant increase from historical lows
 - Still lower than older cohorts
 
-**Other Civic Activities**:
+*Source: CIRCLE at Tufts University, Youth Voter Turnout Reports, 2020 and 2022.*
+
+**Other Civic Activities (2022)**:
 
 | Activity | Percent of Youth (18-29) |
 |----------|-------------------------|
@@ -242,6 +262,8 @@
 | Contacted official | ~10% |
 | Volunteered | ~25% |
 | Followed news regularly | ~40% |
+
+*Source: CIRCLE at Tufts University, Youth Civic Engagement Survey, 2022.*
 
 ### Civic Knowledge and Behavior Connection
 
@@ -311,6 +333,35 @@
 - Civic Mission of Schools report (2003)
 - Guardian of Democracy report (2011)
 - Educating for American Democracy initiative (2021)
+
+## Sources
+
+### National Center for Education Statistics
+
+- National Assessment of Educational Progress (NAEP) Civics Assessment, 2022. <https://nces.ed.gov/nationsreportcard/civics/>
+- Arts Education and Service Learning Surveys, 2022.
+
+### Annenberg Public Policy Center
+
+- Annenberg Constitution Day Civics Survey, September 2023. <https://www.annenbergpublicpolicycenter.org/civics-survey/>
+
+### Education Commission of the States
+
+- 50-State Comparison: Civic Education Policies, 2024. <https://www.ecs.org/civic-education-policies/>
+- Civics Assessment Requirements, 2024.
+
+### CIRCLE at Tufts University
+
+- Youth Voter Turnout Reports, 2020 and 2022. <https://circle.tufts.edu/latest-research/election-night-2022>
+- Youth Civic Engagement Survey, 2022.
+
+### Stanford History Education Group
+
+- "Students' Civic Online Reasoning," 2019. <https://sheg.stanford.edu/civic-online-reasoning>
+
+### Media Literacy Organizations
+
+- Media Literacy Now, State of Media Literacy Education Report, 2024. <https://medialiteracynow.org/your-state/>
 
 ## Document Navigation
 

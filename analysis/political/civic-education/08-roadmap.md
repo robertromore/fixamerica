@@ -167,6 +167,22 @@ Change requires both system reform and external pressure:
 - Community partnership building
 - Transportation for experiences
 
+### Adult and Immigrant Civic Education Expansion
+
+**Year 2-3 Pilots**:
+
+- Partner with 5-10 community colleges on civics modules
+- Develop library-based civic education pilot programs
+- Create naturalization civics curriculum beyond USCIS test prep
+- Train adult education instructors in civic content
+
+**Year 3-5 Scaling**:
+
+- Expand community college civics to 50+ institutions
+- Library civic programs in major metropolitan systems
+- Integration with WIOA adult education providers
+- Immigrant civic integration partnerships in high-immigration states
+
 ## Phase 3: Institutionalization (Year 4-7)
 
 ### Assessment Integration
@@ -326,7 +342,9 @@ Change requires both system reform and external pressure:
 | 10 states strengthen requirements | Year 2 | Legislation passed |
 | 25,000 teachers trained | Year 3 | Training completed |
 | Assessment pilots launched | Year 3 | 5 states |
+| Adult civics pilots operational | Year 3 | 10 community colleges, 5 library systems |
 | NAEP improvement | Year 5 | Scores up |
+| Adult civics scaled | Year 5 | 50+ community colleges |
 | 30 states with strong civics | Year 7 | Requirements in place |
 
 ## Document Navigation

@@ -321,6 +321,53 @@ Civic education is isolated within schools, disconnected from civic life.
 - Student connections to adult world
 - Resource expansion
 
+## Adult and Immigrant Civic Education
+
+### Problem
+
+Adult civic education receives minimal attention despite low civic knowledge among adults. Immigrants preparing for naturalization often receive only test-focused instruction rather than meaningful civic preparation.
+
+### Solution: Community-Based Adult Civic Learning
+
+**Community College Programs**:
+
+- Civics courses in continuing education
+- Integration with ESL and adult basic education
+- Credit and non-credit options
+- Flexible scheduling for working adults
+
+**Library and Community Organization Programs**:
+
+- Public libraries as civic learning hubs
+- Nonprofit civic education programming
+- Community discussion programs
+- Local government literacy workshops
+
+**Naturalization Civics Support**:
+
+- Beyond USCIS test preparation
+- Understanding rights and responsibilities
+- State and local government orientation
+- Civic engagement pathways after naturalization
+
+**Adult Civic Learning Formats**:
+
+| Format | Description |
+|--------|-------------|
+| Discussion circles | Facilitated civic conversations |
+| Government 101 workshops | Basic structure and process education |
+| Know Your Rights sessions | Constitutional rights education |
+| Local civics orientation | City/county government introduction |
+| Voter education | Nonpartisan election information |
+
+**Integration with Existing Programs**:
+
+- Adult education centers
+- Workforce development programs
+- Community colleges
+- Faith-based organizations
+- Immigrant service organizations
+
 ## Implementation Priorities
 
 | Reform | Impact | Feasibility | Priority |
