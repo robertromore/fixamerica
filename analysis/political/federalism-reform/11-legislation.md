@@ -140,9 +140,18 @@ SEC. 3. PRESUMPTION AGAINST PREEMPTION.
     (3) The express statement describes the scope of
         preemption.
 
-(c) NO IMPLIED PREEMPTION.—Neither field preemption nor
-    conflict preemption shall be found absent an express
-    statement of congressional intent.
+(c) LIMITATION ON IMPLIED PREEMPTION.—
+    (1) NO FIELD PREEMPTION.—Federal law shall not be
+        construed to preempt state law based on the
+        comprehensiveness of federal regulation in a
+        field absent an express statement.
+    (2) NO OBSTACLE PREEMPTION.—State law shall not be
+        preempted on the ground that it poses an obstacle
+        to federal objectives absent an express statement.
+    (3) DIRECT CONFLICT PRESERVED.—Nothing in this section
+        shall be construed to limit preemption where
+        compliance with both state and federal law is
+        physically impossible.
 
 SEC. 4. AGENCY PREEMPTION.
 
@@ -203,9 +212,20 @@ an annual report on—
 
 SEC. 8. SAVINGS CLAUSE.
 
-Nothing in this Act shall be construed to affect federal
-preemption of state laws that discriminate against interstate
-commerce or violate federal civil rights protections.
+(a) SUPREMACY CLAUSE.—Nothing in this Act shall be construed
+    to limit the operation of the Supremacy Clause of the
+    Constitution where state and federal law are in direct
+    and irreconcilable conflict.
+
+(b) EXISTING PREEMPTION.—The interpretive rules in sections
+    3(b) and 3(c) apply to statutes enacted after the effective
+    date of this Act and do not affect preemption under
+    existing law.
+
+(c) OTHER FEDERAL AUTHORITY.—Nothing in this Act shall be
+    construed to affect federal preemption of state laws that
+    discriminate against interstate commerce or violate federal
+    civil rights protections.
 
 SEC. 9. EFFECTIVE DATE.
 
@@ -263,6 +283,22 @@ SEC. 3. PRE-AUTHORIZATION OF COMPACT CATEGORIES.
 (b) NOTICE REQUIREMENT.—States entering into a pre-authorized
     compact shall provide notice to Congress within 60 days
     of the compact taking effect.
+
+(c) FEDERAL-INTEREST COMPATIBILITY.—Pre-authorization under
+    subsection (a) applies only to compacts that—
+    (1) do not conflict with existing federal law or regulation;
+    (2) do not affect federal appropriations or obligations;
+    (3) do not expand state authority over federal programs; and
+    (4) do not impair federal treaty or foreign affairs powers.
+
+(d) GAO REVIEW.—The Government Accountability Office shall
+    review each pre-authorized compact within 180 days of
+    notice and report to Congress on any federal-interest
+    concerns.
+
+(e) CONGRESSIONAL OBJECTION.—Congress may disapprove any
+    pre-authorized compact by joint resolution within 180
+    days of notice.
 
 SEC. 4. EXPEDITED CONSENT PROCESS.
 
@@ -323,8 +359,22 @@ SEC. 3. GRANT CONSOLIDATION AUTHORITY.
     (3) maintain accountability for outcomes;
     (4) increase state and local flexibility.
 
-(c) CONGRESSIONAL REVIEW.—Proposed consolidations shall be
-    submitted to Congress for a 60-day review period.
+(c) CONGRESSIONAL APPROVAL.—
+    (1) REQUIRED APPROVAL.—No consolidation shall take effect
+        unless approved by Congress through a joint resolution
+        of approval.
+    (2) EXPEDITED PROCEDURES.—Joint resolutions of approval
+        for consolidations recommended by OMB shall be
+        considered under expedited procedures as follows:
+        (A) The resolution shall be introduced within 10 days
+            of receipt of the OMB recommendation.
+        (B) Committee consideration shall be completed within
+            45 days.
+        (C) Floor consideration shall be completed within
+            15 days of committee action.
+    (3) NO AMENDMENTS.—Joint resolutions under this subsection
+        shall be considered up-or-down with no amendments
+        permitted; modifications require regular order.
 
 SEC. 4. UNIFIED GRANT APPLICATION.
 
@@ -370,6 +420,12 @@ to carry out this Act.
 ```
 
 ## State Model Legislation
+
+*Note: Model legislation below uses bracketed placeholders for state-specific customization:*
+
+- *[State]: Insert state name (e.g., "California", "Texas")*
+- *[State Budget Office]: Insert name of state budget agency (e.g., "Department of Finance", "Office of Budget and Management")*
+- *[date]: Insert desired effective date*
 
 ### Model Interstate Compact Enabling Act
 

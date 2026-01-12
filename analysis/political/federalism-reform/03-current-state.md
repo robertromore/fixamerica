@@ -12,7 +12,7 @@ The basic structure remains:
 - **Spending Power**: Federal grants as policy tool
 - **Tenth Amendment**: Reserved powers to states
 
-### Practical Reality
+### Practical Reality (as of 2024)
 
 Despite constitutional limits, federal influence pervasive:
 
@@ -88,7 +88,7 @@ Unfunded mandates remain significant despite 1995 reform:
 - **Conditional**: Attached to federal funding
 - **Constitutional**: Civil rights requirements
 
-**Major Unfunded or Underfunded Mandates**:
+**Major Unfunded or Underfunded Mandates (as of 2024)**:
 
 | Mandate | Annual State/Local Cost (est.) |
 |---------|-------------------------------|
@@ -126,7 +126,7 @@ From National Conference of State Legislatures (NCSL):
 
 ## Federal Grants and Conditions
 
-### Grant System Scale
+### Grant System Scale (as of 2024)
 
 Federal grants to states and localities:
 
@@ -186,7 +186,7 @@ A community seeking federal homelessness assistance may need to navigate:
 
 ### Interstate Compacts
 
-**Current Landscape**:
+**Current Landscape (as of 2024)**:
 
 Over 200 interstate compacts currently in force:
 
@@ -217,7 +217,7 @@ States compete for business through:
 - Weaker labor protections
 - Business-friendly courts
 
-**Economic Development Incentives**:
+**Economic Development Incentives (as of 2024)**:
 
 - $45+ billion annually in state/local incentives
 - Effectiveness questioned by research
@@ -301,7 +301,7 @@ Neither party consistently pro-federal or pro-state:
 - ESG investment restrictions
 - Election administration conflicts
 
-## Fiscal Federalism
+## Fiscal Federalism (as of 2024)
 
 ### Revenue and Spending Mismatch
 
@@ -341,6 +341,36 @@ Often overlooked dimension:
 - State preemption of local ordinances increasing
 - Minimum wage, plastic bags, sanctuary policies
 - "Super preemption" in some states
+
+## Sources
+
+### Government Sources
+
+- **Government Accountability Office (GAO)**: Reports on grants management, unfunded mandates, federal-state fiscal relations, and intergovernmental programs.
+- **Congressional Budget Office (CBO)**: Analysis of unfunded mandate costs, fiscal federalism, and grant program spending.
+- **Congressional Research Service (CRS)**: Reports on federal preemption, interstate compacts, and constitutional federalism issues.
+- **USASpending.gov**: Federal grant spending data by program and recipient.
+- **Census Bureau**: State and local government finances, Annual Survey of State and Local Government Finances.
+- **Office of Management and Budget (OMB)**: Federal grant program data, Uniform Guidance, and single audit data.
+
+### Nonprofit and Academic Sources
+
+- **National Conference of State Legislatures (NCSL)**: State legislative data, preemption analysis, unfunded mandate tracking.
+- **National Association of State Budget Officers (NASBO)**: State fiscal surveys, expenditure reports, and intergovernmental transfers data.
+- **National Governors Association (NGA)**: Federal-state relations policy positions and fiscal impact analyses.
+- **Brennan Center for Justice**: Preemption research and tracking, federalism and democracy analyses.
+- **Brookings Institution**: Federalism and intergovernmental relations research, metropolitan policy.
+- **Council of State Governments**: Interstate compact data, model legislation, and state cooperation initiatives.
+
+### Key Legal Sources
+
+- **Supreme Court federalism cases**:
+    - *South Dakota v. Dole*, 483 U.S. 203 (1987) — Spending power conditions
+    - *NFIB v. Sebelius*, 567 U.S. 519 (2012) — Coercion limits
+    - *Wyeth v. Levine*, 555 U.S. 555 (2009) — Presumption against preemption
+    - *Murphy v. NCAA*, 138 S. Ct. 1461 (2018) — Anti-commandeering
+    - *Printz v. United States*, 521 U.S. 898 (1997) — Anti-commandeering
+- **Unfunded Mandates Reform Act**, 2 U.S.C. §§ 1501-1571
 
 ## Document Navigation
 

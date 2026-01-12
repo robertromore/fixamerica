@@ -64,7 +64,7 @@ Cooperation and conflict between states:
 | Interstate compacts | Growing use | State cooperation workarounds |
 | Partisan federalism | Intensifying | Inconsistent principles |
 
-### Key Statistics
+### Key Statistics (as of 2024)
 
 - **Federal grants to states**: Over $750 billion annually
 - **Preemption statutes**: Hundreds enacted, affecting diverse policy areas
