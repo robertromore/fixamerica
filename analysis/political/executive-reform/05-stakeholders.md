@@ -14,16 +14,20 @@ Executive power affects every citizen:
 
 ### Military Personnel and Families
 
-Those most directly affected by commander-in-chief authority:
+Those most directly affected by commander-in-chief authority (as of 2024):
 
-- 1.4 million active duty service members
-- 800,000 reserve forces
-- 2.5 million military family members
+- 1.3 million active duty service members
+- 760,000 Selected Reserve forces
+- Approximately 2.6 million military family members
 - Decisions about deployment, engagement rules, and casualties
+
+*Source: Department of Defense Demographics Profile (FY 2023).*
 
 ### Federal Employees
 
-2.9 million civilian federal workers affected by:
+2.95 million civilian federal workers (as of 2024) affected by:
+
+*Source: Office of Personnel Management (OPM) Federal Workforce Statistics.*
 
 - Executive orders on employment policies
 - Agency reorganizations

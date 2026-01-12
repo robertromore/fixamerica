@@ -585,6 +585,12 @@ SEC. 8. EFFECTIVE DATE.
 
 ## State Model Legislation
 
+*Note: Model legislation below uses bracketed placeholders for state-specific customization:*
+
+- *[State]: Insert state name (e.g., "California", "Texas")*
+- *[State Register]: Insert name of official state publication for executive orders*
+- *[date]: Insert desired effective date*
+
 ### Executive Transparency Act (Model)
 
 **Purpose**: Require transparency in governors' executive orders and emergency declarations.

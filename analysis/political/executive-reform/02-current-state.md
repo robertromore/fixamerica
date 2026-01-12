@@ -30,7 +30,7 @@ Executive orders have the force of law when they:
 Courts have struck down executive orders that:
 
 - Exceed statutory authority (*Youngstown Sheet & Tube v. Sawyer*, 1952)
-- Violate constitutional rights (*Trump v. Hawaii* partially, travel ban 1.0 and 2.0)
+- Violate constitutional or statutory provisions (travel bans 1.0 and 2.0 enjoined by lower federal courts; *Trump v. Hawaii* (2018) later upheld revised version 3.0)
 - Contradict explicit congressional intent
 
 ## Emergency Powers
@@ -49,7 +49,7 @@ As of 2024, over 40 national emergencies remain in effect, some dating back deca
 
 ### Powers Activated
 
-National emergencies unlock over 130 statutory powers, including:
+National emergencies unlock over 130 statutory powers (per Brennan Center inventory), including:
 
 - Deploying military domestically
 - Seizing property
@@ -81,7 +81,7 @@ Passed over Nixon's veto, requires:
 - Reporting within 48 hours of deployment
 - Withdrawal within 60-90 days without congressional authorization
 
-### Actual Practice
+### Actual Practice (as of 2024)
 
 No president has acknowledged the constitutionality of the War Powers Resolution. Recent conflicts:
 
@@ -222,7 +222,7 @@ The Vacancies Act allows acting appointments for 210 days, but:
 - Pro forma sessions prevent most recess appointments
 - Effectively defunct as presidential tool
 
-## Key Statistics
+## Key Statistics (as of 2024)
 
 | Metric | Current Status |
 |--------|----------------|
@@ -232,6 +232,28 @@ The Vacancies Act allows acting appointments for 210 days, but:
 | Executive orders (all time) | ~14,000 |
 | Average Senate confirmation time | 4-6 months |
 | Inspector General vacancies (recent peak) | 5+ simultaneous |
+
+## Sources
+
+### Government Sources
+
+- **Congressional Research Service (CRS)**: Reports on executive orders, emergency powers, war powers, and appointments.
+- **Federal Register**: Executive order publication, proclamations, and national emergency declarations.
+- **Government Accountability Office (GAO)**: Reports on acting officials, Vacancies Act compliance, IG vacancies.
+
+### Academic and Nonprofit Sources
+
+- **Brennan Center for Justice**: Emergency powers inventory (130+ powers analysis), national emergency tracker. <https://www.brennancenter.org/>
+- **American Presidency Project (UC Santa Barbara)**: Executive order database and statistics by administration. <https://www.presidency.ucsb.edu/>
+- **Lawfare**: Analysis of war powers, national security law, and executive authority.
+
+### Key Court Cases
+
+- *Youngstown Sheet & Tube Co. v. Sawyer*, 343 U.S. 579 (1952) - Executive authority limits
+- *Trump v. Hawaii*, 585 U.S. ___ (2018) - Travel ban upheld
+- *Trump v. United States*, 603 U.S. ___ (2024) - Presidential immunity
+- *Seila Law LLC v. CFPB*, 591 U.S. ___ (2020) - Agency removal protections
+- *NLRB v. Noel Canning*, 573 U.S. 513 (2014) - Recess appointments
 
 ## Document Navigation
 
