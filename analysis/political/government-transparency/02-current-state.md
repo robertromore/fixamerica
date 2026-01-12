@@ -31,7 +31,7 @@
 | 8 | Financial institutions | Bank examinations |
 | 9 | Geological information | Oil/gas well data |
 
-### FOIA Statistics (Recent Years)
+### FOIA Statistics (as of 2024)
 
 | Metric | FY 2022 | Trend |
 |--------|---------|-------|
@@ -100,7 +100,7 @@
 - "Need to know" strictly enforced
 - Oversight extremely limited
 
-### Classification Statistics
+### Classification Statistics (as of 2024)
 
 | Metric | Annual Estimate |
 |--------|-----------------|
@@ -116,6 +116,7 @@
 **Evidence of Over-Classification**:
 
 - Former officials estimate 50-90% over-classified
+  *Source: Public Interest Declassification Board reports; J. William Leonard, former ISOO Director.*
 - "Born classified" nuclear information includes public science
 - Embarrassing information classified
 - Information already public re-classified
@@ -201,7 +202,7 @@
 | Daniel Hale | Drone program | 4 years imprisonment |
 | Daniel Ellsberg | Pentagon Papers | Charges dismissed (govt. misconduct) |
 
-## Open Data Initiatives
+## Open Data Initiatives (as of 2024)
 
 ### Federal Open Data Policy
 
@@ -332,6 +333,36 @@
 | Campaign coordination | Difficult to track |
 | Dark money | Donors hidden |
 | Trade negotiations | Often classified |
+
+## Sources
+
+### Government Sources
+
+- **Department of Justice FOIA Annual Reports**: Government-wide FOIA statistics by fiscal year, including request volumes, processing times, exemption usage, and backlog data.
+- **Information Security Oversight Office (ISOO)**: Annual reports on classification and declassification activity, original and derivative classification counts.
+- **Office of Government Information Services (OGIS)**: FOIA ombudsman data, compliance reports, and dispute resolution statistics.
+- **National Archives and Records Administration (NARA)**: Declassification statistics, backlog data, and records management.
+- **Data.gov**: Federal open data portal statistics and dataset counts.
+- **USASpending.gov**: Federal spending transparency data.
+- **Government Accountability Office (GAO)**: Reports on FOIA implementation, classification oversight, and whistleblower programs.
+- **Congressional Research Service (CRS)**: Analysis of transparency laws, FOIA amendments, and classification policy.
+
+### Nonprofit and Academic Sources
+
+- **Reporters Committee for Freedom of the Press (RCFP)**: FOIA litigation tracking, open government advocacy, and state public records law analysis.
+- **National Security Archive**: Declassification advocacy, FOIA audits, and government secrecy research.
+- **Project on Government Oversight (POGO)**: Whistleblower protection analysis, government accountability investigations.
+- **Brennan Center for Justice**: Classification reform research, government secrecy studies.
+- **Government Accountability Project**: Whistleblower case outcomes and protection advocacy.
+
+### Key Legal Sources
+
+- **Freedom of Information Act**, 5 U.S.C. § 552
+- **Whistleblower Protection Act**, 5 U.S.C. § 2302(b)(8)
+- **Intelligence Community Whistleblower Protection Act**, 50 U.S.C. § 3033(k)(5)
+- **OPEN Government Data Act**, 44 U.S.C. § 3502 note
+- **Government in the Sunshine Act**, 5 U.S.C. § 552b
+- **Federal Advisory Committee Act**, 5 U.S.C. App.
 
 ## Document Navigation
 

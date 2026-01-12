@@ -44,12 +44,12 @@ Government transparency—the public's ability to access information about gover
 | Federal Advisory Committee Act | Open meetings | Compliance gaps |
 | Ethics in Government Act | Financial disclosure | Limited enforcement |
 
-### Key Statistics
+### Key Statistics (as of 2024)
 
 - **FOIA requests annually**: 800,000+ across federal government
 - **Average response time**: Varies widely (days to years)
 - **Classification decisions annually**: 50+ million
-- **Over-classified documents**: Estimated 50-90% could be public
+- **Over-classified documents**: Former officials estimate 50-90% could be public
 - **Whistleblower retaliation findings**: Low success rates for complainants
 
 ### Recent Developments

@@ -43,7 +43,19 @@ SEC. 3. ENFORCEABLE DEADLINES.
     40 business days, the request shall be deemed granted and
     responsive records shall be released, unless the agency
     certifies in writing that release would cause specific,
-    demonstrable harm to national security.
+    demonstrable harm to an interest protected by an exemption
+    under 5 U.S.C. § 552(b). Such certification shall—
+    (1) identify the specific exemption(s) invoked;
+    (2) describe the harm that would result from disclosure; and
+    (3) be subject to judicial review for abuse.
+
+(c) PENALTY FOR LATE CERTIFICATION.—If an agency issues a
+    certification under subsection (b) after the 40-day deadline,
+    the agency shall—
+    (1) waive all fees for the request;
+    (2) pay the requester's reasonable attorney's fees if the
+        requester successfully challenges the certification; and
+    (3) report the delay to the Inspector General.
 
 SEC. 4. EXEMPTION REFORM.
 
