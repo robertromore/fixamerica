@@ -76,6 +76,57 @@ Regional boundaries may be revised without full constitutional amendment through
 
 ---
 
+### Section 5. Inter-Regional Cooperation
+
+(a) Two or more Regions may enter into agreements for cooperative action on any matter within their respective powers.
+
+(b) Such agreements require no federal approval unless they:
+
+- affect federal enumerated powers,
+- create binding obligations on non-participating Regions,
+- or conflict with federal law enacted pursuant to enumerated powers.
+
+(c) Regions may establish joint institutions, shared programs, cooperative purchasing arrangements, and coordinated policy frameworks.
+
+(d) Inter-regional agreements shall specify:
+
+- governance structure and decision-making procedures,
+- cost-sharing and fiscal responsibilities,
+- dispute resolution mechanisms,
+- withdrawal procedures and transition provisions.
+
+(e) Nothing in this section shall be construed to authorize Regions to jointly exercise powers reserved to the federal government or to create obligations binding on the United States.
+
+---
+
+### Section 6. Right of Transit and Non-Blockade
+
+(a) No Region may deny, obstruct, or unreasonably condition access to transportation infrastructure, energy transmission systems, or communication networks that connect other Regions to each other or to external markets.
+
+(b) All Regions shall have the right of transit through other Regions for goods, persons, and services on reasonable and non-discriminatory terms.
+
+(c) Infrastructure user fees, tolls, and charges imposed on transit traffic shall be:
+
+- non-discriminatory (no higher than fees for comparable intra-Regional traffic),
+- cost-based (related to actual infrastructure costs),
+- transparent (published and applied uniformly).
+
+(d) A Region that believes its right of transit is being violated may seek:
+
+- expedited mediation through the Allocation Review Board (14 days),
+- injunctive relief from Regional Courts (with federal backup jurisdiction),
+- federal enforcement of access under the national common market power.
+
+(e) In cases of imminent or ongoing blockade, the federal government may:
+
+- order immediate restoration of access pending dispute resolution,
+- impose sanctions on the offending Region, including withholding of equalization transfers,
+- assume temporary operational control of affected infrastructure.
+
+(f) This section does not require Regions to build new infrastructure, only to maintain reasonable access to existing infrastructure connecting other Regions.
+
+---
+
 # ARTICLE II - ALLOCATION OF POWERS
 
 ### Section 1. Enumerated Federal Powers
@@ -88,7 +139,7 @@ Federal authority is limited to powers expressly enumerated herein, including:
 - immigration and citizenship,
 - enforcement of constitutional rights floors,
 - maintenance of a national common market,
-- national benefits spine,
+- national benefits floor,
 - emergency powers as strictly limited by this Constitution.
 
 All powers not enumerated are denied.
@@ -423,6 +474,20 @@ If courts fail to act, constitutional default rules shall apply automatically.
 
 ---
 
+### Section 6. Term Limits
+
+(a) Justices of the Supreme Court shall serve a single term of eighteen years.
+
+(b) Terms shall be staggered such that one vacancy occurs every two years under ordinary circumstances.
+
+(c) Upon completion of a term, a Justice may not be reappointed to the Supreme Court but may serve on lower federal courts.
+
+(d) Congress shall by statute provide for the initial staggering of terms upon ratification, ensuring that no more than two Justices appointed under the prior system leave the Court in any single two-year period.
+
+(e) Judges of lower federal courts shall serve terms as established by statute, subject to good behavior requirements.
+
+---
+
 # ARTICLE XII - ARMED FORCES AND CIVILIAN CONTROL
 
 ### Section 1. Force Structure
@@ -461,7 +526,124 @@ All service members have a constitutional duty to refuse unlawful orders and sha
 
 ---
 
-# ARTICLE XIII - EMERGENCY POWERS
+# ARTICLE XIII - CYBER DEFENSE AND DIGITAL SECURITY
+
+### Section 1. Constitutional Domain
+
+The cyber domain presents distinct constitutional risks that require explicit treatment separate from kinetic armed force:
+
+- Nation-state cyber attacks can disrupt elections, sabotage infrastructure, and undermine democratic processes.
+- Unlike traditional threats, cyber attacks cross borders instantly, exploit civilian systems, and blur the distinction between war and peace.
+- Cyber capabilities can enable domestic authoritarianism through surveillance, political targeting, and information manipulation.
+
+This Article establishes allocation of authority, protective thresholds, and prohibitions to address these risks.
+
+---
+
+### Section 2. Allocation of Cyber Defense Authority
+
+(a) Cyber defense shall be allocated as follows:
+
+- Federal Armed Forces: defense against nation-state cyber adversaries, protection of federal systems, intelligence gathering on foreign threats, and coordination with international allies.
+- Regional Guard Forces: protection of regional critical infrastructure including election systems, and coordination of incident response across member states.
+- States and private sector: protection of state systems and private infrastructure, with mandatory reporting of breaches affecting public safety.
+
+(b) Federal cyber forces are part of the Federal Armed Forces and subject to the civilian control requirements of Article XII.
+
+(c) Regional cyber units are part of Regional Guard Forces.
+
+---
+
+### Section 3. Critical Infrastructure
+
+(a) Critical infrastructure includes electrical grids, water and wastewater systems, financial networks, healthcare systems, transportation networks, and communications infrastructure.
+
+(b) Protection responsibilities are allocated by:
+
+- Scale of impact: National systems are federal responsibility; regional systems are regional responsibility.
+- Ownership: Private operators bear primary responsibility for their own systems, with government oversight.
+- Spillover effects: Infrastructure crossing regional boundaries requires federal coordination.
+
+---
+
+### Section 4. Incident Response Thresholds
+
+(a) Cyber incidents rising to the level of armed attack are subject to the two-key authorization requirement of Article XII, Section 2.
+
+(b) Such incidents trigger emergency powers under Article XIV, subject to the same time limits and restoration mandates.
+
+(c) Routine cyber defense operations-including monitoring, patching, and incident response-do not require two-key authorization and operate under normal administrative authority.
+
+---
+
+### Section 5. Digital Rights and Prohibitions
+
+(a) The federal government shall not conduct domestic surveillance without judicial authorization.
+
+(b) No government at any level may use cyber capabilities against lawful political activity.
+
+(c) The federal government shall not assume control of regional election infrastructure except as provided in Article VI.
+
+(d) These prohibitions apply equally to direct action and to procurement of such action from private parties or foreign entities.
+
+(e) Intelligence Oversight and Accountability.
+
+(1) All frameworks, agreements, or understandings with foreign governments or entities concerning intelligence activities affecting persons within the United States shall be reported to a designated congressional oversight committee within thirty days of execution. Operational details may be omitted; the existence and scope of such arrangements may not be.
+
+(2) Any person with knowledge of violations of this section may report such violations through classified channels to the Inspector General for Intelligence or to the congressional intelligence committees. The identity of such persons shall be protected, and retaliation against them is prohibited and actionable.
+
+(3) In any prosecution for unauthorized disclosure, evidence that the disclosure revealed a violation of this section may be raised as an affirmative defense, and the jury shall be instructed that such disclosure may be justified if the defendant reasonably believed internal channels were unavailable or compromised.
+
+(4) Information obtained in violation of this section is inadmissible in any judicial, administrative, or legislative proceeding.
+
+---
+
+### Section 6. Duty to Refuse Unlawful Orders
+
+The duty to refuse unlawful orders under Article XII, Section 3 applies to all cyber operations.
+
+---
+
+### Section 7. Foreign Information Operations
+
+#### (a) Disclosure Requirements
+
+Congress may require disclosure of:
+
+1. foreign government funding, ownership, or control of media entities operating domestically;
+2. coordinated inauthentic behavior by foreign state actors on digital platforms;
+3. the origin of political advertising funded directly or indirectly by foreign governments;
+4. algorithmic amplification of content originating from state-controlled foreign media.
+
+#### (b) Prohibition on Censorship Powers
+
+This section shall not be construed to authorize:
+
+1. government determination of truth or falsity of speech content;
+2. suppression, removal, or penalization of speech based on viewpoint;
+3. criminalization of the receipt or dissemination of information from foreign sources;
+4. prior restraint on publication or distribution.
+
+#### (c) Platform Transparency
+
+Congress may require operators of large digital platforms to:
+
+1. label content from state-affiliated foreign media;
+2. disclose algorithmic amplification patterns for foreign state content;
+3. provide researchers access to data on coordinated inauthentic behavior;
+4. report to designated oversight bodies on detected foreign influence operations.
+
+#### (d) Regional Implementation
+
+Regions may implement additional disclosure requirements consistent with this section, provided they do not conflict with federal foreign policy or create barriers to interstate communication.
+
+#### (e) Limitation
+
+No authority granted under this section shall be used against domestic political activity, journalism, or advocacy, regardless of whether such activity aligns with foreign government positions.
+
+---
+
+# ARTICLE XIV - EMERGENCY POWERS
 
 ### Section 1. Declaration
 
@@ -481,7 +663,7 @@ Every emergency action must include explicit restoration conditions.
 
 ---
 
-# ARTICLE XIV - SUPREMACY AND CONSTRUCTION
+# ARTICLE XV - SUPREMACY AND CONSTRUCTION
 
 ### Section 1. Enumerated Powers Supremacy
 
@@ -495,7 +677,7 @@ Rights and standards shall be construed as floors unless explicitly stated other
 
 ---
 
-# ARTICLE XV - RATIFICATION AND TRANSITION
+# ARTICLE XVI - RATIFICATION AND TRANSITION
 
 ### Section 1. Effect Upon Ratification
 
@@ -522,8 +704,8 @@ This amendment package shall take effect upon ratification pursuant to its own t
 
 The following provisions take effect immediately upon ratification and may not be delayed by transition legislation:
 
-- Congressional representation for the District of Columbia (Article XVI, Section 1(a))
-- Rights floors and the floor presumption (Article III; Article XIV, Section 2)
+- Congressional representation for the District of Columbia (Article XVII, Section 1(a))
+- Rights floors and the floor presumption (Article III; Article XV, Section 2)
 - Prohibition on power expansion during transition
 - The amendment process (Article X)
 - Mandatory jurisdiction for constitutional cases (Article XI, Section 1)
@@ -541,7 +723,7 @@ Upon completion of the transition period:
 
 ---
 
-# ARTICLE XVI - NON-STATE ENTITIES
+# ARTICLE XVII - NON-STATE ENTITIES
 
 ### Section 1. District of Columbia
 
@@ -552,7 +734,14 @@ Upon completion of the transition period:
 - admit the District as a State and assign it to a Region, or
 - assign the District to a Region for purposes of regional governance while preserving its unique federal district status.
 
-(c) Until such determination:
+(c) Regional assignment of the District shall require:
+
+- approval by a two-thirds vote of the receiving Region's legislature, and
+- approval by a majority of District residents voting in a referendum on the assignment.
+
+No assignment may be enacted, amended, or take effect within one year before or six months after a federal presidential election.
+
+(d) Until such determination:
 
 - For presidential elections: residents of the District shall vote as part of the national popular vote; their votes are counted nationally, not assigned to any Region.
 - For congressional elections: the District elects its own Representatives and Senators as provided in subsection (a).
@@ -564,13 +753,23 @@ Upon completion of the transition period:
 
 (a) Residents of United States territories shall be entitled to participate in federal elections. Congress shall by statute assign each territory to a Region for purposes of such participation.
 
-(b) Congress shall by statute establish a clear path for each territory to:
+(b) Regional assignment of territories shall be governed by the following constraints:
+
+(1) Assignment must be based on geographic proximity, historical connection, or economic integration. No territory may be assigned to a Region with which it shares no such connection.
+
+(2) Assignment requires approval by a two-thirds vote of the receiving Region's legislature.
+
+(3) No territory assignment may be enacted, amended, or take effect within one year before or six months after a federal presidential election.
+
+(4) The territory's residents shall have the opportunity to approve or reject regional assignment by referendum. Rejection does not prevent federal election participation but delays regional governance integration until a subsequent assignment is approved.
+
+(c) Congress shall by statute establish a clear path for each territory to:
 
 - petition for statehood and subsequent regional assignment,
 - petition for regional assignment without statehood,
 - or continue territorial status with defined representation rights.
 
-(c) No territory may be held indefinitely without a defined governance status. Congress shall act on any territorial petition within five years.
+(d) No territory may be held indefinitely without a defined governance status. Congress shall act on any territorial petition within five years.
 
 ---
 
@@ -588,7 +787,7 @@ Upon completion of the transition period:
 
 ---
 
-# ARTICLE XVII - IMPLEMENTATION AND DEFAULT RULES
+# ARTICLE XVIII - IMPLEMENTATION AND DEFAULT RULES
 
 ### Section 1. Congressional Implementation Duty
 
@@ -681,11 +880,11 @@ Idaho, Montana, Wyoming
 
 ### Schedule Notes
 
-(a) The District of Columbia is not assigned to any Region upon ratification. Its regional assignment shall be determined pursuant to Article XVI, Section 1(b).
+(a) The District of Columbia is not assigned to any Region upon ratification. Its regional assignment shall be determined pursuant to Article XVII, Section 1(b).
 
-(b) United States territories are not assigned to any Region upon ratification. Their regional assignment shall be determined pursuant to Article XVI, Section 2(a).
+(b) United States territories are not assigned to any Region upon ratification. Their regional assignment shall be determined pursuant to Article XVII, Section 2(a).
 
-(c) Tribal lands within state boundaries remain under tribal and federal jurisdiction as provided in Article XVI, Section 3.
+(c) Tribal lands within state boundaries remain under tribal and federal jurisdiction as provided in Article XVII, Section 3.
 
 (d) These initial boundaries are based on geographic, economic, and demographic considerations as of ratification. Future boundary revisions shall follow the process established in Article I, Section 4.
 
@@ -748,23 +947,24 @@ It promises something more realistic:
 ## Related Documents
 
 - [Core Idea: Regional Federalism](../01-foundation/01-core-idea.md)
-- [Allocation of Powers](../02-design/01-allocation-of-powers.md)
+- [Allocation of Powers](01-allocation-of-powers.md)
+- [Elections and Democratic Legitimacy](02-elections.md)
+- [Political Institutions](03-institutions.md)
+- [The Constitutional Amendment Process](04-amendment-process.md)
+- [Federal Taxation and Fiscal Architecture](05-fiscal-architecture.md)
+- [Armed Forces and Civilian Control](06-armed-forces.md)
+- [Judiciary and Constitutional Enforcement](07-judiciary.md)
+- [Secession, Nullification, and De-Escalation](08-secession-nullification.md)
 - [Stress-Testing Policy Conflicts](../03-analysis/01-stress-testing-policy.md)
 - [Stress-Testing Economic Conflicts](../03-analysis/02-stress-testing-economic.md)
-- [Elections and Democratic Legitimacy](../02-design/02-elections.md)
-- [Political Institutions](../02-design/03-institutions.md)
-- [The Constitutional Amendment Process](../02-design/04-amendment-process.md)
-- [Federal Taxation and Fiscal Architecture](../02-design/05-fiscal-architecture.md)
-- [Secession, Nullification, and De-Escalation](../02-design/08-secession-nullification.md)
 - [Historical Failure Analysis](../03-analysis/03-historical-failures.md)
 - [Hostile Reinterpretation Stress Test](../03-analysis/04-hostile-reinterpretation.md)
 - [Authoritarian Consolidation Scenario](../03-analysis/05-authoritarian-scenario.md)
-- [Armed Forces and Civilian Control](../02-design/06-armed-forces.md)
-- [Judiciary and Constitutional Enforcement](../02-design/07-judiciary.md)
+- [Foreign Information Warfare Stress Test](../03-analysis/06-foreign-information-warfare.md)
 
 ---
 
 ## Document Navigation
 
-- Previous: [Judiciary and Constitutional Enforcement](../02-design/07-judiciary.md)
+- Previous: [Secession, Nullification, and De-Escalation](08-secession-nullification.md)
 - Next: [Meta-Level Conclusions](../04-meta/01-conclusions.md)
