@@ -63,16 +63,32 @@ Regional boundaries may be revised without full constitutional amendment through
 
 (a) An Independent Boundary Review Commission shall be established by Congress and shall review regional boundaries every twenty years following each decennial census.
 
-(b) The Commission shall recommend boundary adjustments based on criteria established by statute, which may include population balance, economic coherence, infrastructure alignment, and geographic considerations.
+(b) Commission Structure. The Commission shall consist of:
 
-(c) Boundary revisions require:
+- nine members: three appointed by the President, three by the Senate (with bipartisan selection), and three by a majority vote of Regional Governors,
+- members serving single six-year terms, removable only for cause,
+- an independent budget appropriated as mandatory spending.
+
+If Congress fails to establish the Commission within two years of this Constitution's ratification, the Comptroller General shall convene an interim Commission using retired federal judges and nonpartisan demographers until Congress acts.
+
+(c) The Commission shall recommend boundary adjustments based on criteria established by statute, which may include population balance, economic coherence, infrastructure alignment, and geographic considerations.
+
+(d) Congressional Action Deadline. Within eighteen months of receiving Commission recommendations, Congress shall schedule a national referendum on any proposed boundary revision. If Congress fails to act within this period, the Commission may directly submit its recommendations to the national referendum process.
+
+(e) Boundary revisions require:
 
 - approval by two-thirds of the legislature of each affected Region,
 - approval by national popular referendum.
 
-(d) No boundary revision may be proposed, voted upon, or take effect within one year before or six months after a federal presidential election.
+(f) Referendum Failure. If a proposed boundary revision fails to achieve the required approvals:
 
-(e) Criteria for boundary revision shall be defined by statute and may be updated by Congress. The Constitution establishes only the process and consent thresholds.
+- the Commission shall issue a public report analyzing the reasons for failure within sixty days,
+- no substantially similar proposal may be submitted for referendum within four years,
+- the Commission may propose alternative revisions addressing identified concerns in the next review cycle.
+
+(g) No boundary revision may be proposed, voted upon, or take effect within one year before or six months after a federal presidential election.
+
+(h) Criteria for boundary revision shall be defined by statute and may be updated by Congress. The Constitution establishes only the process and consent thresholds.
 
 ---
 
@@ -124,6 +140,200 @@ Regional boundaries may be revised without full constitutional amendment through
 - assume temporary operational control of affected infrastructure.
 
 (f) This section does not require Regions to build new infrastructure, only to maintain reasonable access to existing infrastructure connecting other Regions.
+
+---
+
+### Section 7. Water Rights and Shared Waterways
+
+(a) Interstate rivers, lakes, aquifers, and watersheds that cross or border Regional boundaries are shared resources of all affected Regions and the United States.
+
+(b) No Region may unilaterally:
+
+- divert, dam, or appropriate water in a manner that substantially diminishes the quantity or quality of water available to downstream or adjacent Regions,
+- discharge pollutants that render water unusable by other Regions,
+- destroy wetlands, flood plains, or natural water management systems upon which other Regions depend.
+
+(c) Water allocation among Regions shall be governed by principles of equitable apportionment, considering:
+
+- historical usage patterns,
+- population and reasonable projected needs,
+- environmental sustainability requirements,
+- economic dependency,
+- efficiency of use,
+- availability of alternative sources.
+
+(d) Congress shall establish a Water Resources Coordination Board to:
+
+- monitor shared water resources,
+- provide technical assessments and projections,
+- facilitate negotiation of water-sharing agreements,
+- recommend equitable allocations when Regions cannot agree.
+
+(e) A Region that believes its water rights are being violated may seek:
+
+- expedited mediation through the Water Resources Coordination Board (21 days),
+- adjudication by the National Water Court (a specialized tribunal within the federal judiciary),
+- emergency injunctive relief to prevent irreversible harm.
+
+(f) In cases of ongoing or imminent harm to shared water resources, the federal government may:
+
+- order immediate cessation of harmful activities pending dispute resolution,
+- impose sanctions on the offending Region, including withholding of equalization transfers,
+- implement emergency conservation measures,
+- assume temporary operational control of water infrastructure causing harm.
+
+(g) Existing interstate water compacts shall remain in force unless superseded by Regional agreement or federal law enacted pursuant to this section.
+
+(h) Nothing in this section shall be construed to diminish treaty obligations to Native nations regarding water rights or to authorize taking of water rights without just compensation.
+
+---
+
+### Section 8. Freedom of Movement
+
+(a) All citizens of the United States shall have the right to:
+
+- travel freely between and within Regions,
+- establish residence in any Region,
+- seek employment in any Region,
+- access public services on equal terms with residents after establishing residence.
+
+(b) No Region may:
+
+- impose border controls, checkpoints, or travel documentation requirements for movement between Regions,
+- require waiting periods exceeding ninety days for access to public services for new residents (excluding residency requirements for voting, which shall not exceed thirty days),
+- discriminate in employment, housing, or public accommodations based on Region of origin,
+- condition professional licensure or credentialing on Region of prior residence.
+
+(c) Durational residency requirements are permissible only for:
+
+- voting registration (not exceeding thirty days),
+- in-state tuition eligibility at public institutions (not exceeding twelve months),
+- candidacy for elected office (as established by statute, not exceeding the term length of the office sought).
+
+(d) This section shall not be construed to:
+
+- require Regions to subsidize relocation,
+- prevent reasonable transition periods for benefit eligibility where portability is ensured,
+- override legitimate public health quarantine measures during declared emergencies.
+
+(e) A person whose freedom of movement has been impaired may seek injunctive relief in any Regional Court, with expedited review (seven days).
+
+---
+
+### Section 9. Mutual Recognition
+
+(a) Full Faith and Credit. Each Region, State, Territory, and federally recognized Tribal Nation shall give full faith and credit to the public acts, records, and judicial proceedings of every other Region, State, Territory, and federally recognized Tribal Nation.
+
+(b) Legal Status Recognition. The following legal statuses established under the laws of any Region, State, Territory, or federally recognized Tribal Nation shall be recognized in all other Regions, States, Territories, and Tribal Nations:
+
+- marriages and civil unions,
+- divorces and dissolutions,
+- adoptions and parentage determinations,
+- name and gender marker changes,
+- powers of attorney and advance directives,
+- corporate formation and business registrations,
+- property titles and security interests.
+
+(c) Professional Credentials. Professional licenses and credentials issued by any Region, State, Territory, or federally recognized Tribal Nation shall be recognized for practice in all other Regions, States, Territories, and Tribal Nations, subject only to:
+
+- registration with the receiving jurisdiction's licensing authority,
+- payment of reasonable administrative fees limited to actual processing costs and not exceeding one hundred dollars (adjusted for inflation from the date of ratification),
+- verification that the credential remains in good standing,
+- completion of supplementary requirements only where the receiving jurisdiction's licensing standards demonstrably exceed those of the issuing jurisdiction (with burden of proof on the receiving jurisdiction).
+
+(d) Academic Credentials. Educational degrees, certifications, and transcripts issued by accredited institutions shall be recognized throughout the United States without requiring revalidation.
+
+(e) No Region, State, Territory, or federally recognized Tribal Nation may refuse recognition of legal statuses, credentials, or records on the basis of:
+
+- religious or moral objection to the underlying status,
+- political disagreement with the issuing jurisdiction,
+- intent to disadvantage residents of other jurisdictions,
+- economic protectionism or intent to limit competition,
+- retaliation for unrelated disputes with the issuing jurisdiction,
+- unsubstantiated claims of public safety concern.
+
+(f) Disputes regarding mutual recognition shall be subject to expedited resolution (fourteen days) in Regional Courts, with appeal to federal courts on constitutional questions.
+
+(g) Congress may by law establish uniform standards for recognition and reciprocity to facilitate the purposes of this section.
+
+---
+
+### Section 10. Environmental Border Protection
+
+(a) No Region, State, Territory, or federally recognized Tribal Nation may externalize environmental harms to other Regions, States, Territories, or Tribal Nations. Specifically, no jurisdiction may:
+
+- site polluting facilities within fifty miles of a jurisdictional boundary with the intent or effect of exporting pollution to neighboring jurisdictions,
+- permit emissions, discharges, or waste disposal that cause measurable harm to air quality, water quality, or public health in other jurisdictions,
+- dispose of hazardous materials in a manner that creates risk of migration to other jurisdictions,
+- engage in land use practices that cause significant flooding, erosion, or ecological damage in other jurisdictions.
+
+(b) The fifty-mile buffer zone in subsection (a) may be adjusted by mutual agreement between affected jurisdictions or by federal regulation based on scientific evidence of actual pollution dispersion patterns.
+
+(c) An affected Region, State, Territory, or federally recognized Tribal Nation may seek:
+
+- injunctive relief to halt harmful activities,
+- compensatory damages for documented harm,
+- remediation orders requiring cleanup or restoration.
+
+(d) The Environmental Protection Agency shall maintain monitoring capacity at jurisdictional boundaries and shall have independent authority to:
+
+- investigate transboundary pollution complaints,
+- issue citations and administrative penalties,
+- refer cases for federal enforcement.
+
+(e) In cases of ongoing or imminent transboundary environmental harm, the federal government may:
+
+- order immediate cessation of harmful activities,
+- impose sanctions including withholding of equalization transfers,
+- undertake emergency remediation with cost recovery from the responsible jurisdiction.
+
+(f) This section supplements, and does not displace, federal environmental laws establishing national minimum standards.
+
+(g) Nothing in this section shall prevent Regions, States, Territories, or federally recognized Tribal Nations from establishing environmental standards more protective than federal floors, provided such standards do not discriminate against interstate commerce.
+
+---
+
+### Section 11. Cross-Jurisdictional Law Enforcement Cooperation
+
+(a) Extradition. A person charged with a crime in one Region, State, Territory, or federally recognized Tribal Nation who flees to another jurisdiction shall, upon demand of the executive authority of the jurisdiction from which they fled, be delivered to the jurisdiction having jurisdiction over the crime.
+
+(b) Extradition shall be mandatory for:
+
+- all crimes punishable by imprisonment of one year or more in the requesting jurisdiction,
+- all crimes involving violence against persons,
+- all crimes involving minors as victims,
+- all crimes involving fraud or financial exploitation,
+- all crimes involving public corruption or abuse of office.
+
+(c) A Region, State, Territory, or federally recognized Tribal Nation may decline extradition only where:
+
+- the requesting jurisdiction seeks to impose a sentence that would violate federal rights floors (such as the death penalty where constitutionally prohibited),
+- there is substantial evidence that the person will face persecution unrelated to the alleged crime,
+- the alleged conduct is not criminal in the receiving jurisdiction and does not involve violence, fraud, or harm to minors.
+
+(d) Extradition proceedings shall be completed within sixty days of demand. Failure to complete proceedings within this period shall result in automatic transfer of custody to federal authorities for extradition.
+
+(e) Hot Pursuit. Law enforcement officers in fresh pursuit of a person for a felony offense may continue pursuit across jurisdictional boundaries without interruption. Such officers shall:
+
+- notify the law enforcement authorities of the jurisdiction entered as soon as practicable,
+- defer to local authorities upon their arrival unless immediate action is necessary to prevent harm,
+- comply with the use-of-force standards of the jurisdiction in which they are operating.
+
+(f) Mutual Legal Assistance. Regions, States, Territories, and federally recognized Tribal Nations shall cooperate in criminal investigations by:
+
+- honoring lawfully issued subpoenas and warrants from other jurisdictions,
+- sharing evidence and records upon proper request,
+- facilitating witness testimony across jurisdictional boundaries.
+
+(g) Information Sharing. Congress shall establish secure systems for sharing law enforcement information across jurisdictional boundaries, subject to privacy protections and oversight.
+
+(h) No Safe Harbors. No Region, State, Territory, or federally recognized Tribal Nation may adopt policies designed to shield individuals from lawful prosecution in other jurisdictions for crimes of violence, fraud, or harm to minors.
+
+(i) Nothing in this section shall require Regions, States, Territories, or federally recognized Tribal Nations to cooperate in enforcement of laws that would violate federal rights floors or to participate in enforcement actions that the receiving jurisdiction determines are pretextual or politically motivated.
+
+(j) Disputes regarding cross-jurisdictional law enforcement cooperation shall be resolved by federal courts with expedited review (fourteen days).
+
+(k) Nothing in this section shall be construed to diminish the sovereign authority of federally recognized Tribal Nations over criminal matters within their jurisdiction, except as otherwise provided by treaty or federal law. Cross-jurisdictional cooperation involving Tribal Nations shall respect Tribal sovereignty and be conducted pursuant to agreements negotiated in good faith between Tribal authorities and other jurisdictions.
 
 ---
 
@@ -305,11 +515,27 @@ Election rules may not be altered within ninety days prior to any federal electi
 
 (e) No single jurisdiction may veto national outcomes.
 
+(f) Expedited Dispute Resolution. Election disputes affecting presidential or congressional certification shall be resolved as follows:
+
+- Regional courts shall issue rulings within seven days of dispute filing,
+- appeals to Regional Supreme Courts shall be decided within seven additional days,
+- final appeals to the National Election Court shall be decided within seven additional days.
+
+(g) Automatic Interim Certification. If any court misses the deadlines specified in subsection (f):
+
+- the results as tabulated shall be provisionally certified for purposes of national certification,
+- the court's eventual ruling, if it changes the outcome, shall take effect prospectively,
+- no provisional certification may be reversed after inauguration except through impeachment or subsequent election.
+
+(h) Dispute Deadline. No election dispute may be filed more than fourteen days after the election. Disputes filed after this deadline are void.
+
 ---
 
 ### Section 5. Caretaker Governance
 
-In the event of unresolved disputes, caretaker governance shall continue with limited authority until lawful resolution. Caretaker authority extends only to routine operations and may not include new policy initiatives, appointments to lifetime positions, or military deployments except in response to imminent threat.
+(a) In the event of unresolved disputes, caretaker governance shall continue with limited authority until lawful resolution. Caretaker authority extends only to routine operations and may not include new policy initiatives, appointments to lifetime positions, or military deployments except in response to imminent threat.
+
+(b) Caretaker authority under this section terminates automatically forty-five days after the scheduled inauguration date. If no lawful successor has been determined by that date, the Speaker of the House shall assume acting executive authority pending resolution, subject to caretaker limitations.
 
 ---
 
@@ -453,7 +679,35 @@ Courts shall issue effective remedies. Declaratory relief without enforcement is
 
 ### Section 4. Self-Executing Defaults
 
-If courts fail to act, constitutional default rules shall apply automatically.
+(a) If courts fail to act within the time limits specified in Section 2 (including any extensions), the following default rules shall apply automatically:
+
+(b) Allocation Disputes (Article II). If a court fails to rule on whether a matter falls within federal or regional authority:
+
+- the challenged action is stayed pending resolution,
+- if the trial court misses its deadline, the matter automatically transfers to a three-judge panel from an adjacent Region,
+- if no ruling is issued within sixty days, the allocation claimed by the challenging party is presumed correct until reversed on appeal.
+
+(c) Emergency Powers Disputes (Article XIV). If a court fails to rule on the validity of declared emergencies or emergency measures:
+
+- the emergency declaration expires automatically at the original time limit without renewal,
+- measures taken under the expired emergency are void and unenforceable,
+- affected parties may seek damages directly from the responsible officials.
+
+(d) Election Disputes (Article VI). Default rules for election disputes are specified in Article VI, Section 4(g).
+
+(e) Rights Floor Violations (Article III). If a court fails to rule on alleged rights floor violations:
+
+- the challenged measure is automatically enjoined pending resolution,
+- the Chief Judge of the relevant Circuit shall appoint a special master to issue findings within fifteen days,
+- if findings indicate a violation, the injunction becomes permanent until the legislature amends the challenged measure.
+
+(f) Armed Force Authorization Disputes (Article XII). If a court fails to rule on the validity of domestic deployment authorization:
+
+- deployment authority expires automatically at the end of the initial thirty-day period,
+- no reauthorization may be issued until the court rules,
+- forces must withdraw to garrison within forty-eight hours of expiration.
+
+(g) Enforcement. Any party may invoke these defaults by filing a notice of default with the court clerk. The clerk shall issue a certificate of default within twenty-four hours if the deadline has passed. Default certificates are self-executing and require no further judicial action.
 
 ---
 
@@ -517,6 +771,26 @@ Armed force is divided into:
 (d) All authorizations must be in writing, must specify the scope, duration, and geographic limits of deployment, and must be made public within seventy-two hours.
 
 (e) Domestic deployment authority expires automatically after thirty days unless reauthorized through the same two-key process.
+
+(f) Governor Non-Response Fallback. If fewer than two-thirds of Regional Governors respond within forty-eight hours:
+
+- a Governor who fails to respond is deemed to have abstained, not to have vetoed,
+- the two-thirds supermajority shall be calculated based on responding Governors only, provided that at least one-half of all Governors respond,
+- if fewer than one-half of Governors respond, the request fails and a new request must be initiated with extended notice.
+
+(g) Legislative Override. If Key 2 fails due to Governor refusal (not non-response):
+
+- the President may request authorization from Regional legislatures instead,
+- authorization requires approval by a majority of Regional legislatures, each voting by majority of members present,
+- Regional legislatures must complete voting within seventy-two hours of the request,
+- this override is available only for deployment requests that specify a limited geographic scope (no more than three Regions) and duration (no more than fourteen days).
+
+(h) Judicial Emergency Certificate. In cases of imminent constitutional emergency where both Governors and legislatures are unavailable or obstructed:
+
+- the Chief Justice may issue an Emergency Authorization Certificate permitting deployment for up to seventy-two hours,
+- such certificate requires written findings that: (i) an imminent threat to constitutional order exists, (ii) normal authorization channels are unavailable, and (iii) deployment is the minimum necessary response,
+- deployment under such certificate may not be renewed; full two-key authorization must be obtained for any continuation,
+- the certificate must be published immediately upon issuance.
 
 ---
 
@@ -595,6 +869,41 @@ This Article establishes allocation of authority, protective thresholds, and pro
 (3) In any prosecution for unauthorized disclosure, evidence that the disclosure revealed a violation of this section may be raised as an affirmative defense, and the jury shall be instructed that such disclosure may be justified if the defendant reasonably believed internal channels were unavailable or compromised.
 
 (4) Information obtained in violation of this section is inadmissible in any judicial, administrative, or legislative proceeding.
+
+(f) Civil Liberties Protection Board.
+
+(1) There is established an independent Civil Liberties Protection Board with exclusive authority to oversee compliance with this section.
+
+(2) The Board shall consist of five members appointed to staggered seven-year terms: two by the President, one by the Senate, one by the House, and one by the Chief Justice. Members may be removed only for cause by a two-thirds vote of the Senate.
+
+(3) The Board shall have:
+
+- subpoena power over all federal agencies, including intelligence agencies,
+- access to all classified materials relevant to domestic surveillance activities,
+- authority to conduct unannounced audits of surveillance systems and databases,
+- power to order immediate cessation of surveillance activities pending investigation.
+
+(4) Audit and Reporting Requirements:
+
+- Each intelligence and law enforcement agency shall maintain detailed logs of all domestic surveillance activities, including the legal authority relied upon and the approval chain,
+- The Board shall conduct random audits of at least 5% of all surveillance authorizations annually,
+- The Board shall publish an unclassified annual report to Congress summarizing surveillance activities, violations found, and remedial actions taken.
+
+(5) Fast-Track Review. Upon receiving a complaint or discovering a potential violation:
+
+- The Board shall complete preliminary investigation within fourteen days,
+- If the Board finds probable cause of a violation, it shall issue a cease-and-desist order effective immediately,
+- The agency may appeal to the Foreign Intelligence Surveillance Court within seven days; the Court shall rule within seven additional days,
+- No claim of "national security" may delay or prevent Board investigation; disputes over classified access shall be resolved by the Chief Justice within forty-eight hours.
+
+(6) Remedies. The Board may:
+
+- order destruction of improperly obtained information,
+- refer violations to the Department of Justice for prosecution,
+- recommend discipline or removal of responsible officials,
+- award damages to victims of unlawful surveillance from agency budgets.
+
+(7) The Board's budget shall be mandatory spending and may not be reduced by any agency subject to its oversight.
 
 ---
 
