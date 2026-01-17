@@ -611,5 +611,4 @@ That is the core idea.
 
 ## Document Navigation
 
-- Previous: [Plans Overview](../01-overview.md)
-- Next: [Allocation of Powers](../02-design/01-allocation-of-powers.md)
+- Next: [Design Axioms](02-design-axioms.md)

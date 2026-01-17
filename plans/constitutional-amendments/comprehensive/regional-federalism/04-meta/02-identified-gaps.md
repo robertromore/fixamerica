@@ -852,5 +852,5 @@ That is what this system is designed to do.
 
 ## Document Navigation
 
-- Previous: [Design Axioms of Regional Federalism](../01-foundation/02-design-axioms.md)
+- Previous: [Meta-Level Conclusions](01-conclusions.md)
 - Next: [Non-Constitutional Safeguards Playbook](../05-implementation/01-safeguards-playbook.md)

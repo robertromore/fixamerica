@@ -353,5 +353,5 @@ That is its meta-level purpose.
 
 ## Document Navigation
 
-- Previous: [The Regional Federal Constitution](../02-design/constitution/00-index.md)
-- Next: [Design Axioms of Regional Federalism](../01-foundation/02-design-axioms.md)
+- Previous: [Foreign Information Warfare](../03-analysis/06-foreign-information-warfare.md)
+- Next: [Identified Gaps](02-identified-gaps.md)

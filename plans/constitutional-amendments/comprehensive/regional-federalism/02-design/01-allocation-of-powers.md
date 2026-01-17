@@ -532,5 +532,5 @@ That is the logic of allocation in a regional federal system.
 
 ## Document Navigation
 
-- Previous: [Core Idea: Regional Federalism](../01-foundation/01-core-idea.md)
+- Previous: [Design Axioms](../01-foundation/02-design-axioms.md)
 - Next: [Elections and Democratic Legitimacy](02-elections.md)

@@ -189,5 +189,5 @@ Everything else is implementation.
 
 ## Document Navigation
 
-- Previous: [Meta-Level Conclusions](../04-meta/01-conclusions.md)
-- Next: [Identified Gaps](../04-meta/02-identified-gaps.md)
+- Previous: [Core Idea: Regional Federalism](01-core-idea.md)
+- Next: [Allocation of Powers](../02-design/01-allocation-of-powers.md)

@@ -565,4 +565,4 @@ This is what information security looks like in a constitutional democracy.
 ## Document Navigation
 
 - Previous: [Authoritarian Consolidation Scenario](05-authoritarian-scenario.md)
-- Next: Return to [Regional Federal Constitution](../02-design/constitution/00-index.md) or [Core Idea](../01-foundation/01-core-idea.md)
+- Next: [Meta-Level Conclusions](../04-meta/01-conclusions.md)

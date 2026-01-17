@@ -466,4 +466,4 @@ Housing under regional federalism represents the system's approach applied to a 
 ## Document Navigation
 
 - Previous: [Healthcare Policy](01-healthcare.md)
-- Next: [Environment/Climate Policy](03-environment.md) *(planned)*
+- Next: [Immigration](03-immigration.md)
