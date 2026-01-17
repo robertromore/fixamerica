@@ -1,6 +1,10 @@
-# Media Misrepresentation Stress Test
+# Appendix F: Media Stress Test
 
-Immigration Corridor System (ICS)
+---
+
+## Overview
+
+This appendix stress-tests ICS against predictable media misrepresentation attacks, providing pre-bunking language, crisis response protocols, and structural defenses for each attack vector.
 
 ## ATTACK 1: "The Government Is Creating Immigration Camps"
 
@@ -430,22 +434,37 @@ Then compare to:
 
 Argue process and guardrails.
 
-2. Lead with local voices
+1. Lead with local voices
 
 Mayors, principals, employers > federal officials.
 
-3. Publish bad news fast
+1. Publish bad news fast
 
 Silence implies cover-up.
 
-4. Repeat boring truths
+1. Repeat boring truths
 
 Boring beats viral in the long run.
 
-5. Never oversell success
+1. Never oversell success
 
 Overconfidence creates backlash.
 
 ## One Sentence That Survives Almost Every Attack
 
 "This system trades chaos for structure, fear for predictability, and ideology for capacity."
+
+---
+
+## Related Documents
+
+- [Oversight](../12-oversight.md) - Transparency and communications strategy
+- [Political Path](../13-political-path.md) - Messaging framework
+- [Appendix E: Risk Register](E-risk-register.md) - Political risk mitigation
+
+---
+
+## Document Navigation
+
+- Previous: [Appendix E: Risk Register](E-risk-register.md)
+- Next: [Appendix G: Glossary](G-glossary.md)
