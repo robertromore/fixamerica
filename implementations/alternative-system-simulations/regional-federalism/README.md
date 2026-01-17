@@ -12,8 +12,11 @@ This package provides simulations to validate Regional Federalism design claims 
 ## Installation
 
 ```bash
+cd implementations/alternative-system-simulations/regional-federalism
 pip install -r requirements.txt
 ```
+
+All commands below assume you are in the `regional-federalism` directory.
 
 ## Usage
 
@@ -72,28 +75,58 @@ python -m src.fiscal.capacity
 python -m src.fiscal.equalization
 ```
 
+### Running Tests
+
+```bash
+# Run all tests (84 tests)
+pytest tests/
+
+# Run with verbose output
+pytest tests/ -v
+
+# Run specific test file
+pytest tests/test_presidential.py
+```
+
 ## Directory Structure
 
 ```text
 regional-federalism/
 ├── config/
 │   └── regions/
-│       └── default.yaml    # Constitutional 7-region configuration
+│       └── default.yaml        # Constitutional 7-region configuration
 ├── data/
-│   ├── raw/               # Original data sources
-│   └── processed/         # Processed datasets
+│   ├── raw/                    # Original data sources
+│   └── processed/              # Processed datasets
 ├── outputs/
-│   └── reports/           # Generated analysis reports
+│   └── reports/                # Generated analysis reports
 ├── src/
-│   ├── regions.py         # Region configuration loader
-│   ├── data_pipeline.py   # Electoral and fiscal data
+│   ├── regions.py              # Region configuration loader
+│   ├── data_pipeline.py        # Electoral and fiscal data
 │   ├── electoral/
-│   │   └── presidential.py # Presidential election simulation
+│   │   └── presidential.py     # Presidential election simulation
 │   └── fiscal/
-│       ├── capacity.py    # Fiscal capacity calculator
-│       └── equalization.py # Transfer calculator
+│       ├── capacity.py         # Fiscal capacity calculator
+│       └── equalization.py     # Transfer calculator
 └── tests/
+    ├── test_regions.py         # Region configuration tests
+    ├── test_data_pipeline.py   # Data pipeline tests
+    ├── test_presidential.py    # Presidential simulation tests
+    └── test_fiscal.py          # Fiscal calculation tests
 ```
+
+## Generated Reports
+
+Running the simulations produces the following reports in `outputs/reports/`:
+
+| Report | Description |
+|--------|-------------|
+| `presidential_2016_analysis.md` | 2016 election EC vs RF comparison |
+| `presidential_2020_analysis.md` | 2020 election EC vs RF comparison |
+| `presidential_comparison.md` | Multi-year comparison across elections |
+| `fiscal_capacity_baseline.md` | Regional fiscal capacity analysis |
+| `equalization_transfers.md` | Equalization transfer calculations |
+| `equalization_analysis.md` | Detailed equalization breakdown |
 
 ## Data Sources
 
@@ -113,13 +146,13 @@ The default configuration uses the 7-region structure from Schedule A of the Reg
 
 | Region | States | Est. Population |
 |--------|--------|-----------------|
-| Northeast | CT, DE, ME, MD, MA, NH, NJ, NY, PA, RI, VT | 65M |
-| Southeast | AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV | 87M |
-| Midwest | IL, IN, IA, MI, MN, OH, WI | 56M |
-| Great Plains | KS, MO, NE, ND, OK, SD | 17M |
+| Northeast | CT, DE, ME, MD, MA, NH, NJ, NY, PA, RI, VT | 66M |
+| Southeast | AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV | 78M |
+| Midwest | IL, IN, IA, MI, MN, OH, WI | 52M |
+| Great Plains | KS, MO, NE, ND, OK, SD | 14M |
 | Southwest | AZ, CO, NV, NM, TX, UT | 52M |
-| Pacific | AK, CA, HI, OR, WA | 53M |
-| Mountain | ID, MT, WY | 4M |
+| Pacific | AK, CA, HI, OR, WA | 55M |
+| Mountain | ID, MT, WY | 3M |
 
 Alternative configurations can be created in `config/regions/` for scenario testing.
 
@@ -159,3 +192,33 @@ Constraints:
 - [Regional Federal Constitution](../../plans/constitutional-amendments/comprehensive/regional-federalism/02-design/constitution/00-index.md)
 - [Fiscal Equalization Act](../../plans/constitutional-amendments/comprehensive/regional-federalism/05-implementation/04-fiscal-equalization-act.md)
 - [Elections Implementation Act](../../plans/constitutional-amendments/comprehensive/regional-federalism/05-implementation/05-elections-implementation-act.md)
+
+## Implementation Status
+
+### Completed
+
+**Phase 1: Foundation**
+
+- Region configuration with YAML loader
+- Data pipeline with embedded electoral (2016, 2020) and fiscal (2022) data
+- Directory structure and test infrastructure
+
+**Phase 2: Electoral Simulations**
+
+- Presidential NPV + RCV simulation
+- Electoral College vs Regional Federalism comparison
+- Winner-take-all analysis (swing state metrics)
+- Multi-year comparison reports
+
+**Phase 3: Fiscal Simulations**
+
+- Fiscal capacity calculator (5-component weighted formula)
+- Equalization transfer calculator (graduated rates, caps, floors)
+- Donor/recipient analysis
+
+### Planned (Not Yet Implemented)
+
+- House seat allocation model (proportional representation with D'Hondt method)
+- Senate composition model (14-seat regional Senate)
+- Convergence projection (20-year trajectory modeling)
+- 2024 election data integration
