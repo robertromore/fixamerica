@@ -1123,7 +1123,7 @@ When voluntary departure is refused and final order entered:
 **Avoiding indefinite limbo:**
 
 - After 3 years of supervised release with compliance, case review for status adjustment
-- After 5 years, presumptive eligibility for limited lawful presence (not CLP) if removal remains impossible
+- After 5 years, presumptive eligibility for Limited Lawful Presence (LLP) if removal remains impossible
 - Work authorization maintained during supervised release
 - Pathway to more permanent status if removal becomes permanently impossible
 
@@ -1187,6 +1187,8 @@ For those who departed or were removed and now seek reentry:
 - **Title IV - Education and Workforce:** Authorize EL surge fund, credential reciprocity, and apprenticeship pathways.
 - **Title V - Oversight and Civil Liberties:** Create the Independent Integration Oversight Office, audits, and appeals.
 - **Title VI - Interstate Compact:** Approve multi-state compact terms, data sharing rules, and reciprocity.
+- **Title VII - Limited Lawful Presence:** Define a capped lawful status for non-removable cases with review and termination rules.
+- **Title VIII - Mobility Enforcement Guardrails:** Define verification limits, data rules, and civil rights protections for tier mobility.
 
 ### Key Regulatory Authorities
 
@@ -1202,6 +1204,26 @@ For those who departed or were removed and now seek reentry:
 - Publish algorithmic fairness thresholds and audit cadence.
 - Specify RID caps, eligibility verification, and fraud penalties.
 - Establish data minimization, retention limits, and privacy-safe sharing.
+- Define Limited Lawful Presence eligibility, review cadence, and termination triggers.
+- Specify mobility verification contexts, data retention limits, and auditing requirements.
+
+### Statutory Language Stubs (Draft)
+
+#### Title VII - Limited Lawful Presence (LLP)
+
+- **Sec. 701 Definitions.** "Limited Lawful Presence" is a renewable lawful status for individuals with final removal orders who are not removable for practical or legal reasons.
+- **Sec. 702 Eligibility.** Requires a final order, at least five years of compliant supervision, no disqualifying criminal history, and DHS certification of non-removability.
+- **Sec. 703 Rights and limits.** Work authorization; eligibility for state ID and driver's license; access to emergency and essential services; no international travel; no eligibility for RID or Tier C benefits unless separately qualified.
+- **Sec. 704 Review and termination.** Biennial review; termination upon fraud, disqualifying offenses, or restoration of removability; notice and appeal required.
+- **Sec. 705 Adjustment review.** DHS shall establish a review pathway for adjustment when non-removability becomes indefinite; criteria and timelines set by regulation and subject to Oversight Office audit.
+
+#### Title VIII - Mobility Enforcement Guardrails
+
+- **Sec. 801 Purpose.** Enforce tier mobility while preventing profiling and unnecessary surveillance.
+- **Sec. 802 Permitted verification contexts.** Verification limited to program administration (intake, benefits, housing placement, ICS transport) or individualized reasonable suspicion of tier violation; no random street checks.
+- **Sec. 803 Data limits.** No continuous location tracking; verification logs retained for a fixed, published period (not to exceed 24 months) unless subject to litigation hold; sharing limited to enumerated statutory purposes.
+- **Sec. 804 Due process.** No adverse action based solely on automated data; notice, hearing, and appeal required for tier freezes.
+- **Sec. 805 Civil rights protections.** Prohibit profiling by race, nationality, religion, or language; mandate audits; provide penalties and suppression for violations.
 
 ## XII-F. Legal Pathway Mapping Appendix (Summary)
 

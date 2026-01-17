@@ -4,6 +4,26 @@
 
 ---
 
+## Mission Statement
+
+The Immigration Corridor System exists to restore order, dignity, and durability to immigration policy by aligning law with human reality.
+
+For decades, immigration has been treated as a moral dispute or a political weapon rather than a systems challenge. The result has been instability: chaotic surges, prolonged legal limbo, overwhelmed communities, and enforcement that is both inconsistent and ineffective.
+
+ICS begins from a simple premise: human migration is a predictable response to pressure, not a failure of character. No policy can eliminate that reality, but a well-designed system can manage it.
+
+The mission of the Immigration Corridor System is to replace disorder with structure by granting lawful presence immediately, channeling movement through bounded and privacy-respecting pathways, incentivizing lawful participation, and distributing responsibility across the nation rather than concentrating it at the border.
+
+ICS is neither an open-border framework nor a closed-door one. It is a management system designed to convert unauthorized presence into lawful participation, to reward stability over evasion, to prepare newcomers for civic participation through civic literacy (not conformity), and to ensure that enforcement is targeted, credible, and humane.
+
+By prioritizing clarity over ambiguity, incentives over symbolism, and infrastructure over crisis response, ICS seeks to build an immigration system that functions regardless of political climate, protects communities, respects the rule of law, and reflects how people actually behave.
+
+This is not merely a moral appeal. It is a systems problem solved with infrastructure, safeguards, and accountability.
+
+A system designed to endure pressure rather than collapse under it.
+
+---
+
 ## Executive Summary
 
 The Immigration Corridor System (ICS) is a national integration infrastructure designed to replace chaotic, binary, and politically brittle immigration policy with a phased, incentive-driven, rights-respecting system that:
@@ -17,6 +37,20 @@ The Immigration Corridor System (ICS) is a national integration infrastructure d
 - fails gradually rather than catastrophically
 
 ICS treats immigration not as a moral debate but as a capacity-management and civic-integration problem. It includes a Legacy Resident Adjustment track for already-assimilated undocumented residents.
+
+---
+
+## Historical Parallels (Partial, Not One-to-One)
+
+No prior system matches ICS end-to-end, but several components have real-world analogs:
+
+- **Legalization/regularization:** US IRCA (1986) and later European regularization programs show large-scale conversion of unauthorized presence into lawful status.
+- **Structured selection:** Canada and Australia points-based systems demonstrate criteria-driven pathways with clear benchmarks.
+- **Geographic distribution:** US refugee resettlement placement, Germany's Koenigsteiner Schluessel, and UK asylum dispersal mirror load-sharing across regions.
+- **Civic integration:** Germany and the Netherlands require civic education and language integration for long-term status.
+- **Host community support:** EU and US resettlement grants to localities reflect the principle of compensating communities that provide integration services.
+
+ICS differs by combining these elements into a single, phased infrastructure with immediate lawful presence, distributed placement, and explicit community compensation. To the best of our knowledge, this integrated approach is novel in immigration reform practice.
 
 ---
 
@@ -149,6 +183,7 @@ This plan is organized into the following sections:
 | [27-special-populations.md](27-special-populations.md) | Refugees, TPS, DACA, U/T visa coordination |
 | [28-international-operations.md](28-international-operations.md) | Source country coordination, bilateral agreements |
 | [29-metrics-evaluation.md](29-metrics-evaluation.md) | KPIs, program evaluation, outcome tracking |
+| [30-perspectives.md](30-perspectives.md) | Political perspectives analysis, coalition building |
 
 ### Appendices
 

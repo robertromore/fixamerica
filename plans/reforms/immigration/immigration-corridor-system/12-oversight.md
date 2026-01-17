@@ -155,6 +155,49 @@ ICS is designed to degrade gracefully under stress rather than collapse. When ca
 
 ---
 
+## Civic Education Program Safeguards
+
+The civic education component (see [Civic Integration](24-civic-integration.md)) includes specific safeguards to ensure neutrality and prevent coercion.
+
+### Content Neutrality
+
+| Safeguard | Standard |
+|-----------|----------|
+| **No outcome direction** | Program does not advocate specific political outcomes, parties, or models |
+| **No foreign targeting** | Instruction is generalized, not tailored to any foreign state |
+| **Descriptive only** | All content is factual description, not persuasion |
+| **No "superiority" framing** | Comparative judgments about political systems prohibited |
+
+### Participation Protections
+
+| Safeguard | Standard |
+|-----------|----------|
+| **Voluntary advanced track** | Civic Systems Toolkit is opt-in only |
+| **No immigration leverage** | Completion does not accelerate status; non-participation has no penalty |
+| **Failure consequence** | Assessment failure triggers additional instruction, not enforcement |
+| **No post-program monitoring** | No tracking of political activity after completion |
+
+### Civic Education Data Handling
+
+| Element | Standard |
+|---------|----------|
+| **Separation** | Records kept separate from immigration case files |
+| **Minimal fields** | Only completion status and accessibility accommodations recorded |
+| **Retention** | No longer than three years unless required by law |
+| **Sharing prohibition** | Records not shared with adjudicators, enforcement, or foreign governments |
+| **Reporting** | Aggregate and de-identified only |
+
+### Curriculum Governance
+
+| Element | Standard |
+|---------|----------|
+| **Independent review** | Nonpartisan panel with published membership and conflict disclosures |
+| **Public syllabus** | Full curriculum publicly available |
+| **Instructor neutrality** | Code of conduct with limits on advocacy; grievance process with anti-retaliation |
+| **Update cycle** | Scheduled review at least every two years |
+
+---
+
 ## Data Security Operations
 
 | Requirement | Standard |

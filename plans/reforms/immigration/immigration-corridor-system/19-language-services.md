@@ -99,6 +99,17 @@ English language acquisition is a core ICS benchmark for tier advancement. This 
 | **Reporting** | Attendance, progress to ICS system |
 | **Accessibility** | Childcare, transportation, scheduling |
 
+### Instructor Pipeline and Credentialing
+
+| Pipeline Element | Implementation |
+|------------------|----------------|
+| **Fast-track TESOL** | Alternative certification for bilingual instructors with supervised practicum |
+| **Community college ladders** | Tuition support for adult-ed and ESL credential programs |
+| **Bilingual paraprofessional pathway** | CLP participants trained as classroom aides with credit toward certification |
+| **Retention incentives** | Multi-year service bonuses; tuition repayment after Year 2 |
+| **Remote instruction pool** | Approved online instructors for rural and surge coverage |
+| **Interpreter crossover** | Medical/legal interpreters eligible for ESL instructor bridging |
+
 ### Quality Assurance
 
 | Measure | Frequency |

@@ -66,6 +66,18 @@ Partners        Monitoring         Compliance        Civic             cohesion
 | **Tier B→C advancement** | >70% within 24 months | Advances ÷ eligible |
 | **PR application success** | >85% | Approved ÷ applied |
 
+### Civic Education KPIs
+
+| KPI | Target | Measurement |
+|-----|--------|-------------|
+| **Tier A completion** | >90% | Completed ÷ enrolled |
+| **Civic knowledge gain** | Improvement | Pre/post assessment (aggregate only) |
+| **Toolkit enrollment** | N/A (voluntary) | Enrollment rate (no target; tracking only) |
+| **Curriculum neutrality** | No complaints upheld | Complaint review outcomes |
+| **Naturalization test pass rate** | >90% | Passed ÷ tested |
+
+**Data handling note:** Civic education metrics are reported **aggregate and de-identified only**. Individual records are not linked to immigration adjudication or enforcement. See [Civic Integration](24-civic-integration.md#program-safeguards) for full privacy protections.
+
 ### Compliance KPIs
 
 | KPI | Target | Measurement |
@@ -448,4 +460,4 @@ Partners        Monitoring         Compliance        Civic             cohesion
 ## Document Navigation
 
 - Previous: [International Operations](28-international-operations.md)
-- Next: [Appendix A: Legislative Text](appendices/A-legislative-text.md)
+- Next: [Political Perspectives](30-perspectives.md)

@@ -6,6 +6,10 @@
 
 Civic integration prepares CLP holders for full participation in American democracy. This document details civic education curriculum, naturalization preparation, community building programs, and social cohesion initiatives. The goal is informed, engaged citizens—not cultural conformity.
 
+> **Framing Principle:** ICS teaches how rule-based civic systems function, not what any country should become.
+
+This curriculum focuses on **institutional literacy and civic skills**—knowledge that is useful for participation in any pluralistic, rule-based society. It does not advocate specific political outcomes, does not target any foreign government, and does not condition immigration benefits on political beliefs.
+
 ---
 
 ## Civic Integration Philosophy
@@ -46,6 +50,24 @@ Civic integration prepares CLP holders for full participation in American democr
 | **School system** | K-12 structure; parent involvement | 2 hours |
 | **Safety and law** | Police interaction; emergency services | 2 hours |
 
+**Explicit Exclusions (Tier A)**
+
+Content must be **descriptive, not persuasive**. The following are prohibited:
+
+- Party politics or partisan framing
+- Voting instruction beyond mechanics (no "how to vote correctly")
+- "This system is superior" language or comparative judgments
+- Foreign policy discussion or commentary on other governments
+- Cultural conformity requirements
+
+**Assessment Rules (Tier A)**
+
+- Pass/fail comprehension check for instructional placement only
+- Unlimited retakes with additional instruction
+- Completion recorded for program integrity; **failure has no immigration penalty**
+- Translated materials in top languages
+- Disability and trauma-informed accommodations
+
 ### Tier B: Deepening (Hours 21-50)
 
 | Module | Content | Duration |
@@ -65,6 +87,82 @@ Civic integration prepares CLP holders for full participation in American democr
 | **US history deep dive** | Constitutional development; landmark cases | 10 hours |
 | **Civic responsibilities** | Jury duty; selective service; community service | 5 hours |
 | **Application process** | N-400; interview prep; oath | 5 hours |
+
+---
+
+## Civic Systems & Governance Toolkit (Optional)
+
+This **voluntary, non-credentialed** track provides advanced institutional literacy for participants who want deeper understanding of how rule-based, accountable systems operate. Completion does **not** accelerate immigration status or provide any immigration advantage.
+
+> **Purpose:** To provide practical knowledge about how rule-based, accountable institutions operate—skills applicable to community leadership, advocacy, and civic participation anywhere in the world.
+
+### Status and Safeguards
+
+| Attribute | Standard |
+|-----------|----------|
+| **Participation** | Voluntary; opt-in only |
+| **Immigration impact** | None; no status acceleration |
+| **Non-participation penalty** | None |
+| **Post-completion monitoring** | None; no tracking of political activity |
+| **Records** | Completion status only; aggregate reporting |
+
+### Module 1: Institutional Design Basics
+
+| Topic | Content |
+|-------|---------|
+| **Constitutions vs statutes** | Hierarchy of law; amendment processes |
+| **Checks and balances** | Separation of powers; judicial review |
+| **Independent courts** | Judicial independence; rule of law |
+| **Civil service vs patronage** | Merit-based administration; corruption risks |
+| **Predictability over ideology** | Why stable rules matter more than who governs |
+
+### Module 2: Accountability Mechanisms
+
+| Topic | Content |
+|-------|---------|
+| **Transparency laws** | FOIA; open meetings; public records |
+| **Budget oversight** | Appropriations; audits; fiscal transparency |
+| **Inspectors general** | Internal oversight; independence |
+| **Anti-corruption tools** | Conflict of interest; ethics rules |
+| **Whistleblower protections** | Reporting mechanisms; retaliation prevention |
+
+### Module 3: Civic Participation and Dispute Resolution
+
+| Topic | Content |
+|-------|---------|
+| **Public comment processes** | Regulatory participation; petitions |
+| **Administrative appeals** | Challenging agency decisions |
+| **Legal system navigation** | Courts; due process; legal aid access |
+| **Elections literacy** | Eligibility; mechanics; ethics (no campaign strategy) |
+
+### Module 4: Local Governance & Decentralization
+
+| Topic | Content |
+|-------|---------|
+| **Why local power matters** | Subsidiarity; responsiveness |
+| **Municipal governance models** | Council-manager; mayor-council; commissions |
+| **School boards and councils** | Local democratic participation |
+| **Community budgeting** | Participatory budgeting; fiscal citizenship |
+
+### Module 5: Media & Information Literacy
+
+| Topic | Content |
+|-------|---------|
+| **Independent media ecosystems** | Press freedom; media pluralism |
+| **Disinformation detection** | Source evaluation; fact-checking |
+| **Free press vs state press** | Media independence indicators |
+| **Information accountability** | How transparency supports stability |
+
+### Toolkit Guardrails
+
+This curriculum is **descriptive and U.S.-focused**. It does not include:
+
+- Instruction in political strategy or organizing tactics
+- Application to foreign contexts or governments
+- Advocacy for any political model for other countries
+- Outcome direction or partisan guidance
+
+U.S. examples are used as **case studies** to illustrate general rule-based mechanisms, not to prescribe outcomes.
 
 ---
 
@@ -366,6 +464,92 @@ Civic integration prepares CLP holders for full participation in American democr
 | **Naturalization rate** | 85%+ of eligible apply |
 | **Naturalization pass rate** | 90%+ |
 | **Post-naturalization civic engagement** | 60%+ registered voters within 1 year |
+
+---
+
+## Program Safeguards
+
+These safeguards apply to all civic integration programming and are written directly into program requirements.
+
+### 1. No Outcome Direction
+
+> The program does not advocate specific political outcomes, parties, or constitutional models for any country.
+
+All instruction is descriptive. Participants are free to draw their own conclusions.
+
+### 2. No Foreign Targeting
+
+> Instruction is generalized and not tailored to any specific foreign state or political context.
+
+Curriculum uses U.S. examples as case studies for general institutional literacy, not as models for export.
+
+### 3. No Tracking or Reporting
+
+| Protection | Standard |
+|------------|----------|
+| **Participation privacy** | Only completion status recorded |
+| **Record retention** | No longer than three years unless required by law |
+| **Reporting** | Aggregate and de-identified only |
+| **Immigration sharing** | Records not shared with adjudicators or enforcement except as required by law |
+| **Foreign government sharing** | None; no intelligence sharing |
+| **Post-program monitoring** | None; no tracking of political activity |
+
+### 4. No Immigration Leverage
+
+| Rule | Standard |
+|------|----------|
+| **Status acceleration** | Completion does **not** accelerate status |
+| **Non-participation** | No penalty for declining optional components |
+| **Baseline orientation** | Not a condition for immigration adjudication |
+| **Failure consequence** | Triggers additional instruction, not enforcement |
+
+---
+
+## Program Governance and Quality Controls
+
+### Curriculum Governance
+
+| Element | Standard |
+|---------|----------|
+| **Review panel** | Independent, nonpartisan; published membership criteria; conflict-of-interest disclosures |
+| **Public syllabus** | Full curriculum publicly available with revision log |
+| **Update cycle** | Scheduled review at least every two years |
+| **Feedback channel** | Public input mechanism; documented responses to factual corrections |
+
+### Instructor Standards
+
+| Element | Standard |
+|---------|----------|
+| **Training requirements** | Neutrality, accessibility, trauma-informed delivery |
+| **Code of conduct** | Clear limits on advocacy or persuasion |
+| **Grievance process** | Participant complaint channel with independent review |
+| **Anti-retaliation** | Protection for participants who file complaints |
+
+### Evaluation and Accountability
+
+| Element | Standard |
+|---------|----------|
+| **Knowledge assessment** | Pre/post checks limited to course content; aggregate, de-identified reporting only |
+| **Participant surveys** | Optional, anonymized surveys on clarity and usefulness |
+| **Independent review** | Periodic external review of curriculum quality and neutrality |
+
+### Accessibility and Inclusion
+
+| Element | Standard |
+|---------|----------|
+| **Language access** | Plain-language and low-literacy versions in top languages |
+| **Disability accommodations** | Full ADA compliance; trauma-informed alternatives |
+| **Digital access** | Options for participants with limited internet access |
+| **Delivery formats** | In-person, online, and asynchronous options |
+
+### Data Handling
+
+| Element | Standard |
+|---------|----------|
+| **Separation** | Records kept separate from immigration case files |
+| **Minimal fields** | Only completion status and accessibility accommodations recorded |
+| **Access controls** | Role-based access; audit logs for staff handling records |
+| **Alignment** | Follows ICS privacy policies and published data governance |
 
 ---
 

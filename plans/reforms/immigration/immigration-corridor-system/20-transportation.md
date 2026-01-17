@@ -273,6 +273,12 @@ Transportation infrastructure connects ICS participants to employment, education
 | **Tier B outside corridor** | Violation; tier freeze possible |
 | **Verification method** | CLP card has tier/location encoded |
 
+### Mobility Enforcement Guardrails (Summary)
+
+- Verification limited to program administration contexts; no random street checks.
+- No continuous location tracking; verification logs are time-limited and audited.
+- Adverse actions require notice, hearing, and appeal; no automated-only decisions.
+
 ### Due Process
 
 | Violation | Process |

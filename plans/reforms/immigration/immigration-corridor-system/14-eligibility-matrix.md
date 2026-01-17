@@ -156,6 +156,30 @@ ICS does not mandate state licensing policy but:
 
 ---
 
+## Civic Education Services
+
+| Service | Phase 0 | Tier A/B (CLP) | Tier C | Notes |
+|---------|---------|----------------|--------|-------|
+| **Tier A Orientation** | Yes | Required | N/A | Baseline civic literacy |
+| **Tier B Deepening** | No | Available | N/A | American history, economic literacy |
+| **Tier C Naturalization Prep** | No | No | Available | Citizenship test preparation |
+| **Civic Systems Toolkit** | No | Available | Available | **Optional, voluntary; no immigration benefit** |
+
+### Civic Systems & Governance Toolkit (Optional)
+
+This advanced track provides institutional literacy for participants who want deeper understanding of rule-based, accountable systems. Key characteristics:
+
+| Attribute | Standard |
+|-----------|----------|
+| **Participation** | Voluntary; opt-in only |
+| **Immigration impact** | None; completion does not accelerate status |
+| **Non-participation penalty** | None |
+| **Content** | Institutional design, accountability mechanisms, civic participation, local governance, media literacy |
+
+See [Civic Integration](24-civic-integration.md#civic-systems--governance-toolkit-optional) for full curriculum.
+
+---
+
 ## Professional Licensing
 
 | Field | CLP Eligibility | Notes |

@@ -146,6 +146,33 @@ States cannot:
 | Acknowledge enforcement | Demonize immigrants |
 | Present clear timelines | Make unrealistic promises |
 
+### Civic Education Messaging
+
+The civic education component requires careful framing to avoid backlash:
+
+| Do | Don't |
+|----|-------|
+| "Institutional literacy and civic skills" | "Democracy promotion" |
+| "How rule-based systems work" | "Training political actors" |
+| "Knowledge applicable anywhere" | "Exporting American values" |
+| "Descriptive, not persuasive" | "Teaching immigrants what to believe" |
+| "Voluntary advanced track" | "Mandatory ideological training" |
+
+**Key phrase for public materials:**
+
+> "ICS teaches how rule-based civic systems function, not what any country should become."
+
+**Defensive responses:**
+
+| Attack | Response |
+|--------|----------|
+| "This is indoctrination" | "Curriculum is factual and publicly available; no outcomes are advocated" |
+| "This is democracy export" | "No foreign targeting; U.S. examples used as case studies only" |
+| "This conditions benefits on beliefs" | "Advanced track is voluntary; baseline completion has no immigration penalty" |
+| "This tracks political activity" | "No post-program monitoring; records are aggregate and de-identified" |
+
+See [Civic Integration](24-civic-integration.md#program-safeguards) for full safeguards.
+
 ---
 
 ## Risk Mitigation for Hostile Administration

@@ -264,6 +264,37 @@ This appendix identifies areas where additional research, data collection, or pi
 
 ---
 
+## Gap Closure Roadmap (Implementation-Oriented)
+
+Closure is defined as a published artifact reviewed by the Independent Integration Oversight Office and cleared for scale expansion.
+
+| Gap ID | Closure Artifact | Method | Lead Owner | Target |
+|--------|------------------|--------|------------|--------|
+| **1.1** | Tier duration evidence brief + recommended ranges | Longitudinal analysis + pilot outcomes | DHS/HHS/ED | Pre-pilot |
+| **1.2** | Algorithm fairness impact assessment + civil rights memo | Simulation + legal review | HUD/DOJ | Pre-pilot |
+| **1.3** | Community capacity threshold model + stress test | City service modeling | HHS/ED/HUD | Pre-pilot |
+| **1.4** | RID receptivity report | RCT + community surveys | Treasury/Oversight | Pilot Year 1 |
+| **1.5** | ESL intensity study + benchmark calibration | Meta-analysis + pilot data | ED | Pre-pilot |
+| **2.1** | Legacy enrollment forecast + outreach plan | Survey modeling | DHS/USCIS | Pre-implementation |
+| **2.2** | Sector absorption memo per hub/corridor | Labor market analysis + employer survey | DOL | Pre-pilot |
+| **2.3** | Interstate compact viability memo + state commitment threshold | Legal analysis + governor MOUs | DOJ/State working group | Pre-enactment |
+| **2.4** | Family unity audit protocol | Process testing | HHS/ORR | Pilot Year 1 |
+| **2.5** | Mental health capacity inventory + hiring plan | Provider inventory | HHS/SAMHSA | Pre-pilot |
+| **3.1** | Biometric error-rate report + remediation plan | Field testing | DHS | Pre-pilot |
+| **3.2** | Housing market impact memo | Modeling + pilot monitoring | HUD | Pilot Year 1-2 |
+| **3.4** | Employer compliance baseline + enforcement calibration | Compliance sampling | DOL/WHD | Pilot Year 1-2 |
+| **3.5** | Advance parole risk model + rule proposal | Legal/behavioral analysis | DHS/State | Pre-implementation |
+| **4.4** | Political durability review | Scenario planning | Oversight/OMB | Ongoing |
+
+**Scale gate:** Expansion beyond pilot hubs requires closure of all Priority 1 gaps and at least half of Priority 2 gaps.
+
+**Legal analysis track (minimum set):**
+- Civil rights and disparate impact review for placement and mobility controls.
+- Interstate compact authority and preemption analysis.
+- Due process analysis for adverse actions, tier freezes, and removal pathways.
+
+---
+
 ## Research Methodology Recommendations
 
 ### Pre-Pilot Research (Year 0)

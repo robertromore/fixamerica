@@ -154,6 +154,17 @@ This document provides detailed specifications for healthcare delivery within IC
 | **Community health workers** | Hire from CLP population |
 | **International medical graduates** | Credential recognition pathway |
 
+### Workforce Pipeline and Credentialing
+
+| Pipeline Element | Implementation |
+|------------------|----------------|
+| **Residency expansion** | Targeted GME slots in hub/corridor systems; priority for primary care and psychiatry |
+| **CHW ladder** | CLP bilinguals trained as community health workers with advancement to nursing/MA roles |
+| **Fast-track licensure** | Interstate compact participation; accelerated endorsement for in-demand roles |
+| **IMG bridge programs** | Supervised practice + exam prep for international graduates |
+| **Retention incentives** | Multi-year service bonuses; tuition repayment after Year 2 |
+| **Interpreter training** | Certified medical interpreter pipeline tied to local community colleges |
+
 ### Cultural and Linguistic Competency
 
 | Requirement | Standard |
@@ -186,6 +197,20 @@ This document provides detailed specifications for healthcare delivery within IC
 | **ACA marketplace** | Eligible with subsidies at Tier A/B |
 | **Medicare** | Work credits accrue; eligible at PR |
 | **Emergency Medicaid** | Available regardless of status |
+
+### High-Cost Care and Payer of Last Resort
+
+ICS establishes a Catastrophic Care Fund (CCF) for Tier A/B participants.
+
+| Rule | Standard |
+|------|----------|
+| **Primary payer** | Medicaid/CHIP/ACA or employer coverage first |
+| **Secondary payer** | CCF covers approved inpatient and specialty care |
+| **Emergency care** | No prior authorization; CCF reimburses after EMTALA |
+| **Non-emergent care** | Prior authorization required; independent medical review available |
+| **Reimbursement rate** | Medicare-based rates with published add-ons |
+| **Recovery** | Subrogation from liable third parties when applicable |
+| **Patient cost share** | Capped and income-based; no denial for inability to pay |
 
 ### Cost Sharing
 
