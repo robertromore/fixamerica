@@ -127,10 +127,16 @@ class TestPresidentialSimulator:
         assert '2020' in report
         assert 'Summary Table' in report
 
+    def test_analyze_2024(self, simulator):
+        """2024 analysis completes without errors."""
+        analysis = simulator.analyze_election(2024)
+        assert analysis.year == 2024
+        assert analysis.total_votes > 0
+
     def test_invalid_year_raises(self, simulator):
         """Invalid year raises ValueError."""
         with pytest.raises(ValueError):
-            simulator.analyze_election(2024)
+            simulator.analyze_election(2012)  # No 2012 data
 
 
 class TestRCVRedistribution:

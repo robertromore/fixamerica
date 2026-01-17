@@ -22,10 +22,15 @@ class TestElectoralDataLoader:
         data = loader.get_election_data(2020)
         assert len(data) == 51
 
+    def test_2024_data_available(self, loader):
+        """2024 election data is available."""
+        data = loader.get_election_data(2024)
+        assert len(data) == 51  # 50 states + DC
+
     def test_invalid_year_raises(self, loader):
         """Invalid year raises ValueError."""
         with pytest.raises(ValueError):
-            loader.get_election_data(2024)
+            loader.get_election_data(2012)  # No 2012 data
 
     def test_state_data_structure(self, loader):
         """State data has required fields."""
