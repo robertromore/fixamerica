@@ -89,6 +89,11 @@ Lobbying—the practice of attempting to influence government decisions—is con
 - [Electoral Reform](../electoral-reform/01-overview.md) - How elections work
 - [Current State](02-current-state.md) - Today's lobbying landscape
 
+### Cross-Domain Topics
+
+- [Economic: Antitrust](../../economic/antitrust/01-overview.md) - Corporate concentration enables lobbying power; lobbying weakens antitrust enforcement
+- [Economic: Financial Regulation](../../economic/financial-regulation/01-overview.md) - Financial industry lobbying shapes regulatory framework
+
 ## Related Subtopics
 
 | Subtopic | Connection |

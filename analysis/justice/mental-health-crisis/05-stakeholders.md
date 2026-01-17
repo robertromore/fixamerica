@@ -16,6 +16,7 @@ Mental health crisis response reform involves a complex web of stakeholders with
 | Perspective variation | Split between those favoring more intervention and those prioritizing autonomy |
 
 **What They Need:**
+
 - Response that doesn't escalate crisis
 - Connection to voluntary, quality treatment
 - Alternatives to arrest and incarceration
@@ -23,6 +24,7 @@ Mental health crisis response reform involves a complex web of stakeholders with
 - Voice in system design
 
 **Internal Tensions:**
+
 - Some families want easier commitment laws; many patients oppose coerced treatment
 - Some want more police involvement; others want police-free response
 - Treatment Advocacy Center vs. disability rights perspectives
@@ -37,12 +39,14 @@ Mental health crisis response reform involves a complex web of stakeholders with
 | Stated concerns | Lack of training; no place to take people; liability |
 
 **What They Say:**
+
 - "We're not trained for this"
 - "We don't have anywhere to take people"
 - "We spend hours on calls that aren't crimes"
 - "We get blamed when things go wrong"
 
 **Range of Positions:**
+
 | Position | Held By |
 |----------|---------|
 | Support alternatives | Many officers privately; some chiefs publicly |
@@ -67,6 +71,7 @@ Mental health crisis response reform involves a complex web of stakeholders with
 | Concerns | How to triage mental health calls; training needs; technology changes |
 
 **Current Challenges:**
+
 - Minimal mental health training
 - No mental health responders to dispatch
 - Liability concerns drive "send police" default
@@ -90,6 +95,7 @@ Mental health crisis response reform involves a complex web of stakeholders with
 | Concerns | Safety; costs; lack of psychiatric beds; long waits |
 
 **ER Perspective:**
+
 - Mental health patients wait longest (boarding)
 - ERs not designed for psychiatric care
 - Medical clearance requirements create bottlenecks
@@ -130,6 +136,7 @@ Mental health crisis response reform involves a complex web of stakeholders with
 | Stated concerns | Not equipped for mental health; costs; suicide liability |
 
 **Sheriff Perspectives:**
+
 | Position | Prevalence |
 |----------|------------|
 | "We shouldn't be the mental health system" | Common |
@@ -305,6 +312,7 @@ Mental health crisis response reform involves a complex web of stakeholders with
 | [Root Causes](04-root-causes.md) | [Justice Topics](../README.md) | [Opposition](06-opposition.md) |
 
 **In This Section:**
+
 - [01 Overview](01-overview.md) | [02 Current State](02-current-state.md) | [03 History](03-history.md) | [04 Root Causes](04-root-causes.md)
 - [05 Stakeholders](05-stakeholders.md) | [06 Opposition](06-opposition.md) | [07 Solutions](07-solutions.md) | [08 Roadmap](08-roadmap.md)
 - [09 Resources](09-resources.md) | [10 Actions](10-actions.md) | [11 Legislation](11-legislation.md)

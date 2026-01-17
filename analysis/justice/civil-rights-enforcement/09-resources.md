@@ -287,6 +287,7 @@ This document provides comprehensive resources for understanding, advocating, an
 | [← Roadmap](08-roadmap.md) | [Justice Index](../index.md) | [Actions →](10-actions.md) |
 
 **Section Contents:**
+
 - [01. Overview](01-overview.md)
 - [02. Current State](02-current-state.md)
 - [03. History](03-history.md)

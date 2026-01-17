@@ -301,6 +301,7 @@ Barriers discourage engagement:
 ### Cross-Domain Topics
 
 - [Justice: Criminal Justice](../../justice/01-overview.md) - Felony disenfranchisement context
+- [Justice: Civil Rights Enforcement](../../justice/civil-rights-enforcement/01-overview.md) - Federal enforcement of voting rights protections
 - [Social: Racial Equity](../../social/01-overview.md) - Disparate impact on communities of color
 
 ## Related Subtopics

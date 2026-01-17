@@ -123,6 +123,13 @@ Reform requires adequately funding public defense, eliminating wealth-based pret
 | [Restorative Justice](../restorative-justice/01-overview.md) | Diversion, alternative dispute resolution |
 | [Forensics](../forensics/01-overview.md) | Expert testimony, admissibility standards |
 
+## Related Topics
+
+| Topic | Connection |
+|-------|------------|
+| [Judicial Reform](../../political/judicial-reform/01-overview.md) | Court structure, judicial selection, constitutional reform |
+| [Inequality](../../economic/inequality/01-overview.md) | Access to justice costs, wealth-based disparities in outcomes |
+
 ## Document Navigation
 
 - Next: [Current State](02-current-state.md)

@@ -91,6 +91,7 @@ Convict leasing ended due to:
 | Public scandals (death exposés) | Political embarrassment |
 
 Last states to abolish:
+
 - Georgia: 1908
 - Texas: 1912
 - Alabama: 1928
@@ -143,12 +144,14 @@ As convict leasing ended, Southern states transitioned to chain gangs:
 **Established**: 1934 under FDR's New Deal
 
 **Original Purpose**:
+
 - Reduce prison idleness
 - Provide job training
 - Self-fund prison operations
 - Reduce reliance on convict leasing model
 
 **Ashurst-Sumners Act (1935)**:
+
 - Prohibited interstate transport of prison-made goods
 - Protected private industry from prison labor competition
 - Created exceptions for government sales
@@ -191,11 +194,13 @@ Organized labor historically opposed prison labor:
 **Purpose**: Allow private companies to employ prisoners
 
 **Provisions**:
+
 - Prisoners must be paid "prevailing wages"
 - Unions must be consulted
 - Programs cannot displace free workers
 
 **Reality**:
+
 - Massive deductions reduce actual pay
 - Little union oversight
 - Displacement difficult to prove
@@ -228,6 +233,7 @@ Organized labor historically opposed prison labor:
 **Established**: 1946 (formalized 1963)
 
 **Current scale**:
+
 - 35+ fire camps
 - ~3,400 incarcerated firefighters
 - ~$100 million annual savings to California
@@ -260,6 +266,7 @@ Until 2020, formerly incarcerated firefighters could not obtain professional fir
 Coordinated by Incarcerated Workers Organizing Committee (IWOC):
 
 **Demands included**:
+
 1. End prison slavery
 2. Apply minimum wage to prison work
 3. End mandatory work requirements
@@ -273,6 +280,7 @@ Coordinated by Incarcerated Workers Organizing Committee (IWOC):
 Triggered by Lee Correctional Institution violence (South Carolina):
 
 **Ten Demands**:
+
 1. Improve conditions
 2. End prison slavery
 3. End racial discrimination

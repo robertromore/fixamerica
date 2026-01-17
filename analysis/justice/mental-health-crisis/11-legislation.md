@@ -733,6 +733,7 @@ The following tables identify potential weaknesses in the model legislation and 
 | [Actions](10-actions.md) | [Justice Topics](../README.md) | — |
 
 **In This Section:**
+
 - [01 Overview](01-overview.md) | [02 Current State](02-current-state.md) | [03 History](03-history.md) | [04 Root Causes](04-root-causes.md)
 - [05 Stakeholders](05-stakeholders.md) | [06 Opposition](06-opposition.md) | [07 Solutions](07-solutions.md) | [08 Roadmap](08-roadmap.md)
 - [09 Resources](09-resources.md) | [10 Actions](10-actions.md) | [11 Legislation](11-legislation.md)

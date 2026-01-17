@@ -103,6 +103,7 @@ Public investment affects virtually everyone, but some groups have more direct s
 **Position**: Strongly supportive of all infrastructure investment. The construction industry is the most consistent advocate for increased public investment.
 
 **Key Organizations**:
+
 - Associated General Contractors of America
 - Associated Builders and Contractors
 - American Society of Civil Engineers
@@ -122,6 +123,7 @@ Public investment affects virtually everyone, but some groups have more direct s
 **Position**: Supports public investment that complements private activity; may oppose if seen as competitive threat.
 
 **Key Organizations**:
+
 - Information Technology Industry Council
 - Semiconductor Industry Association
 - Internet Association
@@ -140,6 +142,7 @@ Public investment affects virtually everyone, but some groups have more direct s
 **Position**: Manufacturing groups have shifted toward supporting more active government role after supply chain disruptions and competition from China.
 
 **Key Organizations**:
+
 - National Association of Manufacturers
 - U.S. Chamber of Commerce (mixed)
 - Sector-specific associations
@@ -169,6 +172,7 @@ Public investment affects virtually everyone, but some groups have more direct s
 ### Anti-Tax Groups
 
 **Key Organizations**:
+
 - Americans for Prosperity
 - Club for Growth
 - Tax Foundation
@@ -177,6 +181,7 @@ Public investment affects virtually everyone, but some groups have more direct s
 **Position**: Oppose public investment financed through taxes; prefer privatization and user fees.
 
 **Arguments**:
+
 - Government spending is inherently wasteful
 - Private sector would invest if taxes lower
 - User fees create market discipline
@@ -187,6 +192,7 @@ Public investment affects virtually everyone, but some groups have more direct s
 **Position**: May support investment in principle but prioritize deficit reduction; skeptical of government execution.
 
 **Key Organizations**:
+
 - Committee for a Responsible Federal Budget
 - Concord Coalition
 - Some Republican legislators
@@ -204,6 +210,7 @@ Public investment affects virtually everyone, but some groups have more direct s
 ### Ideological Opponents
 
 **Libertarian Organizations**:
+
 - Cato Institute
 - Reason Foundation
 - Mercatus Center
@@ -243,6 +250,7 @@ Public investment affects virtually everyone, but some groups have more direct s
 | Schools | Support federal school construction |
 
 **Organizations**:
+
 - U.S. Conference of Mayors
 - National League of Cities
 - National Association of Counties
@@ -252,6 +260,7 @@ Public investment affects virtually everyone, but some groups have more direct s
 ### Construction Unions
 
 **Key Unions**:
+
 - Laborers' International Union (LIUNA)
 - International Brotherhood of Electrical Workers (IBEW)
 - United Brotherhood of Carpenters
@@ -263,6 +272,7 @@ Public investment affects virtually everyone, but some groups have more direct s
 ### Industrial Unions
 
 **Key Unions**:
+
 - United Auto Workers (UAW)
 - United Steelworkers (USW)
 - Machinists (IAM)
@@ -272,6 +282,7 @@ Public investment affects virtually everyone, but some groups have more direct s
 ### Public Sector Unions
 
 **Key Unions**:
+
 - American Federation of State, County and Municipal Employees (AFSCME)
 - Service Employees International Union (SEIU)
 - American Federation of Teachers (AFT)
@@ -284,12 +295,14 @@ Public investment affects virtually everyone, but some groups have more direct s
 ### Universities
 
 **Interest Areas**:
+
 - Basic research funding
 - Research infrastructure
 - Student financial aid
 - STEM workforce development
 
 **Organizations**:
+
 - Association of American Universities
 - American Council on Education
 
@@ -298,12 +311,14 @@ Public investment affects virtually everyone, but some groups have more direct s
 ### Research Institutions
 
 **Think Tanks Supportive of Public Investment**:
+
 - Brookings Institution
 - Center for American Progress
 - Economic Policy Institute
 - Roosevelt Institute
 
 **Research-Focused**:
+
 - National Academies
 - RAND Corporation
 - Urban Institute
@@ -311,6 +326,7 @@ Public investment affects virtually everyone, but some groups have more direct s
 ### Scientific Community
 
 **Organizations**:
+
 - American Association for the Advancement of Science
 - National Academies of Science
 - Discipline-specific associations

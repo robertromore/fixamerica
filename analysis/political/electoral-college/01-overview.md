@@ -48,9 +48,9 @@ The Electoral College is America's unique system for electing the president. Des
 | 2000 | G.W. Bush | Lost by 543,895 | 271-266 | -0.5% |
 | 2016 | Trump | Lost by 2,868,686 | 304-227 | -2.1% |
 
-### Current Reform Status (as of 2024)
+### Current Reform Status (end-2024 snapshot)
 
-- **National Popular Vote Compact**: 209 electoral votes (17 states + DC), needs 61 more to reach 270 *Source: National Popular Vote Inc., 2024.*
+- **National Popular Vote Compact**: 209 electoral votes (17 states + DC), needs 61 more to reach 270 *Source: National Popular Vote Inc., Dec. 2024 update.*
 - **Constitutional amendments**: Repeatedly proposed, never passed
 - **Public opinion**: 60%+ support national popular vote *Source: Gallup, Pew, 2020-2023.*
 - **Partisan divide**: Democrats strongly support, Republicans divided

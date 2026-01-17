@@ -37,6 +37,7 @@ Community mental health services were supposed to replace hospitals. They were n
 | Insurance parity | Enacted 2008, still not fully implemented |
 
 **What Doesn't Exist in Most Communities:**
+
 - 24/7 mobile crisis teams
 - Crisis stabilization centers (23-hour or short-term)
 - Adequate outpatient capacity (months-long waits common)
@@ -45,7 +46,55 @@ Community mental health services were supposed to replace hospitals. They were n
 - Psychiatric urgent care
 - Supportive housing with services
 
-### 3. 911 as the Only Universal Emergency System
+### 3. Deinstitutionalization Without Community Infrastructure
+
+The closure of state psychiatric hospitals—deinstitutionalization—was supposed to be accompanied by robust community-based mental health services. That investment never materialized at the promised scale.
+
+**The Failed Promise of Community Mental Health Investment**
+
+| Promise | Reality |
+|---------|---------|
+| Community Mental Health Act (1963) | Envisioned 2,000+ community mental health centers |
+| Federal funding commitment | Block-granted and cut 30% in 1981 |
+| State reinvestment of hospital savings | Savings absorbed into general funds |
+| Medicaid as funding vehicle | IMD exclusion blocked institutional replacement |
+| Insurance coverage | Mental health carved out, underfunded |
+
+The theory was sound: treat people in their communities rather than warehousing them in large institutions. The execution was disastrous because the community infrastructure was never built.
+
+**County Mental Health Service Gaps**
+
+Counties bear the front-line burden of mental health crises but lack resources:
+
+| Gap | Consequence |
+|-----|-------------|
+| No 24/7 crisis services | After-hours calls go to 911 |
+| Months-long waits for outpatient care | Conditions deteriorate to crisis |
+| No crisis stabilization centers | ED or jail are only options |
+| Inadequate case management | People fall through cracks |
+| No Assertive Community Treatment | Highest-need individuals abandoned |
+| Limited peer support | Recovery model not implemented |
+
+Rural counties often have no mental health services at all. Even urban counties have services that are fragmented, underfunded, and inaccessible.
+
+**Jails as De Facto Mental Health Facilities**
+
+The failure to build community mental health infrastructure has made jails and prisons the largest mental health institutions in America:
+
+| Jail Mental Health Reality | Data |
+|---------------------------|------|
+| Los Angeles County Jail | Largest mental health facility in U.S. |
+| Cook County Jail (Chicago) | Second largest |
+| Rikers Island (NYC) | Third largest |
+| Seriously mentally ill in jails/prisons | 350,000+ at any time |
+| Ratio of mentally ill in jails vs. hospitals | 10:1 |
+| Cost per inmate with mental illness | 2-3x cost of community treatment |
+
+Jails provide medication, crisis intervention, and housing of last resort—none of which they are designed or staffed to do well. This represents a complete policy failure: paying more for worse outcomes.
+
+**Cross-Domain Connection**: For solutions addressing this gap through healthcare system interventions, crisis response alternatives, and workforce development, see [Healthcare: Mental Health Integration - Solutions](../../healthcare/mental-health-integration/07-solutions.md), particularly the section on Justice System Diversion and Crisis Response.
+
+### 4. 911 as the Only Universal Emergency System
 
 911 is the only emergency response system that exists universally, operates 24/7, and is legally obligated to respond.
 
@@ -58,13 +107,14 @@ Community mental health services were supposed to replace hospitals. They were n
 | Default | If no one else exists, 911 responds |
 
 **Why 911 Dispatches Police to Mental Health Calls:**
+
 - No mental health responders available to dispatch
 - Call-takers lack mental health training
 - Liability concerns default to "officer safety"
 - No screening tools to identify pure mental health calls
 - "If in doubt, send police" culture
 
-### 4. Police Scope Creep
+### 5. Police Scope Creep
 
 Over decades, police have absorbed functions that other institutions abandoned.
 
@@ -79,7 +129,7 @@ Over decades, police have absorbed functions that other institutions abandoned.
 
 This expansion occurred without corresponding training, resources, or changes to police organizational culture.
 
-### 5. Medicaid IMD Exclusion
+### 6. Medicaid IMD Exclusion
 
 A technical provision in federal law has had enormous consequences. Medicaid cannot pay for care in "Institutions for Mental Disease" (psychiatric facilities over 16 beds) for adults ages 21-64.
 
@@ -90,7 +140,7 @@ A technical provision in federal law has had enormous consequences. Medicaid can
 | Crisis stabilization centers | Must stay under 16 beds |
 | Result | No financial path to rebuild psychiatric capacity |
 
-### 6. Housing Crisis Intersection
+### 7. Housing Crisis Intersection
 
 Mental illness and homelessness are deeply intertwined, and both end up in police encounters.
 
@@ -103,7 +153,7 @@ Mental illness and homelessness are deeply intertwined, and both end up in polic
 
 Without housing, treatment is nearly impossible. Without treatment, housing is difficult to maintain. Police manage this intersection through arrest.
 
-### 7. Substance Use and Co-Occurring Disorders
+### 8. Substance Use and Co-Occurring Disorders
 
 Mental illness and substance use disorders frequently co-occur, but systems treat them separately.
 
@@ -117,7 +167,7 @@ Mental illness and substance use disorders frequently co-occur, but systems trea
 
 When someone is in crisis involving both mental health and substance use, police are virtually certain to respond.
 
-### 8. Legal and Liability Frameworks
+### 9. Legal and Liability Frameworks
 
 Legal structures reinforce police as default responders.
 
@@ -129,7 +179,7 @@ Legal structures reinforce police as default responders.
 | Qualified immunity | Police protected from liability |
 | Risk aversion | Systems default to "send police" |
 
-### 9. Workforce Shortages
+### 10. Workforce Shortages
 
 Even where services exist, there aren't enough providers.
 
@@ -142,7 +192,7 @@ Even where services exist, there aren't enough providers.
 | Community mental health center turnover | 30-40% annually |
 | Peer support specialists | Underpaid, underutilized |
 
-### 10. Stigma and NIMBY
+### 11. Stigma and NIMBY
 
 Community opposition blocks mental health infrastructure.
 
@@ -201,6 +251,7 @@ Surface-level reforms—training police better, adding co-responders—do not ad
 | [History](03-history.md) | [Justice Topics](../README.md) | [Stakeholders](05-stakeholders.md) |
 
 **In This Section:**
+
 - [01 Overview](01-overview.md) | [02 Current State](02-current-state.md) | [03 History](03-history.md) | [04 Root Causes](04-root-causes.md)
 - [05 Stakeholders](05-stakeholders.md) | [06 Opposition](06-opposition.md) | [07 Solutions](07-solutions.md) | [08 Roadmap](08-roadmap.md)
 - [09 Resources](09-resources.md) | [10 Actions](10-actions.md) | [11 Legislation](11-legislation.md)

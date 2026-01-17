@@ -32,6 +32,7 @@ Documentation of how other countries have implemented solutions to problems the 
 ### Documentation Format
 
 Each foreign example should include:
+
 - System description and mechanics
 - Historical development
 - Outcomes and metrics

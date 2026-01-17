@@ -84,9 +84,9 @@ Mobility can be restored:
 
 | Subtopic | Connection |
 |----------|------------|
-| [Wealth Distribution](../wealth-distribution/01-overview.md) | Wealth inequality directly constrains mobility |
+| [Inequality](../inequality/01-overview.md) | Wealth inequality directly constrains mobility |
 | [Taxation](../taxation/01-overview.md) | Tax policy shapes inheritance, investment in children |
-| [Labor Markets](../labor-markets/01-overview.md) | Wage stagnation reduces absolute mobility |
+| [Wages](../wages/01-overview.md) | Wage stagnation reduces absolute mobility |
 
 ### Other FixAmerica Topics
 

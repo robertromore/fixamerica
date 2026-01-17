@@ -40,6 +40,7 @@ Over the past four decades, American markets have become dramatically more conce
 Amazon has become the most significant competitive threat to small retailers:
 
 **Amazon's Reach**:
+
 - 38% of U.S. e-commerce (more than next 9 competitors combined)
 - 200+ million Prime members globally (160+ million U.S.)
 - $500+ billion annual retail revenue
@@ -50,18 +51,21 @@ Amazon has become the most significant competitive threat to small retailers:
 
 **Self-Preferencing**:
 Amazon uses its platform control to favor its own products:
+
 - Amazon products appear first in search results
 - "Amazon's Choice" badge steers customers
 - Buy Box manipulation favors Amazon listings
 - Data from sellers used to launch competing products
 
 **Private Label Expansion**:
+
 - 400+ Amazon private label brands
 - Copies successful third-party products
 - Undercuts on price using platform data
 - Categories destroyed: batteries, cables, basics, baby products
 
 **Example: The Amazon Basics Strategy**
+
 1. Third-party seller establishes successful product
 2. Amazon collects data on sales, margins, search terms
 3. Amazon launches "Amazon Basics" version at lower price
@@ -83,6 +87,7 @@ Amazon uses its platform control to favor its own products:
 | **Total** | **40-65% of sale** |
 
 **Seller Dependency**:
+
 - 60% of third-party sellers say Amazon is essential to their business
 - Average seller gets 50%+ of revenue from Amazon
 - 37% of sellers have only Amazon channel
@@ -91,6 +96,7 @@ Amazon uses its platform control to favor its own products:
 ### Impact on Small Retail
 
 **Store Closures Since 2000**:
+
 - 100,000+ retail stores closed
 - 5,000+ shopping malls at risk
 - 40% of toy stores closed
@@ -114,6 +120,7 @@ Amazon uses its platform control to favor its own products:
 Walmart's impact on small business preceded and parallels Amazon's:
 
 **Walmart Statistics**:
+
 - $600+ billion annual revenue
 - 4,700+ U.S. stores
 - 1.6 million U.S. employees
@@ -137,6 +144,7 @@ Walmart's impact on small business preceded and parallels Amazon's:
 Walmart's scale gives it enormous leverage over suppliers:
 
 **Supplier Demands**:
+
 - Annual price reductions required
 - Vendors must adopt Walmart's IT systems
 - Penalties for delivery failures
@@ -144,6 +152,7 @@ Walmart's scale gives it enormous leverage over suppliers:
 - Margin transparency required
 
 **Small Supplier Impact**:
+
 - Walmart often demands prices below cost to sell elsewhere
 - Suppliers become dependent on single customer
 - Innovation squeezed out by margin pressure
@@ -156,12 +165,14 @@ Walmart's scale gives it enormous leverage over suppliers:
 Google controls how consumers find local businesses:
 
 **Google's Local Dominance**:
+
 - 92% search market share
 - Google Maps: 80%+ of navigation app usage
 - Google Business Profiles essential for visibility
 - Algorithm changes can destroy small businesses overnight
 
 **Issues for Small Business**:
+
 - Fake reviews harm legitimate businesses
 - Algorithm changes unpredictable
 - Ad costs continuously increase
@@ -171,6 +182,7 @@ Google controls how consumers find local businesses:
 ### Facebook/Meta and Small Business Marketing
 
 **Marketing Dependency**:
+
 - 200 million businesses use Facebook tools
 - Average small business spends $2,000-15,000/month on Facebook ads
 - Algorithm changes reduce organic reach to <5%
@@ -188,12 +200,14 @@ Google controls how consumers find local businesses:
 | Grubhub | 15-30% | $99-399/month |
 
 **Effects**:
+
 - Restaurant margins: 3-5% (before delivery)
 - Delivery commissions: 15-30%
 - Net result: Many restaurants lose money on delivery
 - But opting out means losing customers
 
 **Other Issues**:
+
 - Platforms control customer data
 - Can launch competing "ghost kitchens"
 - Surge pricing harms restaurants
@@ -206,6 +220,7 @@ Google controls how consumers find local businesses:
 Private equity firms are consolidating previously fragmented industries:
 
 **How It Works**:
+
 1. PE fund identifies fragmented industry
 2. Acquires multiple small businesses in sector
 3. Combines operations, cuts costs (often labor)
@@ -213,6 +228,7 @@ Private equity firms are consolidating previously fragmented industries:
 5. Either sells to larger PE or goes public
 
 **Affected Industries**:
+
 - Veterinary practices: 20%+ now PE-owned
 - Dental practices: 15%+ PE-owned
 - Dermatology: 20%+ PE-owned
@@ -223,18 +239,21 @@ Private equity firms are consolidating previously fragmented industries:
 ### Impact on Competition
 
 **Before PE Roll-Up**:
+
 - Many independent providers
 - Local relationships
 - Price competition
 - Innovation diversity
 
 **After PE Roll-Up**:
+
 - One or few dominant players
 - Standardized (often reduced) service
 - Higher prices
 - Barriers to new entry
 
 **Example: Veterinary Care**
+
 - Independent vet clinics: 55% in 2010, 35% in 2023
 - Average vet visit cost: Up 50% since 2010
 - Wait times: Increasing
@@ -249,6 +268,7 @@ Dominant firms can price below cost to drive out competitors:
 **Legal Status**: Technically illegal, but nearly impossible to prove under current standards
 
 **Examples**:
+
 - Amazon routinely sells popular items below cost
 - Uber/Lyft subsidized rides for years to destroy taxis
 - Walmart known for loss leaders that destroy competitors
@@ -258,6 +278,7 @@ Dominant firms can price below cost to drive out competitors:
 **Definition**: Supplier or distributor agreements that lock out competitors
 
 **Small Business Impact**:
+
 - Cannot access best products or brands
 - Distribution channels blocked
 - Supplier relationships captured by dominant buyer
@@ -267,6 +288,7 @@ Dominant firms can price below cost to drive out competitors:
 **Definition**: Requiring purchase of one product to get another
 
 **Examples**:
+
 - Microsoft Office bundled with Windows (historically)
 - Amazon Prime bundles streaming, shipping, etc.
 - Google apps pre-installed on Android
@@ -274,6 +296,7 @@ Dominant firms can price below cost to drive out competitors:
 ### Raising Rivals' Costs
 
 Dominant firms can use various tactics to increase competitors' costs:
+
 - Patent trolling and IP litigation
 - Hiring away key employees
 - Acquiring critical suppliers
@@ -286,12 +309,14 @@ Dominant firms can use various tactics to increase competitors' costs:
 Since the 1980s, antitrust law has focused narrowly on consumer prices:
 
 **Old Standard** (pre-1980):
+
 - Market structure matters
 - Multiple competitors valued
 - Small business protection explicit goal
 - Variety of harms recognized
 
 **New Standard** (post-1980):
+
 - Only consumer prices matter
 - Efficiency is paramount
 - Size is fine if prices low
@@ -310,6 +335,7 @@ Since the 1980s, antitrust law has focused narrowly on consumer prices:
 ### Robinson-Patman Act Abandonment
 
 The Robinson-Patman Act (1936) prohibited price discrimination that harmed small business:
+
 - Made it illegal to give large buyers better prices
 - Protected small retailers from buyer power
 - Enforced actively through 1970s
@@ -321,6 +347,7 @@ The Robinson-Patman Act (1936) prohibited price discrimination that harmed small
 ### Innovation Impact
 
 Concentration reduces innovation:
+
 - Startup rate declined as concentration increased
 - Young firms' share of employment: Down from 19% (1982) to 10% (2018)
 - New business formation: Lowest on record before pandemic
@@ -329,6 +356,7 @@ Concentration reduces innovation:
 ### Wage Effects
 
 Concentration enables wage suppression:
+
 - Labor market concentration associated with 10-20% lower wages
 - Non-compete agreements spread to low-wage workers
 - No-poach agreements between franchises
@@ -337,6 +365,7 @@ Concentration enables wage suppression:
 ### Regional Inequality
 
 Concentration concentrates wealth geographically:
+
 - Corporate headquarters cluster in few cities
 - Small towns lose anchor businesses
 - Tax base erodes in affected communities
@@ -347,12 +376,14 @@ Concentration concentrates wealth geographically:
 ### Reinvigorated Antitrust
 
 **Merger Reform**:
+
 - Stricter merger review
 - Structural presumptions against concentration
 - Prohibition on killer acquisitions
 - Break-up authority for existing monopolies
 
 **Conduct Reform**:
+
 - Revive Robinson-Patman enforcement
 - Ban self-preferencing by platforms
 - Prohibit predatory pricing
@@ -361,6 +392,7 @@ Concentration concentrates wealth geographically:
 ### Platform-Specific Regulation
 
 **Proposed Rules**:
+
 - Separation of platform and commerce (no selling on own platform)
 - Data portability and interoperability
 - Algorithmic transparency
@@ -370,6 +402,7 @@ Concentration concentrates wealth geographically:
 ### Support for Small Business
 
 **Countermeasures**:
+
 - Cooperative purchasing programs
 - Small business procurement preferences
 - Community wealth building initiatives

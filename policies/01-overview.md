@@ -24,6 +24,7 @@ policies/
 ## Relationship to Analysis
 
 Policy proposals originate in the `analysis/` directory, specifically in:
+
 - `07-solutions.md` files (policy ideas)
 - `11-legislation.md` files (draft legal text)
 

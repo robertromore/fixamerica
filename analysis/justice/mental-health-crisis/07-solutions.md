@@ -53,6 +53,7 @@ Unarmed teams of mental health crisis workers and EMTs respond to mental health 
 | Dispatch | Integrated with 911; screening protocol |
 
 **Key Implementation Requirements:**
+
 1. 911 integration and call-screening protocols
 2. Clear criteria for which calls go to civilian teams
 3. Rapid police backup capability for escalation
@@ -60,6 +61,7 @@ Unarmed teams of mental health crisis workers and EMTs respond to mental health 
 5. Receiving facilities for transport
 
 **Evidence:**
+
 - CAHOOTS: 35+ years; 24,000+ calls/year; <1% police backup
 - Denver STAR: Successful pilot; zero arrests; zero serious incidents
 - Multiple cities now replicating
@@ -77,12 +79,14 @@ Police officers paired with mental health clinicians for crisis calls.
 | Virtual consultation | Clinician advises by phone/video |
 
 **Advantages:**
+
 - Clinician expertise at scene
 - Better connection to services
 - Reduced ER/jail transport
 - Builds police-mental health partnerships
 
 **Limitations:**
+
 - Police still primary responders
 - Armed presence may escalate
 - Coverage often limited (business hours)
@@ -103,11 +107,13 @@ Police officers paired with mental health clinicians for crisis calls.
 | Drop-off | Agreements with receiving facilities |
 
 **Evidence:**
+
 - Improved officer attitudes and knowledge
 - Increased connection to services
 - Mixed evidence on force reduction
 
 **Limitations:**
+
 - Still armed response
 - Not always available (shift coverage)
 - Training alone has limits
@@ -127,6 +133,7 @@ National three-digit crisis line (like 911 for emergencies) connecting to local 
 | Mobile crisis dispatch | 30+ states (limited coverage) |
 
 **Needed Expansion:**
+
 - Dedicated state funding
 - Mobile crisis teams everywhere
 - Integration with 911
@@ -147,6 +154,7 @@ Transforming 911 to dispatch appropriate response—not just police—to mental 
 | Coordination | Integration with 988; crisis services |
 
 **Implementation Challenges:**
+
 - Technology investment
 - Protocol development
 - Training
@@ -167,6 +175,7 @@ Short-term (23-hour or 3-5 day) facilities for psychiatric stabilization as alte
 | Living room model | Varies | Peer-staffed; homelike environment |
 
 **Key Features:**
+
 - No-wrong-door entry
 - No medical clearance required for entry
 - Accept police and crisis team drop-offs
@@ -174,6 +183,7 @@ Short-term (23-hour or 3-5 day) facilities for psychiatric stabilization as alte
 - Connection to ongoing services
 
 **Examples:**
+
 - Restoration Center (San Antonio)
 - Living Room (multiple sites)
 - Crisis Triage Centers (Arizona model)
@@ -203,6 +213,7 @@ Officers connect people to services instead of arrest at the point of encounter.
 | Outreach partnerships | Officers refer to co-located service providers |
 
 **Examples:**
+
 - LEAD (Law Enforcement Assisted Diversion) - Seattle, many cities
 - Civil citation programs
 - CAHOOTS field contacts
@@ -225,12 +236,14 @@ Specialized court docket supervising treatment as alternative to traditional pro
 | Failure | Return to traditional prosecution |
 
 **Evidence:**
+
 - 20-25% recidivism reduction
 - 50-75% reduction in jail days
 - Improved treatment engagement
 - Cost-effective
 
 **Limitations:**
+
 - Post-arrest (damage already done)
 - Capacity limited
 - May require guilty plea
@@ -358,6 +371,7 @@ Defense attorneys identify diversion-eligible clients and advocate for treatment
 | [Opposition](06-opposition.md) | [Justice Topics](../README.md) | [Roadmap](08-roadmap.md) |
 
 **In This Section:**
+
 - [01 Overview](01-overview.md) | [02 Current State](02-current-state.md) | [03 History](03-history.md) | [04 Root Causes](04-root-causes.md)
 - [05 Stakeholders](05-stakeholders.md) | [06 Opposition](06-opposition.md) | [07 Solutions](07-solutions.md) | [08 Roadmap](08-roadmap.md)
 - [09 Resources](09-resources.md) | [10 Actions](10-actions.md) | [11 Legislation](11-legislation.md)

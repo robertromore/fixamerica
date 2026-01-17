@@ -99,7 +99,8 @@
 | Period | Productivity Growth | Wage Growth |
 |--------|---------------------|-------------|
 | 1948-1973 | 96.7% | 91.3% |
-| Pattern | Wages tracked productivity closely |
+
+*Pattern: Wages tracked productivity closely during this era.*
 
 **Minimum Wage Increases**
 

@@ -1,3 +1,28 @@
+---
+freshness:
+  last-reviewed: 2025-01-12
+  data-year: 2024
+  review-cycle: 6
+  sections:
+    - name: "The Problem Today"
+      data-year: 2024
+    - name: "Key Statistics"
+      data-year: 2024
+    - name: "Recent Developments"
+      data-year: 2024
+    - name: "Reform Progress"
+      data-year: 2024
+    - name: "Key Takeaways"
+      data-year: 2024
+notes:
+  - Refresh state restriction inventories after each legislative session and court ruling.
+  - Monitor Section 2 litigation and any federal voting-rights legislation for new developments.
+sources:
+  count: 10
+  verified: 2025-01-12
+  broken: 0
+---
+
 # Voting Rights: Current State
 
 ## The Problem Today

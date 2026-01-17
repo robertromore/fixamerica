@@ -1,6 +1,6 @@
 # Direct Democracy: Current State
 
-## State Ballot Initiative Systems (as of 2024)
+## State Ballot Initiative Systems (2024 snapshot)
 
 ### Initiative States
 
@@ -73,7 +73,7 @@ All 50 states allow legislatures to refer measures to voters:
 
 ### Popular Referendum (Veto Referendum)
 
-Twenty-three states allow citizens to challenge enacted laws (as of 2024):
+Twenty-three states allow citizens to challenge enacted laws (2024 snapshot):
 
 | State | Signature Requirement | Time Limit | Recent Use |
 |-------|---------------------|------------|------------|
@@ -94,7 +94,7 @@ Twenty-three states allow citizens to challenge enacted laws (as of 2024):
 
 ### State-Level Recall
 
-Nineteen states allow recall of state officials (as of 2024):
+Nineteen states allow recall of state officials (2024 snapshot):
 
 | State | Signature Requirement | Grounds Required | Recent Use |
 |-------|---------------------|------------------|------------|
@@ -129,13 +129,13 @@ More widespread than state-level:
 | 2012 | Governor Walker | Wisconsin | Survived (53%-47%) |
 | 2011 | Senate President Pearce | Arizona | Recalled (first legislator in AZ history) |
 
-## Participatory Budgeting (as of 2024)
+## Participatory Budgeting (2024 snapshot)
 
 ### Current Implementation
 
 **United States**:
 
-- Active in 400+ municipalities (as of 2024)
+- Active in 400+ municipalities (2024 snapshot)
 - $300+ million allocated through PB annually
 - Largest programs: NYC, Chicago, Boston, Seattle
 
@@ -268,11 +268,11 @@ More widespread than state-level:
 - Not officially connected to government
 - Influences agenda-setting
 
-## National Popular Vote Interstate Compact (as of 2024)
+## National Popular Vote Interstate Compact (end-2024 snapshot)
 
 ### Current Status
 
-States/jurisdictions in the compact (as of 2024): **17 + DC = 209 electoral votes**
+States/jurisdictions in the compact (end-2024 update): **17 + DC = 209 electoral votes**
 
 | State | Electoral Votes | Year Joined |
 |-------|----------------|-------------|
@@ -297,13 +297,13 @@ States/jurisdictions in the compact (as of 2024): **17 + DC = 209 electoral vote
 
 **Needed to activate**: 270 electoral votes (61 more needed)
 
-*Source: National Popular Vote Interstate Compact, 2024.*
+*Source: National Popular Vote Inc., Dec. 2024 update.*
 
 ### Recent Activity
 
-- **Passed one chamber** in additional states (Nevada, Arizona, Michigan)
-- **Active campaigns** in Virginia, Pennsylvania, Wisconsin
-- **Opposition** in Republican-controlled states
+- **One-chamber passage** has occurred in multiple states in recent cycles
+- **Active campaigns** continue in several swing and purple states
+- **Opposition** remains strongest in Republican-controlled legislatures
 
 ## Challenges in Current Systems
 
@@ -352,7 +352,7 @@ States/jurisdictions in the compact (as of 2024): **17 + DC = 209 electoral vote
 
 ### National Popular Vote
 
-- National Popular Vote Interstate Compact. "Status of National Popular Vote Bill in Each State," 2024. <https://www.nationalpopularvote.com/state-status>
+- National Popular Vote Inc. "Status of National Popular Vote Bill in Each State," Dec. 2024 update. <https://www.nationalpopularvote.com/state-status>
 
 ### Democratic Innovation
 

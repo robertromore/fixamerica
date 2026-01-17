@@ -90,7 +90,7 @@ Direct citizen decision-making over allocation of public funds.
 
 **Origins**: Porto Alegre, Brazil (1989)
 
-**Spread** (as of 2024):
+**Spread** (2024 snapshot):
 
 - 3,000+ cities worldwide
 - NYC largest U.S. program ($40M+ annually, FY 2023 allocation)
@@ -146,7 +146,7 @@ Online platforms enabling citizen participation:
 
 ## The American Context
 
-### Current State (as of 2024)
+### Current State (2024 snapshot)
 
 Democratic innovation in the United States lags other democracies:
 

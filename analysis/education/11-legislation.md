@@ -1,119 +1,200 @@
-# [Topic]: Legislation and Legal Framework
+# Education: Legislation and Legal Framework
 
 ## Overview
 
-[Brief introduction to the legislative landscape for this topic and the approach taken in this document.]
+Education legislation in America operates across federal, state, and local levels, with the federal role constitutionally limited but fiscally significant. This document provides a synthesis of legislative approaches across the education domain and points to detailed legislation in each subtopic.
 
-## Constitutional Amendments
+## Constitutional Framework
 
-[If constitutional changes are needed for this topic area.]
+### Federal Authority
 
-### [Amendment Name]
+The Constitution does not mention education, leaving it primarily to states under the Tenth Amendment. Federal involvement comes through:
 
-**Purpose**: [Why needed]
+- **Spending Clause**: Congress can attach conditions to federal education funding
+- **Commerce Clause**: Limited application to education
+- **Fourteenth Amendment**: Equal protection applies to public education (*Brown v. Board of Education*)
+- **Civil Rights Acts**: Prohibit discrimination in federally funded programs
 
-**Draft Text**:
+### Key Supreme Court Precedents
 
-```text
-Section 1. [Substantive provision]
+| Case | Year | Holding |
+|------|------|---------|
+| *Brown v. Board of Education* | 1954 | Segregated schools violate Equal Protection |
+| *San Antonio v. Rodriguez* | 1973 | Education is not a fundamental right under federal Constitution |
+| *Milliken v. Bradley* | 1974 | Limits on inter-district desegregation remedies |
+| *Plyler v. Doe* | 1982 | States cannot deny education to undocumented children |
+| *Parents Involved v. Seattle* | 2007 | Race-conscious assignment limited |
+| *Endrew F. v. Douglas County* | 2017 | IDEA requires "appropriately ambitious" IEPs |
 
-Section 2. Congress shall have the power to enforce this article
-by appropriate legislation.
+### State Constitutional Provisions
 
-Section 3. This article shall take effect [timing].
+Most state constitutions include education clauses requiring:
 
-```text
+- Free public education
+- "Thorough and efficient" or "adequate" education
+- Uniform system of schools
 
-**Explanation**: [Section-by-section breakdown]
+State courts have been more active than federal courts in enforcing education rights, with adequacy litigation successful in ~30 states.
 
-**Potential Challenges**: [Legal/political obstacles]
+## Federal Legislative Framework
 
-**Refinements**: [How to address challenges]
+### Major Federal Statutes
 
-## Federal Legislation
+| Statute | Purpose | Funding (FY2023) |
+|---------|---------|------------------|
+| Elementary and Secondary Education Act (ESSA) | K-12 funding, Title I | $18.4B |
+| Individuals with Disabilities Education Act (IDEA) | Special education | $15.5B |
+| Higher Education Act (HEA) | Student aid, Pell Grants | $40B+ |
+| Carl D. Perkins Act | Career and technical education | $1.4B |
+| Head Start Act | Early childhood | $12B |
+| Child Care and Development Block Grant | Childcare subsidies | $8B |
 
-### [Bill Name]
+### Legislative Priorities by Subtopic
 
-**Purpose**: [What problem this solves]
+Each subtopic contains detailed model legislation. Key priorities:
 
-**Draft Text**:
+**K-12 Education** → [Legislation](k-12-education/11-legislation.md)
 
-```text
-SEC. 1. SHORT TITLE.
+- Equitable School Finance Act (weighted student funding)
+- Title I Portability and Accountability Act
+- School Integration Incentive Act
 
-This Act may be cited as the "[Name] Act".
+**Higher Education** → [Legislation](higher-education/11-legislation.md)
 
-SEC. 2. [SUBSTANTIVE PROVISION].
+- America's College Promise Act (free community college)
+- Higher Education Accountability Act
+- Student Borrower Protection Act
 
-(a) In General.—[Main requirement]
-(b) Definitions.—[Key terms]
-(c) Enforcement.—[How enforced]
-(d) Penalties.—[Consequences for violation]
+**Early Childhood** → [Legislation](early-childhood/11-legislation.md)
 
-```text
+- Universal Early Childhood Education Act
+- Child Care Affordability Act
+- Early Childhood Workforce Compensation Act
 
-**Explanation**: [Why written this way]
+**Vocational Training** → [Legislation](vocational-training/11-legislation.md)
 
-**Potential Challenges**: [Constitutional, practical, political]
+- American Apprenticeship Act
+- Career and Technical Education Excellence Act
+- Short-Term Pell Grant Expansion Act
 
-**Refinements**: [Alternative approaches, fallback positions]
+**Student Debt** → [Legislation](student-debt/11-legislation.md)
 
-## State Model Legislation
+- Student Debt Cancellation Act
+- Bankruptcy Fairness Act
+- IDR Simplification Act
 
-### [Model Act Name]
+**Teacher Workforce** → [Legislation](teacher-workforce/11-legislation.md)
 
-**Purpose**: [State-level implementation]
+- Teacher Compensation Competitiveness Act
+- Teacher Preparation Modernization Act
+- PSLF Simplification Act
 
-**Draft Text**:
+**Education Equity** → [Legislation](education-equity/11-legislation.md)
 
-```text
-SECTION 1. [PROVISION]
+- Educational Equity and Integration Act
+- Teacher Equity Act
+- Discipline Equity Act
 
-SECTION 2. [PROVISION]
+**School Choice** → [Legislation](school-choice/11-legislation.md)
 
-```text
+- School Choice Accountability Act
+- Charter School Quality Act
+- Integration Incentive Act
 
-**Explanation**: [Design choices]
+**Special Education** → [Legislation](special-education/11-legislation.md)
 
-**Adaptations**: [How states might customize]
+- IDEA Full Funding Act
+- Inclusive Education Support Act
+- Special Education Workforce Act
 
-## Regulatory Framework
+**Curriculum & Standards** → [Legislation](curriculum-standards/11-legislation.md)
 
-### [Agency/Regulation]
+- Curriculum Quality Investment Act
+- Academic Freedom Protection Act
+- Library Access Protection Act
 
-**Existing Authority**: [Statutory basis]
+**Education Governance** → [Legislation](education-governance/11-legislation.md)
 
-**Draft Regulation**: [Regulatory text]
+- School Board Election Reform Act
+- Education Transparency Act
+- District Consolidation Incentive Act
 
-**Explanation**: [Implementation approach]
+## Cross-Cutting Legislative Themes
+
+### 1. Funding Equity
+
+Multiple subtopics address the fundamental problem of unequal funding:
+
+- Shift from property tax to state/federal funding
+- Weighted student funding formulas
+- Full federal funding of mandates (IDEA)
+- Maintenance of effort requirements
+
+### 2. Accountability Without Narrowing
+
+Tension between accountability and test-focused narrowing appears across:
+
+- K-12 assessment requirements
+- Higher education outcomes measures
+- School choice accountability
+- Charter authorization standards
+
+### 3. Workforce Investment
+
+Teacher and early childhood workforce crises require:
+
+- Competitive compensation
+- Loan forgiveness expansion
+- Preparation program investment
+- Working condition improvements
+
+### 4. Civil Rights Protection
+
+Multiple subtopics address discrimination and equity:
+
+- Discipline disparity requirements
+- Integration incentives
+- Special education enforcement
+- English learner services
+
+## Coordination Requirements
+
+Effective education reform requires coordinated legislation across subtopics:
+
+1. **Funding and Accountability**: K-12 funding reform must align with accountability systems
+2. **Pipeline Coherence**: Early childhood → K-12 → Higher Ed/Vocational pathways
+3. **Workforce Strategy**: Teacher preparation, compensation, and working conditions
+4. **Equity Framework**: Consistent civil rights protections across all programs
 
 ## Legal Considerations
 
-### Constitutional Issues
+### Federal-State Balance
 
-[Analysis of constitutional questions]
-
-### Preemption Questions
-
-[Federal vs. state authority]
+- *NFIB v. Sebelius* limits on conditional spending
+- State flexibility vs. federal enforcement
+- Waiver authority scope
 
 ### Enforcement Mechanisms
 
-[How laws will be enforced]
+- Office for Civil Rights complaint processes
+- State compliance monitoring
+- Private right of action availability
+- Funding withholding procedures
 
-### Sunset and Review Provisions
+## Cross-Domain Connections
 
-[Built-in review requirements]
+Education legislation intersects with:
 
-## References
+- **Healthcare**: School-based health, mental health services, workforce pipelines
+- **Justice**: School discipline, juvenile diversion, prison education
+- **Economic**: Workforce development, student debt, tax policy
+- **Housing**: School assignment, integration, property tax funding
 
-[Citations to existing law, court cases, model legislation]
+See subtopic legislation files for detailed cross-references.
 
-## Related Topics
-
-- [Related Topic](path) - Connection
+---
 
 ## Document Navigation
 
 - Previous: [Actions](10-actions.md)
-- Up: [Overview](01-overview.md)
+- Up: [Education Overview](01-overview.md)

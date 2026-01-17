@@ -1,3 +1,27 @@
+---
+freshness:
+  last-reviewed: 2025-01-12
+  data-year: 2025
+  review-cycle: 6
+  sections:
+    - name: "Trust and Approval"
+      data-year: 2025
+    - name: "Electoral Competition"
+      data-year: 2025
+    - name: "Money in Politics"
+      data-year: 2024
+    - name: "Voter Participation"
+      data-year: 2024
+    - name: "Partisan Polarization"
+      data-year: 2025
+    - name: "Recent Developments"
+      data-year: 2025
+sources:
+  count: 18
+  verified: 2025-01-12
+  broken: 0
+---
+
 # Political Reform: Current State
 
 ## The Problem Today
@@ -79,51 +103,64 @@ Since the 2010 Supreme Court decision:
 
 ## Key Statistics
 
-### Trust and Approval (as of 2024)
+### Trust and Approval (as of 2025)
 
 | Metric | Current Level | Historical Context |
 |--------|---------------|-------------------|
-| Trust in federal government | 20% (2024) | Was 77% in 1964 |
-| Congressional approval | 15-20% (2024) | Consistently below 30% since 2010 |
+| Trust in federal government | 17% (2025) | Was 77% in 1964; one of lowest ever measured |
+| Congressional approval | 17% (Dec. 2025) | Briefly hit 29% in early 2025, then declined |
 | Satisfaction with democracy | 46% (2024) | Declining steadily |
 | Belief vote is accurately counted | 59% (2024) | Down from 70%+ |
 
-### Electoral Competition (as of 2024)
+*Sources: [Pew Research Center, Dec. 2025](https://www.pewresearch.org/politics/2025/12/04/public-trust-in-government-1958-2025/); [Gallup](https://news.gallup.com/poll/1600/congress-public.aspx).*
+
+### Electoral Competition (as of 2025)
 
 | Metric | Value |
 |--------|-------|
-| Competitive House seats (2022) | ~35 of 435 (~8%) |
-| Incumbent re-election rate (House, 2022) | 95%+ |
+| Competitive House seats (2024) | ~35 of 435 (~8%) |
+| Incumbent re-election rate (House, 2024) | 95%+ |
 | Average margin of victory in "safe" seats | 25+ points |
-| States with independent redistricting (2024) | 10 |
+| States with independent redistricting commissions | 7 (true independent); 11 total (including hybrid) |
 
-### Money in Politics
+*Sources: [Cook Political Report](https://www.cookpolitical.com/ratings/house-race-ratings); [Ballotpedia](https://ballotpedia.org/Redistricting_commissions); [American Academy](https://www.amacad.org/news/state-legislative-update-independent-citizen-redistricting-commissions).*
+
+### Money in Politics (2024 cycle)
 
 | Metric | Value |
 |--------|-------|
-| Total 2020 election spending | $14.4 billion |
-| Dark money spending (2020) | $1+ billion |
-| Average cost to win House seat (2022) | $2+ million |
-| Average cost to win Senate seat (2022) | $27+ million |
+| Total 2024 federal election spending | $15.9 billion (record) |
+| Outside spending (2024) | $4.5 billion (record) |
+| Dark money contributions (2024) | $1+ billion |
+| Average cost to win House seat (2024) | $2.5+ million |
+| Average cost to win Senate seat (2024) | $30+ million |
 | Registered lobbyists in DC (2024) | 12,000+ |
 
-### Voter Participation
+*Source: [OpenSecrets](https://www.opensecrets.org/elections-overview/cost-of-election).*
+
+### Voter Participation (2024 snapshot)
 
 | Metric | Value |
 |--------|-------|
-| Presidential election turnout (2020) | 66% (highest in century) |
+| Presidential election turnout (2024) | 63.7% (second-highest since 1900) |
+| Presidential election turnout (2020) | 66.6% (highest since 1900) |
 | Midterm election turnout (2022) | 46% |
 | Primary election turnout (typical) | 15-25% |
-| Americans registered to vote (2024) | ~70% of eligible |
+| Americans registered to vote (2024) | 73.6% of citizen voting-age population |
 
-### Partisan Polarization (as of 2024)
+*Sources: [U.S. Census Bureau](https://www.census.gov/newsroom/press-releases/2025/2024-presidential-election-voting-registration-tables.html); [UF Election Lab](https://election.lab.ufl.edu/2024-general-election-turnout/).*
+
+### Partisan Polarization (as of 2025)
 
 | Metric | Value |
 |--------|-------|
-| Americans with "very unfavorable" view of other party (2024) | 60%+ |
+| Americans with "very unfavorable" view of other party | 60%+ |
 | Mixed-party marriages declining | Down 50% since 1970s |
-| Partisan gap on policy issues (2024) | Widest ever measured |
-| Trust in media by party (2024) | 30+ point gap |
+| Partisan gap on policy issues | Widest ever measured |
+| Trust in media by party | 30+ point gap |
+| Congressional approval gap (R vs D, 2025) | 37% R vs. 6% D |
+
+*Source: [Pew Research Center](https://www.pewresearch.org/politics/partisan-antipathy/); [Gallup](https://news.gallup.com/poll/696722/congress-job-rating-sinks-trump-steady.aspx).*
 
 ## Impact
 
@@ -152,26 +189,29 @@ Since the 2010 Supreme Court decision:
 
 ### Positive Signs
 
-- **Ranked-choice voting expansion**: Now used statewide in Alaska and Maine; adopted in 50+ cities
-- **Independent redistricting**: 10 states now use independent or bipartisan commissions
+- **Ranked-choice voting expansion**: Used statewide in Alaska and Maine; DC approved RCV in 2024 (effective 2026); 60+ local jurisdictions use RCV
+- **Independent redistricting**: 7 states have true independent citizen commissions; 11 total use commissions for congressional redistricting
 - **Open primaries**: Several states moving toward nonpartisan or open primary systems
 - **Transparency improvements**: Some states strengthening disclosure requirements
 - **Grassroots energy**: Organizations like RepresentUs, FairVote, and others gaining momentum
+
+*Sources: [FairVote](https://fairvote.org/our-reforms/ranked-choice-voting/); [Ballotpedia RCV results 2024](https://ballotpedia.org/Results_for_ranked-choice_voting_(RCV)_and_electoral_system_ballot_measures,_2024).*
 
 ### Concerning Trends
 
 - **Election denialism**: Substantial portion of electorate questions election legitimacy
 - **State-level restrictions**: Some states making voting more difficult
-- **Continued dark money**: Disclosure requirements remain weak at federal level
+- **RCV bans spreading**: 17 states now ban ranked-choice voting (as of mid-2025)
+- **Continued dark money**: Disclosure requirements remain weak; $1+ billion in dark money in 2024
 - **Supreme Court rulings**: Recent decisions have limited campaign finance regulation
 - **Norm erosion continues**: Bipartisan cooperation remains politically dangerous
 
-### Current Battlegrounds
+### Current Battlegrounds (as of 2025)
 
-- **For the People Act / Freedom to Vote Act**: Federal voting rights legislation stalled
-- **State ballot initiatives**: Voters directly implementing reforms where legislatures won't
+- **Federal voting rights legislation**: For the People Act/Freedom to Vote Act remain stalled
+- **State ballot initiatives**: Voters directly implementing reforms where legislatures won't; but RCV bans also passing
 - **Lawsuit challenges**: Legal battles over redistricting maps, voting rules, campaign finance
-- **2024 and beyond**: High-stakes elections testing democratic resilience
+- **2026 midterms and beyond**: Continued testing of democratic resilience
 
 ## Sources
 

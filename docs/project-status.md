@@ -1,6 +1,6 @@
 # Project Status
 
-Last updated: 2026-01-11
+Last updated: 2026-01-13
 
 ## Completion Status
 
@@ -8,7 +8,7 @@ Last updated: 2026-01-11
 |-----------|--------|----------|
 | Analysis | Complete | 23/23 domains |
 | Legislation | Complete | 62/62 files |
-| Plans | In Progress | 1 plan developed |
+| Plans | In Progress | 12 constitutional amendments |
 | Policies | Not Started | Structure only |
 | Implementations | Not Started | Structure only |
 
@@ -54,8 +54,34 @@ All domains have `11-legislation.md` files with:
 
 ### Plans (In Progress)
 
-- [x] Regional Federalism (20 documents, 9,495 lines)
-- [ ] Additional implementation plans
+Constitutional amendment proposals in `plans/constitutional-amendments/`:
+
+**Regional Federalism** (comprehensive restructuring):
+
+- [x] Core design (25 documents)
+- [x] Constitutional text (split into 8 focused files)
+- [x] Implementation legislation (5 acts)
+- [x] Stress testing and analysis (6 documents)
+
+**Standalone Reforms** (can be adopted independently):
+
+- [x] Election Reform (national popular vote, certification)
+- [x] Judicial Reform (term limits, mandatory jurisdiction)
+- [x] Impeachment Reform (procedures, timelines)
+- [x] Lobbying Reform (anti-corruption, disclosure)
+- [x] Federal Reserve Reform (independence, governance)
+- [x] Military Civilian Control (two-key authorization)
+- [x] Cyber Defense (digital security framework)
+- [x] Emergency Powers Reform (time limits, restoration)
+- [x] Congressional Reform (representation, ethics)
+- [x] Executive Reform (order limits, accountability)
+- [x] Tax Reform (taxation principles)
+
+**Not Yet Developed:**
+
+- [ ] Advocacy strategies
+- [ ] Legislative campaign plans
+- [ ] Electoral strategies
 
 ### Policies (Not Started)
 

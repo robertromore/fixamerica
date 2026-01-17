@@ -69,7 +69,7 @@ The United States offers citizens few meaningful opportunities to participate in
 
 ## Current Innovations in the U.S.
 
-### Participatory Budgeting (as of 2024)
+### Participatory Budgeting (2024 snapshot)
 
 **Scale**: Approximately 30 U.S. cities, most at small scale
 

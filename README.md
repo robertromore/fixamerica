@@ -55,7 +55,7 @@ FixAmerica/
 - Public investment, wages, small business, economic mobility
 - Consumer debt, automation
 
-### Standard Domains (11 files each)
+### Standard Domains (12 files each)
 
 | Domain | Domain | Domain |
 |--------|--------|--------|
@@ -69,7 +69,7 @@ FixAmerica/
 
 ## File Structure
 
-Each topic uses a standardized 11-file structure:
+Each topic uses a standardized 12-file structure:
 
 | File | Purpose |
 |------|---------|
@@ -84,6 +84,7 @@ Each topic uses a standardized 11-file structure:
 | `09-resources.md` | Further reading and citations |
 | `10-actions.md` | What citizens can do |
 | `11-legislation.md` | Draft legal text and model legislation |
+| `12-perspectives.md` | Political perspectives analysis and compromise mapping |
 
 ## Implementation Plans
 
@@ -94,6 +95,27 @@ Each topic uses a standardized 11-file structure:
 - [Citation Guide](docs/citation-guide.md) - Citation formatting standards
 - [Legislation Guide](docs/legislation-guide.md) - How to write legislation files
 - [Templates](docs/templates/) - Templates for new content
+
+## Perspectives Analysis
+
+The project includes a political perspectives analysis system that evaluates each topic from 9 distinct viewpoints: Conservative, Liberal, Progressive, Libertarian, Constitutionalist, Populist, Centrist, Religious Right, and Democratic Socialist.
+
+Each perspective receives:
+
+- **Faith Level (1-5)**: Assessment of good faith engagement with evidence citations
+- **Position Scores (1-10)**: Agreement with current state, root causes, solutions, and legislation
+- **Alternative Proposals**: What each perspective would prefer instead
+- **Coalition Potential**: Natural allies and potential bridges
+
+The analysis concludes with compromise proposals identifying common ground across perspectives.
+
+### Quick Start (Claude Code)
+
+```bash
+/analyze-perspectives political/campaign-finance
+/analyze-perspectives political/electoral-reform --perspective Conservative
+/analyze-perspectives political/campaign-finance --compromises-only
+```
 
 ## LLM Review Collaboration
 

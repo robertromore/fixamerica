@@ -311,11 +311,13 @@
 ### Direct Appropriations
 
 **Advantages**:
+
 - Most straightforward
 - Full public accountability
 - Can target equity goals
 
 **Disadvantages**:
+
 - Annual budget competition
 - Vulnerable to cuts
 - Limited to federal priorities

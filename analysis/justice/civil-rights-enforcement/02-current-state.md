@@ -205,6 +205,7 @@ Civil rights enforcement in criminal justice operates through multiple federal a
 | [← Overview](01-overview.md) | [Justice Index](../index.md) | [History →](03-history.md) |
 
 **Section Contents:**
+
 - [01. Overview](01-overview.md)
 - [02. Current State](02-current-state.md) ← You are here
 - [03. History](03-history.md)

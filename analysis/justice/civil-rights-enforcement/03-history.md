@@ -11,6 +11,7 @@ The history of civil rights enforcement in criminal justice reflects America's o
 The first federal civil rights legislation established that all persons born in the United States were citizens entitled to equal rights regardless of race. It authorized federal enforcement against state officials who violated these rights.
 
 **Key Provisions:**
+
 - Equal rights to make contracts, sue, give evidence
 - Equal property rights
 - Federal court jurisdiction for violations
@@ -22,6 +23,7 @@ The first federal civil rights legislation established that all persons born in 
 | "Any person who, under color of any law... shall subject... any person... to the deprivation of any rights, privileges, or immunities secured by the Constitution" | Substantially identical language remains the core of 42 U.S.C. § 1983 |
 
 **Context:**
+
 - Passed in response to Klan terrorism in the South
 - Targeted state officials who refused to protect Black citizens
 - Created federal cause of action against state actors
@@ -45,6 +47,7 @@ The criminal counterpart to civil liability was enacted in 1866 and strengthened
 ### Section 1983 Rendered Ineffective
 
 For nearly a century, Section 1983 was virtually unused due to:
+
 - Restrictive interpretations of "under color of law"
 - Requirement that state law authorize the conduct
 - Hostile federal judiciary
@@ -65,12 +68,14 @@ For nearly a century, Section 1983 was virtually unused due to:
 
 **The Case:** Chicago police broke into the Monroe family home without a warrant, forced them to stand naked, ransacked their home, and detained Mr. Monroe for 10 hours on "open charges."
 
-**The Holding:** 
+**The Holding:**
+
 - Officers acting in violation of state law still act "under color of" state law
 - Section 1983 provides a federal remedy independent of state remedies
 - Municipalities cannot be sued under Section 1983 (overruled in 1978)
 
 **Impact:**
+
 | Before Monroe | After Monroe |
 |---------------|--------------|
 | ~300 Section 1983 cases filed annually | Exponential growth begins |
@@ -246,6 +251,7 @@ For nearly a century, Section 1983 was virtually unused due to:
 | [← Current State](02-current-state.md) | [Justice Index](../index.md) | [Root Causes →](04-root-causes.md) |
 
 **Section Contents:**
+
 - [01. Overview](01-overview.md)
 - [02. Current State](02-current-state.md)
 - [03. History](03-history.md) ← You are here

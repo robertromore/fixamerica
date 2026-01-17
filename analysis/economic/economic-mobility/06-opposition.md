@@ -125,6 +125,7 @@ Proposals to increase economic mobility face determined opposition from those wh
 ### Conservative Opposition
 
 **Core arguments**:
+
 1. Markets, not government, create opportunity
 2. Social programs create dependency
 3. Individual choices, not systems, determine outcomes
@@ -137,6 +138,7 @@ Proposals to increase economic mobility face determined opposition from those wh
 ### Moderate/Centrist Opposition
 
 **Core arguments**:
+
 1. Change is risky; incremental reform is better
 2. Programs must be "evidence-based" (requiring impossibly high standards)
 3. Can't afford major new investments
@@ -149,6 +151,7 @@ Proposals to increase economic mobility face determined opposition from those wh
 ### NIMBY Opposition
 
 **Core arguments**:
+
 1. Local control is democratic
 2. Community character matters
 3. Density brings problems

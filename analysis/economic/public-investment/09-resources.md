@@ -54,34 +54,43 @@ Analysis of global trade imbalances and their implications for American industry
 ### Infrastructure Economics
 
 Aschauer, David Alan. "Is Public Expenditure Productive?" *Journal of Monetary Economics* 23, no. 2 (1989): 177-200.
+
 - Seminal paper finding high returns to public infrastructure investment
 
 Congressional Budget Office. "Public Spending on Transportation and Water Infrastructure, 1956 to 2017." October 2018.
+
 - Comprehensive data on trends in public infrastructure spending
 
 Bivens, Josh. "The Short- and Long-Term Impact of Infrastructure Investments on Employment and Economic Activity in the U.S. Economy." Economic Policy Institute, 2014.
+
 - Analysis of employment effects of infrastructure spending
 
 Leduc, Sylvain, and Daniel Wilson. "Roads to Prosperity or Bridges to Nowhere? Theory and Evidence on the Impact of Public Infrastructure Investment." *NBER Macroeconomics Annual* 27, no. 1 (2012): 89-142.
+
 - Evidence on infrastructure investment returns
 
 ### Research and Innovation
 
 Mowery, David C., and Nathan Rosenberg. *Technology and the Pursuit of Economic Growth*. Cambridge University Press, 1989.
+
 - Historical analysis of technology policy and economic growth
 
 Gruber, Jonathan, and Simon Johnson. "Jump-Starting America: How Breakthrough Science Can Revive Economic Growth and the American Dream." *Working Paper*, MIT, 2019.
+
 - Case for expanded and distributed R&D investment
 
 Bloom, Nicholas, et al. "Are Ideas Getting Harder to Find?" *American Economic Review* 110, no. 4 (2020): 1104-44.
+
 - Analysis of research productivity and implications for R&D investment
 
 ### Public-Private Partnerships
 
 Engel, Eduardo, Ronald Fischer, and Alexander Galetovic. *The Economics of Public-Private Partnerships: A Basic Guide*. Cambridge University Press, 2014.
+
 - Economic framework for evaluating PPPs
 
 Hodge, Graeme A., and Carsten Greve. "Public-Private Partnerships: An International Performance Review." *Public Administration Review* 67, no. 3 (2007): 545-558.
+
 - Comparative analysis of PPP outcomes
 
 ## Data Sources
@@ -89,18 +98,21 @@ Hodge, Graeme A., and Carsten Greve. "Public-Private Partnerships: An Internatio
 ### Infrastructure Condition
 
 **American Society of Civil Engineers (ASCE)**
+
 - Infrastructure Report Card (quadrennial)
 - Failure to Act economic analysis
 - State-by-state infrastructure data
 - Website: infrastructurereportcard.org
 
 **Bureau of Transportation Statistics**
+
 - Transportation condition data
 - Usage statistics
 - Modal comparisons
 - Website: bts.gov
 
 **EPA Water Infrastructure Data**
+
 - Drinking water needs survey
 - Clean water needs survey
 - State-by-state assessments
@@ -109,17 +121,20 @@ Hodge, Graeme A., and Carsten Greve. "Public-Private Partnerships: An Internatio
 ### Investment and Spending
 
 **Congressional Budget Office**
+
 - Public infrastructure spending reports
 - Budget projections
 - Policy analysis
 - Website: cbo.gov
 
 **Census Bureau Annual Survey of State and Local Government Finances**
+
 - Capital outlay data
 - State and local spending
 - Website: census.gov
 
 **Federal Reserve Economic Data (FRED)**
+
 - Government investment data
 - Infrastructure spending trends
 - Website: fred.stlouisfed.org
@@ -127,11 +142,13 @@ Hodge, Graeme A., and Carsten Greve. "Public-Private Partnerships: An Internatio
 ### Research and Development
 
 **National Science Foundation (NSF)**
+
 - Science and Engineering Indicators
 - R&D statistics
 - Website: nsf.gov/statistics
 
 **American Association for the Advancement of Science (AAAS)**
+
 - Federal R&D budget analysis
 - Historical trends
 - Website: aaas.org/programs/r-d-budget-and-policy
@@ -141,22 +158,26 @@ Hodge, Graeme A., and Carsten Greve. "Public-Private Partnerships: An Internatio
 ### Pro-Investment Perspective
 
 **Brookings Institution**
+
 - Metropolitan Policy Program
 - Infrastructure analysis
 - Regional economic development
 - Website: brookings.edu
 
 **Economic Policy Institute**
+
 - Labor and economic analysis
 - Infrastructure investment effects
 - Website: epi.org
 
 **Roosevelt Institute**
+
 - Industrial policy
 - Public investment
 - Website: rooseveltinstitute.org
 
 **Center for American Progress**
+
 - Infrastructure policy
 - Clean energy investment
 - Website: americanprogress.org
@@ -164,16 +185,19 @@ Hodge, Graeme A., and Carsten Greve. "Public-Private Partnerships: An Internatio
 ### Market-Oriented Perspective
 
 **Reason Foundation**
+
 - Privatization studies
 - Transportation policy
 - Website: reason.org
 
 **Tax Foundation**
+
 - Infrastructure financing
 - Tax policy
 - Website: taxfoundation.org
 
 **American Enterprise Institute**
+
 - Infrastructure finance
 - Regulatory reform
 - Website: aei.org
@@ -181,16 +205,19 @@ Hodge, Graeme A., and Carsten Greve. "Public-Private Partnerships: An Internatio
 ### Non-Partisan Research
 
 **RAND Corporation**
+
 - Infrastructure research
 - Technology policy
 - Website: rand.org
 
 **Urban Institute**
+
 - Infrastructure finance
 - State and local capacity
 - Website: urban.org
 
 **Congressional Research Service**
+
 - Infrastructure policy reports
 - Program analysis
 - Website: crsreports.congress.gov
@@ -200,15 +227,18 @@ Hodge, Graeme A., and Carsten Greve. "Public-Private Partnerships: An Internatio
 ### Infrastructure
 
 **Building America's Future**
+
 - Bipartisan infrastructure advocacy
 - Business and labor coalition
 - Website: bafuture.org
 
 **Transportation Trades Department, AFL-CIO**
+
 - Labor-infrastructure coalition
 - Website: ttd.org
 
 **American Society of Civil Engineers**
+
 - Professional advocacy
 - Infrastructure Report Card
 - Website: asce.org
@@ -216,11 +246,13 @@ Hodge, Graeme A., and Carsten Greve. "Public-Private Partnerships: An Internatio
 ### Research and Technology
 
 **Information Technology and Innovation Foundation (ITIF)**
+
 - Technology policy
 - R&D investment advocacy
 - Website: itif.org
 
 **Association of American Universities**
+
 - Research university advocacy
 - Federal R&D policy
 - Website: aau.edu
@@ -228,11 +260,13 @@ Hodge, Graeme A., and Carsten Greve. "Public-Private Partnerships: An Internatio
 ### Clean Energy
 
 **BlueGreen Alliance**
+
 - Labor-environmental coalition
 - Clean energy investment
 - Website: bluegreenalliance.org
 
 **American Council on Renewable Energy (ACORE)**
+
 - Clean energy business coalition
 - Website: acore.org
 
@@ -241,16 +275,19 @@ Hodge, Graeme A., and Carsten Greve. "Public-Private Partnerships: An Internatio
 ### Federal
 
 **White House Infrastructure Implementation**
+
 - IIJA implementation
 - Project tracking
 - Website: whitehouse.gov/build
 
 **Department of Transportation**
+
 - Infrastructure programs
 - Grant opportunities
 - Website: transportation.gov
 
 **Department of Energy**
+
 - Energy infrastructure programs
 - Research programs
 - Website: energy.gov
@@ -258,15 +295,18 @@ Hodge, Graeme A., and Carsten Greve. "Public-Private Partnerships: An Internatio
 ### State and Local
 
 **National Governors Association**
+
 - State infrastructure priorities
 - Best practices
 - Website: nga.org
 
 **U.S. Conference of Mayors**
+
 - Urban infrastructure needs
 - Website: usmayors.org
 
 **National Association of Counties**
+
 - County infrastructure
 - Website: naco.org
 
@@ -292,22 +332,26 @@ Hodge, Graeme A., and Carsten Greve. "Public-Private Partnerships: An Internatio
 ### Courses
 
 **MIT OpenCourseWare**
+
 - Infrastructure policy courses
 - Engineering economics
 - Website: ocw.mit.edu
 
 **edX Infrastructure Courses**
+
 - Various university offerings
 - Website: edx.org
 
 ### Reports and Guides
 
 **Government Accountability Office (GAO)**
+
 - Infrastructure program evaluations
 - Best practices
 - Website: gao.gov
 
 **National Academies**
+
 - Infrastructure research reports
 - Consensus studies
 - Website: nationalacademies.org
@@ -330,26 +374,32 @@ Hodge, Graeme A., and Carsten Greve. "Public-Private Partnerships: An Internatio
 ### Recent Legislation
 
 **Infrastructure Investment and Jobs Act (2021)**
+
 - P.L. 117-58
 - $1.2 trillion authorization
 
 **CHIPS and Science Act (2022)**
+
 - P.L. 117-167
 - Semiconductor and R&D investment
 
 **Inflation Reduction Act (2022)**
+
 - P.L. 117-169
 - Clean energy investment
 
 ### Historical Documents
 
 **National Interstate and Defense Highways Act (1956)**
+
 - Created Interstate Highway System
 
 **National Science Foundation Act (1950)**
+
 - Established federal basic research framework
 
 **Tennessee Valley Authority Act (1933)**
+
 - Model for regional development
 
 ## Related Topics

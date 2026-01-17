@@ -23,26 +23,31 @@ This directory documents how other countries have successfully implemented solut
 Each foreign example should include:
 
 ### System Description
+
 - How the system works mechanically
 - Key features and components
 - Administrative structure
 
 ### Historical Development
+
 - When and how it was implemented
 - Political context of adoption
 - Evolution over time
 
 ### Outcomes and Metrics
+
 - Measured results
 - Comparative statistics with US
 - Cost-effectiveness data
 
 ### Applicability to US Context
+
 - What transfers directly
 - What requires adaptation
 - Political feasibility assessment
 
 ### Adaptation Requirements
+
 - Legal/constitutional changes needed
 - Administrative capacity requirements
 - Transition timeline considerations

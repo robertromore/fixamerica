@@ -14,7 +14,7 @@ Executive power affects every citizen:
 
 ### Military Personnel and Families
 
-Those most directly affected by commander-in-chief authority (as of 2024):
+Those most directly affected by commander-in-chief authority (2024 snapshot):
 
 - 1.3 million active duty service members
 - 760,000 Selected Reserve forces
@@ -25,7 +25,7 @@ Those most directly affected by commander-in-chief authority (as of 2024):
 
 ### Federal Employees
 
-2.95 million civilian federal workers (as of 2024) affected by:
+2.95 million civilian federal workers (2024 snapshot) affected by:
 
 *Source: Office of Personnel Management (OPM) Federal Workforce Statistics.*
 

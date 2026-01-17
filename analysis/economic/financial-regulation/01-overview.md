@@ -32,18 +32,23 @@ American financial regulation has swung dramatically over the past century:
 ## Core Principles for Reform
 
 ### 1. Structural Separation
+
 Banks that hold federally insured deposits should be prohibited from engaging in speculative trading and investment banking activities. The separation established by Glass-Steagall worked for decades and its repeal contributed directly to the 2008 crisis.
 
 ### 2. Size Limits
+
 No financial institution should be "too big to fail" or "too big to jail." Institutions whose failure would threaten the broader economy should be broken up, not coddled with implicit government guarantees.
 
 ### 3. Consumer Protection
+
 Financial products should be regulated with the same rigor as physical products. Predatory lending, deceptive practices, and exploitation of vulnerable populations must be prohibited and punished.
 
 ### 4. Transparency
+
 Shadow banking, dark pools, and opaque derivative markets create systemic risks that regulators cannot monitor. Sunlight remains the best disinfectant.
 
 ### 5. Accountability
+
 Criminal penalties for financial fraud should be enforced against individuals, not just institutions. Corporate fines that amount to a fraction of ill-gotten gains provide no deterrent.
 
 ## Topics in This Section
@@ -75,6 +80,14 @@ Without meaningful reform, the question is not whether another crisis will occur
 | [Inequality](../inequality/01-overview.md) | Financialization driving wealth concentration |
 | [Small Business](../small-business/01-overview.md) | Access to credit and capital for small enterprises |
 | [Fiscal Policy](../fiscal-policy/01-overview.md) | Government bailouts and financial system support |
+
+## Related Topics (Cross-Domain)
+
+| Domain | Topic | Connection |
+|--------|-------|------------|
+| Political | [Campaign Finance](../../political/campaign-finance/01-overview.md) | Financial industry contributions shape regulatory policy |
+| Political | [Lobbying](../../political/lobbying/01-overview.md) | Wall Street lobbying weakens oversight and enforcement |
+| Justice | [White-Collar Crime](../../justice/01-overview.md) | Prosecution of financial fraud and securities violations |
 
 ## Document Navigation
 

@@ -5,31 +5,37 @@
 ### Values for Economic Reform
 
 **Broadly Shared Prosperity**
+
 - Economic growth should benefit all, not just those at the top
 - The gains from productivity should flow to workers, not only owners
 - No one working full-time should live in poverty
 
 **Fair Contribution**
+
 - Those who benefit most from society should contribute most
 - Tax burdens should reflect ability to pay
 - Corporations should pay for the infrastructure and institutions they use
 
 **Competitive Markets**
+
 - Competition keeps prices low, quality high, and innovation strong
 - Market power should be checked, not allowed to dominate
 - Small business should have a fair chance against giants
 
 **Worker Power and Dignity**
+
 - Workers deserve voice in workplace decisions
 - Labor is not merely a cost to be minimized
 - Good jobs provide security, not just income
 
 **Long-Term Thinking**
+
 - Investment in future generations matters
 - Short-term extraction must give way to sustainable growth
 - Environmental and social costs must be accounted for
 
 **Democratic Control**
+
 - Economic power should not translate automatically to political power
 - Citizens should shape economic rules, not just wealthy donors
 - Transparency and accountability in economic governance
@@ -407,6 +413,7 @@ While extremely difficult, some structural reforms require constitutional change
 **Progressive/Left**
 
 Emphasizes:
+
 - Redistribution through taxation
 - Worker power and unions
 - Strong regulation
@@ -416,6 +423,7 @@ Emphasizes:
 **Reform Liberal**
 
 Emphasizes:
+
 - Market-friendly interventions
 - Human capital investment
 - Tax incentives
@@ -425,6 +433,7 @@ Emphasizes:
 **Conservative Reform**
 
 Emphasizes:
+
 - Deconcentration of power (anti-monopoly)
 - Localism and community
 - Family and civil society
@@ -434,6 +443,7 @@ Emphasizes:
 **Libertarian Reform**
 
 Emphasizes:
+
 - Ending corporate welfare
 - Reducing barriers to entry
 - Deregulation and competition

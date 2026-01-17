@@ -12,7 +12,7 @@ The basic structure remains:
 - **Spending Power**: Federal grants as policy tool
 - **Tenth Amendment**: Reserved powers to states
 
-### Practical Reality (as of 2024)
+### Practical Reality (2024 snapshot)
 
 Despite constitutional limits, federal influence pervasive:
 
@@ -88,7 +88,7 @@ Unfunded mandates remain significant despite 1995 reform:
 - **Conditional**: Attached to federal funding
 - **Constitutional**: Civil rights requirements
 
-**Major Unfunded or Underfunded Mandates (as of 2024)**:
+**Major Unfunded or Underfunded Mandates (2024 snapshot)**:
 
 | Mandate | Annual State/Local Cost (est.) |
 |---------|-------------------------------|
@@ -126,7 +126,7 @@ From National Conference of State Legislatures (NCSL):
 
 ## Federal Grants and Conditions
 
-### Grant System Scale (as of 2024)
+### Grant System Scale (2024 snapshot)
 
 Federal grants to states and localities:
 
@@ -186,7 +186,7 @@ A community seeking federal homelessness assistance may need to navigate:
 
 ### Interstate Compacts
 
-**Current Landscape (as of 2024)**:
+**Current Landscape (2024 snapshot)**:
 
 Over 200 interstate compacts currently in force:
 
@@ -217,7 +217,7 @@ States compete for business through:
 - Weaker labor protections
 - Business-friendly courts
 
-**Economic Development Incentives (as of 2024)**:
+**Economic Development Incentives (2024 snapshot)**:
 
 - $45+ billion annually in state/local incentives
 - Effectiveness questioned by research
@@ -301,7 +301,7 @@ Neither party consistently pro-federal or pro-state:
 - ESG investment restrictions
 - Election administration conflicts
 
-## Fiscal Federalism (as of 2024)
+## Fiscal Federalism (2024 snapshot)
 
 ### Revenue and Spending Mismatch
 

@@ -11,6 +11,7 @@ Franchising represents a significant segment of the small business economy, with
 A franchise is a license granted by a company (franchisor) to an individual or group (franchisee) to conduct business under the franchisor's trademarks and operating system.
 
 **Key Elements**:
+
 - Use of franchisor's trademark and brand
 - Operating system and business format
 - Ongoing relationship with fees and obligations
@@ -75,6 +76,7 @@ Franchise agreements are drafted by franchisors and are largely non-negotiable:
 
 **Cost of Goods Markup**:
 Many franchisors require purchase of supplies, equipment, and inventory from approved suppliers at inflated prices:
+
 - Food costs: 10-30% above market
 - Equipment: 20-50% above market
 - Uniforms and supplies: 15-40% above market
@@ -83,12 +85,14 @@ Many franchisors require purchase of supplies, equipment, and inventory from app
 ### Information Asymmetry
 
 **What Franchisors Know**:
+
 - Detailed unit-level economics across system
 - Success and failure rates by location
 - Actual revenue and profit potential
 - Market saturation levels
 
 **What Franchisees Don't Get**:
+
 - Unit-level financial performance data (often not disclosed)
 - Accurate success/failure rates
 - Pending encroachment plans
@@ -96,6 +100,7 @@ Many franchisors require purchase of supplies, equipment, and inventory from app
 
 **FDD Disclosure Limitations**:
 The Franchise Disclosure Document (FDD) is required but often inadequate:
+
 - Item 19 (financial performance) is optional
 - Only 60% of franchisors provide any earnings data
 - Data often cherry-picked or misleading
@@ -109,6 +114,7 @@ The Franchise Disclosure Document (FDD) is required but often inadequate:
 Franchisors can open new locations (company-owned or franchised) that compete with existing franchisees:
 
 **Forms of Encroachment**:
+
 - New franchise units nearby
 - Company-owned stores in territory
 - Alternative channels (grocery, gas stations)
@@ -116,6 +122,7 @@ Franchisors can open new locations (company-owned or franchised) that compete wi
 - Ghost kitchens under same brand
 
 **Example**: A pizza franchise has territorial "protection" but the franchisor:
+
 - Opens delivery-only ghost kitchen in territory
 - Sells same pizza through grocery stores
 - Allows national delivery that ships into territory
@@ -126,6 +133,7 @@ Franchisors can open new locations (company-owned or franchised) that compete wi
 Some franchisors profit from franchisee failure:
 
 **The Churn Model**:
+
 1. Collect $50,000 franchise fee
 2. Franchisee opens, struggles
 3. Franchisor provides minimal support
@@ -134,6 +142,7 @@ Some franchisors profit from franchisee failure:
 6. Repeat
 
 **Evidence of Churning**:
+
 - High franchisee turnover rates (some systems: 30%+ annual)
 - Consistent franchise fee income despite failures
 - Minimal investment in franchisee success
@@ -144,12 +153,14 @@ Some franchisors profit from franchisee failure:
 Franchisors maintain control over operations while disclaiming employment relationships:
 
 **The Control Without Responsibility Model**:
+
 - Franchisors dictate wages, schedules, uniforms, procedures
 - But claim franchisees are the "employers"
 - When workers sue for wage theft, franchisor claims independence
 - When customers are harmed, franchisor disclaims liability
 
 **Labor Violations in Franchises**:
+
 - Wage theft endemic in fast food franchises
 - 89% of fast food investigations found violations
 - $200 million in back wages recovered (2010-2020)
@@ -159,12 +170,14 @@ Franchisors maintain control over operations while disclaiming employment relati
 
 **No-Poach Clauses**:
 Until recently, many franchise agreements prohibited franchisees from hiring workers from other locations of the same brand:
+
 - Workers couldn't move to better-paying locations
 - Suppressed wages across system
 - Antitrust concerns led to state bans
 
 **Non-Compete Clauses**:
 Prevent franchisees from:
+
 - Opening competing businesses
 - Working for competitors
 - Sharing knowledge with competitors
@@ -187,6 +200,7 @@ Franchisees must purchase from franchisor-approved suppliers:
 Franchisors can terminate relationships for minor violations:
 
 **Common Termination Triggers**:
+
 - Minor operational compliance issues
 - Late fee payments
 - Failure to remodel on franchisor's schedule
@@ -194,6 +208,7 @@ Franchisors can terminate relationships for minor violations:
 - Bad franchisor-franchisee relationship
 
 **Consequences of Termination**:
+
 - Total loss of investment ($100,000-2,000,000)
 - No compensation for built goodwill
 - Non-compete prevents similar business
@@ -206,12 +221,14 @@ Franchisors can terminate relationships for minor violations:
 
 **FTC Franchise Rule**:
 Requires disclosure via Franchise Disclosure Document (FDD) but:
+
 - No private right of action
 - FTC enforcement rare
 - No substantive protections
 - Registration not required federally
 
 **Deficiencies**:
+
 - No earnings claims requirement
 - No relationship protections
 - No termination standards
@@ -237,6 +254,7 @@ California, Hawaii, Illinois, Indiana, Maryland, Michigan, Minnesota, New York, 
 ### Judicial Treatment
 
 Courts generally enforce franchise agreements as written:
+
 - Arbitration clauses upheld
 - One-sided terms enforced
 - Good faith obligations weak
@@ -249,6 +267,7 @@ Courts generally enforce franchise agreements as written:
 **Scale**: 14,000+ U.S. locations, 93% franchised
 
 **Franchisee Issues**:
+
 - Rent and royalties consume 15-20% of sales
 - Mandatory remodels every 10 years: $500,000-1,000,000
 - Equipment purchases at markup
@@ -260,6 +279,7 @@ Courts generally enforce franchise agreements as written:
 **Scale**: 20,000+ U.S. locations (peak: 27,000+)
 
 **Documented Problems**:
+
 - Massive overexpansion cannibalized sales
 - Average unit volume dropped 25%+ from peak
 - Franchisees losing money while system grew
@@ -269,6 +289,7 @@ Courts generally enforce franchise agreements as written:
 ### Hotel Franchises
 
 **Issues Specific to Hotels**:
+
 - PIPs (Property Improvement Plans) mandatory and expensive
 - Brand requirements change frequently
 - OTA commissions (15-30%) reduce franchisee margins
@@ -278,6 +299,7 @@ Courts generally enforce franchise agreements as written:
 ### 7-Eleven
 
 **Documented Practices**:
+
 - Franchisees reported average take-home of $35,000-50,000/year
 - 14-18 hour days common
 - Mandatory inventory purchases
@@ -304,6 +326,7 @@ Courts generally enforce franchise agreements as written:
 | **Return on Investment** | **$50,000** | **~10% on $500K investment** |
 
 **Risk-Adjusted Reality**:
+
 - 10% return on capital for 50+ hour weeks
 - Risk of total loss if terminated
 - No equity buildup (brand belongs to franchisor)
@@ -312,6 +335,7 @@ Courts generally enforce franchise agreements as written:
 ### Why People Still Buy Franchises
 
 Despite the risks, franchises remain attractive because:
+
 - Brand recognition reduces marketing challenge
 - Proven system reduces learning curve
 - Training and support (varies)
@@ -323,6 +347,7 @@ Despite the risks, franchises remain attractive because:
 ### Federal Legislation Needed
 
 **Franchise Relationship Act** (proposed):
+
 1. Good cause termination requirement
 2. Fair renewal standards
 3. Encroachment limitations
@@ -334,6 +359,7 @@ Despite the risks, franchises remain attractive because:
 ### State-Level Reforms
 
 **Model State Legislation**:
+
 - Good cause termination
 - Right to associate
 - Churning prohibition
@@ -344,6 +370,7 @@ Despite the risks, franchises remain attractive because:
 ### FTC Rule Strengthening
 
 **Needed Updates**:
+
 1. Mandatory earnings disclosures (Item 19 required)
 2. Unit-level economics disclosure
 3. Franchisee survival rates
@@ -354,6 +381,7 @@ Despite the risks, franchises remain attractive because:
 ### Industry Self-Reform
 
 **Franchisor Best Practices**:
+
 - Franchisee advisory councils with real power
 - Transparent unit economics
 - Reasonable termination standards

@@ -1,3 +1,32 @@
+---
+freshness:
+  last-reviewed: 2025-01-12
+  data-year: 2024
+  review-cycle: 6
+  sections:
+    - name: "Freedom of Information Act (FOIA)"
+      data-year: 2024
+    - name: "Classification System"
+      data-year: 2024
+    - name: "Whistleblower Protections"
+      data-year: 2024
+    - name: "Open Data Initiatives"
+      data-year: 2024
+    - name: "Open Meetings Laws"
+      data-year: 2024
+    - name: "Financial Disclosure"
+      data-year: 2024
+    - name: "Congressional Transparency"
+      data-year: 2024
+notes:
+  - Refresh FOIA request volumes and clearance statistics when FY25 annual report is released.
+  - Watch for new open-meetings or financial-disclosure reforms at Congress or agency rulemakings.
+sources:
+  count: 12
+  verified: 2025-01-12
+  broken: 0
+---
+
 # Government Transparency: Current State
 
 ## Freedom of Information Act (FOIA)
@@ -31,7 +60,7 @@
 | 8 | Financial institutions | Bank examinations |
 | 9 | Geological information | Oil/gas well data |
 
-### FOIA Statistics (as of 2024)
+### FOIA Statistics (2024 snapshot)
 
 | Metric | FY 2022 | Trend |
 |--------|---------|-------|
@@ -100,7 +129,7 @@
 - "Need to know" strictly enforced
 - Oversight extremely limited
 
-### Classification Statistics (as of 2024)
+### Classification Statistics (2024 snapshot)
 
 | Metric | Annual Estimate |
 |--------|-----------------|
@@ -202,7 +231,7 @@
 | Daniel Hale | Drone program | 4 years imprisonment |
 | Daniel Ellsberg | Pentagon Papers | Charges dismissed (govt. misconduct) |
 
-## Open Data Initiatives (as of 2024)
+## Open Data Initiatives (2024 snapshot)
 
 ### Federal Open Data Policy
 

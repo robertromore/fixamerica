@@ -33,6 +33,7 @@ Standard police academies dedicate less than 2% of training hours to mental heal
 Police encounters with people in mental health crisis frequently escalate. Symptoms of mental illness—failure to comply with commands, agitation, paranoia, unpredictable movement—trigger police training to use force.
 
 **Common Escalation Patterns:**
+
 - Person does not respond to verbal commands (due to psychosis, dissociation, or cognitive impairment)
 - Multiple officers arrive, increasing stimulation and perceived threat
 - Officers draw weapons as precaution, increasing fear response
@@ -71,6 +72,7 @@ The Crisis Intervention Team model, developed in Memphis in 1988 after police sh
 | Availability of CIT officer on any given shift | Often <50% |
 
 **Limitations of CIT:**
+
 - Still sends armed officers to health emergencies
 - Voluntary program—not all calls get CIT response
 - Training alone cannot overcome systemic issues
@@ -93,11 +95,13 @@ Co-responder programs pair police officers with mental health clinicians for cri
 ### Advantages and Limitations
 
 **Advantages:**
+
 - Clinician can de-escalate and assess
 - Connection to services more likely
 - Reduced transport to ER or jail
 
 **Disadvantages:**
+
 - Police still primary responders
 - Limited availability (often only business hours)
 - Expensive to staff both police and clinicians
@@ -183,6 +187,7 @@ Emergency departments are not designed for psychiatric care. Boarding—holding 
 ### Conditions for Mentally Ill in Jail
 
 **Common Deficiencies:**
+
 - Inadequate screening at booking
 - Long waits for psychiatric evaluation
 - Insufficient psychiatrists and therapists
@@ -270,6 +275,7 @@ Mental health courts divert people with mental illness from standard criminal pr
 | [Overview](01-overview.md) | [Justice Topics](../README.md) | [History](03-history.md) |
 
 **In This Section:**
+
 - [01 Overview](01-overview.md) | [02 Current State](02-current-state.md) | [03 History](03-history.md) | [04 Root Causes](04-root-causes.md)
 - [05 Stakeholders](05-stakeholders.md) | [06 Opposition](06-opposition.md) | [07 Solutions](07-solutions.md) | [08 Roadmap](08-roadmap.md)
 - [09 Resources](09-resources.md) | [10 Actions](10-actions.md) | [11 Legislation](11-legislation.md)

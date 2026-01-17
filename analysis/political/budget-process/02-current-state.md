@@ -139,7 +139,7 @@ When no budget resolution passes, Congress uses "deeming resolutions" to set spe
 
 ## Debt Ceiling Dynamics
 
-### Current Status (as of 2024)
+### Current Status (2024 snapshot)
 
 **Debt Limit History** (recent):
 
@@ -191,7 +191,7 @@ When no budget resolution passes, Congress uses "deeming resolutions" to set spe
 
 ## Government Shutdowns
 
-### Recent Shutdown History (as of 2024)
+### Recent Shutdown History (2024 snapshot)
 
 | Dates | Duration | Primary Issue |
 |-------|----------|---------------|
@@ -378,15 +378,15 @@ When no budget resolution passes, Congress uses "deeming resolutions" to set spe
 
 ## Fiscal Outlook
 
-### Current Trajectory (as of 2024)
+### Current Trajectory (2024 snapshot)
 
 **Federal Debt**:
 
-- Gross debt: ~$34 trillion (as of 2024)
+- Gross debt: ~$34 trillion (2024 snapshot)
 
-- Debt held by public: ~$27 trillion (as of 2024)
+- Debt held by public: ~$27 trillion (2024 snapshot)
 
-- Debt-to-GDP ratio: ~123% (as of 2024)
+- Debt-to-GDP ratio: ~123% (2024 snapshot)
 
 - Projected to rise indefinitely
 
@@ -400,7 +400,7 @@ When no budget resolution passes, Congress uses "deeming resolutions" to set spe
 | FY 2021 | $2.8 trillion |
 | FY 2020 | $3.1 trillion |
 
-### Long-Term Projections (as of 2024)
+### Long-Term Projections (2024 snapshot)
 
 **CBO 30-Year Outlook** (2024 projections):
 

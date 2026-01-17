@@ -11,12 +11,12 @@
 - Know your state's electoral vote count
 - Follow the National Popular Vote compact progress
 
-**Key Facts to Know** (as of 2024):
+**Key Facts to Know** (2024 snapshot):
 
 - 538 total electoral votes; 270 needed to win
 - Two presidents this century lost the popular vote but won (2000, 2016)
 - Approximately 80% of voters live in non-competitive states
-- NPV compact has 209 electoral votes (needs 61 more to reach 270) *Source: National Popular Vote Inc., 2024.*
+- NPV compact has 209 electoral votes (needs 61 more to reach 270) *Source: National Popular Vote Inc., Dec. 2024 update.*
 
 **Resources**:
 
@@ -94,7 +94,7 @@
 
 ## For State-Specific Action
 
-### In NPV Member States (17 + DC as of 2024)
+### In NPV Member States (17 + DC, end-2024 update)
 
 **Defend the Compact**:
 
@@ -111,18 +111,18 @@
 
 ### In Non-Member States
 
-**Priority States** (as of 2024, where NPV is most viable):
+**Priority States** (2024 snapshot, where NPV is most viable):
 
 | State | EVs | Status | Key Action |
 |-------|-----|--------|------------|
-| Virginia | 13 | Active | Contact delegates |
-| Pennsylvania | 19 | Passed Senate | Focus on House |
-| Michigan | 15 | Active | Legislative + initiative |
-| Arizona | 11 | Active | Ballot initiative possible |
-| Nevada | 6 | Passed, vetoed | New push needed |
-| Wisconsin | 10 | Active | Build support |
+| Virginia | 13 | Prior legislative movement | Contact delegates |
+| Pennsylvania | 19 | Prior legislative movement | Focus on Senate pathway |
+| Michigan | 15 | Active in recent sessions | Legislative + initiative |
+| Arizona | 11 | Active in recent sessions | Ballot initiative possible |
+| Nevada | 6 | Prior passage + veto history | New push needed |
+| Wisconsin | 10 | Limited movement | Build support |
 
-*Source: National Popular Vote Inc., 2024.*
+*Source: National Popular Vote Inc., Dec. 2024 update.*
 
 **State-Specific Strategies**:
 

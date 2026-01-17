@@ -1,6 +1,29 @@
+---
+freshness:
+  last-reviewed: 2025-01-12
+  data-year: 2024
+  review-cycle: 6
+  sections:
+    - name: "The Problem Today"
+      data-year: 2024
+    - name: "Current Threat Landscape"
+      data-year: 2024
+    - name: "Current Defenses"
+      data-year: 2024
+    - name: "Impact Analysis"
+      data-year: 2024
+notes:
+  - Watch post-2024 election audits/grant updates for the next round of security stats.
+  - Monitor CISA/FEC data and any new federal funding announcements planned for FY26.
+sources:
+  count: 7
+  verified: 2025-01-12
+  broken: 0
+---
+
 # Election Security: Current State
 
-## The Problem Today (as of 2024)
+## The Problem Today (2024 snapshot)
 
 ### A Vulnerable Infrastructure
 
@@ -53,7 +76,7 @@ American elections are administered by approximately 10,000 jurisdictions across
 
 *Source: Verified Voting, NCSL, 2024.*
 
-### Key Statistics (as of 2024)
+### Key Statistics (2024 snapshot)
 
 **Voting System Security**
 
@@ -170,7 +193,7 @@ American elections are administered by approximately 10,000 jurisdictions across
 
 ### State and Local Measures
 
-**Common Security Practices (as of 2024)**
+**Common Security Practices (2024 snapshot)**
 
 | Practice | Adoption Rate |
 |----------|---------------|
@@ -182,7 +205,7 @@ American elections are administered by approximately 10,000 jurisdictions across
 
 *Source: CISA, EAC, 2024.*
 
-**Audit Implementation (as of 2024)**
+**Audit Implementation (2024 snapshot)**
 
 | Audit Type | States Requiring |
 |------------|------------------|

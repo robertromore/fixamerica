@@ -106,6 +106,7 @@ Each topic/subtopic uses a numbered file structure:
 | `09-resources.md` | Further reading and citations |
 | `10-actions.md` | What citizens can do |
 | `11-legislation.md` | Draft legal text, constitutional amendments, model legislation |
+| `12-perspectives.md` | Political perspectives analysis with scoring and compromise proposals |
 
 ## Writing Guidelines
 
@@ -176,6 +177,7 @@ See `docs/citation-guide.md` for full details. Key formats:
 - `docs/legislation-guide.md` - How to write legislation files, including loopholes analysis
 - `docs/citation-guide.md` - Citation formatting standards
 - `docs/templates/11-legislation.md` - Template for legislation files
+- `docs/templates/12-perspectives.md` - Template for perspectives analysis files
 - `.metadata/protocols/llm-review-protocol.md` - LLM collaboration protocol
 
 ## Important Sections in Legislation Files
@@ -197,14 +199,40 @@ Each `11-legislation.md` must include:
 9. **Related Topics** - Cross-references to other files
 10. **Document Navigation** - Links to previous/next files
 
+## Political Perspectives Analysis
+
+Each `12-perspectives.md` evaluates the topic through 9 political viewpoints:
+
+**Perspectives:** Conservative, Liberal, Progressive, Libertarian, Constitutionalist, Populist, Centrist, Religious Right, Democratic Socialist
+
+**For each perspective:**
+
+- **Faith Level (1-5)**: Assessment of good vs bad faith engagement
+    - 5 = Full Good Faith (stated = actual motivations)
+    - 1 = Full Bad Faith (pure obstruction, zero-sum warfare)
+- **Position Scores (1-10)**: Agreement with current state analysis, root causes, solutions, legislation
+- **Alternative Proposals**: What they would support instead
+- **Coalition Potential**: Natural allies and potential bridges
+
+**Summary sections:**
+
+- Master comparison table (all perspectives, all dimensions)
+- Solution support matrix
+- Faith level distribution
+
+**Compromise proposals** identify reforms that could bridge multiple perspectives, mapping how each addresses different concerns and what each side concedes.
+
+**Generate with:** `/analyze-perspectives <domain>/<subtopic>`
+
 ## Common Tasks
 
 ### Adding a New Subtopic
 
 1. Create directory under appropriate parent topic
-2. Copy template files or create files 01-10 following naming convention
+2. Copy template files or create files 01-11 following naming convention
 3. Add `11-legislation.md` following `docs/templates/11-legislation.md`
-4. Run `npx markdownlint-cli path/to/*.md` to verify formatting
+4. Run `/analyze-perspectives <domain>/<subtopic>` to generate 12-perspectives.md
+5. Run `npx markdownlint-cli path/to/*.md` to verify formatting
 
 ### Updating Legislation Files
 

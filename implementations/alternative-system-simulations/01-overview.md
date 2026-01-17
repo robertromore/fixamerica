@@ -37,21 +37,25 @@ This directory contains models and simulations projecting outcomes under propose
 Each simulation should include:
 
 ### Policy Specification
+
 - Exact reform parameters
 - Implementation assumptions
 - Comparison baseline
 
 ### Projected Outcomes
+
 - Primary effects
 - Secondary/spillover effects
 - Distribution of impacts
 
 ### Uncertainty Analysis
+
 - Confidence intervals
 - Scenario variations
 - Sensitivity testing
 
 ### Comparison Metrics
+
 - Current system baseline
 - Foreign example benchmarks
 - Academic estimates

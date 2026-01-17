@@ -59,52 +59,126 @@
 
 ## End School-to-Prison Pipeline
 
+The school-to-prison pipeline is a primary feeder of youth into the juvenile justice system. Ending it requires coordinated reforms in both education and justice systems, focusing on prevention, school-based supports, and limiting criminalization of adolescent behavior.
+
+**Cross-Domain Connection**: For comprehensive analysis of school discipline reform from an education equity perspective, including discipline disparities, PBIS, and restorative justice in schools, see [Education Equity: Solutions](../../education/education-equity/07-solutions.md).
+
+### School-Based Prevention Strategies
+
+**Early Intervention Approaches**
+
+| Strategy | Target | Evidence |
+|----------|--------|----------|
+| Universal social-emotional learning | All students | Strong evidence for behavior improvement |
+| Trauma-informed schools | All staff/students | Growing evidence base |
+| Early identification of at-risk youth | K-3 students | Can prevent escalation |
+| Family engagement programs | All families | Moderate evidence |
+| Mental health first aid training | All staff | Increases identification, referral |
+
+**Targeted Prevention Programs**
+
+| Program | Target Population | Outcomes |
+|---------|-------------------|----------|
+| Check & Connect | At-risk students | Reduces dropout, discipline |
+| Functional Family Therapy | High-risk youth and families | Strong recidivism reduction |
+| Multisystemic Therapy | Serious offenders | Strong evidence base |
+| Mentoring programs | At-risk youth | Moderate positive effects |
+| After-school programs | At-risk communities | Reduces delinquency |
+
 ### Remove Police from Schools
 
 **Strategy**:
 
-- Phase out SRO programs
-- Invest in counselors instead
-- Hire social workers and psychologists
-- Restorative justice coordinators
-- Youth development staff
+- Phase out SRO programs over 2-3 years
+- Reinvest SRO funding in support staff
+- Hire counselors, social workers, psychologists
+- Employ restorative justice coordinators
+- Train youth development staff
+
+**Reallocation of Resources**
+
+| Current Investment | Alternative Investment | Impact |
+|--------------------|----------------------|--------|
+| SRO salary (~$80,000/year) | 1-2 counselors | Direct student support |
+| SRO training | Restorative justice training | All staff capacity |
+| Police equipment | Mental health services | Therapeutic support |
+| Arrest processing costs | Diversion programs | Prevention |
 
 **Alternative Safety Approaches**:
 
 | Traditional | Alternative |
 |-------------|-------------|
-| Police officer | Counselor |
+| Police officer | Counselor, social worker |
 | Arrest | Restorative conference |
-| Suspension | In-school support |
+| Suspension | In-school support, circles |
 | Expulsion | Alternative program with path back |
-| Zero tolerance | Graduated response |
+| Zero tolerance | Graduated response system |
 
 ### End Zero Tolerance
 
 **Policy Changes**:
 
-- Eliminate mandatory exclusion
-- Limit suspensions
+- Eliminate mandatory exclusion policies
+- Limit suspensions (maximum 3 days for most offenses)
+- Ban out-of-school suspension in elementary schools
 - Ban expulsion for non-violent offenses
-- Require alternatives before exclusion
-- Limit police involvement
+- Require in-school alternatives before any removal
+- Prohibit police involvement in discipline matters
+- Require family notification before any discipline action
 
 **Support-Based Discipline**:
 
-- Trauma-informed practices
-- Restorative justice
-- Positive behavioral interventions
-- Mental health support
-- Family engagement
+| Approach | Implementation |
+|----------|----------------|
+| Trauma-informed practices | All staff trained, school-wide approach |
+| Restorative justice | Circles, conferences, peer mediation |
+| Positive Behavioral Interventions (PBIS) | Tiered support system |
+| Mental health support | On-site clinicians, crisis response |
+| Family engagement | Family liaisons, home visits |
 
 ### Invest in School Supports
 
-| Current | Needed |
-|---------|--------|
-| 1 counselor: 500+ students | 1:250 |
-| 1 psychologist: 1,000+ students | 1:500 |
-| Few mental health clinicians | On-site in every school |
-| Limited restorative staff | Trained staff in every school |
+**Current vs. Needed Staffing Ratios**
+
+| Position | Current | Needed | Gap to Close |
+|----------|---------|--------|--------------|
+| School counselors | 1:500+ students | 1:250 | 2x increase |
+| School psychologists | 1:1,000+ students | 1:500 | 2x increase |
+| Mental health clinicians | Rarely available | On-site in every school | Major investment |
+| Restorative staff | Limited | Trained staff in every school | Build capacity |
+| Social workers | Rare | 1:250 students | New investment |
+
+**School-Based Services That Prevent Justice Involvement**
+
+| Service | How It Prevents Justice Contact |
+|---------|--------------------------------|
+| On-site mental health | Addresses underlying issues causing behavior |
+| Restorative practices | Repairs harm without criminalization |
+| Family support services | Addresses family stressors affecting youth |
+| Academic support | Keeps students engaged, reduces dropout |
+| Positive youth development | Builds protective factors |
+
+### Coordination Between Schools and Juvenile Justice
+
+**Joint Prevention Efforts**
+
+| Strategy | Implementation |
+|----------|----------------|
+| Shared data systems | Identify youth at risk across systems |
+| Cross-system training | School staff understand juvenile justice; probation understands schools |
+| Joint case management | Coordinate services for system-involved youth |
+| School-justice partnerships | Prevention-focused collaboration |
+| Community-based alternatives | Diversion to services, not court |
+
+**Limiting School Referrals to Justice System**
+
+| Policy | Effect |
+|--------|--------|
+| Prohibit referrals for minor offenses | Keeps normal adolescent behavior out of courts |
+| Require administrative remedies first | Schools must try interventions before referral |
+| Data tracking by demographics | Identify and address disparities in referrals |
+| Community accountability | School boards review referral patterns |
+| Clear MOU limits | Written agreements restricting police role |
 
 ## End Transfer to Adult Court
 
@@ -277,6 +351,10 @@
 - No chemical agents
 - No prone restraints
 - Full documentation and review
+
+## Cross-Domain References
+
+- [Education Equity: Solutions - School Discipline Reform](../../education/education-equity/07-solutions.md) - Discipline reform strategies, PBIS, restorative justice in schools
 
 ## Document Navigation
 

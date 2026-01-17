@@ -115,6 +115,14 @@ Addressing fines and fees requires:
 | [Asset Forfeiture](../asset-forfeiture/01-overview.md) | Revenue-driven justice |
 | [Prisons](../prisons/01-overview.md) | Incarceration for non-payment |
 
+## Related Topics
+
+| Topic | Connection |
+|-------|------------|
+| [Consumer Debt](../../economic/consumer-debt/01-overview.md) | Court debt collection, garnishment, credit impacts |
+| [Inequality](../../economic/inequality/01-overview.md) | Wealth-based justice, regressive financial penalties |
+| [Economic Mobility](../../economic/economic-mobility/01-overview.md) | Debt traps, license suspensions, employment barriers |
+
 ## Document Navigation
 
 | Previous | Next |

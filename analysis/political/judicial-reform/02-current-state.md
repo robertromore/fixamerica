@@ -2,19 +2,19 @@
 
 ## Supreme Court Composition
 
-### Current Justices (2024)
+### Current Justices (as of Jan 2026)
 
 | Justice | Appointed By | Year | Age | Tenure |
 |---------|--------------|------|-----|--------|
-| John Roberts (Chief) | G.W. Bush | 2005 | 69 | 19 years |
-| Clarence Thomas | G.H.W. Bush | 1991 | 76 | 33 years |
-| Samuel Alito | G.W. Bush | 2006 | 74 | 18 years |
-| Sonia Sotomayor | Obama | 2009 | 70 | 15 years |
-| Elena Kagan | Obama | 2010 | 64 | 14 years |
-| Neil Gorsuch | Trump | 2017 | 56 | 7 years |
-| Brett Kavanaugh | Trump | 2018 | 59 | 6 years |
-| Amy Coney Barrett | Trump | 2020 | 52 | 4 years |
-| Ketanji Brown Jackson | Biden | 2022 | 54 | 2 years |
+| John Roberts (Chief) | G.W. Bush | 2005 | 70 | 20 years |
+| Clarence Thomas | G.H.W. Bush | 1991 | 77 | 34 years |
+| Samuel Alito | G.W. Bush | 2006 | 75 | 20 years |
+| Sonia Sotomayor | Obama | 2009 | 71 | 17 years |
+| Elena Kagan | Obama | 2010 | 65 | 16 years |
+| Neil Gorsuch | Trump | 2017 | 58 | 9 years |
+| Brett Kavanaugh | Trump | 2018 | 60 | 8 years |
+| Amy Coney Barrett | Trump | 2020 | 53 | 6 years |
+| Ketanji Brown Jackson | Biden | 2022 | 55 | 4 years |
 
 ### Ideological Balance
 

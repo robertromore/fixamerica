@@ -1,6 +1,37 @@
+---
+freshness:
+  last-reviewed: 2025-01-12
+  data-year: 2024
+  review-cycle: 6
+  sections:
+    - name: "Executive Orders and Directives"
+      data-year: 2024
+    - name: "Emergency Powers"
+      data-year: 2024
+    - name: "War Powers"
+      data-year: 2024
+    - name: "Pardon Power"
+      data-year: 2024
+    - name: "Presidential Immunity"
+      data-year: 2024
+notes:
+  - Flag future immigration, climate, or student-debt unilateral moves for legal analysis updates.
+  - Revisit presidential immunity jurisprudence when new Supreme Court opinions or pending cases emerge.
+sources:
+  count: 4
+  verified: 2025-01-12
+  broken: 0
+---
+
 # Executive Reform: Current State
 
 ## Executive Orders and Directives
+
+### 2024 Snapshot
+
+- The Biden administration issued 140+ executive orders by the end of 2024 and relied heavily on memoranda and proclamations to drive climate, student-debt, and immigration policy in the face of a polarized Congress.
+- Emergency declarations (COVID-19 tail, border security, fentanyl importation) remained a preferred tool for the administration even as Congress debated broader statutory reforms.
+- Major actions that touch statutory authority (student aid, climate) were accompanied by detailed legal justifications, but courts and Congress continue to parse their limits.
 
 ### Volume and Scope
 
@@ -37,7 +68,7 @@ Courts have struck down executive orders that:
 
 ### Current Emergency Declarations
 
-As of 2024, over 40 national emergencies remain in effect, some dating back decades:
+As of the 2024 snapshot, over 40 national emergencies remain in effect, some dating back decades:
 
 | Emergency | Year Declared | Still Active |
 |-----------|---------------|--------------|
@@ -81,7 +112,7 @@ Passed over Nixon's veto, requires:
 - Reporting within 48 hours of deployment
 - Withdrawal within 60-90 days without congressional authorization
 
-### Actual Practice (as of 2024)
+### Actual Practice (2024 snapshot)
 
 No president has acknowledged the constitutionality of the War Powers Resolution. Recent conflicts:
 
@@ -222,7 +253,7 @@ The Vacancies Act allows acting appointments for 210 days, but:
 - Pro forma sessions prevent most recess appointments
 - Effectively defunct as presidential tool
 
-## Key Statistics (as of 2024)
+## Key Statistics (2024 snapshot)
 
 | Metric | Current Status |
 |--------|----------------|

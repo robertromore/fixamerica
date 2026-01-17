@@ -299,6 +299,7 @@ Efforts to strengthen civil rights enforcement in criminal justice face powerful
 | [← Stakeholders](05-stakeholders.md) | [Justice Index](../index.md) | [Solutions →](07-solutions.md) |
 
 **Section Contents:**
+
 - [01. Overview](01-overview.md)
 - [02. Current State](02-current-state.md)
 - [03. History](03-history.md)

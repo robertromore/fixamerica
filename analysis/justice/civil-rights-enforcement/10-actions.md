@@ -283,6 +283,7 @@ The accountability gap exists because those in power benefit from it. Closing th
 | [← Resources](09-resources.md) | [Justice Index](../index.md) | [Legislation →](11-legislation.md) |
 
 **Section Contents:**
+
 - [01. Overview](01-overview.md)
 - [02. Current State](02-current-state.md)
 - [03. History](03-history.md)

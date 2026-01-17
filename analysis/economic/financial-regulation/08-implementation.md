@@ -27,11 +27,13 @@ Financial reform faces formidable opposition from an industry with vast resource
 ### Political Windows for Reform
 
 **Crisis-Driven Reform:**
+
 - 2008-2010: Dodd-Frank passed after crisis
 - Future crisis: Will create reform window
 - SVB/Signature (2023): Minor window opened
 
 **Non-Crisis Pathways:**
+
 - Sustained advocacy building
 - Scandal-driven (Wells Fargo fake accounts, etc.)
 - Regulatory action during favorable administrations
@@ -42,6 +44,7 @@ Financial reform faces formidable opposition from an industry with vast resource
 ### Core Coalition
 
 **Natural Allies:**
+
 - Consumer advocacy organizations (PIRG, Consumer Federation, etc.)
 - Labor unions (AFL-CIO, SEIU, teachers)
 - Community development organizations
@@ -52,18 +55,21 @@ Financial reform faces formidable opposition from an industry with vast resource
 ### Expanding the Coalition
 
 **Populist Right:**
+
 - Messaging: "Too big to fail" = crony capitalism
 - Champions: Some libertarian-leaning Republicans
 - Issues: Break up big banks, end bailouts
 - Caution: May not support consumer protection
 
 **Business Interests:**
+
 - Main Street businesses harmed by concentration
 - Businesses seeking fair access to capital
 - Companies harmed by financial instability
 - Pension funds concerned about investment advice
 
 **State and Local Officials:**
+
 - Mayors dealing with foreclosure impacts
 - State AGs pursuing enforcement
 - State treasurers with fiduciary concerns
@@ -72,12 +78,14 @@ Financial reform faces formidable opposition from an industry with vast resource
 ### Coalition Maintenance
 
 **Challenges:**
+
 - Different priorities among allies
 - Industry attempts to split coalition
 - Resource disparities vs. opposition
 - Burnout from long campaigns
 
 **Strategies:**
+
 - Regular coordination meetings
 - Clear decision-making processes
 - Shared messaging discipline
@@ -135,6 +143,7 @@ Major legislation requiring sustained political capital:
 5. **Postal banking**
 
 **Trigger Events:**
+
 - Next financial crisis
 - Major scandal
 - Sustained grassroots pressure
@@ -159,23 +168,27 @@ States retain significant financial regulatory authority:
 ### Model State Reforms
 
 **Interest Rate Caps:**
+
 - 36% APR cap on consumer lending
 - Model: Military Lending Act extended to all
 - States enacted: 18+ states with meaningful caps
 
 **Foreclosure Protection:**
+
 - Mediation requirements
 - Dual-tracking prohibition
 - Just-cause requirements
 - Model: California, Nevada reforms
 
 **Payday Lending Reform:**
+
 - Database to prevent stacking
 - Cooling-off periods
 - Payment plan requirements
 - Model: Colorado reform
 
 **Anti-Predatory Lending:**
+
 - Ability-to-repay requirements
 - Prepayment penalty bans
 - Loan flipping prohibition
@@ -184,11 +197,13 @@ States retain significant financial regulatory authority:
 ### Preemption Challenges
 
 **Federal preemption limits state action:**
+
 - OCC has preempted state laws for national banks
 - Dodd-Frank partially restored state authority
 - Ongoing litigation over preemption scope
 
 **Strategies:**
+
 - Focus on non-preempted areas (state-chartered institutions)
 - Challenge excessive preemption in courts
 - Federal legislation limiting preemption
@@ -209,18 +224,21 @@ States retain significant financial regulatory authority:
 ### Building Legal Resilience
 
 **Robust Rulemaking Records:**
+
 - Extensive public comment analysis
 - Economic impact studies
 - Alternatives consideration
 - Stakeholder engagement
 
 **Legislative Clarity:**
+
 - Explicit congressional authorization
 - Clear standards and definitions
 - Express grant of rulemaking authority
 - Limited agency discretion where possible
 
 **Litigation Strategy:**
+
 - Defend rules vigorously
 - Strategic venue selection
 - Amicus coordination
@@ -231,9 +249,11 @@ States retain significant financial regulatory authority:
 ### Against Erosion
 
 **Historical Pattern:**
+
 - Crisis → Reform → Complacency → Deregulation → Crisis
 
 **Counter-Strategies:**
+
 - Build institutional stakeholders (CFPB, investor groups)
 - Create economic interests in regulation (compliance industry, consumer advocates)
 - Embed reforms in statute (not just rules)
@@ -243,11 +263,13 @@ States retain significant financial regulatory authority:
 ### Watchdog Infrastructure
 
 **Congressional Oversight:**
+
 - Financial services committee staff capacity
 - GAO financial regulation expertise
 - Congressional Budget Office analysis
 
 **Independent Monitoring:**
+
 - Academic research funding
 - Consumer advocacy capacity
 - Investigative journalism support
@@ -256,6 +278,7 @@ States retain significant financial regulatory authority:
 ### Public Engagement
 
 **Ongoing Communication:**
+
 - Annual "state of financial regulation" reports
 - Consumer education on rights and risks
 - Accessible complaint systems
@@ -293,6 +316,7 @@ States retain significant financial regulatory authority:
 ### Years 4+: Structural Reform
 
 Requires either:
+
 - Sustained political control
 - Crisis-driven opportunity
 - Building bipartisan coalition over time
@@ -319,6 +343,7 @@ Requires either:
 | Reform advocacy | $50-100M |
 
 **Implications:**
+
 - Cannot match dollar-for-dollar
 - Leverage grassroots engagement
 - Focus resources strategically

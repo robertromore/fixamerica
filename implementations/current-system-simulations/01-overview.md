@@ -38,19 +38,23 @@ This directory contains models and simulations showing how existing US systems a
 Each simulation should include:
 
 ### Model Description
+
 - Variables and parameters
 - Assumptions made
 - Data sources
 
 ### Baseline Scenarios
+
 - Current state representation
 - Historical trends
 
 ### Sensitivity Analysis
+
 - Key variables
 - Uncertainty ranges
 
 ### Limitations
+
 - Known simplifications
 - Data gaps
 - Applicability constraints

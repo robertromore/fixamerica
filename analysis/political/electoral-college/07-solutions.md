@@ -25,7 +25,7 @@ The Electoral College can elect presidents who lose the popular vote, as happene
 - Effectively creates national popular vote without constitutional amendment
 - Uses states' existing constitutional authority over elector selection
 
-**Current Status** (as of 2024, post-2020 apportionment):
+**Current Status** (2024 snapshot, post-2020 apportionment):
 
 | Category | Count |
 |----------|-------|
@@ -34,7 +34,7 @@ The Electoral College can elect presidents who lose the popular vote, as happene
 | Electoral votes needed | 61 |
 | States passed one chamber | 6 (~50 EVs) |
 
-*Source: National Popular Vote Inc., 2024.*
+*Source: National Popular Vote Inc., Dec. 2024 update.*
 
 **Benefits**:
 
@@ -56,12 +56,12 @@ The Electoral College can elect presidents who lose the popular vote, as happene
 
 | State | EVs | Status | Strategy |
 |-------|-----|--------|----------|
-| Virginia | 13 | Active | Legislative campaign |
-| Pennsylvania | 19 | Passed Senate | House campaign |
-| Michigan | 15 | Active | Possible ballot initiative |
-| Arizona | 11 | Active | Ballot initiative option |
-| Nevada | 6 | Passed, vetoed | New governor/legislature |
-| Wisconsin | 10 | Active | Legislative campaign |
+| Virginia | 13 | Prior legislative movement | Legislative campaign |
+| Pennsylvania | 19 | Prior legislative movement | Senate pathway + public pressure |
+| Michigan | 15 | Active in recent sessions | Legislative or ballot initiative |
+| Arizona | 11 | Active in recent sessions | Ballot initiative option |
+| Nevada | 6 | Prior passage + veto history | Legislative or ballot initiative |
+| Wisconsin | 10 | Limited movement | Legislative campaign |
 
 **Coalition Building**:
 

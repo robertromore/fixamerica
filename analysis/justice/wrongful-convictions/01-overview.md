@@ -156,6 +156,13 @@ This section addresses:
 | [Civil Rights Enforcement](../civil-rights-enforcement/01-overview.md) | Section 1983 compensation claims |
 | [Courts](../courts/01-overview.md) | Post-conviction review, habeas corpus |
 
+## Related Topics
+
+| Topic | Connection |
+|-------|------------|
+| [Economic Mobility](../../economic/economic-mobility/01-overview.md) | Lost careers, education interrupted, reentry barriers |
+| [Judicial Reform](../../political/judicial-reform/01-overview.md) | Post-conviction review procedures, habeas corpus reform |
+
 ## Document Navigation
 
 - Next: [Current State](02-current-state.md)

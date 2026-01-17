@@ -49,6 +49,7 @@ The equitable sharing program allows state and local agencies to partner with fe
 ### Conviction Requirements by State
 
 **States Requiring Criminal Conviction:**
+
 | State | Year Enacted | Applies To |
 |-------|--------------|-----------|
 | New Mexico | 2015 | All forfeitures |

@@ -46,7 +46,7 @@ Recent proposals coming close to congressional threshold:
 
 **No amendment has been ratified since 1992 (27th Amendment); the ERA (1972) and D.C. Voting Rights Amendment (1978) passed Congress but failed ratification.**
 
-## Article V Convention Activity (as of 2024)
+## Article V Convention Activity (2024 snapshot)
 
 ### Current Convention Applications
 

@@ -1,3 +1,36 @@
+---
+freshness:
+  last-reviewed: 2025-01-12
+  data-year: 2024
+  review-cycle: 6
+  sections:
+    - name: "Federal Ethics Framework"
+      data-year: 2024
+    - name: "Conflicts of Interest"
+      data-year: 2024
+    - name: "Emoluments Clauses"
+      data-year: 2024
+    - name: "Inspectors General"
+      data-year: 2024
+    - name: "Whistleblower Protection"
+      data-year: 2024
+    - name: "Revolving Door"
+      data-year: 2024
+    - name: "Congressional Ethics"
+      data-year: 2024
+    - name: "State and Local"
+      data-year: 2024
+    - name: "Recent Developments"
+      data-year: 2024
+notes:
+  - Flag new OGE guidance, IG whistleblower reports, or revolving-door legislation for the 2025 update.
+  - Monitor Supreme Court and lower-court rulings affecting emoluments or inspector-general authority.
+sources:
+  count: 13
+  verified: 2025-01-12
+  broken: 0
+---
+
 # Ethics and Accountability: Current State
 
 ## Federal Ethics Framework
@@ -128,7 +161,7 @@ Multiple suits filed during Trump administration:
 
 ### Structure
 
-**Number**: 74 federal Inspectors General (as of 2024)
+**Number**: 74 federal Inspectors General (2024 snapshot)
 
 **Types**:
 
@@ -252,7 +285,7 @@ State ethics regimes vary widely:
 | New Jersey | Strong disclosure requirements |
 | Various | Independent ethics commissions |
 
-## Recent Developments (as of 2024)
+## Recent Developments (2024 snapshot)
 
 ### Trump Administration
 

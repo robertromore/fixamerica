@@ -12,6 +12,7 @@ The financial industry and its allies deploy sophisticated arguments against reg
 Stricter rules will make it more expensive for banks to lend, reducing access to credit for businesses and consumers.
 
 **The Reality:**
+
 - Pre-2008 "abundant credit" included toxic products that destroyed wealth
 - Subprime lending didn't expand homeownership sustainably; foreclosures erased gains
 - Post-crisis credit availability recovered while risk declined
@@ -27,6 +28,7 @@ Stricter rules will make it more expensive for banks to lend, reducing access to
 Strict regulation will drive financial activity to other countries with lighter rules.
 
 **The Reality:**
+
 - Access to U.S. markets and dollar is immense competitive advantage
 - Countries with stronger regulation (Canada, Australia) avoided 2008 crisis
 - "Race to the bottom" led to global financial collapse
@@ -42,6 +44,7 @@ Strict regulation will drive financial activity to other countries with lighter 
 Regulations designed for megabanks burden community banks disproportionately.
 
 **The Reality:**
+
 - Most post-crisis regulation already tiers requirements by size
 - Community banks' main competitive threat is megabank consolidation, not regulation
 - Community banks actually benefit from rules limiting TBTF subsidy
@@ -57,6 +60,7 @@ Regulations designed for megabanks burden community banks disproportionately.
 Government regulation is unnecessary because markets punish bad actors and reward good ones.
 
 **The Reality:**
+
 - 2008 demonstrated catastrophic market failure
 - "Self-correction" included 10 million foreclosures and $22 trillion in losses
 - Information asymmetries prevent efficient market discipline
@@ -72,6 +76,7 @@ Government regulation is unnecessary because markets punish bad actors and rewar
 The post-crisis reforms addressed the issues; no further action is needed.
 
 **The Reality:**
+
 - Dodd-Frank was partially rolled back in 2018
 - Key provisions were never implemented or were weakened
 - TBTF banks are larger than before
@@ -88,6 +93,7 @@ The post-crisis reforms addressed the issues; no further action is needed.
 Government housing policies (CRA, Fannie/Freddie) caused the subprime crisis, not private sector failures.
 
 **The Reality:**
+
 - CRA-covered loans performed better than non-CRA loans
 - Fannie/Freddie lost market share during bubble (private label securities drove growth)
 - Countries without U.S. housing policies had similar bubbles
@@ -103,6 +109,7 @@ Government housing policies (CRA, Fannie/Freddie) caused the subprime crisis, no
 Rules limiting products treat consumers as children who can't make their own decisions.
 
 **The Reality:**
+
 - Many "choices" are manufactured by deceptive marketing
 - Fine print in financial contracts is designed to obscure, not inform
 - Most consumers cannot evaluate complex financial products
@@ -118,6 +125,7 @@ Rules limiting products treat consumers as children who can't make their own dec
 Large banks achieve economies of scale; breaking them up would harm efficiency and stability.
 
 **The Reality:**
+
 - Studies show limited economies of scale beyond $100 billion
 - Larger banks are actually less efficient after accounting for subsidies
 - TBTF subsidy is the main advantage, not efficiency
@@ -190,6 +198,7 @@ Large banks achieve economies of scale; breaking them up would harm efficiency a
 ### Community Banks vs. Megabanks
 
 **Common Ground:**
+
 - Opposition to TBTF subsidies
 - Desire for regulatory tiering
 - Competition concerns
@@ -199,6 +208,7 @@ Large banks achieve economies of scale; breaking them up would harm efficiency a
 ### Regional Banks vs. Wall Street
 
 **Common Ground:**
+
 - 2018 rollback didn't help regionals (SVB lesson)
 - Some supervision appropriate
 - Level playing field concerns
@@ -208,6 +218,7 @@ Large banks achieve economies of scale; breaking them up would harm efficiency a
 ### Fintech vs. Traditional Banks
 
 **Common Ground:**
+
 - Some fintech genuinely expands access
 - Innovation can serve consumers
 - Opposition to bank monopoly power
@@ -248,6 +259,7 @@ Large banks achieve economies of scale; breaking them up would harm efficiency a
 ### Crisis Events
 
 When a financial scandal or failure occurs:
+
 1. Immediately connect to reform agenda
 2. Have spokespeople and talking points ready
 3. Place op-eds and media appearances quickly
@@ -257,6 +269,7 @@ When a financial scandal or failure occurs:
 ### Industry Counter-Messaging
 
 When industry launches counter-campaign:
+
 1. Monitor and document their claims
 2. Rapid fact-check and response
 3. Expose funding sources

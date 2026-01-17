@@ -34,6 +34,7 @@ The Small Business Administration maintains industry-specific size standards tha
 ### Problems with Current Definitions
 
 **"Small" Businesses That Aren't Small**:
+
 - A 499-employee manufacturer is hardly "small" by common understanding
 - Private equity-backed companies can exploit size standards through affiliate rules
 - Restaurant chains with thousands of locations qualify as "small" if each is separately owned
@@ -53,12 +54,14 @@ The Small Business Administration maintains industry-specific size standards tha
 ### By Employment Size
 
 **Nonemployer Businesses (27.1 million)**:
+
 - 81% of all businesses
 - Generate $1.3 trillion in revenue
 - Include gig workers, freelancers, consultants
 - Average revenue: $47,000
 
 **Employer Businesses (6.1 million)**:
+
 - Micro (1-9 employees): 5.0 million businesses
 - Small (10-99): 1.2 million businesses
 - Medium (100-499): 140,000 businesses
@@ -91,6 +94,7 @@ The Small Business Administration maintains industry-specific size standards tha
 ### State-Level Variation
 
 **Highest Small Business Density** (per 1,000 residents):
+
 1. Montana: 47.2
 2. Wyoming: 46.8
 3. Vermont: 44.1
@@ -98,6 +102,7 @@ The Small Business Administration maintains industry-specific size standards tha
 5. Maine: 42.8
 
 **Lowest Small Business Density**:
+
 1. West Virginia: 25.1
 2. Mississippi: 26.3
 3. Kentucky: 27.4
@@ -175,6 +180,7 @@ The Small Business Administration maintains industry-specific size standards tha
 ### Factors Affecting Survival
 
 **Positive Factors**:
+
 - Owner has industry experience
 - Adequate initial capitalization
 - Business plan in place
@@ -182,6 +188,7 @@ The Small Business Administration maintains industry-specific size standards tha
 - Located in growing area
 
 **Negative Factors**:
+
 - Undercapitalization (leading cause of failure)
 - Owner lacks management experience
 - High fixed costs (especially rent)
@@ -193,12 +200,14 @@ The Small Business Administration maintains industry-specific size standards tha
 ### Retail Trade
 
 **Current State**:
+
 - 1.0 million small retailers
 - Average 8 employees
 - 43% decline in independent retailers since 2000
 - E-commerce represents 15% of retail (up from 5% in 2010)
 
 **Challenges**:
+
 - Amazon competition
 - Commercial rent increases
 - Consumer shift to online
@@ -207,12 +216,14 @@ The Small Business Administration maintains industry-specific size standards tha
 ### Restaurants and Food Service
 
 **Current State**:
+
 - 660,000 restaurants
 - Average 15 employees
 - Highest failure rate of any industry
 - 3-5% profit margins (industry average)
 
 **Challenges**:
+
 - Labor costs and availability
 - Food cost volatility
 - Third-party delivery commissions (15-30%)
@@ -221,12 +232,14 @@ The Small Business Administration maintains industry-specific size standards tha
 ### Professional Services
 
 **Current State**:
+
 - 2.8 million professional service businesses
 - Highest growth sector
 - 89% have fewer than 20 employees
 - Lower capital requirements
 
 **Challenges**:
+
 - Client concentration
 - Talent acquisition
 - Platform competition
@@ -235,12 +248,14 @@ The Small Business Administration maintains industry-specific size standards tha
 ### Construction
 
 **Current State**:
+
 - 780,000 small construction firms
 - Highly cyclical industry
 - Heavy reliance on contractor relationships
 - Bonding requirements limit growth
 
 **Challenges**:
+
 - Material cost volatility
 - Labor shortages
 - Insurance costs
@@ -249,12 +264,14 @@ The Small Business Administration maintains industry-specific size standards tha
 ### Manufacturing
 
 **Current State**:
+
 - 250,000 small manufacturers
 - 98.5% of all manufacturing establishments
 - Employ 5.5 million workers
 - Declining as share of small business universe
 
 **Challenges**:
+
 - Import competition
 - Capital equipment costs
 - Skilled labor shortage
@@ -321,18 +338,21 @@ The Small Business Administration maintains industry-specific size standards tha
 ### Changing Business Models
 
 **Traditional Model**:
+
 - Physical storefront
 - Local customer base
 - In-person service delivery
 - Direct employment
 
 **Hybrid Model**:
+
 - Omnichannel presence
 - Regional or national reach
 - Mix of in-person and remote
 - Combination of employees and contractors
 
 **Digital-Native Model**:
+
 - E-commerce primary channel
 - National or global customer base
 - Remote/distributed team
@@ -354,18 +374,21 @@ The Small Business Administration maintains industry-specific size standards tha
 ### Key Indicators
 
 **Business Dynamism**:
+
 - Startup rate
 - Exit rate
 - Net formation rate
 - Job creation/destruction
 
 **Financial Health**:
+
 - Revenue growth
 - Profit margins
 - Debt levels
 - Cash reserves
 
 **Access Metrics**:
+
 - Loan approval rates
 - Interest rate spreads
 - Time to funding

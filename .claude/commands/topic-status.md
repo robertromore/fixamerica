@@ -40,6 +40,10 @@ When the user runs this command with arguments `$ARGUMENTS`:
    - Whether it contains only template/placeholder text
    - Number of citations (look for patterns like `*Author*, Year` or URLs)
    - Number of cross-references to other topics
+   - Freshness status (if frontmatter exists):
+     - `last-reviewed` date and freshness status (Fresh/Aging/Stale)
+     - `data-year` and whether current
+     - Any `notes` (future reminders)
 
 4. **For 11-legislation.md specifically, check required sections**:
    - [ ] Overview
@@ -63,11 +67,12 @@ When the user runs this command with arguments `$ARGUMENTS`:
 
 ### File Completeness
 
-| File | Status | Words | Citations | Notes |
-|------|--------|-------|-----------|-------|
-| 01-overview.md | ✓ Complete | 450 | 3 | |
-| 02-current-state.md | ⚠ Template | 120 | 0 | Needs content |
-| 03-history.md | ✗ Missing | - | - | |
+| File | Status | Words | Citations | Freshness | Notes |
+|------|--------|-------|-----------|-----------|-------|
+| 01-overview.md | ✓ Complete | 450 | 3 | - | |
+| 02-current-state.md | ✓ Complete | 1200 | 8 | ✓ Fresh (2025-01-12) | |
+| 03-history.md | ✗ Missing | - | - | - | |
+| 08-roadmap.md | ✓ Complete | 890 | 4 | ⚠ No frontmatter | Needs `/freshness-check --update` |
 ...
 
 ### Legislation File Analysis
@@ -78,12 +83,23 @@ When the user runs this command with arguments `$ARGUMENTS`:
 | Loopholes Analysis | ✗ Missing |
 ...
 
+### Freshness Status
+
+| File | Last Reviewed | Data Year | Status | Notes |
+|------|---------------|-----------|--------|-------|
+| 02-current-state.md | 2025-01-12 | 2025 | ✓ Fresh | |
+| 08-roadmap.md | - | - | ✗ Missing | Needs frontmatter |
+| 11-legislation.md | 2024-06-15 | 2024 | ⚠ Aging | |
+
+**Notes/Reminders**: 2 notes flagged for review
+
 ### Summary
 
 - **Completion**: 7/11 files (64%)
 - **Content depth**: 3/7 files have substantial content
 - **Citations needed**: 4 files have zero citations
 - **Legislation gaps**: Missing loopholes analysis
+- **Freshness**: 1 fresh, 1 aging, 1 missing frontmatter
 
 ### Recommendations
 
@@ -116,3 +132,5 @@ When the user runs this command with arguments `$ARGUMENTS`:
    - "Run `/scaffold-topic` to create missing files"
    - "Run `/add-legislation` to create legislation file"
    - "Run `/validate-topic` for detailed formatting check"
+   - "Run `/freshness-check --update` to add/update freshness metadata"
+   - "Run `/freshness-check --deep` for detailed freshness analysis"

@@ -92,7 +92,7 @@ The fundamental legal framework treats political spending as protected speech:
 
 ## By the Numbers
 
-### Scale of Money in Politics (as of 2024)
+### Scale of Money in Politics (2024 snapshot)
 
 | Metric | Amount | Trend |
 |--------|--------|-------|
@@ -102,7 +102,7 @@ The fundamental legal framework treats political spending as protected speech:
 | Super PAC spending (2020) | $2+ billion | Up 1000%+ since 2010 |
 | Dark money (2020) | $1+ billion | Largely untraceable |
 
-### Time Spent Fundraising (as of 2024)
+### Time Spent Fundraising (2024 snapshot)
 
 | Position | Call Time Expected | % of Work Week |
 |----------|-------------------|----------------|
@@ -222,6 +222,8 @@ Understanding campaign finance is essential for all other reforms. Money influen
 ### Cross-Domain Topics
 
 - [Economic: Wealth Inequality](../../economic/01-overview.md) - Source of political inequality
+- [Economic: Taxation](../../economic/taxation/01-overview.md) - Wealthy donors influence tax policy; tax preferences fund campaign contributions
+- [Economic: Inequality](../../economic/inequality/01-overview.md) - Wealth concentration drives political spending disparities
 - [Justice: Corporate Accountability](../../justice/01-overview.md) - Legal framework for corporate influence
 
 ## Related Subtopics

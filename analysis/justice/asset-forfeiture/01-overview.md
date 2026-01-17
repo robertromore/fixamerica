@@ -9,6 +9,7 @@ This represents one of the most significant due process failures in American law
 ## Scope of This Document Series
 
 This comprehensive analysis examines:
+
 - The legal framework enabling civil forfeiture
 - The distinction between civil and criminal forfeiture
 - Financial incentives driving forfeiture abuse
@@ -35,32 +36,40 @@ This comprehensive analysis examines:
 ## Core Problems
 
 ### 1. Inverted Due Process
+
 Unlike criminal proceedings where the government must prove guilt beyond a reasonable doubt, civil forfeiture requires property owners to prove their innocence. The standard of proof is often "preponderance of evidence" (more likely than not) or even lower.
 
 ### 2. Policing for Profit
+
 Law enforcement agencies that seize property typically keep 80-100% of the proceeds. This creates direct financial incentives to seize property, corrupting the mission of law enforcement.
 
 ### 3. No Crime Required
+
 Property can be seized based on suspicion alone. Owners need not be arrested, charged, or convicted of any crime to lose their property permanently.
 
 ### 4. Legal Representation Challenges
+
 There is no right to appointed counsel in civil forfeiture cases. Challenging a seizure often costs more than the property is worth, leading most people to abandon their claims.
 
 ### 5. Structural Barriers
+
 - Short deadlines to file claims (often 30-35 days)
 - Complex procedural requirements
 - Filing fees and bonds required in some jurisdictions
 - Cases heard in civil court without jury rights in many states
 
 ### 6. Racial and Economic Disparities
+
 Forfeiture disproportionately impacts Black and Latino communities, and primarily affects those with limited financial resources who cannot afford to fight seizures.
 
 ### 7. Equitable Sharing Loophole
+
 The federal "equitable sharing" program allows state and local agencies to circumvent stronger state protections by partnering with federal agencies, receiving up to 80% of seized assets.
 
 ## The Human Cost
 
 Civil forfeiture destroys lives:
+
 - **Small business owners** lose operating capital with no recourse
 - **Travelers** have life savings seized during traffic stops
 - **Homeowners** lose properties due to relatives' alleged activities
@@ -70,6 +79,7 @@ Civil forfeiture destroys lives:
 ## Reform Imperative
 
 Meaningful reform requires:
+
 1. **Conviction requirement** before forfeiture
 2. **Burden shift** to government to prove property connection to crime
 3. **Abolition of equitable sharing** for states with stronger protections

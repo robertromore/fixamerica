@@ -16,6 +16,7 @@ The largest business lobby in the United States:
 | Policy positions | Opposes nearly all labor, tax, environmental reforms |
 
 The Chamber opposes:
+
 - Minimum wage increases
 - Pro-union labor law reforms (PRO Act)
 - Corporate tax increases
@@ -26,6 +27,7 @@ The Chamber opposes:
 **Business Roundtable**
 
 Coalition of CEOs from largest corporations:
+
 - 200+ member companies
 - Combined market cap of $10+ trillion
 - Direct access to politicians
@@ -35,6 +37,7 @@ Coalition of CEOs from largest corporations:
 **National Federation of Independent Business (NFIB)**
 
 Claims to represent small business but often advances large corporate interests:
+
 - Funded partially by large corporations
 - Opposes minimum wage, healthcare requirements
 - Advocates for deregulation that often benefits large players
@@ -55,6 +58,7 @@ Claims to represent small business but often advances large corporate interests:
 **Americans for Tax Reform (Grover Norquist)**
 
 Famous for the "Taxpayer Protection Pledge":
+
 - Gets candidates to pledge never to raise taxes
 - Has held most Republican elected officials to pledge
 - Blocks revenue even when deficits explode
@@ -63,6 +67,7 @@ Famous for the "Taxpayer Protection Pledge":
 **Tax Foundation**
 
 Presents as neutral research but consistently:
+
 - Argues tax cuts pay for themselves (despite evidence)
 - Opposes progressive taxation
 - Criticizes corporate and wealth taxes
@@ -71,6 +76,7 @@ Presents as neutral research but consistently:
 **Club for Growth**
 
 Primary opponents of economic populism:
+
 - Funds primary challenges against Republicans who support any tax increases
 - Opposes tariffs, trade enforcement
 - Backed by wealthy donors
@@ -81,6 +87,7 @@ Primary opponents of economic populism:
 **Heritage Foundation**
 
 Influential conservative think tank:
+
 - Developed Reagan economic agenda
 - Opposes regulation, taxation, labor protections
 - Significant influence on Republican policy
@@ -89,6 +96,7 @@ Influential conservative think tank:
 **Cato Institute**
 
 Libertarian think tank:
+
 - Opposes government intervention in economy
 - Criticizes antitrust, labor law, regulation
 - Funded by Koch network
@@ -97,6 +105,7 @@ Libertarian think tank:
 **American Enterprise Institute**
 
 Center-right policy shop:
+
 - More establishment than Heritage
 - Skeptical of industrial policy, labor reform
 - Influential in Republican economic thinking
@@ -105,6 +114,7 @@ Center-right policy shop:
 **Hoover Institution**
 
 Stanford-based conservative research center:
+
 - Academic credibility for free market positions
 - Opposes progressive taxation
 - Skeptical of antitrust enforcement
@@ -115,6 +125,7 @@ Stanford-based conservative research center:
 **Wall Street Banks**
 
 Major banks oppose reforms that would:
+
 - Limit their size (too big to fail)
 - Restrict their activities (proprietary trading)
 - Increase capital requirements
@@ -124,6 +135,7 @@ Major banks oppose reforms that would:
 **Private Equity and Hedge Funds**
 
 Oppose:
+
 - Closing carried interest loophole
 - Transparency requirements
 - Restrictions on leveraged buyouts
@@ -144,6 +156,7 @@ Oppose:
 **Koch Network**
 
 Charles Koch's political operation:
+
 - Estimated $400+ million per cycle
 - Americans for Prosperity as grassroots arm
 - Funds think tanks, university programs, advocacy
@@ -153,6 +166,7 @@ Charles Koch's political operation:
 **Donor Trust / Donors Capital Fund**
 
 Dark money conduits:
+
 - Funnel hundreds of millions to conservative groups
 - Shield donor identity
 - Finance climate denial, anti-tax, anti-labor efforts
@@ -165,6 +179,7 @@ Dark money conduits:
 **Tax Avoidance**
 
 Those opposing tax reform directly benefit from:
+
 - Low capital gains rates
 - Preferential treatment of investment income
 - Loopholes (carried interest, step-up in basis, 1031 exchanges)
@@ -180,6 +195,7 @@ Those opposing tax reform directly benefit from:
 **Regulatory Avoidance**
 
 Industries opposing regulation would face:
+
 - Compliance costs
 - Restrictions on profitable activities
 - Liability for harm caused
@@ -188,6 +204,7 @@ Industries opposing regulation would face:
 **Market Power Preservation**
 
 Monopolists opposing antitrust would lose:
+
 - Above-competitive pricing power
 - Ability to acquire potential competitors
 - Market dominance
@@ -196,6 +213,7 @@ Monopolists opposing antitrust would lose:
 ### Ideological Commitment
 
 Some opposition stems from genuine belief in:
+
 - Free market superiority
 - Government failure and inefficiency
 - Individual responsibility over collective action
@@ -217,6 +235,7 @@ These beliefs are not entirely cynical, even if they serve material interests.
 **Academic Economics**
 
 Some economists oppose reform because:
+
 - Training emphasized market efficiency
 - Funding from corporate-backed foundations
 - Consulting opportunities with industry
@@ -419,6 +438,7 @@ The opposition often argues against popular positions, requiring them to rely on
 **Elite vs. Mass Disconnect**
 
 Business community positions often at odds with:
+
 - Their own workers' preferences
 - General public opinion
 - Long-term economic stability
@@ -447,6 +467,7 @@ Business community positions often at odds with:
 **Short-Term vs. Long-Term**
 
 Some business leaders recognize that:
+
 - Extreme inequality undermines economy
 - Climate change threatens stability
 - Consumer demand requires worker income
@@ -475,6 +496,7 @@ Some business leaders recognize that:
 **Rising Populism**
 
 Both left and right increasingly skeptical of:
+
 - Free trade orthodoxy
 - Wall Street
 - Corporate power
@@ -483,6 +505,7 @@ Both left and right increasingly skeptical of:
 **Generational Shift**
 
 Younger Americans more supportive of:
+
 - Government action on economy
 - Unions and worker power
 - Breaking up monopolies
@@ -491,6 +514,7 @@ Younger Americans more supportive of:
 **Crisis Response**
 
 Pandemic revealed:
+
 - Essential workers underpaid
 - Market ideology insufficient
 - Government can act when motivated

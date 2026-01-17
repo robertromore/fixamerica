@@ -33,13 +33,17 @@ This series examines the full landscape of prison labor in America:
 ## Core Problems
 
 ### 1. Constitutional Exploitation
+
 The 13th Amendment explicitly permits slavery and involuntary servitude "as punishment for crime." This exception has been weaponized to create a permanent underclass of workers with no labor protections.
 
 ### 2. Poverty Wages and No Wages
+
 Incarcerated workers earn an average of 13-52 cents per hour for regular prison jobs. In five states, prisoners receive no compensation at all. Even in the best-paying positions, wages have actually declined since the 1980s when adjusted for inflation.
 
 ### 3. Coercive "Voluntary" Work
+
 While often described as voluntary, refusal to work in many facilities results in:
+
 - Loss of good-time credits
 - Solitary confinement
 - Loss of commissary privileges
@@ -47,18 +51,23 @@ While often described as voluntary, refusal to work in many facilities results i
 - Negative parole reviews
 
 ### 4. Private Sector Exploitation
+
 Major corporations have used prison labor to manufacture products, staff call centers, and perform services—benefiting from wages far below minimum wage without providing benefits, union representation, or labor protections.
 
 ### 5. Unsafe Working Conditions
+
 Incarcerated workers are excluded from OSHA protections and workers' compensation in most states. They face dangerous conditions in manufacturing, agriculture, and firefighting with limited recourse for injuries.
 
 ### 6. Skills Deficit vs. Exploitation
+
 While proponents argue prison labor provides job training, most positions offer little transferable skills. When skills are developed (such as firefighting), occupational licensing restrictions often prevent employment after release.
 
 ### 7. Labor Market Distortion
+
 Below-market prison labor competes unfairly with free-world workers and businesses, potentially depressing wages and eliminating jobs in affected industries.
 
 ### 8. Racial Disparities
+
 The prison population is disproportionately Black and Brown. Prison labor thus extends racialized exploitation that echoes the convict leasing system that emerged immediately after slavery's formal abolition.
 
 ## The Path Forward
@@ -86,6 +95,10 @@ Prison labor reform is not merely a criminal justice issue—it is a labor right
 The United States cannot claim to have abolished slavery while maintaining a constitutional exception that permits forced labor of 800,000 people.
 
 ---
+
+## Cross-Domain Topics
+
+- [Economic: Wages](../../economic/wages/01-overview.md) - Prison labor undermines wage standards; sub-minimum wages create unfair competition with free-market labor
 
 ## Related Subtopics
 

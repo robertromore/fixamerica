@@ -16,6 +16,7 @@ Amend 42 U.S.C. § 1983 to add:
 **Option B: Meaningful Limitation**
 
 Modify the "clearly established" standard:
+
 - Violation must be "clearly established" only at level of general principle
 - Eliminate requirement for case with same facts
 - Allow analogous cases from any jurisdiction
@@ -347,6 +348,7 @@ Modify the "clearly established" standard:
 | [← Opposition](06-opposition.md) | [Justice Index](../index.md) | [Roadmap →](08-roadmap.md) |
 
 **Section Contents:**
+
 - [01. Overview](01-overview.md)
 - [02. Current State](02-current-state.md)
 - [03. History](03-history.md)

@@ -17,6 +17,7 @@ Transforming mental health crisis response requires phased implementation over m
 ## Phase 1: Assessment and Planning (Months 1-6)
 
 ### Objective
+
 Understand current system, build coalitions, and develop implementation plan.
 
 ### Activities
@@ -63,6 +64,7 @@ Understand current system, build coalitions, and develop implementation plan.
 ## Phase 2: Foundation and Pilots (Months 6-18)
 
 ### Objective
+
 Build foundational infrastructure and launch pilot programs.
 
 ### Crisis Response Pilot
@@ -151,6 +153,7 @@ Build foundational infrastructure and launch pilot programs.
 ## Phase 3: Expansion and Integration (Years 2-3)
 
 ### Objective
+
 Expand successful pilots; integrate systems; build sustainability.
 
 ### Crisis Response Expansion
@@ -212,6 +215,7 @@ Expand successful pilots; integrate systems; build sustainability.
 ## Phase 4: Sustainability and Optimization (Years 3-5)
 
 ### Objective
+
 Ensure long-term sustainability; optimize performance; scale proven programs.
 
 ### Sustainability
@@ -251,6 +255,7 @@ Ensure long-term sustainability; optimize performance; scale proven programs.
 ## Phase 5: Full System Transformation (Years 5+)
 
 ### Objective
+
 Achieve fundamental system transformation where mental health crises receive appropriate mental health response.
 
 ### System Vision
@@ -346,6 +351,7 @@ Achieve fundamental system transformation where mental health crises receive app
 | [Solutions](07-solutions.md) | [Justice Topics](../README.md) | [Resources](09-resources.md) |
 
 **In This Section:**
+
 - [01 Overview](01-overview.md) | [02 Current State](02-current-state.md) | [03 History](03-history.md) | [04 Root Causes](04-root-causes.md)
 - [05 Stakeholders](05-stakeholders.md) | [06 Opposition](06-opposition.md) | [07 Solutions](07-solutions.md) | [08 Roadmap](08-roadmap.md)
 - [09 Resources](09-resources.md) | [10 Actions](10-actions.md) | [11 Legislation](11-legislation.md)

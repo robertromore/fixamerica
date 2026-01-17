@@ -238,6 +238,15 @@ Consumer debt intersects with numerous policy areas:
 | [Economic Mobility](../economic-mobility/01-overview.md) | Debt as a barrier to upward economic mobility |
 | [Small Business](../small-business/01-overview.md) | Business debt constrains entrepreneurship and growth |
 
+## Related Topics (Cross-Domain)
+
+| Domain | Topic | Connection |
+|--------|-------|------------|
+| Education | [Student Debt](../../education/01-overview.md) | $1.77 trillion student loan crisis driving household debt |
+| Education | [Higher Education](../../education/01-overview.md) | College costs up 1,200% since 1980, forcing debt-financed education |
+| Healthcare | [Medical Debt](../../healthcare/01-overview.md) | 62% of bankruptcies involve medical debt; 100+ million Americans affected |
+| Justice | [Fines and Fees](../../justice/fines-and-fees/01-overview.md) | Criminal justice debt trapping low-income individuals in cycles of poverty |
+
 ## Document Navigation
 
 - Next: [Current State](02-current-state.md)

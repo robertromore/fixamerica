@@ -27,6 +27,7 @@ The financial sector is the largest source of campaign contributions:
 ### The Revolving Door
 
 The movement of personnel between regulators and industry creates:
+
 - Regulators who anticipate future employment avoid aggressive enforcement
 - Industry insiders who become regulators bring industry perspectives
 - Institutional knowledge about regulatory weak points
@@ -57,12 +58,14 @@ The financial industry maintains a permanent army of lobbyists:
 Academic finance provided intellectual justification for deregulation:
 
 **Core Claims:**
+
 - Markets process information efficiently
 - Prices reflect true value
 - Regulation interferes with efficient outcomes
 - Sophisticated parties don't need protection
 
 **Reality:**
+
 - Markets exhibit bubbles, herding, and irrational behavior
 - Information asymmetries are pervasive
 - "Sophisticated parties" like pension funds were defrauded
@@ -86,6 +89,7 @@ Ideas from the University of Chicago economics department shaped deregulation:
 - Cost-benefit analysis weighted against regulation
 
 These ideas were promoted through:
+
 - Funded academic positions
 - Judicial education programs
 - Think tank research
@@ -109,6 +113,7 @@ The U.S. financial regulatory system is uniquely fragmented:
 | FHFA | Fannie Mae, Freddie Mac |
 
 **Problems with Fragmentation:**
+
 - Regulatory arbitrage: Institutions choose most favorable regulator
 - Gaps: Activities fall between regulatory jurisdictions
 - Inconsistency: Same products regulated differently
@@ -154,12 +159,14 @@ Regulators are systematically outmatched:
 Both parties supported financial deregulation:
 
 **Democratic Support:**
+
 - Clinton administration championed Glass-Steagall repeal
 - Robert Rubin and Larry Summers led deregulation effort
 - Financial sector became major Democratic donor base
 - "New Democrats" embraced market-friendly policies
 
 **Republican Support:**
+
 - Ideological commitment to deregulation
 - Phil Gramm sponsored key deregulatory legislation
 - George W. Bush administration reduced enforcement

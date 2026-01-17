@@ -7,18 +7,21 @@
 The first era of extreme inequality and corporate power established patterns that would recur:
 
 **Robber Barons and Trusts**
+
 - Rockefeller (Standard Oil), Carnegie (steel), Morgan (finance), Vanderbilt (railroads)
 - Trusts controlled entire industries, crushing competition
 - Workers faced dangerous conditions, low wages, no protections
 - Wealth concentration reached levels not seen again until 2010s
 
 **Labor Struggles**
+
 - Violent suppression of strikes (Haymarket, Homestead, Pullman)
 - Unions fought for basic rights against corporate and government power
 - 12-14 hour days, child labor, no safety standards common
 - Workers had little bargaining power against dominant employers
 
 **Progressive Response**
+
 - Sherman Antitrust Act (1890) attempted to curb monopolies
 - Muckraking journalists exposed corporate abuses
 - Progressive movement pushed for reform
@@ -55,24 +58,28 @@ The Depression demonstrated that markets left unregulated could fail catastrophi
 Franklin Roosevelt's response to the Depression created the modern economic framework:
 
 **Financial Reform**
+
 - Glass-Steagall Act separated commercial and investment banking
 - FDIC created to insure deposits and prevent bank runs
 - SEC established to regulate securities markets
 - Federal Reserve powers expanded
 
 **Labor Rights**
+
 - National Labor Relations Act (Wagner Act) protected organizing
 - Fair Labor Standards Act established minimum wage, overtime, 40-hour week
 - Union membership surged from 11% to 35%
 - Workers gained bargaining power for first time
 
 **Social Insurance**
+
 - Social Security provided retirement security
 - Unemployment insurance cushioned job loss
 - Progressive income tax with high marginal rates
 - Framework for safety net established
 
 **Competition Policy**
+
 - Antitrust enforcement reinvigorated
 - Utilities and monopolies regulated
 - Corporate power checked
@@ -92,30 +99,35 @@ The postwar era saw broadly shared prosperity unprecedented in American history:
 | Income inequality | Declining |
 
 **Strong Labor Movement**
+
 - Union membership peaked at 35% in 1954
 - Manufacturing jobs paid middle-class wages
 - Single earner could support a family
 - Defined benefit pensions common
 
 **High Tax Rates**
+
 - Top marginal rate 91% through 1963
 - Corporate taxes generated 32% of federal revenue
 - Estate tax applied broadly
 - Progressive system funded public investment
 
 **Regulated Finance**
+
 - Glass-Steagall kept banks conservative
 - Interest rate ceilings limited competition
 - Savings and loans funded mortgages
 - Financial sector small and stable
 
 **Strong Antitrust**
+
 - DOJ and FTC actively challenged mergers
 - Courts applied strict per se rules
 - Corporate concentration remained low
 - Small business could compete
 
 **Public Investment**
+
 - Interstate highway system built
 - GI Bill expanded higher education
 - Research funding drove innovation
@@ -126,18 +138,21 @@ The postwar era saw broadly shared prosperity unprecedented in American history:
 By the 1970s, the postwar consensus faced mounting challenges:
 
 **Stagflation**
+
 - Oil shocks of 1973 and 1979
 - Inflation reached double digits
 - Unemployment rose simultaneously
 - Traditional Keynesian tools seemed ineffective
 
 **Deindustrialization Begins**
+
 - Japanese and European competition intensified
 - Steel, auto, textile industries struggled
 - Manufacturing jobs began long decline
 - Trade deficits emerged
 
 **Business Mobilization**
+
 - Lewis Powell memo (1971) called for corporate political engagement
 - Business Roundtable formed (1972)
 - Corporate PACs proliferated
@@ -150,24 +165,28 @@ By the 1970s, the postwar consensus faced mounting challenges:
 Ronald Reagan's election marked a fundamental shift in economic policy:
 
 **Tax Cuts**
+
 - Top marginal rate cut from 70% to 28%
 - Capital gains rates slashed
 - Corporate taxes reduced
 - Deficits exploded but "starve the beast" strategy accepted
 
 **Deregulation**
+
 - Financial industry deregulation began
 - Antitrust enforcement weakened
 - Environmental and labor regulations reduced
 - Free market ideology ascendant
 
 **Union Busting**
+
 - PATCO strike broken (1981)
 - NLRB turned hostile to labor
 - Right-to-work laws spread
 - Union membership began steep decline
 
 **The Reagan Narrative**
+
 - "Government is the problem, not the solution"
 - Trickle-down economics: benefits for wealthy would reach all
 - Free markets as solution to economic problems
@@ -178,18 +197,21 @@ Ronald Reagan's election marked a fundamental shift in economic policy:
 The financial sector grew to dominate the economy:
 
 **Deregulation Cascade**
+
 - S&L deregulation led to crisis (1980s)
 - Glass-Steagall weakened then repealed (1999)
 - Derivatives remained unregulated
 - Leverage limits loosened
 
 **Wall Street Ascendant**
+
 - Hostile takeovers and leveraged buyouts
 - Shareholder primacy doctrine
 - Stock options aligned executive pay with share price
 - Quarterly earnings pressure intensified
 
 **Financial Innovation**
+
 - Securitization and derivatives exploded
 - Credit default swaps created systemic risk
 - Shadow banking outside regulation
@@ -200,18 +222,21 @@ The financial sector grew to dominate the economy:
 Trade policy prioritized capital mobility over worker protection:
 
 **Trade Agreements**
+
 - NAFTA (1994) integrated North American economies
 - WTO entry for China (2001) opened trade
 - Bilateral agreements proliferated
 - Capital gained freedom to move; labor did not
 
 **The China Shock**
+
 - 2-3 million manufacturing jobs lost to China trade
 - Entire communities devastated
 - Promised transition support largely failed
 - Political consequences still unfolding
 
 **Offshoring and Outsourcing**
+
 - Production moved to low-wage countries
 - Supply chains stretched globally
 - Corporate profits increased
@@ -222,12 +247,14 @@ Trade policy prioritized capital mobility over worker protection:
 New economy brought new forms of concentration:
 
 **Platform Monopolies**
+
 - Google, Amazon, Facebook, Apple achieved dominance
 - Network effects created winner-take-all markets
 - Traditional antitrust seemed inadequate
 - Data became new source of power
 
 **Mergers Unchallenged**
+
 - "Chicago School" antitrust focused only on consumer prices
 - Mergers approved with minimal scrutiny
 - Industries consolidated across the board
@@ -240,18 +267,21 @@ New economy brought new forms of concentration:
 The culmination of three decades of financial deregulation:
 
 **The Collapse**
+
 - Housing bubble burst
 - Lehman Brothers failed
 - Credit markets froze
 - Global economy teetered
 
 **Bailouts and Response**
+
 - Wall Street received $700 billion bailout
 - Homeowners received far less help
 - No major executives prosecuted
 - "Too big to fail" banks got bigger
 
 **Aftermath**
+
 - Slowest recovery since Great Depression
 - Wealth destroyed for middle class; quickly recovered for wealthy
 - Inequality accelerated after crisis
@@ -361,26 +391,31 @@ Exposed and accelerated existing trends:
 ### What Works
 
 **Strong Labor Movements**
+
 - The period of greatest shared prosperity (1940s-1970s) coincided with highest union density
 - Worker bargaining power translated directly to wage gains
 - Decline of unions correlates with stagnation of wages
 
 **Progressive Taxation**
+
 - High marginal rates did not prevent strong economic growth
 - Revenue funded public investment that benefited all
 - Current low rates for capital income exacerbate inequality
 
 **Robust Antitrust**
+
 - Active enforcement kept markets competitive
 - Small business could compete against larger rivals
 - Concentration correlates with reduced dynamism
 
 **Financial Regulation**
+
 - Boring banking meant stable banking
 - Separation of functions prevented conflicts
 - Deregulation led predictably to crisis
 
 **Public Investment**
+
 - GI Bill, highways, research funding drove growth
 - Investment in people and infrastructure paid returns
 - Disinvestment has long-term costs
@@ -388,21 +423,25 @@ Exposed and accelerated existing trends:
 ### What Doesn't Work
 
 **Trickle-Down Economics**
+
 - Tax cuts for wealthy have not lifted all boats
 - Benefits concentrated at top rather than spreading
 - Deficits used to justify cutting programs for everyone else
 
 **Deregulation Without Accountability**
+
 - Markets need rules to function fairly
 - Without oversight, corporate power grows unchecked
 - Financial deregulation created crisis
 
 **Trade Without Transition**
+
 - Gains from trade went to capital, costs to labor
 - Promised adjustment assistance was inadequate
 - Affected communities never recovered
 
 **Bailouts Without Reform**
+
 - 2008 bailout saved system but not accountability
 - Moral hazard encouraged more risk-taking
 - Banks now bigger than before crisis

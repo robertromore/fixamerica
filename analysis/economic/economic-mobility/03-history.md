@@ -34,6 +34,7 @@ Thomas Jefferson articulated an agrarian vision of opportunity:
 Jefferson's Louisiana Purchase (1803) and land policies aimed to create a nation of independent yeoman farmers. The Homestead Act (1862) would later formalize this vision.
 
 **Limits of the vision**:
+
 - Dependent on continuous expansion into Native lands
 - Excluded those who could not afford to relocate
 - Ignored industrial transformation underway
@@ -56,6 +57,7 @@ The post-Civil War era saw:
 Horatio Alger's "rags to riches" novels (1867-1899) defined American mobility mythology. His stories of bootblacks and newsboys becoming businessmen through "pluck and luck" established an enduring cultural template.
 
 **The reality**:
+
 - Alger's heroes typically rose through patronage of wealthy benefactors
 - Statistical mobility in the Gilded Age was lower than mythology suggested
 - Most immigrants remained in the working class for generations
@@ -92,12 +94,14 @@ The Progressive Era addressed some barriers to mobility:
 From 1910-1970, approximately 6 million Black Americans left the South for northern and western cities. This represented a massive exercise in seeking opportunity:
 
 **Gains**:
+
 - Escape from Jim Crow violence and political disenfranchisement
 - Higher wages in industrial jobs
 - Access to better schools and services
 - Political participation restored
 
 **Limitations**:
+
 - Residential segregation in northern cities
 - Discrimination in unions and skilled trades
 - Racial covenants and redlining
@@ -246,6 +250,7 @@ The war on drugs and tough-on-crime policies created a new mobility barrier:
 Raj Chetty's research (2013-present) transformed understanding of mobility:
 
 **Key findings**:
+
 1. Place matters enormously--where you grow up predicts outcomes
 2. Racial gaps persist controlling for income
 3. Mobility has declined primarily due to inequality, not growth
@@ -279,6 +284,7 @@ This research provided the empirical foundation for evidence-based policy.
 ### The Selective Memory Problem
 
 American mythology remembers the 1950s as a golden age of mobility while forgetting:
+
 - It was built on explicit government intervention
 - It required high taxes on the wealthy
 - It was racially exclusive

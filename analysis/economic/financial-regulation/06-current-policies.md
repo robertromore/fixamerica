@@ -9,18 +9,21 @@ The current U.S. financial regulatory framework is a patchwork of pre-crisis rul
 ### Federal Reserve
 
 **Jurisdiction:**
+
 - Bank holding companies and their subsidiaries
 - Systemically important financial institutions (SIFIs)
 - Payment systems
 - Monetary policy
 
 **Key Tools:**
+
 - Stress testing (CCAR, DFAST)
 - Enhanced prudential standards
 - Capital and liquidity requirements
 - Supervision and examination
 
 **Current State:**
+
 - Chair Jerome Powell has maintained most post-crisis framework
 - Some stress test modifications reducing rigor
 - Enhanced scrutiny of crypto activities
@@ -29,16 +32,19 @@ The current U.S. financial regulatory framework is a patchwork of pre-crisis rul
 ### Office of the Comptroller of the Currency (OCC)
 
 **Jurisdiction:**
+
 - National banks
 - Federal savings associations
 - Federal branches of foreign banks
 
 **Key Authorities:**
+
 - Charter approval and revocation
 - Examination and supervision
 - Preemption of state consumer laws
 
 **Current State:**
+
 - Has considered special purpose national bank charters for fintech
 - Preemption authority remains controversial
 - Mixed record on consumer protection
@@ -46,18 +52,21 @@ The current U.S. financial regulatory framework is a patchwork of pre-crisis rul
 ### Securities and Exchange Commission (SEC)
 
 **Jurisdiction:**
+
 - Securities markets
 - Investment advisers
 - Broker-dealers
 - Public company disclosure
 
 **Key Authorities:**
+
 - Registration and disclosure requirements
 - Enforcement actions
 - Rulemaking for securities markets
 - Investment adviser regulation
 
 **Current State (under Chair Gary Gensler):**
+
 - Aggressive enforcement stance
 - Cryptocurrency crackdown
 - Climate disclosure rules
@@ -67,17 +76,20 @@ The current U.S. financial regulatory framework is a patchwork of pre-crisis rul
 ### Commodity Futures Trading Commission (CFTC)
 
 **Jurisdiction:**
+
 - Derivatives markets
 - Commodity futures
 - Swaps (post-Dodd-Frank)
 
 **Key Authorities:**
+
 - Clearing requirements
 - Margin requirements
 - Position limits
 - Swap dealer registration
 
 **Current State:**
+
 - Underfunded relative to mandate expansion
 - Cryptocurrency jurisdiction disputed with SEC
 - Enforcement-focused approach
@@ -85,6 +97,7 @@ The current U.S. financial regulatory framework is a patchwork of pre-crisis rul
 ### Consumer Financial Protection Bureau (CFPB)
 
 **Jurisdiction:**
+
 - Consumer financial products and services
 - Mortgage lending
 - Credit cards
@@ -92,12 +105,14 @@ The current U.S. financial regulatory framework is a patchwork of pre-crisis rul
 - Credit reporting
 
 **Key Authorities:**
+
 - Rulemaking for consumer protection
 - Examination of large banks and nonbanks
 - Enforcement actions
 - Consumer complaint database
 
 **Current State (under Director Rohit Chopra):**
+
 - Aggressive enforcement restored
 - New rules on junk fees, overdrafts, credit cards
 - Open banking/data portability rules
@@ -106,16 +121,19 @@ The current U.S. financial regulatory framework is a patchwork of pre-crisis rul
 ### Federal Deposit Insurance Corporation (FDIC)
 
 **Jurisdiction:**
+
 - Deposit insurance
 - State-chartered banks (shared with states)
 - Bank resolution
 
 **Key Authorities:**
+
 - Deposit insurance assessments
 - Orderly liquidation authority
 - Bank supervision
 
 **Current State:**
+
 - 2023 bank failures (SVB, Signature, First Republic) tested resolution framework
 - Questions about implicit guarantees for uninsured deposits
 - Merger review tightening
@@ -123,16 +141,19 @@ The current U.S. financial regulatory framework is a patchwork of pre-crisis rul
 ### Financial Stability Oversight Council (FSOC)
 
 **Jurisdiction:**
+
 - Systemic risk identification
 - SIFI designation
 - Regulatory coordination
 
 **Key Authorities:**
+
 - Designate nonbank SIFIs for enhanced supervision
 - Recommend heightened standards
 - Monitor emerging risks
 
 **Current State:**
+
 - Revived after dormancy under Trump administration
 - Reconsidering activities-based approach vs. entity designation
 - Increased focus on climate risk, digital assets
@@ -142,6 +163,7 @@ The current U.S. financial regulatory framework is a patchwork of pre-crisis rul
 ### What Was Enacted
 
 **Structural Changes:**
+
 - Creation of CFPB and FSOC
 - Orderly Liquidation Authority
 - Swaps pushed to clearinghouses
@@ -149,12 +171,14 @@ The current U.S. financial regulatory framework is a patchwork of pre-crisis rul
 - Enhanced capital and liquidity requirements
 
 **Consumer Protection:**
+
 - Qualified Mortgage (QM) rules
 - Ability-to-Repay requirements
 - Mortgage servicing standards
 - Remittance transfer protections
 
 **Systemic Risk:**
+
 - Stress testing requirements
 - Living wills for large institutions
 - Single-counterparty credit limits
@@ -198,6 +222,7 @@ The current U.S. financial regulatory framework is a patchwork of pre-crisis rul
 ### Cryptocurrency and Digital Assets
 
 **Current Framework:**
+
 - SEC: Securities laws apply to most tokens
 - CFTC: Bitcoin and Ethereum as commodities
 - FinCEN: Anti-money laundering requirements
@@ -206,6 +231,7 @@ The current U.S. financial regulatory framework is a patchwork of pre-crisis rul
 - States: Patchwork of money transmitter laws
 
 **Key Developments:**
+
 - Major SEC enforcement actions against exchanges
 - Proposed legislation stalled in Congress
 - Bank regulators cautious about crypto exposure
@@ -214,12 +240,14 @@ The current U.S. financial regulatory framework is a patchwork of pre-crisis rul
 ### Climate Risk
 
 **Current Framework:**
+
 - SEC: Climate disclosure rule finalized (litigation pending)
 - Fed: Climate scenario analysis pilot
 - OCC: Principles for climate risk management
 - FSOC: Reports identifying climate as systemic risk
 
 **Status:**
+
 - No mandatory climate stress tests
 - Disclosure rules facing legal challenges
 - Political opposition to "ESG" regulation
@@ -227,12 +255,14 @@ The current U.S. financial regulatory framework is a patchwork of pre-crisis rul
 ### Private Credit
 
 **Current Framework:**
+
 - Minimal SEC oversight of private funds
 - No capital or leverage requirements
 - Limited disclosure to investors
 - No systemic risk monitoring
 
 **Concerns:**
+
 - Private credit has grown to $1.5+ trillion
 - Interconnection with regulated banking system
 - Opacity prevents risk assessment
@@ -241,12 +271,14 @@ The current U.S. financial regulatory framework is a patchwork of pre-crisis rul
 ### Bank Mergers
 
 **Current Framework:**
+
 - Regulatory approval required (Fed, OCC, FDIC, or state)
 - Community Reinvestment Act consideration
 - Competition analysis
 - Financial stability consideration (Dodd-Frank)
 
 **Recent Developments:**
+
 - Regulators signaling more rigorous review
 - Updated merger guidelines proposed
 - Some large mergers delayed or blocked
@@ -255,12 +287,14 @@ The current U.S. financial regulatory framework is a patchwork of pre-crisis rul
 ### Nonbank Mortgage Lending
 
 **Current Framework:**
+
 - State licensing and supervision
 - CFPB authority over consumer protection
 - No prudential (safety and soundness) oversight
 - No federal capital requirements
 
 **Concerns:**
+
 - Nonbanks originate 70%+ of mortgages
 - Concentrated among few large servicers
 - Liquidity vulnerabilities in stress

@@ -80,6 +80,40 @@ Meaningful reform requires action across multiple domains:
 
 ---
 
+## Voting Rights Enforcement
+
+Civil rights enforcement mechanisms play a critical role in protecting voting rights. The Voting Rights Act of 1965 established federal authority to combat discriminatory voting practices, and its enforcement remains essential even after the Supreme Court weakened key provisions in *Shelby County v. Holder* (2013).
+
+### Key Enforcement Mechanisms
+
+| Mechanism | Legal Basis | Current Status |
+|-----------|-------------|----------------|
+| Section 2 litigation | VRA Section 2 | Active but resource-intensive |
+| DOJ voting section investigations | VRA Sections 2, 203 | Ongoing, limited capacity |
+| Election observer programs | VRA Section 8 | Reduced after Shelby County |
+| Language assistance enforcement | VRA Section 203 | Active |
+| Criminal prosecution of voter intimidation | 18 U.S.C. § 594 | Rarely used |
+
+### Enforcement Challenges
+
+- **Post-Shelby County gap**: Without preclearance, discriminatory laws take effect before they can be challenged
+- **Resource constraints**: DOJ Voting Section has limited staff to monitor 10,000+ jurisdictions
+- **Burden on plaintiffs**: Section 2 litigation is expensive and time-consuming
+- **Coordination failures**: Limited coordination between DOJ, state AGs, and private litigants
+
+### Cross-Domain Connection
+
+Voting rights enforcement intersects with broader civil rights enforcement through:
+
+- Shared constitutional foundations (14th and 15th Amendments)
+- Similar challenges with qualified immunity in Section 1983 cases
+- Need for robust DOJ Civil Rights Division resources
+- Importance of consent decrees and court-enforced reforms
+
+For comprehensive analysis of voting rights issues, see [Political: Voting Rights](../../political/voting-rights/01-overview.md).
+
+---
+
 ## Related Subtopics
 
 | Subtopic | Connection |
@@ -90,6 +124,13 @@ Meaningful reform requires action across multiple domains:
 | [Surveillance Technology](../surveillance-technology/01-overview.md) | Fourth Amendment, privacy |
 | [Wrongful Convictions](../wrongful-convictions/01-overview.md) | Section 1983 compensation |
 
+## Related Topics
+
+| Topic | Connection |
+|-------|------------|
+| [Voting Rights](../../political/voting-rights/01-overview.md) | Voting Rights Act enforcement, DOJ oversight |
+| [Education Equity](../../education/education-equity/01-overview.md) | School desegregation, Title VI enforcement |
+
 ## Document Navigation
 
 | Previous | Up | Next |
@@ -97,6 +138,7 @@ Meaningful reform requires action across multiple domains:
 | — | [Justice Index](../index.md) | [Current State →](02-current-state.md) |
 
 **Section Contents:**
+
 - [01. Overview](01-overview.md) ← You are here
 - [02. Current State](02-current-state.md)
 - [03. History](03-history.md)

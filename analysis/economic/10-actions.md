@@ -192,6 +192,7 @@
 **Economic Justice Traditions**
 
 Most faith traditions emphasize:
+
 - Care for the poor and vulnerable
 - Fair wages and worker dignity
 - Limits on wealth accumulation

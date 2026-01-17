@@ -56,6 +56,19 @@ This analysis covers:
 
 ### 02-current-state.md
 ```markdown
+---
+freshness:
+  last-reviewed: [TODAY]
+  data-year: [CURRENT_YEAR]
+  review-cycle: 6
+  sections: []
+notes: []
+sources:
+  count: 0
+  verified: [TODAY]
+  broken: 0
+---
+
 # [Subtopic Title]: Current State
 
 ## Present Conditions
@@ -270,6 +283,19 @@ Why does this problem persist?
 
 ### 08-roadmap.md
 ```markdown
+---
+freshness:
+  last-reviewed: [TODAY]
+  data-year: [CURRENT_YEAR]
+  review-cycle: 12
+  sections: []
+notes: []
+sources:
+  count: 0
+  verified: [TODAY]
+  broken: 0
+---
+
 # [Subtopic Title]: Implementation Roadmap
 
 ## Strategic Approach
@@ -465,10 +491,36 @@ SEC. 2. [PROVISION].
 ## Document Navigation
 
 - Previous: [Actions](10-actions.md)
+- Next: [Perspectives](12-perspectives.md)
+```
+
+### 12-perspectives.md
+```markdown
+# [Subtopic Title]: Political Perspectives Analysis
+
+## Overview
+
+*This document will analyze [topic] through nine distinct political perspectives. Run `/analyze-perspectives <domain>/<subtopic>` to generate this analysis.*
+
+## Status
+
+This file is a placeholder. To generate the full perspectives analysis:
+
+1. Ensure files 02, 04, 07, and 11 have substantive content
+2. Run `/analyze-perspectives <domain>/<subtopic>`
+3. Review generated content for accuracy
+
+---
+
+## Document Navigation
+
+- Previous: [Legislation](11-legislation.md)
 ```
 
 4. **Replace placeholders**:
    - Replace `[Subtopic Title]` with properly formatted title (e.g., "Gig Economy")
+   - Replace `[TODAY]` with current date (YYYY-MM-DD format)
+   - Replace `[CURRENT_YEAR]` with current year (YYYY)
    - Update navigation links
 
 5. **Update parent overview** if `analysis/<domain>/01-overview.md` exists:

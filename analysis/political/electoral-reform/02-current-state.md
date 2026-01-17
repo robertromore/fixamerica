@@ -1,3 +1,28 @@
+---
+freshness:
+  last-reviewed: 2025-01-12
+  data-year: 2024
+  review-cycle: 6
+  sections:
+    - name: "The Problem Today"
+      data-year: 2024
+    - name: "Key Statistics"
+      data-year: 2024
+    - name: "Impact"
+      data-year: 2024
+    - name: "Recent Developments"
+      data-year: 2024
+    - name: "Sources"
+      data-year: 2024
+notes:
+  - Track Nevada confirmation and other state ballot initiatives after 2024 to update momentum statistics.
+  - Watch for federal legislation or Supreme Court decisions affecting alternative voting methods.
+sources:
+  count: 11
+  verified: 2025-01-12
+  broken: 0
+---
+
 # Electoral Reform: Current State
 
 ## The Problem Today
@@ -76,7 +101,7 @@ Under plurality voting, the strategic imperative is to make the other major cand
 
 Under RCV, candidates seek to be voters' second choice, incentivizing coalition-building and civility.
 
-## Key Statistics (as of 2024)
+## Key Statistics (2024 snapshot)
 
 ### Voter Dissatisfaction
 
@@ -180,7 +205,7 @@ Despite millions of votes, third parties hold essentially zero power at the fede
 - Long-term problems ignored (no electoral incentive)
 - See [Campaign Finance](../campaign-finance/01-overview.md) for more
 
-## Recent Developments (as of 2024)
+## Recent Developments (2024 snapshot)
 
 ### Positive Momentum
 

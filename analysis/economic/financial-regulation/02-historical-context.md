@@ -21,6 +21,7 @@ The 1929 crash and subsequent Depression revealed how interconnected and vulnera
 The Banking Act of 1933, commonly known as Glass-Steagall, established fundamental structural reforms:
 
 **Key Provisions:**
+
 - **Separation of commercial and investment banking**: Banks holding deposits could not engage in securities underwriting or trading
 - **FDIC creation**: Federal deposit insurance protected ordinary savers
 - **Regulation Q**: Interest rate caps prevented destructive competition for deposits
@@ -99,7 +100,7 @@ This legislation effectively dismantled the Depression-era separation of banking
 
 ## Timeline of Deregulation and Consequences
 
-```
+```text
 1980: Depository Institutions Deregulation
            ↓
 1982: Garn-St. Germain (S&L deregulation)
@@ -124,6 +125,7 @@ This legislation effectively dismantled the Depression-era separation of banking
 ### Dodd-Frank Wall Street Reform Act (2010)
 
 Major provisions included:
+
 - Consumer Financial Protection Bureau (CFPB)
 - Volcker Rule (partial trading restrictions)
 - Orderly Liquidation Authority
@@ -131,6 +133,7 @@ Major provisions included:
 - Stress testing for large banks
 
 **Limitations:**
+
 - Did not restore Glass-Steagall separation
 - Did not break up too-big-to-fail banks
 - Included numerous exemptions and loopholes

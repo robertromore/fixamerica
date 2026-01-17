@@ -11,6 +11,7 @@ Financial regulatory reform is debated across the political spectrum, with legit
 **Position:** Structural reform, Glass-Steagall restoration, break up megabanks
 
 **Key Arguments:**
+
 - "Too big to fail" creates moral hazard and political power concentration
 - CFPB proves effective consumer protection is possible
 - Financial industry capture has corrupted both parties
@@ -26,6 +27,7 @@ Financial regulatory reform is debated across the political spectrum, with legit
 **Position:** Dramatically higher capital requirements, simpler regulation
 
 **Key Arguments:**
+
 - Banks are allowed dangerously high leverage (15:1 to 25:1)
 - Equity capital is not "idle"—it's essential safety margin
 - Industry claims about capital costs are misleading
@@ -41,6 +43,7 @@ Financial regulatory reform is debated across the political spectrum, with legit
 **Position:** Public banking, fundamental restructuring
 
 **Key Arguments:**
+
 - Money creation is inherently public function
 - Public alternatives can discipline private finance
 - Fed accounts for all citizens would transform system
@@ -56,6 +59,7 @@ Financial regulatory reform is debated across the political spectrum, with legit
 **Position:** Aggressive enforcement, restore and strengthen Dodd-Frank
 
 **Key Arguments:**
+
 - Industry has systematically weakened post-crisis reforms
 - Enforcement is the key—rules without enforcement are meaningless
 - Wall Street's influence on both parties is the core problem
@@ -73,6 +77,7 @@ Financial regulatory reform is debated across the political spectrum, with legit
 **Position:** Measured regulation, macro-prudential focus
 
 **Key Arguments:**
+
 - Dodd-Frank was appropriate response to crisis
 - Some simplification and tailoring is reasonable
 - Systemic risk monitoring is essential
@@ -88,6 +93,7 @@ Financial regulatory reform is debated across the political spectrum, with legit
 **Position:** Enhanced supervision, living will focus
 
 **Key Arguments:**
+
 - Regulation should be matched to risk
 - Resolution planning must be credible
 - Capital requirements need recalibration after SVB
@@ -103,6 +109,7 @@ Financial regulatory reform is debated across the political spectrum, with legit
 **Position:** Aggressive enforcement, updated rules for new markets
 
 **Key Arguments:**
+
 - Securities laws apply to crypto assets
 - Disclosure is fundamental investor protection
 - Market structure reform is overdue
@@ -120,6 +127,7 @@ Financial regulatory reform is debated across the political spectrum, with legit
 **Position:** Deregulation was beneficial; crisis was government-caused
 
 **Key Arguments:**
+
 - Glass-Steagall repeal didn't cause crisis
 - Fannie/Freddie and CRA were true causes
 - Regulation impedes economic growth
@@ -135,6 +143,7 @@ Financial regulatory reform is debated across the political spectrum, with legit
 **Position:** Equity-funded banking, eliminate bailouts credibly
 
 **Key Arguments:**
+
 - Current regulation is too complex and easily gamed
 - Dramatic increase in equity requirements is better than complex rules
 - Eliminate bailout expectations by making failure feasible
@@ -150,6 +159,7 @@ Financial regulatory reform is debated across the political spectrum, with legit
 **Position:** Market discipline, regulatory simplification
 
 **Key Arguments:**
+
 - Dodd-Frank created excessive compliance burden
 - Designation of SIFIs created bailout expectations
 - Living wills are more effective than restrictions
@@ -167,6 +177,7 @@ Financial regulatory reform is debated across the political spectrum, with legit
 **Position:** Break up monopolies, restore antitrust
 
 **Key Arguments:**
+
 - Financial concentration is a political power issue
 - Both parties have enabled Wall Street
 - Historical antitrust tradition should be revived
@@ -182,6 +193,7 @@ Financial regulatory reform is debated across the political spectrum, with legit
 **Position:** Break up megabanks, Glass-Steagall restoration
 
 **Key Arguments:**
+
 - TBTF creates systemic risk and unfair advantage
 - Safety net should be limited to traditional banking
 - Resolution planning cannot work for largest banks

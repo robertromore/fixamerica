@@ -78,16 +78,19 @@ The private sector has not filled the gap. Basic research—the foundation of br
 ### The Case for More Public Investment
 
 **Market failure argument**: Private markets underinvest in public goods:
+
 - Infrastructure has network effects and spillovers
 - Basic research benefits are diffuse and long-term
 - Private firms can't capture all returns, so they underinvest
 
 **Crowding in argument**: Public investment complements private investment:
+
 - Infrastructure enables private economic activity
 - Basic research creates platforms for private innovation
 - Public investment reduces risks that deter private capital
 
 **Historical evidence**: Major public investments drove American prosperity:
+
 - Erie Canal, transcontinental railroad
 - Interstate Highway System
 - Internet (DARPA), GPS, smartphone technology
@@ -96,16 +99,19 @@ The private sector has not filled the gap. Basic research—the foundation of br
 ### The Case for Caution
 
 **Crowding out argument**: Government borrowing can displace private investment:
+
 - Competition for capital raises interest rates
 - Private sector often more efficient
 - Political distortions waste resources
 
 **Debt concerns**: Public investment requires borrowing:
+
 - Federal debt already at historically high levels
 - Interest payments consuming more of budget
 - Intergenerational burden
 
 **Effectiveness concerns**: Government doesn't always invest well:
+
 - Political considerations distort priorities
 - Cost overruns and delays common
 - Measurement and accountability difficult

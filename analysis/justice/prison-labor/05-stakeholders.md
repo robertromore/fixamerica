@@ -21,6 +21,7 @@ The people most directly affected by prison labor policies.
 | Pre-incarceration employment | Many chronically unemployed |
 
 **Stakes**:
+
 - Immediate working conditions and safety
 - Wages and ability to support families
 - Skills development and post-release employment
@@ -46,6 +47,7 @@ Bear enormous financial and emotional costs of the current system.
 | Total family financial burden | Billions annually |
 
 **Stakes**:
+
 - Financial strain from supporting incarcerated loved ones
 - Emotional toll of exploitative conditions
 - Futures of returning family members
@@ -62,6 +64,7 @@ Unique perspective from lived experience, directly affected by skills gaps.
 **Population**: ~600,000 released annually; 70+ million with criminal records total
 
 **Stakes**:
+
 - Post-release employment (skills from prison work often untransferable)
 - Occupational licensing barriers
 - Criminal record discrimination
@@ -86,6 +89,7 @@ Direct involvement in implementing any reforms.
 | Injury rate | Among highest of any profession |
 
 **Stakes**:
+
 - Job security
 - Working conditions and safety
 - Institutional stability
@@ -100,6 +104,7 @@ Direct involvement in implementing any reforms.
 Responsible for facility operations and implementing policy.
 
 **Stakes**:
+
 - Managing institutional operations
 - Budget management
 - Security and safety
@@ -116,6 +121,7 @@ Responsible for facility operations and implementing policy.
 **Population**: 50 state DOCs + DC and territories
 
 **Stakes**:
+
 - Budget management (prison labor subsidizes operations)
 - Institutional control
 - Political accountability
@@ -130,6 +136,7 @@ Responsible for facility operations and implementing policy.
 **Population**: ~130,000 federal prisoners
 
 **Stakes**:
+
 - UNICOR operations (~$500 million revenue)
 - Federal facility management
 - Policy implementation
@@ -149,6 +156,7 @@ Control prison labor policy in their states.
 | Some libertarian Republicans | Those with prison industry constituents |
 
 **Stakes**:
+
 - Constituent concerns
 - Budget implications
 - Political positioning
@@ -163,11 +171,13 @@ Control prison labor policy in their states.
 Control federal prison policy and can influence states.
 
 **Key Committees**:
+
 - House/Senate Judiciary Committees
 - House/Senate Appropriations Committees
 - Congressional Progressive Caucus (reform-oriented)
 
 **Stakes**:
+
 - National policy direction
 - Federal budget
 - Constitutional amendments
@@ -181,6 +191,7 @@ Control federal prison policy and can influence states.
 Executive authority over state prison systems.
 
 **Stakes**:
+
 - State budget
 - Public safety narrative
 - Political positioning
@@ -200,6 +211,7 @@ Executive authority over state prison systems.
 | MTC | ~$500 million | ~25,000 |
 
 **Stakes**:
+
 - Profit margins dependent on incarceration
 - Stock price and shareholder value
 - Government contracts
@@ -213,11 +225,13 @@ Executive authority over state prison systems.
 **Federal**: UNICOR (~$500 million annual revenue)
 
 **State examples**:
+
 - CALPIA (California): ~$200 million
 - TCI (Texas): ~$90 million
 - PRIDE (Florida): ~$75 million
 
 **Stakes**:
+
 - Revenue generation
 - Government contracts
 - Organizational survival
@@ -229,11 +243,13 @@ Executive authority over state prison systems.
 ### Corporations Using Prison Labor
 
 Companies benefit through:
+
 - Direct employment (PIECP programs)
 - Supply chain integration
 - Service contracts
 
 **Stakes**:
+
 - Cost savings from cheap labor
 - Reputational risks from exposure
 - Supply chain reliability
@@ -247,6 +263,7 @@ Companies benefit through:
 Compete with those who do use prison labor.
 
 **Stakes**:
+
 - Unfair competition from below-market labor
 - Desire for level playing field
 - Potential reputational benefit from ethical positioning
@@ -264,6 +281,7 @@ Compete with those who do use prison labor.
 | Correctional officer unions | Often oppose reform |
 
 **Stakes**:
+
 - Member wages and jobs
 - Competition from prison labor
 - Solidarity principles (some)
@@ -286,6 +304,7 @@ Compete with those who do use prison labor.
 | Ella Baker Center | California-focused reform |
 
 **Stakes**:
+
 - Mission advancement
 - Organizational sustainability
 - Constituency service
@@ -303,6 +322,7 @@ Compete with those who do use prison labor.
 | Free Alabama Movement | Alabama-focused organizing |
 
 **Stakes**:
+
 - Member working conditions
 - Abolition of prison slavery
 - Political voice for incarcerated
@@ -322,6 +342,7 @@ Compete with those who do use prison labor.
 | Quakers (AFSC) | Strong abolition support |
 
 **Stakes**:
+
 - Moral/theological commitments
 - Pastoral care for incarcerated
 - Social justice missions
@@ -340,6 +361,7 @@ Compete with those who do use prison labor.
 | Global Modern Slavery Index | Rankings and metrics |
 
 **Stakes**:
+
 - Human rights standards
 - International reputation
 - Organizational mission
@@ -351,6 +373,7 @@ Compete with those who do use prison labor.
 ### Academic Researchers
 
 **Research Areas**:
+
 - Economics of prison labor
 - Labor history
 - Racial justice
@@ -358,6 +381,7 @@ Compete with those who do use prison labor.
 - Constitutional law
 
 **Stakes**:
+
 - Academic freedom
 - Research access
 - Knowledge production

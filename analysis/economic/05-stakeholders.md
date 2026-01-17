@@ -18,6 +18,7 @@ The roughly 130,000 households at the very top of the distribution have accumula
 | Political influence | Dominant campaign donors; personal access to politicians |
 
 **Benefits from Current System**:
+
 - Low capital gains rates mean investments taxed less than wages
 - Step-up in basis eliminates taxes on appreciated assets at death
 - Estate tax exemptions allow dynastic wealth transfer
@@ -53,6 +54,7 @@ Companies with dominant market positions benefit from reduced competition:
 | Defense | Lockheed Martin, Raytheon, Northrop, Boeing | Cost-plus contracts, revolving door |
 
 **How They Benefit**:
+
 - Market power allows above-competitive prices
 - Weak antitrust enables continued consolidation
 - Regulatory capture shapes rules in their favor
@@ -62,6 +64,7 @@ Companies with dominant market positions benefit from reduced competition:
 **Multinational Corporations**
 
 Companies that can shift profits and operations globally benefit from:
+
 - Tax arbitrage between jurisdictions
 - Ability to threaten offshoring
 - Trade agreements protecting their investments
@@ -85,6 +88,7 @@ The major financial institutions profit from:
 **Private Equity**
 
 This $5+ trillion industry benefits from:
+
 - Carried interest loophole (taxed at capital gains rates)
 - Interest deductibility on acquisition debt
 - Ability to load companies with debt while extracting fees
@@ -94,6 +98,7 @@ This $5+ trillion industry benefits from:
 **Hedge Funds**
 
 Benefit from:
+
 - Carried interest loophole
 - Light regulation compared to mutual funds
 - Tax advantages for complex strategies
@@ -111,6 +116,7 @@ CEOs and top executives have seen compensation explode:
 | Average CEO pay (S&P 500) | $900K (adj.) | $15+ million |
 
 Executive pay is protected by:
+
 - Friendly board compensation committees
 - Stock option accounting treatment
 - Shareholder primacy ideology
@@ -119,6 +125,7 @@ Executive pay is protected by:
 **High-Earning Professionals**
 
 Doctors, lawyers, consultants, and others benefit from:
+
 - Credentialing barriers that limit competition
 - Tax deductions for professional corporations
 - Ability to form pass-through entities
@@ -144,6 +151,7 @@ The 44 million workers earning less than $18/hour suffer from:
 **Gig Workers**
 
 The growing category of independent contractors:
+
 - Denied employee protections and benefits
 - Bear all risk while platforms capture profits
 - No unemployment insurance, workers' comp
@@ -153,6 +161,7 @@ The growing category of independent contractors:
 **Retail and Service Workers**
 
 Frontline workers in:
+
 - Fast food: Poverty wages, erratic schedules
 - Retail: Part-time to avoid benefits, declining hours
 - Hospitality: Low wages, harassment, instability
@@ -164,6 +173,7 @@ Frontline workers in:
 **Declining Middle-Wage Workers**
 
 Workers in formerly stable jobs now face:
+
 - Manufacturing: Offshoring eliminated millions of jobs
 - Administrative: Automation reducing opportunities
 - Retail management: Consolidation cutting positions
@@ -172,6 +182,7 @@ Workers in formerly stable jobs now face:
 **Squeezed Professionals**
 
 Even college-educated workers face:
+
 - Student debt burden limiting choices
 - Credentialing requirements without income gains
 - Competition from globalization and technology
@@ -195,6 +206,7 @@ Small businesses suffer from:
 **New Business Formation**
 
 Startups face:
+
 - Declining entrepreneurship rates
 - Concentrated industries with high barriers
 - Acquisition by incumbents before scale
@@ -205,6 +217,7 @@ Startups face:
 **Deindustrialized Regions**
 
 Communities affected by manufacturing loss:
+
 - Rust Belt cities lost population and tax base
 - Appalachian towns devastated by coal decline
 - Small manufacturing centers hollowed out
@@ -213,6 +226,7 @@ Communities affected by manufacturing loss:
 **Rural America**
 
 Rural areas suffer from:
+
 - Hospital closures (150+ since 2010)
 - Bank branch closures limiting access
 - Broadband deserts
@@ -222,6 +236,7 @@ Rural areas suffer from:
 **Urban Poor**
 
 Low-income urban residents face:
+
 - Housing cost burden
 - Food deserts
 - Environmental injustice
@@ -233,6 +248,7 @@ Low-income urban residents face:
 **Children in Poverty**
 
 Current economic arrangements harm children through:
+
 - Reduced opportunity for upward mobility
 - Educational inequality tracking with income
 - Health disparities from early childhood
@@ -241,6 +257,7 @@ Current economic arrangements harm children through:
 **Young Workers**
 
 Millennials and Gen Z face:
+
 - Student debt burden
 - Housing unaffordability
 - Delayed family formation
@@ -250,6 +267,7 @@ Millennials and Gen Z face:
 **All Future Americans**
 
 Long-term harms from current policies:
+
 - Environmental degradation and climate costs
 - Underinvestment in infrastructure
 - National debt from tax cuts for wealthy
@@ -267,6 +285,7 @@ Long-term harms from current policies:
 | Senate | Confirms nominees; filibuster blocks most bills | Malapportionment favors small states |
 
 Key Committees:
+
 - Ways and Means / Finance: Tax policy
 - Banking / Financial Services: Financial regulation
 - Judiciary: Antitrust
@@ -323,6 +342,7 @@ Key Committees:
 **Labor Movement**
 
 Though weakened, unions remain largest organized counter-power:
+
 - 14+ million union members
 - Political mobilization capacity
 - Collective bargaining where present
@@ -352,6 +372,7 @@ Though weakened, unions remain largest organized counter-power:
 **Small Business**
 
 Small business owners often share concerns about:
+
 - Market power of giants (Amazon, Walmart)
 - Regulatory burden falling disproportionately on them
 - Access to credit and contracts
@@ -360,6 +381,7 @@ Small business owners often share concerns about:
 **Some Business Leaders**
 
 A minority of business voices support reform:
+
 - Patriotic Millionaires advocate higher taxes
 - Some CEOs calling for stakeholder capitalism
 - B-Corps and social enterprises
@@ -368,6 +390,7 @@ A minority of business voices support reform:
 **Libertarian-Leaning Reformers**
 
 Some free-market advocates support:
+
 - Antitrust enforcement (competition over concentration)
 - Ending corporate welfare and subsidies
 - Reducing regulatory barriers to entry
@@ -385,6 +408,7 @@ Some free-market advocates support:
 **Civil Rights Organizations**
 
 Inequality disproportionately harms communities of color:
+
 - NAACP
 - National Urban League
 - UnidosUS
@@ -393,6 +417,7 @@ Inequality disproportionately harms communities of color:
 **Faith Communities**
 
 Religious traditions emphasize economic justice:
+
 - Network (Catholic social justice)
 - Religious Action Center (Reform Judaism)
 - Sojourners (evangelical left)
@@ -401,6 +426,7 @@ Religious traditions emphasize economic justice:
 **Environmental Movement**
 
 Climate and economic justice increasingly linked:
+
 - Sierra Club
 - League of Conservation Voters
 - Sunrise Movement
@@ -426,21 +452,21 @@ Climate and economic justice increasingly linked:
 
 **Wealthy <-> Politicians**
 
-```
+```text
 Campaign contributions → Access → Policy influence →
 Favorable policies → More wealth → More contributions
 ```
 
 **Corporations <-> Regulators**
 
-```
+```text
 Revolving door → Shared perspective → Light enforcement →
 Industry profits → More resources for influence
 ```
 
 **Financial Sector <-> Federal Reserve**
 
-```
+```text
 Banks → Former regulators → Sympathetic policy →
 Cheap money → Bank profits → More political power
 ```
@@ -450,6 +476,7 @@ Cheap money → Bank profits → More political power
 **Capital vs. Labor**
 
 Fundamental tension over:
+
 - Share of national income
 - Workplace control and conditions
 - Labor law and union rights
@@ -458,6 +485,7 @@ Fundamental tension over:
 **Big Business vs. Small Business**
 
 Conflicts over:
+
 - Market power and competition
 - Regulatory burden distribution
 - Access to capital and contracts
@@ -466,6 +494,7 @@ Conflicts over:
 **Concentrated Wealth vs. Democratic Governance**
 
 Tension between:
+
 - Political equality and economic inequality
 - Majority preferences and policy outcomes
 - Public interest and private capture

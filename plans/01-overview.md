@@ -6,22 +6,27 @@ This directory contains action plans, implementation strategies, and campaign ro
 
 ## Structure
 
-*To be developed*
-
-### Proposed Organization
-
-```
+```text
 plans/
-├── advocacy/             # Grassroots advocacy strategies
-├── legislative/          # Legislative campaign plans
-├── electoral/            # Electoral strategies for reform
-├── coalition/            # Coalition-building roadmaps
-└── communications/       # Messaging and media strategies
+├── constitutional-amendments/
+│   ├── comprehensive/           # Fundamental restructuring (6 frameworks)
+│   │   ├── regional-federalism/ # Full plan with 25+ documents
+│   │   └── ...                  # 5 concept-stage frameworks
+│   └── single-topic/            # Targeted fixes (11 reforms)
+│       ├── election-reform/
+│       ├── judicial-reform/
+│       └── ...
+├── advocacy/                    # Grassroots advocacy strategies (placeholder)
+├── legislative/                 # Legislative campaign plans (placeholder)
+├── electoral/                   # Electoral strategies for reform (placeholder)
+├── coalition/                   # Coalition-building roadmaps (placeholder)
+└── communications/              # Messaging and media strategies (placeholder)
 ```
 
 ## Relationship to Other Sections
 
 Plans build on:
+
 - **Analysis** (`analysis/`) - Understanding of problems and solutions
 - **Policies** (`policies/`) - Specific policy proposals to advance
 - **Implementations** (`implementations/`) - Models and examples to reference
@@ -31,6 +36,7 @@ Plans build on:
 ### Advocacy Plans
 
 Strategies for building public support:
+
 - Grassroots organizing
 - Coalition building
 - Public education campaigns
@@ -39,6 +45,7 @@ Strategies for building public support:
 ### Legislative Plans
 
 Roadmaps for passing legislation:
+
 - Bill introduction strategies
 - Committee navigation
 - Vote counting and whipping
@@ -47,6 +54,7 @@ Roadmaps for passing legislation:
 ### Electoral Plans
 
 Strategies for electing reform-minded candidates:
+
 - Primary election strategies
 - General election tactics
 - Ballot initiative campaigns
@@ -55,40 +63,50 @@ Strategies for electing reform-minded candidates:
 ### Implementation Plans
 
 Blueprints for executing enacted reforms:
+
 - Regulatory implementation
 - Agency coordination
 - Rollout timelines
 - Success metrics
 
-## Current Plans
+## Current Content
 
-### Regional Federalism
+### Constitutional Amendments
 
-A comprehensive design document proposing a new constitutional level of government ("Regions") between states and the federal government. This plan addresses scale mismatch in governance, nationalization overload, and coordination failures by creating democratically accountable regional governments with enumerated powers over cross-border issues.
+All constitutional amendment proposals are in the [constitutional-amendments/](constitutional-amendments/) subdirectory, organized into:
 
-- [Core Idea: Regional Federalism](regional-federalism/01-core-idea.md) - What regions are and why they exist
-- [Allocation of Powers](regional-federalism/02-allocation-of-powers.md) - How powers are distributed across federal, regional, state, and local levels
-- [Stress-Testing Policy Conflicts](regional-federalism/03-stress-testing.md) - How the system handles contentious disagreements without collapse
-- [Stress-Testing Economic Conflicts](regional-federalism/04-economic-conflicts.md) - How the system manages capital, labor, inequality, and growth
-- [Elections and Democratic Legitimacy](regional-federalism/05-elections.md) - How elections stabilize democracy and political authority
-- [Political Institutions](regional-federalism/06-institutions.md) - How legislatures, executives, parties, and courts are redesigned
-- [The Constitutional Amendment Process](regional-federalism/07-amendment-process.md) - Restoring adaptability without destabilization
-- [Federal Taxation and Fiscal Architecture](regional-federalism/08-fiscal-architecture.md) - Aligning money, authority, and democratic legitimacy
-- [Secession, Nullification, and De-Escalation](regional-federalism/09-secession-nullification.md) - Eliminating exit politics while preserving autonomy
-- [Historical Failure Analysis](regional-federalism/10-historical-failures.md) - What failed federations teach about structural traps
-- [Hostile Reinterpretation Stress Test](regional-federalism/11-hostile-reinterpretation.md) - Testing against bad-faith institutional capture
-- [Authoritarian Consolidation Scenario](regional-federalism/12-authoritarian-scenario.md) - Full-system simulation of power seizure attempts
-- [Armed Forces and Civilian Control](regional-federalism/13-armed-forces.md) - Fragmenting coercive power while preserving defense
-- [Judiciary and Constitutional Enforcement](regional-federalism/14-judiciary.md) - Mandatory jurisdiction, deadlines, and self-executing remedies
-- [The Regional Federal Constitution](regional-federalism/15-constitution.md) - Complete amendment package with official commentary
-- [Meta-Level Conclusions](regional-federalism/16-meta-conclusions.md) - The deep logic and theory of the system
-- [Design Axioms](regional-federalism/17-design-axioms.md) - The ten rules that govern the entire system
-- [Identified Gaps](regional-federalism/18-identified-gaps.md) - Transparent accounting of residual risks and limitations
-- [Non-Constitutional Safeguards Playbook](regional-federalism/19-safeguards-playbook.md) - Practical risk mitigation outside constitutional text
-- [Constitutional Transition Act](regional-federalism/20-transition-act.md) - Safe, orderly transition to regional federalism
+- **[comprehensive/](constitutional-amendments/comprehensive/)** - Fundamental restructuring frameworks
+- **[single-topic/](constitutional-amendments/single-topic/)** - Targeted fixes within existing structure
+
+#### Comprehensive Frameworks
+
+| Plan | Status |
+|------|--------|
+| [Regional Federalism](constitutional-amendments/comprehensive/regional-federalism/) | Full plan (25+ documents) |
+| [Parliamentary Transition](constitutional-amendments/comprehensive/parliamentary-transition/) | Concept stage |
+| [Sortition Legislature](constitutional-amendments/comprehensive/sortition-legislature/) | Concept stage |
+| [Direct Democracy](constitutional-amendments/comprehensive/direct-democracy/) | Concept stage |
+| [Liquid Democracy](constitutional-amendments/comprehensive/liquid-democracy/) | Concept stage |
+| [Consensus Governance](constitutional-amendments/comprehensive/consensus-governance/) | Concept stage |
+
+#### Single-Topic Reforms
+
+| Plan | Description |
+|------|-------------|
+| [Election Reform](constitutional-amendments/single-topic/election-reform/) | National popular vote, certification procedures |
+| [Judicial Reform](constitutional-amendments/single-topic/judicial-reform/) | Term limits, mandatory jurisdiction |
+| [Impeachment Reform](constitutional-amendments/single-topic/impeachment-reform/) | Procedures, timelines, judicial review |
+| [Lobbying Reform](constitutional-amendments/single-topic/lobbying-reform/) | Anti-corruption, disclosure requirements |
+| [Federal Reserve Reform](constitutional-amendments/single-topic/federal-reserve-reform/) | Monetary policy independence |
+| [Military Civilian Control](constitutional-amendments/single-topic/military-civilian-control/) | Two-key authorization |
+| [Cyber Defense](constitutional-amendments/single-topic/cyber-defense/) | Digital security framework |
+| [Emergency Powers Reform](constitutional-amendments/single-topic/emergency-powers-reform/) | Time limits, restoration mandates |
+| [Congressional Reform](constitutional-amendments/single-topic/congressional-reform/) | Representation, ethics |
+| [Executive Reform](constitutional-amendments/single-topic/executive-reform/) | Order limits, accountability |
+| [Tax Reform](constitutional-amendments/single-topic/tax-reform/) | Taxation principles |
 
 ---
 
 ## Status
 
-This section is under development.
+Constitutional amendments are under active development. Other plan types (advocacy, legislative, electoral) are placeholders for future development.

@@ -26,6 +26,7 @@ Access to capital is consistently cited as the primary challenge facing small bu
 ### Application Rates and Outcomes
 
 **Who Applies for Credit**:
+
 - 43% of small businesses sought financing in past year
 - 25% did not apply due to discouragement (believed they would be rejected)
 - 18% applied but were denied
@@ -38,6 +39,7 @@ Access to capital is consistently cited as the primary challenge facing small bu
 ### Debt Financing
 
 **Traditional Bank Loans**:
+
 - Term loans (1-10 year repayment)
 - Lines of credit (revolving)
 - Equipment financing
@@ -45,6 +47,7 @@ Access to capital is consistently cited as the primary challenge facing small bu
 - SBA-guaranteed loans
 
 **Alternative Lending**:
+
 - Online term loans
 - Merchant cash advances
 - Invoice factoring
@@ -75,11 +78,13 @@ Access to capital is consistently cited as the primary challenge facing small bu
 The dramatic consolidation of the banking industry has severely impacted small business lending.
 
 **Community Bank Decline**:
+
 - 1985: 15,000+ community banks
 - 2000: 9,000 community banks
 - 2023: 4,500 community banks
 
 **Impact on Lending**:
+
 - Community banks provide 60% of small business loans but hold only 15% of banking assets
 - When community banks are acquired, small business lending in affected areas drops 20-40%
 - Large banks allocate less than 5% of assets to small business lending
@@ -93,6 +98,7 @@ The dramatic consolidation of the banking industry has severely impacted small b
 | 2000-Present | Algorithmic | Credit score, collateral, cash flow |
 
 **Problems with Algorithmic Lending**:
+
 - Doesn't capture business potential
 - Penalizes businesses without long credit histories
 - Cannot assess character or management quality
@@ -110,6 +116,7 @@ Most bank loans require collateral exceeding the loan amount:
 | Commercial RE | 75-80% LTV maximum |
 
 **Who This Excludes**:
+
 - Service businesses (no hard assets)
 - New businesses (no accumulated assets)
 - Businesses in leased spaces
@@ -147,6 +154,7 @@ Post-2008 regulations, while important for financial stability, increased lendin
 | Black | 46% | 29% | $87,000 |
 
 **Contributing Factors**:
+
 - Historical wealth disparities (less collateral)
 - Lower credit scores (historical discrimination)
 - Less access to banking relationships
@@ -166,6 +174,7 @@ Post-2008 regulations, while important for financial stability, increased lendin
 ### Geographic Disparities
 
 **Credit Deserts**:
+
 - 1,200+ counties have no community bank presence
 - Rural areas have 50% fewer lending options
 - Low-income urban neighborhoods: 15% fewer bank branches than 2008
@@ -207,6 +216,7 @@ Alternative and online lending has exploded since 2010:
 ### Predatory Practices
 
 **Merchant Cash Advances**:
+
 - Not technically loans, so not covered by lending laws
 - Daily or weekly automatic payments
 - "Factor rates" obscure true cost
@@ -214,6 +224,7 @@ Alternative and online lending has exploded since 2010:
 - Stacking multiple advances leads to debt spiral
 
 **Warning Signs of Predatory Lending**:
+
 - Factor rates instead of APR disclosure
 - Mandatory daily/weekly payment
 - Personal guarantees plus UCC liens
@@ -254,11 +265,13 @@ Most small businesses are unsuitable for VC:
 CDFIs provide an alternative to both traditional banks and predatory lenders:
 
 **Current Scale**:
+
 - 1,300+ certified CDFIs
 - $222 billion in assets
 - Serve 30 million people in underserved communities
 
 **Advantages**:
+
 - Mission-driven (not profit-maximizing)
 - Relationship-based lending
 - Technical assistance included
@@ -266,6 +279,7 @@ CDFIs provide an alternative to both traditional banks and predatory lenders:
 - Geographic focus on underserved areas
 
 **Limitations**:
+
 - Limited capital (need 10x current funding)
 - Cannot achieve scale individually
 - Reliant on federal funding
@@ -283,6 +297,7 @@ CDFIs provide an alternative to both traditional banks and predatory lenders:
 ### Credit Union Expansion
 
 Credit unions are expanding small business lending:
+
 - 2010: $38 billion in small business loans
 - 2023: $80 billion in small business loans
 - Member Business Loan cap raised to 27.5% of assets (2017)
@@ -294,12 +309,14 @@ Credit unions are expanding small business lending:
 Public banks could transform small business lending:
 
 **Bank of North Dakota Model**:
+
 - Partners with local banks on small business loans
 - Buys down interest rates
 - Provides loan guarantees
 - Student loan refinancing frees capital
 
 **Potential Impact**:
+
 - Estimated $50+ billion in additional lending capacity if 10 states created public banks
 - Lower interest rates through reduced profit requirements
 - Countercyclical lending during downturns

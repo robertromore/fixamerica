@@ -40,6 +40,7 @@ Require criminal conviction before permanent forfeiture of property.
 ### 2. Burden of Proof Shift
 
 **Current Problem:**
+
 | Jurisdiction | Current Burden | Standard |
 |--------------|----------------|----------|
 | Federal | Owner to prove innocence | Preponderance |
@@ -47,6 +48,7 @@ Require criminal conviction before permanent forfeiture of property.
 | Reform states | Government to prove guilt | Clear and convincing |
 
 **Reform Standard:**
+
 | Element | Government Must Prove |
 |---------|----------------------|
 | Property connection | By clear and convincing evidence |
@@ -75,6 +77,7 @@ Require criminal conviction before permanent forfeiture of property.
 ### 4. Close Equitable Sharing Loophole
 
 **The Problem:**
+
 ```
 State strengthens forfeiture law
         ↓
@@ -103,6 +106,7 @@ State and local law enforcement agencies shall not transfer property seized unde
 ### 5. Right to Counsel
 
 **Current Gap:**
+
 | Proceeding | Right to Counsel | Constitutional Basis |
 |------------|-----------------|---------------------|
 | Criminal | Yes | Sixth Amendment |
@@ -120,6 +124,7 @@ State and local law enforcement agencies shall not transfer property seized unde
 ### 6. Simplified Contest Procedures
 
 **Current Barriers:**
+
 | Barrier | Reform |
 |---------|--------|
 | Short deadlines | Extend to 60-90 days |
@@ -217,6 +222,7 @@ State and local law enforcement agencies shall not transfer property seized unde
 ### 14. Federal Preemption Prevention
 
 **Protect State Reforms:**
+
 - Prohibit federal agencies from adopting cases to circumvent state law
 - Require federal agencies to follow state standards in that state
 - Allow state attorneys general to challenge federal adoptions

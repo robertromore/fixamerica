@@ -16,7 +16,7 @@ To restore the separation between commercial banking and investment banking acti
 
 #### Draft Text
 
-```
+```text
 SEC. 1. SHORT TITLE.
 
 This Act may be cited as the "21st Century Glass-Steagall Act".
@@ -24,47 +24,47 @@ This Act may be cited as the "21st Century Glass-Steagall Act".
 SEC. 2. FINDINGS AND PURPOSE.
 
 (a) FINDINGS.—The Congress finds the following:
-    (1) The combination of commercial and investment banking activities 
-        contributed to the financial crisis of 2008 and subsequent 
+    (1) The combination of commercial and investment banking activities
+        contributed to the financial crisis of 2008 and subsequent
         taxpayer bailouts.
-    (2) The repeal of the Banking Act of 1933 (Glass-Steagall) by the 
-        Gramm-Leach-Bliley Act of 1999 eliminated structural protections 
+    (2) The repeal of the Banking Act of 1933 (Glass-Steagall) by the
+        Gramm-Leach-Bliley Act of 1999 eliminated structural protections
         that had maintained financial stability for over six decades.
-    (3) Institutions holding federally insured deposits receive an 
-        implicit government guarantee that should not subsidize 
+    (3) Institutions holding federally insured deposits receive an
+        implicit government guarantee that should not subsidize
         speculative activities.
-    (4) The Volcker Rule has proven insufficient to prevent conflicts 
+    (4) The Volcker Rule has proven insufficient to prevent conflicts
         of interest and excessive risk-taking.
 
 (b) PURPOSE.—The purpose of this Act is to—
-    (1) separate traditional banking activities from speculative 
+    (1) separate traditional banking activities from speculative
         trading and investment banking;
     (2) reduce systemic risk to the financial system;
     (3) protect taxpayers from future bailouts of speculative losses; and
-    (4) eliminate conflicts of interest between commercial banking and 
+    (4) eliminate conflicts of interest between commercial banking and
         securities activities.
 
 SEC. 3. PROHIBITION ON AFFILIATION.
 
-(a) IN GENERAL.—Effective 5 years after the date of enactment of this 
+(a) IN GENERAL.—Effective 5 years after the date of enactment of this
 Act, a depository institution may not—
-    (1) be or become an affiliate of any insurance company, securities 
+    (1) be or become an affiliate of any insurance company, securities
         entity, or swap entity;
-    (2) be in common ownership or control with any insurance company, 
+    (2) be in common ownership or control with any insurance company,
         securities entity, or swap entity; or
-    (3) engage in any activity that would cause such depository 
-        institution to qualify as an insurance company, securities 
+    (3) engage in any activity that would cause such depository
+        institution to qualify as an insurance company, securities
         entity, or swap entity.
 
-(b) EXCEPTION FOR HEDGING.—Subsection (a) shall not prohibit a 
+(b) EXCEPTION FOR HEDGING.—Subsection (a) shall not prohibit a
 depository institution from—
-    (1) engaging in derivatives transactions solely to hedge the 
-        institution's own interest rate, foreign currency, credit, or 
+    (1) engaging in derivatives transactions solely to hedge the
+        institution's own interest rate, foreign currency, credit, or
         commodity exposures arising from traditional banking activities;
-    (2) underwriting or dealing in obligations of the United States, 
-        general obligations of States and municipalities, or obligations 
+    (2) underwriting or dealing in obligations of the United States,
+        general obligations of States and municipalities, or obligations
         of government-sponsored enterprises; or
-    (3) purchasing securities for its own investment portfolio, 
+    (3) purchasing securities for its own investment portfolio,
         provided such securities are not acquired for resale.
 
 SEC. 4. DEFINITIONS.
@@ -72,43 +72,43 @@ SEC. 4. DEFINITIONS.
 For purposes of this Act:
 
 (a) DEPOSITORY INSTITUTION.—The term "depository institution" means—
-    (1) any insured depository institution as defined in section 3 of 
+    (1) any insured depository institution as defined in section 3 of
         the Federal Deposit Insurance Act;
-    (2) any bank holding company as defined in section 2 of the Bank 
+    (2) any bank holding company as defined in section 2 of the Bank
         Holding Company Act of 1956; and
-    (3) any affiliate or subsidiary of any entity described in 
+    (3) any affiliate or subsidiary of any entity described in
         paragraphs (1) or (2).
 
-(b) SECURITIES ENTITY.—The term "securities entity" means any person 
+(b) SECURITIES ENTITY.—The term "securities entity" means any person
 engaged in—
-    (1) the issuance, flotation, underwriting, public sale, or 
+    (1) the issuance, flotation, underwriting, public sale, or
         distribution of stocks, bonds, debentures, or other securities;
-    (2) acting as a securities broker or dealer under the Securities 
+    (2) acting as a securities broker or dealer under the Securities
         Exchange Act of 1934; or
     (3) proprietary trading in securities, commodities, or derivatives.
 
 (c) SWAP ENTITY.—The term "swap entity" means—
     (1) any swap dealer registered under the Commodity Exchange Act; or
-    (2) any security-based swap dealer registered under the Securities 
+    (2) any security-based swap dealer registered under the Securities
         Exchange Act of 1934.
 
 SEC. 5. DIVESTITURE REQUIREMENTS.
 
-(a) TRANSITION PERIOD.—Any depository institution that, on the date of 
-enactment of this Act, does not comply with section 3 shall have 5 
+(a) TRANSITION PERIOD.—Any depository institution that, on the date of
+enactment of this Act, does not comply with section 3 shall have 5
 years from such date to come into compliance.
 
-(b) DIVESTITURE PLAN.—Not later than 1 year after the date of enactment 
-of this Act, any depository institution subject to subsection (a) 
-shall submit to the appropriate Federal banking agency a plan for 
-divestiture that describes how the institution will come into 
+(b) DIVESTITURE PLAN.—Not later than 1 year after the date of enactment
+of this Act, any depository institution subject to subsection (a)
+shall submit to the appropriate Federal banking agency a plan for
+divestiture that describes how the institution will come into
 compliance within the 5-year transition period.
 
-(c) REGULATORY GUIDANCE.—Not later than 180 days after the date of 
-enactment of this Act, the appropriate Federal banking agencies shall 
-issue joint guidance on acceptable methods for divestiture, which may 
+(c) REGULATORY GUIDANCE.—Not later than 180 days after the date of
+enactment of this Act, the appropriate Federal banking agencies shall
+issue joint guidance on acceptable methods for divestiture, which may
 include—
-    (1) spin-off of securities or swap affiliates as separate 
+    (1) spin-off of securities or swap affiliates as separate
         publicly-traded companies;
     (2) sale of securities or swap affiliates to unaffiliated purchasers;
     (3) wind-down of securities or swap activities; or
@@ -116,15 +116,15 @@ include—
 
 SEC. 6. ENFORCEMENT.
 
-(a) CIVIL PENALTIES.—Any depository institution that violates section 3 
-after the end of the 5-year transition period shall be subject to a 
+(a) CIVIL PENALTIES.—Any depository institution that violates section 3
+after the end of the 5-year transition period shall be subject to a
 civil penalty of not more than—
     (1) $50,000,000 per day for each day such violation continues; or
-    (2) twice the amount of any gain or loss avoided as a result of 
+    (2) twice the amount of any gain or loss avoided as a result of
         such violation, whichever is greater.
 
-(b) CHARTER REVOCATION.—The appropriate Federal banking agency may 
-revoke the charter of any depository institution that fails to come 
+(b) CHARTER REVOCATION.—The appropriate Federal banking agency may
+revoke the charter of any depository institution that fails to come
 into compliance with section 3 within the 5-year transition period.
 
 SEC. 7. EFFECTIVE DATE.
@@ -135,12 +135,14 @@ This Act shall take effect immediately upon enactment.
 #### Explanation
 
 **Key Features:**
+
 - Restores the core Glass-Steagall separation between commercial and investment banking
 - Five-year transition period allows orderly divestiture
 - Preserves legitimate hedging activities for bank risk management
 - Substantial penalties for non-compliance
 
 **Differences from Original Glass-Steagall:**
+
 - Explicitly covers derivatives and swap activities
 - Covers bank holding company structures
 - Modernized definitions for current market structure
@@ -158,6 +160,7 @@ The legislation is within Congress's power under the Commerce Clause to regulate
 #### Refinements
 
 Consider adding:
+
 - Extended transition for institutions above $1 trillion
 - Specific guidance on valuation of divested entities
 - Employee protection provisions during restructuring
@@ -172,7 +175,7 @@ To impose a modest tax on financial transactions, reducing excessive speculation
 
 #### Draft Text
 
-```
+```text
 SEC. 1. SHORT TITLE.
 
 This Act may be cited as the "Wall Street Tax Act".
@@ -180,112 +183,113 @@ This Act may be cited as the "Wall Street Tax Act".
 SEC. 2. FINDINGS.
 
 The Congress finds the following:
-    (1) High-frequency trading and excessive speculation contribute to 
+    (1) High-frequency trading and excessive speculation contribute to
         market volatility without adding productive value to the economy.
-    (2) The financial sector has grown from 3 percent of GDP in the 
-        1950s to over 8 percent today, directing resources toward 
+    (2) The financial sector has grown from 3 percent of GDP in the
+        1950s to over 8 percent today, directing resources toward
         speculation rather than productive investment.
-    (3) Financial transaction taxes are successfully employed in the 
+    (3) Financial transaction taxes are successfully employed in the
         United Kingdom, France, Italy, and other developed economies.
-    (4) Revenue from such taxes can fund regulatory enforcement, 
+    (4) Revenue from such taxes can fund regulatory enforcement,
         infrastructure investment, and deficit reduction.
 
 SEC. 3. IMPOSITION OF TAX ON FINANCIAL TRANSACTIONS.
 
-(a) IN GENERAL.—Chapter 36 of the Internal Revenue Code of 1986 is 
+(a) IN GENERAL.—Chapter 36 of the Internal Revenue Code of 1986 is
 amended by adding at the end the following new subchapter:
 
 "SUBCHAPTER E—TAX ON FINANCIAL TRANSACTIONS
 
 "SEC. 4475. TAX ON SECURITIES TRANSACTIONS.
 
-"(a) IMPOSITION OF TAX.—There is hereby imposed a tax on each 
+"(a) IMPOSITION OF TAX.—There is hereby imposed a tax on each
 covered transaction with respect to any security.
 
-"(b) COVERED TRANSACTION.—For purposes of this section, the term 
+"(b) COVERED TRANSACTION.—For purposes of this section, the term
 'covered transaction' means—
     "(1) any purchase of a security if—
-        "(A) such purchase occurs on a trading facility located in the 
+        "(A) such purchase occurs on a trading facility located in the
             United States; or
         "(B) the purchaser or seller is a United States person; and
-    "(2) any other transaction in a security the economic substance of 
+    "(2) any other transaction in a security the economic substance of
         which is equivalent to a purchase.
 
 "(c) TAX RATES.—
-    "(1) STOCKS.—In the case of a covered transaction with respect to 
-        a stock, the tax imposed by subsection (a) shall be equal to 
+    "(1) STOCKS.—In the case of a covered transaction with respect to
+        a stock, the tax imposed by subsection (a) shall be equal to
         0.1 percent of the value of such transaction.
-    "(2) BONDS.—In the case of a covered transaction with respect to a 
-        bond or other debt instrument, the tax imposed by subsection 
-        (a) shall be equal to 0.01 percent of the value of such 
+    "(2) BONDS.—In the case of a covered transaction with respect to a
+        bond or other debt instrument, the tax imposed by subsection
+        (a) shall be equal to 0.01 percent of the value of such
         transaction.
-    "(3) DERIVATIVES.—In the case of a covered transaction with respect 
-        to a derivative, the tax imposed by subsection (a) shall be 
-        equal to 0.01 percent of the notional principal amount of such 
+    "(3) DERIVATIVES.—In the case of a covered transaction with respect
+        to a derivative, the tax imposed by subsection (a) shall be
+        equal to 0.01 percent of the notional principal amount of such
         derivative.
 
 "(d) EXCEPTIONS.—
-    "(1) INITIAL ISSUANCE.—The tax imposed by subsection (a) shall not 
+    "(1) INITIAL ISSUANCE.—The tax imposed by subsection (a) shall not
         apply to the initial issuance of any security.
-    "(2) TAX-ADVANTAGED RETIREMENT ACCOUNTS.—The tax imposed by 
-        subsection (a) shall not apply to any transaction by or on 
+    "(2) TAX-ADVANTAGED RETIREMENT ACCOUNTS.—The tax imposed by
+        subsection (a) shall not apply to any transaction by or on
         behalf of—
         "(A) any qualified retirement plan as defined in section 4974(c);
         "(B) any individual retirement account or annuity; or
         "(C) any State or local government retirement plan.
-    "(3) MARKET MAKERS.—The Secretary may by regulation provide 
-        reduced rates or exemptions for bona fide market-making 
-        activities, provided that such reduced rates do not create 
+    "(3) MARKET MAKERS.—The Secretary may by regulation provide
+        reduced rates or exemptions for bona fide market-making
+        activities, provided that such reduced rates do not create
         opportunities for tax avoidance.
 
 "(e) LIABILITY.—
-    "(1) IN GENERAL.—The tax imposed by this section shall be paid by 
-        the trading facility or broker through which the transaction 
+    "(1) IN GENERAL.—The tax imposed by this section shall be paid by
+        the trading facility or broker through which the transaction
         is executed.
-    "(2) JOINT LIABILITY.—Each party to the transaction shall be 
-        jointly and severally liable for the tax if not paid by the 
+    "(2) JOINT LIABILITY.—Each party to the transaction shall be
+        jointly and severally liable for the tax if not paid by the
         trading facility or broker.
 
 "SEC. 4476. ANTI-AVOIDANCE RULES.
 
-"(a) IN GENERAL.—If the Secretary determines that a transaction or 
-series of transactions has been structured with a principal purpose 
-of avoiding the tax imposed by section 4475, such transaction or 
-transactions shall be recharacterized and taxed according to their 
+"(a) IN GENERAL.—If the Secretary determines that a transaction or
+series of transactions has been structured with a principal purpose
+of avoiding the tax imposed by section 4475, such transaction or
+transactions shall be recharacterized and taxed according to their
 economic substance.
 
-"(b) OFFSHORE TRANSACTIONS.—Any transaction that would be subject to 
-tax under section 4475 if executed in the United States shall be 
-subject to such tax if executed offshore by or on behalf of a United 
+"(b) OFFSHORE TRANSACTIONS.—Any transaction that would be subject to
+tax under section 4475 if executed in the United States shall be
+subject to such tax if executed offshore by or on behalf of a United
 States person."
 
-(b) CLERICAL AMENDMENT.—The table of subchapters for chapter 36 of 
-the Internal Revenue Code of 1986 is amended by adding at the end the 
+(b) CLERICAL AMENDMENT.—The table of subchapters for chapter 36 of
+the Internal Revenue Code of 1986 is amended by adding at the end the
 following:
 
     "SUBCHAPTER E. TAX ON FINANCIAL TRANSACTIONS"
 
 SEC. 4. ALLOCATION OF REVENUES.
 
-Revenues collected pursuant to this Act shall be deposited in the 
+Revenues collected pursuant to this Act shall be deposited in the
 general fund of the Treasury and shall be available for—
-    (a) appropriation to the Securities and Exchange Commission and 
-        Commodity Futures Trading Commission for enhanced enforcement 
+    (a) appropriation to the Securities and Exchange Commission and
+        Commodity Futures Trading Commission for enhanced enforcement
         and market surveillance (first $500,000,000 annually);
-    (b) appropriation to the Consumer Financial Protection Bureau 
+    (b) appropriation to the Consumer Financial Protection Bureau
         (next $200,000,000 annually); and
     (c) general purposes.
 
 SEC. 5. EFFECTIVE DATE.
 
-The amendments made by this Act shall apply to transactions occurring 
-after the date that is 180 days after the date of enactment of this 
+The amendments made by this Act shall apply to transactions occurring
+after the date that is 180 days after the date of enactment of this
 Act.
 ```
 
 #### Explanation
 
 **Key Features:**
+
 - Tax rates are low enough to not impede legitimate transactions
 - Higher rate on stocks reflects higher speculation concerns
 - Retirement savings explicitly exempted
@@ -293,6 +297,7 @@ Act.
 - Dedicated funding for regulatory agencies
 
 **Revenue Estimate:**
+
 - Stock transactions: $50-80 billion annually
 - Bond transactions: $20-40 billion annually
 - Derivative transactions: $30-50 billion annually
@@ -312,7 +317,7 @@ To establish a national usury limit, prohibit predatory lending practices, and p
 
 #### Draft Text
 
-```
+```text
 SEC. 1. SHORT TITLE.
 
 This Act may be cited as the "Predatory Lending Prevention Act".
@@ -320,95 +325,95 @@ This Act may be cited as the "Predatory Lending Prevention Act".
 SEC. 2. FINDINGS.
 
 The Congress finds the following:
-    (1) Payday loans, auto title loans, and similar products typically 
+    (1) Payday loans, auto title loans, and similar products typically
         carry annual percentage rates of 300 to 500 percent.
-    (2) These products trap borrowers in cycles of debt, with the 
+    (2) These products trap borrowers in cycles of debt, with the
         average payday borrower taking 8 loans per year.
-    (3) Predatory lending extracts an estimated $9 billion annually 
+    (3) Predatory lending extracts an estimated $9 billion annually
         from low-income Americans.
-    (4) The Military Lending Act successfully protects servicemembers 
+    (4) The Military Lending Act successfully protects servicemembers
         with a 36 percent rate cap.
-    (5) All Americans deserve the same protection from predatory 
+    (5) All Americans deserve the same protection from predatory
         lending as military servicemembers.
 
 SEC. 3. NATIONAL USURY LIMIT.
 
-(a) RATE CAP.—Notwithstanding any other provision of law, including 
-section 521 of the Depository Institutions Deregulation and Monetary 
-Control Act of 1980 (12 U.S.C. 1831d) and section 85 of the National 
-Bank Act (12 U.S.C. 85), no creditor may impose an annual percentage 
-rate greater than 36 percent with respect to any extension of consumer 
+(a) RATE CAP.—Notwithstanding any other provision of law, including
+section 521 of the Depository Institutions Deregulation and Monetary
+Control Act of 1980 (12 U.S.C. 1831d) and section 85 of the National
+Bank Act (12 U.S.C. 85), no creditor may impose an annual percentage
+rate greater than 36 percent with respect to any extension of consumer
 credit.
 
-(b) CALCULATION OF APR.—For purposes of this section, the annual 
-percentage rate shall be calculated in accordance with regulations 
-promulgated by the Consumer Financial Protection Bureau, and shall 
+(b) CALCULATION OF APR.—For purposes of this section, the annual
+percentage rate shall be calculated in accordance with regulations
+promulgated by the Consumer Financial Protection Bureau, and shall
 include—
     (1) all interest;
-    (2) all fees charged in connection with the extension of credit, 
+    (2) all fees charged in connection with the extension of credit,
         including—
         (A) application fees;
         (B) origination fees;
         (C) credit insurance premiums;
         (D) debt cancellation fees;
-        (E) fees for ancillary products sold in connection with the 
+        (E) fees for ancillary products sold in connection with the
             credit; and
         (F) late fees and prepayment penalties; and
-    (3) any other charge or fee imposed as a condition of extending 
+    (3) any other charge or fee imposed as a condition of extending
         credit.
 
 SEC. 4. PROHIBITED PRACTICES.
 
-(a) LOAN FLIPPING.—No creditor may refinance a consumer credit 
-transaction if, within the previous 60 days, the creditor or an 
-affiliated creditor extended credit to the same borrower, unless the 
+(a) LOAN FLIPPING.—No creditor may refinance a consumer credit
+transaction if, within the previous 60 days, the creditor or an
+affiliated creditor extended credit to the same borrower, unless the
 refinancing is in the borrower's interest.
 
-(b) MANDATORY ARBITRATION.—No creditor may require, as a condition 
-of extending consumer credit, that the borrower agree to submit any 
+(b) MANDATORY ARBITRATION.—No creditor may require, as a condition
+of extending consumer credit, that the borrower agree to submit any
 dispute to binding arbitration.
 
-(c) BALLOON PAYMENTS.—No creditor may require any balloon payment 
-in connection with a consumer credit transaction with a term of less 
+(c) BALLOON PAYMENTS.—No creditor may require any balloon payment
+in connection with a consumer credit transaction with a term of less
 than 5 years.
 
-(d) WAGE ASSIGNMENTS.—No creditor may require, as a condition of 
+(d) WAGE ASSIGNMENTS.—No creditor may require, as a condition of
 extending consumer credit, an assignment of wages.
 
-(e) UNAUTHORIZED DEBITING.—No creditor may debit a borrower's bank 
-account for repayment without prior authorization for each specific 
+(e) UNAUTHORIZED DEBITING.—No creditor may debit a borrower's bank
+account for repayment without prior authorization for each specific
 payment.
 
-(f) VEHICLE DISABLING.—No creditor may require installation of or 
-use a vehicle disabling device or GPS tracking device as a condition 
+(f) VEHICLE DISABLING.—No creditor may require installation of or
+use a vehicle disabling device or GPS tracking device as a condition
 of extending credit for a motor vehicle.
 
 SEC. 5. ABILITY TO REPAY.
 
-(a) IN GENERAL.—No creditor may extend consumer credit unless the 
-creditor makes a reasonable determination, based on verified and 
-documented information, that the consumer has the ability to repay 
+(a) IN GENERAL.—No creditor may extend consumer credit unless the
+creditor makes a reasonable determination, based on verified and
+documented information, that the consumer has the ability to repay
 the credit obligation.
 
-(b) MINIMUM STANDARDS.—In making the determination required by 
+(b) MINIMUM STANDARDS.—In making the determination required by
 subsection (a), the creditor shall at minimum—
     (1) obtain and verify the consumer's income or assets;
     (2) obtain and verify the consumer's current debt obligations;
-    (3) determine that the consumer has sufficient residual income 
-        to meet basic living expenses while repaying the credit 
+    (3) determine that the consumer has sufficient residual income
+        to meet basic living expenses while repaying the credit
         obligation; and
     (4) document the basis for the determination in the credit file.
 
 SEC. 6. ENFORCEMENT.
 
-(a) CFPB ENFORCEMENT.—The Consumer Financial Protection Bureau shall 
+(a) CFPB ENFORCEMENT.—The Consumer Financial Protection Bureau shall
 have authority to enforce this Act.
 
-(b) STATE ENFORCEMENT.—The attorney general of any State may bring 
+(b) STATE ENFORCEMENT.—The attorney general of any State may bring
 an action in the name of the State to enforce this Act.
 
-(c) PRIVATE RIGHT OF ACTION.—Any person injured by a violation of 
-this Act may bring an action in any court of competent jurisdiction 
+(c) PRIVATE RIGHT OF ACTION.—Any person injured by a violation of
+this Act may bring an action in any court of competent jurisdiction
 for—
     (1) actual damages;
     (2) statutory damages of not less than $5,000 per violation;
@@ -416,19 +421,19 @@ for—
     (4) reasonable attorneys' fees and costs; and
     (5) any other appropriate relief.
 
-(d) CRIMINAL PENALTIES.—Any person who willfully and knowingly 
-violates section 3 or 4 of this Act shall be guilty of a 
-misdemeanor and shall be fined not more than $10,000 or imprisoned 
+(d) CRIMINAL PENALTIES.—Any person who willfully and knowingly
+violates section 3 or 4 of this Act shall be guilty of a
+misdemeanor and shall be fined not more than $10,000 or imprisoned
 not more than 1 year, or both.
 
 SEC. 7. PREEMPTION.
 
-(a) NO PREEMPTION OF STRONGER STATE LAWS.—This Act shall not be 
-construed to preempt any State law that provides greater protection 
+(a) NO PREEMPTION OF STRONGER STATE LAWS.—This Act shall not be
+construed to preempt any State law that provides greater protection
 to consumers than is provided by this Act.
 
-(b) PREEMPTION OF WEAKER STATE LAWS.—This Act shall preempt any 
-State law that permits annual percentage rates greater than 36 
+(b) PREEMPTION OF WEAKER STATE LAWS.—This Act shall preempt any
+State law that permits annual percentage rates greater than 36
 percent.
 
 SEC. 8. EFFECTIVE DATE.
@@ -439,6 +444,7 @@ This Act shall take effect 180 days after the date of enactment.
 #### Explanation
 
 **Key Features:**
+
 - 36% APR cap (same as Military Lending Act)
 - Comprehensive calculation of APR including all fees
 - Prohibited practices address common predatory techniques
@@ -456,7 +462,7 @@ The 36% rate cap would apply to state-chartered as well as federally-chartered i
 
 ### 1. State Consumer Lending Protection Act
 
-```
+```text
 SECTION 1. SHORT TITLE.
 
 This Act may be cited as the "[State] Consumer Lending Protection Act".
@@ -464,86 +470,86 @@ This Act may be cited as the "[State] Consumer Lending Protection Act".
 SECTION 2. DEFINITIONS.
 
 As used in this Act:
-    (a) "Annual percentage rate" means the annual percentage rate 
-        calculated in accordance with the federal Truth in Lending Act, 
+    (a) "Annual percentage rate" means the annual percentage rate
+        calculated in accordance with the federal Truth in Lending Act,
         plus all fees charged in connection with the loan.
-    (b) "Consumer loan" means any loan made to a natural person 
+    (b) "Consumer loan" means any loan made to a natural person
         primarily for personal, family, or household purposes.
-    (c) "Payday loan" means a consumer loan with a term of less than 
+    (c) "Payday loan" means a consumer loan with a term of less than
         90 days.
 
 SECTION 3. RATE LIMITS.
 
-    (a) No person shall make a consumer loan at an annual percentage 
+    (a) No person shall make a consumer loan at an annual percentage
         rate exceeding 36 percent.
-    (b) No person shall make a payday loan at an annual percentage 
+    (b) No person shall make a payday loan at an annual percentage
         rate exceeding 36 percent.
-    (c) Any loan made in violation of this section is void and 
+    (c) Any loan made in violation of this section is void and
         unenforceable.
 
 SECTION 4. DATABASE REQUIREMENT.
 
-    (a) The [Department/Division] shall establish and maintain a 
-        real-time database of all consumer loans with terms of less 
+    (a) The [Department/Division] shall establish and maintain a
+        real-time database of all consumer loans with terms of less
         than 180 days.
-    (b) No lender shall make such a loan without first querying the 
-        database to determine whether the borrower has an outstanding 
+    (b) No lender shall make such a loan without first querying the
+        database to determine whether the borrower has an outstanding
         loan from any lender.
-    (c) No lender shall make a loan to a borrower who has an 
-        outstanding loan that would result in total loan obligations 
+    (c) No lender shall make a loan to a borrower who has an
+        outstanding loan that would result in total loan obligations
         exceeding 25 percent of the borrower's verified monthly income.
 
 SECTION 5. COOLING OFF PERIOD.
 
-    (a) After a consumer has repaid a payday loan, no lender shall 
-        make another payday loan to that consumer for a period of at 
+    (a) After a consumer has repaid a payday loan, no lender shall
+        make another payday loan to that consumer for a period of at
         least 60 days.
-    (b) No consumer may have more than 3 payday loans in any 12-month 
+    (b) No consumer may have more than 3 payday loans in any 12-month
         period.
 
 SECTION 6. EXTENDED PAYMENT PLAN.
 
-    (a) A consumer may, at any time before default, elect to convert 
-        a payday loan to an installment loan payable in at least 4 
+    (a) A consumer may, at any time before default, elect to convert
+        a payday loan to an installment loan payable in at least 4
         equal monthly installments, with no additional fees or charges.
-    (b) A lender shall provide written notice of this right at the 
+    (b) A lender shall provide written notice of this right at the
         time the loan is made.
 
 SECTION 7. ENFORCEMENT.
 
     (a) The [Department/Division] shall enforce this Act.
     (b) The [Attorney General] may bring actions to enforce this Act.
-    (c) Any person injured by a violation of this Act may bring an 
-        action for actual damages, statutory damages of $1,000 per 
+    (c) Any person injured by a violation of this Act may bring an
+        action for actual damages, statutory damages of $1,000 per
         violation, and reasonable attorneys' fees.
 
 SECTION 8. LICENSURE.
 
-    (a) No person shall engage in the business of making consumer 
+    (a) No person shall engage in the business of making consumer
         loans in this State without a license from the [Department].
-    (b) The [Department] may revoke the license of any person who 
+    (b) The [Department] may revoke the license of any person who
         violates this Act.
 
 SECTION 9. PREEMPTION.
 
-This Act shall not apply to any national bank, federal savings 
-association, or federal credit union that is subject to federal 
+This Act shall not apply to any national bank, federal savings
+association, or federal credit union that is subject to federal
 preemption, except to the extent permitted by federal law.
 
 SECTION 10. SEVERABILITY.
 
-If any provision of this Act is held invalid, the invalidity shall 
+If any provision of this Act is held invalid, the invalidity shall
 not affect other provisions.
 
 SECTION 11. EFFECTIVE DATE.
 
-This Act shall take effect on [date], except that Section 4 shall 
+This Act shall take effect on [date], except that Section 4 shall
 take effect on [date 1 year after enactment].
 ```
 
 ### 2. State Bank Merger Review Act
 
-```
+```text
 SECTION 1. SHORT TITLE.
 
 This Act may be cited as the "[State] Bank Merger Review Act".
@@ -551,44 +557,44 @@ This Act may be cited as the "[State] Bank Merger Review Act".
 SECTION 2. FINDINGS.
 
 The Legislature finds that:
-    (a) Banking consolidation has reduced competition and access to 
+    (a) Banking consolidation has reduced competition and access to
         financial services in [State];
-    (b) Bank mergers can harm communities through branch closures, 
+    (b) Bank mergers can harm communities through branch closures,
         job losses, and reduced lending;
-    (c) Enhanced state review of bank mergers is necessary to protect 
+    (c) Enhanced state review of bank mergers is necessary to protect
         [State] residents and communities.
 
 SECTION 3. STATE REVIEW OF BANK MERGERS.
 
-    (a) No merger involving a state-chartered bank or the acquisition 
-        of any bank with branches in [State] shall be completed until 
-        the [Banking Commissioner] has reviewed and approved the 
+    (a) No merger involving a state-chartered bank or the acquisition
+        of any bank with branches in [State] shall be completed until
+        the [Banking Commissioner] has reviewed and approved the
         merger.
     (b) The [Banking Commissioner] shall consider:
         (1) The effect of the merger on competition;
-        (2) The effect of the merger on the convenience and needs of 
+        (2) The effect of the merger on the convenience and needs of
             the communities served;
-        (3) The record of the acquiring institution in meeting 
+        (3) The record of the acquiring institution in meeting
             community credit needs;
         (4) The proposed closing of any branches;
         (5) Employment effects in [State]; and
-        (6) Any community benefit commitments made by the merging 
+        (6) Any community benefit commitments made by the merging
             parties.
 
 SECTION 4. PUBLIC HEARING.
 
-    (a) For any merger involving institutions with combined assets 
-        exceeding $10 billion, the [Banking Commissioner] shall hold 
-        a public hearing in each metropolitan area where the merged 
+    (a) For any merger involving institutions with combined assets
+        exceeding $10 billion, the [Banking Commissioner] shall hold
+        a public hearing in each metropolitan area where the merged
         institution would have a significant presence.
-    (b) Notice of the hearing shall be published at least 30 days in 
-        advance and shall include information about how members of 
+    (b) Notice of the hearing shall be published at least 30 days in
+        advance and shall include information about how members of
         the public may submit comments.
 
 SECTION 5. COMMUNITY BENEFIT AGREEMENT.
 
-    (a) The [Banking Commissioner] may condition approval of a merger 
-        on the execution of a community benefit agreement that may 
+    (a) The [Banking Commissioner] may condition approval of a merger
+        on the execution of a community benefit agreement that may
         include:
         (1) Lending commitments for low- and moderate-income borrowers;
         (2) Branch retention or expansion commitments;
@@ -596,15 +602,15 @@ SECTION 5. COMMUNITY BENEFIT AGREEMENT.
         (4) Small business lending targets;
         (5) Employment commitments; and
         (6) Financial literacy and community development programs.
-    (b) Community benefit agreements shall be enforceable by the 
-        [Banking Commissioner] and by community organizations that 
+    (b) Community benefit agreements shall be enforceable by the
+        [Banking Commissioner] and by community organizations that
         are parties to the agreement.
 
 SECTION 6. ANNUAL REPORTING.
 
-Any institution that has completed a merger subject to this Act shall 
-report annually to the [Banking Commissioner] on its compliance with 
-any community benefit agreement and on its Community Reinvestment Act 
+Any institution that has completed a merger subject to this Act shall
+report annually to the [Banking Commissioner] on its compliance with
+any community benefit agreement and on its Community Reinvestment Act
 performance rating.
 
 SECTION 7. EFFECTIVE DATE.
@@ -614,7 +620,7 @@ This Act shall take effect immediately upon enactment.
 
 ### 3. State Credit Rating Agency Reform Act
 
-```
+```text
 SECTION 1. SHORT TITLE.
 
 This Act may be cited as the "[State] Credit Rating Agency Reform Act".
@@ -622,42 +628,42 @@ This Act may be cited as the "[State] Credit Rating Agency Reform Act".
 SECTION 2. DEFINITIONS.
 
 As used in this Act:
-    (a) "Credit rating agency" means any entity that provides ratings 
+    (a) "Credit rating agency" means any entity that provides ratings
         of creditworthiness of securities.
-    (b) "Qualified purchaser" means the State, any political 
-        subdivision, any public pension fund, or any public entity 
+    (b) "Qualified purchaser" means the State, any political
+        subdivision, any public pension fund, or any public entity
         that purchases securities.
 
 SECTION 3. DISCLOSURE REQUIREMENTS.
 
-Before any qualified purchaser may purchase a security, the seller 
+Before any qualified purchaser may purchase a security, the seller
 must provide disclosure of:
     (a) All credit ratings assigned to the security;
     (b) The fee paid to each credit rating agency for the rating;
     (c) Whether the rating was solicited or unsolicited;
     (d) The rating methodology used; and
-    (e) Any conflicts of interest between the rating agency and the 
+    (e) Any conflicts of interest between the rating agency and the
         issuer.
 
 SECTION 4. PROHIBITION ON RATINGS-ONLY RELIANCE.
 
-    (a) No qualified purchaser shall purchase any security based 
+    (a) No qualified purchaser shall purchase any security based
         solely on its credit rating.
-    (b) Each qualified purchaser shall develop internal credit 
-        assessment processes or retain independent credit advisors 
+    (b) Each qualified purchaser shall develop internal credit
+        assessment processes or retain independent credit advisors
         to supplement credit rating agency ratings.
 
 SECTION 5. RIGHT OF ACTION.
 
-    (a) Any qualified purchaser that suffers a loss on a security 
-        where the credit rating was materially inaccurate may bring 
+    (a) Any qualified purchaser that suffers a loss on a security
+        where the credit rating was materially inaccurate may bring
         an action against the credit rating agency for:
         (1) Actual damages;
         (2) Reasonable attorneys' fees; and
         (3) Costs of litigation.
-    (b) The credit rating agency shall be liable unless it 
-        demonstrates that the rating was based on a reasonable 
-        methodology and the agency did not know or have reason to 
+    (b) The credit rating agency shall be liable unless it
+        demonstrates that the rating was based on a reasonable
+        methodology and the agency did not know or have reason to
         know of facts that would render the rating inaccurate.
 
 SECTION 6. EFFECTIVE DATE.
@@ -672,6 +678,7 @@ This Act shall take effect 180 days after enactment.
 ### Enhanced Stress Testing (Federal Reserve)
 
 The Federal Reserve should:
+
 1. Increase the severity of stress scenarios to include 40%+ declines in asset values
 2. Include climate transition scenarios in stress testing
 3. Require annual stress tests for all banks over $100 billion
@@ -681,6 +688,7 @@ The Federal Reserve should:
 ### Living Will Enhancement (FDIC/Fed)
 
 Living will requirements should:
+
 1. Require annual submission (not biennial)
 2. Include specific liquidity and operational continuity plans
 3. Require tested resolution procedures (not just paper plans)
@@ -785,24 +793,28 @@ Living will requirements should:
 ### General Implementation Concerns
 
 **Enforcement Resources:**
+
 - Current regulatory budgets are inadequate for comprehensive enforcement
 - Industry spends 10-20x more on compliance/evasion than regulators spend on oversight
 - Technology gap leaves regulators unable to monitor high-speed trading and complex structures
 - Staff turnover (revolving door) depletes institutional expertise
 
 **Political Sustainability:**
+
 - Reforms can be reversed by subsequent administrations
 - Industry lobbying is continuous; reform advocacy is episodic
 - Economic Growth Act of 2018 showed rapid erosion of Dodd-Frank
 - Building durable coalitions requires sustained investment
 
 **Coordination Challenges:**
+
 - Multiple agencies with overlapping jurisdictions create gaps and inconsistencies
 - Information sharing among agencies remains inadequate
 - International coordination necessary but difficult to achieve
 - State-federal coordination essential but often contentious
 
 **Emerging Risks:**
+
 - Private credit market growing rapidly outside regulatory perimeter
 - AI in lending creates new discrimination and manipulation risks
 - Climate transition poses unprecedented financial stability challenges

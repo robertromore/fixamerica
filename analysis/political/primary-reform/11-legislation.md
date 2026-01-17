@@ -1,12 +1,20 @@
-# Primary Reform: Legislation and Legal Framework
+# Primary Reform: Legislation
 
 ## Overview
 
-Primary election reform can be achieved through state legislation or ballot initiatives—no federal action is required for state elections. This document provides model legislation for open primaries, top-two/top-four systems, and primary-election ranked-choice voting.
+Primary election reform occurs primarily at the state level through legislation or ballot initiatives. This document provides model legislation for the major reform approaches: open primaries, top-two systems, top-four with ranked choice voting, and supporting reforms like same-day registration and sore loser law repeal. Federal legislation plays a limited but potentially important role in setting standards for congressional primaries.
+
+### Legislative Approach
+
+| Level | Authority | Primary Reform Options |
+|-------|-----------|----------------------|
+| State | Full authority | Open primaries, top-two/four, RCV, registration rules |
+| Federal | Limited | Standards for congressional primaries, grants |
+| Local | Varies by state | Municipal primary reform where authorized |
 
 ## State Model Legislation
 
-### Open Primary Act (Model)
+### Model 1: Open Primary Act
 
 **Purpose**: Allow all registered voters to participate in primary elections regardless of party affiliation.
 
@@ -25,58 +33,79 @@ SECTION 2. DEFINITIONS.
 (b) "Party primary" means a primary election to select a party's
     nominees for the general election.
 
+(c) "Registered voter" means any person registered to vote in
+    this State, regardless of party affiliation or lack thereof.
+
 SECTION 3. OPEN PRIMARY ELECTION.
 
-(a) Any registered voter may vote in the primary election of
-    their choice.
+(a) IN GENERAL.—Any registered voter may vote in the primary election
+    of their choice.
 
-(b) A voter may select only one party's primary ballot per election.
+(b) SINGLE PARTY BALLOT.—A voter may select only one party's primary
+    ballot per election.
 
-(c) A voter's choice of primary ballot shall not affect their
-    party registration status.
+(c) REGISTRATION STATUS.—A voter's choice of primary ballot shall not
+    affect their party registration status.
 
-SECTION 4. PARTY ASSOCIATION.
+(d) BALLOT SECRECY.—No record shall be maintained of which party's
+    primary ballot a voter selected, except as necessary for
+    election administration.
 
-(a) Nothing in this Act shall affect the right of political
-    parties to—
+SECTION 4. PARTY ASSOCIATION RIGHTS.
+
+(a) Nothing in this Act shall affect the right of political parties to—
     (1) endorse candidates;
-    (2) provide support to candidates;
-    (3) establish party membership criteria.
+    (2) provide financial and other support to candidates;
+    (3) establish party membership criteria;
+    (4) conduct internal party business.
 
-(b) Parties may not prohibit candidates from appearing on their
-    primary ballot based on the party registration of voters
-    who may participate.
+(b) CANDIDATE ACCESS.—Parties may not prohibit candidates meeting
+    ballot access requirements from appearing on their primary ballot.
 
 SECTION 5. BALLOT ACCESS.
 
-(a) Any candidate who meets the signature requirements for the
-    applicable office may appear on a party's primary ballot.
+(a) Any candidate who meets the signature or filing fee requirements
+    for the applicable office may appear on a party's primary ballot.
 
 (b) A candidate may appear on only one party's primary ballot.
 
-(c) Signature requirements shall be the same as under current law.
+(c) Signature and fee requirements shall be the same as under prior law.
 
 SECTION 6. IMPLEMENTATION.
 
 (a) The [Secretary of State] shall implement this Act for primary
     elections beginning [date].
 
-(b) The [Secretary] shall provide voter education materials
-    explaining the open primary system.
+(b) VOTER EDUCATION.—The [Secretary] shall provide voter education
+    materials explaining the open primary system.
 
-SECTION 7. EFFECTIVE DATE.
+(c) APPROPRIATION.—There is appropriated [$amount] for implementation
+    and voter education.
 
-This Act takes effect [date].
+SECTION 7. SEVERABILITY.
 
-```text
+If any provision of this Act is held invalid, the remainder shall
+continue in effect.
+
+SECTION 8. EFFECTIVE DATE.
+
+This Act takes effect on [date].
+```
 
 **Explanation**:
 
-- **Section 3**: Allows any voter to participate in any party's primary.
-- **Section 4**: Preserves party endorsement and support rights.
-- This is a "semi-open" model—voters choose which primary, not blanket.
+- Section 3 is the core provision allowing any voter to participate
+- Section 4 preserves party rights to endorse and support candidates
+- This is a "pick-one" open primary, not a blanket primary, avoiding constitutional issues
+- Section 3(d) protects ballot secrecy to prevent party retaliation
 
-### Top-Four Primary with RCV General Election (Alaska Model)
+**Challenges**:
+
+- Party opposition based on associational rights arguments
+- Concerns about crossover voting (though research shows it is rare)
+- Does not address safe-seat dynamics in general election
+
+### Model 2: Top-Four Primary with RCV General Election Act (Alaska Model)
 
 **Purpose**: Implement a nonpartisan top-four primary with ranked-choice voting general election.
 
@@ -90,16 +119,18 @@ This Act may be cited as the "[State] Open Elections Act".
 SECTION 2. FINDINGS.
 
 The [Legislature/People] find(s) that:
-(a) Partisan primary elections limit voter choice.
-(b) Many voters are excluded from primaries by registration rules.
-(c) Open primaries with ranked-choice general elections produce
-    more representative outcomes.
-(d) Alaska implemented this system successfully in 2022.
+(a) Current partisan primary elections limit voter choice and exclude
+    independent voters from meaningful participation.
+(b) Primary electorates are unrepresentative of the general electorate.
+(c) Nonpartisan primaries with ranked-choice general elections can
+    produce more representative outcomes and reduce polarization.
+(d) Alaska successfully implemented this system beginning in 2022.
 
 SECTION 3. SINGLE NONPARTISAN PRIMARY.
 
-(a) UNIFIED BALLOT.—All candidates for each office shall appear
-    on a single primary ballot, regardless of party affiliation.
+(a) UNIFIED BALLOT.—All candidates for each office shall appear on
+    a single primary ballot, regardless of party affiliation or
+    lack thereof.
 
 (b) VOTER PARTICIPATION.—All registered voters may vote in the
     nonpartisan primary without regard to party registration.
@@ -107,93 +138,155 @@ SECTION 3. SINGLE NONPARTISAN PRIMARY.
 (c) ADVANCING CANDIDATES.—The four candidates receiving the most
     votes for each office shall advance to the general election.
 
-(d) FEWER THAN FOUR.—If fewer than four candidates file for an
-    office, all candidates advance.
+(d) FEWER THAN FOUR.—If fewer than four candidates file for an office,
+    all candidates who filed shall advance to the general election.
 
 (e) PARTY DESIGNATION.—Candidates may indicate a party preference
     on the ballot, but such indication—
     (1) does not constitute endorsement by the party;
-    (2) is solely the candidate's choice;
-    (3) shall appear next to the candidate's name.
+    (2) is solely the candidate's statement of preference;
+    (3) shall appear next to the candidate's name on the ballot;
+    (4) shall be accompanied by the disclaimer: "Party preference
+        designated by candidate."
+
+(f) NO PARTY PREFERENCE.—Candidates may choose to indicate no party
+    preference, which shall appear as "Nonpartisan" or "Independent".
 
 SECTION 4. RANKED-CHOICE VOTING GENERAL ELECTION.
 
-(a) BALLOT.—In the general election, voters shall rank the
-    candidates in order of preference (1st, 2nd, 3rd, 4th).
+(a) BALLOT.—In the general election, voters shall rank the candidates
+    in order of preference. Voters may rank as many or as few
+    candidates as they choose.
 
 (b) TABULATION.—Votes shall be counted as follows:
-    (1) All ballots are counted for voters' first choices.
-    (2) If a candidate receives a majority, that candidate wins.
-    (3) If no candidate has a majority, the candidate with the
-        fewest votes is eliminated.
-    (4) Ballots for eliminated candidates transfer to the voter's
-        next-ranked choice.
-    (5) This process continues until a candidate has a majority.
+    (1) All ballots are initially counted for voters' first choices.
+    (2) If a candidate receives a majority of votes (more than 50%),
+        that candidate is elected.
+    (3) If no candidate has a majority, the candidate with the fewest
+        votes is eliminated.
+    (4) Ballots cast for the eliminated candidate are transferred to
+        voters' next-ranked continuing candidates.
+    (5) This process continues until a candidate has a majority of
+        the remaining active ballots.
 
-(c) PARTIAL RANKING.—A voter may rank fewer than four candidates.
-    A ballot that cannot transfer (all ranked candidates eliminated)
-    is exhausted.
+(c) TIE-BREAKING.—In the event of a tie, the candidate who received
+    more first-choice votes in the primary shall prevail. If still
+    tied, the tie shall be resolved by lot.
+
+(d) EXHAUSTED BALLOTS.—A ballot that cannot transfer because all
+    ranked candidates have been eliminated is deemed exhausted and
+    is not counted in determining the majority.
 
 SECTION 5. APPLICABILITY.
 
-(a) This Act applies to elections for—
+(a) COVERED OFFICES.—This Act applies to elections for—
     (1) Governor and Lieutenant Governor;
-    (2) State Legislature;
-    (3) United States Senate;
-    (4) United States House of Representatives.
+    (2) Attorney General;
+    (3) Secretary of State;
+    (4) State Treasurer;
+    (5) State Legislature;
+    (6) United States Senate;
+    (7) United States House of Representatives.
 
-(b) This Act does not apply to—
-    (1) Presidential primaries;
-    (2) Local elections unless adopted by local ordinance.
+(b) EXCLUDED OFFICES.—This Act does not apply to—
+    (1) Presidential primaries and caucuses;
+    (2) Local elections unless adopted by local ordinance;
+    (3) Judicial elections;
+    (4) School board elections.
 
 SECTION 6. BALLOT ACCESS.
 
 (a) Any candidate may appear on the primary ballot by—
-    (1) collecting signatures equal to 1% of votes cast in the
-        last general election for that office; or
+    (1) collecting signatures equal to 1% of votes cast in the last
+        general election for that office; or
     (2) paying a filing fee of [$amount].
 
-(b) Write-in candidates may participate in the primary.
-(c) Write-in candidates may not participate in the general election.
+(b) WRITE-IN.—Write-in candidates may participate in the primary.
+
+(c) GENERAL ELECTION RESTRICTION.—Write-in candidates may not
+    participate in the general election.
 
 SECTION 7. POLITICAL PARTIES.
 
-(a) Political parties retain the right to—
-    (1) endorse candidates;
-    (2) provide support and resources to candidates;
-    (3) conduct party business and set party rules.
+(a) RETAINED RIGHTS.—Political parties retain the right to—
+    (1) endorse candidates before and after the primary;
+    (2) provide financial, organizational, and other support to
+        endorsed candidates;
+    (3) conduct internal party business and set party rules;
+    (4) hold conventions and party elections.
 
-(b) Party endorsement shall be indicated in official voter guides.
+(b) VOTER GUIDES.—Party endorsements shall be indicated in official
+    voter guides produced by the [Secretary of State].
 
 SECTION 8. VOTER EDUCATION.
 
-(a) The [Secretary of State] shall conduct a public education
-    campaign before the first election under this Act.
+(a) EDUCATION CAMPAIGN.—The [Secretary of State] shall conduct a
+    comprehensive public education campaign before the first election
+    under this Act, including—
+    (1) television, radio, and online advertising;
+    (2) direct mail to all registered voters;
+    (3) community outreach events;
+    (4) school and civic organization presentations;
+    (5) multilingual materials.
 
-(b) Voter education shall include—
+(b) CONTENT.—Voter education shall include—
     (1) how to complete a ranked-choice ballot;
     (2) how votes are tabulated;
-    (3) the meaning of the top-four primary.
+    (3) the meaning of the nonpartisan primary;
+    (4) sample ballots.
 
-(c) There is appropriated [$amount] for voter education.
+(c) APPROPRIATION.—There is appropriated [$amount] for voter education.
 
 SECTION 9. IMPLEMENTATION.
 
-(a) The [Secretary of State] shall adopt rules implementing this Act.
+(a) RULEMAKING.—The [Secretary of State] shall adopt rules implementing
+    this Act within [180 days] of enactment.
 
-(b) Rules shall address—
-    (1) ballot design;
-    (2) tabulation procedures;
+(b) RULES CONTENT.—Rules shall address—
+    (1) ballot design and format;
+    (2) tabulation procedures and equipment;
     (3) recount procedures;
-    (4) reporting requirements.
+    (4) reporting requirements;
+    (5) observer access during tabulation.
 
-SECTION 10. EFFECTIVE DATE.
+(c) EQUIPMENT.—The [Secretary of State] shall certify voting equipment
+    capable of ranked-choice tabulation.
+
+SECTION 10. REPORTING.
+
+(a) RESULTS.—Election results shall be reported showing—
+    (1) round-by-round tabulation results;
+    (2) first-choice totals for each candidate;
+    (3) transfer patterns between candidates;
+    (4) number of exhausted ballots.
+
+(b) CAST VOTE RECORDS.—Anonymized cast vote records shall be published
+    within [30 days] of certification for public verification.
+
+SECTION 11. SEVERABILITY.
+
+If any provision of this Act is held invalid, the remainder shall
+continue in effect.
+
+SECTION 12. EFFECTIVE DATE.
 
 This Act applies to elections held on or after [date].
+```
 
-```text
+**Explanation**:
 
-### Top-Two Primary Act (California/Washington Model)
+- Section 3 creates the nonpartisan primary with top-four advancement
+- Section 4 establishes ranked-choice voting mechanics for the general election
+- Section 5 defines covered offices (typically state and federal, not local)
+- Sections 8-10 address implementation and transparency
+
+**Challenges**:
+
+- Voter education is essential for successful implementation
+- Requires voting equipment capable of RCV tabulation
+- Will face legal challenges from parties on association grounds
+
+### Model 3: Top-Two Primary Act (California/Washington Model)
 
 **Purpose**: Implement a nonpartisan primary where the top two vote-getters advance to the general election.
 
@@ -202,27 +295,28 @@ This Act applies to elections held on or after [date].
 ```text
 SECTION 1. SHORT TITLE.
 
-This Act may be cited as the "[State] Top-Two Primary Act".
+This Act may be cited as the "[State] Top-Two Open Primary Act".
 
-SECTION 2. SINGLE NONPARTISAN PRIMARY.
+SECTION 2. NONPARTISAN PRIMARY ELECTION.
 
-(a) All candidates for each state and federal office shall appear
-    on a single primary ballot.
+(a) UNIFIED BALLOT.—All candidates for each state and federal office
+    shall appear on a single primary ballot.
 
-(b) All registered voters may participate regardless of party
-    registration.
+(b) VOTER PARTICIPATION.—All registered voters may participate
+    regardless of party registration.
 
-(c) The two candidates receiving the most votes advance to the
-    general election.
+(c) ADVANCEMENT.—The two candidates receiving the most votes for each
+    office advance to the general election.
 
 SECTION 3. SAME-PARTY GENERAL ELECTIONS.
 
 (a) If the top two candidates have the same party preference, both
     shall appear on the general election ballot.
 
-(b) Voters shall choose between the two regardless of party.
+(b) Voters shall choose between the two candidates regardless of
+    their own party affiliation.
 
-SECTION 4. PARTY PREFERENCE.
+SECTION 4. PARTY PREFERENCE DESIGNATION.
 
 (a) Candidates may state a party preference on the ballot.
 
@@ -230,28 +324,203 @@ SECTION 4. PARTY PREFERENCE.
 
 (c) The ballot shall state: "Party preference designated by candidate."
 
-SECTION 5. APPLICABILITY.
+(d) Candidates may designate "No Party Preference" or "Independent."
+
+SECTION 5. WRITE-IN CANDIDATES.
+
+(a) Write-in candidates may participate in the primary election.
+
+(b) Write-in candidates may not appear on the general election ballot.
+
+SECTION 6. APPLICABILITY.
 
 This Act applies to elections for—
-(a) Governor;
-(b) Lieutenant Governor;
-(c) Attorney General;
-(d) Other statewide offices;
-(e) State Legislature;
-(f) United States Senate;
-(g) United States House of Representatives.
+(a) Governor and Lieutenant Governor;
+(b) Attorney General and other statewide offices;
+(c) State Legislature;
+(d) United States Senate;
+(e) United States House of Representatives.
 
-SECTION 6. EFFECTIVE DATE.
+SECTION 7. EXCLUDED ELECTIONS.
+
+This Act does not apply to—
+(a) Presidential primaries;
+(b) Party central committee elections;
+(c) Local elections unless adopted locally.
+
+SECTION 8. EFFECTIVE DATE.
 
 This Act takes effect for elections held on or after [date].
+```
+
+**Note**: This is a simpler model than top-four with RCV. It has been upheld as constitutional in *Washington State Grange v. Washington State Republican Party* (2008).
+
+### Model 4: Same-Day Registration for Primaries Act
+
+**Purpose**: Allow voter registration at polling places on primary election day.
+
+**Draft Text**:
 
 ```text
+SECTION 1. SHORT TITLE.
+
+This Act may be cited as the "[State] Primary Election Access Act".
+
+SECTION 2. SAME-DAY REGISTRATION.
+
+(a) IN GENERAL.—Any eligible person may register to vote and cast a
+    ballot at their designated polling place on primary election day.
+
+(b) PROCESS.—Same-day registration shall include—
+    (1) completion of voter registration form;
+    (2) verification of eligibility;
+    (3) issuance of ballot.
+
+(c) PROOF OF ELIGIBILITY.—Persons registering on election day shall
+    provide proof of identity and residence as established by rule.
+
+SECTION 3. PARTY AFFILIATION.
+
+(a) Persons registering on primary election day may—
+    (1) register with a party and vote in that party's primary;
+    (2) register without party affiliation; or
+    (3) in states with open primaries, vote in any primary regardless
+        of affiliation chosen.
+
+(b) CLOSED PRIMARY STATES.—In states with closed primaries, same-day
+    registrants must affiliate with a party to vote in that
+    party's primary.
+
+SECTION 4. POLL WORKER TRAINING.
+
+The [Secretary of State] shall provide training for poll workers on
+same-day registration procedures.
+
+SECTION 5. EFFECTIVE DATE.
+
+This Act takes effect for primary elections held on or after [date].
+```
+
+### Model 5: Sore Loser Law Repeal Act
+
+**Purpose**: Allow candidates who lose a primary to run in the general election as independents or third-party candidates.
+
+**Draft Text**:
+
+```text
+SECTION 1. SHORT TITLE.
+
+This Act may be cited as the "[State] Voter Choice Act".
+
+SECTION 2. FINDINGS.
+
+The Legislature finds that:
+(a) Current law prohibits candidates who lose a primary from running
+    in the general election.
+(b) This restriction limits voter choice in general elections.
+(c) Voters should have the opportunity to support qualified candidates
+    regardless of primary outcomes.
+
+SECTION 3. REPEAL OF SORE LOSER RESTRICTION.
+
+[Cite and repeal the specific statutory provision prohibiting primary
+losers from running in general elections as independents or
+minor party candidates.]
+
+SECTION 4. BALLOT ACCESS.
+
+(a) A candidate who did not win a party primary may appear on the
+    general election ballot as—
+    (1) an independent candidate; or
+    (2) the nominee of a qualified political party.
+
+(b) Such candidates must meet standard ballot access requirements
+    for independent or minor party candidates.
+
+(c) Filing deadlines for such candidates shall be [number] days after
+    the primary election.
+
+SECTION 5. EFFECTIVE DATE.
+
+This Act takes effect immediately upon enactment.
+```
 
 ## Federal Legislation
 
-### Voters' Choice Act (Federal RCV Option)
+### Congressional Primary Standards Act
 
-**Purpose**: Establish federal standards for states using ranked-choice voting in federal elections.
+**Purpose**: Establish minimum standards for primaries electing members of Congress.
+
+**Draft Text**:
+
+```text
+SEC. 1. SHORT TITLE.
+
+This Act may be cited as the "Congressional Primary Standards Act".
+
+SEC. 2. FINDINGS.
+
+Congress finds the following:
+(1) Primary elections for federal office vary widely among States,
+    creating inconsistent voter experiences.
+(2) Low primary turnout produces unrepresentative nomination outcomes.
+(3) Closed primaries exclude independent voters from meaningful
+    participation in selecting their representatives.
+(4) Congress has authority under Article I, Section 4 to regulate
+    the time, place, and manner of elections for Congress.
+
+SEC. 3. OPEN PRIMARY REQUIREMENT.
+
+(a) IN GENERAL.—Each State shall conduct primary elections for
+    Senator and Representative in an open format that allows any
+    registered voter to participate.
+
+(b) PERMITTED SYSTEMS.—States may satisfy this requirement through—
+    (1) open primaries where voters choose which party's primary
+        to participate in;
+    (2) semi-open primaries where unaffiliated voters may participate;
+    (3) nonpartisan primaries where all candidates appear on a single
+        ballot and top candidates advance;
+    (4) any other system ensuring participation by unaffiliated voters.
+
+SEC. 4. SAME-DAY REGISTRATION.
+
+(a) Each State shall allow same-day voter registration for primary
+    elections for Senator and Representative.
+
+(b) States may establish reasonable identification requirements for
+    same-day registration.
+
+SEC. 5. STATE IMPLEMENTATION.
+
+(a) DEADLINE.—States shall implement the requirements of this Act
+    for elections occurring after [date].
+
+(b) WAIVER.—The Attorney General may grant a temporary waiver for
+    States demonstrating good-faith implementation efforts.
+
+SEC. 6. ENFORCEMENT.
+
+(a) PRIVATE RIGHT OF ACTION.—Any eligible voter may bring a civil
+    action to enforce this Act.
+
+(b) ATTORNEY GENERAL ENFORCEMENT.—The Attorney General may bring
+    civil actions to enforce this Act.
+
+(c) JUDICIAL RELIEF.—Courts may order appropriate relief including
+    injunctive relief and attorney's fees.
+
+SEC. 7. AUTHORIZATION OF APPROPRIATIONS.
+
+There are authorized to be appropriated $100,000,000 for fiscal year
+[year] for grants to States to implement this Act.
+```
+
+**Constitutional Basis**: Article I, Section 4 (Elections Clause) gives Congress authority to regulate the time, place, and manner of congressional elections.
+
+### Voters' Choice Act (Federal RCV Standards)
+
+**Purpose**: Establish standards for states using ranked-choice voting in federal elections.
 
 **Draft Text**:
 
@@ -263,247 +532,213 @@ This Act may be cited as the "Voters' Choice Act".
 SEC. 2. FINDINGS.
 
 Congress finds the following:
-(1) Multiple states and localities have adopted ranked-choice
-    voting for federal elections.
-(2) Uniform standards would ensure consistency for voters.
+(1) Multiple States and localities have adopted ranked-choice voting
+    for federal elections, including Maine and Alaska.
+(2) Uniform federal standards would ensure consistency for voters
+    and candidates.
 (3) Ranked-choice voting has demonstrated benefits for voter
-    expression and representation.
+    expression and representative outcomes.
 
 SEC. 3. STATE OPTION.
 
-Any State may conduct elections for Senator or Representative
-using ranked-choice voting, subject to the requirements of this Act.
+Any State may conduct elections for Senator or Representative using
+ranked-choice voting, subject to the requirements of this Act.
 
-SEC. 4. MINIMUM STANDARDS.
+SEC. 4. MINIMUM BALLOT STANDARDS.
 
-(a) BALLOT.—A ranked-choice voting ballot shall—
-    (1) allow voters to rank at least 5 candidates;
-    (2) clearly explain how to rank candidates;
-    (3) not require voters to rank all candidates.
+(a) RANKING OPTIONS.—A ranked-choice voting ballot shall allow voters
+    to rank at least 5 candidates or all candidates, whichever is fewer.
 
-(b) TABULATION.—Ranked-choice voting tabulation shall—
-    (1) count votes in rounds until a candidate receives a majority;
-    (2) eliminate the candidate with the fewest votes each round;
-    (3) transfer ballots to voters' next-ranked choices.
+(b) INSTRUCTIONS.—The ballot shall clearly explain how to rank
+    candidates in order of preference.
 
-(c) REPORTING.—The State shall publish—
-    (1) round-by-round results;
-    (2) first-choice totals by precinct;
-    (3) cast vote records for verification.
+(c) PARTIAL RANKING.—Voters shall not be required to rank all candidates.
 
-SEC. 5. PRIMARY ELECTIONS.
+SEC. 5. TABULATION STANDARDS.
 
-States may use ranked-choice voting, open primaries, top-two
-primaries, top-four primaries, or other primary systems for
-federal elections, consistent with this Act.
+(a) ROUNDS.—Votes shall be counted in rounds until a candidate
+    receives a majority of continuing ballots.
 
-SEC. 6. VOTER EDUCATION GRANTS.
+(b) ELIMINATION.—In each round, the candidate with the fewest votes
+    is eliminated.
+
+(c) TRANSFER.—Ballots for eliminated candidates transfer to voters'
+    next-ranked continuing candidates.
+
+(d) EXHAUSTED BALLOTS.—Ballots that cannot transfer are deemed
+    exhausted and removed from the count.
+
+SEC. 6. REPORTING REQUIREMENTS.
+
+(a) ROUND-BY-ROUND RESULTS.—States shall publish round-by-round
+    tabulation results.
+
+(b) FIRST-CHOICE TOTALS.—States shall report first-choice totals
+    by precinct.
+
+(c) CAST VOTE RECORDS.—States shall publish anonymized cast vote
+    records for public verification within 30 days of certification.
+
+SEC. 7. VOTER EDUCATION GRANTS.
 
 (a) AUTHORIZATION.—The Election Assistance Commission shall make
     grants to States for voter education about ranked-choice voting.
 
-(b) AMOUNT.—There are authorized to be appropriated $50,000,000
-    for fiscal year 2025.
+(b) APPROPRIATION.—There are authorized to be appropriated
+    $50,000,000 for fiscal year [year] and such sums as may be
+    necessary for subsequent fiscal years.
 
-```text
+(c) GRANT CRITERIA.—Grants shall be awarded based on—
+    (1) population of the State;
+    (2) quality of proposed education program;
+    (3) commitment to multilingual outreach.
+```
+
+## Regulatory Framework
+
+### State Implementation Regulations
+
+States implementing primary reform should adopt regulations addressing:
+
+| Area | Key Provisions |
+|------|----------------|
+| Ballot design | Clear instructions, candidate order, party labels |
+| Tabulation | Equipment certification, observer access, audit trails |
+| Reporting | Round-by-round results, cast vote records |
+| Voter education | Materials, outreach, timing |
+| Training | Poll worker preparation, administrator certification |
+| Recounts | Procedures for ranked-choice recounts |
+
+### Sample Regulatory Provisions
+
+**Ballot Design Standards**
+
+- Candidate names in consistent font and size
+- Party preference clearly indicated but not emphasized
+- Ranking instructions at top of ballot
+- Example rankings shown
+- Instructions in primary languages of jurisdiction
+
+**Tabulation Procedures**
+
+- Centralized tabulation for ranked-choice general elections
+- Public observation of tabulation
+- Batch reporting at predetermined intervals
+- Audit trail for all transfers
 
 ## Legal Considerations
 
-### Constitutional Issues
+### Constitutional Analysis
 
-**Party Association Rights**:
+**Party Association Rights**
 
-The Supreme Court has recognized party association rights but allows:
+| System | Constitutional Status | Key Case |
+|--------|----------------------|----------|
+| Open primary (pick one) | Constitutional | *Tashjian v. Republican Party* (1986) |
+| Blanket primary | Unconstitutional | *California Democratic Party v. Jones* (2000) |
+| Top-two nonpartisan | Constitutional | *Washington State Grange* (2008) |
+| Top-four with RCV | Constitutional (expected) | Alaska challenges pending |
+| RCV general election | Constitutional | No successful challenges |
 
-- Open primaries (*Tashijan v. Republican Party*, 1986: states can open)
-- Nonpartisan primaries (*California Democratic Party v. Jones*, 2000: blanket primaries unconstitutional, but top-two upheld later)
-- Top-two primaries (*Washington State Grange v. Washington State Republican Party*, 2008: upheld)
+**Key Distinctions**
 
-**Key Principles**:
+- Blanket primaries forced parties to associate with unwanted voters
+- Top-two/top-four are first-round elections, not party nominations
+- Party preference labels are candidate statements, not party endorsements
+- Voters understand the distinction (per *Washington State Grange*)
 
-| System | Constitutionality |
-|--------|-------------------|
-| Open primary (choose one party) | Constitutional |
-| Top-two/top-four | Constitutional |
-| Blanket primary (vote across parties) | Unconstitutional |
-| Nonpartisan primary | Constitutional |
-| RCV general election | Constitutional |
+### Federal Authority
 
-### State vs. Federal Authority
+**Elections Clause (Article I, Section 4)**
 
-- States control state elections entirely
-- States control "time, place, and manner" of federal elections
-- Congress may override state procedures for federal elections
-- Primary format is generally a state decision
+Congress may regulate "Time, Place and Manner" of congressional elections, potentially including:
 
-### Implementation Considerations
+- Requiring open primaries for federal offices
+- Setting standards for ranked-choice voting
+- Mandating same-day registration
 
-| Consideration | Approach |
-|---------------|----------|
-| Voting equipment | Most can be configured for RCV |
-| Tabulation software | Available from multiple vendors |
-| Voter education | Critical success factor |
-| Transition period | 1-2 election cycles recommended |
+**Limits**
+
+- Cannot regulate state/local primaries
+- Cannot directly mandate specific primary systems
+- May use funding conditions as incentives
 
 ## Loopholes, Shortcomings, and Rectification
 
-This section identifies potential weaknesses in the proposed legislation and provides mechanisms for addressing them.
-
-### Open Primary Act (Model)
-
-#### Potential Loopholes
+### Potential Loopholes
 
 | Loophole | Description | Severity |
 |----------|-------------|----------|
-| Strategic crossover voting | Voters from opposing party may vote for weakest opposing candidate ("party raiding") | High |
-| Party retaliation | Parties may develop informal retaliation mechanisms against crossover voters | Medium |
-| Information asymmetry | Parties may strategically release opposition research timing to influence crossover | Medium |
-| One-party choice limit | Voters must choose one party, limiting expression in down-ballot races | Medium |
-| Registration tracking | Even without formal registration change, vote choice records may be used for targeting | Low |
+| Strategic crossover voting | Voters from opposing party may vote for weakest candidate | Medium |
+| Candidate flooding | Parties run many candidates to split opposition vote | High |
+| False party preference | Candidates claim party affiliation to confuse voters | Medium |
+| Ballot exhaustion manipulation | Campaigns encourage bullet voting to increase exhausted ballots | Medium |
+| Write-in prohibition gaming | Candidates use write-in prohibition strategically | Low |
+| Same-party lockout (top-two) | Minority party excluded from general election | Critical |
+| Party coordination | Parties coordinate to limit candidates and ensure advancement | High |
 
-#### Shortcomings
-
-| Issue | Impact | Root Cause |
-|-------|--------|------------|
-| Doesn't address general election | Open primary still produces two-party general election | Separate reform needed |
-| Party polarization | Party activists still dominate low-turnout primaries | Structural issue |
-| Moderate disadvantage | May help moderates cross over but doesn't change nomination dynamics | Party control |
-| Incomplete solution | Open primary alone doesn't create multi-party competition | Electoral system unchanged |
-
-#### Rectification Procedures
-
-1. **Strategic voting education**: Public education campaigns explaining primary purposes
-2. **Party neutrality rules**: Prohibit parties from tracking or penalizing crossover voting
-3. **Full open primary option**: Allow amendment for true blanket-style voting if constitutionally viable
-4. **Combine with RCV**: Pair open primary with RCV general election for fuller reform
-5. **Turnout incentives**: Consider automatic primary enrollment to increase participation
-
-### Top-Four Primary with RCV (Alaska Model)
-
-#### Potential Loopholes
-
-| Loophole | Description | Severity |
-|----------|-------------|----------|
-| Strategic nomination flooding | Parties may run many candidates to split vote and prevent opponents from advancing | High |
-| Third/fourth place gaming | Candidates may intentionally aim for third/fourth to benefit in RCV round | Medium |
-| Exhausted ballot manipulation | Campaigns may encourage bullet voting to increase exhausted ballots | Medium |
-| Party preference false claims | Candidates may falsely claim party affiliation to split opponent votes | Medium |
-| Write-in primary/general distinction | Prohibition on general election write-ins limits voter expression | Low |
-| Low-information advancement | Candidates may advance on name recognition without substantive campaigns | Low |
-
-#### Shortcomings
+### Shortcomings
 
 | Issue | Impact | Root Cause |
 |-------|--------|------------|
-| Voter confusion | RCV still confuses some voters despite education | Novel system |
-| Exhausted ballots | Voters who don't rank all candidates may be disenfranchised in later rounds | Voter choice |
-| Implementation costs | New equipment and training required | One-time transition cost |
-| Party weakening | Parties lose nomination control, reducing accountability | Design tradeoff |
-| Four-candidate limit | Arbitrary number may exclude viable fifth-place candidates | Simplicity tradeoff |
+| Voter confusion | Some voters misunderstand RCV | Novel system |
+| Implementation costs | Equipment and training expenses | One-time transition |
+| Minor party exclusion (top-two) | Third parties rarely advance | System design |
+| Exhausted ballots | Some voters effectively disenfranchised in later rounds | Voter choice not to rank all |
+| Low turnout persists | Opening primary doesn't guarantee participation | Structural voter engagement issues |
+| Party weakening | Parties lose nomination control | Design trade-off |
+| Media coverage gaps | Complex results harder to report | New reporting needs |
 
-#### Rectification Procedures
+### Rectification Procedures
 
-1. **Coordination prevention**: Require affirmative party endorsement (not just self-declaration) for ballot designation
-2. **Anti-flooding provisions**: Cap number of candidates per party or require minimum threshold in primary
-3. **Voter education investment**: Increase education funding with ongoing support beyond first election
-4. **Exhausted ballot tracking**: Publish exhausted ballot data with analysis of voter intent
-5. **Top-five option**: Consider expanding to top-five in larger population states
+1. **Strategic voting education**: Public education explaining primary purposes and honest voting benefits
 
-### Top-Two Primary Act (California/Washington Model)
+2. **Anti-flooding provisions**: Cap candidates per party or require minimum signature thresholds
 
-#### Potential Loopholes
+3. **Party preference verification**: Require party confirmation of claimed preference or clear disclaimer
 
-| Loophole | Description | Severity |
-|----------|-------------|----------|
-| Same-party lockout | General election may have two candidates from same party, disenfranchising minority party voters | Critical |
-| Moderate lane splitting | Multiple moderates may split vote, allowing extreme candidates to advance | High |
-| Primary manipulation | Party may coordinate to ensure only one candidate runs, guaranteeing advancement | High |
-| Voter confusion | Different from traditional primary/general dynamic; voters may not understand | Medium |
-| Minor party exclusion | Third parties almost never advance to general election | Medium |
-| Write-in prohibition | No meaningful write-in option in general election | Low |
+4. **Exhausted ballot tracking**: Publish detailed exhausted ballot data with analysis
 
-#### Shortcomings
+5. **Top-four/five expansion**: Address top-two lockout by expanding to more candidates
 
-| Issue | Impact | Root Cause |
-|-------|--------|------------|
-| Limited general election choice | Only two options regardless of voter preferences | System design |
-| Minor party harm | Worse for third parties than traditional system in some ways | Structural |
-| Incumbent advantage | Incumbents benefit from name recognition in low-turnout primaries | Incumbency effects |
-| Ideological sorting | Safe districts still produce ideologically extreme winners | District composition |
-| No majority requirement | Plurality winner in general election may not have majority support | No RCV component |
+6. **Turnout enhancement**: Pair primary reform with automatic registration, vote-by-mail
 
-#### Rectification Procedures
+7. **Minor party protection**: Consider guaranteed slots for parties meeting thresholds
 
-1. **Top-four upgrade**: Expand to top-four with RCV to address lockout and choice issues
-2. **Minority party guarantee**: Consider guaranteed second slot for different party if both top-two same party
-3. **Coordination disclosure**: Require disclosure of party coordination in candidate entry decisions
-4. **Write-in allowance**: Permit general election write-ins meeting minimum signature threshold
-5. **Primary turnout requirements**: Consider automatic voting or mandatory vote-by-mail
+8. **Coordination disclosure**: Require disclosure of party involvement in candidate decisions
 
-### Voters' Choice Act (Federal)
+9. **Voter education investment**: Sustained education beyond first election cycle
 
-#### Potential Loopholes
-
-| Loophole | Description | Severity |
-|----------|-------------|----------|
-| State opt-out | Federal standards only apply to states choosing RCV; no incentive to adopt | High |
-| Minimum standards gaming | States may meet letter of requirements while undermining spirit | Medium |
-| Five-candidate minimum | May be insufficient in crowded primary fields | Medium |
-| Cast vote record privacy | Published records may enable voter identification in small precincts | Medium |
-| Grant condition gaps | Voter education grants have no quality standards | Low |
-
-#### Shortcomings
-
-| Issue | Impact | Root Cause |
-|-------|--------|------------|
-| Permissive not mandatory | States may continue plurality voting indefinitely | Federalism |
-| No primary standards | "Other primary systems" allows significant variation | Flexibility tradeoff |
-| Limited funding | $50 million insufficient for nationwide education | Budget constraints |
-| Equipment certification gap | No federal certification for RCV systems | EAC authority limits |
-| Interstate inconsistency | Different states with different systems confuses voters | State control |
-
-#### Rectification Procedures
-
-1. **Adoption incentives**: Tie federal election funding to RCV or alternative system adoption
-2. **Minimum ranking expansion**: Require ranking of at least number of candidates or 7, whichever is less
-3. **Privacy protections**: Require aggregation of cast vote records above minimum population threshold
-4. **Education standards**: Establish quality benchmarks for voter education grants
-5. **Equipment certification**: Expand EAC authority to certify RCV voting systems
+10. **Equipment certification**: Establish clear certification standards for RCV systems
 
 ### General Implementation Concerns
 
-#### Systemic Issues
-
-| Issue | Proposed Solution |
-|-------|------------------|
-| Transition confusion | Mandate minimum 2-year implementation timeline with phased rollout |
-| Election official training | Federal grants for training with certification requirements |
-| Ballot design standards | Develop model ballot designs through EAC with user testing |
-| Results reporting | Standardize round-by-round reporting formats nationally |
-| Legal challenges | Pre-enactment court review process to resolve constitutional questions |
-
-#### Sunset and Review Provisions
-
-All provisions should include:
-
-- **Post-election review** analyzing voter experience, exhausted ballots, and outcomes
-- **Turnout comparison** to pre-reform baselines
-- **Representation analysis** examining demographic and ideological representation effects
-- **Voter satisfaction surveys** measuring understanding and approval of new systems
-- **Competitive effects study** comparing competitiveness before and after reform
+| Concern | Mitigation |
+|---------|------------|
+| Transition confusion | 2-year implementation timeline with phased rollout |
+| Election official capacity | Federal and state grants for training |
+| Ballot design errors | Model ballots with user testing before deployment |
+| Results reporting delays | Standardized formats and real-time reporting systems |
+| Legal challenges | Pre-enactment legal review and defense fund |
+| Repeal attempts | Build constituency during implementation |
 
 ## References
 
-[^1]: *California Democratic Party v. Jones*, 530 U.S. 567 (2000)
-[^2]: *Washington State Grange v. Washington State Republican Party*, 552 U.S. 442 (2008)
-[^3]: Alaska Division of Elections. "Top-Four Primary Implementation Report." 2023.
-[^4]: FairVote. "Open Primaries and RCV." <https://fairvote.org>
+- *California Democratic Party v. Jones*, 530 U.S. 567 (2000)
+- *Washington State Grange v. Washington State Republican Party*, 552 U.S. 442 (2008)
+- *Tashjian v. Republican Party of Connecticut*, 479 U.S. 208 (1986)
+- *Smith v. Allwright*, 321 U.S. 649 (1944)
+- Alaska Division of Elections, "Ballot Measure 2 Implementation," 2022
+- FairVote, "Ranked Choice Voting Resource Center"
+- National Conference of State Legislatures, "State Primary Election Types"
+- Open Primaries, "Model Legislation"
 
 ## Related Topics
 
 - [Solutions](07-solutions.md) - Policy proposals this legislation implements
-- [Electoral Reform: Legislation](../electoral-reform/11-legislation.md) - RCV and alternative voting
-- [Party Systems: Legislation](../party-systems/11-legislation.md) - Effects on parties
+- [Roadmap](08-roadmap.md) - Implementation strategy
+- [Electoral Reform: Legislation](../electoral-reform/11-legislation.md) - Broader electoral reform legislation
+- [Voting Rights: Legislation](../voting-rights/11-legislation.md) - Voter access legislation
 
 ## Document Navigation
 

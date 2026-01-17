@@ -68,7 +68,7 @@
 
 ### Faithless Elector Laws
 
-**Current Status** (as of 2024, post-*Chiafalo v. Washington*, 2020):
+**Current Status** (2024 snapshot, post-*Chiafalo v. Washington*, 2020):
 
 States may enforce elector pledges through:
 
@@ -163,7 +163,7 @@ If no candidate receives 270 electoral votes:
 - Effectively creates national popular vote without amendment
 - Uses states' existing constitutional authority over elector selection
 
-**Current Status** (as of 2024, post-2020 apportionment):
+**Current Status** (2024 snapshot, post-2020 apportionment):
 
 | Status | States | Electoral Votes |
 |--------|--------|-----------------|
@@ -172,9 +172,9 @@ If no candidate receives 270 electoral votes:
 | Active legislation | 10+ | ~70 |
 | Needed for activation | - | 61 more |
 
-*Source: National Popular Vote Inc., 2024.*
+*Source: National Popular Vote Inc., Dec. 2024 update.*
 
-**Member States** (as of 2024):
+**Member States** (2024 snapshot):
 
 | State | EVs | Year | State | EVs | Year |
 |-------|-----|------|-------|-----|------|
@@ -188,7 +188,7 @@ If no candidate receives 270 electoral votes:
 | Vermont | 3 | 2011 | Oregon | 8 | 2019 |
 | Minnesota | 10 | 2023 | Maine | 4 | 2024 |
 
-*Source: National Popular Vote Inc., 2024.*
+*Source: National Popular Vote Inc., Dec. 2024 update.*
 
 ### Constitutional Amendment Efforts
 

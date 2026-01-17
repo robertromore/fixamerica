@@ -48,6 +48,7 @@ By the mid-20th century, state hospitals had become overcrowded warehouses. Inve
 - Use of restraints and seclusion
 
 **Influential Exposés:**
+
 - *The Shame of the States* (Albert Deutsch, 1948)
 - *Christmas in Purgatory* (Burton Blatt, 1966)
 - TV documentaries showing conditions
@@ -276,6 +277,7 @@ The national three-digit mental health crisis number launched in July 2022, prov
 | [Current State](02-current-state.md) | [Justice Topics](../README.md) | [Root Causes](04-root-causes.md) |
 
 **In This Section:**
+
 - [01 Overview](01-overview.md) | [02 Current State](02-current-state.md) | [03 History](03-history.md) | [04 Root Causes](04-root-causes.md)
 - [05 Stakeholders](05-stakeholders.md) | [06 Opposition](06-opposition.md) | [07 Solutions](07-solutions.md) | [08 Roadmap](08-roadmap.md)
 - [09 Resources](09-resources.md) | [10 Actions](10-actions.md) | [11 Legislation](11-legislation.md)

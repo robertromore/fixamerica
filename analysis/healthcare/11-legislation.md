@@ -1,119 +1,189 @@
-# [Topic]: Legislation and Legal Framework
+# Healthcare: Legislation and Legal Framework
 
 ## Overview
 
-[Brief introduction to the legislative landscape for this topic and the approach taken in this document.]
+Healthcare legislation operates primarily at the federal level for major programs (Medicare, Medicaid, ACA) with significant state authority over insurance regulation, Medicaid administration, and provider licensing. This document synthesizes legislative approaches across the healthcare domain and points to detailed legislation in each subtopic.
 
-## Constitutional Amendments
+## Constitutional Framework
 
-[If constitutional changes are needed for this topic area.]
+### Federal Authority
 
-### [Amendment Name]
+Federal healthcare authority derives from:
 
-**Purpose**: [Why needed]
+- **Commerce Clause**: Regulating health insurance as interstate commerce
+- **Spending Clause**: Medicare, Medicaid, and conditional grants
+- **Taxing Power**: ACA individual mandate upheld as tax (*NFIB v. Sebelius*)
+- **Supremacy Clause**: Federal preemption of state law (ERISA, FDA)
 
-**Draft Text**:
+### Key Supreme Court Precedents
 
-```text
-Section 1. [Substantive provision]
+| Case | Year | Holding |
+|------|------|---------|
+| *NFIB v. Sebelius* | 2012 | ACA mandate upheld as tax; Medicaid expansion cannot be coerced |
+| *King v. Burwell* | 2015 | ACA subsidies available on federal exchanges |
+| *California v. Texas* | 2021 | States lacked standing to challenge ACA mandate |
+| *Dobbs v. Jackson* | 2022 | No constitutional right to abortion |
 
-Section 2. Congress shall have the power to enforce this article
-by appropriate legislation.
+### State Authority
 
-Section 3. This article shall take effect [timing].
+States retain significant healthcare authority:
+- Insurance regulation (subject to ACA requirements)
+- Medicaid program administration
+- Provider licensing and scope of practice
+- Public health powers
+- Facility regulation
 
-```text
+## Federal Legislative Framework
 
-**Explanation**: [Section-by-section breakdown]
+### Major Federal Statutes
 
-**Potential Challenges**: [Legal/political obstacles]
+| Statute | Purpose | Annual Spending |
+|---------|---------|-----------------|
+| Social Security Act Title XVIII (Medicare) | Elderly/disabled coverage | $900B+ |
+| Social Security Act Title XIX (Medicaid) | Low-income coverage | $700B+ (federal share) |
+| Affordable Care Act | Insurance markets, subsidies | $100B+ |
+| ERISA | Employer plan regulation | N/A (regulatory) |
+| Public Health Service Act | Public health infrastructure | $15B+ |
+| Mental Health Parity Act | Parity requirements | N/A (regulatory) |
 
-**Refinements**: [How to address challenges]
+### Legislative Priorities by Subtopic
 
-## Federal Legislation
+Each subtopic contains detailed model legislation. Key priorities:
 
-### [Bill Name]
+**Healthcare Access** → [Legislation](healthcare-access/11-legislation.md)
+- Universal Coverage Guarantee Act
+- Automatic Enrollment Act
+- Health Equity Expansion Act
 
-**Purpose**: [What problem this solves]
+**Healthcare Costs** → [Legislation](healthcare-costs/11-legislation.md)
+- Drug Price Negotiation Expansion Act
+- All-Payer Rate Setting Act
+- Surprise Billing Strengthening Act
 
-**Draft Text**:
+**Healthcare Workforce** → [Legislation](healthcare-workforce/11-legislation.md)
+- Healthcare Workforce Investment Act
+- Graduate Medical Education Modernization Act
+- Primary Care Loan Forgiveness Act
 
-```text
-SEC. 1. SHORT TITLE.
+**Insurance Markets** → [Legislation](insurance-markets/11-legislation.md)
+- Insurance Market Stabilization Act
+- Public Option Act
+- Essential Health Benefits Strengthening Act
 
-This Act may be cited as the "[Name] Act".
+**Maternal Health** → [Legislation](maternal-health/11-legislation.md)
+- Black Maternal Health Momnibus Act
+- Midwifery Workforce Expansion Act
+- Postpartum Coverage Extension Act
 
-SEC. 2. [SUBSTANTIVE PROVISION].
+**Medicaid** → [Legislation](medicaid/11-legislation.md)
+- Medicaid Expansion Completion Act
+- Continuous Eligibility Act
+- Medicaid Payment Parity Act
 
-(a) In General.—[Main requirement]
-(b) Definitions.—[Key terms]
-(c) Enforcement.—[How enforced]
-(d) Penalties.—[Consequences for violation]
+**Medicare** → [Legislation](medicare/11-legislation.md)
+- Medicare Eligibility Expansion Act
+- Medicare Drug Negotiation Expansion Act
+- Medicare Advantage Accountability Act
 
-```text
+**Mental Health Integration** → [Legislation](mental-health-integration/11-legislation.md)
+- Behavioral Health Integration Act
+- Crisis Response Modernization Act
+- Mental Health Parity Enforcement Act
 
-**Explanation**: [Why written this way]
+**Public Health** → [Legislation](public-health/11-legislation.md)
+- Public Health Infrastructure Investment Act
+- Pandemic Preparedness Act
+- Social Determinants of Health Act
 
-**Potential Challenges**: [Constitutional, practical, political]
+**Rural Healthcare** → [Legislation](rural-healthcare/11-legislation.md)
+- Rural Hospital Preservation Act
+- Telehealth Expansion Act
+- Rural Health Workforce Act
 
-**Refinements**: [Alternative approaches, fallback positions]
+**Health IT** → [Legislation](health-it/11-legislation.md)
+- Health Data Interoperability Act
+- Patient Data Rights Act
+- AI in Healthcare Safety Act
 
-## State Model Legislation
+## Cross-Cutting Legislative Themes
 
-### [Model Act Name]
+### 1. Coverage Expansion
 
-**Purpose**: [State-level implementation]
+Multiple subtopics address the 27+ million uninsured:
+- Medicaid expansion in remaining states
+- ACA subsidy enhancement
+- Public option availability
+- Automatic enrollment mechanisms
 
-**Draft Text**:
+### 2. Cost Control
 
-```text
-SECTION 1. [PROVISION]
+Healthcare costs (18% of GDP) require:
+- Drug price negotiation expansion
+- All-payer rate setting
+- Administrative simplification
+- Consolidation prevention
 
-SECTION 2. [PROVISION]
+### 3. Workforce Development
 
-```text
+Provider shortages (especially primary care, rural, behavioral health):
+- GME expansion and distribution requirements
+- Loan forgiveness programs
+- Scope of practice modernization
+- Immigration reform for healthcare workers
 
-**Explanation**: [Design choices]
+### 4. Equity
 
-**Adaptations**: [How states might customize]
+Persistent disparities require:
+- Maternal mortality reduction
+- Rural access preservation
+- Behavioral health parity enforcement
+- Data collection and reporting
 
-## Regulatory Framework
+## Coordination Requirements
 
-### [Agency/Regulation]
+Effective healthcare reform requires coordinated legislation:
 
-**Existing Authority**: [Statutory basis]
-
-**Draft Regulation**: [Regulatory text]
-
-**Explanation**: [Implementation approach]
+1. **Coverage and Cost**: Expansion must be paired with cost controls
+2. **Access and Workforce**: Coverage requires adequate providers
+3. **Physical and Behavioral**: Integration across traditionally siloed systems
+4. **Federal and State**: Clear division of authority and funding
 
 ## Legal Considerations
 
-### Constitutional Issues
+### Federal-State Relations
 
-[Analysis of constitutional questions]
+- *NFIB v. Sebelius* limits on Medicaid coercion
+- ERISA preemption of state insurance regulation
+- Section 1332 waiver authority scope
+- Medicaid Section 1115 waivers
 
-### Preemption Questions
+### Regulatory Authority
 
-[Federal vs. state authority]
+- CMS rule-making power
+- FDA approval processes
+- HHS enforcement mechanisms
+- State insurance commissioner authority
 
-### Enforcement Mechanisms
+### Antitrust
 
-[How laws will be enforced]
+- Provider consolidation concerns
+- Insurer market concentration
+- Pharmacy benefit manager practices
+- Certificate of need laws
 
-### Sunset and Review Provisions
+## Cross-Domain Connections
 
-[Built-in review requirements]
+Healthcare legislation intersects with:
+- **Education**: Workforce pipelines, school health, child development
+- **Justice**: Mental health crisis response, incarceration healthcare, addiction
+- **Economic**: Employment-based insurance, productivity, fiscal sustainability
+- **Labor**: Healthcare worker rights, employer mandates
 
-## References
+See subtopic legislation files for detailed cross-references.
 
-[Citations to existing law, court cases, model legislation]
-
-## Related Topics
-
-- [Related Topic](path) - Connection
+---
 
 ## Document Navigation
 
 - Previous: [Actions](10-actions.md)
-- Up: [Overview](01-overview.md)
+- Up: [Healthcare Overview](01-overview.md)

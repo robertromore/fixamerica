@@ -60,6 +60,10 @@ This subtopic does not cover:
 - [Labor](../../labor/01-overview.md) - Worker organizing and labor rights
 - [Taxation](../taxation/01-overview.md) - Tax policy affecting take-home pay
 
+### Cross-Domain Topics
+
+- [Justice: Prison Labor](../../justice/prison-labor/01-overview.md) - Sub-minimum prison wages create unfair labor market competition and undermine wage standards
+
 ## Related Subtopics
 
 | Subtopic | Connection |

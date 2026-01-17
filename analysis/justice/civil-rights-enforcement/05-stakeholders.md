@@ -9,6 +9,7 @@ Civil rights enforcement involves a complex ecosystem of stakeholders with varyi
 ### 1. Victims of Police Misconduct and Their Families
 
 **Profile:**
+
 - Disproportionately Black, Latino, and low-income individuals
 - Often have prior criminal justice contact (used to discredit them)
 - Frequently traumatized and in need of both justice and healing
@@ -367,6 +368,7 @@ Civil rights enforcement involves a complex ecosystem of stakeholders with varyi
 | [← Root Causes](04-root-causes.md) | [Justice Index](../index.md) | [Opposition →](06-opposition.md) |
 
 **Section Contents:**
+
 - [01. Overview](01-overview.md)
 - [02. Current State](02-current-state.md)
 - [03. History](03-history.md)

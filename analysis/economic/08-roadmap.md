@@ -3,6 +3,7 @@
 ## Overview
 
 Economic reform requires a phased approach that:
+
 1. Builds power through early wins
 2. Sequences reforms based on dependencies
 3. Coordinates political and economic strategies
@@ -197,7 +198,7 @@ Though extremely difficult, building toward:
 
 ### What Must Come First
 
-```
+```text
 Political Reform
        ↓
 Reduce Money in Politics → More Responsive Congress

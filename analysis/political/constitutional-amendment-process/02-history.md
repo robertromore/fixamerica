@@ -296,7 +296,7 @@ Growing interest in Article V conventions:
 **Convention of States**:
 
 - Broader convention for federalism amendments
-- 19 states passed applications (as of 2024)
+- 19 states passed applications (2024 snapshot)
 - Conservative-led effort
 
 **Wolf-PAC**:

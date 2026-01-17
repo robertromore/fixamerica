@@ -154,6 +154,11 @@ This subtopic contains:
 - [Healthcare](../../healthcare/) - Healthcare market consolidation
 - [Agriculture](../../agriculture/) - Agricultural concentration
 
+### Cross-Domain Topics
+
+- [Political: Lobbying](../../political/lobbying/01-overview.md) - Corporate lobbying weakens antitrust enforcement; concentration amplifies lobbying power
+- [Political: Campaign Finance](../../political/campaign-finance/01-overview.md) - Corporate political spending influences antitrust policy and enforcement priorities
+
 ## Related Subtopics
 
 | Subtopic | Connection |

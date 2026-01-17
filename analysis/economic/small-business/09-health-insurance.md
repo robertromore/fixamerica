@@ -28,6 +28,7 @@ Health insurance represents one of the most significant challenges facing small 
 | Difference | +$1,400 | +$1,200 | +$200 |
 
 **Per Employee Cost Differential**:
+
 - Small employer: $6,900/employee (single), $16,500/employee (family)
 - Large employer: $6,100/employee (single), $16,300/employee (family)
 - Small business premium: 10-13% higher
@@ -37,6 +38,7 @@ Health insurance represents one of the most significant challenges facing small 
 ### Risk Pool Problems
 
 **Small Risk Pools**:
+
 - One sick employee can dramatically increase premiums
 - Annual renewal becomes lottery
 - No ability to self-insure or spread risk
@@ -44,6 +46,7 @@ Health insurance represents one of the most significant challenges facing small 
 
 **Example**:
 A 10-employee company where one employee has cancer:
+
 - Year 1: $6,000/employee premium
 - Year 2 (post-diagnosis): $9,000/employee premium (+50%)
 - Must absorb or pass to employees
@@ -77,6 +80,7 @@ A 10-employee company where one employee has cancer:
 | 2020-2023 | 7.2% | 4.8% |
 
 **Year-to-Year Variation**:
+
 - Small groups: 0-30%+ annual swings
 - Large groups: 2-8% predictable increases
 
@@ -85,6 +89,7 @@ A 10-employee company where one employee has cancer:
 ### Hiring Decisions
 
 Small business owners report health insurance costs affect:
+
 - **Whether to hire**: 42% delayed hiring due to insurance costs
 - **Who to hire**: Preference for applicants with spouse coverage
 - **Full-time vs. part-time**: 30%+ keep workers under hours threshold
@@ -93,6 +98,7 @@ Small business owners report health insurance costs affect:
 ### Competitiveness
 
 **Recruiting Disadvantage**:
+
 - Cannot match large employer benefits
 - Lose candidates to companies with better coverage
 - Particularly acute for skilled workers
@@ -101,6 +107,7 @@ Small business owners report health insurance costs affect:
 ### Owner Coverage
 
 **Self-Employed and Small Business Owner Coverage**:
+
 - 24% of self-employed are uninsured (vs. 8% of employees)
 - Many pay individual market rates ($15,000-25,000/family)
 - Pre-ACA: Many denied coverage for pre-existing conditions
@@ -123,12 +130,14 @@ Small business owners report health insurance costs affect:
 ### Traditional Group Insurance
 
 **How It Works**:
+
 - Purchase through broker or direct from carrier
 - Experience rated based on employee health
 - Annual renewal with potential rate changes
 - Minimum participation requirements (usually 70%+)
 
 **Limitations**:
+
 - Expensive for small groups
 - Volatile premiums
 - Limited carrier choices in many markets
@@ -139,12 +148,14 @@ Small business owners report health insurance costs affect:
 The Small Business Health Options Program under the ACA:
 
 **Design Intent**:
+
 - Pool small business risk
 - Provide tax credits for smallest businesses
 - Increase plan choice
 - Simplify administration
 
 **Reality**:
+
 - Limited carrier participation
 - Tax credit eligibility narrow (≤25 employees, avg salary ≤$56,000)
 - Not significantly cheaper than direct purchase
@@ -155,11 +166,13 @@ The Small Business Health Options Program under the ACA:
 **Concept**: Allow small businesses to band together through associations to purchase coverage
 
 **Trump Administration Expansion (2018)**:
+
 - Broadened AHP rules
 - Allowed looser association definitions
 - Permitted experience rating
 
 **Problems**:
+
 - Court struck down parts of rule (2019)
 - Cherry-picking concerns (healthy groups leave regular market)
 - Limited adoption
@@ -168,24 +181,28 @@ The Small Business Health Options Program under the ACA:
 ### Health Reimbursement Arrangements (HRAs)
 
 **Individual Coverage HRA (ICHRA)** (2020):
+
 - Employer provides tax-free allowance
 - Employees purchase individual market coverage
 - No group plan required
 - Any size employer eligible
 
 **Advantages**:
+
 - Predictable costs for employer
 - Employee choice of plans
 - No minimum contribution requirements
 - Works with ACA subsidies (with limits)
 
 **Disadvantages**:
+
 - Employees must navigate individual market
 - Coverage may be more expensive
 - Administrative complexity
 - Tax treatment complex
 
 **Qualified Small Employer HRA (QSEHRA)**:
+
 - For employers <50 employees with no group plan
 - Maximum contribution: $5,850 (individual) / $11,800 (family) (2023)
 - Employees purchase individual coverage
@@ -194,17 +211,20 @@ The Small Business Health Options Program under the ACA:
 ### Professional Employer Organizations (PEOs)
 
 **How It Works**:
+
 - PEO becomes co-employer
 - Small business joins PEO's larger risk pool
 - Access to large group rates
 - PEO handles administration
 
 **Statistics**:
+
 - 175,000+ small businesses use PEOs
 - 4 million workers in PEO arrangements
 - Can save 10-20% on benefits costs
 
 **Limitations**:
+
 - Loss of some control
 - Co-employment raises liability questions
 - Not available in all industries
@@ -213,12 +233,14 @@ The Small Business Health Options Program under the ACA:
 ### Health Care Sharing Ministries
 
 **What They Are**:
+
 - Religious-based sharing of medical expenses
 - Not insurance; no guaranteed coverage
 - Members share eligible expenses
 - Exempt from ACA individual mandate
 
 **Considerations**:
+
 - Lower monthly costs ($200-500/month)
 - Not regulated as insurance
 - Pre-existing conditions often excluded
@@ -228,18 +250,21 @@ The Small Business Health Options Program under the ACA:
 ### Self-Funding (Partial)
 
 **Level-Funded Plans**:
+
 - Fixed monthly payments
 - Insurance company handles claims
 - Potential refund if claims low
 - Stop-loss protection
 
 **Advantages**:
+
 - Predictable costs
 - Potential savings if healthy group
 - Some flexibility in plan design
 - Not subject to all state mandates
 
 **Risks**:
+
 - May pay more if claims high
 - Renewal based on experience
 - Complex to understand
@@ -249,7 +274,7 @@ The Small Business Health Options Program under the ACA:
 ### Positive Effects
 
 - Pre-existing condition protections
-- Essential health benefits standardization  
+- Essential health benefits standardization
 - Young adult coverage on parent plans
 - No annual or lifetime limits
 - Dependent coverage options
@@ -266,6 +291,7 @@ The Small Business Health Options Program under the ACA:
 Businesses at 49 employees face significant costs if they grow:
 
 **At 50 Employees Must**:
+
 - Offer affordable coverage or face penalty
 - Affordable = <9.12% of household income (2023)
 - Penalty: $2,880/employee (after first 30) if no offer
@@ -289,6 +315,7 @@ Many businesses deliberately stay below 50 employees to avoid mandate
 ### The Competitive Disadvantage
 
 American small businesses face costs that international competitors do not:
+
 - $6,000-17,000/employee that Canadian competitors don't pay
 - Administrative burden that foreign competitors avoid
 - Hiring decisions distorted by coverage considerations
@@ -299,6 +326,7 @@ American small businesses face costs that international competitors do not:
 ### Public Option
 
 **How It Would Help Small Business**:
+
 - Compete with private insurers
 - Drive down premiums
 - Provide option in areas with few carriers
@@ -307,12 +335,14 @@ American small businesses face costs that international competitors do not:
 ### Medicare Expansion
 
 **Medicare for All** impacts:
+
 - Eliminate employer responsibility entirely
 - Level playing field with large employers
 - Remove coverage from compensation equation
 - Financed through taxes rather than premiums
 
 **Medicare Buy-In** (Age 55+):
+
 - Remove oldest, most expensive workers from pools
 - Lower premiums for remaining group
 - Transition step toward broader coverage
@@ -331,11 +361,13 @@ American small businesses face costs that international competitors do not:
 ### Market Reforms
 
 **Reinsurance Programs**:
+
 - Government covers highest-cost claims
 - Reduces premiums for all
 - State programs showing 10-20% savings
 
 **Rate Review**:
+
 - Strengthen review of premium increases
 - Public justification requirements
 - Transparency in pricing
@@ -343,16 +375,19 @@ American small businesses face costs that international competitors do not:
 ### Small Business-Specific Solutions
 
 **Enhanced Tax Credits**:
+
 - Expand eligibility beyond current limits
 - Increase credit percentage
 - Make credits refundable
 
 **Multi-Employer Purchasing**:
+
 - Enable genuine pooling across small businesses
 - Geographic or industry-based pools
 - State-facilitated arrangements
 
 **Simplified Administration**:
+
 - Streamlined reporting requirements
 - Combined enrollment systems
 - Reduced compliance burden

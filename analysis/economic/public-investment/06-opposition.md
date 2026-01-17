@@ -338,6 +338,7 @@ Some business groups have moderated opposition:
 | National Association of Manufacturers | Supported CHIPS Act |
 
 **Reasons for Shift**:
+
 - Supply chain disruptions exposed vulnerabilities
 - Competition from China created urgency
 - Deteriorating infrastructure harming business

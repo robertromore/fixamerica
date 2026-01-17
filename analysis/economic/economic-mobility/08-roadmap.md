@@ -244,6 +244,7 @@ Restoring economic mobility in America requires a multi-decade commitment across
 | Fairness | Moral argument |
 
 **Avoid**:
+
 - "Redistribution" (triggers opposition)
 - "Reparations" (divisive until groundwork laid)
 - "Socialism" (let opponents say it, don't own it)

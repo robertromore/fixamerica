@@ -1,3 +1,26 @@
+---
+freshness:
+  last-reviewed: 2025-01-12
+  data-year: 2023
+  review-cycle: 6
+  sections:
+    - name: "Legislative Output"
+      data-year: 2023
+    - name: "Governing by Crisis"
+      data-year: 2023
+    - name: "Senate Dysfunction"
+      data-year: 2023
+    - name: "House Dysfunction"
+      data-year: 2023
+notes:
+  - Update continuing-resolution and debt-ceiling data as the 118th Congress completes FY 2024-2025 appropriations.
+  - Track oversight activity counts once CRS releases mid-2025 summaries.
+sources:
+  count: 5
+  verified: 2025-01-12
+  broken: 0
+---
+
 # Congressional Reform: Current State
 
 ## Legislative Output
@@ -52,6 +75,14 @@
 - Near-defaults multiple times
 - Credit rating downgrade (2011)
 - Continued brinksmanship
+
+### 118th Congress (2023-2024 snapshot)
+
+- Legislative output in the 118th remains in the 300-400 law range, reinforcing the long-term decline captured by the CRS “Résumé of Congressional Activity.”*
+- Fiscal 2024 and 2025 entailed repeated stopgap funding, a last-minute sectoral continuing resolution in December 2023, and the August 2023 debt ceiling standoff that edged close to default before a bipartisan deal.
+- Oversight hearings and major authorizing bills have been concentrated in a handful of committees, with most policy fights resolved through floor-level negotiation rather than floor votes.
+
+*Source: Congressional Research Service, “Résumé of Congressional Activity,” 2023–24 updates.*
 
 ## Senate Dysfunction
 

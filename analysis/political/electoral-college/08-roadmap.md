@@ -31,64 +31,59 @@ Electoral College reform faces a fundamental obstacle: those who benefit from th
 
 ## Phase 1: Build to 270 (Current - Year 5)
 
-### Current Position (as of 2024)
+### Current Position (latest public update: end of 2024)
 
-**Secured**: 209 electoral votes (17 states + DC) *Source: National Popular Vote Inc., 2024.*
+**Secured**: 209 electoral votes (17 states + DC). *Source: National Popular Vote Inc., status update dated Dec. 2024.*
 
 **Needed**: 61 more electoral votes
 
-### Priority States for NPV (as of 2024)
+**Recent additions (2023-2024)**: Minnesota (2023), Maine (2024).
+
+### Priority States for NPV (next 60+ EVs)
 
 **Tier 1 - Most Viable** (30 EVs):
 
 | State | EVs | Status | Path |
 |-------|-----|--------|------|
-| Virginia | 13 | Passed Senate previously | Democratic trifecta; legislative push |
-| Minnesota | 10 | Enacted 2023 | Done |
-| Maine | 4 | Enacted 2024 | Done |
-| Nevada | 6 | Passed, vetoed | Governor change or override |
+| Virginia | 13 | Prior legislative movement | Reassess after each statewide election |
+| Pennsylvania | 19 | Prior legislative movement | Senate pathway + public pressure |
+| Michigan | 15 | Active in recent sessions | Legislative push or ballot initiative |
+| Nevada | 6 | Prior passage + veto history | Legislative push or ballot initiative |
 
 **Tier 2 - Challenging but Possible** (40+ EVs):
 
 | State | EVs | Status | Path |
 |-------|-----|--------|------|
-| Pennsylvania | 19 | Passed Senate | House passage |
-| Michigan | 15 | Active | Legislative or ballot initiative |
-| North Carolina | 16 | Active | Requires political shift |
-| Arizona | 11 | Active | Ballot initiative possible |
+| Arizona | 11 | Active in recent sessions | Ballot initiative possible |
+| North Carolina | 16 | Limited movement | Requires political shift |
+| Wisconsin | 10 | Limited movement | Legislative shift needed |
 
 **Tier 3 - Long Shot** (30+ EVs):
 
 | State | EVs | Status | Path |
 |-------|-----|--------|------|
-| Wisconsin | 10 | Active | Legislative shift needed |
-| Georgia | 16 | Minimal | Requires major political change |
-| Florida | 30 | Minimal | Requires major political change |
+| Georgia | 16 | Minimal movement | Requires major political change |
+| Florida | 30 | Minimal movement | Requires major political change |
 
 ### State-Level Campaigns
 
 **Virginia Campaign**:
 
-- Democratic trifecta in place
-- Prior Senate passage
-- Focus on House passage
-- Governor signature expected
-- Target: Next legislative session
+- Build bipartisan legislative coalition
+- Emphasize voter equality in safe states
+- Reassess feasibility after each statewide election cycle
 
 **Pennsylvania Campaign**:
 
-- Divided government challenge
-- Senate has passed
-- House Republican majority
-- Focus: Bipartisan outreach, public pressure
-- Longer timeline
+- Focus on Senate pathway and bipartisan cover
+- Pair public pressure with business/civic validators
+- Keep House support consolidated
 
 **Michigan Campaign**:
 
-- Democratic trifecta
-- Active legislation
-- Possible ballot initiative backup
-- Target: Next 2 years
+- Maintain legislative push
+- Develop ballot initiative backup
+- Track gubernatorial stance and legislative margins
 
 ### Coalition Building
 

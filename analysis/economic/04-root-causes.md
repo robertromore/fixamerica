@@ -7,18 +7,21 @@
 Modern economic structure increasingly produces extreme concentration of rewards:
 
 **Network Effects and Platforms**
+
 - Digital platforms benefit from more users (network effects)
 - First-mover advantages become insurmountable
 - Winner captures nearly entire market
 - Traditional competition cannot function in these markets
 
 **Superstar Economics**
+
 - Technology amplifies productivity differences
 - Top performers capture disproportionate rewards
 - Middle-skill, middle-wage jobs hollowed out
 - Talent clusters in a few geographic areas
 
 **Intellectual Property Expansion**
+
 - Patents, copyrights extended in scope and duration
 - Monopoly rents from IP increasingly valuable
 - Pharmaceutical and tech sectors benefit most
@@ -29,18 +32,21 @@ Modern economic structure increasingly produces extreme concentration of rewards
 The asymmetry between mobile capital and immobile labor systematically favors owners:
 
 **Capital Mobility**
+
 - Corporations can relocate production anywhere
 - Threat of offshoring disciplines workers
 - Tax competition between jurisdictions
 - Race to the bottom on regulations
 
 **Labor Immobility**
+
 - Workers cannot easily move across borders
 - Even domestic mobility limited by housing costs, family ties
 - Immigration restrictions keep labor supply constrained
 - Workers compete globally but cannot move globally
 
 **Arbitrage Incentives**
+
 - Corporations profit from wage differentials
 - Transfer pricing shifts profits to low-tax jurisdictions
 - Supply chains optimized for corporate, not worker, benefit
@@ -51,18 +57,21 @@ The asymmetry between mobile capital and immobile labor systematically favors ow
 The financial sector has grown to extract wealth from the productive economy:
 
 **Finance as Extraction**
+
 - Financial services grew from 3% to 8% of GDP
 - Much activity is rent-seeking rather than productive
 - Trading and speculation outpace investment
 - Fees and interest extract billions from households
 
 **Shareholder Primacy**
+
 - Doctrine that corporations exist only for shareholders
 - Short-term stock price becomes sole focus
 - Workers, communities, long-term investment devalued
 - Stock buybacks favor shareholders over reinvestment
 
 **Debt as Control**
+
 - Leveraged buyouts load companies with debt
 - Debt payments take precedence over wages
 - Private equity strips assets while extracting fees
@@ -73,18 +82,21 @@ The financial sector has grown to extract wealth from the productive economy:
 Technology has transformed the labor market in ways that increase inequality:
 
 **Automation and Skill Bias**
+
 - Technology complements high-skill workers
 - Routine middle-skill jobs automated away
 - Low-skill service jobs growing but poorly paid
 - Labor market polarization results
 
 **Surveillance Capitalism**
+
 - Data extraction as business model
 - Consumer tracking and manipulation
 - Worker surveillance and algorithmic management
 - New forms of corporate power
 
 **Gig Economy and Fissuring**
+
 - Technology enables contracting out
 - Direct employment relationship severed
 - Workers classified as independent contractors
@@ -107,12 +119,14 @@ Multiple factors have shifted power from workers to employers:
 | Fissured workplace | Contracting out prevents organizing |
 
 **Employer Concentration**
+
 - Many labor markets dominated by few employers (monopsony)
 - Workers have limited alternatives
 - Wages suppressed below competitive levels
 - Non-compete agreements restrict mobility further
 
 **Weakened Labor Standards**
+
 - Minimum wage eroded by inflation
 - Overtime rules not updated for decades
 - Misclassification as contractors widespread
@@ -123,12 +137,14 @@ Multiple factors have shifted power from workers to employers:
 Deliberate policy decisions have shifted the tax burden:
 
 **Rate Reductions**
+
 - Top income rate: 91% (1950s) to 37% (today)
 - Corporate rate: 52% (1950s) to 21% (today)
 - Capital gains: Often taxed at lower rates than wages
 - Estate tax: Exemption raised to $13+ million
 
 **Loopholes and Preferences**
+
 - Carried interest loophole benefits hedge funds
 - Step-up in basis eliminates capital gains at death
 - Real estate depreciation and 1031 exchanges
@@ -136,6 +152,7 @@ Deliberate policy decisions have shifted the tax burden:
 - Offshore tax havens shelter trillions
 
 **Enforcement Collapse**
+
 - IRS budget cut while wealthy taxpayer complexity increased
 - Audit rates for millionaires plummeted
 - Estimated $600 billion annual tax gap
@@ -146,18 +163,21 @@ Deliberate policy decisions have shifted the tax burden:
 Trade agreements prioritized capital over labor:
 
 **Agreement Design**
+
 - Strong protections for intellectual property
 - Investor-state dispute settlement for corporations
 - Weak or unenforceable labor and environmental standards
 - Capital mobility guaranteed; labor mobility restricted
 
 **Failure of Adjustment**
+
 - Trade Adjustment Assistance chronically underfunded
 - Workers told to retrain for jobs that don't exist
 - Communities received no meaningful help
 - Promised benefits never materialized for many
 
 **Trade Deficit Acceptance**
+
 - Currency manipulation by trading partners tolerated
 - Persistent deficits eroded manufacturing base
 - Economists dismissed concerns about deindustrialization
@@ -168,18 +188,21 @@ Trade agreements prioritized capital over labor:
 Competition policy was neutered by ideology:
 
 **Chicago School Revolution**
+
 - Consumer welfare standard narrowed focus to prices
 - Efficiency justifications accepted uncritically
 - Vertical integration presumed benign
 - Concentrated markets assumed contestable
 
 **Merger Wave**
+
 - Thousands of mergers approved annually
 - Enforcement actions rare
 - Remedies ineffective
 - Industries consolidated across the board
 
 **Platform Monopolies Unchallenged**
+
 - New forms of concentration not recognized
 - Traditional antitrust tools inadequate
 - Network effects and data power not addressed
@@ -201,12 +224,14 @@ Economic power translates directly to political power:
 | Individual donors | 0.5% provide 70%+ of contributions |
 
 **Lobbying Industry**
+
 - 12,000+ registered lobbyists in Washington
 - $4+ billion spent annually
 - 20 lobbyists for every member of Congress
 - Revolving door between government and K Street
 
 **Policy Impact**
+
 - Princeton study: Economic elite preferences predict policy
 - Average citizen preferences have near-zero effect
 - Tax cuts for wealthy passed; minimum wage stagnant
@@ -217,6 +242,7 @@ Economic power translates directly to political power:
 Industries come to control their regulators:
 
 **Mechanisms of Capture**
+
 - Industry expertise dominates agency knowledge
 - Revolving door creates incentives to please industry
 - Lobbying and campaign contributions create pressure
@@ -237,18 +263,21 @@ Industries come to control their regulators:
 Ideas about economics changed policy:
 
 **Neoliberal Consensus**
+
 - Markets presumed efficient and self-correcting
 - Government intervention seen as counterproductive
 - Deregulation, privatization, tax cuts became default
 - Both parties adopted key tenets
 
 **Economics Profession**
+
 - Chicago School captured the field
 - Market failures minimized
 - Inequality seen as efficient outcome
 - Distribution considered outside economics
 
 **Media Narrative**
+
 - Business media amplified corporate perspective
 - Economic "experts" often with industry ties
 - Worker perspectives marginalized
@@ -259,12 +288,14 @@ Ideas about economics changed policy:
 Dysfunction prevents reform:
 
 **Gridlock**
+
 - Reforms opposed by different factions for different reasons
 - Bipartisan coalitions hard to build
 - Filibuster blocks action on most issues
 - Status quo favored regardless of merits
 
 **Culture War Distraction**
+
 - Economic grievances channeled into cultural conflict
 - Working-class voters divided by non-economic issues
 - Elite interests protected while public fights over identity
@@ -277,18 +308,21 @@ Dysfunction prevents reform:
 American culture attributes economic outcomes to individual merit:
 
 **Meritocracy Myth**
+
 - Success attributed to talent and effort
 - Failure blamed on individual inadequacy
 - Structural barriers minimized or denied
 - Solidarity and collective action devalued
 
 **Victim Blaming**
+
 - Poverty seen as character flaw
 - Workers blamed for not acquiring right skills
 - Debt blamed on poor decisions
 - Wealth assumed to reflect contribution
 
 **Anti-Government Sentiment**
+
 - Government action seen as threat to freedom
 - Public programs stigmatized
 - Collective solutions rejected
@@ -299,12 +333,14 @@ American culture attributes economic outcomes to individual merit:
 Economic identity shifted from producer to consumer:
 
 **Consumer as King**
+
 - Low prices valued over good jobs
 - Walmart and Amazon save money while destroying wages
 - Cheap goods substitute for rising incomes
 - Consumer convenience over worker dignity
 
 **Debt-Financed Consumption**
+
 - Stagnant wages masked by credit access
 - Household debt substitutes for income growth
 - Financial industry profits from debt
@@ -315,12 +351,14 @@ Economic identity shifted from producer to consumer:
 Attitudes toward inequality have shifted:
 
 **Normalization**
+
 - Extreme wealth displayed and celebrated
 - CEO compensation barely questioned
 - Poverty accepted as inevitable
 - "Both sides" framing obscures policy choices
 
 **Fear of Class Politics**
+
 - Raising inequality called "class warfare"
 - Progressive taxation labeled socialism
 - Labor organizing seen as adversarial
@@ -332,7 +370,7 @@ Attitudes toward inequality have shifted:
 
 These causes are not independent but form a self-reinforcing system:
 
-```
+```text
 Economic Power → Political Power → Favorable Policies →
 More Economic Power → More Political Power → ...
 ```

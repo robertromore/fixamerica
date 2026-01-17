@@ -12,6 +12,7 @@ Effective financial reform requires addressing both the immediate symptoms of re
 Institutions that hold federally insured deposits should not engage in speculative trading or investment banking activities. The combination creates conflicts of interest, moral hazard, and systemic risk.
 
 **Implementation:**
+
 - Prohibit FDIC-insured banks from securities underwriting and dealing
 - Prohibit FDIC-insured banks from derivatives dealing (beyond hedging)
 - Prohibit FDIC-insured banks from proprietary trading
@@ -19,12 +20,14 @@ Institutions that hold federally insured deposits should not engage in speculati
 - Five-year transition period for divestiture
 
 **Expected Benefits:**
+
 - Eliminates implicit government subsidy for speculation
 - Reduces interconnection and contagion risk
 - Restores traditional lending focus
 - Simplifies regulation and supervision
 
 **Evidence:**
+
 - 1933-1999: No systemic banking crises
 - Canada (more separation): Avoided 2008 crisis
 - Academic studies confirm mixing increased risk
@@ -35,18 +38,21 @@ Institutions that hold federally insured deposits should not engage in speculati
 Banks deemed "too big to fail" receive implicit government guarantees, creating moral hazard and competitive advantages. They also wield disproportionate political influence.
 
 **Implementation:**
+
 - Hard cap on bank size (e.g., 3% of GDP or $700 billion in assets)
 - Graduated capital requirements that make size costly
 - Mandatory divestiture for banks exceeding limits
 - Prohibition on future mergers that would create TBTF institutions
 
 **Expected Benefits:**
+
 - Eliminates TBTF implicit guarantee
 - Reduces systemic risk
 - Increases competition
 - Reduces political power concentration
 
 **Evidence:**
+
 - IMF estimates TBTF subsidy at $100+ billion annually
 - Smaller banks demonstrate comparable efficiency
 - Concentrated banking systems show higher crisis frequency
@@ -65,6 +71,7 @@ Fragmented regulation enables regulatory arbitrage and creates gaps in oversight
 | Functional consolidation | Consolidate by function, not charter | Academic proposals |
 
 **Recommended Approach:**
+
 - Merge OCC, FDIC supervision, and Fed bank supervision into single prudential regulator
 - Maintain CFPB for conduct/consumer protection
 - Merge SEC and CFTC for securities and derivatives
@@ -78,12 +85,14 @@ Fragmented regulation enables regulatory arbitrage and creates gaps in oversight
 The CFPB has been subject to political attacks, funding challenges, and leadership changes that undermine its mission.
 
 **Implementation:**
+
 - Statutory funding floor (not subject to appropriations)
 - For-cause removal protection for Director (if constitutional)
 - Expanded examination authority over fintech
 - Explicit authority over data brokers and AI lending
 
 **Priority Rules:**
+
 - Cap payday loan interest at 36% APR (military rate)
 - Prohibit overdraft fees exceeding actual transaction
 - Require plain-language disclosures
@@ -95,6 +104,7 @@ The CFPB has been subject to political attacks, funding challenges, and leadersh
 40 million Americans are unbanked or underbanked, leaving them vulnerable to predatory alternatives.
 
 **Implementation:**
+
 - Authorize USPS to offer basic banking services
 - Checking and savings accounts
 - Small-dollar lending at cost-plus pricing
@@ -102,6 +112,7 @@ The CFPB has been subject to political attacks, funding challenges, and leadersh
 - No credit offerings (avoid federal lending decisions)
 
 **Expected Benefits:**
+
 - Universal access to basic banking
 - Competition for predatory lenders
 - Leverage existing post office network
@@ -113,6 +124,7 @@ The CFPB has been subject to political attacks, funding challenges, and leadersh
 Broker-dealers can legally recommend products that benefit them, not clients.
 
 **Implementation:**
+
 - Uniform fiduciary standard for all investment advice
 - Apply to broker-dealers, insurance agents, bank representatives
 - Eliminate "suitability" lesser standard
@@ -126,6 +138,7 @@ Broker-dealers can legally recommend products that benefit them, not clients.
 While Dodd-Frank required central clearing for most swaps, exemptions and end-user carve-outs create vulnerabilities.
 
 **Implementation:**
+
 - Eliminate inter-affiliate transaction exemptions
 - Expand clearing requirements to all standardized derivatives
 - Increase margin requirements for uncleared swaps
@@ -138,6 +151,7 @@ While Dodd-Frank required central clearing for most swaps, exemptions and end-us
 Nonbank lenders, money market funds, and other shadow banks pose systemic risks without prudential oversight.
 
 **Implementation:**
+
 - Capital requirements for nonbank mortgage lenders
 - Liquidity requirements for money market funds (or convert to floating NAV)
 - Margin lending oversight expansion
@@ -152,6 +166,7 @@ Nonbank lenders, money market funds, and other shadow banks pose systemic risks 
 Corporate fines without individual accountability provide insufficient deterrent.
 
 **Implementation:**
+
 - Require DOJ to document why no individual prosecution
 - Enhanced resources for financial fraud prosecution
 - Whistleblower protections and rewards expansion
@@ -164,6 +179,7 @@ Corporate fines without individual accountability provide insufficient deterrent
 Executives retain massive compensation even when their institutions require bailouts or fail.
 
 **Implementation:**
+
 - Mandatory clawback for executives of failed or bailed-out institutions
 - Extend lookback period to 5-7 years
 - Apply to all forms of compensation (deferred, stock, bonuses)
@@ -179,6 +195,7 @@ Executives retain massive compensation even when their institutions require bail
 | CFTC | $400 million | $10+ billion industry-wide |
 
 **Implementation:**
+
 - Double SEC and CFTC budgets
 - Self-funding from industry fees
 - Enhanced technology and data analytics
@@ -200,6 +217,7 @@ Rating agencies are paid by issuers they rate, creating inherent conflicts.
 | Eliminate references | Remove ratings from regulation | Market discipline | Information loss |
 
 **Recommended:** Hybrid approach:
+
 - Random assignment for initial rating
 - Investor-funded independent credit assessment
 - Remove ratings from capital requirements (replace with internal models + disclosure)
@@ -213,6 +231,7 @@ Rating agencies are paid by issuers they rate, creating inherent conflicts.
 Regulatory uncertainty creates risks for consumers and advantages for bad actors.
 
 **Implementation:**
+
 - Clear jurisdictional lines between SEC and CFTC
 - Registration requirements for all crypto intermediaries
 - Stablecoin bank-like regulation (reserves, capital)
@@ -225,6 +244,7 @@ Regulatory uncertainty creates risks for consumers and advantages for bad actors
 Should fintech companies get bank charters without full bank regulation?
 
 **Recommended Approach:**
+
 - Full bank regulation for any entity accepting deposits
 - Payments-only charter with limited activities
 - CFPB jurisdiction over all consumer fintech
@@ -235,6 +255,7 @@ Should fintech companies get bank charters without full bank regulation?
 ### Enhanced Disclosure
 
 **Implementation:**
+
 - Portfolio company leverage disclosure
 - Fee and expense transparency
 - Performance reporting standards
@@ -246,6 +267,7 @@ Should fintech companies get bank charters without full bank regulation?
 Private equity profits taxed as capital gains (20%) rather than income (37%).
 
 **Implementation:**
+
 - Tax carried interest as ordinary income
 - Apply to all investment manager incentive compensation
 - Close recharacterization loopholes
@@ -253,6 +275,7 @@ Private equity profits taxed as capital gains (20%) rather than income (37%).
 ### Leverage Limits
 
 **Implementation:**
+
 - Cap leverage at portfolio companies
 - Restrict dividend recapitalizations
 - Limit use of debt for acquisitions of essential services (hospitals, nursing homes)
@@ -262,6 +285,7 @@ Private equity profits taxed as capital gains (20%) rather than income (37%).
 ### Overview
 
 A small tax on financial transactions can:
+
 - Reduce high-frequency speculation
 - Generate substantial revenue
 - Fund regulatory capacity
@@ -300,6 +324,7 @@ Decades of consolidation have reduced competition and created TBTF institutions.
 ### Living Wills That Work
 
 **Implementation:**
+
 - Annual resolution plans
 - Credible and not "aspirational"
 - Automatic restrictions if plans inadequate
@@ -308,6 +333,7 @@ Decades of consolidation have reduced competition and created TBTF institutions.
 ### Enhanced Stress Testing
 
 **Implementation:**
+
 - More severe adverse scenarios
 - Include climate transition scenarios
 - Annual testing for all large institutions
@@ -316,6 +342,7 @@ Decades of consolidation have reduced competition and created TBTF institutions.
 ### Macroprudential Tools
 
 **Implementation:**
+
 - Counter-cyclical capital buffers (automatic)
 - Loan-to-value limits (housing)
 - Debt-to-income limits (housing)

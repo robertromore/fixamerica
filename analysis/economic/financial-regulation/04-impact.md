@@ -19,6 +19,7 @@ Financial crises and predatory finance practices are not abstract policy failure
 ### Housing Devastation
 
 **Foreclosure Statistics (2007-2016):**
+
 - 10 million families lost homes to foreclosure
 - 9.3 million homeowners went underwater (owed more than home value)
 - $7 trillion in home equity destroyed
@@ -37,6 +38,7 @@ Foreclosures clustered in communities targeted for predatory lending:
 ### Employment Impact
 
 **Job Losses:**
+
 - 8.7 million jobs lost (2008-2010)
 - Unemployment peaked at 10% (17% including underemployed)
 - Long-term unemployment (27+ weeks) reached 6.8 million
@@ -45,6 +47,7 @@ Foreclosures clustered in communities targeted for predatory lending:
 
 **Wage Effects:**
 Workers who lost jobs during the crisis suffered permanent earning losses:
+
 - Average wage loss of 15-20% even after re-employment
 - Workers who graduated during crisis earned 10-15% less over careers
 - Older workers faced age discrimination and early retirement
@@ -77,6 +80,7 @@ Beyond major crises, the financial system extracts wealth from vulnerable Americ
 ### Payday Lending
 
 **How It Works:**
+
 - Short-term loans of $100-$500 at 300-500% APR
 - Due on next payday, causing repeat borrowing
 - Average borrower takes 8 loans per year
@@ -93,6 +97,7 @@ Beyond major crises, the financial system extracts wealth from vulnerable Americ
 | Renters | 8% |
 
 **Cost to Borrowers:**
+
 - $9 billion in annual fees
 - Average borrower pays $520 in fees to borrow $375
 - Borrowers in debt an average of 5 months per year
@@ -101,12 +106,14 @@ Beyond major crises, the financial system extracts wealth from vulnerable Americ
 ### Overdraft Fees
 
 **The Business Model:**
+
 - Banks process transactions largest-first to maximize overdrafts
 - Average overdraft fee: $35 for average overdraft of $24
 - Equivalent to 3,000%+ APR if treated as short-term loan
 - 9% of account holders pay 80% of all overdraft fees
 
 **Annual Extraction:**
+
 - $15 billion+ in annual overdraft fees
 - Median overdraft payer earns less than $30,000
 - Disproportionately affects Black and Hispanic account holders
@@ -114,11 +121,13 @@ Beyond major crises, the financial system extracts wealth from vulnerable Americ
 ### Auto Lending Abuses
 
 **Dealer Markup:**
+
 - Dealers can add 2-3% to financing rates and keep the difference
 - Black borrowers pay an average of 0.5% higher rates than comparable white borrowers
 - "Yo-yo financing" traps buyers in worse terms after driving off lot
 
 **Subprime Auto Lending:**
+
 - Subprime auto loans now exceed $100 billion annually
 - Delinquency rates have reached 2008-level peaks
 - Aggressive repossession practices devastate working families
@@ -127,12 +136,14 @@ Beyond major crises, the financial system extracts wealth from vulnerable Americ
 ### For-Profit College Lending
 
 **The Scam:**
+
 - Predatory schools target veterans, single parents, minorities
 - 90/10 rule: Schools can get 90% of revenue from federal student aid
 - Students graduate with debt but worthless credentials
 - Default rates exceed 50% at some institutions
 
 **Cost:**
+
 - $100+ billion in federal student loans to for-profit schools
 - Graduates earn less than high school diploma holders
 - Taxpayers lose billions to defaults

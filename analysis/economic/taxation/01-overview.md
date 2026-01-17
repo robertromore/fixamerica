@@ -248,4 +248,4 @@ Extreme wealth concentration creates fragile economies dependent on the spending
 ## Document Navigation
 
 - Next: [Current State](02-current-state.md)
-- [Full Document Index](#) - All taxation documents
+- [Taxation Overview](01-overview.md) - This document

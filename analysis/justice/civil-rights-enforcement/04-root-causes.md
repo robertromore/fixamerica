@@ -74,6 +74,7 @@ Cycle repeats indefinitely
 Since 2009, courts can skip the constitutional question entirely:
 
 **Before Pearson (2001-2009):**
+
 1. Did the officer violate the Constitution?
 2. If yes, was the right clearly established?
 
@@ -340,6 +341,7 @@ Limited DOJ resources → Selective enforcement → Impunity persists
 | [← History](03-history.md) | [Justice Index](../index.md) | [Stakeholders →](05-stakeholders.md) |
 
 **Section Contents:**
+
 - [01. Overview](01-overview.md)
 - [02. Current State](02-current-state.md)
 - [03. History](03-history.md)

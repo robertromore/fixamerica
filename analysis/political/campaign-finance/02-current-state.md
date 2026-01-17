@@ -1,3 +1,26 @@
+---
+freshness:
+  last-reviewed: 2025-01-12
+  data-year: 2024
+  review-cycle: 6
+  sections:
+    - name: "The Problem Today"
+      data-year: 2010-2024
+    - name: "Key Statistics"
+      data-year: 2024
+    - name: "The Legal Framework"
+      data-year: 2024
+    - name: "Recent Developments"
+      data-year: 2024
+notes:
+  - Revisit 2024 cycle totals once final FEC reports are posted and adjust aggregates accordingly.
+  - Monitor 2025 legislation or FEC rulemaking on ceilings, disclosure, and dark money reporting.
+sources:
+  count: 6
+  verified: 2025-01-12
+  broken: 0
+---
+
 # Campaign Finance: Current State
 
 ## The Problem Today
@@ -43,7 +66,7 @@ The 2010 Citizens United decision fundamentally transformed American political f
 
 ```text
 
-## Key Statistics (as of 2024)
+## Key Statistics (2024 snapshot)
 
 ### Money in Federal Elections
 
@@ -79,7 +102,7 @@ The 2010 Citizens United decision fundamentally transformed American political f
 - Only about 0.01% are major donors ($10,000+)
 - Elite donors have vastly disproportionate influence
 
-### Fundraising Time Burden (as of 2024)
+### Fundraising Time Burden (2024 snapshot)
 
 **House Members**
 
@@ -105,6 +128,14 @@ The 2010 Citizens United decision fundamentally transformed American political f
 | Senate races (all) | ~85% |
 
 Money doesn't guarantee victory, but underfunded candidates rarely win competitive races.
+
+### 2024 Cycle Snapshot
+
+- The 2024 federal election cycle set a new spending high, with preliminary OpenSecrets/FEC tallies exceeding the 2020 benchmark and still climbing as final reports are compiled.* 
+- Outside/independent expenditures continued to be dominated by super PACs and 501(c)(4) “dark money” groups, despite renewed calls for disclosure. 
+- Small-dollar donors and online fundraising platforms expanded their share, but the same narrow donor pool still determines a majority of funding.
+
+*Sources: [OpenSecrets, “Cost of Elections”](https://www.opensecrets.org/elections-overview/cost-of-election); Federal Election Commission 2025 cycle updates.*
 
 ## The Legal Framework
 
@@ -191,7 +222,7 @@ Money doesn't guarantee victory, but underfunded candidates rarely win competiti
 
 ## Recent Developments
 
-### 2020 Election Trends
+### 2024 Election Trends
 
 **Record-Breaking Spending**
 
@@ -300,7 +331,7 @@ Money doesn't guarantee victory, but underfunded candidates rarely win competiti
 - Challenges to dark money
 - City-level experiments
 
-### Public Opinion (as of 2024)
+### Public Opinion (2024 snapshot)
 
 | Issue | Support |
 |-------|---------|
@@ -369,3 +400,4 @@ Bipartisan agreement that money is problem; disagreement on solutions.
 
 - Previous: [Overview](01-overview.md)
 - Next: [History](03-history.md)
+# Campaign Finance: Current State

@@ -146,6 +146,14 @@ This section addresses:
 | [Restorative Justice](../restorative-justice/01-overview.md) | Youth diversion, teen courts |
 | [Mental Health Crisis](../mental-health-crisis/01-overview.md) | Youth mental health, trauma-informed care |
 
+## Related Topics
+
+| Topic | Connection |
+|-------|------------|
+| [Education Equity](../../education/education-equity/01-overview.md) | School-to-prison pipeline, disciplinary disparities |
+| [K-12 Education](../../education/k-12-education/01-overview.md) | School discipline policies, zero tolerance, SROs |
+| [Mental Health Integration](../../healthcare/mental-health-integration/01-overview.md) | Youth mental health services, trauma-informed care |
+
 ## Document Navigation
 
 - Next: [Current State](02-current-state.md)

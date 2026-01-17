@@ -18,6 +18,7 @@ Restoring economic mobility requires simultaneous action on multiple fronts: ear
 | Boston public pre-K | Sustained gains through high school |
 
 **Key elements for effectiveness**:
+
 - Universal (not just low-income) to reduce stigma and build political support
 - Full-day programs (part-day insufficient)
 - Qualified, well-compensated teachers
@@ -43,6 +44,7 @@ Currently serves only 7% of eligible children.
 ### Home Visiting Programs
 
 **Models with evidence**:
+
 - Nurse-Family Partnership: Nurse visits from pregnancy through age 2
 - Parents as Teachers: Parent educators provide support
 - Healthy Families America: Targets at-risk families
@@ -69,6 +71,7 @@ Currently serves only 7% of eligible children.
 | OECD average | 18 weeks |
 
 **Benefits**:
+
 - Improved infant health and development
 - Higher breastfeeding rates
 - Maternal employment retention
@@ -95,6 +98,7 @@ Current system: Property taxes fund local schools, creating massive disparities
 ### Integration
 
 **Methods**:
+
 - Magnet schools with integration goals
 - Controlled choice programs
 - Regional consolidation
@@ -122,6 +126,7 @@ Current system: Property taxes fund local schools, creating massive disparities
 | Reform for-profit regulation | Gainful employment rules, program integrity |
 
 **Recommended package**:
+
 1. Free community college for all
 2. Tuition-free public university for families under $125,000
 3. Double Pell Grant (to ~$14,000)
@@ -169,6 +174,7 @@ Following Supreme Court restrictions, alternative approaches:
 | CMTO (Creating Moves to Opportunity) | Information + counseling doubled moves to high-opportunity areas |
 
 **Elements of effective programs**:
+
 - Housing counseling
 - Security deposit assistance
 - Landlord recruitment
@@ -203,6 +209,7 @@ Current program serves only 25% of eligible households
 | Top 25% | $0-5,000 |
 
 **Rules**:
+
 - Held until age 18
 - Usable for education, homeownership, or business
 - Invested in diversified portfolio

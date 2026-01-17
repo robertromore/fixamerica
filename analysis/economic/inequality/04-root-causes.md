@@ -387,12 +387,82 @@ Understanding root causes reveals:
 4. **Race and class linked**: Must address both
 5. **Structural change needed**: Individual solutions insufficient
 
+## Education and Opportunity Inequality
+
+Educational inequality is both a driver and consequence of economic inequality. The education system, rather than serving as the great equalizer, often reinforces and perpetuates existing disparities.
+
+### Achievement Gaps Established Early
+
+Inequality in educational outcomes begins before children enter school and compounds over time:
+
+| Life Stage | Low-Income Experience | High-Income Experience | Gap |
+|------------|----------------------|------------------------|-----|
+| Birth-3 years | Limited vocabulary exposure, less enrichment | Rich language environment, structured activities | 30 million word gap by age 3 |
+| Pre-K | Only 34% have access to quality programs | Universal access through private programs | Kindergarten readiness gap of 34 points |
+| Elementary | Higher teacher turnover, fewer resources | Stable, experienced teachers, full offerings | Achievement gaps widen each year |
+| High school | 78% graduation rate | 94% graduation rate | 16-point gap |
+| College | 29% degree completion (low-income) | 66% degree completion (high-income) | 37-point gap |
+
+These gaps compound: children from wealthy families receive more educational investment at every stage, and each stage builds on the last.
+
+### College Access Disparities by Income
+
+Higher education, once seen as the pathway to mobility, increasingly reinforces class stratification:
+
+| Barrier | How It Works |
+|---------|--------------|
+| Legacy admissions | Children of alumni 4x more likely to be admitted at elite schools |
+| Early decision | Advantages those who don't need to compare financial aid packages |
+| Test preparation | $10,000+ packages give wealthy students 100+ point SAT advantages |
+| Unpaid internships | Only accessible to those who can afford to work for free |
+| Geographic access | Poor students less likely to apply to selective schools |
+| Information gaps | First-generation students lack guidance on applications, financial aid |
+
+Elite colleges enroll more students from the top 1% than the bottom 50% combined.
+
+### Student Debt Burden by Income Level
+
+Student debt exacerbates inequality rather than alleviating it:
+
+| Income Group | Average Debt | Repayment Outcomes |
+|--------------|-------------|-------------------|
+| Lowest quintile | $30,000 | 49% default rate within 12 years |
+| Second quintile | $28,000 | 32% default rate |
+| Middle quintile | $27,000 | 21% default rate |
+| Fourth quintile | $26,000 | 11% default rate |
+| Highest quintile | $22,000 | 4% default rate |
+
+The paradox: Lower-income students often borrow more (lacking family resources) yet earn less after graduation (attending less selective schools, lacking networks), creating a debt trap that prevents wealth accumulation.
+
+### Education as Both Symptom and Solution
+
+**Education reflects inequality:**
+
+- School funding tied to property taxes perpetuates geographic inequality
+- Wealthy parents can supplement public education or exit to private schools
+- College access depends heavily on family resources and information
+
+**Education can reduce inequality if:**
+
+- Funding is equalized across districts and states
+- Universal high-quality pre-K closes early gaps
+- Higher education becomes affordable without crushing debt
+- Vocational pathways provide middle-class incomes without degrees
+
+The education system currently operates as a mechanism for intergenerational transmission of advantage. Reforming it is essential for reducing economic inequality.
+
+See [Education: Overview](../../education/01-overview.md) and its subtopics for comprehensive analysis.
+
 ## Related Topics
 
 - [History](03-history.md) - How we got here
 - [Stakeholders](05-stakeholders.md) - Who benefits and who's harmed
 - [Political: Campaign Finance Root Causes](../../political/campaign-finance/04-root-causes.md) - Money and politics
 - [Labor: Root Causes](../../labor/04-root-causes.md) - Worker power decline
+- [Education: Overview](../../education/01-overview.md) - Education system analysis
+- [Education Equity](../../education/education-equity/01-overview.md) - Opportunity gaps
+- [Student Debt](../../education/student-debt/01-overview.md) - Student loan crisis
+- [Economic Mobility: Root Causes](../economic-mobility/04-root-causes.md) - Education and mobility
 
 ## Document Navigation
 

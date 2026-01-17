@@ -9,12 +9,14 @@ Achieving the public investment levels America needs requires a multi-phase stra
 ### Theory of Change
 
 **The Investment Trap**:
+
 - Underinvestment leads to deterioration
 - Deterioration erodes public trust
 - Eroded trust makes investment harder
 - Cycle continues
 
 **Breaking the Cycle**:
+
 1. Demonstrate successful execution
 2. Build broad political coalitions
 3. Establish sustainable financing

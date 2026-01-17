@@ -209,7 +209,7 @@
 
 ### Dependencies
 
-```
+```text
 State momentum -> Federal pressure
           |
           v

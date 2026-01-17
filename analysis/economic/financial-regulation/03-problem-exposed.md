@@ -10,36 +10,41 @@ The 2008 financial crisis was not a natural disaster or an unforeseeable "black 
 
 The crisis originated in the housing market, where deregulation created a toxic chain:
 
-```
+```text
 Mortgage Brokers → Banks → Investment Banks → Investors
       ↓               ↓           ↓              ↓
   (No oversight)  (Securitization) (Leverage)  (Mispriced risk)
 ```
 
 **Step 1: Predatory Origination**
+
 - Mortgage brokers earned fees for volume, not quality
 - "No-doc" and "liar loans" required no income verification
 - Adjustable rates with teaser periods masked true costs
 - Regulators at OCC and OTS preempted state consumer protection laws
 
 **Step 2: Securitization Without Accountability**
+
 - Banks sold mortgages immediately, eliminating stake in performance
 - "Originate to distribute" model severed traditional lending relationships
 - Mortgage-backed securities mixed toxic loans with legitimate ones
 
 **Step 3: Rating Agency Failure**
+
 - Moody's, S&P, and Fitch rated junk securities as AAA
 - Issuers paid for ratings, creating conflict of interest
 - Complex models used flawed assumptions about default correlation
 - $3.2 trillion in securities would be downgraded
 
 **Step 4: Derivative Amplification**
+
 - Credit default swaps "insured" securities without capital reserves
 - AIG wrote $440 billion in CDS contracts with no ability to pay claims
 - Synthetic CDOs created multiple bets on the same underlying mortgages
 - Total derivative exposure reached $600+ trillion notional value
 
 **Step 5: Leverage Without Limits**
+
 - 2004 SEC rule change allowed 30:1+ leverage at investment banks
 - Banks held $1 of capital for every $30+ of risk
 - Any price decline wiped out capital cushion
@@ -113,6 +118,7 @@ Multiple economists and analysts predicted the crisis:
 | Michael Burry | Bet against subprime securities | 2005 |
 
 These warnings were dismissed because:
+
 - They contradicted the industry's interest in continued profits
 - Regulators had adopted the ideology of market self-correction
 - Political pressure prevented acknowledging problems before the election
@@ -142,12 +148,14 @@ When the system collapsed, the response prioritized financial institutions over 
 ### The Double Standard
 
 **For Banks:**
+
 - Immediate, massive support
 - No executives prosecuted
 - Bonuses continued
 - Institutions deemed "too big to fail"
 
 **For Homeowners:**
+
 - Means-tested programs with extensive paperwork
 - Banks incentivized to delay and deny modifications
 - "Moral hazard" concerns invoked to limit relief

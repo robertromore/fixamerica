@@ -281,6 +281,7 @@ Transforming civil rights enforcement requires a phased, strategic approach that
 | [← Solutions](07-solutions.md) | [Justice Index](../index.md) | [Resources →](09-resources.md) |
 
 **Section Contents:**
+
 - [01. Overview](01-overview.md)
 - [02. Current State](02-current-state.md)
 - [03. History](03-history.md)

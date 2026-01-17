@@ -50,6 +50,7 @@ When states reform their laws, agencies often turn to federal adoption:
 | Civil forfeiture | Property owner | Varies by jurisdiction |
 
 In most civil forfeiture cases:
+
 1. Government seizes property with probable cause
 2. Owner must affirmatively prove innocence
 3. Standard varies from preponderance to clear and convincing
@@ -103,6 +104,7 @@ Most seizures are small, making challenge economically irrational.
 ### Qualified Immunity Protection
 
 Officers who seize property unlawfully are protected by:
+
 - Qualified immunity for constitutional violations
 - Good faith exception for Fourth Amendment violations
 - Agency indemnification for civil liability
@@ -122,6 +124,7 @@ Officers who seize property unlawfully are protected by:
 ### Accountability Void
 
 Without data, there can be no accountability for:
+
 - Racial disparities in seizures
 - Low-value seizure patterns
 - Return rates and outcomes
@@ -167,6 +170,7 @@ State reform nullified
 ### Institutional Path Dependency
 
 Once agencies build budgets around forfeiture:
+
 1. Equipment purchased with forfeiture funds
 2. Personnel positions funded by seizures
 3. Institutional resistance to any reduction
@@ -204,6 +208,7 @@ Once agencies build budgets around forfeiture:
 ### Limited Constitutional Protections
 
 Supreme Court has declined to:
+
 - Require conviction for forfeiture
 - Mandate appointed counsel
 - Require higher burden of proof

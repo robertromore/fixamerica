@@ -15,6 +15,7 @@ Civil asset forfeiture has deep historical roots, but its modern incarnation as 
 | Colonial Era | Navigation Acts | Smuggling vessels forfeited |
 
 The legal fiction of proceeding against property (in rem) rather than persons (in personam) developed because:
+
 - Ships often operated in international waters beyond jurisdiction
 - Owners might be foreign nationals or unknown
 - Property itself was deemed "guilty" of wrongdoing
@@ -41,6 +42,7 @@ The Founders accepted limited forfeiture for customs and admiralty purposes but 
 | Precedent established | Vehicles as "instrumentalities" of crime |
 
 Key case: **J.W. Goldsmith Jr.-Grant Co. v. United States (1921)**
+
 - Supreme Court upheld seizure of innocent owner's car
 - Used to transport liquor without owner's knowledge
 - Established harmful "innocent owner" doctrine
@@ -91,6 +93,7 @@ The **Comprehensive Crime Control Act of 1984** fundamentally transformed civil 
 ### The Equitable Sharing Program
 
 Created to:
+
 - Encourage federal-state cooperation
 - Bypass state forfeiture restrictions
 - Share proceeds with participating agencies
@@ -116,7 +119,7 @@ Created to:
 ### Forfeiture Growth
 
 | Year | Federal Forfeitures | Primary Driver |
-|------|--------------------|-----------------| 
+|------|--------------------|-----------------|
 | 1985 | $27 million | Nascent program |
 | 1990 | $460 million | Drug war expansion |
 | 1995 | $675 million | Continued growth |

@@ -38,6 +38,7 @@ The Small Business Administration (SBA) defines small businesses using industry-
 - **NAICS Codes**: Each industry classification has specific size standards
 
 **For this analysis**, we focus primarily on businesses with:
+
 - Fewer than 100 employees (true small businesses)
 - Fewer than 20 employees (very small/micro businesses)
 - Self-employed individuals with no employees
@@ -67,16 +68,19 @@ The post-war period represented peak small business vitality:
 Systematic policy changes undermined small business competitiveness:
 
 **1980s Deregulation**:
+
 - Savings & loan deregulation eliminated community banking
 - Antitrust enforcement declined dramatically
 - Robinson-Patman Act enforcement essentially ceased
 
 **1990s-2000s Concentration**:
+
 - Bank consolidation reduced small business lending
 - Big-box retail expansion destroyed Main Street commerce
 - Walmart effect: average small town lost 47% of retail trade within 10 years of Walmart opening
 
 **2010s Platform Monopolies**:
+
 - Amazon's market dominance restructured retail
 - Platform dependency created new vulnerability
 - Algorithmic pricing and self-preferencing harmed third-party sellers
@@ -108,12 +112,14 @@ Systematic policy changes undermined small business competitiveness:
 ### Who Runs Small Businesses?
 
 **By Demographics**:
+
 - 22.7% women-owned businesses (but only 4.3% of revenue)
 - 18.7% minority-owned businesses
 - Veterans own 2.5 million businesses
 - Immigrants are 80% more likely to start businesses
 
 **By Generation**:
+
 - Average small business owner age: 50.3 years
 - Millennial ownership: 9% (lowest rate for any generation at same age)
 - Gen X: 26%
@@ -167,18 +173,21 @@ This subtopic connects to numerous other areas:
 Revitalizing small business requires systematic policy intervention:
 
 **Immediate Priorities**:
+
 1. Strengthen antitrust enforcement against predatory practices
 2. Expand community lending infrastructure
 3. Reduce regulatory burden on smallest businesses
 4. Ensure healthcare affordability for small employers
 
 **Structural Reforms**:
+
 1. Restore Robinson-Patman Act enforcement
 2. Break up platform monopolies
 3. Create public banking options
 4. Reform procurement to increase small business access
 
 **Community Investment**:
+
 1. Expand CDFI funding dramatically
 2. Support local ownership transitions
 3. Invest in Main Street infrastructure

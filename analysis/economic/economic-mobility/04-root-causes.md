@@ -18,6 +18,7 @@ Where you grow up determines your life outcomes more than almost any other facto
 | Poverty concentration | -2-4 percentile points |
 
 **Neighborhoods transmit advantage or disadvantage through:**
+
 - School quality
 - Peer effects and networks
 - Exposure to violence and trauma
@@ -49,6 +50,67 @@ Wealthy communities systematically exclude others:
 **This is not accidental.** These policies were designed to maintain class and racial segregation.
 
 ## Educational Inequality
+
+Education is the primary mechanism through which economic mobility occurs--or fails to occur. The American education system, despite its promise of equal opportunity, systematically advantages children from wealthy families at every stage.
+
+### Education as the Primary Mechanism for Mobility
+
+The relationship between education and mobility is foundational:
+
+| Educational Attainment | Median Lifetime Earnings | Mobility Effect |
+|------------------------|-------------------------|-----------------|
+| Less than high school | $1.2 million | 4% chance of reaching top quintile from bottom |
+| High school diploma | $1.6 million | 6% chance |
+| Some college | $1.9 million | 10% chance |
+| Bachelor's degree | $2.8 million | 24% chance |
+| Graduate degree | $3.8 million | 42% chance |
+
+For children born to bottom-quintile parents, completing a bachelor's degree increases their odds of reaching the top quintile by 6x. Education remains the most reliable path to upward mobility--which makes unequal access to quality education a primary driver of immobility.
+
+### Geographic Variation in Education Quality
+
+The Chetty et al. Opportunity Atlas reveals stark geographic patterns:
+
+| Region Type | Average Upward Mobility | School Quality Indicators |
+|-------------|------------------------|---------------------------|
+| High-opportunity metros | +8 percentile points | High spending, low segregation, experienced teachers |
+| Low-opportunity metros | -5 percentile points | Low spending, high segregation, teacher turnover |
+| Rural high-opportunity | +4 percentile points | Small classes, community investment |
+| Rural low-opportunity | -6 percentile points | Underfunded, difficulty attracting teachers |
+
+**Key finding**: School quality explains roughly 30% of geographic variation in economic mobility. The same child with the same parents will have dramatically different life outcomes depending on where they attend school.
+
+### The Compounding Nature of Educational Inequality
+
+Educational advantages compound at each stage:
+
+```text
+Wealthy family resources
+        ↓
+High-quality early childhood (vocabulary, enrichment)
+        ↓
+Strong kindergarten readiness
+        ↓
+Attendance at well-resourced schools
+        ↓
+Access to advanced courses, college counseling
+        ↓
+Elite college admission
+        ↓
+Professional networks, high-paying careers
+        ↓
+Resources to invest in own children
+        ↓
+Cycle repeats
+```
+
+For comprehensive analysis of education's role in mobility and inequality, see:
+
+- [Education: Overview](../../education/01-overview.md) - Full education domain analysis
+- [K-12 Education](../../education/k-12-education/01-overview.md) - Public school funding and outcomes
+- [Higher Education](../../education/higher-education/01-overview.md) - College access and affordability
+- [Education Equity](../../education/education-equity/01-overview.md) - Segregation and opportunity gaps
+- [Economic Inequality: Root Causes](../inequality/04-root-causes.md) - Education and inequality nexus
 
 ### Unequal Schools
 
@@ -297,7 +359,7 @@ Every barrier to mobility is worse for Black Americans:
 
 These root causes form an interlocking system:
 
-```
+```text
 Residential Segregation
         ↓
 Unequal Schools → Limited Human Capital
@@ -312,6 +374,16 @@ Cycle Repeats
 ```
 
 **Breaking this cycle requires attacking multiple points simultaneously, not one reform at a time.**
+
+## Related Topics
+
+- [History](03-history.md) - How mobility has changed over time
+- [Stakeholders](05-stakeholders.md) - Who is affected by mobility barriers
+- [Solutions](07-solutions.md) - Policies to restore mobility
+- [Education: Overview](../../education/01-overview.md) - Full education domain analysis
+- [Education Equity](../../education/education-equity/01-overview.md) - Educational opportunity gaps
+- [Economic Inequality: Root Causes](../inequality/04-root-causes.md) - Related inequality analysis
+- [Housing: Overview](../../housing/01-overview.md) - Residential segregation and schools
 
 ## Document Navigation
 

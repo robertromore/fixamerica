@@ -43,6 +43,7 @@ UNICOR, operating as Federal Prison Industries (FPI), is a wholly-owned governme
 ### Mandatory Purchasing Requirements
 
 Federal agencies are required to purchase from UNICOR if:
+
 - The product is available through UNICOR
 - UNICOR can meet the agency's needs
 - The price is comparable to market rate
@@ -52,6 +53,7 @@ Federal agencies are required to purchase from UNICOR if:
 ### State Prison Industries Overview
 
 All 50 states operate prison industries programs. These vary significantly in:
+
 - Size and scope of operations
 - Wage structures (or absence thereof)
 - Types of goods and services produced
@@ -79,16 +81,19 @@ All 50 states operate prison industries programs. These vary significantly in:
 ### Major State Prison Industry Programs
 
 **California Prison Industry Authority (CALPIA)**
+
 - Revenue: ~$200 million annually
 - Employees: ~7,000 incarcerated workers
 - Products: Furniture, clothing, food, printing, construction
 
 **Texas Correctional Industries (TCI)**
+
 - Revenue: ~$90 million annually
 - Products: Furniture, signs, mattresses, meat processing
 - Wages: None (one of five states)
 
 **PRIDE Enterprises (Florida)**
+
 - Semi-private corporation
 - Revenue: ~$75 million annually
 - Wages: $0.20 - $0.55/hour

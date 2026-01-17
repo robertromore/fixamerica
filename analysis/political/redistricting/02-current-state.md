@@ -1,3 +1,28 @@
+---
+freshness:
+  last-reviewed: 2025-01-12
+  data-year: 2024
+  review-cycle: 6
+  sections:
+    - name: "The Problem Today"
+      data-year: 2024
+    - name: "Key Statistics"
+      data-year: 2024
+    - name: "Impact Analysis"
+      data-year: 2024
+    - name: "Recent Developments"
+      data-year: 2024
+    - name: "Key Takeaways"
+      data-year: 2024
+notes:
+  - Update court intervention outcomes as 2024-2025 cases resolve and new rulings issue.
+  - Track independent commission performance for the 2030 planning process.
+sources:
+  count: 9
+  verified: 2025-01-12
+  broken: 0
+---
+
 # Redistricting: Current State
 
 ## The Problem Today

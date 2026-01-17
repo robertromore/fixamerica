@@ -34,12 +34,14 @@ The Small Business Administration (SBA), established in 1953, is the primary fed
 The flagship SBA loan program providing guarantees on loans from participating lenders.
 
 **Program Structure**:
+
 - Maximum loan: $5 million
 - SBA guarantee: 50-85% (up to $3.75 million guaranteed)
 - Maximum term: 10 years (working capital), 25 years (real estate)
 - Interest rate cap: Prime + 2.25-2.75% (variable)
 
 **FY 2023 Performance**:
+
 | Metric | Value |
 |--------|-------|
 | Number of Loans | 57,362 |
@@ -49,6 +51,7 @@ The flagship SBA loan program providing guarantees on loans from participating l
 | Default Rate | 2.4% |
 
 **Loan Uses**:
+
 - Working capital: 35%
 - Equipment purchase: 25%
 - Business acquisition: 20%
@@ -60,12 +63,14 @@ The flagship SBA loan program providing guarantees on loans from participating l
 Provides long-term, fixed-rate financing for major fixed assets.
 
 **Program Structure**:
+
 - Maximum CDC portion: $5.5 million ($5 million standard)
 - Typical structure: 50% bank loan, 40% CDC/SBA, 10% borrower equity
 - Term: 10-25 years
 - Rate: Below market, fixed for term
 
 **FY 2023 Performance**:
+
 | Metric | Value |
 |--------|-------|
 | Number of Loans | 9,254 |
@@ -79,6 +84,7 @@ Provides long-term, fixed-rate financing for major fixed assets.
 Small loans up to $50,000 for startups and small businesses.
 
 **Program Structure**:
+
 - Maximum loan: $50,000
 - Average loan: $14,000
 - Term: Up to 6 years
@@ -86,6 +92,7 @@ Small loans up to $50,000 for startups and small businesses.
 - Delivered through nonprofit intermediaries
 
 **FY 2023 Performance**:
+
 | Metric | Value |
 |--------|-------|
 | Number of Loans | 4,821 |
@@ -99,6 +106,7 @@ Small loans up to $50,000 for startups and small businesses.
 Expands 7(a) loans to underserved markets through mission-focused lenders.
 
 **Program Features**:
+
 - Maximum loan: $350,000
 - Targets underserved communities
 - Lenders must be CDFIs or mission-focused
@@ -109,12 +117,14 @@ Expands 7(a) loans to underserved markets through mission-focused lenders.
 Direct loans (not guarantees) for disaster recovery.
 
 **Standard Disaster Loans**:
+
 - Physical damage: Up to $2 million
 - Economic injury: Up to $2 million
 - Rate: Below 4% for businesses without credit elsewhere
 - Term: Up to 30 years
 
 **COVID-19 Performance (2020-2021)**:
+
 | Program | Amount Disbursed |
 |---------|------------------|
 | Economic Injury Disaster Loans (EIDL) | $378 billion |
@@ -142,18 +152,21 @@ Federal agencies must meet annual goals for small business contracting:
 The flagship program for socially and economically disadvantaged entrepreneurs.
 
 **Eligibility Requirements**:
+
 - Socially disadvantaged (race, ethnicity, gender, disability)
 - Economically disadvantaged (net worth under $850,000)
 - At least 51% owned by qualifying individuals
 - Business operational for 2+ years
 
 **Program Benefits**:
+
 - Sole-source contracts up to $4.5 million (goods) / $7 million (services)
 - Competitive set-asides
 - Business development assistance
 - 9-year program participation
 
 **Program Statistics**:
+
 | Metric | Value |
 |--------|-------|
 | Active participants | ~5,400 |
@@ -166,11 +179,13 @@ The flagship program for socially and economically disadvantaged entrepreneurs.
 Historically Underutilized Business Zone program incentivizes hiring and locating in distressed areas.
 
 **Requirements**:
+
 - Principal office in HUBZone
 - 35% of employees reside in HUBZone
 - Small business under SBA standards
 
 **Challenges**:
+
 - Complex certification
 - 35% employee requirement difficult to maintain
 - Limited awareness among contractors
@@ -181,11 +196,13 @@ Historically Underutilized Business Zone program incentivizes hiring and locatin
 Set-asides for women-owned businesses in underrepresented industries.
 
 **Eligibility**:
+
 - At least 51% owned by women
 - Daily management by women owners
 - Women control long-term decisions
 
 **Current Status**:
+
 - First year meeting 5% goal: FY 2019
 - FY 2023: 5.2% ($30 billion)
 - Authorized industries: 83 NAICS codes
@@ -193,6 +210,7 @@ Set-asides for women-owned businesses in underrepresented industries.
 ### Service-Disabled Veteran-Owned (SDVOSB)
 
 **Eligibility**:
+
 - 51% owned by service-disabled veterans
 - Daily management by disabled veteran owners
 - Verified through VA or SBA
@@ -206,12 +224,14 @@ Set-asides for women-owned businesses in underrepresented industries.
 The largest small business assistance network, hosted at universities and colleges.
 
 **Network Scale**:
+
 - 63 lead centers
 - ~1,000 service locations
 - ~5,000 advisors
 - Funded jointly by SBA and host institutions
 
 **Annual Services**:
+
 | Metric | Value |
 |--------|-------|
 | Clients served | 450,000+ |
@@ -225,11 +245,13 @@ The largest small business assistance network, hosted at universities and colleg
 Volunteer mentor network of experienced business professionals.
 
 **Network Scale**:
+
 - 10,000+ volunteers
 - 250+ chapters
 - Nationwide coverage
 
 **Annual Services**:
+
 | Metric | Value |
 |--------|-------|
 | Clients mentored | 175,000+ |
@@ -242,11 +264,13 @@ Volunteer mentor network of experienced business professionals.
 Targeted assistance for women entrepreneurs.
 
 **Network Scale**:
+
 - 140+ centers
 - Located in every state
 - Focus on underserved communities
 
 **Annual Services**:
+
 - 150,000+ clients
 - 85% women, 50% minority
 - Startup assistance primary focus
@@ -270,6 +294,7 @@ Targeted assistance for women entrepreneurs.
 | Additional capital raised | 65% | 42% |
 
 **Why SBA Loans Perform Better**:
+
 1. Pre-screening by lenders and SBA
 2. Technical assistance often required
 3. Longer terms allow sustainable growth
@@ -278,11 +303,13 @@ Targeted assistance for women entrepreneurs.
 ### Contracting Program Outcomes
 
 **8(a) Program Impact**:
+
 - Average revenue growth: 12% annually while in program
 - Post-graduation survival: 65% at 5 years
 - Transition to open market: 45% of revenue within 3 years post-graduation
 
 **Program Challenges**:
+
 - "Graduation cliff" - revenue drops when sole-source ends
 - Pass-through abuse (large firms using 8(a) as fronts)
 - Limited capacity building during program
@@ -291,6 +318,7 @@ Targeted assistance for women entrepreneurs.
 ### Counseling Effectiveness
 
 **SBDC Impact Studies**:
+
 - Businesses using SBDCs are 50% more likely to survive
 - SBDC clients create 80% more jobs than non-clients
 - $2.25 billion in additional loans obtained with SBDC help
@@ -301,6 +329,7 @@ Targeted assistance for women entrepreneurs.
 ### Program Access Issues
 
 **Geographic Disparities**:
+
 - Rural areas have fewer participating lenders
 - SBDC coverage thinner in rural/remote areas
 - HUBZone map not updated frequently
@@ -318,11 +347,13 @@ Targeted assistance for women entrepreneurs.
 ### Bureaucratic Challenges
 
 **Application Complexity**:
+
 - Average 7(a) application: 100+ pages of documentation
 - Processing time: 30-90 days
 - Multiple agencies involved in some programs (HUBZone, SDVOSB)
 
 **Program Overlap and Confusion**:
+
 - Multiple contracting programs with different rules
 - Counseling networks (SBDC, SCORE, WBC) sometimes duplicate efforts
 - Loan programs not well understood by small businesses
@@ -339,11 +370,13 @@ Targeted assistance for women entrepreneurs.
 ### Contracting Program Weaknesses
 
 **Pass-Through and Fronting**:
+
 - Large businesses use small business "fronts" to capture set-aside contracts
 - Joint ventures allow minimal small business participation
 - Bundling of contracts excludes small businesses
 
 **Goal Manipulation**:
+
 - Agencies count "credit" for subcontracting that may not occur
 - HUBZone goal consistently missed without consequence
 - Double-counting across categories inflates achievement
@@ -355,11 +388,13 @@ Targeted assistance for women entrepreneurs.
 **Scale**: $800 billion in loans, 11.8 million loans
 
 **What Worked**:
+
 - Speed of deployment
 - Forgiveness kept businesses open
 - Banks scaled up operations
 
 **What Failed**:
+
 - Large businesses accessed funds before small
 - Minority businesses reached last
 - Fraud estimated at $100+ billion
@@ -371,6 +406,7 @@ Targeted assistance for women entrepreneurs.
 **Scale**: $378 billion, 4 million loans
 
 **Issues**:
+
 - Initial cap too low ($150,000 raised to $2 million)
 - Processing delays left businesses waiting months
 - Advance grants depleted quickly

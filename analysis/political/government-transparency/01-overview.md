@@ -44,7 +44,7 @@ Government transparency—the public's ability to access information about gover
 | Federal Advisory Committee Act | Open meetings | Compliance gaps |
 | Ethics in Government Act | Financial disclosure | Limited enforcement |
 
-### Key Statistics (as of 2024)
+### Key Statistics (2024 snapshot)
 
 - **FOIA requests annually**: 800,000+ across federal government
 - **Average response time**: Varies widely (days to years)

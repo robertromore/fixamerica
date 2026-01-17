@@ -33,6 +33,7 @@ Police unions have been among the most vocal opponents of non-police crisis resp
 | "Add co-responders, don't replace police" | Prefer expansion over replacement |
 
 **Strategies Unions Use:**
+
 - Public safety messaging
 - Political pressure on elected officials
 - Contract negotiations to limit changes
@@ -223,11 +224,13 @@ Some disability rights advocates have concerns about how reforms are designed.
 ### Denver STAR Program
 
 **Opposition Faced:**
+
 - Police union skepticism
 - Dispatcher concerns about call screening
 - General "defund" political environment
 
 **How Opposition Was Addressed:**
+
 - Started as small pilot in limited area
 - Focused on calls police wanted off their plate
 - Built data demonstrating safety and effectiveness
@@ -239,11 +242,13 @@ Some disability rights advocates have concerns about how reforms are designed.
 ### Austin, Texas
 
 **Opposition Faced:**
+
 - Strong police union opposition
 - Political polarization
 - "Defund" controversy
 
 **How Opposition Was Addressed:**
+
 - Ballot measure for dedicated funding
 - Community organizing and engagement
 - Data on police mental health call burden
@@ -259,6 +264,7 @@ Some disability rights advocates have concerns about how reforms are designed.
 | [Stakeholders](05-stakeholders.md) | [Justice Topics](../README.md) | [Solutions](07-solutions.md) |
 
 **In This Section:**
+
 - [01 Overview](01-overview.md) | [02 Current State](02-current-state.md) | [03 History](03-history.md) | [04 Root Causes](04-root-causes.md)
 - [05 Stakeholders](05-stakeholders.md) | [06 Opposition](06-opposition.md) | [07 Solutions](07-solutions.md) | [08 Roadmap](08-roadmap.md)
 - [09 Resources](09-resources.md) | [10 Actions](10-actions.md) | [11 Legislation](11-legislation.md)

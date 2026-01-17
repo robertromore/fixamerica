@@ -1,8 +1,39 @@
+---
+freshness:
+  last-reviewed: 2025-01-12
+  data-year: 2024
+  review-cycle: 6
+  sections:
+    - name: "Federal Workforce"
+      data-year: 2024
+    - name: "Civil Service System"
+      data-year: 2024
+    - name: "Political Appointments"
+      data-year: 2024
+    - name: "Agency Independence"
+      data-year: 2024
+    - name: "Regulatory Capture"
+      data-year: 2024
+    - name: "Administrative Procedure"
+      data-year: 2024
+    - name: "Workforce Challenges"
+      data-year: 2024
+    - name: "Recent Developments"
+      data-year: 2024
+notes:
+  - Update workforce headcount and retirement projections when OPM publishes final FY24 stats.
+  - Track any SES reform or Vacancies Act changes in 2025 for inclusion.
+sources:
+  count: 10
+  verified: 2025-01-12
+  broken: 0
+---
+
 # Administrative Reform: Current State
 
 ## Federal Workforce
 
-### Size and Composition (as of 2024)
+### Size and Composition (2024 snapshot)
 
 **Total Federal Civilian Workforce**: Approximately 2.1 million (excluding Postal Service)
 
@@ -23,7 +54,7 @@
 | Department of Homeland Security | ~240,000 |
 | Department of Justice | ~115,000 |
 
-### Demographics and Trends (as of 2024)
+### Demographics and Trends (2024 snapshot)
 
 **Age Distribution**:
 
@@ -109,7 +140,7 @@ Codified in 5 U.S.C. § 2301:
 
 ## Political Appointments
 
-### Categories (as of 2024)
+### Categories (2024 snapshot)
 
 | Type | Number | Characteristics |
 |------|--------|-----------------|

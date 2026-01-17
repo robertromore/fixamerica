@@ -48,6 +48,7 @@ The pandemic triggered a significant increase in new business applications:
 | 2023 | 4.8 million | +37% |
 
 **Cautions**:
+
 - Applications ≠ actual businesses
 - Many "pandemic businesses" have since closed
 - Sustainability of surge uncertain
@@ -82,6 +83,7 @@ The pandemic triggered a significant increase in new business applications:
 | Gen Z (1997-2012) | TBD | Early data mixed |
 
 **Why Millennials Lag**:
+
 - Student debt burden ($30,000+ average)
 - Entered workforce during/after 2008 recession
 - Higher housing costs consume capital
@@ -107,6 +109,7 @@ The pandemic triggered a significant increase in new business applications:
 ### The Gap in Black Business Ownership
 
 **Historical Context**:
+
 - Post-Civil War: Thriving Black business districts
 - Tulsa, 1921: "Black Wall Street" destroyed
 - Segregation: Forced separate economy, then undermined
@@ -155,6 +158,7 @@ The pandemic triggered a significant increase in new business applications:
 | On-reservation challenges | Severe | N/A |
 
 **Unique Barriers**:
+
 - Trust land ownership complexity
 - Limited banking infrastructure on reservations
 - Distance from markets
@@ -177,18 +181,21 @@ The pandemic triggered a significant increase in new business applications:
 ### Why the Gap Exists
 
 **Access to Capital**:
+
 - Women receive 2% of VC funding
 - Loan approval rates 15-20% lower
 - Smaller loan amounts when approved
 - Higher interest rates on average
 
 **Industry Concentration**:
+
 - 88% of women-owned businesses in lower-revenue sectors
 - Healthcare/social services: 52% women-owned
 - Construction: 11% women-owned
 - Finance: 28% women-owned
 
 **Caregiving Responsibilities**:
+
 - Women perform majority of unpaid care work
 - Lack of childcare limits entrepreneurship
 - Time constraints affect business growth
@@ -197,6 +204,7 @@ The pandemic triggered a significant increase in new business applications:
 ### Progress and Trends
 
 **Growth in Women's Entrepreneurship**:
+
 - Number of women-owned businesses: Up 114% since 1997
 - Women-owned employer firms: Up 58% since 2007
 - Women of color ownership: Fastest growing segment
@@ -206,6 +214,7 @@ The pandemic triggered a significant increase in new business applications:
 ### Capital Access
 
 **Personal Wealth Required**:
+
 - Median startup capital: $25,000-50,000
 - Most common source: Personal/family savings
 - Wealth inequality = entrepreneurship inequality
@@ -220,6 +229,7 @@ The pandemic triggered a significant increase in new business applications:
 ### Student Debt
 
 **Impact on Business Formation**:
+
 - Average debt: $30,000 (higher for graduate degrees)
 - 17% of potential entrepreneurs cite debt as barrier
 - Reduces risk tolerance
@@ -229,6 +239,7 @@ The pandemic triggered a significant increase in new business applications:
 ### Healthcare
 
 **Coverage Concerns**:
+
 - 24% of potential entrepreneurs cite healthcare as barrier
 - Loss of employer coverage
 - Pre-ACA: Pre-existing conditions blocked many
@@ -237,6 +248,7 @@ The pandemic triggered a significant increase in new business applications:
 ### Occupational Licensing
 
 **Barriers to Entry**:
+
 - 30% of workers need licenses (up from 5% in 1950)
 - Average: 9 months training, $267 fees
 - Licenses often don't transfer across states
@@ -245,6 +257,7 @@ The pandemic triggered a significant increase in new business applications:
 ### Non-Compete Agreements
 
 **Impact on Entrepreneurship**:
+
 - 18% of workers bound by non-competes
 - Prevent starting competing businesses
 - Extend to low-wage workers
@@ -254,6 +267,7 @@ The pandemic triggered a significant increase in new business applications:
 ### Market Concentration
 
 **Startup Environment**:
+
 - Harder to compete with dominant firms
 - Platforms control market access
 - "Kill zones" around big tech
@@ -265,6 +279,7 @@ The pandemic triggered a significant increase in new business applications:
 ### Where Entrepreneurship Thrives
 
 **Highest Startup Rates**:
+
 1. Colorado
 2. Montana
 3. Wyoming
@@ -272,6 +287,7 @@ The pandemic triggered a significant increase in new business applications:
 5. Texas
 
 **Lowest Startup Rates**:
+
 1. West Virginia
 2. Mississippi
 3. Kentucky
@@ -290,12 +306,14 @@ The pandemic triggered a significant increase in new business applications:
 ### Immigration and Entrepreneurship
 
 **Immigrant Entrepreneurship**:
+
 - Immigrants are 80% more likely to start businesses
 - 25% of new businesses founded by immigrants
 - 55% of billion-dollar startups have immigrant founder
 - High-skilled immigrants particularly entrepreneurial
 
 **Immigrant Entrepreneur Challenges**:
+
 - Visa restrictions limit business creation
 - H-1B tied to employer
 - O-1 and EB-5 have high barriers
@@ -319,18 +337,21 @@ The pandemic triggered a significant increase in new business applications:
 ### Successful Programs
 
 **Federal Programs**:
+
 - SBA microloans: $85 million annually
 - SBIR/STTR: $4 billion for R&D
 - Minority Business Development Agency
 - Women's Business Centers
 
 **State/Local Programs**:
+
 - Entrepreneurship education in schools
 - State venture funds (Michigan, Ohio)
 - Business plan competitions
 - Incubator networks
 
 **Private Sector**:
+
 - Accelerators (Y Combinator, Techstars)
 - Angel networks
 - Entrepreneurship-focused foundations
@@ -339,6 +360,7 @@ The pandemic triggered a significant increase in new business applications:
 ### What's Missing
 
 **Gaps in Current Support**:
+
 - Scale too small relative to need
 - Geographic concentration (coasts)
 - Demographic gaps persist
@@ -377,12 +399,14 @@ The pandemic triggered a significant increase in new business applications:
 ### Trends to Watch
 
 **Positive Signs**:
+
 - Post-COVID application surge
 - Growing interest in local/independent businesses
 - Rise of e-commerce lowering some barriers
 - Increased attention to entrepreneurship policy
 
 **Concerns**:
+
 - Sustainability of recent gains uncertain
 - Demographic disparities persisting
 - Market concentration limiting opportunities
@@ -391,6 +415,7 @@ The pandemic triggered a significant increase in new business applications:
 ### What's at Stake
 
 Entrepreneurship matters because it provides:
+
 - **Economic mobility**: Path from worker to owner
 - **Innovation**: New ideas and products
 - **Competition**: Check on corporate power

@@ -9,6 +9,7 @@ Commercial real estate costs are among the largest fixed expenses for small busi
 ### Market Scale
 
 **U.S. Commercial Real Estate**:
+
 - Total value: $20+ trillion
 - Office space: 6 billion square feet
 - Retail space: 15 billion square feet
@@ -119,6 +120,7 @@ Many small business owners sign leases based on quoted rent, only to discover ac
 | Manufacturing | $75-200 | Light industrial |
 
 **Who Pays**:
+
 - Landlord TI allowance: Often $10-50/sq ft
 - Tenant responsibility: Balance (often substantial)
 - Small business challenge: May not survive build-out period
@@ -149,18 +151,21 @@ Standard commercial leases often include terms that disadvantage small tenants:
 | 10+ years | Ideal | Rarely appropriate |
 
 **The Catch-22**:
+
 - Short lease: Higher rent, less security, no TI allowance
 - Long lease: Trapped if business fails, personal liability
 
 ### Personal Guarantees
 
 **The Personal Guarantee Problem**:
+
 - 85% of small business commercial leases require personal guarantees
 - Guarantee often covers entire lease term
 - Business failure = personal bankruptcy
 - Limits entrepreneurship willingness
 
 **Guarantee Terms**:
+
 - Full lease value (e.g., $240,000 for 5-year, $4,000/month lease)
 - All costs including legal fees
 - Often survives business closure
@@ -173,6 +178,7 @@ Standard commercial leases often include terms that disadvantage small tenants:
 Small businesses in gentrifying neighborhoods face particular challenges:
 
 **Displacement Pattern**:
+
 1. Neighborhood "discovered" by investors
 2. Property values and rents increase
 3. Long-term leases expire
@@ -182,6 +188,7 @@ Small businesses in gentrifying neighborhoods face particular challenges:
 7. Community character destroyed
 
 **Examples**:
+
 - Harlem: Hundreds of Black-owned businesses displaced since 2000
 - San Francisco Mission District: 60%+ of Latino businesses lost
 - Brooklyn: Entire commercial corridors transformed
@@ -190,18 +197,21 @@ Small businesses in gentrifying neighborhoods face particular challenges:
 ### Commercial Rent Control Debates
 
 **Arguments For**:
+
 - Preserves community businesses
 - Prevents displacement
 - Maintains neighborhood character
 - Supports small business stability
 
 **Arguments Against**:
+
 - Discourages property investment
 - Reduces new development
 - Creates market distortions
 - May increase rents for new tenants
 
 **Current Status**:
+
 - Few jurisdictions have commercial rent stabilization
 - San Francisco: Proposition F defeated (2020)
 - New York: Limited programs in some areas
@@ -214,6 +224,7 @@ Small businesses in gentrifying neighborhoods face particular challenges:
 Many urban areas experience simultaneous high rents and high vacancy:
 
 **Why Landlords Keep Spaces Empty**:
+
 - Tax benefits from depreciation
 - Waiting for "right" tenant (national chain)
 - Holding for development/sale
@@ -232,6 +243,7 @@ Many urban areas experience simultaneous high rents and high vacancy:
 ### Warehouse Clause Leases
 
 Some property owners sign "warehouse leases" allowing vacancy:
+
 - Lease with shell company
 - Nominal rent paid
 - Triggers tax write-offs
@@ -243,12 +255,14 @@ Some property owners sign "warehouse leases" allowing vacancy:
 ### Office Market Collapse
 
 **Remote Work Impact**:
+
 - Office vacancy: 12-20%+ in major markets
 - Sublease space flooding market
 - Values down 25-40% in some markets
 - Conversion to residential challenging
 
 **Small Business Implications**:
+
 - Potential for cheaper office space
 - But many buildings not suitable for small tenants
 - Downtown foot traffic down
@@ -257,6 +271,7 @@ Some property owners sign "warehouse leases" allowing vacancy:
 ### Retail Reconfiguration
 
 **Trends**:
+
 - Experiential retail emphasis
 - Smaller footprints
 - Pop-up and short-term leases more available
@@ -270,12 +285,14 @@ Some property owners sign "warehouse leases" allowing vacancy:
 Community Land Trusts (CLTs) can hold commercial property:
 
 **How It Works**:
+
 - Nonprofit acquires property
 - Maintains permanent affordability
 - Leases to local businesses at below-market rates
 - Community control over commercial mix
 
 **Examples**:
+
 - Boston: Dudley Street Neighborhood Initiative
 - Oakland: East Bay Permanent Real Estate Cooperative
 - Multiple cities exploring commercial CLTs
@@ -294,6 +311,7 @@ Community Land Trusts (CLTs) can hold commercial property:
 ### Small Business-Friendly Landlords
 
 **Finding Better Deals**:
+
 - Local/individual landlords more flexible
 - Non-profit property owners
 - Community development corporations
@@ -303,6 +321,7 @@ Community Land Trusts (CLTs) can hold commercial property:
 ### Cooperative Ownership
 
 **Models**:
+
 - Business owner cooperatives purchase buildings
 - Multiple businesses share ownership
 - Community shares in commercial development
@@ -311,6 +330,7 @@ Community Land Trusts (CLTs) can hold commercial property:
 ### Municipal Intervention
 
 **Policy Tools**:
+
 - Vacancy taxes (force use or pay penalty)
 - Land value taxes (discourage speculation)
 - Inclusionary commercial zoning
@@ -332,12 +352,14 @@ Community Land Trusts (CLTs) can hold commercial property:
 ### For Policymakers
 
 **Immediate Actions**:
+
 1. Create small business lease assistance programs
 2. Implement vacancy taxes in high-cost markets
 3. Provide technical assistance for lease negotiation
 4. Require clearer lease cost disclosure
 
 **Structural Reforms**:
+
 1. Limit personal guarantee requirements
 2. Support commercial land trusts
 3. Include commercial space in affordable development
@@ -357,6 +379,7 @@ Community Land Trusts (CLTs) can hold commercial property:
 ### The Connection
 
 Commercial real estate costs directly affect:
+
 - **Business formation**: High costs prevent startups
 - **Business survival**: Rent burden leads to failure
 - **Business growth**: Cannot afford to expand
@@ -366,6 +389,7 @@ Commercial real estate costs directly affect:
 ### A Different Approach
 
 Countries with healthier small business sectors often have:
+
 - Stronger tenant protections
 - Public markets and commercial space
 - Limitations on commercial real estate speculation

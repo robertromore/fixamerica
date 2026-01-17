@@ -883,18 +883,22 @@ voucher holders in moving to high-opportunity neighborhoods.
 ### Constitutional Issues
 
 **Spending Clause**:
+
 - Baby bonds, pre-K, housing programs are within spending power
 - Conditions on state funding must be related to purpose
 
 **Commerce Clause**:
+
 - Zoning preemption may rely on housing market effects
 - Fair housing has established Commerce Clause basis
 
 **Equal Protection**:
+
 - Programs targeting first-generation buyers (race-neutral) are permissible
 - Race-conscious programs face strict scrutiny post-SFFA
 
 **Takings**:
+
 - Zoning changes generally not takings if value preserved
 - Inclusionary zoning upheld in most jurisdictions
 

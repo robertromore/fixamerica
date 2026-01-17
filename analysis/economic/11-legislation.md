@@ -5,6 +5,7 @@
 Economic reform requires legislative action at multiple levels: constitutional amendments to address fundamental structural issues, federal legislation to establish national standards and protections, state legislation to advance reform where federal action is blocked, and regulatory frameworks to implement and enforce the law. This document provides an overview of the legislative landscape for economic policy reform and links to detailed legislation in each of the 14 subtopic areas.
 
 Economic legislation faces particular challenges due to:
+
 - First Amendment protections limiting campaign finance regulation
 - Commerce Clause and federalism constraints
 - Supreme Court doctrines hostile to economic regulation
@@ -50,6 +51,7 @@ press.
 **Explanation**: This amendment, based on proposals from groups like American Promise, would overturn Citizens United and allow comprehensive campaign finance regulation. Economic policy reform is extremely difficult when wealthy interests can spend unlimited amounts on elections.
 
 **Potential Challenges**:
+
 - Constitutional amendments require supermajority support
 - Framing as limiting "free speech" by opponents
 - Entrenched interests will spend heavily against
@@ -373,10 +375,12 @@ Each subtopic contains detailed legislative analysis:
 ## References
 
 **Constitutional Provisions**:
+
 - U.S. Const. art. I, § 8 (taxing, spending, commerce powers)
 - U.S. Const. amend. XVI (income tax)
 
 **Key Federal Statutes**:
+
 - Internal Revenue Code, 26 U.S.C.
 - Sherman Antitrust Act, 15 U.S.C. §§ 1-7
 - Clayton Act, 15 U.S.C. §§ 12-27
@@ -387,6 +391,7 @@ Each subtopic contains detailed legislative analysis:
 - National Labor Relations Act, 29 U.S.C. §§ 151-169
 
 **Key Cases**:
+
 - *Citizens United v. FEC*, 558 U.S. 310 (2010)
 - *Pollock v. Farmers' Loan & Trust Co.*, 157 U.S. 429 (1895)
 - *West Coast Hotel Co. v. Parrish*, 300 U.S. 379 (1937)

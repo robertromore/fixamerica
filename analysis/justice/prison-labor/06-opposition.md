@@ -239,6 +239,7 @@ Significant forces benefit from the current prison labor system and actively or 
 **Argument**: Prisoners choose to work and prefer it to idleness.
 
 **Counter**:
+
 | Reality | Evidence |
 |---------|----------|
 | Refusal is punished | Loss of good time, solitary, privileges |
@@ -251,6 +252,7 @@ Significant forces benefit from the current prison labor system and actively or 
 **Argument**: Prisoners should work to offset incarceration costs.
 
 **Counter**:
+
 | Reality | Evidence |
 |---------|----------|
 | Taxpayers chose incarceration policy | Society, not prisoners, created system |
@@ -263,6 +265,7 @@ Significant forces benefit from the current prison labor system and actively or 
 **Argument**: Work programs teach valuable skills for reentry.
 
 **Counter**:
+
 | Reality | Evidence |
 |---------|----------|
 | Most jobs have no transferable skills | Institutional maintenance, license plates |
@@ -275,6 +278,7 @@ Significant forces benefit from the current prison labor system and actively or 
 **Argument**: Work programs reduce reoffending.
 
 **Counter**:
+
 | Reality | Evidence |
 |---------|----------|
 | Evidence is mixed at best | RAND finds education more effective |
@@ -287,6 +291,7 @@ Significant forces benefit from the current prison labor system and actively or 
 **Argument**: Reform would burden taxpayers.
 
 **Counter**:
+
 | Reality | Evidence |
 |---------|----------|
 | Family costs are hidden | Billions in external support |
@@ -299,6 +304,7 @@ Significant forces benefit from the current prison labor system and actively or 
 **Argument**: The 13th Amendment permits it.
 
 **Counter**:
+
 | Reality | Evidence |
 |---------|----------|
 | Constitutional doesn't mean right | Slavery was once constitutional too |
