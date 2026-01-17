@@ -1,0 +1,27 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# pytest
+.pytest_cache/
+
+# Virtual environments
+venv/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Distribution
+*.egg-info/
+dist/
+build/
+
+# Downloaded data (keep directory structure)
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep

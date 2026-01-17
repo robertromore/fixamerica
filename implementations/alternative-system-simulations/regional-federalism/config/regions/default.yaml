@@ -1,0 +1,99 @@
+# Regional Federalism: Constitutional 7-Region Configuration
+# Source: Schedule A of the Regional Federal Constitution
+#
+# This defines the default regional boundaries per the constitutional
+# amendment. Alternative configurations can be created for scenario testing.
+
+regions:
+  Northeast:
+    states:
+      - CT  # Connecticut
+      - DE  # Delaware (inferred - not in Schedule A)
+      - ME  # Maine
+      - MD  # Maryland (inferred - not in Schedule A)
+      - MA  # Massachusetts
+      - NH  # New Hampshire
+      - NJ  # New Jersey
+      - NY  # New York
+      - PA  # Pennsylvania
+      - RI  # Rhode Island
+      - VT  # Vermont
+    population_estimate: 66000000  # Adjusted for DE and MD
+
+  Southeast:
+    states:
+      - AL  # Alabama
+      - AR  # Arkansas (inferred - not in Schedule A)
+      - FL  # Florida
+      - GA  # Georgia
+      - KY  # Kentucky
+      - LA  # Louisiana
+      - MS  # Mississippi
+      - NC  # North Carolina
+      - SC  # South Carolina
+      - TN  # Tennessee
+      - VA  # Virginia
+      - WV  # West Virginia
+    population_estimate: 78000000  # Adjusted for AR
+
+  Midwest:
+    states:
+      - IL  # Illinois
+      - IN  # Indiana
+      - IA  # Iowa
+      - MI  # Michigan
+      - MN  # Minnesota
+      - OH  # Ohio
+      - WI  # Wisconsin
+    population_estimate: 52000000
+
+  Great_Plains:
+    states:
+      - KS  # Kansas
+      - MO  # Missouri
+      - NE  # Nebraska
+      - ND  # North Dakota
+      - OK  # Oklahoma
+      - SD  # South Dakota
+    population_estimate: 14000000
+
+  Southwest:
+    states:
+      - AZ  # Arizona
+      - CO  # Colorado
+      - NV  # Nevada
+      - NM  # New Mexico
+      - TX  # Texas
+      - UT  # Utah
+    population_estimate: 52000000
+
+  Pacific:
+    states:
+      - AK  # Alaska
+      - CA  # California
+      - HI  # Hawaii
+      - OR  # Oregon
+      - WA  # Washington
+    population_estimate: 55000000
+
+  Mountain:
+    states:
+      - ID  # Idaho
+      - MT  # Montana
+      - WY  # Wyoming
+    population_estimate: 3000000
+
+# Special handling
+dc_assignment: Northeast  # District of Columbia assigned to Northeast region
+
+# Metadata
+source: "Regional Federal Constitution, Schedule A"
+version: "1.0"
+
+# Notes
+notes: |
+  Three states (DE, MD, AR) are not explicitly assigned in Schedule A.
+  This configuration assigns them based on geographic and cultural proximity:
+  - Delaware and Maryland -> Northeast (Mid-Atlantic region)
+  - Arkansas -> Southeast (Southern/border state)
+  These assignments should be confirmed in the constitutional text.
