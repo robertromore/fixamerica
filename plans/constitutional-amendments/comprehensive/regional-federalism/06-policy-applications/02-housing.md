@@ -87,13 +87,13 @@ National housing reform faces:
 
 ## 3. Housing Powers Under Regional Federalism
 
-This section applies the allocation framework established in [Article II](../../02-design/constitution.md) and operationalized by the [Allocation Framework Act](../05-implementation/03-allocation-framework-act.md).
+This section applies the allocation framework established in [Article II](../../02-design/constitution/00-index.md) and operationalized by the [Allocation Framework Act](../05-implementation/03-allocation-framework-act.md).
 
 ### Federal Powers (Enumerated)
 
-Federal authority limited to ([Article II](../../02-design/constitution.md)):
+Federal authority limited to ([Article II](../../02-design/constitution/00-index.md)):
 
-- **Rights floors**: Fair housing, non-discrimination ([Article III](../../02-design/constitution.md))
+- **Rights floors**: Fair housing, non-discrimination ([Article III](../../02-design/constitution/00-index.md))
 - **Mortgage regulation**: Financial system stability
 - **Tax policy**: Mortgage interest deduction, LIHTC
 - **Federal lands**: Housing on federal property
@@ -101,7 +101,7 @@ Federal authority limited to ([Article II](../../02-design/constitution.md)):
 
 ### Regional Powers (Exclusive)
 
-Regions would control ([Article I](../../02-design/constitution.md)):
+Regions would control ([Article I](../../02-design/constitution/00-index.md)):
 
 - **Housing supply coordination**: Regional targets and anti-exclusion standards
 - **Metropolitan planning**: Coordinating housing with transportation and employment
@@ -301,7 +301,7 @@ Regional coordination of public housing authorities:
 
 ### Federal Fair Housing Floor
 
-Federal rights floors ([Article III](../../02-design/constitution.md)) include:
+Federal rights floors ([Article III](../../02-design/constitution/00-index.md)) include:
 
 - Prohibition on discrimination (race, color, religion, sex, national origin, familial status, disability)
 - Affirmatively furthering fair housing obligation
@@ -380,7 +380,7 @@ Housing transition under regional federalism would require:
 
 ### Equalization
 
-Fiscal equalization ([Article VIII, Section 3](../../02-design/constitution.md)), operationalized by the [Fiscal Equalization Act](../05-implementation/04-fiscal-equalization-act.md), ensures:
+Fiscal equalization ([Article VIII, Section 3](../../02-design/constitution/00-index.md)), operationalized by the [Fiscal Equalization Act](../05-implementation/04-fiscal-equalization-act.md), ensures:
 
 - Lower-capacity regions can fund housing programs
 - Affordable housing subsidies available everywhere
@@ -435,7 +435,7 @@ Housing under regional federalism represents the system's approach applied to a 
 
 ## Related Documents
 
-- [The Regional Federal Constitution](../../02-design/constitution.md) - Authoritative source for all constitutional provisions
+- [The Regional Federal Constitution](../../02-design/constitution/00-index.md) - Authoritative source for all constitutional provisions
 - [Core Idea: Regional Federalism](../../01-foundation/01-core-idea.md)
 - [Design Axioms](../../01-foundation/02-design-axioms.md)
 - [Allocation of Powers](../../02-design/01-allocation-of-powers.md)

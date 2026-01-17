@@ -27,9 +27,9 @@ This Act operationalizes the fiscal architecture described in [05-fiscal-archite
 
 ### 1.1 Constitutional Mandate
 
-[Article XVII, Section 1](../02-design/constitution.md) requires Congress to enact "a Fiscal Equalization Act establishing transfer formulas and the Independent Fiscal Council."
+[Article XXI, Section 1](../02-design/constitution/00-index.md) requires Congress to enact "a Fiscal Equalization Act establishing transfer formulas and the Independent Fiscal Council."
 
-[Article XVII, Section 2(b)](../02-design/constitution.md) provides default rules if Congress fails to act within three years: "equalization transfers shall be calculated as flat per-capita grants at a baseline level equal to five percent of federal revenues, distributed to Regions with below-median fiscal capacity. This default rate shall decline by one percentage point per year beginning in year six, reaching a floor of two percent, to incentivize congressional action rather than reward inaction."
+[Article XXI, Section 2(b)](../02-design/constitution/00-index.md) provides default rules if Congress fails to act within three years: "equalization transfers shall be calculated as flat per-capita grants at a baseline level equal to five percent of federal revenues, distributed to Regions with below-median fiscal capacity. This default rate shall decline by one percentage point per year beginning in year six, reaching a floor of two percent, to incentivize congressional action rather than reward inaction."
 
 ### 1.2 Purpose
 
@@ -710,7 +710,7 @@ Any proposed formula change must include:
 
 ## 8. Anti-Coercion Safeguards
 
-This section implements [Article VIII, Section 4](../02-design/constitution.md), which prohibits coercive conditional funding.
+This section implements [Article X, Section 4](../02-design/constitution/04-fiscal-system.md), which prohibits coercive conditional funding.
 
 ### 8.1 Prohibition on Conditions
 
@@ -1180,7 +1180,7 @@ Emergency modifications are temporary (maximum 2 years) and require Congressiona
 
 ## Related Documents
 
-- [The Regional Federal Constitution](../02-design/constitution.md) - Authoritative source for all constitutional provisions
+- [The Regional Federal Constitution](../02-design/constitution/00-index.md) - Authoritative source for all constitutional provisions
 - [Core Idea: Regional Federalism](../01-foundation/01-core-idea.md)
 - [Design Axioms](../01-foundation/02-design-axioms.md)
 - [Allocation of Powers](../02-design/01-allocation-of-powers.md)

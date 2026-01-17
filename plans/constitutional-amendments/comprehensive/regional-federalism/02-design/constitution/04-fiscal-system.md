@@ -37,7 +37,7 @@ Automatic, formula-based equalization transfers shall ensure baseline governing 
 
 (b) This floor shall be established by statute and may not be reduced below the level necessary to maintain functioning Regional governance.
 
-(c) Small Regions (those with population below five million) may pool resources through inter-Regional agreements for:
+(c) Small Regions may pool resources through inter-Regional agreements for:
 
 - specialized court functions,
 - technical expertise,
@@ -45,6 +45,13 @@ Automatic, formula-based equalization transfers shall ensure baseline governing 
 - higher education coordination.
 
 (d) Pooling agreements under this section require no federal approval and do not constitute merger.
+
+(e) For purposes of this section, a "Small Region" is one that meets either:
+
+- (1) population below five percent of the total population of the United States, or
+- (2) fiscal capacity below the median fiscal capacity of all Regions.
+
+(f) Fiscal capacity shall be measured by the Independent Fiscal Council using a formula that accounts for tax base, cost of living, and geographic factors. The formula shall be established by statute and reviewed every ten years.
 
 ---
 

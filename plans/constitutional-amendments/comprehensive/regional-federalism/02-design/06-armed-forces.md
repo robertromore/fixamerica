@@ -150,7 +150,7 @@ A democratic military system must:
 
 ## 5. The Three-Tier Armed Force Structure
 
-The constitution divides armed force into three tiers ([Article XII, Section 1](constitution.md)):
+The constitution divides armed force into three tiers ([Article XV, Section 1](constitution/00-index.md)):
 
 | Tier | Purpose | Primary Threat Addressed |
 |------|---------|-------------------------|
@@ -191,7 +191,7 @@ They are **not a domestic police force**.
 
 ### 6.3 Domestic prohibition
 
-Federal forces may not be deployed domestically except ([Article XII, Section 2](constitution.md)):
+Federal forces may not be deployed domestically except ([Article XV, Section 2](constitution/00-index.md)):
 
 - under strict constitutional emergency provisions,
 - with multi-key authorization (see Section 9),
@@ -237,7 +237,7 @@ They are not mere extensions of federal power.
 
 - Commanded by regional executives
 - Bound by both regional and federal constitutions
-- Required to refuse unlawful orders from *any* authority ([Article XII, Section 3](constitution.md))
+- Required to refuse unlawful orders from *any* authority ([Article XV, Section 3](constitution/00-index.md))
 
 ---
 
@@ -300,7 +300,7 @@ If the President is a party to the constitutional crisis necessitating deploymen
 
 No single actor can act alone.
 
-Authorization timing, scope limits, and expiration follow [Article XII, Section 2](constitution.md) (48-hour response window, 30-day automatic expiration, written public disclosure within 72 hours).
+Authorization timing, scope limits, and expiration follow [Article XV, Section 2](constitution/00-index.md) (48-hour response window, 30-day automatic expiration, written public disclosure within 72 hours).
 
 > **Design note:** Earlier drafts explored alternative keyholder combinations (Federal Legislature + Regional Authority, Regional Authority + Judicial Certification). These alternatives were **not adopted**. The constitution requires the specific keyholders above to ensure clear accountability and prevent diffusion of responsibility.
 
@@ -338,7 +338,7 @@ This makes:
 
 ### 10.3 Time limits
 
-All domestic deployments ([Article XII, Section 2(e)](constitution.md)):
+All domestic deployments ([Article XV, Section 2(e)](constitution/00-index.md)):
 
 - have automatic expiration (thirty days),
 - require reauthorization through the two-key process,
@@ -348,7 +348,7 @@ All domestic deployments ([Article XII, Section 2(e)](constitution.md)):
 
 ## 11. Emergency Powers and Military Force
 
-Emergency powers are governed by [Article XIV](constitution.md).
+Emergency powers are governed by [Article XVII](constitution/00-index.md).
 
 ### 11.1 Emergency declaration limits
 
@@ -378,7 +378,7 @@ Every emergency order must include:
 
 ### 12.1 Constitutional obligation
 
-All service members have ([Article XII, Section 3](constitution.md)):
+All service members have ([Article XV, Section 3](constitution/00-index.md)):
 
 - a constitutional duty to refuse unlawful orders,
 - legal protection for refusal,
@@ -465,7 +465,7 @@ This requires explicit constitutional treatment.
 
 ### 15.2 Allocation of cyber defense authority
 
-Cyber defense follows the same federalism principles as physical defense ([Article XIII, Section 2](constitution.md)):
+Cyber defense follows the same federalism principles as physical defense ([Article XVI, Section 2](constitution/00-index.md)):
 
 | Level | Cyber Responsibility |
 |-------|---------------------|
@@ -494,7 +494,7 @@ Federal cyber forces are part of the Federal Armed Forces and subject to the sam
 
 Regions govern:
 
-- election infrastructure security (consistent with [Article VI](constitution.md)),
+- election infrastructure security (consistent with [Article VII](constitution/00-index.md)),
 - regional power grid and utility network protection,
 - coordination of incident response across member states,
 - training and standards for state cyber personnel.
@@ -524,10 +524,10 @@ Protection responsibilities are allocated by:
 
 ### 15.6 Incident response and the two-key rule
 
-Cyber incidents that rise to the level of armed attack ([Article XIII, Section 4](constitution.md)):
+Cyber incidents that rise to the level of armed attack ([Article XVI, Section 4](constitution/00-index.md)):
 
 - require the same two-key authorization for military response,
-- trigger emergency powers under [Article XIV](constitution.md),
+- trigger emergency powers under [Article XVII](constitution/00-index.md),
 - are subject to the same time limits and restoration mandates.
 
 Routine cyber defense operations (monitoring, patching, incident response) do not require two-key authorization and operate under normal administrative authority.
@@ -542,13 +542,13 @@ Cyber capabilities pose domestic risks:
 - disruption of political opposition,
 - manipulation of information systems.
 
-The constitution prohibits ([Article XIII, Section 5](constitution.md)):
+The constitution prohibits ([Article XVI, Section 5](constitution/00-index.md)):
 
 - domestic surveillance without judicial authorization,
 - use of cyber capabilities against lawful political activity,
 - federal takeover of regional election systems.
 
-Cyber forces are subject to the same duty to refuse unlawful orders ([Article XIII, Section 6](constitution.md)).
+Cyber forces are subject to the same duty to refuse unlawful orders ([Article XVI, Section 6](constitution/00-index.md)).
 
 ---
 
@@ -625,7 +625,7 @@ That is the essence of civilian control in this system.
 
 ## Related Documents
 
-- [Regional Federal Constitution](constitution.md) - Authoritative source for armed forces (Article XII)
+- [Regional Federal Constitution](constitution/00-index.md) - Authoritative source for armed forces (Article XV)
 - [Core Idea: Regional Federalism](../01-foundation/01-core-idea.md)
 - [Allocation of Powers](01-allocation-of-powers.md)
 - [Elections and Democratic Legitimacy](02-elections.md)

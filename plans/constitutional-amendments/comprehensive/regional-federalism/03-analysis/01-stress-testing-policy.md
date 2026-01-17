@@ -143,7 +143,7 @@ Uniform national resolution guarantees:
 
 ### 5.2 How regionalization changes the stakes
 
-Under a regional system ([Article III](../02-design/constitution.md); [Article XV, Section 2](../02-design/constitution.md)):
+Under a regional system ([Article III](../02-design/constitution/00-index.md); [Article XV, Section 2](../02-design/constitution/00-index.md)):
 
 - baseline rights floors apply nationally,
 - regions set policy within those floors,
@@ -197,7 +197,7 @@ Uniform policy produces:
 
 ### 6.2 Regional handling
 
-Under the floors framework ([Article III](../02-design/constitution.md); [Article XV, Section 2](../02-design/constitution.md)):
+Under the floors framework ([Article III](../02-design/constitution/00-index.md); [Article XV, Section 2](../02-design/constitution/00-index.md)):
 
 - federal floor protects core individual rights,
 - regions regulate safety standards, licensing regimes, enforcement models,
@@ -348,7 +348,7 @@ Result:
 
 ### 9.3 Emergency creep safeguards
 
-The constitution provides structural protections against emergency normalization ([Article XIV](../02-design/constitution.md)):
+The constitution provides structural protections against emergency normalization ([Article XVII](../02-design/constitution/00-index.md)):
 
 - automatic sunsets
 - judicial procedural review
@@ -393,13 +393,13 @@ Digital conflicts involve:
 - technical complexity that resists democratic deliberation,
 - high potential for authoritarian abuse.
 
-The constitution treats cyber capabilities as a distinct risk surface ([Article XIII, Section 1](../02-design/constitution.md)).
+The constitution treats cyber capabilities as a distinct risk surface ([Article XVI, Section 1](../02-design/constitution/00-index.md)).
 
 ---
 
 ### 11.2 Surveillance and privacy
 
-The constitution establishes clear prohibitions ([Article XIII, Section 5](../02-design/constitution.md)):
+The constitution establishes clear prohibitions ([Article XVI, Section 5](../02-design/constitution/00-index.md)):
 
 - federal government may not conduct domestic surveillance without judicial authorization,
 - no government may use cyber capabilities against lawful political activity,
@@ -415,7 +415,7 @@ Regional variation occurs within these floors:
 
 ### 11.3 Election security
 
-Election infrastructure is protected through allocation ([Article XIII, Section 2](../02-design/constitution.md)):
+Election infrastructure is protected through allocation ([Article XVI, Section 2](../02-design/constitution/00-index.md)):
 
 - regions control election system security,
 - federal government provides foreign threat intelligence,
@@ -431,7 +431,7 @@ This prevents:
 
 ### 11.4 Critical infrastructure conflicts
 
-Disputes over infrastructure protection are resolved through ([Article XIII, Section 3](../02-design/constitution.md)):
+Disputes over infrastructure protection are resolved through ([Article XVI, Section 3](../02-design/constitution/00-index.md)):
 
 - scale-based allocation (national vs regional),
 - private sector primary responsibility,
@@ -488,23 +488,23 @@ Handled through:
 
 ### 13.2 Internal rights violations
 
-When regions violate constitutional floors, the de-escalation ladder applies ([Article IX, Section 3](../02-design/constitution.md)):
+When regions violate constitutional floors, the de-escalation ladder applies ([Article XII, Section 3](../02-design/constitution/00-index.md)):
 
 - federal democracy-floor enforcement
-- judicial review ([Article XI](../02-design/constitution.md))
+- judicial review ([Article XVII](../02-design/constitution/00-index.md))
 - restoration-focused remedies
 
 ---
 
 ## 14. Federal Backstops and Non-Negotiable Floors
 
-Federal floors apply when ([Article III](../02-design/constitution.md); [Article XI, Section 1](../02-design/constitution.md)):
+Federal floors apply when ([Article III](../02-design/constitution/00-index.md); [Article XIV, Section 1](../02-design/constitution/00-index.md)):
 
 - democratic process fails,
 - civil liberties are violated,
 - market unity is threatened.
 
-Federal intervention is ([Article IX, Section 3](../02-design/constitution.md)):
+Federal intervention is ([Article XII, Section 3](../02-design/constitution/00-index.md)):
 
 - limited
 - procedural
@@ -562,7 +562,7 @@ It ensures conflict does not end the system.
 
 ## Related Documents
 
-- [Regional Federal Constitution](../02-design/constitution.md) - Authoritative source for all constitutional provisions
+- [Regional Federal Constitution](../02-design/constitution/00-index.md) - Authoritative source for all constitutional provisions
 - [Core Idea: Regional Federalism](../01-foundation/01-core-idea.md)
 - [Allocation of Powers](../02-design/01-allocation-of-powers.md)
 - [Armed Forces and Civilian Control](../02-design/06-armed-forces.md) - Includes cyber defense section
@@ -574,5 +574,5 @@ It ensures conflict does not end the system.
 
 ## Document Navigation
 
-- Previous: [Regional Federal Constitution](../02-design/constitution.md)
+- Previous: [Regional Federal Constitution](../02-design/constitution/00-index.md)
 - Next: [Stress-Testing Economic Conflicts](02-stress-testing-economic.md)

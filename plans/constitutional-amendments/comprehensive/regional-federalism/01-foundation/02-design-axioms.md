@@ -182,7 +182,7 @@ Everything else is implementation.
 - [Authoritarian Consolidation Scenario](../03-analysis/05-authoritarian-scenario.md)
 - [Armed Forces and Civilian Control](../02-design/06-armed-forces.md)
 - [Judiciary and Constitutional Enforcement](../02-design/07-judiciary.md)
-- [The Regional Federal Constitution](../02-design/constitution.md)
+- [The Regional Federal Constitution](../02-design/constitution/00-index.md)
 - [Meta-Level Conclusions](../04-meta/01-conclusions.md)
 
 ---

@@ -20,14 +20,18 @@ No jurisdiction may nullify constitutional law.
 
 ---
 
-### Section 3. De-Escalation Ladder
+### Section 3. De-Escalation
 
-The Constitution mandates graduated, restoration-focused responses to constitutional breakdown, prioritizing:
+Constitutional conflicts shall be resolved through graduated de-escalation procedures established by statute, prioritizing judicial resolution and avoiding military intervention except as a last resort with multi-key authorization.
+
+The de-escalation sequence shall prioritize:
 
 1. judicial enforcement,
 2. administrative remedies,
 3. temporary intervention,
 4. immediate restoration of self-government upon compliance.
+
+Implementation procedures are established by statute. See the [De-Escalation Procedures Act](../../proposals/de-escalation-procedures-act.md) for the proposed implementing legislation.
 
 ---
 
@@ -155,33 +159,17 @@ Seven years provides adequate time for deliberation while ensuring timeliness.
 
 ---
 
-## De-Escalation Ladder: Detailed Framework
+## De-Escalation Ladder: Summary
 
-When a jurisdiction violates constitutional requirements, the response follows this sequence:
+> **Note:** Detailed implementation procedures are in the [De-Escalation Procedures Act](../../proposals/de-escalation-procedures-act.md). This section provides an overview.
 
-**Level 1: Judicial Enforcement**
+**Level 1: Judicial Enforcement** - Courts issue compliance orders with expedited review and contempt powers.
 
-- Courts issue orders requiring compliance
-- Expedited review ensures timely resolution
-- Contempt powers available for non-compliance
+**Level 2: Administrative Remedies** - Fund withholding, penalties, and federal assumption of specific functions.
 
-**Level 2: Administrative Remedies**
+**Level 3: Temporary Intervention** - Federal personnel and Regional Guard forces (with two-key authorization) if necessary.
 
-- Withholding of discretionary federal funds
-- Administrative penalties
-- Federal assumption of specific functions (e.g., election administration)
-
-**Level 3: Temporary Intervention**
-
-- Federal personnel deployed to ensure compliance
-- Regional Guard forces (with two-key authorization) if necessary
-- Time-limited and scope-limited intervention
-
-**Level 4: Restoration**
-
-- Immediate restoration of self-government upon compliance
-- No ongoing punishment or "reconstruction" period
-- Normal intergovernmental relations resume
+**Level 4: Restoration** - Immediate restoration of self-government upon compliance; no ongoing punishment.
 
 The goal at every level is restoration, not domination.
 
@@ -190,6 +178,7 @@ The goal at every level is restoration, not domination.
 ## Related Documents
 
 - [Index](00-index.md) - Constitution overview
+- [De-Escalation Procedures Act](../../proposals/de-escalation-procedures-act.md) - Implementing legislation for de-escalation ladder
 - [Emergency Powers Reform](../../../../single-topic/emergency-powers-reform/) - Companion emergency powers limits
 - [Supremacy and Transition](06-supremacy.md) - Articles XVIII-XX
 - [Safeguards Playbook](../../05-implementation/01-safeguards-playbook.md) - Implementation guidance

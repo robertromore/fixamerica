@@ -110,7 +110,7 @@ A survivable judicial system must:
 
 ## 4. Mandatory Jurisdiction: Ending Judicial Evasion
 
-Mandatory jurisdiction is constitutionally required for core constitutional disputes ([Article XI, Section 1](constitution.md)).
+Mandatory jurisdiction is constitutionally required for core constitutional disputes ([Article XIV, Section 1](constitution/00-index.md)).
 
 ### 4.1 What mandatory jurisdiction means
 
@@ -200,7 +200,7 @@ This preserves sanity without enabling evasion.
 
 ## 7. Time-Bound Adjudication and Deadlines
 
-Constitutional cases are subject to mandatory timelines ([Article XI, Section 2](constitution.md)).
+Constitutional cases are subject to mandatory timelines ([Article XIV, Section 2](constitution/00-index.md)).
 
 ### 7.1 Why time matters
 
@@ -230,7 +230,7 @@ Courts must prioritize constitutional survival over docket comfort.
 
 ## 8. Remedies That Bite (and When They Trigger Automatically)
 
-Constitutional remedies must be effective and enforceable ([Article XI, Section 3](constitution.md)).
+Constitutional remedies must be effective and enforceable ([Article XIV, Section 3](constitution/00-index.md)).
 
 ### 8.1 Remedy hierarchy
 
@@ -261,7 +261,7 @@ Declaratory rulings without enforcement authority are prohibited in covered case
 
 ## 9. Default Rules When Courts Fail to Act
 
-Self-executing defaults are constitutionally mandated ([Article XI, Section 4](constitution.md)).
+Self-executing defaults are constitutionally mandated ([Article XIV, Section 4](constitution/00-index.md)).
 
 ### 9.1 The core innovation: self-executing defaults
 
@@ -417,7 +417,7 @@ Law acts *without drama*.
 
 ## 15. Judicial Appointments, Tenure, and Rotation
 
-Judicial appointments follow constitutional requirements for term limits, regional diversity, and staggered terms ([Article XI, Section 6](constitution.md)).
+Judicial appointments follow constitutional requirements for term limits, regional diversity, and staggered terms ([Article XIV, Section 6](constitution/00-index.md)).
 
 ### 15.1 Term limits
 
@@ -489,7 +489,7 @@ That is constitutional enforcement designed for reality.
 
 ## Related Documents
 
-- [Regional Federal Constitution](constitution.md) - Authoritative source for judiciary (Article XI)
+- [Regional Federal Constitution](constitution/00-index.md) - Authoritative source for judiciary (Article XIV)
 - [Core Idea: Regional Federalism](../01-foundation/01-core-idea.md)
 - [Allocation of Powers](01-allocation-of-powers.md)
 - [Elections and Democratic Legitimacy](02-elections.md)

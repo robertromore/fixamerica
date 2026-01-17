@@ -84,21 +84,21 @@ National healthcare reform faces:
 
 ## 3. Healthcare Powers Under Regional Federalism
 
-This section applies the allocation framework established in [Article II](../../02-design/constitution.md) and operationalized by the [Allocation Framework Act](../05-implementation/03-allocation-framework-act.md).
+This section applies the allocation framework established in [Article II](../../02-design/constitution/00-index.md) and operationalized by the [Allocation Framework Act](../05-implementation/03-allocation-framework-act.md).
 
 ### Federal Powers (Enumerated)
 
-Federal authority limited to ([Article II](../../02-design/constitution.md)):
+Federal authority limited to ([Article II](../../02-design/constitution/00-index.md)):
 
-- **Rights floors**: Minimum coverage standards, non-discrimination ([Article III](../../02-design/constitution.md))
+- **Rights floors**: Minimum coverage standards, non-discrimination ([Article III](../../02-design/constitution/00-index.md))
 - **Medicare**: Federal program for elderly/disabled continues
 - **Drug/device approval**: FDA authority preserved
 - **National benefits floor**: Portable baseline coverage
-- **Emergency coordination**: Pandemic response framework ([Article XIV](../../02-design/constitution.md))
+- **Emergency coordination**: Pandemic response framework ([Article XIV](../../02-design/constitution/00-index.md))
 
 ### Regional Powers (Exclusive)
 
-Regions would control ([Article I](../../02-design/constitution.md)):
+Regions would control ([Article I](../../02-design/constitution/00-index.md)):
 
 - **Insurance market regulation** above federal floors
 - **Regional rate-setting** or all-payer systems
@@ -159,7 +159,7 @@ A region could strengthen the ACA model:
 
 ### Inter-Regional Cooperation
 
-Under [Article I, Section 5](../../02-design/constitution.md), two or more Regions may cooperate on healthcare:
+Under [Article I, Section 5](../../02-design/constitution/00-index.md), two or more Regions may cooperate on healthcare:
 
 - **Joint purchasing pools**: Multiple Regions negotiate drug prices together
 - **Shared specialty networks**: Regions cooperate on rare disease centers or specialized facilities
@@ -176,7 +176,7 @@ Such agreements must specify governance, cost-sharing, dispute resolution, and w
 
 Regional governments can ensure baseline access while adapting to local conditions:
 
-- **Floor guarantee**: Federal rights floors ([Article III](../../02-design/constitution.md)) ensure minimum coverage everywhere
+- **Floor guarantee**: Federal rights floors ([Article III](../../02-design/constitution/00-index.md)) ensure minimum coverage everywhere
 - **Regional enhancement**: Regions may exceed floors based on regional preferences
 - **No coverage gaps**: Regional administration eliminates state border effects
 - **Portability**: Benefits floor ensures coverage travels within and across regions
@@ -344,7 +344,7 @@ Healthcare transition under regional federalism would require:
 
 ### Equalization
 
-Fiscal equalization ([Article VIII, Section 3](../../02-design/constitution.md)), operationalized by the [Fiscal Equalization Act](../05-implementation/04-fiscal-equalization-act.md), ensures:
+Fiscal equalization ([Article VIII, Section 3](../../02-design/constitution/00-index.md)), operationalized by the [Fiscal Equalization Act](../05-implementation/04-fiscal-equalization-act.md), ensures:
 
 - All regions can fund adequate healthcare
 - Lower-income regions receive support
@@ -389,7 +389,7 @@ Healthcare under regional federalism represents the system's approach applied to
 
 ## Related Documents
 
-- [The Regional Federal Constitution](../../02-design/constitution.md) - Authoritative source for all constitutional provisions
+- [The Regional Federal Constitution](../../02-design/constitution/00-index.md) - Authoritative source for all constitutional provisions
 - [Core Idea: Regional Federalism](../../01-foundation/01-core-idea.md)
 - [Design Axioms](../../01-foundation/02-design-axioms.md)
 - [Allocation of Powers](../../02-design/01-allocation-of-powers.md)

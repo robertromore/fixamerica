@@ -173,12 +173,12 @@ A federation must have:
 
 ### 4.5 Design implication for regional federalism
 
-Regional federalism must include ([Article VIII](../02-design/constitution.md)):
+Regional federalism must include ([Article XIII](../02-design/constitution/00-index.md)):
 
-- fiscal adequacy provisions ([Article VIII, Section 1](../02-design/constitution.md))
-- automatic equalization ([Article VIII, Section 3](../02-design/constitution.md))
+- fiscal adequacy provisions ([Article X, Section 1](../02-design/constitution/00-index.md))
+- automatic equalization ([Article X, Section 3](../02-design/constitution/00-index.md))
 - clear ownership of programs
-- prohibition on unfunded mandates ([Article VIII, Section 2](../02-design/constitution.md))
+- prohibition on unfunded mandates ([Article X, Section 2](../02-design/constitution/00-index.md))
 
 ---
 
@@ -224,7 +224,7 @@ Regions must be:
 
 - functional and infrastructural units
 - not explicit cultural partitions
-- constrained by democracy and civil rights floors ([Article III](../02-design/constitution.md))
+- constrained by democracy and civil rights floors ([Article III](../02-design/constitution/00-index.md))
 
 ---
 
@@ -260,11 +260,11 @@ Exit becomes:
 
 ### 6.4 Design implication
 
-Regional federalism must ensure ([Article IX](../02-design/constitution.md)):
+Regional federalism must ensure ([Article XV](../02-design/constitution/00-index.md)):
 
-- no formal or implied right of secession ([Article IX, Section 1](../02-design/constitution.md))
+- no formal or implied right of secession ([Article XV, Section 1](../02-design/constitution/00-index.md))
 - autonomy is real, fiscally backed, and democratically legitimate
-- de-escalation mechanisms exist that substitute for exit threats ([Article IX, Section 3](../02-design/constitution.md))
+- de-escalation mechanisms exist that substitute for exit threats ([Article XV, Section 3](../02-design/constitution/00-index.md))
 
 ---
 
@@ -367,11 +367,11 @@ Indicators:
 
 ### Trap A: Authority without revenue
 
-Response ([Article VIII](../02-design/constitution.md)):
+Response ([Article XIII](../02-design/constitution/00-index.md)):
 
-- independent taxing authority at each level ([Article VIII, Section 1](../02-design/constitution.md))
-- no unfunded mandates ([Article VIII, Section 2](../02-design/constitution.md))
-- automatic equalization and stabilization ([Article VIII, Section 3](../02-design/constitution.md))
+- independent taxing authority at each level ([Article X, Section 1](../02-design/constitution/00-index.md))
+- no unfunded mandates ([Article X, Section 2](../02-design/constitution/00-index.md))
+- automatic equalization and stabilization ([Article X, Section 3](../02-design/constitution/00-index.md))
 
 ---
 
@@ -379,19 +379,19 @@ Response ([Article VIII](../02-design/constitution.md)):
 
 Response:
 
-- Senate restructured to represent regions without routine legislative veto ([Article IV, Section 3-4](../02-design/constitution.md))
-- amendment process redesigned to avoid minority veto ([Article X](../02-design/constitution.md))
-- courts constrained to process enforcement ([Article XI](../02-design/constitution.md))
+- Senate restructured to represent regions without routine legislative veto ([Article IV, Section 3-4](../02-design/constitution/00-index.md))
+- amendment process redesigned to avoid minority veto ([Article XIII](../02-design/constitution/00-index.md))
+- courts constrained to process enforcement ([Article XIV](../02-design/constitution/00-index.md))
 
 ---
 
 ### Trap C: Exit ambiguity
 
-Response ([Article IX](../02-design/constitution.md)):
+Response ([Article XV](../02-design/constitution/00-index.md)):
 
-- explicit no-secession clause ([Article IX, Section 1](../02-design/constitution.md))
-- explicit no-nullification clause ([Article IX, Section 2](../02-design/constitution.md))
-- de-escalation ladder substitutes for exit threats ([Article IX, Section 3](../02-design/constitution.md))
+- explicit no-secession clause ([Article XV, Section 1](../02-design/constitution/00-index.md))
+- explicit no-nullification clause ([Article XV, Section 2](../02-design/constitution/00-index.md))
+- de-escalation ladder substitutes for exit threats ([Article XV, Section 3](../02-design/constitution/00-index.md))
 
 ---
 
@@ -399,20 +399,20 @@ Response ([Article IX](../02-design/constitution.md)):
 
 Response:
 
-- regions defined functionally, not ethnically or culturally ([Article I](../02-design/constitution.md))
-- strong rights floors ([Article III](../02-design/constitution.md))
+- regions defined functionally, not ethnically or culturally ([Article I](../02-design/constitution/00-index.md))
+- strong rights floors ([Article III](../02-design/constitution/00-index.md))
 - internal minority protections
 
 ---
 
 ### Trap E: Politicized security
 
-Response ([Article XII](../02-design/constitution.md)):
+Response ([Article XV](../02-design/constitution/00-index.md)):
 
-- divided armed-force control ([Article XII, Section 1](../02-design/constitution.md))
-- regional guard with constitutional obligations ([Article XII, Section 3](../02-design/constitution.md))
-- multi-key authorization for domestic deployment ([Article XII, Section 2](../02-design/constitution.md))
-- duty to refuse unlawful orders ([Article XII, Section 3](../02-design/constitution.md))
+- divided armed-force control ([Article XV, Section 1](../02-design/constitution/00-index.md))
+- regional guard with constitutional obligations ([Article XV, Section 3](../02-design/constitution/00-index.md))
+- multi-key authorization for domestic deployment ([Article XV, Section 2](../02-design/constitution/00-index.md))
+- duty to refuse unlawful orders ([Article XV, Section 3](../02-design/constitution/00-index.md))
 
 ---
 
@@ -457,7 +457,7 @@ That is what history demands-and what this system attempts to deliver.
 
 ## Related Documents
 
-- [Regional Federal Constitution](../02-design/constitution.md) - Authoritative source for all constitutional provisions
+- [Regional Federal Constitution](../02-design/constitution/00-index.md) - Authoritative source for all constitutional provisions
 - [Core Idea: Regional Federalism](../01-foundation/01-core-idea.md)
 - [Allocation of Powers](../02-design/01-allocation-of-powers.md)
 - [Federal Taxation and Fiscal Architecture](../02-design/05-fiscal-architecture.md)

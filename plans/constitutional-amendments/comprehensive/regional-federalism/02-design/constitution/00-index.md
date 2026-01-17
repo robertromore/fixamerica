@@ -11,41 +11,84 @@ These documents contain provisions that are inherently tied to the regional stru
 | Document | Content |
 |----------|---------|
 | [01-regional-structure.md](01-regional-structure.md) | Article I: Regions, boundaries, regional constitutions |
-| [02-powers-and-rights.md](02-powers-and-rights.md) | Articles II-III: Allocation of powers, rights floors |
+| [02-powers-and-rights.md](02-powers-and-rights.md) | Articles II-III: Allocation of powers, rights floors, subsidiarity |
 | [03-regional-governance.md](03-regional-governance.md) | Articles IV-V: Regional legislatures and executives |
 | [04-fiscal-system.md](04-fiscal-system.md) | Article X: Fiscal architecture and equalization |
 | [05-safeguards.md](05-safeguards.md) | Articles XII-XIII: Secession, amendments |
 | [06-supremacy.md](06-supremacy.md) | Articles XVIII-XX: Supremacy, transition, non-state entities |
 | [07-implementation.md](07-implementation.md) | Articles XXI-XXII: Defaults and definitions |
 
-## Companion Reforms
+## Modular Architecture for Companion Reforms
 
-These reforms can be adopted independently OR as part of Regional Federalism. Full standalone versions are available in separate plan folders:
+Regional Federalism uses a **modular architecture** for companion reforms:
 
-| Topic | Regional Article | Standalone Plan |
-|-------|-----------------|-----------------|
-| Lobbying/Anti-Corruption | Article IX | [plans/lobbying-reform/](../../../../single-topic/lobbying-reform/) |
-| Federal Reserve | Article XI | [plans/federal-reserve-reform/](../../../../single-topic/federal-reserve-reform/) |
-| Armed Forces/Civilian Control | Article XV | [plans/military-civilian-control/](../../../../single-topic/military-civilian-control/) |
-| Cyber Defense | Article XVI | [plans/cyber-defense/](../../../../single-topic/cyber-defense/) |
-| Emergency Powers | Article XVII | [plans/emergency-powers-reform/](../../../../single-topic/emergency-powers-reform/) |
-| Impeachment | Article VI | [plans/impeachment-reform/](../../../../single-topic/impeachment-reform/) |
-| Elections | Article VII | [plans/election-reform/](../../../../single-topic/election-reform/) |
-| Judiciary | Article XIV | [plans/judicial-reform/](../../../../single-topic/judicial-reform/) |
+**Decision Rule:** If a provision relies on regions to function or creates a regional institution, it belongs in this directory. If it could operate with the existing federal/state system, it stays as a standalone amendment in `single-topic/`.
+
+**One-Way Dependencies:** RF can rely on standalone amendments; standalone amendments do NOT rely on RF.
+
+### RF Supplements (Region-Dependent Pieces Only)
+
+These files contain ONLY the region-dependent provisions. They require adoption of the corresponding standalone amendment.
+
+| RF Supplement | Content | Requires |
+|---------------|---------|----------|
+| [09-judiciary.md](09-judiciary.md) | Regional courts tier, specialized courts (ARB, Water Court) | [Judicial Reform Amendment](../../../../single-topic/judicial-reform/) |
+| [10-armed-forces.md](10-armed-forces.md) | Regional Guard Forces, federalization rules | [Military Civilian Control Amendment](../../../../single-topic/military-civilian-control/) |
+| [11-emergency-powers.md](11-emergency-powers.md) | Regional Governor declaration authority | [Emergency Powers Reform Amendment](../../../../single-topic/emergency-powers-reform/) |
+
+### Standalone Amendments (No RF Supplement Needed)
+
+These reforms work equally well with the existing federal/state system OR with Regional Federalism. No RF-specific version is needed.
+
+| Topic | Standalone Plan | Notes |
+|-------|-----------------|-------|
+| Elections | [election-reform/](../../../../single-topic/election-reform/) | National popular vote, certification timelines work same with States or Regions |
+| Impeachment | [impeachment-reform/](../../../../single-topic/impeachment-reform/) | General reform, not region-dependent |
+| Lobbying/Anti-Corruption | [lobbying-reform/](../../../../single-topic/lobbying-reform/) | General reform, not region-dependent |
+| Federal Reserve | [federal-reserve-reform/](../../../../single-topic/federal-reserve-reform/) | Monetary policy reform, not region-dependent |
+| Cyber Defense | [cyber-defense/](../../../../single-topic/cyber-defense/) | General reform, not region-dependent |
 
 ## How the Pieces Fit Together
 
-**If adopting Regional Federalism as a whole:**
+**If adopting Regional Federalism:**
 
-- Use Articles I-XXII as a complete package
-- The regional-specific and standalone reforms are integrated
-- Cross-references work within the unified document
+1. Adopt the Core Regional Constitution (Articles I-V, X, XII-XIII, XVIII-XXII)
+2. Adopt desired standalone amendments from `single-topic/`
+3. The RF supplements automatically apply when both RF and the standalone amendment are adopted
+4. Substitute "Regional Governors" for "State Governors" in standalone amendments where applicable
 
-**If adopting reforms separately:**
+**If adopting reforms separately (without RF):**
 
-- Each standalone plan can be adopted without regional structure
-- Standalone versions adapt regional-specific provisions
-- Reforms work with existing federal/state structure
+- Each standalone plan can be adopted independently
+- Standalone versions work with existing federal/state structure
+- No RF supplements apply
+
+## Implementing Proposals
+
+These proposals provide detailed implementation procedures for constitutional provisions. The constitution establishes principles; these proposals provide operational detail:
+
+| Proposal | Implements | Key Functions |
+|----------|------------|---------------|
+| [De-Escalation Procedures Act](../../proposals/de-escalation-procedures-act.md) | Article XII, Section 3 | 4-level de-escalation ladder, judicial enforcement, federal intervention |
+| [Regional Boundary Review Act](../../proposals/boundary-review-act.md) | Article I, Section 4 | Commission structure, review criteria, referendum procedures |
+| [Water Resources Coordination Act](../../proposals/water-resources-coordination-act.md) | Article I, Section 7 | Board structure, equitable apportionment, dispute resolution |
+| [D.C. Status Determination Act](../../proposals/dc-status-determination-act.md) | Article XX, Section 1 | Congressional representation, status options, Regional assignment |
+| [Interregional Coordination Review Act](../../proposals/interregional-coordination-review-act.md) | Article IV, Section 5 | Senate review criteria, determination procedures, timelines |
+| [National Common Market Access Act](../../proposals/national-common-market-access-act.md) | Article I, Section 6 | Transit rights, fee standards, blockade enforcement |
+| [Interstate Professional Licensing Act](../../proposals/interstate-professional-licensing-act.md) | Article I, Section 9 | Credential portability, fee limits, supplementary requirements |
+| [Transboundary Environmental Protection Act](../../proposals/transboundary-environmental-protection-act.md) | Article I, Section 10 | Pollution prohibition, EPA monitoring, federal enforcement |
+| [Interstate Law Enforcement Cooperation Act](../../proposals/interstate-law-enforcement-cooperation-act.md) | Article I, Section 11 | Extradition, hot pursuit, mutual legal assistance |
+| [Territories Status Act](../../proposals/territories-status-act.md) | Article XX, Section 2 | Election participation, Regional assignment, status paths |
+
+Each proposal includes a hostile reinterpretation stress test analyzing potential misuse and countermeasures.
+
+## Proposed Constitutional Enhancements
+
+These proposals suggest optional additions to the Regional Federal Constitution that may be adopted before or after the core constitution:
+
+| Proposal | Would Add | Purpose |
+|----------|-----------|---------|
+| [Senate Safeguard Concurrence Amendment](../../proposals/senate-safeguard-concurrence-act.md) | Article IV, Section 4-A | Targeted Senate concurrence for safeguard legislation (emergency powers, military, elections, judiciary, de-escalation, allocation) to provide additional check against authoritarian consolidation while preserving House majority rule for ordinary legislation |
 
 ## Original Complete Document
 

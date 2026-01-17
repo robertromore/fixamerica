@@ -207,10 +207,10 @@ This system is built around a different ethic:
 
 That is why:
 
-- interventions are temporary ([Article IX, Section 3](../02-design/constitution.md)),
-- emergencies sunset automatically ([Article XIV, Section 2](../02-design/constitution.md)),
-- courts enforce process, not ideology ([Article XI](../02-design/constitution.md)),
-- armed force is constrained to restoration ([Article XII, Section 2](../02-design/constitution.md)).
+- interventions are temporary ([Article XII, Section 3](../02-design/constitution/00-index.md)),
+- emergencies sunset automatically ([Article XVII, Section 2](../02-design/constitution/00-index.md)),
+- courts enforce process, not ideology ([Article XIV](../02-design/constitution/00-index.md)),
+- armed force is constrained to restoration ([Article XV, Section 2](../02-design/constitution/00-index.md)).
 
 The goal is compliance-not victory.
 
@@ -233,10 +233,10 @@ This system assumes:
 
 That is why it includes:
 
-- mandatory jurisdiction ([Article XI, Section 1](../02-design/constitution.md)),
-- deadlines ([Article XI, Section 2](../02-design/constitution.md)),
-- self-executing defaults ([Article XI, Section 4](../02-design/constitution.md); [Article XVIII, Section 2](../02-design/constitution.md)),
-- multi-key authorizations ([Article XII, Section 2](../02-design/constitution.md)),
+- mandatory jurisdiction ([Article XIV, Section 1](../02-design/constitution/00-index.md)),
+- deadlines ([Article XIV, Section 2](../02-design/constitution/00-index.md)),
+- self-executing defaults ([Article XIV, Section 4](../02-design/constitution/00-index.md); [Article XVIII, Section 2](../02-design/constitution/00-index.md)),
+- multi-key authorizations ([Article XV, Section 2](../02-design/constitution/00-index.md)),
 - parallel institutions (regions as alternative governing centers).
 
 Bad faith does not break the system-it merely reveals itself.
@@ -329,7 +329,7 @@ That is its meta-level purpose.
 
 ## Related Documents
 
-- [The Regional Federal Constitution](../02-design/constitution.md) - Authoritative source for all constitutional provisions
+- [The Regional Federal Constitution](../02-design/constitution/00-index.md) - Authoritative source for all constitutional provisions
 - [Core Idea: Regional Federalism](../01-foundation/01-core-idea.md)
 - [Design Axioms](../01-foundation/02-design-axioms.md)
 - [Allocation of Powers](../02-design/01-allocation-of-powers.md)
@@ -353,5 +353,5 @@ That is its meta-level purpose.
 
 ## Document Navigation
 
-- Previous: [The Regional Federal Constitution](../02-design/constitution.md)
+- Previous: [The Regional Federal Constitution](../02-design/constitution/00-index.md)
 - Next: [Design Axioms of Regional Federalism](../01-foundation/02-design-axioms.md)

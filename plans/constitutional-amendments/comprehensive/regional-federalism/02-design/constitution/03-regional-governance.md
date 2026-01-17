@@ -42,6 +42,24 @@ The Senate's powers are limited to:
 
 The Senate shall not function as a routine legislative veto.
 
+**Adjudication Procedures.** When adjudicating intergovernmental disputes:
+
+- (a) The Senate shall establish standing rules for dispute adjudication, including discovery procedures, hearing requirements, and decision standards.
+- (b) Disputes must be resolved within 180 days of filing unless all parties consent to extension.
+- (c) Senate adjudication is limited to disputes between Regions, or between Regions and the federal government, regarding interpretation of this Constitution or federal law.
+- (d) The Senate may not adjudicate disputes involving individual rights (which belong to the courts) or disputes already pending in the Allocation Review Board or federal courts.
+- (e) Senate adjudication decisions may be appealed to the Supreme Court on questions of constitutional interpretation within 60 days.
+
+---
+
+### Section 4-A. Senate Concurrence for Constitutional Safeguards (Proposed)
+
+> **Note:** This section is a proposed optional enhancement. See the [Senate Safeguard Concurrence Amendment](../../proposals/senate-safeguard-concurrence-act.md) for full text and analysis.
+
+Senate concurrence by majority vote may be required for legislation affecting constitutional safeguards, including emergency powers, domestic armed force deployment, election administration, judicial structure, de-escalation procedures, and allocation of powers.
+
+If adopted, this section would create targeted Senate involvement in safeguard legislation while preserving House majority rule for ordinary policy.
+
 ---
 
 ### Section 5. Federal Lawmaking
@@ -54,31 +72,16 @@ The Senate shall not function as a routine legislative veto.
 
 (d) The Senate shall not have veto power over ordinary legislation. Senate concurrence is required only for matters specified in Section 4.
 
-(e) Senate Review of Interregional Coordination Matters. For bills meeting the criteria in subsection (f), the Senate may delay presentation to the President by up to sixty days to propose amendments. Failure to act within sixty days results in automatic presentation to the President.
+(e) Senate Review of Interregional Coordination Matters. For bills affecting interregional coordination (shared natural resources, equalization formulas, Regional mandates, boundary procedures), the Senate may delay presentation to the President to propose amendments, but cannot permanently block legislation.
 
-(f) Interregional Coordination Criteria. A bill is subject to Senate review under subsection (e) only if it:
+- (1) The Senate must complete review within 60 days of receiving a bill from the House. If no action is taken within 60 days, the bill shall be automatically presented to the President.
+- (2) If the Senate proposes amendments, the House may accept, reject, or modify them within 30 days. The House's final action is conclusive.
+- (3) The Senate may invoke review by majority vote within 10 days of House passage. Failure to invoke review waives the delay authority.
+- (4) During Senate review, the bill's sponsors in the House may request expedited review (30 days) upon showing urgent circumstances.
 
-(1) directly regulates the allocation of shared natural resources among Regions,
+(f) The categories triggering Senate review may not be expanded except by constitutional amendment.
 
-(2) establishes or modifies equalization transfer formulas,
-
-(3) creates federal mandates requiring Regional implementation, or
-
-(4) modifies Regional boundary revision procedures.
-
-(g) Determination of Applicability. Whether a bill meets the criteria in subsection (f) shall be determined as follows:
-
-(1) The Speaker of the House shall certify whether each bill meets the criteria upon passage.
-
-(2) The Senate may challenge the Speaker's certification by a vote of three-fifths of Senators.
-
-(3) If challenged, the Parliamentarian of the House shall issue a binding determination within five days.
-
-(4) The Parliamentarian's determination may be appealed to the Allocation Review Board, which shall rule within ten days.
-
-(h) No body may expand the categories in subsection (f) except by constitutional amendment.
-
-(i) The Senate may propose amendments to bills subject to its review. If the House accepts Senate amendments, the bill proceeds to the President. If the House rejects Senate amendments, the original House bill proceeds to the President after the sixty-day period expires.
+(g) Implementation procedures are established by statute. See the [Interregional Coordination Legislative Review Act](../../proposals/interregional-coordination-review-act.md) for the proposed implementing legislation.
 
 ---
 
@@ -119,6 +122,7 @@ The transformed Senate:
 - focuses on constitutional matters (treaties, judges, amendments, disputes)
 - cannot veto ordinary legislation
 - retains review power only for interregional coordination matters
+- may optionally require concurrence for safeguard legislation (see Section 4-A proposal)
 
 ### Why Limit Presidential Domestic Authority?
 
@@ -153,6 +157,7 @@ The only requirements are:
 - [Fiscal System](04-fiscal-system.md) - Article X
 - [Congressional Reform](../../../../single-topic/congressional-reform/) - Standalone federal reforms
 - [Executive Reform](../../../../single-topic/executive-reform/) - Standalone federal reforms
+- [Senate Safeguard Concurrence Amendment](../../proposals/senate-safeguard-concurrence-act.md) - Proposed Section 4-A
 
 ---
 

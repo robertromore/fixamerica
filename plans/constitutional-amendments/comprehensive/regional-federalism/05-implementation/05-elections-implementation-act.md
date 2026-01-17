@@ -28,16 +28,16 @@ This Act operationalizes the electoral framework described in [02-elections.md](
 
 ### 1.1 Constitutional Mandate
 
-[Article XVII, Section 1](../02-design/constitution.md) requires Congress to enact "an Elections Implementation Act specifying procedures for federal elections under regional administration."
+[Article XXI, Section 1](../02-design/constitution/00-index.md) requires Congress to enact "an Elections Implementation Act specifying procedures for federal elections under regional administration."
 
-[Article VI](../02-design/constitution.md) establishes:
+[Article VII](../02-design/constitution/00-index.md) establishes:
 
 - National popular vote for President (Section 2)
 - Majority winner requirement (Section 2)
 - Regional certification timelines (Section 3)
 - Automatic certification provisions (Section 4)
 
-[Article XVII, Section 2(c)](../02-design/constitution.md) provides default rules if Congress fails to act:
+[Article XXI, Section 2(c)](../02-design/constitution/00-index.md) provides default rules if Congress fails to act:
 
 - National popular vote remains in force
 - Administrative procedures follow prior federal law adapted for regional administration
@@ -245,7 +245,7 @@ For absentee/mail voting:
 
 ### 5.1 National Popular Vote
 
-The President shall be elected by national popular vote as provided in [Article VI, Section 2](../02-design/constitution.md).
+The President shall be elected by national popular vote as provided in [Article VII, Section 2](../02-design/constitution/00-index.md).
 
 ### 5.2 Majority Requirement
 
@@ -327,7 +327,7 @@ Regional Assembly elections are matters of Regional law, not governed by this Ac
 
 ### 7.1 Certification Timeline
 
-Per [Article VI, Section 4](../02-design/constitution.md) of the Regional Federal Constitution:
+Per [Article VII, Section 4](../02-design/constitution/00-index.md) of the Regional Federal Constitution:
 
 | Event | Deadline |
 |-------|----------|
@@ -349,7 +349,7 @@ Each REC shall certify:
 
 ### 7.3 Automatic Certification
 
-Per [Article VI, Section 4](../02-design/constitution.md):
+Per [Article VII, Section 4](../02-design/constitution/00-index.md):
 
 If no dispute is formally filed within 14 days of Election Day, certification is automatic. RECs shall certify results based on vote tabulations without discretionary review.
 
@@ -603,7 +603,7 @@ Authorization of appropriations:
 
 ## Related Documents
 
-- [The Regional Federal Constitution](../02-design/constitution.md) - Authoritative source for all constitutional provisions
+- [The Regional Federal Constitution](../02-design/constitution/00-index.md) - Authoritative source for all constitutional provisions
 - [Core Idea: Regional Federalism](../01-foundation/01-core-idea.md)
 - [Design Axioms](../01-foundation/02-design-axioms.md)
 - [Allocation of Powers](../02-design/01-allocation-of-powers.md)

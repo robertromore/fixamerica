@@ -132,7 +132,7 @@ Exposes manipulation without adjudicating truth.
 ### Safeguard I.4 — Foreign Source Disclosure Requirements
 
 **Mechanism:**
-Mandatory disclosure of foreign government involvement in domestic media ([Article XIII, Section 7](../02-design/constitution.md)).
+Mandatory disclosure of foreign government involvement in domestic media ([Article XVI, Section 7](../02-design/constitution/00-index.md)).
 
 **Tools:**
 
@@ -152,7 +152,7 @@ Disclosure preserves public access while informing judgment; censorship creates 
 ### Safeguard I.5 — Platform Transparency Mandates
 
 **Mechanism:**
-Statutory requirements for large digital platforms to expose foreign influence operations ([Article XIII, Section 7(c)](../02-design/constitution.md)).
+Statutory requirements for large digital platforms to expose foreign influence operations ([Article XVI, Section 7(c)](../02-design/constitution/00-index.md)).
 
 **Tools:**
 
@@ -255,7 +255,7 @@ Long-term economic and cultural divergence creating resentment.
 ### Safeguard III.1 — Automatic Equalization Review Board
 
 **Mechanism:**
-A technocratic, rotating review body to monitor the equalization system established under [Article VIII, Section 3](../02-design/constitution.md).
+A technocratic, rotating review body to monitor the equalization system established under [Article X, Section 3](../02-design/constitution/00-index.md).
 
 **Functions:**
 
@@ -273,7 +273,7 @@ See also [Gap 9 — Inter-Regional Divergence](../04-meta/02-identified-gaps.md)
 ### Safeguard III.2 — National Mobility & Integration Incentives
 
 **Mechanism:**
-Federal and regional incentives supporting the interstate mobility protections established in [Article VII](../02-design/constitution.md).
+Federal and regional incentives supporting the interstate mobility protections established in [Article VII](../02-design/constitution/00-index.md).
 
 **Tools:**
 
@@ -325,7 +325,7 @@ Sunlight discourages cartel behavior.
 ### Safeguard IV.2 — Electoral System Diversity by Region
 
 **Mechanism:**
-Regions may adopt varied electoral systems (PR, ranked choice, etc.) within the framework established by [Article VI](../02-design/constitution.md).
+Regions may adopt varied electoral systems (PR, ranked choice, etc.) within the framework established by [Article VII](../02-design/constitution/00-index.md).
 
 **Why it works:**
 Prevents a single national party strategy from dominating everywhere.
@@ -425,7 +425,7 @@ Underreaction or fragmentation in fast-moving crises.
 ### Safeguard VII.1 — Pre-Negotiated Crisis Protocols
 
 **Mechanism:**
-Standing intergovernmental agreements that operate within the emergency powers framework of [Article XIV](../02-design/constitution.md) and the cyber defense provisions of [Article XIII](../02-design/constitution.md).
+Standing intergovernmental agreements that operate within the emergency powers framework of [Article XVII](../02-design/constitution/00-index.md) and the cyber defense provisions of [Article XVI](../02-design/constitution/00-index.md).
 
 **Domains:**
 
@@ -500,7 +500,7 @@ This is how durable democratic systems endure.
 
 ## Related Documents
 
-- [The Regional Federal Constitution](../02-design/constitution.md) - Authoritative source for all constitutional provisions
+- [The Regional Federal Constitution](../02-design/constitution/00-index.md) - Authoritative source for all constitutional provisions
 - [Core Idea: Regional Federalism](../01-foundation/01-core-idea.md)
 - [Design Axioms](../01-foundation/02-design-axioms.md)
 - [Allocation of Powers](../02-design/01-allocation-of-powers.md)
@@ -525,4 +525,4 @@ This is how durable democratic systems endure.
 ## Document Navigation
 
 - Previous: [Identified Gaps](../04-meta/02-identified-gaps.md)
-- Next: [Constitutional Transition Act](../05-implementation/02-transition-act.md)
+- Next: [Constitutional Transition Act](02-transition-act.md)

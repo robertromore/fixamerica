@@ -5,7 +5,7 @@
 > **Purpose of this document:**
 > To stress-test how the Regional Federal system defends against a domestic authoritarian who coordinates with a foreign nation-state to spread disinformation, manipulate public opinion through social media, and undermine democratic processes.
 >
-> This scenario is distinct from conventional cyber attacks addressed in [Article XIII](../02-design/constitution.md) and requires explicit analysis because:
+> This scenario is distinct from conventional cyber attacks addressed in [Article XVI](../02-design/constitution/00-index.md) and requires explicit analysis because:
 >
 > - foreign information operations exploit constitutional protections for speech,
 > - they blur the line between protected advocacy and hostile foreign action,
@@ -194,7 +194,7 @@ Government-sponsored counter-messaging:
 
 ## 5. Structural Responses in Regional Federalism
 
-Regional federalism addresses foreign information operations through transparency-based mechanisms that avoid creating censorship tools ([Article XIII, Section 7](../02-design/constitution.md)).
+Regional federalism addresses foreign information operations through transparency-based mechanisms that avoid creating censorship tools ([Article XVI, Section 7](../02-design/constitution/00-index.md)).
 
 ---
 
@@ -551,7 +551,7 @@ This is what information security looks like in a constitutional democracy.
 
 ## Related Documents
 
-- [Regional Federal Constitution](../02-design/constitution.md) - Authoritative source for all constitutional provisions
+- [Regional Federal Constitution](../02-design/constitution/00-index.md) - Authoritative source for all constitutional provisions
 - [Core Idea: Regional Federalism](../01-foundation/01-core-idea.md)
 - [Authoritarian Consolidation Scenario](05-authoritarian-scenario.md)
 - [Hostile Reinterpretation Stress Test](04-hostile-reinterpretation.md)
@@ -565,4 +565,4 @@ This is what information security looks like in a constitutional democracy.
 ## Document Navigation
 
 - Previous: [Authoritarian Consolidation Scenario](05-authoritarian-scenario.md)
-- Next: Return to [Regional Federal Constitution](../02-design/constitution.md) or [Core Idea](../01-foundation/01-core-idea.md)
+- Next: Return to [Regional Federal Constitution](../02-design/constitution/00-index.md) or [Core Idea](../01-foundation/01-core-idea.md)

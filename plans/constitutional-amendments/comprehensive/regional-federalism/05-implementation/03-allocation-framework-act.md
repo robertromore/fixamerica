@@ -2,7 +2,7 @@
 
 ## Recommended Implementation for Regional Federalism
 
-> **Purpose:** To define jurisdictional boundaries, spillover criteria, and conflict resolution mechanisms as required by Article XVII of the Regional Federalism Constitution.
+> **Purpose:** To define jurisdictional boundaries, spillover criteria, and conflict resolution mechanisms as required by Article XXI of the Regional Federalism Constitution.
 
 This Act operationalizes the allocation of powers described in [01-allocation-of-powers.md](../02-design/01-allocation-of-powers.md) by providing measurable criteria, institutional procedures, and enforcement mechanisms.
 
@@ -27,9 +27,9 @@ This Act operationalizes the allocation of powers described in [01-allocation-of
 
 ### 1.1 Constitutional Mandate
 
-Article XVII, Section 1 requires Congress to enact "an Allocation Framework Act defining jurisdictional boundaries and spillover criteria."
+Article XXI, Section 1 requires Congress to enact "an Allocation Framework Act defining jurisdictional boundaries and spillover criteria."
 
-Article XVII, Section 2(a) provides that if Congress fails to act within two years, default rules apply: "the allocation of powers shall be governed by existing federal-state divisions, with Regions exercising authority over matters previously requiring interstate compacts."
+Article XXI, Section 2(a) provides that if Congress fails to act within two years, default rules apply: "the allocation of powers shall be governed by existing federal-state divisions, with Regions exercising authority over matters previously requiring interstate compacts."
 
 ### 1.2 Purpose
 
@@ -1155,7 +1155,7 @@ Failure to comply with monitoring requirements:
 
 ### 6.4 Inter-Regional Infrastructure Disputes
 
-[Article I, Section 6](../02-design/constitution.md) (Right of Transit and Non-Blockade) provides expedited procedures for disputes involving infrastructure access between Regions:
+[Article I, Section 6](../02-design/constitution/01-regional-structure.md) (Right of Transit and Non-Blockade) provides expedited procedures for disputes involving infrastructure access between Regions:
 
 **Expedited Timeline:**
 
@@ -2291,7 +2291,7 @@ To avoid duplicative proceedings:
 
 ## Relationship to Other Documents
 
-- **Constitutional basis**: [constitution.md](../02-design/constitution.md), Article XVII
+- **Constitutional basis**: [constitution](../02-design/constitution/00-index.md), Article XXI
 - **Design rationale**: [01-allocation-of-powers.md](../02-design/01-allocation-of-powers.md)
 - **Fiscal alignment**: [04-fiscal-equalization-act.md](04-fiscal-equalization-act.md)
 - **Transition framework**: [02-transition-act.md](02-transition-act.md)
@@ -2299,3 +2299,10 @@ To avoid duplicative proceedings:
 ---
 
 *This document provides recommended statutory language and implementation guidance. Actual legislation would require refinement through the legislative process.*
+
+---
+
+## Document Navigation
+
+- Previous: [Constitutional Transition Act](02-transition-act.md)
+- Next: [Fiscal Equalization Act](04-fiscal-equalization-act.md)

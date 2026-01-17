@@ -53,7 +53,7 @@ These gaps are:
 | 5 | III - Under-Specified | Medium | Medium |
 | 6 | III - Under-Specified | Medium | Low |
 | 7 | III - Under-Specified | Medium | Medium |
-| 8 | III - Under-Specified | Medium | Medium |
+| 8 | III - Under-Specified | Medium | PROPOSAL |
 | 9 | IV - Long-Horizon | Medium | Medium |
 | 10 | IV - Long-Horizon | Medium | High |
 | 11 | IV - Long-Horizon | Medium | Medium |
@@ -68,10 +68,20 @@ These gaps are:
 | 20 | III - Under-Specified | — | RESOLVED |
 | 21 | III - Under-Specified | — | RESOLVED |
 | 22 | III - Under-Specified | — | RESOLVED |
+| 23 | III - Under-Specified | High | PROPOSAL |
+| 24 | III - Under-Specified | High | PROPOSAL |
+| 25 | IV - Long-Horizon | Medium | PROPOSAL |
+| 26 | III - Under-Specified | Medium | PROPOSAL |
+| 27 | III - Under-Specified | Medium | PROPOSAL |
+| 28 | III - Under-Specified | Medium | PROPOSAL |
+| 29 | VI - Tradeoffs | High | GUIDANCE |
+| 30 | VI - Tradeoffs | Medium | GUIDANCE |
+| 31 | III - Under-Specified | Medium | PROPOSAL |
+| 32 | VI - Tradeoffs | Medium | GUIDANCE |
 
 **Severity:** Critical (system-threatening) | High (major risk) | Medium (significant) | Low (minor)
 
-**Mitigability:** How addressable through design or policy (High/Medium/Low/N/A for accepted tradeoffs)
+**Mitigability:** How addressable through design or policy (High/Medium/Low/N/A for accepted tradeoffs/ADDRESSED/RESOLVED/PROPOSAL/GUIDANCE)
 
 ---
 
@@ -111,7 +121,7 @@ Information collapse can delegitimize institutions faster than law can respond.
 **Status:**
 Deliberately under-constrained to avoid censorship and authoritarian drift.
 
-Foreign information operations are addressed through disclosure requirements ([Article XIII, Section 7](../02-design/constitution.md)), but domestic speech and belief formation remain intentionally unregulated. See [Foreign Information Warfare Stress Test](../03-analysis/06-foreign-information-warfare.md) for related analysis.
+Foreign information operations are addressed through disclosure requirements ([Article XVI, Section 7](../02-design/constitution/00-index.md)), but domestic speech and belief formation remain intentionally unregulated. See [Foreign Information Warfare Stress Test](../03-analysis/06-foreign-information-warfare.md) for related analysis.
 
 ---
 
@@ -174,7 +184,7 @@ The system does not deeply constitutionalize:
 Narrative domination without formal institutional capture.
 
 **Status:**
-Partially addressed by [Article XIII, Section 7](../02-design/constitution.md) (foreign source disclosure requirements).
+Partially addressed by [Article XVI, Section 7](../02-design/constitution/00-index.md) (foreign source disclosure requirements).
 Intentional under-specification for domestic speech to avoid overreach.
 Foreign information operations subject to transparency requirements but not content control.
 
@@ -208,7 +218,7 @@ The constitutional system depends on three major implementation acts:
 - Fiscal Equalization Act (establishing transfer formulas and the Independent Fiscal Council)
 - Elections Implementation Act (specifying procedures for federal elections)
 
-[Article XVII](../02-design/constitution.md) provides default rules if Congress fails to enact these acts, but defaults are designed as emergency backstops, not optimal governance.
+[Article XXI](../02-design/constitution/00-index.md) provides default rules if Congress fails to enact these acts, but defaults are designed as emergency backstops, not optimal governance.
 
 **Risk:**
 
@@ -224,7 +234,7 @@ Partially mitigated by constitutional defaults and declining incentive rates; on
 ### Gap 8 — Rights-Floor Content and Enforcement Detail
 
 **Description:**
-The constitution establishes rights floors as a structural principle ([Article III](../02-design/constitution.md)) but does not enumerate specific floor content. Analysis documents assume:
+The constitution establishes rights floors as a structural principle ([Article III](../02-design/constitution/00-index.md)) but does not enumerate specific floor content. Analysis documents assume:
 
 - baseline bodily autonomy protections,
 - core gun rights,
@@ -240,14 +250,32 @@ Actual floor definitions require implementation legislation and judicial interpr
 - Political conflict over floor content may replicate current nationalized battles.
 
 **Status:**
-Intentional under-specification to allow democratic adaptation; content emerges through implementation acts and constitutional adjudication. [Article III](../02-design/constitution.md) provides interpretive guidance but not substantive definition.
+**PROPOSAL AVAILABLE.** The Dual-Legitimacy Rights-Floor Statute (DLRS) mechanism has been developed as a proposed sub-constitutional process for establishing rights floors. See the [DLRS Proposal](../proposals/dual-legitimacy-rights-floor-statute.md) for the full mechanism, which would:
+
+- Require dual consent (national popular referendum + two-thirds of Regions)
+- Limit floor-setting to five enumerated domains (voting, due process, anti-discrimination, labor, public integrity)
+- Establish a ratchet mechanism (floors can be raised by DLRS but lowered only by constitutional amendment)
+- Provide clear floor/ceiling distinction criteria to prevent scope creep
+- Include comprehensive procedural safeguards covering:
+    - Regional ratification duty with abstention-neutral rules
+    - Emergency non-suspension
+    - DLRS conflicts resolution
+    - Pre-ratification review limitations
+    - IEC transparency requirements
+    - Ballot language and referendum administration
+    - Minority rights protection
+    - Treaty obligations consistency
+
+If adopted, the DLRS mechanism would be incorporated into the Regional Federal Constitution as Article III, Section 4. The proposal includes model floor examples and hostile reinterpretation stress testing.
+
+**Residual risk:** Even if adopted, DLRS process may still generate political conflict, and the five enumerated domains do not cover all areas where floor content is contested (e.g., bodily autonomy, gun rights). Expansion of domains would require constitutional amendment.
 
 ---
 
 ### Gap 16 — Inter-Regional Cooperation Mechanisms
 
 **Description:**
-[Article I, Section 5](../02-design/constitution.md) provides a framework for voluntary inter-regional cooperation, but the constitution does not specify:
+[Article I, Section 5](../02-design/constitution/00-index.md) provides a framework for voluntary inter-regional cooperation, but the constitution does not specify:
 
 - governance structures for multi-regional institutions,
 - dispute resolution between cooperating Regions,
@@ -262,7 +290,7 @@ Intentional under-specification to allow democratic adaptation; content emerges 
 - Potential for wealthy Regions to dominate cooperative arrangements.
 
 **Status:**
-Mitigated by constitutional framework ([Article I, Section 5](../02-design/constitution.md)) establishing basic requirements (governance structure, cost-sharing, dispute resolution, withdrawal procedures). Detailed implementation left to participating Regions and enabling legislation.
+Mitigated by constitutional framework ([Article I, Section 5](../02-design/constitution/00-index.md)) establishing basic requirements (governance structure, cost-sharing, dispute resolution, withdrawal procedures). Detailed implementation left to participating Regions and enabling legislation.
 
 This gap is low severity because voluntary cooperation supplements rather than replaces the primary constitutional architecture, and is highly mitigable through statutory frameworks and inter-regional practice.
 
@@ -280,16 +308,16 @@ Could a Region use control over infrastructure (roads, rail, energy transmission
 - Escalation of inter-regional disputes into crises
 
 **Resolution:**
-[Article I, Section 6](../02-design/constitution.md) (Right of Transit and Non-Blockade) addresses this by:
+[Article I, Section 6](../02-design/constitution/01-regional-structure.md) (Right of Transit and Non-Blockade) addresses this constitutionally. Implementation details are in the [National Common Market Access Act](../proposals/national-common-market-access-act.md), which provides:
 
-- Establishing explicit right of transit for all Regions
-- Requiring non-discriminatory, cost-based fees for transit traffic
-- Providing expedited dispute resolution (14-day mediation)
-- Authorizing federal enforcement including temporary operational control
-- Allowing withholding of equalization transfers as sanction
+- Explicit prohibition on infrastructure blockades and coercion
+- Non-discriminatory, cost-based fee standards
+- Expedited mediation (14 days) and judicial resolution
+- Federal enforcement including operational control authority
+- Equalization transfer sanctions for willful violations
 
 **Status:**
-Fully resolved by constitutional provision. This gap was identified during stress-testing and immediately addressed.
+Fully resolved by constitutional provision with implementing proposal.
 
 ---
 
@@ -306,18 +334,18 @@ Could a Region use control over water resources (rivers, aquifers, dams) to harm
 - Escalation of water disputes into broader inter-Regional conflict
 
 **Resolution:**
-[Article I, Section 7](../02-design/constitution.md) (Water Rights and Shared Waterways) addresses this by:
+[Article I, Section 7](../02-design/constitution/01-regional-structure.md) (Water Rights and Shared Waterways) addresses this constitutionally. Implementation details are in the [Interstate Water Resources Coordination Act](../proposals/water-resources-coordination-act.md), which provides:
 
-- Establishing interstate waters as shared resources
-- Prohibiting unilateral diversion, damming, or pollution harming other Regions
-- Requiring equitable apportionment based on defined criteria
-- Creating the Water Resources Coordination Board for monitoring and mediation
-- Establishing a National Water Court for adjudication
-- Authorizing federal enforcement including cessation orders and sanctions
-- Preserving existing interstate water compacts and tribal water rights
+- Establishment of interstate waters as shared resources
+- Prohibition on unilateral diversion, damming, or pollution
+- Equitable apportionment criteria and procedures
+- Water Resources Coordination Board for monitoring and mediation
+- National Water Court for adjudication
+- Federal enforcement including cessation orders and sanctions
+- Preservation of existing compacts and tribal water rights
 
 **Status:**
-Fully resolved by constitutional provision. This gap was identified during stress-testing and immediately addressed.
+Fully resolved by constitutional provision with implementing proposal.
 
 ---
 
@@ -334,7 +362,7 @@ Could a Region impose barriers to entry, exit, or transit for residents of other
 - Effective creation of second-class citizenship for newcomers
 
 **Resolution:**
-[Article I, Section 8](../02-design/constitution.md) (Freedom of Movement) addresses this by:
+[Article I, Section 8](../02-design/constitution/00-index.md) (Freedom of Movement) addresses this by:
 
 - Guaranteeing rights to travel, reside, work, and access services in any Region
 - Prohibiting border controls, checkpoints, and discriminatory waiting periods
@@ -359,16 +387,16 @@ Could a Region refuse to recognize marriages, professional licenses, business re
 - Legal uncertainty for mobile citizens
 
 **Resolution:**
-[Article I, Section 9](../02-design/constitution.md) (Mutual Recognition) addresses this by:
+[Article I, Section 9](../02-design/constitution/01-regional-structure.md) (Mutual Recognition) addresses this constitutionally. Implementation details for professional credentials are in the [Interstate Professional Licensing Reciprocity Act](../proposals/interstate-professional-licensing-act.md), which provides:
 
-- Establishing full faith and credit among Regions
-- Mandating recognition of marriages, adoptions, business registrations, and other legal statuses
-- Requiring recognition of professional credentials with minimal registration requirements
-- Prohibiting refusal based on religious, moral, or political objections
-- Providing expedited dispute resolution (14 days)
+- Full faith and credit among Regions
+- Recognition of marriages, adoptions, business registrations, and other legal statuses
+- Professional credential recognition with minimal registration requirements ($100 cap, 14-day processing)
+- Anti-circumvention provisions preventing protectionist barriers
+- Expedited dispute resolution (14 days) with attorney's fees for prevailing challengers
 
 **Status:**
-Fully resolved by constitutional provision. This gap was identified during stress-testing and immediately addressed.
+Fully resolved by constitutional provision with implementing proposal.
 
 ---
 
@@ -385,16 +413,16 @@ Could a Region site polluting facilities near its borders to export environmenta
 - Public health crises in downwind/downstream Regions
 
 **Resolution:**
-[Article I, Section 10](../02-design/constitution.md) (Environmental Border Protection) addresses this by:
+[Article I, Section 10](../02-design/constitution/01-regional-structure.md) (Environmental Border Protection) addresses this constitutionally. Implementation details are in the [Transboundary Environmental Harm Prevention Act](../proposals/transboundary-environmental-protection-act.md), which provides:
 
-- Prohibiting siting of polluting facilities within 50 miles of boundaries with intent to export pollution
-- Prohibiting emissions or discharges causing measurable harm to other Regions
-- Authorizing injunctive relief, compensatory damages, and remediation orders
-- Empowering EPA to monitor boundaries and investigate complaints
-- Authorizing federal enforcement including cessation orders and cost recovery
+- Prohibition on pollution siting near boundaries (50-mile buffer, adjustable)
+- Prohibition on emissions or discharges causing measurable transboundary harm
+- EPA monitoring authority at jurisdictional boundaries
+- Injunctive relief, compensatory damages, and remediation orders
+- Federal enforcement including cessation orders, sanctions, and cost recovery
 
 **Status:**
-Fully resolved by constitutional provision. This gap was identified during stress-testing and immediately addressed.
+Fully resolved by constitutional provision with implementing proposal.
 
 ---
 
@@ -411,18 +439,258 @@ Could a Region refuse to extradite fugitives, cooperate in investigations, or al
 - Regions strategically refusing extradition for political reasons
 
 **Resolution:**
-[Article I, Section 11](../02-design/constitution.md) (Cross-Regional Law Enforcement Cooperation) addresses this by:
+[Article I, Section 11](../02-design/constitution/01-regional-structure.md) (Cross-Jurisdictional Law Enforcement Cooperation) addresses this constitutionally. Implementation details are in the [Interstate Law Enforcement Cooperation Act](../proposals/interstate-law-enforcement-cooperation-act.md), which provides:
 
-- Mandating extradition for crimes punishable by one year or more
-- Allowing limited exceptions only for rights-floor violations or persecution risk
-- Requiring 60-day extradition deadline with federal backup
-- Authorizing hot pursuit across boundaries with notification requirements
-- Mandating mutual legal assistance (subpoenas, evidence sharing, witness testimony)
-- Prohibiting safe harbor policies for violent crimes or fraud
-- Protecting against pretextual or politically motivated enforcement requests
+- Mandatory extradition for serious crimes (violence, harm to minors, fraud, corruption)
+- Limited exceptions only for rights-floor violations or persecution risk
+- 60-day extradition deadline with federal takeover on failure
+- Hot pursuit authorization across boundaries
+- Mutual legal assistance (subpoenas, evidence sharing, witness testimony)
+- Safe harbor prohibition for violent crimes and fraud
+- Protection against pretextual or politically motivated requests
 
 **Status:**
-Fully resolved by constitutional provision. This gap was identified during stress-testing and immediately addressed.
+Fully resolved by constitutional provision with implementing proposal.
+
+---
+
+### Gap 23 — Regional Guard Force Accountability
+
+**Description:**
+[Article XV](../02-design/constitution/00-index.md) establishes divided military command between federal forces and Regional Guards, but does not specify:
+
+- civilian oversight structures for Regional Guard forces,
+- accountability mechanisms for Guard misconduct,
+- prohibitions on Regional Guard use against civilian political activity,
+- standards for Guard commander appointment and removal.
+
+**Risk:**
+
+- Regional executives could capture their Guards and use them for political intimidation.
+- Guards could become instruments of regional authoritarianism.
+- Lack of uniform training or accountability standards creates variation in professionalism.
+- Guards used against peaceful protests or political opposition.
+
+**Status:**
+Under-specified but **PROPOSAL AVAILABLE**. Federal forces have multi-key authorization requirements, but Regional Guard accountability relies on regional constitutions and political norms.
+
+See [Regional Guard Force Accountability Proposal](../proposals/regional-guard-accountability.md) for constitutional floor provisions establishing civilian oversight, prohibited uses, accountability mechanisms, and training standards.
+
+---
+
+### Gap 24 — Public Health Emergency Coordination
+
+**Description:**
+COVID-19 revealed critical gaps in multi-jurisdictional disease response. The constitution addresses emergency powers ([Article XVII](../02-design/constitution/00-index.md)) but does not specify:
+
+- coordination mechanisms for multi-regional disease outbreaks,
+- medical supply chain coordination during emergencies,
+- health data sharing protocols across regional boundaries,
+- uniform quarantine or movement restriction authorities.
+
+**Risk:**
+
+- Patchwork regional responses to pandemics undermine effectiveness.
+- Multi-key authorization requirements may be too slow for rapidly spreading diseases.
+- Medical supply competition between Regions during shortages.
+- Inconsistent public health messaging creates confusion.
+
+**Status:**
+Under-specified but **PROPOSAL AVAILABLE**. Emergency powers framework exists but public health emergencies may require faster, more coordinated response than multi-key authorization permits.
+
+See [Public Health Emergency Coordination Framework](../proposals/public-health-emergency-coordination.md) for specialized emergency pathway, coordination council, and supply/data coordination mechanisms.
+
+---
+
+### Gap 25 — Climate Emergency Coordination
+
+**Description:**
+While [Article I, Section 10](../02-design/constitution/00-index.md) addresses environmental border dumping and [Article I, Section 7](../02-design/constitution/00-index.md) addresses water rights, the constitution does not specify:
+
+- coordinated climate emergency response mechanisms,
+- carbon policy coordination across regions,
+- climate migration within the union,
+- shared climate adaptation infrastructure governance.
+
+**Risk:**
+
+- Inconsistent regional climate policies undermine national emissions targets.
+- Climate refugees moving between Regions strain receiving areas.
+- Regions may defect from cooperative climate commitments.
+- Adaptation infrastructure (sea walls, fire management) crossing boundaries lacks governance.
+
+**Status:**
+Under-specified but **PROPOSAL AVAILABLE**. Environmental provisions provide foundation; coordination could be built through inter-regional cooperation mechanisms ([Article I, Section 5](../02-design/constitution/00-index.md)) and federal enabling legislation. Long-horizon risk that intensifies over time.
+
+See [Climate Emergency Coordination Framework](../proposals/climate-emergency-coordination.md) for voluntary carbon coordination, climate migration management, and adaptation infrastructure governance.
+
+---
+
+### Gap 26 — Digital/AI Governance Framework
+
+**Description:**
+[Article XVI](../02-design/constitution/00-index.md) addresses cyber defense but does not address:
+
+- AI governance frameworks for government decision-making,
+- algorithmic accountability in public services,
+- digital identity and credential systems,
+- emerging technology regulation coordination across Regions.
+
+**Risk:**
+
+- Regions develop incompatible digital identity systems.
+- AI used in government decisions without adequate oversight.
+- Algorithmic bias in criminal justice, benefits, or other systems varies by Region.
+- No framework for regulating powerful AI systems that cross regional boundaries.
+
+**Status:**
+Under-specified but **PROPOSAL AVAILABLE**. This is an emerging domain where constitutional silence may be appropriate to allow experimentation, but basic rights protections against algorithmic harm could be established as floors.
+
+See [Digital and AI Governance Framework](../proposals/digital-ai-governance.md) for algorithmic accountability provisions, digital identity coordination, and emerging technology governance.
+
+---
+
+### Gap 27 — Tribal-Regional Relations
+
+**Description:**
+The constitution preserves federal trust responsibilities to tribal nations, but does not specify:
+
+- how tribes interact with Regional governments,
+- governance when tribal territories span multiple Regions,
+- tribal representation in regional decision-making,
+- Regional government obligations to tribes within their boundaries.
+
+**Risk:**
+
+- Tribes caught between federal and regional authorities with unclear jurisdiction.
+- Regional governments hostile to tribal interests with limited recourse.
+- Split tribal territories creating administrative complexity.
+- Erosion of tribal sovereignty through regional action.
+
+**Status:**
+Under-specified but **PROPOSAL AVAILABLE**. Federal-tribal relations are preserved but Regional-tribal relations are undefined.
+
+See [Tribal-Regional Relations Framework](../proposals/tribal-regional-relations.md) for constitutional provisions, consultation requirements, and coordination mechanisms preserving tribal sovereignty.
+
+---
+
+### Gap 28 — Nuclear Facilities and Hazardous Materials Governance
+
+**Description:**
+The constitution does not specify governance for:
+
+- nuclear power plants near regional boundaries,
+- interstate transport of hazardous materials,
+- radioactive waste storage siting,
+- emergency response zones spanning multiple Regions.
+
+**Risk:**
+
+- NIMBY dynamics push nuclear facilities to regional borders.
+- Hazardous material transport creates liability ambiguity.
+- No Region wants waste storage, creating gridlock.
+- Emergency planning zones crossing boundaries lack coordination.
+
+**Status:**
+Under-specified but **PROPOSAL AVAILABLE**. Allocation of Powers ([Article II](../02-design/constitution/00-index.md)) probably places this under federal authority due to interstate nature.
+
+See [Nuclear and Hazardous Materials Governance](../proposals/nuclear-hazardous-materials.md) for jurisdictional clarification, siting coordination, waste management, and emergency planning provisions.
+
+---
+
+### Gap 29 — Reproductive Rights Regional Divergence
+
+**Description:**
+Reproductive rights (abortion, contraception, fertility treatment) are among the most contested policy domains. The constitution:
+
+- does not enumerate reproductive rights as a federal floor,
+- does not address travel for medical procedures across regions,
+- does not address liability for providers serving out-of-region patients,
+- does not address medication access across regional boundaries.
+
+**Risk:**
+
+- Immediate, severe divergence in reproductive healthcare access.
+- Regions criminalizing travel for procedures legal elsewhere.
+- Providers facing liability in restrictive Regions for services in permissive ones.
+- Medication shipped across boundaries creating legal conflict.
+
+**Status:**
+**ACCEPTED TRADEOFF** with **GUIDANCE AVAILABLE**. This domain is highly contested and constitutional silence allows regional experimentation. If adopted, the proposed DLRS mechanism (see [DLRS Proposal](../proposals/dual-legitimacy-rights-floor-statute.md)) could establish floors if dual-legitimacy threshold is met, but reproductive rights are not among the five enumerated floor domains. Freedom of movement ([Article I, Section 8](../02-design/constitution/00-index.md)) provides some protection for travel.
+
+See [Contested Domains Guidance](../proposals/contested-domains-guidance.md) for explanation of constitutional silence, existing protections, and paths to resolution.
+
+---
+
+### Gap 30 — Firearms Policy Coordination
+
+**Description:**
+Firearms regulation is highly contested. The constitution:
+
+- does not specify whether gun rights have regional floor protections,
+- does not address concealed carry reciprocity across Regions,
+- does not address firearms transport across regional boundaries,
+- does not address background check coordination.
+
+**Risk:**
+
+- Significant regional divergence in firearms access.
+- Confusion about legal carry when crossing regional boundaries.
+- Background check systems not coordinated across Regions.
+- Black markets emerging at regional boundaries with different restrictions.
+
+**Status:**
+**ACCEPTED TRADEOFF** with **GUIDANCE AVAILABLE**. The constitution establishes rights floors but leaves firearms policy to regional discretion within those floors. If adopted, the proposed DLRS mechanism (see [DLRS Proposal](../proposals/dual-legitimacy-rights-floor-statute.md)) could theoretically establish labor or safety floors touching firearms in workplaces, but direct gun rights are not among the enumerated floor domains.
+
+See [Contested Domains Guidance](../proposals/contested-domains-guidance.md) for explanation of constitutional silence, Second Amendment preservation, and coordination mechanisms available.
+
+---
+
+### Gap 31 — Criminal Justice Coordination Beyond Extradition
+
+**Description:**
+[Article I, Section 11](../02-design/constitution/00-index.md) addresses extradition and law enforcement cooperation, but does not specify:
+
+- sentence portability (person sentenced in one Region, serves time in another),
+- criminal records portability and access,
+- sex offender registry coordination,
+- parole and probation supervision across boundaries.
+
+**Risk:**
+
+- Offenders gaming system by relocating between Regions.
+- Criminal history invisible to employers or landlords in new Region.
+- Sex offenders disappearing by moving across regional lines.
+- Parole violations difficult to enforce across boundaries.
+
+**Status:**
+Partially addressed with **PROPOSAL AVAILABLE**. Extradition and mutual legal assistance provide foundation, but detailed coordination requires implementation legislation.
+
+See [Criminal Justice Coordination Framework](../proposals/criminal-justice-coordination.md) for criminal records coordination, sentence/supervision transfer, sex offender registry coordination, and victim notification provisions.
+
+---
+
+### Gap 32 — Educational Standards Divergence
+
+**Description:**
+Education is a regional competency. The constitution does not address:
+
+- science education standards (evolution, climate science),
+- history and civics curricula divergence,
+- higher education accreditation coordination,
+- student credential portability.
+
+**Risk:**
+
+- Students educated in one Region unprepared for universities in another.
+- Science education varying dramatically by Region.
+- Civics education producing incompatible understandings of constitutional order.
+- Accreditation fragmentation undermining higher education mobility.
+
+**Status:**
+**ACCEPTED TRADEOFF** with **GUIDANCE AVAILABLE**. Regional control of education is a core feature of the system. Risk is mitigated by freedom of movement ([Article I, Section 8](../02-design/constitution/00-index.md)) and mutual recognition ([Article I, Section 9](../02-design/constitution/00-index.md)). Long-horizon divergence risk accepted as tradeoff for regional autonomy.
+
+See [Contested Domains Guidance](../proposals/contested-domains-guidance.md) for explanation of constitutional silence, existing protections through mutual recognition, and voluntary coordination mechanisms.
 
 ---
 
@@ -457,7 +725,7 @@ Accepted tradeoff in exchange for survivability.
 ### Gap 11 — Boundary Revision Politics and Regional Identity Crystallization
 
 **Description:**
-Regional boundaries are subject to periodic review ([Article I, Section 4](../02-design/constitution.md)), but the political dynamics of boundary revision are unpredictable.
+Regional boundaries are subject to periodic review ([Article I, Section 4](../02-design/constitution/01-regional-structure.md)), but the political dynamics of boundary revision are unpredictable.
 
 **Risk:**
 
@@ -467,7 +735,7 @@ Regional boundaries are subject to periodic review ([Article I, Section 4](../02
 - "Winners and losers" narratives around map changes could undermine regional cooperation.
 
 **Status:**
-Mitigated by supermajority and popular referendum requirements; long-horizon risk that may intensify as regional identities mature.
+Mitigated by supermajority and popular referendum requirements; long-horizon risk that may intensify as regional identities mature. Implementation details including Commission composition, appointment procedures, and anti-manipulation provisions are in the [Regional Boundary Review and Revision Act](../proposals/boundary-review-act.md).
 
 ---
 
@@ -560,7 +828,7 @@ That is what this system is designed to do.
 
 ## Related Documents
 
-- [The Regional Federal Constitution](../02-design/constitution.md) - Authoritative source for all constitutional provisions
+- [The Regional Federal Constitution](../02-design/constitution/00-index.md) - Authoritative source for all constitutional provisions
 - [Core Idea: Regional Federalism](../01-foundation/01-core-idea.md)
 - [Design Axioms](../01-foundation/02-design-axioms.md)
 - [Allocation of Powers](../02-design/01-allocation-of-powers.md)

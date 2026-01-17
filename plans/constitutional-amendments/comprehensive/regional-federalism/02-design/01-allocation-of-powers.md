@@ -174,7 +174,7 @@ Federal authority is limited to powers that require:
 - national legitimacy,
 - or international standing.
 
-**Enumerated federal powers include** ([Article II, Section 1](constitution.md)):
+**Enumerated federal powers include** ([Article II, Section 1](constitution/00-index.md)):
 
 - national defense and armed forces
 - foreign affairs and treaties
@@ -234,7 +234,7 @@ Regions govern domains that:
 - require harmonized standards,
 - but do not require national uniformity.
 
-**Key regional powers include** ([Article II, Section 2](constitution.md)):
+**Key regional powers include** ([Article II, Section 2](constitution/00-index.md)):
 
 - inter-state infrastructure and transportation corridors
 - housing coordination and supply targets
@@ -283,7 +283,7 @@ States retain powers where:
 
 ### 7.1 Core state domains
 
-States retain authority over ([Article II, Section 3](constitution.md)):
+States retain authority over ([Article II, Section 3](constitution/00-index.md)):
 
 - education
 - criminal and civil law
@@ -323,7 +323,7 @@ Regions coordinate; locals implement.
 
 ## 9. Floors vs Ceilings: The Central Interpretive Rule
 
-This is the most important rule in the entire allocation system ([Article III](constitution.md); [Article XV, Section 2](constitution.md)).
+This is the most important rule in the entire allocation system ([Article III](constitution/00-index.md); [Article XV, Section 2](constitution/00-index.md)).
 
 ### 9.1 Floors
 
@@ -523,7 +523,7 @@ That is the logic of allocation in a regional federal system.
 
 ## Related Documents
 
-- [Regional Federal Constitution](constitution.md) - Authoritative source for all power allocations
+- [Regional Federal Constitution](constitution/00-index.md) - Authoritative source for all power allocations
 - [Core Idea: Regional Federalism](../01-foundation/01-core-idea.md)
 - [Stress-Testing Policy Conflicts](../03-analysis/01-stress-testing-policy.md)
 - [Federalism Reform Analysis](../../analysis/political/federalism-reform/01-overview.md)

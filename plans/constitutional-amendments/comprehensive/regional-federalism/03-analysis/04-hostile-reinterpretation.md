@@ -28,11 +28,12 @@ Every durable constitution must be designed for this scenario, because:
 9. Attack Surface 6: Emergency Powers Abuse
 10. Attack Surface 7: Security Force Capture
 11. Attack Surface 8: Cyber and Digital Subversion
-12. Why Traditional Safeguards Fail
-13. Built-In Constitutional Countermeasures
-14. Residual Risks That Cannot Be Designed Away
-15. Comparison to Real-World Hostile Reinterpretations
-16. Summary: Designing for Bad Faith, Not Angels
+12. Attack Surface 9: DLRS Manipulation
+13. Why Traditional Safeguards Fail
+14. Built-In Constitutional Countermeasures
+15. Residual Risks That Cannot Be Designed Away
+16. Comparison to Real-World Hostile Reinterpretations
+17. Summary: Designing for Bad Faith, Not Angels
 
 ---
 
@@ -118,16 +119,16 @@ When courts refuse to act:
 
 Regional federalism includes:
 
-- **Mandatory jurisdiction** ([Article XI, Section 1](../02-design/constitution.md))
+- **Mandatory jurisdiction** ([Article XIV, Section 1](../02-design/constitution/00-index.md))
   Courts may not dismiss constitutional claims on standing or political-question grounds.
 
-- **Enumerated-powers supremacy** ([Article XV, Section 1](../02-design/constitution.md))
+- **Enumerated-powers supremacy** ([Article XV, Section 1](../02-design/constitution/00-index.md))
   Any power not explicitly granted is denied.
 
-- **Floor-presumption rule** ([Article III](../02-design/constitution.md); [Article XV, Section 2](../02-design/constitution.md))
+- **Floor-presumption rule** ([Article III](../02-design/constitution/00-index.md); [Article XV, Section 2](../02-design/constitution/00-index.md))
   Rights and standards are presumed to be minimums, not ceilings.
 
-- **Default enforcement clauses** ([Article XI, Section 4](../02-design/constitution.md))
+- **Default enforcement clauses** ([Article XIV, Section 4](../02-design/constitution/00-index.md))
   If courts fail to rule within fixed timeframes, predefined remedies trigger automatically.
 
 ---
@@ -173,13 +174,13 @@ When policy authority is nationalized:
 
 Regional federalism limits executive dominance by:
 
-- **Narrow domestic scope** ([Article II](../02-design/constitution.md))
+- **Narrow domestic scope** ([Article II](../02-design/constitution/00-index.md))
   Most policy domains are regional, not federal.
 
 - **No unilateral domestic override**
   Federal executives cannot suspend regional authority.
 
-- **Multi-key emergency authorization** ([Article XII, Section 2](../02-design/constitution.md))
+- **Multi-key emergency authorization** ([Article XV, Section 2](../02-design/constitution/00-index.md))
   Emergencies require legislative and regional concurrence.
 
 - **Independent regional executives**
@@ -226,13 +227,13 @@ When Congress controls everything:
 
 ### 6.3 Structural countermeasures
 
-- **Reduced national policy scope** ([Article II](../02-design/constitution.md))
+- **Reduced national policy scope** ([Article II](../02-design/constitution/00-index.md))
   Gridlock affects fewer domains.
 
-- **Automatic fiscal continuation** ([Article XVII](../02-design/constitution.md))
+- **Automatic fiscal continuation** ([Article XVII](../02-design/constitution/00-index.md))
   Shutdowns cannot starve basic functions.
 
-- **Regional governance autonomy** ([Article I](../02-design/constitution.md))
+- **Regional governance autonomy** ([Article I](../02-design/constitution/00-index.md))
   Regions continue governing regardless of federal paralysis.
 
 ---
@@ -269,10 +270,10 @@ Money substitutes for force.
 
 ### 7.3 Structural countermeasures
 
-- **Independent taxation at all levels** ([Article VIII, Section 1](../02-design/constitution.md))
-- **Ban on coercive conditional funding** ([Article VIII, Section 4](../02-design/constitution.md))
-- **No unfunded mandates** ([Article VIII, Section 2](../02-design/constitution.md))
-- **Automatic equalization transfers** ([Article VIII, Section 3](../02-design/constitution.md))
+- **Independent taxation at all levels** ([Article X, Section 1](../02-design/constitution/00-index.md))
+- **Ban on coercive conditional funding** ([Article X, Section 4](../02-design/constitution/00-index.md))
+- **No unfunded mandates** ([Article X, Section 2](../02-design/constitution/00-index.md))
+- **Automatic equalization transfers** ([Article X, Section 3](../02-design/constitution/00-index.md))
 
 ---
 
@@ -301,9 +302,9 @@ Actors manipulate:
 
 ### 8.2 Structural countermeasures
 
-- **Regional election administration** ([Article VI](../02-design/constitution.md))
-- **Frozen election rules** ([Article VI](../02-design/constitution.md))
-- **Procedural-only judicial review** ([Article XI](../02-design/constitution.md))
+- **Regional election administration** ([Article VII](../02-design/constitution/00-index.md))
+- **Frozen election rules** ([Article VII](../02-design/constitution/00-index.md))
+- **Procedural-only judicial review** ([Article XIV](../02-design/constitution/00-index.md))
 - **Caretaker governance during disputes**
 
 ---
@@ -330,10 +331,10 @@ Declare emergency - suspend norms - never restore them.
 
 ### 9.2 Structural countermeasures
 
-- **Automatic sunset clauses** ([Article XIV, Section 2](../02-design/constitution.md))
-- **Multi-level reauthorization** ([Article XIV, Section 2](../02-design/constitution.md))
-- **Judicial procedural review** ([Article XI](../02-design/constitution.md))
-- **Restoration mandate** ([Article XIV, Section 3](../02-design/constitution.md))
+- **Automatic sunset clauses** ([Article XVII, Section 2](../02-design/constitution/00-index.md))
+- **Multi-level reauthorization** ([Article XVII, Section 2](../02-design/constitution/00-index.md))
+- **Judicial procedural review** ([Article XIV](../02-design/constitution/00-index.md))
+- **Restoration mandate** ([Article XVII, Section 3](../02-design/constitution/00-index.md))
 
 Emergencies expire unless actively renewed.
 
@@ -361,11 +362,11 @@ Control the guns, control the system.
 
 ### 10.2 Structural countermeasures
 
-- **Divided force structure** ([Article XII, Section 1](../02-design/constitution.md))
+- **Divided force structure** ([Article XV, Section 1](../02-design/constitution/00-index.md))
   Federal military, regional guards, state defense forces.
 
-- **Multi-key domestic deployment** ([Article XII, Section 2](../02-design/constitution.md))
-- **Duty to refuse unlawful orders** ([Article XII, Section 3](../02-design/constitution.md))
+- **Multi-key domestic deployment** ([Article XV, Section 2](../02-design/constitution/00-index.md))
+- **Duty to refuse unlawful orders** ([Article XV, Section 3](../02-design/constitution/00-index.md))
 - **No single executive control**
 
 ---
@@ -399,13 +400,13 @@ This attack surface is distinct because it operates invisibly and crosses tradit
 
 ### 11.2 Structural countermeasures
 
-- **Constitutional recognition of cyber as distinct domain** ([Article XIII, Section 1](../02-design/constitution.md))
-- **Prohibition on domestic surveillance without judicial authorization** ([Article XIII, Section 5](../02-design/constitution.md))
-- **Ban on cyber attacks against lawful political activity** ([Article XIII, Section 5](../02-design/constitution.md))
-- **Regional control of election infrastructure** ([Article XIII, Section 2](../02-design/constitution.md))
-- **Foreign information operations disclosure** ([Article XIII, Section 7](../02-design/constitution.md))
-- **Intelligence oversight and whistleblower protection** ([Article XIII, Section 5(e)](../02-design/constitution.md))
-- **Duty to refuse unlawful cyber orders** ([Article XIII, Section 6](../02-design/constitution.md))
+- **Constitutional recognition of cyber as distinct domain** ([Article XVI, Section 1](../02-design/constitution/00-index.md))
+- **Prohibition on domestic surveillance without judicial authorization** ([Article XVI, Section 5](../02-design/constitution/00-index.md))
+- **Ban on cyber attacks against lawful political activity** ([Article XVI, Section 5](../02-design/constitution/00-index.md))
+- **Regional control of election infrastructure** ([Article XVI, Section 2](../02-design/constitution/00-index.md))
+- **Foreign information operations disclosure** ([Article XVI, Section 7](../02-design/constitution/00-index.md))
+- **Intelligence oversight and whistleblower protection** ([Article XVI, Section 5(e)](../02-design/constitution/00-index.md))
+- **Duty to refuse unlawful cyber orders** ([Article XVI, Section 6](../02-design/constitution/00-index.md))
 
 ---
 
@@ -421,7 +422,58 @@ Invisible abuse becomes legally visible.
 
 ---
 
-## 12. Why Traditional Safeguards Fail
+## 12. Attack Surface 9: DLRS Manipulation (If Adopted)
+
+> **Note:** The Dual-Legitimacy Rights-Floor Statute (DLRS) is currently a proposal, not yet incorporated into the constitution. This section analyzes attack vectors that would apply if the [DLRS Proposal](../proposals/dual-legitimacy-rights-floor-statute.md) is adopted. For the current constitutional text, see [Article III (Powers and Rights)](../02-design/constitution/02-powers-and-rights.md).
+
+### 12.1 The attack
+
+If DLRS is adopted, actors would attempt to:
+
+- capture the IEC to control substantial similarity determinations,
+- flood the system with proposals to exhaust voters,
+- draft floors that function as ceilings through over-specification,
+- suspend DLRS floors during emergencies,
+- delay regional ratification to prevent adoption.
+
+---
+
+### 12.2 Proposed structural countermeasures
+
+The DLRS proposal includes safeguards against each attack vector:
+
+- **IEC transparency requirements**
+  Public notice-and-comment, written findings, and judicial review for abuse of discretion.
+
+- **Proposal limits**
+  Maximum three proposals per 12-month period prevents flooding.
+
+- **Floor/ceiling distinction**
+  Clear criteria; courts can sever provisions that function as ceilings.
+
+- **Emergency non-suspension**
+  DLRS floors cannot be suspended regardless of emergency nature or scope.
+
+- **Abstention-neutral ratification**
+  Abstaining Regions don't count against threshold; obstruction through inaction fails.
+
+See the [DLRS Proposal](../proposals/dual-legitimacy-rights-floor-statute.md) for full text of these provisions.
+
+---
+
+### 12.3 Outcome (if DLRS adopted)
+
+DLRS manipulation would require:
+
+- sustained institutional capture across IEC and courts,
+- willingness to issue indefensible rulings subject to review,
+- visible defiance of explicit constitutional prohibitions.
+
+The mechanism trades speed for resilience; each attack vector is explicitly countered.
+
+---
+
+## 13. Why Traditional Safeguards Fail
 
 Traditional systems rely on:
 
@@ -436,7 +488,7 @@ Regional federalism replaces norms with **structure**.
 
 ---
 
-## 13. Built-In Constitutional Countermeasures (Summary)
+## 14. Built-In Constitutional Countermeasures (Summary)
 
 | Attack Type | Structural Defense |
 |-------------|-------------------|
@@ -448,10 +500,11 @@ Regional federalism replaces norms with **structure**.
 | Emergency abuse | Sunsets + reauthorization |
 | Military capture | Divided command |
 | Cyber subversion | Prohibitions + oversight + regional control |
+| DLRS manipulation (if adopted) | IEC transparency + proposal limits + floor/ceiling distinction |
 
 ---
 
-## 14. Residual Risks That Cannot Be Designed Away
+## 15. Residual Risks That Cannot Be Designed Away
 
 No system can prevent:
 
@@ -469,7 +522,7 @@ See [Identified Gaps](../04-meta/02-identified-gaps.md) — particularly Gap 3 (
 
 ---
 
-## 15. Comparison to Real-World Hostile Reinterpretations
+## 16. Comparison to Real-World Hostile Reinterpretations
 
 | Case | Failure Point |
 |------|---------------|
@@ -482,7 +535,7 @@ Regional federalism blocks each pathway explicitly.
 
 ---
 
-## 16. Summary: Designing for Bad Faith, Not Angels
+## 17. Summary: Designing for Bad Faith, Not Angels
 
 The defining feature of this system is not optimism.
 
@@ -504,7 +557,7 @@ That is what constitutional resilience looks like under hostile conditions.
 
 ## Related Documents
 
-- [The Regional Federal Constitution](../02-design/constitution.md) - Authoritative source for all constitutional provisions
+- [The Regional Federal Constitution](../02-design/constitution/00-index.md) - Authoritative source for all constitutional provisions
 - [Core Idea: Regional Federalism](../01-foundation/01-core-idea.md)
 - [Design Axioms](../01-foundation/02-design-axioms.md)
 - [Allocation of Powers](../02-design/01-allocation-of-powers.md)
@@ -515,6 +568,8 @@ That is what constitutional resilience looks like under hostile conditions.
 - [Armed Forces and Civilian Control](../02-design/06-armed-forces.md)
 - [Judiciary and Constitutional Enforcement](../02-design/07-judiciary.md)
 - [Secession, Nullification, and De-Escalation](../02-design/08-secession-nullification.md)
+- [Powers and Rights](../02-design/constitution/02-powers-and-rights.md)
+- [DLRS Proposal](../proposals/dual-legitimacy-rights-floor-statute.md) - Proposed sub-constitutional mechanism (not yet adopted)
 - [Stress-Testing Policy Conflicts](01-stress-testing-policy.md)
 - [Stress-Testing Economic Conflicts](02-stress-testing-economic.md)
 - [Historical Failure Analysis](03-historical-failures.md)

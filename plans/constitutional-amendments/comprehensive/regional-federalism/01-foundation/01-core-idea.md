@@ -212,7 +212,7 @@ This document defines criteria for *what makes a good region*, but does not spec
 - supermajority consent of affected regions plus national referendum,
 - election blackout periods to prevent manipulation.
 
-See [The Regional Federal Constitution](../02-design/constitution.md), Article I, Section 4 for the complete boundary revision mechanism.
+See [The Regional Federal Constitution](../02-design/constitution/00-index.md), Article I, Section 4 for the complete boundary revision mechanism.
 
 ---
 
@@ -220,7 +220,7 @@ See [The Regional Federal Constitution](../02-design/constitution.md), Article I
 
 Below are **example** region groupings. These are not "the" answer; they are testable sketches.
 
-> **Note on non-state entities:** The example maps include DC for geographic completeness, but the constitutional definition of regions is "a grouping of States." DC, territories, and tribal nations are handled separately in [Article XVI (Non-State Entities)](../02-design/constitution.md) of the constitutional design, which specifies representation, regional assignment procedures, and sovereignty preservation.
+> **Note on non-state entities:** The example maps include DC for geographic completeness, but the constitutional definition of regions is "a grouping of States." DC, territories, and tribal nations are handled separately in [Article XX (Non-State Entities)](../02-design/constitution/00-index.md) of the constitutional design, which specifies representation, regional assignment procedures, and sovereignty preservation.
 
 ### Option A: 7 Regions (coarse, strong coordination)
 
@@ -264,7 +264,7 @@ Rather than one fixed set of regions, you define "region maps" for:
 
 And allow regional institutions to overlap.
 
-**Trade-off:** extremely realistic, but politically harder to explain and constitutionalize. See [The Regional Federal Constitution](../02-design/constitution.md), Article I for the adopted approach.
+**Trade-off:** extremely realistic, but politically harder to explain and constitutionalize. See [The Regional Federal Constitution](../02-design/constitution/00-index.md), Article I for the adopted approach.
 
 ---
 

@@ -203,11 +203,11 @@ Make elections:
 
 ### 7.3 Structural defenses in the system
 
-- Elections are administered at the **regional** level ([Article VI, Section 1](../02-design/constitution.md)).
-- Rules are **frozen** near elections ([Article VI, Section 2](../02-design/constitution.md)).
+- Elections are administered at the **regional** level ([Article VII, Section 1](../02-design/constitution/00-index.md)).
+- Rules are **frozen** near elections ([Article VII, Section 2](../02-design/constitution/00-index.md)).
 - Certification authority is **institutional and redundant**.
-- Courts have **mandatory jurisdiction** to enforce procedure quickly ([Article XI, Section 1](../02-design/constitution.md)).
-- Caretaker governance prevents power vacuums ([Article VI, Section 4](../02-design/constitution.md)).
+- Courts have **mandatory jurisdiction** to enforce procedure quickly ([Article XIV, Section 1](../02-design/constitution/00-index.md)).
+- Caretaker governance prevents power vacuums ([Article VII, Section 4](../02-design/constitution/00-index.md)).
 
 Result:
 
@@ -234,9 +234,9 @@ Neutralize legal accountability and legitimate dissent suppression.
 ### 8.3 Regional federalism containment
 
 - Regional courts and enforcement remain independent centers.
-- Federal courts are constrained to process enforcement and enumerated powers ([Article XI, Section 2](../02-design/constitution.md)).
-- Mandatory jurisdiction prevents dismissal on standing or political question grounds ([Article XI, Section 1](../02-design/constitution.md)).
-- Default enforcement clauses trigger automatically if courts fail to rule ([Article XI, Section 4](../02-design/constitution.md)).
+- Federal courts are constrained to process enforcement and enumerated powers ([Article XIV, Section 2](../02-design/constitution/00-index.md)).
+- Mandatory jurisdiction prevents dismissal on standing or political question grounds ([Article XIV, Section 1](../02-design/constitution/00-index.md)).
+- Default enforcement clauses trigger automatically if courts fail to rule ([Article XIV, Section 4](../02-design/constitution/00-index.md)).
 - Term limits reduce long-term capture payoff.
 
 However:
@@ -267,10 +267,10 @@ Use fiscal levers to:
 
 ### 9.3 Structural defenses
 
-- Each level has independent revenue authority ([Article VIII, Section 1](../02-design/constitution.md)).
-- Coercive conditional spending is unconstitutional ([Article VIII, Section 4](../02-design/constitution.md)).
-- Equalization is formula-based and automatic ([Article VIII, Section 3](../02-design/constitution.md)).
-- No unfunded mandates ([Article VIII, Section 2](../02-design/constitution.md)).
+- Each level has independent revenue authority ([Article X, Section 1](../02-design/constitution/00-index.md)).
+- Coercive conditional spending is unconstitutional ([Article X, Section 4](../02-design/constitution/00-index.md)).
+- Equalization is formula-based and automatic ([Article X, Section 3](../02-design/constitution/00-index.md)).
+- No unfunded mandates ([Article X, Section 2](../02-design/constitution/00-index.md)).
 
 Fiscal coercion becomes:
 
@@ -320,13 +320,13 @@ An authoritarian may attempt to use cyber capabilities to:
 - manipulate information systems to discredit critics,
 - use intelligence agencies for domestic political purposes.
 
-Structural defenses ([Article XIII](../02-design/constitution.md)):
+Structural defenses ([Article XVI](../02-design/constitution/00-index.md)):
 
-- Domestic surveillance requires judicial authorization ([Article XIII, Section 5](../02-design/constitution.md)).
-- Use of cyber capabilities against lawful political activity is prohibited ([Article XIII, Section 5](../02-design/constitution.md)).
-- Intelligence oversight and whistleblower protections exist ([Article XIII, Section 5(e)](../02-design/constitution.md)).
-- Cyber forces have constitutional duty to refuse unlawful orders ([Article XIII, Section 6](../02-design/constitution.md)).
-- Regional control of election infrastructure prevents federal manipulation ([Article XIII, Section 2](../02-design/constitution.md)).
+- Domestic surveillance requires judicial authorization ([Article XVI, Section 5](../02-design/constitution/00-index.md)).
+- Use of cyber capabilities against lawful political activity is prohibited ([Article XVI, Section 5](../02-design/constitution/00-index.md)).
+- Intelligence oversight and whistleblower protections exist ([Article XVI, Section 5(e)](../02-design/constitution/00-index.md)).
+- Cyber forces have constitutional duty to refuse unlawful orders ([Article XVI, Section 6](../02-design/constitution/00-index.md)).
+- Regional control of election infrastructure prevents federal manipulation ([Article XVI, Section 2](../02-design/constitution/00-index.md)).
 
 Surveillance-based authoritarianism becomes:
 
@@ -348,7 +348,7 @@ Make domination permanent by changing rules:
 
 ### 11.2 Structural defense: Dual legitimacy amendment requirements
 
-Amendments require ([Article X](../02-design/constitution.md)):
+Amendments require ([Article XVI](../02-design/constitution/00-index.md)):
 
 - regional supermajority (two-thirds of regions)
 - national popular vote (majority)
@@ -380,11 +380,11 @@ Opposition cannot be eliminated by capturing one office.
 
 No single executive controls all:
 
-- enforcement ([Article II, Section 2](../02-design/constitution.md)),
-- money ([Article VIII](../02-design/constitution.md)),
-- elections ([Article VI](../02-design/constitution.md)),
-- armed force ([Article XII](../02-design/constitution.md)),
-- cyber capabilities ([Article XIII](../02-design/constitution.md)).
+- enforcement ([Article II, Section 2](../02-design/constitution/00-index.md)),
+- money ([Article XVI](../02-design/constitution/00-index.md)),
+- elections ([Article VII](../02-design/constitution/00-index.md)),
+- armed force ([Article XV](../02-design/constitution/00-index.md)),
+- cyber capabilities ([Article XVI](../02-design/constitution/00-index.md)).
 
 ### 12.3 Visibility
 
@@ -392,7 +392,7 @@ Abuse becomes more obvious when:
 
 - multiple jurisdictions publicly resist,
 - alternative institutions continue functioning,
-- courts must hear procedural claims ([Article XI, Section 1](../02-design/constitution.md)).
+- courts must hear procedural claims ([Article XIV, Section 1](../02-design/constitution/00-index.md)).
 
 ### 12.4 Reversibility
 
@@ -454,11 +454,11 @@ If an authoritarian gains:
 
 then digital authoritarianism can occur despite constitutional prohibitions.
 
-This is why [Article XIII](../02-design/constitution.md) includes:
+This is why [Article XVI](../02-design/constitution/00-index.md) includes:
 
-- explicit prohibitions on domestic surveillance ([Article XIII, Section 5](../02-design/constitution.md)),
-- whistleblower protections ([Article XIII, Section 5(e)](../02-design/constitution.md)),
-- duty to refuse unlawful cyber orders ([Article XIII, Section 6](../02-design/constitution.md)).
+- explicit prohibitions on domestic surveillance ([Article XVI, Section 5](../02-design/constitution/00-index.md)),
+- whistleblower protections ([Article XVI, Section 5(e)](../02-design/constitution/00-index.md)),
+- duty to refuse unlawful cyber orders ([Article XVI, Section 6](../02-design/constitution/00-index.md)).
 
 But enforcement ultimately depends on internal resistance within security agencies.
 
@@ -511,7 +511,7 @@ That is what this system is built to do.
 
 ## Related Documents
 
-- [Regional Federal Constitution](../02-design/constitution.md) - Authoritative source for all constitutional provisions
+- [Regional Federal Constitution](../02-design/constitution/00-index.md) - Authoritative source for all constitutional provisions
 - [Core Idea: Regional Federalism](../01-foundation/01-core-idea.md)
 - [Allocation of Powers](../02-design/01-allocation-of-powers.md)
 - [Elections and Democratic Legitimacy](../02-design/02-elections.md)
@@ -532,4 +532,4 @@ That is what this system is built to do.
 ## Document Navigation
 
 - Previous: [Hostile Reinterpretation Stress Test](04-hostile-reinterpretation.md)
-- Next: Return to [Regional Federal Constitution](../02-design/constitution.md) or [Core Idea](../01-foundation/01-core-idea.md)
+- Next: [Foreign Information Warfare Stress Test](06-foreign-information-warfare.md)

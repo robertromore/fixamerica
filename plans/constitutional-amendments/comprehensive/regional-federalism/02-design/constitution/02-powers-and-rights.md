@@ -21,7 +21,7 @@ Federal authority is limited to powers expressly enumerated herein, including:
 - national benefits floor,
 - emergency powers as strictly limited by this Constitution.
 
-All powers not enumerated are denied.
+All powers not enumerated to the federal government herein are denied to the federal government and reserved to the Regions, States, or the People respectively.
 
 ---
 
@@ -56,6 +56,34 @@ Local governments retain authority over implementation and service delivery.
 ### Section 4. Non-Concurrency Rule
 
 Powers shall be exclusive to the level to which they are assigned unless this Constitution explicitly authorizes shared jurisdiction.
+
+---
+
+### Section 5. Allocation Review Board
+
+(a) **Establishment.** There is hereby established an Allocation Review Board (ARB) to resolve disputes regarding the allocation of powers among federal, Regional, and State governments.
+
+(b) **Composition.** The ARB shall consist of nine members:
+
+- three appointed by the President with Senate confirmation,
+- three appointed by a majority vote of Regional Governors,
+- three appointed by the Chief Justice from among retired federal and state appellate judges.
+
+(c) **Terms.** Members shall serve staggered nine-year terms, non-renewable. No more than three members may be affiliated with the same political party. Members may be removed only for cause by two-thirds vote of the Senate.
+
+(d) **Jurisdiction.** The ARB shall have original jurisdiction over:
+
+- disputes between Regions concerning allocation of powers,
+- challenges to federal exercise of authority as exceeding enumerated powers,
+- challenges to Regional exercise of authority as exceeding enumerated powers,
+- disputes regarding spillover effects and non-concurrency,
+- certification of legislation as within appropriate governmental authority.
+
+(e) **Standards.** The ARB shall apply the allocation framework established by Congress, or in its absence, the default rules of Article XXI. The ARB shall interpret this Constitution to preserve the balance of power among federal, Regional, and State governments.
+
+(f) **Appeals.** ARB decisions are final on factual matters. Questions of constitutional interpretation may be appealed to the Supreme Court.
+
+(g) **Procedures.** The ARB shall establish rules of procedure ensuring expeditious resolution. No allocation dispute may remain pending for more than 180 days absent extraordinary circumstances.
 
 ---
 
@@ -146,6 +174,7 @@ Subsidiarity keeps decisions close to affected populations while ensuring baseli
 - [Regional Structure](01-regional-structure.md) - Article I
 - [Regional Governance](03-regional-governance.md) - Articles IV-V (regional parts)
 - [Supremacy and Transition](06-supremacy.md) - Article XVIII
+- [DLRS Proposal](../../proposals/dual-legitimacy-rights-floor-statute.md) - Proposed sub-constitutional mechanism for setting rights floors (not yet adopted)
 
 ---
 

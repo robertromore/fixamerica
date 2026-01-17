@@ -177,11 +177,11 @@ This mirrors international globalization-but internally.
 
 ### 5.2 Structural response: three-layer labor governance
 
-The three-layer structure aligns with the constitutional allocation of powers ([Article II](../02-design/constitution.md)).
+The three-layer structure aligns with the constitutional allocation of powers ([Article II](../02-design/constitution/00-index.md)).
 
 #### Federal labor floor
 
-The federal government sets ([Article II, Section 1](../02-design/constitution.md)):
+The federal government sets ([Article II, Section 1](../02-design/constitution/00-index.md)):
 
 - minimum wage baseline,
 - core labor rights,
@@ -194,7 +194,7 @@ No region may undercut this floor.
 
 #### Regional labor standards
 
-Regions may ([Article II, Section 2](../02-design/constitution.md)):
+Regions may ([Article II, Section 2](../02-design/constitution/00-index.md)):
 
 - set higher minimum wages,
 - index wages to cost of living,
@@ -216,10 +216,10 @@ Practices treated as dumping:
 Penalties apply automatically, not discretionarily.
 
 > **Implementation note:** The constitution establishes anti-dumping rules as a
-> constraint on regional economic policy ([Article II, Section 2](../02-design/constitution.md)) but does not
+> constraint on regional economic policy ([Article II, Section 2](../02-design/constitution/00-index.md)) but does not
 > specify enforcement mechanisms. Automatic penalty structures described here
 > are proposed implementation requirements that should be codified in the
-> Allocation Framework Act ([Article XVIII, Section 1](../02-design/constitution.md)).
+> Allocation Framework Act ([Article XVIII, Section 1](../02-design/constitution/00-index.md)).
 
 ---
 
@@ -288,7 +288,7 @@ Persistent regional inequality:
 
 ### 7.2 Equalization mechanisms
 
-The system includes ([Article VIII, Section 3](../02-design/constitution.md)):
+The system includes ([Article X, Section 3](../02-design/constitution/00-index.md)):
 
 - automatic fiscal equalization transfers,
 - countercyclical funding,
@@ -406,7 +406,7 @@ Remote work allows:
 
 > **Implementation note:** Regional equalization fees for remote-work arbitrage
 > are not defined in the constitution. These mechanisms should be codified in
-> the Fiscal Equalization Act ([Article XVIII, Section 1](../02-design/constitution.md)) to ensure consistent
+> the Fiscal Equalization Act ([Article XVIII, Section 1](../02-design/constitution/00-index.md)) to ensure consistent
 > enforcement across regions.
 
 ---
@@ -432,13 +432,13 @@ Economic mobility collapses when moving means:
 
 ### 11.2 National benefits floor
 
-The system establishes a national benefits floor ([Article II, Section 1](../02-design/constitution.md)):
+The system establishes a national benefits floor ([Article II, Section 1](../02-design/constitution/00-index.md)):
 
 - portable healthcare coverage,
 - portable retirement credits,
 - unemployment continuity.
 
-Regions may add supplements above this floor ([Article III](../02-design/constitution.md); [Article XV, Section 2](../02-design/constitution.md)).
+Regions may add supplements above this floor ([Article III](../02-design/constitution/00-index.md); [Article XV, Section 2](../02-design/constitution/00-index.md)).
 
 ---
 
@@ -451,11 +451,11 @@ without fear of economic free fall.
 
 ## 12. Fiscal Federalism and Equalization
 
-The fiscal architecture is governed by [Article VIII](../02-design/constitution.md).
+The fiscal architecture is governed by [Article X](../02-design/constitution/00-index.md).
 
 ### 12.1 Independent taxation
 
-Each level has ([Article VIII, Section 1](../02-design/constitution.md)):
+Each level has ([Article X, Section 1](../02-design/constitution/00-index.md)):
 
 - its own tax base,
 - aligned with responsibilities.
@@ -464,7 +464,7 @@ Each level has ([Article VIII, Section 1](../02-design/constitution.md)):
 
 ### 12.2 No unfunded mandates
 
-Mandates without funding are unconstitutional by default ([Article VIII, Section 2](../02-design/constitution.md)).
+Mandates without funding are unconstitutional by default ([Article X, Section 2](../02-design/constitution/00-index.md)).
 
 ---
 
@@ -588,7 +588,7 @@ But it no longer threatens the survival of the democratic system itself.
 
 ## Related Documents
 
-- [Regional Federal Constitution](../02-design/constitution.md) - Authoritative source for all constitutional provisions
+- [Regional Federal Constitution](../02-design/constitution/00-index.md) - Authoritative source for all constitutional provisions
 - [Core Idea: Regional Federalism](../01-foundation/01-core-idea.md)
 - [Allocation of Powers](../02-design/01-allocation-of-powers.md)
 - [Federal Taxation and Fiscal Architecture](../02-design/05-fiscal-architecture.md)

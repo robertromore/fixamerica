@@ -178,7 +178,7 @@ A level of government without its own revenue is:
 
 ### 5.2 Constitutional requirement
 
-Each level-federal, regional, state, local-must have ([Article VIII, Section 1](constitution.md)):
+Each level-federal, regional, state, local-must have ([Article X, Section 1](constitution/04-fiscal-system.md)):
 
 - constitutionally protected taxing authority,
 - sufficient to perform its enumerated functions.
@@ -233,7 +233,7 @@ Federal spending must be:
 - formula-based where possible,
 - tied to enumerated federal powers.
 
-Conditional spending that effectively compels compliance is unconstitutional ([Article VIII, Section 4](constitution.md)).
+Conditional spending that effectively compels compliance is unconstitutional ([Article X, Section 4](constitution/04-fiscal-system.md)).
 
 ---
 
@@ -348,7 +348,7 @@ If regional:
 
 ## 10. The National Benefits Floor
 
-The national benefits floor is an enumerated federal power ([Article II, Section 1](constitution.md)).
+The national benefits floor is an enumerated federal power ([Article II, Section 1](constitution/02-powers-and-rights.md)).
 
 ### 10.1 Purpose
 
@@ -397,7 +397,7 @@ Without correction:
 
 ### 11.2 Equalization design
 
-Transfers are ([Article VIII, Section 3](constitution.md)):
+Transfers are ([Article X, Section 3](constitution/04-fiscal-system.md)):
 
 - automatic
 - formula-based
@@ -422,7 +422,7 @@ It ensures **baseline capacity**, not equality of results.
 
 ### 11.4 Independent Fiscal Council: Structure and Anti-Capture Safeguards
 
-Equalization formulas and fiscal transfers require oversight by an independent body insulated from partisan capture. The constitution mandates equalization ([Article VIII, Section 3](constitution.md)); Congress shall establish by statute an Independent Fiscal Council with the following design principles:
+Equalization formulas and fiscal transfers require oversight by an independent body insulated from partisan capture. The constitution mandates equalization ([Article X, Section 3](constitution/04-fiscal-system.md)); Congress shall establish by statute an Independent Fiscal Council with the following design principles:
 
 **Composition:**
 
@@ -493,7 +493,7 @@ It prevents:
 
 ### 13.1 Constitutional rule
 
-Any mandate imposed on ([Article VIII, Section 2](constitution.md)):
+Any mandate imposed on ([Article X, Section 2](constitution/04-fiscal-system.md)):
 
 - regions,
 - states,
@@ -521,7 +521,7 @@ No deference to "aspirational" funding.
 
 ### 14.1 Ban on coercive conditions
 
-Conditions that ([Article VIII, Section 4](constitution.md)):
+Conditions that ([Article X, Section 4](constitution/04-fiscal-system.md)):
 
 - leave no realistic choice,
 - threaten core functions,
@@ -619,7 +619,7 @@ That is the fiscal promise of this system.
 
 ## Related Documents
 
-- [Regional Federal Constitution](constitution.md) - Authoritative source for fiscal architecture (Article VIII)
+- [Regional Federal Constitution](constitution/00-index.md) - Authoritative source for fiscal architecture (Article X)
 - [Core Idea: Regional Federalism](../01-foundation/01-core-idea.md)
 - [Allocation of Powers](01-allocation-of-powers.md)
 - [Elections and Democratic Legitimacy](02-elections.md)

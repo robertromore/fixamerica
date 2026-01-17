@@ -64,13 +64,13 @@ This Act is enacted pursuant to:
 
 ### Section 2.2 — Constitutional Authorization
 
-This Act operates pursuant to [Article XV, Section 2](../02-design/constitution.md) of the Regional Federal Constitution, which authorizes phased activation of operational provisions during transition.
+This Act operates pursuant to [Article XIX, Section 2](../02-design/constitution/06-supremacy.md) of the Regional Federal Constitution, which authorizes phased activation of operational provisions during transition.
 
 During the transition period:
 
 - this Act governs sequencing and continuity for operational provisions,
 - the prior Constitution remains operative for matters not yet transitioned,
-- immediate provisions identified in [Article XV, Section 3](../02-design/constitution.md) take effect upon ratification and are not subject to phased activation.
+- immediate provisions identified in [Article XIX, Section 3](../02-design/constitution/06-supremacy.md) take effect upon ratification and are not subject to phased activation.
 
 Any conflict between this Act and the Regional Federal Constitution shall be resolved in favor of the Constitution. This Act does not claim supremacy over constitutional provisions.
 
@@ -102,7 +102,7 @@ No new powers may be claimed under the new Constitution in this phase.
 
 **Purpose:** Operationalize constitutionally established regions without disrupting governance.
 
-- Regions are established by [Schedule A](../02-design/constitution.md) of the Regional Federal Constitution upon ratification
+- Regions are established by [Schedule A](../02-design/constitution/01-regional-structure.md) of the Regional Federal Constitution upon ratification
 - This Act provides operational procedures for activating regional governance
 - Provisional regional assemblies formed from existing state delegations
 - Regions draft constitutions under federal rights floors
@@ -288,7 +288,7 @@ Mandatory jurisdiction without adequate court capacity creates delay failure. Th
 - The GAO shall monitor regional court capacity and report to Congress quarterly during the transition period
 - Reports shall identify capacity shortfalls and recommend corrective actions
 - Capacity monitoring is informational only and does not condition mandatory jurisdiction activation
-- Mandatory jurisdiction activates upon ratification pursuant to [Article XI, Section 1](../02-design/constitution.md) and [Article XV, Section 3](../02-design/constitution.md); capacity constraints do not delay constitutional obligations
+- Mandatory jurisdiction activates upon ratification pursuant to [Article XIV, Section 1](../02-design/constitution/00-index.md) and [Article XIX, Section 3](../02-design/constitution/06-supremacy.md); capacity constraints do not delay constitutional obligations
 
 **Contingency:**
 
@@ -334,12 +334,12 @@ Regional Guard Forces:
 
 ### Section 11.3 — Cyber and Information Security
 
-Constitutional protections under [Article XIII](../02-design/constitution.md) remain fully operative during transition:
+Constitutional protections under [Article XVI](../02-design/constitution/00-index.md) remain fully operative during transition:
 
-- Prohibition on domestic surveillance without judicial authorization ([Article XIII, Section 5](../02-design/constitution.md))
-- Regional control of election infrastructure ([Article XIII, Section 2](../02-design/constitution.md))
-- Foreign information operations disclosure requirements ([Article XIII, Section 7](../02-design/constitution.md))
-- Duty to refuse unlawful cyber orders ([Article XIII, Section 6](../02-design/constitution.md))
+- Prohibition on domestic surveillance without judicial authorization ([Article XVI, Section 5](../02-design/constitution/00-index.md))
+- Regional control of election infrastructure ([Article XVI, Section 2](../02-design/constitution/00-index.md))
+- Foreign information operations disclosure requirements ([Article XVI, Section 7](../02-design/constitution/00-index.md))
+- Duty to refuse unlawful cyber orders ([Article XVI, Section 6](../02-design/constitution/00-index.md))
 
 The transition period is a high-value target for foreign information operations. See [Foreign Information Warfare Stress Test](../03-analysis/06-foreign-information-warfare.md) for analysis.
 
@@ -454,7 +454,7 @@ That is its success condition.
 
 ## Related Documents
 
-- [The Regional Federal Constitution](../02-design/constitution.md) - Authoritative source for all constitutional provisions
+- [The Regional Federal Constitution](../02-design/constitution/00-index.md) - Authoritative source for all constitutional provisions
 - [Core Idea: Regional Federalism](../01-foundation/01-core-idea.md)
 - [Design Axioms](../01-foundation/02-design-axioms.md)
 - [Allocation of Powers](../02-design/01-allocation-of-powers.md)
@@ -479,5 +479,5 @@ That is its success condition.
 
 ## Document Navigation
 
-- Previous: [Non-Constitutional Safeguards Playbook](../05-implementation/01-safeguards-playbook.md)
-- Next: *Series Complete*
+- Previous: [Non-Constitutional Safeguards Playbook](01-safeguards-playbook.md)
+- Next: [Allocation Framework Act](03-allocation-framework-act.md)

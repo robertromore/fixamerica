@@ -10,7 +10,7 @@
 
 ### Section 1. Enumerated Powers Supremacy
 
-Only powers expressly granted by this Constitution are valid.
+Only powers expressly granted to the federal government by this Constitution are valid exercises of federal authority. This section reinforces Article II, Section 1; powers not enumerated to the federal government are reserved to the Regions, States, or the People.
 
 ---
 
@@ -24,7 +24,7 @@ Rights and standards shall be construed as floors unless explicitly stated other
 
 (a) Capitalized terms "Region," "State," "Tribal Nation," and "Territory" refer to constitutional entities established or recognized by this Constitution.
 
-(b) "Tribal Nation" means a federally recognized Tribal Nation unless otherwise specified.
+(b) "Tribal Nation" means a federally recognized Tribal Nation unless otherwise specified. The inherent sovereignty acknowledged in Article XX, Section 3 is not limited to federally recognized Tribal Nations, but constitutional protections and coordination requirements under this Constitution apply to federally recognized Tribal Nations as a matter of practical administration.
 
 (c) References to "Regional" institutions (Regional Governor, Regional legislature, Regional courts) use initial capitalization to denote constitutional status.
 
@@ -82,71 +82,41 @@ Upon completion of the transition period:
 
 ### Section 1. District of Columbia
 
-(a) The District of Columbia shall be entitled to representation in Congress as if it were a State:
+(a) The District of Columbia shall be entitled to representation in Congress as if it were a State, including Representatives apportioned by population and two Senators. This representation is immediate upon ratification.
 
-(1) Representatives in the House apportioned by population according to the same formula applied to States.
+(b) Within five years, Congress shall determine the District's permanent status: admission as a State with Regional assignment, or Regional assignment while preserving federal district status.
 
-(2) Two Senators, elected by the residents of the District according to procedures established by statute.
+(c) Regional assignment requires approval by two-thirds of the receiving Region's legislature and by majority referendum of District residents. No assignment may take effect within one year before or six months after a federal presidential election.
 
-(3) This representation is immediate upon ratification and does not depend on Regional assignment.
-
-(4) Until Congress establishes election procedures, Senators shall be elected in the same manner as Representatives, with the two candidates receiving the most votes in a general election being elected.
-
-(b) Within five years of ratification, Congress shall by statute either:
-
-- admit the District as a State and assign it to a Region, or
-- assign the District to a Region for purposes of Regional governance while preserving its unique federal district status.
-
-(c) Regional assignment of the District shall require:
-
-- approval by a two-thirds vote of the receiving Region's legislature, and
-- approval by a majority of District residents voting in a referendum on the assignment.
-
-No assignment may be enacted, amended, or take effect within one year before or six months after a federal presidential election.
-
-(d) Until such determination:
-
-- For presidential elections: residents of the District shall vote as part of the national popular vote; their votes are counted nationally, not assigned to any Region.
-- For congressional elections: the District elects its own Representatives and Senators as provided in subsection (a).
-- For Regional governance matters: the District is not subject to Regional authority until Congress makes a determination under subsection (b).
+(d) Implementation procedures are established by statute. See the [D.C. Status Determination Act](../../proposals/dc-status-determination-act.md) for the proposed implementing legislation.
 
 ---
 
 ### Section 2. Territories
 
-(a) Residents of United States territories shall be entitled to participate in federal elections. Congress shall by statute assign each territory to a Region for purposes of such participation.
+(a) Residents of United States territories shall be entitled to participate in federal elections. Congress shall assign each territory to a Region based on geographic proximity, historical connection, or economic integration.
 
-(b) Regional assignment of territories shall be governed by the following constraints:
+(b) Regional assignment requires approval by two-thirds of the receiving Region's legislature and may be rejected by territorial referendum. No assignment may take effect within one year before or six months after a federal presidential election.
 
-(1) Assignment must be based on geographic proximity, historical connection, or economic integration. No territory may be assigned to a Region with which it shares no such connection.
+(c) Congress shall establish a clear path for each territory to petition for statehood, Regional assignment without statehood, or continued territorial status with defined representation. No territory may be held indefinitely without a defined governance status.
 
-(2) Assignment requires approval by a two-thirds vote of the receiving Region's legislature.
-
-(3) No territory assignment may be enacted, amended, or take effect within one year before or six months after a federal presidential election.
-
-(4) The territory's residents shall have the opportunity to approve or reject Regional assignment by referendum. Rejection does not prevent federal election participation but delays Regional governance integration until a subsequent assignment is approved.
-
-(c) Congress shall by statute establish a clear path for each territory to:
-
-- petition for statehood and subsequent Regional assignment,
-- petition for Regional assignment without statehood,
-- or continue territorial status with defined representation rights.
-
-(d) No territory may be held indefinitely without a defined governance status. Congress shall act on any territorial petition within five years.
+(d) Implementation procedures are established by statute. See the [Territories Status Determination Act](../../proposals/territories-status-act.md) for the proposed implementing legislation.
 
 ---
 
 ### Section 3. Tribal Nations
 
-(a) The sovereignty of federally recognized Tribal Nations is hereby reaffirmed. Tribal Nations are not subordinate to Regions.
+(a) The inherent sovereignty of federally recognized Tribal Nations is hereby reaffirmed. Tribal Nations possess original sovereignty that predates this Constitution and exists independent of federal recognition.
 
-(b) Tribal lands remain under tribal and federal jurisdiction. Regional authority does not extend to tribal lands except by consent of the affected Tribal Nation.
+(b) Tribal Nations are not subordinate political subdivisions of the federal government, Regions, States, or territories. The relationship between the United States and Tribal Nations is government-to-government, nation-to-nation.
 
-(c) Regions and Tribal Nations shall enter into compacts for coordination of shared services, infrastructure, and emergency response. Such compacts shall be negotiated in good faith and shall respect tribal sovereignty.
+(c) Tribal lands remain under tribal jurisdiction. Federal authority over tribal lands is limited to that arising from treaties, trust responsibilities, and powers expressly consented to by Tribal Nations. Regional and State authority does not extend to tribal lands except by consent of the affected Tribal Nation.
 
-(d) Tribal Nations may, at their option, designate representatives to participate in Regional assemblies. The nature of such participation (voting, non-voting, observer) shall be determined by agreement between each Tribal Nation and the relevant Region.
+(d) Regions and Tribal Nations shall enter into compacts for coordination of shared services, infrastructure, and emergency response. Such compacts shall be negotiated in good faith and shall respect tribal sovereignty.
 
-(e) Nothing in this Constitution diminishes any treaty rights, trust responsibilities, or obligations of the United States to Tribal Nations.
+(e) Tribal Nations may, at their option, designate representatives to participate in Regional assemblies. The nature of such participation (voting, non-voting, observer) shall be determined by agreement between each Tribal Nation and the relevant Region.
+
+(f) Nothing in this Constitution diminishes any treaty rights, trust responsibilities, or obligations of the United States to Tribal Nations.
 
 ---
 

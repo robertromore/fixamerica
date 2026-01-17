@@ -174,7 +174,7 @@ This requires:
 
 ## 6. Constitutional Prohibition of Secession and Nullification
 
-The constitution explicitly prohibits both secession ([Article IX, Section 1](constitution.md)) and nullification ([Article IX, Section 2](constitution.md)).
+The constitution explicitly prohibits both secession ([Article XII, Section 1](constitution/05-safeguards.md)) and nullification ([Article XII, Section 2](constitution/05-safeguards.md)).
 
 ### 6.1 Why explicit prohibition matters
 
@@ -254,7 +254,7 @@ Autonomy is backed by revenue.
 
 ## 9. The De-Escalation Ladder
 
-The constitution mandates a graduated, restoration-focused response to constitutional breakdown ([Article IX, Section 3](constitution.md)).
+The constitution mandates a graduated, restoration-focused response to constitutional breakdown ([Article XII, Section 3](constitution/05-safeguards.md)).
 
 Instead of improvisation, the system provides a **mandatory escalation sequence**.
 
@@ -381,7 +381,7 @@ It does not exist to:
 
 ## 13. The Role of Courts in De-Escalation
 
-Courts operate under mandatory jurisdiction requirements ([Article XI](constitution.md)).
+Courts operate under mandatory jurisdiction requirements ([Article XIV](constitution/00-index.md)).
 
 Courts:
 
@@ -401,7 +401,7 @@ Judicial clarity is essential to preventing escalation.
 
 ## 14. The Role of Armed Forces as Last Resort
 
-Armed forces are subject to constitutional constraints including the two-key authorization requirement ([Article XII, Section 2](constitution.md)).
+Armed forces are subject to constitutional constraints including the two-key authorization requirement ([Article XV, Section 2](constitution/00-index.md)).
 
 Armed forces:
 
@@ -490,7 +490,7 @@ That is the purpose of this design.
 
 ## Related Documents
 
-- [Regional Federal Constitution](constitution.md) - Authoritative source for secession/nullification (Article IX)
+- [Regional Federal Constitution](constitution/00-index.md) - Authoritative source for secession/nullification (Article XII)
 - [Core Idea: Regional Federalism](../01-foundation/01-core-idea.md)
 - [Allocation of Powers](01-allocation-of-powers.md)
 - [Elections and Democratic Legitimacy](02-elections.md)
@@ -508,4 +508,4 @@ That is the purpose of this design.
 ## Document Navigation
 
 - Previous: [Judiciary and Constitutional Enforcement](07-judiciary.md)
-- Next: [Regional Federal Constitution](constitution.md)
+- Next: [Regional Federal Constitution](constitution/00-index.md)

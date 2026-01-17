@@ -59,65 +59,19 @@ The structural form of Regional government (unicameral or bicameral legislature,
 
 ### Section 4. Regional Boundary Revision
 
-Regional boundaries may be revised without full constitutional amendment through the following process:
+(a) Regional boundaries may be revised without full constitutional amendment through a process requiring:
 
-(a) An Independent Boundary Review Commission shall be established by Congress and shall review Regional boundaries every twenty years following each decennial census.
-
-(b) Commission Structure. The Commission shall consist of:
-
-- eleven members serving single six-year staggered terms, removable only for cause by a two-thirds vote of the Senate,
-
-- members selected as follows:
-    - two appointed by the President, confirmed by the Senate,
-    - two appointed by Senators not affiliated with the party or coalition holding the Senate majority, selected as follows: (i) if a single non-majority caucus exists, by its designated leader; (ii) if multiple non-majority caucuses exist, one each by the two largest such caucuses; (iii) if no formal caucuses exist, by the two Senators with the longest tenure who are not affiliated with the majority,
-    - two appointed by a majority vote of Regional Governors,
-    - two appointed by a majority vote of Regional Governors from Regions not represented in the first two gubernatorial appointments,
-    - three selected by lottery from a pool of retired federal judges who have been retired for at least five years, maintained by the Administrative Office of the Courts,
-
-- no appointing authority may select members who, together with members selected by other appointing authorities, would result in more than six members sharing the same party affiliation, recent partisan employment, or coordinated political association,
-
-- members must have expertise in demography, geography, economics, or public administration,
-
-- an independent budget appropriated as mandatory spending, which may not be reduced below the prior year's level adjusted for inflation.
-
-(b-1) Disqualification. No person may serve on the Commission who has, within the ten years preceding appointment:
-
-- held elected federal or State office,
-- served as a national party official,
-- been employed as a registered lobbyist,
-- been employed by a political campaign.
-
-(b-2) If Congress fails to establish the Commission within two years of this Constitution's ratification, the Comptroller General shall convene an interim Commission consisting of nine retired federal judges selected by lottery, with Regional diversity requirements, until Congress acts.
-
-(c) The Commission shall recommend boundary adjustments based on criteria established by statute, which may include population balance, economic coherence, infrastructure alignment, and geographic considerations.
-
-(d) Congressional Action Deadline. Within eighteen months of receiving Commission recommendations, Congress shall schedule a national referendum on any proposed boundary revision. If Congress fails to act within this period, the Commission may directly submit its recommendations to the national referendum process.
-
-(e) Boundary revisions require:
-
+- an Independent Boundary Review Commission to assess and recommend changes,
 - approval by two-thirds of the legislature of each affected Region,
 - approval by national popular referendum.
 
-(f) Referendum Failure. If a proposed boundary revision fails to achieve the required approvals:
+(b) The Commission shall be structured to ensure independence from partisan control, with members drawn from multiple appointing authorities and subject to disqualification for recent partisan activity.
 
-- the Commission shall issue a public report analyzing the reasons for failure within sixty days,
-- no substantially similar proposal may be submitted for referendum within four years,
-- the Commission may propose alternative revisions addressing identified concerns in the next review cycle.
+(c) Congress shall establish by statute the criteria for boundary revision, Commission procedures, and referendum processes.
 
-(g) Election Proximity Restrictions.
+(d) No boundary revision may be proposed, voted upon, or take effect within one year before or six months after a federal presidential election.
 
-(1) No boundary revision may be proposed, voted upon, or take effect within one year before a federal presidential election.
-
-(2) No boundary revision may take effect within six months after a federal presidential election.
-
-(3) The asymmetry in subsections (1) and (2) reflects different concerns:
-
-- The longer pre-election blackout prevents manipulation of Regional composition to influence an imminent election.
-- The shorter post-election blackout allows transitions to proceed while preventing immediate post-election retaliation or gerrymandering based on election results.
-
-(4) For purposes of this subsection, "federal presidential election" means the general election for President, not primary elections.
-
-(h) Criteria for boundary revision shall be defined by statute and may be updated by Congress. The Constitution establishes only the process and consent thresholds.
+(e) Implementation procedures are established by statute. See the [Regional Boundary Review and Revision Act](../../proposals/boundary-review-act.md) for the proposed implementing legislation.
 
 ---
 
@@ -146,74 +100,38 @@ Regional boundaries may be revised without full constitutional amendment through
 
 ### Section 6. Right of Transit and Non-Blockade
 
-(a) No Region may deny, obstruct, or unreasonably condition access to transportation infrastructure, energy transmission systems, or communication networks that connect other Regions to each other or to external markets.
+(a) No Region may deny, obstruct, or unreasonably condition access to transportation, energy, or communication infrastructure connecting other Regions. All Regions have rights of transit through other Regions on reasonable and non-discriminatory terms.
 
-(b) All Regions shall have the right of transit through other Regions for goods, persons, and services on reasonable and non-discriminatory terms.
+(b) Infrastructure fees shall be non-discriminatory, cost-based, and transparent.
 
-(c) Infrastructure user fees, tolls, and charges imposed on transit traffic shall be:
+(c) This section does not require Regions to build new infrastructure, only to maintain reasonable access to existing infrastructure connecting other Regions.
 
-- non-discriminatory (no higher than fees for comparable intra-Regional traffic),
-- cost-based (related to actual infrastructure costs),
-- transparent (published and applied uniformly).
-
-(d) A Region that believes its right of transit is being violated may seek:
-
-- expedited mediation through the Allocation Review Board (established in Article XIV, Section 7) (fourteen days),
-- injunctive relief from Regional courts (established pursuant to Article XIV, Section 7) (with federal backup jurisdiction),
-- federal enforcement of access under the national common market power.
-
-(e) In cases of imminent or ongoing blockade, the federal government may:
-
-- order immediate restoration of access pending dispute resolution,
-- impose sanctions on the offending Region, including withholding of equalization transfers,
-- assume temporary operational control of affected infrastructure.
-
-(f) This section does not require Regions to build new infrastructure, only to maintain reasonable access to existing infrastructure connecting other Regions.
+(d) Implementation procedures are established by statute. See the [National Common Market Access Act](../../proposals/national-common-market-access-act.md) for the proposed implementing legislation.
 
 ---
 
 ### Section 7. Water Rights and Shared Waterways
 
-(a) Interstate rivers, lakes, aquifers, and watersheds that cross or border Regional boundaries are shared resources of all affected Regions and the United States.
+(a) Interstate rivers, lakes, aquifers, and watersheds that cross or border Regional boundaries are shared resources. Water allocation among Regions shall be governed by principles of equitable apportionment.
 
-(b) No Region may unilaterally:
+(b) No Region may unilaterally divert, dam, or appropriate water in a manner that substantially diminishes the quantity or quality of water available to other Regions, or discharge pollutants that render water unusable by other Regions.
 
-- divert, dam, or appropriate water in a manner that substantially diminishes the quantity or quality of water available to downstream or adjacent Regions,
-- discharge pollutants that render water unusable by other Regions,
-- destroy wetlands, flood plains, or natural water management systems upon which other Regions depend.
+(c) Existing interstate water compacts shall remain in force unless superseded by Regional agreement or federal law.
 
-(c) Water allocation among Regions shall be governed by principles of equitable apportionment, considering:
+(d) Nothing in this section shall diminish treaty obligations to Tribal Nations regarding water rights or authorize taking of water rights without just compensation.
 
-- historical usage patterns,
-- population and reasonable projected needs,
-- environmental sustainability requirements,
-- economic dependency,
-- efficiency of use,
-- availability of alternative sources.
+(e) **Water Resources Coordination Board.** There is hereby established a Water Resources Coordination Board consisting of:
 
-(d) Congress shall establish a Water Resources Coordination Board to:
+- one representative appointed by each Region,
+- one representative of the Environmental Protection Agency,
+- one representative of the Army Corps of Engineers,
+- two representatives of Tribal Nations with water rights in affected watersheds (selected by a council of affected Tribes).
 
-- monitor shared water resources,
-- provide technical assessments and projections,
-- facilitate negotiation of water-sharing agreements,
-- recommend equitable allocations when Regions cannot agree.
+The Board shall coordinate water allocation, establish monitoring standards, and facilitate dispute resolution through mediation before adjudication.
 
-(e) A Region that believes its water rights are being violated may seek:
+(f) **National Water Court.** There is hereby established a National Water Court with exclusive original jurisdiction over interstate water disputes. The Court shall consist of five judges appointed by the President with Senate confirmation for twelve-year non-renewable terms, drawn from persons with expertise in water law, hydrology, or environmental science. At least two judges shall have experience representing Western states with prior appropriation systems, and at least two shall have experience representing Eastern states with riparian rights systems. The Court's decisions may be appealed to the Supreme Court on questions of constitutional interpretation.
 
-- expedited mediation through the Water Resources Coordination Board (twenty-one days),
-- adjudication by the National Water Court (established in Article XIV, Section 7),
-- emergency injunctive relief to prevent irreversible harm.
-
-(f) In cases of ongoing or imminent harm to shared water resources, the federal government may:
-
-- order immediate cessation of harmful activities pending dispute resolution,
-- impose sanctions on the offending Region, including withholding of equalization transfers,
-- implement emergency conservation measures,
-- assume temporary operational control of water infrastructure causing harm.
-
-(g) Existing interstate water compacts shall remain in force unless superseded by Regional agreement or federal law enacted pursuant to this section.
-
-(h) Nothing in this section shall be construed to diminish treaty obligations to Tribal Nations regarding water rights or to authorize taking of water rights without just compensation.
+(g) Implementation procedures are established by statute. See the [Interstate Water Resources Coordination Act](../../proposals/water-resources-coordination-act.md) for the proposed implementing legislation.
 
 ---
 
@@ -251,139 +169,43 @@ Regional boundaries may be revised without full constitutional amendment through
 
 ### Section 9. Mutual Recognition
 
-(a) Full Faith and Credit. Each Region, State, Territory, and Tribal Nation shall give full faith and credit to the public acts, records, and judicial proceedings of every other Region, State, Territory, and Tribal Nation.
+(a) Full Faith and Credit. Each jurisdiction shall give full faith and credit to the public acts, records, and judicial proceedings of every other jurisdiction.
 
-(b) Legal Status Recognition. The following legal statuses established under the laws of any Region, State, Territory, or Tribal Nation shall be recognized in all other Regions, States, Territories, and Tribal Nations:
+(b) Legal Status Recognition. Marriages, divorces, adoptions, name changes, powers of attorney, corporate registrations, and property titles established under any jurisdiction's law shall be recognized in all other jurisdictions.
 
-- marriages and civil unions,
-- divorces and dissolutions,
-- adoptions and parentage determinations,
-- name and gender marker changes,
-- powers of attorney and advance directives,
-- corporate formation and business registrations,
-- property titles and security interests.
+(c) Professional Credentials. Professional licenses shall be recognized for practice in all jurisdictions, subject only to registration, reasonable fees, and verification of good standing. Supplementary requirements may be imposed only where the receiving jurisdiction's standards demonstrably exceed those of the issuing jurisdiction.
 
-(c) Professional Credentials.
+(d) Academic Credentials. Educational degrees from accredited institutions shall be recognized throughout the United States.
 
-(1) Professional licenses and credentials issued by any Region, State, Territory, or Tribal Nation shall be recognized for practice in all other Regions, States, Territories, and Tribal Nations, subject only to:
+(e) No jurisdiction may refuse recognition based on religious or moral objection, political disagreement, economic protectionism, or retaliation.
 
-- registration with the receiving jurisdiction's licensing authority,
-- payment of reasonable administrative fees limited to actual processing costs and not exceeding one hundred dollars (adjusted for inflation from the date of ratification),
-- verification that the credential remains in good standing.
-
-(2) Supplementary Requirements Exception. A receiving jurisdiction may impose supplementary requirements only where:
-
-- the receiving jurisdiction's licensing standards demonstrably and substantially exceed those of the issuing jurisdiction in specific, identified competencies,
-- the supplementary requirement is narrowly tailored to address the identified competency gap,
-- the supplementary requirement was in effect for at least two years prior to the credential holder's application,
-- the burden of proof is on the receiving jurisdiction.
-
-(3) Anti-Circumvention. No jurisdiction may:
-
-- adopt, modify, or apply licensing standards with the intent or primary effect of excluding practitioners licensed in other jurisdictions,
-- impose supplementary requirements that are disproportionate to the identified competency gap,
-- require re-examination in areas where the issuing jurisdiction's examination is substantially equivalent,
-- apply supplementary requirements selectively based on the applicant's jurisdiction of origin.
-
-(4) Grandfather Clause. Licensing standards in effect at ratification are presumed valid. Standards adopted or modified after ratification that have the effect of reducing credential portability shall be reviewed under heightened scrutiny.
-
-(5) Expedited Challenge. A credential holder who believes supplementary requirements violate this section may seek expedited review (fourteen days) in Regional court. If the credential holder prevails, the receiving jurisdiction shall pay reasonable attorney's fees.
-
-(6) Interstate Licensing Compact. Congress may establish uniform licensing standards for professions affecting public health and safety. Such standards, once established, supersede conflicting Regional or State requirements and ensure full portability.
-
-(d) Academic Credentials. Educational degrees, certifications, and transcripts issued by accredited institutions shall be recognized throughout the United States without requiring revalidation.
-
-(e) No Region, State, Territory, or Tribal Nation may refuse recognition of legal statuses, credentials, or records on the basis of:
-
-- religious or moral objection to the underlying status,
-- political disagreement with the issuing jurisdiction,
-- intent to disadvantage residents of other jurisdictions,
-- economic protectionism or intent to limit competition,
-- retaliation for unrelated disputes with the issuing jurisdiction,
-- unsubstantiated claims of public safety concern.
-
-(f) Disputes regarding mutual recognition shall be subject to expedited resolution (fourteen days) in Regional courts, with appeal to federal courts on constitutional questions.
-
-(g) Congress may by law establish uniform standards for recognition and reciprocity to facilitate the purposes of this section.
+(f) Implementation procedures are established by statute. See the [Interstate Professional Licensing Reciprocity Act](../../proposals/interstate-professional-licensing-act.md) for the proposed implementing legislation.
 
 ---
 
 ### Section 10. Environmental Border Protection
 
-(a) No Region, State, Territory, or Tribal Nation may externalize environmental harms to other Regions, States, Territories, or Tribal Nations. Specifically, no jurisdiction may:
+(a) No jurisdiction may externalize environmental harms to other jurisdictions through pollution siting, emissions, discharges, hazardous waste disposal, or land use practices that cause transboundary harm.
 
-- site polluting facilities within fifty miles of a jurisdictional boundary with the intent or effect of exporting pollution to neighboring jurisdictions,
-- permit emissions, discharges, or waste disposal that cause measurable harm to air quality, water quality, or public health in other jurisdictions,
-- dispose of hazardous materials in a manner that creates risk of migration to other jurisdictions,
-- engage in land use practices that cause significant flooding, erosion, or ecological damage in other jurisdictions.
+(b) Affected jurisdictions may seek injunctive relief, compensatory damages, and remediation orders. The Environmental Protection Agency shall maintain monitoring capacity and enforcement authority.
 
-(b) The fifty-mile buffer zone in subsection (a) may be adjusted by mutual agreement between affected jurisdictions or by federal regulation based on scientific evidence of actual pollution dispersion patterns.
+(c) This section supplements federal environmental laws establishing national minimum standards. Jurisdictions may establish more protective standards provided they do not discriminate against interstate commerce.
 
-(c) An affected Region, State, Territory, or Tribal Nation may seek:
-
-- injunctive relief to halt harmful activities,
-- compensatory damages for documented harm,
-- remediation orders requiring cleanup or restoration.
-
-(d) The Environmental Protection Agency shall maintain monitoring capacity at jurisdictional boundaries and shall have independent authority to:
-
-- investigate transboundary pollution complaints,
-- issue citations and administrative penalties,
-- refer cases for federal enforcement.
-
-(e) In cases of ongoing or imminent transboundary environmental harm, the federal government may:
-
-- order immediate cessation of harmful activities,
-- impose sanctions including withholding of equalization transfers,
-- undertake emergency remediation with cost recovery from the responsible jurisdiction.
-
-(f) This section supplements, and does not displace, federal environmental laws establishing national minimum standards.
-
-(g) Nothing in this section shall prevent Regions, States, Territories, or Tribal Nations from establishing environmental standards more protective than federal floors, provided such standards do not discriminate against interstate commerce.
+(d) Implementation procedures are established by statute. See the [Transboundary Environmental Harm Prevention Act](../../proposals/transboundary-environmental-protection-act.md) for the proposed implementing legislation.
 
 ---
 
 ### Section 11. Cross-Jurisdictional Law Enforcement Cooperation
 
-(a) Extradition. A person charged with a crime in one Region, State, Territory, or Tribal Nation who flees to another jurisdiction shall, upon demand of the executive authority of the jurisdiction from which they fled, be delivered to the jurisdiction having jurisdiction over the crime.
+(a) Jurisdictions shall cooperate in criminal law enforcement through extradition, hot pursuit, and mutual legal assistance.
 
-(b) Extradition shall be mandatory for:
+(b) Extradition shall be mandatory for serious crimes including violence, harm to minors, fraud, and public corruption. A jurisdiction may decline extradition only where the requesting jurisdiction seeks sentences violating federal rights floors or where the person faces persecution unrelated to the alleged crime.
 
-- all crimes punishable by imprisonment of one year or more in the requesting jurisdiction,
-- all crimes involving violence against persons,
-- all crimes involving minors as victims,
-- all crimes involving fraud or financial exploitation,
-- all crimes involving public corruption or abuse of office.
+(c) No jurisdiction may adopt policies designed to shield individuals from lawful prosecution for crimes of violence, fraud, or harm to minors.
 
-(c) A Region, State, Territory, or Tribal Nation may decline extradition only where:
+(d) Nothing in this section shall require cooperation in enforcement of laws violating federal rights floors, participation in pretextual or politically motivated actions, or diminishment of Tribal sovereignty over criminal matters.
 
-- the requesting jurisdiction seeks to impose a sentence that would violate federal rights floors (such as the death penalty where constitutionally prohibited),
-- there is substantial evidence that the person will face persecution unrelated to the alleged crime,
-- the alleged conduct is not criminal in the receiving jurisdiction and does not involve violence, fraud, or harm to minors.
-
-(d) Extradition proceedings shall be completed within sixty days of demand. Failure to complete proceedings within this period shall result in automatic transfer of custody to federal authorities for extradition.
-
-(e) Hot Pursuit. Law enforcement officers in fresh pursuit of a person for a felony offense may continue pursuit across jurisdictional boundaries without interruption. Such officers shall:
-
-- notify the law enforcement authorities of the jurisdiction entered as soon as practicable,
-- defer to local authorities upon their arrival unless immediate action is necessary to prevent harm,
-- comply with the use-of-force standards of the jurisdiction in which they are operating.
-
-(f) Mutual Legal Assistance. Regions, States, Territories, and Tribal Nations shall cooperate in criminal investigations by:
-
-- honoring lawfully issued subpoenas and warrants from other jurisdictions,
-- sharing evidence and records upon proper request,
-- facilitating witness testimony across jurisdictional boundaries.
-
-(g) Information Sharing. Congress shall establish secure systems for sharing law enforcement information across jurisdictional boundaries, subject to privacy protections and oversight.
-
-(h) No Safe Harbors. No Region, State, Territory, or Tribal Nation may adopt policies designed to shield individuals from lawful prosecution in other jurisdictions for crimes of violence, fraud, or harm to minors.
-
-(i) Nothing in this section shall require Regions, States, Territories, or Tribal Nations to cooperate in enforcement of laws that would violate federal rights floors or to participate in enforcement actions that the receiving jurisdiction determines are pretextual or politically motivated.
-
-(j) Disputes regarding cross-jurisdictional law enforcement cooperation shall be resolved by federal courts with expedited review (fourteen days).
-
-(k) Nothing in this section shall be construed to diminish the sovereign authority of Tribal Nations over criminal matters within their jurisdiction, except as otherwise provided by treaty or federal law. Cross-jurisdictional cooperation involving Tribal Nations shall respect Tribal sovereignty and be conducted pursuant to agreements negotiated in good faith between Tribal authorities and other jurisdictions.
+(e) Implementation procedures are established by statute. See the [Interstate Law Enforcement Cooperation Act](../../proposals/interstate-law-enforcement-cooperation-act.md) for the proposed implementing legislation.
 
 ---
 
@@ -504,7 +326,7 @@ Idaho, Montana, Wyoming
 - maintain Regional Guard Forces,
 - participate in Senate representation.
 
-(2) If a Region's population falls below one million, or if a Region demonstrates inability to maintain minimum institutional capacity, the Independent Boundary Review Commission shall conduct a special review within one year and may recommend:
+(2) If a Region's population falls below one-half of one percent of the total population of the United States, or if a Region demonstrates inability to maintain minimum institutional capacity, the Independent Boundary Review Commission shall conduct a special review within one year and may recommend:
 
 - merger with an adjacent Region,
 - enhanced inter-Regional cooperation agreements,

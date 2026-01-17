@@ -128,7 +128,7 @@ The Senate persists because:
 
 ### 5.2 What changes fundamentally
 
-The Senate ([Article IV, Section 3](constitution.md)):
+The Senate ([Article IV, Section 3](constitution/03-regional-governance.md)):
 
 - represents **Regions**, not states,
 - each region has equal representation,
@@ -144,7 +144,7 @@ This eliminates:
 
 ### 5.3 Narrowed Senate powers
 
-The Senate's powers are intentionally limited to ([Article IV, Section 4](constitution.md)):
+The Senate's powers are intentionally limited to ([Article IV, Section 4](constitution/03-regional-governance.md)):
 
 - treaty ratification
 - judicial and constitutional appointments
@@ -179,7 +179,7 @@ This design:
 - provides explicit veto override mechanism (House two-thirds),
 - prevents Senate self-expansion of delay authority.
 
-See [Article IV, Section 5](constitution.md) for constitutional text.
+See [Article IV, Section 5](constitution/03-regional-governance.md) for constitutional text.
 
 ---
 
@@ -237,7 +237,7 @@ Members are incentivized to:
 
 ### 7.1 The presidency remains powerful-but narrower
 
-The President retains ([Article V](constitution.md)):
+The President retains ([Article V](constitution/03-regional-governance.md)):
 
 - foreign policy leadership
 - national defense command
@@ -285,7 +285,7 @@ Coordination occurs through:
 - shared funding frameworks,
 - mutual consent mechanisms.
 
-Conditional funding coercion is prohibited ([Article VIII, Section 4](constitution.md)).
+Conditional funding coercion is prohibited ([Article X, Section 4](constitution/04-fiscal-system.md)).
 
 ---
 
@@ -381,7 +381,7 @@ When legislatures cannot act:
 
 ### 11.2 Structural correction
 
-Courts are ([Article XI](constitution.md)):
+Courts are ([Article XIV](constitution/00-index.md)):
 
 - limited to procedural enforcement,
 - barred from policy harmonization,
@@ -414,7 +414,7 @@ This restores courts as referees.
 
 ### Failure Mode: Judicial empire-building
 
-**Safeguard:** Jurisdiction limits, term limits ([Article XI, Section 6](constitution.md)), mandatory review.
+**Safeguard:** Jurisdiction limits, term limits ([Article XIV, Section 6](constitution/00-index.md)), mandatory review.
 
 ---
 
@@ -488,7 +488,7 @@ That is the institutional promise of this system.
 
 ## Related Documents
 
-- [Regional Federal Constitution](constitution.md) - Authoritative source for all institutional design
+- [Regional Federal Constitution](constitution/00-index.md) - Authoritative source for all institutional design
 - [Core Idea: Regional Federalism](../01-foundation/01-core-idea.md)
 - [Allocation of Powers](01-allocation-of-powers.md)
 - [Elections and Democratic Legitimacy](02-elections.md)

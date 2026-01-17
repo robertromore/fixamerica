@@ -1,0 +1,139 @@
+# Regional Guard Forces
+
+## Regional Federalism Supplement to Armed Forces Reform
+
+*This document contains ONLY the region-dependent provisions for armed forces under Regional Federalism. For the complete armed forces and civilian control reform, see the [Military Civilian Control Amendment](../../../../single-topic/military-civilian-control/).*
+
+---
+
+## Compatibility Clause
+
+This article presumes adoption of the [Military Civilian Control Amendment](../../../../single-topic/military-civilian-control/) or an equivalent provision establishing:
+
+- civilian supremacy over armed forces
+- two-key authorization for domestic deployment
+- duty to refuse unlawful orders
+- prohibited uses of armed forces
+- transparency and accountability requirements
+
+If the Military Civilian Control Amendment is adopted alongside Regional Federalism, substitute "Regional Governors" for "State Governors" in Key 2 authorization throughout that amendment.
+
+---
+
+## ARTICLE XV-RF - REGIONAL GUARD FORCES
+
+### Section 1. Establishment of Regional Guard Forces
+
+(a) Each Region may maintain Regional Guard Forces for:
+
+- disaster response within the Region,
+- support of civil authorities at Regional Governor request,
+- defense of Regional territory in coordination with federal forces.
+
+(b) Regional Guard Forces are under the command of the Regional Governor except when called into federal service.
+
+---
+
+### Section 2. Federalization of Regional Guard
+
+(a) Regional Guard Forces may be called into federal service:
+
+- upon declaration of war by Congress,
+- upon authorization for use of military force approved by two-thirds of the House and Senate,
+- for domestic deployment pursuant to two-key authorization (as defined by the Military Civilian Control Amendment if adopted, or by subsection (g) of this section).
+
+(b) When called into federal service, Regional Guard units are commanded by the President through the chain of command.
+
+(c) Federalization for domestic purposes may not exceed ninety days without consent of the affected Region's Governor.
+
+(d) A Regional Governor may refuse federalization of that Region's Guard Forces if:
+
+- no two-key authorization has been obtained, or
+- the federalization order directs action against that Governor's own Region.
+
+(e) If the Regional Governor position is vacant or if the Governor has been removed by federal action, the refusal authority under subsection (d) shall be exercised by the acting Governor under Regional succession law, or if none, by the presiding officer of the Regional legislature.
+
+(f) Federalization of a Region's Guard is prohibited for 180 days following removal of that Region's Governor by federal action, unless:
+
+- (1) approved by two-thirds of the Regional legislature, or
+- (2) approved by a majority of all other Regional Governors, or
+- (3) authorized by the Supreme Court upon finding genuine emergency unrelated to the removal.
+
+(g) **Default Two-Key Authorization.** If the Military Civilian Control Amendment is not adopted, "two-key authorization" for purposes of this article means authorization for domestic deployment of armed forces that requires approval from both:
+
+- (1) **Key 1:** The President (or, if the President is unavailable or incapacitated, the next civilian in the line of succession), and
+- (2) **Key 2:** A majority of Regional Governors, or if deployment is limited to a single Region, the Governor of that Region.
+
+Two-key authorization may not be waived, delegated to military officers, or satisfied by implied consent. Deployment without two-key authorization is unlawful and may be refused by commanders without penalty.
+
+---
+
+### Section 3. Integration with State National Guard
+
+(a) State National Guard units continue in existence within the Regional structure.
+
+(b) State National Guard units may be placed under Regional command by agreement between the State and Regional governments.
+
+(c) The Governor of each State retains authority over State National Guard units for State emergencies unless such units have been federalized or placed under Regional command.
+
+(d) State Defense Forces under exclusive State control may be maintained and are not subject to federalization.
+
+(e) Coordination Requirements. State National Guard and Regional Guard Forces shall maintain:
+
+- (1) interoperable communications and command systems,
+- (2) joint training exercises at least annually,
+- (3) mutual aid agreements specifying support protocols,
+- (4) clear precedence rules when operating in same theater.
+
+(f) During concurrent operations, the senior Regional Guard commander shall coordinate overall response unless the emergency is confined to a single State and the Regional Governor has not declared a Regional emergency.
+
+(g) Nothing in this section shall be construed to subordinate State National Guard units to Regional command without agreement under subsection (b), except during federalization or declared Regional emergency requiring unified command.
+
+---
+
+## Design Rationale
+
+### Why Regional Guard Forces?
+
+Regional Guard Forces provide:
+
+- Additional capacity for regional disasters beyond what states can individually provide
+- Regional-level military force under Regional civilian control
+- Counterbalance to federal military power
+- Career opportunities for military personnel preferring Regional service
+
+Regional Guards are distinct from State National Guard units, providing an intermediate tier of military capacity.
+
+### Why Preserve State National Guard?
+
+The three-tier structure (Federal, Regional, State) provides:
+
+- Redundancy and resilience
+- Multiple chains of command
+- Protection against concentration of military power
+- Flexibility for different emergency scales
+
+### Relationship to Military Civilian Control Amendment
+
+The core reforms (two-key authorization, duty to refuse, prohibited uses, transparency) are in the standalone [Military Civilian Control Amendment](../../../../single-topic/military-civilian-control/). That amendment works with either:
+
+- **State-based system**: Key 2 = majority of State Governors
+- **Regional Federalism**: Key 2 = majority of Regional Governors
+
+This Regional Guard article adds the intermediate tier of military capacity that only makes sense with the regional structure.
+
+---
+
+## Related Documents
+
+- [Military Civilian Control Amendment](../../../../single-topic/military-civilian-control/) - National core reform (required companion)
+- [Index](00-index.md) - Constitution overview
+- [Emergency Powers](11-emergency-powers.md) - Regional emergency authority
+- [Safeguards](05-safeguards.md) - De-escalation provisions
+
+---
+
+## Document Navigation
+
+- Previous: [Judiciary](09-judiciary.md)
+- Next: [Emergency Powers](11-emergency-powers.md)

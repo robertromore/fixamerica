@@ -171,7 +171,7 @@ Regions must **govern disagreement internally** before blocking national change.
 
 ### 6.1 Territorial legitimacy
 
-An amendment must be ratified by three-fourths of Regions ([Article X, Section 2](constitution.md)).
+An amendment must be ratified by three-fourths of Regions ([Article XIII, Section 2](constitution/00-index.md)).
 
 This ensures:
 
@@ -183,7 +183,7 @@ This ensures:
 
 ### 6.2 Popular legitimacy
 
-An amendment must also be approved by a **majority of votes cast in a national popular referendum** ([Article X, Section 2](constitution.md)).
+An amendment must also be approved by a **majority of votes cast in a national popular referendum** ([Article XIII, Section 2](constitution/00-index.md)).
 
 No minimum turnout threshold is required—preventing boycott strategies from blocking reform.
 
@@ -210,7 +210,7 @@ Together, they enforce **breadth + depth**.
 
 ### 7.1 Congressional proposal
 
-Amendments may be proposed by ([Article X, Section 1](constitution.md)):
+Amendments may be proposed by ([Article XIII, Section 1](constitution/00-index.md)):
 
 - two-thirds of each chamber of Congress.
 
@@ -220,7 +220,7 @@ This preserves legislative initiative.
 
 ### 7.2 Regional proposal
 
-Amendments may also be proposed by ([Article X, Section 1](constitution.md)):
+Amendments may also be proposed by ([Article XIII, Section 1](constitution/00-index.md)):
 
 - two-thirds of regional legislatures.
 
@@ -242,7 +242,7 @@ Multiple proposal paths:
 
 ### 8.1 Fixed ratification window
 
-Amendments must be ratified within **seven years** of proposal ([Article X, Section 3](constitution.md)).
+Amendments must be ratified within **seven years** of proposal ([Article XIII, Section 3](constitution/00-index.md)).
 
 This prevents:
 
@@ -308,13 +308,13 @@ This preserves regional self-government.
 
 ### 10.2 No partial opt-outs
 
-Regions may not ([Article X, Section 4](constitution.md)):
+Regions may not ([Article XIII, Section 4](constitution/00-index.md)):
 
 - partially ratify,
 - condition consent,
 - or claim selective applicability.
 
-Amendments apply uniformly once ratified ([Article X, Section 5](constitution.md)).
+Amendments apply uniformly once ratified ([Article XIII, Section 5](constitution/00-index.md)).
 
 ---
 
@@ -372,7 +372,7 @@ Courts may not:
 
 ### 12.2 Mandatory jurisdiction
 
-Courts must hear amendment disputes ([Article XI, Section 1](constitution.md)).
+Courts must hear amendment disputes ([Article XIV, Section 1](constitution/00-index.md)).
 They may not dismiss on:
 
 - standing,
@@ -450,7 +450,7 @@ This amendment system is designed to do exactly that.
 
 ## Related Documents
 
-- [Regional Federal Constitution](constitution.md) - Authoritative source for amendment process (Article X)
+- [Regional Federal Constitution](constitution/00-index.md) - Authoritative source for amendment process (Article XIII)
 - [Core Idea: Regional Federalism](../01-foundation/01-core-idea.md)
 - [Allocation of Powers](01-allocation-of-powers.md)
 - [Elections and Democratic Legitimacy](02-elections.md)
