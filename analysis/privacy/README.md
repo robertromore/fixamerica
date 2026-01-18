@@ -15,6 +15,7 @@
 | [09-resources.md](09-resources.md) | Further reading and citations |
 | [10-actions.md](10-actions.md) | What citizens can do |
 | [11-legislation.md](11-legislation.md) | Draft legal text and model legislation |
+| [12-perspectives.md](12-perspectives.md) | Political perspectives analysis with scoring and compromise proposals |
 
 ---
 
