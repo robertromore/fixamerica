@@ -51,7 +51,7 @@ When the user runs this command with arguments `$ARGUMENTS`:
 
    **For each perspective, generate:**
 
-   a. **Faith Level Assessment (1-5)**:
+   a. **Engagement Consistency Assessment (1-5)**:
       - Evaluate stated vs actual motivations
       - Check for principle consistency across contexts
       - Look for goalpost movement patterns
@@ -80,7 +80,7 @@ When the user runs this command with arguments `$ARGUMENTS`:
 
    **Legislation Support Matrix**: Compact grid showing support levels
 
-   **Faith Level Distribution**: Count by level, list perspectives in each
+   **Engagement Consistency Distribution**: Count by level, list perspectives in each
 
    **Common Ground Synthesis**: Matrix showing which reforms have broad support (5+), narrow support (3-4), and structural opposition
 
@@ -92,7 +92,7 @@ When the user runs this command with arguments `$ARGUMENTS`:
    - Describe specific policy
    - Map how it addresses each perspective's concerns
    - List concessions each side makes
-   - Assess viability (coalition size, good faith ratio, durability)
+   - Assess viability (coalition size, high consistency ratio, durability)
 
    **Compromise identification strategy:**
    - Look for solutions with support from 5+ perspectives
@@ -104,16 +104,16 @@ When the user runs this command with arguments `$ARGUMENTS`:
 7. **Generate strategic implications**:
    - Most viable coalition
    - Key obstacles to agreement
-   - How to handle bad faith actors
+   - How to handle low consistency partners
    - Recommended approach for reform advocates
 
 8. **Write output file** to `analysis/<domain>/<subtopic>/12-perspectives.md`
 
 9. **Report results**:
-   - Summary of faith level distribution
+   - Summary of engagement consistency distribution
    - Highest-support solutions
    - Most viable compromise proposals
-   - Note any perspectives with very low faith scores
+   - Note any perspectives with very low consistency scores
 
 ## Scoring Rubrics
 
@@ -128,23 +128,22 @@ When the user runs this command with arguments `$ARGUMENTS`:
 | 3-4 | Substantial disagreement | "Fundamentally misguided approach" |
 | 1-2 | Strong opposition | "Completely wrong, would make things worse" |
 
-### Faith Levels (1-5)
+### Engagement Consistency (1-5)
 
 | Level | Label | Indicators |
 |-------|-------|------------|
-| 5 | Full Good Faith | Consistent principles; stated = actual; willing to compromise; acknowledges valid opposing points |
-| 4 | Mostly Good Faith | Generally consistent; minor strategic exceptions; engaged in good faith |
-| 3 | Mixed Faith | Some genuine + some strategic; selective engagement; sometimes moves goalposts |
-| 2 | Mostly Bad Faith | Pretextual objections; goalposts move regularly; selective principles; stated ≠ actual |
-| 1 | Full Bad Faith | Pure obstruction; zero-sum warfare; oppose because opponents support; no consistent principles |
+| 5 | Highly Consistent | Stated positions reflect underlying principles; positions stable when concerns addressed |
+| 4 | Mostly Consistent | Principles generally align with positions; minor strategic flexibility |
+| 3 | Mixed Consistency | Some positions principled, others reflect coalition pressures or unstated concerns |
+| 2 | Low Consistency | Positions shift frequently; stated concerns differ from underlying priorities |
+| 1 | Unpredictable | Positions appear driven primarily by opposition dynamics rather than principles |
 
-### Bad Faith Indicators to Look For
+### Coalition-Building Considerations
 
-- **Hidden interests**: Donor protection, incumbent protection, partisan advantage disguised as principle
-- **Zero-sum mindset**: "If they support it, we oppose it" regardless of policy merits
-- **Movable goalposts**: Objections change when concerns are addressed
-- **Selective principles**: "States' rights" only when convenient; "free speech" only for allies
-- **Pretextual arguments**: Stated concerns not the real reasons for opposition
+- **Alignment gap**: When stated concerns differ from underlying priorities, addressing stated concerns may not secure support
+- **Position stability**: Perspectives with shifting positions require ongoing negotiation
+- **Principle consistency**: Perspectives that apply principles uniformly are more predictable partners
+- **Internal diversity**: Some perspectives contain factions with different priorities
 
 ## Perspective Roleplay Guidelines
 
@@ -173,9 +172,9 @@ When roleplaying each perspective, embody their:
 ```markdown
 ### Conservative Perspective
 
-#### Faith Level Assessment
+#### Engagement Consistency Assessment
 
-**Score: 4/5 - Mostly Good Faith**
+**Score: 4/5 - Mostly Consistent**
 
 | Indicator | Assessment |
 |-----------|------------|
@@ -198,5 +197,5 @@ When roleplaying each perspective, embody their:
 
 - **Topics with no legislation**: Skip legislation evaluation, note in output
 - **Topics with many solutions**: Group similar solutions, provide range scores
-- **High controversy topics**: Be especially careful about faith assessments; cite specific evidence
+- **High controversy topics**: Be especially careful about consistency assessments; cite specific evidence
 - **Perspectives not relevant**: Some perspectives may have no strong position; note as "No strong position (N/A)"

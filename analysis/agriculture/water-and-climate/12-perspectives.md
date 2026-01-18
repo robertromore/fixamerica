@@ -18,9 +18,9 @@
 
 ### Conservative Perspective
 
-#### Faith Level Assessment
+#### Engagement Consistency Assessment
 
-**Score: 4/5 - Mostly Good Faith**
+**Score: 4/5 - Mostly Consistent**
 
 | Indicator | Assessment |
 | --- | --- |
@@ -57,9 +57,9 @@
 
 ### Liberal Perspective
 
-#### Faith Level Assessment
+#### Engagement Consistency Assessment
 
-**Score: 4/5 - Mostly Good Faith**
+**Score: 4/5 - Mostly Consistent**
 
 | Indicator | Assessment |
 | --- | --- |
@@ -96,9 +96,9 @@
 
 ### Progressive Perspective
 
-#### Faith Level Assessment
+#### Engagement Consistency Assessment
 
-**Score: 4/5 - Mostly Good Faith**
+**Score: 4/5 - Mostly Consistent**
 
 | Indicator | Assessment |
 | --- | --- |
@@ -135,9 +135,9 @@
 
 ### Libertarian Perspective
 
-#### Faith Level Assessment
+#### Engagement Consistency Assessment
 
-**Score: 4/5 - Mostly Good Faith**
+**Score: 4/5 - Mostly Consistent**
 
 | Indicator | Assessment |
 | --- | --- |
@@ -174,9 +174,9 @@
 
 ### Constitutionalist Perspective
 
-#### Faith Level Assessment
+#### Engagement Consistency Assessment
 
-**Score: 3/5 - Mixed Faith**
+**Score: 3/5 - Mixed Consistency**
 
 | Indicator | Assessment |
 | --- | --- |
@@ -213,9 +213,9 @@
 
 ### Populist Perspective
 
-#### Faith Level Assessment
+#### Engagement Consistency Assessment
 
-**Score: 3/5 - Mixed Faith**
+**Score: 3/5 - Mixed Consistency**
 
 | Indicator | Assessment |
 | --- | --- |
@@ -252,9 +252,9 @@
 
 ### Centrist Perspective
 
-#### Faith Level Assessment
+#### Engagement Consistency Assessment
 
-**Score: 4/5 - Mostly Good Faith**
+**Score: 4/5 - Mostly Consistent**
 
 | Indicator | Assessment |
 | --- | --- |
@@ -291,9 +291,9 @@
 
 ### Religious Right Perspective
 
-#### Faith Level Assessment
+#### Engagement Consistency Assessment
 
-**Score: 4/5 - Mostly Good Faith**
+**Score: 4/5 - Mostly Consistent**
 
 | Indicator | Assessment |
 | --- | --- |
@@ -330,9 +330,9 @@
 
 ### Democratic Socialist Perspective
 
-#### Faith Level Assessment
+#### Engagement Consistency Assessment
 
-**Score: 4/5 - Mostly Good Faith**
+**Score: 4/5 - Mostly Consistent**
 
 | Indicator | Assessment |
 | --- | --- |
@@ -380,7 +380,7 @@
 
 ### Master Comparison Table
 
-| Perspective | Faith Level | Current State | Root Causes | Avg Solution Support | Avg Bill Support |
+| Perspective | Consistency | Current State | Root Causes | Avg Solution Support | Avg Bill Support |
 | --- | --- | --- | --- | --- | --- |
 | Conservative | 4 | 6 | 5 | 5.3 | 5.3 |
 | Liberal | 4 | 7 | 7 | 7.5 | 7.5 |
@@ -420,12 +420,12 @@
 | Religious Right | 6 | 6 | 5 | 5 |
 | Democratic Socialist | 8 | 8 | 8 | 7 |
 
-### Faith Level Distribution
+### Engagement Consistency Distribution
 
-| Faith Level | Perspectives |
+| Consistency | Perspectives |
 | --- | --- |
-| 4 (Mostly Good Faith) | Conservative, Liberal, Progressive, Libertarian, Centrist, Religious Right, Democratic Socialist |
-| 3 (Mixed Faith) | Constitutionalist, Populist |
+| 4 (Mostly Consistent) | Conservative, Liberal, Progressive, Libertarian, Centrist, Religious Right, Democratic Socialist |
+| 3 (Mixed Consistency) | Constitutionalist, Populist |
 | 2 or 1 | None |
 
 ### Common Ground Synthesis

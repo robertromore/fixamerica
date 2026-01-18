@@ -74,7 +74,7 @@ The 12-perspectives.md file evaluates each topic through 9 political viewpoints:
 
 Each perspective is scored on:
 
-- **Faith Level (1-5)**: Good vs bad faith engagement
+- **Engagement Consistency (1-5)**: How reliably stated positions align with principles
 - **Position Scores (1-10)**: Agreement with analysis, root causes, solutions, legislation
 - **Coalition Potential**: Natural allies and bridges
 

@@ -6,11 +6,11 @@ freshness:
   sections:
     - name: "Legislation Evaluations"
       data-year: 2025
-    - name: "Faith Level Assessment"
+    - name: "Engagement Consistency Assessment"
       data-year: 2025
 notes:
   - Revisit after 119th Congress campaign finance votes to update legislation status.
-  - Flag any new Supreme Court campaign finance rulings for faith-level reassessment.
+  - Flag any new Supreme Court campaign finance rulings for engagement-consistency reassessment.
   - Update after 2026 midterms to reflect any changed party positions.
 sources:
   count: 18
@@ -22,7 +22,7 @@ sources:
 
 ## Overview
 
-This document analyzes campaign finance reform through nine distinct political perspectives, evaluating current state assessments, root cause analyses, proposed solutions, and legislation. Each perspective receives faith-level ratings and position scores, culminating in compromise proposals that bridge multiple viewpoints.
+This document analyzes campaign finance reform through nine distinct political perspectives, evaluating current state assessments, root cause analyses, proposed solutions, and legislation. Each perspective receives engagement-consistency ratings and position scores, culminating in compromise proposals that bridge multiple viewpoints.
 
 ## Perspective Definitions
 
@@ -50,15 +50,15 @@ This document analyzes campaign finance reform through nine distinct political p
 | 3-4 | Substantial disagreement |
 | 1-2 | Strong opposition |
 
-### Faith Levels (1-5)
+### Engagement Consistency (1-5)
 
 | Level | Label | Indicators |
 |-------|-------|------------|
-| 5 | Full Good Faith | Stated motivations = actual motivations; consistent principles across contexts |
-| 4 | Mostly Good Faith | Genuine beliefs with minor strategic exceptions |
-| 3 | Mixed Faith | Some genuine concerns combined with some strategic positioning |
-| 2 | Mostly Bad Faith | Pretextual objections; goalposts move; selective principle application |
-| 1 | Full Bad Faith | Pure obstruction; zero-sum warfare; oppose because opponents support |
+| 5 | Highly Consistent | Stated motivations = actual motivations; consistent principles across contexts |
+| 4 | Mostly Consistent | Genuine beliefs with minor strategic exceptions |
+| 3 | Mixed Consistency | Some genuine concerns combined with some strategic positioning |
+| 2 | Low Consistency | Pretextual objections; goalposts move; selective principle application |
+| 1 | Unpredictable | Pure obstruction; zero-sum warfare; oppose because opponents support |
 
 **Bad Faith Indicators:**
 
@@ -86,9 +86,9 @@ This document analyzes campaign finance reform through nine distinct political p
 
 ### Conservative Perspective
 
-#### Faith Level Assessment
+#### Engagement Consistency Assessment
 
-**Score: 3/5 - Mixed Faith**
+**Score: 3/5 - Mixed Consistency**
 
 | Indicator | Assessment |
 |-----------|------------|
@@ -156,9 +156,9 @@ This document analyzes campaign finance reform through nine distinct political p
 
 ### Liberal Perspective
 
-#### Faith Level Assessment
+#### Engagement Consistency Assessment
 
-**Score: 4/5 - Mostly Good Faith**
+**Score: 4/5 - Mostly Consistent**
 
 | Indicator | Assessment |
 |-----------|------------|
@@ -214,9 +214,9 @@ This document analyzes campaign finance reform through nine distinct political p
 
 ### Progressive Perspective
 
-#### Faith Level Assessment
+#### Engagement Consistency Assessment
 
-**Score: 5/5 - Full Good Faith**
+**Score: 5/5 - Highly Consistent**
 
 | Indicator | Assessment |
 |-----------|------------|
@@ -280,9 +280,9 @@ This document analyzes campaign finance reform through nine distinct political p
 
 ### Libertarian Perspective
 
-#### Faith Level Assessment
+#### Engagement Consistency Assessment
 
-**Score: 4/5 - Mostly Good Faith**
+**Score: 4/5 - Mostly Consistent**
 
 | Indicator | Assessment |
 |-----------|------------|
@@ -339,9 +339,9 @@ This document analyzes campaign finance reform through nine distinct political p
 
 ### Constitutionalist Perspective
 
-#### Faith Level Assessment
+#### Engagement Consistency Assessment
 
-**Score: 3/5 - Mixed Faith**
+**Score: 3/5 - Mixed Consistency**
 
 | Indicator | Assessment |
 |-----------|------------|
@@ -398,9 +398,9 @@ This document analyzes campaign finance reform through nine distinct political p
 
 ### Populist Perspective
 
-#### Faith Level Assessment
+#### Engagement Consistency Assessment
 
-**Score: 4/5 - Mostly Good Faith**
+**Score: 4/5 - Mostly Consistent**
 
 | Indicator | Assessment |
 |-----------|------------|
@@ -457,9 +457,9 @@ This document analyzes campaign finance reform through nine distinct political p
 
 ### Centrist Perspective
 
-#### Faith Level Assessment
+#### Engagement Consistency Assessment
 
-**Score: 4/5 - Mostly Good Faith**
+**Score: 4/5 - Mostly Consistent**
 
 | Indicator | Assessment |
 |-----------|------------|
@@ -516,9 +516,9 @@ This document analyzes campaign finance reform through nine distinct political p
 
 ### Religious Right Perspective
 
-#### Faith Level Assessment
+#### Engagement Consistency Assessment
 
-**Score: 3/5 - Mixed Faith**
+**Score: 3/5 - Mixed Consistency**
 
 | Indicator | Assessment |
 |-----------|------------|
@@ -575,9 +575,9 @@ This document analyzes campaign finance reform through nine distinct political p
 
 ### Democratic Socialist Perspective
 
-#### Faith Level Assessment
+#### Engagement Consistency Assessment
 
-**Score: 5/5 - Full Good Faith**
+**Score: 5/5 - Highly Consistent**
 
 | Indicator | Assessment |
 |-----------|------------|
@@ -636,7 +636,7 @@ This document analyzes campaign finance reform through nine distinct political p
 
 ### Master Comparison
 
-| Perspective | Faith | Current State | Root Causes | Solutions Avg | Legislation Avg |
+| Perspective | Consistency | Current State | Root Causes | Solutions Avg | Legislation Avg |
 |-------------|-------|---------------|-------------|---------------|-----------------|
 | Conservative | 3/5 | 5/10 | 3/10 | 2.7/10 | 2.2/10 |
 | Liberal | 4/5 | 9/10 | 8/10 | 8.7/10 | 9.0/10 |
@@ -669,17 +669,17 @@ This document analyzes campaign finance reform through nine distinct political p
 | Government By People | 2 | 9 | 8 | 2 | 2 | 7 | 8 | 3 | 8 |
 | FEC Reform Act | 4 | 9 | 9 | 3 | 3 | 7 | 8 | 4 | 8 |
 
-### Faith Level Distribution
+### Engagement Consistency Distribution
 
 | Level | Count | Perspectives |
 |-------|-------|--------------|
-| 5 - Full Good Faith | 2 | Progressive, Democratic Socialist |
-| 4 - Mostly Good Faith | 4 | Liberal, Libertarian, Populist, Centrist |
-| 3 - Mixed Faith | 3 | Conservative, Constitutionalist, Religious Right |
-| 2 - Mostly Bad Faith | 0 | None |
-| 1 - Full Bad Faith | 0 | None |
+| 5 - Highly Consistent | 2 | Progressive, Democratic Socialist |
+| 4 - Mostly Consistent | 4 | Liberal, Libertarian, Populist, Centrist |
+| 3 - Mixed Consistency | 3 | Conservative, Constitutionalist, Religious Right |
+| 2 - Low Consistency | 0 | None |
+| 1 - Unpredictable | 0 | None |
 
-**Good Faith Majority:** 6/9 perspectives rated 4 or above
+**High Consistency Majority:** 6/9 perspectives rated 4 or above
 
 ### Common Ground Synthesis
 
@@ -739,7 +739,7 @@ Enhanced DISCLOSE Act with protections:
 **Viability Assessment:**
 
 - **Coalition Size:** 5/9 perspectives (6/9 if Libertarian fully on board)
-- **Good Faith Ratio:** 4/5 coalition members rated 4+ faith
+- **High Consistency Ratio:** 4/5 coalition members rated 4+ faith
 - **Durability:** High—disclosure has survived court challenges
 - **Implementation Path:** Legislation requiring simple majority if filibuster reformed; potentially 60 votes given bipartisan appeal
 
@@ -784,7 +784,7 @@ Federal grants to states that implement qualifying public financing programs:
 **Viability Assessment:**
 
 - **Coalition Size:** 5/9 perspectives
-- **Good Faith Ratio:** 5/5 coalition members rated 4+ faith
+- **High Consistency Ratio:** 5/5 coalition members rated 4+ faith
 - **Durability:** High—federalism respected
 - **Implementation Path:** Could attract bipartisan support; federalism framing may draw some conservatives
 
@@ -829,7 +829,7 @@ FEC Reform plus enhanced enforcement:
 **Viability Assessment:**
 
 - **Coalition Size:** 5/9 perspectives
-- **Good Faith Ratio:** 5/5 coalition members rated 4+ faith
+- **High Consistency Ratio:** 5/5 coalition members rated 4+ faith
 - **Durability:** Medium—enforcement depends on political will
 - **Implementation Path:** Could be bipartisan if framed as good government; less threatening than new rules
 

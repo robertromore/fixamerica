@@ -107,7 +107,7 @@ When the user runs this command with arguments `$ARGUMENTS`:
 
    **Required sections** (ERROR if missing and file is not placeholder):
    - [ ] Perspective Definitions table
-   - [ ] Scoring Framework (Position Scores and Faith Levels)
+   - [ ] Scoring Framework (Position Scores and Engagement Consistency)
    - [ ] All 9 perspective sections:
      - [ ] Conservative Perspective
      - [ ] Liberal Perspective
@@ -121,13 +121,13 @@ When the user runs this command with arguments `$ARGUMENTS`:
    - [ ] Summary Tables section with:
      - [ ] Master Comparison table
      - [ ] Solution Support Matrix
-     - [ ] Faith Level Distribution
+     - [ ] Engagement Consistency Distribution
    - [ ] Compromise Proposals section (at least 1 proposal)
    - [ ] Strategic Implications
    - [ ] Document Navigation
 
    **Each perspective section must contain**:
-   - [ ] Faith Level Assessment with score and justification
+   - [ ] Engagement Consistency Assessment with score and justification
    - [ ] Position Scores table (Current State, Root Causes)
    - [ ] Solution Evaluations table
    - [ ] Legislation Evaluations table (if 11-legislation.md has bills)

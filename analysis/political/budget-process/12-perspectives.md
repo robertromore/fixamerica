@@ -6,7 +6,7 @@ freshness:
   sections:
     - name: "Legislation Evaluations"
       data-year: 2025
-    - name: "Faith Level Assessment"
+    - name: "Engagement Consistency Assessment"
       data-year: 2025
 notes:
   - Revisit after any debt ceiling or shutdown crisis to update positions.
@@ -22,7 +22,7 @@ sources:
 
 ## Overview
 
-This document analyzes budget process reform through nine distinct political perspectives, evaluating current state assessments, root cause analyses, proposed solutions, and legislation. Each perspective receives faith-level ratings and position scores, culminating in compromise proposals that bridge multiple viewpoints.
+This document analyzes budget process reform through nine distinct political perspectives, evaluating current state assessments, root cause analyses, proposed solutions, and legislation. Each perspective receives engagement-consistency ratings and position scores, culminating in compromise proposals that bridge multiple viewpoints.
 
 Budget process reform is unusual in that it creates strange bedfellows: fiscal conservatives and progressives may both want process reforms but for opposite policy reasons. The key insight is that positions on budget *process* often reflect desired *outcomes* rather than principled process views.
 
@@ -52,15 +52,15 @@ Budget process reform is unusual in that it creates strange bedfellows: fiscal c
 | 3-4 | Substantial disagreement |
 | 1-2 | Strong opposition |
 
-### Faith Levels (1-5)
+### Engagement Consistency (1-5)
 
 | Level | Label | Indicators |
 |-------|-------|------------|
-| 5 | Full Good Faith | Stated motivations = actual motivations; consistent principles across contexts |
-| 4 | Mostly Good Faith | Genuine beliefs with minor strategic exceptions |
-| 3 | Mixed Faith | Some genuine concerns combined with some strategic positioning |
-| 2 | Mostly Bad Faith | Pretextual objections; goalposts move; selective principle application |
-| 1 | Full Bad Faith | Pure obstruction; zero-sum warfare; oppose because opponents support |
+| 5 | Highly Consistent | Stated motivations = actual motivations; consistent principles across contexts |
+| 4 | Mostly Consistent | Genuine beliefs with minor strategic exceptions |
+| 3 | Mixed Consistency | Some genuine concerns combined with some strategic positioning |
+| 2 | Low Consistency | Pretextual objections; goalposts move; selective principle application |
+| 1 | Unpredictable | Pure obstruction; zero-sum warfare; oppose because opponents support |
 
 ### Legislation Status Reference (as of January 2025)
 
@@ -77,9 +77,9 @@ Budget process reform is unusual in that it creates strange bedfellows: fiscal c
 
 ### Conservative Perspective
 
-#### Faith Level Assessment
+#### Engagement Consistency Assessment
 
-**Score: 2/5 - Mostly Bad Faith**
+**Score: 2/5 - Low Consistency**
 
 | Indicator | Assessment |
 |-----------|------------|
@@ -167,9 +167,9 @@ Conservatives would prefer:
 
 ### Liberal Perspective
 
-#### Faith Level Assessment
+#### Engagement Consistency Assessment
 
-**Score: 4/5 - Mostly Good Faith**
+**Score: 4/5 - Mostly Consistent**
 
 | Indicator | Assessment |
 |-----------|------------|
@@ -254,9 +254,9 @@ Liberals would add:
 
 ### Progressive Perspective
 
-#### Faith Level Assessment
+#### Engagement Consistency Assessment
 
-**Score: 4/5 - Mostly Good Faith**
+**Score: 4/5 - Mostly Consistent**
 
 | Indicator | Assessment |
 |-----------|------------|
@@ -343,9 +343,9 @@ Progressives would prefer:
 
 ### Libertarian Perspective
 
-#### Faith Level Assessment
+#### Engagement Consistency Assessment
 
-**Score: 4/5 - Mostly Good Faith**
+**Score: 4/5 - Mostly Consistent**
 
 | Indicator | Assessment |
 |-----------|------------|
@@ -432,9 +432,9 @@ Libertarians would prefer:
 
 ### Constitutionalist Perspective
 
-#### Faith Level Assessment
+#### Engagement Consistency Assessment
 
-**Score: 3/5 - Mixed Faith**
+**Score: 3/5 - Mixed Consistency**
 
 | Indicator | Assessment |
 |-----------|------------|
@@ -519,9 +519,9 @@ Constitutionalists would prefer:
 
 ### Populist Perspective
 
-#### Faith Level Assessment
+#### Engagement Consistency Assessment
 
-**Score: 3/5 - Mixed Faith**
+**Score: 3/5 - Mixed Consistency**
 
 | Indicator | Assessment |
 |-----------|------------|
@@ -606,9 +606,9 @@ Populists would emphasize:
 
 ### Centrist Perspective
 
-#### Faith Level Assessment
+#### Engagement Consistency Assessment
 
-**Score: 5/5 - Full Good Faith**
+**Score: 5/5 - Highly Consistent**
 
 | Indicator | Assessment |
 |-----------|------------|
@@ -693,9 +693,9 @@ Centrists would add:
 
 ### Religious Right Perspective
 
-#### Faith Level Assessment
+#### Engagement Consistency Assessment
 
-**Score: 3/5 - Mixed Faith**
+**Score: 3/5 - Mixed Consistency**
 
 | Indicator | Assessment |
 |-----------|------------|
@@ -780,9 +780,9 @@ Religious Right would emphasize:
 
 ### Democratic Socialist Perspective
 
-#### Faith Level Assessment
+#### Engagement Consistency Assessment
 
-**Score: 4/5 - Mostly Good Faith**
+**Score: 4/5 - Mostly Consistent**
 
 | Indicator | Assessment |
 |-----------|------------|
@@ -871,7 +871,7 @@ Democratic socialists would prefer:
 
 ### Master Comparison
 
-| Perspective | Faith | Current State | Root Causes | Solutions Avg | Legislation Avg |
+| Perspective | Consistency | Current State | Root Causes | Solutions Avg | Legislation Avg |
 |-------------|-------|---------------|-------------|---------------|-----------------|
 | Conservative | 2/5 | 6/10 | 4/10 | 4.9/10 | 4.3/10 |
 | Liberal | 4/5 | 8/10 | 8/10 | 7.0/10 | 7.5/10 |
@@ -912,17 +912,17 @@ Democratic socialists would prefer:
 | Prevent Shutdowns Act | 3 | 9 | 9 | 3 | 4 | 6 | 9 | 4 | 9 |
 | Budget Process Reform Act | 5 | 7 | 5 | 5 | 5 | 5 | 8 | 5 | 4 |
 
-### Faith Level Distribution
+### Engagement Consistency Distribution
 
 | Level | Count | Perspectives |
 |-------|-------|--------------|
-| 5 - Full Good Faith | 1 | Centrist |
-| 4 - Mostly Good Faith | 4 | Liberal, Progressive, Libertarian, Democratic Socialist |
-| 3 - Mixed Faith | 3 | Constitutionalist, Populist, Religious Right |
-| 2 - Mostly Bad Faith | 1 | Conservative |
-| 1 - Full Bad Faith | 0 | - |
+| 5 - Highly Consistent | 1 | Centrist |
+| 4 - Mostly Consistent | 4 | Liberal, Progressive, Libertarian, Democratic Socialist |
+| 3 - Mixed Consistency | 3 | Constitutionalist, Populist, Religious Right |
+| 2 - Low Consistency | 1 | Conservative |
+| 1 - Unpredictable | 0 | - |
 
-**Good Faith Majority:** 5/9 perspectives rated 4 or above
+**High Consistency Majority:** 5/9 perspectives rated 4 or above
 
 **Note on Conservative Rating:** The 2/5 rating reflects documented inconsistency between stated fiscal principles and actual behavior (debt ceiling raised under Trump without conditions; deficit-increasing tax cuts via reconciliation; shutdown strategies). Individual conservatives may hold principled positions, but the movement's collective behavior on budget process is strategically motivated.
 
@@ -977,7 +977,7 @@ Democratic socialists would prefer:
 **Viability Assessment:**
 
 - **Coalition Size:** 5-6/9 perspectives
-- **Good Faith Ratio:** 4/5 coalition members rated 4+ faith
+- **High Consistency Ratio:** 4/5 coalition members rated 4+ faith
 - **Durability:** High - protects against crisis without removing all urgency
 - **Implementation Path:** Standalone legislation
 
@@ -1018,7 +1018,7 @@ Democratic socialists would prefer:
 **Viability Assessment:**
 
 - **Coalition Size:** 5-6/9 perspectives
-- **Good Faith Ratio:** 4/5 coalition members rated 4+ faith
+- **High Consistency Ratio:** 4/5 coalition members rated 4+ faith
 - **Durability:** Moderate-high - McConnell mechanism has proven durable
 - **Implementation Path:** Statutory reform of debt ceiling
 
@@ -1061,7 +1061,7 @@ Democratic socialists would prefer:
 **Viability Assessment:**
 
 - **Coalition Size:** 5-6/9 perspectives
-- **Good Faith Ratio:** 4/5 coalition members rated 4+ faith
+- **High Consistency Ratio:** 4/5 coalition members rated 4+ faith
 - **Durability:** High - process reforms historically durable
 - **Implementation Path:** Statutory amendment to Budget Act
 
@@ -1104,7 +1104,7 @@ Democratic socialists would prefer:
 **Viability Assessment:**
 
 - **Coalition Size:** 8-9/9 perspectives
-- **Good Faith Ratio:** High across spectrum
+- **High Consistency Ratio:** High across spectrum
 - **Durability:** High - transparency reforms broadly popular
 - **Implementation Path:** House and Senate rules; optional statute
 

@@ -6,7 +6,7 @@ freshness:
   sections:
     - name: "Legislation Evaluations"
       data-year: [CURRENT_YEAR]
-    - name: "Faith Level Assessment"
+    - name: "Engagement Consistency Assessment"
       data-year: [CURRENT_YEAR]
 notes:
   - Revisit after relevant congressional votes to update legislation status.
@@ -22,7 +22,7 @@ sources:
 
 ## Overview
 
-This document analyzes [topic] through nine distinct political perspectives, evaluating current state assessments, root cause analyses, proposed solutions, and legislation. Each perspective receives faith-level ratings and position scores, culminating in compromise proposals that bridge multiple viewpoints.
+This document analyzes [topic] through nine distinct political perspectives, evaluating current state assessments, root cause analyses, proposed solutions, and legislation. Each perspective receives engagement consistency ratings and position scores, culminating in compromise proposals that bridge multiple viewpoints.
 
 ## Perspective Definitions
 
@@ -50,23 +50,24 @@ This document analyzes [topic] through nine distinct political perspectives, eva
 | 3-4 | Substantial disagreement |
 | 1-2 | Strong opposition |
 
-### Faith Levels (1-5)
+### Engagement Consistency (1-5)
+
+This metric assesses how reliably a perspective's stated positions align with its underlying principles, and how stable those positions are when concerns are addressed. Higher scores indicate more predictable negotiating partners.
 
 | Level | Label | Indicators |
 |-------|-------|------------|
-| 5 | Full Good Faith | Stated motivations = actual motivations; consistent principles across contexts |
-| 4 | Mostly Good Faith | Genuine beliefs with minor strategic exceptions |
-| 3 | Mixed Faith | Some genuine concerns combined with some strategic positioning |
-| 2 | Mostly Bad Faith | Pretextual objections; goalposts move; selective principle application |
-| 1 | Full Bad Faith | Pure obstruction; zero-sum warfare; oppose because opponents support |
+| 5 | Highly Consistent | Stated positions reflect underlying principles; positions stable when concerns addressed |
+| 4 | Mostly Consistent | Principles generally align with positions; minor strategic flexibility |
+| 3 | Mixed Consistency | Some positions principled, others reflect coalition pressures or unstated concerns |
+| 2 | Low Consistency | Positions shift frequently; stated concerns differ from underlying priorities |
+| 1 | Unpredictable | Positions appear driven primarily by opposition dynamics rather than principles |
 
-**Bad Faith Indicators:**
+**Coalition-Building Considerations:**
 
-- Hidden interests (stated vs actual motivations differ significantly)
-- Zero-sum mindset (oppose proposals because opponents support them)
-- Movable goalposts (shifting objections when concerns are addressed)
-- Selective principle application (principles apply only when convenient)
-- Pretextual arguments (stated reasons not the real reasons)
+- Alignment gap: When stated concerns differ from underlying priorities, addressing stated concerns may not secure support
+- Position stability: Perspectives with shifting positions require ongoing negotiation
+- Principle consistency: Perspectives that apply principles uniformly are more predictable partners
+- Internal diversity: Some perspectives contain factions with different priorities
 
 ### Legislation Status Reference (as of [DATE])
 
@@ -83,7 +84,7 @@ This document analyzes [topic] through nine distinct political perspectives, eva
 
 ### Conservative Perspective
 
-#### Faith Level Assessment
+#### Engagement Consistency Assessment
 
 **Score: [X]/5 - [Label]**
 
@@ -94,7 +95,7 @@ This document analyzes [topic] through nine distinct political perspectives, eva
 | Goalpost stability | *[Analysis]* |
 | Zero-sum behavior | *[Analysis]* |
 
-**Justification:** *[Explanation of faith level score]*
+**Justification:** *[Explanation of engagement consistency score]*
 
 **Evidence for assessment:**
 
@@ -142,7 +143,7 @@ This document analyzes [topic] through nine distinct political perspectives, eva
 
 ### Liberal Perspective
 
-#### Faith Level Assessment
+#### Engagement Consistency Assessment
 
 **Score: [X]/5 - [Label]**
 
@@ -153,7 +154,7 @@ This document analyzes [topic] through nine distinct political perspectives, eva
 | Goalpost stability | *[Analysis]* |
 | Zero-sum behavior | *[Analysis]* |
 
-**Justification:** *[Explanation of faith level score]*
+**Justification:** *[Explanation of engagement consistency score]*
 
 **Evidence for assessment:**
 
@@ -201,7 +202,7 @@ This document analyzes [topic] through nine distinct political perspectives, eva
 
 ### Progressive Perspective
 
-#### Faith Level Assessment
+#### Engagement Consistency Assessment
 
 **Score: [X]/5 - [Label]**
 
@@ -212,7 +213,7 @@ This document analyzes [topic] through nine distinct political perspectives, eva
 | Goalpost stability | *[Analysis]* |
 | Zero-sum behavior | *[Analysis]* |
 
-**Justification:** *[Explanation of faith level score]*
+**Justification:** *[Explanation of engagement consistency score]*
 
 **Evidence for assessment:**
 
@@ -260,7 +261,7 @@ This document analyzes [topic] through nine distinct political perspectives, eva
 
 ### Libertarian Perspective
 
-#### Faith Level Assessment
+#### Engagement Consistency Assessment
 
 **Score: [X]/5 - [Label]**
 
@@ -271,7 +272,7 @@ This document analyzes [topic] through nine distinct political perspectives, eva
 | Goalpost stability | *[Analysis]* |
 | Zero-sum behavior | *[Analysis]* |
 
-**Justification:** *[Explanation of faith level score]*
+**Justification:** *[Explanation of engagement consistency score]*
 
 **Evidence for assessment:**
 
@@ -319,7 +320,7 @@ This document analyzes [topic] through nine distinct political perspectives, eva
 
 ### Constitutionalist Perspective
 
-#### Faith Level Assessment
+#### Engagement Consistency Assessment
 
 **Score: [X]/5 - [Label]**
 
@@ -330,7 +331,7 @@ This document analyzes [topic] through nine distinct political perspectives, eva
 | Goalpost stability | *[Analysis]* |
 | Zero-sum behavior | *[Analysis]* |
 
-**Justification:** *[Explanation of faith level score]*
+**Justification:** *[Explanation of engagement consistency score]*
 
 **Evidence for assessment:**
 
@@ -378,7 +379,7 @@ This document analyzes [topic] through nine distinct political perspectives, eva
 
 ### Populist Perspective
 
-#### Faith Level Assessment
+#### Engagement Consistency Assessment
 
 **Score: [X]/5 - [Label]**
 
@@ -389,7 +390,7 @@ This document analyzes [topic] through nine distinct political perspectives, eva
 | Goalpost stability | *[Analysis]* |
 | Zero-sum behavior | *[Analysis]* |
 
-**Justification:** *[Explanation of faith level score]*
+**Justification:** *[Explanation of engagement consistency score]*
 
 **Evidence for assessment:**
 
@@ -437,7 +438,7 @@ This document analyzes [topic] through nine distinct political perspectives, eva
 
 ### Centrist Perspective
 
-#### Faith Level Assessment
+#### Engagement Consistency Assessment
 
 **Score: [X]/5 - [Label]**
 
@@ -448,7 +449,7 @@ This document analyzes [topic] through nine distinct political perspectives, eva
 | Goalpost stability | *[Analysis]* |
 | Zero-sum behavior | *[Analysis]* |
 
-**Justification:** *[Explanation of faith level score]*
+**Justification:** *[Explanation of engagement consistency score]*
 
 **Evidence for assessment:**
 
@@ -496,7 +497,7 @@ This document analyzes [topic] through nine distinct political perspectives, eva
 
 ### Religious Right Perspective
 
-#### Faith Level Assessment
+#### Engagement Consistency Assessment
 
 **Score: [X]/5 - [Label]**
 
@@ -507,7 +508,7 @@ This document analyzes [topic] through nine distinct political perspectives, eva
 | Goalpost stability | *[Analysis]* |
 | Zero-sum behavior | *[Analysis]* |
 
-**Justification:** *[Explanation of faith level score]*
+**Justification:** *[Explanation of engagement consistency score]*
 
 **Evidence for assessment:**
 
@@ -555,7 +556,7 @@ This document analyzes [topic] through nine distinct political perspectives, eva
 
 ### Democratic Socialist Perspective
 
-#### Faith Level Assessment
+#### Engagement Consistency Assessment
 
 **Score: [X]/5 - [Label]**
 
@@ -566,7 +567,7 @@ This document analyzes [topic] through nine distinct political perspectives, eva
 | Goalpost stability | *[Analysis]* |
 | Zero-sum behavior | *[Analysis]* |
 
-**Justification:** *[Explanation of faith level score]*
+**Justification:** *[Explanation of engagement consistency score]*
 
 **Evidence for assessment:**
 
@@ -616,8 +617,8 @@ This document analyzes [topic] through nine distinct political perspectives, eva
 
 ### Master Comparison
 
-| Perspective | Faith | Current State | Root Causes | Solutions Avg | Legislation Avg |
-|-------------|-------|---------------|-------------|---------------|-----------------|
+| Perspective | Consistency | Current State | Root Causes | Solutions Avg | Legislation Avg |
+|-------------|-------------|---------------|-------------|---------------|-----------------|
 | Conservative | [X]/5 | [X]/10 | [X]/10 | [X]/10 | [X]/10 |
 | Liberal | [X]/5 | [X]/10 | [X]/10 | [X]/10 | [X]/10 |
 | Progressive | [X]/5 | [X]/10 | [X]/10 | [X]/10 | [X]/10 |
@@ -643,17 +644,17 @@ This document analyzes [topic] through nine distinct political perspectives, eva
 | *[Bill 1]* | [X] | [X] | [X] | [X] | [X] | [X] | [X] | [X] | [X] |
 | *[Bill 2]* | [X] | [X] | [X] | [X] | [X] | [X] | [X] | [X] | [X] |
 
-### Faith Level Distribution
+### Engagement Consistency Distribution
 
 | Level | Count | Perspectives |
 |-------|-------|--------------|
-| 5 - Full Good Faith | [N] | *[List]* |
-| 4 - Mostly Good Faith | [N] | *[List]* |
-| 3 - Mixed Faith | [N] | *[List]* |
-| 2 - Mostly Bad Faith | [N] | *[List]* |
-| 1 - Full Bad Faith | [N] | *[List]* |
+| 5 - Highly Consistent | [N] | *[List]* |
+| 4 - Mostly Consistent | [N] | *[List]* |
+| 3 - Mixed Consistency | [N] | *[List]* |
+| 2 - Low Consistency | [N] | *[List]* |
+| 1 - Unpredictable | [N] | *[List]* |
 
-**Good Faith Majority:** [X]/9 perspectives rated 4 or above
+**High Consistency Majority:** [X]/9 perspectives rated 4 or above
 
 ### Common Ground Synthesis
 
@@ -700,7 +701,7 @@ This matrix identifies which reforms have potential cross-ideological support an
 **Viability Assessment:**
 
 - **Coalition Size:** [X]/9 perspectives
-- **Good Faith Ratio:** [X]/[X] coalition members rated 4+ faith
+- **High Consistency Ratio:** [X]/[X] coalition members rated 4+ consistency
 - **Durability:** *[Assessment of whether this coalition would hold]*
 - **Implementation Path:** *[How this could be enacted]*
 
@@ -733,7 +734,7 @@ This matrix identifies which reforms have potential cross-ideological support an
 **Viability Assessment:**
 
 - **Coalition Size:** [X]/9 perspectives
-- **Good Faith Ratio:** [X]/[X] coalition members rated 4+ faith
+- **High Consistency Ratio:** [X]/[X] coalition members rated 4+ consistency
 - **Durability:** *[Assessment]*
 - **Implementation Path:** *[How enacted]*
 
@@ -766,7 +767,7 @@ This matrix identifies which reforms have potential cross-ideological support an
 **Viability Assessment:**
 
 - **Coalition Size:** [X]/9 perspectives
-- **Good Faith Ratio:** [X]/[X] coalition members rated 4+ faith
+- **High Consistency Ratio:** [X]/[X] coalition members rated 4+ consistency
 - **Durability:** *[Assessment]*
 - **Implementation Path:** *[How enacted]*
 
@@ -782,9 +783,9 @@ This matrix identifies which reforms have potential cross-ideological support an
 
 *[What prevents broader agreement]*
 
-### Bad Faith Actors
+### Low Consistency Partners
 
-*[How to work around or neutralize bad faith opposition]*
+*[How to work around or address perspectives with unpredictable positions]*
 
 ### Recommended Approach
 

@@ -207,9 +207,9 @@ Each `12-perspectives.md` evaluates the topic through 9 political viewpoints:
 
 **For each perspective:**
 
-- **Faith Level (1-5)**: Assessment of good vs bad faith engagement
-    - 5 = Full Good Faith (stated = actual motivations)
-    - 1 = Full Bad Faith (pure obstruction, zero-sum warfare)
+- **Engagement Consistency (1-5)**: Assessment of how reliably stated positions align with principles
+    - 5 = Highly Consistent (positions stable when concerns addressed)
+    - 1 = Unpredictable (positions driven by opposition dynamics)
 - **Position Scores (1-10)**: Agreement with current state analysis, root causes, solutions, legislation
 - **Alternative Proposals**: What they would support instead
 - **Coalition Potential**: Natural allies and potential bridges
@@ -218,7 +218,7 @@ Each `12-perspectives.md` evaluates the topic through 9 political viewpoints:
 
 - Master comparison table (all perspectives, all dimensions)
 - Solution support matrix
-- Faith level distribution
+- Engagement consistency distribution
 
 **Compromise proposals** identify reforms that could bridge multiple perspectives, mapping how each addresses different concerns and what each side concedes.
 

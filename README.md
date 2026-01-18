@@ -116,7 +116,7 @@ The project includes a political perspectives analysis system that evaluates eac
 
 Each perspective receives:
 
-- **Faith Level (1-5)**: Assessment of good faith engagement with evidence citations
+- **Engagement Consistency (1-5)**: Assessment of how reliably stated positions align with principles
 - **Position Scores (1-10)**: Agreement with current state, root causes, solutions, and legislation
 - **Alternative Proposals**: What each perspective would prefer instead
 - **Coalition Potential**: Natural allies and potential bridges

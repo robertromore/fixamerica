@@ -6,7 +6,7 @@ freshness:
   sections:
     - name: "Legislation Evaluations"
       data-year: 2025
-    - name: "Faith Level Assessment"
+    - name: "Engagement Consistency Assessment"
       data-year: 2025
 notes:
   - Revisit after relevant congressional votes to update legislation status.
@@ -22,7 +22,7 @@ sources:
 
 ## Overview
 
-This document analyzes administrative reform through nine distinct political perspectives, evaluating current state assessments, root cause analyses, proposed solutions, and legislation. Each perspective receives faith-level ratings and position scores, culminating in compromise proposals that bridge multiple viewpoints.
+This document analyzes administrative reform through nine distinct political perspectives, evaluating current state assessments, root cause analyses, proposed solutions, and legislation. Each perspective receives engagement-consistency ratings and position scores, culminating in compromise proposals that bridge multiple viewpoints.
 
 ## Perspective Definitions
 
@@ -50,15 +50,15 @@ This document analyzes administrative reform through nine distinct political per
 | 3-4 | Substantial disagreement |
 | 1-2 | Strong opposition |
 
-### Faith Levels (1-5)
+### Engagement Consistency (1-5)
 
 | Level | Label | Indicators |
 |-------|-------|------------|
-| 5 | Full Good Faith | Stated motivations = actual motivations; consistent principles across contexts |
-| 4 | Mostly Good Faith | Genuine beliefs with minor strategic exceptions |
-| 3 | Mixed Faith | Some genuine concerns combined with some strategic positioning |
-| 2 | Mostly Bad Faith | Pretextual objections; goalposts move; selective principle application |
-| 1 | Full Bad Faith | Pure obstruction; zero-sum warfare; oppose because opponents support |
+| 5 | Highly Consistent | Stated motivations = actual motivations; consistent principles across contexts |
+| 4 | Mostly Consistent | Genuine beliefs with minor strategic exceptions |
+| 3 | Mixed Consistency | Some genuine concerns combined with some strategic positioning |
+| 2 | Low Consistency | Pretextual objections; goalposts move; selective principle application |
+| 1 | Unpredictable | Pure obstruction; zero-sum warfare; oppose because opponents support |
 
 **Bad Faith Indicators:**
 
@@ -85,9 +85,9 @@ This document analyzes administrative reform through nine distinct political per
 
 ### Conservative Perspective
 
-#### Faith Level Assessment
+#### Engagement Consistency Assessment
 
-**Score: 3/5 - Mixed Faith**
+**Score: 3/5 - Mixed Consistency**
 
 | Indicator | Assessment |
 |-----------|------------|
@@ -176,9 +176,9 @@ Conservatives would prefer:
 
 ### Liberal Perspective
 
-#### Faith Level Assessment
+#### Engagement Consistency Assessment
 
-**Score: 4/5 - Mostly Good Faith**
+**Score: 4/5 - Mostly Consistent**
 
 | Indicator | Assessment |
 |-----------|------------|
@@ -265,9 +265,9 @@ Liberals would support these additional reforms:
 
 ### Progressive Perspective
 
-#### Faith Level Assessment
+#### Engagement Consistency Assessment
 
-**Score: 4/5 - Mostly Good Faith**
+**Score: 4/5 - Mostly Consistent**
 
 | Indicator | Assessment |
 |-----------|------------|
@@ -354,9 +354,9 @@ Progressives would add:
 
 ### Libertarian Perspective
 
-#### Faith Level Assessment
+#### Engagement Consistency Assessment
 
-**Score: 4/5 - Mostly Good Faith**
+**Score: 4/5 - Mostly Consistent**
 
 | Indicator | Assessment |
 |-----------|------------|
@@ -443,9 +443,9 @@ Libertarians would prefer:
 
 ### Constitutionalist Perspective
 
-#### Faith Level Assessment
+#### Engagement Consistency Assessment
 
-**Score: 3/5 - Mixed Faith**
+**Score: 3/5 - Mixed Consistency**
 
 | Indicator | Assessment |
 |-----------|------------|
@@ -530,9 +530,9 @@ Constitutionalists would prefer:
 
 ### Populist Perspective
 
-#### Faith Level Assessment
+#### Engagement Consistency Assessment
 
-**Score: 3/5 - Mixed Faith**
+**Score: 3/5 - Mixed Consistency**
 
 | Indicator | Assessment |
 |-----------|------------|
@@ -617,9 +617,9 @@ Populists would emphasize:
 
 ### Centrist Perspective
 
-#### Faith Level Assessment
+#### Engagement Consistency Assessment
 
-**Score: 5/5 - Full Good Faith**
+**Score: 5/5 - Highly Consistent**
 
 | Indicator | Assessment |
 |-----------|------------|
@@ -704,9 +704,9 @@ Centrists would add:
 
 ### Religious Right Perspective
 
-#### Faith Level Assessment
+#### Engagement Consistency Assessment
 
-**Score: 3/5 - Mixed Faith**
+**Score: 3/5 - Mixed Consistency**
 
 | Indicator | Assessment |
 |-----------|------------|
@@ -791,9 +791,9 @@ Religious Right would emphasize:
 
 ### Democratic Socialist Perspective
 
-#### Faith Level Assessment
+#### Engagement Consistency Assessment
 
-**Score: 4/5 - Mostly Good Faith**
+**Score: 4/5 - Mostly Consistent**
 
 | Indicator | Assessment |
 |-----------|------------|
@@ -882,7 +882,7 @@ Democratic socialists would add:
 
 ### Master Comparison
 
-| Perspective | Faith | Current State | Root Causes | Solutions Avg | Legislation Avg |
+| Perspective | Consistency | Current State | Root Causes | Solutions Avg | Legislation Avg |
 |-------------|-------|---------------|-------------|---------------|-----------------|
 | Conservative | 3/5 | 5/10 | 4/10 | 5.1/10 | 3.5/10 |
 | Liberal | 4/5 | 8/10 | 8/10 | 7.7/10 | 8.5/10 |
@@ -923,17 +923,17 @@ Democratic socialists would add:
 | Regulatory Integrity Act | 5 | 8 | 10 | 6 | 5 | 8 | 8 | 5 | 10 |
 | Workforce Modernization Act | 5 | 9 | 8 | 3 | 4 | 5 | 9 | 4 | 10 |
 
-### Faith Level Distribution
+### Engagement Consistency Distribution
 
 | Level | Count | Perspectives |
 |-------|-------|--------------|
-| 5 - Full Good Faith | 1 | Centrist |
-| 4 - Mostly Good Faith | 4 | Liberal, Progressive, Libertarian, Democratic Socialist |
-| 3 - Mixed Faith | 4 | Conservative, Constitutionalist, Populist, Religious Right |
-| 2 - Mostly Bad Faith | 0 | - |
-| 1 - Full Bad Faith | 0 | - |
+| 5 - Highly Consistent | 1 | Centrist |
+| 4 - Mostly Consistent | 4 | Liberal, Progressive, Libertarian, Democratic Socialist |
+| 3 - Mixed Consistency | 4 | Conservative, Constitutionalist, Populist, Religious Right |
+| 2 - Low Consistency | 0 | - |
+| 1 - Unpredictable | 0 | - |
 
-**Good Faith Majority:** 5/9 perspectives rated 4 or above
+**High Consistency Majority:** 5/9 perspectives rated 4 or above
 
 ### Common Ground Synthesis
 
@@ -990,7 +990,7 @@ Democratic socialists would add:
 **Viability Assessment:**
 
 - **Coalition Size:** 5-6/9 perspectives
-- **Good Faith Ratio:** 4/5 coalition members rated 4+ faith
+- **High Consistency Ratio:** 4/5 coalition members rated 4+ faith
 - **Durability:** High - addresses real problems without touching ideological flash points
 - **Implementation Path:** Standalone legislation or appropriations rider
 
@@ -1032,7 +1032,7 @@ Democratic socialists would add:
 **Viability Assessment:**
 
 - **Coalition Size:** 5-7/9 perspectives
-- **Good Faith Ratio:** 4/5 coalition members rated 4+ faith
+- **High Consistency Ratio:** 4/5 coalition members rated 4+ faith
 - **Durability:** Moderate-high - broad agreement on capture problem
 - **Implementation Path:** Standalone ethics legislation
 
@@ -1073,7 +1073,7 @@ Democratic socialists would add:
 **Viability Assessment:**
 
 - **Coalition Size:** 4-5/9 perspectives
-- **Good Faith Ratio:** 4/4 coalition members rated 4+ faith
+- **High Consistency Ratio:** 4/4 coalition members rated 4+ faith
 - **Durability:** Moderate - requires both parties to accept symmetric constraints
 - **Implementation Path:** Senate rules change + statutory reform
 
@@ -1113,7 +1113,7 @@ Democratic socialists would add:
 **Viability Assessment:**
 
 - **Coalition Size:** 4-5/9 perspectives
-- **Good Faith Ratio:** 4/4 coalition members rated 4+ faith
+- **High Consistency Ratio:** 4/4 coalition members rated 4+ faith
 - **Durability:** Moderate - scientific integrity has bipartisan history
 - **Implementation Path:** Executive order or standalone legislation
 

@@ -4,28 +4,29 @@
 
 ## Pending Tasks
 
+*(None currently)*
+
+---
+
+## Completed Tasks
+
 ### Terminology Update: "Faith Level" → "Engagement Consistency"
 
-**Status:** [ ] Not started
+**Status:** [x] Completed (2026-01-17)
 
-**Priority:** Medium
+**Summary:** Updated all "Faith Level" terminology to "Engagement Consistency" across the project.
 
-**Background:** The "Faith Level" scoring in political perspectives analysis documents was reframed to "Engagement Consistency" to avoid adversarial motive-attribution that undermines coalition-building credibility. This change was implemented in the ICS proposal's 30-perspectives.md and should be applied project-wide.
+**Files Updated:**
 
-**Changes Required:**
+- `docs/templates/12-perspectives.md` - Template rewritten with new terminology
+- `CLAUDE.md` - Project instructions updated
+- `README.md` - Analysis description updated
+- `.claude/commands/analyze-perspectives.md` - Command rewritten
+- `.claude/commands/validate-topic.md` - Validation rules updated
+- `analysis/01-overview.md` - Overview description updated
+- 38 `12-perspectives.md` files across all analysis subdirectories
 
-1. **Update template file:**
-   - `docs/templates/12-perspectives.md`
-
-2. **Update existing perspective files (26 files):**
-
-   | Domain | Files |
-   |--------|-------|
-   | `analysis/political/` | campaign-finance, administrative-reform, budget-process |
-   | `analysis/aging/` | root + social-security, long-term-care, caregiving-workforce, elder-abuse, dementia, end-of-life, senior-poverty, geriatric-workforce, technology |
-   | `analysis/agriculture/` | root + competition-and-regulation, conservation-program-delivery, energy-and-circular-economy, farm-finance-and-land-access, farm-labor-equity, nutrition-and-food-security, rural-infrastructure, soil-health, supply-chain-resilience, technology-and-innovation-policy, trade-and-exports, water-and-climate |
-
-**Terminology Mapping:**
+**Terminology Mapping Applied:**
 
 | Old Term | New Term |
 |----------|----------|
@@ -36,21 +37,7 @@
 | Mostly Bad Faith (2) | Low Consistency (2) |
 | Full Bad Faith (1) | Unpredictable (1) |
 | Bad Faith Indicators | Coalition-Building Considerations |
-| Bad Faith Actors | Managing Structural Opposition |
-| Good Faith Ratio | Consistency Ratio |
+| Good Faith Ratio | High Consistency Ratio |
 | Faith Level Distribution | Engagement Consistency Distribution |
-
-**Rationale:** "Engagement Consistency" measures predictability as a negotiating partner rather than attributing motives. This framing:
-- Focuses on observable behavior patterns
-- Avoids adversarial labeling
-- Maintains analytical utility while supporting coalition-building goals
-
-**Reference:** See `plans/reforms/immigration/immigration-corridor-system/30-perspectives.md` for the updated format.
-
----
-
-## Completed Tasks
-
-*(None yet)*
 
 ---
