@@ -22,7 +22,8 @@ FixAmerica/
 |-----------|-------|-------|-------------|
 | **Analysis** | 967 | 270K+ | Research across 23 domains |
 | **Legislation** | 62 | 57K | Draft bills, amendments, regulations |
-| **Plans** | 20 | 9.5K | Implementation strategies |
+| **Plans** | 49 | 65K+ | Implementation strategies and proposals |
+| **Simulations** | 15 | 4K+ | Electoral and fiscal modeling code |
 
 ## Policy Domains
 
@@ -88,7 +89,20 @@ Each topic uses a standardized 12-file structure:
 
 ## Implementation Plans
 
-**Regional Federalism** - A comprehensive constitutional redesign proposal with stress-testing, safeguards, and transition planning (23 documents).
+**[Regional Federalism](plans/constitutional-amendments/comprehensive/regional-federalism/README.md)** - A comprehensive constitutional redesign proposal (49 documents):
+
+- Constitutional text with 7-region structure
+- Stress-testing against policy conflicts, economic tensions, and authoritarian scenarios
+- Safeguards playbook and transition legislation
+- 24 proposal documents covering interregional cooperation, elections, rights, boundaries, and emergencies
+- Policy application guides for healthcare and housing
+
+**[Regional Federalism Simulations](implementations/alternative-system-simulations/regional-federalism/README.md)** - Data-driven validation of the Regional Federalism proposal:
+
+- Presidential election simulations (EC vs NPV+RCV) for 2016, 2020, 2024
+- House proportional representation model (D'Hondt method)
+- Senate regional composition model (14 seats + DC)
+- Fiscal equalization calculator and 20-year convergence projections
 
 ## Documentation
 

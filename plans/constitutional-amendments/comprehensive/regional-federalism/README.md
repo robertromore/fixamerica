@@ -77,6 +77,69 @@ How the constitutional framework applies to specific policy domains.
 | 24 | [Healthcare Policy](06-policy-applications/01-healthcare.md) | How healthcare governance works under regional federalism |
 | 25 | [Housing Policy](06-policy-applications/02-housing.md) | How housing governance works under regional federalism |
 
+### Phase 7: Proposals
+
+Enabling legislation, statutory frameworks, and implementation guidance for specific aspects of the system. These documents provide detailed operational rules for areas authorized by the constitution.
+
+#### Inter-Regional Cooperation
+
+| # | Document | Description |
+|---|----------|-------------|
+| 26 | [Joint Authority Template](proposals/interregional-joint-authority-template.md) | Constitutional default governance structure for joint authorities |
+| 27 | [Interregional Agency Compact Act](proposals/interregional-agency-compact-act.md) | Framework for creating opt-in policy-making interregional agencies |
+| 28 | [Interregional Shared Services Authority Act](proposals/interregional-shared-services-authority-act.md) | Shared back-office services for interregional agencies |
+| 29 | [Interregional Coordination Review Act](proposals/interregional-coordination-review-act.md) | Procedures for reviewing coordination arrangements |
+
+#### Electoral and Institutional
+
+| # | Document | Description |
+|---|----------|-------------|
+| 30 | [Presidential Majority Failure RCV](proposals/presidential-majority-failure-automatic-rcv.md) | Automatic ranked-choice voting when no majority |
+| 31 | [Senate Safeguard Concurrence Act](proposals/senate-safeguard-concurrence-act.md) | Procedural safeguards for Senate operations |
+
+#### Rights and Due Process
+
+| # | Document | Description |
+|---|----------|-------------|
+| 32 | [Dual-Legitimacy Rights Floor Statute](proposals/dual-legitimacy-rights-floor-statute.md) | Implementation of DLRS rights floors |
+| 33 | [De-Escalation Procedures Act](proposals/de-escalation-procedures-act.md) | Conflict de-escalation mechanisms |
+| 34 | [Contested Domains Guidance](proposals/contested-domains-guidance.md) | Framework for contested policy areas |
+
+#### Geographic and Boundaries
+
+| # | Document | Description |
+|---|----------|-------------|
+| 35 | [Boundary Review Act](proposals/boundary-review-act.md) | Procedures for regional boundary adjustments |
+| 36 | [DC Status Determination Act](proposals/dc-status-determination-act.md) | DC integration and representation |
+| 37 | [Territories Status Act](proposals/territories-status-act.md) | Territory status and integration pathways |
+
+#### Cross-Jurisdictional Coordination
+
+| # | Document | Description |
+|---|----------|-------------|
+| 38 | [Water Resources Coordination Act](proposals/water-resources-coordination-act.md) | Transboundary water management |
+| 39 | [Transboundary Environmental Protection Act](proposals/transboundary-environmental-protection-act.md) | Cross-regional environmental coordination |
+| 40 | [National Common Market Access Act](proposals/national-common-market-access-act.md) | Economic mobility and market access |
+| 41 | [Interstate Professional Licensing Act](proposals/interstate-professional-licensing-act.md) | Professional licensing reciprocity |
+| 42 | [Interstate Law Enforcement Cooperation Act](proposals/interstate-law-enforcement-cooperation-act.md) | Law enforcement coordination framework |
+
+#### Emergency and Crisis Management
+
+| # | Document | Description |
+|---|----------|-------------|
+| 43 | [Public Health Emergency Coordination](proposals/public-health-emergency-coordination.md) | Public health emergency response |
+| 44 | [Climate Emergency Coordination](proposals/climate-emergency-coordination.md) | Climate crisis coordination |
+| 45 | [Nuclear and Hazardous Materials](proposals/nuclear-hazardous-materials.md) | Nuclear/hazardous materials governance |
+
+#### Specialized Areas
+
+| # | Document | Description |
+|---|----------|-------------|
+| 46 | [Regional Guard Accountability](proposals/regional-guard-accountability.md) | Regional Guard oversight and accountability |
+| 47 | [Digital and AI Governance](proposals/digital-ai-governance.md) | Digital technology and AI governance |
+| 48 | [Tribal-Regional Relations](proposals/tribal-regional-relations.md) | Tribal sovereignty and regional coordination |
+| 49 | [Criminal Justice Coordination](proposals/criminal-justice-coordination.md) | Cross-jurisdictional criminal justice |
+
 ## Key Design Principles
 
 1. **Distribute power** - No single institution can dominate
@@ -107,10 +170,11 @@ These plans originated as articles in the Regional Federal Constitution but have
 
 ## Document Statistics
 
-- **Total documents:** 25
-- **Total content:** ~215,000 words
+- **Total documents:** 49
+- **Total content:** ~280,000 words
 - **Constitutional text:** ~8,000 words
 - **Enabling legislation:** ~15,000 words
+- **Proposal documents:** ~50,000 words
 
 ## Related Materials
 
