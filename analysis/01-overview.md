@@ -20,6 +20,11 @@ This directory contains comprehensive analysis of 23 major policy domains in the
 | [Housing](housing/01-overview.md) | 10 | **Complete** | 0/10 (0%) | Needs perspectives |
 | [Labor](labor/01-overview.md) | 10 | **Complete** | 0/10 (0%) | Needs perspectives |
 | [Social](social/01-overview.md) | 10 | **Complete** | 0/10 (0%) | Needs perspectives |
+| [Environment](environment/01-overview.md) | 10 | **Complete** | 0/10 (0%) | Needs perspectives |
+| [Immigration](immigration/01-overview.md) | 9 | **Complete** | 0/9 (0%) | Needs perspectives |
+| [Infrastructure](infrastructure/01-overview.md) | 10 | **Complete** | 0/10 (0%) | Needs perspectives |
+| [Media](media/01-overview.md) | 8 | **Complete** | 0/8 (0%) | Needs perspectives |
+| [Technology](technology/01-overview.md) | 8 | **Complete** | 0/8 (0%) | Needs perspectives |
 
 ### Simple Domains - Need Files 02-10 Expansion
 
@@ -30,14 +35,9 @@ These domains have skeleton template files (placeholder text only) that need sub
 | [Defense](defense/01-overview.md) | Skeleton | Missing | **Needs expansion** |
 | [Disability](disability/01-overview.md) | Skeleton | Missing | **Needs expansion** |
 | [Drugs](drugs/01-overview.md) | Skeleton | Missing | **Needs expansion** |
-| [Environment](environment/01-overview.md) | Skeleton | Missing | **Needs expansion** |
-| [Immigration](immigration/01-overview.md) | Skeleton | Missing | **Needs expansion** |
-| [Infrastructure](infrastructure/01-overview.md) | Skeleton | Missing | **Needs expansion** |
-| [Media](media/01-overview.md) | Skeleton | Missing | **Needs expansion** |
 | [Mental Health](mental-health/01-overview.md) | Skeleton | Missing | **Needs expansion** |
 | [Privacy](privacy/01-overview.md) | Skeleton | Missing | **Needs expansion** |
 | [Science](science/01-overview.md) | Skeleton | Missing | **Needs expansion** |
-| [Technology](technology/01-overview.md) | Skeleton | Missing | **Needs expansion** |
 | [Tribal](tribal/01-overview.md) | Skeleton | Missing | **Needs expansion** |
 | [Veterans](veterans/01-overview.md) | Skeleton | Missing | **Needs expansion** |
 
@@ -86,25 +86,20 @@ Generate with: `/analyze-perspectives <domain>/<subtopic>`
 
 ### Priority 1: Expand Simple Domain Files 02-10
 
-13 domains need their files 02-10 expanded from skeleton templates to substantive content:
+8 domains need their files 02-10 expanded from skeleton templates to substantive content:
 
 | Domain | Files to Expand |
 |--------|-----------------|
 | Defense | 02-current-state through 10-actions |
 | Disability | 02-current-state through 10-actions |
 | Drugs | 02-current-state through 10-actions |
-| Environment | 02-current-state through 10-actions |
-| Immigration | 02-current-state through 10-actions |
-| Infrastructure | 02-current-state through 10-actions |
-| Media | 02-current-state through 10-actions |
 | Mental Health | 02-current-state through 10-actions |
 | Privacy | 02-current-state through 10-actions |
 | Science | 02-current-state through 10-actions |
-| Technology | 02-current-state through 10-actions |
 | Tribal | 02-current-state through 10-actions |
 | Veterans | 02-current-state through 10-actions |
 
-**Total: 117 files need expansion** (13 domains x 9 files each)
+**Total: 72 files need expansion** (8 domains x 9 files each)
 
 ### Priority 2: Perspectives Analysis (12-perspectives.md)
 
@@ -125,9 +120,14 @@ These political subtopics need 12-perspectives.md:
 | Housing | 10 subtopics |
 | Labor | 10 subtopics |
 | Social | 10 subtopics |
-| Simple domains | 13 domain-level files |
+| Environment | 10 subtopics |
+| Immigration | 9 subtopics |
+| Infrastructure | 10 subtopics |
+| Media | 8 subtopics |
+| Technology | 8 subtopics |
+| Simple domains | 8 domain-level files |
 
-**Total: 135 perspectives files needed**
+**Total: 175 perspectives files needed**
 
 ### Completed Perspectives
 
@@ -152,11 +152,11 @@ These political subtopics need 12-perspectives.md:
 ## Statistics
 
 - **Total domains**: 23
-- **Domains with full content (files 02-10)**: 10
-- **Domains needing file expansion**: 13
-- **Total subtopics**: 135
-- **Files needing expansion**: 117 (13 domains x 9 files)
-- **12-Perspectives complete**: 13/148 (9%)
+- **Domains with full content (files 02-10)**: 15
+- **Domains needing file expansion**: 8
+- **Total subtopics**: 188
+- **Files needing expansion**: 72 (8 domains x 9 files)
+- **12-Perspectives complete**: 13/188 (7%)
 - **Fully complete domain**: 1 (aging)
 
 ---
