@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: General Discussion
+    url: https://github.com/fixamerica/fixamerica/discussions
+    about: For general questions or discussion that don't fit the templates above
