@@ -75,7 +75,7 @@ MCF preserves options for future justice processes without establishing them.
 | **ICC jurisdiction** | MCF does not affect ICC jurisdiction |
 | **Evidence** | MCF documentation available per ICC process |
 | **Cooperation** | MCF cooperates with ICC requests |
-| **Impact** | ICC indictment does not automatically affect CMS |
+| **Impact** | ICC warrant does not automatically affect CMS; triggers process per Section "ICC Warrant Holders" |
 
 **National Criminal Courts:**
 
@@ -213,9 +213,13 @@ CMS participation does not provide immunity from accountability for serious crim
 
 | Status | CMS Eligibility |
 |--------|-----------------|
-| **Under investigation** | Eligible (presumption of innocence) |
+| **Under routine investigation** | Eligible (presumption of innocence) |
+| **Under active security investigation** | Eligibility suspended pending resolution per [CMS Framework Section 2.1](../02-phase-1-civic-membership/01-cms-framework.md) |
+| **Under ICC/international tribunal investigation** | Eligibility suspended pending resolution (same treatment as active security investigation) |
 | **Charged** | Case-by-case; depends on charge severity |
 | **Pending trial** | Generally eligible unless serious charges |
+
+**Investigation Harmonization:** The CMS Framework suspends eligibility for individuals under "active security investigation." This document applies the same suspension to individuals under active ICC or international tribunal investigation, ensuring consistency. The distinction between "routine investigation" (eligible) and "active security/international investigation" (suspended) reflects the seriousness of the allegations and the need for resolution before MCF participation.
 
 **Post-Conviction:**
 
@@ -223,8 +227,10 @@ CMS participation does not provide immunity from accountability for serious crim
 |------------|------------|
 | **Minor offenses** | No automatic effect |
 | **Serious crimes** | Grounds for revocation review |
-| **War crimes/crimes against humanity** | Presumptive revocation |
-| **Terrorism** | Automatic revocation |
+| **War crimes/crimes against humanity** | Presumptive revocation; expedited Review Panel process |
+| **Terrorism** | Presumptive revocation; expedited Review Panel process |
+
+**Due Process Requirement:** All CMS revocations—including for terrorism, war crimes, and crimes against humanity—require the notice/hearing/appeal process specified in [CMS Framework Section 6.3](../02-phase-1-civic-membership/01-cms-framework.md). "Presumptive revocation" means the Review Panel proceeding is expedited and the burden shifts to the holder to show exceptional circumstances; it does not bypass due process. No revocation is truly "automatic."
 
 ### 3. MCF Cooperation with Accountability
 
@@ -308,10 +314,13 @@ MCF designed to operate under any sequencing; does not require particular accoun
 
 **ICC Warrant Holders:**
 
-- CMS suspended or revoked
-- MCF does not harbor
-- Cooperation with ICC surrender requests
-- Due process for MCF status determination
+- CMS **suspended** immediately upon warrant issuance (not revoked)
+- Review Panel convened within 30 days to confirm suspension and set review schedule
+- MCF does not harbor; cooperates with ICC surrender requests
+- Suspension continues until case resolution (conviction, acquittal, or dismissal)
+- Revocation only upon conviction; acquittal or dismissal restores CMS
+
+**Suspension vs. Revocation:** An ICC warrant is a charging document, not a conviction. Consistent with CMS due process requirements and the operational separation principle (MCF does not adjudicate war crimes), warrants trigger immediate suspension but not revocation. The Review Panel's role is procedural—confirming suspension, setting periodic review, and ensuring due process—not evaluating the underlying criminal allegations. Revocation is strictly post-conviction; MCF does not use warrant evidence to independently determine guilt or CMS-disqualifying conduct. Suspension may extend for years pending ICC proceedings; this protects the presumption of innocence while ensuring MCF does not provide active benefits to individuals facing serious international charges.
 
 ### 2. Truth Commission Established
 

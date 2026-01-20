@@ -37,8 +37,10 @@ Environmental harm prevention takes priority over political considerations withi
 
 - Urgent environmental threats addressed immediately
 - No environmental hostage-taking
-- Health emergencies override political objections
+- Health emergencies prioritize rapid response coordination
 - Environmental infrastructure protected
+
+**Voluntary Framework Consistency:** Environmental cooperation remains voluntary per Section "Cooperation Limits." During health emergencies, MCF prioritizes coordination and facilitates rapid response—but cannot compel participation. Parties may withdraw from environmental cooperation with notice; however, withdrawing during an active health emergency would be documented and reported to guarantors.
 
 ### 3. Technical Over Political
 
@@ -200,7 +202,7 @@ Environmental cooperation does not prejudice environmental sovereignty claims or
 
 - Environmental emergency hotline
 - Rapid notification protocols
-- Cross-boundary response authorization
+- Cross-boundary response coordination (authorization granted by host party/relevant authorities, MCF facilitates communication)
 - Equipment and expertise sharing
 
 ### 3. Infrastructure Coordination
@@ -401,6 +403,8 @@ Environmental cooperation does not prejudice environmental sovereignty claims or
 - Technical disputes: Expert resolution
 - Operational disputes: Coordination committee
 - Significant disputes: MCF institutional dispute process
+
+**Individual Complaints:** Environmental complaints from CMS holders (e.g., pollution exposure, health impacts, access to environmental information) follow standard MCF dispute resolution procedures—Review Panel for initial review, then Arbitration if unresolved. The mechanisms above apply to inter-party or institutional environmental disputes, not individual grievances.
 
 **Limitations:**
 

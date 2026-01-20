@@ -102,7 +102,7 @@ Nothing in MCF forecloses any future settlement resolution—removal, annexation
 - "Illegal settlements" (legal determination)
 - "Jewish communities" (political framing)
 - "Liberated territories" (political framing)
-- "Occupied territories" (uses without legal determination)
+- "Occupied territories" (legal characterization—if geographic reference needed, use "West Bank" or coordinates without legal qualifier)
 
 ---
 
@@ -118,9 +118,11 @@ Nothing in MCF forecloses any future settlement resolution—removal, annexation
 
 **What Is Documented:**
 - Violence involving settlers or Palestinians
-- Settlement expansion activities
 - Access and movement restrictions
 - Security force actions
+- Settlement-related changes when incident-relevant (e.g., construction activity that triggers violence, land disputes linked to verified incidents)
+
+**Scope Clarification:** MCF does not have a standing mandate to monitor settlement expansion (see Section "MCF Position on Expansion"). Expansion-related documentation occurs only when relevant to incident verification or civilian protection—not as a policy monitoring function.
 
 **Documentation Limitations:**
 - Factual record, not legal adjudication
@@ -142,8 +144,10 @@ Nothing in MCF forecloses any future settlement resolution—removal, annexation
 - No categorical exclusion based on residence location
 - No categorical inclusion based on residence location
 
-**Eligibility Requirements:**
-- Personal conduct code acceptance
+**Eligibility Requirements (per [CMS Framework](../02-phase-1-civic-membership/01-cms-framework.md#22-eligibility-requirements)):**
+- Security vetting (Section 2.3 of CMS Framework)
+- Civic education curriculum completion (Section 2.4)
+- Nonviolence pledge (Section 2.5)
 - CRC commitment
 - No security disqualifications
 - Voluntary participation

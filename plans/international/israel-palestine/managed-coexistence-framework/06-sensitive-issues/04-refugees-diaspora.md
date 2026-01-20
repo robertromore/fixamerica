@@ -132,12 +132,14 @@ Palestinian refugees are **not categorically excluded** from CMS, but eligibilit
 ### 2. Initial Phase Eligibility
 
 **Phase 0-1:**
-- CMS primarily for in-territory participants
-- Limited refugee eligibility
-- Focus on stable populations
-- Careful expansion
+- CMS eligibility follows standard criteria per [CMS Framework](../02-phase-1-civic-membership/01-cms-framework.md#21-basic-eligibility), including recognized diaspora populations
+- Benefit access is limited in early phases (non-residential benefits only)
+- Focus on stable populations for in-territory programs
+- Careful expansion of benefit scope
 
-**Refugee Eligibility (Limited):**
+**Eligibility Clarification:** Refugees who qualify as "recognized diaspora" under CMS Framework Section 2.8 are eligible for CMS from Phase 0. The limitation in Phase 0-1 applies to *benefit access* (non-residential benefits only), not to eligibility itself.
+
+**Available Benefits (Phase 0-1):**
 - Professional credentialing participation
 - Arbitration access (for relevant disputes)
 - Training programs

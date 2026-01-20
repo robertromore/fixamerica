@@ -46,7 +46,7 @@ Water is treated as a civilian-critical system requiring special protection rega
 - Protected Civic Corridors for water infrastructure
 - Verification of water-related incidents
 - Emergency response protocols
-- Humanitarian minimums enforced
+- Humanitarian minimums maintained through emergency provisioning (not reallocation)
 
 ### 4. Non-Preclusion of Claims
 
@@ -128,7 +128,7 @@ MCF treats deliberate civilian water deprivation as a high-severity violation.
 - Maintenance access routes
 
 **Protection Level:**
-- Highest protection within PCC framework
+- Priority protection within PCC framework (see [PCC Time Limits](../01-phase-0-institutions/03-pcc-protocols.md#55-time-limits-and-caps) for suspension caps: 72-hour maximum, throughput reduction only beyond 24 hours)
 - Immediate escalation for violations
 - Guarantor notification
 - International documentation
@@ -231,15 +231,17 @@ Gaza's water crisis is treated as a **containment priority**—an ongoing humani
 
 **Power-Water Coupling:**
 - Water treatment electricity needs recognized
-- Power shutoffs affecting water are high-severity violations
+- Power cuts deliberately targeting water treatment are high-severity violations
 - Redundancy planning supported
 - International attention to nexus
 
 **Humanitarian Minimum:**
 - Verification of minimum supply maintenance
-- Emergency water provision during crises
+- Emergency water provision during crises (through temporary measures, not reallocation of existing water rights)
 - Documentation of shortfalls
 - Guarantor engagement if thresholds breached
+
+**Humanitarian Minimum Clarification:** Meeting humanitarian minimums uses emergency provisioning (e.g., trucked water, emergency desalination, guarantor-funded supplies) rather than reallocating existing allocations. This preserves the "existing allocations continue" principle while ensuring civilian survival needs are met during crises.
 
 ### 3. What MCF Does Not Resolve
 

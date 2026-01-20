@@ -82,11 +82,11 @@ This creates an intentional asymmetry:
 - Arbitration availability
 - Credential portability
 
-**Operational Coordination:**
-- Emergency humanitarian response
-- Life-critical infrastructure protection (limited)
-- Incident documentation
-- Medical evacuation (if needed)
+**Operational Coordination (coordination and documentation only—no MCF personnel deployment or operational authority):**
+- Emergency humanitarian response (coordination with existing authorities)
+- Life-critical infrastructure protection (coordination and external-source documentation only)
+- Incident documentation (from external sources, not direct monitoring)
+- Medical evacuation coordination (if needed)
 
 **External Activities:**
 - Jerusalem residents participating in institutions outside Jerusalem
@@ -260,7 +260,8 @@ Attempting to use CMS to advance territorial or governance claims regarding Jeru
 **Limited:**
 - No MCF operational authority
 - No independent MCF action in Jerusalem
-- Coordination role only
+- No MCF personnel deployment (per Section "Operational Boundaries")
+- Coordination role only—MCF facilitates communication between existing authorities
 - Deference to existing mechanisms
 
 ### 2. Incident Documentation
@@ -289,7 +290,9 @@ Attempting to use CMS to advance territorial or governance claims regarding Jeru
 - No access protocols
 - No governance involvement
 - No monitoring authority
-- No documentation mandate
+- No direct documentation mandate
+
+**External-Source Documentation:** Consistent with the general Jerusalem documentation approach (Section 2), MCF may document incidents at holy sites using external sources (media reports, international observers, third-party documentation) but has no mandate for direct access, monitoring, or MCF-conducted documentation at holy sites.
 
 ---
 

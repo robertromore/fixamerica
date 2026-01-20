@@ -234,10 +234,10 @@ Bilateral resolution has failed for decades. MCF provides:
 | Document | Status |
 |----------|--------|
 | 00-overview.md | Complete |
-| 01-water-resources.md | Draft |
-| 02-jerusalem.md | Draft |
-| 03-religious-sites.md | Draft |
-| 04-refugees-diaspora.md | Draft |
-| 05-settlements.md | Draft |
-| 06-environmental-cooperation.md | Draft |
-| 07-post-conflict-justice.md | Draft |
+| 01-water-resources.md | Final Draft |
+| 02-jerusalem.md | Final Draft |
+| 03-religious-sites.md | Final Draft |
+| 04-refugees-diaspora.md | Final Draft |
+| 05-settlements.md | Final Draft |
+| 06-environmental-cooperation.md | Final Draft |
+| 07-post-conflict-justice.md | Final Draft |

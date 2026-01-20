@@ -240,14 +240,20 @@ PCCs cannot become routine mechanisms that effectively alter access arrangements
 
 ### 1. CMS Eligibility
 
-**Eligible:**
+**Eligible (if they meet standard CMS criteria per [CMS Framework](../02-phase-1-civic-membership/01-cms-framework.md#21-basic-eligibility)):**
 - Residents near religious sites
-- Workers at religious sites
-- Pilgrims (for general CMS purposes)
-- Religious officials (personally, not institutionally)
+- Workers at religious sites (if resident or recognized diaspora)
+- Religious officials (if resident or recognized diaspora; personally, not institutionally)
+
+**Not Separately Eligible:**
+- Pilgrims who do not meet residency or recognized diaspora criteria
+- Religious officials from outside MCF operational area
+- Visitors whose sole connection is pilgrimage
+
+**Clarification:** CMS eligibility requires residence within MCF operational area OR membership in recognized diaspora population. Location near or connection to religious sites does not create independent eligibility. Pilgrims and religious officials from outside these categories access sites through existing arrangements (visas, religious access protocols), not through CMS.
 
 **Same Basis:**
-CMS eligibility based on personal conduct standards, not location.
+CMS eligibility based on residency/diaspora status and personal conduct standards, not religious role or site connection.
 
 ### 2. What CMS Does Not Confer
 
