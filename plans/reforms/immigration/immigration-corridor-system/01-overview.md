@@ -98,23 +98,12 @@ ICS differs by combining these elements into a single, phased infrastructure wit
 
 ### Status Progression
 
-```text
-┌─────────────────────────────────────────────────────────────────────────┐
-│                    IMMIGRATION CORRIDOR SYSTEM                          │
-└─────────────────────────────────────────────────────────────────────────┘
-                                    │
-    ┌───────────────────────────────┼───────────────────────────────┐
-    ▼                               ▼                               ▼
-┌─────────┐                  ┌─────────────┐                 ┌─────────────┐
-│ PHASE 0 │ ──────────────▶  │   PHASE 1   │ ─────────────▶  │   PHASE 2   │
-│ Intake  │     90 days      │ Hub (Tier A)│   6-12 months   │Corridor (B) │
-└─────────┘                  └─────────────┘                 └─────────────┘
-                                                                    │
-                                                                    ▼
-                              ┌─────────────┐                 ┌─────────────┐
-                              │   PHASE 4   │ ◀────────────── │   PHASE 3   │
-                              │ Citizenship │   Eligible      │  Tier C     │
-                              └─────────────┘                 └─────────────┘
+```mermaid
+flowchart LR
+    P0[Phase 0<br/>Intake<br/>90 days] --> P1[Phase 1<br/>Hub - Tier A<br/>6-12 months]
+    P1 --> P2[Phase 2<br/>Corridor - Tier B<br/>12-24 months]
+    P2 --> P3[Phase 3<br/>Tier C<br/>12-24 months]
+    P3 --> P4[Phase 4<br/>Citizenship<br/>Eligible]
 ```
 
 ### Geographic Framework

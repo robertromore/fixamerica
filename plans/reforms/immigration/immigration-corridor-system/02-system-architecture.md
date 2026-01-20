@@ -6,21 +6,23 @@
 
 The ICS operates through a four-phase progression from entry to citizenship, with clear benchmarks and off-ramps at each stage.
 
-```text
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                         SYSTEM ARCHITECTURE OVERVIEW                          │
-└──────────────────────────────────────────────────────────────────────────────┘
+```mermaid
+flowchart LR
+    subgraph Entry
+        P0[Phase 0<br/>Intake<br/>≤90 days]
+    end
 
-   ENTRY                    INTEGRATION                    COMPLETION
-     │                          │                              │
-     ▼                          ▼                              ▼
-┌─────────┐    ┌─────────┐    ┌─────────┐    ┌─────────┐    ┌─────────┐
-│ Phase 0 │───▶│ Phase 1 │───▶│ Phase 2 │───▶│ Phase 3 │───▶│ Phase 4 │
-│ Intake  │    │ Hub (A) │    │Corridor │    │ Tier C  │    │Citizen  │
-│         │    │         │    │  (B)    │    │         │    │  Track  │
-└─────────┘    └─────────┘    └─────────┘    └─────────┘    └─────────┘
-   ≤90 days     6-12 mo       12-36 mo       Benchmarks      Eligible
-                                               met
+    subgraph Integration
+        P1[Phase 1<br/>Hub - Tier A<br/>6-12 months]
+        P2[Phase 2<br/>Corridor - Tier B<br/>12-36 months]
+    end
+
+    subgraph Completion
+        P3[Phase 3<br/>Tier C<br/>Benchmarks met]
+        P4[Phase 4<br/>Citizenship<br/>Eligible]
+    end
+
+    P0 --> P1 --> P2 --> P3 --> P4
 ```
 
 ---

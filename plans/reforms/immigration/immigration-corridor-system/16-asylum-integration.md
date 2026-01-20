@@ -49,19 +49,29 @@ CLP status does not replace asylum. It provides lawful presence and stability wh
 
 ### Parallel Timelines
 
-```text
-CLP Track:                 Asylum Track:
-─────────────────────────  ─────────────────────────
-Phase 0 (Intake)           Credible Fear Interview
-     │                          │
-Tier A (Hub)               Asylum Application Filed
-     │                          │
-Tier B (Corridor)          Interview Scheduled
-     │                          │
-Tier C (National)          Decision Issued
-     │                          │
-PR Application             Grant → Asylee Status
-                           Deny → Appeal/Removal
+```mermaid
+flowchart TB
+    subgraph "CLP Track"
+        CLP0[Phase 0 - Intake]
+        CLP1[Tier A - Hub]
+        CLP2[Tier B - Corridor]
+        CLP3[Tier C - National]
+        CLP4[PR Application]
+        CLP0 --> CLP1 --> CLP2 --> CLP3 --> CLP4
+    end
+
+    subgraph "Asylum Track"
+        ASY0[Credible Fear Interview]
+        ASY1[Asylum Application Filed]
+        ASY2[Interview Scheduled]
+        ASY3[Decision Issued]
+        ASY4{Outcome}
+        GRANT[Grant → Asylee Status]
+        DENY[Deny → Appeal/Removal]
+        ASY0 --> ASY1 --> ASY2 --> ASY3 --> ASY4
+        ASY4 -->|Approved| GRANT
+        ASY4 -->|Denied| DENY
+    end
 ```
 
 ### Key Integration Points

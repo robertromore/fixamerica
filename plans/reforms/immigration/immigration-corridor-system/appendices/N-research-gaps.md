@@ -289,6 +289,7 @@ Closure is defined as a published artifact reviewed by the Independent Integrati
 **Scale gate:** Expansion beyond pilot hubs requires closure of all Priority 1 gaps and at least half of Priority 2 gaps.
 
 **Legal analysis track (minimum set):**
+
 - Civil rights and disparate impact review for placement and mobility controls.
 - Interstate compact authority and preemption analysis.
 - Due process analysis for adverse actions, tier freezes, and removal pathways.

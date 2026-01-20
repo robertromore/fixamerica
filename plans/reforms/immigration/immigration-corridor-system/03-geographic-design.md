@@ -6,29 +6,24 @@
 
 The ICS uses a tiered geographic system to distribute immigrant settlement across regions with capacity, creating mutual benefit for both newcomers and host communities.
 
-```text
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                        GEOGRAPHIC DISTRIBUTION MODEL                          │
-└──────────────────────────────────────────────────────────────────────────────┘
+```mermaid
+flowchart TB
+    subgraph "Tier C - National (Unrestricted)"
+        NAT[All US Locations]
+    end
 
-                              NATIONAL
-                    ┌─────────────────────────┐
-                    │      TIER C MOBILITY    │  ← Unrestricted
-                    │    (All US locations)   │
-                    └───────────┬─────────────┘
-                                │
-              ┌─────────────────┴─────────────────┐
-              │          CORRIDOR REGION          │  ← Tier B mobility
-              │  ┌─────────┐ ┌─────────┐ ┌─────┐  │
-              │  │Corridor │ │Corridor │ │Rural│  │
-              │  │ City 1  │ │ City 2  │ │Hubs │  │
-              │  └─────────┘ └─────────┘ └─────┘  │
-              └─────────────────┬─────────────────┘
-                                │
-                    ┌───────────┴───────────┐
-                    │       HUB CITY        │  ← Tier A placement
-                    │  (Initial placement)  │
-                    └───────────────────────┘
+    subgraph "Tier B - Corridor Region"
+        C1[Corridor City 1]
+        C2[Corridor City 2]
+        RH[Rural Hubs]
+    end
+
+    subgraph "Tier A - Initial Placement"
+        HUB[Hub City]
+    end
+
+    HUB --> C1 & C2 & RH
+    C1 & C2 & RH --> NAT
 ```
 
 ---
