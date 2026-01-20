@@ -159,11 +159,15 @@ MCF institutions were designed for conflict management, not permanent governance
 - No permanent successor institution
 - Treaty relationship replaces guarantor framework
 
-**Timeline:**
-- Years 1-5: Active monitoring continues
-- Years 5-10: Reduced presence, advisory role
-- Years 10-15: Observer status only
-- Years 15+: Formal dissolution
+**Timeline by End State:**
+
+| End State | Active Monitoring | Advisory Role | Observer Only | Dissolution |
+|-----------|-------------------|---------------|---------------|-------------|
+| Confederation | Years 1-5 | Years 5-10 | Years 10-15 | Year 15+ |
+| Federation | Years 1-5 | Years 5-10 | Years 10-15 | Year 15+ |
+| Dual-State | Years 1-2 | Years 2-3 | Years 3-4 | Year 5 |
+
+**Dual-State Exception:** Because dual-state results in two fully independent states with bilateral treaty relationships (not an integrated governance structure), the Guarantor Forum winds down faster. Guarantors transition to normal diplomatic relations with each state. If parties request continued observation, guarantors may maintain a minimal treaty observer role beyond Year 5, but this is not a continuation of MCF authority.
 
 ---
 
@@ -221,6 +225,8 @@ MCF institutions were designed for conflict management, not permanent governance
 | Decision | 3 months | Staff decisions, assignments made |
 | Transfer | 12 months | Gradual move to successor positions |
 | Completion | 3 months | Final transitions, documentation |
+
+**Per-Unit Timeline:** The 25-month timeline above applies to each institutional unit undergoing transformation. For longer overall transformations (e.g., federation at 60-120 months), different units begin their transition cycles at staggered intervals. A unit begins its 25-month cycle when its successor body reaches "Formation" status (see Section 6.1). This prevents simultaneous disruption across all institutions while ensuring each unit has adequate transition time.
 
 ---
 
@@ -301,6 +307,7 @@ MCF institutions were designed for conflict management, not permanent governance
 | Personnel | Employment records | Per labor law |
 | Financial | Budgets, audits, transactions | 15 years |
 | Case files | Disputes, complaints, investigations | Per case type |
+| CMS participant records | Enrollment, status, benefits, transactions | 50 years minimum (per [Exit Conditions](../08-operational-procedures/06-exit-conditions.md)) |
 | Research | Studies, reports, analysis | Permanent |
 
 ### 5.2 Archive Establishment
@@ -411,10 +418,13 @@ During transformation, both old and new structures may operate:
 **Key Milestones:**
 1. Bilateral treaties ratified (Month 0)
 2. Joint bodies established (Month 6)
-3. CMS discontinued (Month 12)
+3. CMS enrollment freeze—no new enrollments (Month 12)
 4. SAZ transitions completed (Month 24)
 5. MCF functions transferred (Month 30)
 6. MCF formally dissolved (Month 36-48)
+7. CMS benefits fully transitioned to bilateral arrangements (Month 48; per [Enhanced Dual-State Path Section 6](04-enhanced-dual-state-path.md#6-cms-successor-arrangements))
+
+**CMS Transition Clarification:** "Enrollment freeze" at Month 12 means no new CMS enrollments are accepted; existing holders retain benefits during the transition period. Between Months 12-48, CMS benefits gradually transition to bilateral work permit and treaty arrangements. By Month 48, all CMS functions are replaced by bilateral mechanisms per Section 6 of the dual-state path.
 
 **Transformation Features:**
 - Institutions dissolved or become bilateral

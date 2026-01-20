@@ -84,9 +84,10 @@ The Guarantor Forum is the primary coordination body for collective guarantor ac
 - Annual strategic review: Once yearly
 
 **Authority:**
+
 - Coordination of guarantor activities
 - Resource allocation recommendations
-- New guarantor approval
+- New guarantor approval (with Confederal Council concurrence; see [Guarantor Selection](01-guarantor-selection.md#3-approval-requirements))
 - Guarantor accountability
 
 ### 2. Specialized Committees
@@ -194,7 +195,7 @@ The Guarantor Forum is the primary coordination body for collective guarantor ac
 - Time-sensitive decisions
 - Matters designated for voting
 
-**Voting Thresholds:**
+**Voting Thresholds (computed by weighted vote):**
 
 | Decision Type | Threshold |
 |--------------|-----------|
@@ -205,9 +206,12 @@ The Guarantor Forum is the primary coordination body for collective guarantor ac
 | Framework amendments | Consensus preferred, 3/4 fallback |
 
 **Voting Weights:**
+
 - One guarantor, one vote (state guarantors)
 - IO guarantors: Proportional to contribution (capped)
 - No single guarantor >20% of weighted vote
+
+**Threshold Calculation:** Thresholds are calculated against total weighted vote, not headcount. For example, if total weighted votes equal 100, a 2/3 threshold requires 67+ weighted votes in favor.
 
 ### 3. Deadlock Resolution
 
@@ -309,7 +313,7 @@ The Guarantor Forum is the primary coordination body for collective guarantor ac
 
 | Function | Lead Guarantor | Rationale |
 |----------|---------------|-----------|
-| Security rapid-response | US/EU | Military capacity |
+| Security rapid-response | US, EU (coordinating member-state forces) | Military capacity |
 | Financial coordination | EU/World Bank | Funding capacity |
 | Verification support | Norway/Japan | Neutrality, expertise |
 | Regional liaison | Jordan/Egypt | Geographic proximity |

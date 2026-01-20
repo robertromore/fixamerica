@@ -33,6 +33,8 @@ These procedures are designed to be **automatic and predictable**, reducing the 
 | Media and Civil Society | [11-media-civil-society.md](11-media-civil-society.md) | Press access, NGO coordination, information standards |
 | Personnel Standards | [12-personnel-standards.md](12-personnel-standards.md) | Hiring, training, vetting, conduct |
 | Language Services | [13-language-services.md](13-language-services.md) | Translation, interpretation, multilingual documentation |
+| Stress Testing | [14-stress-testing.md](14-stress-testing.md) | Adversarial scenarios and failure mode analysis |
+| Concrete Scenarios | [15-concrete-scenarios/](15-concrete-scenarios/00-overview.md) | Detailed hour-by-hour crisis walkthroughs |
 
 ---
 
@@ -125,3 +127,5 @@ Success is defined as **sustained stability and voluntary participation**, not a
 | 11-media-civil-society.md | Draft |
 | 12-personnel-standards.md | Draft |
 | 13-language-services.md | Draft |
+| 14-stress-testing.md | Final Draft |
+| 15-concrete-scenarios/ | Final Draft |

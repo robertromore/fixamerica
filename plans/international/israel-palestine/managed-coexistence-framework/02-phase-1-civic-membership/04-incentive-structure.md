@@ -226,10 +226,11 @@ See [Confederal Rights Compact](02-confederal-rights-compact.md) for rights deta
 
 | Duration | Accumulated Benefits |
 |----------|---------------------|
-| **Year 1** | Basic employment access, credential recognition, arbitration access |
-| **Year 2** | Priority job placement, enhanced training access, financial product eligibility |
-| **Year 3** | Senior employment tier eligibility, scholarship priority, credit score building |
-| **Year 5** | Leadership opportunities, mentorship roles, maximum benefit tier |
+| **Year 1** | Basic employment access, credential recognition, arbitration access (Entry tier) |
+| **Year 2** | Priority job placement, enhanced training access, financial product eligibility (Established tier begins) |
+| **Year 3** | Established tier benefits, scholarship priority, credit score building |
+| **Year 5** | Senior tier eligibility, leadership opportunities, mentorship roles |
+| **Year 10** | Veteran tier (maximum benefits), governance leadership eligibility |
 
 ---
 
@@ -284,16 +285,18 @@ ANNUAL CIVIC DIVIDEND
 Base Component: Fixed amount per resident ($X)
 ├── Equal for all SAZ residents regardless of income
 
-Duration Component: Multiplier based on residency length
+Duration Component: Multiplier based on SAZ residency length
 ├── Year 1: 1.0x
 ├── Year 2-3: 1.1x
 ├── Year 4-5: 1.2x
-├── Year 6+: 1.3x
+├── Year 6+: 1.3x (maximum)
 
 Need Adjustment: Supplemental for qualifying households
 ├── Based on household composition and income
 ├── Ensures minimum living standard
 ```
+
+**Note on Multiplier Basis:** Civic dividend multipliers are calculated using **SAZ residency length** (time as resident within an SAZ), not CMS tenure. This differs from other seniority benefits (employment priority, training access, credit terms) which use CMS tenure. The distinction reflects that civic dividends are a return on SAZ-specific investment, while other seniority benefits reward overall MCF participation. See Section 6.1 for CMS-based seniority multipliers and Annex B for the combined reference table.
 
 #### 4.2.3 Community Investment
 
@@ -319,13 +322,14 @@ Residents participate in project selection through participatory budgeting.
 
 ### 4.4 Phase 2 Benefit Compounding
 
+*Note: Duration refers to SAZ residency length for dividend-related benefits.*
+
 | Duration | Accumulated Benefits |
 |----------|---------------------|
-| **Year 1** | SAZ residency, basic civic dividend, enhanced services |
-| **Year 2** | Increased dividend multiplier, community participation |
-| **Year 3** | Housing assistance eligibility, priority services |
-| **Year 5** | Maximum dividend multiplier, governance participation eligibility |
-| **Year 10** | Long-term resident benefits, community leadership opportunities |
+| **Year 1** | SAZ residency, basic civic dividend (1.0x), enhanced services |
+| **Year 2-3** | Increased dividend multiplier (1.1x), community participation |
+| **Year 4-5** | Higher dividend multiplier (1.2x), housing assistance eligibility, priority services, governance participation eligibility |
+| **Year 6+** | Maximum dividend multiplier (1.3x), long-term resident benefits, community leadership opportunities |
 
 ---
 
@@ -364,24 +368,25 @@ Phase 3 benefits relate to **voluntary convergence** mechanisms—political agen
 
 ### 6.1 Seniority System
 
-CMS and SAZ participation duration creates compounding value:
+CMS participation duration creates compounding value through a tiered multiplier system:
 
 ```text
-BENEFIT SENIORITY LADDER
+BENEFIT SENIORITY LADDER (CMS-Based)
 
 CMS Duration:
 ├── 0-2 years: Entry tier (1.0x)
 ├── 2-5 years: Established tier (1.2x)
 ├── 5-10 years: Senior tier (1.4x)
-├── 10+ years: Veteran tier (1.6x)
+├── 10+ years: Veteran tier (1.6x maximum)
 
-Multiplier applies to:
+CMS-based multiplier applies to:
 ├── Employment priority
 ├── Training access
 ├── Credit terms
-├── Civic dividend calculation
 └── Governance eligibility
 ```
+
+**Note:** Civic dividend multipliers use **SAZ residency length**, not CMS tenure (see Section 4.2.2). This reflects that dividends are returns on SAZ-specific residency, while other benefits reward overall CMS participation.
 
 ### 6.2 Credential Accumulation
 
@@ -505,7 +510,17 @@ Distribution:
 
 ### 8.3 Addressing Imbalances
 
-When imbalances emerge:
+**Threshold Framework:**
+
+| Zone | Deviation | Response |
+|------|-----------|----------|
+| **Acceptable** | ±10% or less | Normal monitoring, no intervention |
+| **Warning** | 10-15% | Enhanced monitoring, preliminary assessment |
+| **Intervention** | >15% | Formal imbalance response protocol triggered |
+
+The two-tier threshold allows for natural variation within the ±10% target range, flags emerging concerns in the 10-15% warning zone, and triggers formal intervention only when imbalances exceed 15%.
+
+When intervention threshold is exceeded:
 
 ```text
 IMBALANCE RESPONSE PROTOCOL
@@ -646,14 +661,27 @@ See [Funding Architecture](../04-guarantor-architecture/03-funding-architecture.
 | **3** | Political | Referenda participation, governance roles |
 | **3** | Convergence | Expanded mobility, citizenship options |
 
-### Annex B: Seniority Multiplier Table
+### Annex B: Seniority Multiplier Tables
 
-| CMS Duration | Employment Priority | Training Access | Credit Terms | Dividend Multiplier |
-|--------------|---------------------|-----------------|--------------|---------------------|
-| 0-2 years | 1.0x | Basic | Standard | 1.0x |
-| 2-5 years | 1.2x | Enhanced | Preferred | 1.1x |
-| 5-10 years | 1.4x | Priority | Premium | 1.2x |
-| 10+ years | 1.6x | Maximum | Best | 1.3x |
+**Table B.1: CMS-Based Multipliers** (applies to employment, training, credit, governance)
+
+| CMS Duration | Employment Priority | Training Access | Credit Terms | Tier Name |
+|--------------|---------------------|-----------------|--------------|-----------|
+| 0-2 years | 1.0x | Basic | Standard | Entry |
+| 2-5 years | 1.2x | Enhanced | Preferred | Established |
+| 5-10 years | 1.4x | Priority | Premium | Senior |
+| 10+ years | 1.6x | Maximum | Best | Veteran |
+
+**Table B.2: SAZ Residency-Based Dividend Multipliers** (applies to civic dividends only)
+
+| SAZ Residency | Dividend Multiplier |
+|---------------|---------------------|
+| Year 1 | 1.0x |
+| Years 2-3 | 1.1x |
+| Years 4-5 | 1.2x |
+| Year 6+ | 1.3x (maximum) |
+
+*Note: Dividend multipliers key off SAZ residency length, not CMS tenure. This reflects that civic dividends are returns on SAZ-specific investment. See Section 4.2.2 for full dividend calculation formula.*
 
 ### Annex C: Funding Target Breakdown
 

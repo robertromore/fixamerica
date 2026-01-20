@@ -71,16 +71,17 @@ A facility, conduit, or system may be designated as a PCC if it meets ALL of the
 | Step | Timeline | Action |
 |------|----------|--------|
 | Proposal received | Day 0 | Initial screening |
-| Eligibility assessment | 14 days | Verify criteria compliance |
-| Operational assessment | 30 days | Evaluate protection feasibility |
-| Security assessment | 30 days | Evaluate risk profile |
-| Stakeholder consultation | 21 days | Parties, guarantors, affected populations |
-| Designation decision | 60 days maximum | JSVC recommendation, guarantor approval |
+| Eligibility assessment | Days 1-14 | Verify criteria compliance |
+| Operational + Security assessment | Days 7-45 | Evaluate protection feasibility and risk profile (concurrent) |
+| Stakeholder consultation | Days 30-55 | Parties, guarantors, affected populations (overlaps with assessments) |
+| Designation decision | Day 60 maximum | JSVC recommendation, guarantor approval |
+
+**Note:** Assessments run concurrently, not sequentially. Total timeline is 60 days maximum from proposal to decision.
 
 **Designation Requirements**
 
 - JSVC affirmative recommendation
-- Guarantor consensus (no guarantor veto)
+- Guarantor supermajority approval (2/3 of guarantors; no single-guarantor veto)
 - Party notification (consent not required)
 - Operational plan approved
 - Monitoring system in place
@@ -453,13 +454,17 @@ JSVC
 | **Liaison Officers** | Party communication | Language capability |
 | **Emergency Responders** | Crisis response | Security training |
 
-**Personnel Standards**
+**Personnel Standards (PCC Overlay Staff)**
 
-- International recruitment (no party nationals in operational roles)
+The following applies to PCC monitoring and oversight personnel, not to existing facility operators who continue their normal roles:
+
+- International recruitment (no party nationals in PCC monitoring/oversight roles)
 - Technical competence in relevant infrastructure
 - Security vetting by guarantors
 - Neutrality requirements (same as JSVC)
 - Language capability (Arabic, Hebrew, English)
+
+**Note:** Existing facility operators (utility workers, hospital staff, etc.) remain in their positions and continue normal operations; the party-national restriction applies only to PCC-specific overlay staff.
 
 ### 3.3 Financial Arrangements
 
@@ -656,26 +661,30 @@ PCC suspension is governed by [Shock-Absorber Protocols](04-shock-absorber-proto
 | **Tier 3** | Throughput reduction (up to 50%); temporary suspension possible | 72 hours suspension max |
 | **Tier 4** | Extended restrictions; guarantor authorization for suspension >72 hours | 7 days max (medical: no closure) |
 
+*Note: Duration limits shown are standard maximums before extension. See [Section 5.5](#55-time-limits-and-caps) for extension requirements and absolute caps (14 days standard, 30 days maximum with escalating approval).*
+
 **Medical PCC Absolute Protection**
 
-Medical PCCs are **never subject to full closure**:
+Medical PCCs are **never subject to full closure**, even during security incidents:
 
-| Medical PCC Type | Maximum Restriction |
-|------------------|---------------------|
-| **Patient transfer** | Throughput reduction up to 50%; never closed |
-| **Medical supply** | Throughput reduction up to 25%; never closed |
-| **Medical facility** | No operational restriction; security enhancement only |
+| Medical PCC Type | Maximum Restriction | During Attack/Emergency |
+|------------------|---------------------|------------------------|
+| **Patient transfer** | Throughput reduction up to 50%; never closed | Secure alternate route; never closed |
+| **Medical supply** | Throughput reduction up to 25%; never closed | Reroute if needed; never closed |
+| **Medical facility** | No operational restriction; security enhancement only | Perimeter security; never closed |
+
+**Medical PCC Override Rule:** Automatic suspension triggers (Section 5.2) apply to medical PCCs as **segment restrictions only**, never full closure. If an attack renders one medical PCC segment inoperable, an alternate route or facility must be activated within 4 hours. Medical access is a non-derogable protection.
 
 ### 5.2 Automatic Suspension Triggers
 
 **Triggers Requiring Suspension**
 
-| Trigger | Response | Duration |
-|---------|----------|----------|
-| **Direct attack on PCC** | Immediate suspension of affected segment | Until secure |
-| **Credible imminent attack threat** | Precautionary suspension | Until threat cleared |
-| **Technical failure making operation unsafe** | Technical suspension | Until repaired |
-| **Discovery of weaponization** | Immediate suspension + investigation | Until cleared |
+| Trigger | Response | Duration | Medical PCC Exception |
+|---------|----------|----------|----------------------|
+| **Direct attack on PCC** | Immediate suspension of affected segment | Until secure (max 72 hours without extension) | Segment restriction + alternate activation |
+| **Credible imminent attack threat** | Precautionary suspension | Until threat cleared (max 48 hours without extension) | Enhanced security only; no closure |
+| **Technical failure making operation unsafe** | Technical suspension | Until repaired (max 72 hours without extension) | Alternate activation required |
+| **Discovery of weaponization** | Immediate suspension + investigation | Until cleared (max 7 days without extension) | Segment restriction + alternate activation |
 
 **Triggers NOT Requiring Suspension**
 
@@ -750,22 +759,27 @@ When full restoration is not possible:
 
 ### 5.5 Time Limits and Caps
 
-**Absolute Maximums**
+**Standard Maximums (Without Extension)**
 
-| PCC Type | Maximum Suspension |
-|----------|-------------------|
-| **Medical PCCs** | NO full closure permitted |
+| PCC Type | Maximum Suspension Without Extension |
+|----------|-------------------------------------|
+| **Medical PCCs** | NO full closure permitted (segment restrictions only) |
 | **Water PCCs** | 72 hours (throughput reduction only beyond 24 hours) |
 | **Electricity PCCs** | 72 hours (except for technical necessity) |
 | **Transportation PCCs** (Phase 1+) | 7 days |
 
 **Extension Requirements**
 
-| Extension | Requirement |
-|-----------|-------------|
-| **Beyond 24 hours** | JSVC documented justification |
-| **Beyond 72 hours** | Guarantor approval |
-| **Beyond 7 days** | Guarantor unanimous approval + restoration plan |
+Extensions beyond standard maximums require escalating approval:
+
+| Extension | Requirement | Absolute Cap |
+|-----------|-------------|--------------|
+| **Beyond 24 hours** | JSVC documented justification | — |
+| **Beyond 72 hours** | Guarantor supermajority approval | 14 days |
+| **Beyond 7 days** | Guarantor supermajority approval + restoration plan | 14 days |
+| **Beyond 14 days** | Guarantor unanimous approval + restoration plan + daily review | 30 days |
+
+**Note:** No non-medical PCC may remain suspended beyond 30 days under any circumstances; if restoration is not possible, the PCC is reclassified as inoperable and alternative infrastructure must be designated.
 
 **Proportionality Review**
 

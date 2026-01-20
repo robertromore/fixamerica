@@ -81,10 +81,12 @@ MCF must resist both donor capture (donors dictating priorities) and internal ca
 
 | Tier | Annual Contribution | Examples |
 |------|--------------------| ---------|
-| Principal | $500M+ | US, EU |
+| Principal | $500M+ | US |
 | Major | $100-500M | Japan, UK, France, Germany |
 | Supporting | $25-100M | Canada, Australia, Nordic states |
 | Contributing | <$25M | Other willing states |
+
+**Note:** EU contributions are classified under Regional Organization Funding (Section 2.2), not state guarantor contributions, consistent with EU's classification as a regional organization with major power capacity per [Guarantor Selection](01-guarantor-selection.md#22-regional-organizations).
 
 **Commitment Duration:**
 - Initial commitment: 10 years
@@ -334,7 +336,8 @@ MCF must resist both donor capture (donors dictating priorities) and internal ca
 ### 1. Multi-Year Commitment Requirements
 
 **Commitment Floor:**
-- No commitments shorter than 3 years accepted
+
+- No commitments shorter than 5 years accepted (aligned with multi-year cycle principle, Section 2)
 - Core funding commitments minimum 10 years
 - Program funding minimum 5 years
 

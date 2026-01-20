@@ -29,14 +29,33 @@ Arbitration courts handle civil matters only:
 
 Criminal matters remain outside MCF jurisdiction.
 
+### 1.1 Relationship to Commercial Courts
+
+**Forum Priority:** For commercial disputes and labor disputes within [Confederal Commercial Court](../07-economic-architecture/03-commercial-courts.md) jurisdiction, Commercial Courts are the primary forum unless parties explicitly agree to arbitration.
+
+**When Arbitration Applies:**
+
+| Scenario | Forum |
+|----------|-------|
+| Parties' contract specifies arbitration | Arbitration |
+| Parties' contract specifies Commercial Court or is silent | Commercial Court |
+| Dispute involves MCF-registered employer labor claim | Commercial Court (primary) |
+| Dispute involves CMS-related conduct or credentials | Arbitration (unless CMS revocation—see Review Panels) |
+| Property disputes between participants | Arbitration |
+| Parties mutually agree to arbitrate after dispute arises | Arbitration |
+
+**Rationale:** Commercial Courts provide full adjudicative procedures with appellate review and detailed choice-of-law rules. Arbitration provides flexibility for parties who prefer it, and serves as the forum for dispute categories outside Commercial Court scope.
+
 ### 2. Voluntary, Benefit-Linked Participation
 
-Arbitration is opt-in:
-- Participation linked to CMS membership or program enrollment
-- Opting in is a condition of certain Framework benefits
-- Parties choose arbitration; it is not imposed
+Arbitration access is linked to CMS membership or program enrollment, but use of arbitration requires explicit agreement:
 
-This voluntary character preserves sovereignty while providing dispute resolution access.
+- CMS membership provides *eligibility* for arbitration, not automatic submission
+- For commercial and labor disputes within [Commercial Court](../07-economic-architecture/03-commercial-courts.md) jurisdiction, Commercial Courts are primary unless parties explicitly agree to arbitrate (per Section 1.1)
+- Explicit arbitration agreement means: contract clause specifying arbitration, or mutual post-dispute agreement to arbitrate
+- CMS enrollment alone does not constitute an arbitration agreement for commercial/labor matters
+
+This preserves CCC primacy while ensuring arbitration remains available for disputes outside Commercial Court scope or where parties prefer it.
 
 ### 3. Procedural Neutrality
 
@@ -51,10 +70,11 @@ No procedural advantage for either party based on identity.
 ### 4. Limited Enforcement
 
 Enforcement is limited to MCF benefit scope:
+
 - Contract enforcement within Framework
-- Credential suspension
-- Access revocation
+- Program access revocation
 - Benefit withholding
+- CMS credential actions (suspension, notation, revocation) → referred to CMS Review Panel; arbitration recommends, Review Panel decides
 
 Arbitration cannot enforce beyond MCF's own authority.
 
@@ -224,6 +244,29 @@ Arbitration cannot enforce beyond MCF's own authority.
 
 ---
 
+## Choice of Law
+
+### 1. Applicable Law Hierarchy
+
+Arbitration adopts the same choice-of-law hierarchy as [Confederal Commercial Courts](../07-economic-architecture/03-commercial-courts.md#5-choice-of-law):
+
+| Priority | Source | Application |
+|----------|--------|-------------|
+| **1** | MCF Commercial Code | Where MCF has specific rules |
+| **2** | Party agreement | Contract choice of law clause |
+| **3** | Closest connection | Law of jurisdiction with closest connection |
+| **4** | International commercial law | CISG, UNIDROIT Principles as gap-filler |
+
+### 2. Application in Arbitration
+
+**Party Autonomy:** Parties may specify applicable law in their arbitration agreement. Absent such specification, arbitrators apply the hierarchy above.
+
+**MCF Rules Primary:** For disputes arising from MCF programs (CMS, SAZ, labor mobility), MCF rules apply as primary source regardless of party choice.
+
+**Legal Conclusions in Awards:** Awards that include legal conclusions (per Procedures Section 4, "Decision and Award") must identify the applicable law applied. Appeals for "manifest error of law" are assessed against the correct source in the hierarchy.
+
+---
+
 ## Subject Matter Jurisdiction
 
 ### 1. Commercial Disputes
@@ -278,8 +321,9 @@ Arbitration cannot enforce beyond MCF's own authority.
 
 **Limitations:**
 - Between participants (not authority disputes)
-- CMS revocation itself goes to review panels
+- CMS revocation remains with CMS Review Panel under [01-cms-framework.md](../02-phase-1-civic-membership/01-cms-framework.md)
 - Cannot override CMS administrative decisions
+- Arbitration awards recommending CMS credential action (suspension, notation, revocation) are referred to CMS Review Panel for implementation—arbitration recommends, Review Panel decides
 
 ---
 
@@ -289,10 +333,16 @@ Arbitration cannot enforce beyond MCF's own authority.
 
 **Enforcement Tools:**
 - Withhold Framework benefits pending compliance
-- Credential suspension
 - Program access revocation
-- CMS standing notation
 - Guarantor-supported pressure
+
+**CMS-Related Enforcement (referral required):**
+
+- Credential suspension → referred to CMS Review Panel
+- CMS standing notation → referred to CMS Review Panel
+- CMS revocation recommendation → referred to CMS Review Panel
+
+Arbitration may recommend CMS credential actions as part of an award, but implementation authority rests with [CMS Review Panel](02-review-panels.md). Review Panel considers arbitration award as binding on facts but retains discretion on proportionality of credential action.
 
 **Enforcement Process:**
 - Award becomes enforceable after appeal period

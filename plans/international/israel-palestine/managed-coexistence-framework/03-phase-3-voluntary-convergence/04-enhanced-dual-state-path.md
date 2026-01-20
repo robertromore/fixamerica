@@ -40,7 +40,7 @@ This path:
 |---------|--------------|------------|------------|
 | Sovereignty merger | Partial (confederal layer) | Full | None |
 | Shared institutions | Permanent | Federal | Bilateral by treaty |
-| Border | Open (SAZs) | None | Managed |
+| Border | Open (SAZs) | None | Managed (default) or Open (negotiated) |
 | Political merger | No | Yes | No |
 | Complexity | Medium | High | Lower |
 
@@ -48,19 +48,21 @@ This path:
 
 ## 2. Transition Requirements
 
-### 2.1 Pre-Conditions
+### 2.1 Pre-Conditions and Negotiation Sequencing
 
 Dual-state path requires:
 
-| Requirement | Verification |
-|-------------|--------------|
-| Phase 2 success criteria met | JSVC certification |
-| Boundary agreement reached | Political negotiations |
-| Jerusalem arrangements agreed | Special negotiations |
-| Refugee resolution or deferral mechanism | Agreement documented |
-| Security arrangements agreed | Treaty framework |
-| Resource sharing agreements | Water, energy treaties |
-| SAZ transition arrangements | SAZ governance agreements |
+| Requirement | When | Verification |
+|-------------|------|--------------|
+| Phase 2 success criteria met | Before end-state referendum | JSVC certification |
+| Boundary agreement reached | Post-selection negotiation | Political negotiations |
+| Jerusalem arrangements agreed | Post-selection negotiation | Special negotiations |
+| Refugee resolution or deferral mechanism | Post-selection negotiation | Agreement documented |
+| Security arrangements agreed | Post-selection negotiation | Treaty framework |
+| Resource sharing agreements | Post-selection negotiation | Water, energy treaties |
+| SAZ transition arrangements | Post-selection negotiation | SAZ governance agreements |
+
+**Sequencing Clarification:** Only Phase 2 success criteria must be met before the end-state referendum. All other agreements are negotiated after dual-state is selected (Phase 1: Negotiation in Section 8.1) and ratified in Stage 3. This prevents requiring impossible pre-commitments before populations can choose their preferred path.
 
 ### 2.2 Referendum Approval
 
@@ -77,7 +79,7 @@ Dual-state path requires:
 **Stage 3: Treaty Ratification**
 - Approve bilateral treaty framework
 - 60% participation threshold
-- 55% approval threshold
+- 60% approval threshold (aligned to Constitutional Ratification standard per [01-referenda-procedures.md](01-referenda-procedures.md) Section 5.2)
 - 40% community threshold
 
 ### 2.3 Boundary Agreement
@@ -309,7 +311,8 @@ Upon dual-state implementation:
 ### 6.3 Transition for CMS Holders
 
 **Former CMS Holders:**
-- Automatic qualification for work permits (if employed)
+
+- Automatic work permit qualification with verified job offer or documented CMS-era employment history
 - Priority in visa/permit applications
 - Recognition of CMS-era credentials
 - Access to dispute resolution for CMS-era matters

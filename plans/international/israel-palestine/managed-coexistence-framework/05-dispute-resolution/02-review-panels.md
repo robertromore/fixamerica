@@ -75,9 +75,12 @@ Independence ensures credible review.
 - Rotating composition from qualified pool
 
 **Specialized Panels:**
-- CMS-specific panel (CMS revocation, exclusion)
+
+- CMS Review Panel (CMS revocation, suspension, credential disputes—post-grant actions only; see Section 2.3 for denial vs. process complaint distinction)
 - Employment panel (authority as employer)
 - Security-civilian panel (security-related complaints)
+
+**Security-Civilian Panel Scope:** This panel handles complaints about security personnel conduct toward civilians (misconduct, procedural violations, discrimination, excessive force claims). It does not review security operational decisions (deployment, tactics, threat assessments). The distinction: *how* security personnel treated an individual (reviewable) versus *whether* to conduct a security operation (not reviewable). Complaints about operational decisions are excluded per Section 3 ("Excluded Complaints").
 
 ### 2. Reviewer Qualifications
 
@@ -164,12 +167,15 @@ Independence ensures credible review.
 #### 2.3 Wrongful Exclusion
 
 **Covered:**
-- CMS application rejection without basis
-- Program exclusion without justification
+
+- Program exclusion without justification (non-CMS programs)
 - Benefit denial contrary to eligibility
 - PCC (Personal Conduct Code) exclusion without proper process
 
+**CMS Application Denials:** CMS application rejections are handled through the CMS Appeals Board per [CMS Framework](../02-phase-1-civic-membership/01-cms-framework.md), not through Review Panels. However, Review Panels retain jurisdiction over *process complaints* about CMS application handling (e.g., discrimination by vetting staff, procedural abuse during application review). The distinction: challenging the *denial decision* → CMS Appeals Board; challenging *how* the application was processed → Review Panel.
+
 **Standard:**
+
 - Complainant met eligibility criteria
 - Exclusion lacked procedural basis
 - No legitimate security or conduct justification
@@ -190,9 +196,10 @@ Independence ensures credible review.
 ### 3. Excluded Complaints
 
 **Outside Jurisdiction:**
+
 - Criminal allegations (national/international jurisdiction)
 - General government conduct (not MCF-related)
-- Security operations decisions (separate process)
+- Security operations decisions (deployment, tactics, threat assessments—see Section 1 "Security-Civilian Panel Scope" for the conduct/operations distinction)
 - Disputes between individuals (arbitration courts)
 - Sovereignty or territorial claims
 - Final status matters
@@ -316,8 +323,8 @@ Independence ensures credible review.
 ### 1. Reinstatement of Access
 
 **When Appropriate:**
-- Wrongful exclusion from CMS
-- Improper denial of program access
+- Wrongful revocation or suspension of CMS status (post-grant)
+- Improper denial of program access (non-CMS programs)
 - Unjustified benefit denial
 
 **Remedy:**
@@ -353,9 +360,11 @@ Independence ensures credible review.
 - Caps based on harm type
 
 **Compensation Source:**
-- MCF operational funds
-- Guarantor contributions
-- Not from national governments
+
+- Paid from MCF Compensation Fund (a designated pool within MCF operational budget)
+- MCF Compensation Fund is funded by MCF operational revenues and guarantor contributions
+- No direct national government liability: compensation is an MCF institutional obligation, not a claim against Israeli or Palestinian governments
+- Fund target: 2% of annual MCF budget reserved for compensation awards
 
 ### 4. Guarantor Referral
 
@@ -402,20 +411,35 @@ Independence ensures credible review.
 - Limited to stated grounds
 - Decision within 30 days
 
-### 2. Appeal to Appellate Panel
+### 2. Appeal to Appellate Body
+
+**Appellate Forum by Case Type:**
+
+| Case Type | Appellate Body | Reference |
+|-----------|----------------|-----------|
+| CMS revocation (Review Panel decision) | CMS Appeals Board | [CMS Framework](../02-phase-1-civic-membership/01-cms-framework.md) |
+| CMS process complaints (discrimination, procedural abuse) | Review Panel Appellate Panel | This section |
+| Employment panel | Review Panel Appellate Panel | This section |
+| Security-civilian panel | Review Panel Appellate Panel | This section |
+| Other authority complaints | Review Panel Appellate Panel | This section |
+
+**Note on CMS Application Denials:** Initial CMS application denials are appealed directly to the CMS Appeals Board per [CMS Framework](../02-phase-1-civic-membership/01-cms-framework.md), not through Review Panels. Review Panels handle only *process complaints* about CMS handling (see Section 2.3).
 
 **Grounds:**
+
 - Error of law in determination
 - Procedural irregularity affecting outcome
 - Remedy inappropriate to violation
 
 **Process:**
+
 - Request within 45 days
-- Different reviewers
+- Different reviewers (Appellate Panel) or CMS Appeals Board members
 - Record review, not de novo
 - Decision within 60 days
 
 **Appellate Outcomes:**
+
 - Affirm
 - Reverse
 - Modify remedy

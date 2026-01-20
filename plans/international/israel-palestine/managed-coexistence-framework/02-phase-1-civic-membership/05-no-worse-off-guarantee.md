@@ -81,9 +81,12 @@ Together, they create **asymmetric optionality**: participation can improve cond
 |----------|----------|
 | **Eligible non-participants** | Full protection; cannot be harmed by MCF existence |
 | **Active participants** | Full protection; can withdraw at any time |
-| **Former participants** | Full protection; treated as if never participated |
+| **Former participants (voluntary withdrawal)** | Full protection; treated externally as if never participated (see note below) |
+| **Former participants (revocation/issues)** | Protection from external disclosure; re-application per Section 5.5 |
 | **Family members** | Protected from retaliation based on family member's participation |
 | **Employers** | Cannot be penalized for employing participants or non-participants |
+
+**Note on "treated as if never participated":** For voluntary withdrawals, MCF does not disclose participation history externally, and former participants face no external penalties or differential treatment. MCF retains internal records (sealed audit data) per retention schedules for fraud prevention and accountability, but this data is non-disclosable and cannot be used for **external adverse action** (employment, legal status, service access, etc.). Internal MCF eligibility restrictions (re-application waiting periods for revocations, fraud exclusions) are not "adverse action" under this guarantee—they are consequences of specific conduct, not participation itself. See Section 8 for data handling details.
 
 ### 2.2 What Is Guaranteed
 
@@ -109,10 +112,10 @@ Together, they create **asymmetric optionality**: participation can improve cond
 
 | Protection | Description |
 |------------|-------------|
-| **Confidentiality** | Participation history not disclosed without consent |
+| **Confidentiality** | Participation history not disclosed externally without consent |
 | **Non-inference** | Participation history not used to infer disloyalty |
-| **Data deletion** | Right to data deletion upon withdrawal |
-| **Record neutrality** | No adverse annotation in any record |
+| **Data deletion** | Right to data deletion after applicable retention periods (see [CMS Framework Section 7](01-cms-framework.md#7-data-and-privacy)) |
+| **Record neutrality** | No adverse annotation in external records; internal audit data sealed and non-disclosable |
 
 ### 2.3 Temporal Scope
 
@@ -208,14 +211,16 @@ Step 3: Resolution
 
 ### 4.1 Prohibition on New Restrictions
 
-MCF's existence cannot be accompanied by new restrictions that disadvantage non-participants:
+MCF's existence cannot be accompanied by new restrictions that disadvantage non-participants **with respect to pre-existing services and conditions**:
 
-| Prohibited | Example |
-|------------|---------|
-| **Conditional access** | Services available only to CMS holders |
-| **Preferential treatment** | Non-participants deprioritized for existing services |
-| **New requirements** | Documents or permits required only for non-CMS |
-| **Indirect pressure** | Employers pressured to hire only CMS holders |
+| Prohibited | Example | Clarification |
+|------------|---------|---------------|
+| **Conditional access to pre-existing services** | Healthcare, education, utilities conditioned on CMS | MCF-created programs (employment facilitation, civic dividends) may be CMS-only |
+| **Preferential treatment in existing services** | Non-participants deprioritized for pre-MCF services | MCF-funded new services may prioritize participants |
+| **New requirements for existing access** | Permits required only for non-CMS to access pre-existing services | CMS requirements for MCF-specific programs are permitted |
+| **Indirect pressure** | Employers pressured to hire only CMS holders | Employer participation in MCF employment programs is voluntary |
+
+**Key Distinction:** The guarantee protects non-participants from losing access to what they had before MCF. It does **not** require that MCF-created benefits be extended to non-participants. MCF may create new programs (employment facilitation, training, civic dividends, SAZ residency) available only to CMS holders—this is the incentive structure, not a penalty for non-participation. See [Incentive Structure](04-incentive-structure.md) for CMS-specific benefits.
 
 ### 4.2 Existing Service Preservation
 
@@ -263,34 +268,35 @@ Withdrawal is an **absolute right**:
 - No cooling-off period
 - No counseling or discouragement
 - No retention efforts beyond neutral information
-- Effective upon request
+- **Legally effective upon request** (benefits cease, CMS credential deactivated); administrative processing completes within 7 days
 
 ### 5.2 Withdrawal Process
 
 ```text
 WITHDRAWAL PROCESS
 
-Step 1: Request
+Step 1: Request (immediate legal effect)
 ├── Written or verbal request to any MCF facility
 ├── No justification required
 ├── Confirmation of identity
-└── Acknowledgment of request
+├── Acknowledgment of request
+└── CMS status legally terminated upon acknowledgment
 
-Step 2: Processing (target: 7 days)
-├── CMS status deactivated
+Step 2: Administrative Processing (target: 7 days)
+├── CMS credential deactivated in systems
 ├── Benefit wind-down initiated
 ├── Data handling procedures triggered
 └── Exit information package provided
 
-Step 3: Status Reversion
-├── Legal status unchanged
-├── Administrative status: neutral annotation
-├── Data deletion per retention schedule
-└── Benefits ceased
+Step 3: Data Handling
+├── Contact information and active benefit data: deleted immediately
+├── Internal audit record: sealed (non-disclosable, internal use only)
+├── Identity/vetting/proceedings data: retained per retention schedule, then deleted
+└── Upon retention period expiry: holder may request full deletion
 
 Step 4: Confirmation
 ├── Written confirmation of withdrawal
-├── List of any retained data (with justification)
+├── List of any retained data (with retention periods and justification)
 ├── Contact for future questions
 └── Re-application rights confirmed
 ```
@@ -300,11 +306,16 @@ Step 4: Confirmation
 | Element | Status After Withdrawal |
 |---------|------------------------|
 | **Legal status** | Unchanged from pre-participation |
-| **Administrative records** | Neutral annotation ("former CMS holder") or deletion |
-| **Party government records** | No notification of withdrawal unless required |
+| **MCF internal records** | Sealed audit record (non-disclosable; for fraud prevention and accountability only) |
+| **External records** | No disclosure of participation history; treated externally as if never participated |
+| **Party government records** | No notification of withdrawal; no disclosure of CMS history |
 | **Employment** | No notification to employers |
 | **Benefits** | Cease; no clawback of accrued benefits |
 | **Credentials** | Retained; recognized regardless of CMS status |
+
+**Sealed Audit Record:** MCF retains a sealed internal record of former participants for audit, fraud prevention, and accountability purposes. This record is: (1) non-disclosable to external parties under any circumstances; (2) accessible only to internal audit personnel and guarantor oversight; (3) cannot be used for **external** adverse action against the former participant (employment, legal status, service access, government records); (4) deleted after the longest applicable retention period expires (see Section 8.2).
+
+*Note: The sealed audit record **may** be used for internal MCF purposes including re-application eligibility determination (waiting periods for revocations, fraud exclusions). This is not "adverse action" under the guarantee—it is a consequence of specific conduct during participation, not of participation itself.*
 
 ### 5.4 No Retroactive Clawback
 
@@ -325,12 +336,14 @@ Benefits accrued during participation are **not clawed back** upon withdrawal:
 
 Former participants may re-apply:
 
-| Scenario | Re-Application |
-|----------|----------------|
-| **Voluntary withdrawal** | No waiting period; standard process |
-| **Withdrawal with issues** | May have waiting period based on issues |
-| **Revocation for cause** | Waiting period per revocation terms |
-| **Fraud** | Permanent or extended exclusion |
+| Scenario | Re-Application | External Treatment |
+|----------|----------------|-------------------|
+| **Voluntary withdrawal** | No waiting period; standard process | Treated externally as if never participated |
+| **Withdrawal with issues** | May have waiting period based on issues | No external disclosure; internal record for re-application only |
+| **Revocation for cause** | Waiting period per [CMS Framework Section 6](01-cms-framework.md#6-withdrawal-and-revocation) | No external disclosure; waiting period applies |
+| **Fraud** | Permanent or extended exclusion | No external disclosure; exclusion documented internally |
+
+**Clarification:** "Treated as if never participated" applies to **voluntary withdrawals** with respect to external disclosure and external treatment. Waiting periods and re-application restrictions for revocation or issues are internal MCF matters that do not affect external legal status, employment, or service access—they affect only re-enrollment eligibility within MCF.
 
 ---
 
@@ -447,6 +460,8 @@ MCF collects only data necessary for:
 
 ### 8.2 Retention Limits
 
+*Note: These retention periods align with [CMS Framework Section 7](01-cms-framework.md#7-data-and-privacy). CMS Framework is the authoritative source; in any conflict, CMS Framework prevails.*
+
 | Data Category | Retention Period | After Withdrawal |
 |---------------|------------------|------------------|
 | **Identity verification** | Duration + 7 years | 7 years then delete |
@@ -454,6 +469,8 @@ MCF collects only data necessary for:
 | **Benefit records** | Duration + 5 years | 5 years then delete |
 | **Vetting records** | Duration + 10 years | 10 years then delete |
 | **Complaints/proceedings** | Duration + 10 years | 10 years then delete |
+
+**Right to Deletion:** Participants may request deletion of any data category once its retention period expires. Deletion requests submitted before retention period expiry are queued for processing upon expiry. See Section 8.3 for procedures.
 
 ### 8.3 Deletion Procedures
 

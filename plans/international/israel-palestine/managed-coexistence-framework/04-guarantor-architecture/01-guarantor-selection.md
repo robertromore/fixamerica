@@ -40,9 +40,21 @@ Pure neutrality (no relationship to either party) may mean no stake in success. 
 
 ### 1. Capacity Requirements
 
+**Role-Based Application:** Capacity thresholds apply based on the guarantor's assigned roles:
+
+| Role | Required Thresholds |
+|------|---------------------|
+| Primary funder | Full financial capacity (Section 1.1) |
+| Security guarantor | Full security capacity (Section 1.2) |
+| Verification provider | Technical capacity (Section 1.4); financial/security thresholds reduced |
+| Diplomatic facilitator | Diplomatic capacity (Section 1.3); financial/security thresholds reduced |
+| Regional legitimacy | Diplomatic capacity + regional presence; financial/security thresholds reduced |
+
+Regional states (e.g., Jordan, Egypt) and neutral states (e.g., Norway) may not meet full financial/security thresholds but provide essential diplomatic, verification, or legitimacy functions. Their inclusion is evaluated against relevant role-specific requirements.
+
 #### 1.1 Financial Capacity
 
-**Minimum Requirements:**
+**Minimum Requirements (for primary funding roles):**
 
 | Capacity | Threshold | Rationale |
 |----------|-----------|-----------|
@@ -58,7 +70,7 @@ Pure neutrality (no relationship to either party) may mean no stake in success. 
 
 #### 1.2 Security Capacity
 
-**Minimum Requirements:**
+**Minimum Requirements (for security guarantor roles):**
 
 | Capacity | Threshold | Rationale |
 |----------|-----------|-----------|
@@ -98,6 +110,20 @@ Pure neutrality (no relationship to either party) may mean no stake in success. 
 - Human rights monitoring capacity
 
 ### 2. Independence Requirements
+
+#### 2.0 Categorical Exclusions
+
+The following entities **cannot serve as guarantors**:
+
+| Excluded Entity | Rationale |
+|-----------------|-----------|
+| Israel | Conflict party |
+| Palestine (PA, PLO, or successor) | Conflict party |
+| States with mutual defense treaty with either party | Cannot be neutral enforcer |
+| States hosting significant military bases of either party | Operational conflict of interest |
+| States under sanctions by either party | Cannot engage both sides |
+
+**Note:** "Immediate allies" (e.g., states with mutual defense obligations) are excluded because guarantor enforcement authority may require action against a party, which treaty obligations would prohibit or complicate.
 
 #### 2.1 Relationship to Parties
 
@@ -210,10 +236,12 @@ Pure neutrality (no relationship to either party) may mean no stake in success. 
 - Diplomatic weight
 
 **Major Power Considerations:**
-- US, China, EU (as bloc), potentially Russia
+
+- US, China, potentially Russia
 - None individually essential if others present
 - Major power involvement adds deterrence
 - Major power rivalries can complicate coordination
+- Note: EU has major power capacity but is classified as a regional organization (see Section 2.2)
 
 **Major Power Limitations:**
 - Global distractions may reduce attention
@@ -286,12 +314,16 @@ Pure neutrality (no relationship to either party) may mean no stake in success. 
 #### 2.2 Regional Organizations
 
 **Potential Roles:**
-- EU (major funding, institutional support)
+
+- EU (major funding, institutional support, diplomatic weight)
 - Arab League (regional legitimacy)
 - African Union (peacekeeping experience)
 - OSCE (verification expertise)
 
+**EU as Major Power Capacity:** The EU is a regional organization, not a state, but possesses major power capacity (financial resources, diplomatic weight, institutional continuity). For composition targets, EU satisfies the "organization with major power capacity" requirement rather than the "state major power" requirement.
+
 **Regional Organization Considerations:**
+
 - Collective action problems
 - Member state politics
 - Capacity variations
@@ -353,9 +385,32 @@ Pure neutrality (no relationship to either party) may mean no stake in success. 
 
 ## Selection Process
 
+### 0. Initial Guarantor Selection
+
+**Pre-Formation Context:** Before MCF institutions exist, the standard nomination/vetting process cannot operate because Guarantor Forum and Confederal Council have not been established.
+
+**Initial Selection Path:**
+
+| Stage | Activity | Authority | Duration |
+|-------|----------|-----------|----------|
+| 1 | Founding parties propose initial guarantor set | Israeli and Palestinian governments (joint proposal) | — |
+| 2 | UN Secretary-General endorses proposed set | UN SG | 30 days |
+| 3 | Proposed guarantors confirm participation | Each proposed guarantor | 60 days |
+| 4 | Initial Guarantor Forum convenes | Confirmed guarantors | — |
+| 5 | Standard selection process governs all subsequent additions | Guarantor Forum + Confederal Council | Per Section 1-4 below |
+
+**Initial Selection Requirements:**
+
+- Both founding parties must jointly approve the initial guarantor set
+- UN Secretary-General endorsement provides international legitimacy
+- Minimum composition requirements (Section "Minimum Guarantor Requirements") must be met
+- Once Initial Guarantor Forum convenes, it assumes authority for subsequent selections
+
+**Transition:** After Confederal Council is constituted (Phase 1), standard nomination and approval procedures apply for all new guarantor additions or changes.
+
 ### 1. Nomination Procedures
 
-**Who Can Nominate:**
+**Who Can Nominate (post-formation):**
 - MCF participating parties
 - Existing guarantors
 - Confederal Council
@@ -419,7 +474,7 @@ Pure neutrality (no relationship to either party) may mean no stake in success. 
 **Objection Process:**
 - Written objection with specific grounds
 - Response opportunity for nominee
-- Mediateion attempt
+- Mediation attempt
 - Final decision by Guarantor Forum supermajority
 
 ---
@@ -429,7 +484,9 @@ Pure neutrality (no relationship to either party) may mean no stake in success. 
 ### 1. Geographic Balance
 
 **Composition Target:**
-- At least 2 major powers (US/EU/China)
+
+- At least 1 state major power (US, China, or Russia)
+- At least 1 organization with major power capacity (EU or comparable)
 - At least 2 regional states
 - At least 2 neutral states
 - No single region majority
@@ -595,24 +652,27 @@ Pure neutrality (no relationship to either party) may mean no stake in success. 
 ### 1. Proposed Initial Guarantor Set
 
 **State Guarantors (indicative):**
+
 - United States (major power, key relationships)
-- European Union (major power, funding capacity)
 - Jordan (regional, direct interest)
 - Egypt (regional, peace treaty experience)
 - Norway (neutral, mediation expertise)
 - Japan (neutral, reconstruction expertise)
 
 **International Organizations:**
+
+- European Union (regional organization, major funding capacity)
 - UN (coordination, legitimacy)
 - World Bank (development, technical assistance)
 
 ### 2. Justification
 
 **This Composition Provides:**
-- Major power deterrence (US, EU)
+
+- Major power deterrence (US)
 - Regional engagement (Jordan, Egypt)
 - Neutral mediation (Norway, Japan)
-- Institutional continuity (UN, World Bank)
+- Institutional continuity and funding capacity (EU, UN, World Bank)
 - Geographic diversity (Americas, Europe, Asia, MENA)
 - Political diversity (across political orientations)
 

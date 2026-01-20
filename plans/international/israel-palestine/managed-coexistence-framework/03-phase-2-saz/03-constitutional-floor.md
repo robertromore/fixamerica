@@ -90,7 +90,7 @@ This universality is essential to SAZ legitimacy. A zone where some inhabitants 
 
 - Cannot be reduced by SAZ governance
 - Apply uniformly across all SAZs
-- Enforceable through CRC Review Panel
+- Enforceable through SAZ courts (primary) with CRC Review Panel appellate oversight
 
 **Ceiling rights** (SAZ discretion):
 
@@ -126,11 +126,17 @@ Local law continues to apply where it:
 
 When conflict is identified:
 
-1. CRC Review Panel or SAZ court issues conflict finding
-2. Conflicting local provision is suspended within SAZ
+1. SAZ court (primary) or CRC Review Panel (on appeal) issues conflict finding
+2. SAZ governance suspends conflicting local provision within SAZ
 3. SAZ governance may revise provision to eliminate conflict
-4. Revised provision reviewed for CRC compliance
+4. Revised provision reviewed for CRC compliance (by SAZ court, with CRC Review Panel appeal available)
 5. If compliant, provision may be reinstated
+
+**Role Clarification:**
+
+- **SAZ court:** Primary authority to find conflicts and order suspension
+- **CRC Review Panel:** Appellate authority; issues binding conflict findings only after SAZ exhaustion or under systemic exceptions (see Section 4.3)
+- **SAZ governance:** Executive authority to implement suspension and revision
 
 Displacement is **remedy for conflict**, not punishment. The goal is CRC compliance, not local law elimination.
 
@@ -160,7 +166,7 @@ MCF retains oversight authority over SAZ constitutional floor enforcement:
 
 **CRC Review Panel**:
 
-- Hears appeals from SAZ judicial decisions
+- Hears appeals from SAZ judicial decisions (after SAZ appellate exhaustion; see Section 4.3)
 - Issues advisory opinions on CRC interpretation
 - Reviews systemic compliance through audits
 - Refers violations to guarantors
@@ -177,11 +183,24 @@ MCF retains oversight authority over SAZ constitutional floor enforcement:
 Individuals may seek CRC enforcement through:
 
 1. SAZ judicial complaint (primary forum)
-2. CRC Review Panel appeal (for SAZ judicial failures)
-3. Direct Panel petition (for systemic issues)
+2. CRC Review Panel appeal (after SAZ appellate exhaustion)
+3. Direct Panel petition (only for defined systemic exceptions—see below)
 4. Guarantor notification (for severe violations)
 
 Standing requires only presence within SAZ; no CMS or organizational affiliation needed.
+
+**Exhaustion Requirement:**
+
+SAZ judicial remedies must be exhausted before CRC Review Panel appeal, except for:
+
+| Systemic Exception | Description |
+|--------------------|-------------|
+| **SAZ judiciary unavailable** | SAZ judicial system not yet established or suspended |
+| **Pattern or practice** | Documented pattern affecting multiple individuals or group rights |
+| **Structural conflict** | Challenge to SAZ law or policy itself, not individual application |
+| **Imminent irreparable harm** | Exhaustion would cause harm that cannot be remedied |
+
+Direct Panel petitions under systemic exceptions require written justification demonstrating the exception applies.
 
 ---
 
@@ -269,10 +288,24 @@ Multiple SAZs may develop different approaches to rights beyond the floor:
 When an SAZ is established:
 
 1. CRC immediately applies to all territory
-2. Existing local law reviewed for CRC compliance
-3. Conflicting provisions suspended pending revision
-4. SAZ judicial mechanisms established
-5. CRC Review Panel oversight activated
+2. **Interim review mechanism** activated (see below)
+3. Existing local law reviewed for CRC compliance
+4. Conflicting provisions suspended pending revision
+5. SAZ judicial mechanisms established
+6. CRC Review Panel oversight activated; interim mechanism winds down
+
+**Interim Review Mechanism:**
+
+During the transition period before SAZ judicial mechanisms are fully operational:
+
+| Function | Interim Body |
+|----------|--------------|
+| **Individual complaints** | CRC Review Panel has direct jurisdiction (SAZ judiciary unavailable exception per Section 4.3) |
+| **Local law review** | Joint MCF-guarantor review panel |
+| **Injunctive relief** | CRC Review Panel may issue temporary orders |
+| **Conflict findings** | Joint review panel issues preliminary findings; SAZ courts assume jurisdiction when operational |
+
+The interim mechanism ensures no gap in CRC enforcement. Interim decisions are binding but may be reconsidered by SAZ courts once established.
 
 Transition period (maximum 12 months) allows governance adaptation, but CRC rights apply from day one.
 
@@ -319,7 +352,15 @@ When CRC and national constitutional provisions conflict:
 - **More protective standard applies** (favor individual rights)
 - CRC does not reduce rights national law provides
 - National law does not reduce rights CRC provides
-- Apparent conflicts reviewed by CRC Review Panel and national courts
+
+**Review Sequence for Apparent Conflicts:**
+
+1. CRC Review Panel has primary jurisdiction over CRC interpretation
+2. National courts may review only after CRC Review Panel exhaustion
+3. National court review is limited to constitutional overlay (whether the CRC application also implicates national constitutional rights)
+4. CRC Review Panel interpretation of CRC provisions is binding on national courts
+
+See [SAZ Legal Framework Section 7.5](01-saz-legal-framework.md#75-appellate-review-of-saz-court-decisions) for full appellate procedure.
 
 ### 8.3 Non-Prejudice to National Claims
 

@@ -40,10 +40,11 @@ Withdrawing guarantors should facilitate successor arrangements. Withdrawal with
 
 ### 3. Minimum Threshold Maintenance
 
-Withdrawal cannot reduce guarantor capacity below minimum thresholds. If withdrawal would breach minimums, additional measures are required.
+Withdrawal cannot reduce guarantor capacity below minimum thresholds. If withdrawal would breach minimums, additional measures are required (see "Minimum Threshold Procedures" section).
 
 **Threshold Maintenance Means:**
-- No withdrawal that breaches minimum guarantor count
+
+- No withdrawal that breaches minimum guarantor count (withdrawal paused until replacement secured)
 - No withdrawal that eliminates critical capacity
 - Emergency measures if thresholds threatened
 - MCF adaptation if minimums cannot be maintained
@@ -348,15 +349,17 @@ Immediate or near-immediate exit due to force majeure or extreme circumstances.
 ### 2. Replacement Approval
 
 **Approval Process:**
+
 - Nomination (self or other)
 - Capacity verification
-- Forum approval (expedited for replacement)
-- MCF concurrence
+- Guarantor Forum approval (2/3 majority; expedited timeline for replacements)
+- Confederal Council concurrence (supermajority; same threshold as new guarantor admissions per [Guarantor Selection](01-guarantor-selection.md#3-approval-requirements))
 
 **Expedited Approval:**
-- Faster timeline for replacements
-- Pre-approved reserve pool
-- Temporary approval pending full vetting
+
+- Faster timeline for replacements (vetting compressed from 180 to 90 days)
+- Pre-approved reserve pool (candidates pre-vetted for rapid activation)
+- Temporary approval pending full vetting (for urgent gaps; full approval within 6 months)
 
 ### 3. Capacity Verification
 
@@ -381,10 +384,13 @@ Immediate or near-immediate exit due to force majeure or extreme circumstances.
 - Continued recruitment efforts
 
 **Gap Coverage Duration:**
+
 - Maximum 12 months without replacement
 - Review at 6 months
 - Escalation if gap persists
 - MCF adaptation consideration
+
+**Relationship to Minimum Thresholds:** This 12-month gap coverage applies to function-specific gaps where minimum guarantor thresholds (Section 1) are still met. If a withdrawal would breach minimum thresholds, the breach-prevention procedures (Section 2) take precedence—withdrawal is paused and emergency recruitment activated before the 12-month gap coverage clock begins.
 
 ---
 
@@ -447,9 +453,11 @@ Immediate or near-immediate exit due to force majeure or extreme circumstances.
 
 ### 1. Threshold Definition
 
-**Minimum Guarantor Requirements:**
+**Minimum Guarantor Requirements (aligned with [Guarantor Selection](01-guarantor-selection.md#1-geographic-balance)):**
+
 - Minimum 5 guarantors
-- At least 1 major power
+- At least 1 state major power (US, China, or Russia)
+- At least 1 organization with major power capacity (EU or comparable)
 - At least 1 regional state
 - At least 1 neutral state
 - Security capacity from at least 2

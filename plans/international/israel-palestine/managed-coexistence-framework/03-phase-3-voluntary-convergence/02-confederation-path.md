@@ -27,11 +27,13 @@ Both national governments retain full sovereignty. The confederal layer provides
 | Dimension | Confederation Approach |
 |-----------|----------------------|
 | Sovereignty | Both states retain full sovereignty |
-| Citizenship | Dual citizenship: national + confederal |
+| Status | National citizenship + confederal status layer (not dual citizenship) |
 | Territory | Existing territories unchanged; SAZs become permanent |
 | Government | Three layers: national, confederal, SAZ |
 | Military | Coordinated but separate national forces |
 | Currency | Coordination; possibly shared or linked |
+
+**Confederal Status (Not Citizenship):** Confederal status is an additional layer providing rights within the confederation (similar to EU citizenship) but does not create dual citizenship. National citizenship remains exclusive to each state; confederal status attaches to all CMS holders automatically and provides cross-community rights, not a second citizenship with separate obligations.
 
 ### 1.3 Comparison to Alternatives
 
@@ -53,11 +55,13 @@ Before confederation path can be selected:
 
 | Requirement | Verification |
 |-------------|--------------|
-| Phase 2 success criteria sustained 15+ years | JSVC certification |
+| Phase 2 success criteria sustained 60+ months (per [Phase 3 Overview](00-overview.md#entry-requirements)) | JSVC certification |
 | All MCF institutions fully operational | Institutional audit |
 | CMS enrollment stable or growing | CMS Registry data |
 | Cross-community economic integration functional | Economic indicators |
 | Guarantor endorsement | Formal statement |
+
+**Note:** The 60+ month requirement is the minimum for Phase 3 entry eligibility. Confederation does not have a higher duration threshold than other end-state options; all paths share the same entry requirements per the Phase 3 Overview.
 
 ### 2.2 Referendum Approval
 
@@ -91,7 +95,7 @@ Confederation requires formal agreement from both party governments:
 - Constitutional amendments if required
 - Executive endorsement
 
-**Timeline:** Government approvals may occur before or after charter ratification referendum; both required before implementation.
+**Timeline:** Government approvals occur **after** charter ratification referendum passes (see Section 4.3 Adoption sequence: steps 5-6). This ensures governments approve a charter that has already received popular mandate, preventing scenarios where governments block a popularly-approved charter or approve a charter later rejected by referendum.
 
 ### 2.4 Guarantor Endorsement
 
@@ -162,11 +166,24 @@ Guarantors must:
 - Independent appointments commission
 
 **Jurisdiction:**
+
 - Confederal charter interpretation
-- CRC rights enforcement
 - Inter-community disputes
-- Appeals from SAZ tribunals
+- Appeals from SAZ tribunals on confederal law matters (see appeal chain clarification below)
 - Review of national laws for confederal compliance
+
+**Appeal Chain Clarification (preserving Phase 2 structure):**
+
+The Confederal Judicial Body does **not** replace the CRC Review Panel for CRC rights matters. The Phase 2 appeal chain continues:
+
+| Matter Type | Appeal Chain |
+|-------------|--------------|
+| **CRC rights** | SAZ courts → CRC Review Panel → Confederal Judicial Body (only after CRC Review Panel exhaustion) |
+| **Confederal charter/law** | SAZ courts → Confederal Judicial Body (direct) |
+| **Constitutional Floor** | SAZ courts → Confederal Judicial Body (direct) |
+| **Inter-community disputes** | Confederal Judicial Body (original jurisdiction) |
+
+The CRC Review Panel continues as the primary forum for CRC interpretation. The Confederal Judicial Body handles confederal charter interpretation and serves as final appellate authority after CRC Review Panel exhaustion for CRC matters. This preserves institutional continuity and specialized CRC expertise while adding confederal charter jurisdiction.
 
 ### 3.4 Confederal Agencies
 

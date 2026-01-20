@@ -283,12 +283,26 @@ This human and institutional capital then deploys to internal SAZs.
 ### 3. Voluntary Migration
 
 **Participation Is Entirely Voluntary:**
+
 - No one relocated against will
 - Free to leave at any time
 - No penalty for departure
-- Return rights to origin guaranteed
+- Return rights protected (see Return Rights Framework below)
+
+**Return Rights Framework:**
+
+| Participant Category | Return Right | Implementation |
+|---------------------|--------------|----------------|
+| **Israeli citizens** | Return to Israel | Israeli citizenship; MCF does not affect |
+| **Palestinian Authority residents** | Return to PA territory | PA documentation; MCF does not affect |
+| **Diaspora with citizenship** | Return to citizenship country | Citizenship country law; MCF does not affect |
+| **Stateless/undocumented diaspora** | Right to remain in SAZ or host country | Host country agreement includes residency pathway for participants who cannot return elsewhere |
+| **Participants who lose origin status** | Protected status | MCF guarantees continued SAZ residence or host country residency if SAZ closes |
+
+**MCF Commitment:** No participant will be rendered stateless or without residence options due to SAZ participation. For participants without clear return options, the host country agreement must include a residency pathway, or MCF guarantors must provide alternative residence.
 
 **This Is Not:**
+
 - Population transfer
 - Refugee resettlement
 - Forced relocation
@@ -303,9 +317,27 @@ This human and institutional capital then deploys to internal SAZs.
 - Adjusted over time as needed
 
 **Mixed Families:**
+
 - Encouraged
-- Children count toward both communities
-- No forced classification
+- No forced identity classification
+
+**Quota Counting Rules:**
+
+For demographic balance calculation purposes only:
+
+| Situation | Counting Rule |
+|-----------|---------------|
+| **Mixed-family children** | Single community affiliation chosen by family |
+| **Affiliation choice** | Made at application; may be updated every 5 years |
+| **Default if no choice** | Follows primary caregiver's affiliation |
+| **Adults** | Self-declared affiliation at application |
+
+**Clarifications:**
+
+- Quota affiliation is administrative only—does not restrict cultural identity, participation, or rights
+- A child counted as Israeli-origin may fully participate in Palestinian cultural programs and vice versa
+- Family may change affiliation designation at any 5-year interval
+- No double-counting: each individual counts toward exactly one community for quota purposes
 
 ---
 
@@ -338,10 +370,28 @@ This human and institutional capital then deploys to internal SAZs.
 - MCF/guarantors provide governance oversight
 
 **What Host Country Gives Up:**
+
 - Day-to-day governance
 - Taxation (except agreed shares)
-- Entry/exit control
-- Law enforcement (except for host nationals)
+- Unilateral entry/exit control (see Joint Entry Authority below)
+- Internal law enforcement (see Law Enforcement Scope below)
+
+**Joint Entry Authority:**
+
+Entry/exit decisions are managed by a Joint Entry Committee with:
+
+- SAZ has operational control (processes applications, issues permits)
+- Host retains security veto (can deny entry for documented security threats)
+- Disputes resolved by guarantor arbitration
+- Host border security personnel may be present at entry points but do not make individual admission decisions
+
+**Law Enforcement Scope:**
+
+- SAZ police are the sole internal police force within SAZ boundaries
+- SAZ police enforce SAZ law against all persons present (including host nationals)
+- Host police do not operate inside SAZ (no parallel police forces)
+- For serious offenses (>10 years) involving host nationals, SAZ police investigate and arrest; host courts may claim jurisdiction for prosecution under host-MCF agreement
+- This arrangement is similar to Status of Forces Agreements (SOFA) for military bases
 
 **What Host Country Retains:**
 - External security responsibility
@@ -477,15 +527,25 @@ This human and institutional capital then deploys to internal SAZs.
 ### 2. MCF Security Mechanisms
 
 **SAZ Applies Standard Security Model:**
+
 - Demilitarization
 - Integrated police
-- External rapid response (guarantor, not host)
+- External rapid response (see below for host/guarantor roles)
 - Paramilitary prevention
 
-**Adaptation for External Context:**
-- Entry controls managed jointly with host
-- Border security coordinated
-- Emergency response protocols include host
+**External Security Layering (adaptation for external context):**
+
+| Layer | Primary Actor | Backup Actor | Function |
+|-------|---------------|--------------|----------|
+| **External perimeter** | Host country | Guarantors | Border defense, external threats |
+| **Entry control** | SAZ (Joint Entry Committee) | Host veto for security | Admission decisions |
+| **Internal policing** | SAZ police | None (sole authority) | Law enforcement within SAZ |
+| **Major incident response** | Host country | Guarantors | Overwhelmed SAZ police capacity |
+| **Counter-terrorism** | Host country | Guarantors | Intelligence, interdiction |
+
+**Host as Primary External Security:**
+
+Unlike internal SAZs (where guarantors provide external rapid response because national forces are parties to the conflict), the external SAZ relies on the host country as primary external security provider. The host is neutral and has no conflict of interest. Guarantors serve as backup if host capacity is overwhelmed or if host requests assistance.
 
 ### 3. Guarantor Involvement
 

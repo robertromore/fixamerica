@@ -65,29 +65,35 @@ This rule is absolute and applies across all MCF dispute mechanisms.
 
 ### 1. Criminal Matters
 
-**Excluded:**
+**Excluded from MCF Dispute Resolution Bodies:**
 - Criminal prosecution
 - Criminal investigation
 - Criminal penalties
 - Criminal procedural matters
 
+**Scope of Exclusion:** This exclusion applies to MCF *dispute resolution mechanisms* (Arbitration Courts, Review Panels, Institutional Dispute processes). It does not exclude criminal jurisdiction from SAZ courts, which have criminal jurisdiction for offenses within their territory where the maximum penalty is ≤10 years per [SAZ Governance](../02-phase-2-saz-development/02-saz-governance.md).
+
 **Rationale:**
-- MCF lacks enforcement capacity for criminal law
-- Criminal jurisdiction is sovereign function
-- Due process requirements exceed MCF capacity
-- International criminal law provides external mechanisms
+- Dispute resolution bodies lack enforcement capacity for criminal law
+- Criminal jurisdiction is primarily a sovereign function
+- Due process requirements exceed dispute resolution capacity
+- International criminal law provides external mechanisms for serious crimes
 
 **Where Criminal Matters Go:**
-- National criminal courts
-- International Criminal Court (where applicable)
-- International humanitarian law mechanisms
-- National prosecution services
 
-**MCF Role:**
-- Documentation and preservation
-- Referral to appropriate authorities
+| Matter Type | Forum |
+|-------------|-------|
+| Offenses within SAZ territory (≤10 years) | SAZ courts |
+| Offenses exceeding SAZ jurisdiction (>10 years) | National criminal courts |
+| International crimes | International Criminal Court (where applicable) |
+| Humanitarian law violations | International humanitarian law mechanisms |
+| General criminal matters | National prosecution services |
+
+**MCF Dispute Resolution Role:**
+- Documentation and preservation (for referral)
+- Referral to appropriate authorities (SAZ courts, national courts, international mechanisms)
 - Witness protection support (where possible)
-- No adjudication
+- No criminal adjudication by dispute resolution bodies
 
 ### 2. Security Operations
 
@@ -363,17 +369,27 @@ This rule is absolute and applies across all MCF dispute mechanisms.
 
 ### 1. Appropriate Forum Determination
 
+**Confederal Commercial Courts When (Primary for Commercial/Labor):**
+- Commercial dispute between MCF participants
+- Labor dispute involving MCF-registered employer
+- Contract specifies Commercial Court or is silent on forum
+- Full adjudicative procedures and appellate review appropriate
+
 **Arbitration Courts When:**
-- Individual-to-individual dispute
-- Commercial or civil matter
-- Parties consented to arbitration
-- Remedy within MCF authority
+- Parties' contract explicitly specifies arbitration
+- Parties mutually agree to arbitrate after dispute arises
+- CMS-related conduct disputes (not credential revocation)
+- Property disputes between participants
+- Disputes outside Commercial Court scope
+
+**Forum Priority Note:** For commercial and labor disputes within [Confederal Commercial Court](../07-economic-architecture/03-commercial-courts.md) jurisdiction, Commercial Courts are the primary forum. Arbitration is available only by explicit party agreement per [Arbitration Courts](01-arbitration-courts.md#11-relationship-to-commercial-courts). CMS enrollment provides eligibility for both forums but does not automatically submit disputes to arbitration.
 
 **Review Panels When:**
 - Individual-to-authority dispute
 - CRC or procedural violation alleged
+- CMS revocation, suspension, or credential disputes (post-grant)
+- Process complaints about authority conduct
 - Framework-internal remedy sought
-- Authority within MCF system
 
 **Institutional Dispute Process When:**
 - Institution-to-institution conflict

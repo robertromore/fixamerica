@@ -20,11 +20,14 @@ Site selection is among the most politically fraught decisions in the MCF framew
 
 ### 1. Voluntary Participation Primacy
 
-No SAZ can be established over the objection of existing residents. This is not just pragmatic—it is foundational. MCF is built on voluntarism. Forcing an SAZ on unwilling populations would:
+No SAZ can be established without demonstrated resident consent through referendum. This is not just pragmatic—it is foundational. MCF is built on voluntarism. Imposing an SAZ without majority support would:
+
 - Violate core MCF principles
 - Guarantee resistance and failure
 - Discredit the entire framework
 - Create exactly the coercion MCF seeks to avoid
+
+**Consent Model (not unanimity):** The consent requirement is supermajority threshold (55% approval, 30% per-community), not unanimity. Individual residents may oppose and remain protected (see Section "Protection for Dissenters"). The principle prohibits establishing SAZs where consent thresholds are not met—not where any individual objects.
 
 **Implication:** Site selection begins with demand, not with geographic logic.
 
@@ -131,9 +134,12 @@ It means: Reasonable ability to control access and maintain demilitarization.
 - Willingness to participate in mixed governance
 
 **Challenging but Possible:**
+
 - Adjacent communities willing to merge
-- Single community willing to accept others
+- Single community willing to accept others (see **Single-Community Exception** in Section 2.3 for how thresholds apply)
 - Diaspora settlement in underutilized area
+
+**Single-Community Sites:** If one community constitutes <10% of the proposed SAZ population, the site may still be considered. The per-community threshold (30%) applies only to the majority community at establishment; it activates for the minority community once that community reaches 10% of population. This allows single-community sites to establish with the expectation of becoming mixed over time, while protecting minority newcomers from majoritarian capture once they reach meaningful presence.
 
 **Disqualifying:**
 - Overwhelming opposition from existing residents
@@ -162,10 +168,19 @@ It means: Reasonable ability to control access and maintain demilitarization.
 - Not coerced by economic or security pressure
 - Informed consent (understanding what SAZ means)
 
-**Minimum Thresholds:**
-- 60% overall support for SAZ establishment
-- 40% minimum support from each community
-- Support verified by independent monitors
+**Minimum Thresholds (per [SAZ Legal Framework Section 2.6](01-saz-legal-framework.md#26-resident-consent-referendum)):**
+
+| Threshold | Requirement |
+|-----------|-------------|
+| **Participation** | ≥50% of eligible residents vote |
+| **Approval** | ≥55% of votes cast in favor |
+| **Per-community minimum** | ≥30% approval in each community present (see single-community exception below) |
+
+**Eligibility:** Adult residents (18+) who have resided in proposed SAZ territory for ≥12 months.
+
+**Single-Community Exception:** If the proposed SAZ has only one community with meaningful presence (the other community is <10% of population), the per-community threshold applies only to the majority community. The per-community threshold for the minority community activates once that community reaches 10% of SAZ population, tested at each 5-year review.
+
+- Support verified by independent monitors (JSVC with guarantor observation)
 
 #### 2.4 Population Stability
 
@@ -471,16 +486,23 @@ Jerusalem is **explicitly excluded from SAZ consideration** until Phase 3 or bey
 #### 3.1 Decision Authority
 
 **Who Decides:**
+
 - Confederal Council recommends
 - Guarantors certify feasibility
+- **Both parties (Israeli and Palestinian authorities) must consent** (per [SAZ Legal Framework Section 2.1-2.5](01-saz-legal-framework.md#21-establishment-options))
 - Local referendum confirms
-- No single party can impose
+- No single party can impose; equally, no SAZ can proceed without party consent
 
-**Sequence:**
+**Sequence (aligned with [SAZ Legal Framework Section 2.2](01-saz-legal-framework.md#22-bilateral-agreement-model)):**
+
 1. Confederal Council ranks sites
 2. Guarantors certify top choices
-3. Local referenda conducted
-4. First site with all approvals selected
+3. **Party consent to proceed to referendum** (parties agree to allow referendum; not yet final commitment)
+4. Local referendum conducted
+5. If referendum passes: **Formal agreement signed** (bilateral agreement, unilateral acceptance, or guarantor-facilitated agreement per Legal Framework)
+6. First site with all approvals selected proceeds to implementation
+
+**Note:** Party consent at step 3 is conditional—parties agree to allow the referendum but are not bound until step 5 (post-referendum agreement). This matches Legal Framework Section 2.2 where resident consent (referendum) precedes formal agreement signing.
 
 #### 3.2 Decision Criteria Weighting
 
@@ -502,9 +524,12 @@ Jerusalem is **explicitly excluded from SAZ consideration** until Phase 3 or bey
 #### 3.3 Approval Requirements
 
 **Required for Selection:**
+
 - Confederal Council approval (supermajority)
 - Guarantor certification (all principal guarantors)
-- Local referendum (60% overall, 40% each community)
+- **Party consent to proceed to referendum** (per [SAZ Legal Framework Section 2.1-2.5](01-saz-legal-framework.md#21-establishment-options))
+- Local referendum passes (thresholds per Legal Framework Section 2.6: 50% participation, 55% approval, 30% per-community)
+- **Formal party agreement signed** (post-referendum; completes establishment per Legal Framework Section 2.2 Step 4)
 - No disqualifying veto
 
 #### 3.4 Appeal Procedures
@@ -541,12 +566,14 @@ Jerusalem is **explicitly excluded from SAZ consideration** until Phase 3 or bey
 - Simple question: "Do you support establishment of an SAZ in [location]?"
 - Results binding
 
-**Referendum Conduct:**
-- Minimum 6-month deliberation period
-- Information campaign (balanced, factual)
-- All residents eligible to vote
-- Secret ballot
-- Results certified by guarantors
+**Referendum Conduct (per [SAZ Legal Framework Section 2.6](01-saz-legal-framework.md#26-resident-consent-referendum)):**
+
+- Minimum 60-day campaign period
+- Information campaign (balanced, factual, in Hebrew/Arabic/English)
+- Eligible voters: Adult residents (18+) with ≥12 months residency
+- Secret ballot (in-person with paper; absentee available)
+- International election observers required
+- Results certified by guarantors before binding
 
 ### 3. Opt-Out Provisions
 
@@ -654,21 +681,32 @@ Jerusalem is **explicitly excluded from SAZ consideration** until Phase 3 or bey
 
 ### 2. Modification Process
 
+**Party Consent Requirement (per [SAZ Legal Framework Section 6.3](01-saz-legal-framework.md#63-boundary-modification)):**
+
+All boundary modifications require party (Israeli and Palestinian authority) consent. MCF bodies may recommend modifications but cannot authorize them without the consent requirements below.
+
 **Expansion:**
+
 1. Petition from adjacent community (majority support)
 2. Feasibility assessment
 3. SAZ Council approval (supermajority)
-4. Guarantor certification
-5. Local referendum in expansion area
-6. Integration plan implementation
+4. **Party consent: Both parties must consent (non-objection after 90-day notice period satisfies this requirement)**
+5. Guarantor certification
+6. Local referendum in expansion area (same thresholds as establishment: 50% participation, 55% approval, 30% per-community minimum)
+7. Integration plan implementation
 
 **Contraction:**
+
 1. Trigger conditions documented
 2. Assessment by JSVC and guarantors
-3. Notification to affected residents
-4. Transition period (minimum 90 days)
-5. Orderly withdrawal of SAZ jurisdiction
-6. Status of area clarified (return to prior status or other)
+3. **Party consent: Both parties must consent**
+4. Notification to affected residents
+5. Local referendum in contraction area (50% participation, simple majority approval)
+6. Transition period (minimum 90 days)
+7. Orderly withdrawal of SAZ jurisdiction
+8. Status of area clarified (return to prior status or other)
+
+**Technical Adjustment Exception:** Minor corrections (<1% territory change) for survey errors or infrastructure access require party consent but no referendum.
 
 ### 3. Resident Protection During Modification
 

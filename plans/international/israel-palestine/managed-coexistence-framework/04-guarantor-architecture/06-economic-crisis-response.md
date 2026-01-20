@@ -177,7 +177,7 @@ This framework establishes:
 
 | Domain | Actions |
 |--------|---------|
-| **Governance** | Crisis Management Committee takes operational authority; daily reporting to Council |
+| **Governance** | Crisis Management Committee takes operational authority (see Section 3.4); daily reporting to Council |
 | **Reserves** | Full reserve drawdown authorization; emergency funding requests to guarantors |
 | **Expenditure** | Essential operations only; non-essential programs suspended; emergency staffing reductions |
 | **Operations** | Implement prioritized operations plan; program suspensions as needed |
@@ -189,6 +189,43 @@ This framework establishes:
 - Weekly Confederal Council briefing
 - Guarantor emergency funding decision within 14 days
 - Phase regression consideration if crisis exceeds 6 months
+
+### 3.4 Crisis Management Committee
+
+**Definition:** The Crisis Management Committee is the Executive Committee convened in crisis response mode with expanded membership and operational authority.
+
+**Composition:**
+
+| Role | Standing Member | Crisis Addition |
+|------|-----------------|-----------------|
+| Chair | Executive Director | — |
+| Finance lead | Chief Financial Officer | Required attendance |
+| Operations | Operations Director | Required attendance |
+| Security | JSVC representative | Required attendance |
+| Guarantor liaison | Guarantor Forum liaison | As needed |
+| Crisis coordinator | — | Appointed for crisis duration |
+
+**Authority:**
+
+- Operational authority for crisis response decisions within Confederal Council policy
+- Daily spending authorization up to 10% of remaining reserves
+- Program suspension decisions (Tier C-D; Tier B with Council notification)
+- Staff deployment and emergency hiring decisions
+- External communication authorization
+- Emergency contract authority
+
+**Limitations:**
+
+- Cannot modify Tier A program delivery without Confederal Council approval
+- Cannot authorize mass layoffs (>20%) without Confederal Council approval
+- Cannot draw endowment principal without Confederal Council + Guarantor Forum approval
+- Must report daily to Confederal Council (written summary; weekly detailed briefing)
+
+**Activation/Deactivation:**
+
+- Activated automatically when Crisis level declared
+- Deactivated when Crisis de-escalates to Alert level
+- Executive Committee resumes normal authority upon deactivation
 
 ---
 
@@ -296,9 +333,10 @@ During crisis, MCF resources are allocated according to priority tiers:
 | Level 3+ | Confederal Council | 100% of reserve | As feasible |
 
 **Drawdown Procedures:**
+
 1. Written request with justification
 2. Approval at appropriate level
-3. Board notification (for >30%)
+3. Confederal Council notification (for >30%)
 4. Public disclosure (for >50%)
 5. Replenishment plan required
 
@@ -316,7 +354,8 @@ Guarantors commit to emergency funding provisions:
 | In-kind support | Seconded personnel, equipment | 30 days |
 
 **Request Procedures:**
-1. Crisis Management Committee prepares request
+
+1. Crisis Management Committee (Section 3.4) prepares request
 2. Executive Director transmits to Guarantor Forum Chair
 3. Guarantor Forum emergency session (virtual acceptable)
 4. Individual guarantor commitments within 14 days
@@ -439,10 +478,12 @@ Guarantors commit to emergency funding provisions:
 
 | From → To | Criteria |
 |-----------|----------|
-| Crisis → Alert | Reserve >3 months; funding gap <20%; stable indicators 30 days |
-| Alert → Warning | Reserve >4.5 months; funding gap <10%; stable indicators 45 days |
-| Warning → Watch | Reserve >6 months; no funding gap; stable indicators 60 days |
+| Crisis → Alert | Reserve >6 months; funding gap <15%; stable indicators 30 days |
+| Alert → Warning | Reserve >7.5 months; funding gap <10%; stable indicators 45 days |
+| Warning → Watch | Reserve >9 months; no funding gap; stable indicators 60 days |
 | Watch → Normal | All indicators within normal range 90 days |
+
+**Threshold Design Note:** De-escalation thresholds are set above entry thresholds (Crisis entry at <6 months; Crisis exit at >6 months) to prevent oscillation between levels. Each level requires a meaningful buffer above its entry threshold before de-escalation is permitted.
 
 ### 7.2 Recovery Planning
 

@@ -129,12 +129,18 @@ Rights continuity is:
 
 **Details:**
 - CRC text incorporated by reference in confederal charter
-- Confederal courts retain jurisdiction over CRC disputes
+- CRC Review Panel continues as primary CRC adjudication body
 - National governments may not derogate from CRC in their territories
 - CRC amendments require supermajority in Confederal Council + community vetoes
 
-**Enforcement:**
-- Confederal judicial body (evolved from MCF tribunal)
+**Enforcement (aligned with [Confederation Path](02-confederation-path.md)):**
+
+| Matter Type | Primary Forum | Appellate Forum |
+|-------------|---------------|-----------------|
+| CRC rights disputes | CRC Review Panel | Confederal Judicial Body (only after CRC Review Panel exhaustion) |
+| Confederal charter interpretation | Confederal Judicial Body | None (final) |
+| Constitutional Floor matters | Confederal Judicial Body | None (final) |
+
 - Individual right of action preserved
 - Guarantor oversight during transition; phased reduction over 10 years
 - International reporting obligations
@@ -201,19 +207,28 @@ Regardless of end state, minority community guaranteed:
 
 ### 4.2 Community Veto Procedures
 
-**Scope:** Applies to measures affecting:
-- Religious practice and sites
-- Language policy
-- Educational curriculum on community history
-- Cultural heritage protection
-- Community-specific family law (where applicable)
+**Scope:** Community veto applies to measures affecting identity-related matters, classified as follows:
+
+| Category | Examples | Override Permitted? |
+|----------|----------|---------------------|
+| **Non-Overrideable (Absolute Veto)** | | |
+| Religious practice | Freedom of worship, religious observance | No |
+| Holy site access | Entry to religious sites, worship at sites | No |
+| Language recognition | Official status of community language | No |
+| Community-specific family law | Marriage, divorce, inheritance under religious law | No |
+| **Overrideable (2/3 Supermajority)** | | |
+| Educational curriculum details | Historical narrative emphasis, required texts | Yes |
+| Cultural heritage resource allocation | Funding levels, preservation priorities | Yes |
+| Language service levels | Translation services, signage requirements | Yes |
+| Cultural program funding | Arts, media, cultural institution support | Yes |
 
 **Procedure:**
+
 1. Measure proposed through normal legislative process
 2. Community caucus may invoke veto within 14 days
 3. Veto triggers mandatory consultation (30 days)
-4. Modified proposal requires community caucus approval OR supermajority override (2/3)
-5. Core identity matters cannot be overridden
+4. For overrideable matters: modified proposal requires community caucus approval OR supermajority override (2/3)
+5. For non-overrideable matters: community caucus consent is required; no override available
 
 ### 4.3 Exit Option
 
@@ -225,7 +240,8 @@ Regardless of end state, minority community guaranteed:
 - Re-enrollment possible after 24 months
 
 **Collective Concerns:**
-- If referendum shows >30% community opposition:
+
+- If referendum shows >50% opposition within either community (per [Referenda Procedures Section 9.3](01-referenda-procedures.md#93-exit-option)):
   - Additional safeguards negotiated before implementation
   - Guarantor involvement in transition monitoring
   - Periodic review of minority satisfaction

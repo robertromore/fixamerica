@@ -99,8 +99,9 @@ Initial eligibility covers:
 The following categories are ineligible:
 
 - Individuals with convictions for terrorism, war crimes, or crimes against humanity
+- Individuals with convictions for serious violent offenses (murder, attempted murder, aggravated assault causing serious bodily harm, kidnapping, sexual violence); full list in Annex D
 - Individuals currently subject to security detention by either party
-- Individuals under active security investigation (eligibility suspended pending resolution)
+- Individuals under active security investigation (eligibility suspended pending resolution; see Section 2.3 for time limits)
 - Individuals who have previously had CMS revoked for cause (unless rehabilitated per Section 6)
 
 ### 2.2 Eligibility Requirements
@@ -148,7 +149,7 @@ Vetting covers:
 2. Vetting Unit conducts records check (target: 30 days)
 3. If concerns arise, applicant is notified and may respond
 4. Vetting Unit issues determination: Cleared, Denied, or Pending (with explanation)
-5. Denied applicants may appeal (Section 2.6)
+5. Denied or Pending applicants may appeal (Section 2.7)
 
 **Vetting Standards**
 
@@ -157,8 +158,23 @@ Vetting covers:
 | No disqualifying information | Cleared |
 | Disqualifying conviction | Denied |
 | Active security concern | Denied or Pending |
-| Unverifiable identity | Denied pending documentation |
+| Unverifiable identity | Pending (awaiting documentation); Denied after 90 days if not resolved |
 | Minor concerns, mitigated | Cleared with notation |
+
+**Pending Status Time Limits**
+
+"Pending" determinations are subject to strict time limits:
+
+| Pending Reason | Maximum Duration | Resolution |
+|----------------|------------------|------------|
+| Active security investigation | 180 days | Must resolve to Cleared or Denied |
+| Awaiting additional documentation | 90 days | Denied if documentation not provided |
+| Inter-agency consultation | 120 days | Must resolve to Cleared or Denied |
+
+- Applicant receives written notification at 30, 60, and 90 days with status update
+- After maximum duration, Vetting Unit must issue final determination (Cleared or Denied)
+- Applicant may appeal continued Pending status after 90 days using standard appeal process (Section 2.7)
+- Guarantor ombudsman may intervene if Pending status exceeds 180 days without resolution
 
 ### 2.4 Civic Education Curriculum
 
@@ -220,11 +236,22 @@ The nonviolence pledge establishes a behavioral commitment as a condition of CMS
 >
 > 3. I will not use my CMS status or MCF access to facilitate violence or harm to others.
 >
-> 4. I will report credible threats of violence that I become aware of through MCF channels.
+> 4. I will report credible threats of violence that I become aware of through MCF channels. (See Threat Reporting Protections below.)
 >
 > 5. I understand that violation of this pledge may result in CMS suspension or revocation.
 >
 > This pledge applies to my conduct within MCF domains and programs. It does not alter my rights or obligations under national law outside MCF domains.
+
+**Threat Reporting Protections**
+
+CMS holders who report threats under pledge item 4 receive:
+
+- **Confidentiality**: Reporter identity protected from disclosure; reports anonymized before any external sharing
+- **Safe harbor**: Good-faith reports cannot be grounds for CMS action, even if threat proves unfounded
+- **Retaliation protection**: Retaliation against reporters is a high-severity Anti-Intimidation violation
+- **No obligation to self-incriminate**: Reporting requirement does not compel disclosure of information that would expose reporter to criminal liability
+
+**Imminent Threat Exception**: When MCF receives a threat report indicating imminent risk to life (attack expected within 72 hours), MCF may share actionable threat information with relevant authorities without reporter identity and without holder consent. This exception is narrowly construed: only the specific threat information necessary to prevent harm may be shared.
 
 **Scope of Pledge**
 
@@ -282,14 +309,24 @@ Upon completion of all requirements:
 
 ### 2.7 Appeal Process
 
-Applicants denied CMS may appeal:
+Applicants denied CMS or in extended Pending status may appeal:
+
+**Denial Appeals:**
 
 1. Written appeal submitted within 30 days of denial
-2. Appeal reviewed by CMS Appeals Panel (independent of Vetting Unit)
+2. Appeal reviewed by CMS Appeals Board (independent of Vetting Unit)
 3. Appellant may submit additional documentation or explanation
-4. Panel decision within 30 days
-5. Panel may: affirm denial, grant CMS, or order re-vetting
-6. Panel decision is final within MCF (guarantor oversight available for systemic issues)
+4. Board decision within 30 days
+5. Board may: affirm denial, grant CMS, or order re-vetting
+6. Board decision is final within MCF (guarantor oversight available for systemic issues)
+
+**Pending Status Appeals:**
+
+1. Written appeal submitted after 90 days in Pending status (per Section 2.3)
+2. Appeal reviewed by CMS Appeals Board
+3. Board decision within 14 days
+4. Board may: order determination by specific deadline (max 30 days), grant CMS, or affirm continued Pending with justification
+5. If Vetting Unit fails to meet Board-ordered deadline, status automatically converts to Cleared unless disqualifying information is documented
 
 ### 2.8 Family and Dependent Status
 
@@ -419,7 +456,7 @@ CMS holders gain access to benefits that grow over MCF phases:
 
 | Phase | Benefits |
 |-------|----------|
-| Phase 1 | Employment access, arbitration courts, due process, credential portability |
+| Phase 1 | Employment access, dispute resolution (Commercial Courts primary; arbitration by agreement), due process, credential portability |
 | Phase 2 | SAZ residency eligibility, civic dividends, enhanced services |
 | Phase 3 | Expanded political participation in convergence processes |
 
@@ -431,8 +468,20 @@ CMS holders may participate in MCF-facilitated employment:
 
 - Cross-community employment opportunities
 - Wage and labor protection under MCF standards
-- Dispute resolution through confederal arbitration
+- Dispute resolution through [Confederal Commercial Courts](../07-economic-architecture/03-commercial-courts.md) (primary) or arbitration (by explicit agreement)
 - Protection from discrimination based on community origin
+
+**Work Authorization**
+
+MCF employment programs operate within a negotiated work authorization framework:
+
+- Guarantors facilitate work permit arrangements with both parties as part of MCF establishment
+- MCF-registered employers receive streamlined permit processing for CMS employees
+- CMS credential serves as eligibility documentation for MCF employment permit applications
+- Permits are issued under national authority but processed through MCF employment program
+- See [Labor Mobility](../07-economic-architecture/02-labor-mobility.md) for detailed permit procedures
+
+*Note: CMS alone does not authorize employment; CMS holders must obtain applicable work permits through the MCF employment program. MCF facilitates but does not override national work authorization requirements.*
 
 **Employment Protections**
 
@@ -453,16 +502,28 @@ Employers access CMS workforce by:
 - Submitting to MCF audit and dispute resolution
 - Providing workplace data for monitoring
 
-### 4.3 Arbitration Court Access
+### 4.3 Dispute Resolution Access
 
-CMS holders may use confederal arbitration courts for:
+CMS holders have access to MCF dispute resolution forums:
+
+**Commercial Courts (Primary Forum):**
 
 - Employment disputes arising from MCF programs
 - Commercial disputes with other CMS holders or registered employers
 - Contract enforcement under MCF commercial framework
-- Civil disputes arising within MCF domains
 
-See: [Commercial Courts](../07-economic-architecture/03-commercial-courts.md)
+See: [Confederal Commercial Courts](../07-economic-architecture/03-commercial-courts.md)
+
+**Arbitration (By Explicit Agreement):**
+
+- Disputes where parties' contract specifies arbitration
+- CMS-related conduct and credential disputes
+- Property disputes between participants
+- Disputes where parties mutually agree to arbitrate after dispute arises
+
+See: [Arbitration Courts](../05-dispute-resolution/01-arbitration-courts.md)
+
+**Forum Priority:** For commercial and labor disputes, Commercial Courts are the primary forum. Arbitration is available only by explicit party agreement (contract clause or post-dispute mutual consent). CMS enrollment provides eligibility for both forums but does not automatically submit commercial/labor disputes to arbitration.
 
 ### 4.4 Due Process Guarantees
 
@@ -610,7 +671,7 @@ CMS may be revoked (permanently terminated) for:
 2. CMS holder notified of proposed revocation and grounds
 3. Holder may respond in writing and/or request hearing
 4. Hearing before CMS Review Panel (if requested)
-5. Panel determination: revoke, suspend, or reinstate with conditions
+5. Review Panel determination: revoke, suspend, or reinstate with conditions
 6. Appeal available to CMS Appeals Board
 
 **Revocation Effects**
@@ -659,10 +720,12 @@ CMS data may be accessed by:
 
 CMS data may **not** be shared with:
 
-- National governments of conflict parties (except as required for specific program operation with holder consent)
+- National governments of conflict parties (except as required for specific program operation with holder consent, or under the Imminent Threat Exception in Section 2.5)
 - Employers (beyond status verification)
 - Third parties without holder consent
 - Media or public
+
+**Imminent Threat Exception**: Actionable threat information may be shared with authorities to prevent imminent violence per Section 2.5 (Threat Reporting Protections). Reporter identity is never disclosed under this exception.
 
 ### 7.3 Data Upon Withdrawal or Revocation
 
@@ -770,7 +833,16 @@ CMS is prerequisite for:
 
 ### Annex D: Vetting Standards Manual
 
-*[To be developed: Detailed vetting procedures and standards]*
+*[To be developed: Detailed vetting procedures and standards, including:]*
+
+- *Complete list of disqualifying offenses by category:*
+    - *Terrorism, war crimes, crimes against humanity (absolute exclusion)*
+    - *Serious violent offenses (murder, attempted murder, aggravated assault causing serious bodily harm, kidnapping, sexual violence)*
+    - *Offenses involving weapons trafficking or explosive materials*
+    - *Organized crime participation*
+- *Rehabilitation criteria for time-limited exclusions*
+- *Evidence standards for each offense category*
+- *Cross-jurisdictional offense equivalency guidelines*
 
 ---
 

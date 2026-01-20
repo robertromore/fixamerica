@@ -29,9 +29,11 @@ SAZs are demilitarized zones. This is not aspirational—it is constitutive. No 
 - Demilitarization signals that SAZs are spaces of civilian life, not contestation
 
 **Demilitarization is Permanent:**
+
 - Not a transitional arrangement
 - Not subject to renegotiation
-- Violation triggers automatic regression or dissolution
+- Major violations trigger phase regression per compliance ladder (see Section 1.4)
+- Dissolution is reserved for extreme cases where regression is insufficient (see Section 1.4 Dissolution Criteria)
 
 ### 2. Police Primacy
 
@@ -93,7 +95,13 @@ No military or paramilitary forces may be present within SAZ:
 
 **Exception for Transit:**
 - Guarantor forces may transit SAZ in emergency with notification
-- Transit does not include stationing, basing, or operations within SAZ
+- Transit does not include stationing, basing, or routine operations within SAZ
+
+**Exception for Emergency Response:**
+
+- Guarantor rapid-response operations within SAZ are permitted under activation procedures (see Section "External Rapid Response")
+- Operational deployments are time-limited (see Section 3.1 Duration Limits)
+- This exception does not create permanent guarantor presence; forces withdraw when threat is neutralized
 
 #### 1.3 Verification Mechanisms
 
@@ -124,10 +132,24 @@ No military or paramilitary forces may be present within SAZ:
 - Red: Major violations, phase regression triggered
 
 **Reporting:**
+
 - Monthly compliance reports to Confederal Council
 - Immediate reporting of significant violations
 - Quarterly public reports
 - Annual comprehensive assessment
+
+**Dissolution Criteria:**
+
+Dissolution (termination of SAZ status) is distinct from phase regression and applies only when:
+
+| Criterion | Description |
+|-----------|-------------|
+| **Sustained red status** | Red compliance status for 6+ consecutive months without improvement |
+| **Repeated regression** | Third phase regression within 5 years |
+| **Fundamental breach** | Military force seizure of SAZ territory, systematic ethnic cleansing, or collapse of civilian governance |
+| **Guarantor determination** | Guarantor Forum unanimously determines SAZ is no longer viable |
+
+Dissolution requires Confederal Council supermajority (2/3) plus Guarantor Forum concurrence. Dissolution triggers orderly termination procedures per [SAZ Legal Framework Section 8](01-saz-legal-framework.md#8-termination-and-transition).
 
 ### 2. Transition to Demilitarization
 
@@ -162,10 +184,13 @@ Before SAZ establishment, the designated territory must be demilitarized:
 - Equipment removal, not destruction in place
 
 **Palestinian Security Forces:**
-- Option to integrate into SAZ police (with vetting)
+
+- Option to integrate into SAZ police (with enhanced vetting—see Transition Integration Exception below)
 - Option to redeploy outside SAZ
 - Disarmament of those remaining as civilians
 - No parallel security structures
+
+**Transition Integration Exception:** Palestinian security personnel who integrate into SAZ police during the initial transition period (Section 2.1) are exempt from the 5-year cooling-off period that otherwise applies to national military/security recruitment (Section 1.1 Recruitment Sources). This exception requires: (a) integration occurs during the 90-day transition window, (b) enhanced vetting including human rights record review, (c) completion of full SAZ police academy training, and (d) JSVC certification. After the transition window closes, the standard 5-year cooling-off applies to all subsequent recruitment.
 
 **Armed Factions:**
 - Disarmament mandatory
@@ -203,10 +228,11 @@ Before SAZ establishment, the designated territory must be demilitarized:
 - Maximum: Determined by population and need
 
 **Recruitment Sources:**
+
 - SAZ residents (prioritized)
 - Other MCF participants
 - Diaspora volunteers (with vetting)
-- NO recruitment from national military or security services (cooling-off period: 5 years)
+- NO recruitment from national military or security services (cooling-off period: 5 years; exception: Palestinian security forces during transition—see Section 2.2 Transition Integration Exception)
 
 **Community Balance:**
 - Target: Reflects SAZ demographic composition
@@ -331,11 +357,12 @@ Before SAZ establishment, the designated territory must be demilitarized:
 ### 3. External Audit
 
 **Police Oversight Board:**
+
 - Independent of police chain of command
 - Composition: See SAZ Governance document
 - Full access to all police records, facilities, personnel
 - Subpoena power
-- Binding recommendations
+- Binding recommendations on systemic issues; advisory recommendations on individual cases (see [SAZ Governance Section 3.3](02-saz-governance.md#33-accountability-mechanisms))
 
 **Audit Functions:**
 
@@ -565,10 +592,13 @@ Some situations trigger automatic response without request:
 | Active paramilitary operation | Guarantor intervention |
 
 **Legal Consequences:**
+
 - Paramilitary organizing is criminal offense
 - Significant penalties (5-15 years imprisonment)
 - Forfeiture of assets
 - Deportation from SAZ (for non-residents)
+
+**Forum:** Because the maximum penalty exceeds 10 years, paramilitary organizing offenses are tried in national courts per [SAZ Legal Framework Section 7.1](01-saz-legal-framework.md#71-saz-to-national-relationship). SAZ police investigate and refer; national courts prosecute. SAZ courts retain jurisdiction for lesser facilitation offenses (e.g., failure to report, minor material support) where maximum penalty is ≤10 years.
 
 ---
 

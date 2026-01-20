@@ -97,6 +97,16 @@ Some populations face heightened intimidation risk and require additional protec
 - Downgrade (toward Public) requires holder consent
 - Upgrade (toward Maximum) can be initiated by holder or MCF protection staff
 
+**Population-Specific Defaults:** Certain populations receive automatic upgrades from the Standard default based on documented risk profiles:
+
+| Population | Default Level | Rationale |
+|------------|---------------|-----------|
+| LGBTQ+ | Maximum | Criminalization risk, heightened social rejection |
+| Former security personnel | Protected | Known to potential threats, counter-intelligence risk |
+| Political figures/activists | Protected | Public profile creates targeting risk |
+
+Holders in these categories may request downgrade to Standard if they prefer, with documented acknowledgment of increased risk.
+
 ### 2.3 Information Security
 
 **Technical Measures:**
@@ -129,7 +139,7 @@ MCF collects and retains only information necessary for:
 - Security protection
 - Program evaluation (anonymized/aggregated)
 
-Information not necessary for these purposes is not collected. Historical information is purged per retention schedules unless holder requests retention.
+Information not necessary for these purposes is not collected. Historical information is purged per retention schedules (see [09-data-it-systems.md](../08-operational-procedures/09-data-it-systems.md)) unless holder requests retention.
 
 ---
 
@@ -145,8 +155,22 @@ CMS holders and potential participants can report intimidation through:
 | **Online Portal** | Encrypted web submission | Documentation, written preference, evidence upload |
 | **Mobile App** | Secure app with panic button and location sharing | Personal safety, real-time threats |
 | **In-Person** | MCF offices, PCC staff, designated safe locations | Complex situations, protected populations |
-| **Third-Party** | Lawyers, NGOs, journalists authorized to report on behalf | Anonymity, fear of direct contact |
+| **Third-Party** | Lawyers, NGOs, vetted intermediaries authorized to report on behalf | Anonymity, fear of direct contact |
 | **Community Contact** | Trusted community members trained as intermediaries | Populations with limited tech access or trust |
+
+**Third-Party Authorization Requirements:**
+
+Third-party reporters must be pre-authorized through MCF's intermediary vetting process:
+
+- **Lawyers:** Must be licensed in relevant jurisdiction, signed confidentiality agreement, no disqualifying conflicts of interest
+- **NGOs:** Must be registered organization with signed MOU, staff background checks, established human rights track record
+- **Other intermediaries:** Case-by-case authorization with signed confidentiality agreement, background check, and sponsor (existing authorized organization or MCF staff)
+
+Journalists are **not** automatically authorized as third-party reporters due to absence of professional confidentiality obligations. Journalists may:
+
+- Report through standard public channels (Hotline, Online Portal)
+- Refer individuals to MCF without transmitting protected information
+- Become authorized intermediaries only through full vetting process with signed confidentiality agreement waiving publication rights on case-specific information
 
 ### 3.2 Report Processing
 
@@ -178,6 +202,28 @@ CMS holders and potential participants can report intimidation through:
 - Anonymity protected even from MCF leadership
 - Anonymous reporters may establish secure contact for updates
 - Limitations of anonymous reports explained (cannot provide personalized protection)
+
+**Anonymous Report Oversight:**
+
+While individual anonymous report details are protected from leadership, aggregated oversight occurs through:
+
+- Statistical reporting (report volume, category distribution, resolution rates) reviewed quarterly
+- Pattern detection for coordinated campaigns (anonymized case linkage without identifying reporters)
+- External ombudsman review of anonymized case files annually
+- Guarantor Forum may request anonymized trend reports
+
+**Anonymous Report Closure:**
+
+Anonymous reports without ongoing secure contact follow a structured closure timeline:
+
+| Scenario | Closure Timeline |
+|----------|------------------|
+| Threat not substantiated | 30 days after investigation concludes |
+| Threat addressed, no further reports | 90 days after protective action |
+| Ongoing pattern (connected to other cases) | Kept open for pattern monitoring, reviewed every 180 days |
+| Reporter establishes contact | Reverts to standard resolution process (closure with consent) |
+
+All closures documented with anonymized summary available for oversight review.
 
 ---
 
@@ -358,23 +404,49 @@ CMS holders and potential participants can report intimidation through:
 When life-threatening danger is imminent:
 
 1. **Immediate** (0-2 hours):
-   - Secure location confirmed (safe house, MCF facility, police station)
-   - Emergency contacts notified (MCF operations, designated family)
+   - Secure location confirmed (see Safe Location Protocol below)
+   - Emergency contacts notified (MCF operations center; family/others only per holder's pre-designated consent list)
    - Security escort dispatched if needed
    - Medical response coordinated if injury
 
 2. **Short-Term** (2-48 hours):
    - Threat source assessment
    - Protection level determination
-   - Family notification and protection if needed
+   - Family notification and protection if needed (with holder consent; see Family Notification Protocol below)
    - Temporary housing arranged
    - Legal documentation initiated
 
-3. **Stabilization** (48 hours - 2 weeks):
-   - Long-term protection plan developed
-   - Relocation if necessary
-   - Support services connected
-   - Case management established
+**Safe Location Protocol:**
+
+Safe locations are selected in priority order based on holder risk profile:
+
+| Priority | Location | When Appropriate |
+|----------|----------|------------------|
+| 1 | MCF safe house | Default for all imminent threats |
+| 2 | MCF facility | When safe house unavailable |
+| 3 | Partner facility (vetted NGO, religious) | When MCF facilities inaccessible |
+| 4 | Police station | **Only with explicit holder consent** and risk screening (see below) |
+
+**Police Station Risk Screen (required before police station placement):**
+
+- Holder must explicitly consent to police involvement
+- Case manager must verify no security service involvement in threat
+- If LGBTQ+ or other vulnerable population with authority-related risk: police station **prohibited** without written waiver acknowledging risks
+- If holder is from population where police/security may be threat source: MCF-only locations required
+
+**Family Notification Protocol:**
+
+- Holder must pre-designate emergency contacts during CMS enrollment
+- Family notification occurs **only** for pre-designated contacts
+- If family is potential threat source (flagged in holder profile): no family notification without explicit real-time consent
+- Holder may designate "do not contact" individuals who are never notified regardless of circumstances
+
+**3. Stabilization** (48 hours - 2 weeks):
+
+- Long-term protection plan developed
+- Relocation if necessary
+- Support services connected
+- Case management established
 
 ### 6.2 Non-Imminent Threat Protocol
 
@@ -490,12 +562,21 @@ When the CMS holder has public visibility:
 
 **Additional Protections:**
 
-- Maximum confidentiality default
+- Maximum confidentiality default (see Section 2.2 Population-Specific Defaults)
 - LGBTQ+-competent staff designation
 - Connection to international LGBTQ+ support organizations
 - External relocation priority (third-country options)
-- No information sharing with authorities in criminalizing jurisdictions
+- No information sharing with authorities in criminalizing jurisdictions (see exception below)
 - Separate intake processes to avoid exposure
+
+**Authority Involvement Exception:** The "no authority sharing" default may be waived only when:
+
+1. LGBTQ+ holder provides explicit written consent after documented counseling on risks
+2. Holder affirms understanding that authorities in criminalizing jurisdictions may pose additional danger
+3. MCF documents specific reason holder is requesting authority involvement (e.g., threat from non-state actor where only police can intervene)
+4. Case manager certifies that MCF-only alternatives have been exhausted or are inadequate
+
+Waiver is revocable at any time. If revoked, MCF immediately ceases authority information sharing.
 
 ### 7.4 Former Security Personnel
 

@@ -76,30 +76,58 @@ The SAZ Council serves as the primary legislative body for each Special Administ
 
 | Component | Seats | Selection Method |
 |-----------|-------|------------------|
-| Directly Elected | 15 | Proportional representation |
-| Community Guarantee | 6 | 3 Israeli-origin, 3 Palestinian-origin (minimum) |
-| **Total** | 21 | Combined |
+| Directly Elected | 21 | Single Transferable Vote (STV) |
+| Community Guarantee | (reserved within 21) | 3 Israeli-origin, 3 Palestinian-origin minimum |
+| **Total** | 21 | Fixed |
 
 **Large SAZ Model (Population 50,000+):**
 
 | Component | Seats | Selection Method |
 |-----------|-------|------------------|
-| Directly Elected | 25 | Proportional representation |
-| Community Guarantee | 10 | 5 per community (minimum) |
-| **Total** | 35 | Combined |
+| Directly Elected | 35 | Single Transferable Vote (STV) |
+| Community Guarantee | (reserved within 35) | 5 per community minimum |
+| **Total** | 35 | Fixed |
 
-**Seat Allocation Logic:**
+**Seat Allocation Logic (STV with Community Guarantees):**
 
-1. Proportional seats allocated based on party vote share using Sainte-Laguë method
-2. After proportional allocation, if either community falls below guaranteed minimum, additional seats awarded from community party lists
-3. Guarantee seats do not dilute proportional representation—they supplement it
+1. All seats are elected via STV in multi-member constituencies
+2. STV's proportional outcomes typically achieve community balance naturally
+3. **Community guarantee check:** After STV results, if either community has fewer than the guaranteed minimum seats, the following adjustment applies:
+   - The lowest-vote-share winner from the over-represented community is replaced by the highest-vote-share non-winner from the under-represented community
+   - Adjustment continues until community minimums are met
+   - Maximum adjustment: 2 seats per election (to preserve voter choice)
+4. If adjustment cannot achieve minimums, the shortfall triggers the Community Minimum Shortfall Protocol (below)
+
+**Community Minimum Shortfall Protocol:**
+
+If the 2-seat adjustment cap cannot achieve community minimums:
+
+| Shortfall | Remedy |
+|-----------|--------|
+| 1 seat | Council proceeds; shortfall community receives guaranteed committee chair and enhanced veto rights until next election |
+| 2+ seats | Electoral commission must (a) certify results valid despite shortfall, or (b) order new election with modified constituency boundaries designed to improve community representation |
+
+**Certification Criteria:** Electoral commission may certify results despite shortfall only if:
+
+- The under-represented community had candidates on ballot in all constituencies
+- No evidence of voter suppression or intimidation affecting community participation
+- Shortfall reflects genuine demographic distribution, not systemic exclusion
+
+If certification is denied, new election within 90 days with boundary modifications.
+
+**Rationale:** This approach uses a single coherent electoral system (STV) while preserving community guarantees within fixed seat totals. Unlike additive guarantee seats, this maintains predictable council size and clear accountability.
 
 #### 1.2 Electoral System
 
 **Voting Method:**
+
 - Single Transferable Vote (STV) in multi-member constituencies
-- Each SAZ divided into 3-5 constituencies of roughly equal population
-- 3-5 seats per constituency based on population
+- Constituency structure varies by SAZ size:
+
+| SAZ Model | Constituencies | Seats per Constituency | Total Seats |
+|-----------|----------------|------------------------|-------------|
+| Standard (10,000-50,000) | 3-5 | 4-7 | 21 |
+| Large (50,000+) | 5-7 | 5-7 | 35 |
 
 **Rationale for STV:**
 - Proportional outcomes without pure party list control
@@ -109,8 +137,17 @@ The SAZ Council serves as the primary legislative body for each Special Administ
 
 **Voting Eligibility:**
 - All SAZ residents aged 18+ who have resided in SAZ for 6+ months
-- CMS holders not resident may vote in one SAZ election per cycle
 - No citizenship requirement—residence determines eligibility
+- CMS status not required; residency is the sole criterion
+
+**Non-Resident CMS Holders:**
+
+Non-resident CMS holders do **not** have SAZ voting rights. Rationale: SAZ governing authority derives from SAZ residents (Section 1, Core Principles). Allowing non-resident voting would undermine local legitimacy and create accountability gaps where voters face no consequences of their votes. Non-resident CMS holders retain:
+
+- Observer access to SAZ Council sessions
+- Right to participate in public consultations
+- Access to SAZ commercial and employment opportunities
+- Standing to bring complaints through MCF dispute mechanisms
 
 **Electoral Calendar:**
 - Regular elections every 4 years
@@ -122,10 +159,20 @@ The SAZ Council serves as the primary legislative body for each Special Administ
 | Position | Term | Limit |
 |----------|------|-------|
 | Council Member | 4 years | 3 consecutive terms |
-| Council Chair | 2 years | 2 consecutive terms |
+| Council Chair | 2 years | 2 terms total (see rotation note) |
 | Committee Chair | 2 years | 2 consecutive terms |
 
-**Gap Requirement:** After reaching term limit, individual must wait one full term before re-seeking that position.
+**Council Chair Rotation and Term Limits:**
+
+The Council Chair rotates between communities every 2-year term:
+
+- Term 1: Israeli-origin community member
+- Term 2: Palestinian-origin community member
+- Term 3: Israeli-origin community member (etc.)
+
+Because rotation is mandatory, the same individual cannot serve consecutive terms. The "2 terms total" limit means an individual can serve as Chair twice during their Council career, but only when their community's rotation comes around (minimum 4-year gap between Chair terms for the same person).
+
+**Gap Requirement:** After reaching a *consecutive* term limit for any position, individual must wait one full term before re-seeking that position. This gap requirement does not apply to *total* term limits (e.g., Council Chair's 2 terms total), which are absolute caps that cannot be circumvented by waiting.
 
 #### 1.4 Eligibility Requirements
 
@@ -242,11 +289,12 @@ Certain matters require approval from both community caucuses:
 #### 3.1 Leadership
 
 **Council Chair:**
+
 - Presides over sessions
 - Sets agenda in consultation with parties
 - Represents Council externally
 - No casting vote except to break ties
-- Rotation between communities every 2 years
+- Rotates between communities every 2-year term (see Section 1.3 for rotation and term limit details)
 
 **Deputy Chair:**
 - From opposite community as Chair
@@ -323,10 +371,13 @@ Certain matters require approval from both community caucuses:
 - Protection from political dismissal
 
 **Community Balance:**
-- Civil service should reflect SAZ demographic composition over time
+
+- Civil service should reflect SAZ demographic composition over time, subject to the 65% cap below
 - Affirmative recruitment where underrepresentation exists
-- No department more than 65% from single community at professional level
+- No department more than 65% from single community at professional level (this cap takes precedence over demographic mirroring in SAZs where one community exceeds 65% of population)
 - Balance targets achieved through attrition and new hiring, not displacement
+
+**Demographic Skew Exception:** In SAZs where one community constitutes more than 65% of the population, the 65% cap overrides strict demographic mirroring. The civil service should approach—but not exceed—65% from the majority community, with the minority community comprising at least 35% at the professional level. This ensures neither community is excluded from governance regardless of local demographics.
 
 **Independence:**
 - Civil Service Commission oversees personnel
@@ -382,10 +433,13 @@ Co-Mayors jointly exercise:
 #### 2.3 Appointment Powers
 
 Co-Mayors appoint, with Council confirmation:
-- Department Heads
+
+- Department Heads (except Chief of Police—see below)
 - Members of independent commissions
 - Representatives to MCF bodies
 - Senior administrative positions
+
+**Chief of Police Exception:** The Chief of Police is appointed by the Judicial Appointments Committee (Section 1.3 of Integrated Police Force), not by Co-Mayors. This exception insulates police leadership from executive political pressure and aligns police command with the independence framework applied to the judiciary. Deputy Chiefs are appointed by the Chief with Co-Mayor approval (Section 1.3), providing executive input without direct control over the Chief position.
 
 Unconfirmed appointments:
 - Expire after 60 days
@@ -401,11 +455,22 @@ Unconfirmed appointments:
 #### 1.1 SAZ Local Court
 
 **Jurisdiction:**
+
 - First instance for all matters within SAZ legal competence
-- Civil disputes between SAZ residents
-- Minor criminal matters (offenses with maximum penalty under 2 years)
+- Civil disputes with SAZ nexus (see Section 3.1 for nexus definition)
+- Criminal matters within SAZ jurisdiction (offenses with maximum penalty up to 10 years; see Section 3.1)
 - Administrative appeals from SAZ agencies
-- Family law matters
+- Family law matters for SAZ-resident families
+
+**Criminal Jurisdiction Tiers:**
+
+| Offense Severity | Trial Forum | Notes |
+|------------------|-------------|-------|
+| Maximum penalty ≤2 years | SAZ Local Court (single judge) | Expedited procedures |
+| Maximum penalty >2 years and ≤10 years | SAZ Local Court (3-judge panel) | Standard procedures |
+| Maximum penalty >10 years | National court | Per Section 3.1 Serious Offenses framework |
+
+**SAZ Nexus Requirement:** SAZ courts require at least one SAZ-connected party (SAZ resident, SAZ-located property, or SAZ-based transaction). Disputes where all parties and subject matter are outside SAZ fall outside SAZ court jurisdiction.
 
 **Composition:**
 - 5-9 judges depending on SAZ population
@@ -437,22 +502,45 @@ Unconfirmed appointments:
 - May issue temporary injunctions
 - Decisions binding within SAZ
 
-#### 1.3 Relationship to Confederal Courts
+#### 1.3 Relationship to Confederal Courts and CRC Review Panel
 
-**Appeal Route:**
-- SAZ Appeals Court decisions may be appealed to Confederal Court on:
-  - Constitutional Floor interpretation
-  - Confederal law interpretation
-  - Inter-SAZ disputes
-  - Fundamental rights violations
+**Fundamental Rights (CRC) Appeals (aligned with [SAZ Legal Framework](01-saz-legal-framework.md#75-appellate-review-of-saz-court-decisions)):**
+
+| Stage | Forum | Scope |
+|-------|-------|-------|
+| 1. SAZ internal | SAZ Appeals Court | All appeals from SAZ Local Court |
+| 2. CRC Review Panel | MCF body | CRC interpretation; primary forum for fundamental rights claims |
+| 3. Confederal Court | MCF body | Constitutional Floor interpretation; confederal law; only after CRC Review Panel exhaustion |
+| 4. National court | Party courts | Limited grounds only (see below) |
+
+**National Court Appellate Grounds (per [SAZ Legal Framework Section 7.5](01-saz-legal-framework.md#75-appellate-review-of-saz-court-decisions)):**
+
+| Ground | Scope | Standard | Exhaustion |
+|--------|-------|----------|------------|
+| **Constitutional violation** | SAZ decision violates party constitutional rights | De novo | None |
+| **CRC violation with constitutional overlay** | CRC breach also implicates national constitutional rights | Manifest error | CRC Review Panel required |
+| **Jurisdictional overreach** | SAZ court exceeded its jurisdiction | De novo | None |
+| **Procedural irregularity** | Severe due process violation | Clear error | SAZ appellate required |
+| **Res judicata conflict** | SAZ decision conflicts with prior national judgment | Review for conflict | None |
+
+**Confederal Court Direct Appeals:**
+
+SAZ Appeals Court decisions may be appealed directly to Confederal Court (bypassing CRC Review Panel) only on:
+
+- Constitutional Floor interpretation (not CRC rights)
+- Confederal law interpretation
+- Inter-SAZ disputes
 
 **Referral:**
+
 - SAZ courts may refer questions to Confederal Court
 - Confederal Court interpretations binding on SAZ courts
 
-**No Bypass:**
-- Litigants must exhaust SAZ remedies before accessing Confederal Court
-- Exception: Urgent fundamental rights matters
+**Exhaustion Requirement:**
+
+- Litigants must exhaust SAZ remedies before accessing CRC Review Panel or Confederal Court
+- CRC Review Panel exhaustion required before Confederal Court hears CRC-related appeals
+- Exception: Urgent matters where exhaustion would cause irreparable harm (expedited review)
 
 ### 2. Judicial Independence
 
@@ -507,17 +595,53 @@ Judges may be removed only for:
 #### 3.1 Subject Matter Jurisdiction
 
 **Civil Matters:**
+
 - Contract disputes (SAZ-based transactions)
 - Property disputes (SAZ-located property)
 - Tort claims (SAZ-occurring events)
 - Family law (SAZ-resident families)
+- CMS-related disputes (all disputes arising from CMS participation within SAZ)
+- Commercial disputes (business transactions with SAZ nexus)
+
+**Nexus Requirement for Civil Matters:** At least one of the following must apply:
+
+- At least one party is an SAZ resident
+- The subject property is located within SAZ
+- The transaction or event occurred within SAZ
+
+Non-residents may be plaintiffs or defendants in SAZ courts when the nexus requirement is met. Disputes with no SAZ connection use national courts.
 
 **Criminal Matters:**
+
 - Offenses occurring within SAZ
 - Offenses by SAZ residents within SAZ
-- Maximum jurisdiction: Offenses with up to 10-year penalty
+- SAZ court jurisdiction: Offenses with maximum penalty up to 10 years
+
+**Reserved to National Courts (regardless of penalty):**
+
+National security offenses (treason, espionage, and similar offenses against national governments) are reserved to national courts regardless of maximum penalty. See [SAZ Legal Framework Section 7.1](01-saz-legal-framework.md#71-saz-to-national-relationship).
+
+**Serious Offenses (Maximum Penalty >10 Years):**
+
+Offenses occurring within SAZ that carry maximum penalties exceeding 10 years are tried in national courts under the following framework:
+
+| Offense Location | Defendant | Forum | Applicable Law |
+|------------------|-----------|-------|----------------|
+| Within SAZ | SAZ resident (Israeli-origin) | Israeli national court | Israeli criminal law |
+| Within SAZ | SAZ resident (Palestinian-origin) | Palestinian national court | Palestinian criminal law |
+| Within SAZ | Non-resident | Defendant's national court | Defendant's national law |
+| Within SAZ | Dual/disputed status | JSVC determines forum | Per JSVC determination |
+
+**Serious Offense Coordination:**
+
+- SAZ police investigate and collect evidence
+- Case file transferred to national prosecutor
+- JSVC monitors to prevent double jeopardy
+- Guarantor oversight of fair trial standards
+- SAZ may request case return if penalty reduced below 10-year threshold
 
 **Administrative Matters:**
+
 - Review of SAZ agency decisions
 - Licensing and permit disputes
 - Employment disputes with SAZ
@@ -549,10 +673,24 @@ Judges may be removed only for:
 - National judgments enforceable in SAZ through same mechanism
 - Mutual recognition of judgments subject to public policy exception
 
-**Conflict Resolution:**
-- Where SAZ and national courts have concurrent jurisdiction, plaintiff chooses forum
+**Conflict Resolution (aligned with [SAZ Legal Framework](01-saz-legal-framework.md#71-saz-to-national-relationship)):**
+
+- SAZ courts have **primary jurisdiction** within SAZ boundaries for matters within SAZ competence
+- National courts retain reserved matters (citizenship, national security, >10 year offenses, etc.)
+- If jurisdiction is disputed, **JSVC determines the appropriate forum** (not plaintiff choice)
 - Anti-suit injunctions prohibited
-- Confederal Court resolves jurisdictional disputes
+- Once forum is determined, that determination is binding absent appeal to Guarantor Forum
+
+**Jurisdiction Dispute Resolution:**
+
+| Dispute Type | Resolution Body | Appeal |
+|--------------|-----------------|--------|
+| SAZ vs national court jurisdiction | JSVC | Guarantor Forum |
+| Constitutional Floor interpretation | Confederal Court | None (final) |
+| Confederal law interpretation | Confederal Court | None (final) |
+| Inter-SAZ disputes | Confederal Court | None (final) |
+
+**Clarification:** JSVC determines which forum (SAZ or national) has jurisdiction over a specific case. Confederal Court interprets constitutional and confederal law but does not serve as a forum-assignment body for SAZ vs national court disputes.
 
 ---
 
@@ -569,10 +707,13 @@ Judges may be removed only for:
 - Security vetting by guarantor-supervised body
 
 **Community Balance:**
-- Force must reflect SAZ demographic composition within 5 percentage points
+
+- Force must reflect SAZ demographic composition within 10 percentage points (see rationale below)
 - Active recruitment from underrepresented community
 - No patrol unit more than 70% from single community
 - Command positions balanced
+
+**Tolerance Rationale:** Police forces are smaller than civil service (minimum 50 officers vs. hundreds of civil servants), making tight percentage tolerances impractical. The ±10% tolerance allows flexibility in hiring qualified candidates while maintaining meaningful balance. This differs from civil service balance targets, which apply to larger workforces where precise percentages are achievable.
 
 #### 1.2 Training Requirements
 
@@ -626,7 +767,7 @@ Judges may be removed only for:
 
 - Intelligence gathering beyond criminal investigation
 - Political surveillance
-- Immigration enforcement (federal function)
+- Immigration enforcement (reserved national function)
 - Military or paramilitary operations
 - Enforcement outside SAZ boundaries (except hot pursuit with coordination)
 - Administrative detention without judicial warrant
@@ -779,9 +920,10 @@ Judges may be removed only for:
 - Allocates confederal funding
 
 **Confederal Court:**
+
 - Constitutional review of SAZ action
-- Appeal route for rights violations
-- Jurisdictional dispute resolution
+- Appeal route for rights violations (after CRC Review Panel exhaustion for CRC matters)
+- Inter-SAZ jurisdictional disputes and confederal law interpretation (note: SAZ vs national court forum assignment is handled by JSVC per Section 3.3)
 - Interpretation of governance charter
 
 ### 3. International Monitoring

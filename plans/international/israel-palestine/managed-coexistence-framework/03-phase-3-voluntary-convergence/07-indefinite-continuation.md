@@ -136,13 +136,13 @@ Indefinite continuation should be understood as:
 
 ### 4.1 Long-Term Financial Model
 
-**Revenue Evolution:**
+**Revenue Evolution (aligned with [Funding Architecture](../04-guarantor-architecture/03-funding-architecture.md)):**
 
-| Period | Primary Revenue Source |
-|--------|----------------------|
-| Years 0-20 | Guarantor contributions (80%+) |
-| Years 20-50 | Mixed: guarantors (50%) + internal (50%) |
-| Years 50+ | Internal revenue dominant (60%+) |
+| Period | Donor/Guarantor Share | Internal Share |
+|--------|----------------------|----------------|
+| Years 0-20 | 80%+ | <20% |
+| Years 20-50 | 60-70% | 30-40% |
+| Years 50+ | <40% | 60%+ |
 
 **Internal Revenue Development:**
 - SAZ economic activity taxation
@@ -181,10 +181,11 @@ Indefinite continuation should be understood as:
 
 ### 4.4 Economic Resilience
 
-**Diversification:**
-- No single revenue source >40% of total
-- Multiple guarantor contributors
-- Multiple internal revenue streams
+**Diversification (per [Funding Architecture](../04-guarantor-architecture/03-funding-architecture.md)):**
+
+- No single donor >30% of total funding
+- No single category (states, IOs, private) >60%
+- Minimum 5 significant funding sources
 - Reserve funds for volatility
 
 **Crisis Provisions:**
@@ -279,9 +280,12 @@ Indefinite continuation should be understood as:
 - Guarantor support available?
 
 **Outcome:**
-- If criteria met: Referendum may be called
-- If criteria not met: Continue indefinite operation
-- No obligation to proceed even if criteria met
+
+- If criteria met: Referendum eligibility confirmed; referendum may be called per standard procedures
+- If criteria not met: Continue indefinite operation; re-assess at next 10-year review
+- Eligibility does not compel referendum; Confederal Council decides whether to call referendum based on demand indicators
+
+**Relationship to Automaticity:** Per [Phase Transitions](../08-operational-procedures/02-phase-transitions.md), JSVC certifies whether criteria are met but does not decide whether transition is desirable. Eligibility enables but does not force referendum. Referendum approval is still required for any Phase 3 transition.
 
 ### 6.3 Institutional Adaptation
 
@@ -304,9 +308,10 @@ Indefinite continuation should be understood as:
 ### 7.1 Evolution of Relationship
 
 **Phase 0-20:**
-- Active governance role
+
+- Active oversight and monitoring role (not governance control—per [Guarantor Roles](../04-guarantor-architecture/02-guarantor-roles.md))
 - Significant funding
-- Intervention authority
+- Intervention authority for security/rights violations
 - Regular presence
 
 **Phase 20-50:**
@@ -372,11 +377,16 @@ MCF may need to operate for 3-5+ generations. Each generation:
 ### 8.3 Scenario: Generation Wants Change
 
 If a generation seeks fundamental change:
+
 1. Formal petition (threshold: 20% of CMS holders)
 2. Special assessment (12 months)
-3. Options development (Phase 3 paths OR dissolution)
-4. Referendum on preferred option
+3. Options development:
+    - **Phase 3 paths:** Proceed per [Referenda Procedures](01-referenda-procedures.md)
+    - **Deliberate dissolution:** Requires joint party agreement per [Exit Conditions Section 6](../08-operational-procedures/06-exit-conditions.md#6-dissolution-conditions); cannot be unilaterally triggered by referendum alone
+4. Referendum on preferred option (if dissolution: both party governments must have agreed to dissolution process before referendum is held)
 5. Implementation if approved
+
+**Dissolution Safeguard:** Dissolution is not simply a referendum option equivalent to Phase 3 paths. Per Exit Conditions, deliberate dissolution requires joint party agreement before the wind-down process begins. A generation-change referendum may express preference for dissolution, but implementation requires the formal dissolution process including party government consent.
 
 ---
 

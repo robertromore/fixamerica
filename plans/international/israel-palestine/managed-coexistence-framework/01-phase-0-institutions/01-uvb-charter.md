@@ -122,7 +122,7 @@ Initial establishment (scalable based on access):
 | Category | Number |
 |----------|--------|
 | Director and Deputies | 3 |
-| Field Verification Teams | 15-25 |
+| Field Verification Personnel (3-5 teams) | 15-25 |
 | Technical Analysis | 8-12 |
 | Rapid Response | 5-8 |
 | Pattern Analysis | 4-6 |
@@ -175,6 +175,23 @@ Initial establishment (scalable based on access):
 ---
 
 ## 3. Verification Mandate
+
+### 3.0 Mandate Area Definition
+
+**Geographic Scope:**
+
+The UVB mandate area encompasses:
+
+- **Gaza Strip:** Full territory within internationally recognized boundaries
+- **West Bank:** Full territory within the 1949 Armistice Line (Green Line), including East Jerusalem
+- **Israel:** Territory within the Green Line, limited to incidents with cross-boundary implications or affecting CMS holders
+
+**Operational Notes:**
+
+- Gaza and West Bank may operate under different modes (see [Geographic Differentiation](../00-introduction.md#geographic-differentiation-gaza-and-the-west-bank))
+- Jerusalem operates under special protocols (see [Jerusalem](../06-sensitive-issues/02-jerusalem.md))
+- Mandate area may expand to include External SAZ locations when established
+- Cross-border incidents (e.g., rocket attacks, airstrikes) are within mandate regardless of origin point
 
 ### 3.1 What UVB Verifies
 
@@ -294,7 +311,8 @@ Pattern analysis findings are reported separately from incident documentation, w
 **Formal Channels**
 
 - Each party designates a UVB liaison office
-- UVB provides advance notification of operations (except rapid response)
+- UVB provides advance notification of routine operations (except rapid response)
+- **Rapid response** is triggered by: mass casualty events (≥5 deaths), infrastructure attacks, or JSVC/guarantor urgent request; no advance notification required
 - Parties may submit information and requests through liaison
 - UVB responds to party inquiries within defined timelines
 
@@ -315,7 +333,7 @@ Pattern analysis findings are reported separately from incident documentation, w
 | Report Type | Timeline | Distribution |
 |-------------|----------|--------------|
 | Flash Report (major incident) | Within 24 hours | Guarantors, parties |
-| Incident Report | Within 7 days | Guarantors, parties, public (redacted) |
+| Incident Report | Within 14 days | Guarantors, parties, public (redacted) |
 | Weekly Summary | Every Monday | Guarantors, parties, public |
 | Monthly Analysis | First week of month | Guarantors, parties, public |
 | Pattern Assessment | Quarterly | Guarantors, parties, public |
@@ -360,7 +378,7 @@ Pattern analysis findings are reported separately from incident documentation, w
 
 - All public reports are published simultaneously to all parties and public
 - Redactions for security/privacy are minimized and explained
-- Raw data is archived and available to guarantors
+- Verified data is archived and available to guarantors (source identities redacted; see Section 7.2 for tiered access)
 - Aggregate statistics are published in machine-readable formats
 
 **Limitations Transparency**
@@ -515,12 +533,19 @@ See [JSVC Charter Section 8: Phase Transition Certification Authority](02-jsvc-c
 
 ### 7.2 Information Security
 
-**Classification**
+**Classification and Tiered Access**
 
-- Source identities: Strictly protected
-- Raw evidence: Internal only until verified
-- Draft findings: Internal only until finalized
-- Final findings: Public (with appropriate redactions)
+| Classification | Internal | Guarantors | Parties | Public |
+|----------------|----------|------------|---------|--------|
+| Source identities | Yes | No (except life-threatening emergency with Director approval) | No | No |
+| Raw/unverified evidence | Yes | No | No | No |
+| Verified evidence | Yes | Yes (source-redacted) | No | No |
+| Draft findings | Yes | No | No | No |
+| Final findings | Yes | Yes | Yes | Yes (redacted) |
+
+- Source identities are strictly protected at all levels
+- Guarantors receive verified evidence only, with source identities redacted
+- Raw/unverified evidence remains internal until verification complete
 
 **Cybersecurity**
 
@@ -531,7 +556,8 @@ See [JSVC Charter Section 8: Phase Transition Certification Authority](02-jsvc-c
 
 ### 7.3 Operational Security
 
-- Field team movements unpredictable where possible
+- Field team movements unpredictable where possible (applies to timing, routes, and team composition—not to the fact of a visit, which is notified per Section 4.3)
+- Advance notification specifies date and general area only; exact timing and approach routes remain operational discretion
 - Multiple communication redundancy
 - Abort procedures for compromised operations
 - Regular security briefings for all personnel
@@ -550,7 +576,7 @@ See [JSVC Charter Section 8: Phase Transition Certification Authority](02-jsvc-c
 ### 8.2 External Accountability
 
 - Annual report to guarantors with performance assessment
-- Guarantor oversight committee with access to UVB operations
+- Guarantor oversight committee with access to UVB operations (scope limited to: completed investigations, methodology review, resource allocation, personnel policies; excludes: ongoing investigations, draft findings, source identities, and operational planning)
 - Response to guarantor inquiries within 30 days
 - External evaluation every 3 years
 
@@ -575,11 +601,26 @@ See [JSVC Charter Section 8: Phase Transition Certification Authority](02-jsvc-c
 
 ### Annex C: Evidence Collection Protocols
 
-*[To be developed: Technical standards for each evidence type]*
+*[To be developed: Technical standards for each evidence type, including:]*
+
+- *Chain-of-custody procedures for physical evidence*
+- *Digital evidence integrity verification*
+- *Witness statement recording standards*
+- *Imagery authentication protocols*
 
 ### Annex D: Reporting Templates
 
 *[To be developed: Standard formats for each report type]*
+
+### Annex E: Data Management
+
+*[To be developed: Data governance procedures, including:]*
+
+- *Retention periods by data category (source data: 25 years minimum; verified findings: permanent)*
+- *Access tier implementation procedures per Section 7.2*
+- *Secure deletion protocols for time-expired data*
+- *Backup and disaster recovery requirements*
+- *Cross-reference to [Data and IT Systems](../08-operational-procedures/09-data-it-systems.md)*
 
 ---
 

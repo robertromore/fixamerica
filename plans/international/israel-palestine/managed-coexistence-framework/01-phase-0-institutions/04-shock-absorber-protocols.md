@@ -121,8 +121,8 @@ Shock-absorbers are **incident management tools**, not conflict resolution:
 |------|------------|----------|
 | **Tier 1: Minor** | Property damage, threats, non-lethal violence with minor injury | Vandalism, intimidation, scuffles without hospitalization |
 | **Tier 2: Moderate** | Injuries requiring medical treatment, significant property destruction | Stabbings with recovery, arson, vehicular attacks without fatalities |
-| **Tier 3: Serious** | Fatalities (1-5), mass injury, critical infrastructure damage | Shootings, bombings with limited casualties, infrastructure sabotage |
-| **Tier 4: Major** | Mass casualties (6+), coordinated attacks, existential infrastructure threats | Mass shootings, major bombings, coordinated multi-site attacks |
+| **Tier 3: Serious** | Fatalities (1-4), mass injury (11+ serious injuries), critical infrastructure damage | Shootings, bombings with limited casualties, infrastructure sabotage |
+| **Tier 4: Major** | Mass casualties (5+ deaths or 50+ serious injuries), coordinated attacks, existential infrastructure threats | Mass shootings, major bombings, coordinated multi-site attacks |
 
 ### 2.3 Classification Criteria
 
@@ -139,7 +139,7 @@ Shock-absorbers are **incident management tools**, not conflict resolution:
 
 | Factor | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
 |--------|--------|--------|--------|--------|
-| Deaths | 0 | 0 | 1-5 | 6+ |
+| Deaths | 0 | 0 | 1-4 | 5+ |
 | Serious injuries | 0-2 | 3-10 | 11-50 | 50+ |
 | Infrastructure | Cosmetic | Functional damage | Critical disruption | Catastrophic |
 | Coordination | None evident | Possible | Confirmed | Multi-actor |
@@ -246,7 +246,7 @@ Injuries requiring medical treatment, significant property destruction, or patte
 ### 3.3 Tier 3: Serious Incidents
 
 **Definition:**
-Fatalities (1-5), mass injuries, critical infrastructure damage, or confirmed coordination.
+Fatalities (1-4), mass injuries (11+ serious injuries), critical infrastructure damage, or confirmed coordination.
 
 **Automatic Responses:**
 
@@ -269,15 +269,15 @@ Fatalities (1-5), mass injuries, critical infrastructure damage, or confirmed co
 
 **Discretionary Responses (UVB/JSVC + Guarantor consultation):**
 
-- Temporary PCC suspension (specific corridors, up to 72 hours)
+- Temporary PCC suspension (specific corridors, up to 72 hours; see [PCC Protocols Section 5.5](03-pcc-protocols.md#55-time-limits-and-caps) for extension requirements and absolute caps)
 - CMS processing pause (new applications, up to 14 days)
 - Security force coordination activation
 - External security assistance request
 
 **Caps and Protections:**
 
-- PCC suspension may not exceed 72 hours without guarantor approval
-- Medical PCCs exempt from suspension
+- PCC suspension may not exceed 72 hours without guarantor approval; extensions subject to [PCC Protocols](03-pcc-protocols.md) caps
+- Medical PCCs exempt from suspension (throughput reduction per [PCC Protocols](03-pcc-protocols.md): patient transfer max 50%, medical supply max 25%, facilities no restriction)
 - CMS holders may not be collectively penalized
 - Existing employment contracts protected during pause
 
@@ -291,7 +291,7 @@ Fatalities (1-5), mass injuries, critical infrastructure damage, or confirmed co
 ### 3.4 Tier 4: Major Incidents
 
 **Definition:**
-Mass casualties (6+), coordinated multi-site attacks, existential infrastructure threats, or incidents threatening framework viability.
+Mass casualties (5+ deaths or 50+ serious injuries), coordinated multi-site attacks, existential infrastructure threats, or incidents threatening framework viability.
 
 **Automatic Responses:**
 
@@ -308,7 +308,7 @@ Mass casualties (6+), coordinated multi-site attacks, existential infrastructure
 | Restriction | Duration | Scope |
 |-------------|----------|-------|
 | Broad movement restrictions | 14-30 days | Framework-wide |
-| PCC emergency protocols | Variable | Reduced to essential only |
+| PCC emergency protocols | Variable | Reduced to essential only (per [PCC Protocols](03-pcc-protocols.md); medical PCCs: patient transfer max 50%, supply max 25%, never closed) |
 | Employment suspension | 14 days minimum | All non-essential programs |
 | Enhanced security operations | 30 days | Full framework |
 
@@ -344,7 +344,7 @@ No protocol response may exceed defined maximums, regardless of incident severit
 
 | Measure | Absolute Maximum |
 |---------|------------------|
-| PCC closure | 7 days (medical PCCs: 0 days) |
+| PCC closure | 7 days standard; up to 30 days per [PCC Protocols](03-pcc-protocols.md) with guarantor approval (medical PCCs: 0 days) |
 | Movement restriction | 30 days |
 | Employment pause | 30 days |
 | CMS processing pause | 30 days |
@@ -374,11 +374,13 @@ Protocol responses may not target individuals or communities based on identity r
 
 ### 4.3 PCC Impact Limitations
 
+*Note: [PCC Protocols](03-pcc-protocols.md) are the authoritative source for PCC restrictions. This section summarizes key protections; in any conflict, PCC Protocols prevail.*
+
 **Essential Services Protection:**
 
 | PCC Type | Maximum Restriction |
 |----------|---------------------|
-| Medical | No closure; throughput reduction only (max 25%) |
+| Medical | No closure; throughput reduction only (patient transfer max 50%, supply max 25%, facilities no restriction) |
 | Water | No closure; throughput reduction only (max 50%) |
 | Electricity | No deliberate restriction (security measures only) |
 | General goods | Closure permitted per tier limits |
@@ -413,7 +415,9 @@ PCC restoration follows reverse severity—medical first, then water, then elect
 | Tier 1 | 72 hours | Up to 7 days |
 | Tier 2 | 7 days | Up to 14 days |
 | Tier 3 | 14 days | Up to 30 days |
-| Tier 4 | 30 days | Up to 60 days (guarantor approval) |
+| Tier 4 | 30 days | Up to 60 days (guarantor approval)* |
+
+*Note: Tier 4 60-day extension applies to protocol duration and enhanced verification only. Individual measures remain subject to their own absolute caps per Section 4.1 (movement/employment/CMS processing: 30 days max; PCC closure: 7 days standard, up to 30 days with guarantor approval per PCC Protocols; medical PCCs: 0 days closure).
 
 ### 5.2 Extension Criteria
 

@@ -17,10 +17,13 @@
 Phase 3 represents fundamental choices about political futures. Unlike earlier phases where transitions are procedurally automatic when criteria are met, Phase 3 requires explicit popular consent through referendum.
 
 Referendum procedures must be:
+
 - **Fair:** Equal opportunity for all positions
 - **Transparent:** Open to scrutiny at every stage
-- **Inclusive:** All affected populations can participate
+- **Inclusive:** All invested participants (CMS holders) can participate
 - **Credible:** Results accepted by losers as legitimate
+
+**Why CMS-Only Eligibility:** Phase 3 referenda determine the future of MCF institutions. CMS holders have demonstrated sustained investment in the coexistence framework (24+ months in good standing). Non-CMS residents within SAZs have had opportunity to obtain CMS but chose not to; they benefit from MCF governance without committing to its future. This eligibility design mirrors the principle that constitutional choices belong to those who have joined the constitutional community.
 
 ### 1.2 Referendum Types
 
@@ -56,9 +59,14 @@ Referendum procedures must be:
 - CMS Registry serves as voter registry
 
 **Opt-Out:**
-- CMS holders may opt out of voting (not counted against participation threshold)
-- Opt-out is revocable until 14 days before referendum
+
+- CMS holders may declare opt-out (formal abstention)
+- Opt-outs **are counted in the participation denominator** (preventing gaming of turnout thresholds)
+- Opt-out is revocable until 90 days before referendum (early deadline prevents strategic coordination)
 - Opt-out does not affect CMS status
+- Opt-out is not counted as a vote against any option (distinct from casting a "no" or "status quo" vote)
+
+**Anti-Gaming Rationale:** If opt-outs were removed from the denominator, a motivated faction could artificially lower turnout requirements by coordinating mass opt-outs. By counting opt-outs in the denominator (but not as votes), the participation threshold retains its legitimacy function.
 
 ### 2.3 Disputed Eligibility
 
@@ -280,16 +288,33 @@ Multi-option format used when:
 - Voter ranks options 1, 2, 3, etc. (partial ranking permitted)
 
 **Counting:**
+
 1. Count first-preference votes
-2. If any option exceeds approval threshold → wins
+2. If any option exceeds its approval threshold (see Section 5.2) → wins
 3. If no option exceeds threshold → eliminate lowest option
 4. Transfer eliminated option's votes to next preference
-5. Repeat until one option exceeds threshold or only two remain
-6. Final round: higher vote total wins
+5. Repeat until one option exceeds threshold or only two options remain
+6. **Final round with two options:**
+   - If either option exceeds its required threshold → that option wins
+   - If neither exceeds threshold → **referendum fails** (status quo prevails)
+
+**Hard Threshold Requirement:** An option cannot win merely by having more votes in the final round; it must meet its specific approval threshold (55% for confederation/dual-state, 60% for federation). This prevents implementing major constitutional changes without genuine supermajority support. A failed multi-option referendum triggers the 12-month cooling-off period per Section 5.1.
+
+**Option-Specific Thresholds in Ranked-Choice:** Different end-states have different thresholds. In each round:
+
+| Option | Required Threshold |
+|--------|-------------------|
+| Confederation | 55% of votes cast |
+| Federation | 60% of votes cast |
+| Dual-State | 55% of votes cast |
+| Status Quo | None (wins only if all others fail) |
+
+If the final two options have different thresholds (e.g., Federation vs Confederation), the higher-threshold option must meet its own threshold to win; it cannot win with only 56% against a lower-threshold option that also failed.
 
 ### 6.3 Tie-Breaking
 
-If final round is exact tie:
+If final round is exact tie and both options meet their thresholds:
+
 1. Option with more first-preference votes wins
 2. If still tied: option with more second-preference votes
 3. If still tied: runoff election within 60 days
@@ -412,10 +437,17 @@ Regardless of referendum outcome:
 - Re-enrollment possible after 24 months
 
 **Community Concerns:**
-- If >30% of a community votes against winning option:
-  - Additional consultation required before implementation
-  - Modified implementation may address concerns
-  - Guarantor involvement in transition monitoring
+
+If majority of a community (>50%) votes against the winning option (i.e., the 40% community threshold was met but support was below 50%):
+
+- Additional consultation with that community required before implementation
+- Modified implementation may address specific concerns
+- Guarantor involvement in transition monitoring
+- Community representatives given enhanced voice in transition planning
+
+**Rationale:** The 40% community threshold prevents majoritarian capture, but a winning option with only 40-49% support in one community indicates genuine concern. The consultation trigger applies only when a community's majority opposed the outcome, making it an exceptional measure rather than a routine requirement.
+
+**Note:** If support in a community exceeds 50%, no additional consultation is required—the community has majority buy-in.
 
 ---
 

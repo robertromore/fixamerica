@@ -137,10 +137,14 @@ managed-coexistence-framework/
     ├── 10-vulnerable-populations.md
     ├── 11-media-civil-society.md
     ├── 12-personnel-standards.md
-    └── 13-language-services.md
+    ├── 13-language-services.md
+    ├── 14-stress-testing.md
+    └── 15-concrete-scenarios/          # Detailed crisis walkthroughs
+        ├── 00-overview.md
+        └── 01-rocket-barrage-hospital.md
 ```
 
-**Total:** 72 documents across 9 directories
+**Total:** 75 documents across 10 directories
 
 ---
 
@@ -165,6 +169,8 @@ managed-coexistence-framework/
 | Refugee treatment | [04-refugees-diaspora.md](06-sensitive-issues/04-refugees-diaspora.md) |
 | Economic benefits | [01-economic-integration.md](07-economic-architecture/01-economic-integration.md) |
 | Risk management | [01-risk-management.md](08-operational-procedures/01-risk-management.md) |
+| Failure modes and stress tests | [14-stress-testing.md](08-operational-procedures/14-stress-testing.md) |
+| Detailed crisis walkthroughs | [15-concrete-scenarios/](08-operational-procedures/15-concrete-scenarios/00-overview.md) |
 
 ---
 

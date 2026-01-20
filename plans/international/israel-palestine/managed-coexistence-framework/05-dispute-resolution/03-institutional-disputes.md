@@ -158,10 +158,15 @@ Resolution serves MCF as a whole:
 - 30-day deadline passed
 
 **Mediator Selection:**
-- Institutional Continuity Body leads
+- Institutional Continuity Body leads (the treaty-chartered body responsible for MCF continuity per [00-introduction.md](../00-introduction.md#institutional-continuity-treaty-chartered-body))
 - Neutral mediator from MCF Secretariat
 - No connection to disputing parties
 - Professional mediation qualifications
+
+**When Secretariat Is a Party:** If the MCF Secretariat itself is a disputing party, a mediator from the Secretariat creates an inherent conflict. In such cases:
+- Guarantor Forum designates an external mediator (from qualified pool maintained for this purpose)
+- External mediator must meet same qualifications (professional mediation training, no connection to disputing parties)
+- Institutional Continuity Body retains procedural oversight but not mediator selection authority
 
 **Process:**
 - Joint session(s) with mediator
@@ -214,17 +219,23 @@ Resolution serves MCF as a whole:
 - Extension for complex matters
 
 **Determination Authority:**
-- Binding procedural clarifications
-- Mandate adjustments
-- Resource allocation decisions
-- Cooperation requirements
-- Performance standards
+
+| Category | Panel Authority | Concurrence Required? |
+|----------|----------------|----------------------|
+| Procedural clarifications | Binding | No |
+| Cooperation requirements | Binding | No |
+| Mandate adjustments | Advisory recommendation | Yes—Confederal Council approval |
+| Resource allocation changes | Advisory recommendation | Yes—Confederal Council approval |
+| Performance standards | Advisory recommendation | Yes—Confederal Council approval |
+
+**Rationale:** Guarantors are limited to "no governance control" per [Guarantor Roles](../04-guarantor-architecture/02-guarantor-roles.md). Procedural clarifications and cooperation requirements interpret existing mandates without changing governance authority. Mandate adjustments, resource allocation changes, and performance standards affect institutional governance and therefore require Confederal Council concurrence to implement.
 
 **Determination Limits:**
 - Cannot determine sovereignty
 - Cannot prejudice final status
 - Cannot override institutional autonomy on core mandate
 - Cannot impose financial obligations beyond MCF resources
+- Cannot bind MCF on mandate/resource/performance matters without Confederal Council concurrence
 
 ### Tier 4: Confederal Council Reference
 
@@ -336,6 +347,28 @@ Resolution serves MCF as a whole:
 - Pending dispute resolution
 - Clear termination trigger
 
+**Decision-Maker:**
+
+| Dispute Stage | Temporary Authority Designated By |
+|---------------|-----------------------------------|
+| Tier 1 (Direct Negotiation) | Parties jointly; if no agreement, MCF Secretariat Executive Director |
+| Tier 2 (Structured Mediation) | Mediator recommendation; MCF Secretariat Executive Director decides |
+| Tier 3 (Guarantor Review Panel) | Panel designates |
+| Tier 4 (Confederal Council Reference) | Confederal Council designates |
+
+**Role Clarification:** "MCF Secretariat Executive Director" refers to the head of the MCF Secretariat (the Framework's central administrative body), not the JSVC Executive Director (who leads security operations). For disputes involving JSVC internal matters, the JSVC Executive Director may serve as decision-maker for Tier 1, but escalation to Tier 2+ involves the MCF Secretariat Executive Director unless the Secretariat itself is a party.
+
+**Trigger Criteria:**
+- Essential function cannot wait for dispute resolution (e.g., security operations, service delivery)
+- Absence of authority would cause harm to individuals or MCF operations
+- Dispute expected to exceed 30 days
+
+**Scope Limitations:**
+- Temporary authority covers only the specific function in dispute
+- No precedent for permanent authority assignment
+- Terminates automatically upon dispute resolution or 90 days (whichever first)
+- Extension requires explicit re-designation
+
 ---
 
 ## Outcomes and Implementation
@@ -353,9 +386,9 @@ Resolution serves MCF as a whole:
 - Compliance monitored
 
 **Panel Determination:**
-- Binding on parties
-- Implemented as directed
-- Guarantor enforcement support
+- Procedural clarifications and cooperation requirements: Binding on parties; implemented as directed
+- Mandate adjustments, resource allocation changes, performance standards: Advisory; implementation requires Confederal Council concurrence (per Tier 3, Section "Determination Authority")
+- Guarantor enforcement support (for binding determinations)
 
 ### 2. Implementation Monitoring
 

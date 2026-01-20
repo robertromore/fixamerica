@@ -79,7 +79,7 @@ The Chair:
 - Presides over Commission meetings
 - Represents JSVC externally
 - Manages day-to-day operations through the Director
-- Casts tie-breaking vote only when necessary
+- Votes on all supermajority items; casts tie-breaking vote on simple majority items
 - Serves as primary liaison to guarantors
 
 **Vice-Chairs**
@@ -171,9 +171,14 @@ Party nationals may not:
 
 **Funding Sources**
 
-- Guarantor contributions (70-80%)
-- Party contributions (10-15% each)
-- No single guarantor provides >25% of budget
+| Source | Target Share |
+|--------|--------------|
+| Guarantor contributions | 70% |
+| Israeli contribution | 15% |
+| Palestinian contribution | 15% |
+
+- No single guarantor provides >25% of total guarantor share
+- Party contributions may be adjusted based on economic capacity (maintaining combined 30%)
 
 **Funding Independence**
 
@@ -224,6 +229,17 @@ JSVC investigates and attributes:
 6. Commission review (Tier 3-4 incidents)
 7. Finding publication
 
+**Incident Tier Definitions**
+
+| Tier | Criteria | Examples |
+|------|----------|----------|
+| **Tier 1** | Minor incidents, no casualties, limited property damage | Vandalism, minor altercations, verbal threats |
+| **Tier 2** | Moderate incidents, injuries (non-fatal), significant property damage | Assaults, arson, infrastructure damage |
+| **Tier 3** | Serious incidents, fatalities (1-4), major property destruction | Shootings, bombings with limited casualties, major infrastructure attacks |
+| **Tier 4** | Mass casualty events (5+), strategic attacks, cross-border operations | Mass shootings, rocket attacks, military operations, terrorism |
+
+Tier classification determines investigation priority, approval requirements, and publication timelines.
+
 **Attribution Determinations**
 
 JSVC attribution determines:
@@ -269,8 +285,12 @@ All evidence is subject to:
 - Documentation at collection
 - Secure storage with access logging
 - Transfer protocols with signatures
-- Preservation for minimum 10 years
-- Defense access (for any resulting proceedings)
+- Preservation for minimum 25 years (aligned with UVB retention policy per [Annex E](01-uvb-charter.md#annex-e-data-management))
+- Defense access for resulting proceedings, subject to:
+    - Source identity redaction (sources may consent to disclosure)
+    - Witness protection review before disclosure
+    - Court-supervised access where proceedings require
+    - No bulk disclosure; case-specific authorization required
 
 **Technical Standards**
 
@@ -390,17 +410,18 @@ JSVC deconfliction is:
 
 | Category | Voting Requirement |
 |----------|-------------------|
-| Operational policies | Simple majority |
-| Personnel appointments | 5 of 7 |
-| Budget approval | 5 of 7 |
-| Charter amendments | 6 of 7 + guarantor approval |
-| Incident findings (Tier 3-4) | 5 of 7 |
+| Operational policies | Simple majority of voting members |
+| Personnel appointments | 5 of 7 (all commissioners vote) |
+| Budget approval | 5 of 7 (all commissioners vote) |
+| Charter amendments | 6 of 7 + guarantor approval (all commissioners vote) |
+| Incident findings (Tier 3-4) | 5 of 7 (all commissioners vote) |
 | Emergency actions | Chair + 2 commissioners (subject to full Commission review) |
 
 **Voting Procedures**
 
 - Each commissioner has one vote
-- Chair votes only to break ties (except Charter amendments)
+- **Simple majority items:** Chair votes only to break ties
+- **Supermajority items (5 of 7 or 6 of 7):** All commissioners including Chair vote; threshold is of total Commission (7)
 - Votes are recorded and archived
 - Commissioners may submit written dissents
 
@@ -441,21 +462,25 @@ Deadlock occurs when:
 - Dispute persists for more than 14 days
 - Parties or commissioners request deadlock resolution
 
-**Resolution Process**
+**Resolution Process (Policy, Budget, Personnel)**
+
+For deadlocks on policy, budget, or personnel matters:
 
 1. Chair attempts mediation (7 days)
 2. Guarantor observer invited to facilitate (7 days)
 3. If unresolved, guarantor panel decision (14 days)
 4. Guarantor panel decision is binding for that matter
 
-**Deadlock on Findings**
+**Deadlock on Incident Findings (Special Rule)**
 
-If Commission deadlocks on incident findings:
+For deadlocks on incident findings specifically, guarantor panel resolution does **not** apply. Instead:
 
 - Finding is issued as "Commission divided"
-- All positions documented
+- All positions documented with supporting evidence
 - No attribution assigned
 - Pattern analysis may note the dispute
+
+**Rationale:** Attribution findings carry significant political weight. Guarantor-imposed attribution could undermine JSVC credibility and be perceived as external interference in fact-finding. "Commission divided" preserves the evidentiary record without forcing attribution where genuine disagreement exists.
 
 ### 3.4 Minority Opinions
 

@@ -67,14 +67,16 @@ SAZs differ from all precedents in their **explicitly experimental, renewable, a
 
 SAZ legal authority derives from:
 
-| Source | Contribution |
-|--------|--------------|
-| **Party agreement** | Both parties consent to SAZ establishment (even if disagreeing on underlying sovereignty) |
-| **Guarantor endorsement** | International legitimacy and enforcement capacity |
-| **Resident consent** | Democratic legitimacy from population |
-| **MCF institutional framework** | Governance rules and oversight |
+| Source | Contribution | Requirement |
+|--------|--------------|-------------|
+| **Party agreement** | Both parties consent to SAZ establishment (even if disagreeing on underlying sovereignty) | At least non-objection; bilateral agreement preferred |
+| **Guarantor endorsement** | International legitimacy and enforcement capacity | Formal guarantor endorsement required |
+| **Resident consent** | Democratic legitimacy from population | Referendum required for all establishment paths (see Section 2.6) |
+| **MCF institutional framework** | Governance rules and oversight | Compliance with MCF standards |
 
 No single source is sufficient; SAZ legitimacy requires all four.
+
+**Resident Consent Requirement:** All SAZ establishment paths require demonstrated resident consent through referendum (Section 2.6). Party agreement or guarantor endorsement cannot substitute for resident consent. This requirement ensures that SAZs are not imposed on unwilling populations.
 
 ---
 
@@ -112,13 +114,19 @@ Step 2: Negotiation
 ├── Resource and revenue sharing
 └── Transition procedures
 
-Step 3: Agreement
+Step 3: Resident Consent (see Section 2.6)
+├── Referendum conducted in proposed SAZ territory
+├── Thresholds: 50% participation, 55% approval, 30% minimum in each community
+├── If thresholds not met: process halts; may be re-attempted after 24 months
+└── If thresholds met: proceed to agreement
+
+Step 4: Agreement
 ├── Formal bilateral agreement signed
 ├── Guarantor signatures as witnesses
 ├── Ratification per each party's requirements
 └── MCF institutional approval
 
-Step 4: Implementation
+Step 5: Implementation
 ├── Transition period initiated
 ├── Governance structures established
 ├── Population registration
@@ -133,11 +141,14 @@ Step 4: Implementation
 |---------|----------|
 | **Offering party** | Designates territory willing to place under SAZ governance |
 | **Acceptance** | Other party accepts access for its population without conceding sovereignty |
+| **Resident consent** | Referendum required per Section 2.6 (same thresholds as bilateral model) |
 | **Governance** | MCF institutions exercise governance authority |
 | **Security** | Guarantors provide security; demilitarization from both parties |
 | **Legal status** | Sovereignty dispute explicitly unresolved; administrative authority transferred |
 
 This model allows SAZ establishment without requiring agreement on sovereignty.
+
+**Resident Consent in Unilateral Model:** Even when one party offers territory unilaterally, residents must approve via referendum before SAZ establishment proceeds. Offering party's willingness does not substitute for resident consent.
 
 ### 2.4 Community Petition Model
 
@@ -148,10 +159,21 @@ Requirements for community petition:
 | Requirement | Threshold |
 |-------------|-----------|
 | **Population support** | >50% of eligible residents sign petition |
-| **Community diversity** | Petition includes members of both communities |
+| **Per-community support** | Petition signed by ≥30% of each community's eligible residents |
 | **Geographic coherence** | Proposed territory is contiguous and viable |
 | **Feasibility** | JSVC determines operational feasibility |
 | **Party non-objection** | Neither party actively blocks (silence = non-objection after 90 days) |
+| **Referendum confirmation** | Successful referendum per Section 2.6 required after petition |
+
+**Per-Community Threshold Rationale:** The 30% per-community minimum prevents majoritarian capture where one community's supermajority support could impose SAZ status over another community's opposition. Both communities must demonstrate meaningful support.
+
+**Petition-to-Referendum Process:**
+
+1. Petition submitted with verified signatures and community breakdown
+2. JSVC verifies thresholds and feasibility
+3. 90-day party objection period
+4. If no objection: referendum conducted per Section 2.6
+5. Referendum thresholds apply (50% participation, 55% approval, 30% per-community)
 
 Community-initiated SAZs require additional guarantor support due to weaker governmental endorsement.
 
@@ -169,6 +191,48 @@ All SAZ establishment agreements must address:
 | **Economics** | Revenue, taxation, services |
 | **Transition** | Entry and exit procedures |
 | **Dispute resolution** | Mechanisms for agreement interpretation disputes |
+
+### 2.6 Resident Consent Referendum
+
+**Purpose:** All SAZ establishment paths require demonstrated resident consent through referendum. This section defines the referendum requirements that apply to bilateral (Section 2.2), unilateral (Section 2.3), and community petition (Section 2.4) establishment paths.
+
+**Referendum Thresholds:**
+
+| Threshold | Requirement | Rationale |
+|-----------|-------------|-----------|
+| **Participation** | ≥50% of eligible residents vote | Ensures meaningful engagement |
+| **Approval** | ≥55% of votes cast in favor | Supermajority prevents narrow imposition |
+| **Per-community minimum** | ≥30% approval in each community | Prevents majoritarian capture |
+
+**Single-Community Exception:** If the proposed SAZ has only one community with meaningful presence (the other community constitutes <10% of population), the per-community threshold applies only to the majority community at establishment. The per-community threshold for the minority community activates once that community reaches 10% of SAZ population, tested at each mandatory 5-year review. This exception allows single-community sites to establish with the expectation of becoming mixed over time, while protecting minority newcomers once they reach meaningful presence.
+
+**Eligibility:**
+
+- Adult residents (18+) who have resided in proposed SAZ territory for ≥12 months
+- Both Israeli and Palestinian residents eligible regardless of citizenship or legal status
+- CMS status not required for referendum eligibility
+
+**Referendum Administration:**
+
+| Element | Requirement |
+|---------|-------------|
+| **Conducting authority** | JSVC with guarantor observation |
+| **Campaign period** | Minimum 60 days |
+| **Information access** | Neutral information materials in Hebrew, Arabic, English |
+| **Voting method** | In-person with paper ballot; absentee voting available |
+| **Observers** | International election observers required |
+| **Certification** | Guarantor certification of fairness required before result is binding |
+
+**Failed Referendum:**
+
+- If any threshold is not met, SAZ establishment halts
+- Re-referendum permitted after 24-month cooling-off period
+- Modified proposals (different boundaries, terms) may be subject to new referendum
+- Parties may not proceed with SAZ establishment without successful referendum
+
+**Referendum Question Format:**
+
+> "Do you approve the establishment of a Special Administrative Zone in [defined territory] under the terms specified in the [Establishment Agreement / Proposal], for an initial term of [X] years?"
 
 ---
 
@@ -217,14 +281,23 @@ Renewal options:
 
 To prevent manipulation, automatic extension applies when:
 
-| Condition | Extension |
-|-----------|-----------|
-| **Negotiation ongoing** | 2-year automatic extension |
-| **External crisis** | Extension until stability restored |
-| **Resident protection** | Extension necessary to protect resident rights |
-| **Guarantor determination** | Guarantors determine extension necessary for orderly transition |
+| Condition | Extension | Maximum |
+|-----------|-----------|---------|
+| **Negotiation ongoing** | 2-year automatic extension | 4 years total (2 extensions maximum) |
+| **External crisis** | Extension during crisis | 5 years maximum; requires guarantor certification every 12 months |
+| **Resident protection** | Extension for orderly transition | 3 years maximum |
+| **Guarantor determination** | Guarantors determine extension necessary | 3 years maximum |
 
-Automatic extension prevents parties from allowing SAZ to lapse to escape obligations.
+**Automatic Extension Caps and Limits:**
+
+- **Cumulative cap:** No more than 10 years of automatic extensions total, regardless of triggering conditions
+- **Guarantor review:** All automatic extensions require guarantor review and certification every 12 months
+- **Resident consultation:** Extensions beyond 2 years require resident consultation (not binding referendum, but documented input)
+- **Party notification:** Parties must be notified within 30 days of any automatic extension trigger
+
+**Mutual Consent Remains Primary:** Automatic extensions are **exceptional measures** to prevent manipulation and protect residents. They do not replace the mutual consent requirement for ordinary renewal. Once extension conditions resolve, parties must either achieve mutual consent for renewal or proceed to termination.
+
+Automatic extension prevents parties from allowing SAZ to lapse to escape obligations, while caps prevent indefinite extension that circumvents the mutual consent requirement.
 
 ### 3.4 Non-Renewal Consequences
 
@@ -378,14 +451,28 @@ Step 4: Maintenance
 
 ### 6.3 Boundary Modification
 
+**Core Principle:** Boundary modifications affect territory and therefore implicate the sovereignty non-prejudice commitment (Section 4.1). All boundary modifications require party consent to preserve this commitment.
+
 Boundaries may be modified through:
 
-| Mechanism | Requirements |
-|-----------|--------------|
-| **Mutual agreement** | Both parties agree |
-| **Community petition** | Affected residents petition; guarantor approval |
-| **Operational necessity** | MCF determines modification necessary; parties consulted |
-| **Dispute resolution** | Arbitration resolves boundary disputes |
+| Mechanism | Requirements | Consent Required |
+|-----------|--------------|------------------|
+| **Mutual agreement** | Both parties agree to modification | Party consent: both parties; Resident consent: affected area referendum |
+| **Community petition** | Affected residents petition for modification | Party consent: both parties (non-objection after 90 days); Resident consent: affected area referendum |
+| **Technical adjustment** | Minor corrections to demarcation (e.g., survey errors, infrastructure access) | Party consent: both parties; No referendum if <1% territory change |
+| **Dispute resolution** | Arbitration resolves boundary ambiguities within original agreement | Party participation required; binding only on ambiguities, not expansions |
+
+**Prohibited:** "Operational necessity" determinations by MCF cannot authorize boundary modifications without party consent. MCF may recommend modifications, but implementation requires the consent requirements above.
+
+**Resident Consent for Boundary Modifications:**
+
+| Modification Type | Resident Consent Requirement |
+|-------------------|------------------------------|
+| SAZ expansion (adding territory) | Referendum in territory to be added; same thresholds as establishment |
+| SAZ contraction (removing territory) | Referendum in territory to be removed; 50% participation, simple majority |
+| Technical adjustment (<1% territory) | No referendum required |
+
+**Non-Prejudice Protection:** Boundary modifications do not alter the underlying sovereignty status. Modified boundaries are subject to the same non-prejudice provisions as original boundaries (Section 4.1).
 
 ### 6.4 Enclave and Access Provisions
 
@@ -404,11 +491,39 @@ If SAZ is not contiguous:
 
 | Dimension | Relationship |
 |-----------|--------------|
-| **Jurisdiction** | SAZ jurisdiction replaces national jurisdiction within boundaries |
+| **Jurisdiction** | SAZ has primary jurisdiction within boundaries; national jurisdiction limited to reserved matters (see below) |
 | **Services** | SAZ may contract with national providers |
-| **Courts** | SAZ courts have primary jurisdiction; limited national court role |
+| **Courts** | SAZ courts have primary jurisdiction; national courts retain reserved matters |
 | **Citizenship** | Residents retain existing citizenship; no SAZ citizenship |
 | **Taxation** | SAZ taxation within boundaries; coordination with national systems |
+
+**Reserved National Court Jurisdiction:**
+
+National courts retain jurisdiction over the following matters, even for events occurring within SAZ boundaries:
+
+| Reserved Matter | Rationale |
+|-----------------|-----------|
+| **Citizenship determinations** | National citizenship is outside SAZ competence |
+| **National security offenses** | Treason, espionage, and similar offenses against national governments |
+| **Serious criminal offenses (>10 year max penalty)** | SAZ court capacity limits; ensures serious crimes receive appropriate resources (see [SAZ Governance Section 3.1](02-saz-governance.md#31-subject-matter-jurisdiction)) |
+| **Cases involving non-SAZ parties** | Disputes where all parties are outside SAZ; SAZ courts require at least one SAZ-connected party |
+| **Constitutional challenges to national law** | National constitutional interpretation |
+| **Appeals from SAZ courts** | Limited appellate review (see Section 7.5) |
+| **Enforcement of foreign judgments** | SAZ courts route to national courts for international enforcement |
+
+**SAZ Primary Jurisdiction:**
+
+SAZ courts have exclusive jurisdiction over:
+
+| Matter | Scope |
+|--------|-------|
+| **Civil disputes** | Contracts, property, torts involving SAZ residents or SAZ-located assets |
+| **Criminal offenses** | Offenses committed within SAZ boundaries with maximum penalty ≤10 years (serious offenses reserved to national courts) |
+| **Administrative matters** | SAZ governance, licensing, permits, regulatory compliance |
+| **CMS-related disputes** | All disputes arising from CMS participation within SAZ |
+| **Commercial disputes** | Business transactions with SAZ nexus |
+
+**Conflict Resolution:** If jurisdiction is disputed, the JSVC determines the appropriate forum. Parties may appeal JSVC forum determinations to the Guarantor Forum.
 
 ### 7.2 SAZ-to-SAZ Relationship
 
@@ -441,6 +556,52 @@ When multiple SAZs exist:
 | **Dispute resolution** | Arbitration and facilitation |
 | **Funding** | Development and operational support |
 | **International legitimacy** | Diplomatic backing |
+
+### 7.5 Appellate Review of SAZ Court Decisions
+
+**General Principle:** SAZ court decisions are final within SAZ jurisdiction. National courts have limited appellate review for specific grounds only.
+
+**Grounds for National Court Appellate Review:**
+
+| Ground | Scope | Standard of Review | Exhaustion Requirement |
+|--------|-------|-------------------|------------------------|
+| **Constitutional violation** | SAZ decision violates party constitutional rights | De novo review of constitutional issues | None (direct national court jurisdiction) |
+| **CRC violation with constitutional overlay** | CRC breach that also implicates national constitutional rights | Review for manifest error | CRC Review Panel exhaustion required (see note) |
+| **Jurisdictional overreach** | SAZ court exceeded its jurisdiction | De novo review of jurisdiction | None |
+| **Procedural irregularity** | Severe due process violation | Clear error standard | SAZ appellate review exhaustion required |
+| **Res judicata conflict** | SAZ decision conflicts with prior national court judgment | Review for conflict | None |
+
+**CRC Violation Review Sequence:**
+
+CRC violations are primarily resolved within the MCF system per Section 9.3:
+
+1. **Primary forum:** SAZ courts → CRC Review Panel (MCF internal)
+2. **National court role:** Only after CRC Review Panel exhaustion, and only when the CRC violation also implicates a national constitutional right
+3. **Scope limit:** National courts review the constitutional overlay, not CRC interpretation; CRC Review Panel interpretation of CRC provisions is binding
+
+**Rationale:** CRC is an MCF instrument; its interpretation belongs to MCF bodies. National courts retain jurisdiction over their own constitutional rights, but cannot override CRC Review Panel on CRC-specific questions.
+
+**Excluded from National Appellate Review:**
+
+- Ordinary factual disputes
+- Interpretation of SAZ administrative rules
+- CMS status determinations (these go to CMS Review Panel → CMS Appeals Board per [CMS Framework](../02-phase-1-civic-membership/01-cms-framework.md), not national courts)
+- SAZ sentencing within authorized ranges
+- Discretionary administrative decisions
+
+**Appellate Procedure:**
+
+| Stage | Process |
+|-------|---------|
+| **Notice of appeal** | Filed within 30 days of SAZ final judgment |
+| **Certification** | SAZ court certifies appeal involves reviewable ground |
+| **National court review** | Review limited to certified ground; no new evidence |
+| **Remand authority** | National court may affirm, reverse, or remand to SAZ court |
+| **Effect of remand** | SAZ court must apply national court's ruling on reviewed issue |
+
+**Forum Selection:** Appellant selects which party's national court hears appeal. If both parties are from same national jurisdiction, that court hears appeal. If parties are from different jurisdictions, appellant selects; respondent may petition for transfer if forum selection is clearly inappropriate.
+
+**JSVC Role:** JSVC monitors appellate patterns for systemic issues. If national courts consistently overturn SAZ decisions on particular grounds, JSVC may recommend SAZ procedure modifications.
 
 ---
 

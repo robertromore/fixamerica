@@ -10,9 +10,11 @@
 
 ## Purpose
 
-The Confederal Rights Compact (CRC) is a **binding civilian rights charter** that governs all MCF institutions and Special Administrative Zones (SAZs). It is not a constitution, not a sovereignty claim, and not a substitute for final-status arrangements. Its purpose is narrower and more practical: to establish a **non-negotiable minimum set of rights and protections** that apply to all individuals within MCF domains, independent of factional control, citizenship status, or participation history.
+The Confederal Rights Compact (CRC) is a **binding civilian rights charter** that governs all MCF institutions and Special Administrative Zones (SAZs). It is not a constitution, not a sovereignty claim, and not a substitute for final-status arrangements. Its purpose is narrower and more practical: to establish a **non-negotiable minimum set of rights and protections** within MCF domains, independent of factional control, citizenship status, or participation history.
 
-The CRC functions as a **floor, not a ceiling**. No authority operating within MCF domains may provide fewer rights than the CRC guarantees, but they may provide more. Importantly, CRC rights do not depend on recognition, allegiance, or ideological compliance. They attach to **presence within the domain**, not to identity.
+The CRC functions as a **floor, not a ceiling**. No authority operating within MCF domains may provide fewer rights than the CRC guarantees, but they may provide more. Importantly, CRC rights do not depend on recognition, allegiance, or ideological compliance.
+
+**Scope Note:** CRC application expands over phases. In Phase 0-1, CRC rights attach to **participants** (CMS holders, PCC users, MCF program participants). In Phase 2+, CRC rights attach to **presence**—all persons within SAZ boundaries hold CRC rights regardless of CMS status. See Section 1.1 for the full phased application framework.
 
 ---
 
@@ -32,8 +34,10 @@ Without a fully articulated CRC, SAZs are administrative experiments. With it, t
 |-------|------------------|
 | **Phase 0** | Applies to UVB/JSVC operations, PCC users, and all MCF institutional activities |
 | **Phase 1** | Applies to all CMS holders, MCF programs, arbitration proceedings, and benefit systems |
-| **Phase 2** | Supersedes local law within SAZ territory; applies to all persons present regardless of CMS status |
+| **Phase 2** | Preempts inconsistent local/municipal rules within SAZ territory; applies to all persons present regardless of CMS status (see hierarchy note below) |
 | **Phase 3** | Baseline for any convergence arrangements; may be constitutionalized |
+
+**Legal Hierarchy Note (Phase 2+):** CRC preempts inconsistent local ordinances, municipal rules, and administrative regulations within SAZs. CRC does **not** preempt national constitutional rights, which continue to provide protections alongside CRC. Where conflict exists between CRC and national constitutional protections, the more protective standard applies (see Section 9.5). CRC operates as a **floor above local rules** but **alongside, not above, national constitutions**.
 
 ### 1.2 Territorial vs. Personal Application
 
@@ -183,12 +187,22 @@ Entry to and exit from SAZs must be governed by:
 
 ### 4.3 Prohibited Restrictions
 
-The following movement restrictions are prohibited:
+The following movement restrictions are prohibited **under normal operations**:
 
 - **Collective closure**: Closing SAZ access as response to individual acts
 - **Identity-based denial**: Restricting movement based on ethnicity, religion, or political belief
 - **Punitive restriction**: Using movement denial as punishment without due process
 - **Indefinite restriction**: Movement limits without defined duration or review
+
+**Emergency Exception:** During formally declared emergencies (per Section 8.2), time-limited, geographically bounded movement restrictions may be imposed through [Shock-Absorber Protocols](../01-phase-0-institutions/04-shock-absorber-protocols.md). Such restrictions must be:
+
+- Formally declared with specific duration (max 30 days per shock-absorber caps)
+- Applied neutrally (not identity-based)
+- Proportionate to the security threat
+- Subject to regular review and guarantor oversight
+- Reported to guarantors within 24 hours
+
+Emergency movement restrictions do **not** permit: indefinite closures, identity-based targeting, or punitive application. The prohibitions on identity-based denial and indefinite restriction remain absolute even during emergencies.
 
 ### 4.4 Extra-SAZ Movement
 
@@ -212,6 +226,8 @@ Individuals within MCF domains have the right to:
 - Receive wages for work performed
 - Access financial services
 - Participate in economic programs
+
+**Work Authorization Note:** The right to seek and engage in employment operates within applicable legal frameworks. For cross-community employment, CMS holders must obtain work permits through the [MCF employment program](01-cms-framework.md#42-employment-access), which facilitates but does not override national work authorization requirements. CRC guarantees non-discriminatory access to the permit process and protection from arbitrary denial, but does not create unconditional work authorization independent of national law. See [Labor Mobility](../07-economic-architecture/02-labor-mobility.md) for permit procedures.
 
 Economic participation may not be denied on the basis of:
 
@@ -365,8 +381,10 @@ Administrative decisions must be:
 
 - Retention limited to period necessary for stated purpose
 - Automatic deletion schedules for routine data
-- Right to request deletion upon program exit (with security exceptions)
+- Right to request deletion upon program exit (subject to retention schedules; see note below)
 - No adverse annotation for withdrawal
+
+**Retention Schedule Note:** The right to request deletion operates within MCF data retention requirements. [CMS data policy](01-cms-framework.md#71-data-collection) specifies retention periods (e.g., identity information: duration of CMS + 7 years; vetting records: duration + 10 years) necessary for audit, accountability, and fraud prevention. Upon program exit, data enters retention-only mode (no active sharing), and individuals may request deletion after the applicable retention period expires. Security exceptions permit extended retention only when specific, documented threats exist.
 
 ---
 
@@ -468,10 +486,25 @@ Consequences apply to authorities and personnel, **not** to civilian populations
 
 ### 9.5 Relationship to National Enforcement
 
+**Legal Hierarchy:**
+
+| Level | Authority | CRC Relationship |
+|-------|-----------|------------------|
+| National constitutions | Highest domestic authority | CRC operates alongside; more protective standard applies |
+| National statutes | Below constitution | CRC operates alongside; more protective standard applies |
+| Local/municipal rules | Below statutes | CRC preempts inconsistent rules within SAZs (Phase 2+) |
+| MCF administrative rules | MCF internal | Must comply with CRC |
+
+**Key Principles:**
+
 - CRC does not displace national constitutional rights
-- National courts retain jurisdiction over national law
-- CRC provides additional layer, not replacement
-- Conflicts resolved by applying more protective standard
+- National courts retain jurisdiction over national law matters
+- CRC provides an additional protective layer, not a replacement
+- Where CRC and national constitutional rights conflict, the **more protective standard** applies to the individual
+- CRC enforcement bodies may not override national court judgments, but may document violations for external accountability
+- Individuals may invoke CRC protections in MCF proceedings regardless of national court outcomes
+
+**Clarification:** "Preempts inconsistent local rules" (Phase 2+) means CRC standards control over municipal ordinances, local administrative regulations, and SAZ-specific rules that would provide lesser protections. It does **not** mean CRC overrides national constitutional protections, which continue to apply alongside CRC.
 
 ---
 

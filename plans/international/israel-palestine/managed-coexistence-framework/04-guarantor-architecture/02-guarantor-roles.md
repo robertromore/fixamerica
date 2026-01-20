@@ -245,10 +245,18 @@ Guarantors may be present for specific functions, but their presence is limited,
 - Asset freezes for verified violators
 
 **Sanctions Procedures:**
+
 - Evidence threshold (verified by JSVC/UVB)
 - Guarantor Forum approval
-- MCF Confederal Council notification
+- **Confederal Council concurrence required** (aligning with Enforcement Limitations, Section 1)
 - Appeal mechanisms
+
+**Urgent Protective Measures Exception:** For time-sensitive actions where delay would defeat the purpose (e.g., asset freezes to prevent dissipation of funds), guarantors may act with Confederal Council notification only. Such measures require:
+
+- Guarantor Forum approval
+- Immediate Confederal Council notification (within 24 hours)
+- Confederal Council ratification within 14 days (or measure lapses)
+- Limitation to asset freezes and travel restrictions (not broader sanctions)
 
 **Sanctions Limitations:**
 - No population-wide sanctions
