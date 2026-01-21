@@ -199,9 +199,10 @@ Step 1: Proposal Development
 Step 2: Approval Process
 ├── Both party governments formally agree
 ├── Guarantor endorsement
-├── Referendum in each community
+├── Referendum in each community (per [Referenda Procedures](../03-phase-3-voluntary-convergence/01-referenda-procedures.md#5-threshold-framework))
 │   ├── 60% participation threshold
-│   └── 55% approval threshold in each
+│   ├── 55% approval threshold in each
+│   └── 40% minimum community support in each community
 └── Treaty formalization
 
 Step 3: Institutional Transformation
@@ -241,9 +242,10 @@ Step 1: Constitutional Development
 └── Constitutional protections for minorities
 
 Step 2: Approval Process
-├── Referendum in each community
+├── Referendum in each community (per [Referenda Procedures](../03-phase-3-voluntary-convergence/01-referenda-procedures.md#5-threshold-framework))
 │   ├── 70% participation threshold
-│   └── 60% approval threshold in each
+│   ├── 60% approval threshold in each
+│   └── 40% minimum community support in each community
 ├── International recognition process
 ├── Treaty framework with guarantors
 └── UN involvement as appropriate
@@ -468,9 +470,11 @@ Minimum Total Timeline: 42-66 months from trigger to decision
 
 #### 4.4.1 Basic Referendum Parameters
 
+Per [Referenda Procedures](../03-phase-3-voluntary-convergence/01-referenda-procedures.md#5-threshold-framework):
+
 | Parameter | Requirement |
 |-----------|-------------|
-| **Participation threshold** | ≥60% of eligible voters in each community |
+| **Participation threshold** | ≥65% of eligible voters in each community (for end-state selection) |
 | **Approval threshold** | Varies by end state (see below) |
 | **Separate voting** | Each community votes separately |
 | **No artificial unity** | Cannot require combined single vote |
@@ -482,16 +486,23 @@ Minimum Total Timeline: 42-66 months from trigger to decision
 | **Permanent Confederation** | 55% | 55% | Moderate change; lower threshold |
 | **Federation** | 60% | 60% | Major change; higher threshold |
 | **Enhanced Dual-State** | 55% | 55% | Moderate change; lower threshold |
-| **Normalized Separation** | 50% | 50% | Lowest bar; returns to normal |
 | **Deliberate Dissolution** | 60% | 60% | Ends framework; higher threshold |
 
-#### 4.4.3 Runoff and Plurality Rules
+*Note: "Normalized Separation" (Section 3.5) is achieved through the graduation certification process, not referendum—it occurs when MCF is no longer needed because conditions have normalized, not through population vote on an end-state.*
 
-If no single option reaches threshold:
+#### 4.4.3 Ranked-Choice Counting
 
-1. If one option has plurality in both communities: Runoff between top two
-2. If communities prefer different options: Extended deliberation period (12 months) then re-vote
-3. If repeated deadlock: Indefinite continuation becomes default
+Per [Referenda Procedures Section 6](../03-phase-3-voluntary-convergence/01-referenda-procedures.md#6-multi-option-referenda), multi-option end-state referenda use ranked-choice voting with instant runoff:
+
+1. Count first-preference votes; if any option exceeds its approval threshold (per Section 4.4.2), it wins
+2. If no option exceeds threshold, eliminate the lowest option and transfer votes to next preferences
+3. Repeat until one option exceeds its threshold OR only two options remain
+4. In the final round with two options, each must still meet its specific threshold (55% or 60%) to win—an option cannot win merely by having a plurality
+5. If neither remaining option meets its threshold, the referendum fails (status quo/indefinite continuation prevails)
+
+**Hard Threshold Requirement:** Unlike simple plurality systems, an option cannot win without meeting its approval threshold. This prevents implementing major constitutional changes without genuine supermajority support.
+
+**Failed Referendum:** If the referendum fails, a 12-month cooling-off period applies before a new referendum may be called.
 
 ### 4.5 Minority Protection in Selection
 
@@ -692,12 +703,18 @@ Even in forced dissolution:
 
 | Category | Preservation Requirement |
 |----------|-------------------------|
-| **Verification records** | Complete JSVC archives; indefinite retention |
-| **Institutional decisions** | All governance records; indefinite retention |
-| **Participant records** | CMS records; 50 years minimum |
+| **Verification records** | Complete JSVC archives; indefinite retention* |
+| **Institutional decisions** | All governance records; indefinite retention* |
+| **Participant records** | CMS records; per CMS Framework retention schedule** |
 | **Legal proceedings** | Court records; per legal standards |
 | **Operational documentation** | Procedures and protocols; 25 years |
 | **Lessons learned** | Analysis and recommendations; indefinite |
+
+**Data Retention Harmonization:**
+
+*\*Accountability records (verification findings, institutional decisions, incident documentation) are exempt from individual deletion rights per [Data/IT Systems Section 3](09-data-it-systems.md). These records support future accountability processes per [Post-Conflict Justice Interface](../06-sensitive-issues/07-post-conflict-justice.md#mcf-documentation-role) and are retained indefinitely regardless of individual withdrawal.*
+
+*\*\*Personal/operational data (identity verification, contact information, benefit records, vetting records) follows the retention schedules in [No-Worse-Off Guarantee Section 8.2](../02-phase-1-civic-membership/05-no-worse-off-guarantee.md#82-retention-limits) and is subject to deletion upon request after retention periods expire. The 50-year minimum previously stated here is superseded by the CMS Framework schedules.*
 
 #### 7.2.2 Archive Custodian
 
@@ -880,9 +897,12 @@ See [Communication Protocols](07-communication-protocols.md) for communication p
 | **Citizenship** | Dual + CMS | Single | Dual | Dual |
 | **Borders** | Preserved (soft) | Internal | Negotiated | Negotiated |
 | **MCF institutions** | Permanent | Transformed | Bilateral | Dissolved |
-| **Approval threshold** | 55% each | 60% each | 55% each | 50% each |
+| **Selection mechanism** | Referendum | Referendum | Referendum | Certification* |
+| **Approval threshold** | 55% each | 60% each | 55% each | N/A |
 | **Reversibility** | High | Low | Medium | High |
 | **Transition time** | 5-10 years | 10-20 years | 5-15 years | 3-5 years |
+
+*Normalized Separation is achieved through JSVC graduation certification (per Section 3.5), not referendum. It occurs when MCF is no longer needed because underlying conditions have normalized—not through population vote. Referendum-based end states have two threshold stages: (1) **End-state selection referendum** requires 65% participation and the approval thresholds shown above; (2) **Constitutional ratification referendum** (after selection) requires 60-70% participation depending on end state (70% for federation, 60% for others). Both stages require 40% minimum community support. See [Referenda Procedures](../03-phase-3-voluntary-convergence/01-referenda-procedures.md#5-threshold-framework) for complete threshold framework.*
 
 ### Annex B: Success Metrics Dashboard Template
 

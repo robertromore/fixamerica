@@ -575,4 +575,4 @@ This scenario validates core MCF design principles:
 
 | Previous | Up | Next |
 |----------|-----|------|
-| [Concrete Scenarios Overview](00-overview.md) | [Operational Procedures](../00-overview.md) | Scenario 02: Settler Violence *(not yet created)* |
+| [Concrete Scenarios Overview](00-overview.md) | [Operational Procedures](../00-overview.md) | [Scenario 02: Settler Violence](02-settler-violence.md) |

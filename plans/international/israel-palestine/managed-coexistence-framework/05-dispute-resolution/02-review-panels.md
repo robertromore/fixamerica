@@ -79,6 +79,9 @@ Independence ensures credible review.
 - CMS Review Panel (CMS revocation, suspension, credential disputes—post-grant actions only; see Section 2.3 for denial vs. process complaint distinction)
 - Employment panel (authority as employer)
 - Security-civilian panel (security-related complaints)
+- Data/Privacy Panel (data access, correction, deletion requests; appeals of data retention decisions; privacy complaints per [Data/IT Systems Section 3](../08-operational-procedures/09-data-it-systems.md))
+
+**Data/Privacy Panel Scope:** This panel handles individual data-rights appeals including: denied access requests, disputed correction requests, refused deletion requests (where deletion rights apply), complaints about unauthorized data use, and appeals of data retention classifications. The panel may order access, correction, or annotation but cannot order deletion of accountability records exempt under Data/IT Systems Section 3. Appeals from Data/Privacy Panel decisions follow the standard Review Panel appellate path (see Section 7.2).
 
 **Security-Civilian Panel Scope:** This panel handles complaints about security personnel conduct toward civilians (misconduct, procedural violations, discrimination, excessive force claims). It does not review security operational decisions (deployment, tactics, threat assessments). The distinction: *how* security personnel treated an individual (reviewable) versus *whether* to conduct a security operation (not reviewable). Complaints about operational decisions are excluded per Section 3 ("Excluded Complaints").
 
@@ -421,6 +424,7 @@ Independence ensures credible review.
 | CMS process complaints (discrimination, procedural abuse) | Review Panel Appellate Panel | This section |
 | Employment panel | Review Panel Appellate Panel | This section |
 | Security-civilian panel | Review Panel Appellate Panel | This section |
+| Data/Privacy panel | Review Panel Appellate Panel | This section |
 | Other authority complaints | Review Panel Appellate Panel | This section |
 
 **Note on CMS Application Denials:** Initial CMS application denials are appealed directly to the CMS Appeals Board per [CMS Framework](../02-phase-1-civic-membership/01-cms-framework.md), not through Review Panels. Review Panels handle only *process complaints* about CMS handling (see Section 2.3).

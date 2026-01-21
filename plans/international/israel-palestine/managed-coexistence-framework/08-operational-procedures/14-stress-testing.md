@@ -39,13 +39,14 @@ The classic kill-shot. Emotional pressure demands immediate, visible response. P
 | **Military action** | Israeli forces act immediately as they do today; MCF does not delay force |
 | **Verification** | UVB/JSVC activates pre-defined "rapid verification lane" (tight evidence chain, timestamps, fragment analysis, comms deconfliction) |
 | **PCCs** | Do not fully collapse; only relevant corridors tighten under time-limited severity protocol |
-| **Medical PCCs** | Remain protected—no closure, max 25% throughput reduction |
+| **Medical PCCs** | Remain protected—no closure; throughput reduction varies by type (patient transfer: max 50%, medical supply: max 25%, facilities: no restriction) per [PCC Protocols](../01-phase-0-institutions/03-pcc-protocols.md#medical-pcc-absolute-protection) |
 | **Discretionary benefits** | Mobility benefits may pause; utility repair windows may narrow |
 | **Attribution timeline** | Preliminary (72 hours), confirmed (30 days), final (90 days) |
 
 **Win Condition:**
 
 Not preventing retaliation, but:
+
 - Preventing the narrative vacuum from driving *maximal* escalation
 - Preventing the entire framework from being politically torched
 - Maintaining factual record that becomes authoritative over time
@@ -160,6 +161,7 @@ Framework becomes irrelevant to Palestinians because it cannot reduce the violen
 ### Scenario
 
 Hamas (or a successor organization) attempts to capture the framework by:
+
 - Demanding organizational representation in MCF bodies
 - Using intimidation to monopolize CMS uptake in Gaza
 - Treating CMS as a factional credential
@@ -175,7 +177,7 @@ If CMS becomes a Hamas membership card, Israel will terminate cooperation. If MC
 | Mechanism | Application |
 |-----------|-------------|
 | **Eligibility** | Individual application only; no organizational sponsorship |
-| **Intake channels** | External SAZ channels (Jordan pilot); remote arbitration intake; anonymized pipelines where possible |
+| **Intake channels** | JSVC-facilitated coordination; guarantor-arranged remote processing; remote arbitration intake; anonymized pipelines where possible (External SAZ channels available in Phase 1-2 per [External SAZ](../03-phase-2-saz/05-external-saz.md)) |
 | **Coercion response** | Rapid revocation plus benefit denial for coercive behavior toward applicants |
 | **Geographic flexibility** | Gaza may remain in containment mode while institutional progress continues elsewhere |
 | **Processing throttle** | Local participation can be throttled without ending the framework |
@@ -203,6 +205,7 @@ CMS becomes a factional credential—either Hamas controls it or fears it.
 ### Scenario
 
 A major guarantor withdraws or flips policy:
+
 - U.S. administration change leads to disengagement
 - EU fatigue after prolonged crisis
 - Regional guarantor faces domestic pressure to exit
@@ -250,6 +253,7 @@ Cascading legitimacy loss—one exit triggers others.
 ### Scenario
 
 Coordinated campaigns claim:
+
 - **In Israel:** "MCF is a surrender plot, legitimizing terrorists, constraining IDF"
 - **Among Palestinians:** "MCF normalizes occupation, launders apartheid, betrays resistance"
 
@@ -272,6 +276,7 @@ Political capture through narrative. If MCF is successfully framed as betrayal b
 **Doctrine:**
 
 You don't "win" the information war. You deny it oxygen by:
+
 - Stabilizing facts
 - Maintaining predictable procedures
 - Keeping benefits compounding for participants
@@ -294,6 +299,7 @@ Narrative capture—framework becomes a political football rather than an operat
 ### Scenario
 
 Parties attempt to weaponize funding:
+
 - Israel or PA threatens to stop paying stakeholder fees
 - Donors threaten to condition funds on political concessions unrelated to MCF operations
 - One party attempts to "buy" favorable treatment
@@ -317,6 +323,7 @@ If parties can defund operations or donors can purchase outcomes, institutional 
 **Charter-Level Separation:**
 
 MCF charter explicitly separates:
+
 - **Finance authority:** Who provides funding
 - **Governance authority:** Who makes operational decisions
 - **Verification authority:** Who determines facts
@@ -329,7 +336,7 @@ Institutional capture—whoever pays, controls.
 
 ### Mitigation
 
-- **Diversified funding:** No single source >40% of budget
+- **Diversified funding:** No single source >30% of budget (per [Funding Architecture](../04-guarantor-architecture/03-funding-architecture.md#1-diversification-requirement))
 - **Governance firewalls:** Funding decisions do not affect operational decisions
 - **Public budget transparency:** All funding sources and amounts published
 - **Precommitted core budget:** Essential functions funded for multiple years regardless of annual negotiations
@@ -341,6 +348,7 @@ Institutional capture—whoever pays, controls.
 ### Scenario
 
 Political pressure or overconfidence leads to SAZ initiation:
+
 - In a contested location (near Jerusalem, major settlement, refugee camp)
 - Before security conditions support it
 - As a political symbol rather than operational pilot
@@ -387,6 +395,7 @@ Premature territorial symbolism—framework becomes identified with a failed exp
 ### Scenario
 
 A major legal development polarizes the environment:
+
 - ICJ advisory opinion or jurisdiction ruling
 - ICC arrest warrant or investigation expansion
 - Domestic court ruling (Israeli or Palestinian) affecting participation
@@ -411,6 +420,7 @@ Legal shocks force participants to choose: "Are you with us or against us?" If M
 **Charter Language:**
 
 "Participation in MCF mechanisms does not constitute:
+
 - Recognition of any territorial claim
 - Waiver of any legal right or remedy
 - Concession of any legal position

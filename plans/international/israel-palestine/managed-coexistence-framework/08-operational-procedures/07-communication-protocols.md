@@ -754,6 +754,7 @@ Pre-approved templates for each tier:
 |-------|----------------|---------------------|---------------------|
 | **Phase 0→1** | 60 days | 30 days | Upon decision |
 | **Phase 1→2** | 90 days | 45 days | Upon decision |
+| **Phase 2→3** | 90 days | 60 days | Upon referendum certification |
 | **Phase regression** | Per emergency protocols | Per situation | Upon implementation |
 
 **Transition Communication Content**

@@ -462,6 +462,8 @@ Mass casualty events require specialized response beyond standard containment. T
 
 **Definition:** Deliberate attack causing or intended to cause casualties exceeding 50, or targeting symbolic MCF locations/personnel.
 
+*Threshold coordination: This 50-casualty threshold aligns with [Humanitarian Crisis Protocols](08-humanitarian-crisis-protocols.md) Level 3 automatic activation. Lower thresholds apply for immediate security response ([Shock-Absorber Protocols](../01-phase-0-institutions/04-shock-absorber-protocols.md) Tier 4: 5+ deaths). Higher thresholds apply for regression assessment ([Phase Regression](03-phase-regression.md): ≥20 fatalities).*
+
 **Immediate Response (0-6 hours):**
 
 | Action | Authority | Timeline |

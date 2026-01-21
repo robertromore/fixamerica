@@ -2,7 +2,7 @@
 
 **Parent Document:** [Stress Testing](../14-stress-testing.md)
 
-**Phase:** Phase 0-1 (UVB/JSVC + PCCs + early CMS + arbitration + anti-intimidation)
+**Phase:** Phase 0-1 (institutional setup through early civic membership)
 
 **Objective:** Detailed operational walkthroughs showing how MCF mechanisms respond to specific crisis scenarios.
 
@@ -25,11 +25,11 @@ MCF does not prevent violence. It prevents violence from destroying the procedur
 | # | Scenario | Timeline | Key Test |
 |---|----------|----------|----------|
 | 01 | [Rocket Barrage + Airstrikes + Contested Hospital](01-rocket-barrage-hospital.md) | Month 6, Phase 0 | Mass-casualty attack with disputed attribution |
-| 02 | Settler Violence Escalation | *Planned* | Violence with perceived official tolerance |
-| 03 | Gaza Blockade Tightening | *Planned* | Humanitarian crisis during conflict |
-| 04 | Assassination of Moderate Leader | *Planned* | Targeting of MCF participant |
-| 05 | Coordinated Information Warfare | *Planned* | Dual-narrative attack on framework |
-| 06 | Guarantor Policy Reversal | *Planned* | Mid-crisis sponsor withdrawal |
+| 02 | [Settler Violence Escalation](02-settler-violence.md) | Month 14, Phase 1 | Violence with perceived official tolerance |
+| 03 | [Gaza Blockade Tightening](03-gaza-blockade-tightening.md) | Month 18, Phase 1 | Humanitarian crisis during conflict |
+| 04 | [Assassination of Moderate Leader](04-assassination-moderate-leader.md) | Month 24, Phase 1 | Targeting of MCF participant |
+| 05 | [Coordinated Information Warfare](05-information-warfare.md) | Month 20, Phase 1 | Dual-narrative attack on framework |
+| 06 | [Guarantor Policy Reversal](06-guarantor-reversal.md) | Month 30, Phase 1 | Mid-crisis sponsor withdrawal |
 
 ---
 

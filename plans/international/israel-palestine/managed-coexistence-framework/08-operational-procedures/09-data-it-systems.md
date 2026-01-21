@@ -151,9 +151,9 @@ MCF system operations are transparent; individual participant data is protected.
 - Caching: Limited caching with freshness requirements
 - Portability: Standardized credential formats (aligned with international standards)
 
-### 4. Arbitration Records
+### 4. Dispute Resolution Records
 
-**Purpose:** Record of commercial court cases, decisions, and enforcement.
+**Purpose:** Record of [Confederal Commercial Court](../07-economic-architecture/03-commercial-courts.md) and [Arbitration Court](../05-dispute-resolution/01-arbitration-courts.md) cases, decisions, and enforcement.
 
 **Data Elements:**
 
@@ -166,7 +166,7 @@ MCF system operations are transparent; individual participant data is protected.
 
 **Architecture:**
 
-- Case management system: Arbitration Courts
+- Case management system: Confederal Commercial Courts (primary) and Arbitration Courts (by agreement)
 - Publication: Redacted decisions published
 - Access: Parties to case; aggregated to public
 - Retention: Permanent for legal precedent
@@ -238,7 +238,8 @@ MCF system operations are transparent; individual participant data is protected.
 
 - Request to MCF Data Protection Office
 - 30-day response requirement
-- Appeal to Review Panel if denied
+- Appeal to [Data/Privacy Panel](../05-dispute-resolution/02-review-panels.md) if denied
+- Further appeal to Review Panel Appellate Panel per [Review Panels Section 7.2](../05-dispute-resolution/02-review-panels.md)
 - Guarantor oversight of systematic issues
 
 ### 4. Cross-Border Data Transfers

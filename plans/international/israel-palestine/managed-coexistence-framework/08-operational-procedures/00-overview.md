@@ -56,7 +56,7 @@ Transitions require:
 - Demand for next-phase mechanisms
 - Guarantor certification
 
-Transitions are **not automatic**: meeting criteria enables transition but does not require it.
+Transitions are **automatic upon certification**: once JSVC certifies criteria are met, the transition proceeds unless a supermajority override is invoked per [Phase Transitions Section 7](02-phase-transitions.md#7-transition-implementation). This removes political discretion from the normal path while preserving an exceptional brake.
 
 ---
 
@@ -113,19 +113,19 @@ Success is defined as **sustained stability and voluntary participation**, not a
 
 | Document | Status |
 |----------|--------|
-| 00-overview.md | Complete |
-| 01-risk-management.md | Draft |
-| 02-phase-transitions.md | Draft |
-| 03-phase-regression.md | Draft |
-| 04-spoiler-response.md | Draft |
-| 05-amendment-procedures.md | Draft |
-| 06-exit-conditions.md | Draft |
-| 07-communication-protocols.md | Draft |
-| 08-humanitarian-crisis-protocols.md | Draft |
-| 09-data-it-systems.md | Draft |
-| 10-vulnerable-populations.md | Draft |
-| 11-media-civil-society.md | Draft |
-| 12-personnel-standards.md | Draft |
-| 13-language-services.md | Draft |
+| 00-overview.md | Final Draft |
+| 01-risk-management.md | Final Draft |
+| 02-phase-transitions.md | Final Draft |
+| 03-phase-regression.md | Final Draft |
+| 04-spoiler-response.md | Final Draft |
+| 05-amendment-procedures.md | Final Draft |
+| 06-exit-conditions.md | Final Draft |
+| 07-communication-protocols.md | Final Draft |
+| 08-humanitarian-crisis-protocols.md | Final Draft |
+| 09-data-it-systems.md | Final Draft |
+| 10-vulnerable-populations.md | Final Draft |
+| 11-media-civil-society.md | Final Draft |
+| 12-personnel-standards.md | Final Draft |
+| 13-language-services.md | Final Draft |
 | 14-stress-testing.md | Final Draft |
 | 15-concrete-scenarios/ | Final Draft |

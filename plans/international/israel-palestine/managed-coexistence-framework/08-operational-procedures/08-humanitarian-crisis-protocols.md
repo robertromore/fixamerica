@@ -166,11 +166,13 @@ The following conditions trigger **automatic** crisis activation without requiri
 
 | Trigger | Crisis Level | Immediate Actions |
 |---------|--------------|-------------------|
-| Mass casualty event (>50 deaths in 24 hours) | Level 3 minimum | Emergency operations center activation; guarantor notification |
+| Mass casualty event (≥50 casualties in 24 hours)* | Level 3 minimum | Emergency operations center activation; guarantor notification |
 | Hospital system saturation (>90% capacity with projected increase) | Level 2 minimum | Medical PCC priority mode; resource request to guarantors |
 | Critical infrastructure failure (water/power >72 hours) | Level 2 minimum | Emergency supply activation; repair prioritization |
 | Mass displacement (>5,000 persons in 48 hours) | Level 2 minimum | Shelter activation; humanitarian corridor establishment |
 | Epidemic declaration by recognized health authority | Level 2 minimum | Public health protocols; border coordination |
+
+*Mass casualty threshold note: The ≥50 casualty threshold here is for humanitarian crisis activation. Different thresholds apply elsewhere: [Shock-Absorber Protocols](../01-phase-0-institutions/04-shock-absorber-protocols.md) use 5+ deaths for Tier 4 response escalation (lower threshold for immediate security response); [Phase Regression](03-phase-regression.md) uses ≥20 fatalities for regression trigger assessment (mid-level threshold for framework stability). These thresholds serve different purposes and are not contradictory.*
 
 #### Discretionary Activation
 
@@ -963,7 +965,9 @@ For mass casualty events resulting from intentional attacks:
 | **Tier 2** | May trigger Level 1 crisis; enhanced monitoring |
 | **Tier 3** | Likely triggers Level 2 crisis; EOC standby |
 | **Tier 4** | Automatic Level 3 crisis; full EOC activation |
-| **Tier 5** | Automatic Level 3-4 crisis; humanitarian coordinator |
+| **Beyond Tier 4*** | Automatic Level 3-4 crisis; humanitarian coordinator |
+
+*Shock-Absorber Protocols define Tiers 1-4 only. Incidents exceeding Tier 4 parameters (extended duration, framework-threatening scope) trigger Level 3-4 humanitarian crisis response with mandatory humanitarian coordinator appointment.*
 
 #### Parallel Operation
 

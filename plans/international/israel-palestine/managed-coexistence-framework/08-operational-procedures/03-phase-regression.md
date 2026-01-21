@@ -139,13 +139,15 @@ Safety triggers address direct physical security failures.
 
 **Mass-casualty event definition:** Single incident with ≥20 fatalities or ≥100 casualties.
 
+*Threshold coordination: This regression-trigger threshold is higher than the humanitarian crisis activation threshold (≥50 casualties per [Humanitarian Crisis Protocols](08-humanitarian-crisis-protocols.md)) and the Tier 4 security response threshold (5+ deaths per [Shock-Absorber Protocols](../01-phase-0-institutions/04-shock-absorber-protocols.md)). Regression assessment requires more severe impact because regression has significant framework-wide consequences.*
+
 #### 2.2.2 Escalation Pattern Thresholds
 
 | Pattern | Threshold | Consequence |
 |---------|-----------|-------------|
 | **Cross-community retaliation cycles** | ≥3 confirmed cycles in 90 days | Regression Watch |
 | **Sustained escalation trajectory** | 6 consecutive months of increasing incident severity | Regression Watch |
-| **Escalation breakout** | Tier 4 or Tier 5 incident not contained within 7 days | Regression Trigger |
+| **Escalation breakout** | Tier 4 incident not contained within 7 days | Regression Trigger |
 
 #### 2.2.3 Protection Failure Thresholds
 
@@ -305,8 +307,10 @@ Step 3: Scope Determination (7 days)
 Step 4: Commission Decision (7 days)
 ├── JSVC Commission reviews assessment
 ├── Vote on threshold certification
-├── 4 of 7 required to certify breach
+├── 4 of 7 required to certify breach*
 └── If certified: Regression procedures initiated
+
+*Threshold Asymmetry: Regression requires 4-of-7 (lower than the 5-of-7 for phase advancement per [JSVC Charter Section 8.4](../01-phase-0-institutions/02-jsvc-charter.md#84-certification-process)). This asymmetry is intentional: failing to regress when conditions warrant is more dangerous than regressing unnecessarily. A regression can be reversed through normal advancement procedures; failing to regress during deteriorating conditions can allow catastrophic harm. The lower threshold ensures regression can proceed with a simple majority—4 commissioners can certify regression even if 3 oppose, whereas advancement requires 5 commissioners (allowing 3 to block).
 
 Step 5: Override Window (30 days)
 ├── Override requires ≥5/7 JSVC + unanimous guarantors
@@ -673,11 +677,13 @@ Regression can apply asymmetrically across communities:
 
 | Category | Preservation Requirement |
 |----------|-------------------------|
-| **Verification records** | All JSVC findings archived; never destroyed |
-| **Eligibility histories** | CMS eligibility records preserved indefinitely |
-| **Incident documentation** | Complete incident records preserved |
-| **Institutional decisions** | All governance decisions documented and archived |
+| **Verification records** | All JSVC findings archived; never destroyed* |
+| **Eligibility histories** | CMS eligibility records per retention schedule** |
+| **Incident documentation** | Complete incident records preserved* |
+| **Institutional decisions** | All governance decisions documented and archived* |
 | **Legal proceedings** | Court records and decisions preserved |
+
+**Data Retention Categories:** *Accountability records (verification, incidents, institutional decisions) are preserved indefinitely to support future accountability processes per [Post-Conflict Justice Interface](../06-sensitive-issues/07-post-conflict-justice.md). **Personal/operational data follows the retention schedules in [No-Worse-Off Guarantee Section 8.2](../02-phase-1-civic-membership/05-no-worse-off-guarantee.md#82-retention-limits)—not indefinite—and is subject to deletion upon request after retention periods expire.
 
 #### 7.2.2 Institutional Capability Preservation
 
@@ -950,13 +956,15 @@ Every regression decision must be documented with:
 
 | Record Category | Retention Period | Access During Regression |
 |-----------------|------------------|--------------------------|
-| CMS eligibility records | Indefinite | Restricted to authorized personnel |
-| JSVC verification findings | Indefinite | Publicly archived |
-| Incident documentation | Indefinite | Restricted |
-| Court proceedings | Indefinite | Restricted |
-| Governance decisions | Indefinite | Publicly archived |
+| CMS eligibility records | Per [CMS retention schedule](../02-phase-1-civic-membership/05-no-worse-off-guarantee.md#82-retention-limits)* | Restricted to authorized personnel |
+| JSVC verification findings | Indefinite (accountability) | Publicly archived |
+| Incident documentation | Indefinite (accountability) | Restricted |
+| Court proceedings | Indefinite (accountability) | Restricted |
+| Governance decisions | Indefinite (accountability) | Publicly archived |
 | Personnel records | Per employment law | HR access only |
 | Financial records | Per accounting standards | Audit access |
+
+*CMS personal/operational data follows CMS Framework retention schedules (7-10 years depending on category) and is subject to deletion rights. Accountability records (verification, incidents, decisions) are exempt from deletion and retained indefinitely per [Data/IT Systems Section 3](09-data-it-systems.md).*
 
 ---
 

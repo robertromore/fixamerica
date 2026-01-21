@@ -74,7 +74,7 @@ Referendum procedures must be:
 1. Written challenge with supporting evidence
 2. CMS Registry initial determination (7 days)
 3. Appeal to CMS Appeals Board (14 days)
-4. Final appeal to Confederal Judicial Panel (14 days)
+4. Final appeal to Confederal Judicial Body (14 days)
 5. No further appeal; decision binding
 
 ---
@@ -243,6 +243,7 @@ Minimum support required for option to pass:
 | End-State: Confederation | 55% of votes cast |
 | End-State: Federation | 60% of votes cast |
 | End-State: Dual-State | 55% of votes cast |
+| End-State: Deliberate Dissolution | 60% of votes cast |
 | Constitutional Ratification | 60% of votes cast |
 
 ### 5.3 Community Thresholds
@@ -298,7 +299,7 @@ Multi-option format used when:
    - If either option exceeds its required threshold → that option wins
    - If neither exceeds threshold → **referendum fails** (status quo prevails)
 
-**Hard Threshold Requirement:** An option cannot win merely by having more votes in the final round; it must meet its specific approval threshold (55% for confederation/dual-state, 60% for federation). This prevents implementing major constitutional changes without genuine supermajority support. A failed multi-option referendum triggers the 12-month cooling-off period per Section 5.1.
+**Hard Threshold Requirement:** An option cannot win merely by having more votes in the final round; it must meet its specific approval threshold (55% for confederation/dual-state, 60% for federation/dissolution). This prevents implementing major constitutional changes without genuine supermajority support. A failed multi-option referendum triggers the 12-month cooling-off period per Section 5.1.
 
 **Option-Specific Thresholds in Ranked-Choice:** Different end-states have different thresholds. In each round:
 
@@ -307,6 +308,7 @@ Multi-option format used when:
 | Confederation | 55% of votes cast |
 | Federation | 60% of votes cast |
 | Dual-State | 55% of votes cast |
+| Deliberate Dissolution | 60% of votes cast |
 | Status Quo | None (wins only if all others fail) |
 
 If the final two options have different thresholds (e.g., Federation vs Confederation), the higher-threshold option must meet its own threshold to win; it cannot win with only 56% against a lower-threshold option that also failed.
@@ -346,7 +348,7 @@ If final round is exact tie and both options meet their thresholds:
 3. Hearing (48 hours)
 4. Decision (48 hours)
 5. Remedies: correction, fine, campaign restriction
-6. Appeal to Confederal Judicial Panel (7 days, final)
+6. Appeal to Confederal Judicial Body (7 days, final)
 
 **Eligibility Disputes:**
 - See Section 2.3 above
@@ -358,7 +360,7 @@ If final round is exact tie and both options meet their thresholds:
 2. Referendum Commission investigation
 3. Recount if evidence warrants (automatic if margin <1%)
 4. Decision within 14 days
-5. Appeal to Confederal Judicial Panel (7 days, final)
+5. Appeal to Confederal Judicial Body (7 days, final)
 
 **Fraud Allegations:**
 1. Allegation filed with Referendum Commission

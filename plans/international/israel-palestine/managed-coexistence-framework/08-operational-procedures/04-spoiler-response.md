@@ -309,7 +309,9 @@ Per [Shock-Absorber Protocols](../01-phase-0-institutions/04-shock-absorber-prot
 | **Tier 1-2** | Enhanced monitoring; documentation |
 | **Tier 3** | Response ladder activation; party notification |
 | **Tier 4** | Full shock-absorber activation; guarantor notification |
-| **Tier 5** | Crisis protocols; phase regression assessment |
+| **Beyond Tier 4*** | Crisis protocols; phase regression assessment |
+
+*Shock-Absorber Protocols define Tiers 1-4. Incidents exceeding Tier 4 parameters (extended duration, framework-threatening scope) trigger crisis protocols per [Humanitarian Crisis Protocols](08-humanitarian-crisis-protocols.md) and phase regression assessment per [Phase Regression](03-phase-regression.md).*
 
 #### 4.1.2 Protection Measures
 

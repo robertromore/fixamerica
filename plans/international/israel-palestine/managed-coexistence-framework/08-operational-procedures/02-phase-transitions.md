@@ -131,9 +131,11 @@ Step 3: Commission Vote
 
 Step 4: Publication and Trigger
 ├── Certification published with full data
-├── 30-day notice period
+├── 30-day formal notice period*
 ├── Emergency override window opens
 └── Automatic transition at notice period end
+
+*The 30-day formal notice period is the final step in the Phase 0→1 and Phase 1→2 transition process. Per [Communication Protocols Section 9.3](07-communication-protocols.md), transition communication begins earlier: Phase 0→1 requires 60 days advance notice + 30 days consultation; Phase 1→2 requires 90 days advance notice + 45 days consultation; Phase 2→3 requires 90 days advance notice + 60 days consultation. The formal notice period (30 days for Phase 0→1/1→2, 90 days for Phase 2→3) is the final trigger window, not the total communication timeline.
 
 Step 5: Transition Implementation
 ├── Per Transition Implementation procedures (Section 7)
@@ -343,9 +345,12 @@ Before any SAZ can be established, additional readiness criteria must be met:
 | Requirement | Standard |
 |-------------|----------|
 | **Consultation completed** | Affected communities consulted per defined process |
-| **No majority opposition** | No more than 40% of affected residents oppose |
+| **Referendum approval** | Per [SAZ Selection](../03-phase-2-saz/06-internal-saz-selection.md#23-voluntary-participation-rates): ≥50% participation, ≥55% approval, ≥30% approval in each community present |
+| **No majority opposition** | Referendum implies: no more than 45% oppose (since ≥55% must approve) |
 | **Displacement provisions** | Relocation assistance available for those who prefer |
 | **Ongoing voice** | Mechanisms for resident input established |
+
+*Threshold note: The SAZ selection referendum (≥55% approval) is the operative standard. The "no more than 40% oppose" formulation in earlier drafts is superseded by the referendum threshold—which is more restrictive (≥55% approval = ≤45% opposition at most).*
 
 ### 4.4 Authorization Process
 
