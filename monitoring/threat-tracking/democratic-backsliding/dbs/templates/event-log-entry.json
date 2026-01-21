@@ -1,0 +1,43 @@
+{
+  "event_id": "evt-YYYY-MM-DD-short-slug",
+  "title": "Short descriptive title",
+  "date": "YYYY-MM-DD",
+  "status": "scored",
+  "exclusion_reason": null,
+  "mapped_checkpoint": null,
+  "elements_checked": null,
+  "evidence_trigger_doc_types": null,
+  "evidence_trigger_docs": null,
+  "summary": "One-paragraph factual summary.",
+  "tags": { "intent_direction": "ANTI-DEM", "actor": "EXEC" },
+  "confidence": "High",
+  "sources": [
+    {
+      "tier": "Primary",
+      "outlet": "Agency or outlet name",
+      "type": "document",
+      "language": "en",
+      "title": "Source title",
+      "published_at": "YYYY-MM-DDT00:00:00Z",
+      "url": "https://example.com/source",
+      "accessed_at": "YYYY-MM-DDT00:00:00Z",
+      "archived_url": null,
+      "archive_method": null,
+      "content_hash": null,
+      "local_capture_ref": null,
+      "quote_excerpt": null
+    }
+  ],
+  "checkpoint_scores": [
+    {
+      "checkpoint_id": "C1",
+      "base_score": 2,
+      "modifiers": { "scope": 1, "persistence": 0 },
+      "decay": { "state": "D0", "delta": 0 },
+      "effective_score": 3,
+      "provisional": false,
+      "confidence": "High",
+      "notes": "Anchor justification."
+    }
+  ]
+}
