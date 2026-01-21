@@ -106,5 +106,5 @@ This Regional Courts article adds:
 
 ## Document Navigation
 
-- Previous: [Elections](08-elections.md)
+- Previous: [Implementation](07-implementation.md)
 - Next: [Armed Forces](10-armed-forces.md)

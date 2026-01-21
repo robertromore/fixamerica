@@ -110,7 +110,7 @@ A survivable judicial system must:
 
 ## 4. Mandatory Jurisdiction: Ending Judicial Evasion
 
-Mandatory jurisdiction is constitutionally required for core constitutional disputes ([Article XIV, Section 1](constitution/00-index.md)).
+Mandatory jurisdiction is constitutionally required for core constitutional disputes (Article XIV, Section 1—Judicial Reform amendment).
 
 ### 4.1 What mandatory jurisdiction means
 
@@ -200,7 +200,7 @@ This preserves sanity without enabling evasion.
 
 ## 7. Time-Bound Adjudication and Deadlines
 
-Constitutional cases are subject to mandatory timelines ([Article XIV, Section 2](constitution/00-index.md)).
+Constitutional cases are subject to mandatory timelines (Article XIV, Section 2—Judicial Reform amendment).
 
 ### 7.1 Why time matters
 
@@ -230,7 +230,7 @@ Courts must prioritize constitutional survival over docket comfort.
 
 ## 8. Remedies That Bite (and When They Trigger Automatically)
 
-Constitutional remedies must be effective and enforceable ([Article XIV, Section 3](constitution/00-index.md)).
+Constitutional remedies must be effective and enforceable (Article XIV, Section 3—Judicial Reform amendment).
 
 ### 8.1 Remedy hierarchy
 
@@ -261,7 +261,7 @@ Declaratory rulings without enforcement authority are prohibited in covered case
 
 ## 9. Default Rules When Courts Fail to Act
 
-Self-executing defaults are constitutionally mandated ([Article XIV, Section 4](constitution/00-index.md)).
+Self-executing defaults are constitutionally mandated (Article XIV, Section 4—Judicial Reform amendment).
 
 ### 9.1 The core innovation: self-executing defaults
 
@@ -417,7 +417,7 @@ Law acts *without drama*.
 
 ## 15. Judicial Appointments, Tenure, and Rotation
 
-Judicial appointments follow constitutional requirements for term limits, regional diversity, and staggered terms ([Article XIV, Section 6](constitution/00-index.md)).
+Judicial appointments follow constitutional requirements for term limits, regional diversity, and staggered terms (Article XIV, Section 6—Judicial Reform amendment).
 
 ### 15.1 Term limits
 

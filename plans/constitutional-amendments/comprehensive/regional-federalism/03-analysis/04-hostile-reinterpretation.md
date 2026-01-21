@@ -119,16 +119,16 @@ When courts refuse to act:
 
 Regional federalism includes:
 
-- **Mandatory jurisdiction** ([Article XIV, Section 1](../02-design/constitution/00-index.md))
+- **Mandatory jurisdiction** (Article XIV, Section 1—Judicial Reform amendment)
   Courts may not dismiss constitutional claims on standing or political-question grounds.
 
-- **Enumerated-powers supremacy** ([Article XV, Section 1](../02-design/constitution/00-index.md))
+- **Enumerated-powers supremacy** ([Article II](../02-design/constitution/02-powers-and-rights.md))
   Any power not explicitly granted is denied.
 
-- **Floor-presumption rule** ([Article III](../02-design/constitution/00-index.md); [Article XV, Section 2](../02-design/constitution/00-index.md))
+- **Floor-presumption rule** ([Article III](../02-design/constitution/02-powers-and-rights.md))
   Rights and standards are presumed to be minimums, not ceilings.
 
-- **Default enforcement clauses** ([Article XIV, Section 4](../02-design/constitution/00-index.md))
+- **Default enforcement clauses** (Article XIV, Section 4—Judicial Reform amendment)
   If courts fail to rule within fixed timeframes, predefined remedies trigger automatically.
 
 ---
@@ -180,7 +180,7 @@ Regional federalism limits executive dominance by:
 - **No unilateral domestic override**
   Federal executives cannot suspend regional authority.
 
-- **Multi-key emergency authorization** ([Article XV, Section 2](../02-design/constitution/00-index.md))
+- **Multi-key emergency authorization** (Article XVII, Section 2—Emergency Powers amendment)
   Emergencies require legislative and regional concurrence.
 
 - **Independent regional executives**
@@ -230,7 +230,7 @@ When Congress controls everything:
 - **Reduced national policy scope** ([Article II](../02-design/constitution/00-index.md))
   Gridlock affects fewer domains.
 
-- **Automatic fiscal continuation** ([Article XVII](../02-design/constitution/00-index.md))
+- **Automatic fiscal continuation** (Article XVII—Emergency Powers amendment)
   Shutdowns cannot starve basic functions.
 
 - **Regional governance autonomy** ([Article I](../02-design/constitution/00-index.md))
@@ -304,7 +304,7 @@ Actors manipulate:
 
 - **Regional election administration** ([Article VII](../02-design/constitution/00-index.md))
 - **Frozen election rules** ([Article VII](../02-design/constitution/00-index.md))
-- **Procedural-only judicial review** ([Article XIV](../02-design/constitution/00-index.md))
+- **Procedural-only judicial review** (Article XIV—Judicial Reform amendment)
 - **Caretaker governance during disputes**
 
 ---
@@ -331,10 +331,10 @@ Declare emergency - suspend norms - never restore them.
 
 ### 9.2 Structural countermeasures
 
-- **Automatic sunset clauses** ([Article XVII, Section 2](../02-design/constitution/00-index.md))
-- **Multi-level reauthorization** ([Article XVII, Section 2](../02-design/constitution/00-index.md))
-- **Judicial procedural review** ([Article XIV](../02-design/constitution/00-index.md))
-- **Restoration mandate** ([Article XVII, Section 3](../02-design/constitution/00-index.md))
+- **Automatic sunset clauses** (Article XVII, Section 2—Emergency Powers amendment)
+- **Multi-level reauthorization** (Article XVII, Section 2—Emergency Powers amendment)
+- **Judicial procedural review** (Article XIV—Judicial Reform amendment)
+- **Restoration mandate** (Article XVII, Section 3—Emergency Powers amendment)
 
 Emergencies expire unless actively renewed.
 
@@ -362,11 +362,11 @@ Control the guns, control the system.
 
 ### 10.2 Structural countermeasures
 
-- **Divided force structure** ([Article XV, Section 1](../02-design/constitution/00-index.md))
+- **Divided force structure** (Article XI, Section 1—Armed Forces amendment)
   Federal military, regional guards, state defense forces.
 
-- **Multi-key domestic deployment** ([Article XV, Section 2](../02-design/constitution/00-index.md))
-- **Duty to refuse unlawful orders** ([Article XV, Section 3](../02-design/constitution/00-index.md))
+- **Multi-key domestic deployment** (Article XI, Section 2—Armed Forces amendment)
+- **Duty to refuse unlawful orders** (Article XI, Section 3—Armed Forces amendment)
 - **No single executive control**
 
 ---
@@ -400,13 +400,13 @@ This attack surface is distinct because it operates invisibly and crosses tradit
 
 ### 11.2 Structural countermeasures
 
-- **Constitutional recognition of cyber as distinct domain** ([Article XVI, Section 1](../02-design/constitution/00-index.md))
-- **Prohibition on domestic surveillance without judicial authorization** ([Article XVI, Section 5](../02-design/constitution/00-index.md))
-- **Ban on cyber attacks against lawful political activity** ([Article XVI, Section 5](../02-design/constitution/00-index.md))
-- **Regional control of election infrastructure** ([Article XVI, Section 2](../02-design/constitution/00-index.md))
-- **Foreign information operations disclosure** ([Article XVI, Section 7](../02-design/constitution/00-index.md))
-- **Intelligence oversight and whistleblower protection** ([Article XVI, Section 5(e)](../02-design/constitution/00-index.md))
-- **Duty to refuse unlawful cyber orders** ([Article XVI, Section 6](../02-design/constitution/00-index.md))
+- **Constitutional recognition of cyber as distinct domain** (Article XVI, Section 1—Cyber Defense amendment)
+- **Prohibition on domestic surveillance without judicial authorization** (Article XVI, Section 5—Cyber Defense amendment)
+- **Ban on cyber attacks against lawful political activity** (Article XVI, Section 5—Cyber Defense amendment)
+- **Regional control of election infrastructure** (Article XVI, Section 2—Cyber Defense amendment)
+- **Foreign information operations disclosure** (Article XVI, Section 7—Cyber Defense amendment)
+- **Intelligence oversight and whistleblower protection** (Article XVI, Section 5(e)—Cyber Defense amendment)
+- **Duty to refuse unlawful cyber orders** (Article XVI, Section 6—Cyber Defense amendment)
 
 ---
 

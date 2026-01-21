@@ -222,17 +222,21 @@ upon court approval.
 ### Section 23. Regional Guard Forces (Two-Key Authorization)
 
 (a) **Two-Key Requirement.** Domestic deployment of Regional Guard forces
-requires authorization from both:
+requires authorization from both, per Article XI, Section 2(g):
 
-- (1) the President (or designee), and
-- (2) the Regional Governor of the Region in which deployment occurs.
+- (1) the President (or, if the President is unavailable or incapacitated,
+    the next civilian in the line of succession), and
+- (2) the Regional Governor of the Region in which deployment occurs (for
+    single-Region deployment), or a majority of Regional Governors (for
+    multi-Region deployment).
 
 (b) **Exception.** If the Regional Governor is complicit in the constitutional
 violation, the second key shall be provided by:
 
 - (1) a majority vote of the Region's Congressional delegation, or
-- (2) the Chief Justice of the Regional Supreme Court, or
-- (3) a majority vote of Regional Guard general officers.
+- (2) the Chief Justice of the Regional Supreme Court.
+
+*Note: Per Article XI, Section 2(g), two-key authorization may not be delegated to military officers.*
 
 (c) **Scope.** Regional Guard deployment under this section is limited to:
 

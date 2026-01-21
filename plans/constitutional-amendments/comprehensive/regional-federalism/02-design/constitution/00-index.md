@@ -48,6 +48,19 @@ These reforms work equally well with the existing federal/state system OR with R
 | Federal Reserve | [federal-reserve-reform/](../../../../single-topic/federal-reserve-reform/) | Monetary policy reform, not region-dependent |
 | Cyber Defense | [cyber-defense/](../../../../single-topic/cyber-defense/) | General reform, not region-dependent |
 
+## Article Crosswalk
+
+**IMPORTANT:** For a complete mapping of all article numbers to their locations, see the **[Article Crosswalk](article-crosswalk.md)**. This document clarifies which articles are in the RF Core Constitution vs. standalone amendments.
+
+Common citation errors to avoid:
+
+- Articles VII, XIV, XV, XVI, XVII are **standalone amendments** in `single-topic/`, not in this directory
+- Article II, Section 5 establishes the ARB (not Article XIV)
+- Article I, Section 7 establishes the Water Court (not Article XIV)
+- DLRS is a **proposal** (proposed Article III, Section 4), not yet in the Constitution
+
+---
+
 ## How the Pieces Fit Together
 
 **If adopting Regional Federalism:**

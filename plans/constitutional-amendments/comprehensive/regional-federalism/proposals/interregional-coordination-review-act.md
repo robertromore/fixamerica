@@ -379,7 +379,7 @@ consistently rules to favor that party's legislative agenda.
 
 **Countermeasure:**
 
-- Board composition established separately (Article XIV, Section 7)
+- Board composition established separately (Article II, Section 5)
 - Board applies clear statutory criteria
 - Deference standard limits Board discretion (Section 14(d))
 - Judicial review available for procedural violations (Section 41)

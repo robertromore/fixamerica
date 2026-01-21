@@ -381,7 +381,7 @@ It does not exist to:
 
 ## 13. The Role of Courts in De-Escalation
 
-Courts operate under mandatory jurisdiction requirements ([Article XIV](constitution/00-index.md)).
+Courts operate under mandatory jurisdiction requirements (Article XIV—Judicial Reform amendment).
 
 Courts:
 
@@ -401,7 +401,7 @@ Judicial clarity is essential to preventing escalation.
 
 ## 14. The Role of Armed Forces as Last Resort
 
-Armed forces are subject to constitutional constraints including the two-key authorization requirement ([Article XV, Section 2](constitution/00-index.md)).
+Armed forces are subject to constitutional constraints including the two-key authorization requirement (Article XI, Section 2—Armed Forces amendment).
 
 Armed forces:
 

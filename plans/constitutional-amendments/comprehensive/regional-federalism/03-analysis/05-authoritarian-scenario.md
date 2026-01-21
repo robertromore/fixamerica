@@ -85,6 +85,8 @@ Their playbook is typically:
 
 This simulation uses that playbook.
 
+**Note on Political Direction:** The rhetoric above characterizes recent right-populist authoritarian movements. Left-authoritarian movements use different framing—equality, historic redress, revolutionary transformation, anti-fascism—but employ structurally similar mechanisms: delegitimizing opposition, capturing enforcement, controlling information, eroding electoral competition, and normalizing emergency powers. This system must defend against authoritarian consolidation from any political direction. The structural safeguards below apply regardless of whether the would-be authoritarian claims to act in the name of "the people," "social justice," "national restoration," or any other legitimating narrative.
+
 ---
 
 ## 3. Baseline Assumptions for the Simulation
@@ -206,7 +208,7 @@ Make elections:
 - Elections are administered at the **regional** level ([Article VII, Section 1](../02-design/constitution/00-index.md)).
 - Rules are **frozen** near elections ([Article VII, Section 2](../02-design/constitution/00-index.md)).
 - Certification authority is **institutional and redundant**.
-- Courts have **mandatory jurisdiction** to enforce procedure quickly ([Article XIV, Section 1](../02-design/constitution/00-index.md)).
+- Courts have **mandatory jurisdiction** to enforce procedure quickly (Article XIV, Section 1—Judicial Reform amendment).
 - Caretaker governance prevents power vacuums ([Article VII, Section 4](../02-design/constitution/00-index.md)).
 
 Result:
@@ -234,9 +236,9 @@ Neutralize legal accountability and legitimate dissent suppression.
 ### 8.3 Regional federalism containment
 
 - Regional courts and enforcement remain independent centers.
-- Federal courts are constrained to process enforcement and enumerated powers ([Article XIV, Section 2](../02-design/constitution/00-index.md)).
-- Mandatory jurisdiction prevents dismissal on standing or political question grounds ([Article XIV, Section 1](../02-design/constitution/00-index.md)).
-- Default enforcement clauses trigger automatically if courts fail to rule ([Article XIV, Section 4](../02-design/constitution/00-index.md)).
+- Federal courts are constrained to process enforcement and enumerated powers (Article XIV, Section 2—Judicial Reform amendment).
+- Mandatory jurisdiction prevents dismissal on standing or political question grounds (Article XIV, Section 1—Judicial Reform amendment).
+- Default enforcement clauses trigger automatically if courts fail to rule (Article XIV, Section 4—Judicial Reform amendment).
 - Term limits reduce long-term capture payoff.
 
 However:
@@ -320,13 +322,13 @@ An authoritarian may attempt to use cyber capabilities to:
 - manipulate information systems to discredit critics,
 - use intelligence agencies for domestic political purposes.
 
-Structural defenses ([Article XVI](../02-design/constitution/00-index.md)):
+Structural defenses (Article XVI—Cyber Defense amendment):
 
-- Domestic surveillance requires judicial authorization ([Article XVI, Section 5](../02-design/constitution/00-index.md)).
-- Use of cyber capabilities against lawful political activity is prohibited ([Article XVI, Section 5](../02-design/constitution/00-index.md)).
-- Intelligence oversight and whistleblower protections exist ([Article XVI, Section 5(e)](../02-design/constitution/00-index.md)).
-- Cyber forces have constitutional duty to refuse unlawful orders ([Article XVI, Section 6](../02-design/constitution/00-index.md)).
-- Regional control of election infrastructure prevents federal manipulation ([Article XVI, Section 2](../02-design/constitution/00-index.md)).
+- Domestic surveillance requires judicial authorization (Article XVI, Section 5—Cyber Defense amendment).
+- Use of cyber capabilities against lawful political activity is prohibited (Article XVI, Section 5—Cyber Defense amendment).
+- Intelligence oversight and whistleblower protections exist (Article XVI, Section 5(e)—Cyber Defense amendment).
+- Cyber forces have constitutional duty to refuse unlawful orders (Article XVI, Section 6—Cyber Defense amendment).
+- Regional control of election infrastructure prevents federal manipulation (Article XVI, Section 2—Cyber Defense amendment).
 
 Surveillance-based authoritarianism becomes:
 
@@ -348,7 +350,7 @@ Make domination permanent by changing rules:
 
 ### 11.2 Structural defense: Dual legitimacy amendment requirements
 
-Amendments require ([Article XVI](../02-design/constitution/00-index.md)):
+Amendments require ([Article XIII](../02-design/constitution/05-safeguards.md)):
 
 - regional supermajority (two-thirds of regions)
 - national popular vote (majority)
@@ -380,11 +382,11 @@ Opposition cannot be eliminated by capturing one office.
 
 No single executive controls all:
 
-- enforcement ([Article II, Section 2](../02-design/constitution/00-index.md)),
-- money ([Article XVI](../02-design/constitution/00-index.md)),
+- enforcement ([Article II, Section 2](../02-design/constitution/02-powers-and-rights.md)),
+- money ([Article X](../02-design/constitution/04-fiscal-system.md)),
 - elections ([Article VII](../02-design/constitution/00-index.md)),
-- armed force ([Article XV](../02-design/constitution/00-index.md)),
-- cyber capabilities ([Article XVI](../02-design/constitution/00-index.md)).
+- armed force (Article XI—Armed Forces amendment),
+- cyber capabilities (Article XVI—Cyber Defense amendment).
 
 ### 12.3 Visibility
 
@@ -392,7 +394,7 @@ Abuse becomes more obvious when:
 
 - multiple jurisdictions publicly resist,
 - alternative institutions continue functioning,
-- courts must hear procedural claims ([Article XIV, Section 1](../02-design/constitution/00-index.md)).
+- courts must hear procedural claims (Article XIV, Section 1—Judicial Reform amendment).
 
 ### 12.4 Reversibility
 
@@ -454,11 +456,11 @@ If an authoritarian gains:
 
 then digital authoritarianism can occur despite constitutional prohibitions.
 
-This is why [Article XVI](../02-design/constitution/00-index.md) includes:
+This is why Article XVI (Cyber Defense amendment) includes:
 
-- explicit prohibitions on domestic surveillance ([Article XVI, Section 5](../02-design/constitution/00-index.md)),
-- whistleblower protections ([Article XVI, Section 5(e)](../02-design/constitution/00-index.md)),
-- duty to refuse unlawful cyber orders ([Article XVI, Section 6](../02-design/constitution/00-index.md)).
+- explicit prohibitions on domestic surveillance (Article XVI, Section 5—Cyber Defense amendment),
+- whistleblower protections (Article XVI, Section 5(e)—Cyber Defense amendment),
+- duty to refuse unlawful cyber orders (Article XVI, Section 6—Cyber Defense amendment).
 
 But enforcement ultimately depends on internal resistance within security agencies.
 

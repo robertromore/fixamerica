@@ -2,7 +2,7 @@
 
 ## Recommended Implementation for Regional Federalism
 
-> **Purpose:** To establish transfer formulas and the Independent Fiscal Council as required by Article XVII of the Regional Federalism Constitution.
+> **Purpose:** To establish transfer formulas and the Independent Fiscal Council as required by Article XXI, Section 1 (implementing Article X, Fiscal System) of the Regional Federalism Constitution.
 
 This Act operationalizes the fiscal architecture described in [05-fiscal-architecture.md](../02-design/05-fiscal-architecture.md) by providing formula specifications, institutional structures, and accountability mechanisms.
 
@@ -392,6 +392,8 @@ This graduated structure provides more support to Regions with greater need.
 ### 4.4 Transfer Cap
 
 No Region may receive equalization transfers exceeding 15% of its own-source revenue. This prevents dependency and preserves incentives for fiscal effort.
+
+**Constitutional Floor Exception.** The 15% cap does not apply to the extent necessary to fund the constitutional minimum floor under Article X, Section 3-A (basic Regional administrative functions, Regional court operations, Regional Guard minimum readiness requirements, and participation in inter-Regional coordination bodies). If a Region's constitutional minimum floor requires transfers exceeding 15% of own-source revenue, that Region receives the full floor amount.
 
 ### 4.5 Minimum Transfer
 

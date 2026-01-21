@@ -150,7 +150,7 @@ A democratic military system must:
 
 ## 5. The Three-Tier Armed Force Structure
 
-The constitution divides armed force into three tiers ([Article XV, Section 1](constitution/00-index.md)):
+The constitution divides armed force into three tiers (Article XI, Section 1—Armed Forces amendment):
 
 | Tier | Purpose | Primary Threat Addressed |
 |------|---------|-------------------------|
@@ -191,7 +191,7 @@ They are **not a domestic police force**.
 
 ### 6.3 Domestic prohibition
 
-Federal forces may not be deployed domestically except ([Article XV, Section 2](constitution/00-index.md)):
+Federal forces may not be deployed domestically except (Article XI, Section 2—Armed Forces amendment):
 
 - under strict constitutional emergency provisions,
 - with multi-key authorization (see Section 9),
@@ -237,7 +237,7 @@ They are not mere extensions of federal power.
 
 - Commanded by regional executives
 - Bound by both regional and federal constitutions
-- Required to refuse unlawful orders from *any* authority ([Article XV, Section 3](constitution/00-index.md))
+- Required to refuse unlawful orders from *any* authority (Article XI, Section 3—Armed Forces amendment)
 
 ---
 
@@ -288,19 +288,14 @@ This prevents local militarization.
 
 Domestic deployment of armed force requires **two independent civilian authorizations**.
 
-The constitutional keyholders are:
+The constitutional keyholders are (per Article XI, Section 2(g)—Armed Forces amendment):
 
-- **Key 1:** The President of the United States
-- **Key 2:** A supermajority (two-thirds) of Regional Governors
-
-If the President is a party to the constitutional crisis necessitating deployment:
-
-- **Key 1:** The Chief Justice of the United States (procedural certification only)
-- **Key 2:** A supermajority of Regional Governors
+- **Key 1:** The President of the United States (or, if the President is unavailable or incapacitated, the next civilian in the line of succession)
+- **Key 2:** A majority of Regional Governors, or if deployment is limited to a single Region, the Governor of that Region
 
 No single actor can act alone.
 
-Authorization timing, scope limits, and expiration follow [Article XV, Section 2](constitution/00-index.md) (48-hour response window, 30-day automatic expiration, written public disclosure within 72 hours).
+Authorization timing, scope limits, and expiration follow Article XI, Section 2 (Armed Forces amendment): 48-hour response window, 30-day automatic expiration, written public disclosure within 72 hours.
 
 > **Design note:** Earlier drafts explored alternative keyholder combinations (Federal Legislature + Regional Authority, Regional Authority + Judicial Certification). These alternatives were **not adopted**. The constitution requires the specific keyholders above to ensure clear accountability and prevent diffusion of responsibility.
 
@@ -338,7 +333,7 @@ This makes:
 
 ### 10.3 Time limits
 
-All domestic deployments ([Article XV, Section 2(e)](constitution/00-index.md)):
+All domestic deployments (Article XI, Section 2(e)—Armed Forces amendment):
 
 - have automatic expiration (thirty days),
 - require reauthorization through the two-key process,
@@ -348,7 +343,7 @@ All domestic deployments ([Article XV, Section 2(e)](constitution/00-index.md)):
 
 ## 11. Emergency Powers and Military Force
 
-Emergency powers are governed by [Article XVII](constitution/00-index.md).
+Emergency powers are governed by Article XVII (Emergency Powers amendment).
 
 ### 11.1 Emergency declaration limits
 
@@ -378,7 +373,7 @@ Every emergency order must include:
 
 ### 12.1 Constitutional obligation
 
-All service members have ([Article XV, Section 3](constitution/00-index.md)):
+All service members have (Article XI, Section 3—Armed Forces amendment):
 
 - a constitutional duty to refuse unlawful orders,
 - legal protection for refusal,
@@ -465,7 +460,7 @@ This requires explicit constitutional treatment.
 
 ### 15.2 Allocation of cyber defense authority
 
-Cyber defense follows the same federalism principles as physical defense ([Article XVI, Section 2](constitution/00-index.md)):
+Cyber defense follows the same federalism principles as physical defense (Article XVI, Section 2—Cyber Defense amendment):
 
 | Level | Cyber Responsibility |
 |-------|---------------------|
@@ -494,7 +489,7 @@ Federal cyber forces are part of the Federal Armed Forces and subject to the sam
 
 Regions govern:
 
-- election infrastructure security (consistent with [Article VII](constitution/00-index.md)),
+- election infrastructure security (consistent with Article VII—Elections amendment),
 - regional power grid and utility network protection,
 - coordination of incident response across member states,
 - training and standards for state cyber personnel.
@@ -524,10 +519,10 @@ Protection responsibilities are allocated by:
 
 ### 15.6 Incident response and the two-key rule
 
-Cyber incidents that rise to the level of armed attack ([Article XVI, Section 4](constitution/00-index.md)):
+Cyber incidents that rise to the level of armed attack (Article XVI, Section 4—Cyber Defense amendment):
 
 - require the same two-key authorization for military response,
-- trigger emergency powers under [Article XVII](constitution/00-index.md),
+- trigger emergency powers under Article XVII (Emergency Powers amendment),
 - are subject to the same time limits and restoration mandates.
 
 Routine cyber defense operations (monitoring, patching, incident response) do not require two-key authorization and operate under normal administrative authority.
@@ -542,13 +537,13 @@ Cyber capabilities pose domestic risks:
 - disruption of political opposition,
 - manipulation of information systems.
 
-The constitution prohibits ([Article XVI, Section 5](constitution/00-index.md)):
+The constitution prohibits (Article XVI, Section 5—Cyber Defense amendment):
 
 - domestic surveillance without judicial authorization,
 - use of cyber capabilities against lawful political activity,
 - federal takeover of regional election systems.
 
-Cyber forces are subject to the same duty to refuse unlawful orders ([Article XVI, Section 6](constitution/00-index.md)).
+Cyber forces are subject to the same duty to refuse unlawful orders (Article XVI, Section 6—Cyber Defense amendment).
 
 ---
 
@@ -625,7 +620,7 @@ That is the essence of civilian control in this system.
 
 ## Related Documents
 
-- [Regional Federal Constitution](constitution/00-index.md) - Authoritative source for armed forces (Article XV)
+- [Regional Federal Constitution](constitution/00-index.md) - Authoritative source for armed forces (Article XI—Armed Forces amendment)
 - [Core Idea: Regional Federalism](../01-foundation/01-core-idea.md)
 - [Allocation of Powers](01-allocation-of-powers.md)
 - [Elections and Democratic Legitimacy](02-elections.md)

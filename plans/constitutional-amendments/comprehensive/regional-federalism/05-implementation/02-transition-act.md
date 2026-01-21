@@ -251,13 +251,15 @@ No emergency declaration may:
 
 All courts continue uninterrupted.
 
-### Section 9.2 — Early Activation of Safeguards
+### Section 9.2 — Activation of Judicial Safeguards
 
-The following activate in Phase III:
+The following constitutional provisions activate **upon ratification**, per Article XIX, Section 3:
 
 - mandatory jurisdiction
 - time-bound adjudication
-- self-executing defaults (limited to transition disputes)
+- self-executing defaults
+
+*Note: These provisions do not wait until Phase III. Capacity-building during Phases II and III (see Section 9.3) ensures courts can meet these constitutional obligations, but capacity constraints do not delay activation of mandatory jurisdiction.*
 
 Courts may not delay transition milestones.
 

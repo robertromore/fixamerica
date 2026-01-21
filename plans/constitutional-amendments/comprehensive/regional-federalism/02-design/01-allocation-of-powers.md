@@ -88,7 +88,7 @@ States are often:
 
 This leads to:
 
-- race-to-the-bottom incentives
+- competitive pressure on regulatory standards
 - fragmented regulation
 - symbolic autonomy without real power
 
@@ -174,7 +174,7 @@ Federal authority is limited to powers that require:
 - national legitimacy,
 - or international standing.
 
-**Enumerated federal powers include** ([Article II, Section 1](constitution/00-index.md)):
+**Enumerated federal powers include** ([Article II, Section 1](constitution/02-powers-and-rights.md)):
 
 - national defense and armed forces
 - foreign affairs and treaties
@@ -234,7 +234,7 @@ Regions govern domains that:
 - require harmonized standards,
 - but do not require national uniformity.
 
-**Key regional powers include** ([Article II, Section 2](constitution/00-index.md)):
+**Key regional powers include** ([Article II, Section 2](constitution/02-powers-and-rights.md)):
 
 - inter-state infrastructure and transportation corridors
 - housing coordination and supply targets
@@ -283,7 +283,7 @@ States retain powers where:
 
 ### 7.1 Core state domains
 
-States retain authority over ([Article II, Section 3](constitution/00-index.md)):
+States retain authority over ([Article II, Section 3](constitution/02-powers-and-rights.md)):
 
 - education
 - criminal and civil law
@@ -323,7 +323,7 @@ Regions coordinate; locals implement.
 
 ## 9. Floors vs Ceilings: The Central Interpretive Rule
 
-This is the most important rule in the entire allocation system ([Article III](constitution/00-index.md); [Article XV, Section 2](constitution/00-index.md)).
+This is the most important rule in the entire allocation system ([Article III](constitution/02-powers-and-rights.md); [Article XVIII, Section 2](constitution/06-supremacy.md)).
 
 ### 9.1 Floors
 

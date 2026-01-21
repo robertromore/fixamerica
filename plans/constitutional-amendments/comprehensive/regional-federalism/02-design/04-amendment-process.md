@@ -372,7 +372,7 @@ Courts may not:
 
 ### 12.2 Mandatory jurisdiction
 
-Courts must hear amendment disputes ([Article XIV, Section 1](constitution/00-index.md)).
+Courts must hear amendment disputes (Article XIV, Section 1—Judicial Reform amendment).
 They may not dismiss on:
 
 - standing,

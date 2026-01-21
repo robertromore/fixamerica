@@ -2,7 +2,7 @@
 
 ## Recommended Implementation for Regional Federalism
 
-> **Purpose:** To specify procedures for federal elections under regional administration as required by Article XVII of the Regional Federalism Constitution.
+> **Purpose:** To specify procedures for federal elections under regional administration as required by Article XXI of the Regional Federalism Constitution.
 
 This Act operationalizes the electoral framework described in [02-elections.md](../02-design/02-elections.md) by providing administrative procedures, certification timelines, and safeguards against election subversion.
 
@@ -109,7 +109,7 @@ States and localities administer elections under REC supervision:
 
 **State Role Is Ministerial:**
 
-Per Article VI, Section 4, certification authority resides in regional institutions. The state role in federal elections is ministerial:
+Per Article VII, Section 4, certification authority resides in regional institutions. The state role in federal elections is ministerial:
 
 - States compile county/local results and transmit them to the Regional Election Commission
 - States have no discretionary authority to delay, modify, or refuse transmission
@@ -365,7 +365,33 @@ To file an election dispute:
     - Requested remedy
     - Certification by attorney
 
-### 7.5 Dispute Resolution
+### 7.5 National Election Court
+
+Pursuant to the authorization in Article XIV-RF, Section 2(b), this Act establishes the National Election Court.
+
+**Composition:**
+
+- 15 judges appointed by the President with Senate confirmation
+- Judges must have at least 10 years of judicial experience
+- No more than 5 judges may have primary residence in the same Region
+- 15-year terms; no reappointment
+- Removal only for cause
+
+**Jurisdiction:**
+
+- Final appellate review of Regional election disputes
+- Election disputes that cross Regional boundaries
+- Questions of federal election law interpretation
+
+**Panels:**
+
+- Cases heard by 3-judge panels
+- Panel judges drawn from different Regions
+- En banc review available for questions of exceptional importance
+
+### 7.6 Dispute Resolution
+
+*Note on timelines: The dispute resolution process (28 days total) extends beyond the standard certification deadlines (+14 regional, +21 national). When a timely dispute is filed, certification is provisional pending resolution. Provisional certification allows government operations to proceed but may be modified by dispute resolution. The "delay of certification beyond constitutional deadlines" prohibition (Section 7.7) prevents courts from indefinitely blocking certification—it does not prevent the dispute process from correcting provisionally certified results.*
 
 **Step 1: REC Review (7 days)**
 
@@ -381,11 +407,11 @@ To file an election dispute:
 
 **Step 3: National Election Court (7 days)**
 
-- Appeal of Regional Court decision
+- Appeal of Regional Court decision to the National Election Court established in Section 7.5
 - Panel of 3 judges from different Regions
 - Final and binding
 
-### 7.6 Remedies
+### 7.7 Remedies
 
 Available remedies:
 

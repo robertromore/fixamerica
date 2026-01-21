@@ -78,6 +78,9 @@ Regional jurisdiction to those lands.
     residing off-reservation on the same terms as other residents;
 - (3) consult with tribes before taking actions that significantly affect
     tribal interests.
+- (4) enter into coordination compacts for shared services, infrastructure,
+    and emergency response as required by Article XX, Section 3(d), with
+    compacts limited to coordination and not governance.
 
 (c) **Non-Discrimination.** Regional law may not discriminate against tribal
 members or treat tribal governments less favorably than other governments.
@@ -103,19 +106,28 @@ dividing tribal territories unless tribes consent.
 
 ### 3.4 Tribal Participation in Regional Governance
 
-(a) **No Required Participation.** Tribes are not required to participate in
-Regional governance.
+Coordination compacts are mandatory for shared services, infrastructure, and
+emergency response, but participation in Regional governance remains voluntary.
 
-(b) **Optional Consultation.** Regions may establish formal consultation
-mechanisms with tribes; tribal participation is voluntary.
+(a) **Mandatory Coordination Compacts.** Per Article XVIII, Section 3(d),
+Regions and Tribal Nations shall enter into compacts for coordination of
+shared services, infrastructure, and emergency response. These compacts are
+constitutionally required and shall be negotiated in good faith.
 
-(c) **Optional Representation.** Regional constitutions may provide for
+(b) **Governance Participation Optional.** Beyond the mandatory coordination
+compacts, Tribes are not required to participate in broader Regional
+governance structures.
+
+(c) **Optional Consultation.** Regions may establish formal consultation
+mechanisms with tribes beyond compact requirements; tribal participation in
+such mechanisms is voluntary.
+
+(d) **Optional Representation.** Regional constitutions may provide for
 tribal representation in Regional bodies; such representation requires
 tribal consent and may be withdrawn.
 
-(d) **DLRS Applicability.** Tribal nations are not subject to DLRS floors
-unless they consent by formal action of their governing body, consistent with
-Article III, Section 4.19(c).
+(e) **DLRS Applicability.** Tribal nations are not subject to DLRS floors
+unless they consent by formal action of their governing body.
 
 ### 3.5 Dispute Resolution
 
@@ -432,7 +444,7 @@ depend upon through treaty rights.
 - [Gap 27 — Tribal-Regional Relations](../04-meta/02-identified-gaps.md) - Gap analysis this proposal addresses
 - [Article I, Section 4 (Boundary Review)](../02-design/constitution/01-regional-structure.md) - Boundary processes
 - [Article I, Section 7 (Water Rights)](../02-design/constitution/01-regional-structure.md) - Water provisions
-- [Article III, Section 4.19 (DLRS Territorial Applicability)](../02-design/constitution/02-powers-and-rights.md) - DLRS tribal provisions
+- [DLRS (Dual Legitimacy Rights Floor Statute)](dual-legitimacy-rights-floor-statute.md) - Rights floors and tribal applicability provisions (proposed Article III, Section 4)
 
 ---
 

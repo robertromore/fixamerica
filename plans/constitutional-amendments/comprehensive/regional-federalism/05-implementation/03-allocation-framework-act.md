@@ -290,7 +290,7 @@ The Spillover Scoring Matrix provides a standardized method for evaluating wheth
 | Environmental scope | 20% | 0-100 |
 | Infrastructure interdependence | 15% | 0-100 |
 | Coordination benefits | 10% | 0-100 |
-| Race-to-bottom risk | 10% | 0-100 |
+| Competitive pressure risk | 10% | 0-100 |
 
 ### 4.3 Threshold Scores
 
@@ -310,7 +310,7 @@ The Spillover Scoring Matrix provides a standardized method for evaluating wheth
 - Environmental scope: 40 (land use has limited environmental spillover)
 - Infrastructure interdependence: 60 (transit, utilities cross borders)
 - Coordination benefits: 80 (regional planning prevents undersupply)
-- Race-to-bottom risk: 75 (exclusionary zoning externalizes costs)
+- Competitive pressure risk: 75 (exclusionary zoning externalizes costs)
 
 **Total: 69.5 → Regional coordination required**
 
@@ -321,7 +321,7 @@ The Spillover Scoring Matrix provides a standardized method for evaluating wheth
 - Environmental scope: 0 (no environmental impact)
 - Infrastructure interdependence: 10 (school facilities are local)
 - Coordination benefits: 30 (some mobility benefits)
-- Race-to-bottom risk: 20 (federal floors protect basics)
+- Competitive pressure risk: 20 (federal floors protect basics)
 
 **Total: 17.5 → State exclusive**
 
@@ -336,7 +336,7 @@ Each scoring dimension shall be calculated using certified data sources as speci
 | Environmental scope | EPA monitoring networks, USGS watershed data | State environmental agencies | Geographic extent of effects beyond jurisdiction boundaries |
 | Infrastructure interdependence | DOT traffic data, EIA energy flow data | State utilities commissions | Percentage of system users from other jurisdictions |
 | Coordination benefits | Board staff analysis using certified baseline data | Academic studies, GAO reports | Estimated efficiency gains from regional coordination |
-| Race-to-bottom risk | Historical policy variation data, academic literature | Board staff analysis | Assessment of regulatory arbitrage incentives |
+| Competitive pressure risk | Historical policy variation data, academic literature | Board staff analysis | Assessment of regulatory arbitrage incentives |
 
 **Data Binding:**
 
@@ -991,8 +991,9 @@ The Board shall publish annually:
 
 **Step 4: Judicial Review**
 
-- Appeal to Regional Constitutional Court
+- Questions of constitutional interpretation may be appealed to the Supreme Court per Article II, Section 5(f)
 - Review limited to legal error, not policy judgment
+- ARB decisions are final on factual matters
 
 **Automatic Status-Quo Orders and Default Controls:**
 
@@ -1168,8 +1169,10 @@ Failure to comply with monitoring requirements:
 In cases of blockade or unreasonable denial of access, the federal government may:
 
 - Order immediate restoration of access
-- Withhold equalization transfers from offending Region
+- Seek injunctive relief and civil penalties through federal courts
 - Assume temporary operational control of affected infrastructure
+
+*Note: Per Article X, Section 4 (Anti-Coercion Rule), equalization transfers may not be withheld as an enforcement mechanism.*
 
 **Applicability:**
 
@@ -1186,21 +1189,21 @@ This expedited process applies to disputes involving:
 
 ### 7.1 Composition
 
-The Allocation Review Board shall consist of 9 members:
+The Allocation Review Board shall consist of 9 members, as established by Article II, Section 5 of the Constitution:
 
-- 3 appointed by the President (confirmed by Senate)
-- 3 appointed by Regional Governors acting collectively
-- 3 appointed by State legislative leaders acting collectively
+- 3 appointed by the President with Senate confirmation
+- 3 appointed by a majority vote of Regional Governors
+- 3 appointed by the Chief Justice from among retired federal and state appellate judges
 
 **Geographic Diversity Requirements:**
 
-To prevent capture by a narrow bloc of Regions or States:
+To prevent capture by a narrow bloc of Regions:
 
 | Appointing Authority | Diversity Requirement |
 |---------------------|----------------------|
 | Presidential appointees | No 2 members may have primary residence in the same Region; at least 1 must be from a Region with below-median fiscal capacity |
 | Regional Governor appointees | Must represent at least 3 different Regions; no Region may have more than 1 representative |
-| State legislative appointees | Must represent at least 3 different Regions; no Region may have more than 1 representative |
+| Chief Justice appointees | Must represent at least 3 different Regions; appointees shall have significant experience in constitutional, administrative, or federalism law |
 
 **Overall Board Composition:**
 
@@ -1754,14 +1757,16 @@ If a Region fails to adopt a mandatory compact by the applicable deadline:
 | Escalation | Deadline +180 days | Board determination of non-compliance; referral for enforcement |
 | Sanctions | Deadline +210 days | Graduated penalties commence (see below) |
 
-**Graduated Penalty Structure:**
+**Graduated Enforcement Structure:**
 
-| Months Past Deadline | Penalty |
-|---------------------|---------|
-| 7-12 months | 2% reduction in equalization transfers |
-| 13-18 months | 5% reduction in equalization transfers |
-| 19-24 months | 10% reduction in equalization transfers |
-| >24 months | Federal backup authority activated (Section 8.7) |
+*Note: Per Article X, Section 4 (Anti-Coercion Rule), equalization transfers may not be reduced or withheld as an enforcement mechanism. Enforcement relies on court orders, civil penalties, and federal backup authority.*
+
+| Months Past Deadline | Enforcement Action |
+|---------------------|-------------------|
+| 7-12 months | Civil penalties: $100,000/day, collectible through federal court |
+| 13-18 months | Civil penalties increase to $250,000/day; injunctive relief available |
+| 19-24 months | Civil penalties increase to $500,000/day; federal backup authority activated (Section 8.7) |
+| >24 months | Full federal assumption of compact functions at Region's expense |
 
 **Failure to Comply with Adopted Compact:**
 
@@ -1773,15 +1778,15 @@ If a Region violates the terms of an adopted compact:
     - Specific performance requirements
     - Reimbursement to affected Regions
     - Temporary suspension of non-compliant Region's voting rights in compact governance
-- Persistent non-compliance (3+ Board remedial orders in 24 months) triggers equalization transfer penalties
+    - Civil penalties collectible through federal courts
+- Persistent non-compliance (3+ Board remedial orders in 24 months) triggers federal backup authority
 
-**Penalty Proceeds:**
+**Civil Penalty Collection:**
 
-- Equalization transfer penalties are not forfeited but held in escrow
-- Escrowed funds are released upon:
-    - Adoption of required compact, OR
-    - Compliance with compact terms for 12 consecutive months
-- If non-compliance persists beyond 36 months, escrowed funds are distributed to compliant Regions in the same compact
+- Civil penalties are assessed by the Board and collectible through federal district courts
+- Unpaid penalties accrue interest at the federal judgment rate
+- Penalties collected are deposited in a dedicated fund for compact administration
+- Penalties are not deducted from equalization transfers
 
 ### 8.7 Federal Backup Authority
 
@@ -1991,7 +1996,7 @@ If a federal agency fails to execute required MOUs:
 
 ## 10. Enforcement and Penalties
 
-This section establishes general enforcement mechanisms for allocation violations. For compact-specific enforcement (including graduated equalization transfer penalties, federal backup authority, and escrow provisions), see Section 8.6. **Section 10.4 explicitly provides that compact violations automatically trigger all enforcement mechanisms in this section** — there is no gap between compact obligations and general enforcement.
+This section establishes general enforcement mechanisms for allocation violations. For compact-specific enforcement (including graduated civil penalties, federal backup authority, and escrow provisions), see Section 8.6. **Section 10.4 explicitly provides that compact violations automatically trigger all enforcement mechanisms in this section** — there is no gap between compact obligations and general enforcement.
 
 ### 10.1 Unauthorized Exercise of Power
 

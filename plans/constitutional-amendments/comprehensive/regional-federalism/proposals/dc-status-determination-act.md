@@ -46,6 +46,11 @@ applied to States.
 (c) **Senate Representation.** The District shall be entitled to two Senators,
 elected by District residents.
 
+(d) **Transitional Status.** Per Article XX, Section 1(b), District Senators
+serve as at-large members of the Senate with full voting rights until Regional
+assignment is completed. Upon Regional assignment, District Senators join the
+assigned Region's delegation for purposes of Senate organization.
+
 ### Section 2. Initial Senate Elections
 
 (a) **Timing.** Senate elections shall be scheduled within 180 days of

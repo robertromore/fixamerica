@@ -409,7 +409,7 @@ Could a Region site polluting facilities near its borders to export environmenta
 
 - Strategic placement of pollution sources at Regional boundaries
 - Transboundary air and water pollution without accountability
-- Race-to-bottom on environmental standards for border areas
+- Competitive pressure on environmental standards for border areas
 - Public health crises in downwind/downstream Regions
 
 **Resolution:**
@@ -457,7 +457,7 @@ Fully resolved by constitutional provision with implementing proposal.
 ### Gap 23 — Regional Guard Force Accountability
 
 **Description:**
-[Article XV](../02-design/constitution/00-index.md) establishes divided military command between federal forces and Regional Guards, but does not specify:
+Article XI (Armed Forces amendment) establishes divided military command between federal forces and Regional Guards, but does not specify:
 
 - civilian oversight structures for Regional Guard forces,
 - accountability mechanisms for Guard misconduct,

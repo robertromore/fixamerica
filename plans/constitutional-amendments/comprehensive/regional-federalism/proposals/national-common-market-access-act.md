@@ -167,9 +167,10 @@ following a hearing.
 - (1) **Immediate Restoration Order.** Order immediate restoration of transit
     access pending dispute resolution.
 
-- (2) **Sanctions.** Impose sanctions on the offending Region, including
-    withholding of equalization transfers (upon court finding of willful
-    violation).
+- (2) **Sanctions.** Impose civil penalties up to $500,000 per day of
+    violation, collectible through federal courts.
+
+    *Note: Per Article X, Section 4 (Anti-Coercion Rule), equalization transfers may not be withheld as an enforcement mechanism.*
 
 - (3) **Operational Control.** Assume temporary operational control of affected
     infrastructure.
@@ -203,10 +204,10 @@ operational control shall be returned immediately.
 (a) **Available Sanctions.** For willful violations, sanctions include:
 
 - (1) withholding of discretionary federal infrastructure funds,
-- (2) withholding of equalization transfers (after court finding of willful
-    violation),
-- (3) civil penalties up to $50,000 per day of blockade,
-- (4) mandatory remediation orders.
+- (2) civil penalties up to $50,000 per day of blockade,
+- (3) mandatory remediation orders.
+
+*Note: Per Article X, Section 4 (Anti-Coercion Rule), equalization transfers may not be withheld as an enforcement mechanism.*
 
 (b) **Graduated Application.** Sanctions shall be applied in graduated fashion,
 beginning with less severe measures and escalating only if compliance is not
@@ -368,7 +369,7 @@ prevent indefinite occupation; compliance triggers automatic return.
 
 - [Article I, Section 6](../02-design/constitution/01-regional-structure.md) - Constitutional foundation
 - [Allocation Review Board](../02-design/07-judiciary.md) - Mediation authority
-- [Fiscal Equalization](../02-design/constitution/04-fiscal-system.md) - Equalization transfer sanctions
+- [Fiscal Equalization](../02-design/constitution/04-fiscal-system.md) - Anti-Coercion Rule (equalization transfers may not be withheld)
 - [Identified Gaps](../04-meta/02-identified-gaps.md) - Related gap analysis
 
 ---

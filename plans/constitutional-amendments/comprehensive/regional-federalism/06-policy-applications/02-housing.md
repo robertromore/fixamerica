@@ -5,7 +5,7 @@
 > **Purpose of this document:**
 > To describe how the Regional Federal constitutional system would restructure housing governance, addressing the housing crisis through regional coordination while preserving local implementation authority.
 
-Housing represents the clearest case for regional governance: metropolitan housing markets cross state lines, exclusionary zoning externalizes costs to neighbors, and current fragmentation prevents coordinated solutions.
+Housing illustrates the case for regional governance: metropolitan housing markets cross state lines, exclusionary zoning externalizes costs to neighbors, and current fragmentation prevents coordinated solutions.
 
 ---
 
@@ -36,7 +36,7 @@ This fragmentation creates:
 
 - No authority at the metropolitan scale where housing markets actually operate
 - Exclusionary zoning that externalizes housing costs to neighboring jurisdictions
-- Racing to exclude affordable housing (each locality benefits by pushing costs elsewhere)
+- Exclusionary zoning incentives (each locality may benefit by shifting housing costs elsewhere)
 - Federal programs disconnected from local land use decisions
 - States unable to override local zoning without political backlash
 
@@ -87,13 +87,13 @@ National housing reform faces:
 
 ## 3. Housing Powers Under Regional Federalism
 
-This section applies the allocation framework established in [Article II](../../02-design/constitution/00-index.md) and operationalized by the [Allocation Framework Act](../05-implementation/03-allocation-framework-act.md).
+This section applies the allocation framework established in [Article II](../02-design/constitution/02-powers-and-rights.md) and operationalized by the [Allocation Framework Act](../05-implementation/03-allocation-framework-act.md).
 
 ### Federal Powers (Enumerated)
 
-Federal authority limited to ([Article II](../../02-design/constitution/00-index.md)):
+Federal authority limited to ([Article II](../02-design/constitution/02-powers-and-rights.md)):
 
-- **Rights floors**: Fair housing, non-discrimination ([Article III](../../02-design/constitution/00-index.md))
+- **Rights floors**: Fair housing, non-discrimination ([Article III](../02-design/constitution/00-index.md))
 - **Mortgage regulation**: Financial system stability
 - **Tax policy**: Mortgage interest deduction, LIHTC
 - **Federal lands**: Housing on federal property
@@ -101,7 +101,7 @@ Federal authority limited to ([Article II](../../02-design/constitution/00-index
 
 ### Regional Powers (Exclusive)
 
-Regions would control ([Article I](../../02-design/constitution/00-index.md)):
+Regions would control ([Article I](../02-design/constitution/00-index.md)):
 
 - **Housing supply coordination**: Regional targets and anti-exclusion standards
 - **Metropolitan planning**: Coordinating housing with transportation and employment
@@ -208,21 +208,43 @@ If a locality fails to meet obligations:
 
 ---
 
-## 6. Addressing Exclusionary Zoning
+## 6. Regional Zoning Approaches
 
-### The Problem
+Regions have authority to set zoning policy above federal floors. Different regions may choose different approaches based on their housing markets, preferences, and conditions.
 
-Exclusionary zoning includes:
+### Regional Policy Options
 
-- Large-lot single-family zoning
-- Bans on multifamily housing
-- Excessive setback and parking requirements
-- Height limits below economic viability
-- Procedural barriers (lengthy reviews, multiple hearings)
+**Option A: Local Control (Minimal Regional Intervention)**
 
-### Regional Anti-Exclusion Standards
+Region defers most zoning decisions to localities:
 
-Regions shall establish minimum standards:
+- Local governments retain primary zoning authority
+- Regional role limited to data collection and voluntary coordination
+- No regional density mandates or fair share requirements
+- Market forces determine housing supply and location
+
+**Option B: Coordination (Moderate Regional Role)**
+
+Region coordinates without mandating specific outcomes:
+
+- Regional housing needs assessment
+- Voluntary fair share frameworks
+- Technical assistance to localities
+- Incentive funding for localities meeting regional goals
+- No builder's remedy or regional override
+
+**Option C: Active Intervention (Stronger Regional Role)**
+
+Region sets standards to address spillover effects:
+
+- Regional anti-exclusion standards (see below)
+- Fair share requirements for affordable housing
+- Builder's remedy for non-compliant localities
+- Regional override of exclusionary practices
+
+### Regional Anti-Exclusion Standards (Option C)
+
+Regions choosing active intervention may establish standards:
 
 **Density Minimums:**
 
@@ -238,12 +260,19 @@ Regions shall establish minimum standards:
 - Design review limited to objective standards
 - Timeline limits on permit processing
 
-**Prohibited Practices:**
+**Regional Zoning Standards:**
 
-- Single-family-only zoning within X miles of transit
-- Minimum lot sizes exceeding Y square feet
-- Parking minimums exceeding Z spaces per unit
-- Discretionary review for projects meeting objective standards
+Regions establish zoning parameters reflecting regional housing needs and preferences:
+
+| Parameter | High-Demand Regions | Moderate-Demand Regions | Regional Discretion |
+|-----------|---------------------|-------------------------|---------------------|
+| Transit proximity for multi-family | 0.25-0.5 miles | 0.5-1.0 miles | Region sets threshold |
+| Maximum lot size minimums | 2,500-5,000 sq ft | 5,000-10,000 sq ft | Region sets cap |
+| Maximum parking requirements | 0-1 space/unit | 1-2 spaces/unit | Region sets ceiling |
+
+**Under Option C, regions may prohibit:**
+
+- Discretionary review for projects meeting objective regional standards
 
 ### Local Flexibility Within Framework
 
@@ -301,7 +330,7 @@ Regional coordination of public housing authorities:
 
 ### Federal Fair Housing Floor
 
-Federal rights floors ([Article III](../../02-design/constitution/00-index.md)) include:
+Federal rights floors ([Article III](../02-design/constitution/00-index.md)) include:
 
 - Prohibition on discrimination (race, color, religion, sex, national origin, familial status, disability)
 - Affirmatively furthering fair housing obligation
@@ -380,11 +409,11 @@ Housing transition under regional federalism would require:
 
 ### Equalization
 
-Fiscal equalization ([Article VIII, Section 3](../../02-design/constitution/00-index.md)), operationalized by the [Fiscal Equalization Act](../05-implementation/04-fiscal-equalization-act.md), ensures:
+Fiscal equalization ([Article X, Section 3](../02-design/constitution/04-fiscal-system.md)), operationalized by the [Fiscal Equalization Act](../05-implementation/04-fiscal-equalization-act.md), ensures:
 
 - Lower-capacity regions can fund housing programs
 - Affordable housing subsidies available everywhere
-- No race to bottom in housing standards
+- Regional coordination on housing standards
 - National solidarity maintained
 
 ### Political Economy
@@ -435,7 +464,7 @@ Housing under regional federalism represents the system's approach applied to a 
 
 ## Related Documents
 
-- [The Regional Federal Constitution](../../02-design/constitution/00-index.md) - Authoritative source for all constitutional provisions
+- [The Regional Federal Constitution](../02-design/constitution/00-index.md) - Authoritative source for all constitutional provisions
 - [Core Idea: Regional Federalism](../../01-foundation/01-core-idea.md)
 - [Design Axioms](../../01-foundation/02-design-axioms.md)
 - [Allocation of Powers](../../02-design/01-allocation-of-powers.md)

@@ -4,7 +4,7 @@
 
 > **Purpose of this document:**
 > To step above the institutional, legal, and historical details and articulate the **deep logic** of the system as a whole:
-> what assumptions it makes about human behavior, power, conflict, and democracy-and what kind of political order it is trying to preserve.
+> what assumptions it makes about human behavior, power, conflict, and democracy—and what kind of political order it is trying to preserve.
 
 This is not another article.
 It is the *theory of the system*.
@@ -38,7 +38,7 @@ This system is **not** primarily trying to:
 - eliminate polarization,
 - or enforce moral agreement.
 
-It is trying to solve a narrower-but more fundamental-problem:
+It is trying to solve a narrower—but more fundamental—problem:
 
 > **How does a large, diverse democracy survive prolonged disagreement without breaking, fragmenting, or sliding into authoritarianism?**
 
@@ -56,7 +56,7 @@ If power *can* be centralized, it eventually *will be*.
 
 ### Assumption 2 - Good faith is intermittent
 
-Periods of good faith exist-but cannot be relied upon permanently.
+Periods of good faith exist—but cannot be relied upon permanently.
 
 ### Assumption 3 - Loss aversion dominates politics
 
@@ -118,7 +118,7 @@ That model assumed:
 
 Modern reality breaks those assumptions.
 
-Regional federalism is not incremental federalism-it is a **structural correction**:
+Regional federalism is not incremental federalism—it is a **structural correction**:
 
 - to scale,
 - to economic integration,
@@ -174,7 +174,7 @@ Regional federalism replaces *single-point failure* with **containment**:
 
 ## 7. Legitimacy as the Scarce Resource
 
-The system treats legitimacy-not power-as the limiting factor.
+The system treats legitimacy—not power—as the limiting factor.
 
 Legitimacy comes from:
 
@@ -207,12 +207,12 @@ This system is built around a different ethic:
 
 That is why:
 
-- interventions are temporary ([Article XII, Section 3](../02-design/constitution/00-index.md)),
-- emergencies sunset automatically ([Article XVII, Section 2](../02-design/constitution/00-index.md)),
-- courts enforce process, not ideology ([Article XIV](../02-design/constitution/00-index.md)),
-- armed force is constrained to restoration ([Article XV, Section 2](../02-design/constitution/00-index.md)).
+- interventions are temporary ([Article XII, Section 3](../02-design/constitution/05-safeguards.md)),
+- emergencies sunset automatically (Article XVII, Section 2—Emergency Powers amendment),
+- courts enforce process, not ideology (Article XIV—Judicial Reform amendment),
+- armed force is constrained to restoration (Article XI, Section 2—Armed Forces amendment).
 
-The goal is compliance-not victory.
+The goal is compliance—not victory.
 
 ---
 
@@ -233,13 +233,13 @@ This system assumes:
 
 That is why it includes:
 
-- mandatory jurisdiction ([Article XIV, Section 1](../02-design/constitution/00-index.md)),
-- deadlines ([Article XIV, Section 2](../02-design/constitution/00-index.md)),
-- self-executing defaults ([Article XIV, Section 4](../02-design/constitution/00-index.md); [Article XVIII, Section 2](../02-design/constitution/00-index.md)),
-- multi-key authorizations ([Article XV, Section 2](../02-design/constitution/00-index.md)),
+- mandatory jurisdiction (Article XIV, Section 1—Judicial Reform amendment),
+- deadlines (Article XIV, Section 2—Judicial Reform amendment),
+- self-executing defaults (Article XIV, Section 4—Judicial Reform amendment; [Article XVIII, Section 2](../02-design/constitution/06-supremacy.md)),
+- multi-key authorizations (Article XI, Section 2—Armed Forces amendment),
 - parallel institutions (regions as alternative governing centers).
 
-Bad faith does not break the system-it merely reveals itself.
+Bad faith does not break the system—it merely reveals itself.
 
 ---
 
@@ -285,7 +285,7 @@ In exchange, it offers:
 - diminished court politicization,
 - and a higher probability the system endures.
 
-These are conscious, explicit tradeoffs-not oversights.
+These are conscious, explicit tradeoffs—not oversights.
 
 ---
 
@@ -315,7 +315,7 @@ At its deepest level, this system rests on a single belief:
 > **Democracy is not the absence of conflict.
 > It is the ability to survive conflict without abandoning self-government.**
 
-Everything else-regions, courts, fiscal rules, military structure, amendment processes-is in service of that goal.
+Everything else—regions, courts, fiscal rules, military structure, amendment processes—is in service of that goal.
 
 This constitution does not promise that the United States will always agree.
 

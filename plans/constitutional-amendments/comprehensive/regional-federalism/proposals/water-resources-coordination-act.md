@@ -90,13 +90,12 @@ water law, and interstate cooperation.
 
 ### Section 12. Composition
 
-(a) **Members.** The Board shall consist of nine members:
+(a) **Members.** The Board shall consist of members as established by Article I, Section 7(e) of the Constitution:
 
-- (1) three appointed by the President with Senate confirmation, at least
-    one of whom must be a hydrologist or environmental scientist,
-- (2) three selected by majority vote of Regional Governors,
-- (3) three selected by the Chief Justice of the United States from among
-    retired federal judges with experience in water law.
+- (1) one representative appointed by each Region,
+- (2) one representative of the Environmental Protection Agency,
+- (3) one representative of the Army Corps of Engineers,
+- (4) two representatives of Tribal Nations with water rights in affected watersheds (selected by a council of affected Tribes).
 
 (b) **Terms.** Members serve six-year staggered terms, removable only for
 cause.
@@ -224,8 +223,8 @@ measures in good faith.
 
 ### Section 32. National Water Court
 
-(a) **Jurisdiction.** The National Water Court (established in Article XIV,
-Section 7) shall have exclusive original jurisdiction over:
+(a) **Jurisdiction.** The National Water Court (established in Article I,
+Section 7(f)) shall have exclusive original jurisdiction over:
 
 - (1) disputes over water allocation among Regions,
 - (2) enforcement of water-sharing agreements,
@@ -272,10 +271,11 @@ federal government may:
 (b) **Sanctions.** Available sanctions include:
 
 - (1) withholding of discretionary federal funds related to water projects,
-- (2) withholding of equalization transfers (after court finding of willful
-    violation),
-- (3) civil penalties up to $100,000 per day of violation,
-- (4) mandatory remediation orders.
+- (2) civil penalties up to $100,000 per day of violation,
+- (3) mandatory remediation orders,
+- (4) federal assumption of operational control (Section 42).
+
+*Note: Per Article X, Section 4 (Anti-Coercion Rule), equalization transfers may not be withheld as an enforcement mechanism.*
 
 ### Section 42. Operational Control
 

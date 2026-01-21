@@ -29,6 +29,8 @@ The Senate shall represent the Regions equally.
 
 Each Region shall select Senators according to Regional law.
 
+**Transitional Exception.** Senators representing the District of Columbia and United States territories prior to Regional assignment serve as at-large members with full voting rights pursuant to Article XX, Sections 1(b) and 2(b). Upon Regional assignment, such Senators join the assigned Region's delegation.
+
 ---
 
 ### Section 4. Senate Powers

@@ -53,7 +53,7 @@ A group that loses economically does not simply feel offended-it becomes:
 
 The central question is therefore:
 
-> Can a large, pluralistic democracy sustain **economic diversity** without creating **internal underclasses** or **race-to-the-bottom competition**?
+> Can a large, pluralistic democracy sustain **economic diversity** without creating **internal underclasses** or **destructive regulatory competition**?
 
 Regional federalism attempts to solve this by:
 
@@ -151,7 +151,7 @@ High-growth regions fail to build housing, exporting:
 Any stable economic system in a large democracy must:
 
 1. Preserve a **single national market**
-2. Prevent **race-to-the-bottom competition**
+2. Prevent **destructive regulatory competition**
 3. Allow **regional cost-of-living variation**
 4. Enable **mobility without precarity**
 5. Maintain **political legitimacy of redistribution**
@@ -216,10 +216,10 @@ Practices treated as dumping:
 Penalties apply automatically, not discretionarily.
 
 > **Implementation note:** The constitution establishes anti-dumping rules as a
-> constraint on regional economic policy ([Article II, Section 2](../02-design/constitution/00-index.md)) but does not
+> constraint on regional economic policy ([Article II, Section 2](../02-design/constitution/02-powers-and-rights.md)) but does not
 > specify enforcement mechanisms. Automatic penalty structures described here
 > are proposed implementation requirements that should be codified in the
-> Allocation Framework Act ([Article XVIII, Section 1](../02-design/constitution/00-index.md)).
+> Allocation Framework Act ([Article XVIII, Section 1](../02-design/constitution/06-supremacy.md)).
 
 ---
 
@@ -406,7 +406,7 @@ Remote work allows:
 
 > **Implementation note:** Regional equalization fees for remote-work arbitrage
 > are not defined in the constitution. These mechanisms should be codified in
-> the Fiscal Equalization Act ([Article XVIII, Section 1](../02-design/constitution/00-index.md)) to ensure consistent
+> the Fiscal Equalization Act ([Article XVIII, Section 1](../02-design/constitution/06-supremacy.md)) to ensure consistent
 > enforcement across regions.
 
 ---
@@ -438,7 +438,7 @@ The system establishes a national benefits floor ([Article II, Section 1](../02-
 - portable retirement credits,
 - unemployment continuity.
 
-Regions may add supplements above this floor ([Article III](../02-design/constitution/00-index.md); [Article XV, Section 2](../02-design/constitution/00-index.md)).
+Regions may add supplements above this floor ([Article III](../02-design/constitution/02-powers-and-rights.md)).
 
 ---
 
@@ -555,7 +555,7 @@ But these risks are **manageable**, unlike systemic collapse.
 
 | Feature | Status Quo | Regional Federalism |
 |---------|------------|---------------------|
-| Labor competition | Race to bottom | Coordinated floors |
+| Labor competition | Competitive pressure | Coordinated floors |
 | Capital leverage | High | Reduced |
 | Housing response | Fragmented | Regional |
 | Redistribution | Ad hoc | Automatic |

@@ -791,7 +791,7 @@ Rights and standards shall be construed as floors unless explicitly stated other
 
 (a) Capitalized terms "Region," "State," "Tribal Nation," and "Territory" refer to constitutional entities established or recognized by this Constitution.
 
-(b) "Tribal Nation" means a federally recognized Tribal Nation unless otherwise specified. The inherent sovereignty acknowledged in Article XX, Section 3 is not limited to federally recognized Tribal Nations, but constitutional protections and coordination requirements under this Constitution apply to federally recognized Tribal Nations as a matter of practical administration.
+(b) "Tribal Nation" means a federally recognized Tribal Nation unless otherwise specified. The inherent sovereignty acknowledged in Article XX, Section 3 is not limited to federally recognized Tribal Nations, but constitutional protections and coordination requirements under this Constitution apply to federally recognized Tribal Nations as a matter of practical administration. See Article XXII, Section 1(d).
 
 (c) References to "Regional" institutions (Regional Governor, Regional legislature, Regional courts) use initial capitalization to denote constitutional status.
 
@@ -851,23 +851,32 @@ Upon completion of the transition period:
 
 (a) The District of Columbia shall be entitled to representation in Congress as if it were a State, including Representatives apportioned by population and two Senators. This representation is immediate upon ratification.
 
-(b) Within five years, Congress shall determine the District's permanent status: admission as a State with Regional assignment, or Regional assignment while preserving federal district status.
+(b) **Transitional Senate Representation.** Until Regional assignment is completed, District Senators serve as at-large members of the Senate with full voting rights. Upon Regional assignment, District Senators join the assigned Region's delegation for purposes of Senate organization, while continuing to be elected by District residents.
 
-(c) Regional assignment requires approval by two-thirds of the receiving Region's legislature and by majority referendum of District residents. No assignment may take effect within one year before or six months after a federal presidential election.
+(c) Within five years, Congress shall determine the District's permanent status: admission as a State with Regional assignment, or Regional assignment while preserving federal district status.
 
-(d) Implementation procedures are established by statute.
+(d) Regional assignment requires approval by two-thirds of the receiving Region's legislature and by majority referendum of District residents. No assignment may take effect within one year before or six months after a federal presidential election.
+
+(e) Implementation procedures are established by statute.
 
 ---
 
 ### Section 2. Territories
 
-(a) Residents of United States territories shall be entitled to participate in federal elections. Congress shall assign each territory to a Region based on geographic proximity, historical connection, or economic integration.
+(a) Residents of United States territories shall be entitled to participate in federal elections and to Congressional representation. Congress shall assign each territory to a Region based on geographic proximity, historical connection, or economic integration.
 
-(b) Regional assignment requires approval by two-thirds of the receiving Region's legislature and may be rejected by territorial referendum. No assignment may take effect within one year before or six months after a federal presidential election.
+(b) **Transitional Congressional Representation.** Until Regional assignment is completed:
 
-(c) Congress shall establish a clear path for each territory to petition for statehood, Regional assignment without statehood, or continued territorial status with defined representation. No territory may be held indefinitely without a defined governance status.
+- (1) each territory shall elect at least one Representative apportioned by population;
+- (2) each territory shall elect two Senators with full voting rights;
+- (3) territorial Senators serve as at-large members of the Senate, not assigned to any Regional delegation;
+- (4) upon Regional assignment, territorial Senators join the assigned Region's delegation for purposes of Senate organization.
 
-(d) Implementation procedures are established by statute.
+(c) Regional assignment requires approval by two-thirds of the receiving Region's legislature and may be rejected by territorial referendum. No assignment may take effect within one year before or six months after a federal presidential election.
+
+(d) Congress shall establish a clear path for each territory to petition for statehood, Regional assignment without statehood, or continued territorial status with defined representation. No territory may be held indefinitely without a defined governance status.
+
+(e) Implementation procedures are established by statute.
 
 ---
 

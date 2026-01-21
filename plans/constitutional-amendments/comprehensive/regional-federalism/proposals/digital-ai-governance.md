@@ -31,7 +31,7 @@ Create a framework that:
 - establishes minimum transparency and accountability for AI used in government,
 - protects individuals from algorithmic harm without adequate recourse,
 - coordinates digital identity systems across Regions,
-- enables Regional experimentation while preventing a race to the bottom, and
+- enables Regional experimentation while establishing baseline protections, and
 - prepares governance structures for emerging AI capabilities.
 
 ---
@@ -40,7 +40,7 @@ Create a framework that:
 
 ### Option A: DLRS Domain Extension (Constitutional Amendment Required)
 
-Amend Article III, Section 4.8 to add:
+If the [DLRS (Dual Legitimacy Rights Floor Statute)](dual-legitimacy-rights-floor-statute.md) is adopted as proposed Article III, Section 4, amend Section 4.8 (Enumerated Floor Domains) to add:
 
 > (f) algorithmic accountability floors for government decision-making.
 
@@ -430,7 +430,7 @@ of label.
 
 ---
 
-### Attack Vector 4: Regional Race to Bottom
+### Attack Vector 4: Regional Regulatory Competition
 
 **Attack:** Regions compete by reducing AI accountability to attract tech
 companies.
@@ -441,7 +441,7 @@ companies.
 - Federal procurement standards apply to federal funding recipients (Section 201(c))
 - Regional experimentation is upward only (Section 701)
 
-**Outcome:** Floors prevent race to bottom; competition is for higher standards.
+**Outcome:** Floors establish minimum standards; competition is for higher standards.
 
 ---
 
@@ -460,8 +460,7 @@ companies.
 
 - [Article XVI (Cyber and Digital Defense)](../02-design/constitution/00-index.md) - Parent constitutional provisions
 - [Gap 26 — Digital/AI Governance Framework](../04-meta/02-identified-gaps.md) - Gap analysis this proposal addresses
-- [DLRS Mechanism](../02-design/constitution/02-powers-and-rights.md) - Article III, Section 4 (if domain extension pursued)
-- [Article III, Section 4.8 (Enumerated Floor Domains)](../02-design/constitution/02-powers-and-rights.md) - Current floor domains
+- [DLRS (Dual Legitimacy Rights Floor Statute)](dual-legitimacy-rights-floor-statute.md) - Rights floor mechanism (proposed Article III, Section 4)
 
 ---
 

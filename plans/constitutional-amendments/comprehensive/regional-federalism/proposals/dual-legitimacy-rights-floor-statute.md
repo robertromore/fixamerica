@@ -692,7 +692,7 @@ characteristics that distinguish them from more contested policy areas.
 
 **4. Labor Rights and Minimum Safety Floors**
 
-- Prevents race-to-bottom competition between Regions
+- Prevents competitive erosion of standards between Regions
 - Protects basic economic dignity
 - Long history of federal minimum standards
 

@@ -260,11 +260,11 @@ Exit becomes:
 
 ### 6.4 Design implication
 
-Regional federalism must ensure ([Article XV](../02-design/constitution/00-index.md)):
+Regional federalism must ensure ([Article XII](../02-design/constitution/05-safeguards.md)):
 
-- no formal or implied right of secession ([Article XV, Section 1](../02-design/constitution/00-index.md))
+- no formal or implied right of secession ([Article XII, Section 1](../02-design/constitution/05-safeguards.md))
 - autonomy is real, fiscally backed, and democratically legitimate
-- de-escalation mechanisms exist that substitute for exit threats ([Article XV, Section 3](../02-design/constitution/00-index.md))
+- de-escalation mechanisms exist that substitute for exit threats ([Article XII, Section 3](../02-design/constitution/05-safeguards.md))
 
 ---
 
@@ -381,17 +381,17 @@ Response:
 
 - Senate restructured to represent regions without routine legislative veto ([Article IV, Section 3-4](../02-design/constitution/00-index.md))
 - amendment process redesigned to avoid minority veto ([Article XIII](../02-design/constitution/00-index.md))
-- courts constrained to process enforcement ([Article XIV](../02-design/constitution/00-index.md))
+- courts constrained to process enforcement (Article XIV—Judicial Reform amendment)
 
 ---
 
 ### Trap C: Exit ambiguity
 
-Response ([Article XV](../02-design/constitution/00-index.md)):
+Response ([Article XII](../02-design/constitution/05-safeguards.md)):
 
-- explicit no-secession clause ([Article XV, Section 1](../02-design/constitution/00-index.md))
-- explicit no-nullification clause ([Article XV, Section 2](../02-design/constitution/00-index.md))
-- de-escalation ladder substitutes for exit threats ([Article XV, Section 3](../02-design/constitution/00-index.md))
+- explicit no-secession clause ([Article XII, Section 1](../02-design/constitution/05-safeguards.md))
+- explicit no-nullification clause ([Article XII, Section 2](../02-design/constitution/05-safeguards.md))
+- de-escalation ladder substitutes for exit threats ([Article XII, Section 3](../02-design/constitution/05-safeguards.md))
 
 ---
 
@@ -407,12 +407,12 @@ Response:
 
 ### Trap E: Politicized security
 
-Response ([Article XV](../02-design/constitution/00-index.md)):
+Response (Article XI—Armed Forces amendment):
 
-- divided armed-force control ([Article XV, Section 1](../02-design/constitution/00-index.md))
-- regional guard with constitutional obligations ([Article XV, Section 3](../02-design/constitution/00-index.md))
-- multi-key authorization for domestic deployment ([Article XV, Section 2](../02-design/constitution/00-index.md))
-- duty to refuse unlawful orders ([Article XV, Section 3](../02-design/constitution/00-index.md))
+- divided armed-force control (Article XI, Section 1—Armed Forces amendment)
+- regional guard with constitutional obligations (Article XI, Section 3—Armed Forces amendment)
+- multi-key authorization for domestic deployment (Article XI, Section 2—Armed Forces amendment)
+- duty to refuse unlawful orders (Article XI, Section 3—Armed Forces amendment)
 
 ---
 

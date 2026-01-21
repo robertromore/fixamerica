@@ -3,7 +3,7 @@
 ## A Comprehensive Design Document
 
 > **Purpose of this document:**
-> To define, justify, and operationalize a new constitutional level of government ("Regions") between states and the federal government-without yet committing to the full amendment package. This is the "core idea" in isolation: what it is, why it exists, and how it should function.
+> To define, justify, and operationalize a new constitutional level of government ("Regions") between states and the federal government—without yet committing to the full amendment package. This is the "core idea" in isolation: what it is, why it exists, and how it should function.
 
 ---
 
@@ -30,7 +30,7 @@
 
 ## 1. Executive Overview
 
-**Regional federalism** adds a formal level of government-**Regions**-between states and the federal government. Regions are groups of states with real democratic legitimacy and meaningful governing authority.
+**Regional federalism** adds a formal level of government—**Regions**—between states and the federal government. Regions are groups of states with real democratic legitimacy and meaningful governing authority.
 
 The system exists to solve a modern mismatch:
 
@@ -60,7 +60,7 @@ A **Region** is:
 
 ### A functional definition
 
-Regions govern **spillovers**-problems where what one state does strongly affects neighbors:
+Regions govern **spillovers**—problems where what one state does strongly affects neighbors:
 
 - transportation corridors and commuting sheds
 - electric reliability and grid interconnects
@@ -116,12 +116,12 @@ Regions provide a third place for disagreement:
 
 ### 3.3 Internal fragmentation: the hidden cost of "50 laboratories"
 
-The "laboratories of democracy" story is partly true-but at modern scale it also creates:
+The "laboratories of democracy" story is partly true—but at modern scale it also creates:
 
 - incompatible standards
 - licensing barriers
 - supply chain friction
-- race-to-the-bottom incentives
+- competitive pressure on regulatory standards
 - difficulty responding to multi-state crises
 
 Regions preserve experimentation while reducing chaos.
@@ -212,7 +212,7 @@ This document defines criteria for *what makes a good region*, but does not spec
 - supermajority consent of affected regions plus national referendum,
 - election blackout periods to prevent manipulation.
 
-See [The Regional Federal Constitution](../02-design/constitution/00-index.md), Article I, Section 4 for the complete boundary revision mechanism.
+See [The Regional Federal Constitution, Article I, Section 4](../02-design/constitution/01-regional-structure.md) for the complete boundary revision mechanism.
 
 ---
 
@@ -264,7 +264,7 @@ Rather than one fixed set of regions, you define "region maps" for:
 
 And allow regional institutions to overlap.
 
-**Trade-off:** extremely realistic, but politically harder to explain and constitutionalize. See [The Regional Federal Constitution](../02-design/constitution/00-index.md), Article I for the adopted approach.
+**Trade-off:** extremely realistic, but politically harder to explain and constitutionalize. See [The Regional Federal Constitution, Article I](../02-design/constitution/01-regional-structure.md) for the adopted approach.
 
 ---
 
@@ -304,7 +304,7 @@ Regions are the right scale to:
 - set wage floors tied to local conditions
 - coordinate unemployment systems
 - manage training and credential recognition
-- prevent "race to bottom" within an integrated national market
+- coordinate standards within an integrated national market
 
 ### 7.4 Regional public health governance
 
@@ -604,8 +604,8 @@ That is the core idea.
 ## Related Documents
 
 - [Allocation of Powers](../02-design/01-allocation-of-powers.md) - The second core pillar: what happens where and why
-- [Federalism Reform Analysis](../../analysis/political/federalism-reform/01-overview.md)
-- [Constitutional Amendment Process](../../analysis/political/constitutional-amendment-process/01-overview.md)
+- [Federalism Reform Analysis](../../../../../analysis/political/federalism-reform/01-overview.md)
+- [Constitutional Amendment Process](../../../../../analysis/political/constitutional-amendment-process/01-overview.md)
 
 ---
 

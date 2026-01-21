@@ -194,7 +194,7 @@ Government-sponsored counter-messaging:
 
 ## 5. Structural Responses in Regional Federalism
 
-Regional federalism addresses foreign information operations through transparency-based mechanisms that avoid creating censorship tools ([Article XVI, Section 7](../02-design/constitution/00-index.md)).
+Regional federalism addresses foreign information operations through transparency-based mechanisms that avoid creating censorship tools (Article XVI, Section 7—Cyber Defense amendment).
 
 ---
 

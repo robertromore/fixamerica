@@ -543,9 +543,9 @@ addressed by the general constitutional framework.
 - [The Regional Federal Constitution](../02-design/constitution/00-index.md) - Authoritative source for all constitutional provisions
 - [Gap 16 — Inter-Regional Cooperation Mechanisms](../04-meta/02-identified-gaps.md) - Gap analysis this proposal addresses
 - [Article I, Section 6 (Right of Transit)](../02-design/constitution/01-regional-structure.md) - Non-blockade provisions
-- [Article III, Section 4 (DLRS)](../02-design/constitution/02-powers-and-rights.md) - Rights floors applicable to joint authorities
+- [DLRS (Dual Legitimacy Rights Floor Statute)](dual-legitimacy-rights-floor-statute.md) - Rights floors applicable to joint authorities (proposed Article III, Section 4)
 - [Hostile Reinterpretation Stress Test](../03-analysis/04-hostile-reinterpretation.md) - Methodology for stress testing
-- [Allocation Review Board (Article XIV)](../02-design/07-judiciary.md) - Dispute resolution body referenced in Section 5A.9
+- [Allocation Review Board (Article II, Section 5)](../02-design/constitution/02-powers-and-rights.md) - Dispute resolution body referenced in Section 5A.9
 
 ---
 

@@ -61,7 +61,7 @@ For purposes of this Constitution:
 
 (c) "Territory" means an organized territory of the United States that has not been admitted as a State.
 
-(d) "Tribal Nation" means a federally recognized Indian Tribe, Band, Nation, or other organized group or community exercising sovereign governmental authority.
+(d) "Tribal Nation" means a federally recognized Indian Tribe, Band, Nation, or other organized group or community exercising sovereign governmental authority. *See also Article XVIII, Section 3(b) for interpretive conventions regarding tribal sovereignty and the scope of constitutional protections.*
 
 (e) "Local government" means a county, municipality, township, or other general-purpose political subdivision of a State.
 

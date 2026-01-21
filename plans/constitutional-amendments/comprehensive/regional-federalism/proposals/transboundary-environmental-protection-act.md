@@ -190,8 +190,10 @@ with preliminary injunction hearings within 14 days and trial within 120 days.
 federal government may:
 
 - (1) order immediate cessation of harmful activities,
-- (2) impose sanctions including withholding of equalization transfers
-    (upon court finding of willful violation),
+- (2) impose civil penalties up to $250,000 per day of violation,
+    collectible through federal courts,
+
+    *Note: Per Article X, Section 4 (Anti-Coercion Rule), equalization transfers may not be withheld as an enforcement mechanism.*
 - (3) undertake emergency remediation with cost recovery from the responsible
     jurisdiction.
 
@@ -361,7 +363,7 @@ to its industries and workers, and seeks to delay or reduce penalties.
 - Economic benefit removal is explicit penalty criterion (Section 21(b)(2))
 - Expedited review timelines prevent indefinite delay (Section 22(c))
 - Emergency federal enforcement available (Section 23)
-- Equalization transfer sanctions create pressure (Section 23(a)(2))
+- Civil penalties create economic pressure (Section 23(a)(2))
 
 **Outcome:** Economic arguments do not excuse violations; expedited enforcement
 prevents delay tactics.

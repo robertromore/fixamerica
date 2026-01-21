@@ -178,7 +178,7 @@ A level of government without its own revenue is:
 
 ### 5.2 Constitutional requirement
 
-Each level-federal, regional, state, local-must have ([Article X, Section 1](constitution/04-fiscal-system.md)):
+Each level—federal, regional, state, local—must have ([Article X, Section 1](constitution/04-fiscal-system.md)):
 
 - constitutionally protected taxing authority,
 - sufficient to perform its enumerated functions.
@@ -379,7 +379,7 @@ National benefits prevent:
 
 - undercutting through benefit erosion,
 - welfare tourism narratives,
-- race-to-the-bottom pressure.
+- competitive pressure on benefit levels.
 
 ---
 

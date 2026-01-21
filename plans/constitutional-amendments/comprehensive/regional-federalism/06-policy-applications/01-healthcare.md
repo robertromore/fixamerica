@@ -39,7 +39,7 @@ The current system divides healthcare authority inconsistently:
 This fragmentation creates:
 
 - Coverage gaps at state borders
-- Racing to the bottom on Medicaid
+- Medicaid variation creating inconsistent coverage
 - 50+ different insurance regulatory regimes
 - Inconsistent public health response
 - Provider shortages in some states, surpluses in others
@@ -84,21 +84,21 @@ National healthcare reform faces:
 
 ## 3. Healthcare Powers Under Regional Federalism
 
-This section applies the allocation framework established in [Article II](../../02-design/constitution/00-index.md) and operationalized by the [Allocation Framework Act](../05-implementation/03-allocation-framework-act.md).
+This section applies the allocation framework established in [Article II](../02-design/constitution/02-powers-and-rights.md) and operationalized by the [Allocation Framework Act](../05-implementation/03-allocation-framework-act.md).
 
 ### Federal Powers (Enumerated)
 
-Federal authority limited to ([Article II](../../02-design/constitution/00-index.md)):
+Federal authority limited to ([Article II](../02-design/constitution/02-powers-and-rights.md)):
 
-- **Rights floors**: Minimum coverage standards, non-discrimination ([Article III](../../02-design/constitution/00-index.md))
+- **Rights floors**: Minimum coverage standards, non-discrimination ([Article III](../02-design/constitution/00-index.md))
 - **Medicare**: Federal program for elderly/disabled continues
 - **Drug/device approval**: FDA authority preserved
 - **National benefits floor**: Portable baseline coverage
-- **Emergency coordination**: Pandemic response framework ([Article XIV](../../02-design/constitution/00-index.md))
+- **Emergency coordination**: Pandemic response framework ([Article XVII](../../../../single-topic/emergency-powers-reform/))
 
 ### Regional Powers (Exclusive)
 
-Regions would control ([Article I](../../02-design/constitution/00-index.md)):
+Regions would control ([Article I](../02-design/constitution/00-index.md)):
 
 - **Insurance market regulation** above federal floors
 - **Regional rate-setting** or all-payer systems
@@ -159,7 +159,7 @@ A region could strengthen the ACA model:
 
 ### Inter-Regional Cooperation
 
-Under [Article I, Section 5](../../02-design/constitution/00-index.md), two or more Regions may cooperate on healthcare:
+Under [Article I, Section 5](../02-design/constitution/00-index.md), two or more Regions may cooperate on healthcare:
 
 - **Joint purchasing pools**: Multiple Regions negotiate drug prices together
 - **Shared specialty networks**: Regions cooperate on rare disease centers or specialized facilities
@@ -176,7 +176,7 @@ Such agreements must specify governance, cost-sharing, dispute resolution, and w
 
 Regional governments can ensure baseline access while adapting to local conditions:
 
-- **Floor guarantee**: Federal rights floors ([Article III](../../02-design/constitution/00-index.md)) ensure minimum coverage everywhere
+- **Floor guarantee**: Federal rights floors ([Article III](../02-design/constitution/00-index.md)) ensure minimum coverage everywhere
 - **Regional enhancement**: Regions may exceed floors based on regional preferences
 - **No coverage gaps**: Regional administration eliminates state border effects
 - **Portability**: Benefits floor ensures coverage travels within and across regions
@@ -344,11 +344,11 @@ Healthcare transition under regional federalism would require:
 
 ### Equalization
 
-Fiscal equalization ([Article VIII, Section 3](../../02-design/constitution/00-index.md)), operationalized by the [Fiscal Equalization Act](../05-implementation/04-fiscal-equalization-act.md), ensures:
+Fiscal equalization ([Article X, Section 3](../02-design/constitution/04-fiscal-system.md)), operationalized by the [Fiscal Equalization Act](../05-implementation/04-fiscal-equalization-act.md), ensures:
 
 - All regions can fund adequate healthcare
 - Lower-income regions receive support
-- No race to bottom
+- Coordinated regional standards
 - National solidarity maintained
 
 ### Variation and Experimentation
@@ -365,7 +365,7 @@ Regional federalism enables:
 - Coverage below minimum standards
 - Discrimination
 - Benefit inadequacy
-- Race to bottom
+- Standards below federal floors
 
 ---
 
@@ -376,7 +376,7 @@ Regional federalism transforms healthcare governance by:
 1. **Matching scale to function**: Regions large enough for risk pooling and market power, small enough for democratic accountability
 2. **Enabling experimentation**: Different regions can try single-payer, public option, all-payer, or enhanced ACA
 3. **Eliminating fragmentation**: Regional administration replaces 50-state patchwork
-4. **Maintaining floors**: Federal rights floors prevent race to bottom
+4. **Maintaining floors**: Federal rights floors establish baseline protections
 5. **Preserving Medicare**: National program continues with regional coordination
 
 Healthcare under regional federalism represents the system's approach applied to a critical policy domain:
@@ -389,7 +389,7 @@ Healthcare under regional federalism represents the system's approach applied to
 
 ## Related Documents
 
-- [The Regional Federal Constitution](../../02-design/constitution/00-index.md) - Authoritative source for all constitutional provisions
+- [The Regional Federal Constitution](../02-design/constitution/00-index.md) - Authoritative source for all constitutional provisions
 - [Core Idea: Regional Federalism](../../01-foundation/01-core-idea.md)
 - [Design Axioms](../../01-foundation/02-design-axioms.md)
 - [Allocation of Powers](../../02-design/01-allocation-of-powers.md)

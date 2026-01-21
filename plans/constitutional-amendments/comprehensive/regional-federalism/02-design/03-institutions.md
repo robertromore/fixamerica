@@ -381,7 +381,7 @@ When legislatures cannot act:
 
 ### 11.2 Structural correction
 
-Courts are ([Article XIV](constitution/00-index.md)):
+Courts are (Article XIV—Judicial Reform amendment):
 
 - limited to procedural enforcement,
 - barred from policy harmonization,
@@ -414,7 +414,7 @@ This restores courts as referees.
 
 ### Failure Mode: Judicial empire-building
 
-**Safeguard:** Jurisdiction limits, term limits ([Article XIV, Section 6](constitution/00-index.md)), mandatory review.
+**Safeguard:** Jurisdiction limits, term limits (Article XIV, Section 6—Judicial Reform amendment), mandatory review.
 
 ---
 

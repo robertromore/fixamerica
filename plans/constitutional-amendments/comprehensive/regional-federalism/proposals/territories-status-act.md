@@ -71,14 +71,15 @@ administration procedures consistent with federal election law.
 Representative to the House apportioned by population using the same formula
 applied to States.
 
-(b) **Senate Representation.** Until Regional assignment:
+(b) **Senate Representation.** Per Article XX, Section 2(b), until Regional assignment:
 
 - (1) each territory shall elect two Senators,
 - (2) territorial Senators shall have full voting rights,
-- (3) territorial Senators are not assigned to any Regional delegation.
+- (3) territorial Senators serve as at-large members of the Senate, not assigned to any Regional delegation.
 
-(c) **Post-Assignment.** Upon Regional assignment, territorial congressional
-representation integrates into the assigned Region's delegation.
+(c) **Post-Assignment.** Per Article XX, Section 2(b)(4), upon Regional assignment,
+territorial Senators join the assigned Region's delegation for purposes of Senate
+organization, while continuing to be elected by territorial residents.
 
 ---
 
