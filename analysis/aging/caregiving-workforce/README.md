@@ -19,6 +19,8 @@ America faces a caregiving workforce crisis of historic proportions. The 4.6 mil
 | [11-legislation.md](11-legislation.md) | Draft legal text and model legislation |
 | [12-perspectives.md](12-perspectives.md) | Political perspectives analysis |
 
+This table summarizes the documents in this folder and their purposes
+
 ---
 
 *Part of [Aging Policy](../README.md)*

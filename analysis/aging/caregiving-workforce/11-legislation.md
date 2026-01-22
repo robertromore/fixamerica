@@ -16,6 +16,17 @@ No constitutional amendments required. Wage, benefit, and training requirements 
 
 ## Federal Legislation
 
+### Legislative Alignment
+
+| Proposal | Primary Problem Addressed | Policy Lever |
+|----------|---------------------------|--------------|
+| Care Workers Recognition Act | Low wages, weak benefits | Federal wage/benefit standards |
+| Medicaid Workforce Investment Act | Underfunded rates | Medicaid rate adequacy + pass-through |
+| Care Worker Immigration Act | Supply constraints | Visa pathway + protections |
+| Care Workforce Data Modernization Act | Data gaps | National workforce data system |
+
+This table summarizes the items listed above.
+
 ### Care Workers Recognition Act
 
 **Purpose**: Establish federal wage and benefit standards for direct care workers.
@@ -483,6 +494,8 @@ State Medicaid agencies should:
 | Immigration | Plenary power | Constitutional grant to Congress |
 | State wage laws | Police power | General welfare authority |
 
+This table summarizes constitutional authorities cited for proposed actions.
+
 ### Preemption Issues
 
 | Issue | Analysis |
@@ -490,6 +503,8 @@ State Medicaid agencies should:
 | Federal-state conflict | Federal law sets floor; states can exceed |
 | ERISA preemption | Benefits mandates may face challenges |
 | Immigration preemption | Federal law supreme; state cooperation varies |
+
+This table summarizes common preemption considerations.
 
 ### Enforcement Mechanisms
 
@@ -500,6 +515,8 @@ State Medicaid agencies should:
 | State labor boards | State law violations |
 | Private actions | Back pay, damages |
 | Qui tam | Medicaid fraud claims |
+
+This table summarizes enforcement mechanisms used in related policy areas.
 
 ## Loopholes, Shortcomings, and Rectification
 
@@ -514,6 +531,8 @@ State Medicaid agencies should:
 | Training cost shifting | Charge workers for required training | Medium |
 | Multi-employer structures | Split workers across entities to avoid thresholds | Medium |
 
+This table summarizes potential loopholes and their assessed severity.
+
 ### Shortcomings
 
 | Issue | Impact | Root Cause |
@@ -524,6 +543,8 @@ State Medicaid agencies should:
 | Benefit portability | Workers lose benefits between jobs | Employer-based system |
 | Credential recognition | Training not recognized across states | No national standards |
 | Immigration uncertainty | Workers vulnerable to policy changes | Political instability |
+
+This table summarizes implementation shortcomings and root causes.
 
 ### Rectification Procedures
 
@@ -543,6 +564,8 @@ State Medicaid agencies should:
 | Worker awareness | Outreach campaigns; worker organization involvement |
 | Political sustainability | Bipartisan framing; constituency building |
 | Unintended consequences | Pilot programs; evaluation requirements; adjustment authority |
+
+This table summarizes general implementation concerns and mitigation approaches.
 
 ## References
 

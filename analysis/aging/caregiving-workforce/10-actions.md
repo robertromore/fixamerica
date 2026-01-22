@@ -13,6 +13,8 @@
 | **Share your story** | Speak at hearings, to media | Put human face on policy |
 | **Vote** | Support candidates backing care worker rights | Electoral power |
 
+This table summarizes practical actions available to care workers.
+
 ### If You Are a Family Caregiver
 
 | Action | How | Impact |
@@ -22,6 +24,8 @@
 | **Contact legislators** | Share how workforce affects your family | Personal advocacy |
 | **Join caregiver groups** | AARP, Family Caregiver Alliance | Community support |
 | **Support care worker campaigns** | Ballot initiatives, legislative campaigns | Expand coalition |
+
+This table summarizes actions for family caregivers.
 
 ### If You Employ Care Workers
 
@@ -34,6 +38,8 @@
 | **Support organizing** | Neutral stance on unions | Worker voice |
 | **Advocate for rate increases** | Push for adequate Medicaid rates | Fund better compensation |
 
+This table summarizes actions for employers of care workers.
+
 ### General Citizen Actions
 
 | Action | How | Impact |
@@ -44,6 +50,8 @@
 | **Donate** | Support advocacy organizations | Fund the movement |
 | **Talk to others** | Share information with family, friends | Build awareness |
 | **Write letters to editors** | Local newspapers, online platforms | Public opinion |
+
+This table summarizes general citizen actions.
 
 ## Political Actions
 
@@ -119,6 +127,8 @@
 | Staffing | Supports minimum requirements | "Unfunded mandates" |
 | Immigration | Supports care worker visas | Restrictionist framing |
 
+This table summarizes how to assess candidate positions.
+
 ## Organizations to Support
 
 ### Worker Advocacy
@@ -131,6 +141,8 @@
 | **PHI** | Research and policy | Share research, donate |
 | **Jobs with Justice** | Worker rights | Local chapter involvement |
 
+This table summarizes worker advocacy organizations and engagement options.
+
 ### Consumer Advocacy
 
 | Organization | Focus | How to Help |
@@ -140,6 +152,8 @@
 | **Family Caregiver Alliance** | Family caregivers | Donate, participate |
 | **Justice in Aging** | Elder rights | Support legal work |
 
+This table summarizes consumer advocacy organizations and engagement options.
+
 ### Research and Policy
 
 | Organization | Focus | How to Help |
@@ -147,6 +161,8 @@
 | **PHI** | Workforce data and policy | Share research, cite |
 | **Urban Institute** | Policy research | Support, share |
 | **Center for American Progress** | Progressive policy | Engage with proposals |
+
+This table summarizes research and policy organizations and how to engage.
 
 ## Community Actions
 
@@ -160,6 +176,8 @@
 | **Community forums** | Host or attend | Build awareness |
 | **Faith community involvement** | Congregation advocacy | Moral voice |
 
+This table summarizes local engagement actions.
+
 ### Workplace Actions
 
 | If You Work At | Action |
@@ -170,6 +188,8 @@
 | Nonprofit | Add care worker issues to agenda |
 | Business | Support caregiver employee policies |
 
+This table summarizes workplace actions by sector.
+
 ### Educational Actions
 
 | Action | Venue | Purpose |
@@ -178,6 +198,8 @@
 | Invite a speaker | Civic group, faith community | Educate |
 | Share articles | Social media, email | Spread information |
 | Teach a class | Community college, senior center | Build understanding |
+
+This table summarizes educational actions and their purpose.
 
 ## For Care Recipients and Families
 
@@ -193,6 +215,7 @@
 | Maintain consistent schedules | Predictability for worker |
 | Treat with respect | Professional relationship |
 
+This table summarizes fair employment practices for private hires.
 **If Using an Agency**:
 
 | Question to Ask | Why It Matters |
@@ -203,6 +226,8 @@
 | "How do you handle scheduling?" | Worker conditions |
 | "What is your turnover rate?" | Indicator of conditions |
 
+This table summarizes questions to ask agencies and the rationale.
+
 ### Advocacy from Experience
 
 | Your Experience | Your Advocacy |
@@ -212,6 +237,8 @@
 | Quality concerns | Connect to staffing |
 | High costs | Explain rate structure |
 | Family stress | Humanize the issue |
+
+This table summarizes advocacy framing based on lived experience.
 
 ## Staying Informed
 
@@ -225,6 +252,8 @@
 | Caring Across Generations | Campaigns | Email, social |
 | State-specific advocates | Local policy | Varies |
 
+This table summarizes news and update sources.
+
 ### Social Media
 
 | Platform | Accounts to Follow |
@@ -232,6 +261,8 @@
 | Twitter/X | @PHInational, @CaringAcross, @SEIU |
 | Facebook | Caring Across Generations, AARP |
 | LinkedIn | PHI, policy researchers |
+
+This table summarizes social media accounts to follow.
 
 ### Events and Actions
 
@@ -242,6 +273,8 @@
 | Community forums | Local advocates |
 | Worker actions | Union websites |
 | Voter registration | Vote.org |
+
+This table summarizes common event types and where to find them.
 
 ## Creating Change: Levels of Engagement
 

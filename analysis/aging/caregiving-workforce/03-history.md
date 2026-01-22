@@ -1,6 +1,6 @@
 # Caregiving Workforce: History
 
-## Historical Development
+## Historical Development[^1]
 
 ### Pre-Modern Era (Before 1935)
 
@@ -13,16 +13,16 @@ Care for the elderly and disabled was historically provided by:
 
 The occupation of "caregiver" did not exist as a formal category. Care was embedded in family and domestic work.
 
-### Early 20th Century (1900-1935)
+### Early 20th Century (1900-1935)[^2]
 
 | Development | Impact on Care Work |
 |-------------|---------------------|
 | Urbanization | Families dispersed; less multigenerational care |
 | Women's labor force participation | Competing demands on traditional caregivers |
 | Professionalization of nursing | Hospital work elevated; home care devalued |
-| Domestic worker organizing | Explicitly excluded care workers |
+| Domestic worker organizing | Organizing constrained by legal exclusions and fragmented workforce |
 
-### Social Security Era (1935-1965)
+### Social Security Era (1935-1965)[^3]
 
 The Social Security Act of 1935 shaped care work by:
 
@@ -36,9 +36,9 @@ The Social Security Act of 1935 shaped care work by:
 | 1935 | Social Security excludes domestic workers |
 | 1939 | Amendments add survivor benefits; domestic workers still excluded |
 | 1950 | Domestic workers finally covered by Social Security |
-| 1954 | Some household workers brought under FLSA |
+| 1954 | Social Security coverage expanded, still limited for many domestic workers |
 
-## Medicare and Medicaid Era (1965-1980)
+## Medicare and Medicaid Era (1965-1980)[^4]
 
 ### 1965: Medicare and Medicaid Creation
 
@@ -60,7 +60,7 @@ These programs created the modern paid caregiving workforce:
 | Demographics | Already predominantly women of color |
 | Formalization | Most care still unpaid family work |
 
-### Labor Law Exclusions
+### Labor Law Exclusions[^5]
 
 The Fair Labor Standards Act excluded domestic service workers:
 
@@ -71,7 +71,7 @@ The Fair Labor Standards Act excluded domestic service workers:
 | 1974 | "Companionship exemption" created |
 | 1974-2015 | Home care workers exempt from overtime, minimum wage |
 
-## Nursing Home Reform Era (1980-2000)
+## Nursing Home Reform Era (1980-2000)[^6]
 
 ### OBRA 1987: Nursing Home Reform
 
@@ -92,10 +92,10 @@ This was the first federal recognition of direct care workers as a distinct work
 |------|-------------|
 | 1993 | PHI (Paraprofessional Healthcare Institute) founded |
 | 1999 | *Olmstead v. L.C.* accelerates HCBS expansion |
-| 1999 | BLS creates distinct occupational categories |
-| 1999 | First state minimum wage laws for care workers |
+| 1999 | BLS begins modern SOC transition (2000 SOC rollout) |
+| Early 2000s | States begin raising wages for publicly funded home care |
 
-## Modern Era (2000-Present)
+## Modern Era (2000-Present)[^7]
 
 ### 2000s: Growing Recognition
 
@@ -107,7 +107,7 @@ This was the first federal recognition of direct care workers as a distinct work
 | 2007 | California creates first-in-nation IHSS wage standards |
 | 2008 | Financial crisis depresses wages, increases demand |
 
-### Affordable Care Act Era (2010-2015)
+### Affordable Care Act Era (2010-2015)[^8]
 
 The ACA included several workforce provisions:
 
@@ -118,7 +118,7 @@ The ACA included several workforce provisions:
 | **Medicaid HCBS expansion** | Grew demand for workers |
 | **Community First Choice** | New option increased workforce demand |
 
-### Companionship Exemption Battle (2007-2015)
+### Companionship Exemption Battle (2007-2015)[^5]
 
 | Year | Event |
 |------|-------|
@@ -130,7 +130,7 @@ The ACA included several workforce provisions:
 
 **Result**: Home care workers finally entitled to minimum wage and overtime protections.
 
-### COVID-19 Era (2020-Present)
+### COVID-19 Era (2020-Present)[^9]
 
 | Year | Development |
 |------|-------------|
@@ -139,20 +139,20 @@ The ACA included several workforce provisions:
 | 2020 | Temporary "hero pay" implemented |
 | 2021 | American Rescue Plan: HCBS FMAP increase |
 | 2022 | CMS proposes nursing home staffing rule |
-| 2023 | CMS finalizes minimum staffing requirements |
+| 2024 | CMS finalizes minimum staffing requirements |
 | 2024 | Many temporary wage increases expired |
 
-### Recent Policy Developments
+### Recent Policy Developments[^9]
 
 | Development | Status |
 |-------------|--------|
-| Federal staffing mandates | Finalized 2023, implementation ongoing |
+| Federal staffing mandates | Finalized 2024, implementation ongoing |
 | State wage increases | CA, WA, NY lead |
 | Union organizing | SEIU campaigns continue |
 | Immigration reform | Stalled |
 | Better Care Better Jobs Act | Introduced, not passed |
 
-## Key Turning Points
+## Key Turning Points[^10]
 
 ### 1974: FLSA Domestic Worker Amendment
 
@@ -166,26 +166,38 @@ The ACA included several workforce provisions:
 - Established workforce as distinct professional category
 - Created infrastructure (registries, certification) still in use
 
-### 1999: Olmstead Decision
+### 1999: Olmstead Decision[^11]
 
 - Accelerated shift from institutions to community
 - Dramatically expanded demand for home care workers
 - Workforce supply did not keep pace
 
-### 2015: End of Companionship Exemption
+### 2015: End of Companionship Exemption[^5]
 
 - Home care workers gained FLSA protections
 - Minimum wage and overtime requirements
 - Marked full inclusion in labor law 80 years after exclusion
 
-### 2020: COVID-19 Pandemic
+### 2020: COVID-19 Pandemic[^9]
 
 - Exposed crisis in nursing home staffing
-- 200,000+ nursing home resident deaths
-- 15% of workforce left industry
+- 100,000+ nursing home resident deaths (2020-2023)
+- 15% of workforce left industry (est.)
 - Created political momentum for reform
 
-## Historical Wage Trends
+### Policy Milestones Timeline
+
+| Year | Milestone | Workforce Relevance |
+|------|-----------|---------------------|
+| 1935 | Social Security Act | Excluded many domestic workers |
+| 1965 | Medicare/Medicaid created | Formalized paid caregiving |
+| 1974 | FLSA domestic coverage | Added protections with exemptions |
+| 1987 | OBRA nurse aide standards | Federal training minimums |
+| 1999 | Olmstead decision | Expanded community-based demand |
+| 2015 | Companionship exemption ended | Minimum wage/overtime coverage |
+| 2024 | CMS staffing rule finalized | Federal staffing baseline |
+
+## Historical Wage Trends[^12]
 
 ### Inflation-Adjusted Wages
 
@@ -212,13 +224,13 @@ Real wage growth has been minimal over 40+ years.
 
 Care workers have fallen behind retail workers.
 
-## Lessons from History
+## Lessons from History[^13]
 
 ### What Has Worked
 
 | Success | Evidence |
 |---------|----------|
-| **OBRA 1987 training standards** | Reduced some quality problems |
+| **OBRA 1987 training standards** | Improved baseline training consistency |
 | **Unionization** | Higher wages in union settings |
 | **Ending companionship exemption** | Established baseline protections |
 | **State wage increases** | Modest retention improvements |
@@ -243,6 +255,24 @@ Care workers have fallen behind retail workers.
 | **Gendered assumptions** | "Women's work" undervalued |
 | **Public financing constraints** | Medicaid caps wages |
 | **Crisis-driven reform** | COVID, not planning |
+
+---
+
+## Sources
+
+[^1]: General historical overviews in PHI and Urban Institute workforce reports. <https://www.phinational.org/>; <https://www.urban.org/>.
+[^2]: Domestic work history and labor exclusion context: DOL Home Care Rule history. <https://www.dol.gov/agencies/whd/home-care>.
+[^3]: Social Security coverage history: National Archives summary of the Social Security Act. <https://www.archives.gov/milestone-documents/social-security-act>.
+[^4]: Medicare/Medicaid program origins and home health policy: CMS Medicare overview and Medicaid program summaries. <https://www.cms.gov/about-cms/what-we-do/medicare>; <https://www.kff.org/topic/medicaid/>.
+[^5]: Fair Labor Standards Act domestic worker coverage and companionship exemption: DOL Home Care Final Rule. <https://www.dol.gov/agencies/whd/home-care>.
+[^6]: OBRA 1987 nurse aide training standards: 42 CFR 483.95 (archived). <https://web.archive.org/web/20240101000000/https://www.ecfr.gov/current/title-42/part-483/section-483.95>.
+[^7]: Direct care workforce timeline synthesis: PHI and KFF analyses. <https://www.phinational.org/>; <https://www.kff.org/>.
+[^8]: ACA provisions affecting HCBS/workforce: KFF Medicaid/HCBS policy summaries. <https://www.kff.org/topic/medicaid/>.
+[^9]: COVID-19 impacts and staffing rule: CMS COVID-19 Nursing Home Data and Federal Register final rule (2024). <https://data.cms.gov/covid-19/covid-19-nursing-home-data>; <https://www.govinfo.gov/app/details/FR-2024-05-10/2024-09707>.
+[^10]: Key turning points drawn from Social Security Act history, DOL, CMS, and Supreme Court guidance. <https://www.archives.gov/milestone-documents/social-security-act>; <https://www.dol.gov/agencies/whd/home-care>; <https://web.archive.org/web/20231031232313/https://www.ecfr.gov/>.
+[^11]: Olmstead v. L.C. guidance: DOJ Olmstead resources. <https://www.ada.gov/olmstead/>.
+[^12]: Wage trend illustration based on BLS OEWS historical series and CPI-U inflation adjustment (archived). <https://web.archive.org/web/20231103090952/https://www.bls.gov/oes/>; <https://web.archive.org/web/20231101125446/https://www.bls.gov/cpi/>.
+[^13]: Synthesis from PHI, KFF, and peer-reviewed literature listed in `analysis/aging/caregiving-workforce/09-resources.md`.
 
 ---
 

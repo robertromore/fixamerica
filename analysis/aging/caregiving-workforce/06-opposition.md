@@ -13,6 +13,8 @@
 | **Business groups** | Oppose employer mandates, payroll taxes | Chamber networks | "Job killer" messaging |
 | **Some state governments** | Resist spending increases | Budget authority | Delay implementation, seek waivers |
 
+This table summarizes organized actors and their typical tactics.
+
 ### Nursing Home Industry Opposition
 
 | Issue | Industry Position | Stated Rationale |
@@ -24,6 +26,8 @@
 | **Unionization** | Strong opposition | "Increases costs"; "adversarial" |
 | **Transparency rules** | Opposition | "Competitive information" |
 
+This table summarizes common industry positions on specific reforms.
+
 ### Home Care Industry Opposition
 
 | Issue | Position | Rationale |
@@ -34,6 +38,8 @@
 | **Independent contractor limits** | Strong opposition | Protects gig model |
 | **Training requirements** | Conditional | "Who pays for training time?" |
 
+This table summarizes home care industry positions by issue.
+
 ### Ideological Opposition
 
 | Perspective | Core Objection | Key Argument |
@@ -43,6 +49,8 @@
 | **Libertarians** | Occupational regulation | Training mandates restrict entry |
 | **Business conservatives** | Employer mandates | Benefits should be voluntary |
 | **Anti-union conservatives** | Collective bargaining | Increases costs, reduces flexibility |
+
+This table summarizes ideological objections and their typical framing.
 
 ## Opposition Arguments
 
@@ -158,6 +166,21 @@
 
 **Who makes this argument**: Some labor groups, immigration restrictionists.
 
+## Counter-Evidence Index
+
+| Opposition Claim | Evidence Type | Typical Source |
+|------------------|---------------|----------------|
+| Wage mandates cause closures | Comparative state outcomes | State reports, provider data |
+| Wages do not affect supply | Worker surveys | PHI, state surveys |
+| Costs shift to families | Payer mix analyses | Medicaid data, KFF |
+| Benefits hurt part-time workers | Workforce surveys | CPS ASEC, PHI |
+| Training reduces supply | International comparisons | OECD, country case studies |
+| Unions harm quality | Facility outcome studies | Peer-reviewed research |
+| Market sets adequate wages | Labor market analyses | BLS, academic studies |
+| Immigration suppresses wages | Cross-country comparisons | Immigration studies |
+
+This table summarizes evidence types commonly used in counter-arguments.
+
 ## Opposition Resources and Tactics
 
 ### Financial Resources
@@ -168,6 +191,8 @@
 | **Home care associations** | $2+ million | State rate-setting |
 | **Private equity (via industry groups)** | Difficult to track | Dark money, industry coalitions |
 | **Anti-union groups** | $5+ million | Right-to-work, anti-organizing |
+
+This table summarizes financial resources tied to opposition activity.
 
 ### Lobbying Tactics
 
@@ -180,6 +205,8 @@
 | **Technical complexity** | Obscure simple issues | Rate methodology debates |
 | **State-by-state** | Prevent federal standards | "Each state is different" |
 
+This table summarizes common lobbying tactics used in opposition campaigns.
+
 ### Messaging Strategies
 
 | Strategy | Message | Target Audience |
@@ -190,6 +217,8 @@
 | **Taxpayer** | "Unsustainable spending" | Fiscal conservatives |
 | **Local control** | "Federal overreach" | States' rights advocates |
 
+This table summarizes messaging strategies and target audiences.
+
 ### Coalition Building
 
 | Coalition Type | Members | Shared Interest |
@@ -198,6 +227,8 @@
 | **Flexibility** | Some employers, gig advocates | Preserve contractor model |
 | **State control** | Governors, industry | Block federal standards |
 | **Market** | Business groups, libertarians | Oppose regulation |
+
+This table summarizes coalition types and shared interests.
 
 ## Counter-Strategies
 
@@ -211,6 +242,8 @@
 | **Phase-in** | Propose gradual implementation with rate support |
 | **Targeted support** | Protect genuinely struggling rural facilities |
 
+This table summarizes common counter-strategies used to address closure arguments.
+
 ### Addressing Workforce Supply Arguments
 
 | Strategy | Approach |
@@ -220,6 +253,8 @@
 | **State comparisons** | Show high-wage states have less vacancy |
 | **Immigration data** | Show workforce depends on immigrants |
 | **Career pathway** | Offer advancement to attract workers |
+
+This table summarizes counter-strategies used to address workforce supply arguments.
 
 ### Addressing Cost Arguments
 
@@ -231,6 +266,8 @@
 | **Efficiency gains** | Reduced turnover, training costs |
 | **Tax fairness** | Current subsidizes low-wage employers |
 
+This table summarizes counter-strategies used to address cost arguments.
+
 ### Building Counter-Coalitions
 
 | Coalition | Strategy |
@@ -240,6 +277,8 @@
 | **Business case** | Engage employers who benefit from caregiver workforce |
 | **Faith communities** | Frame as moral issue, dignity of work |
 | **Healthcare systems** | Align on care coordination benefits |
+
+This table summarizes proposed counter-coalitions and their framing.
 
 ### Narrative Reframing
 
@@ -251,6 +290,8 @@
 | "Government interference" | "Fixing market failure" |
 | "Unskilled workers" | "Essential care professionals" |
 
+This table summarizes common narrative reframing pairs.
+
 ### Political Strategies
 
 | Strategy | Description |
@@ -261,6 +302,8 @@
 | **Worker testimony** | Center worker voices in hearings |
 | **Family stories** | Connect workforce to care quality |
 | **Bipartisan framing** | Rural access, veteran caregivers |
+
+This table summarizes political strategy elements.
 
 ## Historical Opposition Outcomes
 
@@ -274,6 +317,8 @@
 | Preventing HCBS entitlement | Ongoing | Waivers, not entitlement |
 | Weakening staffing mandates | 2022-2023 | Federal rule delayed, weakened |
 
+This table summarizes notable opposition victories.
+
 ### Opposition Defeats
 
 | Issue | Year | Outcome |
@@ -284,6 +329,8 @@
 | Some state staffing mandates | Various | CA, other states enacted requirements |
 | Union recognition | Various | SEIU, other union wins in some markets |
 
+This table summarizes notable opposition defeats.
+
 ### Lessons from Past Battles
 
 | Lesson | Application |
@@ -293,6 +340,8 @@
 | State innovation | States can lead despite federal inaction |
 | Coalition building | Worker-family-quality coalitions effective |
 | Economic messaging | Cost of inaction resonates |
+
+This table summarizes lessons commonly drawn from past battles.
 
 ## Shifting Landscape
 
@@ -306,6 +355,8 @@
 | **Private equity exposure** | Profit extraction increasingly visible |
 | **Consumer advocacy** | Quality-workforce connection mainstreamed |
 
+This table summarizes factors that affect opposition posture.
+
 ### Potential Allies
 
 | Unexpected Ally | Reason |
@@ -315,6 +366,8 @@
 | **Managed care** | Reduce readmissions, improve metrics |
 | **Some conservatives** | Family values, dignity of work |
 | **Rural advocates** | Workforce crisis acute in rural areas |
+
+This table summarizes potential allies and stated motivations
 
 ---
 

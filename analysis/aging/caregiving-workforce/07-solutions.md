@@ -21,6 +21,8 @@
 | **Multi-payer approach** | Medicare, Medicaid, private pay all contribute |
 | **Social insurance** | Long-term financing through dedicated revenue |
 
+This table summarizes financing principles and their intended application.
+
 ## Proposed Solutions
 
 ### Solution 1: Establish Care Worker Wage Standards
@@ -37,6 +39,7 @@
 | Transparency | Public reporting of wages by facility/agency |
 | Enforcement | DOL enforcement with whistleblower protections |
 
+This table summarizes the main policy components included in the wage standards proposal.
 **Evidence**:
 
 - States with higher wages have lower vacancy rates
@@ -59,6 +62,8 @@
 | 2 | Year 3-4 | Increase to $20/hour |
 | 3 | Year 5+ | Index to living wage |
 
+This table summarizes a phased implementation timeline.
+
 ### Solution 2: Comprehensive Benefits Requirements
 
 **Description**: Require employers to provide health insurance, paid sick leave, paid family leave, and retirement benefits to all care workers.
@@ -73,6 +78,7 @@
 | Retirement | Defined contribution with employer match |
 | Paid training | All training time compensated |
 
+This table summarizes the benefits requirements proposed for care workers.
 **Evidence**:
 
 - 15% of care workers lack health insurance
@@ -96,6 +102,8 @@
 | 50-99 | Year 3 | Subsidy assistance |
 | <50 | Year 4 | Pooled benefits options |
 
+This table summarizes phased implementation by employer size.
+
 ### Solution 3: Training and Career Pathway Development
 
 **Description**: Create standardized training requirements with funded pathways and career ladders connecting entry-level positions to advanced roles.
@@ -111,6 +119,7 @@
 | **Stackable credentials** | Credits toward nursing degrees |
 | **Apprenticeship programs** | Registered apprenticeships with DOL |
 
+This table summarizes the training and career pathway elements in the proposal.
 **Evidence**:
 
 - Denmark requires 1.5-3 years training; workforce stable
@@ -134,6 +143,8 @@
 | 3 | Establish nurse aide to nurse pathways |
 | 4 | Develop registered apprenticeship programs |
 
+This table summarizes implementation steps for training and pathway development.
+
 ### Solution 4: Collective Bargaining Expansion
 
 **Description**: Remove barriers to unionization, expand collective bargaining rights, and create mechanisms for worker voice in care settings.
@@ -149,6 +160,7 @@
 | **Multiemployer bargaining** | Regional bargaining structures |
 | **Worker voice mechanisms** | Worker councils in non-union settings |
 
+This table summarizes collective bargaining expansion elements.
 **Evidence**:
 
 - Unionized care workers earn 10-15% more
@@ -172,6 +184,8 @@
 | Local | Wage boards in major markets |
 | Facility | Guaranteed worker voice mechanisms |
 
+This table summarizes implementation levels for collective bargaining approaches.
+
 ### Solution 5: Medicaid Rate Reform
 
 **Description**: Fundamentally restructure Medicaid rate-setting to ensure adequate workforce funding with transparency and accountability.
@@ -187,6 +201,7 @@
 | **Quality ties** | Rates linked to staffing and quality metrics |
 | **Federal floor** | Minimum federal rate requirements |
 
+This table summarizes key components of Medicaid rate reform.
 **Evidence**:
 
 - Current rates cap what facilities can pay workers
@@ -210,6 +225,8 @@
 | 3 | Year 3 | Transparency and public reporting |
 | 4 | Year 4+ | Quality-linked rate adjustments |
 
+This table summarizes the phased implementation sequence for rate reform.
+
 ### Solution 6: Immigration Reform for Care Workers
 
 **Description**: Create immigration pathways specifically for care workers with protections against exploitation.
@@ -225,6 +242,7 @@
 | **Labor protections** | Full FLSA, OSHA coverage |
 | **Credential recognition** | Pathways for foreign-trained workers |
 
+This table summarizes core elements of the immigration reform proposal.
 **Evidence**:
 
 - 27% of workforce is immigrant
@@ -248,6 +266,8 @@
 | 3 | Establish credential recognition |
 | 4 | Pathway to permanent status |
 
+This table summarizes implementation steps for care worker immigration pathways.
+
 ### Solution 7: Technology to Support (Not Replace) Workers
 
 **Description**: Invest in technology that reduces administrative burden, improves scheduling, and supports workers without replacing human care.
@@ -263,6 +283,7 @@
 | **Safety technology** | Worker safety alerts, ergonomic tools |
 | **Transportation** | App-based coordination for home care |
 
+This table summarizes technology supports intended for workers and care coordination.
 **Evidence**:
 
 - Administrative burden contributes to burnout
@@ -286,6 +307,8 @@
 | Privacy limits | No punitive surveillance |
 | Accessibility | Training and support for all workers |
 
+This table summarizes proposed guardrails for technology adoption.
+
 ### Solution 8: Public Option Employers
 
 **Description**: Create public or nonprofit employment options for care workers with model wages, benefits, and conditions.
@@ -299,6 +322,7 @@
 | **Cooperative models** | Worker-owned care cooperatives |
 | **Public nursing facilities** | Public option for institutional care |
 
+This table summarizes public or nonprofit employment models proposed for care work.
 **Evidence**:
 
 - San Francisco IHSS shows public employment model
@@ -322,6 +346,8 @@
 | Community | Support for worker cooperatives |
 | Federal | Incentives for public/cooperative models |
 
+This table summarizes implementation options by level of government.
+
 ### Solution 9: Workplace Safety and Conditions
 
 **Description**: Improve physical and psychological working conditions for care workers.
@@ -337,6 +363,7 @@
 | **Infection control** | Adequate PPE, training |
 | **Harassment prevention** | Anti-harassment policies, enforcement |
 
+This table summarizes workplace safety and condition interventions.
 **Evidence**:
 
 - Care workers have injury rates 2-3x average
@@ -365,6 +392,7 @@
 | **Vacancy and turnover data** | Real-time labor market information |
 | **Quality-workforce linkage** | Connect staffing to outcomes |
 
+This table summarizes the elements of a workforce data and planning system.
 **Evidence**:
 
 - Current data systems inadequate for planning
@@ -379,6 +407,18 @@
 - Data collection burden
 - Funding for infrastructure
 
+## Implementation Risks
+
+| Risk | Where It Shows Up | Operational Implication |
+|------|-------------------|-------------------------|
+| Rate increases not reaching workers | Wage standards, Medicaid reform | Requires enforceable pass-throughs |
+| Training capacity bottlenecks | Training and pathways | Slower scale-up of credentials |
+| Provider financial strain | Wage/benefit mandates | Need phased timelines or support |
+| Data quality gaps | Workforce data systems | Limits planning and accountability |
+| Enforcement variability | Multiple solutions | Uneven compliance across states |
+
+This table summarizes the items listed above.
+
 ## International Models
 
 ### Germany: Training and Status
@@ -391,6 +431,8 @@
 | **Immigration** | Active recruitment from abroad |
 | **Lessons** | Investment in training raises status |
 
+This table summarizes the Germany model elements cited in workforce discussions.
+
 ### Denmark: Comprehensive Investment
 
 | Feature | Description |
@@ -400,6 +442,8 @@
 | **Collective bargaining** | Strong union coverage |
 | **Public employment** | Most workers public employees |
 | **Lessons** | Comprehensive approach works |
+
+This table summarizes the Denmark model elements cited in workforce discussions.
 
 ### Japan: Technology and Immigration
 
@@ -411,6 +455,8 @@
 | **Robots** | Technology supplements, doesn't replace workers |
 | **Lessons** | Technology alone doesn't solve workforce |
 
+This table summarizes the Japan model elements cited in workforce discussions.
+
 ### Netherlands: Consumer-Directed Care
 
 | Feature | Description |
@@ -421,6 +467,8 @@
 | **Innovation** | Buurtzorg model of self-managed teams |
 | **Lessons** | Consumer direction can coexist with worker protection |
 
+This table summarizes the Netherlands model elements cited in workforce discussions.
+
 ### Canada: Provincial Innovation
 
 | Feature | Description |
@@ -430,6 +478,8 @@
 | **Training** | Provincial standards |
 | **Recent reforms** | Some provinces raising wages significantly |
 | **Lessons** | Federal-provincial coordination challenges |
+
+This table summarizes the Canada model elements cited in workforce discussions.
 
 ## Solution Comparison Matrix
 
@@ -446,6 +496,20 @@
 | Workplace safety | Medium | Medium | High | 2-3 years |
 | Data infrastructure | Low | Medium | High | 2-3 years |
 
+This table summarizes proposed solutions by impact, cost, feasibility, and timeline.
+
+## Policy Trade-Offs
+
+| Trade-Off | Description |
+|-----------|-------------|
+| Equity vs. speed | Broader standards take longer to implement |
+| Cost vs. coverage | Higher wages require larger public outlays |
+| National vs. state control | Federal floors reduce variation but limit state tailoring |
+| Enforcement vs. flexibility | Strong compliance rules reduce local discretion |
+| Short-term relief vs. long-term reform | Immediate raises may precede structural changes |
+
+This table summarizes the items listed above.
+
 ## Sequencing
 
 ### What Must Come First
@@ -458,6 +522,8 @@
 | 4. Benefits requirements | Build on wage foundation |
 | 5. Training and pathways | Professionalization follows compensation |
 
+This table summarizes the sequencing rationale for early reforms.
+
 ### Parallel Tracks
 
 | Track | Elements |
@@ -466,6 +532,8 @@
 | **Professional track** | Training → Credentials → Career ladders |
 | **Voice track** | Worker councils → Collective bargaining |
 | **Support track** | Technology → Safety → Data |
+
+This table summarizes parallel reform tracks.
 
 ### Quick Wins vs. Long-Term Reform
 
@@ -476,6 +544,8 @@
 | Training grants | Apprenticeship infrastructure |
 | Workplace safety standards | Sectoral bargaining |
 | Data collection improvements | National workforce registry |
+
+This table summarizes near-term and long-term reform items.
 
 ## Cost and Financing
 
@@ -489,6 +559,8 @@
 | Infrastructure | $1-2 billion |
 | **Total** | **$35-50 billion** |
 
+This table summarizes illustrative cost ranges for major reforms.
+
 ### Financing Options
 
 | Source | Potential |
@@ -499,6 +571,8 @@
 | General revenue | Federal investment |
 | Provider efficiency | Reduced turnover savings |
 
+This table summarizes potential financing options and their general role.
+
 ### Return on Investment
 
 | Investment | Return |
@@ -508,6 +582,8 @@
 | Stable workforce | Continuity → better outcomes |
 | Worker benefits | Reduced public benefit dependence |
 | Safety investment | Lower injury costs |
+
+This table summarizes potential returns commonly cited for workforce investments
 
 ---
 

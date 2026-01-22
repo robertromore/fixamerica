@@ -22,6 +22,8 @@ The caregiving workforce crisis stems from decades of policy neglect and structu
 | **State victories** | Build momentum through state wins |
 | **Electoral pressure** | Make care workforce a campaign issue |
 
+This table summarizes political strategy elements and their intent.
+
 ### Key Leverage Points
 
 | Leverage Point | Opportunity |
@@ -31,6 +33,8 @@ The caregiving workforce crisis stems from decades of policy neglect and structu
 | Medicare conditions | CMS has authority over nursing home staffing |
 | State labor law | States can enact higher wages, protections |
 | Federal matching | Higher FMAP can incentivize state investment |
+
+This table summarizes leverage points used in implementation planning.
 
 ## Phase 1: Foundation (2025-2027)
 
@@ -44,6 +48,8 @@ The caregiving workforce crisis stems from decades of policy neglect and structu
 | Wage data collection | DOL, CMS | Mandatory reporting |
 | Immigration protection | DHS | TPS, DACA extensions |
 
+This table summarizes federal actions planned for Phase 1.
+
 ### State Actions
 
 | Action | Target States | Model |
@@ -53,6 +59,8 @@ The caregiving workforce crisis stems from decades of policy neglect and structu
 | Training programs | States with workforce initiatives | Funded training with paid apprenticeships |
 | Collective bargaining | Union-friendly states | Facilitate HCBS worker organizing |
 | Data systems | All states | Workforce registries |
+
+This table summarizes state actions planned for Phase 1.
 
 ### Advocacy Priorities
 
@@ -64,6 +72,8 @@ The caregiving workforce crisis stems from decades of policy neglect and structu
 | Research | PHI, Urban Institute | Wage-quality evidence |
 | Narrative change | All | "Essential workers" framing |
 
+This table summarizes advocacy priorities and typical tactics.
+
 ### Milestones
 
 | Milestone | Target Date | Indicator |
@@ -72,6 +82,8 @@ The caregiving workforce crisis stems from decades of policy neglect and structu
 | 5 states with care wage floors | 2026 | State legislation enacted |
 | Pass-through requirements in 10 states | 2027 | Documented wage increases |
 | National workforce data system | 2027 | First annual data release |
+
+This table summarizes Phase 1 milestones and indicators.
 
 ## Phase 2: Building Momentum (2027-2030)
 
@@ -85,6 +97,8 @@ The caregiving workforce crisis stems from decades of policy neglect and structu
 | Training grants expansion | DOL, HHS | Appropriations |
 | Medicare home health rate reform | CMS | Rate methodology changes |
 
+This table summarizes federal actions planned for Phase 2.
+
 ### State Actions
 
 | Action | Target States | Model |
@@ -95,6 +109,8 @@ The caregiving workforce crisis stems from decades of policy neglect and structu
 | Sectoral bargaining pilots | CA, NY, WA | Wage boards for care sector |
 | Public employer models | States with political will | IHSS expansion |
 
+This table summarizes state actions planned for Phase 2.
+
 ### Industry Engagement
 
 | Stakeholder | Approach | Goal |
@@ -104,6 +120,8 @@ The caregiving workforce crisis stems from decades of policy neglect and structu
 | Home care associations | Conditional | Trade rate increases for wage mandates |
 | Hospital systems | Align | Discharge planning workforce needs |
 
+This table summarizes industry engagement approaches and goals.
+
 ### Milestones
 
 | Milestone | Target Date | Indicator |
@@ -112,6 +130,8 @@ The caregiving workforce crisis stems from decades of policy neglect and structu
 | Care worker visa established | 2029 | Immigration reform passed |
 | 15 states with $20+ wage floors | 2030 | State legislation |
 | Turnover rate reduction | 2030 | Below 50% nationally |
+
+This table summarizes Phase 2 milestones and indicators.
 
 ## Phase 3: Comprehensive Reform (2030-2035)
 
@@ -125,6 +145,8 @@ The caregiving workforce crisis stems from decades of policy neglect and structu
 | Sectoral bargaining framework | Congress | PRO Act + care sector provisions |
 | Comprehensive immigration reform | Congress | Permanent pathways |
 
+This table summarizes federal actions planned for Phase 3.
+
 ### State Actions
 
 | Action | Target States | Model |
@@ -133,6 +155,8 @@ The caregiving workforce crisis stems from decades of policy neglect and structu
 | Full career pathway systems | All states | Entry to advanced practice |
 | Public option expansion | Willing states | State employer models |
 | Union coverage expansion | All states | Care sector organizing |
+
+This table summarizes state actions planned for Phase 3.
 
 ### System Transformation
 
@@ -144,6 +168,8 @@ The caregiving workforce crisis stems from decades of policy neglect and structu
 | Worker voice | Collective bargaining or equivalent |
 | Quality connection | Staffing standards linked to outcomes |
 
+This table summarizes targeted system transformations and indicators.
+
 ### Milestones
 
 | Milestone | Target Date | Indicator |
@@ -152,6 +178,8 @@ The caregiving workforce crisis stems from decades of policy neglect and structu
 | Benefits mandate | 2033 | Federal requirements enacted |
 | Workforce adequacy | 2035 | Vacancy rates below 5% |
 | Turnover normalized | 2035 | Below 25% annual turnover |
+
+This table summarizes Phase 3 milestones and indicators.
 
 ## Success Metrics
 
@@ -165,6 +193,8 @@ The caregiving workforce crisis stems from decades of policy neglect and structu
 | Vacancy rate | 15-20% | 12% | 8% | 5% |
 | Public benefit reliance | 43% | 35% | 25% | 10% |
 
+This table summarizes workforce metric targets over time.
+
 ### Quality Metrics
 
 | Metric | Connection | Target |
@@ -175,6 +205,8 @@ The caregiving workforce crisis stems from decades of policy neglect and structu
 | Worker-reported quality | Worker satisfaction | 80% positive |
 | Resident satisfaction | Stable workforce | 90% positive |
 
+This table summarizes quality metric targets.
+
 ### Policy Metrics
 
 | Metric | 2027 Target | 2030 Target | 2035 Target |
@@ -184,6 +216,32 @@ The caregiving workforce crisis stems from decades of policy neglect and structu
 | States with career pathways | 15 | 30 | 50 |
 | Federal wage standard | No | Proposed | Enacted |
 | Social insurance | No | Proposed | Implementation |
+
+This table summarizes policy metric targets by phase.
+
+## Funding Pathways
+
+| Reform | Primary Funding Source | Notes |
+|--------|------------------------|-------|
+| Wage standards | Medicaid rate increases + state funds | Requires pass-through enforcement |
+| Benefits requirements | Employer contributions + rate support | Phase-in by employer size |
+| Training expansion | Federal grants + state workforce funds | Capacity varies by state |
+| Data infrastructure | Federal appropriations | Ongoing maintenance costs |
+| Immigration pathways | Federal administration | Minimal direct fiscal cost |
+
+This table summarizes the items listed above.
+
+## Monitoring Cadence
+
+| Metric Type | Cadence | Primary Owner |
+|-------------|---------|---------------|
+| Wage and benefit metrics | Annual | State Medicaid agencies |
+| Turnover and vacancy | Quarterly | Providers, states |
+| Staffing compliance | Quarterly | CMS, states |
+| Workforce demographics | Annual | Census/ACS |
+| Quality outcomes | Annual | CMS, state inspectors |
+
+This table summarizes the items listed above.
 
 ## Risk Mitigation
 
@@ -197,6 +255,8 @@ The caregiving workforce crisis stems from decades of policy neglect and structu
 | Economic downturn | Medium | High | Frame as economic stimulus |
 | Election outcomes | Medium | High | Bipartisan framing |
 
+This table summarizes political risks and mitigation approaches.
+
 ### Implementation Risks
 
 | Risk | Probability | Impact | Mitigation |
@@ -206,6 +266,8 @@ The caregiving workforce crisis stems from decades of policy neglect and structu
 | Training capacity gaps | Medium | Medium | Federal investment in capacity |
 | Gaming of standards | Medium | Medium | Robust enforcement |
 | Technology displacement | Low | Medium | Human care emphasis |
+
+This table summarizes implementation risks and mitigation approaches.
 
 ### Economic Risks
 
@@ -217,6 +279,8 @@ The caregiving workforce crisis stems from decades of policy neglect and structu
 | Provider financial stress | Medium | Medium | Transition support |
 | Inflation | Medium | Low | Indexing to living wage |
 
+This table summarizes economic risks and mitigation approaches.
+
 ### Mitigation Strategies
 
 | Strategy | Application |
@@ -226,6 +290,8 @@ The caregiving workforce crisis stems from decades of policy neglect and structu
 | **Federal support** | Accompany mandates with funding |
 | **Enforcement capacity** | Build state enforcement |
 | **Coalition maintenance** | Keep worker-family-quality alignment |
+
+This table summarizes mitigation strategies used across risks.
 
 ## Decision Points
 
@@ -239,6 +305,8 @@ The caregiving workforce crisis stems from decades of policy neglect and structu
 | Public employer expansion | 2028 | State political will |
 | Social insurance timing | 2030 | LTC financing progress |
 
+This table summarizes key decision points and criteria.
+
 ### Contingency Paths
 
 | Scenario | Response |
@@ -248,6 +316,8 @@ The caregiving workforce crisis stems from decades of policy neglect and structu
 | **Industry collapse** | Emergency federal intervention |
 | **Political realignment** | Adjust coalition, messaging |
 | **Unexpected breakthrough** | Scale proven models quickly |
+
+This table summarizes contingency responses for different scenarios.
 
 ## Coordination Requirements
 
@@ -261,6 +331,8 @@ The caregiving workforce crisis stems from decades of policy neglect and structu
 | Data | National standards | State collection |
 | Enforcement | Oversight | Primary enforcement |
 
+This table summarizes federal-state coordination responsibilities.
+
 ### Cross-Sector Coordination
 
 | Sector | Coordination Need |
@@ -271,6 +343,8 @@ The caregiving workforce crisis stems from decades of policy neglect and structu
 | Transportation | Worker and recipient mobility |
 | Technology | Workforce support tools |
 
+This table summarizes cross-sector coordination needs.
+
 ### Stakeholder Coordination
 
 | Stakeholder | Role in Implementation |
@@ -280,6 +354,8 @@ The caregiving workforce crisis stems from decades of policy neglect and structu
 | States | Rate-setting, enforcement |
 | Advocates | Monitoring, pressure |
 | Researchers | Evaluation, evidence |
+
+This table summarizes stakeholder coordination roles
 
 ---
 

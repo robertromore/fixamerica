@@ -2,11 +2,13 @@
 
 ## Overview
 
-America faces a caregiving workforce crisis of historic proportions. The 4.6 million direct care workers who provide hands-on support to older adults and people with disabilities are among the lowest-paid workers in the economy, resulting in chronic understaffing, high turnover, and quality problems across the care system. As 10,000 Americans turn 65 every day and the population needing care doubles over the next two decades, the existing workforce shortage of hundreds of thousands of workers will grow to crisis levels without fundamental policy change.
+America faces a caregiving workforce crisis of historic proportions. The 4.6 million direct care workers who provide hands-on support to older adults and people with disabilities are among the lowest-paid workers in the economy, resulting in chronic understaffing, high turnover, and quality problems across the care system.[^2] As 10,000 Americans turn 65 every day and the population needing care doubles over the next two decades, the existing workforce shortage of hundreds of thousands of workers will grow to crisis levels without fundamental policy change.[^2]
 
 ## Scope
 
 This analysis covers:
+
+**Definition (direct care)**: Paid workers who provide hands-on assistance with activities of daily living or health-related tasks in home, community, and facility settings; typically includes personal care aides, home health aides, and nursing assistants. Some datasets include psychiatric aides as part of a broader direct care category.[^1]
 
 - **Direct care workforce**: Home health aides, personal care aides, nursing assistants
 - **Paid caregiving**: Formal employment relationships in care settings
@@ -23,7 +25,7 @@ This analysis does not cover:
 
 ## Key Facts
 
-### Workforce Size and Composition
+### Workforce Size and Composition[^2]
 
 | Metric | Value |
 |--------|-------|
@@ -36,7 +38,7 @@ This analysis does not cover:
 | Immigrant workers | 27% |
 | Average age | 42 years |
 
-### Economic Conditions
+### Economic Conditions[^2]
 
 | Metric | Value |
 |--------|-------|
@@ -47,7 +49,7 @@ This analysis does not cover:
 | Living below 200% FPL | 45% |
 | Annual turnover rate | 65-80% |
 
-### Workforce Shortage
+### Workforce Shortage[^2]
 
 | Metric | Value |
 |--------|-------|
@@ -68,7 +70,7 @@ Workforce problems directly harm care recipients:
 - **Inadequate training** results in preventable errors
 - **Worker stress** increases burnout, affects care quality
 
-### Economic Impact
+### Economic Impact[^2]
 
 | Impact | Magnitude |
 |--------|-----------|
@@ -77,7 +79,7 @@ Workforce problems directly harm care recipients:
 | **Healthcare costs** | Preventable hospitalizations |
 | **Family burden** | Informal care substitutes |
 
-### Demographic Imperative
+### Demographic Imperative[^2]
 
 The caregiving workforce crisis will intensify:
 
@@ -86,7 +88,7 @@ The caregiving workforce crisis will intensify:
 - Ratio of potential caregivers to care recipients declining
 - Care needs increasing with age and chronic conditions
 
-### Equity Dimensions
+### Equity Dimensions[^2]
 
 The caregiving workforce reflects and perpetuates inequalities:
 
@@ -95,7 +97,7 @@ The caregiving workforce reflects and perpetuates inequalities:
 - **Immigration**: 27% immigrant; vulnerable to exploitation
 - **Economic precarity**: Workers providing essential care cannot afford care for themselves
 
-## Key Challenges
+## Key Challenges[^2]
 
 | Challenge | Description |
 |-----------|-------------|
@@ -129,3 +131,6 @@ The caregiving workforce reflects and perpetuates inequalities:
 ## Document Navigation
 
 - Next: [Current State](02-current-state.md)
+
+[^1]: For scope notes and category definitions, see [Current State](02-current-state.md).
+[^2]: Figures summarized from [Current State](02-current-state.md).

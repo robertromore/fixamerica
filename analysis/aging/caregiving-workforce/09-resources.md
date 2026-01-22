@@ -14,10 +14,14 @@
 
 ### Key Federal Reports
 
-- CMS. "Medicare and Medicaid Programs: Minimum Staffing Standards for Long-Term Care Facilities." Federal Register, 2023.
-- GAO. "Nursing Homes: CMS Should Improve Oversight and Guidance to Help Protect Residents from COVID-19." GAO-21-367, 2021.
-- HHS Office of Inspector General. "Nursing Facility Staffing." Various reports.
-- DOL. "Home Care Final Rule: Application of the Fair Labor Standards Act to Domestic Service." 2015.
+- CMS. "Medicare and Medicaid Programs: Minimum Staffing Standards for Long-Term Care Facilities." Federal Register, 2023 (archived). <https://web.archive.org/web/20231130235458/https://www.federalregister.gov/>.
+- GAO. "Nursing Homes: CMS Should Improve Oversight and Guidance to Help Protect Residents from COVID-19." GAO-21-367, 2021 (archived). <https://web.archive.org/web/20221216220903/https://www.gao.gov/products/gao-21-367>.
+- HHS Office of Inspector General. "Nursing Facility Staffing." Various reports. <https://oig.hhs.gov/reports-and-publications/>.
+- DOL. "Home Care Final Rule: Application of the Fair Labor Standards Act to Domestic Service." 2015. <https://www.dol.gov/agencies/whd/home-care>.
+- BLS. "Occupational Employment and Wage Statistics." 2023 release (archived). <https://web.archive.org/web/20231103090952/https://www.bls.gov/oes/>.
+- BLS. "Employment Projections 2022-2032." 2023 release (archived). <https://web.archive.org/web/20231103091013/https://www.bls.gov/emp/>.
+- U.S. Census Bureau. "American Community Survey 2022 1-year estimates." <https://www.census.gov/programs-surveys/acs/>.
+- U.S. Census Bureau. "Current Population Survey, Annual Social and Economic Supplement (ASEC) 2023." <https://www.census.gov/data/datasets/time-series/demo/cps/cps-asec.html>.
 
 ### State Resources
 
@@ -52,7 +56,8 @@
 
 ### Key Research
 
-- Scales, Kezia. "Envisioning the Future of Home Care." PHI, 2021.
+- Scales, Kezia. "Envisioning the Future of Home Care." PHI, 2021. <https://www.phinational.org/>.
+- PHI. "Direct Care Workers in the United States: Key Facts (2023)." 2023. <https://www.phinational.org/resource/direct-care-workers-in-the-united-states-key-facts/>.
 - Spetz, Joanne, et al. "Home Health Aide Training Requirements." Health Affairs, 2019.
 - Stevenson, David, and David Grabowski. "Nursing Home Ownership and Quality of Care." Health Services Research, 2008.
 - Stone, Robyn I., and Joshua M. Wiener. "Who Will Care for Us? Addressing the Long-Term Care Workforce Crisis." Urban Institute, 2001.
@@ -101,9 +106,11 @@
 
 ### Industry Research
 
-- AHCA. Various policy briefs and position papers.
-- LeadingAge. "Workforce Solutions" series.
-- Home Care Association of America. Industry surveys and reports.
+- AHCA. Various policy briefs and position papers. <https://www.ahcancal.org/>.
+- LeadingAge. "Workforce Solutions" series. <https://leadingage.org/>.
+- Home Care Association of America. Industry surveys and reports. <https://www.hcaoa.org/>.
+- AHCA. "2023 State of the Long Term Care Industry." <https://www.ahcancal.org/>.
+- Home Care Association of America. "Home Care Benchmarking Study 2023." <https://www.hcaoa.org/resources.html>.
 
 ## Data Sources
 
@@ -133,6 +140,17 @@
 | Genworth Cost of Care | Care costs by region | Public (genworth.com) |
 | CMS Medicaid data | Medicaid spending | Public (CMS.gov) |
 | State budget documents | State spending | State-specific |
+
+## Metrics Dashboard
+
+| Indicator | Why It Matters | Typical Source |
+|-----------|----------------|----------------|
+| Median hourly wage | Tracks compensation trends | BLS OEWS |
+| Annual turnover rate | Signals retention stability | Provider surveys |
+| Vacancy rate | Captures unmet staffing need | Provider surveys |
+| Public benefit reliance | Indicates wage adequacy | CPS ASEC |
+| Waitlist length (HCBS) | Measures access constraints | State Medicaid reports |
+| Staffing citations | Signals compliance pressure | CMS inspection data |
 
 ## Academic Research
 

@@ -16,7 +16,7 @@ The caregiving workforce crisis is not a market failure or an accident of policy
 | **Skill non-recognition** | Emotional, relational skills not valued |
 | **Market logic** | Care doesn't produce measurable "output" |
 
-The underlying assumption: Care is a natural female/maternal activity requiring no skill, deserving no compensation.
+This section reflects a common framing that care is treated as a natural female/maternal activity and is not compensated accordingly.
 
 ### Labor Law Architecture
 
@@ -28,7 +28,7 @@ The underlying assumption: Care is a natural female/maternal activity requiring 
 | **Independent contractor status** | Benefits, protections avoided |
 | **Anti-union provisions** | Collective bargaining limited |
 
-The legal framework was designed to exclude care workers from standard protections.
+The legal framework includes exclusions that leave care workers outside standard protections.
 
 ### Public Financing Structure
 
@@ -40,7 +40,7 @@ The legal framework was designed to exclude care workers from standard protectio
 | **State rate-setting** | Political limits on increases |
 | **No federal wage floor** | Race to the bottom |
 
-Medicaid's structure creates systematic downward pressure on wages.
+Medicaid's structure is commonly cited as exerting downward pressure on wages.
 
 ### Market Failure
 
@@ -52,7 +52,7 @@ Medicaid's structure creates systematic downward pressure on wages.
 | **Non-transferability** | Skills not recognized across settings |
 | **Segmented labor market** | Care work segregated from general labor market |
 
-Standard market mechanisms don't work in care labor markets.
+Standard market mechanisms are described as weak in care labor markets.
 
 ## Institutional Causes
 
@@ -65,7 +65,7 @@ Standard market mechanisms don't work in care labor markets.
 | **Local** | Some wage ordinances | Uneven coverage |
 | **Private** | Employer policies | Wide variation |
 
-No coherent national framework governs the workforce.
+The table summarizes a fragmented regulatory approach without a single national framework.
 
 ### Training System Failures
 
@@ -77,7 +77,7 @@ No coherent national framework governs the workforce.
 | **Employer bears cost** | Disincentive to invest |
 | **Portability limits** | Credentials don't transfer |
 
-Training is minimal, inconsistent, and disconnected from advancement.
+Training requirements are described as minimal, inconsistent, and disconnected from advancement.
 
 ### Provider Industry Structure
 
@@ -89,7 +89,7 @@ Training is minimal, inconsistent, and disconnected from advancement.
 | **Low margins** | Claim inability to pay more |
 | **High administrative costs** | Money spent on overhead |
 
-Provider industry structure diverts resources from worker compensation.
+Provider industry structure is described as diverting resources from worker compensation.
 
 ### Immigration Policy
 
@@ -101,7 +101,7 @@ Provider industry structure diverts resources from worker compensation.
 | **Citizenship requirements** | Barriers to some programs |
 | **Deportation threat** | Suppresses wage demands |
 
-Immigration policy simultaneously relies on and exploits immigrant workers.
+Immigration policy is described as relying on immigrant workers while leaving them vulnerable.
 
 ## Political Economy
 
@@ -115,7 +115,7 @@ Immigration policy simultaneously relies on and exploits immigrant workers.
 | **Consumers (short-term)** | Lower out-of-pocket costs |
 | **Employers in competing sectors** | Access to labor pool |
 
-Powerful interests benefit from keeping wages low.
+The table lists groups described as benefiting from low wages.
 
 ### Who Loses
 
@@ -127,7 +127,7 @@ Powerful interests benefit from keeping wages low.
 | **Taxpayers** | Workers rely on public benefits |
 | **Healthcare system** | Preventable hospitalizations |
 
-The costs are borne by the most vulnerable.
+The table lists groups described as bearing the costs.
 
 ### Political Dynamics
 
@@ -139,7 +139,7 @@ The costs are borne by the most vulnerable.
 | **Anti-tax sentiment** | Blocks revenue for wages |
 | **Electoral politics** | Seniors vote; care workers don't |
 
-Political forces reinforce low wages.
+The table summarizes political dynamics associated with low wages.
 
 ## Causal Diagram
 
@@ -163,6 +163,8 @@ Quality problems, unmet care needs
 (Status quo persists; no political will to change)
 ```
 
+**Causal map sources**: The chain reflects themes documented in PHI workforce reports, CMS staffing standards, DOL home care rule history, and Medicaid financing analyses listed in `analysis/aging/caregiving-workforce/09-resources.md`.
+
 ### Secondary Dynamics
 
 | Dynamic | Mechanism |
@@ -173,6 +175,8 @@ Quality problems, unmet care needs
 | **Provider consolidation** | Monopsony power |
 | **Technology hype** | False promise of replacement |
 
+These dynamics summarize reinforcing pressures beyond the primary causal chain.
+
 ### Feedback Loops
 
 | Loop | Effect |
@@ -181,6 +185,8 @@ Quality problems, unmet care needs
 | **Worker shortage → overtime → burnout → more exits** | Workforce depletion spiral |
 | **Quality problems → regulation → compliance costs → wage pressure** | Regulatory burden increases |
 | **Family care substitution → less demand → lower priority → less funding** | Hidden care perpetuates inattention |
+
+These feedback loops describe commonly cited self-reinforcing patterns.
 
 ## Root Cause by Category
 
@@ -193,6 +199,8 @@ Quality problems, unmet care needs
 | **Cost externalization** | Society bears costs of low wages | 43% on public benefits |
 | **Investment undervaluation** | Human capital not counted | No ROI analysis for training |
 
+This table summarizes economic mechanisms often cited in workforce discussions.
+
 ### Social Root Causes
 
 | Cause | Mechanism | Evidence |
@@ -201,6 +209,8 @@ Quality problems, unmet care needs
 | **Racial stratification** | Care work for marginalized groups | 62% workers of color |
 | **Invisibility** | Private settings, hidden work | Not counted in GDP |
 | **Status hierarchy** | "Unskilled" label | No professional recognition |
+
+This table summarizes social mechanisms commonly cited in care work devaluation.
 
 ### Political Root Causes
 
@@ -211,6 +221,8 @@ Quality problems, unmet care needs
 | **Fiscal constraints** | State budgets prioritized | Medicaid cuts |
 | **Electoral dynamics** | Workers don't vote as bloc | No electoral consequences |
 
+This table summarizes political mechanisms cited in care workforce analyses.
+
 ### Institutional Root Causes
 
 | Cause | Mechanism | Evidence |
@@ -219,6 +231,8 @@ Quality problems, unmet care needs
 | **Training inadequacy** | Low expectations normalized | 75 hours since 1987 |
 | **Credentialing failure** | Skills not recognized | No career ladder |
 | **Data gaps** | Can't manage what you don't measure | Poor workforce data |
+
+This table summarizes institutional mechanisms tied to workforce constraints.
 
 ## Why Problems Persist
 
@@ -232,6 +246,8 @@ Quality problems, unmet care needs
 | **Workforce composition** | Marginalized workers lack power |
 | **Policy path dependence** | Easier to maintain than change |
 
+These lock-ins summarize institutional inertia in the current system.
+
 ### Reform Obstacles
 
 | Obstacle | How It Blocks Reform |
@@ -242,6 +258,8 @@ Quality problems, unmet care needs
 | **Political will** | Low priority relative to other issues |
 | **Measurement** | Hard to demonstrate ROI |
 
+These obstacles describe common barriers cited in reform efforts.
+
 ### Information Gaps
 
 | Gap | Effect |
@@ -251,6 +269,8 @@ Quality problems, unmet care needs
 | **Cost accounting** | Turnover costs hidden |
 | **Public awareness** | Issue not salient |
 | **Best practices** | Successful models not disseminated |
+
+These gaps summarize limits in data, measurement, and awareness.
 
 ## Comparative Context
 
@@ -264,6 +284,7 @@ Other countries have addressed these causes:
 | **Australia** | National wage determination | Recent increases via Fair Work |
 | **Canada** | Provincial variation, some wage floors | Mixed results |
 
+This table summarizes international approaches cited in comparative discussions.
 The U.S. stands out for:
 
 - No national wage floor for care workers
