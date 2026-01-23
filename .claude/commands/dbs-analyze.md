@@ -47,6 +47,32 @@ Outputs:
 - Common vs divergent flags
 - Red-line status comparison
 
+### Baseline Comparison
+
+```text
+/dbs-analyze trump --compare hungary-2010 hungary-2015    # Compare to historical baselines
+/dbs-analyze trump --compare us-pre-2016                  # Compare to US structural baseline
+/dbs-analyze america --baseline-context                   # Show trajectory relative to all baselines
+```
+
+**Available historical baselines:**
+- `us-pre-2016` — US structural baseline (DBS 10-20)
+- `hungary-2010` — Early Orbán consolidation (DBS 20-30)
+- `hungary-2015` — Mid-consolidation Hungary (DBS 45-55)
+- `hungary-2020` — Competitive authoritarianism (DBS 65-75)
+- `poland-2017` — PiS Constitutional Tribunal capture (DBS 40-50)
+- `turkey-2014` — Post-Gezi, pre-coup (DBS 45-60)
+- `turkey-2018` — Post-coup emergency (DBS 75-85)
+- `venezuela-2016` — National Assembly neutralization (DBS 60-70)
+- `venezuela-2020` — Consolidated authoritarianism (DBS 85-95)
+
+Outputs:
+- Current score vs baseline score(s)
+- Pathway mode comparison
+- Key checkpoint differences
+- Pattern matching analysis (which historical trajectory is most similar)
+- Plain-language context (e.g., "Current score is comparable to Hungary in 2015, when courts had been captured but media remained partially independent")
+
 ### Alert Check
 
 ```text
@@ -96,7 +122,8 @@ When the user runs this command with arguments `$ARGUMENTS`:
 Extract from `$ARGUMENTS`:
 - `topic`: Primary topic for analysis (optional for --dashboard/--watchlist)
 - `--trend`: Generate trend analysis
-- `--compare <topics>`: Compare with other topics (space-separated)
+- `--compare <topics>`: Compare with other topics or historical baselines (space-separated)
+- `--baseline-context`: Show trajectory relative to all historical baselines
 - `--alerts`: Check alert conditions
 - `--dashboard`: Generate all-topics dashboard
 - `--watchlist`: Show high-concern topics only
@@ -104,13 +131,31 @@ Extract from `$ARGUMENTS`:
 - `--last <n>`: Limit to last n runs
 - `--output [file]`: Write report to file (optional filename; auto-generates if omitted)
 
+**Baseline detection:** When a comparison target matches a historical baseline ID (e.g., `hungary-2010`, `us-pre-2016`), load from `baselines/historical/<id>.json` instead of `runs/<topic>/`.
+
 ### 2. Load Run Data
 
-For each topic being analyzed:
+**For active topics:**
 
 ```
 monitoring/threat-tracking/democratic-backsliding/dbs/runs/<topic>/*/run.json
 ```
+
+**For historical baselines (when --compare includes baseline IDs):**
+
+```
+monitoring/threat-tracking/democratic-backsliding/dbs/baselines/historical/<baseline-id>.json
+```
+
+Historical baseline IDs: `us-pre-2016`, `hungary-2010`, `hungary-2015`, `hungary-2020`, `poland-2017`, `turkey-2014`, `turkey-2018`, `venezuela-2016`, `venezuela-2020`
+
+**For topic baseline reference:**
+
+```
+monitoring/threat-tracking/democratic-backsliding/dbs/baselines/topics/<topic>.json
+```
+
+This provides the baseline run date for trend calculations (e.g., `trump` baseline is `2025-01-20`).
 
 Parse each run.json to extract:
 - `run_metadata.run_date`
@@ -264,6 +309,64 @@ High-velocity threshold: Δ > 12 in 30 days
 - putin: Full legal capture (C1+C3+F6)
 - hungary: Legislative capture pathway
 - trump: Executive-focused, courts still checking
+```
+
+#### 4.4 Historical Baseline Comparison (when --compare includes baseline IDs)
+
+When comparing to historical baselines, include additional context:
+
+```markdown
+## Historical Baseline Comparison
+
+### Current Status vs Historical Reference Points
+
+| Metric | trump (current) | us-pre-2016 | hungary-2010 | hungary-2015 |
+|--------|-----------------|-------------|--------------|--------------|
+| DBS Score | 58 | 15 | 25 | 50 |
+| Tier | Backsliding | Normal | Concern | Backsliding |
+| Pathway | exec+sec | undetermined | hybrid | hybrid+capture |
+| Red-Lines | F6 | None | None | None |
+
+### Pattern Matching Analysis
+
+**Most similar historical reference:** Hungary 2015
+
+The current trajectory most closely resembles Hungary in 2015, approximately five years into Orbán's consolidation. Key similarities:
+- Courts under pressure but not fully captured (Hungary had captured Constitutional Court; current situation shows selective compliance)
+- Media landscape contested but not yet dominated
+- Executive-driven pathway with security apparatus involvement
+- Expertise void emerging as career officials are replaced
+
+**Key differences from Hungary 2015:**
+- Hungary had constitutional supermajority enabling legal changes; current situation lacks this
+- Hungarian consolidation followed parliamentary pathway; current pattern is executive-driven
+- Stronger judicial traditions provide more resistance points
+
+### Trajectory Context
+
+**Where this score falls in known backsliding trajectories:**
+
+```
+US Pre-2016 ----[15]
+Hungary 2010 --------[25]
+Poland 2017 ----------------[45]
+Hungary 2015 ------------------[50]
+>>> CURRENT (trump) --------------[58] <<<
+Turkey 2014 ---------------------[55]
+Venezuela 2016 --------------------------[65]
+Hungary 2020 ------------------------------[70]
+Turkey 2018 ------------------------------------[80]
+Venezuela 2020 ----------------------------------------[90]
+```
+
+**Plain-language interpretation:**
+
+The current DBS score of 58 places the situation in the range of active democratic backsliding. This is:
+- **Significantly higher** than the pre-2016 US baseline (15), indicating substantial deterioration from historical norms
+- **Comparable to** Hungary circa 2015, when that country had moved from early consolidation into systematic institutional capture
+- **Below** the levels seen in Turkey post-coup (80) or Venezuela in crisis (90), meaning the situation has not yet reached consolidated authoritarianism
+
+The primary concern is velocity: Hungary took five years to move from 25 to 50; the current trajectory is moving faster.
 ```
 
 ### 5. Alert Analysis (--alerts)

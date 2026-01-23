@@ -1,0 +1,50 @@
+{
+  "baseline_id": "turkey-2014",
+  "baseline_type": "historical_calibration",
+  "description": "Turkey post-Gezi protests, pre-coup attempt",
+  "period": "2013-2016",
+  "period_notes": "Following 2013 Gezi Park protests; Erdoğan consolidating after Gülenist alliance fractures",
+  "dbs_range": {
+    "low": 45,
+    "mid": 55,
+    "high": 60
+  },
+  "tier": "Democratic backsliding active",
+  "pathway_mode": "executive-driven+security_dominant",
+  "key_checkpoints": {
+    "B2": 3,
+    "B4": 3,
+    "C3": 3,
+    "C4": 3,
+    "E1": 3,
+    "E2": 2,
+    "F1": 3,
+    "F2": 2
+  },
+  "checkpoint_notes": {
+    "B2": "Mass prosecutions of Gülenists begin; parallel state narrative",
+    "B4": "Gezi protest crackdowns; heavy police response to demonstrations",
+    "C3": "Politicized prosecution accelerating; selective enforcement visible",
+    "C4": "Judiciary under pressure; High Council of Judges restructured",
+    "E1": "Journalist arrests increasing; critical outlets under pressure",
+    "E2": "Social media restrictions during protests; Twitter blocked temporarily",
+    "F1": "Civil service purges beginning; Gülenist-linked officials removed",
+    "F2": "Military leadership changes; early signs of loyalty prioritization"
+  },
+  "red_lines_triggered": [],
+  "diagnostic_flags": [
+    "sword_shield",
+    "coercion_information_disconnect"
+  ],
+  "flag_notes": {
+    "sword_shield": "Prosecutions targeting opponents while protecting allies",
+    "coercion_information_disconnect": "Visible coercion (Gezi crackdown) with media still relatively open"
+  },
+  "narrative": "Turkey 2014 represents accelerating executive aggrandizement after a decade of AKP rule. The 2013 Gezi protests marked a turning point—Erdoğan responded with force and increased repression rather than accommodation. The alliance with Gülenists fractured, leading to mass purges of the 'parallel state.' Courts and prosecutors were being brought under control. Media remained more pluralistic than it would become, but pressure was intensifying. This was a critical window: democratic institutions still had some capacity to resist, but that capacity was eroding rapidly. The 2016 coup attempt would provide the pretext for completing the consolidation.",
+  "scholarly_sources": [
+    "Esen, Berk and Sebnem Gumuscu. 'Rising Competitive Authoritarianism in Turkey.' Third World Quarterly 37, no. 9 (2016): 1581-1606",
+    "Özbudun, Ergun. 'Turkey's Judiciary and the Drift Toward Competitive Authoritarianism.' International Spectator 50, no. 2 (2015): 42-55",
+    "Akkoyunlu, Karabekir and Kerem Öktem. 'Existential Insecurity and the Making of a Weak Authoritarian Regime in Turkey.' Southeast European and Black Sea Studies 16, no. 4 (2016): 505-527"
+  ],
+  "comparison_guidance": "Turkey 2014 shows executive-driven backsliding in a presidential/parliamentary hybrid system with a strong security apparatus. Use this baseline to identify patterns of post-protest crackdown, the fracturing of elite coalitions leading to purges, and the use of 'parallel state' narratives to justify repression. The coercion-information disconnect flag is particularly relevant—visible force while media remains open is historically unstable."
+}

@@ -1,0 +1,66 @@
+{
+  "baseline_id": "turkey-2018",
+  "baseline_type": "historical_calibration",
+  "description": "Turkey post-coup attempt under emergency rule",
+  "period": "2017-present",
+  "period_notes": "Following July 2016 coup attempt; two-year state of emergency; 2017 constitutional referendum",
+  "dbs_range": {
+    "low": 75,
+    "mid": 80,
+    "high": 85
+  },
+  "tier": "Severe democratic backsliding",
+  "pathway_mode": "executive-driven+security_dominant+foreign_enabled",
+  "key_checkpoints": {
+    "B2": 4,
+    "B4": 4,
+    "B5": 4,
+    "C1": 3,
+    "C3": 4,
+    "C4": 4,
+    "D4": 3,
+    "E1": 4,
+    "E2": 3,
+    "F1": 5,
+    "F2": 4,
+    "F6": 4
+  },
+  "checkpoint_notes": {
+    "B2": "150,000+ dismissed or detained; mass purges across all sectors",
+    "B4": "Systematic repression of Kurdish political movement (HDP)",
+    "B5": "Military operations in Southeast; emergency decree rule",
+    "C1": "Courts bypassed via emergency decrees; judicial review suspended",
+    "C3": "Politicized prosecution at industrial scale; tens of thousands charged",
+    "C4": "Judiciary purged; 4,000+ judges dismissed",
+    "D4": "2017 referendum under emergency conditions; legitimacy contested",
+    "E1": "150+ media outlets closed; journalists imprisoned en masse",
+    "E2": "Social media heavily monitored; VPNs criminalized",
+    "F1": "Civil service completely restructured; 100,000+ dismissed",
+    "F2": "Military purged at all levels; loyalty paramount",
+    "F6": "Erdoğan effectively immune; presidential system grants vast powers"
+  },
+  "red_lines_triggered": [
+    "C1+B5",
+    "F2",
+    "F6"
+  ],
+  "diagnostic_flags": [
+    "sword_shield",
+    "legal_capture_complete",
+    "expertise_void",
+    "state_of_exception"
+  ],
+  "flag_notes": {
+    "sword_shield": "Mass prosecution of opponents; protection for loyalists",
+    "legal_capture_complete": "Courts, prosecutors, police all aligned with executive",
+    "expertise_void": "Institutional knowledge destroyed by mass purges",
+    "state_of_exception": "Two-year emergency providing legal framework for repression"
+  },
+  "narrative": "Post-coup Turkey represents the most rapid democratic collapse in recent history among NATO members. The failed July 2016 coup provided the pretext for completing consolidation that had been underway since 2013. Under emergency rule, Erdoğan purged over 150,000 civil servants, judges, military officers, teachers, and journalists. The 2017 constitutional referendum (conducted under emergency conditions) transformed Turkey into a presidential system with minimal checks. By 2018, Turkey had crossed multiple red lines: courts were bypassed, military was purged, executive immunity was established. Elections continued but under conditions that made genuine competition nearly impossible. This baseline represents what rapid, crisis-driven consolidation looks like.",
+  "scholarly_sources": [
+    "Esen, Berk and Sebnem Gumuscu. 'Building a Competitive Authoritarian Regime: State-Business Relations in the AKP's Turkey.' Journal of Balkan and Near Eastern Studies 20, no. 4 (2018): 349-372",
+    "Yilmaz, Zafer. 'The AKP and the Spirit of the 'New' Turkey: Imagined Victim, Reactionary Mood, and Resentful Sovereign.' Turkish Studies 18, no. 3 (2017): 482-513",
+    "International Crisis Group. 'Turkey's PKK Conflict: A Visual Explainer.' Crisis Group (2021)"
+  ],
+  "comparison_guidance": "Turkey 2018 demonstrates crisis-accelerated consolidation. Use this baseline to assess scenarios where an external shock (coup, terrorism, pandemic) is used to justify emergency measures that become permanent. The key indicators: emergency powers that bypass courts, mass purges justified by security, and constitutional changes under crisis conditions. Multiple red-line triggers indicate the system has crossed into territory where electoral reversal is structurally blocked."
+}

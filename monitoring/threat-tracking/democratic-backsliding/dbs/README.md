@@ -31,6 +31,20 @@ dbs/
 │   ├── run-template.md           # Output format for run summaries
 │   ├── event-log-template.json   # Event log structure
 │   └── manifest-template.json    # Evidence integrity manifest
+├── baselines/
+│   ├── historical/               # Historical calibration baselines
+│   │   ├── us-pre-2016.json
+│   │   ├── hungary-2010.json
+│   │   ├── hungary-2015.json
+│   │   ├── hungary-2020.json
+│   │   ├── poland-2017.json
+│   │   ├── turkey-2014.json
+│   │   ├── turkey-2018.json
+│   │   ├── venezuela-2016.json
+│   │   └── venezuela-2020.json
+│   └── topics/                   # Topic starting point references
+│       ├── trump.json            # Points to 2025-01-20 baseline
+│       └── america.json          # Points to 2025-01-20 baseline
 ├── runs/
 │   └── <topic>/
 │       └── <YYYY-MM-DD>/
@@ -41,6 +55,50 @@ dbs/
 └── reports/                      # Analysis reports (cross-run)
     └── <topic>-<type>-<date>.md  # e.g., trump-trend-2025.md
 ```
+
+## Baselines
+
+Baselines provide reference points for comparative analysis.
+
+### Historical Calibrations
+
+Reference scores from documented cases of democratic backsliding:
+
+| Baseline | Period | DBS Range | Description |
+|----------|--------|-----------|-------------|
+| `us-pre-2016` | Pre-2016 | 10-20 | US structural baseline; normal functioning with known issues |
+| `hungary-2010` | 2010 | 20-30 | Orbán's return; early consolidation |
+| `hungary-2015` | 2015 | 45-55 | Mid-consolidation; courts captured |
+| `hungary-2020` | 2020 | 65-75 | Competitive authoritarianism established |
+| `poland-2017` | 2015-2019 | 40-50 | PiS Constitutional Tribunal capture |
+| `turkey-2014` | 2013-2016 | 45-60 | Post-Gezi, pre-coup |
+| `turkey-2018` | 2017+ | 75-85 | Post-coup emergency consolidation |
+| `venezuela-2016` | 2015-2017 | 60-70 | National Assembly neutralization |
+| `venezuela-2020` | 2019+ | 85-95 | Consolidated authoritarianism |
+
+### Topic Baselines
+
+Starting points for tracked topics:
+
+| Topic | Baseline Date | Scope |
+|-------|---------------|-------|
+| `trump` | 2025-01-20 | Trump administration actions and policies |
+| `america` | 2025-01-20 | Overall US democratic health (all branches, states) |
+
+### Using Baselines
+
+```bash
+# Compare current assessment to historical reference
+/dbs-analyze trump --compare hungary-2010 hungary-2015
+
+# Compare to US structural baseline
+/dbs-analyze trump --compare us-pre-2016
+
+# Show trajectory relative to all baselines
+/dbs-analyze trump --baseline-context
+```
+
+See `baselines/README.md` for detailed documentation.
 
 ## Core Concepts
 

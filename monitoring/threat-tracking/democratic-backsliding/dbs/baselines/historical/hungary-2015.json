@@ -1,0 +1,48 @@
+{
+  "baseline_id": "hungary-2015",
+  "baseline_type": "historical_calibration",
+  "description": "Hungary mid-consolidation under Orbán's second term",
+  "period": "2015",
+  "period_notes": "Five years into Fidesz rule; new constitution in effect; EU tensions escalating",
+  "dbs_range": {
+    "low": 45,
+    "mid": 50,
+    "high": 55
+  },
+  "tier": "Democratic backsliding active",
+  "pathway_mode": "hybrid+capture",
+  "key_checkpoints": {
+    "C2": 4,
+    "C4": 3,
+    "D3": 3,
+    "D7": 4,
+    "E1": 3,
+    "E3": 3,
+    "F1": 3
+  },
+  "checkpoint_notes": {
+    "C2": "Constitutional Court packed and jurisdiction stripped; no longer independent check",
+    "C4": "Prosecutor's office aligned with government; selective enforcement emerging",
+    "D3": "New electoral law favors Fidesz; winner-take-all in many districts",
+    "D7": "Gerrymandering institutionalized through 2011 constitution",
+    "E1": "Major independent media bought by government allies; MTI (state news) dominates",
+    "E3": "State media heavily biased; independent outlets marginalized but still exist",
+    "F1": "Civil service purged; loyalists in key positions"
+  },
+  "red_lines_triggered": [],
+  "diagnostic_flags": [
+    "expertise_void",
+    "institutional_resistance"
+  ],
+  "flag_notes": {
+    "expertise_void": "Career civil servants replaced with loyalists; institutional memory degraded",
+    "institutional_resistance": "Some resistance from remaining independent media, civil society, and EU"
+  },
+  "narrative": "By 2015, Hungary had completed the first phase of democratic backsliding. The constitution had been rewritten, courts packed, and media landscape transformed. However, the system remained formally democratic: elections occurred, opposition parties existed, and some independent media survived. The EU maintained pressure but lacked enforcement tools. This represents the 'competitive authoritarian' transition point—democracy is hollowed out but the shell remains. Elections become increasingly unfair but not fraudulent. Courts defer to government but occasionally rule against it. This baseline shows what mid-stage consolidation looks like: the point where reversal becomes difficult but not yet impossible.",
+  "scholarly_sources": [
+    "Scheppele, Kim Lane. 'Autocratic Legalism.' University of Chicago Law Review 85 (2018): 545-583",
+    "Bozóki, András and Dániel Hegedűs. 'An Externally Constrained Hybrid Regime: Hungary in the European Union.' Democratization 25, no. 7 (2018): 1173-1189",
+    "Mudde, Cas. 'The 2014 Hungarian Parliamentary Elections, or How to Craft a Constitutional Majority.' Washington Post, April 14, 2014"
+  ],
+  "comparison_guidance": "Hungary 2015 represents the tipping point into competitive authoritarianism. Use this baseline to assess whether backsliding has progressed beyond early warning into structural entrenchment. A score matching Hungary 2015 suggests that normal democratic competition has been fundamentally compromised."
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "trump",
+  "baseline_type": "topic_starting_point",
+  "baseline_run": "2025-01-20",
+  "baseline_path": "../../runs/trump/2025-01-20/run.json",
+  "rationale": "Second presidential term inauguration; establishes starting point for administration tracking",
+  "description": "Donald Trump's second presidential term beginning January 20, 2025",
+  "scope": "Executive branch actions, appointments, policies, and rhetoric under Trump administration",
+  "distinction_from_america": "The 'trump' topic tracks administration-specific actions and patterns. The 'america' topic tracks overall US democratic health including structural factors, state-level developments, and non-executive branch activities.",
+  "notes": "All trend calculations for 'trump' topic use this as the reference point. For pre-administration baseline, compare to 'us-pre-2016' historical calibration."
+}

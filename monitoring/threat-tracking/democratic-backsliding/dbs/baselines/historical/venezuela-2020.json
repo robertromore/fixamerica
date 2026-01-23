@@ -1,0 +1,68 @@
+{
+  "baseline_id": "venezuela-2020",
+  "baseline_type": "historical_calibration",
+  "description": "Venezuela as consolidated electoral authoritarian regime",
+  "period": "2019-present",
+  "period_notes": "Post-Guaidó crisis; dual government period; international isolation; economic collapse",
+  "dbs_range": {
+    "low": 85,
+    "mid": 90,
+    "high": 95
+  },
+  "tier": "Critical / Transition threshold",
+  "pathway_mode": "executive-driven+kleptocratic+security_dominant",
+  "key_checkpoints": {
+    "C1": 5,
+    "C2": 5,
+    "C5": 5,
+    "D5": 5,
+    "D6": 4,
+    "B1": 4,
+    "B4": 4,
+    "B5": 4,
+    "E1": 4,
+    "E3": 5,
+    "F2": 4,
+    "F6": 5
+  },
+  "checkpoint_notes": {
+    "C1": "Supreme Court functions as regime tool; legitimizes all executive actions",
+    "C2": "Courts completely captured; no judicial independence",
+    "C5": "Permanent rule by decree; constitutional order suspended in practice",
+    "D5": "Elections are managed theater; opposition excluded or co-opted",
+    "D6": "2018 election results rejected internationally; Guaidó recognized by many countries",
+    "B1": "Security forces loyal to regime; colectivos operate with impunity",
+    "B4": "Protest systematically repressed; thousands detained",
+    "B5": "Security operations against opposition; extrajudicial killings documented",
+    "E1": "Independent media effectively eliminated; exiled or shut down",
+    "E3": "Complete information control; state media monopoly",
+    "F2": "Military leadership integrated into regime; economic stakes in survival",
+    "F6": "Maduro completely above law; international arrest warrants ignored"
+  },
+  "red_lines_triggered": [
+    "C1+B5",
+    "D5",
+    "D6",
+    "F2",
+    "F6"
+  ],
+  "diagnostic_flags": [
+    "sword_shield",
+    "legal_capture_complete",
+    "electoral_exit_blocked",
+    "expertise_void"
+  ],
+  "flag_notes": {
+    "sword_shield": "Opposition prosecuted; regime protected absolutely",
+    "legal_capture_complete": "Legal system exists to serve regime",
+    "electoral_exit_blocked": "No viable electoral path to change",
+    "expertise_void": "State capacity collapsed; governance by loyalty alone"
+  },
+  "narrative": "Venezuela 2020 represents near-complete authoritarian consolidation—the end state of democratic collapse. The 2019 Guaidó crisis demonstrated that even international recognition of an alternative government could not dislodge the regime when the military remained loyal. Elections continue but are meaningless as competitive exercises. The opposition is fragmented, exiled, or imprisoned. The economy has collapsed (GDP down 80% from 2013), but regime survival takes precedence over governance. This baseline shows what happens when multiple red lines are crossed and no external force can compel reversal: the system reaches a stable authoritarian equilibrium, albeit one characterized by profound dysfunction.",
+  "scholarly_sources": [
+    "Corrales, Javier. 'Authoritarian Survival: Why Maduro Hasn't Fallen.' Journal of Democracy 31, no. 3 (2020): 39-53",
+    "Bull, Benedicte and Antulio Rosales. 'The Crisis in Venezuela: Drivers, Transitions, and Pathways.' European Review of Latin American and Caribbean Studies 109 (2020): 1-20",
+    "Human Rights Watch. 'Venezuela: Events of 2020.' World Report 2021"
+  ],
+  "comparison_guidance": "Venezuela 2020 represents the ceiling of democratic collapse—consolidated authoritarian rule with no viable internal path to change. Use this baseline to understand what full consolidation looks like: multiple red lines crossed, all institutions captured, opposition neutralized. Scores approaching Venezuela 2020 indicate that the democratic system has effectively ended, even if elections continue as theater. At this point, change requires either regime fragmentation or external intervention."
+}
