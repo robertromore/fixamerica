@@ -416,11 +416,11 @@ If any red-line checkpoint is **newly triggered** (crosses from <3 to ≥3), an 
 | Category                                     | What It Captures                                      | Checkpoints |
 | -------------------------------------------- | ----------------------------------------------------- | ----------- |
 | **A — Emergency Narrative & Delegitimation** | Crisis framing that justifies rule-breaking           | A1–A4       |
-| **B — Coercive State Power**                 | Use of law enforcement or military for political ends | B1–B7       |
-| **C — Rule of Law & Courts**                 | Compliance with or defiance of legal constraints      | C1–C8       |
-| **D — Elections & Transfer of Power**        | Integrity and neutrality of elections                 | D1–D12      |
-| **E — Information Environment**              | Media retaliation and narrative control               | E1–E4       |
-| **F — Security Services & Loyalty**          | Politicization of military/civil service              | F1–F7       |
+| **B — Coercive State Power**                 | Use of law enforcement or military for political ends | B1–B8       |
+| **C — Rule of Law & Courts**                 | Compliance with or defiance of legal constraints      | C1–C9       |
+| **D — Elections & Transfer of Power**        | Integrity and neutrality of elections                 | D1–D13      |
+| **E — Information Environment**              | Media retaliation and narrative control               | E1–E5       |
+| **F — Security Services & Loyalty**          | Politicization of military/civil service              | F1–F8       |
 
 Full checkpoint definitions are in **Appendix A**.
 
@@ -598,6 +598,76 @@ Both can be positive simultaneously (CSOs consulted AND low-SES voices heard) or
 
 ---
 
+#### EPM-GEN: Gendered Power Distribution
+
+**Purpose:** EPM-GEN extends the Effective Participation Modifier to capture whether political power is distributed according to gender—not just whether women can vote, but whether women's political voice translates into policy influence. This corresponds to V-Dem's v2pepwrgen indicator (Power distributed by gender).
+
+**The "Formal Rights vs. Effective Power" Problem:**
+
+Standard democracy metrics track women's *voting rights* and *representation*. EPM-GEN tracks whether policy responds to women's interests and priorities:
+
+- Female-dominated workforces may have formal voting power but minimal policy influence
+- Issues coded as "women's issues" may be systematically deprioritized
+- Policy-making venues may be structurally inaccessible to women (timing, location, norms)
+- Representation without influence: women in office may be sidelined from power centers
+
+When gendered power exclusion is severe enough, formal rights and representation become decorative. EPM-GEN captures this dynamic.
+
+**EPM-GEN Assessment:**
+
+| Level | Condition | Application |
+|-------|-----------|-------------|
+| GEN-0 | Women have documented ability to influence policy outcomes proportionate to population | No GEN adjustment |
+| GEN-1 | Women face structural barriers to political influence beyond voting/representation | Apply EPM-1 to D-category checkpoints where barriers are documented |
+| GEN-2 | Women are effectively excluded from political influence on issues affecting them | Apply EPM-2 to D-category checkpoints; note "gendered disenfranchisement" pattern |
+
+**Evidence for EPM-GEN:**
+
+EPM-GEN triggers when evidence shows:
+
+- **Policy non-responsiveness:** Research demonstrating that policy outcomes do not respond to women's documented preferences (e.g., care policy, reproductive health, workplace protections)
+- **Structural exclusion from policymaking:** Women or women's organizations systematically absent from regulatory proceedings, advisory bodies, or legislative testimony on relevant issues
+- **Sectoral invisibility:** Female-dominated workforces (caregiving, domestic work, service sectors) systematically excluded from labor policy, wage negotiations, or workforce development planning
+- **Issue deprioritization:** Issues disproportionately affecting women chronically underfunded or legislatively stalled despite majority support
+
+**Workforce Application:**
+
+For topics involving female-dominated workforces (caregiving, domestic work, early childhood education), EPM-GEN is particularly relevant:
+
+- 87% of 5.4 million direct care workers are women
+- Care workforce policy affects women both as workers (87%) and as unpaid family caregivers (disproportionately women)
+- When care policy is shaped without women's input, both workforce conditions and care access suffer
+- Intersection with EPM-SES: 87% women × low wages = compounding exclusion
+
+**Interaction with EPM-SES:**
+
+EPM-GEN and EPM-SES often co-occur but capture different exclusion mechanisms:
+
+| Pattern | Interpretation |
+|---------|----------------|
+| High SES, Low GEN | Economic precarity is primary barrier; gender gap within low-SES is not significant |
+| Low SES, High GEN | Gender exclusion operates across income levels; women with resources still excluded |
+| High SES, High GEN | Compounding exclusion: female-dominated low-wage sectors face both economic and gendered barriers to political influence |
+
+For care workforce topics, expect both modifiers to apply simultaneously.
+
+**V-Dem Alignment:** EPM-GEN corresponds to V-Dem's v2pepwrgen (Power distributed by gender). This indicator asks whether men and women have equal *effective* influence on politics—not just equal formal rights. It captures whether political power is actually distributed according to gender or whether formal equality masks effective exclusion.
+
+**Reporting:** When EPM-GEN is applied, note in event log:
+
+```json
+{
+  "checkpoint": "D1",
+  "base_score": 2,
+  "epm_gen_assessment": "GEN-2",
+  "epm_gen_basis": "Care workforce policy developed without worker organization input; 87% female workforce not represented in regulatory process; policy outcomes non-responsive to documented workforce priorities",
+  "epm_ses_assessment": "SES-1",
+  "effective_score": 4
+}
+```
+
+---
+
 ### 4.4 Severity Anchors (Inter-Rater Reliability)
 
 To ensure consistent scoring, apply this **general anchor rule** to all checkpoints:
@@ -684,10 +754,33 @@ An event may score multiple checkpoints **only if** it independently degrades mu
 
 **Boundary Rule (D8 vs. E3):**
 
-- If foreign actors **amplify domestic propaganda** without incumbent coordination → E3
+- If foreign actors **amplify domestic propaganda** without incumbent coordination → E3b
 - If incumbents **coordinate with foreign actors** to influence domestic processes → D8
 - Key test: Does evidence show **domestic actors soliciting or coordinating**, or merely foreign actors acting independently?
 - If both apply, score D8 (coordination is more severe than amplification).
+
+**Boundary Rule (C1 vs. C9):**
+
+- **C1 (Noncompliance with court orders)** captures *defiance*: formal contempt, open refusal to comply, declarations that courts are non-binding
+- **C9 (Executive compliance with judiciary)** captures *compliance degradation*: delay, narrow interpretation, bureaucratic obstruction, "compliance theater"
+
+**Scoring guidance:**
+
+| Situation | Score | Rationale |
+|-----------|-------|-----------|
+| Formal contempt finding issued | C1 (primarily) | Active defiance—constitutional crisis |
+| Open declaration courts cannot bind executive | C1 (primarily) | Explicit rejection of judicial authority |
+| Systematic delayed compliance, no contempt | C9 (primarily) | Pattern of evasion without formal crisis |
+| Narrow/technical compliance that defeats ruling's purpose | C9 (primarily) | Substantive noncompliance without formal defiance |
+| Contempt finding + history of compliance degradation | C1 AND C9 | C1 captures the crisis; C9 captures the pattern |
+
+**Key principle:** C1 and C9 measure **different phenomena** and may both be scored when both are present:
+- C1 = "Does the executive acknowledge courts can bind it?" (constitutional question)
+- C9 = "Does the executive actually follow rulings in practice?" (behavioral question)
+
+A government can score C1=1 (no formal defiance) while scoring C9=4 (systematic practical evasion). Conversely, a government that openly defies courts (C1=5) may have C9=5 as well, but the C1 score captures the constitutional crisis while C9 captures the underlying pattern.
+
+**Anti-double-counting rule:** When a single incident involves both defiance and evasion, score the **primary** characteristic and note the secondary. However, if C1 elevation is based on a contempt finding, and C9 elevation is based on an independent pattern of compliance degradation across multiple rulings, both may be scored at their full values—they are measuring different phenomena.
 
 ---
 
@@ -936,6 +1029,76 @@ Note: Federal DBS of 44 masks significant state-level divergence.
 
 **V-Dem Alignment:** This metric corresponds to V-Dem's Subnational Democracy Index, which tracks democratic quality variance across subnational units. The SVI captures the same insight: federalism can mask authoritarian enclaves within formally democratic nations.
 
+#### Local Accountability Index (LAI)
+
+**Purpose:** SVI measures *variance* in democratic health across states. The Local Accountability Index measures the *depth* of democratic accountability within states—whether local officials can be held accountable by citizens or have become captured by narrow interests.
+
+**Why this matters:**
+
+- Medicaid rates are set at the state level, but implementation occurs at the county/municipal level
+- Local accountability affects whether low-SES populations can influence policy (EPM-SES interaction)
+- "Pockets of autocracy" often begin with local capture before affecting state-level DBS scores
+- Federal programs filtered through captured local institutions may not reach intended beneficiaries
+
+**V-Dem Alignment:** LAI corresponds to V-Dem's Local Government Accountability indicator (v2lggovac), which asks whether local officials can be held accountable through elections, oversight, or legal mechanisms.
+
+**LAI Assessment (per state):**
+
+| Level | Condition | Interpretation |
+|-------|-----------|----------------|
+| LAI-0 | Local officials broadly accountable; competitive elections; functional oversight | Normal local democracy |
+| LAI-1 | Some local capture documented; non-competitive elections in some areas; oversight gaps | Monitoring warranted |
+| LAI-2 | Systematic local capture; non-competitive elections common; oversight ineffective | Local democracy degraded |
+| LAI-3 | Local officials effectively unaccountable; elections non-competitive or absent; no functional oversight | Local authoritarianism |
+
+**Evidence for LAI:**
+
+- **Electoral competitiveness:** Percentage of local races uncontested or won by >20 points
+- **Oversight functionality:** Whether local auditors/inspectors can investigate and report independently
+- **Public meeting access:** Whether citizens can attend and participate in local government proceedings
+- **FOIA responsiveness:** Whether local governments comply with records requests
+- **Capture indicators:** Documented conflicts of interest, revolving door patterns, single-industry dominance
+
+**Interaction with DBS-State:**
+
+When calculating DBS-State, LAI serves as a **depth modifier** indicating how much the state-level score reflects ground-level reality:
+
+| DBS-State | LAI | Interpretation |
+|-----------|-----|----------------|
+| Low | LAI-0/1 | Healthy state democracy |
+| Low | LAI-2/3 | State metrics may miss local-level degradation |
+| High | LAI-0/1 | State-level problems; local resistance possible |
+| High | LAI-2/3 | Degradation extends to local level; recovery harder |
+
+**Reporting:**
+
+When LAI is assessed for sampled states, include in output:
+
+```text
+Local Accountability Assessment:
+- TX: LAI-1 (some county-level capture documented)
+- WI: LAI-2 (legislative override of local authority; non-competitive county elections)
+- CA: LAI-0 (competitive local elections; functional oversight)
+
+Note: High DBS-State + High LAI indicates deep penetration of democratic degradation.
+```
+
+**Interaction with EPM-SES:**
+
+LAI and EPM-SES are related:
+- Low-SES populations depend on local services (Medicaid administration, social services, labor enforcement)
+- When local officials are unaccountable (high LAI), these populations have no lever to influence implementation
+- High LAI + High EPM-SES = effective exclusion of low-income populations from political influence at all levels
+
+**Workforce Application:**
+
+For care workforce analysis:
+- Medicaid reimbursement rates are state-set but locally administered
+- Wage and hour enforcement often depends on local agencies
+- Care workforce advocacy requires local as well as state engagement
+
+When LAI is elevated in states with significant care workforce populations, note "local capture affecting care infrastructure" in interpretation.
+
 ---
 
 ### 4.9 Intent / Direction Metadata
@@ -1102,22 +1265,22 @@ No hand-waving. No special pleading. No exception logic.
 | Category | Checkpoints | Max Score |
 | -------- | ----------- | --------- |
 | A        | 4 (A1–A4)   | 20        |
-| B        | 7 (B1–B7)   | 35        |
-| C        | 8 (C1–C8)   | 40        |
-| D        | 12 (D1–D12) | 60        |
-| E        | 4 (E1–E4)   | 20        |
-| F        | 7 (F1–F7)   | 35        |
+| B        | 8 (B1–B8)   | 40        |
+| C        | 9 (C1–C9)   | 45        |
+| D        | 13 (D1–D13) | 65        |
+| E        | 6 (E1–E5, with E3a/E3b split) | 30 |
+| F        | 8 (F1–F8)   | 40        |
 
 ### 6.2 Final Score Formula
 
 ```
 DBS = 100 × (
   0.10·A/20 +
-  0.18·B/35 +
+  0.18·B/40 +
   0.18·C/45 +
   0.24·D/65 +
-  0.10·E/25 +
-  0.20·F/35
+  0.10·E/30 +
+  0.20·F/40
 )
 ```
 
@@ -1235,6 +1398,61 @@ Red-lines: D5, F6
 **Legacy Compatibility:**
 
 The previous "Legislative Pathway Dominance Rule" is subsumed by this classification. The `legislative_capture` and `legislative_dysfunction` labels are now subcategories of `legislative-driven` mode.
+
+#### Party Personalism Indicator (Contextual)
+
+**Purpose:** Party personalism—the degree to which a political party is organized around a single leader's authority rather than institutional rules, platforms, or norms—affects the *reversibility* of democratic backsliding. This indicator does not add checkpoints or score points but provides interpretive context.
+
+**V-Dem Alignment:** This corresponds to V-Dem's v2paperson indicator (Party Personalism), which measures whether parties are leader-centric vs. institutionalized.
+
+**Why this matters:**
+
+| Party Structure | Policy Implication | Backsliding Reversibility |
+|-----------------|-------------------|---------------------------|
+| **Institutionalized** | Policy positions stable across leadership changes; coalition-building possible; long-term reform achievable | Easier—leadership change doesn't require party transformation |
+| **Personalist** | Policy driven by leader preferences; coalition-building unstable; complex reform deprioritized | Harder—reversal requires both leader removal AND party reinstitutionalization |
+
+**Personalism Assessment:**
+
+| Level | Indicators |
+|-------|------------|
+| **Low** | Competitive primaries; platform-driven campaigns; leadership transitions occur through established processes; party survives leader departure |
+| **Moderate** | Leader dominates but party structures function; some policy independence from leader; succession processes exist but rarely tested |
+| **High** | Leader = party identity; no meaningful internal competition; policy is leader preference; party would fracture without leader |
+
+**When to note personalism:**
+
+Include personalism assessment in interpretation when:
+
+1. **Pathway is executive-driven:** High personalism in ruling party makes F-category risks more severe—loyalty is to person, not institution
+2. **DBS ≥ 40:** At elevated threat levels, personalism affects whether electoral path to reversal is viable
+3. **D13 (Anti-Pluralist Rhetoric) ≥ 3:** Personalism + anti-pluralism often co-occur and compound
+
+**Reporting format:**
+
+```text
+Contextual Factors:
+- Ruling party personalism: High (leader identification with party complete; no succession mechanism)
+- Implication: Democratic reversal would require not just electoral change but ruling party transformation
+```
+
+**Care Workforce Connection:**
+
+Complex policy reform (e.g., sectoral bargaining for $20/hour wage floor) requires:
+- Sustained legislative coalition-building
+- Multi-year implementation roadmaps
+- Predictable policy environment for investment
+
+High personalism undermines these conditions: leader-centric parties often abandon complex reform in favor of high-salience grievance politics. When personalism is high in states with significant care workforce populations, note that "structural reform capacity is degraded by party personalism."
+
+**What this indicator does NOT do:**
+
+- Add points to DBS score
+- Trigger flags or multipliers
+- Change checkpoint scoring
+- Distinguish between parties (opposition personalism is also relevant)
+
+It provides interpretive context only—helping analysts understand whether observed backsliding patterns are likely to be reversed through normal political cycles or require structural transformation.
 
 ### 6.3 Red-Line Multipliers (Hard Thresholds)
 
@@ -4746,7 +4964,7 @@ The key discriminator is whether the proposed measures operate *within* legal co
 
 ---
 
-### Category B — Coercive State Power Used Politically (B1–B7)
+### Category B — Coercive State Power Used Politically (B1–B8)
 
 #### B1 — Federal law enforcement used against protest activity
 
@@ -4938,6 +5156,72 @@ B7 captures outsourced coercion — private actors functioning as enforcement pr
 
 ---
 
+#### B8 — Access to Justice Degradation
+
+**Definition:**
+Systematic degradation of access to the legal system for disadvantaged populations, such that legal rights exist on paper but are practically inaccessible due to resource barriers, procedural obstacles, or geographic unavailability.
+
+**Why this matters:**
+Laws that protect workers, tenants, consumers, and other vulnerable populations depend on judicial enforcement. When access to justice is degraded, the "shield" function of the legal system withdraws from those who need it most. This creates a two-tiered legal system where formal rights are available only to those with resources to enforce them.
+
+**Includes:**
+
+- Systematic closure of courts or reduction in hours/capacity in low-income areas
+- Filing fees, bond requirements, or procedural costs that effectively bar low-income litigants
+- Elimination or defunding of legal aid programs serving disadvantaged populations
+- Procedural complexity increases that require legal representation most cannot afford
+- Mandatory arbitration clauses that remove access to courts for entire categories of disputes
+- Immigration enforcement at courthouses that deters undocumented persons from seeking justice
+- Interpreter unavailability that prevents non-English speakers from meaningful participation
+- Remote/digital-only proceedings without accommodation for those lacking technology access
+
+**Excludes:**
+
+- Court efficiency reforms that improve access while reducing costs
+- Reasonable filing fees with functional fee waiver programs
+- Alternative dispute resolution that is genuinely voluntary and balanced
+- Normal case management that applies equally to all parties
+- Geographic consolidation that maintains reasonable access
+- Procedural reforms developed through inclusive stakeholder processes
+
+**B8 Severity Anchors:**
+
+| Score | Anchor |
+| ----: | ------ |
+| **1** | Rhetoric about court efficiency; isolated procedural changes that mildly disadvantage low-resource litigants; funding cuts proposed but not enacted |
+| **2** | Discrete access barriers documented (specific court closures, fee increases, legal aid cuts) affecting identifiable populations; workarounds remain available |
+| **3** | Multiple access barriers creating systematic disadvantage for low-income populations; enforcement of statutory protections measurably declining; legal aid capacity significantly reduced |
+| **4** | Access to courts effectively conditioned on economic status; mandatory arbitration or procedural barriers remove entire dispute categories from judicial review; low-income populations cannot practically enforce rights |
+| **5** | Two-tiered legal system normalized; legal rights for disadvantaged populations are decorative; judicial enforcement of worker, tenant, and consumer protections effectively unavailable |
+
+**Key discriminator:** Whether access barriers are **isolated and navigable** (≤2) or **systematic and effectively preclusive** (≥3). The critical question is whether disadvantaged populations can practically enforce their legal rights.
+
+**V-Dem Alignment:** B8 corresponds to V-Dem's v2peaccjust (Access to justice). This indicator measures whether all social groups enjoy secure and effective access to justice—not just formal legal equality, but practical ability to seek judicial remedy.
+
+**Workforce Application:**
+
+For low-wage workers, access to justice determines whether statutory protections are real:
+
+- FLSA wage theft claims require resources and time most low-wage workers lack
+- Medicaid pass-through enforcement depends on state attorney general action or private litigation
+- Workplace safety violations require OSHA complaints that may invite retaliation
+- Immigration status fears prevent many care workers from reporting violations
+
+When B8 is elevated, the legal "shield" protecting the 62% people of color and 87% women in care work effectively disappears—wages can be stolen, safety violations ignored, and discrimination unpunished because enforcement is practically unavailable.
+
+**Interaction with other checkpoints:**
+
+| Pattern | Interpretation |
+|---------|----------------|
+| B8 elevated, C3 low | Shield withdrawn without sword deployed—passive exclusion from legal protection |
+| B8 elevated, C3 elevated | Two-tiered justice: prosecution of opponents + exclusion of disadvantaged from protection |
+| B8 elevated, EPM-SES high | Compounding: low-SES populations excluded from both political influence AND legal protection |
+
+**Clarifying note:**
+B8 captures the "shield" dimension of legal system access—whether disadvantaged populations can use courts to enforce their rights. This is distinct from C3 (prosecutorial targeting), which captures the "sword" dimension—whether prosecution is weaponized against political opponents. Both may co-exist: a legal system that prosecutes enemies while being inaccessible to the vulnerable.
+
+---
+
 ### Category C — Rule of Law & Courts (C1–C9)
 
 #### C1 — Noncompliance with court orders *(Red-line checkpoint)*
@@ -4999,21 +5283,49 @@ This is a red-line checkpoint. The core question is whether courts can bind exec
 #### C2 — Retaliation against judges or courts
 
 **Definition:**
-Use or threat of political, financial, or personal consequences against the judiciary.
+Use or threat of political, financial, or personal consequences against the judiciary, including forced removal or "retirement" of judges for political reasons.
 
 **Includes:**
 
 - Impeachment threats tied to rulings
 - Budget cuts or jurisdiction stripping
 - Intimidation or harassment campaigns
+- Forced removal, resignation, or early retirement of judges based on rulings
+- Systematic non-replacement creating functional incapacity
+- Reconstituting courts with loyalty-vetted replacements
 
 **Excludes:**
 
 - Lawful appeals or constitutional critiques
 - Good-faith reform proposals
+- Normal judicial retirement and replacement processes
+- Removal for documented misconduct unrelated to rulings
+- Court expansion through transparent legislative process with bipartisan deliberation
+
+**C2 Severity Anchors:**
+
+| Score | Anchor |
+| ----: | ------ |
+| **1** | Rhetorical attacks on courts or specific judges; isolated impeachment threats without legislative action |
+| **2** | Single retaliatory action (targeted budget cut, jurisdiction stripping for specific case, harassment campaign against individual judge) |
+| **3** | Multiple judges or courts targeted; pattern of retaliation creating chilling effect; OR court-stripping legislation enacted |
+| **4** | Forced removal or "retirement" of judges based on rulings; systematic non-replacement creating functional incapacity; judiciary unable to check executive in practice |
+| **5** | Mass judicial purge; courts reconstituted with loyalty-vetted replacements; judiciary functions as executive arm |
+
+**Key discriminator:** Whether retaliation is **rhetorical or isolated** (≤2) or **creates systematic judicial incapacity** (≥3). Scores 4-5 indicate the judiciary has been structurally dismantled, not merely pressured.
+
+**V-Dem Alignment:** C2 scores 4-5 correspond to V-Dem's v2jupurge indicator (Judicial purges). A purge is a qualitative shift from "ignoring the courts" (C1) to "replacing the courts" (C2 ≥ 4). When both C1 and C2 are elevated, the judicial "shield" has been completely dismantled.
+
+**Interaction with C1:**
+
+| Pattern | Interpretation |
+|---------|----------------|
+| C1 high, C2 low | Courts being defied but structurally intact; resistance possible |
+| C1 low, C2 high | Courts being captured through personnel replacement; compliance degradation |
+| C1 high, C2 high | Courts both defied AND being reconstituted; judicial check effectively eliminated |
 
 **Clarifying note:**
-The distinction is between *disagreement with rulings* (excluded) and *punishment for rulings* (included). Criticizing a judge's reasoning is excluded; threatening a judge's position because of their ruling is included.
+The distinction is between *disagreement with rulings* (excluded) and *punishment for rulings* (included). Criticizing a judge's reasoning is excluded; threatening a judge's position because of their ruling is included. At scores ≥4, the question shifts from "is the judiciary being pressured?" to "does an independent judiciary still exist?"
 
 ---
 
@@ -5774,26 +6086,78 @@ Example: Defunding all federal courts to prevent ruling on executive actions →
 
 ---
 
-### Category E — Information Environment Capture (E1–E5)
+### Category E — Information Environment Capture (E1–E5, with E3a/E3b split = 6 checkpoints)
 
 #### E1 — Retaliation against media
 
 **Definition:**
-State action punishing or threatening critical journalism.
+State action punishing or threatening critical journalism, or conditions that induce media self-censorship without formal state action.
 
 **Includes:**
 
 - License revocations
 - Arrests or prosecutions
 - Access bans tied to coverage
+- Credentialing denials based on content
+- Advertising boycott coordination by state actors
+- Legal harassment through repeated litigation even if unsuccessful
+- Surveillance of journalists that creates chilling effect
 
 **Excludes:**
 
 - Neutral enforcement of general laws
-- Defamation rulings via courts
+- Defamation rulings via courts applying neutral standards
+- Legitimate security screening for access to sensitive areas
+- Normal editorial decisions by media organizations
 
 **Clarifying note:**
 The key question is whether state action targets *journalism* or *criminal conduct*. Prosecution of a journalist for unrelated crimes is excluded; prosecution tied to reporting is included. Access bans must be connected to coverage content, not security or logistics.
+
+**Self-Censorship Indicators (Early Warning):**
+
+Media self-censorship is the shadow indicator that precedes visible press freedom decline. When journalists and outlets avoid topics or critical reporting due to anticipated government reprisal—even absent formal censorship—the information environment is already compromised.
+
+**V-Dem Alignment:** E1 incorporates V-Dem's v2meslfcen (Media self-censorship) indicator, which measures whether journalists and media houses avoid certain topics or tone down criticism for fear of government reprisal.
+
+**Self-Censorship Evidence:**
+
+| Indicator | Evidence Type | E1 Impact |
+|-----------|---------------|-----------|
+| **Topic avoidance** | Documented reduction in coverage of specific topics following government criticism or threats | Supports score ≥2 |
+| **Source drying** | Officials, experts, or witnesses declining to speak on record about government actions | Supports score ≥2 |
+| **Preemptive toning** | Editorial decisions to soften criticism documented through leaked communications or whistleblower accounts | Supports score ≥3 |
+| **Beat abandonment** | Journalists reassigned from or declining to cover politically sensitive topics | Supports score ≥3 |
+| **Ownership pressure** | Media owners pressuring editorial staff based on anticipated government reaction | Supports score ≥4 |
+
+**Self-Censorship Severity Interaction:**
+
+| Pattern | Interpretation |
+|---------|----------------|
+| E1 overt action low, self-censorship high | Anticipatory compliance: media restricting itself before formal action—chilling effect achieved without visible repression |
+| E1 overt action high, self-censorship high | Effective suppression: visible punishment + anticipatory compliance = comprehensive press restriction |
+| E1 overt action high, self-censorship low | Resistance: press continues critical coverage despite punishment—democratic resilience indicator |
+
+**Care Workforce Invisibility Connection:**
+
+Self-censorship contributes to systematic underreporting of:
+- Nursing home staffing quality and safety violations
+- Medicaid rate-setting failures and wage theft
+- Care workforce conditions and organizing efforts
+- Elder abuse and neglect in understaffed facilities
+
+When media avoids care sector investigation due to advertiser pressure (nursing home industry) or political sensitivity, the "invisibility" of the care crisis is maintained through information environment failure rather than formal censorship.
+
+**E1 Severity Anchors:**
+
+| Score | Anchor |
+| ----: | ------ |
+| **1** | Rhetorical attacks on media; isolated access denials; no evidence of self-censorship beyond normal editorial discretion |
+| **2** | Single punitive action against critical outlet/journalist; OR documented self-censorship on specific topics following government pressure |
+| **3** | Multiple journalists/outlets targeted; access systematically limited based on coverage; OR widespread self-censorship documented across multiple outlets |
+| **4** | Punitive actions creating measurable chilling effect; critical journalism requires personal risk; self-censorship normalized across mainstream media |
+| **5** | Critical journalism effectively impossible; remaining press functions as state-aligned; no outlet willing to report critically on government |
+
+**Key discriminator:** Whether press restrictions are **contested and limited** (≤2) or **creating systematic deterrence of critical journalism** (≥3). The critical question is whether journalists can report critically on government without professional or personal consequence.
 
 ---
 
@@ -5951,7 +6315,81 @@ E4 captures *selective* criminalization—misinformation laws applied against po
 
 ---
 
-### Category F — Security Services & Loyalty (F1–F7)
+#### E5 — Politicization of Knowledge Institutions
+
+**Definition:**
+Political interference in universities, research institutions, or scientific agencies that compromises their independence to produce and disseminate knowledge based on evidence and expertise rather than political preference.
+
+**Why this matters:**
+Knowledge institutions serve as independent validators of claims about reality. When politicized, they cannot perform this function—expert consensus becomes indistinguishable from political opinion. This enables other forms of democratic erosion by degrading the shared factual basis for democratic deliberation.
+
+**Includes:**
+
+- Political interference in university governance (board appointments, president removals) based on ideological criteria
+- Funding conditionality tied to research outcomes or ideological compliance
+- Curriculum mandates that override professional educational standards for political purposes
+- Retaliation against researchers for findings that contradict government positions
+- Defunding or restructuring research agencies to suppress inconvenient findings
+- Banning or restricting specific topics, methodologies, or terminologies for political reasons
+- Mandatory "balance" requirements that elevate non-expert views to parity with expert consensus
+- Political vetting of grant applications or research publications
+
+**Excludes:**
+
+- Normal policy debates about education funding or priorities
+- Legitimate curriculum standards developed through professional processes
+- Performance-based funding tied to educational outcomes (graduation rates, employment)
+- Restructuring of research agencies with transparent rationale and maintained scientific capacity
+- Public criticism of research findings without institutional consequences
+- Defunding based on documented misconduct or waste
+- Requirements for research transparency or data sharing
+
+**E5 Severity Anchors:**
+
+| Score | Anchor |
+| ----: | ------ |
+| **1** | Political rhetoric criticizing universities or research institutions; funding threats without action; isolated curriculum debates |
+| **2** | Single institution targeted for political reasons; isolated researcher retaliation; funding cuts to specific programs with political rationale |
+| **3** | Multiple institutions affected; systematic curriculum mandates overriding professional standards; research agencies restructured to limit independence |
+| **4** | Knowledge production systematically constrained; researchers self-censor on politically sensitive topics; institutional autonomy functionally eliminated in affected areas |
+| **5** | Universities and research institutions function as state propaganda arms; independent research effectively prohibited; expert dissent criminalized or impossible |
+
+**Key discriminator:** Whether interference is **isolated and contested** (≤2) or **systematic and institutionally embedded** (≥3). The critical question is whether knowledge institutions retain capacity for independent inquiry.
+
+**V-Dem Alignment:** E5 corresponds to V-Dem's Academic Freedom indicators (v2cainsaut for institutional autonomy, v2cafexch for campus expression, v2casurv for surveillance of academics). These measure whether universities can govern themselves, whether campus discourse is free, and whether academics face monitoring.
+
+**Subnational Application:**
+
+E5 is particularly relevant for subnational (state-level) assessment because education governance is often state-controlled:
+
+- State legislatures mandating or banning specific curriculum content
+- State boards of education overriding professional standards
+- State university system governance captured by political appointees
+- State-level defunding of research on politically sensitive topics
+
+When ≥3 states show E5 ≥ 3 with similar mechanisms within 24 months, note "coordinated knowledge institution politicization" in interpretation—this may indicate a national pattern emerging through state-level action.
+
+**Relationship to other checkpoints:**
+
+- **E3a/E3b (Information environment):** E5 degrades the *production* of authoritative knowledge; E3 captures the *distribution* environment
+- **F1/F3 (Civil service):** E5 focuses on *academic* institutions; F1/F3 focus on *government* bureaucracy
+- **C4 (Watchdog undermining):** Research institutions often serve watchdog functions; E5 captures when that capacity is politicized
+
+**Care Workforce Connection:**
+
+Evidence-based care workforce training depends on independent research on:
+- Effective care delivery models
+- Workforce health and safety
+- Demographic and economic analysis of care needs
+
+When E5 is elevated, research on "gendered logic of care," "racial stratification in care work," or economic analysis of care infrastructure becomes politically constrained—degrading the evidence base for policy reform.
+
+**Clarifying note:**
+E5 is scored based on *political* interference with knowledge production, not normal policy disagreements about education. A legislature debating education funding is excluded; a legislature mandating that universities cannot teach certain topics is included. The key evidence is whether professional academic standards are being overridden by political diktat.
+
+---
+
+### Category F — Security Services & Loyalty (F1–F8)
 
 #### F1 — Civil service loyalty tests (Bureaucratic Autonomy)
 
@@ -6187,11 +6625,119 @@ A surveillance state that exists but isn't politically weaponized scores on F7 o
 | ----: | ------ |
 | **1** | Surveillance expansion proposed or funded; no operational deployment against domestic population |
 | **2** | Isolated deployment (single program, limited scope) without clear judicial oversight; OR revelation of existing surveillance exceeding legal authorization |
-| **3** | Multiple surveillance systems operational against domestic population; OR mass surveillance deployed specifically at political gatherings/protests |
-| **4** | Integrated surveillance ecosystem across programs; minimal judicial oversight in practice; chilling effect on political activity documented |
+| **3** | Multiple surveillance systems operational against domestic population; OR mass surveillance deployed specifically at political gatherings/protests; OR systematic social media monitoring of political organizing |
+| **4** | Integrated surveillance ecosystem across programs; minimal judicial oversight in practice; chilling effect on political activity documented; social media monitoring actively used to identify and preempt organizing |
 | **5** | Comprehensive domestic surveillance normalized; real-time population monitoring capability; surveillance data used for political purposes; oversight effectively non-existent |
 
 **Key discriminator:** Whether surveillance is **targeted with judicial oversight** (≤1) or **mass-scale without meaningful constraints** (≥3).
+
+**Digital Surveillance Indicators (V-Dem DSP alignment):**
+
+F7 incorporates the Digital Society Project's "Government Social Media Monitoring" indicator (v2smmonit). Score F7 higher when evidence shows:
+
+| Indicator | Evidence Type | F7 Impact |
+|-----------|---------------|-----------|
+| **Passive monitoring** | Government agencies systematically track public social media posts for political content | Supports score ≥2 |
+| **Active infiltration** | Agents or informants join online groups, private channels, or encrypted platforms to monitor organizing | Supports score ≥3 |
+| **Predictive identification** | AI/ML systems identify potential organizers or dissidents before public activity | Supports score ≥4 |
+| **Preemptive disruption** | Surveillance data used to disrupt organizing before public action (arrests, employer pressure, benefit scrutiny) | Supports score ≥4; also score F4 |
+
+**Labor Movement Canary:**
+
+Digital surveillance of labor organizing is a sensitive early indicator. When evidence shows:
+- Monitoring of union social media accounts or encrypted channels
+- Identification of organizing leaders through digital footprint analysis
+- Coordination with employers to share surveillance data
+- Preemptive action against workers based on online organizing activity
+
+...score F7 at minimum ≥3 and note "labor surveillance" in event log. Labor movements are historically early targets of surveillance states; their targeting signals broader political surveillance capacity.
+
+**Scoring interaction with F4:**
+
+| Pattern | F7 Score | F4 Score | Interpretation |
+|---------|----------|----------|----------------|
+| Mass surveillance exists but not politically targeted | F7 ≥ 3 | F4 = 0-1 | Infrastructure risk; political weaponization possible |
+| Targeted political surveillance without mass infrastructure | F7 = 1-2 | F4 ≥ 3 | Selective persecution; limited but dangerous |
+| Mass surveillance AND political targeting | F7 ≥ 3 | F4 ≥ 3 | Maximum danger; comprehensive political control capability |
+
+---
+
+#### F8 — Regulatory Silencing of Civil Society Organizations
+
+**Definition:**
+Use of administrative, regulatory, or legal tools to harass, burden, or suppress civil society organizations (CSOs) including unions, advocacy groups, professional associations, and non-profits—without direct criminalization but through bureaucratic weaponization.
+
+**Why this matters:**
+CSOs serve as transmission belts between citizens and policymakers, as watchdogs monitoring government action, and as organizing vehicles for collective voice. Regulatory silencing achieves suppression without the political cost of overt criminalization—organizations are not banned but are made operationally impossible.
+
+**Includes:**
+
+- Tax audits or IRS scrutiny targeted at organizations based on political activity or viewpoint
+- Selective enforcement of reporting requirements against disfavored organizations
+- Licensing or permit denials/delays for politically active organizations
+- Burdensome registration requirements that exceed legitimate oversight needs
+- Funding restrictions or grant denials based on advocacy positions
+- Requirements to disclose donors or members in ways that expose them to retaliation
+- Administrative delays that prevent organizations from operating during critical periods
+- Reclassification of organizations to impose additional burdens (e.g., "foreign agent" designations)
+- Selective enforcement of workplace rules against union organizers
+- Deregistration or decertification of labor unions on procedural technicalities
+
+**Excludes:**
+
+- Neutral enforcement of generally applicable tax laws
+- Legitimate oversight of non-profit financial practices
+- Evidence-based enforcement of workplace safety or labor law violations
+- Routine audits within normal statistical parameters
+- Requirements that apply equally to organizations across the political spectrum
+- Enforcement actions against organizations engaged in documented illegal activity
+- Transparency requirements that protect donor privacy appropriately
+
+**F8 Severity Anchors:**
+
+| Score | Anchor |
+| ----: | ------ |
+| **1** | Rhetoric targeting CSOs; isolated administrative actions that may be politically motivated but lack clear pattern; policy proposals to increase CSO burdens |
+| **2** | Discrete instances of regulatory targeting (specific audits, permit delays) affecting identifiable organizations; pattern emerging but deniability remains |
+| **3** | Multiple CSOs facing administrative harassment; pattern of selective enforcement documented; organizations report self-censoring or reducing advocacy to avoid targeting |
+| **4** | Regulatory environment systematically hostile to independent CSOs; administrative burdens make effective organizing difficult; major organizations constrained or deterred |
+| **5** | CSO space functionally closed through administrative means; independent organizations cannot operate effectively; civil society reduced to regime-aligned entities |
+
+**Key discriminator:** Whether regulatory actions are **isolated and deniable** (≤2) or **patterned and systematically suppressive** (≥3). The critical question is whether CSOs can operate effectively without government permission.
+
+**V-Dem Alignment:** F8 corresponds to V-Dem's v2csreprss (CSO repression) indicator, which measures whether the government attempts to repress civil society organizations. The indicator captures both overt suppression and more subtle harassment through legal and administrative means.
+
+**Workforce Application:**
+
+For care workforce organizing, F8 captures whether worker-led organizations can function:
+
+- Tax audits of care worker unions or advocacy organizations
+- Denial of non-profit status for care workforce advocacy groups
+- Selective enforcement of NLRA violations against care sector organizing
+- Administrative delays in union certification elections
+- Funding restrictions preventing advocacy for $20/hour living wage
+
+When F8 is elevated, the "Primary Stakeholders" identified in care workforce analysis—SEIU, AFSCME, PHI, Caring Across Generations—face operational barriers that prevent effective advocacy regardless of their legal right to organize.
+
+**Interaction with other checkpoints:**
+
+| Pattern | Interpretation |
+|---------|----------------|
+| F8 elevated, F7 elevated | Surveillance + regulatory harassment: CSOs monitored AND administratively suppressed |
+| F8 elevated, B6 elevated | Dual targeting: regulatory harassment of CSOs + coercive enforcement against individuals |
+| F8 elevated, CSO Consultation flag negative | CSOs excluded from policy AND administratively suppressed—civil society silenced |
+
+**Relationship to B7:**
+
+F8 and B7 both involve non-criminal pressure on civil society, but differ in mechanism:
+
+- **B7 (Private-sector coercion):** State signals to private actors to penalize organizations/individuals
+- **F8 (Regulatory silencing):** State directly uses administrative tools to burden organizations
+
+If a government pressures banks to close CSO accounts, score B7. If a government audits CSO tax filings selectively, score F8. Both may apply in coordinated campaigns.
+
+**Clarifying note:**
+F8 captures the "red tape" strategy of CSO suppression—death by a thousand administrative cuts rather than direct criminalization. The key evidence is whether regulatory actions target CSOs *because of* their political activity or advocacy positions rather than neutral enforcement of generally applicable rules. Statistical anomalies (organizations of one viewpoint audited at higher rates), timing correlations (enforcement following criticism), and pattern evidence (similar treatment across unrelated agencies) all support F8 scoring.
 
 ---
 
@@ -6225,6 +6771,41 @@ These multipliers exist to prevent **false reassurance** from averaged scores wh
 | v1.1c | 2026-01 | Red-line refinements, diagnostic flags, operational guidance (see detailed changelog below) |
 | v1.1d | 2026-01 | Added B7 checkpoint, Asymmetric Information Environment flag, subnational scoring clarifications, C5/D3 expanded guidance |
 | v1.1e | 2026-02 | EX_TA mechanical exclusion rules, checkpoint metadata, schema-1.4 output updates |
+| v1.1f | 2026-01 | V-Dem integration expansion: B8, F8, EPM-GEN, E1 self-censorship enhancement (see detailed changelog below) |
+
+### v1.1f Detailed Changelog (2026-01)
+
+**New Checkpoints:**
+
+- B8 (Access to Justice Degradation): Captures systematic barriers to legal system access for disadvantaged populations; aligns with V-Dem v2peaccjust
+- F8 (Regulatory Silencing of CSOs): Captures administrative/regulatory harassment of civil society organizations; aligns with V-Dem v2csreprss
+
+**New Modifiers:**
+
+- EPM-GEN (Gendered Power Distribution): Parallel to EPM-SES, captures whether women can meaningfully influence political outcomes; aligns with V-Dem v2pepwrgen
+- Particularly relevant for female-dominated workforces (87% women in care work)
+
+**Checkpoint Enhancements:**
+
+- E1 (Media retaliation): Enhanced with self-censorship indicators (V-Dem v2meslfcen) as early warning for press freedom decline
+- Added severity anchors, evidence types, and care workforce invisibility connection
+
+**Formula Updates:**
+
+- Category B max increased from 35 to 40 (8 checkpoints)
+- Category F max increased from 35 to 40 (8 checkpoints)
+- Formula denominators updated: B/35 → B/40, F/35 → F/40
+
+**V-Dem Concordance Updates:**
+
+- Added B8, F8, EPM-GEN to concordance tables
+- Updated E1 concordance to include v2meslfcen
+
+**Backward Compatibility:**
+
+- v1.1e → v1.1f: Fully compatible; new checkpoints score 0 for historical runs
+- Denominator increases maintain principle that high category scores require multiple indicators
+- EPM-GEN is optional modifier; existing EPM assessments remain valid
 
 ### v1.1e Detailed Changelog (2026-02)
 
@@ -6348,7 +6929,11 @@ These multipliers exist to prevent **false reassurance** from averaged scores wh
 - Updated Category D formula from D/40 to D/60 (v1.1b), then D/60 to D/65 (v1.1e+)
 - Added D13 (Anti-pluralist rhetoric) for systematic delegitimization of opponents (v1.1e+)
 - Split E3 into E3a (organic polarization) and E3b (coordinated operations) (v1.1e+)
-- Updated Category E formula from E/20 to E/25 (v1.1e+)
+- Added E5 (Politicization of knowledge institutions) for academic freedom erosion (v1.1e+)
+- Updated Category E formula from E/20 to E/30 (v1.1e+)
+- Enhanced F7 with digital surveillance indicators (DSP v2smmonit alignment)
+- Added Local Accountability Index (LAI) to SVI assessment (v2lggovac alignment)
+- Added Party Personalism as pathway mode contextual indicator (v2paperson alignment)
 - Added D11 (Election infrastructure attacks) for cyber/physical attacks on election systems
 - Added D11 as conditional red-line checkpoint (activates at ≥3)
 - Added D12 (Foreign interference, non-collusive) with detailed severity anchors
@@ -7786,8 +8371,8 @@ This appendix defines the automated validation layer for DBS runs. Validation tr
 
 | Check | Rule | Formula/Logic |
 |-------|------|---------------|
-| Category totals | Sum of checkpoint effective scores ≤ category max | `sum(checkpoints) ≤ {A:20, B:35, C:45, D:65, E:25, F:35}` |
-| Weighted aggregate | Pre-multiplier DBS matches formula | `0.10×A/20 + 0.18×B/35 + 0.18×C/45 + 0.24×D/65 + 0.10×E/25 + 0.20×F/35` |
+| Category totals | Sum of checkpoint effective scores ≤ category max | `sum(checkpoints) ≤ {A:20, B:35, C:45, D:65, E:30, F:35}` |
+| Weighted aggregate | Pre-multiplier DBS matches formula | `0.10×A/20 + 0.18×B/40 + 0.18×C/45 + 0.24×D/65 + 0.10×E/30 + 0.20×F/40` |
 | Red-line triggers | `red_lines_triggered` matches checkpoint scores | C1≥3 AND B5≥3 → courts_military; D5/D6/D11≥3 → electoral; F2≥3 → military; F6≥3 → immunity |
 | Multiplier application | Final DBS includes correct multipliers | +10 (courts+military), +15 (electoral), +10 (F2), +10 (F6) |
 | Gating enforcement | No effective score exceeds base-dependent cap | `cap_by_base = {1→2, 2→4, 3→5, 4→5, 5→5}` |
@@ -8115,7 +8700,7 @@ DBS = 100 × (0.10×4/20 + 0.18×6/35 + 0.18×5/40 + 0.24×2/60 + 0.10×3/20 + 0
 Wait—this calculation yields only ~11, well below the target range. Let me recalculate with the understanding that category scores, not percentages, drive the formula:
 
 ```
-DBS = 100 × (0.10×(A/20) + 0.18×(B/35) + 0.18×(C/40) + 0.24×(D/60) + 0.10×(E/20) + 0.20×(F/35))
+DBS = 100 × (0.10×(A/20) + 0.18×(B/40) + 0.18×(C/45) + 0.24×(D/65) + 0.10×(E/30) + 0.20×(F/40))
 ```
 
 With scores: A=4, B=6, C=5, D=2, E=3, F=3
@@ -8818,13 +9403,14 @@ This appendix maps DBS checkpoints to comparable indicators from established dem
 | B5 (Domestic military deployment) | Military involvement | v2x_ex_military | Military in executive |
 | B6 (Parallel coercive structures) | — | — | No direct equivalent |
 | B7 (Federalized local enforcement) | — | — | US-specific; no V-Dem equivalent |
+| B8 (Access to justice degradation) | Access to justice | v2peaccjust | Equal access to justice for all groups |
 
 #### Category C — Courts and Legal System
 
 | DBS Checkpoint | V-Dem Indicator(s) | V-Dem Code | Notes |
 |----------------|-------------------|------------|-------|
 | C1 (Court defiance) | Executive compliance | v2jucomp | Compliance with judiciary |
-| C2 (Court packing/stripping) | Judicial independence | v2juhcind | High court independence |
+| C2 (Court packing/stripping) | Judicial independence, purges | v2juhcind, v2jupurge | High court independence; judicial purges |
 | C3 (Politicized prosecution) | Judicial harassment | v2juhaession | Harassment of opponents |
 | C4 (Watchdog undermining) | Oversight bodies | v2lgotovst | Legislative oversight |
 | C5 (Unilateral executive expansion) | Executive constraints | v2x_execorr | Executive respects constitution |
@@ -8855,11 +9441,12 @@ This appendix maps DBS checkpoints to comparable indicators from established dem
 
 | DBS Checkpoint | V-Dem Indicator(s) | V-Dem Code | Notes |
 |----------------|-------------------|------------|-------|
-| E1 (Media retaliation) | Media harassment | v2meharjrn | Journalist harassment |
+| E1 (Media retaliation) | Media harassment, self-censorship | v2meharjrn, v2meslfcen | Journalist harassment; media self-censorship |
 | E2 (Platform manipulation) | Internet censorship | v2smgovfilprc | Government filtering |
 | E3a (Organic polarization) | Media polarization | v2smprivex | Private media diversity |
 | E3b (Coordinated operations) | State media, DSP | v2meslfcen, v2smgovdom | Media self-censorship; DSP coordinated ops |
 | E4 (Misinformation criminalization) | Media freedom | v2mecenefm | Government censorship effort |
+| E5 (Knowledge institution politicization) | Academic freedom | v2cainsaut, v2cafexch | Institutional autonomy; campus expression |
 
 #### Category F — Security Services & Loyalty
 
@@ -8872,6 +9459,7 @@ This appendix maps DBS checkpoints to comparable indicators from established dem
 | F5 (Institutional purges) | — | — | Use F1 + F3 combination |
 | F6 (Leader immunity) | Executive accountability | v2exrescon | Executive respects constitution |
 | F7 (Surveillance expansion) | Privacy | v2cldmovem | Freedom of movement/privacy |
+| F8 (Regulatory silencing of CSOs) | CSO repression | v2csreprss | Civil society organization repression |
 
 ### J.3 V-Dem Composite Index Alignment
 
@@ -8919,10 +9507,12 @@ DBS captures this through:
 - V-Dem: v2x_egal (Egalitarian democracy index)
 - V-Dem: v2pepwrsoc (Social group power distribution)
 - V-Dem: v2pepwrses (SES power distribution)
+- V-Dem: v2pepwrgen (Gender power distribution)
 
 DBS captures this through:
 - Effective Participation Modifier (EPM) on D-category checkpoints
 - EPM-SES extension for socioeconomic barriers to effective participation
+- EPM-GEN extension for gendered barriers to effective political influence
 - B3 (Selective enforcement by identity)
 - D2 (Targeted disenfranchisement)
 
@@ -8934,6 +9524,14 @@ DBS captures this through:
 - EPM-SES (Socioeconomic Status Power Distribution) modifier on D-category checkpoints
 - Tracks whether low-SES populations can meaningfully influence political outcomes, not just whether they can vote
 - Addresses "economic floor" problem where formal rights become decorative when economic precarity is severe
+
+**Gendered Power Distribution:**
+- V-Dem: v2pepwrgen (Power distributed by gender)
+
+DBS captures this through:
+- EPM-GEN (Gendered Power Distribution) modifier on D-category checkpoints
+- Tracks whether women can meaningfully influence political outcomes, not just whether they can vote or hold office
+- Particularly relevant for female-dominated workforces (caregiving, domestic work) where formal representation may not translate to policy influence
 
 **Civil Society Consultation:**
 - V-Dem: v2cscnsult (CSO consultation)
