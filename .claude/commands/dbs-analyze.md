@@ -624,6 +624,7 @@ Every report must include a glossary section that explains technical terms in ac
 | `cso_consultation_active` | Civil Society Consultation Active | Civil society organizations (unions, advocacy groups, professional associations) are being meaningfully consulted in policymaking. This is a positive resilience indicator showing the government maintains pluralistic input channels. |
 | `anti_pluralist_rhetoric` | Anti-Pluralist Rhetoric Pattern | Political leaders are systematically framing opponents as existential threats, enemies of the people, or illegitimate political actors. This rhetorical escalation often precedes institutional breakdown. |
 | `compliance_degradation` | Executive Compliance Degradation | While not openly defying courts, the executive is systematically undermining judicial rulings through delay, narrow interpretation, or bureaucratic obstruction. Courts issue orders; the executive evades compliance in substance while maintaining formal appearance of following them. |
+| `epm_ses` | Socioeconomic Disenfranchisement | Low-income populations face structural barriers that prevent them from meaningfully influencing political outcomes—even when they can technically vote. Workers without paid time off, those with unpredictable schedules, or those dependent on government benefits may be effectively excluded from political participation. Formal voting rights become decorative when economic precarity is severe enough. |
 
 ### Pathway Modes
 

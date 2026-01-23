@@ -506,7 +506,7 @@ EPM applies to D1 (voter suppression), D2 (targeted disenfranchisement), D7 (ger
 | EPM Level | Condition | Modifier Value |
 |-----------|-----------|----------------|
 | EPM-0 | Impacts roughly proportional to population distribution | +0 |
-| EPM-1 | Documented disparate impact on one protected class (racial, economic, disability) | +0.5 (rounds up) |
+| EPM-1 | Documented disparate impact on one protected class (racial, economic, disability, SES) | +0.5 (rounds up) |
 | EPM-2 | Documented disparate impact on multiple protected classes OR systematic targeting | +1 |
 
 **Evidence standard for EPM:**
@@ -528,7 +528,59 @@ effective = min(cap_by_base[base score], raw)
 
 **Rationale:** Your workforce documents note that 62% of direct care workers are people of color and 87% are women—populations that face documented barriers to electoral participation (shift work conflicts with voting hours, transportation barriers to distant polling places, ID requirements). The EPM ensures that "economic invisibility" is recognized when it translates into "political invisibility."
 
-**Reporting:** When EPM is applied, note in event log:
+#### EPM-SES: Socioeconomic Status Power Distribution
+
+**Purpose:** EPM-SES extends the Effective Participation Modifier to capture whether low socioeconomic status populations can meaningfully influence political outcomes—not just whether they can vote, but whether their votes translate into policy responsiveness. This corresponds to V-Dem's v2pepwrses indicator (Power distributed by socioeconomic position).
+
+**The "Economic Floor" Problem:**
+
+Standard democracy metrics track voting *rights*. EPM-SES tracks whether economic conditions effectively disenfranchise populations:
+
+- Workers with no paid time off cannot take time to vote, attend hearings, or engage politically
+- Populations dependent on government benefits may fear political activity will trigger scrutiny
+- Low-wage workers lack resources for political organizing, legal action, or sustained advocacy
+- Hourly workers with unpredictable schedules cannot commit to regular civic engagement
+
+When economic precarity is severe enough, formal rights become decorative. EPM-SES captures this dynamic.
+
+**EPM-SES Assessment:**
+
+| Level | Condition | Application |
+|-------|-----------|-------------|
+| SES-0 | Low-SES populations have documented ability to influence policy outcomes | No SES adjustment |
+| SES-1 | Low-SES populations face structural barriers to political influence beyond voting | Apply EPM-1 to D-category checkpoints where barriers are documented |
+| SES-2 | Low-SES populations are effectively excluded from political influence | Apply EPM-2 to D-category checkpoints; note "economic disenfranchisement" pattern |
+
+**Evidence for EPM-SES:**
+
+EPM-SES triggers when evidence shows:
+
+- **Policy non-responsiveness:** Research demonstrating that policy outcomes do not respond to preferences of low-income populations (e.g., Gilens & Page 2014 findings replicated in current period)
+- **Structural exclusion from policymaking:** Low-SES populations or their representatives systematically absent from regulatory notice-and-comment, advisory bodies, or legislative testimony
+- **Economic barriers to participation:** Documented barriers (no paid leave, transportation costs, childcare unavailability) that disproportionately affect low-SES political engagement
+- **Benefit conditionality fears:** Evidence that benefit recipients avoid political activity due to fear of losing eligibility
+
+**Workforce Application:**
+
+For topics involving low-wage workforce issues (caregiving, gig economy, agriculture), EPM-SES is particularly relevant:
+
+- 4.9 million direct care workers earning median $14.72/hour face severe time and resource constraints on political participation
+- 62% people of color + 87% women = intersecting EPM factors (race, gender, SES)
+- Workforce dependent on Medicaid funding streams may fear political activity affecting their employers' contracts
+
+When scoring D-category checkpoints for topics involving these populations, assess EPM-SES alongside standard EPM factors.
+
+**Interaction with CSO Consultation Flag:**
+
+EPM-SES and the CSO Consultation flag are related but distinct:
+- **CSO Consultation** tracks whether civil society organizations are consulted (supply side)
+- **EPM-SES** tracks whether low-SES populations can influence outcomes (demand side)
+
+Both can be positive simultaneously (CSOs consulted AND low-SES voices heard) or negative simultaneously (CSOs excluded AND low-SES populations disenfranchised). The intersection indicates whether democracy is functioning for economically marginalized populations.
+
+**V-Dem Alignment:** EPM-SES corresponds to V-Dem's v2pepwrses (Power distributed by socioeconomic position) and v2pepwrsoc (Social group power distribution). These indicators ask whether citizens of different socioeconomic status have equal *effective* influence on politics—not just equal formal rights.
+
+**Reporting:** When EPM-SES is applied, note in event log:
 
 ```json
 {
@@ -538,6 +590,8 @@ effective = min(cap_by_base[base score], raw)
   "persistence_modifier": "P2",
   "effective_participation_modifier": "EPM-2",
   "epm_basis": "Documented disparate impact on low-income voters (X study) and minority voters (Y analysis)",
+  "epm_ses_assessment": "SES-1",
+  "epm_ses_basis": "Polling place closures disproportionately affect areas where workers lack paid time off; shift workers cannot access reduced hours",
   "effective_score": 4
 }
 ```
@@ -8868,8 +8922,18 @@ DBS captures this through:
 
 DBS captures this through:
 - Effective Participation Modifier (EPM) on D-category checkpoints
+- EPM-SES extension for socioeconomic barriers to effective participation
 - B3 (Selective enforcement by identity)
 - D2 (Targeted disenfranchisement)
+
+**Socioeconomic Power Distribution:**
+- V-Dem: v2pepwrses (Power distributed by socioeconomic position)
+- V-Dem: v2pepwrsoc (Social group power distribution)
+
+DBS captures this through:
+- EPM-SES (Socioeconomic Status Power Distribution) modifier on D-category checkpoints
+- Tracks whether low-SES populations can meaningfully influence political outcomes, not just whether they can vote
+- Addresses "economic floor" problem where formal rights become decorative when economic precarity is severe
 
 **Civil Society Consultation:**
 - V-Dem: v2cscnsult (CSO consultation)
