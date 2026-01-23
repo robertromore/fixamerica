@@ -495,6 +495,107 @@ effective = min(cap_by_base[base], raw)
 
 Example: A base-1 action (rhetoric only) with M2 + P2 modifiers has raw = 1+2+2 = 5, but cap_by_base[1] = 2, so effective = 2.
 
+#### Effective Participation Modifier (EPM) — Category D Only
+
+**Purpose:** Standard D-category checkpoints measure *formal* restrictions on voting and electoral integrity. The Effective Participation Modifier captures whether formal rights translate into *effective* political voice for marginalized populations. This addresses the V-Dem Egalitarian Democracy dimension.
+
+**When to apply EPM:**
+
+EPM applies to D1 (voter suppression), D2 (targeted disenfranchisement), D7 (gerrymandering), and D9 (ballot access restrictions) when evidence shows that impacts are concentrated among specific demographic groups.
+
+| EPM Level | Condition | Modifier Value |
+|-----------|-----------|----------------|
+| EPM-0 | Impacts roughly proportional to population distribution | +0 |
+| EPM-1 | Documented disparate impact on one protected class (racial, economic, disability, SES) | +0.5 (rounds up) |
+| EPM-2 | Documented disparate impact on multiple protected classes OR systematic targeting | +1 |
+
+**Evidence standard for EPM:**
+
+- EPM-1 requires statistical evidence of disparate impact (e.g., precinct closures in minority areas, ID requirements disproportionately affecting low-income voters)
+- EPM-2 requires either: (a) impacts across multiple dimensions (race + income + age), OR (b) evidence of intentional targeting (legislative record, prior court findings)
+
+**Interaction with base formula:**
+
+```text
+raw = base score + scope modifier + persistence modifier + EPM
+cap_by_base = {1→2, 2→4, 3→5, 4→5, 5→5}
+effective = min(cap_by_base[base score], raw)
+```
+
+**Example:** Voter ID law (base 2) with national scope (M2=+2), 60+ days (P2=+2), and documented disparate impact on low-income and minority voters (EPM-2=+1) has raw = 2+2+2+1 = 7, but cap_by_base[2] = 4, so effective = 4.
+
+**V-Dem Alignment:** This modifier corresponds to V-Dem's Egalitarian Democracy Index, which measures whether "rights and freedoms of individuals are protected equally across all social groups." The EPM translates this into DBS's checkpoint structure by capturing whether formal electoral restrictions have disparate effects on marginalized populations.
+
+**Rationale:** Your workforce documents note that 62% of direct care workers are people of color and 87% are women—populations that face documented barriers to electoral participation (shift work conflicts with voting hours, transportation barriers to distant polling places, ID requirements). The EPM ensures that "economic invisibility" is recognized when it translates into "political invisibility."
+
+#### EPM-SES: Socioeconomic Status Power Distribution
+
+**Purpose:** EPM-SES extends the Effective Participation Modifier to capture whether low socioeconomic status populations can meaningfully influence political outcomes—not just whether they can vote, but whether their votes translate into policy responsiveness. This corresponds to V-Dem's v2pepwrses indicator (Power distributed by socioeconomic position).
+
+**The "Economic Floor" Problem:**
+
+Standard democracy metrics track voting *rights*. EPM-SES tracks whether economic conditions effectively disenfranchise populations:
+
+- Workers with no paid time off cannot take time to vote, attend hearings, or engage politically
+- Populations dependent on government benefits may fear political activity will trigger scrutiny
+- Low-wage workers lack resources for political organizing, legal action, or sustained advocacy
+- Hourly workers with unpredictable schedules cannot commit to regular civic engagement
+
+When economic precarity is severe enough, formal rights become decorative. EPM-SES captures this dynamic.
+
+**EPM-SES Assessment:**
+
+| Level | Condition | Application |
+|-------|-----------|-------------|
+| SES-0 | Low-SES populations have documented ability to influence policy outcomes | No SES adjustment |
+| SES-1 | Low-SES populations face structural barriers to political influence beyond voting | Apply EPM-1 to D-category checkpoints where barriers are documented |
+| SES-2 | Low-SES populations are effectively excluded from political influence | Apply EPM-2 to D-category checkpoints; note "economic disenfranchisement" pattern |
+
+**Evidence for EPM-SES:**
+
+EPM-SES triggers when evidence shows:
+
+- **Policy non-responsiveness:** Research demonstrating that policy outcomes do not respond to preferences of low-income populations (e.g., Gilens & Page 2014 findings replicated in current period)
+- **Structural exclusion from policymaking:** Low-SES populations or their representatives systematically absent from regulatory notice-and-comment, advisory bodies, or legislative testimony
+- **Economic barriers to participation:** Documented barriers (no paid leave, transportation costs, childcare unavailability) that disproportionately affect low-SES political engagement
+- **Benefit conditionality fears:** Evidence that benefit recipients avoid political activity due to fear of losing eligibility
+
+**Workforce Application:**
+
+For topics involving low-wage workforce issues (caregiving, gig economy, agriculture), EPM-SES is particularly relevant:
+
+- 4.9 million direct care workers earning median $14.72/hour face severe time and resource constraints on political participation
+- 62% people of color + 87% women = intersecting EPM factors (race, gender, SES)
+- Workforce dependent on Medicaid funding streams may fear political activity affecting their employers' contracts
+
+When scoring D-category checkpoints for topics involving these populations, assess EPM-SES alongside standard EPM factors.
+
+**Interaction with CSO Consultation Flag:**
+
+EPM-SES and the CSO Consultation flag are related but distinct:
+- **CSO Consultation** tracks whether civil society organizations are consulted (supply side)
+- **EPM-SES** tracks whether low-SES populations can influence outcomes (demand side)
+
+Both can be positive simultaneously (CSOs consulted AND low-SES voices heard) or negative simultaneously (CSOs excluded AND low-SES populations disenfranchised). The intersection indicates whether democracy is functioning for economically marginalized populations.
+
+**V-Dem Alignment:** EPM-SES corresponds to V-Dem's v2pepwrses (Power distributed by socioeconomic position) and v2pepwrsoc (Social group power distribution). These indicators ask whether citizens of different socioeconomic status have equal *effective* influence on politics—not just equal formal rights.
+
+**Reporting:** When EPM-SES is applied, note in event log:
+
+```json
+{
+  "checkpoint": "D1",
+  "base_score": 2,
+  "scope_modifier": "M2",
+  "persistence_modifier": "P2",
+  "effective_participation_modifier": "EPM-2",
+  "epm_basis": "Documented disparate impact on low-income voters (X study) and minority voters (Y analysis)",
+  "epm_ses_assessment": "SES-1",
+  "epm_ses_basis": "Polling place closures disproportionately affect areas where workers lack paid time off; shift workers cannot access reduced hours",
+  "effective_score": 4
+}
+```
+
 ---
 
 ### 4.4 Severity Anchors (Inter-Rater Reliability)
@@ -786,6 +887,55 @@ DBS-State enables retrospective analysis of state-level democratic regression th
 
 These cases demonstrate that state-level backsliding can be severe and durable even when federal DBS remains moderate.
 
+#### Subnational Variance Index (SVI)
+
+**Purpose:** The federal DBS score can obscure significant democratic variance across states. A "moderate" national score may average healthy and severely degraded states. The Subnational Variance Index captures this dispersion.
+
+**Calculation:**
+
+```
+SVI = (DBS-State[max] - DBS-State[min]) / DBS-State[median]
+```
+
+Where:
+- DBS-State[max] = highest state-level DBS among sampled states
+- DBS-State[min] = lowest state-level DBS among sampled states
+- DBS-State[median] = median state-level DBS
+
+**Interpretation:**
+
+| SVI Range | Label | Interpretation |
+|-----------|-------|----------------|
+| 0.0–0.3 | Low variance | Democratic health relatively uniform across states |
+| 0.3–0.6 | Moderate variance | Some states diverging; monitoring warranted |
+| 0.6–1.0 | High variance | "Pockets of autocracy" emerging within federal shell |
+| > 1.0 | Extreme variance | Acute bifurcation; federal average is misleading |
+
+**Sampling Protocol:**
+
+Full DBS-State runs for all 50 states are impractical for routine assessment. Use stratified sampling:
+
+1. **Mandatory sample (8 states):**
+   - 4 highest-population states (electoral weight)
+   - 2 states with recent election law changes (Category D relevance)
+   - 2 states with documented court/IG conflicts (Category C/F relevance)
+
+2. **Triggered expansion:** If any mandatory-sample state shows DBS-State ≥ 50, expand sample to include all states in same region.
+
+3. **Minimum sample for SVI calculation:** 8 states; report "SVI not available" if fewer.
+
+**Reporting:**
+
+When SVI is calculated, include in output:
+
+```text
+Subnational Variance Index: 0.72 (High)
+Range: DBS-State[WI]=68 to DBS-State[WA]=22
+Note: Federal DBS of 44 masks significant state-level divergence.
+```
+
+**V-Dem Alignment:** This metric corresponds to V-Dem's Subnational Democracy Index, which tracks democratic quality variance across subnational units. The SVI captures the same insight: federalism can mask authoritarian enclaves within formally democratic nations.
+
 ---
 
 ### 4.9 Intent / Direction Metadata
@@ -964,9 +1114,9 @@ No hand-waving. No special pleading. No exception logic.
 DBS = 100 × (
   0.10·A/20 +
   0.18·B/35 +
-  0.18·C/40 +
-  0.24·D/60 +
-  0.10·E/20 +
+  0.18·C/45 +
+  0.24·D/65 +
+  0.10·E/25 +
   0.20·F/35
 )
 ```
@@ -998,7 +1148,16 @@ DBS v1.1b expands Category D from 8 to 12 checkpoints to capture threats that we
 
 These checkpoints fill gaps: DBS previously captured executive overreach (Categories B, C, F) better than legislative dysfunction, infrastructure-level threats, or external attacks. Adding D9–D12 ensures the framework identifies democratic erosion through *any* branch, *any* attack vector, and *any* origin, not just domestic executive action.
 
-The denominator increase from D/40 to D/60 means each individual D checkpoint contributes proportionally less to the category total, reducing the risk that any single tactic dominates the score. This reinforces the conservative design principle: high Category D scores require *multiple* forms of electoral or transfer-of-power dysfunction, not just one prominent case.
+The denominator increase from D/40 to D/65 means each individual D checkpoint contributes proportionally less to the category total, reducing the risk that any single tactic dominates the score. This reinforces the conservative design principle: high Category D scores require *multiple* forms of electoral or transfer-of-power dysfunction, not just one prominent case.
+
+**v1.1e+ Category Expansion:**
+
+DBS v1.1e+ adds checkpoints to capture additional democratic threats:
+- **C9 (Executive compliance with judiciary)** — Behavioral rule of law; whether the executive actually follows court orders in practice, not just formally
+- **D13 (Anti-pluralist rhetoric)** — V-Party metric for systematic dehumanization and delegitimization of political opponents
+- **E3a/E3b split** — Separates organic polarization (structural vulnerability) from coordinated information operations (active manipulation), enabling more precise diagnosis
+
+These additions update denominators: C/40→C/45, D/60→D/65, E/20→E/25. The formula weights remain unchanged; denominator increases maintain the principle that high category scores require multiple indicators.
 
 **Pathway Mode Classification (Mandatory Output Label):**
 
@@ -1196,6 +1355,22 @@ This surfaces coordinated state-level anti-democratic action without mechanicall
 If **F7 ≥ 3** AND (**F4 ≥ 3** OR **C3 ≥ 3** OR **C4 ≥ 3**), flag: *"Latent coercive capacity activated."*
 
 This indicates mass surveillance infrastructure exists alongside either political weaponization of security agencies (F4), politicized prosecution (C3), or neutralized oversight (C4). The combination represents a fully operational apparatus for targeted persecution—surveillance to identify targets, prosecution or enforcement to act on them, and compromised oversight to prevent accountability. The flag is diagnostic—it does not add to the score but signals that the infrastructure for systematic political persecution is in place.
+
+**Bureaucratic Capture Flag (Executive Aggrandizement):**
+
+If **F1 ≥ 3** AND **C4 ≥ 3**, flag: *"Bureaucratic capture active; horizontal accountability degraded."*
+
+This indicates civil service independence (F1) has been compromised while independent watchdogs (C4) have been neutralized. The combination represents a fundamental erosion of "horizontal accountability"—the capacity of non-elected institutions to check executive power through expertise, implementation discretion, and oversight.
+
+**V-Dem Alignment:** This flag corresponds to V-Dem's "Executive Aggrandizement" indicator, which tracks how elected leaders "gradually and largely through institutional means" disable checks on their power. The bureaucratic capture pattern is a key mechanism: politicize implementation, then neutralize oversight of that implementation.
+
+**Why this flag matters:** Democratic governance depends on career civil servants who implement policy based on law and expertise, not political direction. When bureaucratic autonomy is lost, the executive can direct agencies to act without legal constraint. When oversight is simultaneously neutralized, there is no mechanism to detect or correct illegal implementation.
+
+**Implications for policy implementation:** When this flag is active, agencies like CMS, DOL, or EPA cannot be assumed to implement worker protections, environmental regulations, or healthcare policies as written. Executive preference overrides statutory mandate.
+
+If **F1 ≥ 3** AND **C4 ≥ 3** AND **F3 ≥ 3**, flag: *"Expertise void; institutional memory and implementation capacity neutralized."*
+
+This compound flag indicates that civil service politicization, watchdog neutralization, and expert replacement are all occurring together. The state loses not just independence but *competence*—the capacity to implement complex policy regardless of intent.
 
 **Legislative Dysfunction Flag:**
 
@@ -1747,6 +1922,59 @@ This compound flag indicates that rapid escalation has also crossed a structural
 1. **Immediate reassessment:** Override the 14-day cooldown for out-of-cycle reassessment if this compound flag triggers.
 2. **Interpretation note:** Include: "A red-line checkpoint was breached during a period of high-velocity escalation. The standard 72-hour reassessment window may be insufficient given the rate of change."
 3. **Accelerated monitoring:** Recommend daily or 48-hour monitoring intervals until velocity normalizes (Δ < 8 over a 14-day period).
+
+---
+
+**Civil Society Consultation Resilience Flag:**
+
+If documented evidence shows **meaningful civil society consultation** in policymaking has been **maintained or restored** during the scoring window, flag: *"Civil society consultation active; stakeholder voice preserved."*
+
+**Why this matters:**
+Civil society organizations (CSOs)—unions, advocacy groups, professional associations, community organizations—serve as a critical channel for citizen voice in policymaking beyond elections. When governments maintain genuine consultation processes, it indicates a commitment to pluralistic governance even under pressure. This corresponds to V-Dem's "CSO Consultation" indicator and represents a *positive* resilience signal.
+
+**Qualifying consultation mechanisms:**
+- Formal notice-and-comment periods where submitted comments demonstrably influence final rules
+- Advisory committees with CSO representation that meet regularly and whose input is documented in decision records
+- Public hearings where affected stakeholders can testify and responses are formally recorded
+- Stakeholder working groups that include civil society voices in policy development
+- Regulatory review processes that incorporate CSO input
+
+**What does NOT qualify:**
+- Consultation theater (processes exist but input is systematically ignored)
+- Captured consultation (only regime-aligned CSOs are included)
+- Post-hoc justification (consultation conducted after decisions are finalized)
+- Declining consultation (processes that existed but are being eliminated)
+- Selective consultation (some policy areas engage CSOs while others exclude them entirely)
+
+**CSO Consultation Assessment:**
+
+| Level | Pattern | Flag Status |
+|-------|---------|-------------|
+| **Active** | Consultation processes functioning across major policy areas; diverse CSO voices included; documented impact on outcomes | Flag triggered |
+| **Partial** | Consultation exists but with gaps in coverage, diversity, or impact | Note in interpretation; flag not triggered |
+| **Declining** | Previously functioning consultation processes being restricted or eliminated | Note as negative trend; flag not triggered |
+| **Absent** | No meaningful consultation mechanisms; CSOs excluded from policymaking | Note absence; flag not triggered |
+
+**Why this is a resilience flag (not a backsliding indicator):**
+
+The *absence* of CSO consultation is not scored as backsliding because democracies vary significantly in how much formal consultation occurs—it's often a matter of political style rather than democratic health. However, *collapse* of previously established consultation represents democratic erosion and should be noted as a negative trend.
+
+The flag captures *presence* of healthy consultation as a positive signal, similar to "Institutional Resistance Active." When other indicators show stress but this flag is active, it suggests the regime remains committed to pluralistic input channels.
+
+**Trigger conditions:**
+- Evidence of at least 3 distinct policy areas where meaningful CSO consultation occurred during the scoring window
+- Consultation processes include diverse voices (not exclusively regime-aligned organizations)
+- Documented cases where CSO input influenced policy outcomes
+
+**Interaction with other flags:**
+- CSO Consultation Active + Institutional Resistance Active = Strong resilience indicators
+- CSO Consultation Active + Expertise Void = Mixed signal; formal processes exist but expert capacity may be degraded
+- CSO Consultation declining + F1 ≥ 3 = Concerning pattern; both career civil service and external stakeholder voice under pressure
+
+**V-Dem Alignment:** This flag corresponds to V-Dem's CSO Consultation indicators (v2cscnsult), which assess whether major CSOs are routinely consulted by policymakers.
+
+**Clarifying note:**
+This flag is deliberately designed as a *positive* indicator. The DBS framework primarily tracks backsliding (negative developments). This flag provides visibility into resilience factors that may not be captured by the scoring system. A high DBS score with this flag active suggests the system is under pressure but retains important self-corrective capacity.
 
 ---
 
@@ -4710,7 +4938,7 @@ B7 captures outsourced coercion — private actors functioning as enforcement pr
 
 ---
 
-### Category C — Rule of Law & Courts (C1–C8)
+### Category C — Rule of Law & Courts (C1–C9)
 
 #### C1 — Noncompliance with court orders *(Red-line checkpoint)*
 
@@ -5002,7 +5230,59 @@ C8 is distinct from C2 (retaliation after rulings) and D7 (electoral self-entren
 
 ---
 
-### Category D — Elections & Transfer of Power (D1–D12)
+#### C9 — Executive Compliance with Judicial Decisions
+
+**Definition:**
+Whether the executive branch complies with judicial rulings in practice—not just formally, but substantively. This checkpoint captures the behavioral dimension of rule of law: does the executive actually follow court orders, or does it engage in delay, evasion, or selective compliance?
+
+**Why this matters:**
+C1 captures formal *defiance* of court orders (contempt, refusal). C9 captures the subtler pattern of *compliance degradation*—where the executive technically responds to rulings but undermines their effect through delay, narrow interpretation, or bureaucratic obstruction. This corresponds to V-Dem's "Executive Compliance with Judiciary" indicator, which tracks whether the executive respects judicial decisions in practice.
+
+**Includes:**
+
+- Delayed compliance with injunctions beyond reasonable administrative time
+- Narrow or technical compliance that defeats the purpose of the ruling
+- Selective implementation of favorable portions while ignoring unfavorable portions
+- "Compliance theater" where orders are formally acknowledged but substantively evaded
+- Reissuance of modified policies that recreate the enjoined effect
+- Bureaucratic obstruction that prevents rulings from having practical effect
+- Failure to enforce remedies ordered by courts
+- Pattern of requiring multiple court orders to achieve compliance
+
+**Excludes:**
+
+- Good-faith compliance with reasonable implementation timeline
+- Legitimate legal disputes over order interpretation resolved through proper channels
+- Appealing adverse rulings while complying with interim requirements
+- Administrative complexity that delays but does not prevent compliance
+- Single instances of delayed compliance promptly remedied
+
+**C9 Severity Anchors:**
+
+| Score | Anchor |
+| ----: | ------ |
+| **1** | Occasional delayed or narrow compliance; generally responsive to judicial orders |
+| **2** | Pattern of minimal compliance emerging; some rulings require additional enforcement action |
+| **3** | Systematic compliance degradation; executive routinely delays, evades, or undermines rulings; courts must repeatedly intervene |
+| **4** | Substantive compliance rare; executive treats court orders as negotiating positions rather than binding commands; judicial authority effectively advisory |
+| **5** | Executive ignores judicial authority in practice; compliance only when politically convenient; courts cannot compel executive action |
+
+**Key discriminator:** Whether compliance is **substantive and timely** (≤2) or **formal without substance** (≥3). The critical question is whether judicial rulings actually constrain executive behavior.
+
+**V-Dem Alignment:** C9 corresponds to V-Dem's "Executive Compliance with Judiciary" indicator (v2jucomp), which asks whether the executive respects court decisions in practice.
+
+**Relationship to C1:**
+- C1 captures *defiance*: executive openly refuses to comply or declares courts non-binding
+- C9 captures *degraded compliance*: executive formally responds but substantively evades
+
+Both may score for the same situation: C1 captures the constitutional crisis of defiance; C9 captures the erosion of judicial effectiveness through compliance degradation. A government can score low on C1 (no formal contempt) while scoring high on C9 (systematic evasion).
+
+**Clarifying note:**
+C9 is scored based on pattern, not individual cases. Any large executive branch will have occasional compliance disputes. The checkpoint activates when delayed or narrow compliance becomes the *norm* rather than the exception. Look for: (1) multiple injunctions on similar policies, (2) executive bragging about "working around" courts, (3) courts expressing frustration with compliance patterns, (4) civil society groups reporting that favorable rulings produce no practical change.
+
+---
+
+### Category D — Elections & Transfer of Power (D1–D13)
 
 #### D1 — Federal interference in election administration
 
@@ -5427,6 +5707,55 @@ Attribution to a specific foreign government is not required if credible evidenc
 
 ---
 
+#### D13 — Anti-Pluralist Rhetoric
+
+**Definition:**
+Systematic rhetorical campaigns by political leaders or parties that frame political opponents as existential threats, illegitimate political actors, or enemies of the nation—moving beyond normal political competition into dehumanization and delegitimization.
+
+**Why this matters:**
+Rhetorical escalation is a documented precursor to institutional breakdown. Anti-pluralist rhetoric normalizes viewing political opposition as illegitimate, creating conditions for subsequent actions against opponents. V-Party research demonstrates that anti-pluralist rhetoric predicts future democratic erosion.
+
+**Includes:**
+
+- Characterizing political opponents as "enemies of the people" or traitors
+- Framing opposition victories as illegitimate by definition (distinct from D4's conditional claims)
+- Dehumanizing language targeting opposition supporters or leaders
+- Calls to imprison, punish, or eliminate political opponents outside legal process
+- Explicit denial of opponents' right to participate in democratic processes
+- Framing domestic political conflict as existential war requiring extraordinary measures
+
+**Excludes:**
+
+- Normal partisan criticism and policy disagreement
+- Characterizing specific actions (not persons/groups) as harmful
+- Legitimate criticism of illegal conduct
+- Campaign rhetoric that attacks opponents' positions rather than their legitimacy
+- Isolated heated statements immediately walked back
+
+**D13 Severity Anchors:**
+
+| Score | Anchor |
+| ----: | ------ |
+| **1** | Occasional anti-pluralist rhetoric by fringe figures; leaders do not adopt or amplify |
+| **2** | Party leaders occasionally use dehumanizing or delegitimizing language; not sustained or coordinated |
+| **3** | Repeated anti-pluralist rhetoric by senior leaders; party messaging infrastructure amplifies; opponents characterized as existential threats |
+| **4** | Anti-pluralist framing dominates party communications; opponents systematically portrayed as illegitimate; calls for extra-legal action normalized |
+| **5** | Anti-pluralist rhetoric has become governing doctrine; opposition treated as enemy to be eliminated rather than competitor to be defeated |
+
+**Key discriminator:** Whether anti-pluralist language is **occasional and contested** (≤2) or **systematic and party-sanctioned** (≥3). The critical question is whether the rhetoric frames opponents as *wrong* (normal politics) or *illegitimate/enemies* (anti-pluralism).
+
+**V-Dem Alignment:** This checkpoint corresponds to V-Dem's V-Party "Anti-Pluralism" metric (v2paantgov, v2paantplu), which tracks party positions on political opponents and democratic norms.
+
+**Relationship to other checkpoints:**
+- D4 (Conditional legitimacy): D4 captures claims that *elections* are only legitimate if the incumbent wins; D13 captures claims that *opponents* are illegitimate regardless of elections
+- A2 (Delegitimizing opposition): A2 captures general undermining; D13 captures specifically anti-pluralist, dehumanizing rhetoric
+- E3 (Propaganda): E3 captures the *infrastructure* for coordinated messaging; D13 captures the *content* of anti-pluralist messaging
+
+**Clarifying note:**
+D13 is scored based on the rhetorical pattern, not downstream actions. Actions taken against opponents are scored under B, C, or F checkpoints. D13 + C3 (politicized prosecution) or D13 + B2 (targeted enforcement) indicates rhetoric translating into action.
+
+---
+
 #### D7/D9 Boundary Rule
 
 D7 and D9 address different pathologies:
@@ -5445,7 +5774,7 @@ Example: Defunding all federal courts to prevent ruling on executive actions →
 
 ---
 
-### Category E — Information Environment Capture (E1–E4)
+### Category E — Information Environment Capture (E1–E5)
 
 #### E1 — Retaliation against media
 
@@ -5489,10 +5818,55 @@ E2 requires *government coercion*, not voluntary platform decisions. Platform co
 
 ---
 
-#### E3 — State-aligned propaganda ecosystem
+#### E3a — Organic Information Environment Polarization
 
 **Definition:**
-Operational fusion of government messaging with supportive media outlets, characterized by **quid pro quo relationships** or **access dependency** that compromises editorial independence.
+Degradation of the shared information environment through market dynamics, algorithmic amplification, and partisan media ecosystems—without state coordination or direction. This captures the *structural* conditions that make the public vulnerable to manipulation, even absent active state involvement.
+
+**Why this distinction matters:**
+Organic polarization and coordinated information operations are analytically distinct threats. Organic polarization reflects market failures, filter bubbles, and genuine partisan disagreement amplified by technology. Coordinated operations reflect deliberate manipulation. The former creates vulnerability; the latter exploits it. Distinguishing them enables appropriate response: media literacy and platform reform for E3a; counter-influence and attribution for E3b.
+
+**Includes:**
+
+- Algorithmic amplification of partisan content without state direction
+- Media ecosystem fragmentation where audiences inhabit separate factual universes
+- Erosion of shared epistemic standards (what counts as evidence)
+- Collapse of local journalism creating information deserts
+- Platform design that incentivizes outrage and polarization
+- Audience self-sorting into homogeneous information environments
+- Decline in cross-partisan information exposure
+
+**Excludes:**
+
+- State-coordinated messaging campaigns (score under E3b)
+- Foreign disinformation operations (score under D12 or E3b depending on coordination)
+- Normal partisan disagreement with shared factual baseline
+- Legitimate editorial choices by media outlets
+
+**E3a Severity Anchors:**
+
+| Score | Anchor |
+| ----: | ------ |
+| **1** | Polarized media landscape exists; cross-partisan information exposure remains common; shared factual baseline largely intact |
+| **2** | Significant audience fragmentation; algorithmic amplification creating measurable filter bubbles; some erosion of shared factual standards |
+| **3** | Substantial portions of population inhabit separate information ecosystems; agreement on basic facts declining; local journalism severely degraded |
+| **4** | Information environment balkanized; majorities of partisan groups reject factual claims accepted by other group; algorithmic radicalization documented |
+| **5** | No shared epistemic foundation; facts themselves are partisan; information environment cannot support democratic deliberation |
+
+**Key discriminator:** Whether information environment degradation is **moderate and bridgeable** (≤2) or **structurally prevents shared understanding** (≥3). The critical question is whether citizens can access a shared factual baseline for democratic deliberation.
+
+**Clarifying note:**
+E3a captures the *structural vulnerability* of the information environment. It does not require malicious intent—algorithmic amplification and market dynamics can produce severe polarization without state involvement. E3a elevation is a *precondition* for E3b exploitation; high E3a makes E3b more effective.
+
+---
+
+#### E3b — Coordinated Information Operations
+
+**Definition:**
+State-coordinated or state-aligned information operations that deliberately manipulate the information environment through orchestrated campaigns, including coordinated inauthentic behavior, propaganda ecosystems, and systematic disinformation deployment.
+
+**Why this distinction matters:**
+Coordinated operations indicate active regime manipulation of the information space—a much more severe indicator than organic polarization. Detection of E3b suggests deliberate democratic subversion, not merely structural vulnerability.
 
 **Includes:**
 
@@ -5505,7 +5879,9 @@ Operational fusion of government messaging with supportive media outlets, charac
 - Synthetic media (deepfakes, voice clones) deployed at scale with state coordination or benefit
 - Industrialized content farms using automated generation for state-aligned narratives
 - Microtargeted persuasion or harassment campaigns driven by AI with state coordination
-- Coordinated "flooding" attacks that degrade the information environment (availability disruption, not just persuasion)
+- Coordinated "flooding" attacks that degrade the information environment
+- Coordinated inauthentic behavior (bot networks, troll farms, sock puppets) with state nexus
+- Platform manipulation campaigns (artificial trending, review bombing) with documented coordination
 
 **Excludes:**
 
@@ -5513,15 +5889,44 @@ Operational fusion of government messaging with supportive media outlets, charac
 - Independent editorial alignment without coordination (outlets may share views with government without state direction)
 - Routine access journalism without demonstrated quid pro quo
 - Ideological affinity absent operational coordination
+- Organic polarization without state involvement (score under E3a)
+- Foreign operations without domestic coordination (score under D12)
+
+**E3b Severity Anchors:**
+
+| Score | Anchor |
+| ----: | ------ |
+| **1** | Isolated instances of coordination alleged; no systematic pattern; deniability high |
+| **2** | Discrete coordination instances documented; limited scope; outlets retain some independence |
+| **3** | Repeated coordinated campaigns documented; propaganda ecosystem operational; quid pro quo relationships established |
+| **4** | State-aligned media functions as coordinated enforcement arm; independent journalism under systematic pressure; information space dominated by coordinated narratives |
+| **5** | Complete capture of information environment; independent journalism effectively eliminated; state controls dominant narrative channels |
+
+**Key discriminator:** Whether coordination is **isolated and deniable** (≤2) or **systematic and institutionalized** (≥3). The critical question is whether there is operational fusion between state messaging and media ecosystem.
 
 **Activation threshold:**
 This checkpoint requires evidence of **bidirectional benefit**: the state gains favorable coverage, and the outlet gains access, funding, or protection not available to competitors. Mere ideological alignment is insufficient.
 
-**Clarifying note:**
-E3 captures *coordinated propaganda*, not ideological affinity. Fox News being favorable to a Republican administration is excluded (independent editorial choice); Fox News receiving exclusive leaks in exchange for attacking administration opponents is potentially included (operational coordination). Evidence of quid pro quo is required.
+**V-Dem Alignment:** E3b corresponds to the Digital Society Project's "Coordinated Information Operations" indicators (v2smgovdom, v2smorgviol), which track government-linked online manipulation.
 
-**Key discriminator:**
-E3 scores based on whether the system enables coordinated, coercive narrative control (or legitimacy sabotage), **not** whether the content is AI-generated. AI tools are production and targeting accelerators; the checkpoint captures the propaganda ecosystem function regardless of production method. Score based on coordination and impact, not format.
+**Clarifying note:**
+E3b captures *coordinated manipulation*, not ideological affinity. Fox News being favorable to a Republican administration is excluded (independent editorial choice); Fox News receiving exclusive leaks in exchange for attacking administration opponents is potentially included (operational coordination). Evidence of coordination or quid pro quo is required.
+
+**AI and synthetic content note:**
+E3b scores based on whether the system enables coordinated, coercive narrative control, **not** whether the content is AI-generated. AI tools are production and targeting accelerators; the checkpoint captures the coordination function regardless of production method. Score based on coordination and impact, not format.
+
+---
+
+#### E3a/E3b Interaction
+
+E3a and E3b interact multiplicatively:
+- High E3a (polarized information environment) + Low E3b (no coordination) = **Vulnerable but not manipulated**
+- Low E3a (healthy information environment) + High E3b (coordination attempts) = **Manipulation attempts likely to fail**
+- High E3a + High E3b = **Maximum concern**: vulnerable environment actively exploited
+
+**Diagnostic flag:** If E3a ≥ 3 AND E3b ≥ 3, flag: *"Coordinated manipulation of polarized information environment; democratic deliberation severely compromised."*
+
+**Legacy references:** Historical references to "E3" in diagnostic flags and formulas should be interpreted as E3b (coordinated operations), as E3b captures the intentional manipulation that poses direct democratic threat. E3a is a structural vulnerability indicator.
 
 ---
 
@@ -5548,16 +5953,20 @@ E4 captures *selective* criminalization—misinformation laws applied against po
 
 ### Category F — Security Services & Loyalty (F1–F7)
 
-#### F1 — Civil service loyalty tests
+#### F1 — Civil service loyalty tests (Bureaucratic Autonomy)
 
 **Definition:**
-Requirement of political loyalty for career officials.
+Requirement of political loyalty for career officials, or systematic degradation of civil service independence and institutional expertise.
 
 **Includes:**
 
 - Ideological screening
 - Removal for insufficient loyalty
-- Reclassification to bypass protections
+- Reclassification to bypass protections (e.g., Schedule F conversions)
+- Mass dismissals of career officials during transition periods
+- Elimination of merit-based hiring in favor of loyalty-based appointment
+- Dissolution or merger of agencies to bypass institutional constraints
+- Systematic non-replacement of career positions (hollowing via attrition)
 
 **Excludes:**
 
@@ -5565,9 +5974,31 @@ Requirement of political loyalty for career officials.
 - Standard ethics training or compliance reviews
 - Performance evaluations tied to job duties
 - Removals for documented misconduct or incompetence
+- Normal transition-period political appointee turnover
+- Agency reorganizations with transparent rationale and maintained expertise
+
+**F1 Severity Anchors:**
+
+| Score | Anchor |
+| ----: | ------ |
+| **1** | Rhetoric questioning civil service loyalty; no personnel action |
+| **2** | Isolated removals under contested circumstances; policy proposals to weaken protections |
+| **3** | Systematic reclassification or removal pattern across multiple agencies; Schedule F or equivalent implemented |
+| **4** | Mass dismissals (thousands); career expertise systematically replaced with loyalists; institutional memory severely degraded |
+| **5** | Civil service as independent institution effectively eliminated; all significant positions filled by loyalty criterion |
+
+**Key discriminator:** Whether personnel actions are **performance-based** (≤2) or **systematically loyalty-driven** (≥3). The critical question is whether the civil service retains capacity for independent implementation and expert judgment.
+
+**Bureaucratic Autonomy Indicators (V-Dem alignment):**
+
+Score F1 higher when evidence shows:
+- Career officials cannot implement policies that conflict with executive preference, even when legally required
+- Expert recommendations are systematically overridden without documented rationale
+- Agencies cannot publish findings that contradict administration positions
+- Whistleblower protections are functionally nullified
 
 **Clarifying note:**
-Scoring requires political or ideological loyalty as an explicit or implicit condition of continued service.
+F1 captures the degradation of bureaucratic autonomy—the capacity of career civil servants to implement policy based on expertise and law rather than political direction. This corresponds to V-Dem's concept of "executive aggrandizement" through horizontal accountability erosion. The "deep state" framing in political rhetoric often precedes F1 escalation.
 
 ---
 
@@ -5911,9 +6342,13 @@ These multipliers exist to prevent **false reassurance** from averaged scores wh
 - Replaced binary decay with graduated decay system (D0–D3 states)
 - Added institutionalization test (formal + functional) with decay eligibility matrix
 - Added formal confidence rating standard (High/Medium/Low) with source tiers
-- Updated Category C formula from C/35 to C/40
+- Updated Category C formula from C/35 to C/40 (v1.1b), then C/40 to C/45 (v1.1e+)
 - Added C8 (Proactive judicial capture) for forward-looking court control without retaliation
-- Updated Category D formula from D/40 to D/60
+- Added C9 (Executive compliance with judiciary) for behavioral rule of law (v1.1e+)
+- Updated Category D formula from D/40 to D/60 (v1.1b), then D/60 to D/65 (v1.1e+)
+- Added D13 (Anti-pluralist rhetoric) for systematic delegitimization of opponents (v1.1e+)
+- Split E3 into E3a (organic polarization) and E3b (coordinated operations) (v1.1e+)
+- Updated Category E formula from E/20 to E/25 (v1.1e+)
 - Added D11 (Election infrastructure attacks) for cyber/physical attacks on election systems
 - Added D11 as conditional red-line checkpoint (activates at ≥3)
 - Added D12 (Foreign interference, non-collusive) with detailed severity anchors
@@ -7351,8 +7786,8 @@ This appendix defines the automated validation layer for DBS runs. Validation tr
 
 | Check | Rule | Formula/Logic |
 |-------|------|---------------|
-| Category totals | Sum of checkpoint effective scores ≤ category max | `sum(checkpoints) ≤ {A:20, B:35, C:40, D:60, E:20, F:35}` |
-| Weighted aggregate | Pre-multiplier DBS matches formula | `0.10×A/20 + 0.18×B/35 + 0.18×C/40 + 0.24×D/60 + 0.10×E/20 + 0.20×F/35` |
+| Category totals | Sum of checkpoint effective scores ≤ category max | `sum(checkpoints) ≤ {A:20, B:35, C:45, D:65, E:25, F:35}` |
+| Weighted aggregate | Pre-multiplier DBS matches formula | `0.10×A/20 + 0.18×B/35 + 0.18×C/45 + 0.24×D/65 + 0.10×E/25 + 0.20×F/35` |
 | Red-line triggers | `red_lines_triggered` matches checkpoint scores | C1≥3 AND B5≥3 → courts_military; D5/D6/D11≥3 → electoral; F2≥3 → military; F6≥3 → immunity |
 | Multiplier application | Final DBS includes correct multipliers | +10 (courts+military), +15 (electoral), +10 (F2), +10 (F6) |
 | Gating enforcement | No effective score exceeds base-dependent cap | `cap_by_base = {1→2, 2→4, 3→5, 4→5, 5→5}` |
@@ -8344,6 +8779,211 @@ Changes to the DBS-Exchange protocol require:
 - Coordinated manipulation requires influencing multiple organizations
 - Anomaly detection raises the difficulty bar
 - Track record requirements create time cost for sock puppets
+
+---
+
+## Appendix J — V-Dem Concordance and External Index Alignment
+
+This appendix maps DBS checkpoints to comparable indicators from established democracy indices, enabling cross-validation and comparative analysis.
+
+### J.1 Primary Concordance Indices
+
+| Index | Organization | Frequency | Scale | Primary Use |
+|-------|--------------|-----------|-------|-------------|
+| **V-Dem** | Varieties of Democracy Institute | Annual | 0-1 (multiple indices) | Granular checkpoint validation |
+| **Freedom House** | Freedom House | Annual | 0-100 (PR + CL) | Tier-level validation |
+| **EIU Democracy Index** | Economist Intelligence Unit | Annual | 0-10 | Comparative context |
+| **BTI** | Bertelsmann Stiftung | Biennial | 1-10 | Governance quality |
+| **IDEA GSoD** | International IDEA | Annual | 0-1 (multiple) | Structural comparison |
+
+### J.2 V-Dem Indicator Mapping
+
+#### Category A — Narrative / Legitimacy
+
+| DBS Checkpoint | V-Dem Indicator(s) | V-Dem Code | Notes |
+|----------------|-------------------|------------|-------|
+| A1 (Emergency framing) | Emergency powers | v2clsocgrp, v2cseeorgs | No direct equivalent; use civil society restriction indicators |
+| A2 (Delegitimizing opposition) | Political polarization | v2cacamps | Party campaign rhetoric |
+| A3 (Populist anti-institution rhetoric) | Populism index | v2xpa_popul | V-Dem populism measure |
+| A4 (Normalization of exceptional measures) | Rule of law | v2x_rule | Composite rule of law index |
+
+#### Category B — Coercive Apparatus
+
+| DBS Checkpoint | V-Dem Indicator(s) | V-Dem Code | Notes |
+|----------------|-------------------|------------|-------|
+| B1 (Irregular coercive forces) | State violence | v2caviol | Political violence by state |
+| B2 (Political targeting via enforcement) | Targeted violence | v2csrlgrep | Targeted repression of groups |
+| B3 (Selective enforcement) | Equal enforcement | v2clrgunev | Uneven enforcement across groups |
+| B4 (Suppressing protests) | Freedom of assembly | v2csrlgcon | Restrictions on gatherings |
+| B5 (Domestic military deployment) | Military involvement | v2x_ex_military | Military in executive |
+| B6 (Parallel coercive structures) | — | — | No direct equivalent |
+| B7 (Federalized local enforcement) | — | — | US-specific; no V-Dem equivalent |
+
+#### Category C — Courts and Legal System
+
+| DBS Checkpoint | V-Dem Indicator(s) | V-Dem Code | Notes |
+|----------------|-------------------|------------|-------|
+| C1 (Court defiance) | Executive compliance | v2jucomp | Compliance with judiciary |
+| C2 (Court packing/stripping) | Judicial independence | v2juhcind | High court independence |
+| C3 (Politicized prosecution) | Judicial harassment | v2juhaession | Harassment of opponents |
+| C4 (Watchdog undermining) | Oversight bodies | v2lgotovst | Legislative oversight |
+| C5 (Unilateral executive expansion) | Executive constraints | v2x_execorr | Executive respects constitution |
+| C6 (Kleptocratic capture) | Corruption | v2x_corr | Composite corruption index |
+| C7 (Pardon abuse) | — | — | No direct equivalent |
+| C8 (Legal framework manipulation) | Legal framework | v2cltort | Torture/due process |
+| C9 (Executive compliance with judiciary) | Executive compliance | v2jucomp | Core V-Dem indicator for rule of law |
+
+#### Category D — Elections and Legislative
+
+| DBS Checkpoint | V-Dem Indicator(s) | V-Dem Code | Notes |
+|----------------|-------------------|------------|-------|
+| D1 (Voter suppression) | Barriers to voting | v2elvotbuy | Vote buying/manipulation |
+| D2 (Targeted disenfranchisement) | Suffrage | v2x_suffr | Suffrage extent |
+| D3 (Electoral system manipulation) | Electoral rules | v2elembaut | EMB autonomy |
+| D4 (Conditional legitimacy) | Election acceptance | v2elaccept | Losers accept results |
+| D5 (Electoral fraud machinery) | Election integrity | v2elintim | Intimidation |
+| D6 (Certification override) | — | — | US-specific; no V-Dem equivalent |
+| D7 (Gerrymandering) | District boundaries | v2elparlel | Parliament elected fairly |
+| D8 (Foreign coordination) | Foreign influence | v2smforads | Foreign ad spending |
+| D9 (Ballot access restrictions) | Ballot access | v2psbars | Barriers to parties |
+| D10 (Governance hostage-taking) | — | — | US-specific; no V-Dem equivalent |
+| D11 (Election infrastructure compromise) | Election management | v2elembcap | EMB capacity |
+| D12 (Legitimacy sabotage) | Electoral violence | v2elpeace | Electoral violence |
+| D13 (Anti-pluralist rhetoric) | Anti-pluralism | v2paantgov, v2paantplu | V-Party anti-pluralism metrics |
+
+#### Category E — Information Environment
+
+| DBS Checkpoint | V-Dem Indicator(s) | V-Dem Code | Notes |
+|----------------|-------------------|------------|-------|
+| E1 (Media retaliation) | Media harassment | v2meharjrn | Journalist harassment |
+| E2 (Platform manipulation) | Internet censorship | v2smgovfilprc | Government filtering |
+| E3a (Organic polarization) | Media polarization | v2smprivex | Private media diversity |
+| E3b (Coordinated operations) | State media, DSP | v2meslfcen, v2smgovdom | Media self-censorship; DSP coordinated ops |
+| E4 (Misinformation criminalization) | Media freedom | v2mecenefm | Government censorship effort |
+
+#### Category F — Security Services & Loyalty
+
+| DBS Checkpoint | V-Dem Indicator(s) | V-Dem Code | Notes |
+|----------------|-------------------|------------|-------|
+| F1 (Civil service loyalty tests) | Meritocratic recruitment | v2stcritrecadm | Criteria for admin recruitment |
+| F2 (Military politicization) | Military neutrality | v2x_ex_military | Military involvement in politics |
+| F3 (Expert replacement) | Bureaucratic quality | v2stfisccap | State fiscal capacity |
+| F4 (Security agency weaponization) | Security services | v2csreprss | Civil society repression |
+| F5 (Institutional purges) | — | — | Use F1 + F3 combination |
+| F6 (Leader immunity) | Executive accountability | v2exrescon | Executive respects constitution |
+| F7 (Surveillance expansion) | Privacy | v2cldmovem | Freedom of movement/privacy |
+
+### J.3 V-Dem Composite Index Alignment
+
+| DBS Tier | V-Dem Liberal Democracy Index (v2x_libdem) | Freedom House Status |
+|----------|-------------------------------------------|---------------------|
+| 0-10 (Normal) | 0.75-1.00 | Free (75-100) |
+| 11-30 (Concern) | 0.60-0.75 | Free (60-75) |
+| 31-50 (Elevated) | 0.45-0.60 | Partly Free (50-70) |
+| 51-70 (Backsliding) | 0.30-0.45 | Partly Free (35-50) |
+| 71-89 (Severe) | 0.15-0.30 | Not Free (20-35) |
+| 90-100 (Critical) | 0.00-0.15 | Not Free (0-20) |
+
+**Note:** These are approximate correspondences. V-Dem and Freedom House use different methodologies and may diverge for specific countries.
+
+### J.4 V-Dem High-Resolution Indicators for US Context
+
+The following V-Dem indicators are particularly relevant for detecting subtle shifts in established democracies:
+
+**Subnational Democracy (Section 4.8 alignment):**
+- V-Dem does not have a standardized subnational index for the US, but the State Democracy Index project (Grumbach) provides comparable data
+- DBS Subnational Variance Index (SVI) serves similar purpose
+
+**Deliberative Democracy (Public Justification):**
+- V-Dem: v2dlreason (Reasoned justification)
+- V-Dem: v2dlcommon (Common good orientation)
+- V-Dem: v2dlcountr (Respect for counterarguments)
+
+DBS does not directly score deliberative quality due to subjectivity concerns. However, structural proxies can be tracked:
+- Committee hearing frequency and witness diversity
+- Amendment consideration rates
+- Expert testimony patterns in legislative record
+
+**Executive Aggrandizement (Horizontal Accountability):**
+- V-Dem: v2x_horacc (Horizontal accountability index)
+- V-Dem: v2lgotovst (Legislature investigates executive)
+- V-Dem: v2lginvstp (Legislature investigates in practice)
+
+DBS captures this through:
+- F1 (Civil service loyalty tests)
+- C4 (Watchdog undermining)
+- C5 (Unilateral executive expansion)
+- Bureaucratic Capture Flag (F1 ≥ 3 AND C4 ≥ 3)
+
+**Egalitarian Democracy (Effective Participation):**
+- V-Dem: v2x_egal (Egalitarian democracy index)
+- V-Dem: v2pepwrsoc (Social group power distribution)
+- V-Dem: v2pepwrses (SES power distribution)
+
+DBS captures this through:
+- Effective Participation Modifier (EPM) on D-category checkpoints
+- EPM-SES extension for socioeconomic barriers to effective participation
+- B3 (Selective enforcement by identity)
+- D2 (Targeted disenfranchisement)
+
+**Socioeconomic Power Distribution:**
+- V-Dem: v2pepwrses (Power distributed by socioeconomic position)
+- V-Dem: v2pepwrsoc (Social group power distribution)
+
+DBS captures this through:
+- EPM-SES (Socioeconomic Status Power Distribution) modifier on D-category checkpoints
+- Tracks whether low-SES populations can meaningfully influence political outcomes, not just whether they can vote
+- Addresses "economic floor" problem where formal rights become decorative when economic precarity is severe
+
+**Civil Society Consultation:**
+- V-Dem: v2cscnsult (CSO consultation)
+- V-Dem: v2cseeorgs (CSO entry and exit)
+- V-Dem: v2csreprss (CSO repression)
+
+DBS captures this through:
+- Civil Society Consultation Resilience Flag (positive indicator when consultation is active)
+- The flag tracks *presence* of meaningful consultation as a democratic health indicator
+- Decline in consultation is noted as a negative trend rather than scored as backsliding
+
+### J.5 Cross-Validation Protocol
+
+When generating DBS assessments, cross-reference against external indices:
+
+**Required checks (for any run where DBS ≥ 30):**
+
+1. **V-Dem check:** Compare DBS tier to V-Dem Liberal Democracy Index for same country/period
+   - Divergence > 2 tiers requires explanation in interpretation section
+
+2. **Freedom House check:** Compare DBS tier to Freedom House status
+   - "Free" country with DBS > 50 requires explicit justification
+
+3. **Trend consistency:** Compare DBS trajectory direction to V-Dem trajectory
+   - Opposite directions require methodological note
+
+**Reporting format:**
+
+```markdown
+## External Index Alignment
+
+| Index | Score | DBS Equivalent | Divergence |
+|-------|-------|----------------|------------|
+| V-Dem LDI | 0.72 | ~20 (Concern) | DBS=45, +25 pts |
+| Freedom House | 83 (Free) | ~15 (Normal) | DBS=45, +30 pts |
+
+**Divergence explanation:** DBS captures recent executive actions (past 60 days) that V-Dem's annual assessment has not yet incorporated. Freedom House's 2025 report predates the events driving current DBS elevation.
+```
+
+### J.6 Index-Specific Data Sources
+
+| Index | Data Access | Update Frequency | API Available |
+|-------|-------------|------------------|---------------|
+| V-Dem | https://v-dem.net/data/ | Annual (March) | Yes |
+| Freedom House | https://freedomhouse.org/report/freedom-world | Annual (February) | No |
+| EIU | Subscription required | Annual | No |
+| BTI | https://bti-project.org/ | Biennial | No |
+| IDEA GSoD | https://idea.int/gsod/ | Annual | Yes |
+
+**Lag note:** External indices are annual and may lag current events by 6-18 months. DBS's rolling window provides more current assessment but may diverge from annual indices until they update.
 
 ---
 

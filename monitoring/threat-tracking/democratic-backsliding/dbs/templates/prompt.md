@@ -380,14 +380,17 @@ Provide:
     - "State of exception pattern active" if A1 ≥ 3 AND A4 ≥ 3 AND F6 ≥ 3
     - "Coordinated foreign–domestic election subversion detected" if D8 ≥ 3 AND (D5 ≥ 3 OR D6 ≥ 3 OR D11 ≥ 3)
     - "External attack on electoral legitimacy detected" if D12 ≥ 3 AND (D5 ≥ 3 OR D6 ≥ 3 OR D11 ≥ 3)
-    - "Asymmetric information environment detected; coordination unproven" if E3 ≤ 2 AND (platform takedown action identifying coordinated inauthentic behavior favoring incumbents OR peer-reviewed/institutional research documenting AI-scale operations favoring incumbents OR official investigation findings documenting systematic information operations)
-    - "Information environment pre-conditioning electoral rejection" if E3 ≥ 4 AND D4 ≥ 3 — lead indicator for D5/D6 activation
+    - "Asymmetric information environment detected; coordination unproven" if E3b ≤ 2 AND (platform takedown action identifying coordinated inauthentic behavior favoring incumbents OR peer-reviewed/institutional research documenting AI-scale operations favoring incumbents OR official investigation findings documenting systematic information operations)
+    - "Information environment pre-conditioning electoral rejection" if E3b ≥ 4 AND D4 ≥ 3 — lead indicator for D5/D6 activation
+    - "Coordinated manipulation of polarized information environment" if E3a ≥ 3 AND E3b ≥ 3 — vulnerable environment actively exploited; democratic deliberation severely compromised
     - "Institutional resistance active" if any checkpoint ≥3 has documented successful resistance (court injunction enforced, legislative override sustained, executive reversal following watchdog report)
-    - "Electoral oversight compromised; D-category auditability degraded" if (E3 ≥ 4 OR E1 ≥ 3) AND (any of D1–D6 ≥ 2) — triggers mandatory interpretation note and confidence reassessment for D-category checkpoints
-    - "Coercion-information disconnect; E-category escalation likely" if (B4 ≥ 3 OR B5 ≥ 3) AND (E1 ≤ 2 AND E3 ≤ 2) — regime deploying visible force while media remains open; historically unstable configuration
+    - "Civil society consultation active" if meaningful CSO consultation in policymaking maintained or restored — positive resilience indicator
+    - "Electoral oversight compromised; D-category auditability degraded" if (E3b ≥ 4 OR E1 ≥ 3) AND (any of D1–D6 ≥ 2) — triggers mandatory interpretation note and confidence reassessment for D-category checkpoints
+    - "Coercion-information disconnect; E-category escalation likely" if (B4 ≥ 3 OR B5 ≥ 3) AND (E1 ≤ 2 AND E3b ≤ 2) — regime deploying visible force while media remains open; historically unstable configuration
     - "Prosecutorial sword and shield active" if C3 ≥ 3 AND F6 ≥ 3 — legal dualism: executive immune while weaponizing prosecution against opponents; C1/C2 are remaining checks
     - "Legal system capture complete; judicial check failed" if C3 ≥ 3 AND F6 ≥ 3 AND (C1 ≥ 3 OR C2 ≥ 3) — compound flag indicating full legal capture with no judicial check remaining
     - "Expertise void; institutional memory and oversight neutralized" if (F1 ≥ 3 OR F3 ≥ 3) AND C4 ≥ 3 — hollow state pattern; lead indicator for C6 (kleptocracy) and D10 (governance dysfunction)
+    - "Bureaucratic capture active; horizontal accountability degraded" if F1 ≥ 3 AND C4 ≥ 3 — V-Dem "executive aggrandizement" pattern; agencies cannot implement policy independently
     - "Guardrail attrition on [checkpoint]; sustained institutional siege detected" if a checkpoint has Institutional Resistance Active for 3+ consecutive runs with base score ≥ 2 — requires Safeguard Resilience Assessment in interpretation
     - "High-velocity escalation detected; institutional response capacity may be trailing" if Δ DBS > 12 points within 30 days compared to prior comparable run — blitz pattern indicator
     - "High-velocity red-line breach; institutional response window compressed" if Δ DBS > 12 in 30 days AND any red-line checkpoint newly ≥ 3 — compound flag triggering accelerated monitoring
@@ -430,7 +433,7 @@ Provide:
 
 **Activation:** When **both** conditions are met:
 
-1. Audit Degradation Flag active: `(E3 ≥ 4 OR E1 ≥ 3) AND (any of D1–D6 ≥ 2)`
+1. Audit Degradation Flag active: `(E3b ≥ 4 OR E1 ≥ 3) AND (any of D1–D6 ≥ 2)`
 2. DBS ≥ 70
 
 When activated, calculate and report:
