@@ -1,0 +1,72 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$comment": "DBS Event Log Template - v1.4",
+  "metadata": {
+    "topic": "[topic]",
+    "run_date": "YYYY-MM-DD",
+    "window_start": "YYYY-MM-DD",
+    "window_end": "YYYY-MM-DD",
+    "analyst_id": null,
+    "template_version": "1.4"
+  },
+  "events": [
+    {
+      "event_id": "E001",
+      "date": "YYYY-MM-DD",
+      "description": "[Brief factual description of the event]",
+      "mapped_checkpoint": "[A1-F7]",
+      "base_score": 0,
+      "scope_modifier": "M0",
+      "persistence_modifier": "P0",
+      "decay_state": "D0",
+      "effective_score": 0,
+      "intent": "AMBIGUOUS",
+      "confidence": "High",
+      "institutional_resistance": false,
+      "resistance_description": null,
+      "sources": [
+        {
+          "url": "https://example.com/article",
+          "title": "[Article title]",
+          "publication": "[Publication name]",
+          "date": "YYYY-MM-DD",
+          "tier": 1,
+          "content_hash": null,
+          "quote_excerpt": "[Key quote, ≤50 words]"
+        }
+      ],
+      "exclusion_reason": null,
+      "notes": null
+    }
+  ],
+  "excluded_events": [
+    {
+      "event_id": "EX001",
+      "date": "YYYY-MM-DD",
+      "description": "[Brief description]",
+      "exclusion_reason": "EX_TA",
+      "exclusion_reason_detail": "[Explanation of why excluded]",
+      "mapped_checkpoint": "[checkpoint that would have been scored]",
+      "evidence_trigger_doc_types": ["[doc_type]"],
+      "sources": [
+        {
+          "url": "https://example.com/article",
+          "title": "[Article title]",
+          "publication": "[Publication name]"
+        }
+      ]
+    }
+  ],
+  "exclusion_codes": {
+    "EX_TA": "Temporal: Outside assessment window",
+    "EX_OW": "Outside window: Event predates scoring window",
+    "EX_NS": "Not scorable: Does not meet checkpoint definition",
+    "EX_SS": "Single source: Tier-2/3 without corroboration",
+    "EX_RH": "Rhetorical only: No concrete action",
+    "EX_NI": "Normal institutional: Standard democratic process",
+    "EX_RV": "Reversed: Action subsequently reversed",
+    "EX_DC": "Decay complete: Score decayed to 0",
+    "EX_DP": "Duplicate: Already counted in another event",
+    "EX_FO": "Foreign only: No domestic nexus (for D8/D12)"
+  }
+}

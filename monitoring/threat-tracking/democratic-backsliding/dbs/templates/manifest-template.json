@@ -1,0 +1,62 @@
+{
+  "$comment": "DBS Source Manifest Template - Evidence Integrity Protocol (Section 8.3)",
+  "manifest_version": "1.0",
+  "generated_at": "YYYY-MM-DDTHH:MM:SSZ",
+  "run_reference": {
+    "topic": "[topic]",
+    "run_date": "YYYY-MM-DD"
+  },
+  "integrity": {
+    "evidence_merkle_root": "sha256:[64-char-hex]",
+    "hash_algorithm": "sha256",
+    "sources_count": 0,
+    "sources_with_hash": 0,
+    "sources_without_hash": 0
+  },
+  "sources": [
+    {
+      "source_id": "S001",
+      "url": "https://example.com/article",
+      "captured_at": "YYYY-MM-DDTHH:MM:SSZ",
+      "content_hash": "sha256:[64-char-hex]",
+      "archived_file": "[hash].html",
+      "archive_method": "full_page|excerpt|metadata_only",
+      "tier": 1,
+      "publication": "[Publication name]",
+      "title": "[Article title]",
+      "access_status": "public|paywalled|authenticated",
+      "notes": null
+    }
+  ],
+  "merkle_tree": {
+    "leaf_hashes": [
+      "sha256:[hash-of-source-1]",
+      "sha256:[hash-of-source-2]"
+    ],
+    "intermediate_nodes": [],
+    "root": "sha256:[merkle-root]"
+  },
+  "timestamps": {
+    "rfc3161": {
+      "enabled": false,
+      "tsa_url": null,
+      "timestamp_token": null,
+      "verified_at": null
+    },
+    "blockchain": {
+      "enabled": false,
+      "chain": null,
+      "transaction_hash": null,
+      "block_number": null,
+      "anchored_at": null
+    }
+  },
+  "privacy_redactions": [
+    {
+      "source_id": "S00X",
+      "redaction_type": "whistleblower_identity|classified|pii|copyright",
+      "redaction_description": "[What was redacted and why]",
+      "sealed_hash": "sha256:[hash-before-redaction]"
+    }
+  ]
+}

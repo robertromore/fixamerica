@@ -3383,6 +3383,264 @@ The High-Opacity Protocol should be calibrated against historical cases:
 
 ---
 
+## 8.5 Repository Structure and File Organization
+
+This section defines the canonical directory structure for DBS runs, ensuring consistency across analysts, organizations, and automation tools.
+
+### 8.5.1 Top-Level Structure
+
+```
+monitoring/threat-tracking/democratic-backsliding/dbs/
+├── initial-scoped-plan.md              # Methodology document (this file)
+├── templates/
+│   ├── prompt.md                       # LLM prompt template
+│   └── run-template.md                 # Run output template
+├── calibration/                        # Synthetic Calibration Library (Appendix H)
+│   ├── S01-normal-democratic-conflict/
+│   ├── S02-norm-breaking-episode/
+│   └── ...
+└── runs/                               # All assessment runs
+    └── <topic>/                        # Topic-specific directory
+        └── <YYYY-MM-DD>/               # Run date directory
+            └── [run files]
+```
+
+### 8.5.2 Topic Naming Convention
+
+Topics use lowercase, single-word identifiers:
+
+| Type | Examples | Notes |
+|------|----------|-------|
+| **Person (leader)** | `trump`, `putin`, `orban`, `erdogan`, `modi` | Use common English name; scores the country they lead |
+| **Country** | `america`, `hungary`, `turkey`, `russia`, `india` | Use common English name, not ISO codes |
+| **Region** | `eu`, `latam`, `sahel` | For multi-country assessments |
+
+**Aliases:** `usa` and `america` are equivalent; the system should normalize to a canonical form.
+
+### 8.5.3 Run Directory Structure
+
+Each run produces a dated directory with the following files:
+
+```
+runs/<topic>/<YYYY-MM-DD>/
+├── run.md                    # [Required] Human-readable summary
+├── run.json                  # [Required for Level 2+] Schema-compliant JSON
+├── event-log.json            # [Required for Level 2+] Detailed event log
+├── prompt-used.md            # [Recommended] Exact prompt used for this run
+├── sources/                  # [Required for Level 2+] Evidence archive
+│   ├── manifest.json         # Source hashes per Section 8.3
+│   └── <content_hash>.html   # Archived source snapshots (optional)
+└── attachments/              # [Optional] Supporting materials
+    ├── charts/               # Visualization exports
+    └── supplementary/        # Additional analysis documents
+```
+
+### 8.5.4 File Specifications
+
+#### run.md (Required)
+
+Human-readable summary containing:
+
+```markdown
+# DBS Run Summary
+
+DBS-v1.1e [mode] ([window], run date: YYYY-MM-DD) — Topic: <topic>: [score] (confidence band: ±N)
+Tier: [tier label]
+Pathway: [pathway_mode][+subcategories]
+Red-lines: [list or "None triggered"]
+
+## Trend Drivers
+[6-10 bullets]
+
+## Watchpoints
+[bullets]
+
+## Diagnostic Flags
+[list if any]
+
+## Criticality Map
+[table]
+
+## Strategic Intervention Matrix
+[if DBS >= 31]
+
+## Category Scores
+[table with A-F scores and saturation]
+
+## Excluded Events (Context)
+[table]
+
+## Notes
+[methodology notes, confidence caveats, source limitations]
+```
+
+#### run.json (Required for Level 2+)
+
+Full schema-compliant JSON per Appendix F. Must validate against DBS schema-1.4.
+
+Key fields:
+
+```json
+{
+  "schema_version": "1.4",
+  "run_metadata": {
+    "topic": "string",
+    "run_date": "YYYY-MM-DD",
+    "window_start": "YYYY-MM-DD",
+    "window_end": "YYYY-MM-DD",
+    "run_mode": "rolling|adhoc|snapshot",
+    "analyst_id": "string|null",
+    "prompt_version": "string"
+  },
+  "scores": {
+    "dbs": "number",
+    "dbs_analytical": "number|null",
+    "confidence_band": "number",
+    "tier": "string",
+    "pathway_mode": { ... },
+    "red_lines_triggered": ["array"],
+    "diagnostic_flags": ["array"]
+  },
+  "categories": [ ... ],
+  "event_log": [ ... ],
+  "run_integrity": { ... },
+  "dbs_exchange": { ... }
+}
+```
+
+#### event-log.json (Required for Level 2+)
+
+Detailed event log with full source attribution:
+
+```json
+{
+  "events": [
+    {
+      "event_id": "E001",
+      "date": "YYYY-MM-DD",
+      "description": "string",
+      "mapped_checkpoint": "A1",
+      "base_score": 2,
+      "scope_modifier": "M1",
+      "persistence_modifier": "P1",
+      "decay_state": "D0",
+      "effective_score": 3,
+      "intent": "ANTI-DEM",
+      "confidence": "High",
+      "sources": [
+        {
+          "url": "string",
+          "title": "string",
+          "publication": "string",
+          "date": "YYYY-MM-DD",
+          "tier": 1,
+          "content_hash": "sha256:...",
+          "quote_excerpt": "string (≤50 words)"
+        }
+      ],
+      "exclusion_reason": null,
+      "notes": "string|null"
+    }
+  ],
+  "excluded_events": [
+    {
+      "event_id": "EX001",
+      "description": "string",
+      "exclusion_reason": "EX_TA|EX_OW|EX_NS|...",
+      "mapped_checkpoint": "B3",
+      "evidence_trigger_doc_types": ["string"]
+    }
+  ]
+}
+```
+
+#### manifest.json (Required for Level 2+ with integrity)
+
+Source integrity manifest per Section 8.3:
+
+```json
+{
+  "manifest_version": "1.0",
+  "generated_at": "ISO-8601",
+  "evidence_merkle_root": "sha256:...",
+  "sources": [
+    {
+      "url": "string",
+      "captured_at": "ISO-8601",
+      "content_hash": "sha256:...",
+      "archived_file": "<hash>.html|null"
+    }
+  ]
+}
+```
+
+### 8.5.5 Versioning and History
+
+**Run immutability:** Once a run is published (committed to repository), it should not be modified. Corrections require a new run with notes referencing the prior run.
+
+**Prior run linking:** Runs may reference prior runs for delta calculations:
+
+```json
+{
+  "prior_run_reference": {
+    "date": "YYYY-MM-DD",
+    "dbs_score": 44,
+    "days_elapsed": 30
+  }
+}
+```
+
+**Supersession:** If a run is invalidated (methodological error, source retraction), create a superseding run:
+
+```
+runs/<topic>/<YYYY-MM-DD>/
+├── run.md
+└── SUPERSEDED.md              # Note explaining invalidation
+
+runs/<topic>/<YYYY-MM-DD>-v2/   # Corrected run
+├── run.md
+└── supersedes.md              # Reference to original
+```
+
+### 8.5.6 Federation Files (Appendix I)
+
+For organizations participating in DBS-Exchange:
+
+```
+runs/<topic>/<YYYY-MM-DD>/
+├── run.json                   # Includes dbs_exchange metadata block
+├── submission.sig             # Detached cryptographic signature
+└── federation/                # Federation-specific files
+    ├── attestation.json       # Organization independence attestation
+    └── consensus-receipt.json # Receipt from registry (after submission)
+```
+
+### 8.5.7 Automation Support
+
+For automated/scheduled runs, include additional metadata:
+
+```
+runs/<topic>/<YYYY-MM-DD>/
+├── run.json
+├── automation/
+│   ├── trigger.json           # What triggered this run (schedule, alert, manual)
+│   ├── source-queries.json    # Search queries used
+│   └── execution-log.txt      # Runtime log
+```
+
+### 8.5.8 Access Control Recommendations
+
+| File Type | Recommended Access |
+|-----------|-------------------|
+| `run.md` | Public |
+| `run.json` | Public |
+| `event-log.json` | Public (with PII redaction) |
+| `sources/` | Public or restricted (copyright considerations) |
+| `automation/` | Internal only |
+| `submission.sig` | Public |
+
+---
+
 ## 9. Final LLM Prompt (Drop-In)
 
 The following prompt is designed to be pasted directly into another LLM.

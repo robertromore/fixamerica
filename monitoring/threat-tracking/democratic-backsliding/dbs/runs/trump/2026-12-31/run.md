@@ -1,23 +1,47 @@
 # DBS Run Summary
 
-DBS-v1.1e [Run Mode] ([Window], run date: YYYY-MM-DD) — Topic: trump: [Score] (confidence band: [±N])
+DBS-v1.1e Rolling (60-day window, run date: 2026-12-31) — Topic: trump: [Score] (confidence band: ±[N])
 Tier: [Tier label]
+Pathway: [pathway_mode][+subcategories]
 Red-lines: [None triggered / list]
 
 ## Trend Drivers
 
-- [Driver 1]
-- [Driver 2]
+- **Driver** (High) [checkpoint]: [description]
+- **Driver** (Medium) [checkpoint]: [description]
 
 ## Watchpoints
 
-- [Watchpoint 1]
-- [Watchpoint 2]
+- **Watchpoint** (High) [checkpoint]: [description]
+- **Watchpoint** (Medium) [checkpoint]: [description]
+
+## Diagnostic Flags
+
+- [flag 1 if any]
+
+## Criticality Map
+
+| Checkpoint | Score | +1 Effect | -1 Effect | Structural Impact |
+|------------|-------|-----------|-----------|-------------------|
+| [checkpoint] | [score] | [effect] | [effect] | [impact] |
 
 ## Excluded Events (Context)
 
-- [event_id] — [exclusion_reason] — [mapped_checkpoint] — [evidence_trigger_doc_types]
+| Event ID | Exclusion Reason | Checkpoint | Evidence Types |
+|----------|------------------|------------|----------------|
+| [event_id] | [EX_code] | [checkpoint] | [doc_types] |
+
+## Category Scores
+
+| Category | Score | Max | Saturation |
+|----------|-------|-----|------------|
+| A | [score] | 20 | [pct]% |
+| B | [score] | 35 | [pct]% |
+| C | [score] | 40 | [pct]% |
+| D | [score] | 60 | [pct]% |
+| E | [score] | 20 | [pct]% |
+| F | [score] | 35 | [pct]% |
 
 ## Notes
 
-- [Optional notes]
+- [Placeholder run - actual assessment pending]
