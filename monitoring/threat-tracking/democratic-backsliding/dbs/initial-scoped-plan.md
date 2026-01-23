@@ -959,6 +959,76 @@ Note: Federal DBS of 44 masks significant state-level divergence.
 
 **V-Dem Alignment:** This metric corresponds to V-Dem's Subnational Democracy Index, which tracks democratic quality variance across subnational units. The SVI captures the same insight: federalism can mask authoritarian enclaves within formally democratic nations.
 
+#### Local Accountability Index (LAI)
+
+**Purpose:** SVI measures *variance* in democratic health across states. The Local Accountability Index measures the *depth* of democratic accountability within states—whether local officials can be held accountable by citizens or have become captured by narrow interests.
+
+**Why this matters:**
+
+- Medicaid rates are set at the state level, but implementation occurs at the county/municipal level
+- Local accountability affects whether low-SES populations can influence policy (EPM-SES interaction)
+- "Pockets of autocracy" often begin with local capture before affecting state-level DBS scores
+- Federal programs filtered through captured local institutions may not reach intended beneficiaries
+
+**V-Dem Alignment:** LAI corresponds to V-Dem's Local Government Accountability indicator (v2lggovac), which asks whether local officials can be held accountable through elections, oversight, or legal mechanisms.
+
+**LAI Assessment (per state):**
+
+| Level | Condition | Interpretation |
+|-------|-----------|----------------|
+| LAI-0 | Local officials broadly accountable; competitive elections; functional oversight | Normal local democracy |
+| LAI-1 | Some local capture documented; non-competitive elections in some areas; oversight gaps | Monitoring warranted |
+| LAI-2 | Systematic local capture; non-competitive elections common; oversight ineffective | Local democracy degraded |
+| LAI-3 | Local officials effectively unaccountable; elections non-competitive or absent; no functional oversight | Local authoritarianism |
+
+**Evidence for LAI:**
+
+- **Electoral competitiveness:** Percentage of local races uncontested or won by >20 points
+- **Oversight functionality:** Whether local auditors/inspectors can investigate and report independently
+- **Public meeting access:** Whether citizens can attend and participate in local government proceedings
+- **FOIA responsiveness:** Whether local governments comply with records requests
+- **Capture indicators:** Documented conflicts of interest, revolving door patterns, single-industry dominance
+
+**Interaction with DBS-State:**
+
+When calculating DBS-State, LAI serves as a **depth modifier** indicating how much the state-level score reflects ground-level reality:
+
+| DBS-State | LAI | Interpretation |
+|-----------|-----|----------------|
+| Low | LAI-0/1 | Healthy state democracy |
+| Low | LAI-2/3 | State metrics may miss local-level degradation |
+| High | LAI-0/1 | State-level problems; local resistance possible |
+| High | LAI-2/3 | Degradation extends to local level; recovery harder |
+
+**Reporting:**
+
+When LAI is assessed for sampled states, include in output:
+
+```text
+Local Accountability Assessment:
+- TX: LAI-1 (some county-level capture documented)
+- WI: LAI-2 (legislative override of local authority; non-competitive county elections)
+- CA: LAI-0 (competitive local elections; functional oversight)
+
+Note: High DBS-State + High LAI indicates deep penetration of democratic degradation.
+```
+
+**Interaction with EPM-SES:**
+
+LAI and EPM-SES are related:
+- Low-SES populations depend on local services (Medicaid administration, social services, labor enforcement)
+- When local officials are unaccountable (high LAI), these populations have no lever to influence implementation
+- High LAI + High EPM-SES = effective exclusion of low-income populations from political influence at all levels
+
+**Workforce Application:**
+
+For care workforce analysis:
+- Medicaid reimbursement rates are state-set but locally administered
+- Wage and hour enforcement often depends on local agencies
+- Care workforce advocacy requires local as well as state engagement
+
+When LAI is elevated in states with significant care workforce populations, note "local capture affecting care infrastructure" in interpretation.
+
 ---
 
 ### 4.9 Intent / Direction Metadata
@@ -1128,7 +1198,7 @@ No hand-waving. No special pleading. No exception logic.
 | B        | 7 (B1–B7)   | 35        |
 | C        | 9 (C1–C9)   | 45        |
 | D        | 13 (D1–D13) | 65        |
-| E        | 5 (E1–E4, with E3a/E3b split) | 25 |
+| E        | 6 (E1–E5, with E3a/E3b split) | 30 |
 | F        | 7 (F1–F7)   | 35        |
 
 ### 6.2 Final Score Formula
@@ -1139,7 +1209,7 @@ DBS = 100 × (
   0.18·B/35 +
   0.18·C/45 +
   0.24·D/65 +
-  0.10·E/25 +
+  0.10·E/30 +
   0.20·F/35
 )
 ```
@@ -1258,6 +1328,61 @@ Red-lines: D5, F6
 **Legacy Compatibility:**
 
 The previous "Legislative Pathway Dominance Rule" is subsumed by this classification. The `legislative_capture` and `legislative_dysfunction` labels are now subcategories of `legislative-driven` mode.
+
+#### Party Personalism Indicator (Contextual)
+
+**Purpose:** Party personalism—the degree to which a political party is organized around a single leader's authority rather than institutional rules, platforms, or norms—affects the *reversibility* of democratic backsliding. This indicator does not add checkpoints or score points but provides interpretive context.
+
+**V-Dem Alignment:** This corresponds to V-Dem's v2paperson indicator (Party Personalism), which measures whether parties are leader-centric vs. institutionalized.
+
+**Why this matters:**
+
+| Party Structure | Policy Implication | Backsliding Reversibility |
+|-----------------|-------------------|---------------------------|
+| **Institutionalized** | Policy positions stable across leadership changes; coalition-building possible; long-term reform achievable | Easier—leadership change doesn't require party transformation |
+| **Personalist** | Policy driven by leader preferences; coalition-building unstable; complex reform deprioritized | Harder—reversal requires both leader removal AND party reinstitutionalization |
+
+**Personalism Assessment:**
+
+| Level | Indicators |
+|-------|------------|
+| **Low** | Competitive primaries; platform-driven campaigns; leadership transitions occur through established processes; party survives leader departure |
+| **Moderate** | Leader dominates but party structures function; some policy independence from leader; succession processes exist but rarely tested |
+| **High** | Leader = party identity; no meaningful internal competition; policy is leader preference; party would fracture without leader |
+
+**When to note personalism:**
+
+Include personalism assessment in interpretation when:
+
+1. **Pathway is executive-driven:** High personalism in ruling party makes F-category risks more severe—loyalty is to person, not institution
+2. **DBS ≥ 40:** At elevated threat levels, personalism affects whether electoral path to reversal is viable
+3. **D13 (Anti-Pluralist Rhetoric) ≥ 3:** Personalism + anti-pluralism often co-occur and compound
+
+**Reporting format:**
+
+```text
+Contextual Factors:
+- Ruling party personalism: High (leader identification with party complete; no succession mechanism)
+- Implication: Democratic reversal would require not just electoral change but ruling party transformation
+```
+
+**Care Workforce Connection:**
+
+Complex policy reform (e.g., sectoral bargaining for $20/hour wage floor) requires:
+- Sustained legislative coalition-building
+- Multi-year implementation roadmaps
+- Predictable policy environment for investment
+
+High personalism undermines these conditions: leader-centric parties often abandon complex reform in favor of high-salience grievance politics. When personalism is high in states with significant care workforce populations, note that "structural reform capacity is degraded by party personalism."
+
+**What this indicator does NOT do:**
+
+- Add points to DBS score
+- Trigger flags or multipliers
+- Change checkpoint scoring
+- Distinguish between parties (opposition personalism is also relevant)
+
+It provides interpretive context only—helping analysts understand whether observed backsliding patterns are likely to be reversed through normal political cycles or require structural transformation.
 
 ### 6.3 Red-Line Multipliers (Hard Thresholds)
 
@@ -5797,7 +5922,7 @@ Example: Defunding all federal courts to prevent ruling on executive actions →
 
 ---
 
-### Category E — Information Environment Capture (E1–E5)
+### Category E — Information Environment Capture (E1–E5, with E3a/E3b split = 6 checkpoints)
 
 #### E1 — Retaliation against media
 
@@ -5971,6 +6096,80 @@ Use of misinformation laws to punish dissent selectively.
 
 **Clarifying note:**
 E4 captures *selective* criminalization—misinformation laws applied against political opponents but not allies. Content-neutral enforcement is excluded; asymmetric enforcement is included. The key evidence is whether similar speech by government allies faces prosecution.
+
+---
+
+#### E5 — Politicization of Knowledge Institutions
+
+**Definition:**
+Political interference in universities, research institutions, or scientific agencies that compromises their independence to produce and disseminate knowledge based on evidence and expertise rather than political preference.
+
+**Why this matters:**
+Knowledge institutions serve as independent validators of claims about reality. When politicized, they cannot perform this function—expert consensus becomes indistinguishable from political opinion. This enables other forms of democratic erosion by degrading the shared factual basis for democratic deliberation.
+
+**Includes:**
+
+- Political interference in university governance (board appointments, president removals) based on ideological criteria
+- Funding conditionality tied to research outcomes or ideological compliance
+- Curriculum mandates that override professional educational standards for political purposes
+- Retaliation against researchers for findings that contradict government positions
+- Defunding or restructuring research agencies to suppress inconvenient findings
+- Banning or restricting specific topics, methodologies, or terminologies for political reasons
+- Mandatory "balance" requirements that elevate non-expert views to parity with expert consensus
+- Political vetting of grant applications or research publications
+
+**Excludes:**
+
+- Normal policy debates about education funding or priorities
+- Legitimate curriculum standards developed through professional processes
+- Performance-based funding tied to educational outcomes (graduation rates, employment)
+- Restructuring of research agencies with transparent rationale and maintained scientific capacity
+- Public criticism of research findings without institutional consequences
+- Defunding based on documented misconduct or waste
+- Requirements for research transparency or data sharing
+
+**E5 Severity Anchors:**
+
+| Score | Anchor |
+| ----: | ------ |
+| **1** | Political rhetoric criticizing universities or research institutions; funding threats without action; isolated curriculum debates |
+| **2** | Single institution targeted for political reasons; isolated researcher retaliation; funding cuts to specific programs with political rationale |
+| **3** | Multiple institutions affected; systematic curriculum mandates overriding professional standards; research agencies restructured to limit independence |
+| **4** | Knowledge production systematically constrained; researchers self-censor on politically sensitive topics; institutional autonomy functionally eliminated in affected areas |
+| **5** | Universities and research institutions function as state propaganda arms; independent research effectively prohibited; expert dissent criminalized or impossible |
+
+**Key discriminator:** Whether interference is **isolated and contested** (≤2) or **systematic and institutionally embedded** (≥3). The critical question is whether knowledge institutions retain capacity for independent inquiry.
+
+**V-Dem Alignment:** E5 corresponds to V-Dem's Academic Freedom indicators (v2cainsaut for institutional autonomy, v2cafexch for campus expression, v2casurv for surveillance of academics). These measure whether universities can govern themselves, whether campus discourse is free, and whether academics face monitoring.
+
+**Subnational Application:**
+
+E5 is particularly relevant for subnational (state-level) assessment because education governance is often state-controlled:
+
+- State legislatures mandating or banning specific curriculum content
+- State boards of education overriding professional standards
+- State university system governance captured by political appointees
+- State-level defunding of research on politically sensitive topics
+
+When ≥3 states show E5 ≥ 3 with similar mechanisms within 24 months, note "coordinated knowledge institution politicization" in interpretation—this may indicate a national pattern emerging through state-level action.
+
+**Relationship to other checkpoints:**
+
+- **E3a/E3b (Information environment):** E5 degrades the *production* of authoritative knowledge; E3 captures the *distribution* environment
+- **F1/F3 (Civil service):** E5 focuses on *academic* institutions; F1/F3 focus on *government* bureaucracy
+- **C4 (Watchdog undermining):** Research institutions often serve watchdog functions; E5 captures when that capacity is politicized
+
+**Care Workforce Connection:**
+
+Evidence-based care workforce training depends on independent research on:
+- Effective care delivery models
+- Workforce health and safety
+- Demographic and economic analysis of care needs
+
+When E5 is elevated, research on "gendered logic of care," "racial stratification in care work," or economic analysis of care infrastructure becomes politically constrained—degrading the evidence base for policy reform.
+
+**Clarifying note:**
+E5 is scored based on *political* interference with knowledge production, not normal policy disagreements about education. A legislature debating education funding is excluded; a legislature mandating that universities cannot teach certain topics is included. The key evidence is whether professional academic standards are being overridden by political diktat.
 
 ---
 
@@ -6210,11 +6409,40 @@ A surveillance state that exists but isn't politically weaponized scores on F7 o
 | ----: | ------ |
 | **1** | Surveillance expansion proposed or funded; no operational deployment against domestic population |
 | **2** | Isolated deployment (single program, limited scope) without clear judicial oversight; OR revelation of existing surveillance exceeding legal authorization |
-| **3** | Multiple surveillance systems operational against domestic population; OR mass surveillance deployed specifically at political gatherings/protests |
-| **4** | Integrated surveillance ecosystem across programs; minimal judicial oversight in practice; chilling effect on political activity documented |
+| **3** | Multiple surveillance systems operational against domestic population; OR mass surveillance deployed specifically at political gatherings/protests; OR systematic social media monitoring of political organizing |
+| **4** | Integrated surveillance ecosystem across programs; minimal judicial oversight in practice; chilling effect on political activity documented; social media monitoring actively used to identify and preempt organizing |
 | **5** | Comprehensive domestic surveillance normalized; real-time population monitoring capability; surveillance data used for political purposes; oversight effectively non-existent |
 
 **Key discriminator:** Whether surveillance is **targeted with judicial oversight** (≤1) or **mass-scale without meaningful constraints** (≥3).
+
+**Digital Surveillance Indicators (V-Dem DSP alignment):**
+
+F7 incorporates the Digital Society Project's "Government Social Media Monitoring" indicator (v2smmonit). Score F7 higher when evidence shows:
+
+| Indicator | Evidence Type | F7 Impact |
+|-----------|---------------|-----------|
+| **Passive monitoring** | Government agencies systematically track public social media posts for political content | Supports score ≥2 |
+| **Active infiltration** | Agents or informants join online groups, private channels, or encrypted platforms to monitor organizing | Supports score ≥3 |
+| **Predictive identification** | AI/ML systems identify potential organizers or dissidents before public activity | Supports score ≥4 |
+| **Preemptive disruption** | Surveillance data used to disrupt organizing before public action (arrests, employer pressure, benefit scrutiny) | Supports score ≥4; also score F4 |
+
+**Labor Movement Canary:**
+
+Digital surveillance of labor organizing is a sensitive early indicator. When evidence shows:
+- Monitoring of union social media accounts or encrypted channels
+- Identification of organizing leaders through digital footprint analysis
+- Coordination with employers to share surveillance data
+- Preemptive action against workers based on online organizing activity
+
+...score F7 at minimum ≥3 and note "labor surveillance" in event log. Labor movements are historically early targets of surveillance states; their targeting signals broader political surveillance capacity.
+
+**Scoring interaction with F4:**
+
+| Pattern | F7 Score | F4 Score | Interpretation |
+|---------|----------|----------|----------------|
+| Mass surveillance exists but not politically targeted | F7 ≥ 3 | F4 = 0-1 | Infrastructure risk; political weaponization possible |
+| Targeted political surveillance without mass infrastructure | F7 = 1-2 | F4 ≥ 3 | Selective persecution; limited but dangerous |
+| Mass surveillance AND political targeting | F7 ≥ 3 | F4 ≥ 3 | Maximum danger; comprehensive political control capability |
 
 ---
 
@@ -6371,7 +6599,11 @@ These multipliers exist to prevent **false reassurance** from averaged scores wh
 - Updated Category D formula from D/40 to D/60 (v1.1b), then D/60 to D/65 (v1.1e+)
 - Added D13 (Anti-pluralist rhetoric) for systematic delegitimization of opponents (v1.1e+)
 - Split E3 into E3a (organic polarization) and E3b (coordinated operations) (v1.1e+)
-- Updated Category E formula from E/20 to E/25 (v1.1e+)
+- Added E5 (Politicization of knowledge institutions) for academic freedom erosion (v1.1e+)
+- Updated Category E formula from E/20 to E/30 (v1.1e+)
+- Enhanced F7 with digital surveillance indicators (DSP v2smmonit alignment)
+- Added Local Accountability Index (LAI) to SVI assessment (v2lggovac alignment)
+- Added Party Personalism as pathway mode contextual indicator (v2paperson alignment)
 - Added D11 (Election infrastructure attacks) for cyber/physical attacks on election systems
 - Added D11 as conditional red-line checkpoint (activates at ≥3)
 - Added D12 (Foreign interference, non-collusive) with detailed severity anchors
@@ -7809,8 +8041,8 @@ This appendix defines the automated validation layer for DBS runs. Validation tr
 
 | Check | Rule | Formula/Logic |
 |-------|------|---------------|
-| Category totals | Sum of checkpoint effective scores ≤ category max | `sum(checkpoints) ≤ {A:20, B:35, C:45, D:65, E:25, F:35}` |
-| Weighted aggregate | Pre-multiplier DBS matches formula | `0.10×A/20 + 0.18×B/35 + 0.18×C/45 + 0.24×D/65 + 0.10×E/25 + 0.20×F/35` |
+| Category totals | Sum of checkpoint effective scores ≤ category max | `sum(checkpoints) ≤ {A:20, B:35, C:45, D:65, E:30, F:35}` |
+| Weighted aggregate | Pre-multiplier DBS matches formula | `0.10×A/20 + 0.18×B/35 + 0.18×C/45 + 0.24×D/65 + 0.10×E/30 + 0.20×F/35` |
 | Red-line triggers | `red_lines_triggered` matches checkpoint scores | C1≥3 AND B5≥3 → courts_military; D5/D6/D11≥3 → electoral; F2≥3 → military; F6≥3 → immunity |
 | Multiplier application | Final DBS includes correct multipliers | +10 (courts+military), +15 (electoral), +10 (F2), +10 (F6) |
 | Gating enforcement | No effective score exceeds base-dependent cap | `cap_by_base = {1→2, 2→4, 3→5, 4→5, 5→5}` |
@@ -8883,6 +9115,7 @@ This appendix maps DBS checkpoints to comparable indicators from established dem
 | E3a (Organic polarization) | Media polarization | v2smprivex | Private media diversity |
 | E3b (Coordinated operations) | State media, DSP | v2meslfcen, v2smgovdom | Media self-censorship; DSP coordinated ops |
 | E4 (Misinformation criminalization) | Media freedom | v2mecenefm | Government censorship effort |
+| E5 (Knowledge institution politicization) | Academic freedom | v2cainsaut, v2cafexch | Institutional autonomy; campus expression |
 
 #### Category F — Security Services & Loyalty
 
