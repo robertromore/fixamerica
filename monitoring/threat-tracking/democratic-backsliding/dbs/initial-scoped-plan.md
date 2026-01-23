@@ -1060,9 +1060,9 @@ No hand-waving. No special pleading. No exception logic.
 DBS = 100 × (
   0.10·A/20 +
   0.18·B/35 +
-  0.18·C/40 +
-  0.24·D/60 +
-  0.10·E/20 +
+  0.18·C/45 +
+  0.24·D/65 +
+  0.10·E/25 +
   0.20·F/35
 )
 ```
@@ -1094,7 +1094,16 @@ DBS v1.1b expands Category D from 8 to 12 checkpoints to capture threats that we
 
 These checkpoints fill gaps: DBS previously captured executive overreach (Categories B, C, F) better than legislative dysfunction, infrastructure-level threats, or external attacks. Adding D9–D12 ensures the framework identifies democratic erosion through *any* branch, *any* attack vector, and *any* origin, not just domestic executive action.
 
-The denominator increase from D/40 to D/60 means each individual D checkpoint contributes proportionally less to the category total, reducing the risk that any single tactic dominates the score. This reinforces the conservative design principle: high Category D scores require *multiple* forms of electoral or transfer-of-power dysfunction, not just one prominent case.
+The denominator increase from D/40 to D/65 means each individual D checkpoint contributes proportionally less to the category total, reducing the risk that any single tactic dominates the score. This reinforces the conservative design principle: high Category D scores require *multiple* forms of electoral or transfer-of-power dysfunction, not just one prominent case.
+
+**v1.1e+ Category Expansion:**
+
+DBS v1.1e+ adds checkpoints to capture additional democratic threats:
+- **C9 (Executive compliance with judiciary)** — Behavioral rule of law; whether the executive actually follows court orders in practice, not just formally
+- **D13 (Anti-pluralist rhetoric)** — V-Party metric for systematic dehumanization and delegitimization of political opponents
+- **E3a/E3b split** — Separates organic polarization (structural vulnerability) from coordinated information operations (active manipulation), enabling more precise diagnosis
+
+These additions update denominators: C/40→C/45, D/60→D/65, E/20→E/25. The formula weights remain unchanged; denominator increases maintain the principle that high category scores require multiple indicators.
 
 **Pathway Mode Classification (Mandatory Output Label):**
 
@@ -1859,6 +1868,59 @@ This compound flag indicates that rapid escalation has also crossed a structural
 1. **Immediate reassessment:** Override the 14-day cooldown for out-of-cycle reassessment if this compound flag triggers.
 2. **Interpretation note:** Include: "A red-line checkpoint was breached during a period of high-velocity escalation. The standard 72-hour reassessment window may be insufficient given the rate of change."
 3. **Accelerated monitoring:** Recommend daily or 48-hour monitoring intervals until velocity normalizes (Δ < 8 over a 14-day period).
+
+---
+
+**Civil Society Consultation Resilience Flag:**
+
+If documented evidence shows **meaningful civil society consultation** in policymaking has been **maintained or restored** during the scoring window, flag: *"Civil society consultation active; stakeholder voice preserved."*
+
+**Why this matters:**
+Civil society organizations (CSOs)—unions, advocacy groups, professional associations, community organizations—serve as a critical channel for citizen voice in policymaking beyond elections. When governments maintain genuine consultation processes, it indicates a commitment to pluralistic governance even under pressure. This corresponds to V-Dem's "CSO Consultation" indicator and represents a *positive* resilience signal.
+
+**Qualifying consultation mechanisms:**
+- Formal notice-and-comment periods where submitted comments demonstrably influence final rules
+- Advisory committees with CSO representation that meet regularly and whose input is documented in decision records
+- Public hearings where affected stakeholders can testify and responses are formally recorded
+- Stakeholder working groups that include civil society voices in policy development
+- Regulatory review processes that incorporate CSO input
+
+**What does NOT qualify:**
+- Consultation theater (processes exist but input is systematically ignored)
+- Captured consultation (only regime-aligned CSOs are included)
+- Post-hoc justification (consultation conducted after decisions are finalized)
+- Declining consultation (processes that existed but are being eliminated)
+- Selective consultation (some policy areas engage CSOs while others exclude them entirely)
+
+**CSO Consultation Assessment:**
+
+| Level | Pattern | Flag Status |
+|-------|---------|-------------|
+| **Active** | Consultation processes functioning across major policy areas; diverse CSO voices included; documented impact on outcomes | Flag triggered |
+| **Partial** | Consultation exists but with gaps in coverage, diversity, or impact | Note in interpretation; flag not triggered |
+| **Declining** | Previously functioning consultation processes being restricted or eliminated | Note as negative trend; flag not triggered |
+| **Absent** | No meaningful consultation mechanisms; CSOs excluded from policymaking | Note absence; flag not triggered |
+
+**Why this is a resilience flag (not a backsliding indicator):**
+
+The *absence* of CSO consultation is not scored as backsliding because democracies vary significantly in how much formal consultation occurs—it's often a matter of political style rather than democratic health. However, *collapse* of previously established consultation represents democratic erosion and should be noted as a negative trend.
+
+The flag captures *presence* of healthy consultation as a positive signal, similar to "Institutional Resistance Active." When other indicators show stress but this flag is active, it suggests the regime remains committed to pluralistic input channels.
+
+**Trigger conditions:**
+- Evidence of at least 3 distinct policy areas where meaningful CSO consultation occurred during the scoring window
+- Consultation processes include diverse voices (not exclusively regime-aligned organizations)
+- Documented cases where CSO input influenced policy outcomes
+
+**Interaction with other flags:**
+- CSO Consultation Active + Institutional Resistance Active = Strong resilience indicators
+- CSO Consultation Active + Expertise Void = Mixed signal; formal processes exist but expert capacity may be degraded
+- CSO Consultation declining + F1 ≥ 3 = Concerning pattern; both career civil service and external stakeholder voice under pressure
+
+**V-Dem Alignment:** This flag corresponds to V-Dem's CSO Consultation indicators (v2cscnsult), which assess whether major CSOs are routinely consulted by policymakers.
+
+**Clarifying note:**
+This flag is deliberately designed as a *positive* indicator. The DBS framework primarily tracks backsliding (negative developments). This flag provides visibility into resilience factors that may not be captured by the scoring system. A high DBS score with this flag active suggests the system is under pressure but retains important self-corrective capacity.
 
 ---
 
@@ -4822,7 +4884,7 @@ B7 captures outsourced coercion — private actors functioning as enforcement pr
 
 ---
 
-### Category C — Rule of Law & Courts (C1–C8)
+### Category C — Rule of Law & Courts (C1–C9)
 
 #### C1 — Noncompliance with court orders *(Red-line checkpoint)*
 
@@ -5114,7 +5176,59 @@ C8 is distinct from C2 (retaliation after rulings) and D7 (electoral self-entren
 
 ---
 
-### Category D — Elections & Transfer of Power (D1–D12)
+#### C9 — Executive Compliance with Judicial Decisions
+
+**Definition:**
+Whether the executive branch complies with judicial rulings in practice—not just formally, but substantively. This checkpoint captures the behavioral dimension of rule of law: does the executive actually follow court orders, or does it engage in delay, evasion, or selective compliance?
+
+**Why this matters:**
+C1 captures formal *defiance* of court orders (contempt, refusal). C9 captures the subtler pattern of *compliance degradation*—where the executive technically responds to rulings but undermines their effect through delay, narrow interpretation, or bureaucratic obstruction. This corresponds to V-Dem's "Executive Compliance with Judiciary" indicator, which tracks whether the executive respects judicial decisions in practice.
+
+**Includes:**
+
+- Delayed compliance with injunctions beyond reasonable administrative time
+- Narrow or technical compliance that defeats the purpose of the ruling
+- Selective implementation of favorable portions while ignoring unfavorable portions
+- "Compliance theater" where orders are formally acknowledged but substantively evaded
+- Reissuance of modified policies that recreate the enjoined effect
+- Bureaucratic obstruction that prevents rulings from having practical effect
+- Failure to enforce remedies ordered by courts
+- Pattern of requiring multiple court orders to achieve compliance
+
+**Excludes:**
+
+- Good-faith compliance with reasonable implementation timeline
+- Legitimate legal disputes over order interpretation resolved through proper channels
+- Appealing adverse rulings while complying with interim requirements
+- Administrative complexity that delays but does not prevent compliance
+- Single instances of delayed compliance promptly remedied
+
+**C9 Severity Anchors:**
+
+| Score | Anchor |
+| ----: | ------ |
+| **1** | Occasional delayed or narrow compliance; generally responsive to judicial orders |
+| **2** | Pattern of minimal compliance emerging; some rulings require additional enforcement action |
+| **3** | Systematic compliance degradation; executive routinely delays, evades, or undermines rulings; courts must repeatedly intervene |
+| **4** | Substantive compliance rare; executive treats court orders as negotiating positions rather than binding commands; judicial authority effectively advisory |
+| **5** | Executive ignores judicial authority in practice; compliance only when politically convenient; courts cannot compel executive action |
+
+**Key discriminator:** Whether compliance is **substantive and timely** (≤2) or **formal without substance** (≥3). The critical question is whether judicial rulings actually constrain executive behavior.
+
+**V-Dem Alignment:** C9 corresponds to V-Dem's "Executive Compliance with Judiciary" indicator (v2jucomp), which asks whether the executive respects court decisions in practice.
+
+**Relationship to C1:**
+- C1 captures *defiance*: executive openly refuses to comply or declares courts non-binding
+- C9 captures *degraded compliance*: executive formally responds but substantively evades
+
+Both may score for the same situation: C1 captures the constitutional crisis of defiance; C9 captures the erosion of judicial effectiveness through compliance degradation. A government can score low on C1 (no formal contempt) while scoring high on C9 (systematic evasion).
+
+**Clarifying note:**
+C9 is scored based on pattern, not individual cases. Any large executive branch will have occasional compliance disputes. The checkpoint activates when delayed or narrow compliance becomes the *norm* rather than the exception. Look for: (1) multiple injunctions on similar policies, (2) executive bragging about "working around" courts, (3) courts expressing frustration with compliance patterns, (4) civil society groups reporting that favorable rulings produce no practical change.
+
+---
+
+### Category D — Elections & Transfer of Power (D1–D13)
 
 #### D1 — Federal interference in election administration
 
@@ -5539,6 +5653,55 @@ Attribution to a specific foreign government is not required if credible evidenc
 
 ---
 
+#### D13 — Anti-Pluralist Rhetoric
+
+**Definition:**
+Systematic rhetorical campaigns by political leaders or parties that frame political opponents as existential threats, illegitimate political actors, or enemies of the nation—moving beyond normal political competition into dehumanization and delegitimization.
+
+**Why this matters:**
+Rhetorical escalation is a documented precursor to institutional breakdown. Anti-pluralist rhetoric normalizes viewing political opposition as illegitimate, creating conditions for subsequent actions against opponents. V-Party research demonstrates that anti-pluralist rhetoric predicts future democratic erosion.
+
+**Includes:**
+
+- Characterizing political opponents as "enemies of the people" or traitors
+- Framing opposition victories as illegitimate by definition (distinct from D4's conditional claims)
+- Dehumanizing language targeting opposition supporters or leaders
+- Calls to imprison, punish, or eliminate political opponents outside legal process
+- Explicit denial of opponents' right to participate in democratic processes
+- Framing domestic political conflict as existential war requiring extraordinary measures
+
+**Excludes:**
+
+- Normal partisan criticism and policy disagreement
+- Characterizing specific actions (not persons/groups) as harmful
+- Legitimate criticism of illegal conduct
+- Campaign rhetoric that attacks opponents' positions rather than their legitimacy
+- Isolated heated statements immediately walked back
+
+**D13 Severity Anchors:**
+
+| Score | Anchor |
+| ----: | ------ |
+| **1** | Occasional anti-pluralist rhetoric by fringe figures; leaders do not adopt or amplify |
+| **2** | Party leaders occasionally use dehumanizing or delegitimizing language; not sustained or coordinated |
+| **3** | Repeated anti-pluralist rhetoric by senior leaders; party messaging infrastructure amplifies; opponents characterized as existential threats |
+| **4** | Anti-pluralist framing dominates party communications; opponents systematically portrayed as illegitimate; calls for extra-legal action normalized |
+| **5** | Anti-pluralist rhetoric has become governing doctrine; opposition treated as enemy to be eliminated rather than competitor to be defeated |
+
+**Key discriminator:** Whether anti-pluralist language is **occasional and contested** (≤2) or **systematic and party-sanctioned** (≥3). The critical question is whether the rhetoric frames opponents as *wrong* (normal politics) or *illegitimate/enemies* (anti-pluralism).
+
+**V-Dem Alignment:** This checkpoint corresponds to V-Dem's V-Party "Anti-Pluralism" metric (v2paantgov, v2paantplu), which tracks party positions on political opponents and democratic norms.
+
+**Relationship to other checkpoints:**
+- D4 (Conditional legitimacy): D4 captures claims that *elections* are only legitimate if the incumbent wins; D13 captures claims that *opponents* are illegitimate regardless of elections
+- A2 (Delegitimizing opposition): A2 captures general undermining; D13 captures specifically anti-pluralist, dehumanizing rhetoric
+- E3 (Propaganda): E3 captures the *infrastructure* for coordinated messaging; D13 captures the *content* of anti-pluralist messaging
+
+**Clarifying note:**
+D13 is scored based on the rhetorical pattern, not downstream actions. Actions taken against opponents are scored under B, C, or F checkpoints. D13 + C3 (politicized prosecution) or D13 + B2 (targeted enforcement) indicates rhetoric translating into action.
+
+---
+
 #### D7/D9 Boundary Rule
 
 D7 and D9 address different pathologies:
@@ -5557,7 +5720,7 @@ Example: Defunding all federal courts to prevent ruling on executive actions →
 
 ---
 
-### Category E — Information Environment Capture (E1–E4)
+### Category E — Information Environment Capture (E1–E5)
 
 #### E1 — Retaliation against media
 
@@ -5601,10 +5764,55 @@ E2 requires *government coercion*, not voluntary platform decisions. Platform co
 
 ---
 
-#### E3 — State-aligned propaganda ecosystem
+#### E3a — Organic Information Environment Polarization
 
 **Definition:**
-Operational fusion of government messaging with supportive media outlets, characterized by **quid pro quo relationships** or **access dependency** that compromises editorial independence.
+Degradation of the shared information environment through market dynamics, algorithmic amplification, and partisan media ecosystems—without state coordination or direction. This captures the *structural* conditions that make the public vulnerable to manipulation, even absent active state involvement.
+
+**Why this distinction matters:**
+Organic polarization and coordinated information operations are analytically distinct threats. Organic polarization reflects market failures, filter bubbles, and genuine partisan disagreement amplified by technology. Coordinated operations reflect deliberate manipulation. The former creates vulnerability; the latter exploits it. Distinguishing them enables appropriate response: media literacy and platform reform for E3a; counter-influence and attribution for E3b.
+
+**Includes:**
+
+- Algorithmic amplification of partisan content without state direction
+- Media ecosystem fragmentation where audiences inhabit separate factual universes
+- Erosion of shared epistemic standards (what counts as evidence)
+- Collapse of local journalism creating information deserts
+- Platform design that incentivizes outrage and polarization
+- Audience self-sorting into homogeneous information environments
+- Decline in cross-partisan information exposure
+
+**Excludes:**
+
+- State-coordinated messaging campaigns (score under E3b)
+- Foreign disinformation operations (score under D12 or E3b depending on coordination)
+- Normal partisan disagreement with shared factual baseline
+- Legitimate editorial choices by media outlets
+
+**E3a Severity Anchors:**
+
+| Score | Anchor |
+| ----: | ------ |
+| **1** | Polarized media landscape exists; cross-partisan information exposure remains common; shared factual baseline largely intact |
+| **2** | Significant audience fragmentation; algorithmic amplification creating measurable filter bubbles; some erosion of shared factual standards |
+| **3** | Substantial portions of population inhabit separate information ecosystems; agreement on basic facts declining; local journalism severely degraded |
+| **4** | Information environment balkanized; majorities of partisan groups reject factual claims accepted by other group; algorithmic radicalization documented |
+| **5** | No shared epistemic foundation; facts themselves are partisan; information environment cannot support democratic deliberation |
+
+**Key discriminator:** Whether information environment degradation is **moderate and bridgeable** (≤2) or **structurally prevents shared understanding** (≥3). The critical question is whether citizens can access a shared factual baseline for democratic deliberation.
+
+**Clarifying note:**
+E3a captures the *structural vulnerability* of the information environment. It does not require malicious intent—algorithmic amplification and market dynamics can produce severe polarization without state involvement. E3a elevation is a *precondition* for E3b exploitation; high E3a makes E3b more effective.
+
+---
+
+#### E3b — Coordinated Information Operations
+
+**Definition:**
+State-coordinated or state-aligned information operations that deliberately manipulate the information environment through orchestrated campaigns, including coordinated inauthentic behavior, propaganda ecosystems, and systematic disinformation deployment.
+
+**Why this distinction matters:**
+Coordinated operations indicate active regime manipulation of the information space—a much more severe indicator than organic polarization. Detection of E3b suggests deliberate democratic subversion, not merely structural vulnerability.
 
 **Includes:**
 
@@ -5617,7 +5825,9 @@ Operational fusion of government messaging with supportive media outlets, charac
 - Synthetic media (deepfakes, voice clones) deployed at scale with state coordination or benefit
 - Industrialized content farms using automated generation for state-aligned narratives
 - Microtargeted persuasion or harassment campaigns driven by AI with state coordination
-- Coordinated "flooding" attacks that degrade the information environment (availability disruption, not just persuasion)
+- Coordinated "flooding" attacks that degrade the information environment
+- Coordinated inauthentic behavior (bot networks, troll farms, sock puppets) with state nexus
+- Platform manipulation campaigns (artificial trending, review bombing) with documented coordination
 
 **Excludes:**
 
@@ -5625,15 +5835,44 @@ Operational fusion of government messaging with supportive media outlets, charac
 - Independent editorial alignment without coordination (outlets may share views with government without state direction)
 - Routine access journalism without demonstrated quid pro quo
 - Ideological affinity absent operational coordination
+- Organic polarization without state involvement (score under E3a)
+- Foreign operations without domestic coordination (score under D12)
+
+**E3b Severity Anchors:**
+
+| Score | Anchor |
+| ----: | ------ |
+| **1** | Isolated instances of coordination alleged; no systematic pattern; deniability high |
+| **2** | Discrete coordination instances documented; limited scope; outlets retain some independence |
+| **3** | Repeated coordinated campaigns documented; propaganda ecosystem operational; quid pro quo relationships established |
+| **4** | State-aligned media functions as coordinated enforcement arm; independent journalism under systematic pressure; information space dominated by coordinated narratives |
+| **5** | Complete capture of information environment; independent journalism effectively eliminated; state controls dominant narrative channels |
+
+**Key discriminator:** Whether coordination is **isolated and deniable** (≤2) or **systematic and institutionalized** (≥3). The critical question is whether there is operational fusion between state messaging and media ecosystem.
 
 **Activation threshold:**
 This checkpoint requires evidence of **bidirectional benefit**: the state gains favorable coverage, and the outlet gains access, funding, or protection not available to competitors. Mere ideological alignment is insufficient.
 
-**Clarifying note:**
-E3 captures *coordinated propaganda*, not ideological affinity. Fox News being favorable to a Republican administration is excluded (independent editorial choice); Fox News receiving exclusive leaks in exchange for attacking administration opponents is potentially included (operational coordination). Evidence of quid pro quo is required.
+**V-Dem Alignment:** E3b corresponds to the Digital Society Project's "Coordinated Information Operations" indicators (v2smgovdom, v2smorgviol), which track government-linked online manipulation.
 
-**Key discriminator:**
-E3 scores based on whether the system enables coordinated, coercive narrative control (or legitimacy sabotage), **not** whether the content is AI-generated. AI tools are production and targeting accelerators; the checkpoint captures the propaganda ecosystem function regardless of production method. Score based on coordination and impact, not format.
+**Clarifying note:**
+E3b captures *coordinated manipulation*, not ideological affinity. Fox News being favorable to a Republican administration is excluded (independent editorial choice); Fox News receiving exclusive leaks in exchange for attacking administration opponents is potentially included (operational coordination). Evidence of coordination or quid pro quo is required.
+
+**AI and synthetic content note:**
+E3b scores based on whether the system enables coordinated, coercive narrative control, **not** whether the content is AI-generated. AI tools are production and targeting accelerators; the checkpoint captures the coordination function regardless of production method. Score based on coordination and impact, not format.
+
+---
+
+#### E3a/E3b Interaction
+
+E3a and E3b interact multiplicatively:
+- High E3a (polarized information environment) + Low E3b (no coordination) = **Vulnerable but not manipulated**
+- Low E3a (healthy information environment) + High E3b (coordination attempts) = **Manipulation attempts likely to fail**
+- High E3a + High E3b = **Maximum concern**: vulnerable environment actively exploited
+
+**Diagnostic flag:** If E3a ≥ 3 AND E3b ≥ 3, flag: *"Coordinated manipulation of polarized information environment; democratic deliberation severely compromised."*
+
+**Legacy references:** Historical references to "E3" in diagnostic flags and formulas should be interpreted as E3b (coordinated operations), as E3b captures the intentional manipulation that poses direct democratic threat. E3a is a structural vulnerability indicator.
 
 ---
 
@@ -6049,9 +6288,13 @@ These multipliers exist to prevent **false reassurance** from averaged scores wh
 - Replaced binary decay with graduated decay system (D0–D3 states)
 - Added institutionalization test (formal + functional) with decay eligibility matrix
 - Added formal confidence rating standard (High/Medium/Low) with source tiers
-- Updated Category C formula from C/35 to C/40
+- Updated Category C formula from C/35 to C/40 (v1.1b), then C/40 to C/45 (v1.1e+)
 - Added C8 (Proactive judicial capture) for forward-looking court control without retaliation
-- Updated Category D formula from D/40 to D/60
+- Added C9 (Executive compliance with judiciary) for behavioral rule of law (v1.1e+)
+- Updated Category D formula from D/40 to D/60 (v1.1b), then D/60 to D/65 (v1.1e+)
+- Added D13 (Anti-pluralist rhetoric) for systematic delegitimization of opponents (v1.1e+)
+- Split E3 into E3a (organic polarization) and E3b (coordinated operations) (v1.1e+)
+- Updated Category E formula from E/20 to E/25 (v1.1e+)
 - Added D11 (Election infrastructure attacks) for cyber/physical attacks on election systems
 - Added D11 as conditional red-line checkpoint (activates at ≥3)
 - Added D12 (Foreign interference, non-collusive) with detailed severity anchors
@@ -7489,8 +7732,8 @@ This appendix defines the automated validation layer for DBS runs. Validation tr
 
 | Check | Rule | Formula/Logic |
 |-------|------|---------------|
-| Category totals | Sum of checkpoint effective scores ≤ category max | `sum(checkpoints) ≤ {A:20, B:35, C:40, D:60, E:20, F:35}` |
-| Weighted aggregate | Pre-multiplier DBS matches formula | `0.10×A/20 + 0.18×B/35 + 0.18×C/40 + 0.24×D/60 + 0.10×E/20 + 0.20×F/35` |
+| Category totals | Sum of checkpoint effective scores ≤ category max | `sum(checkpoints) ≤ {A:20, B:35, C:45, D:65, E:25, F:35}` |
+| Weighted aggregate | Pre-multiplier DBS matches formula | `0.10×A/20 + 0.18×B/35 + 0.18×C/45 + 0.24×D/65 + 0.10×E/25 + 0.20×F/35` |
 | Red-line triggers | `red_lines_triggered` matches checkpoint scores | C1≥3 AND B5≥3 → courts_military; D5/D6/D11≥3 → electoral; F2≥3 → military; F6≥3 → immunity |
 | Multiplier application | Final DBS includes correct multipliers | +10 (courts+military), +15 (electoral), +10 (F2), +10 (F6) |
 | Gating enforcement | No effective score exceeds base-dependent cap | `cap_by_base = {1→2, 2→4, 3→5, 4→5, 5→5}` |
@@ -8534,6 +8777,7 @@ This appendix maps DBS checkpoints to comparable indicators from established dem
 | C6 (Kleptocratic capture) | Corruption | v2x_corr | Composite corruption index |
 | C7 (Pardon abuse) | — | — | No direct equivalent |
 | C8 (Legal framework manipulation) | Legal framework | v2cltort | Torture/due process |
+| C9 (Executive compliance with judiciary) | Executive compliance | v2jucomp | Core V-Dem indicator for rule of law |
 
 #### Category D — Elections and Legislative
 
@@ -8551,6 +8795,7 @@ This appendix maps DBS checkpoints to comparable indicators from established dem
 | D10 (Governance hostage-taking) | — | — | US-specific; no V-Dem equivalent |
 | D11 (Election infrastructure compromise) | Election management | v2elembcap | EMB capacity |
 | D12 (Legitimacy sabotage) | Electoral violence | v2elpeace | Electoral violence |
+| D13 (Anti-pluralist rhetoric) | Anti-pluralism | v2paantgov, v2paantplu | V-Party anti-pluralism metrics |
 
 #### Category E — Information Environment
 
@@ -8558,7 +8803,8 @@ This appendix maps DBS checkpoints to comparable indicators from established dem
 |----------------|-------------------|------------|-------|
 | E1 (Media retaliation) | Media harassment | v2meharjrn | Journalist harassment |
 | E2 (Platform manipulation) | Internet censorship | v2smgovfilprc | Government filtering |
-| E3 (State propaganda coordination) | State media | v2meslfcen | Media self-censorship |
+| E3a (Organic polarization) | Media polarization | v2smprivex | Private media diversity |
+| E3b (Coordinated operations) | State media, DSP | v2meslfcen, v2smgovdom | Media self-censorship; DSP coordinated ops |
 | E4 (Misinformation criminalization) | Media freedom | v2mecenefm | Government censorship effort |
 
 #### Category F — Security Services & Loyalty
@@ -8624,6 +8870,16 @@ DBS captures this through:
 - Effective Participation Modifier (EPM) on D-category checkpoints
 - B3 (Selective enforcement by identity)
 - D2 (Targeted disenfranchisement)
+
+**Civil Society Consultation:**
+- V-Dem: v2cscnsult (CSO consultation)
+- V-Dem: v2cseeorgs (CSO entry and exit)
+- V-Dem: v2csreprss (CSO repression)
+
+DBS captures this through:
+- Civil Society Consultation Resilience Flag (positive indicator when consultation is active)
+- The flag tracks *presence* of meaningful consultation as a democratic health indicator
+- Decline in consultation is noted as a negative trend rather than scored as backsliding
 
 ### J.5 Cross-Validation Protocol
 
