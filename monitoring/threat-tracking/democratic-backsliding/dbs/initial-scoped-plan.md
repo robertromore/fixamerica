@@ -684,10 +684,33 @@ An event may score multiple checkpoints **only if** it independently degrades mu
 
 **Boundary Rule (D8 vs. E3):**
 
-- If foreign actors **amplify domestic propaganda** without incumbent coordination → E3
+- If foreign actors **amplify domestic propaganda** without incumbent coordination → E3b
 - If incumbents **coordinate with foreign actors** to influence domestic processes → D8
 - Key test: Does evidence show **domestic actors soliciting or coordinating**, or merely foreign actors acting independently?
 - If both apply, score D8 (coordination is more severe than amplification).
+
+**Boundary Rule (C1 vs. C9):**
+
+- **C1 (Noncompliance with court orders)** captures *defiance*: formal contempt, open refusal to comply, declarations that courts are non-binding
+- **C9 (Executive compliance with judiciary)** captures *compliance degradation*: delay, narrow interpretation, bureaucratic obstruction, "compliance theater"
+
+**Scoring guidance:**
+
+| Situation | Score | Rationale |
+|-----------|-------|-----------|
+| Formal contempt finding issued | C1 (primarily) | Active defiance—constitutional crisis |
+| Open declaration courts cannot bind executive | C1 (primarily) | Explicit rejection of judicial authority |
+| Systematic delayed compliance, no contempt | C9 (primarily) | Pattern of evasion without formal crisis |
+| Narrow/technical compliance that defeats ruling's purpose | C9 (primarily) | Substantive noncompliance without formal defiance |
+| Contempt finding + history of compliance degradation | C1 AND C9 | C1 captures the crisis; C9 captures the pattern |
+
+**Key principle:** C1 and C9 measure **different phenomena** and may both be scored when both are present:
+- C1 = "Does the executive acknowledge courts can bind it?" (constitutional question)
+- C9 = "Does the executive actually follow rulings in practice?" (behavioral question)
+
+A government can score C1=1 (no formal defiance) while scoring C9=4 (systematic practical evasion). Conversely, a government that openly defies courts (C1=5) may have C9=5 as well, but the C1 score captures the constitutional crisis while C9 captures the underlying pattern.
+
+**Anti-double-counting rule:** When a single incident involves both defiance and evasion, score the **primary** characteristic and note the secondary. However, if C1 elevation is based on a contempt finding, and C9 elevation is based on an independent pattern of compliance degradation across multiple rulings, both may be scored at their full values—they are measuring different phenomena.
 
 ---
 
@@ -1103,9 +1126,9 @@ No hand-waving. No special pleading. No exception logic.
 | -------- | ----------- | --------- |
 | A        | 4 (A1–A4)   | 20        |
 | B        | 7 (B1–B7)   | 35        |
-| C        | 8 (C1–C8)   | 40        |
-| D        | 12 (D1–D12) | 60        |
-| E        | 4 (E1–E4)   | 20        |
+| C        | 9 (C1–C9)   | 45        |
+| D        | 13 (D1–D13) | 65        |
+| E        | 5 (E1–E4, with E3a/E3b split) | 25 |
 | F        | 7 (F1–F7)   | 35        |
 
 ### 6.2 Final Score Formula
