@@ -2,6 +2,8 @@
 
 Analyze DBS assessment results across time and topics. Generate trend reports, comparisons, alerts, and dashboards.
 
+**Reports are written for a general audience.** All technical terms are explained in plain language, each section includes interpretive context, and every report concludes with a narrative summary accessible to readers without specialized knowledge.
+
 ## Usage
 
 ```text
@@ -100,7 +102,7 @@ Extract from `$ARGUMENTS`:
 - `--watchlist`: Show high-concern topics only
 - `--since <date>`: Filter runs after date
 - `--last <n>`: Limit to last n runs
-- `--output <file>`: Write report to file
+- `--output [file]`: Write report to file (optional filename; auto-generates if omitted)
 
 ### 2. Load Run Data
 
@@ -379,9 +381,38 @@ Topics meeting elevated concern criteria:
 **Console (default):** Display formatted markdown
 
 **File output (--output):**
+
+Default reports directory: `monitoring/threat-tracking/democratic-backsliding/dbs/reports/`
+
 ```
-/dbs-analyze trump --trend --output reports/trump-trend-2025-04.md
+/dbs-analyze trump --trend --output                      # Auto-generates filename
+/dbs-analyze trump --trend --output trump-trend-2025.md  # Explicit filename
 ```
+
+**Auto-generated filename convention:**
+
+When `--output` is provided without a filename, or when a filename needs to be generated:
+
+```
+<topic>-<report-type>-<date-range>.md
+```
+
+Examples:
+- `/dbs-analyze trump --trend --output` → `trump-trend-2025-01-20-to-2025-12-31.md`
+- `/dbs-analyze trump --trend --last 5 --output` → `trump-trend-last-5-runs.md`
+- `/dbs-analyze trump --trend --since 2025-06-01 --output` → `trump-trend-since-2025-06-01.md`
+- `/dbs-analyze trump --alerts --output` → `trump-alerts-2026-01-22.md`
+- `/dbs-analyze trump --compare hungary --output` → `trump-vs-hungary-comparison-2026-01-22.md`
+- `/dbs-analyze --dashboard --output` → `dashboard-2026-01-22.md`
+- `/dbs-analyze --watchlist --output` → `watchlist-2026-01-22.md`
+
+**Date range resolution:**
+- If `--since` is provided, use that as start date
+- If `--last N` is provided, use "last-N-runs"
+- Otherwise, derive from the earliest and latest run dates found for the topic
+- For alerts/dashboard/watchlist, use the current date
+
+If no directory is specified, write to the default reports directory. If a relative path is given, resolve it from the dbs directory.
 
 **JSON output (--json):**
 ```
@@ -389,6 +420,18 @@ Topics meeting elevated concern criteria:
 ```
 
 Returns structured data for external processing.
+
+### 9. Report Structure (REQUIRED)
+
+All reports must follow this structure:
+
+1. **Title and metadata** — Topic, date range, report type
+2. **How to Read This Report** — Brief explanation for new readers
+3. **Data sections** — Tables, charts, and analysis (with section descriptions)
+4. **Glossary** — Plain-language explanations of all technical terms used
+5. **Executive Summary** — Narrative synthesis accessible to general readers
+
+The glossary and executive summary are mandatory for all reports written to files.
 
 ## Alert Condition Definitions
 
@@ -450,6 +493,112 @@ DBS Score Trend:
 🔴 Red-line F6 active since 2025-03-15
 🟠 Rising trend: +6 last run, +11 last 30 days
 🟡 D5 at score 2 (red-line proximity)
+```
+
+## Plain-Language Glossary (REQUIRED IN ALL REPORTS)
+
+Every report must include a glossary section that explains technical terms in accessible language. Use these definitions:
+
+### Diagnostic Flags
+
+| Flag | Technical Name | Plain-Language Explanation |
+|------|----------------|---------------------------|
+| `sword_shield` | Prosecutorial Sword and Shield | The legal system is being used as both a weapon and a shield—prosecuting opponents while protecting allies from accountability. This creates a two-tiered justice system where the law applies differently depending on political loyalty. |
+| `legal_capture_complete` | Legal System Capture Complete | The courts and prosecution system have been sufficiently co-opted that they no longer serve as independent checks on executive power. Legal challenges to government overreach are unlikely to succeed. |
+| `expertise_void` | Expertise Void | Career professionals and subject-matter experts have been removed or sidelined from government. Institutional knowledge has been lost, and oversight bodies lack the technical capacity to identify problems or push back effectively. |
+| `electoral_exit_blocked` | Electoral Exit Blocked | Multiple mechanisms that would allow voters to change leadership through elections have been compromised. This could include voter suppression, election administration capture, or certification process manipulation. |
+| `high_velocity` | High-Velocity Escalation | The pace of democratic erosion has accelerated dramatically—changes that historically took years are happening in weeks or months. Institutions may not have time to adapt or respond. |
+| `guardrail_attrition` | Guardrail Attrition | Democratic safeguards are being worn down through sustained pressure. Even when institutions successfully resist, repeated attacks weaken their capacity to continue resisting. |
+| `state_of_exception` | State of Exception Pattern | Emergency rhetoric and crisis framing are being used to justify expanding executive power. Historically, this pattern precedes suspension of normal democratic constraints. |
+| `foreign_domestic_subversion` | Foreign-Domestic Election Subversion | Foreign interference in elections is being coordinated with or tolerated by domestic actors who benefit from it. |
+| `information_preconditioning` | Information Environment Pre-conditioning | Media and information systems are being shaped to make the public more accepting of future anti-democratic actions, such as rejecting election results. |
+| `coercion_information_disconnect` | Coercion-Information Disconnect | The government is using visible force or coercion while the media environment remains relatively open—a historically unstable configuration that often precedes either media crackdown or regime change. |
+| `institutional_resistance` | Institutional Resistance Active | Democratic institutions are actively pushing back against overreach—courts issuing injunctions, inspectors general publishing reports, or civil servants refusing unlawful orders. This is a positive indicator. |
+| `audit_degraded` | Electoral Oversight Compromised | The information environment has degraded to the point where it's difficult to independently verify what's happening with elections. Official claims cannot be reliably fact-checked. |
+
+### Pathway Modes
+
+| Mode | Plain-Language Explanation |
+|------|---------------------------|
+| `executive-driven` | Power is being concentrated through executive action—presidential orders, agency directives, and personnel changes—rather than through legislation. |
+| `legislative-driven` | The legislature is the primary vehicle for democratic erosion, passing laws that entrench the ruling party or restrict opposition. |
+| `hybrid` | Both executive and legislative branches are working in concert to concentrate power. |
+| `+foreign_enabled` | Foreign actors are providing support, whether through election interference, financial backing, or diplomatic cover. |
+| `+capture` | Key institutions have been co-opted to serve partisan rather than public interests. |
+| `+kleptocratic` | Corruption and self-enrichment are significant features of the consolidation pattern. |
+| `+security_dominant` | The security apparatus (military, police, intelligence) is playing a central role in the power consolidation. |
+
+### Scoring Tiers
+
+| Tier | Score Range | What It Means |
+|------|-------------|---------------|
+| Normal | 0-10 | Standard democratic politics. Disagreements and conflicts exist but are resolved through legitimate institutional channels. |
+| Concern | 11-30 | Some warning signs warrant monitoring, but institutions remain functional and independent. |
+| Elevated | 31-50 | Active probing of institutional limits. Democratic norms are being tested, and some safeguards are under pressure. |
+| Backsliding | 51-70 | Democratic erosion is actively occurring. Multiple institutions have been weakened or captured. Reversing course becomes increasingly difficult. |
+| Severe | 71-89 | Advanced consolidation of power. Most institutional checks have failed or been neutralized. Electoral path to change may be compromised. |
+| Critical | 90-100 | Transition threshold. Democratic governance has effectively ended or is about to end. |
+
+### Red-Lines
+
+Red-lines are specific thresholds that, when crossed, dramatically accelerate democratic breakdown:
+
+| Red-Line | What It Means |
+|----------|---------------|
+| D5 (Electoral Fraud Machinery) | Infrastructure for manipulating election results is being put in place—not just rhetoric, but actual systems, personnel, or procedures. |
+| D6 (Certification Override) | Mechanisms to override or reject legitimate election results are being established. |
+| F6 (Leader Immunity) | The leader is being placed above the law through formal or de facto immunity from prosecution or accountability. |
+| F2 (Loyalist Commanders) | Military or security leadership is being purged and replaced with personal loyalists rather than professional officers. |
+
+## Section Descriptions (REQUIRED)
+
+Each section of the report must include a brief explanation of what it shows and why it matters:
+
+**Score Trajectory:** "This table shows how the DBS score has changed over time. The 'Delta' column shows the change from the previous assessment. Rising scores indicate democratic institutions are coming under increasing pressure."
+
+**Tier Transitions:** "Tiers represent meaningful thresholds in democratic health. Moving from 'Elevated' to 'Backsliding' isn't just a number change—it indicates that erosion has progressed from testing limits to actively weakening institutions."
+
+**Red-Line History:** "Red-lines are tripwires that, once crossed, make democratic recovery much harder. This section tracks which critical thresholds have been breached and when."
+
+**Diagnostic Flags:** "Flags identify dangerous patterns that emerge from combinations of factors. A single concerning indicator might be manageable; when multiple problems combine in specific ways, they create compounding risks."
+
+**Velocity Analysis:** "Speed matters. Gradual erosion gives institutions time to adapt and resist. Rapid escalation can overwhelm defensive capacity before it can organize."
+
+## Executive Summary (REQUIRED)
+
+Every report must conclude with an **Executive Summary** section written in plain language for a general audience. This section should:
+
+1. **State the bottom line first** — What is the current state of democratic health for this topic?
+
+2. **Explain the trajectory** — Is it getting better, worse, or stable? How quickly?
+
+3. **Identify the key concerns** — What 2-3 factors most warrant attention?
+
+4. **Provide historical context** — How does the current situation compare to historical patterns of democratic erosion?
+
+5. **Note positive indicators** — Are there signs of institutional resistance or democratic resilience?
+
+6. **Offer a forward-looking assessment** — Based on current trends, what developments should observers watch for?
+
+Example Executive Summary:
+
+```markdown
+## Executive Summary
+
+**Bottom Line:** Democratic institutions in [topic] are under significant and increasing pressure, with the DBS score rising from 42 to 58 over the past four months—moving from "Elevated Concern" into "Active Backsliding" territory.
+
+**What This Means:** The score increase reflects real-world changes: mass dismissals of career officials, selective prosecution of political opponents, and the establishment of effective immunity for leadership from legal accountability. These aren't just political conflicts—they represent structural changes to how power is exercised and checked.
+
+**Key Concerns:**
+1. **The "sword and shield" pattern is now active** — The legal system is simultaneously being used to prosecute opponents while shielding allies. This two-tiered justice undermines the rule of law.
+2. **Expertise has been gutted** — The removal of career professionals means oversight bodies lack the knowledge to identify problems, and institutional memory has been lost.
+3. **Velocity is concerning** — The pace of change (+16 points in 4 months) is faster than typical democratic erosion, leaving less time for institutions to adapt.
+
+**Historical Context:** The current trajectory resembles early-stage patterns seen in Hungary (2010-2014) and Turkey (2014-2016), where initial executive consolidation was followed by more aggressive moves once resistance proved weak. The key difference: [topic] starts with stronger institutional traditions, but those are being tested.
+
+**Positive Signs:** Courts have issued several injunctions that temporarily blocked executive actions, and some civil servants have refused to implement potentially unlawful orders. These acts of resistance, tracked through the "institutional resistance" indicator, show the system retains some self-corrective capacity.
+
+**What to Watch:** The next critical threshold is D5 (Electoral Fraud Machinery), currently at score 2. If preparations for the next election cycle include changes to election administration, certification processes, or voter access that advantage the incumbent, this red-line could trigger—which would add +15 to the score and signal that the electoral path to change is being foreclosed.
 ```
 
 ## Error Handling

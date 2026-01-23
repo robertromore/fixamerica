@@ -12,11 +12,13 @@ The Democratic Backsliding Scorecard is a structured, evidence-based framework f
 /dbs-run hungary --window 90      # 90-day window
 /dbs-run america --prior          # Include velocity tracking
 
-# Analyze results
-/dbs-analyze trump --trend        # Score trajectory over time
+# Analyze results (outputs to reports/ by default)
+/dbs-analyze trump --trend --output trump-trend-2025.md
 /dbs-analyze --dashboard          # All topics summary
 /dbs-analyze trump --alerts       # Check alert conditions
 ```
+
+**Note:** Analysis reports are written for a general audience with plain-language explanations of all technical terms and a narrative executive summary.
 
 ## Directory Structure
 
@@ -29,13 +31,15 @@ dbs/
 │   ├── run-template.md           # Output format for run summaries
 │   ├── event-log-template.json   # Event log structure
 │   └── manifest-template.json    # Evidence integrity manifest
-└── runs/
-    └── <topic>/
-        └── <YYYY-MM-DD>/
-            ├── run.md            # Human-readable summary
-            ├── run.json          # Schema-compliant JSON output
-            ├── event-log.json    # Detailed event log
-            └── prompt.md         # Prompt used for this run
+├── runs/
+│   └── <topic>/
+│       └── <YYYY-MM-DD>/
+│           ├── run.md            # Human-readable summary
+│           ├── run.json          # Schema-compliant JSON output
+│           ├── event-log.json    # Detailed event log
+│           └── prompt.md         # Prompt used for this run
+└── reports/                      # Analysis reports (cross-run)
+    └── <topic>-<type>-<date>.md  # e.g., trump-trend-2025.md
 ```
 
 ## Core Concepts
