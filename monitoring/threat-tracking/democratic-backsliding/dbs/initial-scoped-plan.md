@@ -5283,21 +5283,49 @@ This is a red-line checkpoint. The core question is whether courts can bind exec
 #### C2 — Retaliation against judges or courts
 
 **Definition:**
-Use or threat of political, financial, or personal consequences against the judiciary.
+Use or threat of political, financial, or personal consequences against the judiciary, including forced removal or "retirement" of judges for political reasons.
 
 **Includes:**
 
 - Impeachment threats tied to rulings
 - Budget cuts or jurisdiction stripping
 - Intimidation or harassment campaigns
+- Forced removal, resignation, or early retirement of judges based on rulings
+- Systematic non-replacement creating functional incapacity
+- Reconstituting courts with loyalty-vetted replacements
 
 **Excludes:**
 
 - Lawful appeals or constitutional critiques
 - Good-faith reform proposals
+- Normal judicial retirement and replacement processes
+- Removal for documented misconduct unrelated to rulings
+- Court expansion through transparent legislative process with bipartisan deliberation
+
+**C2 Severity Anchors:**
+
+| Score | Anchor |
+| ----: | ------ |
+| **1** | Rhetorical attacks on courts or specific judges; isolated impeachment threats without legislative action |
+| **2** | Single retaliatory action (targeted budget cut, jurisdiction stripping for specific case, harassment campaign against individual judge) |
+| **3** | Multiple judges or courts targeted; pattern of retaliation creating chilling effect; OR court-stripping legislation enacted |
+| **4** | Forced removal or "retirement" of judges based on rulings; systematic non-replacement creating functional incapacity; judiciary unable to check executive in practice |
+| **5** | Mass judicial purge; courts reconstituted with loyalty-vetted replacements; judiciary functions as executive arm |
+
+**Key discriminator:** Whether retaliation is **rhetorical or isolated** (≤2) or **creates systematic judicial incapacity** (≥3). Scores 4-5 indicate the judiciary has been structurally dismantled, not merely pressured.
+
+**V-Dem Alignment:** C2 scores 4-5 correspond to V-Dem's v2jupurge indicator (Judicial purges). A purge is a qualitative shift from "ignoring the courts" (C1) to "replacing the courts" (C2 ≥ 4). When both C1 and C2 are elevated, the judicial "shield" has been completely dismantled.
+
+**Interaction with C1:**
+
+| Pattern | Interpretation |
+|---------|----------------|
+| C1 high, C2 low | Courts being defied but structurally intact; resistance possible |
+| C1 low, C2 high | Courts being captured through personnel replacement; compliance degradation |
+| C1 high, C2 high | Courts both defied AND being reconstituted; judicial check effectively eliminated |
 
 **Clarifying note:**
-The distinction is between *disagreement with rulings* (excluded) and *punishment for rulings* (included). Criticizing a judge's reasoning is excluded; threatening a judge's position because of their ruling is included.
+The distinction is between *disagreement with rulings* (excluded) and *punishment for rulings* (included). Criticizing a judge's reasoning is excluded; threatening a judge's position because of their ruling is included. At scores ≥4, the question shifts from "is the judiciary being pressured?" to "does an independent judiciary still exist?"
 
 ---
 
@@ -9382,7 +9410,7 @@ This appendix maps DBS checkpoints to comparable indicators from established dem
 | DBS Checkpoint | V-Dem Indicator(s) | V-Dem Code | Notes |
 |----------------|-------------------|------------|-------|
 | C1 (Court defiance) | Executive compliance | v2jucomp | Compliance with judiciary |
-| C2 (Court packing/stripping) | Judicial independence | v2juhcind | High court independence |
+| C2 (Court packing/stripping) | Judicial independence, purges | v2juhcind, v2jupurge | High court independence; judicial purges |
 | C3 (Politicized prosecution) | Judicial harassment | v2juhaession | Harassment of opponents |
 | C4 (Watchdog undermining) | Oversight bodies | v2lgotovst | Legislative oversight |
 | C5 (Unilateral executive expansion) | Executive constraints | v2x_execorr | Executive respects constitution |
