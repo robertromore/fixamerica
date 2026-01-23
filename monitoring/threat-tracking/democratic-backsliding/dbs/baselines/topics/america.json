@@ -1,0 +1,11 @@
+{
+  "topic": "america",
+  "baseline_type": "topic_starting_point",
+  "baseline_run": "2025-01-20",
+  "baseline_path": "../../runs/america/2025-01-20/run.json",
+  "rationale": "Coincides with Trump inauguration but tracks broader US democratic health",
+  "description": "United States overall democratic health assessment",
+  "scope": "Comprehensive US assessment including federal executive, Congress, judiciary, state governments, electoral systems, media environment, and civil society",
+  "distinction_from_trump": "The 'america' topic captures the full system including: (1) structural factors like gerrymandering and voter access that predate any administration, (2) state-level actions that may align with or resist federal trends, (3) Congressional actions independent of executive, (4) judicial system independence, (5) media and civil society health. The 'trump' topic focuses specifically on administration actions.",
+  "notes": "For historical US baseline, compare to 'us-pre-2016'. The 'america' score will typically differ from 'trump' due to inclusion of structural factors and non-executive branch activities."
+}

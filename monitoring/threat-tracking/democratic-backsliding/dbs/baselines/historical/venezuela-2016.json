@@ -1,0 +1,55 @@
+{
+  "baseline_id": "venezuela-2016",
+  "baseline_type": "historical_calibration",
+  "description": "Venezuela during National Assembly neutralization",
+  "period": "2015-2017",
+  "period_notes": "Opposition wins National Assembly (2015); Maduro consolidating after Chávez; economic crisis deepening",
+  "dbs_range": {
+    "low": 60,
+    "mid": 65,
+    "high": 70
+  },
+  "tier": "Democratic backsliding active",
+  "pathway_mode": "executive-driven+kleptocratic",
+  "key_checkpoints": {
+    "C1": 4,
+    "C2": 4,
+    "C5": 4,
+    "D5": 3,
+    "B4": 3,
+    "E1": 3,
+    "E3": 4,
+    "F2": 3,
+    "F6": 3
+  },
+  "checkpoint_notes": {
+    "C1": "Supreme Court systematically overrides National Assembly decisions",
+    "C2": "Supreme Court packed with loyalists; rubber-stamps executive",
+    "C5": "Rule by decree; emergency powers extended indefinitely",
+    "D5": "Electoral council (CNE) stacked; recall referendum blocked procedurally",
+    "B4": "Protests met with force; opposition leaders detained",
+    "E1": "Critical media under pressure; licenses revoked; journalists harassed",
+    "E3": "State media dominates; information environment heavily skewed",
+    "F2": "Military leadership loyal to Maduro; economic stakes in regime survival",
+    "F6": "Maduro effectively immune from prosecution; no accountability mechanism"
+  },
+  "red_lines_triggered": [
+    "D5",
+    "F6"
+  ],
+  "diagnostic_flags": [
+    "sword_shield",
+    "electoral_exit_blocked"
+  ],
+  "flag_notes": {
+    "sword_shield": "Opposition leaders prosecuted; regime figures immune",
+    "electoral_exit_blocked": "Recall referendum blocked; electoral council captured"
+  },
+  "narrative": "Venezuela 2016 represents the critical transition from competitive authoritarianism to electoral authoritarianism. Despite opposition winning the National Assembly in 2015 by a landslide, Maduro used the Supreme Court to systematically nullify legislative actions. The recall referendum—constitutionally mandated—was blocked through procedural manipulation. This shows how formal democratic institutions can be maintained while democratic substance is eliminated. The key mechanism was court capture combined with electoral council capture: elections could occur, but outcomes could be managed. By 2016, the electoral path to change was effectively blocked.",
+  "scholarly_sources": [
+    "Corrales, Javier. 'Authoritarian Survival: Why Maduro Hasn't Fallen.' Journal of Democracy 31, no. 3 (2020): 39-53",
+    "Gamboa, Laura. 'Opposition at the Margins: Strategies against the Erosion of Democracy in Colombia and Venezuela.' Comparative Politics 49, no. 4 (2017): 457-477",
+    "Levitsky, Steven and Lucan Way. 'The Rise of Competitive Authoritarianism.' Journal of Democracy 13, no. 2 (2002): 51-65"
+  ],
+  "comparison_guidance": "Venezuela 2016 demonstrates how legislative opposition can be neutralized through court capture even after winning elections. Use this baseline to assess scenarios where courts are being positioned to override electoral outcomes. The electoral_exit_blocked flag is critical—it indicates that the normal democratic correction mechanism has been disabled. This is often the point of no return for peaceful transitions."
+}

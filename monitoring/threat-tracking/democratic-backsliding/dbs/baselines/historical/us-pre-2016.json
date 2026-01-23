@@ -1,0 +1,34 @@
+{
+  "baseline_id": "us-pre-2016",
+  "baseline_type": "historical_calibration",
+  "description": "United States structural baseline before the 2016 election cycle",
+  "period": "Pre-2016",
+  "period_notes": "Represents typical democratic functioning with known structural issues but functional institutions",
+  "dbs_range": {
+    "low": 10,
+    "mid": 15,
+    "high": 20
+  },
+  "tier": "Normal democratic conflict",
+  "pathway_mode": "undetermined",
+  "key_checkpoints": {
+    "B3": 2,
+    "D7": 3,
+    "D9": 1,
+    "E3": 1
+  },
+  "checkpoint_notes": {
+    "B3": "Disparate enforcement in policing; documented racial disparities",
+    "D7": "Gerrymandering entrenched in many states; Shelby County v. Holder (2013) weakened VRA",
+    "D9": "Some ballot access restrictions but generally functional",
+    "E3": "Early social media disinformation concerns but not yet systematic"
+  },
+  "red_lines_triggered": [],
+  "diagnostic_flags": [],
+  "narrative": "The pre-2016 United States exhibited typical democratic functioning with known structural issues. Partisan gerrymandering (D7) was the most significant checkpoint, having been entrenched for decades. Disparate policing enforcement (B3) reflected longstanding civil rights concerns. The Supreme Court's 2013 Shelby County decision had weakened voting rights protections but had not yet resulted in systematic disenfranchisement. Institutions remained independent and functional. Courts regularly checked executive overreach. Elections were contested but accepted. This baseline represents 'normal' American democracy with its historical imperfections—not ideal, but within the range of functioning democratic systems.",
+  "scholarly_sources": [
+    "Levitsky, Steven and Daniel Ziblatt. 'How Democracies Die.' Crown (2018)",
+    "Mickey, Robert, Steven Levitsky, and Lucan Way. 'Is America Still Safe for Democracy?' Foreign Affairs (2017)"
+  ],
+  "comparison_guidance": "Use as the baseline for US-specific assessments. Score increases from this baseline indicate deterioration from America's historical norm. A score of 15 is not 'good'—it reflects structural issues—but it represents the typical operating range of American democracy."
+}

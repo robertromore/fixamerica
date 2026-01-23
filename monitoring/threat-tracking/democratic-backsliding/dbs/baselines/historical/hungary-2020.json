@@ -1,0 +1,58 @@
+{
+  "baseline_id": "hungary-2020",
+  "baseline_type": "historical_calibration",
+  "description": "Hungary as consolidated competitive authoritarian regime",
+  "period": "2020",
+  "period_notes": "Decade into Orbán rule; COVID emergency powers; EU Article 7 proceedings ongoing",
+  "dbs_range": {
+    "low": 65,
+    "mid": 70,
+    "high": 75
+  },
+  "tier": "Severe democratic backsliding",
+  "pathway_mode": "hybrid+capture+kleptocratic",
+  "key_checkpoints": {
+    "C2": 4,
+    "C4": 4,
+    "C6": 3,
+    "D3": 4,
+    "D7": 4,
+    "D9": 3,
+    "E1": 4,
+    "E3": 4,
+    "F1": 4,
+    "F6": 3
+  },
+  "checkpoint_notes": {
+    "C2": "Courts fully captured; Constitutional Court rubber-stamps government",
+    "C4": "Prosecutor's office weaponized; opposition figures investigated while allies protected",
+    "C6": "Significant corruption; EU funds channeled to Orbán allies",
+    "D3": "Electoral system heavily tilted; 2018 supermajority with 49% of vote",
+    "D7": "Gerrymandering and malapportionment entrenched",
+    "D9": "Opposition faces bureaucratic obstacles; campaign restrictions",
+    "E1": "Independent media nearly eliminated; remaining outlets under constant pressure",
+    "E3": "State media dominates; disinformation systematic",
+    "F1": "Civil service fully loyalist; no internal resistance capacity",
+    "F6": "Orbán effectively above law; prosecutorial immunity for inner circle"
+  },
+  "red_lines_triggered": [
+    "F6"
+  ],
+  "diagnostic_flags": [
+    "sword_shield",
+    "expertise_void",
+    "legal_capture_complete"
+  ],
+  "flag_notes": {
+    "sword_shield": "Prosecution weaponized against opposition while shielding allies",
+    "expertise_void": "Career professionals eliminated; government operates on loyalty",
+    "legal_capture_complete": "Courts, prosecutors, and police aligned with regime"
+  },
+  "narrative": "By 2020, Hungary represents the end state of democratic backsliding within EU constraints. The system is a consolidated competitive authoritarian regime: elections occur but are structurally unfair, courts exist but don't check power, media is formally free but actually captured. The COVID-19 pandemic provided cover for emergency powers that further concentrated authority. EU membership provides some external constraint—preventing outright dictatorship—but Brussels has proven unable to reverse backsliding. This baseline represents what consolidated competitive authoritarianism looks like: democratic form without democratic substance.",
+  "scholarly_sources": [
+    "Scheppele, Kim Lane, R. Daniel Kelemen, and Joris Morijn. 'The EU Commission has to Cut Funding to Hungary.' Verfassungsblog, April 13, 2020",
+    "Freedom House. 'Nations in Transit 2020: Hungary.' Freedom House (2020)",
+    "Bozóki, András. 'The Illusion of Inclusion: Configurations of Populism in Hungary.' East European Politics 38, no. 1 (2022): 1-20"
+  ],
+  "comparison_guidance": "Hungary 2020 represents the ceiling for democratic backsliding within EU/NATO membership constraints. Use this baseline to assess whether a trajectory is heading toward consolidated competitive authoritarianism. Scores approaching Hungary 2020 suggest that electoral path to change is severely compromised but not yet completely blocked."
+}

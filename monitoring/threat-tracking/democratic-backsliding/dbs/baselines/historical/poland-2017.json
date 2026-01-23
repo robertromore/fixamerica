@@ -1,0 +1,42 @@
+{
+  "baseline_id": "poland-2017",
+  "baseline_type": "historical_calibration",
+  "description": "Poland under PiS government during Constitutional Tribunal crisis",
+  "period": "2015-2019",
+  "period_notes": "PiS government; Constitutional Tribunal capture; EU Article 7 proceedings initiated",
+  "dbs_range": {
+    "low": 40,
+    "mid": 45,
+    "high": 50
+  },
+  "tier": "Elevated concern",
+  "pathway_mode": "hybrid+capture",
+  "key_checkpoints": {
+    "C2": 4,
+    "C4": 3,
+    "E1": 2,
+    "E3": 3,
+    "F1": 3
+  },
+  "checkpoint_notes": {
+    "C2": "Constitutional Tribunal captured; judges appointed unlawfully; rulings ignored",
+    "C4": "Prosecutor General merged with Justice Minister; politicization of prosecution",
+    "E1": "Public media transformed into government propaganda; some private media pressure",
+    "E3": "State media heavily biased; but private media ecosystem remains vibrant",
+    "F1": "Civil service changes; some politicization but less systematic than Hungary"
+  },
+  "red_lines_triggered": [],
+  "diagnostic_flags": [
+    "institutional_resistance"
+  ],
+  "flag_notes": {
+    "institutional_resistance": "Strong civil society pushback; EU pressure; some judicial resistance; large street protests"
+  },
+  "narrative": "Poland under PiS represents a partially arrested backsliding trajectory. The government captured the Constitutional Tribunal and merged the Prosecutor General with the Justice Minister, creating conditions for politicized prosecution. Public media was transformed into a propaganda arm. However, several factors limited consolidation: strong civil society (including mass protests), vibrant private media, EU legal pressure, and internal party constraints. Poland shows that backsliding is not inevitable even after courts are captured—external constraints and domestic resistance can slow or arrest the process. The 2023 election brought opposition to power, suggesting electoral paths remained viable.",
+  "scholarly_sources": [
+    "Sadurski, Wojciech. 'Poland's Constitutional Breakdown.' Oxford University Press (2019)",
+    "Koncewicz, Tomasz Tadeusz. 'The Capture of the Polish Constitutional Tribunal and Beyond.' Verfassungsblog, December 2016",
+    "Przybylski, Wojciech. 'Explaining Eastern Europe: Can Poland's Backsliding Be Stopped?' Journal of Democracy 29, no. 3 (2018): 52-64"
+  ],
+  "comparison_guidance": "Poland 2017 demonstrates backsliding that was partially arrested by external constraints (EU) and domestic resistance (civil society, private media). Use this baseline to assess whether similar constraining factors exist in other contexts. The key difference from Hungary: Poland lacked a supermajority, which limited constitutional capture. The institutional_resistance flag is significant—it indicates that democratic antibodies are still functioning."
+}
