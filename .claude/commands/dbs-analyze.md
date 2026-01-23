@@ -102,7 +102,7 @@ Extract from `$ARGUMENTS`:
 - `--watchlist`: Show high-concern topics only
 - `--since <date>`: Filter runs after date
 - `--last <n>`: Limit to last n runs
-- `--output <file>`: Write report to file
+- `--output [file]`: Write report to file (optional filename; auto-generates if omitted)
 
 ### 2. Load Run Data
 
@@ -385,9 +385,32 @@ Topics meeting elevated concern criteria:
 Default reports directory: `monitoring/threat-tracking/democratic-backsliding/dbs/reports/`
 
 ```
-/dbs-analyze trump --trend --output trump-trend-2025.md
-/dbs-analyze trump --trend --output reports/trump-trend-2025.md
+/dbs-analyze trump --trend --output                      # Auto-generates filename
+/dbs-analyze trump --trend --output trump-trend-2025.md  # Explicit filename
 ```
+
+**Auto-generated filename convention:**
+
+When `--output` is provided without a filename, or when a filename needs to be generated:
+
+```
+<topic>-<report-type>-<date-range>.md
+```
+
+Examples:
+- `/dbs-analyze trump --trend --output` → `trump-trend-2025-01-20-to-2025-12-31.md`
+- `/dbs-analyze trump --trend --last 5 --output` → `trump-trend-last-5-runs.md`
+- `/dbs-analyze trump --trend --since 2025-06-01 --output` → `trump-trend-since-2025-06-01.md`
+- `/dbs-analyze trump --alerts --output` → `trump-alerts-2026-01-22.md`
+- `/dbs-analyze trump --compare hungary --output` → `trump-vs-hungary-comparison-2026-01-22.md`
+- `/dbs-analyze --dashboard --output` → `dashboard-2026-01-22.md`
+- `/dbs-analyze --watchlist --output` → `watchlist-2026-01-22.md`
+
+**Date range resolution:**
+- If `--since` is provided, use that as start date
+- If `--last N` is provided, use "last-N-runs"
+- Otherwise, derive from the earliest and latest run dates found for the topic
+- For alerts/dashboard/watchlist, use the current date
 
 If no directory is specified, write to the default reports directory. If a relative path is given, resolve it from the dbs directory.
 
