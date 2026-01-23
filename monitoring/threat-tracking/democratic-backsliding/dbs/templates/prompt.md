@@ -339,6 +339,9 @@ Create a table with:
 
 ```text
 DBS-v1.1e [Run Mode] ([Window], run date: YYYY-MM-DD) — Topic: [topic]: [Score] (confidence band: [±N])
+Tier: [Tier label]
+Pathway: [pathway_mode][+subcategories]
+Red-lines: [None triggered / list]
 ```
 
 - **Run Mode**: Rolling (default), Ad hoc, or Snapshot
@@ -346,8 +349,16 @@ DBS-v1.1e [Run Mode] ([Window], run date: YYYY-MM-DD) — Topic: [topic]: [Score
 - **Run date**: ISO date (YYYY-MM-DD) or full timestamp if needed
 - **Topic**: Required if the run is topic-specific; omit if the run is general
 - **Non-default window rule**: Any non-default window (not 60 days) must be stated; omission implies 60-day rolling
+- **Pathway**: Mandatory consolidation pathway classification (see Pathway Mode Classification below)
 
-Example: `DBS-v1.1e Rolling (60-day window, run date: 2026-02-28) — Topic: trump: 47 (confidence band: 43–52)`
+Example:
+
+```text
+DBS-v1.1e Rolling (60-day window, run date: 2026-02-28) — Topic: trump: 47 (confidence band: ±5)
+Tier: Elevated concern (31–50)
+Pathway: executive-driven+security_dominant
+Red-lines: None triggered
+```
 
 Provide:
 
@@ -355,7 +366,10 @@ Provide:
 - Risk tier (from interpretation bands)
 - Red-line status (which, if any, were triggered)
 - **If DBS = 100:** Also report DBS-A (analytical, uncapped) and ES band (ES1/ES2/ES3)
+- **If "Electoral exit blocked" flag triggers:** Also report DBS-A regardless of headline score, with note: "DBS-A reported due to multi-vector electoral compromise. Headline DBS may understate transition risk."
 - Diagnostic flags:
+    - "Electoral exit blocked" if (D5 ≥ 3 AND D6 ≥ 3) OR (D5 ≥ 3 AND D11 ≥ 3) OR (D6 ≥ 3 AND D11 ≥ 3) — **triggers mandatory DBS-A reporting**
+    - "Foreign-enabled electoral exit blocked" if D8 ≥ 3 AND "Electoral exit blocked" flag is active
     - "Kleptocratic capture underway" if C6 ≥ 3 AND (C3 ≥ 3 OR C4 ≥ 3)
     - "Foreign coordination documented" if D8 ≥ 3
     - "Sovereignty and electoral integrity both compromised" if D8 ≥ 3 AND (D5 ≥ 2 OR D6 ≥ 2)
@@ -367,18 +381,151 @@ Provide:
     - "Coordinated foreign–domestic election subversion detected" if D8 ≥ 3 AND (D5 ≥ 3 OR D6 ≥ 3 OR D11 ≥ 3)
     - "External attack on electoral legitimacy detected" if D12 ≥ 3 AND (D5 ≥ 3 OR D6 ≥ 3 OR D11 ≥ 3)
     - "Asymmetric information environment detected; coordination unproven" if E3 ≤ 2 AND (platform takedown action identifying coordinated inauthentic behavior favoring incumbents OR peer-reviewed/institutional research documenting AI-scale operations favoring incumbents OR official investigation findings documenting systematic information operations)
+    - "Information environment pre-conditioning electoral rejection" if E3 ≥ 4 AND D4 ≥ 3 — lead indicator for D5/D6 activation
+    - "Institutional resistance active" if any checkpoint ≥3 has documented successful resistance (court injunction enforced, legislative override sustained, executive reversal following watchdog report)
+    - "Electoral oversight compromised; D-category auditability degraded" if (E3 ≥ 4 OR E1 ≥ 3) AND (any of D1–D6 ≥ 2) — triggers mandatory interpretation note and confidence reassessment for D-category checkpoints
+    - "Coercion-information disconnect; E-category escalation likely" if (B4 ≥ 3 OR B5 ≥ 3) AND (E1 ≤ 2 AND E3 ≤ 2) — regime deploying visible force while media remains open; historically unstable configuration
+    - "Prosecutorial sword and shield active" if C3 ≥ 3 AND F6 ≥ 3 — legal dualism: executive immune while weaponizing prosecution against opponents; C1/C2 are remaining checks
+    - "Legal system capture complete; judicial check failed" if C3 ≥ 3 AND F6 ≥ 3 AND (C1 ≥ 3 OR C2 ≥ 3) — compound flag indicating full legal capture with no judicial check remaining
+    - "Expertise void; institutional memory and oversight neutralized" if (F1 ≥ 3 OR F3 ≥ 3) AND C4 ≥ 3 — hollow state pattern; lead indicator for C6 (kleptocracy) and D10 (governance dysfunction)
+    - "Guardrail attrition on [checkpoint]; sustained institutional siege detected" if a checkpoint has Institutional Resistance Active for 3+ consecutive runs with base score ≥ 2 — requires Safeguard Resilience Assessment in interpretation
+    - "High-velocity escalation detected; institutional response capacity may be trailing" if Δ DBS > 12 points within 30 days compared to prior comparable run — blitz pattern indicator
+    - "High-velocity red-line breach; institutional response window compressed" if Δ DBS > 12 in 30 days AND any red-line checkpoint newly ≥ 3 — compound flag triggering accelerated monitoring
 - Intent Profile (score-weighted percentages for PRO-DEM, ANTI-DEM, AMBIGUOUS)
 - Optional: Aggregate Intent Balance (ABI) if useful for comparative context
 - **Trend Drivers and Watchpoints (REQUIRED):** Provide 6–10 bullets identifying (a) Trend Drivers—factors actively contributing to the current DBS score (≥2 points) or explaining a material change (±3 points) relative to the prior run using the same mode and window length—and (b) Watchpoints—credible near-term risks (within 60–90 days) not yet scored but that could contribute ≥2 points or trigger a red-line checkpoint if realized.
 - **Excluded events (context) (REQUIRED):** Derived view of Event Log entries with `exclusion_reason` codes starting with `EX_` (e.g., EX_TA), listing `event_id`, `exclusion_reason`, `mapped_checkpoint`, and `evidence_trigger_doc_types`.
+- **Criticality Map (REQUIRED):** Sensitivity analysis table (max 8 rows) identifying checkpoints where ±1 change would materially alter assessment. Include: (a) all checkpoints at score 2 or 3 for red-line triggers, (b) any checkpoint with Medium/Low confidence, (c) any checkpoint that changed ≥2 points from prior run. For each, show current score, effect of +1, effect of −1, and structural impact (red-line activation/deactivation, flag triggers). See Section 7.4 of `monitoring/threat-tracking/democratic-backsliding/dbs/initial-scoped-plan.md`.
+- **Strategic Intervention Matrix (OPTIONAL but recommended for DBS ≥ 31):** When the score reaches Tier 3 (Elevated Concern) or higher, include intervention priority guidance based on current tier and pathway mode. See Section 7.5 of `monitoring/threat-tracking/democratic-backsliding/dbs/initial-scoped-plan.md`. Format:
 
-  Each bullet must:
+  ```
+  ## Strategic Intervention Matrix
+
+  Tier: [Current tier]
+  Pathway: [Current pathway mode]
+  Priority Checkpoints: [Top 3-5 based on pathway and tier]
+
+  Actor Priorities:
+  - Courts: [Key action]
+  - Watchdogs: [Key action]
+  - Media: [Key action]
+  - NGOs: [Key action]
+  - International: [Key action]
+
+  Red-Line Alerts: [Any active red-line protocols]
+  Flag-Triggered Responses: [Any diagnostic flag responses]
+  ```
+
+  Each Trend Driver/Watchpoint bullet must:
     - Be labeled **Driver** or **Watchpoint**
     - Include a risk level (**High**: ≥3 points or red-line trigger; **Medium**: 2 points; **Low**: <2 points but mechanistically relevant)
     - Reference relevant checkpoint IDs
     - Explain the mechanism of risk
 
   Order bullets by risk significance (High drivers → Medium drivers → High watchpoints → Medium watchpoints → Low items). Do not include speculative or non-mechanistic items. If fewer than 6 are warranted, state so explicitly.
+
+---
+
+### HIGH-OPACITY ENVIRONMENT PROTOCOL (CONDITIONAL)
+
+**Activation:** When **both** conditions are met:
+
+1. Audit Degradation Flag active: `(E3 ≥ 4 OR E1 ≥ 3) AND (any of D1–D6 ≥ 2)`
+2. DBS ≥ 70
+
+When activated, calculate and report:
+
+**Opacity Index (OI):** 0–100 scale based on:
+
+- Press freedom score (25%)
+- Tier-1 source availability (25%)
+- Journalist access (15%)
+- Official record reliability (15%)
+- Diaspora corroboration (10%)
+- International monitor access (10%)
+
+**OI Bands:**
+
+| OI Range | Label | Action |
+| -------- | ----- | ------ |
+| 0–25 | Low | Normal methodology |
+| 26–50 | Moderate | Wider confidence bands; note limitations |
+| 51–75 | High | Score bifurcation mandatory |
+| 76–100 | Near-Total | Dark Zone declaration required |
+
+**Score Bifurcation (OI > 50):**
+
+Report two scores:
+
+- **DBS-V (Verified):** Tier-1/corroborated Tier-2 only; may understate severity
+- **DBS-S (Structural):** Includes structural floor inference; minimum plausible severity
+
+**Structural Sources:** Verified diaspora reporting, economic indicators, international monitoring, satellite/OSINT, authenticated leaked documents.
+
+**Output Format (High-Opacity):**
+
+```text
+DBS-v1.1e Rolling (60-day, run date: YYYY-MM-DD) — Topic: [subject]: DBS-V: [X] / DBS-S: [Y] (OI: [Z])
+Tier: [Tier label]
+Pathway: [pathway_mode]
+Red-lines: [list]
+Opacity: [BAND] — [brief note on implications]
+```
+
+**Dark Zone (OI ≥ 76):** Include explicit warning that DBS-V is unreliable floor only.
+
+**Prohibited:** Do NOT use unverified Tier-3 sources to directly increase scores. Tier-3 may inform watchpoints or support structural inference when corroborated, but cannot substitute for verified sourcing.
+
+See Section 8.4 of `monitoring/threat-tracking/democratic-backsliding/dbs/initial-scoped-plan.md` for full protocol.
+
+---
+
+### PATHWAY MODE CLASSIFICATION (MANDATORY)
+
+Every run must classify the dominant consolidation pathway in the output header. Calculate saturation metrics:
+
+**Category Saturation:**
+
+```
+Executive_Saturation = (B_score/35 + C_score/40 + F_score/35) / 3 × 100
+Electoral_Saturation = D_exec_score/40 × 100
+Legislative_Saturation = D_leg_score/20 × 100
+```
+
+Where:
+
+- **D_exec** (executive-controlled): D1, D2, D4, D5, D6, D8, D11, D12 (max 40)
+- **D_leg** (legislative-controlled): D3, D7, D9, D10 (max 20)
+
+**Primary Mode Triggers:**
+
+| Mode | Trigger |
+| ---- | ------- |
+| `executive-driven` | Executive_Saturation > 40% AND Legislative_Saturation ≤ 30% |
+| `legislative-driven` | Legislative_Saturation > 40% AND Executive_Saturation ≤ 40% |
+| `hybrid` | Executive_Saturation > 35% AND Legislative_Saturation > 35% |
+| `undetermined` | None of the above |
+
+**Subcategory Modifiers (append with `+`):**
+
+| Subcategory | Trigger |
+| ----------- | ------- |
+| `+foreign_enabled` | D8 ≥ 3 OR D12 ≥ 3 |
+| `+capture` | D7 ≥ 3 AND/OR D9 ≥ 3 (legislative-driven only) |
+| `+dysfunction` | D10 ≥ 3 as primary D_leg driver (legislative-driven only) |
+| `+kleptocratic` | Kleptocratic Capture flag active |
+| `+security_dominant` | F_score/35 > 50% of Executive_Saturation (executive-driven only) |
+
+**Output Format:** `Pathway: [primary_mode][+subcategory1][+subcategory2]...`
+
+**Examples:**
+
+- `Pathway: executive-driven` — Standard executive consolidation
+- `Pathway: legislative-driven+capture` — Legislative capture pathway
+- `Pathway: hybrid+foreign_enabled+kleptocratic` — Full-spectrum consolidation with foreign backing and kleptocracy
+- `Pathway: undetermined` — Early stage or effective institutional resistance
+
+See Section 6.2 of `monitoring/threat-tracking/democratic-backsliding/dbs/initial-scoped-plan.md` for full rationale and response implications.
 
 ---
 
