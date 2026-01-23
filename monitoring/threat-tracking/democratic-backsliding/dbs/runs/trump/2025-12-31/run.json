@@ -1,0 +1,296 @@
+{
+  "schema_version": "schema-1.4",
+  "dbs_version": "DBS-v1.1e",
+  "prompt_version": "Prompt-v1.1.0",
+  "run_id": "trump-2025-12-31-001",
+  "topic": "trump",
+  "run_date": "2025-12-31",
+  "created_at_utc": "2025-12-31T23:59:59Z",
+  "mode": "rolling",
+  "window": {
+    "start_date": "2025-11-02",
+    "end_date": "2025-12-31",
+    "days": 60
+  },
+  "jurisdiction": {
+    "type": "federal",
+    "name": "United States",
+    "subunit": ""
+  },
+  "capability": {
+    "has_web_access": true,
+    "knowledge_cutoff": "2025-05",
+    "notes": "Web search performed for December 2025 events"
+  },
+  "scores": {
+    "dbs_capped": 79,
+    "dbs_uncapped": 79,
+    "confidence_band": {
+      "low": 73,
+      "high": 85,
+      "basis": "single_rater_medium_confidence"
+    },
+    "tier_label": "Severe Democratic Backsliding (71-89)",
+    "es_band": null,
+    "red_lines_triggered": ["F6"],
+    "diagnostic_flags": [
+      "prosecutorial_sword_shield_active",
+      "expertise_void",
+      "state_of_exception_pattern_active",
+      "institutional_resistance_active"
+    ]
+  },
+  "categories": [
+    {
+      "category": "A",
+      "name": "Emergency Narrative & Delegitimation",
+      "score": 18,
+      "max": 20,
+      "saturation": 0.90,
+      "checkpoints": [
+        {"id": "A1", "score": 5, "base": 4, "modifiers": {"M": 2, "P": 2}, "decay": "D0"},
+        {"id": "A2", "score": 4, "base": 3, "modifiers": {"M": 2, "P": 2}, "decay": "D0"},
+        {"id": "A3", "score": 4, "base": 3, "modifiers": {"M": 2, "P": 2}, "decay": "D0"},
+        {"id": "A4", "score": 5, "base": 4, "modifiers": {"M": 2, "P": 2}, "decay": "D0"}
+      ]
+    },
+    {
+      "category": "B",
+      "name": "Coercive State Power",
+      "score": 23,
+      "max": 35,
+      "saturation": 0.66,
+      "checkpoints": [
+        {"id": "B1", "score": 4, "base": 2, "modifiers": {"M": 2, "P": 2}, "decay": "D0"},
+        {"id": "B2", "score": 2, "base": 1, "modifiers": {"M": 1, "P": 1}, "decay": "D0"},
+        {"id": "B3", "score": 4, "base": 3, "modifiers": {"M": 2, "P": 1}, "decay": "D0"},
+        {"id": "B4", "score": 5, "base": 3, "modifiers": {"M": 2, "P": 2}, "decay": "D0"},
+        {"id": "B5", "score": 4, "base": 2, "modifiers": {"M": 2, "P": 2}, "decay": "D0", "red_line": false},
+        {"id": "B6", "score": 3, "base": 2, "modifiers": {"M": 1, "P": 1}, "decay": "D0"},
+        {"id": "B7", "score": 1, "base": 1, "modifiers": {"M": 0, "P": 0}, "decay": "D0"}
+      ]
+    },
+    {
+      "category": "C",
+      "name": "Rule of Law & Courts",
+      "score": 26,
+      "max": 40,
+      "saturation": 0.65,
+      "checkpoints": [
+        {"id": "C1", "score": 3, "base": 2, "modifiers": {"M": 2, "P": 1}, "decay": "D0", "red_line": false, "notes": "SCOTUS ruled against Trump Dec 23; admin complied"},
+        {"id": "C2", "score": 2, "base": 2, "modifiers": {"M": 0, "P": 0}, "decay": "D0"},
+        {"id": "C3", "score": 5, "base": 4, "modifiers": {"M": 2, "P": 2}, "decay": "D0"},
+        {"id": "C4", "score": 5, "base": 4, "modifiers": {"M": 2, "P": 2}, "decay": "D0"},
+        {"id": "C5", "score": 4, "base": 3, "modifiers": {"M": 2, "P": 1}, "decay": "D0"},
+        {"id": "C6", "score": 2, "base": 1, "modifiers": {"M": 1, "P": 1}, "decay": "D0"},
+        {"id": "C7", "score": 4, "base": 3, "modifiers": {"M": 2, "P": 0}, "decay": "D0"},
+        {"id": "C8", "score": 2, "base": 2, "modifiers": {"M": 0, "P": 0}, "decay": "D0"}
+      ]
+    },
+    {
+      "category": "D",
+      "name": "Elections & Transfer of Power",
+      "score": 31,
+      "max": 60,
+      "saturation": 0.52,
+      "checkpoints": [
+        {"id": "D1", "score": 4, "base": 3, "modifiers": {"M": 2, "P": 1}, "decay": "D0"},
+        {"id": "D2", "score": 2, "base": 2, "modifiers": {"M": 0, "P": 0}, "decay": "D0"},
+        {"id": "D3", "score": 3, "base": 2, "modifiers": {"M": 1, "P": 1}, "decay": "D0"},
+        {"id": "D4", "score": 5, "base": 3, "modifiers": {"M": 2, "P": 2}, "decay": "D0"},
+        {"id": "D5", "score": 4, "base": 2, "modifiers": {"M": 2, "P": 1}, "decay": "D0", "red_line": false},
+        {"id": "D6", "score": 4, "base": 2, "modifiers": {"M": 2, "P": 1}, "decay": "D0", "red_line": false},
+        {"id": "D7", "score": 3, "base": 2, "modifiers": {"M": 2, "P": 1}, "decay": "D0"},
+        {"id": "D8", "score": 1, "base": 1, "modifiers": {"M": 0, "P": 0}, "decay": "D0"},
+        {"id": "D9", "score": 1, "base": 1, "modifiers": {"M": 0, "P": 0}, "decay": "D0"},
+        {"id": "D10", "score": 2, "base": 1, "modifiers": {"M": 1, "P": 1}, "decay": "D0"},
+        {"id": "D11", "score": 1, "base": 1, "modifiers": {"M": 0, "P": 0}, "decay": "D0", "red_line": false},
+        {"id": "D12", "score": 2, "base": 1, "modifiers": {"M": 1, "P": 1}, "decay": "D0"}
+      ]
+    },
+    {
+      "category": "E",
+      "name": "Information Environment",
+      "score": 14,
+      "max": 20,
+      "saturation": 0.70,
+      "checkpoints": [
+        {"id": "E1", "score": 5, "base": 4, "modifiers": {"M": 2, "P": 2}, "decay": "D0"},
+        {"id": "E2", "score": 4, "base": 3, "modifiers": {"M": 2, "P": 1}, "decay": "D0"},
+        {"id": "E3", "score": 4, "base": 2, "modifiers": {"M": 2, "P": 1}, "decay": "D0"},
+        {"id": "E4", "score": 1, "base": 1, "modifiers": {"M": 0, "P": 0}, "decay": "D0"}
+      ]
+    },
+    {
+      "category": "F",
+      "name": "Security Services & Loyalty",
+      "score": 29,
+      "max": 35,
+      "saturation": 0.83,
+      "checkpoints": [
+        {"id": "F1", "score": 5, "base": 4, "modifiers": {"M": 2, "P": 2}, "decay": "D0"},
+        {"id": "F2", "score": 4, "base": 2, "modifiers": {"M": 2, "P": 1}, "decay": "D0", "red_line": false},
+        {"id": "F3", "score": 5, "base": 4, "modifiers": {"M": 2, "P": 2}, "decay": "D0"},
+        {"id": "F4", "score": 4, "base": 2, "modifiers": {"M": 2, "P": 1}, "decay": "D0"},
+        {"id": "F5", "score": 3, "base": 2, "modifiers": {"M": 2, "P": 1}, "decay": "D0"},
+        {"id": "F6", "score": 5, "base": 4, "modifiers": {"M": 2, "P": 2}, "decay": "D0", "red_line": true},
+        {"id": "F7", "score": 3, "base": 2, "modifiers": {"M": 1, "P": 1}, "decay": "D0"}
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "Mass IG Firings",
+      "date": "2025-01-24",
+      "actor": "EXEC",
+      "intent": "ANTI-DEM",
+      "checkpoint": "C4",
+      "base_score": 4,
+      "modifiers": {"M": 2, "P": 2},
+      "effective_score": 5,
+      "confidence": "High",
+      "sources": [{"outlet": "NPR", "url": "https://www.npr.org/2025/01/25/g-s1-44771/trump-fires-inspectors-general"}]
+    },
+    {
+      "event_id": "E004",
+      "title": "Comey/James Indictments Dismissed",
+      "date": "2025-11-24",
+      "actor": "JUD",
+      "intent": "PRO-DEM",
+      "checkpoint": "C3",
+      "base_score": 4,
+      "modifiers": {"M": 2, "P": 2},
+      "effective_score": 5,
+      "confidence": "High",
+      "sources": [{"outlet": "MSNBC", "url": "https://www.ms.now/deadline-white-house/deadline-legal-blog/5-criminal-cases-that-sum-up-the-trump-administrations-corrupt-and-vindictive-2025"}],
+      "notes": "Underlying DOJ politicization scored; dismissal shows institutional resistance"
+    },
+    {
+      "event_id": "E005",
+      "title": "SCOTUS Trump v. Illinois Ruling",
+      "date": "2025-12-23",
+      "actor": "JUD",
+      "intent": "PRO-DEM",
+      "checkpoint": "C1",
+      "base_score": 2,
+      "modifiers": {"M": 2, "P": 1},
+      "effective_score": 3,
+      "confidence": "High",
+      "sources": [{"outlet": "NPR", "url": "https://www.npr.org/2025/12/23/nx-s1-5641959/supreme-court-chicago-national-guard"}],
+      "notes": "SCOTUS 6-3 ruled against National Guard federalization; admin complied"
+    },
+    {
+      "event_id": "E006",
+      "title": "TSA Union Contract Terminated",
+      "date": "2025-12-12",
+      "actor": "EXEC",
+      "intent": "ANTI-DEM",
+      "checkpoint": "F1",
+      "base_score": 3,
+      "modifiers": {"M": 2, "P": 1},
+      "effective_score": 4,
+      "confidence": "High",
+      "sources": [{"outlet": "EPI", "url": "https://www.epi.org/policywatch/executive-order-on-exclusions-from-federal-labor-management-relations-programs/"}]
+    },
+    {
+      "event_id": "E007",
+      "title": "CA National Guard Federalization Ends",
+      "date": "2025-12-31",
+      "actor": "EXEC",
+      "intent": "PRO-DEM",
+      "checkpoint": "B5",
+      "base_score": 2,
+      "modifiers": {"M": 2, "P": 1},
+      "effective_score": 4,
+      "confidence": "High",
+      "sources": [{"outlet": "Gov.ca.gov", "url": "https://www.gov.ca.gov/2025/12/31/federal-court-finally-ends-illegal-federalization-of-national-guard-after-trump-gives-up-governor-newsom-directs-leadership-to-quickly-send-soldiers-home-to-families/"}],
+      "notes": "Compliance with court order; underlying attempt scored"
+    },
+    {
+      "event_id": "E009",
+      "title": "Epstein Files Act Signed",
+      "date": "2025-11-19",
+      "actor": "EXEC",
+      "intent": "AMBIGUOUS",
+      "checkpoint": "C5",
+      "base_score": 2,
+      "modifiers": {"M": 2, "P": 0},
+      "effective_score": 3,
+      "confidence": "Medium",
+      "sources": [{"outlet": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Epstein_Files_Transparency_Act"}],
+      "notes": "DOJ directed to investigate Democrats; bipartisan passage but selective enforcement concern"
+    }
+  ],
+  "excluded_events_context": [
+    {
+      "event_id": "EX001",
+      "exclusion_reason": "EX_TA",
+      "mapped_checkpoint": "F6",
+      "evidence_trigger_doc_types": ["SCOTUS_ruling"],
+      "notes": "July 2024 immunity ruling; pre-window but institutionalized"
+    },
+    {
+      "event_id": "EX004",
+      "exclusion_reason": "EX_CONTEXT",
+      "mapped_checkpoint": "B5",
+      "evidence_trigger_doc_types": ["news_report"],
+      "notes": "Nov 26 National Guard shooting — tragic incident, not policy action"
+    }
+  ],
+  "audit": {
+    "domain_sweep": [
+      {"domain": "Executive actions", "events_found": 12},
+      {"domain": "Legislative actions", "events_found": 2},
+      {"domain": "Courts and legal compliance", "events_found": 8},
+      {"domain": "Elections and certification", "events_found": 4},
+      {"domain": "Security services", "events_found": 9},
+      {"domain": "Media and information", "events_found": 5}
+    ],
+    "disagreements": [],
+    "scoring_notes": [
+      "December showed significant institutional resistance (SCOTUS ruling, Comey/James dismissals)",
+      "Underlying structures remain: Schedule F, IG vacancies, DOJ politicization",
+      "F6 red-line remains triggered based on institutionalized immunity doctrine"
+    ]
+  },
+  "interpretation": {
+    "narrative": "The Trump administration reached severe democratic backsliding (DBS 79) by end of 2025, driven primarily by executive-dominant mechanisms. December saw significant institutional resistance: SCOTUS ruled 6-3 against National Guard federalization, and federal judges dismissed politically-motivated indictments. However, underlying structures persist: 17+ IGs remain unfilled, 2,900+ DOJ attorneys have departed, and Schedule F implementation continues. The F6 red-line (immunity doctrine) remains active.",
+    "intent_profile": {
+      "method": "score_weighted",
+      "pro_dem": 0.12,
+      "anti_dem": 0.82,
+      "ambiguous": 0.06
+    },
+    "abi": -0.70,
+    "pathway_dominance": {
+      "active": true,
+      "mode": "hybrid",
+      "mode_basis_checkpoints": ["B3", "B4", "C3", "C4", "F1", "F3", "F6"],
+      "notes": "Executive-dominant hybrid pathway; 71% executive saturation vs 45% legislative"
+    },
+    "trend_summary": {
+      "drivers": [
+        {"risk": "High", "checkpoints": ["C3", "C4"], "text": "DOJ politicization institutionalized; 2,900+ attorneys departed"},
+        {"risk": "High", "checkpoints": ["F1", "F3"], "text": "Civil service dismantling; TSA union terminated Dec 12"},
+        {"risk": "High", "checkpoints": ["F6"], "text": "Immunity doctrine operationalized"},
+        {"risk": "High", "checkpoints": ["E1"], "text": "Press freedom severely degraded; 170 assaults, 32 arrests"},
+        {"risk": "Medium", "checkpoints": ["B4", "B5"], "text": "National Guard deployments; SCOTUS provided check"},
+        {"risk": "Medium", "checkpoints": ["A1", "A4"], "text": "Emergency framing normalized"}
+      ],
+      "watchpoints": [
+        {"risk": "High", "checkpoints": ["D5", "D6"], "text": "Electoral infrastructure control attempts; base 3 would trigger +15", "status": "Pending"},
+        {"risk": "High", "checkpoints": ["C1"], "text": "SCOTUS just ruled; compliance pattern developing", "status": "Active"},
+        {"risk": "High", "checkpoints": ["F2"], "text": "Military politicization at score 4; SCOTUS provided some check", "status": "Pending"},
+        {"risk": "Medium", "checkpoints": ["C3"], "text": "Comey/James dismissed; new DOJ targets likely", "status": "Pending"}
+      ]
+    }
+  },
+  "velocity_tracking": {
+    "prior_run_date": null,
+    "prior_dbs": null,
+    "delta_dbs": null,
+    "days_elapsed": null,
+    "velocity_flag": false
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "schema_version": "schema-1.4",
+  "dbs_version": "DBS-v1.1e",
+  "prompt_version": "Prompt-v1.1.0",
+  "run_id": "trump-2026-01-22-001",
+  "topic": "trump",
+  "run_date": "2026-01-22",
+  "created_at_utc": "2026-01-22T00:00:00Z",
+  "mode": "rolling",
+  "window": {
+    "start_date": "2025-11-24",
+    "end_date": "2026-01-22",
+    "days": 60
+  },
+  "jurisdiction": {
+    "type": "federal",
+    "name": "United States",
+    "subunit": ""
+  },
+  "capability": {
+    "has_web_access": true,
+    "knowledge_cutoff": "2025-05",
+    "notes": "Web search performed 2026-01-22"
+  },
+  "scores": {
+    "dbs_capped": 81,
+    "dbs_uncapped": 81,
+    "confidence_band": {
+      "low": 75,
+      "high": 87,
+      "basis": "single_rater_medium_confidence"
+    },
+    "tier_label": "Severe Democratic Backsliding (71-89)",
+    "es_band": null,
+    "red_lines_triggered": ["F6"],
+    "diagnostic_flags": [
+      "prosecutorial_sword_shield_active",
+      "expertise_void",
+      "state_of_exception_pattern_active",
+      "institutional_resistance_active"
+    ]
+  },
+  "categories": [
+    {
+      "category": "A",
+      "name": "Emergency Narrative & Delegitimation",
+      "score": 18,
+      "max": 20,
+      "saturation": 0.90,
+      "checkpoints": [
+        {"id": "A1", "score": 5, "base": 4, "modifiers": {"M": 2, "P": 2}, "decay": "D0"},
+        {"id": "A2", "score": 4, "base": 3, "modifiers": {"M": 2, "P": 2}, "decay": "D0"},
+        {"id": "A3", "score": 4, "base": 3, "modifiers": {"M": 2, "P": 2}, "decay": "D0"},
+        {"id": "A4", "score": 5, "base": 4, "modifiers": {"M": 2, "P": 2}, "decay": "D0"}
+      ]
+    },
+    {
+      "category": "B",
+      "name": "Coercive State Power",
+      "score": 24,
+      "max": 35,
+      "saturation": 0.69,
+      "checkpoints": [
+        {"id": "B1", "score": 4, "base": 2, "modifiers": {"M": 2, "P": 2}, "decay": "D0"},
+        {"id": "B2", "score": 2, "base": 1, "modifiers": {"M": 1, "P": 1}, "decay": "D0"},
+        {"id": "B3", "score": 5, "base": 3, "modifiers": {"M": 2, "P": 2}, "decay": "D0"},
+        {"id": "B4", "score": 5, "base": 3, "modifiers": {"M": 2, "P": 2}, "decay": "D0"},
+        {"id": "B5", "score": 4, "base": 2, "modifiers": {"M": 2, "P": 2}, "decay": "D0", "red_line": false},
+        {"id": "B6", "score": 3, "base": 2, "modifiers": {"M": 1, "P": 1}, "decay": "D0"},
+        {"id": "B7", "score": 1, "base": 1, "modifiers": {"M": 0, "P": 0}, "decay": "D0"}
+      ]
+    },
+    {
+      "category": "C",
+      "name": "Rule of Law & Courts",
+      "score": 28,
+      "max": 40,
+      "saturation": 0.70,
+      "checkpoints": [
+        {"id": "C1", "score": 4, "base": 2, "modifiers": {"M": 2, "P": 1}, "decay": "D0", "red_line": false},
+        {"id": "C2", "score": 2, "base": 2, "modifiers": {"M": 0, "P": 0}, "decay": "D0"},
+        {"id": "C3", "score": 5, "base": 4, "modifiers": {"M": 2, "P": 2}, "decay": "D0"},
+        {"id": "C4", "score": 5, "base": 4, "modifiers": {"M": 2, "P": 2}, "decay": "D0"},
+        {"id": "C5", "score": 5, "base": 3, "modifiers": {"M": 2, "P": 2}, "decay": "D0"},
+        {"id": "C6", "score": 2, "base": 1, "modifiers": {"M": 1, "P": 1}, "decay": "D0"},
+        {"id": "C7", "score": 4, "base": 3, "modifiers": {"M": 2, "P": 0}, "decay": "D0"},
+        {"id": "C8", "score": 2, "base": 2, "modifiers": {"M": 0, "P": 0}, "decay": "D0"}
+      ]
+    },
+    {
+      "category": "D",
+      "name": "Elections & Transfer of Power",
+      "score": 32,
+      "max": 60,
+      "saturation": 0.53,
+      "checkpoints": [
+        {"id": "D1", "score": 4, "base": 3, "modifiers": {"M": 2, "P": 1}, "decay": "D0"},
+        {"id": "D2", "score": 2, "base": 2, "modifiers": {"M": 0, "P": 0}, "decay": "D0"},
+        {"id": "D3", "score": 3, "base": 2, "modifiers": {"M": 1, "P": 1}, "decay": "D0"},
+        {"id": "D4", "score": 5, "base": 3, "modifiers": {"M": 2, "P": 2}, "decay": "D0"},
+        {"id": "D5", "score": 4, "base": 2, "modifiers": {"M": 2, "P": 1}, "decay": "D0", "red_line": false},
+        {"id": "D6", "score": 4, "base": 2, "modifiers": {"M": 2, "P": 1}, "decay": "D0", "red_line": false},
+        {"id": "D7", "score": 3, "base": 2, "modifiers": {"M": 2, "P": 1}, "decay": "D0"},
+        {"id": "D8", "score": 1, "base": 1, "modifiers": {"M": 0, "P": 0}, "decay": "D0"},
+        {"id": "D9", "score": 1, "base": 1, "modifiers": {"M": 0, "P": 0}, "decay": "D0"},
+        {"id": "D10", "score": 2, "base": 1, "modifiers": {"M": 1, "P": 1}, "decay": "D0"},
+        {"id": "D11", "score": 1, "base": 1, "modifiers": {"M": 0, "P": 0}, "decay": "D0", "red_line": false},
+        {"id": "D12", "score": 2, "base": 1, "modifiers": {"M": 1, "P": 1}, "decay": "D0"}
+      ]
+    },
+    {
+      "category": "E",
+      "name": "Information Environment",
+      "score": 14,
+      "max": 20,
+      "saturation": 0.70,
+      "checkpoints": [
+        {"id": "E1", "score": 5, "base": 4, "modifiers": {"M": 2, "P": 2}, "decay": "D0"},
+        {"id": "E2", "score": 4, "base": 3, "modifiers": {"M": 2, "P": 1}, "decay": "D0"},
+        {"id": "E3", "score": 4, "base": 2, "modifiers": {"M": 2, "P": 1}, "decay": "D0"},
+        {"id": "E4", "score": 1, "base": 1, "modifiers": {"M": 0, "P": 0}, "decay": "D0"}
+      ]
+    },
+    {
+      "category": "F",
+      "name": "Security Services & Loyalty",
+      "score": 30,
+      "max": 35,
+      "saturation": 0.86,
+      "checkpoints": [
+        {"id": "F1", "score": 5, "base": 4, "modifiers": {"M": 2, "P": 2}, "decay": "D0"},
+        {"id": "F2", "score": 4, "base": 2, "modifiers": {"M": 2, "P": 1}, "decay": "D0", "red_line": false},
+        {"id": "F3", "score": 5, "base": 4, "modifiers": {"M": 2, "P": 2}, "decay": "D0"},
+        {"id": "F4", "score": 4, "base": 2, "modifiers": {"M": 2, "P": 1}, "decay": "D0"},
+        {"id": "F5", "score": 3, "base": 2, "modifiers": {"M": 2, "P": 1}, "decay": "D0"},
+        {"id": "F6", "score": 5, "base": 4, "modifiers": {"M": 2, "P": 2}, "decay": "D0", "red_line": true},
+        {"id": "F7", "score": 4, "base": 2, "modifiers": {"M": 2, "P": 1}, "decay": "D0"}
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "Mass IG Firings",
+      "date": "2025-01-24",
+      "actor": "EXEC",
+      "intent": "ANTI-DEM",
+      "checkpoint": "C4",
+      "base_score": 4,
+      "modifiers": {"M": 2, "P": 2},
+      "effective_score": 5,
+      "confidence": "High",
+      "sources": [
+        {"outlet": "NPR", "url": "https://www.npr.org/2025/01/25/g-s1-44771/trump-fires-inspectors-general"}
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "January 6 Pardons",
+      "date": "2025-01-20",
+      "actor": "EXEC",
+      "intent": "ANTI-DEM",
+      "checkpoint": "C7",
+      "base_score": 3,
+      "modifiers": {"M": 2, "P": 0},
+      "effective_score": 4,
+      "confidence": "High",
+      "sources": [
+        {"outlet": "AP", "url": "https://apnews.com"}
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "Schedule F Implementation",
+      "date": "2025-04-18",
+      "actor": "EXEC",
+      "intent": "ANTI-DEM",
+      "checkpoint": "F1",
+      "base_score": 4,
+      "modifiers": {"M": 2, "P": 2},
+      "effective_score": 5,
+      "confidence": "High",
+      "sources": [
+        {"outlet": "NPR", "url": "https://www.npr.org/2025/04/18/nx-s1-5369550/trump-federal-workers-schedule-f"}
+      ]
+    },
+    {
+      "event_id": "E004",
+      "title": "Comey Indictment",
+      "date": "2025-09-25",
+      "actor": "EXEC",
+      "intent": "ANTI-DEM",
+      "checkpoint": "C3",
+      "base_score": 3,
+      "modifiers": {"M": 2, "P": 1},
+      "effective_score": 5,
+      "confidence": "High",
+      "sources": [
+        {"outlet": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Prosecution_of_James_Comey"}
+      ]
+    },
+    {
+      "event_id": "E005",
+      "title": "SCOTUS National Guard Ruling",
+      "date": "2025-12-23",
+      "actor": "JUD",
+      "intent": "PRO-DEM",
+      "checkpoint": "C1",
+      "base_score": 2,
+      "modifiers": {"M": 2, "P": 1},
+      "effective_score": 4,
+      "confidence": "High",
+      "sources": [
+        {"outlet": "SCOTUSblog", "url": "https://www.scotusblog.com/2026/01/looking-back-at-2025-the-supreme-court-and-the-trump-administration/"}
+      ]
+    },
+    {
+      "event_id": "E006",
+      "title": "EAC Control Executive Order",
+      "date": "2025-03-01",
+      "actor": "EXEC",
+      "intent": "ANTI-DEM",
+      "checkpoint": "D1",
+      "base_score": 3,
+      "modifiers": {"M": 2, "P": 1},
+      "effective_score": 4,
+      "confidence": "High",
+      "sources": [
+        {"outlet": "Brennan Center", "url": "https://www.brennancenter.org/our-work/research-reports/trump-administrations-campaign-undermine-next-election"}
+      ]
+    },
+    {
+      "event_id": "E007",
+      "title": "Press Freedom Degradation",
+      "date": "2025-12-31",
+      "actor": "EXEC",
+      "intent": "ANTI-DEM",
+      "checkpoint": "E1",
+      "base_score": 4,
+      "modifiers": {"M": 2, "P": 2},
+      "effective_score": 5,
+      "confidence": "High",
+      "sources": [
+        {"outlet": "Poynter", "url": "https://www.poynter.org/reporting-editing/2025/united-states-press-freedom-donald-trump/"}
+      ]
+    },
+    {
+      "event_id": "E008",
+      "title": "Operation Midway Blitz",
+      "date": "2025-09-01",
+      "actor": "EXEC",
+      "intent": "AMBIGUOUS",
+      "checkpoint": "B4",
+      "base_score": 3,
+      "modifiers": {"M": 2, "P": 2},
+      "effective_score": 5,
+      "confidence": "Medium",
+      "sources": [
+        {"outlet": "Lemkin Institute", "url": "https://www.lemkininstitute.com/items-5/trump-administration%E2%80%99s-mass-deportation-operations:-update-november-2025"}
+      ]
+    }
+  ],
+  "excluded_events_context": [
+    {
+      "event_id": "EX001",
+      "exclusion_reason": "EX_TA",
+      "mapped_checkpoint": "F6",
+      "evidence_trigger_doc_types": ["SCOTUS_ruling"],
+      "notes": "July 2024 immunity ruling; pre-window but institutionalized"
+    },
+    {
+      "event_id": "EX002",
+      "exclusion_reason": "EX_SUBNAT",
+      "mapped_checkpoint": "D3",
+      "evidence_trigger_doc_types": ["state_legislation"],
+      "notes": "State-level voting restrictions; scored via DBS-State"
+    },
+    {
+      "event_id": "EX003",
+      "exclusion_reason": "EX_PENDING",
+      "mapped_checkpoint": "D5",
+      "evidence_trigger_doc_types": ["court_filing"],
+      "notes": "Birthright citizenship case pending SCOTUS"
+    }
+  ],
+  "audit": {
+    "domain_sweep": [
+      {"domain": "Executive actions", "events_found": 15},
+      {"domain": "Legislative actions", "events_found": 3},
+      {"domain": "Courts and legal compliance", "events_found": 8},
+      {"domain": "Elections and certification", "events_found": 5},
+      {"domain": "Security services", "events_found": 10},
+      {"domain": "Media and information", "events_found": 6}
+    ],
+    "disagreements": [],
+    "scoring_notes": [
+      "B5 scored conservatively at base 2 due to SCOTUS guardrail on federalization",
+      "C1 base 2 as no formal contempt finding despite delayed compliance",
+      "F6 red-line triggered based on institutionalized immunity doctrine"
+    ]
+  },
+  "interpretation": {
+    "narrative": "The Trump administration has achieved severe democratic backsliding (DBS 81) primarily through executive-dominant mechanisms. The F6 red-line (immunity doctrine) is active, and three additional checkpoints (D5, D6, F2) are at score 4 with potential for red-line activation. Institutional resistance remains active, with courts providing some checks (Trump v. Illinois), but the overall trajectory shows consolidated executive power with hollowed oversight institutions.",
+    "intent_profile": {
+      "method": "score_weighted",
+      "pro_dem": 0.08,
+      "anti_dem": 0.85,
+      "ambiguous": 0.07
+    },
+    "abi": -0.77,
+    "pathway_dominance": {
+      "active": true,
+      "mode": "hybrid",
+      "mode_basis_checkpoints": ["B3", "B4", "C3", "C4", "F1", "F3", "F6"],
+      "notes": "Executive-dominant hybrid pathway; 75% executive saturation vs 45% legislative"
+    },
+    "trend_summary": {
+      "drivers": [
+        {"risk": "High", "checkpoints": ["C3", "C4"], "text": "DOJ politicization and IG removal pattern institutionalized"},
+        {"risk": "High", "checkpoints": ["F1", "F3"], "text": "Civil service dismantling via Schedule F"},
+        {"risk": "High", "checkpoints": ["F6"], "text": "Immunity doctrine operationalized"},
+        {"risk": "High", "checkpoints": ["E1"], "text": "Press freedom degradation severe"},
+        {"risk": "Medium", "checkpoints": ["B3", "B4"], "text": "Disparate enforcement and militarized operations"},
+        {"risk": "Medium", "checkpoints": ["A1", "A4"], "text": "Emergency framing normalized"}
+      ],
+      "watchpoints": [
+        {"risk": "High", "checkpoints": ["D5", "D6"], "text": "Electoral infrastructure control attempts; base 3 would trigger +15", "status": "Pending"},
+        {"risk": "High", "checkpoints": ["C1"], "text": "Contempt finding would trigger combo rule with B5", "status": "Pending"},
+        {"risk": "High", "checkpoints": ["F2"], "text": "Military politicization at score 4; base 3 would trigger +10", "status": "Pending"},
+        {"risk": "Medium", "checkpoints": ["B5"], "text": "Insurrection Act threats persist despite SCOTUS ruling", "status": "Pending"}
+      ]
+    }
+  }
+}
