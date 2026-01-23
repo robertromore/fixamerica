@@ -16,11 +16,11 @@ Establish a framework for National Infrastructure Investment and Coordination th
 
 ---
 
-## Part I: National Infrastructure Planning Council
+## Part I: National Resilience and Infrastructure Council
 
 ### Section 1. Establishment
 
-(a) There is established a "National Infrastructure Planning Council" (the "Council").
+(a) There is established a "National Resilience and Infrastructure Council" (the "Council").
 
 (b) The Council shall be an independent advisory body within the Department of Transportation, with a mandate to develop and oversee a national multi-regional infrastructure strategy.
 
@@ -28,27 +28,51 @@ Establish a framework for National Infrastructure Investment and Coordination th
 
 (a) The Council shall consist of fifteen (15) members:
     - (1) The Secretary of Transportation (Chair).
-    - (2) The Secretary of Energy.
-    - (3) The Administrator of the Environmental Protection Agency.
+    - (2) The FEMA Administrator (Vice-Chair for Resilience).
+    - (3) The Secretary of Energy and the Administrator of the Environmental Protection Agency.
     - (4) One representative from each of the seven (7) Regions, appointed by the respective Regional Governor.
     - (5) Four (4) members appointed by the President with the advice and consent of the Senate, with expertise in engineering, economics, environmental science, and urban planning.
-    - (6) One (1) member appointed by the Speaker of the House, with expertise in public finance.
 
 (b) Regional representatives shall serve staggered four-year terms. Presidential and Congressional appointees shall serve five-year terms.
 
 ### Section 3. Functions
 
 (a) The Council shall:
-    - (1) Identify national multi-regional infrastructure priorities (e.g., high-speed rail, national energy grid upgrades, inter-regional water management, broadband backbone).
-    - (2) Conduct feasibility studies and cost-benefit analyses for proposed projects.
-    - (3) Develop long-term strategic plans for multi-regional infrastructure development (20-year horizon).
-    - (4) Mediate disputes between Regions regarding infrastructure siting or impact.
-    - (5) Publish an annual "State of the Nation's Infrastructure" report.
-    - (6) Recommend projects for funding from the National Infrastructure Bank.
+    - (1) **Integrated Planning:** Develop and oversee a unified National Resilience and Infrastructure Strategy, integrating long-term infrastructure planning, climate adaptation, and disaster preparedness.
+    - (2) **Priority Identification:** Identify national multi-regional infrastructure priorities (e.g., high-speed rail, grid modernization, coastal resilience).
+    - (3) **Project Review:** Conduct feasibility studies and cost-benefit analyses for proposed projects, recommending priorities for funding from the National Infrastructure Bank.
+    - (4) **Dispute Mediation:** Mediate disputes between Regions regarding infrastructure siting, climate adaptation, or disaster response coordination.
+    - (5) **Reporting:** Publish a comprehensive annual "State of the Nation's Resilience and Infrastructure" report.
+
+(b) **Subcommittees.** The Council shall establish, at a minimum, three standing subcommittees:
+    - (1) **Subcommittee on Infrastructure Planning:** Focused on transportation, energy, water, and communications infrastructure.
+    - (2) **Subcommittee on Climate Adaptation:** Focused on assessing climate risks and developing national adaptation strategies.
+    - (3) **Subcommittee on Disaster Preparedness:** Focused on coordinating national disaster response plans and mutual aid.
 
 ---
 
 ## Part II: National Infrastructure Bank
+
+### Section 11. Establishment
+
+(a) There is established a "National Infrastructure Bank" (the "Bank") as a wholly-owned government corporation.
+
+(b) The Bank shall be capitalized by a one-time federal appropriation of $500 billion, with authority to issue bonds backed by the full faith and credit of the United States.
+
+### Section 12. Governance
+
+(a) The Bank shall be governed by a nine-member Board of Directors, appointed by the President with the advice and consent of the Senate, with expertise in finance, engineering, and public policy.
+
+(b) The Board shall operate independently of political interference in its lending and investment decisions.
+
+### Section 13. Financing Mechanisms
+
+(a) The Bank shall provide financing for multi-regional infrastructure projects through:
+    - (1) Low-interest loans and loan guarantees.
+    - (2) Equity investments in public-private partnerships.
+    - (3) Technical assistance grants for project development.
+
+(b) Projects recommended by the National Resilience and Infrastructure Council shall receive priority consideration for funding.
 
 ### Section 11. Establishment
 
@@ -93,7 +117,7 @@ Establish a framework for National Infrastructure Investment and Coordination th
 
 ### Section 23. Inter-Regional Infrastructure Compacts
 
-(a) Regions are encouraged to form "Inter-Regional Infrastructure Compacts" under Article I, Section 5, for the joint governance, maintenance, and operation of shared infrastructure assets.
+(a) Regions are encouraged to form "Inter-Regional Infrastructure Compacts" under the `Interregional Agency Compact Act` for the joint governance, maintenance, and operation of shared infrastructure assets.
 
 (b) The Council shall develop model compact templates for various types of infrastructure.
 

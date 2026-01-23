@@ -16,29 +16,6 @@ Establish a National Disaster Response and Recovery Coordination Framework that:
 
 ---
 
-## Part I: National Disaster Coordination Council
-
-### Section 1. Establishment
-
-(a) There is established a "National Disaster Coordination Council" (the "Council").
-
-(b) The Council shall be composed of:
-    - (1) The FEMA Administrator (Chair).
-    - (2) The Secretaries of Homeland Security, Defense, and HHS.
-    - (3) One representative from each Regional emergency management authority, appointed by the respective Regional Governor.
-
-### Section 2. Functions
-
-(a) The Council shall:
-    - (1) Develop a National Disaster Response Plan, updated biennially.
-    - (2) Conduct national-level disaster preparedness exercises annually.
-    - (3) Monitor and assess national and Regional preparedness levels.
-    - (4) Identify resource gaps and redundancies across Regions.
-    - (5) Facilitate communication and coordination during disasters.
-    - (6) Make recommendations to Congress and Regions on disaster policy and best practices.
-
----
-
 ## Part II: Disaster Preparedness
 
 ### Section 11. National Mutual Aid Compact
@@ -80,7 +57,7 @@ Establish a National Disaster Response and Recovery Coordination Framework that:
 
 ### Section 23. Federal Coordination
 
-(a) The Council shall coordinate federal, Regional, and local response efforts, emphasizing a "Regional-led, Federal-supported" approach.
+(a) The National Resilience and Infrastructure Council (the "Council"), established by the `National Infrastructure Investment and Coordination Act`, shall coordinate federal, Regional, and local response efforts, emphasizing a "Regional-led, Federal-supported" approach.
 
 (b) The Council shall facilitate resource deployment across jurisdictions, manage logistics and supply chains for critical resources, and provide public information and warnings.
 
@@ -137,7 +114,7 @@ Establish a National Disaster Response and Recovery Coordination Framework that:
 
 ### Section 51. Periodic Review
 
-(a) The Council shall review this Act and its implementation every five years.
+(a) The National Resilience and Infrastructure Council shall review this Act and its implementation every five years.
 
 (b) Reviews shall assess effectiveness and recommend improvements.
 

@@ -19,9 +19,7 @@ Establish a Federal Digital Literacy and Media Education Program that:
 
 ### Section 1. Establishment
 
-(a) There is established within the Independent Election Commission (IEC) a "Federal Digital Literacy and Media Education Program" (the "Program").
-
-(b) The Program shall be administered by a dedicated "Office of Digital Literacy and Civic Education" within the IEC.
+(a) The Federal Agency for Civic Engagement and Media Literacy (the "Agency"), established by the `Federal Agency for Civic Engagement and Media Literacy Act`, shall administer the "Federal Digital Literacy and Media Education Program" (the "Program").
 
 ### Section 2. Program Functions
 
@@ -34,7 +32,7 @@ Establish a Federal Digital Literacy and Media Education Program that:
 
 ### Section 3. Advisory Board
 
-(a) The IEC shall establish a non-partisan "Digital Literacy Advisory Board" composed of experts in education, media studies, cognitive science, and cybersecurity, as well as representatives from diverse communities.
+(a) The Agency shall establish a non-partisan "Digital Literacy Advisory Board" composed of experts in education, media studies, cognitive science, and cybersecurity, as well as representatives from diverse communities.
 
 (b) The Advisory Board shall provide recommendations on curriculum development, program priorities, and evaluation metrics.
 
@@ -55,11 +53,11 @@ Establish a Federal Digital Literacy and Media Education Program that:
 
 (a) All materials and programs funded under this Act shall be strictly non-partisan, objective, and focused on skills development rather than content endorsement or censorship.
 
-(b) The IEC shall establish clear guidelines and oversight mechanisms to prevent partisan bias or ideological capture of Program activities.
+(b) The Agency shall establish clear guidelines and oversight mechanisms to prevent partisan bias or ideological capture of Program activities.
 
 ### Section 13. Reporting
 
-(a) The IEC shall submit an annual report to Congress detailing Program activities, expenditures, and evaluation of effectiveness.
+(a) The Agency shall submit an annual report to Congress detailing Program activities, expenditures, and evaluation of effectiveness.
 
 ---
 
@@ -73,9 +71,10 @@ Establish a Federal Digital Literacy and Media Education Program that:
 
 - **Mandatory Appropriation:** The Act could specify that Program funding is a mandatory appropriation, insulated from discretionary cuts.
 - **IEC Independence:** The IEC's independent status (established by the Independent Election Commission Act) protects it from direct executive interference.
+-   **Agency Independence:** The Agency is established as an independent body with an insulated Director and funding stream.
 - **Public Reporting:** Annual reports to Congress and the public create transparency and accountability for program effectiveness.
 
-**Outcome:** While political pressure is possible, direct defunding or sabotage is made more difficult by the Program's independent administration and mandatory funding.
+**Outcome:** While political pressure is possible, direct defunding or sabotage is made more difficult by the Program's independent administration.
 
 ---
 
@@ -121,7 +120,7 @@ Establish a Federal Digital Literacy and Media Education Program that:
 
 ## Related Documents
 
-- [Independent Election Commission Act](independent-election-commission-act.md) - Establishes the IEC, which would administer this Program.
+- Federal Agency for Civic Engagement and Media Literacy Act - Establishes the Agency that administers this Program.
 - [Elections Implementation Act](elections-implementation-act.md) - Context for federal election integrity.
 
 ---

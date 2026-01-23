@@ -8,11 +8,11 @@ This proposal establishes federal floors for K-12 educational standards in core 
 
 Establish a framework for National K-12 Education Standards and Mobility that:
 
-- Ensures a baseline of educational attainment for all K-12 students across the nation.
-- Facilitates seamless academic transitions for students relocating between Regions.
-- Promotes inter-regional collaboration in educational best practices and curriculum development.
-- Supports national workforce readiness by addressing inconsistencies in foundational skill sets.
-- Balances federal interests in educational quality with Regional autonomy in educational policy.
+-   Ensures a baseline of educational attainment for all K-12 students across the nation.
+-   Facilitates seamless academic transitions for students relocating between Regions.
+-   Promotes inter-regional collaboration in educational best practices and curriculum development.
+-   Supports national workforce readiness by addressing inconsistencies in foundational skill sets.
+-   Balances federal interests in educational quality with Regional autonomy in educational policy.
 
 ---
 
@@ -94,10 +94,10 @@ Establish a framework for National K-12 Education Standards and Mobility that:
 
 **Countermeasure:**
 
-- **"Minimum Standards" (Section 1(a)):** The Act explicitly establishes *minimum* standards, allowing Regions to exceed them and develop their own curricula.
-- **"Without Mandating a Single Curriculum" (Section 2(b)):** The assessment framework is designed for comparable data, not curriculum dictation.
-- **Regional Autonomy (Purpose Statement):** The Act explicitly balances federal interests with Regional autonomy.
-- **Council Composition (Section 21(b)):** Regional representatives on the Council provide a check against federal overreach.
+-   **"Minimum Standards" (Section 1(a)):** The Act explicitly establishes *minimum* standards, allowing Regions to exceed them and develop their own curricula.
+-   **"Without Mandating a Single Curriculum" (Section 2(b)):** The assessment framework is designed for comparable data, not curriculum dictation.
+-   **Regional Autonomy (Purpose Statement):** The Act explicitly balances federal interests with Regional autonomy.
+-   **Council Composition (Section 21(b)):** Regional representatives on the Council provide a check against federal overreach.
 
 **Outcome:** The Act is carefully worded to prevent federal curriculum mandates, preserving Regional control over educational content above the established floors.
 
@@ -109,10 +109,10 @@ Establish a framework for National K-12 Education Standards and Mobility that:
 
 **Countermeasure:**
 
-- **Standardized System (Section 11(a)):** The USDE establishes a clear, binding system for credit transfer.
-- **Mandatory Acceptance (Section 11(b)):** Accredited schools are legally required to accept applicable credits.
-- **Council Mediation (Section 11(c)):** The Regional K-12 Education Coordination Council mediates disputes.
-- **Judicial Review:** Families could challenge arbitrary denials in federal court.
+-   **Standardized System (Section 11(a)):** The USDE establishes a clear, binding system for credit transfer.
+-   **Mandatory Acceptance (Section 11(b)):** Accredited schools are legally required to accept applicable credits.
+-   **Council Mediation (Section 11(c)):** The Regional K-12 Education Coordination Council mediates disputes.
+-   **Judicial Review:** Families could challenge arbitrary denials in federal court.
 
 **Outcome:** Arbitrary obstruction is prohibited and subject to federal oversight and judicial challenge, ensuring student mobility.
 
@@ -124,9 +124,9 @@ Establish a framework for National K-12 Education Standards and Mobility that:
 
 **Countermeasure:**
 
-- **Federal Minimums for Certification (Section 12(b)):** Reciprocity is conditioned on the certifying Region's standards meeting or exceeding federal minimums.
-- **USDE Oversight:** The USDE can review and challenge Regional certification standards that fall below federal minimums.
-- **Professional Licensing Bodies:** Independent professional bodies may also exert pressure for quality.
+-   **Federal Minimums for Certification (Section 12(b)):** Reciprocity is conditioned on the certifying Region's standards meeting or exceeding federal minimums.
+-   **USDE Oversight:** The USDE can review and challenge Regional certification standards that fall below federal minimums.
+-   **Professional Licensing Bodies:** Independent professional bodies may also exert pressure for quality.
 
 **Outcome:** While Regions have flexibility, federal minimums prevent a complete race to the bottom on teacher qualifications, ensuring a baseline of quality for the teaching profession.
 
@@ -145,14 +145,14 @@ Establish a framework for National K-12 Education Standards and Mobility that:
 
 ## Related Documents
 
-- Federal Digital Literacy and Media Education Program Act - Provides complementary civic education.
-- Higher Education and Research Coordination Act - Addresses post-secondary education and research.
-- Interstate Professional Licensing Reciprocity Act - Relevant for teacher certification reciprocity.
-- Allocation Framework Act - Defines jurisdictional allocation principles.
+-   Federal Digital Literacy and Media Education Program Act - Provides complementary civic education.
+-   Higher Education and Research Coordination Act - Addresses post-secondary education and research.
+-   Interstate Professional Licensing Reciprocity Act - Relevant for teacher certification reciprocity.
+-   Allocation Framework Act - Defines jurisdictional allocation principles.
 
 ---
 
 ## Document Navigation
 
-- Previous: Performance-Based Civic Engagement Incentives Act
-- Parent: Regional Federalism Proposals
+-   Previous: Performance-Based Civic Engagement Incentives Act
+-   Parent: Regional Federalism Proposals

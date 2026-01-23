@@ -19,7 +19,7 @@ Establish a Performance-Based Civic Engagement Incentives Framework that:
 
 ### Section 1. Establishment
 
-(a) There is established within the Independent Election Commission (IEC) a "Community Civic Recognition Program" (the "Program").
+(a) There is established within the Federal Agency for Civic Engagement and Media Literacy (the "Agency") a "Community Civic Recognition Program" (the "Program").
 
 (b) The Program shall annually recognize local government jurisdictions (e.g., municipalities, counties) that demonstrate exceptional levels of voter participation and civic engagement.
 
@@ -32,7 +32,7 @@ Establish a Performance-Based Civic Engagement Incentives Framework that:
     - (4) Volunteerism rates in public service activities.
     - (5) Engagement with local government processes (e.g., public meetings, comment periods).
 
-(b) The IEC shall establish a transparent methodology for calculating and ranking communities based on these criteria.
+(b) The Agency shall establish a transparent methodology for calculating and ranking communities based on these criteria.
 
 ### Section 3. Recognition and Benefits
 
@@ -47,7 +47,7 @@ Establish a Performance-Based Civic Engagement Incentives Framework that:
 
 ### Section 11. Establishment of Grant Program
 
-(a) The IEC shall administer a "Regional Civic Engagement Grant Program" to provide funding to Regions that implement innovative programs to boost civic participation.
+(a) The Agency shall administer a "Regional Civic Engagement Grant Program" to provide funding to Regions that implement innovative programs to boost civic participation.
 
 (b) There is authorized to be appropriated $150,000,000 for each fiscal year for this Program.
 
@@ -72,7 +72,8 @@ Establish a Performance-Based Civic Engagement Incentives Framework that:
 - **Objective Metrics:** Section 2(a) mandates objective, publicly available metrics, reducing subjective judgment.
 - **Transparent Methodology:** Section 2(b) requires a transparent methodology for ranking, allowing public scrutiny.
 - **IEC Independence:** The IEC's independent composition (established by the Independent Election Commission Act) protects against partisan capture of the recognition process.
-- **Judicial Review:** IEC decisions on recognition and grant awards are subject to federal judicial review for abuse of discretion.
+-   **Agency Independence:** The Agency's independent status protects against partisan capture.
+-   **Judicial Review:** Agency decisions on recognition and grant awards are subject to federal judicial review for abuse of discretion.
 
 **Outcome:** The reliance on objective metrics, transparent methodology, and independent oversight makes it difficult to systematically inject partisan bias into the recognition process.
 
@@ -87,6 +88,7 @@ Establish a Performance-Based Civic Engagement Incentives Framework that:
 - **Outcome-Based Metrics:** Section 2(a) emphasizes metrics like voter turnout and registration rates, which are difficult to fake.
 - **Diverse Criteria:** The combination of multiple criteria (turnout, registration, deliberative participation, volunteerism) makes it harder to game a single metric.
 - **Evaluation and Audits:** Grant programs require measurable objectives and evaluation plans, with potential for IEC audits.
+-   **Evaluation and Audits:** Grant programs require measurable objectives and evaluation plans, with potential for Agency audits.
 
 **Outcome:** While some performative actions are possible, the focus on measurable outcomes and diverse criteria makes it difficult to achieve recognition without genuine increases in civic engagement.
 
@@ -100,9 +102,10 @@ Establish a Performance-Based Civic Engagement Incentives Framework that:
 
 - **Mandatory Appropriation:** The Act could specify that Program funding is a mandatory appropriation, insulated from discretionary cuts.
 - **IEC Independence:** The IEC's independent status protects it from direct executive interference in program administration.
+-   **Agency Independence:** The Agency's independent status protects it from direct executive interference.
 - **Broad Public Support:** The Program's focus on rewarding civic excellence can garner broad public support, making defunding politically costly.
 
-**Outcome:** While political pressure is possible, direct defunding or sabotage is made more difficult by the Program's independent administration and potential for broad public support.
+**Outcome:** While political pressure is possible, direct defunding or sabotage is made more difficult by the Program's independent administration.
 
 ---
 

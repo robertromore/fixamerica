@@ -44,7 +44,7 @@ Establish a Deliberative Democracy Integration Framework that:
 
 ### Section 11. Federal Support
 
-(a) The Independent Election Commission (IEC) shall establish a "Federal Deliberative Democracy Support Office" to:
+(a) The Federal Agency for Civic Engagement and Media Literacy (the "Agency") shall establish a "Federal Deliberative Democracy Support Office" to:
     - (1) Provide technical assistance and best practices to Regional Programs.
     - (2) Fund research on deliberative democracy methodologies and impacts.
     - (3) Offer grants to Regions to establish and operate their Programs.
@@ -59,7 +59,7 @@ Establish a Deliberative Democracy Integration Framework that:
     - (3) Facilitated, respectful deliberation.
     - (4) Transparency in process and outcomes.
 
-(b) The IEC shall establish guidelines and oversight mechanisms to prevent partisan bias or elite capture of deliberative processes.
+(b) The Agency shall establish guidelines and oversight mechanisms to prevent partisan bias or elite capture of deliberative processes.
 
 ---
 
@@ -75,7 +75,7 @@ Establish a Deliberative Democracy Integration Framework that:
 -   **Random Selection:** Section 12(a)(1) requires random, demographically representative selection of participants, preventing stacking.
 -   **Balanced Information:** Section 12(a)(2) mandates balanced and objective information, mitigating biased input.
 -   **Transparent Process:** Section 12(a)(4) requires transparency in all stages, allowing public scrutiny.
--   **IEC Oversight:** The federal IEC provides oversight and guidelines to prevent manipulation.
+-   **Agency Oversight:** The federal Agency provides oversight and guidelines to prevent manipulation.
 
 **Outcome:** The design emphasizes independence, randomness, balance, and transparency, making systematic elite capture or partisan manipulation difficult without detection.
 
@@ -103,7 +103,7 @@ Establish a Deliberative Democracy Integration Framework that:
 
 -   **Federal Grants:** Section 11(a)(3) provides federal grants, offering a stable funding source independent of local political whims.
 -   **IEC Independence:** Both federal and Regional IECs are independent bodies, protecting program administration.
--   **Public Support:** Successful deliberative processes can build strong public support, making defunding politically costly.
+-   **Public Support:** Successful deliberative processes can build strong public support, making defunding politically costly. The Agency's independence also provides a buffer.
 
 **Outcome:** Federal funding and independent administration provide resilience against direct defunding or sabotage, though political will remains a factor.
 
