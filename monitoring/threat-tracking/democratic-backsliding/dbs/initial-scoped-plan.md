@@ -495,6 +495,53 @@ effective = min(cap_by_base[base], raw)
 
 Example: A base-1 action (rhetoric only) with M2 + P2 modifiers has raw = 1+2+2 = 5, but cap_by_base[1] = 2, so effective = 2.
 
+#### Effective Participation Modifier (EPM) — Category D Only
+
+**Purpose:** Standard D-category checkpoints measure *formal* restrictions on voting and electoral integrity. The Effective Participation Modifier captures whether formal rights translate into *effective* political voice for marginalized populations. This addresses the V-Dem Egalitarian Democracy dimension.
+
+**When to apply EPM:**
+
+EPM applies to D1 (voter suppression), D2 (targeted disenfranchisement), D7 (gerrymandering), and D9 (ballot access restrictions) when evidence shows that impacts are concentrated among specific demographic groups.
+
+| EPM Level | Condition | Modifier Value |
+|-----------|-----------|----------------|
+| EPM-0 | Impacts roughly proportional to population distribution | +0 |
+| EPM-1 | Documented disparate impact on one protected class (racial, economic, disability) | +0.5 (rounds up) |
+| EPM-2 | Documented disparate impact on multiple protected classes OR systematic targeting | +1 |
+
+**Evidence standard for EPM:**
+
+- EPM-1 requires statistical evidence of disparate impact (e.g., precinct closures in minority areas, ID requirements disproportionately affecting low-income voters)
+- EPM-2 requires either: (a) impacts across multiple dimensions (race + income + age), OR (b) evidence of intentional targeting (legislative record, prior court findings)
+
+**Interaction with base formula:**
+
+```text
+raw = base score + scope modifier + persistence modifier + EPM
+cap_by_base = {1→2, 2→4, 3→5, 4→5, 5→5}
+effective = min(cap_by_base[base score], raw)
+```
+
+**Example:** Voter ID law (base 2) with national scope (M2=+2), 60+ days (P2=+2), and documented disparate impact on low-income and minority voters (EPM-2=+1) has raw = 2+2+2+1 = 7, but cap_by_base[2] = 4, so effective = 4.
+
+**V-Dem Alignment:** This modifier corresponds to V-Dem's Egalitarian Democracy Index, which measures whether "rights and freedoms of individuals are protected equally across all social groups." The EPM translates this into DBS's checkpoint structure by capturing whether formal electoral restrictions have disparate effects on marginalized populations.
+
+**Rationale:** Your workforce documents note that 62% of direct care workers are people of color and 87% are women—populations that face documented barriers to electoral participation (shift work conflicts with voting hours, transportation barriers to distant polling places, ID requirements). The EPM ensures that "economic invisibility" is recognized when it translates into "political invisibility."
+
+**Reporting:** When EPM is applied, note in event log:
+
+```json
+{
+  "checkpoint": "D1",
+  "base_score": 2,
+  "scope_modifier": "M2",
+  "persistence_modifier": "P2",
+  "effective_participation_modifier": "EPM-2",
+  "epm_basis": "Documented disparate impact on low-income voters (X study) and minority voters (Y analysis)",
+  "effective_score": 4
+}
+```
+
 ---
 
 ### 4.4 Severity Anchors (Inter-Rater Reliability)
@@ -785,6 +832,55 @@ DBS-State enables retrospective analysis of state-level democratic regression th
 - North Carolina 2016 (HB2 era entrenchment)
 
 These cases demonstrate that state-level backsliding can be severe and durable even when federal DBS remains moderate.
+
+#### Subnational Variance Index (SVI)
+
+**Purpose:** The federal DBS score can obscure significant democratic variance across states. A "moderate" national score may average healthy and severely degraded states. The Subnational Variance Index captures this dispersion.
+
+**Calculation:**
+
+```
+SVI = (DBS-State[max] - DBS-State[min]) / DBS-State[median]
+```
+
+Where:
+- DBS-State[max] = highest state-level DBS among sampled states
+- DBS-State[min] = lowest state-level DBS among sampled states
+- DBS-State[median] = median state-level DBS
+
+**Interpretation:**
+
+| SVI Range | Label | Interpretation |
+|-----------|-------|----------------|
+| 0.0–0.3 | Low variance | Democratic health relatively uniform across states |
+| 0.3–0.6 | Moderate variance | Some states diverging; monitoring warranted |
+| 0.6–1.0 | High variance | "Pockets of autocracy" emerging within federal shell |
+| > 1.0 | Extreme variance | Acute bifurcation; federal average is misleading |
+
+**Sampling Protocol:**
+
+Full DBS-State runs for all 50 states are impractical for routine assessment. Use stratified sampling:
+
+1. **Mandatory sample (8 states):**
+   - 4 highest-population states (electoral weight)
+   - 2 states with recent election law changes (Category D relevance)
+   - 2 states with documented court/IG conflicts (Category C/F relevance)
+
+2. **Triggered expansion:** If any mandatory-sample state shows DBS-State ≥ 50, expand sample to include all states in same region.
+
+3. **Minimum sample for SVI calculation:** 8 states; report "SVI not available" if fewer.
+
+**Reporting:**
+
+When SVI is calculated, include in output:
+
+```text
+Subnational Variance Index: 0.72 (High)
+Range: DBS-State[WI]=68 to DBS-State[WA]=22
+Note: Federal DBS of 44 masks significant state-level divergence.
+```
+
+**V-Dem Alignment:** This metric corresponds to V-Dem's Subnational Democracy Index, which tracks democratic quality variance across subnational units. The SVI captures the same insight: federalism can mask authoritarian enclaves within formally democratic nations.
 
 ---
 
@@ -1196,6 +1292,22 @@ This surfaces coordinated state-level anti-democratic action without mechanicall
 If **F7 ≥ 3** AND (**F4 ≥ 3** OR **C3 ≥ 3** OR **C4 ≥ 3**), flag: *"Latent coercive capacity activated."*
 
 This indicates mass surveillance infrastructure exists alongside either political weaponization of security agencies (F4), politicized prosecution (C3), or neutralized oversight (C4). The combination represents a fully operational apparatus for targeted persecution—surveillance to identify targets, prosecution or enforcement to act on them, and compromised oversight to prevent accountability. The flag is diagnostic—it does not add to the score but signals that the infrastructure for systematic political persecution is in place.
+
+**Bureaucratic Capture Flag (Executive Aggrandizement):**
+
+If **F1 ≥ 3** AND **C4 ≥ 3**, flag: *"Bureaucratic capture active; horizontal accountability degraded."*
+
+This indicates civil service independence (F1) has been compromised while independent watchdogs (C4) have been neutralized. The combination represents a fundamental erosion of "horizontal accountability"—the capacity of non-elected institutions to check executive power through expertise, implementation discretion, and oversight.
+
+**V-Dem Alignment:** This flag corresponds to V-Dem's "Executive Aggrandizement" indicator, which tracks how elected leaders "gradually and largely through institutional means" disable checks on their power. The bureaucratic capture pattern is a key mechanism: politicize implementation, then neutralize oversight of that implementation.
+
+**Why this flag matters:** Democratic governance depends on career civil servants who implement policy based on law and expertise, not political direction. When bureaucratic autonomy is lost, the executive can direct agencies to act without legal constraint. When oversight is simultaneously neutralized, there is no mechanism to detect or correct illegal implementation.
+
+**Implications for policy implementation:** When this flag is active, agencies like CMS, DOL, or EPA cannot be assumed to implement worker protections, environmental regulations, or healthcare policies as written. Executive preference overrides statutory mandate.
+
+If **F1 ≥ 3** AND **C4 ≥ 3** AND **F3 ≥ 3**, flag: *"Expertise void; institutional memory and implementation capacity neutralized."*
+
+This compound flag indicates that civil service politicization, watchdog neutralization, and expert replacement are all occurring together. The state loses not just independence but *competence*—the capacity to implement complex policy regardless of intent.
 
 **Legislative Dysfunction Flag:**
 
@@ -5548,16 +5660,20 @@ E4 captures *selective* criminalization—misinformation laws applied against po
 
 ### Category F — Security Services & Loyalty (F1–F7)
 
-#### F1 — Civil service loyalty tests
+#### F1 — Civil service loyalty tests (Bureaucratic Autonomy)
 
 **Definition:**
-Requirement of political loyalty for career officials.
+Requirement of political loyalty for career officials, or systematic degradation of civil service independence and institutional expertise.
 
 **Includes:**
 
 - Ideological screening
 - Removal for insufficient loyalty
-- Reclassification to bypass protections
+- Reclassification to bypass protections (e.g., Schedule F conversions)
+- Mass dismissals of career officials during transition periods
+- Elimination of merit-based hiring in favor of loyalty-based appointment
+- Dissolution or merger of agencies to bypass institutional constraints
+- Systematic non-replacement of career positions (hollowing via attrition)
 
 **Excludes:**
 
@@ -5565,9 +5681,31 @@ Requirement of political loyalty for career officials.
 - Standard ethics training or compliance reviews
 - Performance evaluations tied to job duties
 - Removals for documented misconduct or incompetence
+- Normal transition-period political appointee turnover
+- Agency reorganizations with transparent rationale and maintained expertise
+
+**F1 Severity Anchors:**
+
+| Score | Anchor |
+| ----: | ------ |
+| **1** | Rhetoric questioning civil service loyalty; no personnel action |
+| **2** | Isolated removals under contested circumstances; policy proposals to weaken protections |
+| **3** | Systematic reclassification or removal pattern across multiple agencies; Schedule F or equivalent implemented |
+| **4** | Mass dismissals (thousands); career expertise systematically replaced with loyalists; institutional memory severely degraded |
+| **5** | Civil service as independent institution effectively eliminated; all significant positions filled by loyalty criterion |
+
+**Key discriminator:** Whether personnel actions are **performance-based** (≤2) or **systematically loyalty-driven** (≥3). The critical question is whether the civil service retains capacity for independent implementation and expert judgment.
+
+**Bureaucratic Autonomy Indicators (V-Dem alignment):**
+
+Score F1 higher when evidence shows:
+- Career officials cannot implement policies that conflict with executive preference, even when legally required
+- Expert recommendations are systematically overridden without documented rationale
+- Agencies cannot publish findings that contradict administration positions
+- Whistleblower protections are functionally nullified
 
 **Clarifying note:**
-Scoring requires political or ideological loyalty as an explicit or implicit condition of continued service.
+F1 captures the degradation of bureaucratic autonomy—the capacity of career civil servants to implement policy based on expertise and law rather than political direction. This corresponds to V-Dem's concept of "executive aggrandizement" through horizontal accountability erosion. The "deep state" framing in political rhetoric often precedes F1 escalation.
 
 ---
 
@@ -8344,6 +8482,188 @@ Changes to the DBS-Exchange protocol require:
 - Coordinated manipulation requires influencing multiple organizations
 - Anomaly detection raises the difficulty bar
 - Track record requirements create time cost for sock puppets
+
+---
+
+## Appendix J — V-Dem Concordance and External Index Alignment
+
+This appendix maps DBS checkpoints to comparable indicators from established democracy indices, enabling cross-validation and comparative analysis.
+
+### J.1 Primary Concordance Indices
+
+| Index | Organization | Frequency | Scale | Primary Use |
+|-------|--------------|-----------|-------|-------------|
+| **V-Dem** | Varieties of Democracy Institute | Annual | 0-1 (multiple indices) | Granular checkpoint validation |
+| **Freedom House** | Freedom House | Annual | 0-100 (PR + CL) | Tier-level validation |
+| **EIU Democracy Index** | Economist Intelligence Unit | Annual | 0-10 | Comparative context |
+| **BTI** | Bertelsmann Stiftung | Biennial | 1-10 | Governance quality |
+| **IDEA GSoD** | International IDEA | Annual | 0-1 (multiple) | Structural comparison |
+
+### J.2 V-Dem Indicator Mapping
+
+#### Category A — Narrative / Legitimacy
+
+| DBS Checkpoint | V-Dem Indicator(s) | V-Dem Code | Notes |
+|----------------|-------------------|------------|-------|
+| A1 (Emergency framing) | Emergency powers | v2clsocgrp, v2cseeorgs | No direct equivalent; use civil society restriction indicators |
+| A2 (Delegitimizing opposition) | Political polarization | v2cacamps | Party campaign rhetoric |
+| A3 (Populist anti-institution rhetoric) | Populism index | v2xpa_popul | V-Dem populism measure |
+| A4 (Normalization of exceptional measures) | Rule of law | v2x_rule | Composite rule of law index |
+
+#### Category B — Coercive Apparatus
+
+| DBS Checkpoint | V-Dem Indicator(s) | V-Dem Code | Notes |
+|----------------|-------------------|------------|-------|
+| B1 (Irregular coercive forces) | State violence | v2caviol | Political violence by state |
+| B2 (Political targeting via enforcement) | Targeted violence | v2csrlgrep | Targeted repression of groups |
+| B3 (Selective enforcement) | Equal enforcement | v2clrgunev | Uneven enforcement across groups |
+| B4 (Suppressing protests) | Freedom of assembly | v2csrlgcon | Restrictions on gatherings |
+| B5 (Domestic military deployment) | Military involvement | v2x_ex_military | Military in executive |
+| B6 (Parallel coercive structures) | — | — | No direct equivalent |
+| B7 (Federalized local enforcement) | — | — | US-specific; no V-Dem equivalent |
+
+#### Category C — Courts and Legal System
+
+| DBS Checkpoint | V-Dem Indicator(s) | V-Dem Code | Notes |
+|----------------|-------------------|------------|-------|
+| C1 (Court defiance) | Executive compliance | v2jucomp | Compliance with judiciary |
+| C2 (Court packing/stripping) | Judicial independence | v2juhcind | High court independence |
+| C3 (Politicized prosecution) | Judicial harassment | v2juhaession | Harassment of opponents |
+| C4 (Watchdog undermining) | Oversight bodies | v2lgotovst | Legislative oversight |
+| C5 (Unilateral executive expansion) | Executive constraints | v2x_execorr | Executive respects constitution |
+| C6 (Kleptocratic capture) | Corruption | v2x_corr | Composite corruption index |
+| C7 (Pardon abuse) | — | — | No direct equivalent |
+| C8 (Legal framework manipulation) | Legal framework | v2cltort | Torture/due process |
+
+#### Category D — Elections and Legislative
+
+| DBS Checkpoint | V-Dem Indicator(s) | V-Dem Code | Notes |
+|----------------|-------------------|------------|-------|
+| D1 (Voter suppression) | Barriers to voting | v2elvotbuy | Vote buying/manipulation |
+| D2 (Targeted disenfranchisement) | Suffrage | v2x_suffr | Suffrage extent |
+| D3 (Electoral system manipulation) | Electoral rules | v2elembaut | EMB autonomy |
+| D4 (Conditional legitimacy) | Election acceptance | v2elaccept | Losers accept results |
+| D5 (Electoral fraud machinery) | Election integrity | v2elintim | Intimidation |
+| D6 (Certification override) | — | — | US-specific; no V-Dem equivalent |
+| D7 (Gerrymandering) | District boundaries | v2elparlel | Parliament elected fairly |
+| D8 (Foreign coordination) | Foreign influence | v2smforads | Foreign ad spending |
+| D9 (Ballot access restrictions) | Ballot access | v2psbars | Barriers to parties |
+| D10 (Governance hostage-taking) | — | — | US-specific; no V-Dem equivalent |
+| D11 (Election infrastructure compromise) | Election management | v2elembcap | EMB capacity |
+| D12 (Legitimacy sabotage) | Electoral violence | v2elpeace | Electoral violence |
+
+#### Category E — Information Environment
+
+| DBS Checkpoint | V-Dem Indicator(s) | V-Dem Code | Notes |
+|----------------|-------------------|------------|-------|
+| E1 (Media retaliation) | Media harassment | v2meharjrn | Journalist harassment |
+| E2 (Platform manipulation) | Internet censorship | v2smgovfilprc | Government filtering |
+| E3 (State propaganda coordination) | State media | v2meslfcen | Media self-censorship |
+| E4 (Misinformation criminalization) | Media freedom | v2mecenefm | Government censorship effort |
+
+#### Category F — Security Services & Loyalty
+
+| DBS Checkpoint | V-Dem Indicator(s) | V-Dem Code | Notes |
+|----------------|-------------------|------------|-------|
+| F1 (Civil service loyalty tests) | Meritocratic recruitment | v2stcritrecadm | Criteria for admin recruitment |
+| F2 (Military politicization) | Military neutrality | v2x_ex_military | Military involvement in politics |
+| F3 (Expert replacement) | Bureaucratic quality | v2stfisccap | State fiscal capacity |
+| F4 (Security agency weaponization) | Security services | v2csreprss | Civil society repression |
+| F5 (Institutional purges) | — | — | Use F1 + F3 combination |
+| F6 (Leader immunity) | Executive accountability | v2exrescon | Executive respects constitution |
+| F7 (Surveillance expansion) | Privacy | v2cldmovem | Freedom of movement/privacy |
+
+### J.3 V-Dem Composite Index Alignment
+
+| DBS Tier | V-Dem Liberal Democracy Index (v2x_libdem) | Freedom House Status |
+|----------|-------------------------------------------|---------------------|
+| 0-10 (Normal) | 0.75-1.00 | Free (75-100) |
+| 11-30 (Concern) | 0.60-0.75 | Free (60-75) |
+| 31-50 (Elevated) | 0.45-0.60 | Partly Free (50-70) |
+| 51-70 (Backsliding) | 0.30-0.45 | Partly Free (35-50) |
+| 71-89 (Severe) | 0.15-0.30 | Not Free (20-35) |
+| 90-100 (Critical) | 0.00-0.15 | Not Free (0-20) |
+
+**Note:** These are approximate correspondences. V-Dem and Freedom House use different methodologies and may diverge for specific countries.
+
+### J.4 V-Dem High-Resolution Indicators for US Context
+
+The following V-Dem indicators are particularly relevant for detecting subtle shifts in established democracies:
+
+**Subnational Democracy (Section 4.8 alignment):**
+- V-Dem does not have a standardized subnational index for the US, but the State Democracy Index project (Grumbach) provides comparable data
+- DBS Subnational Variance Index (SVI) serves similar purpose
+
+**Deliberative Democracy (Public Justification):**
+- V-Dem: v2dlreason (Reasoned justification)
+- V-Dem: v2dlcommon (Common good orientation)
+- V-Dem: v2dlcountr (Respect for counterarguments)
+
+DBS does not directly score deliberative quality due to subjectivity concerns. However, structural proxies can be tracked:
+- Committee hearing frequency and witness diversity
+- Amendment consideration rates
+- Expert testimony patterns in legislative record
+
+**Executive Aggrandizement (Horizontal Accountability):**
+- V-Dem: v2x_horacc (Horizontal accountability index)
+- V-Dem: v2lgotovst (Legislature investigates executive)
+- V-Dem: v2lginvstp (Legislature investigates in practice)
+
+DBS captures this through:
+- F1 (Civil service loyalty tests)
+- C4 (Watchdog undermining)
+- C5 (Unilateral executive expansion)
+- Bureaucratic Capture Flag (F1 ≥ 3 AND C4 ≥ 3)
+
+**Egalitarian Democracy (Effective Participation):**
+- V-Dem: v2x_egal (Egalitarian democracy index)
+- V-Dem: v2pepwrsoc (Social group power distribution)
+- V-Dem: v2pepwrses (SES power distribution)
+
+DBS captures this through:
+- Effective Participation Modifier (EPM) on D-category checkpoints
+- B3 (Selective enforcement by identity)
+- D2 (Targeted disenfranchisement)
+
+### J.5 Cross-Validation Protocol
+
+When generating DBS assessments, cross-reference against external indices:
+
+**Required checks (for any run where DBS ≥ 30):**
+
+1. **V-Dem check:** Compare DBS tier to V-Dem Liberal Democracy Index for same country/period
+   - Divergence > 2 tiers requires explanation in interpretation section
+
+2. **Freedom House check:** Compare DBS tier to Freedom House status
+   - "Free" country with DBS > 50 requires explicit justification
+
+3. **Trend consistency:** Compare DBS trajectory direction to V-Dem trajectory
+   - Opposite directions require methodological note
+
+**Reporting format:**
+
+```markdown
+## External Index Alignment
+
+| Index | Score | DBS Equivalent | Divergence |
+|-------|-------|----------------|------------|
+| V-Dem LDI | 0.72 | ~20 (Concern) | DBS=45, +25 pts |
+| Freedom House | 83 (Free) | ~15 (Normal) | DBS=45, +30 pts |
+
+**Divergence explanation:** DBS captures recent executive actions (past 60 days) that V-Dem's annual assessment has not yet incorporated. Freedom House's 2025 report predates the events driving current DBS elevation.
+```
+
+### J.6 Index-Specific Data Sources
+
+| Index | Data Access | Update Frequency | API Available |
+|-------|-------------|------------------|---------------|
+| V-Dem | https://v-dem.net/data/ | Annual (March) | Yes |
+| Freedom House | https://freedomhouse.org/report/freedom-world | Annual (February) | No |
+| EIU | Subscription required | Annual | No |
+| BTI | https://bti-project.org/ | Biennial | No |
+| IDEA GSoD | https://idea.int/gsod/ | Annual | Yes |
+
+**Lag note:** External indices are annual and may lag current events by 6-18 months. DBS's rolling window provides more current assessment but may diverge from annual indices until they update.
 
 ---
 

@@ -618,6 +618,8 @@ Every report must include a glossary section that explains technical terms in ac
 | `coercion_information_disconnect` | Coercion-Information Disconnect | The government is using visible force or coercion while the media environment remains relatively open—a historically unstable configuration that often precedes either media crackdown or regime change. |
 | `institutional_resistance` | Institutional Resistance Active | Democratic institutions are actively pushing back against overreach—courts issuing injunctions, inspectors general publishing reports, or civil servants refusing unlawful orders. This is a positive indicator. |
 | `audit_degraded` | Electoral Oversight Compromised | The information environment has degraded to the point where it's difficult to independently verify what's happening with elections. Official claims cannot be reliably fact-checked. |
+| `bureaucratic_capture` | Bureaucratic Capture Active | Career civil servants can no longer implement policy based on expertise and law—they must follow political direction regardless of legality. Watchdog agencies have been neutralized. This is V-Dem's "executive aggrandizement" pattern. |
+| `subnational_entrenchment` | Coordinated Subnational Entrenchment | Multiple states are adopting similar anti-democratic measures (gerrymandering, voter restrictions, court-stripping) in a coordinated pattern. "Pockets of autocracy" are forming within the federal system. |
 
 ### Pathway Modes
 

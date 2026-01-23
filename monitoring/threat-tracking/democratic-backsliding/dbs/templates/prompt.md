@@ -388,6 +388,7 @@ Provide:
     - "Prosecutorial sword and shield active" if C3 ≥ 3 AND F6 ≥ 3 — legal dualism: executive immune while weaponizing prosecution against opponents; C1/C2 are remaining checks
     - "Legal system capture complete; judicial check failed" if C3 ≥ 3 AND F6 ≥ 3 AND (C1 ≥ 3 OR C2 ≥ 3) — compound flag indicating full legal capture with no judicial check remaining
     - "Expertise void; institutional memory and oversight neutralized" if (F1 ≥ 3 OR F3 ≥ 3) AND C4 ≥ 3 — hollow state pattern; lead indicator for C6 (kleptocracy) and D10 (governance dysfunction)
+    - "Bureaucratic capture active; horizontal accountability degraded" if F1 ≥ 3 AND C4 ≥ 3 — V-Dem "executive aggrandizement" pattern; agencies cannot implement policy independently
     - "Guardrail attrition on [checkpoint]; sustained institutional siege detected" if a checkpoint has Institutional Resistance Active for 3+ consecutive runs with base score ≥ 2 — requires Safeguard Resilience Assessment in interpretation
     - "High-velocity escalation detected; institutional response capacity may be trailing" if Δ DBS > 12 points within 30 days compared to prior comparable run — blitz pattern indicator
     - "High-velocity red-line breach; institutional response window compressed" if Δ DBS > 12 in 30 days AND any red-line checkpoint newly ≥ 3 — compound flag triggering accelerated monitoring
