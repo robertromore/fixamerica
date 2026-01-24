@@ -639,7 +639,7 @@ SECTION 6. WORKFORCE INVESTMENT.
 ## Related Topics
 
 - [Social Security](../social-security/11-legislation.md)
-- [Medicare](../medicare/11-legislation.md)
+- [Medicare](../../healthcare/medicare/11-legislation.md)
 - [Caregiving Workforce](../caregiving-workforce/11-legislation.md)
 - [Healthcare Access](../../healthcare/healthcare-access/11-legislation.md)
 

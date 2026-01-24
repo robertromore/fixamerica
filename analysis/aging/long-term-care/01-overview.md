@@ -153,7 +153,7 @@ Major reform approaches include:
 This topic relates closely to:
 
 - [Social Security](../social-security/01-overview.md) - Retirement income affects LTC financing
-- [Medicare](../medicare/01-overview.md) - Limited LTC role; potential expansion
+- [Medicare](../../healthcare/medicare/01-overview.md) - Limited LTC role; potential expansion
 - [Caregiving Workforce](../caregiving-workforce/01-overview.md) - Direct care worker issues
 - [Dementia](../dementia/01-overview.md) - Primary driver of LTC need
 - [Senior Poverty](../senior-poverty/01-overview.md) - LTC costs drive impoverishment

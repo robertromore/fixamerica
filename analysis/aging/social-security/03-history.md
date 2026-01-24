@@ -227,7 +227,7 @@ Major changes have only occurred during fiscal crises:
 | Trust fund depletion threat | 1977 | Tax increases, formula fix |
 | Imminent insolvency | 1983 | Bipartisan compromise |
 | DI depletion | 2015 | Reallocation from OASI |
-| 2034 projected depletion | ??? | TBD |
+| 2032 projected depletion | 2025-? | Pending legislative action |
 
 ### Bipartisan Tradition
 

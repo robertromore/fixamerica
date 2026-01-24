@@ -19,10 +19,10 @@ Figures in this section combine survey, administrative, and projection sources w
 | **Personal care aides** | 2.5 million | $14.93/hour | Home care |
 | **Home health aides** | 940,000 | $15.72/hour | Home health agencies |
 | **Nursing assistants** | 1.4 million | $17.41/hour | Nursing homes, hospitals |
-| **Psychiatric aides** | 50,000 | $17.92/hour | Psychiatric facilities |
-| **Total (rounded)** | 4.9 million | $15.77/hour | Various |
+| Psychiatric aides | 50,000 | $17.92/hour | Psychiatric facilities |
+| **Total (sum of listed occupations)** | 4.9 million | $15.77/hour | Various |
 
-Note: Includes psychiatric aides; some direct care definitions exclude this category.[^11]
+Note: The broader definition of direct care workers, including other roles not detailed here, is estimated at ~5.4 million (see 01-overview.md). This table includes psychiatric aides; some direct care definitions exclude this category.[^11]
 These counts highlight the concentration of employment in home care roles relative to institutional settings.[^1]
 
 ### Demographics[^2]
@@ -62,7 +62,7 @@ Education levels skew toward high school and some college, with substantial shar
 | Personal care aides | $11.71 | $14.93 | $19.46 |
 | Home health aides | $12.33 | $15.72 | $20.13 |
 | Nursing assistants | $13.66 | $17.41 | $22.82 |
-| All U.S. occupations (BLS OEWS) | $13.67 | $23.11 | $59.14 |
+| All U.S. occupations (BLS OEWS, across all industries) | $13.67 | $23.11 | $59.14 |
 
 Direct care wages cluster in the mid-teens, well below the national all-occupation median.[^1]
 

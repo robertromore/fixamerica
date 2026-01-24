@@ -30,7 +30,7 @@ SEC. 2. FINDINGS.
 Congress finds that—
 (1) Social Security provides retirement, disability, and survivor benefits to
     67 million Americans;
-(2) the Social Security trust funds face projected depletion by 2034 under
+(2) the Social Security trust funds face projected depletion by 2032 under
     current law;
 (3) benefit adequacy has eroded as the cost-of-living adjustment fails to
     reflect actual senior expenses; and

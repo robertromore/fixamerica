@@ -43,10 +43,10 @@ Adequacy Act".
 
 SEC. 2. FINDINGS.
 Congress finds that—
-(1) the Social Security trust funds face projected depletion by 2034
+(1) the Social Security trust funds face projected depletion by 2032
     under current law;
 (2) without legislative action, beneficiaries would face an automatic
-    benefit reduction of approximately 21 percent;
+    benefit reduction of approximately 23 percent;
 (3) Social Security provides essential income for 68 million Americans,
     including 51 million retired workers;
 (4) approximately 40 percent of elderly Americans rely on Social
@@ -247,7 +247,7 @@ Independence and Funding Act".
 
 SEC. 2. FINDINGS.
 Congress finds that—
-(1) the Social Security Administration serves 68 million beneficiaries;
+(1) the Social Security Administration serves 67 million beneficiaries;
 (2) SSA staffing is at its lowest level since 1972;
 (3) disability claim processing times exceed 200 days on average;
 (4) phone wait times average over 30 minutes;
@@ -557,7 +557,7 @@ States retain authority over:
 ## Related Topics
 
 - [Aging Policy: Legislation](../11-legislation.md)
-- [Medicare: Legislation](../medicare/11-legislation.md)
+- [Medicare: Legislation](../../healthcare/medicare/11-legislation.md)
 - [Long-Term Care: Legislation](../long-term-care/11-legislation.md)
 - [Senior Poverty: Legislation](../senior-poverty/11-legislation.md)
 - [Retirement Security: Legislation](../../labor/retirement-security/11-legislation.md)

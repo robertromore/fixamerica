@@ -223,7 +223,7 @@ The Board of Trustees issues annual reports and projections:
 
 | Issue | Position |
 |-------|----------|
-| **Trust fund depletion** | Will reach retirement around 2034 |
+| **Trust fund depletion** | Will reach retirement around 2032 |
 | **Retirement age** | Already increased to 67 |
 | **Benefit formula** | Want to know what to expect |
 | **Private savings** | Need to supplement Social Security |

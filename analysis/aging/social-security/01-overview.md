@@ -25,8 +25,8 @@ This analysis covers:
 | Average retirement benefit | $1,907/month | SSA, 2024 |
 | Maximum retirement benefit (2024) | $4,873/month | SSA, 2024 |
 | Seniors lifted above poverty | 27 million | CBPP, 2024 |
-| Trust fund depletion projected | 2034 | SSA Trustees, 2024 |
-| Shortfall after depletion | 21% benefit reduction | SSA Trustees, 2024 |
+| Trust fund depletion projected | 2032 | SSA Actuaries, Aug 2025 |
+| Shortfall after depletion | 23% benefit reduction | SSA Actuaries, Aug 2025 |
 
 ## Program Structure
 

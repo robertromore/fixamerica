@@ -2,7 +2,7 @@
 
 ## Strategic Approach
 
-Social Security reform requires a politically viable path that builds momentum, creates bipartisan cover, and achieves meaningful change before the 2034 trust fund depletion deadline. The roadmap sequences administrative actions, coalition building, and legislative strategy while recognizing the "third rail" political constraints.
+Social Security reform requires a politically viable path that builds momentum, creates bipartisan cover, and achieves meaningful change before the 2032 trust fund depletion deadline. The roadmap sequences administrative actions, coalition building, and legislative strategy while recognizing the "third rail" political constraints.
 
 ## Phase 1: Foundation (2025-2027)
 
@@ -85,7 +85,7 @@ Social Security reform requires a politically viable path that builds momentum, 
 | **Balance revenue and benefits** | Shared sacrifice messaging |
 | **Frame as strengthening** | Not "cutting" or "raising taxes" |
 
-## Phase 3: Comprehensive Reform (2031-2034)
+## Phase 3: Comprehensive Reform (2029-2032)
 
 ### Major Legislative Package
 
@@ -106,7 +106,7 @@ If Phase 2 package falls short, pursue comprehensive reform:
 | 2028 | 6 years to depletion | Moderate urgency |
 | 2030 | 4 years to depletion | High urgency |
 | 2032 | 2 years to depletion | Crisis mode |
-| 2034 | Depletion | Automatic 21% cut without action |
+| 2032 | Depletion | Automatic 23% cut without action |
 
 ### Alternative Pathways
 
@@ -123,8 +123,8 @@ If Phase 2 package falls short, pursue comprehensive reform:
 
 | Metric | Baseline | 2030 Target | 2035 Target |
 |--------|----------|-------------|-------------|
-| **75-year actuarial balance** | -3.50% of payroll | -1.50% | 0% (solvent) |
-| **Trust fund depletion date** | 2034 | 2050+ | Never |
+| **75-year actuarial balance** | -3.82% of payroll | -1.50% | 0% (solvent) |
+| **Trust fund depletion date** | 2032 | 2050+ | Never |
 | **Annual cash flow** | -$100B | Balanced | Positive |
 
 ### Adequacy Metrics
@@ -143,7 +143,7 @@ If Phase 2 package falls short, pursue comprehensive reform:
 | **Commission established** | By 2026 |
 | **Initial package passed** | By 2029 |
 | **Comprehensive reform** | By 2033 |
-| **Solvency achieved** | By 2034 |
+| **Solvency achieved** | By 2032 |
 
 ### Administrative Metrics
 

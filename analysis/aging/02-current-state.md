@@ -37,8 +37,10 @@ The aging population is becoming more diverse. By 2060, the non-Hispanic White s
 | Average retirement benefit | $1,907/month |
 | Share of seniors relying on SS for 50%+ income | 52% |
 | Share relying on SS for 90%+ income | 25% |
-| Trust fund depletion date | 2034 |
-| Projected shortfall after depletion | 21% benefit reduction |
+| Trust fund depletion date | 2032 |
+| Projected shortfall after depletion | 23% benefit reduction |
+
+→ *See [Social Security](social-security/01-overview.md) for detailed analysis of solvency challenges and reform proposals.*
 
 ### Retirement Savings
 
@@ -59,6 +61,8 @@ The aging population is becoming more diverse. By 2060, the non-Hispanic White s
 | Poverty rate, 65+ Hispanic | 17.4% |
 | Elder Economic Security Index (meeting basic needs) | 53% below |
 
+→ *See [Senior Poverty](senior-poverty/01-overview.md) for comprehensive analysis of economic insecurity among older adults.*
+
 ## Health and Medicare
 
 ### Medicare Coverage
@@ -72,6 +76,8 @@ The aging population is becoming more diverse. By 2060, the non-Hispanic White s
 | Spending per beneficiary | $15,000/year |
 | Part D enrollees | 52 million |
 | Average Part D premium | $55/month |
+
+→ *See [Medicare](../healthcare/medicare/01-overview.md) in the Healthcare section for detailed analysis of program structure, financing, and reforms.*
 
 ### Chronic Conditions
 
@@ -130,6 +136,8 @@ Average Medicare beneficiary has 4.5 chronic conditions, driving complexity and 
 
 Medicare pays for short-term skilled nursing after hospitalization but not custodial long-term care. Medicaid is the primary payer, but eligibility requires impoverishment.
 
+→ *See [Long-Term Care](long-term-care/01-overview.md) for detailed analysis of the "middle-income trap" and financing options.*
+
 ### HCBS Waitlists
 
 | State | Waitlist Size |
@@ -160,11 +168,13 @@ Medicare pays for short-term skilled nursing after hospitalization but not custo
 | Home health aides | 2.2 million |
 | Personal care aides | 1.3 million |
 | Nursing assistants | 1.5 million |
-| Median hourly wage | $15.77 |
+| Median hourly wage | $17.36 |
 | Annual turnover rate | 65% |
 | Poverty rate among care workers | 15% |
 | Share women | 87% |
 | Share people of color | 62% |
+
+→ *See [Caregiving Workforce](caregiving-workforce/01-overview.md) for detailed analysis of workforce shortages, wages, and working conditions.*
 
 ### Workforce Projections
 
@@ -201,6 +211,8 @@ Nursing homes accounted for over 200,000 COVID-19 deaths (23% of U.S. total) des
 | HCBS spending share | Oregon (78%), Minnesota (72%) | Mississippi (29%), Alabama (33%) |
 | Nursing home quality | Alaska, Hawaii | Texas, Louisiana |
 | Geriatricians per 10,000 65+ | Hawaii (3.8), DC (3.2) | Mississippi (0.8), Wyoming (0.9) |
+
+→ *See [Geriatric Workforce](geriatric-workforce/01-overview.md) for analysis of the critical shortage of geriatric specialists.*
 | Senior poverty rate | New Hampshire (5.7%), Minnesota (6.2%) | Mississippi (14.2%), Louisiana (13.1%) |
 
 ### Rural Challenges
@@ -211,6 +223,8 @@ Nursing homes accounted for over 200,000 COVID-19 deaths (23% of U.S. total) des
 | Hospital closures | 150+ rural hospitals closed since 2010 |
 | Transportation | 38% of rural seniors lack adequate transport |
 | Broadband | 25% of rural seniors lack internet access |
+
+→ *See [Technology](technology/01-overview.md) for analysis of the digital divide and telehealth access challenges.*
 | Nursing home closures | 600+ rural nursing homes closed since 2015 |
 
 ## Housing

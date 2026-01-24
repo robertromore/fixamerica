@@ -2,7 +2,7 @@
 
 ## Present Conditions
 
-Social Security operates as designed: collecting payroll taxes from current workers to pay benefits to current retirees. The program currently runs a small annual deficit that draws down accumulated trust fund reserves. Without legislative changes, the combined OASI and DI trust funds will be depleted by 2034, at which point incoming revenue will cover only about 79% of scheduled benefits.
+Social Security operates as designed: collecting payroll taxes from current workers to pay benefits to current retirees. The program currently runs a small annual deficit that draws down accumulated trust fund reserves. Without legislative changes, the combined OASI and DI trust funds will be depleted by 2032 (as accelerated by the 2025 "One Big Beautiful Bill Act"), at which point incoming revenue will cover only about 77% of scheduled benefits.
 
 ## Beneficiary Population
 
@@ -35,11 +35,12 @@ Social Security operates as designed: collecting payroll taxes from current work
 
 ### Trust Fund Balances (End of 2023)
 
-| Fund | Assets | Year of Depletion |
+| Fund | Assets | Year of Depletion (2025 Report) |
 |------|--------|-------------------|
 | OASI (retirement/survivors) | $2.7 trillion | 2033 |
 | DI (disability) | $68 billion | 2065 |
-| Combined | $2.8 trillion | 2034 |
+| Combined (per 2025 Trustees) | $2.8 trillion | 2034 |
+| Combined (after July 2025 legislation) | — | 2032 |
 
 ### Annual Cash Flow
 
@@ -62,9 +63,9 @@ Social Security operates as designed: collecting payroll taxes from current work
 |--------|----------------------------------------|
 | 2024-2033 (10 years) | -1.25% |
 | 2024-2048 (25 years) | -2.78% |
-| 2024-2098 (75 years) | -3.50% |
+| 2024-2098 (75 years) | -3.82% |
 
-The 75-year actuarial deficit of 3.50% of taxable payroll means that an immediate and permanent payroll tax increase of 3.50 percentage points (from 12.4% to 15.9%) would close the gap.
+The 75-year actuarial deficit of 3.82% of taxable payroll means that an immediate and permanent payroll tax increase of 3.82 percentage points (from 12.4% to 16.22%) would close the gap.
 
 ## Benefit Adequacy
 

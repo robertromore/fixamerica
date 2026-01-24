@@ -49,10 +49,10 @@ Opposition to Social Security reform comes from multiple directions, with differ
 
 **Reality**:
 
-- Trust fund depletion means 79% of scheduled benefits payable, not $0
+- Trust fund depletion means 77% of scheduled benefits payable, not $0
 - Program can always pay benefits from ongoing payroll taxes
 - "Bankruptcy" framing is technically incorrect; creates unnecessary fear
-- Modest changes can close the gap; actuarial shortfall is 3.5% of payroll
+- Modest changes can close the gap; actuarial shortfall is 3.82% of payroll
 
 **Who Uses This**: Those wanting to undermine confidence in social insurance; privatization advocates.
 
@@ -75,7 +75,7 @@ Opposition to Social Security reform comes from multiple directions, with differ
 
 **Reality**:
 
-- Even with no changes, system pays 79% of scheduled benefits indefinitely
+- Even with no changes, system pays 77% of scheduled benefits indefinitely
 - Political support remains overwhelming; reforms more likely than elimination
 - Modest changes would restore full solvency
 - Statement often used to justify eliminating program entirely

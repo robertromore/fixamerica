@@ -114,7 +114,7 @@ Citizens can influence Social Security policy through personal financial plannin
 
 **On Solvency:**
 
-> "I urge you to act now to strengthen Social Security before the 2034 trust fund depletion. A balanced approach with revenue increases and targeted benefit adjustments is preferable to waiting for an automatic 21% benefit cut. Please support bipartisan action."
+> "I urge you to act now to strengthen Social Security before the 2032 trust fund depletion. A balanced approach with revenue increases and targeted benefit adjustments is preferable to waiting for an automatic 23% benefit cut. Please support bipartisan action."
 
 **On Lifting the Cap:**
 
