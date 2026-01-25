@@ -2,6 +2,8 @@
 
 This proposal establishes a framework for coordinating healthcare policy, insurance markets, and patient care across Regional boundaries, ensuring a balance between Regional innovation and national standards for access, quality, and data portability.
 
+> **Related Conceptual Analysis:** [`06-policy-applications/01-healthcare.md`](../../06-policy-applications/01-healthcare.md)
+
 ---
 
 ## Purpose

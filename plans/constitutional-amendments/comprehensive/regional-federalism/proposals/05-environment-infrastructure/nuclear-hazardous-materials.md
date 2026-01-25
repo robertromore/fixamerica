@@ -4,7 +4,7 @@ This proposal clarifies federal and Regional authority over nuclear facilities,
 hazardous materials transport, and radioactive waste management to prevent
 regulatory gaps and ensure coordinated safety oversight.
 
-This proposal addresses [Gap 28 — Nuclear Facilities and Hazardous Materials Governance](../04-meta/02-identified-gaps.md)
+This proposal addresses [Gap 28 — Nuclear Facilities and Hazardous Materials Governance](../../04-meta/02-identified-gaps.md)
 by establishing clear jurisdictional boundaries and coordination mechanisms
 for safety-critical materials.
 
@@ -391,14 +391,14 @@ preempted.
 
 ## Related Documents
 
-- [Article II (Allocation of Powers)](../02-design/constitution/02-powers-and-rights.md) - Federal enumerated powers
-- [Gap 28 — Nuclear and Hazardous Materials](../04-meta/02-identified-gaps.md) - Gap analysis this proposal addresses
-- [Article I, Section 10 (Environmental Border Protection)](../02-design/constitution/01-regional-structure.md) - Related environmental provisions
-- [Allocation Framework Act](../05-implementation/03-allocation-framework-act.md) - Implementation of power allocation
+- [Article II (Allocation of Powers)](../../02-design/constitution/02-powers-and-rights.md) - Federal enumerated powers
+- [Gap 28 — Nuclear and Hazardous Materials](../../04-meta/02-identified-gaps.md) - Gap analysis this proposal addresses
+- [Article I, Section 10 (Environmental Border Protection)](../../02-design/constitution/01-regional-structure.md) - Related environmental provisions
+- [Allocation Framework Act](../../05-implementation/03-allocation-framework-act.md) - Implementation of power allocation
 
 ---
 
 ## Document Navigation
 
-- Previous: [Tribal-Regional Relations](../special-populations/tribal-regional-relations.md)
+- Previous: [Tribal-Regional Relations](../08-special-jurisdictions/tribal-regional-relations.md)
 - Parent: [Regional Federalism Proposals](../README.md)

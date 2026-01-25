@@ -388,15 +388,15 @@ Review Board established under Article II.
 
 ## Related Documents
 
-- [Regional Governance](../02-design/constitution/03-regional-governance.md) - Article IV context
-- [Authoritarian Scenario Analysis](../03-analysis/05-authoritarian-scenario.md) - Threat modeling
-- [Safeguards Playbook](../05-implementation/01-safeguards-playbook.md) - Implementation guidance
-- [Armed Forces and Civilian Control](../02-design/constitution/10-armed-forces.md) - Two-key authorization
-- [Emergency Powers](../02-design/constitution/11-emergency-powers.md) - Emergency authority limits
+- [Regional Governance](../../02-design/constitution/03-regional-governance.md) - Article IV context
+- [Authoritarian Scenario Analysis](../../03-analysis/05-authoritarian-scenario.md) - Threat modeling
+- [Safeguards Playbook](../../05-implementation/01-safeguards-playbook.md) - Implementation guidance
+- [Armed Forces and Civilian Control](../../02-design/constitution/10-armed-forces.md) - Two-key authorization
+- [Emergency Powers](../../02-design/constitution/11-emergency-powers.md) - Emergency authority limits
 - [De-Escalation Procedures Act](de-escalation-procedures-act.md) - Intervention procedures
 
 ---
 
 ## Document Navigation
-- Previous: [Territories Status Act](../special-populations/territories-status-act.md)
+- Previous: [Territories Status Act](../08-special-jurisdictions/territories-status-act.md)
 - Parent: [Regional Federalism Proposals](../README.md)

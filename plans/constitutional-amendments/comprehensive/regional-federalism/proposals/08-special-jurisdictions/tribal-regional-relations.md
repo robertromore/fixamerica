@@ -4,7 +4,7 @@ This proposal establishes constitutional and statutory provisions clarifying
 the relationship between tribal nations and Regional governments, preserving
 tribal sovereignty while creating clear governance structures.
 
-This proposal addresses [Gap 27 — Tribal-Regional Relations](../04-meta/02-identified-gaps.md)
+This proposal addresses [Gap 27 — Tribal-Regional Relations](../../04-meta/02-identified-gaps.md)
 by defining Regional-tribal interactions, governance for tribes spanning
 multiple Regions, and Regional government obligations to tribes.
 
@@ -109,7 +109,7 @@ dividing tribal territories unless tribes consent.
 Coordination compacts are mandatory for shared services, infrastructure, and
 emergency response, but participation in Regional governance remains voluntary.
 
-(a) **Mandatory Coordination Compacts.** Per Article XVIII, Section 3(d),
+(a) **Mandatory Coordination Compacts.** Per Article XX, Section 3(d),
 Regions and Tribal Nations shall enter into compacts for coordination of
 shared services, infrastructure, and emergency response. These compacts are
 constitutionally required and shall be negotiated in good faith.
@@ -368,8 +368,6 @@ Regional organization.
 
 (a) For any federal-regional council, board, or commission established by federal law whose policy domain directly and substantially affects Tribal lands, resources, or treaty rights, the President shall, in consultation with Tribal Nations, appoint at least one representative to serve as a full voting member representing the collective interests of Tribal Nations.
 
-
-
 ---
 
 ## Hostile Reinterpretation Stress Test
@@ -450,14 +448,15 @@ depend upon through treaty rights.
 
 ## Related Documents
 
-- [Article XX (Non-State Entities)](../02-design/constitution/06-supremacy.md) - Constitutional placement
-- [Gap 27 — Tribal-Regional Relations](../04-meta/02-identified-gaps.md) - Gap analysis this proposal addresses
-- [Article I, Section 4 (Boundary Review)](../02-design/constitution/01-regional-structure.md) - Boundary processes
-- [Article I, Section 7 (Water Rights)](../02-design/constitution/01-regional-structure.md) - Water provisions
-- [DLRS (Dual Legitimacy Rights Floor Statute)](dual-legitimacy-rights-floor-statute.md) - Rights floors and tribal applicability provisions (proposed Article III, Section 4)
+- [Article XX (Non-State Entities)](../../02-design/constitution/06-supremacy.md) - Constitutional placement
+- [Gap 27 — Tribal-Regional Relations](../../04-meta/02-identified-gaps.md) - Gap analysis this proposal addresses
+- [Article I, Section 4 (Boundary Review)](../../02-design/constitution/01-regional-structure.md) - Boundary processes
+- [Article I, Section 7 (Water Rights)](../../02-design/constitution/01-regional-structure.md) - Water provisions
+- [DLRS (Dual Legitimacy Rights Floor Statute)](../01-foundations/dual-legitimacy-rights-floor-statute.md) - Rights floors and tribal applicability provisions (proposed Article III, Section 4)
 
 ---
 
 ## Document Navigation
-- Previous: [Digital/AI Governance](../security-accountability/digital-ai-governance.md)
+
+- Previous: [Digital/AI Governance](../06-security-justice/digital-ai-governance.md)
 - Parent: [Regional Federalism Proposals](../README.md)

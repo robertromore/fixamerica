@@ -2,6 +2,8 @@
 
 This proposal establishes federal floors for K-12 educational standards in core subjects, facilitates student mobility and credit transfer between Regions, and promotes inter-regional collaboration in curriculum development, while respecting Regional autonomy.
 
+> **Related Conceptual Analysis:** [`06-policy-applications/09-education.md`](../../06-policy-applications/09-education.md)
+
 ---
 
 ## Purpose
@@ -154,5 +156,5 @@ Establish a framework for National K-12 Education Standards and Mobility that:
 
 ## Document Navigation
 
--   Previous: Performance-Based Civic Engagement Incentives Act
+-   Previous: [Performance-Based Civic Engagement Incentives Act](../02-elections-democracy/performance-based-civic-engagement-act.md)
 -   Parent: Regional Federalism Proposals

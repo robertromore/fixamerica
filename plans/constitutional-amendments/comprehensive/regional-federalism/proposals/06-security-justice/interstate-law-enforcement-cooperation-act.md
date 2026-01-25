@@ -517,12 +517,12 @@ non-cooperation is actionable.
 
 ## Related Documents
 
-- [Article I, Section 11](../02-design/constitution/01-regional-structure.md) - Constitutional foundation
-- [Judiciary Reform](../02-design/07-judiciary.md) - Federal court jurisdiction
-- [Identified Gaps](../04-meta/02-identified-gaps.md) - Related gap analysis
+- [Article I, Section 11](../../02-design/constitution/01-regional-structure.md) - Constitutional foundation
+- [Judicial Reform](../../02-design/single-topic/judicial-reform.md) - Article XIV standalone; RF supplement at [09-judiciary.md](../../02-design/constitution/09-judiciary.md)
+- [Identified Gaps](../../04-meta/02-identified-gaps.md) - Related gap analysis
 
 ---
 
 ## Document Navigation
-- Previous: [Transboundary Environmental Protection Act](../environmental-resources/transboundary-environmental-protection-act.md)
+- Previous: [Transboundary Environmental Protection Act](../05-environment-infrastructure/transboundary-environmental-protection-act.md)
 - Parent: [Regional Federalism Proposals](../README.md)

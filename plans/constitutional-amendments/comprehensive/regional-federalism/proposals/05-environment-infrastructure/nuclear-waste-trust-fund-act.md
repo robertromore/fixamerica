@@ -148,9 +148,9 @@ Establish a Nuclear Waste Trust Fund and Accountability Framework that:
 
 ## Related Documents
 
-- [Nuclear Facilities and Hazardous Materials Governance Act](../environmental-resources/nuclear-hazardous-materials.md) - Provides context for federal and Regional authority over nuclear materials.
+- [Nuclear Facilities and Hazardous Materials Governance Act](../05-environment-infrastructure/nuclear-hazardous-materials.md) - Provides context for federal and Regional authority over nuclear materials.
 - [Host Community Nuclear Waste Protection Act](host-community-nuclear-waste-protection-act.md) - Further details host community protections.
-- [International Nuclear Waste Treaty Ratification Act](international-nuclear-waste-treaty-ratification-act.md) - Addresses international aspects of waste management.
+- [International Nuclear Waste Treaty Act](international-nuclear-waste-treaty-act.md) - Addresses international aspects of waste management.
 
 ---
 

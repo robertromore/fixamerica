@@ -367,14 +367,14 @@ prevent indefinite occupation; compliance triggers automatic return.
 
 ## Related Documents
 
-- [Article I, Section 6](../02-design/constitution/01-regional-structure.md) - Constitutional foundation
-- [Allocation Review Board](../02-design/07-judiciary.md) - Mediation authority
-- [Fiscal Equalization](../02-design/constitution/04-fiscal-system.md) - Anti-Coercion Rule (equalization transfers may not be withheld)
-- [Identified Gaps](../04-meta/02-identified-gaps.md) - Related gap analysis
+- [Article I, Section 6](../../02-design/constitution/01-regional-structure.md) - Constitutional foundation
+- [Allocation Review Board](../../02-design/constitution/02-powers-and-rights.md) - Article II, Section 5 establishes ARB
+- [Fiscal Equalization](../../02-design/constitution/04-fiscal-system.md) - Anti-Coercion Rule (equalization transfers may not be withheld)
+- [Identified Gaps](../../04-meta/02-identified-gaps.md) - Related gap analysis
 
 ---
 
 ## Document Navigation
 
-- Previous: [Interregional Coordination Review Act](../governance-structure/interregional-coordination-review-act.md)
+- Previous: [Interregional Coordination Review Act](../01-foundations/interregional-coordination-review-act.md)
 - Parent: [Regional Federalism Proposals](../README.md)

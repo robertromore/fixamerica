@@ -454,15 +454,15 @@ multiple actors' complicity and is legally challengeable.
 
 ## Related Documents
 
-- [Article XII, Section 3](../02-design/constitution/05-safeguards.md) - Constitutional foundation
-- [Safeguards Playbook](../05-implementation/01-safeguards-playbook.md) - Implementation guidance
-- [Hostile Reinterpretation Stress Test](../03-analysis/04-hostile-reinterpretation.md) - Related analysis
-- [Armed Forces and Civilian Control](../02-design/06-armed-forces.md) - Two-key authorization context
+- [Article XII, Section 3](../../02-design/constitution/05-safeguards.md) - Constitutional foundation
+- [Safeguards Playbook](../../05-implementation/01-safeguards-playbook.md) - Implementation guidance
+- [Hostile Reinterpretation Stress Test](../../03-analysis/04-hostile-reinterpretation.md) - Related analysis
+- [Armed Forces and Civilian Control](../../02-design/single-topic/military-civilian-control.md) - Two-key authorization context; RF supplement at [10-armed-forces.md](../../02-design/constitution/10-armed-forces.md)
 - [Regional Guard Force Accountability Proposal](regional-guard-accountability.md) - Guard oversight
 
 ---
 
 ## Document Navigation
 
-- Previous: [Dual-Legitimacy Rights-Floor Statute](../governance-structure/dual-legitimacy-rights-floor-statute.md)
+- Previous: [Dual-Legitimacy Rights-Floor Statute](dual-legitimacy-rights-floor-statute.md)
 - Parent: [Regional Federalism Proposals](../README.md)

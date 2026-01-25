@@ -526,7 +526,6 @@ That is the logic of allocation in a regional federal system.
 - [Regional Federal Constitution](constitution/00-index.md) - Authoritative source for all power allocations
 - [Core Idea: Regional Federalism](../01-foundation/01-core-idea.md)
 - [Stress-Testing Policy Conflicts](../03-analysis/01-stress-testing-policy.md)
-- [Federalism Reform Analysis](../../analysis/political/federalism-reform/01-overview.md)
 
 ---
 

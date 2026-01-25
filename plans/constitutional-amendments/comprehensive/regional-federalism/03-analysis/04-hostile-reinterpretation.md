@@ -424,7 +424,7 @@ Invisible abuse becomes legally visible.
 
 ## 12. Attack Surface 9: DLRS Manipulation (If Adopted)
 
-> **Note:** The Dual-Legitimacy Rights-Floor Statute (DLRS) is currently a proposal, not yet incorporated into the constitution. This section analyzes attack vectors that would apply if the [DLRS Proposal](../proposals/dual-legitimacy-rights-floor-statute.md) is adopted. For the current constitutional text, see [Article III (Powers and Rights)](../02-design/constitution/02-powers-and-rights.md).
+> **Note:** The Dual-Legitimacy Rights-Floor Statute (DLRS) is currently a proposal, not yet incorporated into the constitution. This section analyzes attack vectors that would apply if the [DLRS Proposal](../proposals/01-foundations/dual-legitimacy-rights-floor-statute.md) is adopted. For the current constitutional text, see [Article III (Powers and Rights)](../02-design/constitution/02-powers-and-rights.md).
 
 ### 12.1 The attack
 
@@ -457,7 +457,7 @@ The DLRS proposal includes safeguards against each attack vector:
 - **Abstention-neutral ratification**
   Abstaining Regions don't count against threshold; obstruction through inaction fails.
 
-See the [DLRS Proposal](../proposals/dual-legitimacy-rights-floor-statute.md) for full text of these provisions.
+See the [DLRS Proposal](../proposals/01-foundations/dual-legitimacy-rights-floor-statute.md) for full text of these provisions.
 
 ---
 
@@ -569,7 +569,7 @@ That is what constitutional resilience looks like under hostile conditions.
 - [Judiciary and Constitutional Enforcement](../02-design/07-judiciary.md)
 - [Secession, Nullification, and De-Escalation](../02-design/08-secession-nullification.md)
 - [Powers and Rights](../02-design/constitution/02-powers-and-rights.md)
-- [DLRS Proposal](../proposals/dual-legitimacy-rights-floor-statute.md) - Proposed sub-constitutional mechanism (not yet adopted)
+- [DLRS Proposal](../proposals/01-foundations/dual-legitimacy-rights-floor-statute.md) - Proposed sub-constitutional mechanism (not yet adopted)
 - [Stress-Testing Policy Conflicts](01-stress-testing-policy.md)
 - [Stress-Testing Economic Conflicts](02-stress-testing-economic.md)
 - [Historical Failure Analysis](03-historical-failures.md)

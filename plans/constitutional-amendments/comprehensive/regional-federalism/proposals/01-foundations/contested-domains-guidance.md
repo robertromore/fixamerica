@@ -6,9 +6,9 @@ silent: reproductive rights, firearms policy, and educational standards.
 
 This guidance addresses:
 
-- [Gap 29 — Reproductive Rights Regional Divergence](../04-meta/02-identified-gaps.md)
-- [Gap 30 — Firearms Policy Coordination](../04-meta/02-identified-gaps.md)
-- [Gap 32 — Educational Standards Divergence](../04-meta/02-identified-gaps.md)
+- [Gap 29 — Reproductive Rights Regional Divergence](../../04-meta/02-identified-gaps.md)
+- [Gap 30 — Firearms Policy Coordination](../../04-meta/02-identified-gaps.md)
+- [Gap 32 — Educational Standards Divergence](../../04-meta/02-identified-gaps.md)
 
 ---
 
@@ -354,16 +354,16 @@ through:
 
 ## Related Documents
 
-- [Article II (Allocation of Powers)](../02-design/constitution/02-powers-and-rights.md) - Regional authority basis
+- [Article II (Allocation of Powers)](../../02-design/constitution/02-powers-and-rights.md) - Regional authority basis
 - [DLRS Proposal](dual-legitimacy-rights-floor-statute.md) - Proposed floor mechanism (not yet adopted)
-- [Article I, Section 8 (Freedom of Movement)](../02-design/constitution/01-regional-structure.md) - Travel protections
-- [Article I, Section 9 (Mutual Recognition)](../02-design/constitution/01-regional-structure.md) - Credential recognition
-- [Gap 29 — Reproductive Rights](../04-meta/02-identified-gaps.md) - Gap analysis
-- [Gap 30 — Firearms Policy](../04-meta/02-identified-gaps.md) - Gap analysis
-- [Gap 32 — Educational Standards](../04-meta/02-identified-gaps.md) - Gap analysis
+- [Article I, Section 8 (Freedom of Movement)](../../02-design/constitution/01-regional-structure.md) - Travel protections
+- [Article I, Section 9 (Mutual Recognition)](../../02-design/constitution/01-regional-structure.md) - Credential recognition
+- [Gap 29 — Reproductive Rights](../../04-meta/02-identified-gaps.md) - Gap analysis
+- [Gap 30 — Firearms Policy](../../04-meta/02-identified-gaps.md) - Gap analysis
+- [Gap 32 — Educational Standards](../../04-meta/02-identified-gaps.md) - Gap analysis
 
 ---
 
 ## Document Navigation
-- Previous: [Nuclear and Hazardous Materials](../environmental-resources/nuclear-hazardous-materials.md)
+- Previous: [Nuclear and Hazardous Materials](../05-environment-infrastructure/nuclear-hazardous-materials.md)
 - Parent: [Regional Federalism Proposals](../README.md)

@@ -2,6 +2,8 @@
 
 This proposal defines a clear, limited, and principled scope for federal criminal law, focusing on genuinely inter-regional and national issues, and prevents federal overreach into matters best handled by Regional justice systems.
 
+> **Related Conceptual Analysis:** [`06-policy-applications/04-drug-policy.md`](../../06-policy-applications/04-drug-policy.md), [`05-firearms.md`](../../06-policy-applications/05-firearms.md), [`07-criminal-justice.md`](../../06-policy-applications/07-criminal-justice.md)
+
 ---
 
 ## Purpose
@@ -163,5 +165,5 @@ Establish a Federal Criminal Code Modernization and Jurisdiction Act that:
 
 ## Document Navigation
 
-- Previous: Digital and AI Governance
+- Previous: [Digital and AI Governance](digital-ai-governance.md)
 - Parent: Regional Federalism Proposals

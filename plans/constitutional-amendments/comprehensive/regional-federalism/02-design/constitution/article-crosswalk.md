@@ -17,18 +17,18 @@ This document provides a canonical mapping of all constitutional article numbers
 | III | Rights Floors and Subsidiarity | [02-powers-and-rights.md](02-powers-and-rights.md) | RF Core |
 | IV | The Legislative Branch | [03-regional-governance.md](03-regional-governance.md) | RF Core |
 | V | The Executive Branch | [03-regional-governance.md](03-regional-governance.md) | RF Core |
-| VI | *Reserved* | — | — |
-| VII | Elections | [single-topic/election-reform/](../../../../single-topic/election-reform/) | Standalone |
-| VIII | Impeachment | [single-topic/impeachment-reform/](../../../../single-topic/impeachment-reform/) | Standalone |
-| IX | Lobbying and Anti-Corruption | [single-topic/lobbying-reform/](../../../../single-topic/lobbying-reform/) | Standalone |
+| VI | *Reserved* | — | Reserved for future use; maintains numbering continuity |
+| VII | Elections | [single-topic/election-reform.md](../single-topic/election-reform.md) | Standalone |
+| VIII | Impeachment | [single-topic/impeachment-reform.md](../single-topic/impeachment-reform.md) | Standalone |
+| IX | Lobbying and Anti-Corruption | [single-topic/lobbying-reform.md](../single-topic/lobbying-reform.md) | Standalone |
 | X | Fiscal System | [04-fiscal-system.md](04-fiscal-system.md) | RF Core |
-| XI | Armed Forces | [single-topic/military-civilian-control/](../../../../single-topic/military-civilian-control/) | Standalone + RF Supplement |
+| XI | Armed Forces | [single-topic/military-civilian-control.md](../single-topic/military-civilian-control.md) | Standalone + RF Supplement |
 | XII | Secession and De-Escalation | [05-safeguards.md](05-safeguards.md) | RF Core |
 | XIII | Constitutional Amendments | [05-safeguards.md](05-safeguards.md) | RF Core |
-| XIV | Judicial Reform | [single-topic/judicial-reform/](../../../../single-topic/judicial-reform/) | Standalone + RF Supplement |
-| XV | Federal Reserve | [single-topic/federal-reserve-reform/](../../../../single-topic/federal-reserve-reform/) | Standalone |
-| XVI | Cyber and Digital Defense | [single-topic/cyber-defense/](../../../../single-topic/cyber-defense/) | Standalone |
-| XVII | Emergency Powers | [single-topic/emergency-powers-reform/](../../../../single-topic/emergency-powers-reform/) | Standalone + RF Supplement |
+| XIV | Judicial Reform | [single-topic/judicial-reform.md](../single-topic/judicial-reform.md) | Standalone + RF Supplement |
+| XV | Federal Reserve | [single-topic/federal-reserve-reform.md](../single-topic/federal-reserve-reform.md) | Standalone |
+| XVI | Cyber and Digital Defense | [single-topic/cyber-defense.md](../single-topic/cyber-defense.md) | Standalone |
+| XVII | Emergency Powers | [single-topic/emergency-powers-reform.md](../single-topic/emergency-powers-reform.md) | Standalone + RF Supplement |
 | XVIII | Supremacy and Interpretation | [06-supremacy.md](06-supremacy.md) | RF Core |
 | XIX | Ratification and Transition | [06-supremacy.md](06-supremacy.md) | RF Core |
 | XX | Non-State Entities | [06-supremacy.md](06-supremacy.md) | RF Core |
@@ -45,14 +45,14 @@ These articles are part of the Regional Federal Constitution and require Regiona
 
 | Article | Section | Content | File |
 |---------|---------|---------|------|
-| **I** | 1-12 | Regions, boundaries, cooperation, water rights, transit, environment | [01-regional-structure.md](01-regional-structure.md) |
-| **II** | 1-5 | Federal/Regional/State powers, non-concurrency, ARB | [02-powers-and-rights.md](02-powers-and-rights.md) |
+| **I** | 1-14 + Schedule A | Regions, boundaries, cooperation, water rights, transit, data sovereignty, environment, law enforcement, compacts, professional credentials; Schedule A defines initial Regional boundaries | [01-regional-structure.md](01-regional-structure.md) |
+| **II** | 1-7 | Federal/Regional/State powers, non-concurrency, exclusive domains, equivalence exemptions, ARB | [02-powers-and-rights.md](02-powers-and-rights.md) |
 | **III** | 1-3 | Floors not ceilings, subsidiarity, hierarchy of law | [02-powers-and-rights.md](02-powers-and-rights.md) |
 | **IV** | 1-5 | Congress, House, Senate, lawmaking | [03-regional-governance.md](03-regional-governance.md) |
 | **V** | 1-2 | Presidency, executive authority | [03-regional-governance.md](03-regional-governance.md) |
-| **X** | 1-4 | Revenue, expenditure, equalization, anti-coercion | [04-fiscal-system.md](04-fiscal-system.md) |
+| **X** | 1-11, 3-A | Revenue, equalization, anti-coercion, IFC, debt discipline, conservatorship, receivership, stabilization, intervention hierarchy, subsidiarity | [04-fiscal-system.md](04-fiscal-system.md) |
 | **XII** | 1-3 | Secession prohibition, nullification, de-escalation | [05-safeguards.md](05-safeguards.md) |
-| **XIII** | 1-2 | Amendment procedures | [05-safeguards.md](05-safeguards.md) |
+| **XIII** | 1-7 | Amendment procedures, referendum immunity | [05-safeguards.md](05-safeguards.md) |
 | **XVIII** | 1-3 | Supremacy, floors not ceilings, interpretive conventions | [06-supremacy.md](06-supremacy.md) |
 | **XIX** | 1-3 | Ratification, transition, activation | [06-supremacy.md](06-supremacy.md) |
 | **XX** | 1-3 | D.C., territories, tribal nations | [06-supremacy.md](06-supremacy.md) |
@@ -65,14 +65,14 @@ These articles are standalone constitutional amendments that work with OR withou
 
 | Article | Topic | Location | RF Supplement? |
 |---------|-------|----------|----------------|
-| **VII** | Elections | [single-topic/election-reform/](../../../../single-topic/election-reform/) | No—works same with States or Regions |
-| **VIII** | Impeachment | [single-topic/impeachment-reform/](../../../../single-topic/impeachment-reform/) | No |
-| **IX** | Lobbying/Anti-Corruption | [single-topic/lobbying-reform/](../../../../single-topic/lobbying-reform/) | No |
-| **XI** | Armed Forces | [single-topic/military-civilian-control/](../../../../single-topic/military-civilian-control/) | Yes: [10-armed-forces.md](10-armed-forces.md) |
-| **XIV** | Judicial Reform | [single-topic/judicial-reform/](../../../../single-topic/judicial-reform/) | Yes: [09-judiciary.md](09-judiciary.md) |
-| **XV** | Federal Reserve | [single-topic/federal-reserve-reform/](../../../../single-topic/federal-reserve-reform/) | No |
-| **XVI** | Cyber Defense | [single-topic/cyber-defense/](../../../../single-topic/cyber-defense/) | No |
-| **XVII** | Emergency Powers | [single-topic/emergency-powers-reform/](../../../../single-topic/emergency-powers-reform/) | Yes: [11-emergency-powers.md](11-emergency-powers.md) |
+| **VII** | Elections | [single-topic/election-reform.md](../single-topic/election-reform.md) | No—works same with States or Regions |
+| **VIII** | Impeachment | [single-topic/impeachment-reform.md](../single-topic/impeachment-reform.md) | No |
+| **IX** | Lobbying/Anti-Corruption | [single-topic/lobbying-reform.md](../single-topic/lobbying-reform.md) | No |
+| **XI** | Armed Forces | [single-topic/military-civilian-control.md](../single-topic/military-civilian-control.md) | Yes: [10-armed-forces.md](10-armed-forces.md) |
+| **XIV** | Judicial Reform | [single-topic/judicial-reform.md](../single-topic/judicial-reform.md) | Yes: [09-judiciary.md](09-judiciary.md) |
+| **XV** | Federal Reserve | [single-topic/federal-reserve-reform.md](../single-topic/federal-reserve-reform.md) | No |
+| **XVI** | Cyber Defense | [single-topic/cyber-defense.md](../single-topic/cyber-defense.md) | No |
+| **XVII** | Emergency Powers | [single-topic/emergency-powers-reform.md](../single-topic/emergency-powers-reform.md) | Yes: [11-emergency-powers.md](11-emergency-powers.md) |
 
 ### RF Supplement Articles
 
@@ -106,9 +106,9 @@ Link to the appropriate file in this directory.
 For standalone amendments, cite the article but link to the standalone plan:
 
 ```
-Article VII (Elections) — see single-topic/election-reform/
-Article XIV (Judicial Reform) — see single-topic/judicial-reform/
-Article XVII (Emergency Powers) — see single-topic/emergency-powers-reform/
+Article VII (Elections) — see single-topic/election-reform.md
+Article XIV (Judicial Reform) — see single-topic/judicial-reform.md
+Article XVII (Emergency Powers) — see single-topic/emergency-powers-reform.md
 ```
 
 **Do NOT link these to `constitution/00-index.md`** — they are not in this directory.
@@ -127,8 +127,8 @@ Article XI-RF, Section 2 (Regional Guard Forces) — see 10-armed-forces.md
 For provisions not yet incorporated into the Constitution, cite the proposal:
 
 ```
-DLRS (proposed Article III, Section 4) — see proposals/dual-legitimacy-rights-floor-statute.md
-Senate Safeguard Concurrence (proposed Article IV, Section 4-A) — see proposals/senate-safeguard-concurrence-act.md
+DLRS (proposed Article III, Section 4) — see proposals/01-foundations/dual-legitimacy-rights-floor-statute.md
+Senate Safeguard Concurrence (proposed Article IV, Section 4-A) — see proposals/01-foundations/senate-safeguard-concurrence-act.md
 ```
 
 ---
@@ -178,7 +178,7 @@ Senate Safeguard Concurrence (proposed Article IV, Section 4-A) — see proposal
 
 - [Constitution Index](00-index.md) - Overview of this directory
 - [Complete Constitution](../constitution.md) - All articles combined
-- [Standalone Amendments](../../../../single-topic/) - Independent reform plans
+- [Standalone Amendments](../single-topic/) - Independent reform plans
 
 ---
 

@@ -278,11 +278,11 @@ Presidential elections shall use ranked-choice voting (instant runoff) as the un
 - Simplified national tabulation
 - Reduced litigation risk from method conflicts
 
-The constitutional default runoff (Article XVII, Section 2(c)) applies only if Congress repeals this Act without enacting a replacement majority mechanism.
+The constitutional default runoff (Article XXI, Section 2(c)) applies only if Congress repeals this Act without enacting a replacement majority mechanism.
 
 ### 5.5 Constitutional Fallback
 
-If this Act is repealed and Congress does not enact a replacement majority mechanism, the constitutional default (Article XVII, Section 2(c)) applies:
+If this Act is repealed and Congress does not enact a replacement majority mechanism, the constitutional default (Article XXI, Section 2(c)) applies:
 
 - Runoff election between the top two candidates
 - Held within 21 days of initial election

@@ -8,10 +8,10 @@ This proposal re-establishes and clarifies the constitutional balance of power b
 
 Establish a War Powers and National Security Act that:
 
--   Reforms the process for authorizing the use of military force (AUMF).
--   Provides clear definitions for "hostilities" and "imminent threat" to limit unilateral presidential action.
--   Establishes a National Security Advisory Council to ensure consultation with Regional governments on matters of war and peace.
--   Strengthens congressional oversight and public transparency regarding the use of military force.
+- Reforms the process for authorizing the use of military force (AUMF).
+- Provides clear definitions for "hostilities" and "imminent threat" to limit unilateral presidential action.
+- Establishes a National Security Advisory Council to ensure consultation with Regional governments on matters of war and peace.
+- Strengthens congressional oversight and public transparency regarding the use of military force.
 
 ---
 
@@ -112,9 +112,9 @@ Establish a War Powers and National Security Act that:
 
 **Countermeasure:**
 
--   **Strict Definition (Section 11(b)):** The Act provides a clear, narrow definition of "imminent threat" requiring specificity, credibility, and immediacy.
--   **60-Day Limit (Section 13):** Even if the initial action is justified, it cannot continue beyond 60 days without congressional authorization, regardless of the threat.
--   **Reporting Requirements (Section 12(b)):** The President must publicly justify the action to Congress and the Council within 48 hours.
+- **Strict Definition (Section 11(b)):** The Act provides a clear, narrow definition of "imminent threat" requiring specificity, credibility, and immediacy.
+- **60-Day Limit (Section 13):** Even if the initial action is justified, it cannot continue beyond 60 days without congressional authorization, regardless of the threat.
+- **Reporting Requirements (Section 12(b)):** The President must publicly justify the action to Congress and the Council within 48 hours.
 
 **Outcome:** The strict definition and hard time limit prevent a president from using a vague threat to wage an open-ended, unauthorized war.
 
@@ -126,9 +126,9 @@ Establish a War Powers and National Security Act that:
 
 **Countermeasure:**
 
--   **AUMF Specificity (Section 2):** All new AUMFs must name the specific adversaries and geographic scope.
--   **Sunset Clause (Section 2):** All new AUMFs automatically expire after two years, forcing a public debate and re-authorization for any continued conflict.
--   **Repeal of Old AUMFs (Section 3):** Eliminates the old, overly broad AUMFs that have been used for this purpose.
+- **AUMF Specificity (Section 2):** All new AUMFs must name the specific adversaries and geographic scope.
+- **Sunset Clause (Section 2):** All new AUMFs automatically expire after two years, forcing a public debate and re-authorization for any continued conflict.
+- **Repeal of Old AUMFs (Section 3):** Eliminates the old, overly broad AUMFs that have been used for this purpose.
 
 **Outcome:** The structure of new AUMFs makes it impossible to legally expand a conflict beyond its original, congressionally approved scope and duration.
 
@@ -140,8 +140,8 @@ Establish a War Powers and National Security Act that:
 
 **Countermeasure:**
 
--   **Political Costs:** The Council includes the leadership of both parties in Congress and representatives from all Regions. Ignoring their collective advice on a matter of war creates significant political risk and undermines public support.
--   **Transparency:** While consultations may be classified, the fact that they occurred is public. Regional Governors and congressional leaders can publicly signal their opposition, even if they cannot reveal details.
+- **Political Costs:** The Council includes the leadership of both parties in Congress and representatives from all Regions. Ignoring their collective advice on a matter of war creates significant political risk and undermines public support.
+- **Transparency:** While consultations may be classified, the fact that they occurred is public. Regional Governors and congressional leaders can publicly signal their opposition, even if they cannot reveal details.
 
 **Outcome:** The Council's power is political, not legal. It forces a President to confront opposition from the entire country's leadership structure before taking military action, raising the political threshold for war.
 
@@ -159,13 +159,13 @@ Establish a War Powers and National Security Act that:
 
 ## Related Documents
 
--   De-Escalation Procedures Act - Governs the use of force *domestically*.
--   Federal-Regional Intelligence Sharing and Oversight Act - Relates to the intelligence used for national security decisions.
--   Regional Guard Accountability Act - Governs the use of Regional forces.
+- De-Escalation Procedures Act - Governs the use of force *domestically*.
+- Federal-Regional Intelligence Sharing and Oversight Act - Relates to the intelligence used for national security decisions.
+- Regional Guard Accountability Act - Governs the use of Regional forces.
 
 ---
 
 ## Document Navigation
 
--   Previous: National Cybersecurity and Critical Digital Infrastructure Protection Act
--   Parent: Regional Federalism Proposals
+- Previous: [National Cybersecurity and Critical Digital Infrastructure Protection Act](national-cybersecurity-and-critical-digital-infrastructure-protection-act.md)
+- Parent: Regional Federalism Proposals

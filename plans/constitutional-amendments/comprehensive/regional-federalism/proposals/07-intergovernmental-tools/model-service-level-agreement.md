@@ -266,5 +266,3 @@ Title: [Title]
 ## Document Navigation
 - Previous: [Pre-Cleared Compact Templates Act](pre-cleared-compact-templates-act.md)
 - Parent: [Regional Federalism Proposals](../README.md)
-
-```

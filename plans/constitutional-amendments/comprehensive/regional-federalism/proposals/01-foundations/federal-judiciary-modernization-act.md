@@ -165,5 +165,5 @@ Establish a Federal Judiciary Modernization Act that:
 
 ## Document Navigation
 
-- Previous: Senate Safeguard Concurrence Act
+- Previous: [Senate Safeguard Concurrence Act](senate-safeguard-concurrence-act.md)
 - Parent: Regional Federalism Proposals

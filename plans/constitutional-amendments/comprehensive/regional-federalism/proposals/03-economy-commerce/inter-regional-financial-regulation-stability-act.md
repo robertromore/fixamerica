@@ -161,10 +161,10 @@ Establish a framework for Inter-Regional Financial Regulation and Stability that
 
 ## Related Documents
 
-- [Allocation Framework Act](../fiscal/allocation-framework-act.md) - Defines how jurisdictional powers are allocated.
-- [Fiscal Equalization Act](../fiscal/fiscal-equalization-act.md) - Addresses fiscal equity, indirectly related to financial stability.
+- [Allocation Framework Act](../01-foundations/allocation-framework-act.md) - Defines how jurisdictional powers are allocated.
+- [Fiscal Equalization Act](../03-economy-commerce/fiscal-equalization-act.md) - Addresses fiscal equity, indirectly related to financial stability.
 - [Inter-Regional Commerce and Trade Act](inter-regional-commerce-trade-act.md) - Broader economic framework.
-- [Inter-Regional Joint Authority: Constitutional Default Template](../interregional-coordination/interregional-joint-authority-template.md) - Provides a model for inter-regional compacts.
+- [Inter-Regional Joint Authority: Constitutional Default Template](../07-intergovernmental-tools/interregional-joint-authority-template.md) - Provides a model for inter-regional compacts.
 
 ---
 

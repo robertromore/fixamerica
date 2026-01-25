@@ -2,13 +2,13 @@
 
 ## Regional Federalism Supplement to Emergency Powers Reform
 
-*This document contains ONLY the region-dependent provisions for emergency powers under Regional Federalism. For the complete emergency powers reform, see the [Emergency Powers Reform Amendment](../../../../single-topic/emergency-powers-reform/).*
+*This document contains ONLY the region-dependent provisions for emergency powers under Regional Federalism. For the complete emergency powers reform, see the [Emergency Powers Reform Amendment](../single-topic/emergency-powers-reform.md).*
 
 ---
 
 ## Compatibility Clause
 
-This article presumes adoption of the [Emergency Powers Reform Amendment](../../../../single-topic/emergency-powers-reform/) or an equivalent provision establishing:
+This article presumes adoption of the [Emergency Powers Reform Amendment](../single-topic/emergency-powers-reform.md) or an equivalent provision establishing:
 
 - categorized emergency powers (natural disaster, public health, economic, security, constitutional crisis)
 - enumerated powers by category
@@ -62,7 +62,7 @@ The Emergency Powers Reform Amendment works with either the existing federal/sta
 
 (b) Regional Governors may request federal emergency assistance. Such requests do not require Regional emergency declaration.
 
-(c) Regional Guard Forces may be deployed under Regional emergency authority without federal approval, subject to the limitations in Article XV-RF.
+(c) Regional Guard Forces may be deployed under Regional emergency authority without federal approval, subject to the limitations in Article XI-RF.
 
 ---
 
@@ -94,7 +94,7 @@ Regional legislatures provide democratic accountability for Regional emergency m
 
 ### Relationship to Emergency Powers Reform Amendment
 
-The core reforms (categories, powers, time limits, judicial review, restoration mandate, habeas corpus protections) are in the standalone [Emergency Powers Reform Amendment](../../../../single-topic/emergency-powers-reform/). That amendment:
+The core reforms (categories, powers, time limits, judicial review, restoration mandate, habeas corpus protections) are in the standalone [Emergency Powers Reform Amendment](../single-topic/emergency-powers-reform.md). That amendment:
 
 - Works with the existing federal/state system
 - Does not require Regional Federalism
@@ -110,7 +110,7 @@ This Regional Emergency Authority article adds:
 
 ## Related Documents
 
-- [Emergency Powers Reform Amendment](../../../../single-topic/emergency-powers-reform/) - National core reform (required companion)
+- [Emergency Powers Reform Amendment](../single-topic/emergency-powers-reform.md) - National core reform (required companion)
 - [Index](00-index.md) - Constitution overview
 - [Armed Forces](10-armed-forces.md) - Regional Guard deployment
 - [Judiciary](09-judiciary.md) - Regional Supreme Court

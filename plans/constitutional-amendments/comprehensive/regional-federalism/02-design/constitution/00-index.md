@@ -32,9 +32,9 @@ These files contain ONLY the region-dependent provisions. They require adoption 
 
 | RF Supplement | Content | Requires |
 |---------------|---------|----------|
-| [09-judiciary.md](09-judiciary.md) | Regional courts tier, specialized courts (ARB, Water Court) | [Judicial Reform Amendment](../../../../single-topic/judicial-reform/) |
-| [10-armed-forces.md](10-armed-forces.md) | Regional Guard Forces, federalization rules | [Military Civilian Control Amendment](../../../../single-topic/military-civilian-control/) |
-| [11-emergency-powers.md](11-emergency-powers.md) | Regional Governor declaration authority | [Emergency Powers Reform Amendment](../../../../single-topic/emergency-powers-reform/) |
+| [09-judiciary.md](09-judiciary.md) | Regional courts tier, specialized courts (ARB, Water Court) | [Judicial Reform Amendment](../single-topic/judicial-reform.md) |
+| [10-armed-forces.md](10-armed-forces.md) | Regional Guard Forces, federalization rules | [Military Civilian Control Amendment](../single-topic/military-civilian-control.md) |
+| [11-emergency-powers.md](11-emergency-powers.md) | Regional Governor declaration authority | [Emergency Powers Reform Amendment](../single-topic/emergency-powers-reform.md) |
 
 ### Standalone Amendments (No RF Supplement Needed)
 
@@ -42,11 +42,11 @@ These reforms work equally well with the existing federal/state system OR with R
 
 | Topic | Standalone Plan | Notes |
 |-------|-----------------|-------|
-| Elections | [election-reform/](../../../../single-topic/election-reform/) | National popular vote, certification timelines work same with States or Regions |
-| Impeachment | [impeachment-reform/](../../../../single-topic/impeachment-reform/) | General reform, not region-dependent |
-| Lobbying/Anti-Corruption | [lobbying-reform/](../../../../single-topic/lobbying-reform/) | General reform, not region-dependent |
-| Federal Reserve | [federal-reserve-reform/](../../../../single-topic/federal-reserve-reform/) | Monetary policy reform, not region-dependent |
-| Cyber Defense | [cyber-defense/](../../../../single-topic/cyber-defense/) | General reform, not region-dependent |
+| Elections | [Election Reform Amendment](../single-topic/election-reform.md) | National popular vote, certification timelines work same with States or Regions |
+| Impeachment | [Impeachment Reform Amendment](../single-topic/impeachment-reform.md) | General reform, not region-dependent |
+| Lobbying/Anti-Corruption | [Lobbying Reform Amendment](../single-topic/lobbying-reform.md) | General reform, not region-dependent |
+| Federal Reserve | [Federal Reserve Reform Amendment](../single-topic/federal-reserve-reform.md) | Monetary policy reform, not region-dependent |
+| Cyber Defense | [Cyber Defense Amendment](../single-topic/cyber-defense.md) | General reform, not region-dependent |
 
 ## Article Crosswalk
 
@@ -82,16 +82,16 @@ These proposals provide detailed implementation procedures for constitutional pr
 
 | Proposal | Implements | Key Functions |
 |----------|------------|---------------|
-| [De-Escalation Procedures Act](../../proposals/de-escalation-procedures-act.md) | Article XII, Section 3 | 4-level de-escalation ladder, judicial enforcement, federal intervention |
-| [Regional Boundary Review Act](../../proposals/boundary-review-act.md) | Article I, Section 4 | Commission structure, review criteria, referendum procedures |
-| [Water Resources Coordination Act](../../proposals/water-resources-coordination-act.md) | Article I, Section 7 | Board structure, equitable apportionment, dispute resolution |
-| [D.C. Status Determination Act](../../proposals/dc-status-determination-act.md) | Article XX, Section 1 | Congressional representation, status options, Regional assignment |
-| [Interregional Coordination Review Act](../../proposals/interregional-coordination-review-act.md) | Article IV, Section 5 | Senate review criteria, determination procedures, timelines |
-| [National Common Market Access Act](../../proposals/national-common-market-access-act.md) | Article I, Section 6 | Transit rights, fee standards, blockade enforcement |
-| [Interstate Professional Licensing Act](../../proposals/interstate-professional-licensing-act.md) | Article I, Section 9 | Credential portability, fee limits, supplementary requirements |
-| [Transboundary Environmental Protection Act](../../proposals/transboundary-environmental-protection-act.md) | Article I, Section 10 | Pollution prohibition, EPA monitoring, federal enforcement |
-| [Interstate Law Enforcement Cooperation Act](../../proposals/interstate-law-enforcement-cooperation-act.md) | Article I, Section 11 | Extradition, hot pursuit, mutual legal assistance |
-| [Territories Status Act](../../proposals/territories-status-act.md) | Article XX, Section 2 | Election participation, Regional assignment, status paths |
+| [De-Escalation Procedures Act](../../proposals/01-foundations/de-escalation-procedures-act.md) | Article XII, Section 3 | 4-level de-escalation ladder, judicial enforcement, federal intervention |
+| [Regional Boundary Review Act](../../proposals/01-foundations/boundary-review-act.md) | Article I, Section 4 | Commission structure, review criteria, referendum procedures |
+| [Interstate Water Resources Coordination Act](../../proposals/05-environment-infrastructure/water-resources-coordination-act.md) | Article I, Section 7 | Board structure, equitable apportionment, dispute resolution |
+| [D.C. Status Determination Act](../../proposals/08-special-jurisdictions/dc-status-determination-act.md) | Article XX, Section 1 | Congressional representation, status options, Regional assignment |
+| [Interregional Coordination Review Act](../../proposals/01-foundations/interregional-coordination-review-act.md) | Article IV, Section 5 | Senate review criteria, determination procedures, timelines |
+| [National Common Market Access Act](../../proposals/03-economy-commerce/national-common-market-access-act.md) | Article I, Section 6 | Transit rights, fee standards, blockade enforcement |
+| [Interstate Professional Licensing Act](../../proposals/04-social-policy-labor/interstate-professional-licensing-act.md) | Article I, Section 9 | Credential portability, fee limits, supplementary requirements |
+| [Transboundary Environmental Protection Act](../../proposals/05-environment-infrastructure/transboundary-environmental-protection-act.md) | Article I, Section 10 | Pollution prohibition, EPA monitoring, federal enforcement |
+| [Interstate Law Enforcement Cooperation Act](../../proposals/06-security-justice/interstate-law-enforcement-cooperation-act.md) | Article I, Section 11 | Extradition, hot pursuit, mutual legal assistance |
+| [Territories Status Act](../../proposals/08-special-jurisdictions/territories-status-act.md) | Article XX, Section 2 | Election participation, Regional assignment, status paths |
 
 Each proposal includes a hostile reinterpretation stress test analyzing potential misuse and countermeasures.
 
@@ -101,7 +101,7 @@ These proposals suggest optional additions to the Regional Federal Constitution 
 
 | Proposal | Would Add | Purpose |
 |----------|-----------|---------|
-| [Senate Safeguard Concurrence Amendment](../../proposals/senate-safeguard-concurrence-act.md) | Article IV, Section 4-A | Targeted Senate concurrence for safeguard legislation (emergency powers, military, elections, judiciary, de-escalation, allocation) to provide additional check against authoritarian consolidation while preserving House majority rule for ordinary legislation |
+| [Senate Safeguard Concurrence Amendment](../../proposals/01-foundations/senate-safeguard-concurrence-act.md) | Article IV, Section 4-A | Targeted Senate concurrence for safeguard legislation (emergency powers, military, elections, judiciary, de-escalation, allocation) to provide additional check against authoritarian consolidation while preserving House majority rule for ordinary legislation |
 
 ## Original Complete Document
 
@@ -119,4 +119,4 @@ This combined document is useful for:
 
 - [Back to Regional Federalism Design](../)
 - [Back to Regional Federalism Overview](../../)
-- [All Plans](../../../../)
+- [All Plans](../../)

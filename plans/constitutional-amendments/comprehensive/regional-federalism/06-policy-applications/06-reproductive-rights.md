@@ -4,6 +4,8 @@
 
 > **Purpose of this document:**
 > To describe how the Regional Federal constitutional system would structure reproductive rights governance, establishing a federal floor for rights protection while enabling regional variation above that floor.
+>
+> **Related Statutory Proposal:** [`proposals/01-foundations/dual-legitimacy-rights-floor-statute.md`](../proposals/01-foundations/dual-legitimacy-rights-floor-statute.md)
 
 Post-*Dobbs*, reproductive rights represent maximum policy variation across states. Regional Federalism addresses this by establishing federal rights floors while defining clear rules for cross-regional issues including travel, telemedicine, and provider liability.
 
@@ -378,7 +380,6 @@ Regional Federalism addresses reproductive rights by:
 - [The Regional Federal Constitution](../02-design/constitution/00-index.md)
 - [Article III - Rights Protections](../02-design/constitution/02-powers-and-rights.md)
 - [Healthcare](01-healthcare.md)
-- [analysis/healthcare/](../../../../analysis/healthcare/)
 
 ---
 

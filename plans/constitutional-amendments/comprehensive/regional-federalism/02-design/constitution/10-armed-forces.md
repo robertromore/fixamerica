@@ -2,25 +2,38 @@
 
 ## Regional Federalism Supplement to Armed Forces Reform
 
-*This document contains ONLY the region-dependent provisions for armed forces under Regional Federalism. For the complete armed forces and civilian control reform, see the [Military Civilian Control Amendment](../../../../single-topic/military-civilian-control/).*
+*This document contains ONLY the region-dependent provisions for armed forces under Regional Federalism. For the complete armed forces and civilian control reform, see the [Military Civilian Control Amendment](../single-topic/military-civilian-control.md).*
 
 ---
 
 ## Compatibility Clause
 
-This article presumes adoption of the [Military Civilian Control Amendment](../../../../single-topic/military-civilian-control/) or an equivalent provision establishing:
+This article presumes adoption of the [Military Civilian Control Amendment](../single-topic/military-civilian-control.md) or an equivalent provision establishing:
 
 - civilian supremacy over armed forces
 - two-key authorization for domestic deployment
 - duty to refuse unlawful orders
 - prohibited uses of armed forces
 - transparency and accountability requirements
+- counter-key authority for emergency suspension
+- judicial key override for executive defiance of Supreme Court orders
+- digital force equivalence (cyber-kinetic operations require two-key authorization)
+- infrastructure independence guarantees
+- state defense force limitations (personnel caps, prohibited capabilities)
+- congressional key override for two-key collusion
+- officer corps independence protections (loyalty prohibition, mass removal trigger, pardon limitation)
 
-If the Military Civilian Control Amendment is adopted alongside Regional Federalism, substitute "Regional Governors" for "State Governors" in Key 2 authorization throughout that amendment.
+If the Military Civilian Control Amendment is adopted alongside Regional Federalism:
+- Substitute "Regional Governors" for "State Governors" in Key 2 authorization throughout that amendment
+- The Judicial Key Override (Section 10) uses "five of seven Regional Governors" rather than "majority of State Governors"
+- Infrastructure Independence guarantees (Section 12) apply to Regions rather than States
+- State Defense Force limits (Section 13) apply to forces within constituent States, not Regional Guard
+- Congressional Key Override (Section 14) uses Regional Governors for certification and bypass
+- Counter-Deployment Authority (Section 15(e)) authorizes Regional Guard activation
 
 ---
 
-## ARTICLE XV-RF - REGIONAL GUARD FORCES
+## ARTICLE XI-RF - REGIONAL GUARD FORCES
 
 ### Section 1. Establishment of Regional Guard Forces
 
@@ -115,7 +128,7 @@ The three-tier structure (Federal, Regional, State) provides:
 
 ### Relationship to Military Civilian Control Amendment
 
-The core reforms (two-key authorization, duty to refuse, prohibited uses, transparency) are in the standalone [Military Civilian Control Amendment](../../../../single-topic/military-civilian-control/). That amendment works with either:
+The core reforms (two-key authorization, duty to refuse, prohibited uses, transparency) are in the standalone [Military Civilian Control Amendment](../single-topic/military-civilian-control.md). That amendment works with either:
 
 - **State-based system**: Key 2 = majority of State Governors
 - **Regional Federalism**: Key 2 = majority of Regional Governors
@@ -126,7 +139,7 @@ This Regional Guard article adds the intermediate tier of military capacity that
 
 ## Related Documents
 
-- [Military Civilian Control Amendment](../../../../single-topic/military-civilian-control/) - National core reform (required companion)
+- [Military Civilian Control Amendment](../single-topic/military-civilian-control.md) - National core reform (required companion)
 - [Index](00-index.md) - Constitution overview
 - [Emergency Powers](11-emergency-powers.md) - Regional emergency authority
 - [Safeguards](05-safeguards.md) - De-escalation provisions

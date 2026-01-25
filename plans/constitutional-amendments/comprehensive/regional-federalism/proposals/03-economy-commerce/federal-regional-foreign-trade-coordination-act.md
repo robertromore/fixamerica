@@ -162,5 +162,5 @@ Establish a framework for Federal-Regional Foreign Trade Coordination that:
 
 ## Document Navigation
 
-- Previous: Fiscal Equalization Act
+- Previous: [Fiscal Equalization Act](fiscal-equalization-act.md)
 - Parent: Regional Federalism Proposals

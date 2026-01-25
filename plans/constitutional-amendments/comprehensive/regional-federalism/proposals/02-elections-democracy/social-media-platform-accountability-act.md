@@ -21,7 +21,7 @@ Establish a Social Media Platform Accountability Framework that:
 
 (a) **Social Media Platform.** An online service that primarily enables users to communicate and interact with each other, and to create, share, and discover user-generated content, and that has more than 50 million monthly active users in the United States.
 
-(b) **Demonstrably False Information.** Information that has been factually disproven by at least two independent, non-partisan fact-checking organizations certified by the Federal Agency for Civic Engagement and Media Literacy (the "Agency"), or by a court of law, or by a federal agency with relevant scientific expertise (e.g., CDC for public health, NIST for election technology), and where the falsity is material to the integrity of elections or public health.
+(b) **Demonstrably False Information.** Information that has been factually disproven by at least two independent, non-partisan fact-checking organizations certified by the Independent Election Commission (IEC), or by a court of law, or by a federal agency with relevant scientific expertise (e.g., CDC for public health, NIST for election technology), and where the falsity is material to the integrity of elections or public health.
 
 (c) **Algorithmic Amplification.** The process by which a platform's algorithms or automated systems increase the visibility, reach, or engagement of content beyond its organic distribution.
 
@@ -49,7 +49,7 @@ Establish a Social Media Platform Accountability Framework that:
 
 ### Section 12. Expedited Takedown and Labeling
 
-(a) Upon notification by the Agency that specific content constitutes demonstrably false information under this Act, platforms shall:
+(a) Upon notification by the IEC that specific content constitutes demonstrably false information under this Act, platforms shall:
     - (1) Within 24 hours, cease algorithmic amplification of such content.
     - (2) Within 48 hours, apply a clear and prominent label to the content indicating its demonstrably false nature, with a link to verified factual information.
     - (3) Within 72 hours, remove the content if it continues to be algorithmically amplified despite labeling, or if it poses an imminent and severe threat to public safety (e.g., inciting violence related to election fraud, promoting dangerous unproven health remedies).
@@ -60,15 +60,15 @@ Establish a Social Media Platform Accountability Framework that:
 
 (a) Platforms shall conduct regular, independent audits of their algorithmic amplification systems to assess their impact on the spread of demonstrably false information.
 
-(b) Audit reports shall be submitted to the Agency and a redacted version made public annually.
+(b) Audit reports shall be submitted to the IEC and a redacted version made public annually.
 
 ---
 
 ## Part III: Oversight and Enforcement
 
-### Section 21. Agency for Civic Engagement and Media Literacy Role
+### Section 21. Independent Election Commission (IEC) Role
 
-(a) The Agency shall be responsible for:
+(a) The IEC shall be responsible for:
     - (1) Certifying independent, non-partisan fact-checking organizations, per the `Independent Fact-Checking Integration Act`.
     - (2) Receiving and reviewing reports of demonstrably false information.
     - (3) Notifying platforms of content identified as demonstrably false under this Act.
@@ -84,7 +84,7 @@ Establish a Social Media Platform Accountability Framework that:
 
 (a) Platforms that fail to comply with the requirements of this Act shall be subject to civil penalties of up to $1,000,000 per violation, or 0.1% of global annual revenue, whichever is greater.
 
-(b) Penalties shall be assessed by the Agency and may be appealed to federal court.
+(b) Penalties shall be assessed by the IEC and may be appealed to federal court.
 
 ---
 
@@ -114,7 +114,7 @@ Establish a Social Media Platform Accountability Framework that:
 - **Significant Civil Penalties:** Section 23(a) imposes substantial financial penalties, creating a strong deterrent.
 - **Algorithmic Auditing:** Section 13 mandates independent audits to detect evasion in amplification systems.
 - **Transparency Requirements:** Section 11 requires public disclosure of amplification and moderation data, allowing public and expert scrutiny.
--   **Agency Oversight:** The Agency has clear authority to monitor and enforce compliance.
+-   **IEC Oversight:** The IEC has clear authority to monitor and enforce compliance.
 
 **Outcome:** The combination of financial penalties, transparency, and independent auditing makes systematic non-compliance or evasion difficult and costly for platforms.
 
@@ -126,10 +126,10 @@ Establish a Social Media Platform Accountability Framework that:
 
 **Countermeasure:**
 
--   **Agency Independence:** The Agency's independent composition and insulated Director protects against partisan capture.
+-   **IEC Independence:** The IEC's independent composition (established by the Independent Election Commission Act) protects against partisan capture.
 - **Multiple Fact-Checkers:** Section 1(b) requires disproof by *at least two independent, non-partisan* fact-checking organizations, reducing reliance on a single entity.
--   **Clear Certification Criteria:** The Agency must establish objective criteria for certifying fact-checking organizations, ensuring non-partisanship.
--   **Judicial Review:** Agency decisions on content and penalties are subject to federal judicial review.
+-   **Clear Certification Criteria:** The IEC must establish objective criteria for certifying fact-checking organizations, ensuring non-partisanship.
+-   **Judicial Review:** IEC decisions on content and penalties are subject to federal judicial review.
 
 **Outcome:** The multi-layered requirement for independent, non-partisan verification and robust judicial review makes partisan capture of the labeling process difficult and challengeable.
 
@@ -147,7 +147,7 @@ Establish a Social Media Platform Accountability Framework that:
 
 ## Related Documents
 
-- Federal Agency for Civic Engagement and Media Literacy Act - Establishes the Agency that administers this Program.
+- [Independent Election Commission Act](independent-election-commission-act.md) - Establishes the IEC, which oversees this Act.
 - [Federal Digital Literacy and Media Education Program Act](federal-digital-literacy-act.md) - Complementary program to address disinformation.
 
 ---

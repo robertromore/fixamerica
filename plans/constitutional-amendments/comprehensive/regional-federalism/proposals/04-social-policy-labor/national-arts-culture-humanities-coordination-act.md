@@ -170,5 +170,5 @@ Establish a framework for National Arts, Culture, and Humanities Coordination th
 
 ## Document Navigation
 
-- Previous: Federal-Regional Foreign Trade Coordination Act
+- Previous: [Federal-Regional Foreign Trade Coordination Act](../03-economy-commerce/federal-regional-foreign-trade-coordination-act.md)
 - Parent: Regional Federalism Proposals

@@ -2,6 +2,8 @@
 
 This proposal establishes a framework for coordinating workforce development programs, facilitating labor mobility, and harmonizing labor market information across Regional boundaries, ensuring a dynamic and responsive national labor market.
 
+> **Related Conceptual Analysis:** [`06-policy-applications/11-labor-employment.md`](../../06-policy-applications/11-labor-employment.md)
+
 ---
 
 ## Purpose
@@ -164,12 +166,12 @@ Establish a framework for Inter-Regional Workforce Development and Labor Mobilit
 - Interstate Professional Licensing Reciprocity Act - Addresses portability of licensed professionals.
 - Higher Education and Research Coordination Act - Covers academic credentials and research workforce.
 - Social Safety Net Coordination Act - Addresses Unemployment Insurance portability.
-- National Cybersecurity and Critical Digital Infrastructure Protection Act - Establishes the NCCC, which can identify skill gaps.
+- National Cybersecurity and Critical Digital Infrastructure Protection Act - Establishes the National Cybersecurity Coordination Council, which can identify cyber workforce skill gaps.
 - Allocation Framework Act - Defines jurisdictional allocation principles.
 
 ---
 
 ## Document Navigation
 
-- Previous: Inter-Regional Financial Regulation and Stability Act
+- Previous: [Inter-Regional Financial Regulation and Stability Act](../03-economy-commerce/inter-regional-financial-regulation-stability-act.md)
 - Parent: Regional Federalism Proposals

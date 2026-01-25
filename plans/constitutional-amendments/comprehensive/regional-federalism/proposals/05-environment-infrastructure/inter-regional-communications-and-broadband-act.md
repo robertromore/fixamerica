@@ -83,7 +83,7 @@ Establish a framework for Inter-Regional Communications and Broadband that:
 
 ### Section 22. Inter-Regional Fiber Backbones
 
-(a) The National Infrastructure Planning Council shall identify and prioritize the development of inter-regional fiber optic backbones and other shared communications infrastructure.
+(a) The National Resilience and Infrastructure Council shall identify and prioritize the development of inter-regional fiber optic backbones and other shared communications infrastructure.
 
 (b) Projects identified as national priorities shall be eligible for financing from the National Infrastructure Bank.
 
@@ -157,5 +157,5 @@ Establish a framework for Inter-Regional Communications and Broadband that:
 
 ## Document Navigation
 
--   Previous: Interregional Shared Services Authority Act
+-   Previous: [Interregional Shared Services Authority Act](../07-intergovernmental-tools/interregional-shared-services-authority-act.md)
 -   Parent: Regional Federalism Proposals

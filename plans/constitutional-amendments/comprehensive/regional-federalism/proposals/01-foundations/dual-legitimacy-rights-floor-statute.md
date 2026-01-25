@@ -17,7 +17,7 @@ rights floors without requiring a full constitutional amendment. The process
 requires both national popular approval and regional consent, and is limited to
 enumerated floor domains.
 
-This proposal addresses [Gap 8 — Rights-Floor Content and Enforcement Detail](../04-meta/02-identified-gaps.md)
+This proposal addresses [Gap 8 — Rights-Floor Content and Enforcement Detail](../../04-meta/02-identified-gaps.md)
 by providing a sub-constitutional pathway for floor content definition.
 
 ---
@@ -735,7 +735,7 @@ deliberation and consent threshold.
 ## Hostile Reinterpretation Stress Test
 
 Following the methodology established in
-[Hostile Reinterpretation Stress Test](../03-analysis/04-hostile-reinterpretation.md),
+[Hostile Reinterpretation Stress Test](../../03-analysis/04-hostile-reinterpretation.md),
 this section tests how bad-faith actors might attempt to abuse the DLRS
 mechanism.
 
@@ -863,14 +863,14 @@ simplicity for structural resilience against bad-faith actors.
 
 ## Related Documents
 
-- [The Regional Federal Constitution](../02-design/constitution/00-index.md) - Authoritative source for all constitutional provisions
-- [Powers and Rights (Article II-III)](../02-design/constitution/02-powers-and-rights.md) - Constitutional rights floor framework (DLRS would add Section 4)
-- [Identified Gaps](../04-meta/02-identified-gaps.md) - Gap 8 analysis that this proposal addresses
-- [Design Axioms](../01-foundation/02-design-axioms.md) - Axiom 4 (Floors, Not Ceilings) underlying this mechanism
-- [Amendment Process](../02-design/04-amendment-process.md) - Full constitutional amendment procedures
-- [Judiciary and Constitutional Enforcement](../02-design/07-judiciary.md) - Mandatory jurisdiction for DLRS challenges
-- [Constitutional Transition Act](../05-implementation/02-transition-act.md) - Transition phases referenced in Section 3.18
-- [Hostile Reinterpretation Stress Test](../03-analysis/04-hostile-reinterpretation.md) - Methodology for stress testing
+- [The Regional Federal Constitution](../../02-design/constitution/00-index.md) - Authoritative source for all constitutional provisions
+- [Powers and Rights (Article II-III)](../../02-design/constitution/02-powers-and-rights.md) - Constitutional rights floor framework (DLRS would add Section 4)
+- [Identified Gaps](../../04-meta/02-identified-gaps.md) - Gap 8 analysis that this proposal addresses
+- [Design Axioms](../../01-foundation/02-design-axioms.md) - Axiom 4 (Floors, Not Ceilings) underlying this mechanism
+- [Amendment Process (Articles XII-XIII)](../../02-design/constitution/05-safeguards.md) - Constitutional amendment procedures
+- [Judicial Reform](../../02-design/single-topic/judicial-reform.md) - Article XIV standalone; RF supplement at [09-judiciary.md](../../02-design/constitution/09-judiciary.md)
+- [Constitutional Transition Act](../../05-implementation/02-transition-act.md) - Transition phases referenced in Section 3.18
+- [Hostile Reinterpretation Stress Test](../../03-analysis/04-hostile-reinterpretation.md) - Methodology for stress testing
 
 ---
 

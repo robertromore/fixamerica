@@ -5,7 +5,7 @@ the extradition and law enforcement cooperation provisions in Article I,
 Section 11, addressing sentence portability, criminal records, supervision
 transfer, and registry coordination.
 
-This proposal addresses [Gap 31 — Criminal Justice Coordination Beyond Extradition](../04-meta/02-identified-gaps.md)
+This proposal addresses [Gap 31 — Criminal Justice Coordination Beyond Extradition](../../04-meta/02-identified-gaps.md)
 by creating federal enabling legislation and model inter-regional compacts.
 
 ---
@@ -425,13 +425,13 @@ pure dumping blocked.
 
 ## Related Documents
 
-- [Article I, Section 11 (Cross-Regional Law Enforcement)](../02-design/constitution/01-regional-structure.md) - Constitutional foundation
-- [Gap 31 — Criminal Justice Coordination](../04-meta/02-identified-gaps.md) - Gap analysis this proposal addresses
-- [Article I, Section 8 (Freedom of Movement)](../02-design/constitution/01-regional-structure.md) - Movement rights context
-- [Article I, Section 9 (Mutual Recognition)](../02-design/constitution/01-regional-structure.md) - Related recognition provisions
+- [Article I, Section 11 (Cross-Regional Law Enforcement)](../../02-design/constitution/01-regional-structure.md) - Constitutional foundation
+- [Gap 31 — Criminal Justice Coordination](../../04-meta/02-identified-gaps.md) - Gap analysis this proposal addresses
+- [Article I, Section 8 (Freedom of Movement)](../../02-design/constitution/01-regional-structure.md) - Movement rights context
+- [Article I, Section 9 (Mutual Recognition)](../../02-design/constitution/01-regional-structure.md) - Related recognition provisions
 
 ---
 
 ## Document Navigation
-- Previous: [Contested Domains Guidance](../professional-commercial/contested-domains-guidance.md)
+- Previous: [Contested Domains Guidance](../01-foundations/contested-domains-guidance.md)
 - Parent: [Regional Federalism Proposals](../README.md)

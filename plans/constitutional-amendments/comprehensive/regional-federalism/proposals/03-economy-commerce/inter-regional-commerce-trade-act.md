@@ -191,5 +191,5 @@ Establish a framework for Inter-Regional Commerce and Trade that:
 
 ## Document Navigation
 
-- Previous: Inter-Regional Healthcare Coordination Act
+- Previous: [Inter-Regional Healthcare Coordination Act](../04-social-policy-labor/inter-regional-healthcare-coordination-act.md)
 - Parent: Regional Federalism Proposals

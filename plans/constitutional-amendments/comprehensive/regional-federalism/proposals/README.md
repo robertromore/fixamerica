@@ -1,6 +1,73 @@
 # Regional Federalism Proposals
 
-This directory contains proposals addressing specific policy areas and interactions that span Regional boundaries or involve federal-Regional coordination under the Regional Federalism framework.
+## Purpose
+
+This directory contains **statutory drafts** — actual implementing legislation with section numbers, definitions, and enforcement mechanisms for the Regional Federalism framework.
+
+These documents answer the question: **"What specific laws implement Regional Federalism in [policy area]?"**
+
+---
+
+## Document Type
+
+| Characteristic | Description |
+|----------------|-------------|
+| **Format** | Legal text with sections, subsections, definitions |
+| **Content** | Specific statutory language, enforcement mechanisms, penalties |
+| **Audience** | Drafters of actual legislation |
+| **Level** | Operational and legal |
+
+---
+
+## Relationship to Other Folders
+
+### vs. `/06-policy-applications/`
+
+| `/06-policy-applications/` | This Folder (`proposals/`) |
+|----------------------------|----------------------------|
+| **Conceptual analysis** — "Why and how" | **Statutory drafts** — "What exactly" |
+| Essays explaining the framework | Legal text with sections and subsections |
+| Strategic vision | Operational implementation |
+
+**These folders are complementary, not duplicative.**
+
+For each statutory proposal here, there may be a corresponding conceptual analysis in `/06-policy-applications/` that explains the underlying rationale.
+
+### vs. `/05-implementation/`
+
+| `/05-implementation/` | This Folder (`proposals/`) |
+|-----------------------|----------------------------|
+| **Core implementation acts** required by the Constitution | **Domain-specific proposals** for particular policy areas |
+| 5 authoritative acts (Transition, Allocation, Fiscal, Elections, Safeguards) | 80+ domain proposals |
+| Constitutional mandate | Supplementary legislation |
+
+**Per the [Document Hierarchy](../DOCUMENT-HIERARCHY.md):** If a proposal here duplicates content in `/05-implementation/`, the `/05-implementation/` version is authoritative.
+
+### Deprecated Files
+
+The following files have been deprecated and replaced with redirect notices pointing to authoritative versions in `/05-implementation/`:
+
+- `01-foundations/allocation-framework-act.md` → See `/05-implementation/03-allocation-framework-act.md`
+- `01-foundations/constitutional-transition-act.md` → See `/05-implementation/02-transition-act.md`
+- `02-elections-democracy/elections-implementation-act.md` → See `/05-implementation/05-elections-implementation-act.md`
+- `03-economy-commerce/fiscal-equalization-act.md` → See `/05-implementation/04-fiscal-equalization-act.md`
+
+---
+
+## Cross-References to Policy Applications
+
+| Proposal | Related Conceptual Analysis |
+|----------|----------------------------|
+| `04-social-policy-labor/inter-regional-healthcare-coordination-act.md` | [`06-policy-applications/01-healthcare.md`](../06-policy-applications/01-healthcare.md) |
+| `04-social-policy-labor/inter-regional-housing-urban-development-act.md` | [`06-policy-applications/02-housing.md`](../06-policy-applications/02-housing.md) |
+| `06-security-justice/federal-regional-immigration-and-border-security-act.md` | [`06-policy-applications/03-immigration.md`](../06-policy-applications/03-immigration.md) |
+| `06-security-justice/federal-criminal-code-modernization-and-jurisdiction-act.md` | [`06-policy-applications/04-drug-policy.md`](../06-policy-applications/04-drug-policy.md), [`06-policy-applications/05-firearms.md`](../06-policy-applications/05-firearms.md), [`06-policy-applications/07-criminal-justice.md`](../06-policy-applications/07-criminal-justice.md) |
+| `05-environment-infrastructure/national-environmental-quality-standards-act.md` | [`06-policy-applications/08-climate-environment.md`](../06-policy-applications/08-climate-environment.md) |
+| `04-social-policy-labor/national-k12-education-standards-mobility-act.md` | [`06-policy-applications/09-education.md`](../06-policy-applications/09-education.md) |
+| `05-environment-infrastructure/national-energy-system-and-grid-modernization-act.md` | [`06-policy-applications/10-energy.md`](../06-policy-applications/10-energy.md) |
+| `04-social-policy-labor/inter-regional-workforce-development-labor-mobility-act.md` | [`06-policy-applications/11-labor-employment.md`](../06-policy-applications/11-labor-employment.md) |
+| `05-environment-infrastructure/inter-regional-transportation-mobility-act.md` | [`06-policy-applications/12-transportation.md`](../06-policy-applications/12-transportation.md) |
+| `04-social-policy-labor/social-safety-net-coordination-act.md` | [`06-policy-applications/13-social-safety-net.md`](../06-policy-applications/13-social-safety-net.md) |
 
 ---
 

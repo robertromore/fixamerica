@@ -4,6 +4,10 @@
 
 > **Purpose of this document:**
 > To describe how the Regional Federal constitutional system would restructure criminal justice governance, establishing rights floors while enabling regional variation and democratic accountability.
+>
+> **Related Statutory Proposals:**
+> - [`proposals/06-security-justice/federal-criminal-code-modernization-and-jurisdiction-act.md`](../proposals/06-security-justice/federal-criminal-code-modernization-and-jurisdiction-act.md)
+> - [`proposals/06-security-justice/criminal-justice-coordination.md`](../proposals/06-security-justice/criminal-justice-coordination.md)
 
 Criminal justice exemplifies the tension between national rights guarantees and local variation. Regional Federalism provides a framework for maintaining constitutional protections while allowing differentiated approaches to policing, sentencing, and incarceration.
 
@@ -470,9 +474,8 @@ Criminal justice under Regional Federalism represents the system's approach appl
 ## Related Documents
 
 - [The Regional Federal Constitution](../02-design/constitution/00-index.md) - Authoritative source for all constitutional provisions
-- [Interstate Law Enforcement Cooperation Act](../proposals/interstate-law-enforcement-cooperation-act.md) - Cross-regional coordination
+- [Interstate Law Enforcement Cooperation Act](../proposals/06-security-justice/interstate-law-enforcement-cooperation-act.md) - Cross-regional coordination
 - [Drug Policy](04-drug-policy.md) - Related policy application
-- [analysis/justice/](../../../../analysis/justice/) - Criminal justice policy analysis
 
 ---
 

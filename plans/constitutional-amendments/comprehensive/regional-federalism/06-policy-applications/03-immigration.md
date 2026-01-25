@@ -4,6 +4,8 @@
 
 > **Purpose of this document:**
 > To describe how the Regional Federal constitutional system would restructure immigration governance, maintaining federal authority over borders and citizenship while enabling regional input on labor migration and integration.
+>
+> **Related Statutory Proposal:** [`proposals/06-security-justice/federal-regional-immigration-and-border-security-act.md`](../proposals/06-security-justice/federal-regional-immigration-and-border-security-act.md)
 
 Immigration remains constitutionally federal, but Regional Federalism creates mechanisms for regional voice in labor market migration and integration programs while preserving national control over borders and citizenship.
 
@@ -339,7 +341,6 @@ Regional Federalism affects immigration by:
 ## Related Documents
 
 - [The Regional Federal Constitution](../02-design/constitution/00-index.md)
-- [analysis/immigration/](../../../../analysis/immigration/)
 
 ---
 

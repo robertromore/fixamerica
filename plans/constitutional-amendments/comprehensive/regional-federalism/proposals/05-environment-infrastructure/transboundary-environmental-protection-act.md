@@ -401,13 +401,13 @@ provides attribution; disputes do not suspend enforcement.
 
 ## Related Documents
 
-- [Article I, Section 10](../02-design/constitution/01-regional-structure.md) - Constitutional foundation
+- [Article I, Section 10](../../02-design/constitution/01-regional-structure.md) - Constitutional foundation
 - [Interstate Water Resources Coordination Act](water-resources-coordination-act.md) - Related water protections
-- [Identified Gaps](../04-meta/02-identified-gaps.md) - Related gap analysis
+- [Identified Gaps](../../04-meta/02-identified-gaps.md) - Related gap analysis
 
 ---
 
 ## Document Navigation
 
-- Previous: [Interstate Professional Licensing Act](../professional-commercial/interstate-professional-licensing-act.md)
+- Previous: [Interstate Professional Licensing Act](../04-social-policy-labor/interstate-professional-licensing-act.md)
 - Parent: [Regional Federalism Proposals](../README.md)

@@ -4,7 +4,7 @@ This proposal establishes a framework for coordinated multi-regional response
 to climate change, including carbon policy coordination, climate migration
 management, and shared adaptation infrastructure governance.
 
-This proposal addresses [Gap 25 — Climate Emergency Coordination](../04-meta/02-identified-gaps.md)
+This proposal addresses [Gap 25 — Climate Emergency Coordination](../../04-meta/02-identified-gaps.md)
 by creating coordination mechanisms that respect regional autonomy while
 enabling collective action on climate challenges.
 
@@ -382,15 +382,15 @@ narrow interests.
 
 ## Related Documents
 
-- [Article I, Section 5 (Inter-Regional Cooperation)](../02-design/constitution/01-regional-structure.md) - Constitutional authorization for compacts
+- [Article I, Section 5 (Inter-Regional Cooperation)](../../02-design/constitution/01-regional-structure.md) - Constitutional authorization for compacts
 - [Article I, Section 5A (Joint Authority Template)](interregional-joint-authority-template.md) - Governance template
-- [Article I, Section 8 (Freedom of Movement)](../02-design/constitution/01-regional-structure.md) - Movement protections
-- [Gap 25 — Climate Emergency Coordination](../04-meta/02-identified-gaps.md) - Gap analysis this proposal addresses
-- [Article I, Section 10 (Environmental Border Protection)](../02-design/constitution/01-regional-structure.md) - Related environmental provisions
+- [Article I, Section 8 (Freedom of Movement)](../../02-design/constitution/01-regional-structure.md) - Movement protections
+- [Gap 25 — Climate Emergency Coordination](../../04-meta/02-identified-gaps.md) - Gap analysis this proposal addresses
+- [Article I, Section 10 (Environmental Border Protection)](../../02-design/constitution/01-regional-structure.md) - Related environmental provisions
 
 ---
 
 ## Document Navigation
 
-- Previous: [Public Health Emergency Coordination](public-health-emergency-coordination.md)
+- Previous: [Public Health Emergency Coordination](../06-security-justice/public-health-emergency-coordination.md)
 - Parent: [Regional Federalism Proposals](../README.md)

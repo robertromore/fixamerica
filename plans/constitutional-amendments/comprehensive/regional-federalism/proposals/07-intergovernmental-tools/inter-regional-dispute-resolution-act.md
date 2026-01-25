@@ -8,10 +8,10 @@ This proposal establishes a clear, predictable, and enforceable process for reso
 
 Establish an Inter-Regional Dispute Resolution Act that:
 
--   Mandates a default binding arbitration process for internal governance disputes within inter-regional bodies.
--   Establishes clear "choice of law" rules to determine which jurisdiction's laws apply to a compact's internal operations.
--   Creates a streamlined federal process for enforcing arbitration awards and court judgments against joint authorities or member Regions.
--   Designates the Allocation Review Board (ARB) as the final appellate body for disputes raising fundamental constitutional questions.
+- Mandates a default binding arbitration process for internal governance disputes within inter-regional bodies.
+- Establishes clear "choice of law" rules to determine which jurisdiction's laws apply to a compact's internal operations.
+- Creates a streamlined federal process for enforcing arbitration awards and court judgments against joint authorities or member Regions.
+- Designates the Allocation Review Board (ARB) as the final appellate body for disputes raising fundamental constitutional questions.
 
 ---
 
@@ -87,8 +87,8 @@ Establish an Inter-Regional Dispute Resolution Act that:
 
 **Countermeasure:**
 
--   **Mandatory Binding Process (Section 2):** The Act makes binding dispute resolution mandatory and voids any attempt to opt-out.
--   **Federal Enforcement Mechanism (Section 12):** The winning party (the joint authority or another member Region) can register the arbitration award in federal court, converting it into an enforceable federal judgment. Federal marshals could then be used to enforce the judgment.
+- **Mandatory Binding Process (Section 2):** The Act makes binding dispute resolution mandatory and voids any attempt to opt-out.
+- **Federal Enforcement Mechanism (Section 12):** The winning party (the joint authority or another member Region) can register the arbitration award in federal court, converting it into an enforceable federal judgment. Federal marshals could then be used to enforce the judgment.
 
 **Outcome:** A Region cannot ignore a valid arbitration award. The Act provides a clear, non-political pathway to federal enforcement, ensuring that compact obligations are honored.
 
@@ -100,7 +100,7 @@ Establish an Inter-Regional Dispute Resolution Act that:
 
 **Countermeasure:**
 
--   **Clear Choice of Law Hierarchy (Section 11):** The Act provides a clear, non-discretionary hierarchy to resolve this question. If the compact is silent, the law of the headquarters Region applies. This removes the issue from debate and provides a certain answer.
+- **Clear Choice of Law Hierarchy (Section 11):** The Act provides a clear, non-discretionary hierarchy to resolve this question. If the compact is silent, the law of the headquarters Region applies. This removes the issue from debate and provides a certain answer.
 
 **Outcome:** The default choice of law rule breaks the deadlock and allows the authority to proceed, preventing paralysis.
 
@@ -112,8 +112,8 @@ Establish an Inter-Regional Dispute Resolution Act that:
 
 **Countermeasure:**
 
--   **ARB Appellate Jurisdiction (Section 21):** A member Region can appeal the arbitration award to the ARB on the grounds that the joint authority's action violates the `Allocation Framework Act` or the Regional constitution.
--   **De Novo Review (Section 22):** The ARB would review this fundamental question of law "de novo," without deference to the arbitrators' decision, providing a true independent check.
+- **ARB Appellate Jurisdiction (Section 21):** A member Region can appeal the arbitration award to the ARB on the grounds that the joint authority's action violates the `Allocation Framework Act` or the Regional constitution.
+- **De Novo Review (Section 22):** The ARB would review this fundamental question of law "de novo," without deference to the arbitrators' decision, providing a true independent check.
 
 **Outcome:** The ARB serves as the ultimate guardian of the constitutional order, ensuring that joint authorities cannot overstep their mandates, even if their internal dispute mechanisms fail.
 
@@ -131,14 +131,14 @@ Establish an Inter-Regional Dispute Resolution Act that:
 
 ## Related Documents
 
--   Interregional Agency Compact Act - Provides the legal basis for the compacts this Act governs.
--   Allocation Framework Act - Establishes the ARB and the jurisdictional rules it applies.
--   Interregional Joint Authority Template - A model template that would incorporate the clauses mandated by this Act.
--   Federal Judiciary Modernization Act - Establishes the federal courts that would enforce judgments under this Act.
+- Interregional Agency Compact Act - Provides the legal basis for the compacts this Act governs.
+- Allocation Framework Act - Establishes the ARB and the jurisdictional rules it applies.
+- Interregional Joint Authority Template - A model template that would incorporate the clauses mandated by this Act.
+- Federal Judiciary Modernization Act - Establishes the federal courts that would enforce judgments under this Act.
 
 ---
 
 ## Document Navigation
 
--   Previous: Contested Domains Guidance
--   Parent: Regional Federalism Proposals
+- Previous: [Contested Domains Guidance](../01-foundations/contested-domains-guidance.md)
+- Parent: Regional Federalism Proposals

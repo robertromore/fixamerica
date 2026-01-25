@@ -402,13 +402,13 @@ and subject to political/judicial correction.
 
 ## Related Documents
 
-- [Article IV, Section 5](../02-design/constitution/03-regional-governance.md) - Constitutional foundation
-- [Allocation Review Board](../02-design/07-judiciary.md) - Board establishment and procedures
-- [Congressional Reform](../../../../single-topic/congressional-reform/) - Related legislative reforms
-- [Identified Gaps](../04-meta/02-identified-gaps.md) - Related gap analysis
+- [Article IV, Section 5](../../02-design/constitution/03-regional-governance.md) - Constitutional foundation
+- [Allocation Review Board](../../02-design/constitution/02-powers-and-rights.md) - Article II, Section 5 establishes ARB
+- [Congressional Reform](../../02-design/single-topic/congressional-reform/) - Related legislative reforms
+- [Identified Gaps](../../04-meta/02-identified-gaps.md) - Related gap analysis
 
 ---
 
 ## Document Navigation
-- Previous: [D.C. Status Determination Act](../special-populations/dc-status-determination-act.md)
+- Previous: [D.C. Status Determination Act](../08-special-jurisdictions/dc-status-determination-act.md)
 - Parent: [Regional Federalism Proposals](../README.md)

@@ -2,6 +2,8 @@
 
 This proposal establishes a framework for coordinating inter-regional transportation policies, facilitating the seamless movement of people and goods, and harmonizing regulations related to mobility across Regions.
 
+> **Related Conceptual Analysis:** [`06-policy-applications/12-transportation.md`](../../06-policy-applications/12-transportation.md)
+
 ---
 
 ## Purpose
@@ -64,7 +66,7 @@ Establish a framework for Inter-Regional Transportation and Mobility that:
 
 ### Section 21. Inter-Regional Freight Corridors
 
-(a) The DOT, in consultation with the National Infrastructure Planning Council, shall designate "Inter-Regional Freight Corridors" for efficient movement of goods across multiple Regions.
+(a) The DOT, in consultation with the National Resilience and Infrastructure Council, shall designate "Inter-Regional Freight Corridors" for efficient movement of goods across multiple Regions.
 
 (b) Regions shall cooperate in planning and maintaining infrastructure within these corridors, including truck parking facilities, intermodal hubs, and digital logistics platforms.
 
@@ -167,5 +169,5 @@ Establish a framework for Inter-Regional Transportation and Mobility that:
 
 ## Document Navigation
 
--   Previous: National Infrastructure Investment and Coordination Act
+-   Previous: [National Infrastructure Investment and Coordination Act](national-infrastructure-investment-coordination-act.md)
 -   Parent: Regional Federalism Proposals

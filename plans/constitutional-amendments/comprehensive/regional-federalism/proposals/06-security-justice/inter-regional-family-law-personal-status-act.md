@@ -165,5 +165,5 @@ Establish a framework for Inter-Regional Family Law and Personal Status that:
 
 ## Document Navigation
 
--   Previous: Criminal Justice Coordination
+-   Previous: [Criminal Justice Coordination](criminal-justice-coordination.md)
 -   Parent: Regional Federalism Proposals

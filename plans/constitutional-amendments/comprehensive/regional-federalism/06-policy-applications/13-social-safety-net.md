@@ -4,6 +4,8 @@
 
 > **Purpose of this document:**
 > To describe how the Regional Federal constitutional system would restructure social safety net programs, establishing federal floors while enabling regional variation and ensuring benefit portability.
+>
+> **Related Statutory Proposal:** [`proposals/04-social-policy-labor/social-safety-net-coordination-act.md`](../proposals/04-social-policy-labor/social-safety-net-coordination-act.md)
 
 Social safety net programs currently vary dramatically in their federalization. Regional Federalism rationalizes this system by establishing clear federal floors while giving regions authority to design programs above those floors, with portability rules enabling mobility.
 
@@ -463,8 +465,6 @@ Regional Federalism transforms social safety net by:
 - [Fiscal Architecture](../02-design/constitution/04-fiscal-system.md)
 - [Healthcare](01-healthcare.md)
 - [Housing](02-housing.md)
-- [analysis/social/](../../../../analysis/social/)
-- [analysis/aging/](../../../../analysis/aging/)
 
 ---
 

@@ -12,9 +12,9 @@ Vouchers.
 The Regional Federal Constitution implicitly mandates an Independent Election
 Commission through references in:
 
-- [DLRS (Dual Legitimacy Rights Floor Statute)](dual-legitimacy-rights-floor-statute.md)
+- [DLRS (Dual Legitimacy Rights Floor Statute)](../01-foundations/dual-legitimacy-rights-floor-statute.md)
     (Sections 3.4(a), 3.7(a), 3.12(d), 3.16(e), 3.17(b), 3.24(a), 3.26(a), 3.27(c))
-- [Regional Governance: Constitutional Default Template](regional-governance-default-template.md)
+- [Regional Governance: Constitutional Default Template](../01-foundations/regional-governance-default-template.md)
     (Section 4.2(a)(2) - for election security)
 - [Presidential Majority Failure: Automatic RCV/Runoff](presidential-majority-failure-automatic-rcv.md)
     (for national ranked-choice tabulation)
@@ -265,11 +265,11 @@ oversight, making systematic partisan bias difficult to maintain.
 ## Related Documents
 
 - [Civic Engagement Vouchers Act](civic-engagement-vouchers-act.md) - Program administered by this Commission
-- [DLRS (Dual Legitimacy Rights Floor Statute)](dual-legitimacy-rights-floor-statute.md) - Constitutional provisions requiring IEC actions
-- [Regional Governance: Constitutional Default Template](regional-governance-default-template.md) - References to IEC
+- [DLRS (Dual Legitimacy Rights Floor Statute)](../01-foundations/dual-legitimacy-rights-floor-statute.md) - Constitutional provisions requiring IEC actions
+- [Regional Governance: Constitutional Default Template](../01-foundations/regional-governance-default-template.md) - References to IEC
 - [Presidential Majority Failure: Automatic RCV/Runoff](presidential-majority-failure-automatic-rcv.md) - IEC role in presidential elections
-- [The Regional Federal Constitution](../02-design/constitution/00-index.md) - Authoritative source for all constitutional provisions
-- [Hostile Reinterpretation Stress Test](../03-analysis/04-hostile-reinterpretation.md) - Methodology for stress testing
+- [The Regional Federal Constitution](../../02-design/constitution/00-index.md) - Authoritative source for all constitutional provisions
+- [Hostile Reinterpretation Stress Test](../../03-analysis/04-hostile-reinterpretation.md) - Methodology for stress testing
 
 ---
 

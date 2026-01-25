@@ -55,7 +55,7 @@ Establish a framework for National Public Health and Health Equity that:
 
 ### Section 11. National Health Promotion Strategy
 
-(a) The CDC, in consultation with the National Health Policy Council (established in the `Inter-Regional Healthcare Coordination Act`), shall develop and update a 10-year National Health Promotion Strategy.
+(a) The CDC, in consultation with the Inter-Regional Healthcare Coordination Council (established in the `Inter-Regional Healthcare Coordination Act`), shall develop and update a 10-year National Health Promotion Strategy.
 
 (b) The Strategy shall identify national priorities for chronic disease prevention and health promotion and provide evidence-based recommendations for federal and Regional action.
 
@@ -145,7 +145,7 @@ Establish a framework for National Public Health and Health Equity that:
 
 - **Conditional Federal Funding (Section 3(c)):** Federal public health funding is conditioned on compliance with data reporting standards.
 - **Federal Floors (Section 21):** Establishes a binding minimum standard for health equity, preventing a complete race to the bottom.
-- **Council Oversight:** The National Health Policy Council will publicly report on Regional performance, creating political pressure.
+- **Council Oversight:** The Inter-Regional Healthcare Coordination Council will publicly report on Regional performance, creating political pressure.
 - **Federal Enforcement:** HHS can bring enforcement actions against non-compliant Regions.
 
 **Outcome:** Non-compliance carries significant financial and political costs, creating strong incentives for Regions to meet federal floors and reporting requirements.
@@ -180,7 +180,7 @@ Establish a framework for National Public Health and Health Equity that:
 ## Related Documents
 
 - Public Health Emergency Coordination Framework - Addresses crisis response, while this Act focuses on ongoing public health.
-- Inter-Regional Healthcare Coordination Act - Addresses healthcare delivery and insurance, and establishes the National Health Policy Council.
+- Inter-Regional Healthcare Coordination Act - Addresses healthcare delivery and insurance, and establishes the Inter-Regional Healthcare Coordination Council.
 - Social Safety Net Coordination Act - Relevant for addressing social determinants of health.
 - Transboundary Environmental Protection Act - Addresses environmental health hazards.
 
@@ -188,5 +188,5 @@ Establish a framework for National Public Health and Health Equity that:
 
 ## Document Navigation
 
-- Previous: National K-12 Education Standards and Mobility Act
+- Previous: [National K-12 Education Standards and Mobility Act](national-k12-education-standards-mobility-act.md)
 - Parent: Regional Federalism Proposals

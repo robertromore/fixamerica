@@ -74,27 +74,6 @@ Establish a framework for National Infrastructure Investment and Coordination th
 
 (b) Projects recommended by the National Resilience and Infrastructure Council shall receive priority consideration for funding.
 
-### Section 11. Establishment
-
-(a) There is established a "National Infrastructure Bank" (the "Bank") as a wholly-owned government corporation.
-
-(b) The Bank shall be capitalized by a one-time federal appropriation of $500 billion, with authority to issue bonds backed by the full faith and credit of the United States.
-
-### Section 12. Governance
-
-(a) The Bank shall be governed by a nine-member Board of Directors, appointed by the President with the advice and consent of the Senate, with expertise in finance, engineering, and public policy.
-
-(b) The Board shall operate independently of political interference in its lending and investment decisions.
-
-### Section 13. Financing Mechanisms
-
-(a) The Bank shall provide financing for multi-regional infrastructure projects through:
-    - (1) Low-interest loans and loan guarantees.
-    - (2) Equity investments in public-private partnerships.
-    - (3) Technical assistance grants for project development.
-
-(b) Projects recommended by the National Infrastructure Planning Council shall receive priority consideration for funding.
-
 ---
 
 ## Part III: Project Development and Implementation
@@ -184,14 +163,14 @@ Establish a framework for National Infrastructure Investment and Coordination th
 
 ## Related Documents
 
-- [National Common Market Access Act](../fiscal/national-common-market-access-act.md) - Addresses physical barriers to trade and transit, complementing this Act.
-- [Allocation Framework Act](../fiscal/allocation-framework-act.md) - Establishes the ARB, which may mediate disputes related to this Act.
+- [National Common Market Access Act](../03-economy-commerce/national-common-market-access-act.md) - Addresses physical barriers to trade and transit, complementing this Act.
+- [Allocation Framework Act](../01-foundations/allocation-framework-act.md) - Establishes the ARB, which may mediate disputes related to this Act.
 - [Inter-Regional Joint Authority: Constitutional Default Template](interregional-joint-authority-template.md) - Provides governance models for Inter-Regional Infrastructure Compacts.
-- [Climate Emergency Coordination Framework](../emergency-crisis/climate-emergency-coordination.md) - Relevant for climate-resilient infrastructure projects.
+- [Climate Emergency Coordination Framework](../05-environment-infrastructure/climate-emergency-coordination.md) - Relevant for climate-resilient infrastructure projects.
 
 ---
 
 ## Document Navigation
 
-- Previous: [Model Service Level Agreement](model-service-level-agreement.md)
+- Previous: [Model Service Level Agreement](../07-intergovernmental-tools/model-service-level-agreement.md)
 - Parent: [Regional Federalism Proposals](../README.md)

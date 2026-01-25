@@ -54,7 +54,7 @@ Establish a framework for National Science and Technology Policy Coordination th
 
 (a) **Definition.** "Major Scientific Infrastructure" includes unique, large-scale scientific facilities that serve the entire nation but are located in a single Region (e.g., particle accelerators, supercomputing centers, large telescopes).
 
-(b) **Coordination.** The funding, siting, and governance of such infrastructure shall be coordinated by the National Infrastructure Planning Council, as established in the `National Infrastructure Investment and Coordination Act`.
+(b) **Coordination.** The funding, siting, and governance of such infrastructure shall be coordinated by the National Resilience and Infrastructure Council, as established in the `National Infrastructure Investment and Coordination Act`.
 
 (c) **Host Region Benefits.** Host Regions for new Major Scientific Infrastructure shall be eligible for federal grants to support related educational programs, local infrastructure upgrades, and workforce development.
 
@@ -145,5 +145,5 @@ Establish a framework for National Science and Technology Policy Coordination th
 
 ## Document Navigation
 
-- Previous: Inter-Regional Housing and Urban Development Act
+- Previous: [Inter-Regional Housing and Urban Development Act](../04-social-policy-labor/inter-regional-housing-urban-development-act.md)
 - Parent: Regional Federalism Proposals

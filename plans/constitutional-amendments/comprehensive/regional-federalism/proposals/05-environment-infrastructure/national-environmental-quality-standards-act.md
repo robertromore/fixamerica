@@ -2,6 +2,8 @@
 
 This proposal establishes federal minimum environmental quality standards for air, water, and land, and creates a coordinated federal-Regional framework for environmental permitting, monitoring, and enforcement.
 
+> **Related Conceptual Analysis:** [`06-policy-applications/08-climate-environment.md`](../../06-policy-applications/08-climate-environment.md)
+
 ---
 
 ## Purpose
@@ -158,5 +160,5 @@ Establish a framework for National Environmental Quality Standards that:
 
 ## Document Navigation
 
--   Previous: Inter-Regional Biodiversity and Endangered Species Act
+-   Previous: [Inter-Regional Biodiversity and Endangered Species Act](inter-regional-biodiversity-endangered-species-act.md)
 -   Parent: Regional Federalism Proposals

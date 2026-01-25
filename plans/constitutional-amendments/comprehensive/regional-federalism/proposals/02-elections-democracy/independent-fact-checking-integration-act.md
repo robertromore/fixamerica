@@ -19,20 +19,20 @@ Establish an Independent Fact-Checking Integration Framework that:
 
 ### Section 1. Establishment
 
-(a) The Federal Agency for Civic Engagement and Media Literacy (the "Agency") shall administer a "Fact-Checking Integration Program" (the "Program").
+(a) The Independent Election Commission (IEC) shall administer a "Fact-Checking Integration Program" (the "Program").
 
-(b) The Program shall facilitate partnerships between the Agency and certified independent, non-partisan fact-checking organizations.
+(b) The Program shall facilitate partnerships between the IEC and certified independent, non-partisan fact-checking organizations.
 
 ### Section 2. Certification of Fact-Checking Organizations
 
-(a) The Agency shall establish and publish objective criteria for certifying independent, non-partisan fact-checking organizations. Criteria shall include:
+(a) The IEC shall establish and publish objective criteria for certifying independent, non-partisan fact-checking organizations. Criteria shall include:
     - (1) Adherence to a publicly available code of principles (e.g., International Fact-Checking Network's Code of Principles).
     - (2) Demonstrated editorial independence from political parties, candidates, and advocacy groups.
     - (3) Transparency in funding sources and methodology.
     - (4) A track record of accurate and unbiased fact-checking.
     - (5) Expertise in verifying claims related to elections, public policy, and public health.
 
-(b) The Agency shall maintain a public registry of certified fact-checking organizations.
+(b) The IEC shall maintain a public registry of certified fact-checking organizations.
 
 ---
 
@@ -40,7 +40,7 @@ Establish an Independent Fact-Checking Integration Framework that:
 
 ### Section 11. Official Information Channels
 
-(a) The Agency shall integrate verified factual information from certified fact-checking organizations into its official information channels, including:
+(a) The IEC shall integrate verified factual information from certified fact-checking organizations into its official information channels, including:
     - (1) The IEC's public website and online portals.
     - (2) Official voter information guides and educational materials.
     - (3) Public service announcements related to elections and referendums.
@@ -49,13 +49,13 @@ Establish an Independent Fact-Checking Integration Framework that:
 
 ### Section 12. Rapid Response to Disinformation
 
-(a) Certified fact-checking organizations shall provide the Agency with expedited access to their findings on demonstrably false information related to federal elections and referendums.
+(a) Certified fact-checking organizations shall provide the IEC with expedited access to their findings on demonstrably false information related to federal elections and referendums.
 
-(b) The Agency shall, upon verification of such findings, promptly publish corrective information through its official channels.
+(b) The IEC shall, upon verification of such findings, promptly publish corrective information through its official channels.
 
 ### Section 13. Research and Analysis
 
-(a) The Agency may commission certified fact-checking organizations to conduct research and analysis on trends in disinformation affecting federal elections and referendums.
+(a) The IEC may commission certified fact-checking organizations to conduct research and analysis on trends in disinformation affecting federal elections and referendums.
 
 (b) Research findings shall be used to inform IEC public education efforts and policy recommendations.
 
@@ -71,9 +71,9 @@ Establish an Independent Fact-Checking Integration Framework that:
 
 ### Section 22. Program Integrity
 
-(a) The Agency shall ensure that all integrated information is strictly non-partisan, objective, and focused on factual accuracy.
+(a) The IEC shall ensure that all integrated information is strictly non-partisan, objective, and focused on factual accuracy.
 
-(b) The Agency shall establish clear guidelines and oversight mechanisms to prevent partisan bias or ideological capture of the Program.
+(b) The IEC shall establish clear guidelines and oversight mechanisms to prevent partisan bias or ideological capture of the Program.
 
 ---
 
@@ -87,7 +87,7 @@ Establish an Independent Fact-Checking Integration Framework that:
 
 - **Objective Certification Criteria:** Section 2(a) mandates objective, publicly available criteria for certification, based on established principles of journalistic ethics and independence.
 - **IEC Independence:** The IEC's independent composition (established by the Independent Election Commission Act) protects against partisan capture of the certification process.
--   **Agency Independence:** The Agency is established as an independent body with an insulated Director.
+-   **Agency Independence:** The IEC is established as an independent body with an insulated Director.
 - **Transparency:** The public registry of certified organizations and transparent methodology (Section 2(a)(3)) allows for public scrutiny.
 - **Judicial Review:** IEC certification decisions are subject to federal judicial review for abuse of discretion.
 
@@ -136,7 +136,7 @@ Establish an Independent Fact-Checking Integration Framework that:
 
 ## Related Documents
 
-- Federal Agency for Civic Engagement and Media Literacy Act - Establishes the Agency that administers this Program.
+- [Independent Election Commission Act](independent-election-commission-act.md) - Establishes the IEC that administers this Program.
 - [Federal Digital Literacy and Media Education Program Act](federal-digital-literacy-act.md) - Complementary program to address disinformation.
 - [Social Media Platform Accountability Act](social-media-platform-accountability-act.md) - Provides a framework for platforms to act on disinformation.
 

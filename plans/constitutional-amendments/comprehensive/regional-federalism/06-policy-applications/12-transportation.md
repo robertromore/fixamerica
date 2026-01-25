@@ -4,6 +4,8 @@
 
 > **Purpose of this document:**
 > To describe how the Regional Federal constitutional system would restructure transportation governance, enabling regional coordination that matches actual travel patterns and infrastructure networks.
+>
+> **Related Statutory Proposal:** [`proposals/05-environment-infrastructure/inter-regional-transportation-mobility-act.md`](../proposals/05-environment-infrastructure/inter-regional-transportation-mobility-act.md)
 
 Transportation exemplifies where current boundaries create coordination challenges: metropolitan areas cross state lines, rail corridors span multiple states, freight networks operate regionally. Regional Federalism matches governance to these realities while preserving federal authority over national networks.
 
@@ -517,10 +519,9 @@ Regional Federalism transforms transportation governance by:
 - [The Regional Federal Constitution](../02-design/constitution/00-index.md)
 - [Article I - Regional Structure](../02-design/constitution/01-regional-structure.md)
 - [Article X - Fiscal System](../02-design/constitution/04-fiscal-system.md)
-- [National Common Market Access Act](../proposals/national-common-market-access-act.md)
+- [National Common Market Access Act](../proposals/03-economy-commerce/national-common-market-access-act.md)
 - [Energy Policy](10-energy.md) - Vehicle electrification intersection
 - [Climate and Environment](08-climate-environment.md) - Emissions standards intersection
-- [analysis/infrastructure/](../../../../analysis/infrastructure/)
 
 ---
 

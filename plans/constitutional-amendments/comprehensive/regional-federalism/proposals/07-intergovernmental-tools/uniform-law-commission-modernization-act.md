@@ -8,10 +8,10 @@ This proposal formally recognizes and empowers a non-partisan, expert body to dr
 
 Establish a Uniform Law Commission Modernization Act that:
 
--   Grants a federal charter to a modernized Uniform Law Commission (ULC) to serve as a center of excellence for drafting model state and regional laws.
--   Tasks the ULC with drafting model statutes in areas where inter-regional uniformity is most beneficial (e.g., commercial law, trust and estate law).
--   Requires Regional Assemblies to formally consider and vote on ULC-approved model laws, while preserving their freedom to adopt, reject, or modify them.
--   Provides stable federal funding for the ULC's research and drafting operations.
+- Grants a federal charter to a modernized Uniform Law Commission (ULC) to serve as a center of excellence for drafting model state and regional laws.
+- Tasks the ULC with drafting model statutes in areas where inter-regional uniformity is most beneficial (e.g., commercial law, trust and estate law).
+- Requires Regional Assemblies to formally consider and vote on ULC-approved model laws, while preserving their freedom to adopt, reject, or modify them.
+- Provides stable federal funding for the ULC's research and drafting operations.
 
 ---
 
@@ -96,9 +96,9 @@ Establish a Uniform Law Commission Modernization Act that:
 
 **Countermeasure:**
 
--   **Diverse Appointing Authorities (Section 3):** Commissioners are appointed by the Governors of all Regions, as well as the President, making capture by a single federal administration or a few Regions difficult.
--   **Professional Requirements:** Commissioners must be legal experts, which provides a professional, non-partisan filter.
--   **Voluntary Adoption (Section 22):** The ultimate check is that no Region is forced to adopt a law it finds overly partisan or unsuitable. A biased model act would simply be rejected by most Regions.
+- **Diverse Appointing Authorities (Section 3):** Commissioners are appointed by the Governors of all Regions, as well as the President, making capture by a single federal administration or a few Regions difficult.
+- **Professional Requirements:** Commissioners must be legal experts, which provides a professional, non-partisan filter.
+- **Voluntary Adoption (Section 22):** The ultimate check is that no Region is forced to adopt a law it finds overly partisan or unsuitable. A biased model act would simply be rejected by most Regions.
 
 **Outcome:** The decentralized appointment process and voluntary nature of adoption make partisan capture a low-impact risk.
 
@@ -110,9 +110,9 @@ Establish a Uniform Law Commission Modernization Act that:
 
 **Countermeasure:**
 
--   **Public Reporting (Section 23):** The ULC's public database will clearly show which Regions are failing to meet their consideration obligations.
--   **Political Pressure:** This transparency creates political pressure from in-region businesses, legal professionals, and good-government groups who desire legal clarity and modernization.
--   **Judicial Action:** A citizen or organization within the Region could potentially seek a writ of mandamus to compel the Assembly to fulfill its statutory duty to hold a vote.
+- **Public Reporting (Section 23):** The ULC's public database will clearly show which Regions are failing to meet their consideration obligations.
+- **Political Pressure:** This transparency creates political pressure from in-region businesses, legal professionals, and good-government groups who desire legal clarity and modernization.
+- **Judicial Action:** A citizen or organization within the Region could potentially seek a writ of mandamus to compel the Assembly to fulfill its statutory duty to hold a vote.
 
 **Outcome:** While direct federal enforcement is not envisioned, the transparency and political pressure created by the reporting requirement make systematic refusal to consider model acts difficult to sustain.
 
@@ -124,9 +124,9 @@ Establish a Uniform Law Commission Modernization Act that:
 
 **Countermeasure:**
 
--   **Independent Body (Section 1(b)):** The Act establishes the ULC as an independent body, not a federal agency subject to executive direction.
--   **Prohibition on Influence (Section 12(b)):** The Act explicitly prohibits using federal funds to influence the substantive content of model acts.
--   **Reputational Risk:** Any attempt at federal coercion would be a public scandal, undermining the ULC's credibility and the administration's legitimacy.
+- **Independent Body (Section 1(b)):** The Act establishes the ULC as an independent body, not a federal agency subject to executive direction.
+- **Prohibition on Influence (Section 12(b)):** The Act explicitly prohibits using federal funds to influence the substantive content of model acts.
+- **Reputational Risk:** Any attempt at federal coercion would be a public scandal, undermining the ULC's credibility and the administration's legitimacy.
 
 **Outcome:** The ULC's independent status and the explicit prohibition on using funding as leverage provide a strong defense against federal coercion.
 
@@ -144,13 +144,13 @@ Establish a Uniform Law Commission Modernization Act that:
 
 ## Related Documents
 
--   Inter-Regional Commerce and Trade Act - Part IV of this act also encourages model commercial codes.
--   Inter-Regional Family Law and Personal Status Act - An area where uniform laws would be highly beneficial.
--   Inter-Regional Consumer Protection and Data Privacy Act - Another area where uniform standards are needed.
+- Inter-Regional Commerce and Trade Act - Part IV of this act also encourages model commercial codes.
+- Inter-Regional Family Law and Personal Status Act - An area where uniform laws would be highly beneficial.
+- Inter-Regional Consumer Protection and Data Privacy Act - Another area where uniform standards are needed.
 
 ---
 
 ## Document Navigation
 
--   Previous: Inter-Regional Dispute Resolution Act
--   Parent: Regional Federalism Proposals
+- Previous: [Inter-Regional Dispute Resolution Act](inter-regional-dispute-resolution-act.md)
+- Parent: Regional Federalism Proposals

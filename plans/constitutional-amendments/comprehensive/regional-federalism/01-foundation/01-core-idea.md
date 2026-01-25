@@ -604,8 +604,6 @@ That is the core idea.
 ## Related Documents
 
 - [Allocation of Powers](../02-design/01-allocation-of-powers.md) - The second core pillar: what happens where and why
-- [Federalism Reform Analysis](../../../../../analysis/political/federalism-reform/01-overview.md)
-- [Constitutional Amendment Process](../../../../../analysis/political/constitutional-amendment-process/01-overview.md)
 
 ---
 

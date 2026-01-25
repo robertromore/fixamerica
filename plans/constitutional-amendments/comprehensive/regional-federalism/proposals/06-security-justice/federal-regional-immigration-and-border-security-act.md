@@ -2,6 +2,8 @@
 
 This proposal establishes a clear framework for the division of labor and coordination between federal and Regional authorities on immigration enforcement, border security, and immigrant integration.
 
+> **Related Conceptual Analysis:** [`06-policy-applications/03-immigration.md`](../../06-policy-applications/03-immigration.md)
+
 ---
 
 ## Purpose

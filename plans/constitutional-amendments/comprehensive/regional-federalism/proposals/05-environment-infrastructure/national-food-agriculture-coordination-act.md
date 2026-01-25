@@ -57,7 +57,7 @@ Establish a framework for National Food and Agriculture Coordination that:
 
 (a) **Equitable Apportionment.** Agricultural water use from shared inter-regional sources shall be subject to the principles of equitable apportionment as defined in the `Interstate Water Resources Coordination Act`.
 
-(b) **"Virtual Water" Trade.** The National Climate Coordination Council (NCCC) shall, in consultation with the Water Resources Coordination Board, study and report on the implications of "virtual water" trade (water embedded in agricultural products) for inter-regional water security and make recommendations for sustainable practices.
+(b) **"Virtual Water" Trade.** The National Resilience and Infrastructure Council (NRIC) shall, in consultation with the Water Resources Coordination Board, study and report on the implications of "virtual water" trade (water embedded in agricultural products) for inter-regional water security and make recommendations for sustainable practices.
 
 ### Section 5. Land Use and Conservation
 
@@ -79,7 +79,7 @@ Establish a framework for National Food and Agriculture Coordination that:
 
 ### Section 12. Supply Chain Vulnerability Assessment
 
-(a) The Department of Agriculture, in coordination with the NCCC and Regional agricultural authorities, shall conduct biennial assessments of national and Regional food supply chain vulnerabilities.
+(a) The Department of Agriculture, in coordination with the NRIC and Regional agricultural authorities, shall conduct biennial assessments of national and Regional food supply chain vulnerabilities.
 
 (b) Assessments shall identify critical infrastructure, single points of failure, and potential impacts of climate change or other disasters.
 
@@ -143,7 +143,7 @@ Establish a framework for National Food and Agriculture Coordination that:
 **Countermeasure:**
 
 - **Interstate Water Resources Coordination Act:** Governs equitable apportionment of shared water resources.
-- **"Virtual Water" Reporting (Section 4(b)):** The NCCC and Water Resources Coordination Board will highlight unsustainable practices.
+- **"Virtual Water" Reporting (Section 4(b)):** The NRIC and Water Resources Coordination Board will highlight unsustainable practices.
 - **Federal Conservation Programs (Section 5(a)):** Can incentivize less water-intensive crops or practices.
 
 **Outcome:** While Regions have autonomy, water use is subject to inter-regional equitable apportionment, and unsustainable practices will be publicly identified and potentially subject to federal incentives/disincentives.
@@ -166,12 +166,12 @@ Establish a framework for National Food and Agriculture Coordination that:
 - Inter-Regional Commerce and Trade Act - Prohibits economic protectionism.
 - Interstate Water Resources Coordination Act - Governs shared water resources.
 - Transboundary Environmental Harm Prevention Act - Addresses pollution from agricultural sources.
-- National Climate Coordination Council (NCCC) - Provides context for climate-related agricultural issues.
+- National Resilience and Infrastructure Council (NRIC) - Provides coordination for climate-related infrastructure and resilience issues.
 - Allocation Framework Act - Defines jurisdictional allocation principles.
 
 ---
 
 ## Document Navigation
 
-- Previous: Nuclear Facilities and Hazardous Materials Governance
+- Previous: [Nuclear Facilities and Hazardous Materials Governance](nuclear-hazardous-materials.md)
 - Parent: Regional Federalism Proposals

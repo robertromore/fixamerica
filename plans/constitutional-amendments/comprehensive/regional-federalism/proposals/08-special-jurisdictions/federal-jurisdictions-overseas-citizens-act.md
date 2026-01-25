@@ -8,10 +8,10 @@ This proposal clarifies the voting rights and representation of U.S. citizens re
 
 Establish a Federal Jurisdictions and Overseas Citizens Act that:
 
--   Ensures the voting rights of U.S. citizens residing overseas or in federal enclaves.
--   Clarifies the representation of these citizens in federal elections.
--   Establishes clear coordination protocols between federal enclaves and host Regional/local governments.
--   Defines the application of Regional law on federal enclaves.
+- Ensures the voting rights of U.S. citizens residing overseas or in federal enclaves.
+- Clarifies the representation of these citizens in federal elections.
+- Establishes clear coordination protocols between federal enclaves and host Regional/local governments.
+- Defines the application of Regional law on federal enclaves.
 
 ---
 
@@ -94,10 +94,10 @@ Establish a Federal Jurisdictions and Overseas Citizens Act that:
 
 **Countermeasure:**
 
--   **Federal Mandate (Section 1(a)):** The Act explicitly reaffirms the right to vote in federal elections.
--   **Last Region of Domicile (Section 1(b)):** Provides a clear, consistent rule for assigning voting jurisdiction.
--   **UOCAVA Adaptation (Section 1(c)):** Ensures the administrative mechanisms are in place.
--   **Federal Oversight:** The Independent Election Commission (IEC) would oversee compliance with federal voting rights.
+- **Federal Mandate (Section 1(a)):** The Act explicitly reaffirms the right to vote in federal elections.
+- **Last Region of Domicile (Section 1(b)):** Provides a clear, consistent rule for assigning voting jurisdiction.
+- **UOCAVA Adaptation (Section 1(c)):** Ensures the administrative mechanisms are in place.
+- **Federal Oversight:** The Independent Election Commission (IEC) would oversee compliance with federal voting rights.
 
 **Outcome:** Regions are legally obligated to facilitate voting for overseas citizens from their last domicile, with federal oversight ensuring compliance.
 
@@ -109,10 +109,10 @@ Establish a Federal Jurisdictions and Overseas Citizens Act that:
 
 **Countermeasure:**
 
--   **Mandatory MOUs (Section 12(a)):** Requires formal agreements for law enforcement coordination.
--   **Application of Regional Law (Section 13(a)):** Regional regulations apply unless specifically preempted by federal law or mission-critical.
--   **ARB Dispute Resolution (Section 22):** Provides a neutral arbiter for disputes over the application of Regional law.
--   **Council Oversight (Section 21):** The Federal Enclave Coordination Council facilitates cooperation.
+- **Mandatory MOUs (Section 12(a)):** Requires formal agreements for law enforcement coordination.
+- **Application of Regional Law (Section 13(a)):** Regional regulations apply unless specifically preempted by federal law or mission-critical.
+- **ARB Dispute Resolution (Section 22):** Provides a neutral arbiter for disputes over the application of Regional law.
+- **Council Oversight (Section 21):** The Federal Enclave Coordination Council facilitates cooperation.
 
 **Outcome:** Federal enclaves cannot operate as completely isolated entities; they are required to coordinate with host Regions and are generally subject to Regional law unless a clear federal conflict exists.
 
@@ -124,9 +124,9 @@ Establish a Federal Jurisdictions and Overseas Citizens Act that:
 
 **Countermeasure:**
 
--   **Federal Mission Preemption (Section 13(a)(2)):** Regional law is preempted if it creates an unreasonable burden on the federal mission.
--   **ARB Dispute Resolution (Section 22):** The ARB can adjudicate claims of unreasonable burden.
--   **Federal Supremacy:** The federal government retains ultimate authority over its property and operations.
+- **Federal Mission Preemption (Section 13(a)(2)):** Regional law is preempted if it creates an unreasonable burden on the federal mission.
+- **ARB Dispute Resolution (Section 22):** The ARB can adjudicate claims of unreasonable burden.
+- **Federal Supremacy:** The federal government retains ultimate authority over its property and operations.
 
 **Outcome:** While Regional law generally applies, the federal mission is protected from undue Regional interference, with the ARB serving as a neutral arbiter.
 
@@ -145,14 +145,14 @@ Establish a Federal Jurisdictions and Overseas Citizens Act that:
 
 ## Related Documents
 
--   Inter-Regional Taxation and Fiscal Coordination Act - Defines domicile for tax purposes, relevant for voting.
--   Federal-Regional Intelligence Sharing and Oversight Act - Governs information sharing for law enforcement.
--   Allocation Framework Act - Establishes the ARB and its general jurisdiction.
--   Elections Implementation Act - Provides the broader context for federal election procedures.
+- Inter-Regional Taxation and Fiscal Coordination Act - Defines domicile for tax purposes, relevant for voting.
+- Federal-Regional Intelligence Sharing and Oversight Act - Governs information sharing for law enforcement.
+- Allocation Framework Act - Establishes the ARB and its general jurisdiction.
+- Elections Implementation Act - Provides the broader context for federal election procedures.
 
 ---
 
 ## Document Navigation
 
--   Previous: Tribal-Regional Relations Framework
--   Parent: Regional Federalism Proposals
+- Previous: [Tribal-Regional Relations Framework](tribal-regional-relations.md)
+- Parent: Regional Federalism Proposals

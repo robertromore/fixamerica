@@ -2,6 +2,8 @@
 
 This proposal establishes a coordinated federal-Regional framework for the administration of social safety net programs, defining the allocation of responsibility and ensuring benefit portability and federal minimum standards.
 
+> **Related Conceptual Analysis:** [`06-policy-applications/13-social-safety-net.md`](../../06-policy-applications/13-social-safety-net.md)
+
 ---
 
 ## Purpose
@@ -200,5 +202,5 @@ Establish a framework for Social Safety Net Coordination that:
 
 ## Document Navigation
 
-- Previous: Inter-Regional Financial Regulation and Stability Act
+- Previous: [Inter-Regional Financial Regulation and Stability Act](../03-economy-commerce/inter-regional-financial-regulation-stability-act.md)
 - Parent: Regional Federalism Proposals

@@ -152,5 +152,5 @@ Establish a Federal Statistics and Data Integrity Act that:
 
 ## Document Navigation
 
--   Previous: Dual-Legitimacy Rights-Floor Statute
+-   Previous: [Dual-Legitimacy Rights-Floor Statute](dual-legitimacy-rights-floor-statute.md)
 -   Parent: Regional Federalism Proposals

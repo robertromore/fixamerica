@@ -149,5 +149,5 @@ Establish a framework for National Veterans Affairs Coordination that:
 
 ## Document Navigation
 
-- Previous: National Public Health and Health Equity Act
+- Previous: [National Public Health and Health Equity Act](national-public-health-and-health-equity-act.md)
 - Parent: Regional Federalism Proposals

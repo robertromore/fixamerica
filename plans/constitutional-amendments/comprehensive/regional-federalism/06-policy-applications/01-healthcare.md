@@ -4,6 +4,8 @@
 
 > **Purpose of this document:**
 > To describe how the Regional Federal constitutional system would restructure healthcare governance, preserving the policy analysis from the healthcare domain while applying the regional federalism framework.
+>
+> **Related Statutory Proposal:** [`proposals/04-social-policy-labor/inter-regional-healthcare-coordination-act.md`](../proposals/04-social-policy-labor/inter-regional-healthcare-coordination-act.md)
 
 Healthcare exemplifies the tensions in American federalism and represents a critical test case for regional governance.
 
@@ -94,7 +96,7 @@ Federal authority limited to ([Article II](../02-design/constitution/02-powers-a
 - **Medicare**: Federal program for elderly/disabled continues
 - **Drug/device approval**: FDA authority preserved
 - **National benefits floor**: Portable baseline coverage
-- **Emergency coordination**: Pandemic response framework ([Article XVII](../../../../single-topic/emergency-powers-reform/))
+- **Emergency coordination**: Pandemic response framework
 
 ### Regional Powers (Exclusive)
 
@@ -390,24 +392,24 @@ Healthcare under regional federalism represents the system's approach applied to
 ## Related Documents
 
 - [The Regional Federal Constitution](../02-design/constitution/00-index.md) - Authoritative source for all constitutional provisions
-- [Core Idea: Regional Federalism](../../01-foundation/01-core-idea.md)
-- [Design Axioms](../../01-foundation/02-design-axioms.md)
-- [Allocation of Powers](../../02-design/01-allocation-of-powers.md)
-- [Elections and Democratic Legitimacy](../../02-design/02-elections.md)
-- [Political Institutions](../../02-design/03-institutions.md)
-- [The Constitutional Amendment Process](../../02-design/04-amendment-process.md)
-- [Federal Taxation and Fiscal Architecture](../../02-design/05-fiscal-architecture.md)
-- [Armed Forces and Civilian Control](../../02-design/06-armed-forces.md)
-- [Judiciary and Constitutional Enforcement](../../02-design/07-judiciary.md)
-- [Secession, Nullification, and De-Escalation](../../02-design/08-secession-nullification.md)
-- [Stress-Testing Policy Conflicts](../../03-analysis/01-stress-testing-policy.md)
-- [Stress-Testing Economic Conflicts](../../03-analysis/02-stress-testing-economic.md)
-- [Historical Failure Analysis](../../03-analysis/03-historical-failures.md)
-- [Hostile Reinterpretation Stress Test](../../03-analysis/04-hostile-reinterpretation.md)
-- [Authoritarian Consolidation Scenario](../../03-analysis/05-authoritarian-scenario.md)
-- [Foreign Information Warfare Stress Test](../../03-analysis/06-foreign-information-warfare.md)
-- [Meta-Level Conclusions](../../04-meta/01-conclusions.md)
-- [Identified Gaps](../../04-meta/02-identified-gaps.md)
+- [Core Idea: Regional Federalism](../01-foundation/01-core-idea.md)
+- [Design Axioms](../01-foundation/02-design-axioms.md)
+- [Allocation of Powers](../02-design/01-allocation-of-powers.md)
+- [Elections and Democratic Legitimacy](../02-design/02-elections.md)
+- [Political Institutions](../02-design/03-institutions.md)
+- [The Constitutional Amendment Process](../02-design/04-amendment-process.md)
+- [Federal Taxation and Fiscal Architecture](../02-design/05-fiscal-architecture.md)
+- [Armed Forces and Civilian Control](../02-design/06-armed-forces.md)
+- [Judiciary and Constitutional Enforcement](../02-design/07-judiciary.md)
+- [Secession, Nullification, and De-Escalation](../02-design/08-secession-nullification.md)
+- [Stress-Testing Policy Conflicts](../03-analysis/01-stress-testing-policy.md)
+- [Stress-Testing Economic Conflicts](../03-analysis/02-stress-testing-economic.md)
+- [Historical Failure Analysis](../03-analysis/03-historical-failures.md)
+- [Hostile Reinterpretation Stress Test](../03-analysis/04-hostile-reinterpretation.md)
+- [Authoritarian Consolidation Scenario](../03-analysis/05-authoritarian-scenario.md)
+- [Foreign Information Warfare Stress Test](../03-analysis/06-foreign-information-warfare.md)
+- [Meta-Level Conclusions](../04-meta/01-conclusions.md)
+- [Identified Gaps](../04-meta/02-identified-gaps.md)
 - [Non-Constitutional Safeguards Playbook](../05-implementation/01-safeguards-playbook.md)
 - [Constitutional Transition Act](../05-implementation/02-transition-act.md)
 - [Allocation Framework Act](../05-implementation/03-allocation-framework-act.md)

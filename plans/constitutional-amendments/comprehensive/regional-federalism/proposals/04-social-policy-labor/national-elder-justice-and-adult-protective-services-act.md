@@ -165,5 +165,5 @@ Establish a framework for Elder Justice and Adult Protective Services that:
 
 ## Document Navigation
 
-- Previous: Inter-Regional Child Welfare Coordination Act
+- Previous: [Inter-Regional Child Welfare Coordination Act](inter-regional-child-welfare-coordination-act.md)
 - Parent: Regional Federalism Proposals

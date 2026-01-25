@@ -488,12 +488,12 @@ agencies explicitly.
 
 - [Inter-Regional Joint Authority: Constitutional Default Template](interregional-joint-authority-template.md) - The constitutional template this Act implements
 - [Interregional Shared Services Authority Act](interregional-shared-services-authority-act.md) - Optional shared administrative services for interregional agencies
-- [Article I, Section 5 (Inter-Regional Cooperation)](../02-design/constitution/01-regional-structure.md) - Constitutional authorization for compacts
-- [Article I, Section 6 (Right of Transit)](../02-design/constitution/01-regional-structure.md) - Non-blockade provisions referenced in Section 11(b)
-- [DLRS (Dual Legitimacy Rights Floor Statute)](dual-legitimacy-rights-floor-statute.md) - Rights floors referenced in Section 15(c) (proposed Article III, Section 4)
-- [The Regional Federal Constitution](../02-design/constitution/00-index.md) - Authoritative source for all constitutional provisions
-- [Gap 16 — Inter-Regional Cooperation Mechanisms](../04-meta/02-identified-gaps.md) - Gap analysis this proposal addresses
-- [Allocation Review Board (Article II, Section 5)](../02-design/constitution/02-powers-and-rights.md) - Auditor appointment fallback (Section 7A(a)) and dispute resolution (Section 11A)
+- [Article I, Section 5 (Inter-Regional Cooperation)](../../02-design/constitution/01-regional-structure.md) - Constitutional authorization for compacts
+- [Article I, Section 6 (Right of Transit)](../../02-design/constitution/01-regional-structure.md) - Non-blockade provisions referenced in Section 11(b)
+- [DLRS (Dual Legitimacy Rights Floor Statute)](../01-foundations/dual-legitimacy-rights-floor-statute.md) - Rights floors referenced in Section 15(c) (proposed Article III, Section 4)
+- [The Regional Federal Constitution](../../02-design/constitution/00-index.md) - Authoritative source for all constitutional provisions
+- [Gap 16 — Inter-Regional Cooperation Mechanisms](../../04-meta/02-identified-gaps.md) - Gap analysis this proposal addresses
+- [Allocation Review Board (Article II, Section 5)](../../02-design/constitution/02-powers-and-rights.md) - Auditor appointment fallback (Section 7A(a)) and dispute resolution (Section 11A)
 
 ---
 

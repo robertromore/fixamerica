@@ -4,6 +4,8 @@
 
 > **Purpose of this document:**
 > To describe how the Regional Federal constitutional system would restructure drug policy governance, enabling regional experimentation within a federal framework while addressing cross-border issues.
+>
+> **Related Statutory Proposal:** [`proposals/06-security-justice/federal-criminal-code-modernization-and-jurisdiction-act.md`](../proposals/06-security-justice/federal-criminal-code-modernization-and-jurisdiction-act.md)
 
 Drug policy exemplifies where current federal-state conflict produces inconsistent outcomes. Regional Federalism provides a framework for regional variation while maintaining federal authority over international trafficking and establishing rights floors.
 
@@ -11,20 +13,58 @@ Drug policy exemplifies where current federal-state conflict produces inconsiste
 
 ## Table of Contents
 
-1. Current Federal-State Drug Policy Structure
-2. Problems Regional Federalism Addresses
-3. Drug Policy Powers Under Regional Federalism
-4. Regional Legalization Options
-5. Interstate Commerce
-6. Banking and Finance
-7. Criminal Justice Transition
-8. Public Health Approach
-9. Cross-Regional Issues
-10. Implementation Considerations
+1. Constitutional Provisions
+2. Current Federal-State Drug Policy Structure
+3. Problems Regional Federalism Addresses
+4. Drug Policy Powers Under Regional Federalism
+5. Regional Legalization Options
+6. Interstate Commerce
+7. Banking and Finance
+8. Criminal Justice Transition
+9. Public Health Approach
+10. Cross-Regional Issues
+11. Implementation Considerations
 
 ---
 
-## 1. Current Federal-State Drug Policy Structure
+## 1. Constitutional Provisions
+
+The following constitutional provisions govern drug policy under Regional Federalism:
+
+**Article II, Section 1 (Federal Powers)**
+- International drug trafficking and import/export controls remain exclusively federal
+- Interstate trafficking of federally prohibited substances under federal jurisdiction
+- Scheduling framework authority retained at federal level
+
+**Article II, Section 2 (Regional Powers)**
+- Intra-regional commerce regulation includes drug commerce within regional boundaries
+- Regional authority over licensing, taxation, and regulatory frameworks
+- Public health vs. enforcement approach determined regionally
+
+**Article II, Section 3 (State/Local Powers)**
+- Local option for retail sales and zoning
+- Municipal licensing and enforcement discretion
+
+**Article I, Section 6 (Right of Transit)**
+- Personal possession for transit through non-legalizing regions protected
+- Commercial transport requires destination region authorization
+
+**Article I, Section 8 (Freedom of Movement)**
+- Residents cannot be prosecuted for conduct legal in another region
+- Consumption in legalizing region protected from home-region prosecution
+
+**Article III, Section 1 (Rights Floors)**
+- Due process protections in drug enforcement
+- Protection against cruel and unusual punishment
+- Equal protection in enforcement and sentencing
+
+**Article X (Fiscal System)**
+- Regions retain drug taxation revenue
+- No federal coercion through conditional funding related to drug policy
+
+---
+
+## 2. Current Federal-State Drug Policy Structure
 
 The current system creates direct conflict:
 
@@ -315,7 +355,6 @@ Regional Federalism transforms drug policy by:
 
 - [The Regional Federal Constitution](../02-design/constitution/00-index.md)
 - [Criminal Justice](07-criminal-justice.md)
-- [analysis/drugs/](../../../../analysis/drugs/)
 
 ---
 

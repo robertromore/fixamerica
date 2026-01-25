@@ -16,6 +16,32 @@ Establish a National Disaster Response and Recovery Coordination Framework that:
 
 ---
 
+## Part I: Definitions and Scope
+
+### Section 1. Definitions
+
+For purposes of this Act:
+
+(a) "Disaster" means any natural catastrophe, including earthquake, hurricane, tornado, storm, flood, wildfire, volcanic eruption, landslide, mudslide, drought, or other natural event, which causes damage of sufficient severity to warrant federal assistance.
+
+(b) "Emergency" means any occasion or instance for which federal assistance is needed to supplement Regional and local efforts to save lives and protect property and public health.
+
+(c) "Major disaster" means any natural catastrophe that the President determines causes damage of sufficient severity and magnitude to warrant federal disaster assistance under this Act.
+
+(d) "Region" has the meaning given in the Regional Federal Constitution.
+
+(e) "Council" means the National Resilience and Infrastructure Council established by the National Infrastructure Investment and Coordination Act.
+
+### Section 2. Scope
+
+(a) This Act applies to all natural disasters and emergencies affecting one or more Regions of the United States.
+
+(b) This Act supplements but does not replace the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. § 5121 et seq.), except where explicitly amended herein.
+
+(c) Nothing in this Act shall diminish Regional authority over disaster preparedness and response within Regional boundaries.
+
+---
+
 ## Part II: Disaster Preparedness
 
 ### Section 11. National Mutual Aid Compact
@@ -159,5 +185,5 @@ A politically-motivated administration could direct federal assistance to favore
 
 ## Document Navigation
 
-- Previous: Climate Emergency Coordination
+- Previous: [Climate Emergency Coordination](climate-emergency-coordination.md)
 - Parent: Regional Federalism Proposals

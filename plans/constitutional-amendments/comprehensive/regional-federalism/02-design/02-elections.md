@@ -234,7 +234,7 @@ Legitimacy depends on:
 
 ### 7.2 Constitutional safeguards
 
-The system enforces ([Article VII, Section 3](constitution/03-elections.md)):
+The system enforces ([Article VII, Section 3](single-topic/election-reform/00-index.md)):
 
 - **90-day blackout period** for rule changes before any federal election
 - automatic invalidation of changes enacted within the blackout period
@@ -248,7 +248,7 @@ No election may be governed by improvised rules.
 
 ### 8.1 Certification authority
 
-Certification occurs at the **regional level** ([Article VII, Section 4](constitution/03-elections.md)):
+Certification occurs at the **regional level** ([Article VII, Section 4](single-topic/election-reform/00-index.md)):
 
 - **Regional certification**: within 14 days of the election
 - **National certification**: within 21 days of the election
@@ -307,7 +307,7 @@ This is normal-not a crisis.
 
 The presidency is decided by:
 
-- national popular vote (as mandated by [Article VII, Section 2](constitution/03-elections.md))
+- national popular vote (as mandated by [Article VII, Section 2](single-topic/election-reform/00-index.md))
 - certification aggregated from regions
 
 **Majority requirement**: The winner must receive a majority of votes cast. If no candidate achieves a majority, Congress provides a mechanism (ranked-choice voting, runoff, or other method).
@@ -316,7 +316,7 @@ The presidency is decided by:
 
 No single region can veto national outcomes.
 
-> **Design note:** An earlier draft explored proportional regional vote allocation as an alternative. This approach was **not adopted** in the constitutional design, which explicitly prohibits regional allocation or weighting of electoral votes. See [Article VII, Section 2(c)](constitution/03-elections.md).
+> **Design note:** An earlier draft explored proportional regional vote allocation as an alternative. This approach was **not adopted** in the constitutional design, which explicitly prohibits regional allocation or weighting of electoral votes. See [Article VII, Section 2(c)](single-topic/election-reform/00-index.md).
 
 ---
 

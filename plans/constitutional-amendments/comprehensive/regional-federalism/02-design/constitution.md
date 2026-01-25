@@ -11,19 +11,21 @@ This constitution includes:
 - **Articles I-V**: Regional structure, allocation of powers, rights, legislative and executive branches
 - **Article X**: Fiscal architecture
 - **Article XII-XIII**: Secession/de-escalation and amendment process
-- **Articles XIV-RF, XV-RF, XVII-RF**: Region-specific provisions for judiciary, armed forces, and emergency powers (these supplement companion national amendments)
+- **Articles XIV-RF, XI-RF, XVII-RF**: Region-specific provisions for judiciary, armed forces, and emergency powers (these supplement companion national amendments)
 - **Articles XVIII-XXII**: Supremacy, transition, non-state entities, implementation, definitions
 
 **Companion National Amendments** (in `single-topic/`): The following articles are reserved for standalone national reforms that work with or without Regional Federalism:
 
-- **Article VI**: Reserved for Judicial Reform Amendment (term limits, mandatory jurisdiction, appointment reform)
-- **Article VII**: Reserved for Elections Reform Amendment (national popular vote, certification procedures)
-- **Article VIII**: Reserved for Military Civilian Control Amendment (two-key authorization, deployment limits)
-- **Article IX**: Reserved for Emergency Powers Reform Amendment (categories, time limits, judicial review)
-- **Article XI**: Reserved for Congressional Process Reform Amendment (budget, lobbying, ethics)
-- **Article XVI**: Reserved for Federal Reserve Reform Amendment (independence, transparency)
+- **Article VII**: Elections Reform Amendment (national popular vote, certification procedures)
+- **Article VIII**: Impeachment Reform Amendment (procedures, standards)
+- **Article IX**: Lobbying and Anti-Corruption Amendment (ethics, lobbying rules)
+- **Article XI**: Military Civilian Control Amendment (two-key authorization, deployment limits)
+- **Article XIV**: Judicial Reform Amendment (term limits, mandatory jurisdiction, appointment reform)
+- **Article XV**: Federal Reserve Reform Amendment (independence, transparency)
+- **Article XVI**: Cyber and Digital Defense Amendment (digital security framework)
+- **Article XVII**: Emergency Powers Reform Amendment (categories, time limits, judicial review)
 
-The RF-suffixed articles (XIV-RF, XV-RF, XVII-RF) contain **only** the region-specific provisions that supplement these national amendments.
+The RF-suffixed articles (XIV-RF, XI-RF, XVII-RF) contain **only** the region-specific provisions that supplement these national amendments.
 
 ---
 
@@ -435,7 +437,7 @@ The Senate shall not function as a routine legislative veto.
 
 ### Section 4-A. Senate Concurrence for Constitutional Safeguards (Proposed)
 
-> **Note:** This section is a proposed optional enhancement. See the [Senate Safeguard Concurrence Amendment](proposals/senate-safeguard-concurrence-act.md) for full text and analysis.
+> **Note:** This section is a proposed optional enhancement. See the [Senate Safeguard Concurrence Amendment](proposals/01-foundations/senate-safeguard-concurrence-act.md) for full text and analysis.
 
 Senate concurrence by majority vote may be required for legislation affecting constitutional safeguards, including emergency powers, domestic armed force deployment, election administration, judicial structure, de-escalation procedures, and allocation of powers.
 
@@ -655,7 +657,7 @@ No amendment may apply asymmetrically among Regions.
 
 ---
 
-## ARTICLE XV-RF - REGIONAL GUARD FORCES
+## ARTICLE XI-RF - REGIONAL GUARD FORCES
 
 *This article presumes adoption of the Military Civilian Control Amendment or an equivalent provision establishing civilian supremacy over armed forces, two-key authorization for domestic deployment, duty to refuse unlawful orders, prohibited uses of armed forces, and transparency and accountability requirements. If the Military Civilian Control Amendment is adopted alongside Regional Federalism, substitute "Regional Governors" for "State Governors" in Key 2 authorization throughout that amendment.*
 
@@ -769,7 +771,7 @@ Two-key authorization may not be waived, delegated to military officers, or sati
 
 (b) Regional Governors may request federal emergency assistance. Such requests do not require Regional emergency declaration.
 
-(c) Regional Guard Forces may be deployed under Regional emergency authority without federal approval, subject to the limitations in Article XV-RF.
+(c) Regional Guard Forces may be deployed under Regional emergency authority without federal approval, subject to the limitations in Article XI-RF.
 
 ---
 
@@ -831,7 +833,7 @@ The following provisions take effect immediately upon ratification and may not b
 - Prohibition on power expansion during transition
 - The amendment process (Article XIII)
 - Mandatory jurisdiction for constitutional cases (Judicial Reform Amendment, or if not adopted, such mandatory jurisdiction provisions as Congress may establish by statute within one year)
-- Two-key authorization requirements for domestic deployment (Military Civilian Control Amendment, or if not adopted, Article XV-RF, Section 2 applies to Regional Guard Forces)
+- Two-key authorization requirements for domestic deployment (Military Civilian Control Amendment, or if not adopted, Article XI-RF, Section 2 applies to Regional Guard Forces)
 
 ---
 
@@ -1192,22 +1194,22 @@ It promises something more realistic:
 - [Supremacy and Transition](constitution/06-supremacy.md) - Articles XVIII-XX
 - [Implementation](constitution/07-implementation.md) - Articles XXI-XXII
 - [Regional Courts](constitution/09-judiciary.md) - Article XIV-RF (RF Supplement)
-- [Regional Guard Forces](constitution/10-armed-forces.md) - Article XV-RF (RF Supplement)
+- [Regional Guard Forces](constitution/10-armed-forces.md) - Article XI-RF (RF Supplement)
 - [Regional Emergency Authority](constitution/11-emergency-powers.md) - Article XVII-RF (RF Supplement)
 
 ### Implementing Proposals
 
-- [De-Escalation Procedures Act](proposals/de-escalation-procedures-act.md)
-- [Regional Boundary Review Act](proposals/boundary-review-act.md)
-- [Water Resources Coordination Act](proposals/water-resources-coordination-act.md)
-- [D.C. Status Determination Act](proposals/dc-status-determination-act.md)
-- [Interregional Coordination Review Act](proposals/interregional-coordination-review-act.md)
-- [National Common Market Access Act](proposals/national-common-market-access-act.md)
-- [Interstate Professional Licensing Act](proposals/interstate-professional-licensing-act.md)
-- [Transboundary Environmental Protection Act](proposals/transboundary-environmental-protection-act.md)
-- [Interstate Law Enforcement Cooperation Act](proposals/interstate-law-enforcement-cooperation-act.md)
-- [Territories Status Act](proposals/territories-status-act.md)
+- [De-Escalation Procedures Act](proposals/01-foundations/de-escalation-procedures-act.md)
+- [Regional Boundary Review Act](proposals/01-foundations/boundary-review-act.md)
+- [Interstate Water Resources Coordination Act](proposals/05-environment-infrastructure/water-resources-coordination-act.md)
+- [D.C. Status Determination Act](proposals/08-special-jurisdictions/dc-status-determination-act.md)
+- [Interregional Coordination Review Act](proposals/01-foundations/interregional-coordination-review-act.md)
+- [National Common Market Access Act](proposals/03-economy-commerce/national-common-market-access-act.md)
+- [Interstate Professional Licensing Act](proposals/04-social-policy-labor/interstate-professional-licensing-act.md)
+- [Transboundary Environmental Protection Act](proposals/05-environment-infrastructure/transboundary-environmental-protection-act.md)
+- [Interstate Law Enforcement Cooperation Act](proposals/06-security-justice/interstate-law-enforcement-cooperation-act.md)
+- [Territories Status Act](proposals/08-special-jurisdictions/territories-status-act.md)
 
 ### Companion Standalone Amendments
 
-See [single-topic/](../../../single-topic/) for standalone amendments that work with either the existing federal/state system or with Regional Federalism.
+See [single-topic/](single-topic/) for standalone amendments that work with either the existing federal/state system or with Regional Federalism.

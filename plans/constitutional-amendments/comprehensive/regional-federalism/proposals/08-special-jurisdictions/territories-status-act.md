@@ -352,8 +352,6 @@ financial support for territorial governance transitions.
 
 (a) The elected chief executive of each territory (e.g., Governor), or a designee, shall be granted non-voting, ex officio membership on any federal-regional council established by federal law whose policy domain directly and substantially affects that territory.
 
-
-
 ---
 
 ## Hostile Reinterpretation Stress Test
@@ -460,13 +458,14 @@ status ensures representation.
 
 ## Related Documents
 
-- [Article XX, Section 2](../02-design/constitution/06-supremacy.md) - Constitutional foundation
+- [Article XX, Section 2](../../02-design/constitution/06-supremacy.md) - Constitutional foundation
 - [D.C. Status Determination Act](dc-status-determination-act.md) - Related D.C. procedures
 - [Regional Boundary Review Act](boundary-review-act.md) - Related boundary procedures
-- [Identified Gaps](../04-meta/02-identified-gaps.md) - Related gap analysis
+- [Identified Gaps](../../04-meta/02-identified-gaps.md) - Related gap analysis
 
 ---
 
 ## Document Navigation
-- Previous: [Interstate Law Enforcement Cooperation Act](../justice-law-enforcement/interstate-law-enforcement-cooperation-act.md)
+
+- Previous: [Interstate Law Enforcement Cooperation Act](../06-security-justice/interstate-law-enforcement-cooperation-act.md)
 - Parent: [Regional Federalism Proposals](../README.md)

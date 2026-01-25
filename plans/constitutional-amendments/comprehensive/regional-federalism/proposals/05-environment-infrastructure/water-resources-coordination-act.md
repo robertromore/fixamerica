@@ -428,13 +428,13 @@ pre-existing water compacts.
 
 ## Related Documents
 
-- [Article I, Section 7](../02-design/constitution/01-regional-structure.md) - Constitutional foundation
-- [Gap 18 (Water Rights - RESOLVED)](../04-meta/02-identified-gaps.md) - Gap that prompted this provision
-- [Environmental Border Protection](../02-design/constitution/01-regional-structure.md) - Related Article I, Section 10
-- [Judicial Reform](../02-design/07-judiciary.md) - National Water Court context
+- [Article I, Section 7](../../02-design/constitution/01-regional-structure.md) - Constitutional foundation
+- [Gap 18 (Water Rights - RESOLVED)](../../04-meta/02-identified-gaps.md) - Gap that prompted this provision
+- [Environmental Border Protection](../../02-design/constitution/01-regional-structure.md) - Related Article I, Section 10
+- [Judicial Reform](../../02-design/single-topic/judicial-reform.md) - Article XIV standalone; Water Court in Article I, Section 7(f)
 
 ---
 
 ## Document Navigation
-- Previous: [Boundary Review Act](boundary-review-act.md)
+- Previous: [Boundary Review Act](../01-foundations/boundary-review-act.md)
 - Parent: [Regional Federalism Proposals](../README.md)

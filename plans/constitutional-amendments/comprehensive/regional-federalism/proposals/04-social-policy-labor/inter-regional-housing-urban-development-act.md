@@ -2,6 +2,8 @@
 
 This proposal establishes a framework for coordinating housing policy, urban development, and homelessness strategies across Regional boundaries, ensuring sustainable growth and equitable access to housing.
 
+> **Related Conceptual Analysis:** [`06-policy-applications/02-housing.md`](../../06-policy-applications/02-housing.md)
+
 ---
 
 ## Purpose
@@ -191,5 +193,5 @@ Establish a framework for Inter-Regional Housing and Urban Development that:
 
 ## Document Navigation
 
-- Previous: Inter-Regional Workforce Development and Labor Mobility Act
+- Previous: [Inter-Regional Workforce Development and Labor Mobility Act](inter-regional-workforce-development-labor-mobility-act.md)
 - Parent: Regional Federalism Proposals

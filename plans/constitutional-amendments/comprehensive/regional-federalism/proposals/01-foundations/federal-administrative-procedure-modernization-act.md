@@ -128,5 +128,5 @@ Establish a Federal Administrative Procedure Modernization Act that:
 
 ## Document Navigation
 
--   Previous: Federal Statistics and Data Integrity Act
+-   Previous: [Federal Statistics and Data Integrity Act](federal-statistics-and-data-integrity-act.md)
 -   Parent: Regional Federalism Proposals

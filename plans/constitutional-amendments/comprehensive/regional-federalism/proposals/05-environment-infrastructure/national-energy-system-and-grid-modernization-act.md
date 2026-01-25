@@ -2,6 +2,8 @@
 
 This proposal establishes a federal-regional framework for managing the national energy grid, coordinating the transition to new energy sources, and ensuring energy reliability and affordability across all Regions.
 
+> **Related Conceptual Analysis:** [`06-policy-applications/10-energy.md`](../../06-policy-applications/10-energy.md)
+
 ---
 
 ## Purpose
@@ -170,5 +172,5 @@ Establish a framework for National Energy System and Grid Modernization that:
 
 ## Document Navigation
 
-- Previous: International Nuclear Waste Treaty Ratification Act
+- Previous: [International Nuclear Waste Treaty Ratification Act](international-nuclear-waste-treaty-act.md)
 - Parent: Regional Federalism Proposals

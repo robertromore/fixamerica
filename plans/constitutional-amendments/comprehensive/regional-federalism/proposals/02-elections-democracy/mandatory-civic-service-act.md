@@ -51,7 +51,7 @@ Establish a Mandatory Civic Service and Education Program that:
     - (3) Critical thinking and media literacy (consistent with the Federal Digital Literacy Act).
     - (4) The history of democratic movements and civil rights.
 
-(b) The Federal Agency for Civic Engagement and Media Literacy shall develop model curricula and provide technical assistance to Regions.
+(b) The Independent Election Commission (IEC) shall develop model curricula and provide technical assistance to Regions.
 
 ### Section 12. Post-Secondary Civic Engagement
 
@@ -84,7 +84,7 @@ Establish a Mandatory Civic Service and Education Program that:
 
 **Countermeasure:**
 
--   **Agency Oversight:** The Federal Agency for Civic Engagement and Media Literacy is an independent body that protects against partisan capture of program administration.
+-   **IEC Oversight:** The Independent Election Commission is an independent body that protects against partisan capture of program administration.
 -   **Strict Non-Partisanship:** All civic education curricula and service placements are mandated to be strictly non-partisan and objective.
 -   **Diverse Service Options:** The wide range of service options (Section 2(a)) makes it difficult to uniformly impose a single partisan agenda.
 -   **Public Reporting:** Annual reports to Congress and the public (Section 13(a) of Federal Digital Literacy Act, applicable here) ensure transparency and accountability.
@@ -102,7 +102,6 @@ Establish a Mandatory Civic Service and Education Program that:
 -   **Mandatory Appropriation:** The Act could specify that Program funding is a mandatory appropriation, insulated from discretionary cuts.
 -   **Broad Public Support:** The Program's focus on public service and civic development can garner broad public support, making defunding politically costly.
 -   **IEC Independence:** The IEC's independent status protects it from direct executive interference in program administration.
--   **Agency Independence:** The Agency's independent status protects it from direct executive interference.
 
 **Outcome:** While political pressure is possible, direct defunding or sabotage is made more difficult by the Program's independent administration.
 

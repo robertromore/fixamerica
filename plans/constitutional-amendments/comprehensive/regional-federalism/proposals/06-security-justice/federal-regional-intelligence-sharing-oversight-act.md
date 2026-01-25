@@ -188,5 +188,5 @@ Establish a framework for Federal-Regional Intelligence Sharing and Oversight th
 
 ## Document Navigation
 
--   Previous: Digital and AI Governance Framework
+-   Previous: [Digital and AI Governance Framework](digital-ai-governance.md)
 -   Parent: Regional Federalism Proposals

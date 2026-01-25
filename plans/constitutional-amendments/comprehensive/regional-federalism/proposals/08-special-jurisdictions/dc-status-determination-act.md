@@ -318,8 +318,6 @@ Maryland, Virginia, or elsewhere).
 
 (a) Pending a final status determination under this Act, the Mayor of the District of Columbia, or a designee, shall be granted non-voting, ex officio membership on all federal-regional councils established by federal law to ensure the interests of the District's residents are represented in intergovernmental policy coordination.
 
-
-
 ---
 
 ## Hostile Reinterpretation Stress Test
@@ -422,13 +420,14 @@ suppression is subject to federal enforcement.
 
 ## Related Documents
 
-- [Article XX, Section 1](../02-design/constitution/06-supremacy.md) - Constitutional foundation
-- [Regional Structure](../02-design/constitution/01-regional-structure.md) - Article I, Section 4 (boundary revision)
-- [Elections Implementation Act](../05-implementation/05-elections-implementation-act.md) - Election procedures
-- [Identified Gaps](../04-meta/02-identified-gaps.md) - Related gap analysis
+- [Article XX, Section 1](../../02-design/constitution/06-supremacy.md) - Constitutional foundation
+- [Regional Structure](../../02-design/constitution/01-regional-structure.md) - Article I, Section 4 (boundary revision)
+- [Elections Implementation Act](../../05-implementation/05-elections-implementation-act.md) - Election procedures
+- [Identified Gaps](../../04-meta/02-identified-gaps.md) - Related gap analysis
 
 ---
 
 ## Document Navigation
-- Previous: [Water Resources Coordination Act](../interregional-coordination/water-resources-coordination-act.md)
+
+- Previous: [Water Resources Coordination Act](../05-environment-infrastructure/water-resources-coordination-act.md)
 - Parent: [Regional Federalism Proposals](../README.md)

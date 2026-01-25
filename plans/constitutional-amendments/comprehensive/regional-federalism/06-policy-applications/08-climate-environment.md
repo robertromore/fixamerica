@@ -4,6 +4,10 @@
 
 > **Purpose of this document:**
 > To describe how the Regional Federal constitutional system would restructure climate and environmental governance, enabling effective action at the appropriate scale while maintaining national coordination and federal floors.
+>
+> **Related Statutory Proposals:**
+> - [`proposals/05-environment-infrastructure/national-environmental-quality-standards-act.md`](../proposals/05-environment-infrastructure/national-environmental-quality-standards-act.md)
+> - [`proposals/05-environment-infrastructure/climate-emergency-coordination.md`](../proposals/05-environment-infrastructure/climate-emergency-coordination.md)
 
 Climate and environmental policy exemplifies where current federalism produces coordination challenges: problems cross state borders, federal action swings with elections, and states lack the scale for effective solutions. Regional Federalism addresses these structural patterns.
 
@@ -86,7 +90,7 @@ National environmental policy faces:
 
 ## 3. Environmental Powers Under Regional Federalism
 
-This section applies the allocation framework established in [Article II](../02-design/constitution/02-powers-and-rights.md) and operationalized by the [Allocation Framework Act](../05-implementation/03-allocation-framework-act.md).
+This section applies the allocation framework established in [Article II](../02-design/constitution/02-powers-and-rights.md) and operationalized by the [Allocation Framework Act](../proposals/01-foundations/allocation-framework-act.md).
 
 ### Federal Powers (Enumerated)
 
@@ -202,7 +206,7 @@ Water in the American West faces:
 
 ### Regional Federalism Solution
 
-The [Water Resources Coordination Act](../proposals/water-resources-coordination-act.md) implements Article I, Section 7:
+The [Interstate Water Resources Coordination Act](../proposals/05-environment-infrastructure/water-resources-coordination-act.md) implements Article I, Section 7:
 
 **National Water Resources Coordination Board**:
 
@@ -245,7 +249,7 @@ The [Water Resources Coordination Act](../proposals/water-resources-coordination
 
 > No State or Region shall permit activities within its jurisdiction that cause significant environmental degradation in another State or Region.
 
-The [Transboundary Environmental Protection Act](../proposals/transboundary-environmental-protection-act.md) implements this with:
+The [Transboundary Environmental Protection Act](../proposals/05-environment-infrastructure/transboundary-environmental-protection-act.md) implements this with:
 
 - EPA monitoring of cross-border pollution
 - Civil penalties (not equalization withholding per Anti-Coercion Rule)
@@ -448,11 +452,10 @@ Climate and environmental policy under Regional Federalism represents the system
 ## Related Documents
 
 - [The Regional Federal Constitution](../02-design/constitution/00-index.md) - Authoritative source for all constitutional provisions
-- [Water Resources Coordination Act](../proposals/water-resources-coordination-act.md) - Water management implementation
-- [Transboundary Environmental Protection Act](../proposals/transboundary-environmental-protection-act.md) - Pollution control
+- [Interstate Water Resources Coordination Act](../proposals/05-environment-infrastructure/water-resources-coordination-act.md) - Water management implementation
+- [Transboundary Environmental Protection Act](../proposals/05-environment-infrastructure/transboundary-environmental-protection-act.md) - Pollution control
 - [Energy Policy](10-energy.md) - Related energy policy application
 - [Fiscal Equalization Act](../05-implementation/04-fiscal-equalization-act.md) - Transition support mechanisms
-- [analysis/environment/](../../../../analysis/environment/) - Environmental policy analysis
 
 ---
 

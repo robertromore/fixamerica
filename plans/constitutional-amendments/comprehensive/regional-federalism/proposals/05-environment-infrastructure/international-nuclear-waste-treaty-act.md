@@ -111,7 +111,7 @@ Establish an International Nuclear Waste Treaty Ratification Framework that:
 ## Related Documents
 
 - [Nuclear Waste Trust Fund and Accountability Act](nuclear-waste-trust-fund-act.md) - Provides domestic funding and accountability for nuclear waste.
-- [Nuclear Facilities and Hazardous Materials Governance Act](../environmental-resources/nuclear-hazardous-materials.md) - Context for federal and Regional authority over nuclear materials.
+- [Nuclear Facilities and Hazardous Materials Governance Act](../05-environment-infrastructure/nuclear-hazardous-materials.md) - Context for federal and Regional authority over nuclear materials.
 
 ---
 

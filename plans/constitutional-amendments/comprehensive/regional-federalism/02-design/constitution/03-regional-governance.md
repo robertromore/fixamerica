@@ -4,8 +4,8 @@
 
 *This document contains the regional-specific governance provisions of the Regional Federal Constitution. For standalone federal governance reforms, see the companion plans:*
 
-- *[Congressional Reform](../../../../single-topic/congressional-reform/) - Generic federal legislative reforms*
-- *[Executive Reform](../../../../single-topic/executive-reform/) - Generic federal executive reforms*
+- *[Congressional Reform](../single-topic/congressional-reform.md) - Generic federal legislative reforms*
+- *[Executive Reform](../single-topic/executive-reform.md) - Generic federal executive reforms*
 
 ---
 
@@ -25,11 +25,15 @@ The House shall be elected by the People according to population and shall initi
 
 ### Section 3. The Senate
 
-The Senate shall represent the Regions equally.
+(a) The Senate shall represent the Regions equally.
 
-Each Region shall select Senators according to Regional law.
+(b) Each Region shall be represented by three Senators, elected at-large within the Region by ranked-choice voting for staggered six-year terms.
 
-**Transitional Exception.** Senators representing the District of Columbia and United States territories prior to Regional assignment serve as at-large members with full voting rights pursuant to Article XX, Sections 1(b) and 2(b). Upon Regional assignment, such Senators join the assigned Region's delegation.
+(c) The total membership of the Senate shall be three times the number of Regions, plus any at-large members serving under subsection (d).
+
+(d) Each Region shall select Senators according to Regional law, provided such law provides for direct popular election.
+
+(e) **Transitional Exception.** Senators representing the District of Columbia and United States territories prior to Regional assignment serve as at-large members with full voting rights pursuant to Article XX, Sections 1(b) and 2(b). Upon Regional assignment, such Senators join the assigned Region's delegation.
 
 ---
 
@@ -56,7 +60,7 @@ The Senate shall not function as a routine legislative veto.
 
 ### Section 4-A. Senate Concurrence for Constitutional Safeguards (Proposed)
 
-> **Note:** This section is a proposed optional enhancement. See the [Senate Safeguard Concurrence Amendment](../../proposals/senate-safeguard-concurrence-act.md) for full text and analysis.
+> **Note:** This section is a proposed optional enhancement. See the [Senate Safeguard Concurrence Amendment](../../proposals/01-foundations/senate-safeguard-concurrence-act.md) for full text and analysis.
 
 Senate concurrence by majority vote may be required for legislation affecting constitutional safeguards, including emergency powers, domestic armed force deployment, election administration, judicial structure, de-escalation procedures, and allocation of powers.
 
@@ -83,7 +87,7 @@ If adopted, this section would create targeted Senate involvement in safeguard l
 
 (f) The categories triggering Senate review may not be expanded except by constitutional amendment.
 
-(g) Implementation procedures are established by statute. See the [Interregional Coordination Legislative Review Act](../../proposals/interregional-coordination-review-act.md) for the proposed implementing legislation.
+(g) Implementation procedures are established by statute. See the [Interregional Coordination Legislative Review Act](../../proposals/01-foundations/interregional-coordination-review-act.md) for the proposed implementing legislation.
 
 ---
 
@@ -157,9 +161,9 @@ The only requirements are:
 - [Index](00-index.md) - Constitution overview
 - [Powers and Rights](02-powers-and-rights.md) - Articles II-III
 - [Fiscal System](04-fiscal-system.md) - Article X
-- [Congressional Reform](../../../../single-topic/congressional-reform/) - Standalone federal reforms
-- [Executive Reform](../../../../single-topic/executive-reform/) - Standalone federal reforms
-- [Senate Safeguard Concurrence Amendment](../../proposals/senate-safeguard-concurrence-act.md) - Proposed Section 4-A
+- [Congressional Reform](../single-topic/congressional-reform.md) - Standalone federal reforms
+- [Executive Reform](../single-topic/executive-reform.md) - Standalone federal reforms
+- [Senate Safeguard Concurrence Amendment](../../proposals/01-foundations/senate-safeguard-concurrence-act.md) - Proposed Section 4-A
 
 ---
 

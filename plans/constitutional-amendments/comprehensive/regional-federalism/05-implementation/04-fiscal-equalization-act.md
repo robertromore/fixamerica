@@ -61,13 +61,16 @@ There is hereby established the Independent Fiscal Council (IFC) as an independe
 
 ### 2.2 Composition
 
-The Council shall consist of 9 members:
+The Council shall consist of 7 members, as established by Article X, Section 5 of the Constitution:
 
 | Appointing Authority | Number | Selection Process |
 |---------------------|--------|-------------------|
-| President | 3 | Nomination with Senate confirmation |
-| Senate | 3 | Selection by Senate majority and minority leaders jointly |
-| Regional Governors | 3 | Selection by Regional Governors acting by majority vote |
+| President | 2 | Nomination with Senate confirmation |
+| Speaker of the House | 2 | Selection by the Speaker |
+| Regional Governors | 2 | Selection by Regional Governors acting by majority vote |
+| Chair | 1 | Selected by unanimous agreement of the other six members |
+
+*Note: Aligned with Article X, Section 5(a) of the Regional Federal Constitution. The Chair selection mechanism ensures consensus-based leadership.*
 
 ### 2.3 Qualifications
 
@@ -82,9 +85,9 @@ Members must have:
 
 **Terms:**
 
-- 10-year staggered terms
+- 7-year staggered terms (per Article X, Section 5(b))
 - No member may serve more than one full term
-- Initial appointments: 3 members serve 6 years, 3 serve 8 years, 3 serve 10 years
+- Initial appointments staggered: terms of 3, 4, 5, 6, 7, 7, and 7 years
 
 **Removal:**
 
@@ -128,16 +131,16 @@ The Council may NOT:
 
 **Quorum:**
 
-- 5 members constitute a quorum for transaction of business
-- 6 members required for final certification of annual transfer amounts
-- 7 members required for formula adjustment recommendations to Congress
-- No business may be conducted with fewer than 5 members present
+- 4 members constitute a quorum for transaction of business
+- 5 members required for final certification of annual transfer amounts
+- 6 members required for formula adjustment recommendations to Congress
+- No business may be conducted with fewer than 4 members present
 
 **Voting:**
 
 - Each member has one vote
-- Certification of transfers requires majority of members present (minimum 4 of 6)
-- Formula recommendations require two-thirds of members present (minimum 5 of 7)
+- Certification of transfers requires majority of members present (minimum 3 of 5)
+- Formula recommendations require supermajority (5 of 7 members)
 - The Chair may vote on all matters and casts tie-breaking votes
 
 **Recusal Requirements:**
@@ -244,7 +247,7 @@ Any modification to standard rate methodology requires:
 | Change Type | Requirements |
 |-------------|--------------|
 | Annual recalculation | Automatic; Council publishes updated rates within 90 days of data availability |
-| Methodology adjustment | 180-day public comment period; Council supermajority (6 of 9); GAO certification that change is methodologically sound |
+| Methodology adjustment | 180-day public comment period; Council supermajority (5 of 7); GAO certification that change is methodologically sound |
 | Component weight change | Congressional action required (amendment to this Act) |
 | Emergency rate freeze | Council may freeze rates for up to 1 year during declared fiscal emergency; freeze extension requires Congressional approval |
 

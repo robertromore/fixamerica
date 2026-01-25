@@ -8,7 +8,7 @@ districts within each Region.
 
 ## Constitutional Foundation
 
-The [Regional Governance: Constitutional Default Template](regional-governance-default-template.md)
+The [Regional Governance: Constitutional Default Template](../01-foundations/regional-governance-default-template.md)
 explicitly mandates an Independent Redistricting Commission in Section 3A.2(c)(1),
 stating that "Geographic districts shall be drawn by an Independent Redistricting
 Commission." This Act implements this constitutional mandate through specific
@@ -339,9 +339,9 @@ ensuring a map is in place for elections.
 
 ## Related Documents
 
-- [Regional Governance: Constitutional Default Template](regional-governance-default-template.md) - Constitutional mandate for the IRC.
-- [The Regional Federal Constitution](../02-design/constitution/00-index.md) - Authoritative source for all constitutional provisions.
-- [Hostile Reinterpretation Stress Test](../03-analysis/04-hostile-reinterpretation.md) - Methodology for stress testing.
+- [Regional Governance: Constitutional Default Template](../01-foundations/regional-governance-default-template.md) - Constitutional mandate for the IRC.
+- [The Regional Federal Constitution](../../02-design/constitution/00-index.md) - Authoritative source for all constitutional provisions.
+- [Hostile Reinterpretation Stress Test](../../03-analysis/04-hostile-reinterpretation.md) - Methodology for stress testing.
 
 ---
 

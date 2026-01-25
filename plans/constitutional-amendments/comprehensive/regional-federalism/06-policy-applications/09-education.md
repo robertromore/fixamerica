@@ -4,6 +4,10 @@
 
 > **Purpose of this document:**
 > To describe how the Regional Federal constitutional system would restructure education governance, demonstrating subsidiarity in action while maintaining funding floors and credential portability.
+>
+> **Related Statutory Proposals:**
+> - [`proposals/04-social-policy-labor/national-k12-education-standards-mobility-act.md`](../proposals/04-social-policy-labor/national-k12-education-standards-mobility-act.md)
+> - [`proposals/04-social-policy-labor/higher-education-research-coordination-act.md`](../proposals/04-social-policy-labor/higher-education-research-coordination-act.md)
 
 Education exemplifies subsidiarity: curriculum decisions are typically made locally, while funding disparities and credential fragmentation require higher-level coordination. Regional Federalism addresses both dimensions.
 
@@ -222,7 +226,7 @@ Under [Article I, Section 9](../02-design/constitution/01-regional-structure.md)
 - **Apprenticeship coordination**: Regional standards and programs
 - **Continuing education**: Regional requirements
 
-The [Interstate Professional Licensing Act](../proposals/interstate-professional-licensing-act.md) implements credential portability with:
+The [Interstate Professional Licensing Act](../proposals/04-social-policy-labor/interstate-professional-licensing-act.md) implements credential portability with:
 
 - Fee limits
 - Supplementary requirement restrictions
@@ -412,9 +416,8 @@ Education under Regional Federalism represents the system's approach applied to 
 ## Related Documents
 
 - [The Regional Federal Constitution](../02-design/constitution/00-index.md) - Authoritative source for all constitutional provisions
-- [Interstate Professional Licensing Act](../proposals/interstate-professional-licensing-act.md) - Credential portability
+- [Interstate Professional Licensing Act](../proposals/04-social-policy-labor/interstate-professional-licensing-act.md) - Credential portability
 - [Fiscal Equalization Act](../05-implementation/04-fiscal-equalization-act.md) - Funding equalization
-- [analysis/education/](../../../../analysis/education/) - Education policy analysis
 
 ---
 

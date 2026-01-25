@@ -162,5 +162,5 @@ Establish a framework for Inter-Regional Biodiversity and Endangered Species Man
 
 ## Document Navigation
 
-- Previous: National Food and Agriculture Coordination Act
+- Previous: [National Food and Agriculture Coordination Act](national-food-agriculture-coordination-act.md)
 - Parent: Regional Federalism Proposals

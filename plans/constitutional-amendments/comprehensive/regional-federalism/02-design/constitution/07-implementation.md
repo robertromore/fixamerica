@@ -22,7 +22,61 @@ Congress shall enact enabling legislation to implement this Constitution, includ
 
 (a) If Congress fails to enact the Allocation Framework Act within two years of ratification, the allocation of powers shall be governed by existing federal-state divisions, with Regions exercising authority over matters previously requiring interstate compacts.
 
-(b) If Congress fails to enact the Fiscal Equalization Act within three years of ratification, equalization transfers shall be calculated as flat per-capita grants at a baseline level equal to five percent of federal revenues, distributed to Regions with below-median fiscal capacity. This default rate shall decline by one percentage point per year beginning in year six, reaching a floor of two percent, to incentivize congressional action rather than reward inaction.
+(b) If Congress fails to enact the Fiscal Equalization Act within three years of ratification, equalization transfers shall be calculated as flat per-capita grants at a baseline level equal to five percent of federal revenues, distributed to Regions with below-median fiscal capacity.
+
+(b-1) **IFC Adjustment Authority.** The Independent Fiscal Council shall have authority to adjust the default formula annually to maximize regional fiscal capacity equalization, subject to the following:
+
+(1) The five percent rate is a ceiling for default transfers; Congress may enact higher rates by statute;
+
+(2) The default rate does not decline over time absent Congressional action;
+
+(3) Congressional inaction costs Donor Regions (higher automatic transfers) rather than Recipient Regions (declining transfers), inverting the incentive structure to encourage legislative engagement.
+
+(b-2) **Annual Capacity Assessment.** The IFC shall publish annually:
+
+(1) Regional fiscal capacity indices;
+
+(2) Equalization transfer recommendations;
+
+(3) Assessment of whether current transfers achieve constitutional equalization goals.
+
+(b-3) **Emergency Adjustment Trigger.** If the IFC determines that:
+
+(1) Regional fiscal capacity divergence exceeds twenty-five percent (25%) from baseline; OR
+
+(2) Any Region cannot meet basic governmental functions due to fiscal constraints; OR
+
+(3) Economic shocks have rendered existing formulas inadequate;
+
+the IFC may adjust the default transfer formula within the five percent ceiling.
+
+(b-4) **Emergency Adjustment Limitations.** IFC emergency adjustments:
+
+(1) May not exceed twenty percent (20%) change from prior year formula;
+
+(2) Require published justification;
+
+(3) Are subject to Congressional override by simple majority within ninety (90) days.
+
+(b-5) **Anti-Obstruction Provisions.** Fiscal Equalization Acts shall receive expedited consideration:
+
+(1) Privileged motion status in both chambers;
+
+(2) Limited debate time (twenty hours per chamber);
+
+(3) No amendments not germane to fiscal equalization;
+
+(4) Guaranteed floor vote within sixty (60) days of committee reporting.
+
+(b-6) **Poison Pill Prohibition.** Provisions in a Fiscal Equalization Act that:
+
+(1) Address matters unrelated to fiscal equalization;
+
+(2) Would require supermajority approval under other constitutional provisions;
+
+(3) Are designed to make the Act unacceptable to Recipient Regions;
+
+are severable and may be struck by the ARB without invalidating the remainder.
 
 (c) If Congress fails to enact the Elections Implementation Act within two years of ratification, the following default rules apply:
 
@@ -119,9 +173,23 @@ For purposes of this Constitution:
 
 (c) "Conditional funding" means grants or transfers that require the recipient to satisfy conditions beyond the use of funds for their stated purpose.
 
+(d) "National benefits floor" means the minimum level of public benefits that must be available to all residents regardless of Region, including emergency medical care, primary and secondary education access, basic nutrition assistance, minimum income support for qualifying individuals, and housing assistance for qualifying individuals. Specific levels shall be established by statute, subject to annual adjustment by the Consumer Price Index for All Urban Consumers (CPI-U).
+
 ---
 
-### Section 6. Amendment of Definitions
+### Section 6. Regulatory and Economic Terms
+
+(a) "Anti-dumping rules" means prohibitions on Regional policies that subsidize exports to other Regions below cost of production, impose discriminatory standards on imports from other Regions, provide preferential treatment to in-Region businesses for government contracts exceeding thresholds established by statute, or use regulatory power to create de facto trade barriers between Regions.
+
+(b) "Minimum institutional capacity" means a Region's demonstrated ability to maintain functional executive, legislative, and judicial branches; collect and disburse tax revenue; operate emergency services (police, fire, medical); maintain an educational system meeting federal accreditation standards; and participate in inter-Regional data sharing systems. The Independent Fiscal Council shall certify capacity annually.
+
+(c) "Good behavior" for purposes of judicial tenure means conduct consistent with continued service, which may be terminated only for conviction of a felony, conduct constituting grounds for disbarment, willful and persistent failure to perform judicial duties, conduct prejudicial to the administration of justice, or mental or physical disability preventing performance of duties.
+
+(d) "Two-key authorization" means authorization for domestic deployment of armed forces requiring concurrent approval from: (1) the President (or, if the President is unavailable or incapacitated, the next civilian in the line of succession), and (2) a majority of Regional Governors, or if deployment is limited to a single Region, the Governor of that Region. Two-key authorization may not be waived, delegated to military officers, or satisfied by implied consent. If the Military Civilian Control Amendment (Article XI) is adopted, its definition supersedes this default.
+
+---
+
+### Section 7. Amendment of Definitions
 
 Congress may by statute provide additional definitions for terms used in implementing legislation. Such statutory definitions may not conflict with or narrow the definitions in this Article.
 
@@ -194,17 +262,17 @@ It promises something more realistic:
 
 The following standalone reform plans can be adopted independently or as part of Regional Federalism:
 
-- [Election Reform](../../../../single-topic/election-reform/) - National popular vote and election administration
-- [Judicial Reform](../../../../single-topic/judicial-reform/) - Court structure and term limits
-- [Impeachment Reform](../../../../single-topic/impeachment-reform/) - Impeachment procedures
-- [Lobbying Reform](../../../../single-topic/lobbying-reform/) - Anti-corruption provisions
-- [Federal Reserve Reform](../../../../single-topic/federal-reserve-reform/) - Monetary policy independence
-- [Military Civilian Control](../../../../single-topic/military-civilian-control/) - Armed forces oversight
-- [Cyber Defense](../../../../single-topic/cyber-defense/) - Digital security framework
-- [Emergency Powers Reform](../../../../single-topic/emergency-powers-reform/) - Emergency authority limits
-- [Congressional Reform](../../../../single-topic/congressional-reform/) - Legislative branch reforms
-- [Executive Reform](../../../../single-topic/executive-reform/) - Executive branch reforms
-- [Tax Reform](../../../../single-topic/tax-reform/) - Taxation principles
+- [Election Reform](../single-topic/election-reform.md) - National popular vote and election administration
+- [Judicial Reform](../single-topic/judicial-reform.md) - Court structure and term limits
+- [Impeachment Reform](../single-topic/impeachment-reform.md) - Impeachment procedures
+- [Lobbying Reform](../single-topic/lobbying-reform.md) - Anti-corruption provisions
+- [Federal Reserve Reform](../single-topic/federal-reserve-reform.md) - Monetary policy independence
+- [Military Civilian Control](../single-topic/military-civilian-control.md) - Armed forces oversight
+- [Cyber Defense](../single-topic/cyber-defense.md) - Digital security framework
+- [Emergency Powers Reform](../single-topic/emergency-powers-reform.md) - Emergency authority limits
+- [Congressional Reform](../single-topic/congressional-reform.md) - Legislative branch reforms
+- [Executive Reform](../single-topic/executive-reform.md) - Executive branch reforms
+- [Tax Reform](../single-topic/tax-reform.md) - Taxation principles
 
 ---
 

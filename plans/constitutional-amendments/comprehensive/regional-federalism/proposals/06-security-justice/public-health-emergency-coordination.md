@@ -5,7 +5,7 @@ coordinated multi-regional response to public health emergencies, addressing
 the tension between the multi-key authorization safeguards of Article XVII
 and the need for rapid pandemic response.
 
-This proposal addresses [Gap 24 — Public Health Emergency Coordination](../04-meta/02-identified-gaps.md)
+This proposal addresses [Gap 24 — Public Health Emergency Coordination](../../04-meta/02-identified-gaps.md)
 by creating a specialized emergency pathway that preserves accountability
 while enabling faster response to disease outbreaks.
 
@@ -81,7 +81,7 @@ federal authorities to:
 - (2) mandate medical treatment or vaccination (these remain Regional or
     individual decisions);
 - (3) override Regional healthcare regulations beyond data reporting;
-- (4) deploy military forces for enforcement (subject to Article XV).
+- (4) deploy military forces for enforcement (subject to Article XI).
 
 (c) **Coordination, Not Coercion.** Federal Public Health Emergency authority
 is coordinative; Regions retain authority over healthcare delivery, public
@@ -417,15 +417,15 @@ time-limited.
 
 ## Related Documents
 
-- [Article XVII (Emergency Powers)](../02-design/constitution/00-index.md) - Parent constitutional provisions
-- [The Regional Federal Constitution](../02-design/constitution/00-index.md) - Authoritative source for all constitutional provisions
-- [Gap 24 — Public Health Emergency Coordination](../04-meta/02-identified-gaps.md) - Gap analysis this proposal addresses
-- [Attack Surface 6: Emergency Powers Abuse](../03-analysis/04-hostile-reinterpretation.md) - Related stress testing
-- [DLRS Emergency Non-Suspension](../02-design/constitution/02-powers-and-rights.md) - Article III, Section 4.13
+- [Article XVII (Emergency Powers)](../../02-design/single-topic/emergency-powers-reform.md) - Standalone amendment; RF supplement at [11-emergency-powers.md](../../02-design/constitution/11-emergency-powers.md)
+- [The Regional Federal Constitution](../../02-design/constitution/00-index.md) - Authoritative source for all constitutional provisions
+- [Gap 24 — Public Health Emergency Coordination](../../04-meta/02-identified-gaps.md) - Gap analysis this proposal addresses
+- [Attack Surface 6: Emergency Powers Abuse](../../03-analysis/04-hostile-reinterpretation.md) - Related stress testing
+- [DLRS Emergency Non-Suspension](../../02-design/constitution/02-powers-and-rights.md) - Article III, Section 4.13
 
 ---
 
 ## Document Navigation
 
-- Previous: [Regional Guard Accountability](../security-accountability/regional-guard-accountability.md)
+- Previous: [Regional Guard Accountability](../06-security-justice/regional-guard-accountability.md)
 - Parent: [Regional Federalism Proposals](../README.md)

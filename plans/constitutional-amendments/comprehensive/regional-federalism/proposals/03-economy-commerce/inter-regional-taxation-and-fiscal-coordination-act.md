@@ -158,5 +158,5 @@ Establish an Inter-Regional Taxation and Fiscal Coordination Act that:
 
 ## Document Navigation
 
-- Previous: Federal-Regional Antitrust Coordination Act
+- Previous: [Federal-Regional Antitrust Coordination Act](federal-regional-antitrust-coordination-act.md)
 - Parent: Regional Federalism Proposals

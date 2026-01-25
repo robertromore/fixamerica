@@ -155,9 +155,9 @@ Establish an Inter-Regional Consumer Protection and Data Privacy Framework that:
 
 ## Related Documents
 
-- [Digital and AI Governance Framework](../security-accountability/digital-ai-governance.md) - Overlaps on data privacy and algorithmic accountability.
+- [Digital and AI Governance Framework](../06-security-justice/digital-ai-governance.md) - Overlaps on data privacy and algorithmic accountability.
 - [Inter-Regional Commerce and Trade Act](inter-regional-commerce-trade-act.md) - Provides the broader framework for preventing economic protectionism.
-- [Federal Digital Literacy and Media Education Program Act](../elections-democracy/federal-digital-literacy-act.md) - Addresses the consumer awareness vulnerability.
+- [Federal Digital Literacy and Media Education Program Act](../02-elections-democracy/federal-digital-literacy-act.md) - Addresses the consumer awareness vulnerability.
 
 ---
 

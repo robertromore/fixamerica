@@ -296,9 +296,9 @@ policy authority or limiting Regional autonomy.
 
 - [Interregional Agency Compact Act](interregional-agency-compact-act.md) - General framework for policy-making interregional agencies; this Act provides back-office support
 - [Inter-Regional Joint Authority: Constitutional Default Template](interregional-joint-authority-template.md) - Constitutional governance defaults referenced in Section 4(e)
-- [Article I, Section 5 (Inter-Regional Cooperation)](../02-design/constitution/01-regional-structure.md) - Constitutional authorization for compacts
-- [The Regional Federal Constitution](../02-design/constitution/00-index.md) - Authoritative source for all constitutional provisions
-- [Allocation Review Board (Article II, Section 5)](../02-design/constitution/02-powers-and-rights.md) - Auditor appointment fallback referenced in Section 11(a)
+- [Article I, Section 5 (Inter-Regional Cooperation)](../../02-design/constitution/01-regional-structure.md) - Constitutional authorization for compacts
+- [The Regional Federal Constitution](../../02-design/constitution/00-index.md) - Authoritative source for all constitutional provisions
+- [Allocation Review Board (Article II, Section 5)](../../02-design/constitution/02-powers-and-rights.md) - Auditor appointment fallback referenced in Section 11(a)
 
 ---
 

@@ -4,7 +4,7 @@ This proposal establishes baseline protections for algorithmic accountability
 in government, digital identity coordination, and emerging technology governance
 while preserving Regional flexibility to experiment with different approaches.
 
-This proposal addresses [Gap 26 — Digital/AI Governance Framework](../04-meta/02-identified-gaps.md)
+This proposal addresses [Gap 26 — Digital/AI Governance Framework](../../04-meta/02-identified-gaps.md)
 by creating minimum standards for AI use in government and coordination
 mechanisms for digital systems.
 
@@ -40,7 +40,7 @@ Create a framework that:
 
 ### Option A: DLRS Domain Extension (Constitutional Amendment Required)
 
-If the [DLRS (Dual Legitimacy Rights Floor Statute)](dual-legitimacy-rights-floor-statute.md) is adopted as proposed Article III, Section 4, amend Section 4.8 (Enumerated Floor Domains) to add:
+If the [DLRS (Dual Legitimacy Rights Floor Statute)](../01-foundations/dual-legitimacy-rights-floor-statute.md) is adopted as proposed Article III, Section 4, amend Section 4.8 (Enumerated Floor Domains) to add:
 
 > (f) algorithmic accountability floors for government decision-making.
 
@@ -458,12 +458,12 @@ companies.
 
 ## Related Documents
 
-- [Article XVI (Cyber and Digital Defense)](../02-design/constitution/00-index.md) - Parent constitutional provisions
-- [Gap 26 — Digital/AI Governance Framework](../04-meta/02-identified-gaps.md) - Gap analysis this proposal addresses
-- [DLRS (Dual Legitimacy Rights Floor Statute)](dual-legitimacy-rights-floor-statute.md) - Rights floor mechanism (proposed Article III, Section 4)
+- [Article XVI (Cyber and Digital Defense)](../../02-design/constitution/00-index.md) - Parent constitutional provisions
+- [Gap 26 — Digital/AI Governance Framework](../../04-meta/02-identified-gaps.md) - Gap analysis this proposal addresses
+- [DLRS (Dual Legitimacy Rights Floor Statute)](../01-foundations/dual-legitimacy-rights-floor-statute.md) - Rights floor mechanism (proposed Article III, Section 4)
 
 ---
 
 ## Document Navigation
-- Previous: [Climate Emergency Coordination](../emergency-crisis/climate-emergency-coordination.md)
+- Previous: [Climate Emergency Coordination](../05-environment-infrastructure/climate-emergency-coordination.md)
 - Parent: [Regional Federalism Proposals](../README.md)

@@ -408,13 +408,13 @@ to challenge.
 
 ## Related Documents
 
-- [Article I, Section 9](../02-design/constitution/01-regional-structure.md) - Constitutional foundation
-- [Freedom of Movement](../02-design/constitution/01-regional-structure.md) - Article I, Section 8
-- [Identified Gaps](../04-meta/02-identified-gaps.md) - Related gap analysis
+- [Article I, Section 9](../../02-design/constitution/01-regional-structure.md) - Constitutional foundation
+- [Freedom of Movement](../../02-design/constitution/01-regional-structure.md) - Article I, Section 8
+- [Identified Gaps](../../04-meta/02-identified-gaps.md) - Related gap analysis
 
 ---
 
 ## Document Navigation
 
-- Previous: [National Common Market Access Act](../fiscal/national-common-market-access-act.md)
+- Previous: [National Common Market Access Act](../03-economy-commerce/national-common-market-access-act.md)
 - Parent: [Regional Federalism Proposals](../README.md)

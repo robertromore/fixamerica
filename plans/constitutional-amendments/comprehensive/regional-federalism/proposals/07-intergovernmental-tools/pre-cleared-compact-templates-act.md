@@ -262,11 +262,11 @@ both judicial and political review.
 
 - [Allocation Framework Act](allocation-framework-act.md) - The act authorizing the creation of these templates.
 - [Inter-Regional Joint Authority: Constitutional Default Template](interregional-joint-authority-template.md) - Provides the default governance structure for more complex joint authorities.
-- [Article I, Section 5 (Inter-Regional Cooperation)](../02-design/constitution/01-regional-structure.md) - The constitutional basis for inter-regional compacts.
+- [Article I, Section 5 (Inter-Regional Cooperation)](../../02-design/constitution/01-regional-structure.md) - The constitutional basis for inter-regional compacts.
 
 ---
 
 ## Document Navigation
 
-- Previous: [Boundary Review Act](boundary-review-act.md)
+- Previous: [Boundary Review Act](../01-foundations/boundary-review-act.md)
 - Parent: [Regional Federalism Proposals](../README.md)

@@ -4,9 +4,9 @@ This proposal defines a constitutional default template for inter-regional joint
 authorities to avoid ad hoc, opaque bodies while preserving flexibility for
 regional cooperation.
 
-This proposal addresses [Gap 16 — Inter-Regional Cooperation Mechanisms](../04-meta/02-identified-gaps.md)
+This proposal addresses [Gap 16 — Inter-Regional Cooperation Mechanisms](../../04-meta/02-identified-gaps.md)
 by providing standardized governance structures for multi-regional institutions
-authorized under [Article I, Section 5](../02-design/constitution/01-regional-structure.md).
+authorized under [Article I, Section 5](../../02-design/constitution/01-regional-structure.md).
 
 ---
 
@@ -411,7 +411,7 @@ requiring a full constitutional amendment for each joint project.
 ## Hostile Reinterpretation Stress Test
 
 Following the methodology established in
-[Hostile Reinterpretation Stress Test](../03-analysis/04-hostile-reinterpretation.md),
+[Hostile Reinterpretation Stress Test](../../03-analysis/04-hostile-reinterpretation.md),
 this section tests how bad-faith actors might attempt to abuse joint authority
 mechanisms.
 
@@ -539,16 +539,16 @@ addressed by the general constitutional framework.
 
 ## Related Documents
 
-- [Article I, Section 5 (Inter-Regional Cooperation)](../02-design/constitution/01-regional-structure.md) - Constitutional authorization for joint authorities
-- [The Regional Federal Constitution](../02-design/constitution/00-index.md) - Authoritative source for all constitutional provisions
-- [Gap 16 — Inter-Regional Cooperation Mechanisms](../04-meta/02-identified-gaps.md) - Gap analysis this proposal addresses
-- [Article I, Section 6 (Right of Transit)](../02-design/constitution/01-regional-structure.md) - Non-blockade provisions
-- [DLRS (Dual Legitimacy Rights Floor Statute)](dual-legitimacy-rights-floor-statute.md) - Rights floors applicable to joint authorities (proposed Article III, Section 4)
-- [Hostile Reinterpretation Stress Test](../03-analysis/04-hostile-reinterpretation.md) - Methodology for stress testing
-- [Allocation Review Board (Article II, Section 5)](../02-design/constitution/02-powers-and-rights.md) - Dispute resolution body referenced in Section 5A.9
+- [Article I, Section 5 (Inter-Regional Cooperation)](../../02-design/constitution/01-regional-structure.md) - Constitutional authorization for joint authorities
+- [The Regional Federal Constitution](../../02-design/constitution/00-index.md) - Authoritative source for all constitutional provisions
+- [Gap 16 — Inter-Regional Cooperation Mechanisms](../../04-meta/02-identified-gaps.md) - Gap analysis this proposal addresses
+- [Article I, Section 6 (Right of Transit)](../../02-design/constitution/01-regional-structure.md) - Non-blockade provisions
+- [DLRS (Dual Legitimacy Rights Floor Statute)](../01-foundations/dual-legitimacy-rights-floor-statute.md) - Rights floors applicable to joint authorities (proposed Article III, Section 4)
+- [Hostile Reinterpretation Stress Test](../../03-analysis/04-hostile-reinterpretation.md) - Methodology for stress testing
+- [Allocation Review Board (Article II, Section 5)](../../02-design/constitution/02-powers-and-rights.md) - Dispute resolution body referenced in Section 5A.9
 
 ---
 
 ## Document Navigation
-- Previous: [Dual-Legitimacy Rights-Floor Statute](../governance-structure/dual-legitimacy-rights-floor-statute.md)
+- Previous: [Dual-Legitimacy Rights-Floor Statute](../01-foundations/dual-legitimacy-rights-floor-statute.md)
 - Parent: [Regional Federalism Proposals](../README.md)

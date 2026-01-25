@@ -183,5 +183,5 @@ Establish a framework for Inter-Regional Child Welfare Coordination that:
 
 ## Document Navigation
 
-- Previous: Social Safety Net Coordination Act
+- Previous: [Social Safety Net Coordination Act](social-safety-net-coordination-act.md)
 - Parent: Regional Federalism Proposals

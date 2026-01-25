@@ -441,14 +441,14 @@ more manipulable interim body; both have independence safeguards.
 
 ## Related Documents
 
-- [Article I, Section 4](../02-design/constitution/01-regional-structure.md) - Constitutional foundation
-- [Initial Regional Boundaries (Schedule A)](../02-design/constitution/01-regional-structure.md) - Current boundaries
-- [Allocation Framework Act](../05-implementation/03-allocation-framework-act.md) - Power allocation implementation
-- [Identified Gaps](../04-meta/02-identified-gaps.md) - Gap 11 (Boundary Revision Politics)
+- [Article I, Section 4](../../02-design/constitution/01-regional-structure.md) - Constitutional foundation
+- [Initial Regional Boundaries (Schedule A)](../../02-design/constitution/01-regional-structure.md) - Current boundaries
+- [Allocation Framework Act](../../05-implementation/03-allocation-framework-act.md) - Power allocation implementation
+- [Identified Gaps](../../04-meta/02-identified-gaps.md) - Gap 11 (Boundary Revision Politics)
 
 ---
 
 ## Document Navigation
 
-- Previous: [De-Escalation Procedures Act](../emergency-crisis/de-escalation-procedures-act.md)
+- Previous: [De-Escalation Procedures Act](../01-foundations/de-escalation-procedures-act.md)
 - Parent: [Regional Federalism Proposals](../README.md)

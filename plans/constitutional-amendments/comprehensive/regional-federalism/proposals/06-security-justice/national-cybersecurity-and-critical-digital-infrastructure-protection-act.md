@@ -192,5 +192,5 @@ Establish a framework for National Cybersecurity and Critical Digital Infrastruc
 
 ## Document Navigation
 
-- Previous: Federal-Regional Intelligence Sharing and Oversight Act
+- Previous: [Federal-Regional Intelligence Sharing and Oversight Act](federal-regional-intelligence-sharing-oversight-act.md)
 - Parent: Regional Federalism Proposals

@@ -4,6 +4,8 @@
 
 > **Purpose of this document:**
 > To describe how the Regional Federal constitutional system would restructure firearms governance, enabling regional variation above constitutional floors while addressing cross-border trafficking and respecting Second Amendment rights.
+>
+> **Related Statutory Proposal:** [`proposals/06-security-justice/federal-criminal-code-modernization-and-jurisdiction-act.md`](../proposals/06-security-justice/federal-criminal-code-modernization-and-jurisdiction-act.md)
 
 Firearms policy exemplifies deep regional and cultural divisions. Regional Federalism provides a framework for meaningful regional variation while maintaining federal authority over interstate trafficking and establishing rights floors grounded in Second Amendment jurisprudence.
 
@@ -378,7 +380,6 @@ Regional Federalism transforms firearms policy by:
 - [The Regional Federal Constitution](../02-design/constitution/00-index.md)
 - [Article III - Rights Protections](../02-design/constitution/02-powers-and-rights.md)
 - [Drug Policy](04-drug-policy.md) - Similar cross-regional issues
-- [analysis/political/](../../../../analysis/political/)
 
 ---
 

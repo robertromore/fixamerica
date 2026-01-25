@@ -2,7 +2,7 @@
 
 This proposal defines a constitutional default template for the internal governance of Regions. It establishes a "floor" of democratic standards to ensure that Regions are representative, accountable, and protect minority rights, while preserving flexibility for each Region to tailor its specific constitution.
 
-This proposal addresses [Gap 02 — Internal Regional Governance](../04-meta/02-identified-gaps.md) by providing a ready-made, stress-tested model for Regional constitutions.
+This proposal addresses [Gap 02 — Internal Regional Governance](../../04-meta/02-identified-gaps.md) by providing a ready-made, stress-tested model for Regional constitutions.
 
 ---
 
@@ -319,8 +319,8 @@ This default template provides a robust, modern, and resilient framework for reg
 
 ## Related Documents
 
-- [The Regional Federal Constitution](../02-design/constitution/00-index.md) - Authoritative source for all constitutional provisions.
-- [Gap 02 — Internal Regional Governance](../04-meta/02-identified-gaps.md) - The gap analysis this proposal addresses.
+- [The Regional Federal Constitution](../../02-design/constitution/00-index.md) - Authoritative source for all constitutional provisions.
+- [Gap 02 — Internal Regional Governance](../../04-meta/02-identified-gaps.md) - The gap analysis this proposal addresses.
 - [DLRS (Dual Legitimacy Rights Floor Statute)](dual-legitimacy-rights-floor-statute.md) - Rights floors that Regional constitutions must respect.
 
 ---

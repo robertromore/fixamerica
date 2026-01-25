@@ -166,5 +166,5 @@ Establish a Federal Campaign Finance and Ethics Reform Act that:
 
 ## Document Navigation
 
-- Previous: Elections Implementation Act
+- Previous: [Elections Implementation Act](elections-implementation-act.md)
 - Parent: Regional Federalism Proposals

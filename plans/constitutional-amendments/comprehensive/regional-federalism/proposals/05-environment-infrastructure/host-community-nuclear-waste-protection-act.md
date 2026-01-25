@@ -127,8 +127,8 @@ Establish a Host Community Nuclear Waste Protection Framework that:
 ## Related Documents
 
 - [Nuclear Waste Trust Fund and Accountability Act](nuclear-waste-trust-fund-act.md) - Provides the funding mechanism for host community benefits and payments.
-- [Nuclear Facilities and Hazardous Materials Governance Act](../environmental-resources/nuclear-hazardous-materials.md) - Context for federal and Regional authority over nuclear materials.
-- [International Nuclear Waste Treaty Ratification Act](international-nuclear-waste-treaty-ratification-act.md) - Addresses international aspects of waste management.
+- [Nuclear Facilities and Hazardous Materials Governance Act](../05-environment-infrastructure/nuclear-hazardous-materials.md) - Context for federal and Regional authority over nuclear materials.
+- [International Nuclear Waste Treaty Act](international-nuclear-waste-treaty-act.md) - Addresses international aspects of waste management.
 
 ---
 

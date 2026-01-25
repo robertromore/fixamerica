@@ -4,7 +4,7 @@ This proposal defines constitutional floor requirements for Regional Guard force
 accountability to prevent security forces from becoming instruments of regional
 authoritarianism.
 
-This proposal addresses [Gap 23 — Regional Guard Force Accountability](../04-meta/02-identified-gaps.md)
+This proposal addresses [Gap 23 — Regional Guard Force Accountability](../../04-meta/02-identified-gaps.md)
 by establishing minimum civilian oversight, accountability, and use restrictions
 that all Regions must meet.
 
@@ -12,7 +12,7 @@ that all Regions must meet.
 
 ## Constitutional Placement
 
-This template would be incorporated as **Article XV, Section 4** (Regional Guard
+This template would be incorporated as **Article XI, Section 4** (Regional Guard
 Accountability Floors), immediately following the existing armed forces provisions.
 Alternatively, these floors could be established through DLRS under the "public
 integrity and anti-corruption floors" domain if that domain is construed to include
@@ -31,7 +31,7 @@ Establish constitutional floor protections ensuring that:
 
 ---
 
-## Draft Constitutional Provisions (Article XV, Section 4)
+## Draft Constitutional Provisions (Article XI, Section 4)
 
 ### 4.1 Civilian Control Floor
 
@@ -83,7 +83,7 @@ domestic law enforcement:
 
 (c) **Posse Comitatus Floor.** Regional Guards operating under Regional authority
 may not exercise federal law enforcement powers except when federalized pursuant
-to Article XV, Section 2.
+to Article XI, Section 2.
 
 ---
 
@@ -192,7 +192,7 @@ subject to that Region's civilian criminal law.
 
 (c) **No Federal Override.** Federal authorities may not direct Regional Guards
 to operate in other Regions without consent of both the sending and receiving
-Regions, except when federalized pursuant to Article XV, Section 2.
+Regions, except when federalized pursuant to Article XI, Section 2.
 
 ---
 
@@ -229,7 +229,7 @@ legislation establishing remedies and procedures.
 ## Hostile Reinterpretation Stress Test
 
 Following the methodology established in
-[Hostile Reinterpretation Stress Test](../03-analysis/04-hostile-reinterpretation.md),
+[Hostile Reinterpretation Stress Test](../../03-analysis/04-hostile-reinterpretation.md),
 this section tests how bad-faith actors might attempt to abuse these provisions.
 
 ### Attack Vector 1: Captured Inspector General
@@ -331,14 +331,14 @@ grounds for judicial relief.
 
 ## Related Documents
 
-- [Article XV (Armed Forces and Civilian Control)](../02-design/06-armed-forces.md) - Parent constitutional provisions
-- [The Regional Federal Constitution](../02-design/constitution/00-index.md) - Authoritative source for all constitutional provisions
-- [Gap 23 — Regional Guard Force Accountability](../04-meta/02-identified-gaps.md) - Gap analysis this proposal addresses
-- [Hostile Reinterpretation Stress Test](../03-analysis/04-hostile-reinterpretation.md) - Methodology for stress testing
-- [Attack Surface 7: Security Force Capture](../03-analysis/04-hostile-reinterpretation.md) - Related analysis at federal level
+- [Article XI (Armed Forces and Civilian Control)](../../02-design/single-topic/military-civilian-control.md) - Standalone amendment; RF supplement at [10-armed-forces.md](../../02-design/constitution/10-armed-forces.md)
+- [The Regional Federal Constitution](../../02-design/constitution/00-index.md) - Authoritative source for all constitutional provisions
+- [Gap 23 — Regional Guard Force Accountability](../../04-meta/02-identified-gaps.md) - Gap analysis this proposal addresses
+- [Hostile Reinterpretation Stress Test](../../03-analysis/04-hostile-reinterpretation.md) - Methodology for stress testing
+- [Attack Surface 7: Security Force Capture](../../03-analysis/04-hostile-reinterpretation.md) - Related analysis at federal level
 
 ---
 
 ## Document Navigation
-- Previous: [Interregional Joint Authority Template](../interregional-coordination/interregional-joint-authority-template.md)
+- Previous: [Interregional Joint Authority Template](../07-intergovernmental-tools/interregional-joint-authority-template.md)
 - Parent: [Regional Federalism Proposals](../README.md)

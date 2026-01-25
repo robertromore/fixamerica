@@ -143,5 +143,5 @@ Establish a Federal-Regional Antitrust Coordination Act that:
 
 ## Document Navigation
 
-- Previous: Federal-Regional Foreign Trade Coordination Act
+- Previous: [Federal-Regional Foreign Trade Coordination Act](federal-regional-foreign-trade-coordination-act.md)
 - Parent: Regional Federalism Proposals

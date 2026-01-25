@@ -1,7 +1,7 @@
 # Lame Duck Moratorium Act
 
 This proposal establishes the statutory framework for the "lame duck" moratorium
-referenced in the [Constitutional Transition Act](constitutional-transition-act.md),
+referenced in the [Constitutional Transition Act](../01-foundations/constitutional-transition-act.md),
 providing detailed procedures to prevent the outgoing government from sabotaging
 the new constitutional order after the first elections have occurred but before
 the new government is activated.
@@ -10,7 +10,7 @@ the new government is activated.
 
 ## Constitutional Foundation
 
-This Act is an implementing statute for the [Constitutional Transition Act](constitutional-transition-act.md),
+This Act is an implementing statute for the [Constitutional Transition Act](../01-foundations/constitutional-transition-act.md),
 specifically operationalizing the "Lame Duck Sabotage" countermeasure in its
 Hostile Reinterpretation Stress Test section. It is designed to ensure a stable
 and orderly transfer of power during the unique circumstances of the first
@@ -49,7 +49,7 @@ Duck Period.
 Senators-elect chosen in the first federal elections.
 
 (d) **Transitional Commission.** The commission established by the
-[Transitional Commission Act](transitional-commission-act.md).
+Constitutional Transition Act.
 
 ### Section 2. Applicability
 
@@ -231,13 +231,12 @@ who are loyalists intended to obstruct the new administration.
 
 ## Related Documents
 
-- [Constitutional Transition Act](constitutional-transition-act.md) - The master plan this Act implements.
-- [Transitional Commission Act](transitional-commission-act.md) - Establishes the body that oversees this moratorium.
-- [The Regional Federal Constitution](../02-design/constitution/00-index.md) - The destination state of the transition.
+- [Constitutional Transition Act](../01-foundations/constitutional-transition-act.md) - The master plan this Act implements.
+- [The Regional Federal Constitution](../../02-design/constitution/00-index.md) - The destination state of the transition.
 
 ---
 
 ## Document Navigation
 
-- Previous: [Constitutional Transition Act](../governance-structure/constitutional-transition-act.md)
+- Previous: [Constitutional Transition Act](../01-foundations/constitutional-transition-act.md)
 - Parent: [Regional Federalism Proposals](../README.md)

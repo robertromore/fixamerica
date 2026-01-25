@@ -4,6 +4,10 @@
 
 > **Purpose of this document:**
 > To describe how the Regional Federal constitutional system would restructure labor and employment governance, enabling regional variation above federal floors while preventing destructive competition.
+>
+> **Related Statutory Proposals:**
+> - [`proposals/04-social-policy-labor/inter-regional-workforce-development-labor-mobility-act.md`](../proposals/04-social-policy-labor/inter-regional-workforce-development-labor-mobility-act.md)
+> - [`proposals/04-social-policy-labor/interstate-professional-licensing-act.md`](../proposals/04-social-policy-labor/interstate-professional-licensing-act.md)
 
 Labor policy exemplifies the tension between uniformity and variation. Regional Federalism provides federal floors establishing baseline protections while enabling regional adaptation to different labor markets and preferences.
 
@@ -240,7 +244,6 @@ Regional Federalism transforms labor governance by:
 
 - [The Regional Federal Constitution](../02-design/constitution/00-index.md)
 - [Education Policy](09-education.md) - Workforce development
-- [analysis/labor/](../../../../analysis/labor/)
 
 ---
 

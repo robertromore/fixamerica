@@ -64,7 +64,7 @@ The following provisions take effect immediately upon ratification and may not b
 - Prohibition on power expansion during transition
 - The amendment process (Article XIII)
 - Mandatory jurisdiction for constitutional cases (Article XIV, Section 1)
-- Two-key authorization requirements for domestic deployment (Article XV, Section 2)
+- Two-key authorization requirements for domestic deployment (Article XI, Section 2)
 
 ---
 
@@ -90,7 +90,7 @@ Upon completion of the transition period:
 
 (d) Regional assignment requires approval by two-thirds of the receiving Region's legislature and by majority referendum of District residents. No assignment may take effect within one year before or six months after a federal presidential election.
 
-(e) Implementation procedures are established by statute. See the [D.C. Status Determination Act](../../proposals/dc-status-determination-act.md) for the proposed implementing legislation.
+(e) Implementation procedures are established by statute. See the [D.C. Status Determination Act](../../proposals/08-special-jurisdictions/dc-status-determination-act.md) for the proposed implementing legislation.
 
 ---
 
@@ -109,7 +109,7 @@ Upon completion of the transition period:
 
 (d) Congress shall establish a clear path for each territory to petition for statehood, Regional assignment without statehood, or continued territorial status with defined representation. No territory may be held indefinitely without a defined governance status.
 
-(e) Implementation procedures are established by statute. See the [Territories Status Determination Act](../../proposals/territories-status-act.md) for the proposed implementing legislation.
+(e) Implementation procedures are established by statute. See the [Territories Status Determination Act](../../proposals/08-special-jurisdictions/territories-status-act.md) for the proposed implementing legislation.
 
 ---
 

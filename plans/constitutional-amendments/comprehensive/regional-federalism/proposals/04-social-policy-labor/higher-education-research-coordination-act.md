@@ -157,5 +157,5 @@ Establish a framework for Higher Education and Research Coordination that:
 
 ## Document Navigation
 
-- Previous: Inter-Regional Commerce and Trade Act
+- Previous: [Inter-Regional Commerce and Trade Act](../03-economy-commerce/inter-regional-commerce-trade-act.md)
 - Parent: Regional Federalism Proposals

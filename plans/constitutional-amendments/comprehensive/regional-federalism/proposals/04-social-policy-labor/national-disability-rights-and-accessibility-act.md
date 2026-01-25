@@ -170,5 +170,5 @@ Establish a framework for National Disability Rights and Accessibility that:
 
 ## Document Navigation
 
--   Previous: National Veterans Affairs Coordination Act
+-   Previous: [National Veterans Affairs Coordination Act](national-veterans-affairs-coordination-act.md)
 -   Parent: Regional Federalism Proposals

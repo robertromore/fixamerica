@@ -4,6 +4,8 @@
 
 > **Purpose of this document:**
 > To describe how the Regional Federal constitutional system would restructure energy governance, enabling regional grid coordination and clean energy transition while maintaining federal authority over nuclear, interstate infrastructure, and national security.
+>
+> **Related Statutory Proposal:** [`proposals/05-environment-infrastructure/national-energy-system-and-grid-modernization-act.md`](../proposals/05-environment-infrastructure/national-energy-system-and-grid-modernization-act.md)
 
 Energy policy exemplifies where current state boundaries create coordination challenges: grids cross state lines, transmission projects require multi-state approval, and renewable integration is complicated by jurisdictional fragmentation. Regional Federalism matches governance to actual energy systems.
 
@@ -11,20 +13,68 @@ Energy policy exemplifies where current state boundaries create coordination cha
 
 ## Table of Contents
 
-1. Current Federal-State Energy Structure
-2. Problems Regional Federalism Addresses
-3. Energy Powers Under Regional Federalism
-4. Regional Grid Governance
-5. Renewable Energy Integration
-6. Fossil Fuel Transition
-7. Nuclear Energy
-8. Energy Markets
-9. Transportation Fuel and Electrification
-10. Implementation Considerations
+1. Constitutional Provisions
+2. Current Federal-State Energy Structure
+3. Problems Regional Federalism Addresses
+4. Energy Powers Under Regional Federalism
+5. Regional Grid Governance
+6. Renewable Energy Integration
+7. Fossil Fuel Transition
+8. Nuclear Energy
+9. Energy Markets
+10. Transportation Fuel and Electrification
+11. Implementation Considerations
 
 ---
 
-## 1. Current Federal-State Energy Structure
+## 1. Constitutional Provisions
+
+The following constitutional provisions govern energy policy under Regional Federalism:
+
+**Article II, Section 1 (Federal Powers)**
+- Nuclear energy regulation (safety, licensing, waste) remains exclusively federal
+- Interstate pipelines and transmission lines under federal jurisdiction (FERC)
+- International energy trade and strategic reserves
+- National security aspects of energy infrastructure
+- Emissions floors and minimum environmental standards
+
+**Article II, Section 2 (Regional Powers)**
+- Regional grid planning, transmission siting, and investment authority
+- Wholesale electricity market design within regional boundaries
+- Renewable portfolio standards and clean energy mandates
+- Resource adequacy and generation planning
+- Fossil fuel transition programs and just transition policies
+- Energy efficiency standards for buildings and appliances
+
+**Article II, Section 3 (State/Local Powers)**
+- Retail electricity rates and utility regulation (subject to regional coordination)
+- Building codes and local siting decisions
+- Distributed energy resource policies
+
+**Article I, Section 6 (Right of Transit)**
+- Energy transmission across regional boundaries protected
+- No regional blockade of interstate energy flows
+
+**Article I, Section 7 (Water Rights)**
+- Hydropower on interstate waters subject to federal-regional coordination
+- Water use for energy production governed by water allocation framework
+
+**Article I, Section 10 (Environmental Border Protection)**
+- Power plant emissions affecting neighboring regions subject to transboundary harm provisions
+- No siting of major emissions sources to export pollution across regional boundaries
+
+**Article X (Fiscal System)**
+- Energy taxation revenue retained by region of production/consumption as specified by statute
+- Equalization transfers may account for energy transition costs in fossil-dependent regions
+- Anti-coercion rule prevents federal funding conditions that override regional energy choices
+
+**Article II, Section 5 (Allocation Review Board)**
+- ARB jurisdiction over federal-regional energy disputes
+- Spillover effects determination for cross-regional energy projects
+
+---
+
+## 2. Current Federal-State Energy Structure
 
 The current system fragments energy authority:
 
@@ -381,8 +431,6 @@ Regional Federalism transforms energy governance by:
 - [The Regional Federal Constitution](../02-design/constitution/00-index.md)
 - [Climate and Environment](08-climate-environment.md)
 - [Transportation](12-transportation.md)
-- [analysis/infrastructure/](../../../../analysis/infrastructure/)
-- [analysis/environment/](../../../../analysis/environment/)
 
 ---
 
