@@ -158,6 +158,27 @@ The structural form of Regional government (unicameral or bicameral legislature,
 
 (m) **Regional Membership Permanence.** Once assigned, Regional membership is irrevocable until the next decennial review; selective coordination withdrawal does not exempt a State from Regional authority.
 
+#### Regional Infrastructure Supremacy for Trans-State Projects
+
+(n) **Superior Use Certification.** When a Regional Government determines that inter-state infrastructure (including but not limited to transportation corridors, energy transmission lines, pipelines, and communications networks) requires passage through State territory, the Regional Government may petition the ARB for "Superior Use Certification."
+
+(o) **Certification Standard.** The ARB shall grant Superior Use Certification upon finding that:
+
+- (1) the project serves a legitimate inter-state infrastructure purpose within Regional Domain authority;
+- (2) the Regional Government has made good-faith efforts to negotiate voluntary easements with affected States;
+- (3) the proposed route minimizes disruption to existing State land uses where feasible;
+- (4) the Regional Government commits to fair market compensation for affected landowners.
+
+(p) **Effect of Certification.** Upon Superior Use Certification:
+
+- (1) State and local zoning, permitting, and land-use regulations may not be applied to block, delay, or impose conditions inconsistent with the certified project;
+- (2) the Regional Government may exercise eminent domain authority for the certified corridor, subject to just compensation under the Fifth Amendment;
+- (3) States retain authority over ancillary matters (environmental mitigation, construction timing, aesthetic requirements) that do not materially impede project completion.
+
+(q) **Expedited Review.** ARB shall render Superior Use Certification decisions within ninety (90) days. Failure to render a decision shall constitute denial, appealable to the Supreme Court.
+
+(r) **Anti-Abuse Limitation.** Superior Use Certification may not be used for projects whose primary purpose is intra-state, nor to circumvent legitimate State environmental protections unrelated to the inter-state function.
+
 ---
 
 ### Section 5. Inter-Regional Cooperation
@@ -180,6 +201,52 @@ The structural form of Regional government (unicameral or bicameral legislature,
 - withdrawal procedures and transition provisions.
 
 (e) Nothing in this section shall be construed to authorize Regions to jointly exercise powers reserved to the federal government or to create obligations binding on the United States.
+
+#### Prohibition on Foreign Regulatory Integration
+
+(f) **Federal Exclusivity over Foreign Relations.** The federal government's exclusive authority over "foreign affairs and treaties" under Article II, Section 1 includes exclusive authority over regulatory alignments, standards harmonization, and economic integration agreements with foreign sovereign entities.
+
+(g) **Prohibited Regional Actions.** No Region or State may, without federal approval:
+
+- (1) enter into "technical cooperation agreements," "regulatory memoranda," "standards harmonization agreements," or similar arrangements with foreign governments, foreign governmental agencies, or foreign-controlled entities;
+- (2) adopt regulations specifically designed to align with foreign standards in a manner that creates incompatibility with other Regions or with federal policy;
+- (3) participate in foreign-led regulatory bodies, standard-setting organizations, or trade blocs in an official governmental capacity;
+- (4) commit to exclusive infrastructure interconnections with foreign systems (energy grids, transportation networks, communications systems) that would preclude domestic integration.
+
+(h) **Functional Test for Foreign Integration.** A Regional regulatory action shall be deemed prohibited foreign integration if:
+
+- (1) it creates regulatory compatibility with a foreign jurisdiction while creating incompatibility with other U.S. Regions;
+- (2) it was adopted following consultation with foreign governmental entities without corresponding federal consultation;
+- (3) it references or incorporates foreign standards that differ materially from federal or inter-Regional standards;
+- (4) its practical effect is to orient the Region's economy toward foreign markets at the expense of domestic economic integration.
+
+(i) **Permitted Activities.** This section does not prohibit:
+
+- (1) private commercial transactions with foreign entities;
+- (2) educational, cultural, or scientific exchanges;
+- (3) adoption of international standards that are also adopted federally or by a majority of Regions;
+- (4) border-region cooperation on matters of purely local concern (e.g., cross-border emergency services, local environmental issues) with adjacent foreign jurisdictions, provided such cooperation does not affect national policy;
+- (5) participation in non-governmental international organizations.
+
+(j) **Federal Approval Process.** A Region seeking to engage in activities that might otherwise be prohibited may petition the State Department for approval:
+
+- (1) The State Department shall review the proposed activity for consistency with national foreign policy;
+- (2) Approval may be granted with conditions ensuring national policy coherence;
+- (3) Denial must be accompanied by written explanation and is subject to judicial review for abuse of discretion;
+- (4) The State Department shall respond within ninety (90) days; failure to respond constitutes denial.
+
+(k) **Enforcement.** Violations of this section shall result in:
+
+- (1) federal preemption of the offending Regional regulation;
+- (2) injunctive relief in federal court;
+- (3) withholding of federal funds related to the subject matter of the violation;
+- (4) personal liability for Regional officials who knowingly entered prohibited arrangements.
+
+(l) **Geopolitical Fragmentation Finding.** If the State Department determines that a Region's cumulative regulatory actions constitute "Geopolitical Fragmentation"—defined as economic or regulatory integration with foreign powers that materially impairs national foreign policy coordination—the President may:
+
+- (1) declare the finding and transmit it to Congress;
+- (2) suspend the Region's authority to regulate in the affected domain pending Congressional action;
+- (3) Congress shall hold hearings within sixty (60) days and may ratify, modify, or reject the suspension.
 
 ---
 
@@ -405,7 +472,55 @@ The structural form of Regional government (unicameral or bicameral legislature,
 
 (3) May receive a portion of any damages recovered.
 
-(aa) Implementation procedures are established by statute.
+#### Minimum Maintenance Standards for Inter-Regional Infrastructure
+
+(aa) **Maintenance Obligation.** Every Region and State maintaining infrastructure that serves inter-Regional commerce or movement shall:
+
+- (1) maintain such infrastructure in a condition that permits safe and efficient operation at designed capacity;
+- (2) conduct regular inspections and preventive maintenance according to industry standards;
+- (3) promptly repair deficiencies that impair safety or capacity;
+- (4) maintain adequate funding reserves for foreseeable maintenance needs.
+
+(bb) **Critical Inter-Regional Corridors.** The ARB, in consultation with the Department of Transportation and the Federal Energy Regulatory Commission, shall designate "Critical Inter-Regional Corridors" including:
+
+- (1) interstate highways and bridges carrying more than 10,000 vehicles per day in inter-Regional traffic;
+- (2) rail lines carrying more than 5 million tons of inter-Regional freight annually;
+- (3) pipelines carrying petroleum, natural gas, or other essential commodities across Regional boundaries;
+- (4) electrical transmission lines of 230 kV or greater serving inter-Regional load;
+- (5) fiber-optic trunk lines and data centers serving inter-Regional communications.
+
+(cc) **Maintenance Reporting.** Jurisdictions maintaining Critical Inter-Regional Corridors shall:
+
+- (1) submit annual maintenance reports to the ARB detailing inspection results, repair activities, and funding allocations;
+- (2) immediately report any condition that reduces capacity below 80% of design specification;
+- (3) provide five-year maintenance plans demonstrating adequate funding for continued operation.
+
+(dd) **Manufactured Safety Necessity Doctrine.** A jurisdiction may not invoke "Genuine Safety Necessity" under subsection (e) to close or restrict infrastructure if:
+
+- (1) the safety condition resulted from the jurisdiction's failure to perform maintenance required by this section;
+- (2) the jurisdiction failed to seek available federal or inter-Regional funding for maintenance;
+- (3) the jurisdiction diverted maintenance funds to other purposes within the preceding five years;
+- (4) a pattern of under-maintenance suggests strategic intent to create closure justifications.
+
+(ee) **Burden of Proof for Decay-Based Closures.** When a jurisdiction invokes safety necessity for infrastructure that has received below-average maintenance funding relative to comparable facilities:
+
+- (1) the burden shifts to the closing jurisdiction to prove the safety condition was not the result of deliberate or negligent under-maintenance;
+- (2) the ARB may appoint an independent engineering assessment at the closing jurisdiction's expense;
+- (3) findings of manufactured necessity shall trigger the treble damages and bad-faith penalties applicable to pretextual closures.
+
+(ff) **Federal Maintenance Backstop.** If a jurisdiction fails to maintain Critical Inter-Regional Corridor infrastructure:
+
+- (1) the ARB may order the jurisdiction to cure the maintenance deficiency within 180 days;
+- (2) if not cured, the federal government may perform necessary maintenance and recover costs from the jurisdiction's federal transfer allocations;
+- (3) persistent maintenance failures (three or more ARB orders within five years) shall result in mandatory federal assumption of maintenance responsibility, funded by withholding from the jurisdiction's highway and infrastructure allocations.
+
+(gg) **Private Right of Action for Manufactured Decay.** Any person or entity suffering economic harm from infrastructure closure or restriction resulting from manufactured safety necessity may recover:
+
+- (1) actual damages including business interruption, increased transportation costs, and consequential losses;
+- (2) treble damages upon proof of deliberate under-maintenance;
+- (3) attorney's fees and costs.
+
+(hh) Implementation procedures are established by statute.
 
 ---
 
@@ -463,6 +578,55 @@ The Board shall coordinate water allocation, establish monitoring standards, and
 - override legitimate public health quarantine measures during declared emergencies.
 
 (e) A person whose freedom of movement has been impaired may seek injunctive relief in any Regional court, with expedited review (seven days).
+
+#### Migration Surge Stabilization
+
+(f) **Migration Surge Defined.** A "Migration Surge" occurs when a Region experiences net in-migration exceeding three percent (3%) of its population within any twelve-month period, as certified by the Census Bureau.
+
+(g) **Surge Early Warning.** The Census Bureau shall:
+
+- (1) monitor inter-Regional migration patterns quarterly;
+- (2) issue "Surge Warnings" when a Region's net in-migration rate exceeds two percent (2%) annually;
+- (3) provide detailed demographic and geographic data to affected Regions and the IFC.
+
+(h) **Automatic Fiscal Stabilization.** Upon certification of a Migration Surge:
+
+- (1) the affected Region shall receive emergency equalization transfers within thirty (30) days, calculated based on projected service costs for the incoming population;
+- (2) transfers shall be funded from the Asymmetric Shock Stabilization Fund under Article X, Section 9;
+- (3) the IFC shall adjust permanent equalization formulas within one (1) year to reflect the new population baseline.
+
+(i) **Service Capacity Assistance.** The federal government shall provide:
+
+- (1) emergency infrastructure grants for healthcare, education, and housing capacity expansion;
+- (2) technical assistance for rapid service scaling;
+- (3) temporary federal personnel to supplement Regional administrative capacity.
+
+(j) **Anti-Degradation Mandate.** No Region may:
+
+- (1) intentionally maintain services below the Region's fiscal capacity for the purpose of deterring in-migration;
+- (2) impose waiting periods for service access exceeding those permitted under this section;
+- (3) discriminate in service provision based on duration of residency beyond constitutionally permitted periods;
+- (4) adopt "defensive degradation" strategies designed to make the Region less attractive to migrants.
+
+(k) **Degradation Finding.** If the IFC determines that a Region is engaged in "Defensive Service Degradation":
+
+- (1) the finding shall be published and transmitted to Congress;
+- (2) the Region shall be ineligible for discretionary federal grants until the finding is reversed;
+- (3) affected residents may bring civil rights claims for denial of services.
+
+(l) **Origin Region Contribution.** When a Migration Surge results primarily from policy failures or service deficiencies in an origin Region:
+
+- (1) the IFC may require the origin Region to contribute to surge stabilization costs;
+- (2) contribution shall be proportional to the origin Region's share of the migrating population;
+- (3) this provision creates incentives for all Regions to maintain adequate service levels.
+
+(m) **Surge Stabilization Fund.** There is established within the Treasury a Migration Surge Stabilization Fund:
+
+- (1) funded by annual appropriations of 0.1% of federal revenue;
+- (2) accumulating during non-surge periods to ensure availability during surges;
+- (3) administered by the IFC with expedited disbursement authority.
+
+(n) **Preservation of Freedom of Movement.** Nothing in this section authorizes any restriction on the constitutional right of citizens to travel freely and establish residence in any Region. This section provides fiscal stabilization mechanisms only.
 
 ---
 
@@ -774,6 +938,48 @@ The Board shall coordinate water allocation, establish monitoring standards, and
 
 (3) Specialized provisions may expand access scope but not diminish privacy safeguards.
 
+#### Neutral Use Mandate and Anti-Profiling Protections
+
+(w-1) **Neutral Use Mandate.** Critical Governance Data accessed under this section shall be used only for neutral, non-partisan governmental functions:
+
+- (1) No jurisdiction may use shared data to target, profile, or disadvantage residents based on political affiliation, voting history, Region of origin, or ideological beliefs;
+- (2) No jurisdiction may use shared data to influence election outcomes, voter turnout, or political participation in other jurisdictions;
+- (3) No jurisdiction may use shared data to identify or target political opponents, activists, journalists, or members of disfavored groups.
+
+(w-2) **Prohibited Uses.** The following uses of Critical Governance Data are absolutely prohibited:
+
+- (1) constructing political profiles of individuals or demographic groups;
+- (2) predictive modeling of voting behavior or political activity;
+- (3) selective enforcement of laws or regulations based on political characteristics;
+- (4) sharing data with political campaigns, parties, or partisan organizations;
+- (5) using Electoral Data for any purpose other than election administration;
+- (6) using Public Safety Data to monitor lawful political activity.
+
+(w-3) **Enhanced Protections for Sensitive Categories.** The following data categories require additional safeguards:
+
+- (1) **Electoral Data:** Access limited to election administration purposes; no cross-referencing with law enforcement data except for specific voter fraud investigations with judicial authorization;
+- (2) **Public Safety Data:** No access for immigration enforcement purposes; no sharing with federal agencies for political surveillance;
+- (3) **Identity Data:** No use for tracking inter-Regional migration patterns for political purposes.
+
+(w-4) **Data Use Audits.** Each jurisdiction accessing Critical Governance Data shall:
+
+- (1) maintain detailed logs of all data queries, including purpose, requestor, and data accessed;
+- (2) submit to annual audits by the Federal Data Coordination Agency for compliance with this section;
+- (3) publish anonymized summaries of data access patterns.
+
+(w-5) **Enforcement and Penalties.** Violations of this section shall result in:
+
+- (1) immediate termination of data access privileges for the violating jurisdiction;
+- (2) civil penalties of up to $1,000,000 per violation;
+- (3) personal liability for officials who authorized or conducted prohibited uses;
+- (4) criminal referral for willful violations constituting civil rights violations.
+
+(w-6) **Private Right of Action.** Any individual who is targeted, profiled, or disadvantaged through prohibited use of Critical Governance Data may:
+
+- (1) bring a civil action against the responsible jurisdiction and officials;
+- (2) recover actual damages, statutory damages of $10,000 per violation, and attorney fees;
+- (3) obtain injunctive relief including data deletion and access termination.
+
 (x) **Federal Data Coordination Agency.** There is hereby established a Federal Data Coordination Agency with the following responsibilities:
 
 (1) **Technical Standards Development.** The Agency shall develop and maintain binding technical standards for Critical Governance Data interoperability, including:
@@ -814,6 +1020,131 @@ The Board shall coordinate water allocation, establish monitoring standards, and
 
 (3) civil penalties not to exceed $100,000 per day of non-compliance following notice and a ninety-day cure period.
 
+(z) **Data Hygiene and Quality Certification.**
+
+(1) **Annual Data Quality Audit.** Each jurisdiction maintaining Critical Governance Data shall undergo an annual data quality audit by the Federal Data Coordination Agency assessing:
+
+- (i) accuracy rates (percentage of records verified against source documents);
+- (ii) synchronization latency (time between source updates and API availability);
+- (iii) completeness (percentage of required fields populated);
+- (iv) system stability (uptime and error rates).
+
+(2) **Certification Grades.** The Agency shall assign each jurisdiction a Data Quality Grade:
+
+- (i) Grade A: Meets all standards; full data sharing privileges;
+- (ii) Grade B: Minor deficiencies; must submit remediation plan within 90 days;
+- (iii) Grade C: Significant deficiencies; data access restricted to read-only by other jurisdictions until remediation;
+- (iv) Grade F: Critical failures; data deemed unreliable and may not be used for constitutional functions until remediation verified.
+
+(3) **Phantom Data Prohibition.** Jurisdictions may not represent data as current or accurate when:
+
+- (i) source systems have not been updated within required synchronization windows;
+- (ii) known data quality issues have not been disclosed;
+- (iii) legacy system limitations prevent verification.
+
+(4) **Consequences for Persistent Failure.** A jurisdiction receiving Grade C or below for three consecutive years:
+
+- (i) shall have data system operations placed under Federal Data Coordination Agency supervision;
+- (ii) shall receive mandatory technical assistance funded by federal appropriation;
+- (iii) may not cite data system limitations as a defense in any proceeding requiring that data.
+
+#### Conceptual Uniformity and Semantic Integrity
+
+(5) **Standardized Federal Definitions (SFD).** To prevent "Epistemic Sabotage"—the manipulation of internal legal definitions to game federal formulas—the Independent Fiscal Council (IFC) and the Federal Data Coordination Agency (FDCA) shall maintain a "Compendium of Standardized Federal Definitions" for all terms used in constitutional formulas, including but not limited to:
+
+- (i) "Poverty Level" and "Fiscal Capacity";
+- (ii) "Unemployment" and "Labor Force Participation";
+- (iii) "Infrastructure Health" and "Deferred Maintenance";
+- (iv) "Educational Outcome" and "Service Adequacy";
+- (v) any other term whose measurement affects equalization transfers, fiscal allocations, or constitutional thresholds.
+
+(6) **Anti-Semantic Fraud Rule.** No Region or State may use idiosyncratic or "shadow" definitions of constitutional terms in their reports to the FDCA or IFC:
+
+- (i) Any data submission using non-standard definitions shall be assigned a "Grade F" for Data Quality regardless of technical accuracy;
+- (ii) If a Region changes an internal definition in a way that results in a greater than five percent (5%) change in their Equalization Transfer eligibility, the change is presumptively fraudulent and shall be stayed pending a "Semantic Audit";
+- (iii) Regions found to have engaged in deliberate semantic manipulation shall forfeit the excess transfers received plus a twenty percent (20%) penalty.
+
+(7) **Definition Change Notification.** Any Region intending to modify an internal definition that affects constitutional formula inputs shall:
+
+- (i) notify the IFC at least ninety (90) days before the change takes effect;
+- (ii) provide detailed justification for the definitional change;
+- (iii) await IFC pre-certification that the change is "Semantically Neutral" or accept flagging for Semantic Audit before implementation;
+- (iv) failure to provide advance notification creates an irrebuttable presumption of bad faith.
+
+(8) **Semantic Audit Authority.** The IFC shall have the power to "pierce the definition" of any Regional data point to ensure it reflects the underlying economic or social reality, regardless of the label used by the Region:
+
+- (i) Semantic Audits may be triggered by the five percent threshold, inter-Regional complaint, or IFC initiative;
+- (ii) The audit shall compare Regional definitions to federal standards and assess whether deviations materially affect formula outcomes;
+- (iii) Audit findings are binding and may require restatement of prior submissions.
+
+(9) **Transparency of Conceptual Logic.** The Plain-Language Explanations required under Article VI, Section 7-A must explicitly state the conceptual logic used to categorize data:
+
+- (i) "Black-box" categorizations where the meaning of the input is hidden by the algorithm are prohibited;
+- (ii) All definitional assumptions must be disclosed and subject to challenge;
+- (iii) The IFC shall publish an annual "Semantic Integrity Report" identifying any Regions whose definitions deviate materially from federal standards.
+
+#### Digital Portability and Privacy Harmonization
+
+(aa) **Prohibition on Data-Localization Barriers.** No Region may enact data residency, data localization, or data sovereignty requirements that:
+
+- (1) require physical storage of data exclusively within Regional boundaries as a condition of doing business;
+- (2) prohibit the transfer of data to other Regions for legitimate business operations;
+- (3) create compliance obligations that are mutually exclusive with the data regulations of other Regions.
+
+(bb) **Federal Privacy Floor.** Congress shall establish, within three years of ratification, a Federal Digital Privacy Floor providing:
+
+- (1) minimum data protection standards applicable in all Regions;
+- (2) mutual recognition of Regional privacy certifications meeting or exceeding the Floor;
+- (3) a single point of compliance for multi-Regional enterprises.
+
+(cc) **Privacy Portability Certification.** The Federal Data Coordination Agency shall maintain a "Privacy Portability Certification" process whereby:
+
+- (1) Regional privacy regimes that meet the Federal Floor are deemed mutually compatible;
+- (2) enterprises certified under any Floor-compliant Regional regime may operate in all Regions without additional privacy compliance burdens;
+- (3) Regions may exceed the Floor for intra-Regional operations but may not impose above-Floor requirements on inter-Regional data flows.
+
+(dd) **Conflict Resolution.** When Regional data regulations conflict:
+
+- (1) the ARB shall determine which Regional requirement governs for inter-Regional transactions;
+- (2) the default rule shall be that the data subject's Region of residence governs privacy rights, while the enterprise's Region of principal operation governs operational requirements;
+- (3) Regions may not apply their regulations extraterritorially to data transactions with no substantial nexus to the Region.
+
+(ee) **Anti-Fragmentation Review.** Every five years, the Federal Data Coordination Agency shall report to Congress on whether Regional data regulations are creating "Digital Regulatory Walls" that impede the Common Market. If fragmentation is found, Congress may establish additional harmonization requirements by ordinary legislation.
+
+#### Tax Residency and Economic Nexus
+
+(ff) **Primary Tax Residency Determination.** For purposes of individual income taxation, a natural person's primary tax residency shall be the Region where the person maintains their principal place of abode, determined by:
+
+- (1) physical presence exceeding one hundred eighty-three days in a calendar year; or
+- (2) if no single Region meets the physical presence test, the Region where the person maintains their primary dwelling, family residence, voter registration, and principal community ties.
+
+(gg) **Prohibition on Tax Residency Arbitrage.** No person may claim tax residency in a Region other than their primary tax residency Region for the purpose of avoiding income tax obligations. Specifically:
+
+- (1) "digital residency," "e-residency," or similar status shall not constitute tax residency unless accompanied by genuine physical presence meeting the standards of subsection (ff);
+- (2) no Region may offer tax residency status to individuals who do not meet the physical presence or primary dwelling requirements;
+- (3) shell residencies, nominal addresses, or residency-for-purchase arrangements shall be void for tax purposes.
+
+(hh) **Economic Nexus for Services.** A person who is tax-resident in one Region but performs substantial remote work for employers or clients located in another Region shall:
+
+- (1) owe income tax to their Region of tax residency on all income;
+- (2) be entitled to a credit against their home Region tax for any withholding or income tax paid to the work-source Region, up to the amount of home Region tax on that income; and
+- (3) not be subject to double taxation through cumulative Regional income taxes exceeding the higher of the two Regions' rates.
+
+(ii) **Apportionment for Multi-Regional Activity.** The Inter-Regional Fiscal Court shall promulgate uniform rules for apportioning income among Regions when an individual:
+
+- (1) maintains genuine residences in multiple Regions;
+- (2) earns income from sources in multiple Regions; or
+- (3) operates a business with substantial activities in multiple Regions.
+These rules shall prevent both double taxation and tax avoidance through artificial arrangements.
+
+(jj) **Regional Benefit Arbitrage.** No person may claim public benefits, subsidies, or services from a Region in which they are not tax-resident except:
+
+- (1) emergency services available to all persons regardless of residency;
+- (2) services explicitly extended to non-residents by Regional law;
+- (3) reciprocal services under inter-Regional compacts; or
+- (4) services for which the non-resident pays full cost.
+A Region may require proof of tax residency as a condition of receiving resident-only benefits.
+
 ---
 
 ### Section 11. Environmental Border Protection
@@ -825,6 +1156,43 @@ The Board shall coordinate water allocation, establish monitoring standards, and
 (c) This section supplements federal environmental laws establishing national minimum standards. Jurisdictions may establish more protective standards provided they do not discriminate against interstate commerce.
 
 (d) Implementation procedures are established by statute.
+
+#### Cumulative Harm and Shared Ecosystem Protection
+
+(e) **Cumulative Impact Standard.** In addition to bilateral harm under subsection (a), no combination of jurisdictions may collectively cause cumulative environmental harm to shared ecosystems, even if each jurisdiction's individual contribution would be lawful in isolation.
+
+(f) **Shared Ecosystem Designation.** The Environmental Protection Agency, in consultation with the Water Resources Coordination Board, shall designate "Shared Ecosystems" including but not limited to:
+
+- (1) major river systems and their watersheds (Mississippi, Colorado, Columbia, etc.);
+- (2) shared airsheds crossing Regional boundaries;
+- (3) migratory wildlife corridors;
+- (4) coastal zones and estuaries receiving multi-Regional drainage;
+- (5) aquifers underlying multiple Regions.
+
+(g) **Aggregate Impact Limits.** For each Shared Ecosystem, the EPA shall establish:
+
+- (1) science-based "Ecosystem Carrying Capacity" limits for pollutants, withdrawals, and other stressors;
+- (2) allocation formulas apportioning the carrying capacity among contributing jurisdictions;
+- (3) monitoring protocols to track cumulative impacts in real time.
+
+(h) **Proportional Liability.** When cumulative harm exceeds Ecosystem Carrying Capacity:
+
+- (1) each contributing jurisdiction shall be jointly and severally liable for remediation costs;
+- (2) liability shall be apportioned based on each jurisdiction's share of the cumulative impact;
+- (3) jurisdictions exceeding their allocated share bear enhanced liability;
+- (4) jurisdictions operating below their allocated share may recover contribution from over-polluters.
+
+(i) **Mandatory Remediation Fund.** All jurisdictions contributing to a Shared Ecosystem shall participate in a Shared Ecosystem Remediation Fund:
+
+- (1) contributions shall be proportional to each jurisdiction's use of ecosystem carrying capacity;
+- (2) the Fund shall finance remediation when cumulative harm occurs;
+- (3) jurisdictions that fail to contribute shall have federal transfers reduced by the unpaid amount plus twenty percent penalty.
+
+(j) **Preemptive Intervention.** When monitoring indicates that a Shared Ecosystem is approaching eighty percent of its Carrying Capacity:
+
+- (1) the EPA shall convene affected jurisdictions for mandatory planning;
+- (2) jurisdictions shall submit reduction plans within ninety days;
+- (3) failure to submit or implement plans authorizes EPA to impose allocations directly.
 
 ---
 
@@ -839,6 +1207,84 @@ The Board shall coordinate water allocation, establish monitoring standards, and
 (d) Nothing in this section shall require cooperation in enforcement of laws violating federal rights floors, participation in pretextual or politically motivated actions, or diminishment of Tribal sovereignty over criminal matters.
 
 (e) Implementation procedures are established by statute.
+
+#### Transboundary Legal Comity
+
+(f) **Prohibition on Non-Cooperation Acts.** No Region or State may enact legislation, executive orders, or policies that:
+
+- (1) prohibit Regional or State officials from cooperating with lawful legal process from other jurisdictions;
+- (2) create "sanctuary" status shielding individuals or entities from civil or regulatory enforcement by other Regions;
+- (3) refuse recognition of judgments, orders, or legal proceedings from other Regions except as provided in subsection (b).
+
+(g) **Civil Judgment Enforcement.** Civil judgments validly entered by courts of one Region shall be enforceable in all other Regions:
+
+- (1) The enforcing Region may not reexamine the merits of the underlying dispute;
+- (2) Enforcement may be denied only if the rendering court lacked jurisdiction or the judgment was obtained by fraud;
+- (3) A Region may not refuse enforcement based on disagreement with the substantive law applied.
+
+(h) **Regulatory Cooperation Floor.** Regions shall maintain minimum cooperation in regulatory enforcement:
+
+- (1) Subpoenas and document requests from other Regions' regulatory agencies shall be honored within thirty (30) days;
+- (2) Witness testimony may be compelled for proceedings in other Regions pursuant to uniform interstate procedures;
+- (3) Regulatory cease-and-desist orders shall be given interim recognition pending judicial review.
+
+(i) **Anti-Evasion Provision.** No person or entity may escape civil or regulatory liability by relocating to another Region:
+
+- (1) Liability that accrued in the originating Region remains enforceable regardless of subsequent relocation;
+- (2) A Region may not offer "liability haven" status to attract businesses fleeing enforcement in other Regions;
+- (3) Patterns of evasion-motivated relocation may be considered evidence of bad faith in subsequent proceedings.
+
+(j) **Limitations on Non-Cooperation.** Notwithstanding subsection (f), a Region may decline cooperation when:
+
+- (1) the requesting Region's law or enforcement action violates Federal Rights Floors;
+- (2) cooperation would require violation of the non-cooperating Region's own constitutional protections that exceed federal floors;
+- (3) the request is pretextual or politically motivated, as determined by federal court;
+- (4) the underlying law criminalizes conduct that is constitutionally protected in the non-cooperating Region.
+
+(k) **Federal Mediation.** When Regions dispute cooperation obligations under this section:
+
+- (1) Either Region may request ARB mediation;
+- (2) The ARB shall issue a binding determination within sixty (60) days;
+- (3) Persistent non-cooperation after ARB ruling constitutes grounds for fiscal penalties under Article X.
+
+#### Choice of Law for Inter-Regional Conduct
+
+(l) **Lex Loci Delicti Principle.** The legality of conduct shall be determined by the law of the Region where the conduct occurred. Specifically:
+
+- (1) no Region may impose civil liability, penalties, or sanctions on any person for conduct that was lawful in the Region where it was performed;
+- (2) no Region may enforce a judgment, order, or award against a person based on conduct that was lawful where performed, except as provided in subsection (n);
+- (3) the mere fact that effects of lawful conduct are felt in another Region does not subject the actor to liability under that Region's law.
+
+(m) **Protected Conduct Categories.** This protection applies with particular force to:
+
+- (1) medical procedures lawful where performed;
+- (2) commercial transactions lawful where executed;
+- (3) speech and expression lawful where uttered or published;
+- (4) personal conduct lawful where engaged in; and
+- (5) professional services lawful where rendered.
+
+(n) **Exceptions to Lex Loci Protection.** Notwithstanding subsection (l), a Region may regulate or impose liability for conduct performed elsewhere when:
+
+- (1) the conduct constitutes a violation of federal law or federal constitutional rights;
+- (2) the conduct was specifically directed at causing harm within the regulating Region and such targeting was the primary purpose of the conduct;
+- (3) the actor was domiciled in the regulating Region at the time of conduct and traveled elsewhere specifically to evade that Region's laws, provided such evasion was the primary purpose of travel; or
+- (4) the conduct involves contractual obligations with a choice-of-law clause selecting the regulating Region's law.
+
+(o) **Anti-Extraterritorial Enforcement.** No Region may:
+
+- (1) penalize, sanction, or impose liability on persons who assist, facilitate, or provide information about lawful conduct in other Regions;
+- (2) require reporting of lawful conduct performed in other Regions;
+- (3) condition licenses, permits, or benefits on abstention from conduct that is lawful where performed; or
+- (4) create causes of action enabling private enforcement against conduct lawful where performed.
+
+(p) **Judgment Non-Recognition.** A judgment, order, or award based on conduct protected under this section shall not be entitled to full faith and credit and shall not be enforceable in any Region other than the issuing Region. Courts shall refuse recognition of such judgments upon motion of any party.
+
+(q) **Savings Clause.** Nothing in this section shall:
+
+- (1) prevent a Region from regulating the in-Region conduct of its own residents;
+- (2) limit federal authority to regulate conduct with interstate effects;
+- (3) affect enforcement of judgments for conduct that was unlawful where performed; or
+- (4) prevent enforcement of valid contractual choice-of-law provisions.
 
 ---
 
@@ -1437,6 +1883,271 @@ the determination shall be suspended pending expedited judicial review.
 
 (ee) **Enforcement.** Any member of the ARB, or the ARO, may petition the Supreme Court for a writ of mandamus to compel disbursement of formula funds. Such petitions shall be heard on an expedited basis.
 
+#### Anti-Consolidation Safeguards
+
+(ff) **Cross-Partisan Appointment Mandate.** To prevent a single political movement from bypassing constitutional checks through unified control of the Federal and Regional governments:
+
+(ff-1) **Council of Governors Approval.** Appointments to the ARB, IFC, and FDCA require a three-fifths (60%) vote of the Council of Governors, ensuring that a simple partisan alignment between the President and a majority of Governors cannot capture these bodies.
+
+(ff-2) **Adversarial Minority Key.** The minority party in the House of Representatives shall appoint a "Transparency Observer" to each Constitutional Oversight Body with full access to deliberations and data, but no vote. The Observer may:
+
+- (1) attend all meetings, including closed sessions;
+- (2) access all documents, data, and communications;
+- (3) publish dissenting reports and minority analyses;
+- (4) refer concerns directly to Congress and the public.
+
+(ff-3) **Unified Control Supermajority.** If at any time a single political party controls the Presidency and four or more Regional Governorships, the threshold for the ARB to certify a federal bill as "Non-Exclusive" shall automatically rise to a three-quarters (75%) vote of the Board.
+
+(ff-4) **Party Alignment Determination.** For purposes of subsection (ff-3), the IFC shall determine party alignment based on:
+
+- (1) formal party registration of the officeholder;
+- (2) caucus affiliation in the case of legislators;
+- (3) endorsement patterns and voting alignment for independents.
+An officeholder who formally declares non-alignment with any party shall not be counted toward the unified control threshold.
+
+---
+
+### Section 7-A. Algorithmic Governance Transparency
+
+(a) **Mandatory Algorithmic Transparency.** All algorithms, data models, formulas, and computational methods used by the Allocation Review Board, Independent Fiscal Council, Federal Data Coordination Agency, or any other Constitutional Oversight Body to make determinations affecting Regional rights, obligations, or resources shall be:
+
+- (1) fully documented in plain language accessible to non-technical readers;
+- (2) published in complete technical detail, including source code where applicable;
+- (3) accompanied by explanations of all assumptions, weightings, and data inputs;
+- (4) subject to public comment before initial adoption and before any material modification.
+
+(b) **Open-Source Requirement.** All software, algorithms, and computational tools used for constitutional determinations shall be:
+
+- (1) published as open-source code in publicly accessible repositories;
+- (2) accompanied by complete documentation enabling independent replication;
+- (3) version-controlled with full change history publicly available;
+- (4) testable by any interested party using publicly available data.
+
+(c) **Independent Algorithmic Audit.** Each Constitutional Oversight Body shall undergo annual algorithmic audit by an independent panel:
+
+- (1) The panel shall be appointed by the National Academy of Sciences;
+- (2) The audit shall assess accuracy, bias, and methodological soundness;
+- (3) Audit findings shall be published within sixty (60) days of completion;
+- (4) The audited body shall respond to findings within ninety (90) days.
+
+(d) **Bias Testing Requirements.** Before any algorithm may be used for constitutional determinations:
+
+- (1) it shall be tested for systematic bias against any Region, demographic group, or economic sector;
+- (2) bias testing results shall be published;
+- (3) algorithms showing statistically significant bias (p < 0.05) may not be used until corrected;
+- (4) ongoing bias monitoring shall continue throughout the algorithm's use.
+
+(e) **Data Input Transparency.** All data used as inputs to algorithmic determinations shall be:
+
+- (1) publicly disclosed, with appropriate privacy protections for individual-level data;
+- (2) sourced from publicly verifiable sources;
+- (3) accompanied by metadata describing collection methodology, limitations, and potential biases;
+- (4) subject to challenge by affected parties who may submit alternative data.
+
+(f) **Methodological Challenge Right.** Any Region or affected party may challenge the methodology of an algorithmic determination:
+
+- (1) challenges shall be heard by a Special Master appointed by the Chief Justice with relevant technical expertise;
+- (2) the challenger may present expert testimony on methodological flaws;
+- (3) the Constitutional Oversight Body bears the burden of demonstrating methodological soundness;
+- (4) if the challenge is sustained, the determination shall be vacated pending methodological correction.
+
+(g) **Factual Finding Limitation.** The principle that factual findings of Constitutional Oversight Bodies are "final" under Section 7 applies only to:
+
+- (1) factual determinations based on disclosed data and transparent methodology;
+- (2) findings that have survived methodological challenge or for which the challenge period has expired;
+- (3) this principle does not immunize algorithmic methodology from review.
+
+(h) **Anti-Black-Box Provision.** No Constitutional Oversight Body may:
+
+- (1) use proprietary algorithms whose methodology cannot be publicly disclosed;
+- (2) rely on machine learning models that cannot be explained in human-interpretable terms;
+- (3) treat algorithmic outputs as conclusive without human review and approval;
+- (4) refuse to explain the basis for any specific determination to affected parties.
+
+(i) **Algorithmic Impact Statements.** Before adopting any new algorithm or materially modifying an existing algorithm, Constitutional Oversight Bodies shall publish an Algorithmic Impact Statement assessing:
+
+- (1) potential differential impacts on various Regions;
+- (2) sensitivity analysis showing how changes in inputs affect outputs;
+- (3) comparison with alternative methodological approaches;
+- (4) mechanisms for ongoing monitoring and correction.
+
+(j) **Whistleblower Protection.** Employees of Constitutional Oversight Bodies who report algorithmic bias, methodological flaws, or data manipulation shall be protected under federal whistleblower statutes and may not be terminated, demoted, or subjected to adverse action for such reporting.
+
+#### Technocratic Integrity and Anti-Capture Provisions
+
+(k) **Revolving Door Restrictions.** To prevent the emergence of an insular technocratic class cycling between oversight bodies:
+
+(k-1) **Cooling-Off Periods.** No individual may serve as a member, senior staff, or consultant to more than one Constitutional Oversight Body (including the ARB, IFC, FARB, ETRB, FDCA, and any successor bodies) within a five-year period. Specifically:
+
+- (1) former members of any such body may not be appointed to another such body until five years after the end of their prior service;
+- (2) former senior staff (defined as employees at GS-15 equivalent or above) may not be appointed as members or senior staff of another such body until three years after separation;
+- (3) consultants who provided more than 500 hours of service to any such body within a three-year period are subject to the same restrictions as senior staff.
+
+(k-2) **Prohibition on Double-Hatting.** No individual may simultaneously:
+
+- (1) serve as a member of any Constitutional Oversight Body while serving as a member, employee, or consultant to any other such body;
+- (2) serve on any Constitutional Oversight Body while employed by or consulting for any party with matters pending before that body or any related body;
+- (3) provide expert testimony, advisory opinions, or consulting services to parties in disputes before any body on which they have served within the preceding five years.
+
+(k-3) **Private Sector Restrictions.** Members and senior staff of Constitutional Oversight Bodies:
+
+- (1) may not, for three years after separation, accept employment or consulting arrangements with any entity that was a party to a significant matter in which they personally participated;
+- (2) may not, for two years after separation, lobby or advocate before the body on which they served;
+- (3) must disclose, for five years after separation, any compensation received from entities subject to the jurisdiction of their former body.
+
+(k-4) **Personnel Diversity Requirements.** To prevent homogeneous technocracy:
+
+- (1) no more than two members of any Constitutional Oversight Body may have previously served together on any other such body;
+- (2) no more than one-third of members may have prior employment with the same institution (university, think tank, consulting firm, or government agency);
+- (3) appointing authorities shall consider geographic, institutional, and methodological diversity in making appointments.
+
+(k-5) **Disclosure and Transparency.** All members and senior staff shall:
+
+- (1) file annual financial disclosure statements including all sources of income, investments, and institutional affiliations;
+- (2) publicly disclose all prior service on Constitutional Oversight Bodies, related advisory committees, and relevant private sector positions;
+- (3) recuse themselves from matters involving former employers, clients, or co-panelists for three years after the relevant relationship ended.
+
+(k-6) **Enforcement.** Violations of this section shall result in:
+
+- (1) immediate removal from the current position;
+- (2) permanent ineligibility for appointment to any Constitutional Oversight Body;
+- (3) disgorgement of compensation received in violation of these provisions;
+- (4) civil penalties of up to $500,000 for willful violations.
+
+---
+
+### Section 8. National Security Operations Override
+
+(a) **Certification of National Security Necessity.** When Regional exclusive-domain regulations (including but not limited to labor standards, energy planning, environmental rules, or operational requirements) materially impede the operation of federal defense facilities, defense manufacturing, or critical national security infrastructure, the President may certify a "National Security Necessity."
+
+(b) **Certification Requirements.** A National Security Necessity certification shall:
+
+- (1) identify the specific federal defense operation or facility affected;
+- (2) identify the specific Regional regulation creating the impediment;
+- (3) demonstrate that the impediment is material (not merely inconvenient) to national defense;
+- (4) be transmitted to Congress and the affected Regional Government within 48 hours.
+
+(c) **Effect of Certification.** Upon certification:
+
+- (1) the identified Regional regulation shall be suspended as applied to the identified federal operation for a period not exceeding one hundred eighty (180) days;
+- (2) the federal government shall negotiate in good faith with the Regional Government for a permanent accommodation;
+- (3) affected workers and communities shall receive federal mitigation assistance for any adverse impacts.
+
+(d) **Congressional Review.** Congress may disapprove a National Security Necessity certification by joint resolution within sixty (60) days, which shall terminate the suspension.
+
+(e) **Judicial Review.** Regional Governments may challenge certifications in federal court on grounds that:
+
+- (1) the impediment is not material to national defense; or
+- (2) the certification is pretextual (i.e., the true purpose is economic rather than security-related).
+
+(f) **Anti-Abuse Limitation.** This override may not be used to:
+
+- (1) exempt federal contractors from generally applicable workplace safety requirements;
+- (2) circumvent Regional environmental protections except where directly incompatible with defense operations;
+- (3) impose federal labor standards on non-defense Regional employers.
+
+---
+
+### Section 9. Emerging Technology Domain Assignment
+
+(a) **Emerging Technology Defined.** An "Emerging Technology" is any technology, practice, or capability that:
+
+- (1) does not fit clearly within existing enumerated Federal, Regional, or State domains;
+- (2) poses potential systemic risks crossing jurisdictional boundaries; and
+- (3) is not adequately regulated by any existing jurisdictional framework.
+
+(b) **Emerging Technology Review Board.** There is hereby established an Emerging Technology Review Board (ETRB) consisting of:
+
+- (1) three members appointed by the President with scientific or technical expertise;
+- (2) two members appointed by the Regional Governors (collectively);
+- (3) two members appointed by the National Academy of Sciences;
+- (4) two members appointed by the Judicial Conference from among judges with technology law experience.
+
+(c) **Petition for Domain Assignment.** Any federal agency, Regional Government, or State Government may petition the ETRB to assign jurisdiction over an Emerging Technology. Private parties with demonstrated interest may file amicus submissions.
+
+(d) **Provisional Federal Jurisdiction.** Upon a finding that an Emerging Technology poses systemic risks that cannot be adequately managed at the Regional or State level, the ETRB may assign provisional federal jurisdiction for a period not exceeding five years.
+
+(e) **Criteria for Federal Assignment.** Provisional federal jurisdiction is appropriate when:
+
+- (1) the technology poses risks of catastrophic or irreversible harm;
+- (2) regulatory arbitrage among Regions or States would create "race to the bottom" dynamics;
+- (3) effective regulation requires uniform national standards;
+- (4) the technology implicates national security or foreign policy concerns.
+
+(f) **Provisional Regional Jurisdiction.** When an Emerging Technology primarily affects inter-state coordination within Regions but does not meet the criteria for federal assignment, the ETRB may assign provisional Regional jurisdiction.
+
+(g) **Transition to Permanent Assignment.** Before provisional jurisdiction expires:
+
+- (1) the ETRB shall recommend permanent domain assignment to Congress;
+- (2) Congress shall codify the assignment by statute, which may include shared jurisdiction frameworks;
+- (3) if Congress fails to act, provisional jurisdiction extends for two additional years, after which the technology defaults to State jurisdiction unless renewed.
+
+(h) **Anti-Haven Provision.** No State or Region may offer "regulatory haven" status for Emerging Technologies under provisional federal jurisdiction:
+
+- (1) attempts to attract Emerging Technology development through regulatory exemption are void;
+- (2) federal enforcement authority extends to such technologies regardless of State or Regional non-cooperation;
+- (3) jurisdictions that actively obstruct federal Emerging Technology regulation shall be ineligible for federal research and development funding for five years.
+
+(i) **Sunset and Review.** Each provisional assignment shall include:
+
+- (1) specific regulatory objectives to be achieved;
+- (2) metrics for evaluating regulatory effectiveness;
+- (3) mandatory review at the midpoint of the provisional period.
+
+---
+
+### Section 10. Vital Federal Operations Protection
+
+(a) **Vital Federal Operations Defined.** In addition to national defense facilities protected under Section 8, the following constitute "Vital Federal Operations" entitled to protection from Regional regulatory interference:
+
+- (1) Social Security Administration processing centers and data facilities;
+- (2) Internal Revenue Service processing centers, data facilities, and regional offices;
+- (3) Centers for Disease Control and Prevention facilities and laboratories;
+- (4) Federal Emergency Management Agency regional headquarters and logistics centers;
+- (5) Medicare and Medicaid Services processing facilities;
+- (6) Federal court facilities and administrative offices;
+- (7) United States Postal Service distribution centers;
+- (8) Any other federal facility designated by Congress as "Vital" by statute.
+
+(b) **Minimum Operating Guarantee.** Regions may not use exclusive-domain regulatory authority to:
+
+- (1) deny, restrict, or condition utility services (water, electricity, natural gas, telecommunications) to Vital Federal Operations;
+- (2) impose labor standards that would require reduction of operating hours or staffing below levels necessary for continuous operation;
+- (3) apply zoning, permitting, or land-use restrictions that would require relocation or closure of existing Vital Federal Operations;
+- (4) impose environmental or health regulations specifically targeting federal facilities without generally applicable justification.
+
+(c) **Certification of Vital Operations Necessity.** When Regional regulations materially impede Vital Federal Operations, the head of the affected federal agency may certify a "Vital Operations Necessity":
+
+- (1) The certification shall identify the specific regulation and specific operational impact;
+- (2) The certification shall be transmitted to the Regional Government and Congress within 48 hours;
+- (3) Upon certification, the identified regulation shall be suspended as applied to the federal facility for ninety (90) days pending negotiation.
+
+(d) **Negotiated Accommodation.** During the suspension period:
+
+- (1) The federal agency and Regional Government shall negotiate in good faith for permanent accommodation;
+- (2) The federal government shall offer reasonable mitigation for Regional concerns (e.g., environmental offsets, community benefits);
+- (3) If accommodation is reached, it shall be binding on both parties.
+
+(e) **Arbitration for Unresolved Disputes.** If negotiation fails:
+
+- (1) Either party may request binding arbitration before a three-member panel (one selected by each party, third selected by the Chief Justice);
+- (2) The panel shall issue a decision within sixty (60) days balancing federal operational needs against Regional regulatory interests;
+- (3) The panel may impose conditions on either party to achieve accommodation.
+
+(f) **Anti-Hostage Provision.** A Region may not:
+
+- (1) threaten or impose regulatory burdens on Vital Federal Operations as leverage in unrelated disputes;
+- (2) coordinate with other Regions to simultaneously burden federal operations across multiple locations;
+- (3) time regulatory actions to coincide with federal budget negotiations, elections, or other politically sensitive periods.
+
+(g) **Emergency Federal Authority.** If a Region takes action that would cause imminent shutdown of a Vital Federal Operation:
+
+- (1) The President may declare an emergency and assume temporary operational control of necessary Regional infrastructure (utilities, transportation);
+- (2) Federal operation shall continue only so long as necessary to prevent shutdown;
+- (3) The federal government shall compensate the Region for costs of federal operation.
+
+(h) **Distinction from National Security Override.** This section provides protection for civilian administrative operations; Section 8 provides protection for defense operations. The standards and procedures differ because civilian operations do not implicate the same national security concerns, and Regional interests are given greater weight in balancing.
+
 ---
 
 ## ARTICLE III - RIGHTS FLOORS AND SUBSIDIARITY
@@ -1549,6 +2260,74 @@ The Senate shall not function as a routine legislative veto.
     - (1) Any party may request adjudication by an Independent Panel instead of the full Senate;
     - (2) The Panel shall consist of the Chief Justice (presiding), two retired federal appellate judges selected by lot, and two Senators selected by lot from non-party Regions;
     - (3) Panel decisions have the same force as Senate adjudication and are appealable under the same terms.
+- (j) **Anti-Strategic Filing.** To prevent deliberate overload of adjudication systems:
+    - (1) No party may have more than three disputes pending before the Senate or Supreme Court simultaneously;
+    - (2) Disputes that are substantially similar or arise from coordinated filing strategies may be consolidated;
+    - (3) The Chief Justice may impose filing restrictions on parties who demonstrate a pattern of filing disputes primarily to create procedural burden;
+    - (4) If Supreme Court transfer requests exceed the Court's capacity, the Court may designate a Special Master panel of retired federal judges to hear overflow cases with the same binding authority;
+    - (5) Filing fees, set by the Judicial Conference and waivable for hardship, shall apply to deter frivolous or strategic filings.
+
+**Senate Adjudicative Ethics Code.** When exercising quasi-judicial functions:
+
+- (k) **Applicability.** When the Senate or any Senator exercises adjudicative functions under this Article, including dispute resolution, treaty interpretation, and constitutional interpretation, the following ethics rules shall apply with the same force as judicial conduct rules apply to federal judges.
+
+- (l) **Ex Parte Communication Prohibition.** During the pendency of any adjudicative matter:
+    - (1) no Senator participating in the adjudication may communicate about the substance of the matter with any party, party representative, or interested person outside of official proceedings;
+    - (2) all substantive communications must be on the record and with notice to all parties;
+    - (3) inadvertent ex parte contacts must be immediately disclosed and made part of the record;
+    - (4) violations shall result in mandatory recusal of the affected Senator and, for willful violations, referral to the Senate Ethics Committee.
+
+- (m) **Gift and Hospitality Restrictions.** From the time a matter is filed until final disposition:
+    - (1) no Senator participating in the adjudication may accept gifts, hospitality, travel, or other things of value from any party or interested person exceeding $50 in aggregate value;
+    - (2) no Senator may accept speaking fees, honoraria, or consulting compensation from entities with interests in pending matters;
+    - (3) this prohibition extends to gifts to immediate family members and staff;
+    - (4) pre-existing relationships requiring ongoing financial transactions (such as book royalties from a publisher that is a party) must be disclosed but need not be terminated.
+
+- (n) **Campaign Contribution Restrictions.** During the pendency of adjudicative matters:
+    - (1) no Senator may solicit or accept campaign contributions from any party to the adjudication, their officers, directors, or registered lobbyists;
+    - (2) contributions received before the matter was filed need not be returned but must be disclosed;
+    - (3) contributions received in violation of this subsection must be returned within 30 days or donated to the U.S. Treasury;
+    - (4) Senators who receive contributions exceeding $10,000 in aggregate from parties to a matter within the two years preceding filing shall disclose such contributions and may be subject to recusal motions.
+
+- (o) **Independent Expenditure Disclosure.** If a Senator becomes aware that independent expenditures exceeding $100,000 have been made supporting or opposing their candidacy by a party to a pending adjudication or their affiliates:
+    - (1) the Senator shall immediately disclose this information to all parties and the presiding officer;
+    - (2) any party may move for recusal based on appearance of impropriety;
+    - (3) the motion shall be decided by the non-conflicted Senators, with ties resolved in favor of recusal.
+
+- (p) **Adjudicative Impartiality Standard.** Senators exercising adjudicative functions shall:
+    - (1) decide matters based solely on the record, applicable law, and constitutional principles;
+    - (2) avoid public statements prejudging matters before them;
+    - (3) disqualify themselves when their impartiality might reasonably be questioned;
+    - (4) not allow political, partisan, or Regional loyalty considerations to influence their adjudicative judgment.
+
+- (q) **Ethics Enforcement.** The Senate Ethics Committee shall:
+    - (1) promulgate detailed rules implementing this section within one year of ratification;
+    - (2) receive and investigate complaints of adjudicative ethics violations;
+    - (3) impose sanctions ranging from private reprimand to public censure to exclusion from adjudicative functions;
+    - (4) refer willful or repeated violations to the Department of Justice for potential criminal prosecution under applicable federal ethics statutes.
+
+- (r) **Party Remedies.** A party to an adjudication who demonstrates that ethics violations materially affected the outcome may:
+    - (1) move for reconsideration by a panel excluding the violating Senator(s);
+    - (2) appeal directly to the Supreme Court for de novo review;
+    - (3) seek civil damages from Senators who engaged in willful violations, with qualified immunity waived for adjudicative ethics violations.
+
+**Senate Adjudicative Tie-Break.** To prevent procedural deadlock during the Senate's judicial functions:
+
+- (s) **Presiding Officer.** The Chief Justice of the United States shall preside over the Senate when it sits as an adjudicative body for inter-Regional or constitutional disputes. The Chief Justice shall:
+    - (1) maintain order and enforce procedural rules;
+    - (2) rule on evidentiary and procedural motions;
+    - (3) ensure compliance with the Senate Adjudicative Ethics Code.
+
+- (t) **Casting Vote.** The Chief Justice shall remain non-voting during deliberations but shall cast a single vote to break an absolute tie among the non-recused Senators:
+    - (1) a "tie" exists when the votes for and against a disposition are exactly equal;
+    - (2) the Chief Justice may not cast a vote unless a tie exists;
+    - (3) the Chief Justice shall explain the reasoning for the casting vote in writing.
+
+- (u) **Limited Precedent for Tie-Broken Decisions.** A decision reached by the Chief Justice's casting vote shall be:
+    - (1) subject to mandatory, expedited review by the Supreme Court within sixty (60) days;
+    - (2) stayed pending Supreme Court review if any party so requests;
+    - (3) not binding as precedent on future Senate adjudications until affirmed by the Supreme Court;
+    - (4) this provision ensures that narrowly decided matters receive full judicial scrutiny and carry the weight of a clear legal majority.
 
 ---
 
@@ -1585,6 +2364,54 @@ If adopted, this section would create targeted Senate involvement in safeguard l
 
 ---
 
+### Section 6. Senate Legitimacy and Population Rebalancing
+
+(a) **Decennial Population Review.** Following each decennial census, the Independent Boundary Review Commission shall assess whether population disparities among Regions have reached levels that threaten the legitimacy of Senate adjudication functions.
+
+(b) **Legitimacy Threshold.** A "Legitimacy Imbalance" exists when:
+
+- (1) the most populous Region exceeds the least populous Region by a ratio greater than 50:1; or
+- (2) Regions containing less than five percent of the national population collectively hold more than thirty percent of Senate seats; or
+- (3) a majority of Senate seats are held by Regions containing less than twenty percent of the national population.
+
+(c) **Mandatory Response.** Upon finding a Legitimacy Imbalance, the Commission shall:
+
+- (1) recommend boundary adjustments that would reduce the imbalance while respecting geographic and cultural coherence;
+- (2) recommend merger options for Regions below a minimum population threshold (one percent of national population);
+- (3) submit recommendations to Congress and all Regional Governors within one year of census certification.
+
+(d) **Weighted Adjudication Alternative.** If boundary adjustment is not feasible or is rejected, the following weighted adjudication system shall apply to Senate dispute resolution functions:
+
+- (1) For disputes under Section 4 (inter-Regional disputes), each Region's vote shall be weighted by the square root of its population relative to other Regions;
+- (2) Population weighting shall not apply to ordinary legislative functions of the Senate;
+- (3) The weighting formula shall be recalculated following each census.
+
+(e) **Super-Minority Protection.** Notwithstanding subsection (d), small-population Regions retain:
+
+- (1) absolute veto over boundary changes affecting their Region;
+- (2) equal standing to bring disputes before the Senate;
+- (3) guaranteed minimum representation in all federal institutions.
+
+(f) **Legitimacy Review Trigger.** If three or more Regions formally declare that Senate adjudication lacks democratic legitimacy due to population imbalance:
+
+- (1) The declaration shall trigger expedited constitutional review by the Supreme Court;
+- (2) The Court may order temporary modifications to adjudication procedures pending structural reform;
+- (3) Congress shall hold hearings within ninety days on constitutional amendments to address the imbalance.
+
+(g) **Periodic Reauthorization of Parity Rule.** The equal-representation principle for the Senate shall be subject to reauthorization:
+
+- (1) Every twenty years following ratification, the principle shall be submitted to national referendum;
+- (2) Reauthorization requires approval by majority of voters and by voters in at least four of seven Regions;
+- (3) If reauthorization fails, Congress shall propose alternative representation formulas within two years.
+
+(h) **Anti-Manipulation.** Population figures for purposes of this section shall be:
+
+- (1) based solely on the decennial census conducted by the Census Bureau;
+- (2) unadjusted for citizenship status, incarceration, or other factors that might be manipulated;
+- (3) certified by the Census Bureau Director, whose certification is final and non-reviewable.
+
+---
+
 ## ARTICLE V - THE EXECUTIVE BRANCH
 
 ### Section 1. The Presidency
@@ -1602,6 +2429,120 @@ The President shall:
 - enforce constitutional floors.
 
 The President shall not exercise general domestic governance over Regional or State domains.
+
+---
+
+### Section 3. Regional Government Structure
+
+Each Region shall establish a republican form of government with separate legislative, executive, and judicial branches, as provided in Article I, Section 3.
+
+---
+
+### Section 4. Regional Executive
+
+Each Region shall have a Regional Governor elected by the people of the Region. The method of election and term of office shall be established by Regional constitution, provided terms do not exceed six years.
+
+---
+
+### Section 5. Political Institutional Failure and Federal Receivership
+
+(a) **Political Institutional Failure Defined.** A Region is in "Political Institutional Failure" when:
+
+- (1) the Regional legislature has been unable to achieve quorum for more than one hundred eighty (180) consecutive days;
+- (2) no Regional Governor or acting Governor is able to exercise executive authority for more than ninety (90) consecutive days;
+- (3) the Regional judiciary cannot seat sufficient judges to adjudicate cases for more than one hundred eighty (180) consecutive days;
+- (4) the Region has failed to conduct scheduled elections for more than twelve (12) months past the constitutional deadline; or
+- (5) the Region has been unable to perform two or more "Minimum Institutional Capacity" functions under Article I, Schedule A(f) for more than one hundred eighty (180) consecutive days.
+
+(b) **Certification of Political Institutional Failure.** Political Institutional Failure shall be certified by:
+
+- (1) joint declaration of the Chief Justice of the United States and the Comptroller General; or
+- (2) concurrent resolution of both houses of Congress; or
+- (3) petition of four of the remaining six Regional Governors, confirmed by the Supreme Court within thirty (30) days.
+
+(c) **Federal Political Receivership.** Upon certification, the President shall appoint a Federal Political Receiver for the Region, subject to Senate confirmation within thirty (30) days (or deemed confirmed if the Senate fails to act):
+
+- (1) The Receiver shall be a person of recognized competence in public administration who has not held partisan elected office within the preceding ten (10) years;
+- (2) The Receiver shall exercise only those governmental powers necessary to restore functioning institutions;
+- (3) The Receiver may not exercise policy discretion beyond maintaining existing Regional law and essential services.
+
+(d) **Receiver Powers and Limitations.** The Federal Political Receiver may:
+
+- (1) convene and preside over the Regional legislature for purposes of achieving quorum and conducting essential business;
+- (2) appoint acting executive officials to maintain essential governmental functions;
+- (3) appoint temporary judges to hear pending cases, subject to federal judicial qualifications;
+- (4) order and administer emergency elections to fill vacant offices;
+- (5) maintain existing Regional law and regulations without modification except for emergency measures.
+
+The Receiver may NOT:
+
+- (1) enact new substantive legislation or regulations;
+- (2) modify Regional tax rates or fiscal policy beyond maintaining current operations;
+- (3) enter into long-term contracts or obligations binding the Region beyond the receivership period;
+- (4) modify the Regional constitution;
+- (5) exercise any power not strictly necessary for institutional restoration.
+
+(e) **Restoration Timeline.** The Receiver shall:
+
+- (1) within sixty (60) days, submit a Restoration Plan to Congress identifying the causes of failure and proposed remedies;
+- (2) within one hundred eighty (180) days, conduct emergency elections for all vacant elected offices;
+- (3) within one (1) year, certify that functioning institutions have been restored or explain why extension is necessary.
+
+(f) **Termination of Receivership.** Federal Political Receivership terminates upon:
+
+- (1) certification by the Receiver that functioning institutions have been restored, confirmed by the Chief Justice;
+- (2) expiration of two (2) years from initial certification, unless extended by Congress;
+- (3) Congressional resolution terminating the receivership.
+
+(g) **Anti-Abuse Provisions.** Federal Political Receivership may NOT be used:
+
+- (1) to address policy disagreements between the Region and federal government;
+- (2) to overturn lawful election results;
+- (3) to impose federal policy preferences on Regional exclusive domains;
+- (4) as punishment for Regional non-compliance with federal directives.
+
+(h) **Judicial Review.** The certification of Political Institutional Failure and the actions of the Federal Political Receiver are subject to expedited judicial review by the Supreme Court, which shall hear challenges within thirty (30) days.
+
+(i) **Costs.** The costs of Federal Political Receivership shall be:
+
+- (1) initially borne by the federal government;
+- (2) recoverable from the Region over ten (10) years following restoration, unless Congress waives recovery upon finding that the failure was caused by circumstances beyond Regional control.
+
+#### Mandatory Path to Restoration
+
+(j) **Restoration Benchmarks.** The Federal Political Receiver's authority is strictly limited to achieving "Restoration Benchmarks" defined by the Supreme Court at the time of certification. These shall include:
+
+- (1) certification of valid voter rolls sufficient for elections;
+- (2) seating of a quorum-capable Regional legislature;
+- (3) appointment of a functioning Regional Supreme Court;
+- (4) establishment of executive capacity to perform Minimum Institutional Capacity functions.
+The Court shall apply consistent standards across receiverships, and precedent from prior receivership certifications shall be binding.
+
+(k) **Non-Extension Presumption.** There is a rebuttable presumption against extending a receivership beyond two years. To obtain an extension:
+
+- (1) the President must prove by clear and convincing evidence that "Active Sabotage" by local actors—not merely political instability or policy disagreement—makes restoration impossible;
+- (2) Congress must approve the extension by a two-thirds vote of both Houses;
+- (3) the Supreme Court must certify that the extension is consistent with constitutional principles and not pretextual.
+
+(l) **Absolute Maximum Duration.** No Federal Political Receivership may exceed five (5) years total duration, regardless of circumstances. Upon reaching the five-year limit:
+
+- (1) the receivership terminates automatically;
+- (2) the most recent lawfully constituted Regional government is restored to authority;
+- (3) if no such government exists, emergency elections shall be conducted under federal supervision within ninety (90) days, after which federal authority terminates.
+
+(m) **Adversarial Restoration Review.** During the receivership, the Adversarial Review Office (ARO) shall:
+
+- (1) issue quarterly reports on whether the Receiver is exceeding the "Minimum Necessary Power" standard;
+- (2) have standing to petition for immediate termination if the Receiver engages in substantive policymaking beyond maintaining existing law;
+- (3) monitor for "Mission Creep" where the Receiver attempts to resolve underlying political disagreements rather than institutional failures;
+- (4) report directly to the Supreme Court and Congress, bypassing the Executive Branch.
+
+(n) **Voter Re-Entry Trigger.** If the Receiver fails to conduct a certified election within eighteen (18) months:
+
+- (1) the Region's residents may trigger a "Direct Restoration Referendum" by petition signed by five percent (5%) of registered voters from the most recent valid voter roll;
+- (2) the referendum shall be administered by the Federal Election Commission, not the Receiver;
+- (3) if the referendum passes by majority vote, the receivership terminates within sixty (60) days and the prior legal status quo is restored;
+- (4) the Receiver may not campaign against or interfere with the referendum process.
 
 ---
 
@@ -2241,6 +3182,231 @@ The IFC fiscal intervention authorities established in this Article proceed in e
 
 ---
 
+### Section 11-A. Prohibition on Predatory Tax Exportation
+
+(a) **Tax Exportation Defined.** Tax exportation occurs when the economic burden of a Regional or State tax, fee, or assessment falls primarily (greater than sixty percent) on persons or entities residing outside the taxing jurisdiction.
+
+(b) **Tax Exportation Ceiling.** No Region may derive more than twenty-five percent (25%) of its total annual revenue from exported taxes. This ceiling applies to:
+
+- (1) transit fees on inter-Regional energy, data, or transportation corridors;
+- (2) severance taxes on resources where the primary consumption occurs outside the Region;
+- (3) consumption or sales taxes specifically targeting industries or activities with primarily non-resident participation;
+- (4) any other fiscal instrument where the Independent Fiscal Council (IFC) determines the ultimate economic incidence is shifted to non-residents.
+
+(c) **Monopoly Rents Finding.** If a Region possesses a geographic or economic monopoly over a vital national utility (e.g., a primary deep-water port, a national fiber-optic hub, or a trans-continental energy corridor), the IFC shall:
+
+- (1) establish a "Neutral Service Rate" for that utility based on cost-plus-reasonable-margin;
+- (2) any revenue collected above this rate shall be deemed "Monopoly Rent" and credited against the Region's equalization transfers.
+
+(d) **Enforcement and Remediation.** If a Region exceeds the Tax Exportation Ceiling:
+
+- (1) the excess revenue shall be placed in an escrow fund administered by the IFC;
+- (2) the fund shall be redistributed as "Exportation Rebates" to the Regions whose residents bore the economic burden;
+- (3) persistent violations (three consecutive years) shall result in the IFC assuming authority over the Region's tax-rate setting for the offending categories.
+
+(e) **Incidence Determination.** The IFC shall determine economic incidence using standard public finance methodology, considering price elasticities, market structure, and pass-through rates. The IFC's incidence determination is subject to methodological challenge under Article VI, Section 7-A(f).
+
+---
+
+### Section 12. Democratic Accountability for Fiscal Institutions
+
+#### Political Override for Systemic Disputes
+
+(a) **Legitimacy Review Trigger.** If three or more Regions formally declare non-compliance with IFC or ARB determinations within a twelve-month period:
+
+(1) The declarations shall automatically trigger a "Legitimacy Review" requiring Congress to:
+
+- (i) hold public hearings within sixty (60) days on the disputed determinations;
+- (ii) vote within one hundred twenty (120) days on whether to affirm, modify, or vacate the disputed determinations;
+- (iii) consider structural reforms to the IFC or ARB.
+
+(2) During Legitimacy Review:
+
+- (i) enforcement of disputed determinations is stayed;
+- (ii) affected Regions remain subject to baseline constitutional requirements (debt ceilings, no-bailout rule);
+- (iii) the IFC and ARB shall participate in hearings and defend their determinations publicly.
+
+(b) **Periodic Reauthorization.** The statutory authorities of the IFC and ARB shall sunset every twelve (12) years unless reauthorized by Congress. Reauthorization shall include:
+
+(1) review of institutional performance;
+
+(2) opportunity for structural reforms;
+
+(3) public comment period.
+
+(c) **Regional Representation in Determinations.** No determination materially adverse to a Region may be made by a panel where no member was appointed by Regional Governors. If such a panel composition occurs due to vacancies or recusals, the determination shall require unanimous agreement of remaining members.
+
+#### Transparency Requirements
+
+(d) **Public Accountability.** The IFC and ARB shall:
+
+(1) publish all deliberations and vote records;
+
+(2) issue plain-language explanations of determinations accessible to non-experts;
+
+(3) maintain public dashboards showing Regional fiscal status and pending matters;
+
+(4) hold annual public meetings in each Region.
+
+#### Non-Compliance Response Ladder
+
+(e) **Graduated Enforcement.** Before any coercive enforcement against a non-compliant Region:
+
+(1) **Stage 1 - Explanation:** The IFC/ARB shall issue a formal explanation and offer technical assistance (30 days);
+
+(2) **Stage 2 - Mediation:** Mediation by a panel including Regional Governor representatives (60 days);
+
+(3) **Stage 3 - Congressional Review:** Congressional review and vote on whether enforcement is appropriate (90 days);
+
+(4) **Stage 4 - Enforcement:** Only after Congressional authorization may coercive measures (conservatorship, receivership) proceed.
+
+(f) **Emergency Exception.** Subsection (e) does not apply when:
+
+(1) the Region's actions pose imminent risk of contagion to other Regions' fiscal stability;
+
+(2) the Region has deliberately structured transactions to evade constitutional limits;
+
+(3) certified by the Chief Justice as requiring immediate intervention.
+
+---
+
+### Section 13. Prohibition on Shadow Currencies and Quasi-Monetary Instruments
+
+(a) **Federal Monetary Exclusivity.** The federal government's exclusive authority over "currency and monetary policy" under Article II, Section 1 includes exclusive authority over all instruments that function as money, regardless of their formal designation.
+
+(b) **Prohibited Regional Instruments.** No Region or State may issue, authorize, or permit the circulation of:
+
+- (1) "Regional credits," "energy credits," "tax-anticipation tokens," or similar instruments that are transferable and accepted for payment of taxes, fees, or utility charges;
+- (2) digital tokens, blockchain-based currencies, or other electronic instruments that function as a medium of exchange within Regional commerce;
+- (3) scrip, vouchers, or certificates that are designed to circulate as a substitute for federal currency;
+- (4) any instrument that, regardless of its formal designation, functions as a store of value, medium of exchange, and unit of account within the Regional economy.
+
+(c) **Functional Test.** An instrument shall be deemed a prohibited quasi-currency if it meets any two of the following criteria:
+
+- (1) it is accepted for payment of Regional or State taxes, fees, or charges;
+- (2) it is traded on secondary markets or exchanges;
+- (3) its aggregate value in circulation exceeds $100 million;
+- (4) it is used by more than 10,000 distinct parties in commercial transactions within a twelve-month period;
+- (5) it is marketed or promoted as an alternative to federal currency.
+
+(d) **Permitted Instruments.** This section does not prohibit:
+
+- (1) conventional tax credits, rebates, or refunds denominated in dollars;
+- (2) non-transferable benefit vouchers (e.g., food assistance, housing vouchers);
+- (3) loyalty programs, gift cards, or promotional credits limited to specific vendors;
+- (4) Regional bonds, notes, or other debt instruments that are not designed to circulate as currency;
+- (5) public utility rate credits applied to specific customer accounts.
+
+(e) **IFC Monitoring.** The Independent Fiscal Council shall:
+
+- (1) monitor Regional fiscal instruments for compliance with this section;
+- (2) issue advisory opinions on whether proposed instruments would violate this section;
+- (3) refer suspected violations to the Department of Justice for enforcement.
+
+(f) **Enforcement.** Issuance of a prohibited quasi-currency shall result in:
+
+- (1) immediate injunction by federal court;
+- (2) mandatory redemption of all outstanding instruments at face value in federal currency;
+- (3) civil penalties of up to $10 million per day of continued circulation;
+- (4) personal liability for Regional officials who authorized the issuance.
+
+(g) **Federal Reserve Coordination.** The Federal Reserve shall have authority to:
+
+- (1) determine whether an instrument constitutes a prohibited quasi-currency;
+- (2) require reporting from Regions on fiscal instruments that approach the thresholds in subsection (c);
+- (3) issue cease-and-desist orders for instruments that threaten monetary policy effectiveness.
+
+---
+
+### Section 14. Fiscal Adequacy Determinations
+
+(a) **Definition of Adequate Funding.** A mandate is adequately funded when the resources provided are reasonably sufficient to achieve substantial compliance with the mandate's requirements without requiring the subordinate government to:
+
+- (1) reduce existing services below minimum standards established by law;
+- (2) impose taxes or fees exceeding one hundred ten percent of the regional median for comparable jurisdictions; or
+- (3) defer essential infrastructure maintenance or capital replacement.
+
+(b) **Fiscal Adequacy Review Board.** The Inter-Regional Fiscal Court shall establish a Fiscal Adequacy Review Board ("FARB") consisting of:
+
+- (1) three economists appointed by the IFC for staggered six-year terms;
+- (2) two former State or Regional budget directors appointed by the Council of Governors; and
+- (3) two representatives of municipal governments appointed by the National League of Cities.
+
+(c) **Pre-Enactment Fiscal Adequacy Certification.** Before any Federal or Regional mandate takes effect:
+
+- (1) the enacting authority shall submit a Fiscal Adequacy Statement to the FARB estimating compliance costs and identifying funding sources;
+- (2) the FARB shall issue a Fiscal Adequacy Determination within sixty days certifying whether proposed funding is adequate;
+- (3) if the FARB certifies funding as inadequate, the mandate shall not take effect until funding is increased to adequate levels or the enacting authority demonstrates by clear and convincing evidence that the FARB's determination was erroneous.
+
+(d) **Post-Enactment Adequacy Challenges.** Any subordinate government subject to a mandate may petition the FARB for a determination that funding has become inadequate due to:
+
+- (1) increased compliance costs exceeding original estimates by more than twenty percent;
+- (2) inflation or economic changes materially affecting compliance costs;
+- (3) unforeseen implementation requirements; or
+- (4) cumulative burden of multiple mandates affecting the same revenue sources.
+
+(e) **Remedies for Inadequate Funding.** Upon determination that a mandate is inadequately funded:
+
+- (1) the subordinate government may suspend compliance with the underfunded portions until adequate funding is provided;
+- (2) the enacting authority shall have one hundred eighty days to cure the funding deficiency;
+- (3) if not cured, the mandate becomes unenforceable against the petitioning government;
+- (4) no penalty, sanction, or loss of other funding may be imposed for non-compliance with an inadequately funded mandate.
+
+(f) **Anti-Circumvention.** No enacting authority may:
+
+- (1) condition unrelated funding on compliance with inadequately funded mandates;
+- (2) impose mandates through guidance, interpretation, or enforcement discretion to avoid fiscal adequacy review;
+- (3) fragment mandates into smaller components to avoid cumulative burden analysis.
+
+---
+
+### Section 15. Pre-Ratification Legacy Liabilities
+
+(a) **Legacy Liability Defined.** A "Legacy Liability" is a fiscal or environmental obligation incurred prior to the ratification of this Constitution, specifically including:
+
+- (1) unfunded pension obligations for state and local employees accrued before ratification;
+- (2) remediation costs for pre-existing toxic waste or "Superfund" sites designated before ratification;
+- (3) decommissioning costs for aging nuclear or industrial facilities constructed before ratification;
+- (4) infrastructure debt and deferred maintenance obligations incurred before ratification.
+
+(b) **National Legacy Trust.** There is hereby established a National Legacy Trust ("NLT"), managed by the IFC, to assist Regions burdened by disproportionate industrial or administrative history:
+
+(b-1) **Legacy Burden Factor.** The IFC shall include a "Legacy Burden Factor" in the equalization formula, ensuring that Regions with older infrastructure, higher pension loads, and greater environmental remediation obligations are not fiscally penalized relative to Regions without such historical burdens. The Factor shall be calculated based on:
+
+- (1) per-capita unfunded pension obligations attributable to pre-ratification service;
+- (2) per-capita environmental remediation costs for pre-ratification contamination;
+- (3) per-capita deferred maintenance on infrastructure constructed before ratification;
+- (4) other quantifiable legacy burdens as determined by the IFC.
+
+(b-2) **Federal Backstop for Catastrophic Legacy Harms.** For legacy harms that exceed a Region's fiscal capacity (defined as remediation costs exceeding five percent of Regional GDP), the NLT shall provide direct grants funded by:
+
+- (1) a 0.05% national corporate carbon fee on emissions exceeding sector baselines;
+- (2) a 0.05% financial transaction fee on securities trades exceeding $1 million in daily volume;
+- (3) appropriations as Congress may provide.
+
+(b-3) **Trust Administration.** The NLT shall:
+
+- (1) receive applications from Regions documenting legacy liabilities;
+- (2) verify claims through independent audit;
+- (3) prioritize funding based on fiscal impact and public health urgency;
+- (4) publish annual reports on legacy liability status nationwide.
+
+(c) **Legacy Liability Sunset.** The Legacy Burden Factor shall be recalculated every ten years and shall phase out over fifty (50) years following ratification:
+
+- (1) the Factor shall remain at full value for the first ten years following ratification;
+- (2) beginning in year eleven, the Factor shall decline by two percent (2%) of its initial value annually;
+- (3) by year sixty following ratification, the Legacy Burden Factor shall be zero;
+- (4) this sunset ensures that legacy equity adjustments address historical burdens without creating permanent entitlements.
+
+(d) **Anti-Manipulation.** No Region may:
+
+- (1) incur new obligations and retroactively classify them as "legacy" liabilities;
+- (2) defer maintenance or remediation to increase legacy burden claims;
+- (3) manipulate pension assumptions to inflate unfunded liability calculations.
+Violations shall result in forfeiture of NLT assistance and clawback of prior disbursements.
+
+---
+
 ## ARTICLE XII - SECESSION, NULLIFICATION, AND DE-ESCALATION
 
 ### Section 1. No Secession
@@ -2723,6 +3889,31 @@ Two-key authorization may not be waived, delegated to military officers, or sati
 
 - (4) **Anti-Brinkmanship Provision.** A Regional Governor who withholds two-key consent while simultaneously demanding unrelated policy concessions from the President shall be deemed to have waived the consent requirement for that authorization request. The Allocation Review Board shall determine whether such conditioning has occurred, with expedited seventy-two-hour review.
 
+#### Constitutional Compliance Enforcement
+
+(i) **Constitutional Compliance Enforcement Exception.** Notwithstanding subsection (d), a Regional Governor may not invoke the refusal authority to shield the Region from enforcement of:
+
+- (1) final, non-appealable rulings of the Allocation Review Board;
+- (2) final, non-appealable rulings of the Supreme Court;
+- (3) federal court orders enforcing constitutional provisions of this Constitution.
+
+(j) **Alternative Enforcement Mechanisms.** When Guard federalization is unavailable or refused under subsection (d), the federal government retains authority to enforce constitutional compliance through:
+
+- (1) fiscal measures authorized under Article X, including withholding of federal transfers and equalization payments;
+- (2) federal marshals and civilian law enforcement agencies;
+- (3) assumption of operational control over specific infrastructure under Article I, Section 6(o);
+- (4) judicial contempt proceedings against responsible officials, including personal fines and incarceration;
+- (5) disqualification of non-compliant Regional officials from future federal office.
+
+(k) **Escalation Ladder.** Before any enforcement action under subsection (j), the federal government shall:
+
+- (1) provide written notice specifying the violation and required remediation;
+- (2) allow thirty (30) days for voluntary compliance;
+- (3) offer mediation through the ARB;
+- (4) obtain judicial certification that non-compliance is willful.
+
+(l) **Anti-Militarization Principle.** The limitations on Guard federalization in subsection (d) reflect the constitutional preference for civilian, fiscal, and judicial enforcement mechanisms over military force in resolving intergovernmental disputes. Nothing in this section shall be construed to authorize military action against civilian populations.
+
 ---
 
 ### Section 3. Integration with State National Guard
@@ -2778,6 +3969,23 @@ Two-key authorization may not be waived, delegated to military officers, or sati
 - approval by the Regional Supreme Court.
 
 (c) Any Regional emergency not reauthorized before expiration terminates automatically. All Regional emergency powers cease immediately.
+
+#### Anti-Ratcheting and Cooling-Off Requirements
+
+(e) **Prohibition on Sequential Category Switching.** No Governor may declare an emergency under a different category within thirty days of the termination or expiration of a prior emergency if:
+
+- (1) the new declaration addresses substantially the same underlying conditions as the prior emergency;
+- (2) the primary purpose of the new declaration is to obtain powers unavailable under the prior category; or
+- (3) the cumulative duration of sequential emergency declarations addressing the same conditions would exceed the maximum renewal limits established for the original category.
+
+(f) **Cooling-Off Period.** Following termination of any Regional emergency that reached its maximum renewal limit under subsection (d), no new emergency of the same category addressing substantially similar conditions may be declared for a period of one hundred eighty days, unless:
+
+- (1) a genuinely new triggering event occurs that is independent of the prior emergency conditions; and
+- (2) the Regional Assembly certifies by two-thirds vote that the new declaration is not an attempt to circumvent renewal limits.
+
+(g) **Cumulative Duration Tracking.** The Regional Arbiter shall maintain a public registry of all emergency declarations, their categories, stated justifications, and cumulative durations. Any pattern of declarations that cumulatively exceeds twice the single-emergency maximum duration for a category within any five-year period shall trigger mandatory review by the Regional Assembly, which must affirmatively vote to permit any further declarations of that category.
+
+(h) **Judicial Review of Successive Declarations.** Any resident of the Region may challenge a successive emergency declaration as violating this section. Courts shall apply strict scrutiny, requiring the Governor to demonstrate that the new declaration addresses genuinely distinct conditions and is not designed to evade the limitations of this Article.
 
 ---
 

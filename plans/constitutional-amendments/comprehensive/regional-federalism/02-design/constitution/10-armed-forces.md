@@ -94,6 +94,31 @@ Two-key authorization may not be waived, delegated to military officers, or sati
 
 - (4) **Anti-Brinkmanship Provision.** A Regional Governor who withholds two-key consent while simultaneously demanding unrelated policy concessions from the President shall be deemed to have waived the consent requirement for that authorization request. The Allocation Review Board shall determine whether such conditioning has occurred, with expedited seventy-two-hour review.
 
+#### Constitutional Compliance Enforcement
+
+(i) **Constitutional Compliance Enforcement Exception.** Notwithstanding subsection (d), a Regional Governor may not invoke the refusal authority to shield the Region from enforcement of:
+
+- (1) final, non-appealable rulings of the Allocation Review Board;
+- (2) final, non-appealable rulings of the Supreme Court;
+- (3) federal court orders enforcing constitutional provisions of this Constitution.
+
+(j) **Alternative Enforcement Mechanisms.** When Guard federalization is unavailable or refused under subsection (d), the federal government retains authority to enforce constitutional compliance through:
+
+- (1) fiscal measures authorized under Article X, including withholding of federal transfers and equalization payments;
+- (2) federal marshals and civilian law enforcement agencies;
+- (3) assumption of operational control over specific infrastructure under Article I, Section 6(o);
+- (4) judicial contempt proceedings against responsible officials, including personal fines and incarceration;
+- (5) disqualification of non-compliant Regional officials from future federal office.
+
+(k) **Escalation Ladder.** Before any enforcement action under subsection (j), the federal government shall:
+
+- (1) provide written notice specifying the violation and required remediation;
+- (2) allow thirty (30) days for voluntary compliance;
+- (3) offer mediation through the ARB;
+- (4) obtain judicial certification that non-compliance is willful.
+
+(l) **Anti-Militarization Principle.** The limitations on Guard federalization in subsection (d) reflect the constitutional preference for civilian, fiscal, and judicial enforcement mechanisms over military force in resolving intergovernmental disputes. Nothing in this section shall be construed to authorize military action against civilian populations.
+
 ---
 
 ### Section 3. Integration with State National Guard

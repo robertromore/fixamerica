@@ -54,6 +54,23 @@ The Emergency Powers Reform Amendment works with either the existing federal/sta
 
 (c) Any Regional emergency not reauthorized before expiration terminates automatically. All Regional emergency powers cease immediately.
 
+#### Anti-Ratcheting and Cooling-Off Requirements
+
+(e) **Prohibition on Sequential Category Switching.** No Governor may declare an emergency under a different category within thirty days of the termination or expiration of a prior emergency if:
+
+- (1) the new declaration addresses substantially the same underlying conditions as the prior emergency;
+- (2) the primary purpose of the new declaration is to obtain powers unavailable under the prior category; or
+- (3) the cumulative duration of sequential emergency declarations addressing the same conditions would exceed the maximum renewal limits established for the original category.
+
+(f) **Cooling-Off Period.** Following termination of any Regional emergency that reached its maximum renewal limit under subsection (d), no new emergency of the same category addressing substantially similar conditions may be declared for a period of one hundred eighty days, unless:
+
+- (1) a genuinely new triggering event occurs that is independent of the prior emergency conditions; and
+- (2) the Regional Assembly certifies by two-thirds vote that the new declaration is not an attempt to circumvent renewal limits.
+
+(g) **Cumulative Duration Tracking.** The Regional Arbiter shall maintain a public registry of all emergency declarations, their categories, stated justifications, and cumulative durations. Any pattern of declarations that cumulatively exceeds twice the single-emergency maximum duration for a category within any five-year period shall trigger mandatory review by the Regional Assembly, which must affirmatively vote to permit any further declarations of that category.
+
+(h) **Judicial Review of Successive Declarations.** Any resident of the Region may challenge a successive emergency declaration as violating this section. Courts shall apply strict scrutiny, requiring the Governor to demonstrate that the new declaration addresses genuinely distinct conditions and is not designed to evade the limitations of this Article.
+
 ---
 
 ### Section 3. Coordination with Federal Emergency Powers

@@ -385,6 +385,271 @@ the determination shall be suspended pending expedited judicial review.
 
 (ee) **Enforcement.** Any member of the ARB, or the ARO, may petition the Supreme Court for a writ of mandamus to compel disbursement of formula funds. Such petitions shall be heard on an expedited basis.
 
+#### Anti-Consolidation Safeguards
+
+(ff) **Cross-Partisan Appointment Mandate.** To prevent a single political movement from bypassing constitutional checks through unified control of the Federal and Regional governments:
+
+(ff-1) **Council of Governors Approval.** Appointments to the ARB, IFC, and FDCA require a three-fifths (60%) vote of the Council of Governors, ensuring that a simple partisan alignment between the President and a majority of Governors cannot capture these bodies.
+
+(ff-2) **Adversarial Minority Key.** The minority party in the House of Representatives shall appoint a "Transparency Observer" to each Constitutional Oversight Body with full access to deliberations and data, but no vote. The Observer may:
+
+- (1) attend all meetings, including closed sessions;
+- (2) access all documents, data, and communications;
+- (3) publish dissenting reports and minority analyses;
+- (4) refer concerns directly to Congress and the public.
+
+(ff-3) **Unified Control Supermajority.** If at any time a single political party controls the Presidency and four or more Regional Governorships, the threshold for the ARB to certify a federal bill as "Non-Exclusive" shall automatically rise to a three-quarters (75%) vote of the Board.
+
+(ff-4) **Party Alignment Determination.** For purposes of subsection (ff-3), the IFC shall determine party alignment based on:
+
+- (1) formal party registration of the officeholder;
+- (2) caucus affiliation in the case of legislators;
+- (3) endorsement patterns and voting alignment for independents.
+An officeholder who formally declares non-alignment with any party shall not be counted toward the unified control threshold.
+
+---
+
+### Section 7-A. Algorithmic Governance Transparency
+
+(a) **Mandatory Algorithmic Transparency.** All algorithms, data models, formulas, and computational methods used by the Allocation Review Board, Independent Fiscal Council, Federal Data Coordination Agency, or any other Constitutional Oversight Body to make determinations affecting Regional rights, obligations, or resources shall be:
+
+- (1) fully documented in plain language accessible to non-technical readers;
+- (2) published in complete technical detail, including source code where applicable;
+- (3) accompanied by explanations of all assumptions, weightings, and data inputs;
+- (4) subject to public comment before initial adoption and before any material modification.
+
+(b) **Open-Source Requirement.** All software, algorithms, and computational tools used for constitutional determinations shall be:
+
+- (1) published as open-source code in publicly accessible repositories;
+- (2) accompanied by complete documentation enabling independent replication;
+- (3) version-controlled with full change history publicly available;
+- (4) testable by any interested party using publicly available data.
+
+(c) **Independent Algorithmic Audit.** Each Constitutional Oversight Body shall undergo annual algorithmic audit by an independent panel:
+
+- (1) The panel shall be appointed by the National Academy of Sciences;
+- (2) The audit shall assess accuracy, bias, and methodological soundness;
+- (3) Audit findings shall be published within sixty (60) days of completion;
+- (4) The audited body shall respond to findings within ninety (90) days.
+
+(d) **Bias Testing Requirements.** Before any algorithm may be used for constitutional determinations:
+
+- (1) it shall be tested for systematic bias against any Region, demographic group, or economic sector;
+- (2) bias testing results shall be published;
+- (3) algorithms showing statistically significant bias (p < 0.05) may not be used until corrected;
+- (4) ongoing bias monitoring shall continue throughout the algorithm's use.
+
+(e) **Data Input Transparency.** All data used as inputs to algorithmic determinations shall be:
+
+- (1) publicly disclosed, with appropriate privacy protections for individual-level data;
+- (2) sourced from publicly verifiable sources;
+- (3) accompanied by metadata describing collection methodology, limitations, and potential biases;
+- (4) subject to challenge by affected parties who may submit alternative data.
+
+(f) **Methodological Challenge Right.** Any Region or affected party may challenge the methodology of an algorithmic determination:
+
+- (1) challenges shall be heard by a Special Master appointed by the Chief Justice with relevant technical expertise;
+- (2) the challenger may present expert testimony on methodological flaws;
+- (3) the Constitutional Oversight Body bears the burden of demonstrating methodological soundness;
+- (4) if the challenge is sustained, the determination shall be vacated pending methodological correction.
+
+(g) **Factual Finding Limitation.** The principle that factual findings of Constitutional Oversight Bodies are "final" under Section 7 applies only to:
+
+- (1) factual determinations based on disclosed data and transparent methodology;
+- (2) findings that have survived methodological challenge or for which the challenge period has expired;
+- (3) this principle does not immunize algorithmic methodology from review.
+
+(h) **Anti-Black-Box Provision.** No Constitutional Oversight Body may:
+
+- (1) use proprietary algorithms whose methodology cannot be publicly disclosed;
+- (2) rely on machine learning models that cannot be explained in human-interpretable terms;
+- (3) treat algorithmic outputs as conclusive without human review and approval;
+- (4) refuse to explain the basis for any specific determination to affected parties.
+
+(i) **Algorithmic Impact Statements.** Before adopting any new algorithm or materially modifying an existing algorithm, Constitutional Oversight Bodies shall publish an Algorithmic Impact Statement assessing:
+
+- (1) potential differential impacts on various Regions;
+- (2) sensitivity analysis showing how changes in inputs affect outputs;
+- (3) comparison with alternative methodological approaches;
+- (4) mechanisms for ongoing monitoring and correction.
+
+(j) **Whistleblower Protection.** Employees of Constitutional Oversight Bodies who report algorithmic bias, methodological flaws, or data manipulation shall be protected under federal whistleblower statutes and may not be terminated, demoted, or subjected to adverse action for such reporting.
+
+#### Technocratic Integrity and Anti-Capture Provisions
+
+(k) **Revolving Door Restrictions.** To prevent the emergence of an insular technocratic class cycling between oversight bodies:
+
+(k-1) **Cooling-Off Periods.** No individual may serve as a member, senior staff, or consultant to more than one Constitutional Oversight Body (including the ARB, IFC, FARB, ETRB, FDCA, and any successor bodies) within a five-year period. Specifically:
+
+- (1) former members of any such body may not be appointed to another such body until five years after the end of their prior service;
+- (2) former senior staff (defined as employees at GS-15 equivalent or above) may not be appointed as members or senior staff of another such body until three years after separation;
+- (3) consultants who provided more than 500 hours of service to any such body within a three-year period are subject to the same restrictions as senior staff.
+
+(k-2) **Prohibition on Double-Hatting.** No individual may simultaneously:
+
+- (1) serve as a member of any Constitutional Oversight Body while serving as a member, employee, or consultant to any other such body;
+- (2) serve on any Constitutional Oversight Body while employed by or consulting for any party with matters pending before that body or any related body;
+- (3) provide expert testimony, advisory opinions, or consulting services to parties in disputes before any body on which they have served within the preceding five years.
+
+(k-3) **Private Sector Restrictions.** Members and senior staff of Constitutional Oversight Bodies:
+
+- (1) may not, for three years after separation, accept employment or consulting arrangements with any entity that was a party to a significant matter in which they personally participated;
+- (2) may not, for two years after separation, lobby or advocate before the body on which they served;
+- (3) must disclose, for five years after separation, any compensation received from entities subject to the jurisdiction of their former body.
+
+(k-4) **Personnel Diversity Requirements.** To prevent homogeneous technocracy:
+
+- (1) no more than two members of any Constitutional Oversight Body may have previously served together on any other such body;
+- (2) no more than one-third of members may have prior employment with the same institution (university, think tank, consulting firm, or government agency);
+- (3) appointing authorities shall consider geographic, institutional, and methodological diversity in making appointments.
+
+(k-5) **Disclosure and Transparency.** All members and senior staff shall:
+
+- (1) file annual financial disclosure statements including all sources of income, investments, and institutional affiliations;
+- (2) publicly disclose all prior service on Constitutional Oversight Bodies, related advisory committees, and relevant private sector positions;
+- (3) recuse themselves from matters involving former employers, clients, or co-panelists for three years after the relevant relationship ended.
+
+(k-6) **Enforcement.** Violations of this section shall result in:
+
+- (1) immediate removal from the current position;
+- (2) permanent ineligibility for appointment to any Constitutional Oversight Body;
+- (3) disgorgement of compensation received in violation of these provisions;
+- (4) civil penalties of up to $500,000 for willful violations.
+
+---
+
+### Section 8. National Security Operations Override
+
+(a) **Certification of National Security Necessity.** When Regional exclusive-domain regulations (including but not limited to labor standards, energy planning, environmental rules, or operational requirements) materially impede the operation of federal defense facilities, defense manufacturing, or critical national security infrastructure, the President may certify a "National Security Necessity."
+
+(b) **Certification Requirements.** A National Security Necessity certification shall:
+
+- (1) identify the specific federal defense operation or facility affected;
+- (2) identify the specific Regional regulation creating the impediment;
+- (3) demonstrate that the impediment is material (not merely inconvenient) to national defense;
+- (4) be transmitted to Congress and the affected Regional Government within 48 hours.
+
+(c) **Effect of Certification.** Upon certification:
+
+- (1) the identified Regional regulation shall be suspended as applied to the identified federal operation for a period not exceeding one hundred eighty (180) days;
+- (2) the federal government shall negotiate in good faith with the Regional Government for a permanent accommodation;
+- (3) affected workers and communities shall receive federal mitigation assistance for any adverse impacts.
+
+(d) **Congressional Review.** Congress may disapprove a National Security Necessity certification by joint resolution within sixty (60) days, which shall terminate the suspension.
+
+(e) **Judicial Review.** Regional Governments may challenge certifications in federal court on grounds that:
+
+- (1) the impediment is not material to national defense; or
+- (2) the certification is pretextual (i.e., the true purpose is economic rather than security-related).
+
+(f) **Anti-Abuse Limitation.** This override may not be used to:
+
+- (1) exempt federal contractors from generally applicable workplace safety requirements;
+- (2) circumvent Regional environmental protections except where directly incompatible with defense operations;
+- (3) impose federal labor standards on non-defense Regional employers.
+
+---
+
+### Section 9. Emerging Technology Domain Assignment
+
+(a) **Emerging Technology Defined.** An "Emerging Technology" is any technology, practice, or capability that:
+
+- (1) does not fit clearly within existing enumerated Federal, Regional, or State domains;
+- (2) poses potential systemic risks crossing jurisdictional boundaries; and
+- (3) is not adequately regulated by any existing jurisdictional framework.
+
+(b) **Emerging Technology Review Board.** There is hereby established an Emerging Technology Review Board (ETRB) consisting of:
+
+- (1) three members appointed by the President with scientific or technical expertise;
+- (2) two members appointed by the Regional Governors (collectively);
+- (3) two members appointed by the National Academy of Sciences;
+- (4) two members appointed by the Judicial Conference from among judges with technology law experience.
+
+(c) **Petition for Domain Assignment.** Any federal agency, Regional Government, or State Government may petition the ETRB to assign jurisdiction over an Emerging Technology. Private parties with demonstrated interest may file amicus submissions.
+
+(d) **Provisional Federal Jurisdiction.** Upon a finding that an Emerging Technology poses systemic risks that cannot be adequately managed at the Regional or State level, the ETRB may assign provisional federal jurisdiction for a period not exceeding five years.
+
+(e) **Criteria for Federal Assignment.** Provisional federal jurisdiction is appropriate when:
+
+- (1) the technology poses risks of catastrophic or irreversible harm;
+- (2) regulatory arbitrage among Regions or States would create "race to the bottom" dynamics;
+- (3) effective regulation requires uniform national standards;
+- (4) the technology implicates national security or foreign policy concerns.
+
+(f) **Provisional Regional Jurisdiction.** When an Emerging Technology primarily affects inter-state coordination within Regions but does not meet the criteria for federal assignment, the ETRB may assign provisional Regional jurisdiction.
+
+(g) **Transition to Permanent Assignment.** Before provisional jurisdiction expires:
+
+- (1) the ETRB shall recommend permanent domain assignment to Congress;
+- (2) Congress shall codify the assignment by statute, which may include shared jurisdiction frameworks;
+- (3) if Congress fails to act, provisional jurisdiction extends for two additional years, after which the technology defaults to State jurisdiction unless renewed.
+
+(h) **Anti-Haven Provision.** No State or Region may offer "regulatory haven" status for Emerging Technologies under provisional federal jurisdiction:
+
+- (1) attempts to attract Emerging Technology development through regulatory exemption are void;
+- (2) federal enforcement authority extends to such technologies regardless of State or Regional non-cooperation;
+- (3) jurisdictions that actively obstruct federal Emerging Technology regulation shall be ineligible for federal research and development funding for five years.
+
+(i) **Sunset and Review.** Each provisional assignment shall include:
+
+- (1) specific regulatory objectives to be achieved;
+- (2) metrics for evaluating regulatory effectiveness;
+- (3) mandatory review at the midpoint of the provisional period.
+
+---
+
+### Section 10. Vital Federal Operations Protection
+
+(a) **Vital Federal Operations Defined.** In addition to national defense facilities protected under Section 8, the following constitute "Vital Federal Operations" entitled to protection from Regional regulatory interference:
+
+- (1) Social Security Administration processing centers and data facilities;
+- (2) Internal Revenue Service processing centers, data facilities, and regional offices;
+- (3) Centers for Disease Control and Prevention facilities and laboratories;
+- (4) Federal Emergency Management Agency regional headquarters and logistics centers;
+- (5) Medicare and Medicaid Services processing facilities;
+- (6) Federal court facilities and administrative offices;
+- (7) United States Postal Service distribution centers;
+- (8) Any other federal facility designated by Congress as "Vital" by statute.
+
+(b) **Minimum Operating Guarantee.** Regions may not use exclusive-domain regulatory authority to:
+
+- (1) deny, restrict, or condition utility services (water, electricity, natural gas, telecommunications) to Vital Federal Operations;
+- (2) impose labor standards that would require reduction of operating hours or staffing below levels necessary for continuous operation;
+- (3) apply zoning, permitting, or land-use restrictions that would require relocation or closure of existing Vital Federal Operations;
+- (4) impose environmental or health regulations specifically targeting federal facilities without generally applicable justification.
+
+(c) **Certification of Vital Operations Necessity.** When Regional regulations materially impede Vital Federal Operations, the head of the affected federal agency may certify a "Vital Operations Necessity":
+
+- (1) The certification shall identify the specific regulation and specific operational impact;
+- (2) The certification shall be transmitted to the Regional Government and Congress within 48 hours;
+- (3) Upon certification, the identified regulation shall be suspended as applied to the federal facility for ninety (90) days pending negotiation.
+
+(d) **Negotiated Accommodation.** During the suspension period:
+
+- (1) The federal agency and Regional Government shall negotiate in good faith for permanent accommodation;
+- (2) The federal government shall offer reasonable mitigation for Regional concerns (e.g., environmental offsets, community benefits);
+- (3) If accommodation is reached, it shall be binding on both parties.
+
+(e) **Arbitration for Unresolved Disputes.** If negotiation fails:
+
+- (1) Either party may request binding arbitration before a three-member panel (one selected by each party, third selected by the Chief Justice);
+- (2) The panel shall issue a decision within sixty (60) days balancing federal operational needs against Regional regulatory interests;
+- (3) The panel may impose conditions on either party to achieve accommodation.
+
+(f) **Anti-Hostage Provision.** A Region may not:
+
+- (1) threaten or impose regulatory burdens on Vital Federal Operations as leverage in unrelated disputes;
+- (2) coordinate with other Regions to simultaneously burden federal operations across multiple locations;
+- (3) time regulatory actions to coincide with federal budget negotiations, elections, or other politically sensitive periods.
+
+(g) **Emergency Federal Authority.** If a Region takes action that would cause imminent shutdown of a Vital Federal Operation:
+
+- (1) The President may declare an emergency and assume temporary operational control of necessary Regional infrastructure (utilities, transportation);
+- (2) Federal operation shall continue only so long as necessary to prevent shutdown;
+- (3) The federal government shall compensate the Region for costs of federal operation.
+
+(h) **Distinction from National Security Override.** This section provides protection for civilian administrative operations; Section 8 provides protection for defense operations. The standards and procedures differ because civilian operations do not implicate the same national security concerns, and Regional interests are given greater weight in balancing.
+
 ---
 
 ## ARTICLE III - RIGHTS FLOORS AND SUBSIDIARITY

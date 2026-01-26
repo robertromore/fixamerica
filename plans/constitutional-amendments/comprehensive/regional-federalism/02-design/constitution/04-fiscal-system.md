@@ -642,6 +642,231 @@ The IFC fiscal intervention authorities established in this Article proceed in e
 
 ---
 
+### Section 11-A. Prohibition on Predatory Tax Exportation
+
+(a) **Tax Exportation Defined.** Tax exportation occurs when the economic burden of a Regional or State tax, fee, or assessment falls primarily (greater than sixty percent) on persons or entities residing outside the taxing jurisdiction.
+
+(b) **Tax Exportation Ceiling.** No Region may derive more than twenty-five percent (25%) of its total annual revenue from exported taxes. This ceiling applies to:
+
+- (1) transit fees on inter-Regional energy, data, or transportation corridors;
+- (2) severance taxes on resources where the primary consumption occurs outside the Region;
+- (3) consumption or sales taxes specifically targeting industries or activities with primarily non-resident participation;
+- (4) any other fiscal instrument where the Independent Fiscal Council (IFC) determines the ultimate economic incidence is shifted to non-residents.
+
+(c) **Monopoly Rents Finding.** If a Region possesses a geographic or economic monopoly over a vital national utility (e.g., a primary deep-water port, a national fiber-optic hub, or a trans-continental energy corridor), the IFC shall:
+
+- (1) establish a "Neutral Service Rate" for that utility based on cost-plus-reasonable-margin;
+- (2) any revenue collected above this rate shall be deemed "Monopoly Rent" and credited against the Region's equalization transfers.
+
+(d) **Enforcement and Remediation.** If a Region exceeds the Tax Exportation Ceiling:
+
+- (1) the excess revenue shall be placed in an escrow fund administered by the IFC;
+- (2) the fund shall be redistributed as "Exportation Rebates" to the Regions whose residents bore the economic burden;
+- (3) persistent violations (three consecutive years) shall result in the IFC assuming authority over the Region's tax-rate setting for the offending categories.
+
+(e) **Incidence Determination.** The IFC shall determine economic incidence using standard public finance methodology, considering price elasticities, market structure, and pass-through rates. The IFC's incidence determination is subject to methodological challenge under Article II, Section 7-A(f).
+
+---
+
+### Section 12. Democratic Accountability for Fiscal Institutions
+
+#### Political Override for Systemic Disputes
+
+(a) **Legitimacy Review Trigger.** If three or more Regions formally declare non-compliance with IFC or ARB determinations within a twelve-month period:
+
+(1) The declarations shall automatically trigger a "Legitimacy Review" requiring Congress to:
+
+- (i) hold public hearings within sixty (60) days on the disputed determinations;
+- (ii) vote within one hundred twenty (120) days on whether to affirm, modify, or vacate the disputed determinations;
+- (iii) consider structural reforms to the IFC or ARB.
+
+(2) During Legitimacy Review:
+
+- (i) enforcement of disputed determinations is stayed;
+- (ii) affected Regions remain subject to baseline constitutional requirements (debt ceilings, no-bailout rule);
+- (iii) the IFC and ARB shall participate in hearings and defend their determinations publicly.
+
+(b) **Periodic Reauthorization.** The statutory authorities of the IFC and ARB shall sunset every twelve (12) years unless reauthorized by Congress. Reauthorization shall include:
+
+(1) review of institutional performance;
+
+(2) opportunity for structural reforms;
+
+(3) public comment period.
+
+(c) **Regional Representation in Determinations.** No determination materially adverse to a Region may be made by a panel where no member was appointed by Regional Governors. If such a panel composition occurs due to vacancies or recusals, the determination shall require unanimous agreement of remaining members.
+
+#### Transparency Requirements
+
+(d) **Public Accountability.** The IFC and ARB shall:
+
+(1) publish all deliberations and vote records;
+
+(2) issue plain-language explanations of determinations accessible to non-experts;
+
+(3) maintain public dashboards showing Regional fiscal status and pending matters;
+
+(4) hold annual public meetings in each Region.
+
+#### Non-Compliance Response Ladder
+
+(e) **Graduated Enforcement.** Before any coercive enforcement against a non-compliant Region:
+
+(1) **Stage 1 - Explanation:** The IFC/ARB shall issue a formal explanation and offer technical assistance (30 days);
+
+(2) **Stage 2 - Mediation:** Mediation by a panel including Regional Governor representatives (60 days);
+
+(3) **Stage 3 - Congressional Review:** Congressional review and vote on whether enforcement is appropriate (90 days);
+
+(4) **Stage 4 - Enforcement:** Only after Congressional authorization may coercive measures (conservatorship, receivership) proceed.
+
+(f) **Emergency Exception.** Subsection (e) does not apply when:
+
+(1) the Region's actions pose imminent risk of contagion to other Regions' fiscal stability;
+
+(2) the Region has deliberately structured transactions to evade constitutional limits;
+
+(3) certified by the Chief Justice as requiring immediate intervention.
+
+---
+
+### Section 13. Prohibition on Shadow Currencies and Quasi-Monetary Instruments
+
+(a) **Federal Monetary Exclusivity.** The federal government's exclusive authority over "currency and monetary policy" under Article II, Section 1 includes exclusive authority over all instruments that function as money, regardless of their formal designation.
+
+(b) **Prohibited Regional Instruments.** No Region or State may issue, authorize, or permit the circulation of:
+
+- (1) "Regional credits," "energy credits," "tax-anticipation tokens," or similar instruments that are transferable and accepted for payment of taxes, fees, or utility charges;
+- (2) digital tokens, blockchain-based currencies, or other electronic instruments that function as a medium of exchange within Regional commerce;
+- (3) scrip, vouchers, or certificates that are designed to circulate as a substitute for federal currency;
+- (4) any instrument that, regardless of its formal designation, functions as a store of value, medium of exchange, and unit of account within the Regional economy.
+
+(c) **Functional Test.** An instrument shall be deemed a prohibited quasi-currency if it meets any two of the following criteria:
+
+- (1) it is accepted for payment of Regional or State taxes, fees, or charges;
+- (2) it is traded on secondary markets or exchanges;
+- (3) its aggregate value in circulation exceeds $100 million;
+- (4) it is used by more than 10,000 distinct parties in commercial transactions within a twelve-month period;
+- (5) it is marketed or promoted as an alternative to federal currency.
+
+(d) **Permitted Instruments.** This section does not prohibit:
+
+- (1) conventional tax credits, rebates, or refunds denominated in dollars;
+- (2) non-transferable benefit vouchers (e.g., food assistance, housing vouchers);
+- (3) loyalty programs, gift cards, or promotional credits limited to specific vendors;
+- (4) Regional bonds, notes, or other debt instruments that are not designed to circulate as currency;
+- (5) public utility rate credits applied to specific customer accounts.
+
+(e) **IFC Monitoring.** The Independent Fiscal Council shall:
+
+- (1) monitor Regional fiscal instruments for compliance with this section;
+- (2) issue advisory opinions on whether proposed instruments would violate this section;
+- (3) refer suspected violations to the Department of Justice for enforcement.
+
+(f) **Enforcement.** Issuance of a prohibited quasi-currency shall result in:
+
+- (1) immediate injunction by federal court;
+- (2) mandatory redemption of all outstanding instruments at face value in federal currency;
+- (3) civil penalties of up to $10 million per day of continued circulation;
+- (4) personal liability for Regional officials who authorized the issuance.
+
+(g) **Federal Reserve Coordination.** The Federal Reserve shall have authority to:
+
+- (1) determine whether an instrument constitutes a prohibited quasi-currency;
+- (2) require reporting from Regions on fiscal instruments that approach the thresholds in subsection (c);
+- (3) issue cease-and-desist orders for instruments that threaten monetary policy effectiveness.
+
+---
+
+### Section 14. Fiscal Adequacy Determinations
+
+(a) **Definition of Adequate Funding.** A mandate is adequately funded when the resources provided are reasonably sufficient to achieve substantial compliance with the mandate's requirements without requiring the subordinate government to:
+
+- (1) reduce existing services below minimum standards established by law;
+- (2) impose taxes or fees exceeding one hundred ten percent of the regional median for comparable jurisdictions; or
+- (3) defer essential infrastructure maintenance or capital replacement.
+
+(b) **Fiscal Adequacy Review Board.** The Inter-Regional Fiscal Court shall establish a Fiscal Adequacy Review Board ("FARB") consisting of:
+
+- (1) three economists appointed by the IFC for staggered six-year terms;
+- (2) two former State or Regional budget directors appointed by the Council of Governors; and
+- (3) two representatives of municipal governments appointed by the National League of Cities.
+
+(c) **Pre-Enactment Fiscal Adequacy Certification.** Before any Federal or Regional mandate takes effect:
+
+- (1) the enacting authority shall submit a Fiscal Adequacy Statement to the FARB estimating compliance costs and identifying funding sources;
+- (2) the FARB shall issue a Fiscal Adequacy Determination within sixty days certifying whether proposed funding is adequate;
+- (3) if the FARB certifies funding as inadequate, the mandate shall not take effect until funding is increased to adequate levels or the enacting authority demonstrates by clear and convincing evidence that the FARB's determination was erroneous.
+
+(d) **Post-Enactment Adequacy Challenges.** Any subordinate government subject to a mandate may petition the FARB for a determination that funding has become inadequate due to:
+
+- (1) increased compliance costs exceeding original estimates by more than twenty percent;
+- (2) inflation or economic changes materially affecting compliance costs;
+- (3) unforeseen implementation requirements; or
+- (4) cumulative burden of multiple mandates affecting the same revenue sources.
+
+(e) **Remedies for Inadequate Funding.** Upon determination that a mandate is inadequately funded:
+
+- (1) the subordinate government may suspend compliance with the underfunded portions until adequate funding is provided;
+- (2) the enacting authority shall have one hundred eighty days to cure the funding deficiency;
+- (3) if not cured, the mandate becomes unenforceable against the petitioning government;
+- (4) no penalty, sanction, or loss of other funding may be imposed for non-compliance with an inadequately funded mandate.
+
+(f) **Anti-Circumvention.** No enacting authority may:
+
+- (1) condition unrelated funding on compliance with inadequately funded mandates;
+- (2) impose mandates through guidance, interpretation, or enforcement discretion to avoid fiscal adequacy review;
+- (3) fragment mandates into smaller components to avoid cumulative burden analysis.
+
+---
+
+### Section 15. Pre-Ratification Legacy Liabilities
+
+(a) **Legacy Liability Defined.** A "Legacy Liability" is a fiscal or environmental obligation incurred prior to the ratification of this Constitution, specifically including:
+
+- (1) unfunded pension obligations for state and local employees accrued before ratification;
+- (2) remediation costs for pre-existing toxic waste or "Superfund" sites designated before ratification;
+- (3) decommissioning costs for aging nuclear or industrial facilities constructed before ratification;
+- (4) infrastructure debt and deferred maintenance obligations incurred before ratification.
+
+(b) **National Legacy Trust.** There is hereby established a National Legacy Trust ("NLT"), managed by the IFC, to assist Regions burdened by disproportionate industrial or administrative history:
+
+(b-1) **Legacy Burden Factor.** The IFC shall include a "Legacy Burden Factor" in the equalization formula, ensuring that Regions with older infrastructure, higher pension loads, and greater environmental remediation obligations are not fiscally penalized relative to Regions without such historical burdens. The Factor shall be calculated based on:
+
+- (1) per-capita unfunded pension obligations attributable to pre-ratification service;
+- (2) per-capita environmental remediation costs for pre-ratification contamination;
+- (3) per-capita deferred maintenance on infrastructure constructed before ratification;
+- (4) other quantifiable legacy burdens as determined by the IFC.
+
+(b-2) **Federal Backstop for Catastrophic Legacy Harms.** For legacy harms that exceed a Region's fiscal capacity (defined as remediation costs exceeding five percent of Regional GDP), the NLT shall provide direct grants funded by:
+
+- (1) a 0.05% national corporate carbon fee on emissions exceeding sector baselines;
+- (2) a 0.05% financial transaction fee on securities trades exceeding $1 million in daily volume;
+- (3) appropriations as Congress may provide.
+
+(b-3) **Trust Administration.** The NLT shall:
+
+- (1) receive applications from Regions documenting legacy liabilities;
+- (2) verify claims through independent audit;
+- (3) prioritize funding based on fiscal impact and public health urgency;
+- (4) publish annual reports on legacy liability status nationwide.
+
+(c) **Legacy Liability Sunset.** The Legacy Burden Factor shall be recalculated every ten years and shall phase out over fifty (50) years following ratification:
+
+- (1) the Factor shall remain at full value for the first ten years following ratification;
+- (2) beginning in year eleven, the Factor shall decline by two percent (2%) of its initial value annually;
+- (3) by year sixty following ratification, the Legacy Burden Factor shall be zero;
+- (4) this sunset ensures that legacy equity adjustments address historical burdens without creating permanent entitlements.
+
+(d) **Anti-Manipulation.** No Region may:
+
+- (1) incur new obligations and retroactively classify them as "legacy" liabilities;
+- (2) defer maintenance or remediation to increase legacy burden claims;
+- (3) manipulate pension assumptions to inflate unfunded liability calculations.
+Violations shall result in forfeiture of NLT assistance and clawback of prior disbursements.
+
+---
+
 ## Design Rationale
 
 ### Why Independent Taxing Authority?
