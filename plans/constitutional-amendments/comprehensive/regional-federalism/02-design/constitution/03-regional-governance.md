@@ -56,6 +56,22 @@ The Senate shall not function as a routine legislative veto.
 - (d) The Senate may not adjudicate disputes involving individual rights (which belong to the courts) or disputes already pending in the Allocation Review Board or federal courts.
 - (e) Senate adjudication decisions may be appealed to the Supreme Court on questions of constitutional interpretation within 60 days.
 
+**Conflict of Interest Provisions.** To ensure impartial adjudication:
+
+- (f) **Mandatory Recusal.** Senators from any Region that is a party to a dispute shall be recused from voting on the adjudication. If both parties are Regions, Senators from both Regions are recused.
+- (g) **Quorum with Recusals.** When Senators are recused under subsection (f):
+    - (1) The quorum for adjudication shall be a majority of non-recused Senators;
+    - (2) Decisions require a majority of non-recused Senators voting;
+    - (3) If recusals reduce participating Senators below eight, the dispute shall be transferred to the Supreme Court for original jurisdiction.
+- (h) **Anti-Bloc Voting Safeguards.**
+    - (1) No adjudication may proceed if Senators from three or fewer Regions would constitute a majority of voting Senators;
+    - (2) If a pattern emerges where the same Regional coalition decides three consecutive disputes against the same Region or group of Regions, any affected Region may demand transfer to the Supreme Court;
+    - (3) The Chief Justice shall review Senate adjudication patterns annually and may certify "systematic regional bias" if statistical analysis demonstrates non-random voting patterns correlated with Regional identity rather than legal merit. Such certification triggers automatic Supreme Court review of pending and future disputes for two years.
+- (i) **Independent Adjudication Panel Option.** For disputes involving allegations of Regional discrimination or systematic bias:
+    - (1) Any party may request adjudication by an Independent Panel instead of the full Senate;
+    - (2) The Panel shall consist of the Chief Justice (presiding), two retired federal appellate judges selected by lot, and two Senators selected by lot from non-party Regions;
+    - (3) Panel decisions have the same force as Senate adjudication and are appealable under the same terms.
+
 ---
 
 ### Section 4-A. Senate Concurrence for Constitutional Safeguards (Proposed)

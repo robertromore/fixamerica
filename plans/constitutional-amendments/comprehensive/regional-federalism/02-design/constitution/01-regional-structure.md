@@ -80,40 +80,56 @@ The structural form of Regional government (unicameral or bicameral legislature,
 | Transfer Type | Threshold | Requirements |
 |---------------|-----------|--------------|
 | **Bilateral Agreement** | Supermajority (2/3) of both Regional legislatures + State referendum (55%) | Consent from all affected parties |
-| **Unilateral Departure** | State referendum (60%) + ARB certification + 5-year waiting period | Higher bar for non-consensual departure |
+| **Unilateral Departure** | State referendum (60%) + ARB certification + 3-year waiting period | Higher bar for non-consensual departure |
 | **Contested Transfer** | Supreme Court determination | Prevents hostage-taking by blocking Region |
 
-(g) **Fundamental Misalignment Standard.** The ARB shall certify "Fundamental Misalignment" if, for three consecutive years:
+(g) **Fundamental Misalignment Standard.** The ARB shall certify "Fundamental Misalignment" based on objective criteria. Certification is **automatic** if the State demonstrates any two of the following for two consecutive years:
 
-(1) The State's primary economic trading partners are greater than sixty percent (60%) outside its current Region; OR
+(1) The State's primary economic trading partners are greater than sixty percent (60%) outside its current Region, as measured by interstate commerce data published by the Bureau of Economic Analysis; OR
 
-(2) The State's labor market integration (cross-border commuting, migration) is greater than fifty percent (50%) with an adjacent Region; OR
+(2) The State's labor market integration (cross-border commuting, migration) is greater than fifty percent (50%) with an adjacent Region, as measured by Census Bureau commuting data; OR
 
-(3) The State's policy preferences (as measured by statewide referendum results) diverge from the Regional median by more than two (2) standard deviations on three or more major policy domains.
+(3) The State's median voter policy preferences diverge from the Regional median by more than 1.5 standard deviations on three or more major policy domains, as measured by the biennial National Policy Preference Survey administered by the Federal Election Commission; OR
 
-(h) **Waiting Period.** A State initiating Unilateral Departure shall complete a five (5) year waiting period during which:
+(4) The State shares a contiguous border with the destination Region and does not share a contiguous border with any other State in its current Region.
+
+(h) **Waiting Period.** A State initiating Unilateral Departure shall complete a three (3) year waiting period during which:
 
 (1) The State remains subject to all origin-Region obligations;
 
-(2) The ARB shall verify continued Fundamental Misalignment at Year 3;
+(2) The ARB shall verify continued Fundamental Misalignment at Year 2;
 
-(3) The State may withdraw its transfer application at any time.
+(3) The State may withdraw its transfer application at any time;
 
-(i) **Policy Continuity Rule.** A transferring State shall remain subject to its former Region's regulatory and tax floors for a period of five (5) years following transfer, with floors declining by twenty percent (20%) annually toward the new Region's standards.
+(4) Business investment decisions made during the waiting period shall not be subject to retroactive regulatory changes by either Region.
+
+(i) **Policy Continuity Rule.** A transferring State shall remain subject to its former Region's regulatory and tax floors for a period of three (3) years following transfer, with floors declining by one-third (33%) annually toward the new Region's standards. During this period:
+
+(1) Businesses may elect to be governed by either the origin Region's or destination Region's standards, provided they declare their election at the beginning of each fiscal year;
+
+(2) This election does not affect individual rights protections, which remain subject to the higher floor;
+
+(3) The destination Region may not impose requirements exceeding those of the origin Region during the transition period.
 
 #### Anti-Region-Shopping Provisions
 
-(j) **Anti-Arbitrage Certification.** No transfer shall be approved if the ARB determines that the primary purpose is to evade:
+(j) **Anti-Arbitrage Certification.** No transfer shall be approved if the ARB determines, based on objective evidence, that arbitrage is the dominant purpose. Arbitrage shall be presumed if:
 
-(1) Environmental regulations applicable in the origin Region;
+(1) The destination Region's effective corporate tax rate is more than five (5) percentage points lower than the origin Region's, AND the State cannot demonstrate Fundamental Misalignment under subsection (g); OR
 
-(2) Labor standards or minimum wage requirements;
+(2) The destination Region's environmental compliance costs are more than thirty percent (30%) lower than the origin Region's, AND the State cannot demonstrate Fundamental Misalignment under subsection (g); OR
 
-(3) Tax obligations, including equalization contributions.
+(3) The State government or its officials have publicly stated regulatory or tax avoidance as a primary motivation.
 
-(k) **Burden of Proof.** Where the destination Region maintains lower floors in any domain enumerated in subsection (j), the transferring State bears the burden of demonstrating non-arbitrage purpose by clear and convincing evidence.
+(k) **Burden of Proof.**
 
-(l) **Regional Membership Permanence.** Once assigned, Regional membership is irrevocable until the next decennial review; selective coordination withdrawal does not exempt a State from Regional authority.
+(1) Where the destination Region maintains lower floors in any domain enumerated in subsection (j), the transferring State bears the burden of demonstrating non-arbitrage purpose by a preponderance of evidence (not clear and convincing evidence).
+
+(2) If the State establishes Fundamental Misalignment under subsection (g), the burden shifts to any objecting party to prove arbitrage as the dominant purpose by clear and convincing evidence.
+
+(l) **Expedited ARB Review.** The ARB shall resolve transfer disputes within ninety (90) days of filing, not the general 180-day timeline. The ARB shall issue preliminary certification or denial within forty-five (45) days, with the remaining period for any appeals or supplemental submissions.
+
+(m) **Regional Membership Permanence.** Once assigned, Regional membership is irrevocable until the next decennial review; selective coordination withdrawal does not exempt a State from Regional authority.
 
 ---
 
@@ -730,6 +746,42 @@ The Board shall coordinate water allocation, establish monitoring standards, and
 (2) Use restrictions of subsection (m)(4) apply regardless of access authority;
 
 (3) Specialized provisions may expand access scope but not diminish privacy safeguards.
+
+(x) **Federal Data Coordination Agency.** There is hereby established a Federal Data Coordination Agency with the following responsibilities:
+
+(1) **Technical Standards Development.** The Agency shall develop and maintain binding technical standards for Critical Governance Data interoperability, including:
+- (i) data format specifications and schema requirements;
+- (ii) API protocols and authentication standards;
+- (iii) encryption and security requirements;
+- (iv) synchronization frequency and latency requirements by data category.
+
+(2) **Legacy System Transition.** The Agency shall:
+- (i) inventory all existing government data systems within two years of ratification;
+- (ii) establish a ten-year transition timeline for legacy system compliance;
+- (iii) provide technical assistance and funding to jurisdictions for system modernization;
+- (iv) grant compliance extensions for demonstrated hardship, not to exceed five additional years.
+
+(3) **Security Coordination.** The Agency shall maintain a unified security operations center for Critical Governance Data that:
+- (i) monitors for unauthorized access attempts across all jurisdictions;
+- (ii) coordinates incident response for data breaches affecting multiple jurisdictions;
+- (iii) conducts annual security audits of all connected systems;
+- (iv) maintains backup and disaster recovery capabilities for Critical Governance Data.
+
+(4) **Composition.** The Agency shall be governed by a board consisting of:
+- (i) one representative appointed by each Regional Governor;
+- (ii) two representatives appointed by the President;
+- (iii) one representative appointed by the Chief Justice;
+- (iv) one non-voting technical advisor selected by the board from the private sector.
+
+(5) **Funding.** The Agency shall be funded through mandatory appropriations not subject to annual discretion, apportioned among the federal government and Regions based on data system usage.
+
+(y) **Liability for Interoperability Failures.** A jurisdiction that fails to maintain interoperability as required by this section and thereby causes demonstrable harm to another jurisdiction's constitutional functions shall be liable for:
+
+(1) actual damages incurred by the affected jurisdiction;
+
+(2) costs of alternative data access arrangements;
+
+(3) civil penalties not to exceed $100,000 per day of non-compliance following notice and a ninety-day cure period.
 
 ---
 

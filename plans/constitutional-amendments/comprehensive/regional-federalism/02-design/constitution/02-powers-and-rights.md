@@ -89,7 +89,40 @@ Powers shall be exclusive to the level to which they are assigned unless this Co
 - (ii) amend the definition of Regional Exclusive Domain except by constitutional amendment; or
 - (iii) circumvent Domain Certification through creative bill drafting, omnibus legislation, or procedural manipulation.
 
-(7) If the Board fails to issue certification within thirty days, the bill shall be presumptively certified as impacting a Regional Exclusive Domain, and the supermajority requirement shall apply.
+(7) If the Board fails to issue certification within thirty days, the bill shall be presumptively certified as NOT impacting a Regional Exclusive Domain, and the bill may proceed under normal House procedures. This default prevents certification delay from being used to obstruct legislation.
+
+#### Anti-Bottleneck Provisions
+
+(8) **Expedited Certification Track.** The Board shall establish an expedited certification track for:
+
+- (i) bills addressing declared emergencies;
+- (ii) bills with bipartisan House sponsorship exceeding sixty percent;
+- (iii) bills that are substantially similar to previously certified legislation.
+Expedited certifications shall be completed within ten days.
+
+(9) **Staffing and Capacity Requirements.** The Board shall maintain sufficient staff to process certification requests without backlog:
+
+- (i) If average certification time exceeds twenty days for three consecutive months, the Board shall hire additional staff within sixty days;
+- (ii) Certification staff funding is mandatory spending, not subject to annual appropriation;
+- (iii) The Board shall publish monthly certification statistics including filing volume, average processing time, and pending requests.
+
+(10) **Backlog Remediation.** If pending certification requests exceed fifty at any time:
+
+- (i) The Board shall implement emergency processing procedures;
+- (ii) New requests shall be processed in order of filing date;
+- (iii) Requests pending more than twenty days shall be automatically approved for normal House procedures unless the Board affirmatively certifies Regional Exclusive Domain impact within five additional days.
+
+(11) **Anti-Strategic-Delay.** No party may file certification requests for the purpose of creating backlog or delaying unrelated legislation:
+
+- (i) Frivolous or duplicative requests may be summarily dismissed;
+- (ii) A pattern of filing requests subsequently withdrawn may result in filing restrictions;
+- (iii) The Board may consolidate substantially similar requests.
+
+(12) **Congressional Bypass for Obstruction.** If the Board fails to process certifications due to quorum failure, member vacancies, or other institutional dysfunction for more than sixty consecutive days:
+
+- (i) The House may proceed with legislation without certification by a three-fifths vote;
+- (ii) Such legislation shall be subject to expedited judicial review within ninety days of enactment;
+- (iii) This bypass may not be used if the Board is functioning normally but simply has a backlog.
 
 ---
 

@@ -174,12 +174,27 @@ Automatic, formula-based equalization transfers shall ensure baseline governing 
 
 (d) Pooling agreements under this section require no federal approval and do not constitute merger.
 
-(e) For purposes of this section, a "Small Region" is one that meets either:
+(e) **Federal Institutional Capacity Support.** For any Region with population below two percent of the total population of the United States:
+
+- (1) The federal government shall provide supplemental funding for Regional court operations, including judicial salaries, court facilities, and administrative staff, sufficient to ensure access to justice equivalent to that available in larger Regions;
+- (2) The federal government shall provide technical assistance and shared personnel for specialized regulatory functions that require expertise not economically sustainable at small-region scale;
+- (3) Regional Guard forces may be supplemented by federal reserve components under Regional Governor command for non-federalized operations, pursuant to agreement between the Region and the Department of Defense;
+- (4) This support is an entitlement, not subject to annual appropriation discretion, and shall be funded through mandatory spending.
+
+(f) **Mandatory Pooling for Critical Functions.** Regions with population below two percent of the total population shall enter into pooling agreements with at least one adjacent Region for:
+
+- (1) appellate court operations (trial courts may remain independent),
+- (2) specialized law enforcement functions (forensics, cybercrime),
+- (3) emergency management coordination.
+
+Such pooling shall preserve each Region's sovereignty and independent governance; pooled functions operate under joint authority with equal Regional representation regardless of population.
+
+(g) For purposes of this section, a "Small Region" is one that meets either:
 
 - (1) population below five percent of the total population of the United States, or
 - (2) fiscal capacity below the median fiscal capacity of all Regions.
 
-(f) Fiscal capacity shall be measured by the Independent Fiscal Council using a formula that accounts for tax base, cost of living, and geographic factors. The formula shall be established by statute and reviewed every ten years.
+(h) Fiscal capacity shall be measured by the Independent Fiscal Council using a formula that accounts for tax base, cost of living, and geographic factors. The formula shall be established by statute and reviewed every ten years.
 
 ---
 
@@ -333,6 +348,52 @@ Conditional funding that effectively compels unrelated policy compliance is unco
 (2) Include no provisions that defer all principal repayment beyond ten years;
 
 (3) These requirements ensure current generations bear current costs.
+
+#### Off-Balance-Sheet Debt Controls
+
+(o) **Consolidated Fiscal Reporting.** For purposes of all debt limits, ceilings, and monitoring under this Article, "Regional debt" includes:
+
+(1) All direct obligations of the Regional government;
+
+(2) All obligations of any Regional authority, agency, corporation, or instrumentality created by or on behalf of the Region, regardless of formal legal separation;
+
+(3) All revenue bonds issued by entities in which the Region has an ownership interest, exercises control, or for which Regional action was required for creation;
+
+(4) All public-private partnership obligations where the Region bears contingent liability, guarantees revenue, or provides availability payments;
+
+(5) All lease-purchase agreements, certificates of participation, and similar financing arrangements;
+
+(6) The proportionate share of any multi-Regional financing entity's obligations based on the Region's participation.
+
+(p) **Independent Infrastructure Authority Restrictions.**
+
+(1) No Region may create or authorize the creation of an independent authority, corporation, or special district for the primary purpose of issuing debt that would not be included in Regional debt calculations;
+
+(2) Any entity created by Regional action that issues debt exceeding $100 million shall be presumed to be a Regional instrumentality subject to consolidated reporting;
+
+(3) The IFC may pierce the corporate form of any entity and attribute its debt to the creating Region if:
+
+- (i) the Region exercises practical control over the entity's governance;
+- (ii) the Region provides substantial revenue support or credit enhancement;
+- (iii) the entity was structured to evade Regional debt limits.
+
+(q) **Revenue Bond Disclosure.** Revenue bonds issued by Regional instrumentalities shall:
+
+(1) Disclose in offering documents that the bonds are subject to Regional debt consolidation rules;
+
+(2) State that bondholders cannot rely on formal legal separation to avoid the consequences of Regional fiscal distress;
+
+(3) Be reported to the IFC within thirty days of issuance.
+
+(r) **Penalties for Evasion.** If the IFC determines that a Region has structured transactions to evade debt limits:
+
+(1) The evaded debt shall be immediately attributed to the Region;
+
+(2) The Region shall be placed on "Warning" status regardless of prior debt level;
+
+(3) Regional officials who authorized the evasive structure may be personally disqualified from future public financial positions;
+
+(4) The Region shall reimburse IFC enforcement costs.
 
 ---
 

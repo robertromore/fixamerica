@@ -107,40 +107,56 @@ The structural form of Regional government (unicameral or bicameral legislature,
 | Transfer Type | Threshold | Requirements |
 |---------------|-----------|--------------|
 | **Bilateral Agreement** | Supermajority (2/3) of both Regional legislatures + State referendum (55%) | Consent from all affected parties |
-| **Unilateral Departure** | State referendum (60%) + ARB certification + 5-year waiting period | Higher bar for non-consensual departure |
+| **Unilateral Departure** | State referendum (60%) + ARB certification + 3-year waiting period | Higher bar for non-consensual departure |
 | **Contested Transfer** | Supreme Court determination | Prevents hostage-taking by blocking Region |
 
-(g) **Fundamental Misalignment Standard.** The ARB shall certify "Fundamental Misalignment" if, for three consecutive years:
+(g) **Fundamental Misalignment Standard.** The ARB shall certify "Fundamental Misalignment" based on objective criteria. Certification is **automatic** if the State demonstrates any two of the following for two consecutive years:
 
-(1) The State's primary economic trading partners are greater than sixty percent (60%) outside its current Region; OR
+(1) The State's primary economic trading partners are greater than sixty percent (60%) outside its current Region, as measured by interstate commerce data published by the Bureau of Economic Analysis; OR
 
-(2) The State's labor market integration (cross-border commuting, migration) is greater than fifty percent (50%) with an adjacent Region; OR
+(2) The State's labor market integration (cross-border commuting, migration) is greater than fifty percent (50%) with an adjacent Region, as measured by Census Bureau commuting data; OR
 
-(3) The State's policy preferences (as measured by statewide referendum results) diverge from the Regional median by more than two (2) standard deviations on three or more major policy domains.
+(3) The State's median voter policy preferences diverge from the Regional median by more than 1.5 standard deviations on three or more major policy domains, as measured by the biennial National Policy Preference Survey administered by the Federal Election Commission; OR
 
-(h) **Waiting Period.** A State initiating Unilateral Departure shall complete a five (5) year waiting period during which:
+(4) The State shares a contiguous border with the destination Region and does not share a contiguous border with any other State in its current Region.
+
+(h) **Waiting Period.** A State initiating Unilateral Departure shall complete a three (3) year waiting period during which:
 
 (1) The State remains subject to all origin-Region obligations;
 
-(2) The ARB shall verify continued Fundamental Misalignment at Year 3;
+(2) The ARB shall verify continued Fundamental Misalignment at Year 2;
 
-(3) The State may withdraw its transfer application at any time.
+(3) The State may withdraw its transfer application at any time;
 
-(i) **Policy Continuity Rule.** A transferring State shall remain subject to its former Region's regulatory and tax floors for a period of five (5) years following transfer, with floors declining by twenty percent (20%) annually toward the new Region's standards.
+(4) Business investment decisions made during the waiting period shall not be subject to retroactive regulatory changes by either Region.
+
+(i) **Policy Continuity Rule.** A transferring State shall remain subject to its former Region's regulatory and tax floors for a period of three (3) years following transfer, with floors declining by one-third (33%) annually toward the new Region's standards. During this period:
+
+(1) Businesses may elect to be governed by either the origin Region's or destination Region's standards, provided they declare their election at the beginning of each fiscal year;
+
+(2) This election does not affect individual rights protections, which remain subject to the higher floor;
+
+(3) The destination Region may not impose requirements exceeding those of the origin Region during the transition period.
 
 #### Anti-Region-Shopping Provisions
 
-(j) **Anti-Arbitrage Certification.** No transfer shall be approved if the ARB determines that the primary purpose is to evade:
+(j) **Anti-Arbitrage Certification.** No transfer shall be approved if the ARB determines, based on objective evidence, that arbitrage is the dominant purpose. Arbitrage shall be presumed if:
 
-(1) Environmental regulations applicable in the origin Region;
+(1) The destination Region's effective corporate tax rate is more than five (5) percentage points lower than the origin Region's, AND the State cannot demonstrate Fundamental Misalignment under subsection (g); OR
 
-(2) Labor standards or minimum wage requirements;
+(2) The destination Region's environmental compliance costs are more than thirty percent (30%) lower than the origin Region's, AND the State cannot demonstrate Fundamental Misalignment under subsection (g); OR
 
-(3) Tax obligations, including equalization contributions.
+(3) The State government or its officials have publicly stated regulatory or tax avoidance as a primary motivation.
 
-(k) **Burden of Proof.** Where the destination Region maintains lower floors in any domain enumerated in subsection (j), the transferring State bears the burden of demonstrating non-arbitrage purpose by clear and convincing evidence.
+(k) **Burden of Proof.**
 
-(l) **Regional Membership Permanence.** Once assigned, Regional membership is irrevocable until the next decennial review; selective coordination withdrawal does not exempt a State from Regional authority.
+(1) Where the destination Region maintains lower floors in any domain enumerated in subsection (j), the transferring State bears the burden of demonstrating non-arbitrage purpose by a preponderance of evidence (not clear and convincing evidence).
+
+(2) If the State establishes Fundamental Misalignment under subsection (g), the burden shifts to any objecting party to prove arbitrage as the dominant purpose by clear and convincing evidence.
+
+(l) **Expedited ARB Review.** The ARB shall resolve transfer disputes within ninety (90) days of filing, not the general 180-day timeline. The ARB shall issue preliminary certification or denial within forty-five (45) days, with the remaining period for any appeals or supplemental submissions.
+
+(m) **Regional Membership Permanence.** Once assigned, Regional membership is irrevocable until the next decennial review; selective coordination withdrawal does not exempt a State from Regional authority.
 
 ---
 
@@ -261,7 +277,7 @@ The structural form of Regional government (unicameral or bicameral legislature,
 
 (3) No sovereign immunity defense available for infrastructure violations.
 
-(n) **Treble Damages for Bad Faith.** When the ARB finds a restriction was imposed in bad faith—for purposes of economic coercion rather than safety:
+(n) **Treble Damages for Bad Faith.** When the ARB finds a restriction was imposed in bad faith--for purposes of economic coercion rather than safety:
 
 (1) Treble damages are mandatory;
 
@@ -758,6 +774,46 @@ The Board shall coordinate water allocation, establish monitoring standards, and
 
 (3) Specialized provisions may expand access scope but not diminish privacy safeguards.
 
+(x) **Federal Data Coordination Agency.** There is hereby established a Federal Data Coordination Agency with the following responsibilities:
+
+(1) **Technical Standards Development.** The Agency shall develop and maintain binding technical standards for Critical Governance Data interoperability, including:
+
+- (i) data format specifications and schema requirements;
+- (ii) API protocols and authentication standards;
+- (iii) encryption and security requirements;
+- (iv) synchronization frequency and latency requirements by data category.
+
+(2) **Legacy System Transition.** The Agency shall:
+
+- (i) inventory all existing government data systems within two years of ratification;
+- (ii) establish a ten-year transition timeline for legacy system compliance;
+- (iii) provide technical assistance and funding to jurisdictions for system modernization;
+- (iv) grant compliance extensions for demonstrated hardship, not to exceed five additional years.
+
+(3) **Security Coordination.** The Agency shall maintain a unified security operations center for Critical Governance Data that:
+
+- (i) monitors for unauthorized access attempts across all jurisdictions;
+- (ii) coordinates incident response for data breaches affecting multiple jurisdictions;
+- (iii) conducts annual security audits of all connected systems;
+- (iv) maintains backup and disaster recovery capabilities for Critical Governance Data.
+
+(4) **Composition.** The Agency shall be governed by a board consisting of:
+
+- (i) one representative appointed by each Regional Governor;
+- (ii) two representatives appointed by the President;
+- (iii) one representative appointed by the Chief Justice;
+- (iv) one non-voting technical advisor selected by the board from the private sector.
+
+(5) **Funding.** The Agency shall be funded through mandatory appropriations not subject to annual discretion, apportioned among the federal government and Regions based on data system usage.
+
+(y) **Liability for Interoperability Failures.** A jurisdiction that fails to maintain interoperability as required by this section and thereby causes demonstrable harm to another jurisdiction's constitutional functions shall be liable for:
+
+(1) actual damages incurred by the affected jurisdiction;
+
+(2) costs of alternative data access arrangements;
+
+(3) civil penalties not to exceed $100,000 per day of non-compliance following notice and a ninety-day cure period.
+
 ---
 
 ### Section 11. Environmental Border Protection
@@ -902,6 +958,106 @@ The Board shall coordinate water allocation, establish monitoring standards, and
 
 ---
 
+## SCHEDULE A - INITIAL REGIONAL BOUNDARIES
+
+The following Regions are established upon ratification. These boundaries may be revised pursuant to Article I, Section 4.
+
+---
+
+### Region 1 - Northeast
+
+Connecticut, Maine, Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania, Rhode Island, Vermont
+
+---
+
+### Region 2 - Southeast
+
+Alabama, Florida, Georgia, Kentucky, Louisiana, Mississippi, North Carolina, South Carolina, Tennessee, Virginia, West Virginia
+
+---
+
+### Region 3 - Midwest
+
+Illinois, Indiana, Iowa, Michigan, Minnesota, Ohio, Wisconsin
+
+---
+
+### Region 4 - Great Plains
+
+Kansas, Missouri, Nebraska, North Dakota, Oklahoma, South Dakota
+
+---
+
+### Region 5 - Southwest
+
+Arizona, Colorado, Nevada, New Mexico, Texas, Utah
+
+---
+
+### Region 6 - Pacific
+
+Alaska, California, Hawaii, Oregon, Washington
+
+---
+
+### Region 7 - Mountain
+
+Idaho, Montana, Wyoming
+
+---
+
+### Schedule Notes
+
+(a) The District of Columbia is not assigned to any Region upon ratification. Its Regional assignment shall be determined pursuant to Article XX, Section 1(b).
+
+(b) United States territories are not assigned to any Region upon ratification. Their Regional assignment shall be determined pursuant to Article XX, Section 2(a).
+
+(c) Tribal lands within State boundaries remain under tribal and federal jurisdiction as provided in Article XX, Section 3.
+
+(d) These initial boundaries are based on geographic, economic, and demographic considerations as of ratification. Future boundary revisions shall follow the process established in Article I, Section 4.
+
+(e) Population and Fiscal Capacity Considerations.
+
+(1) Regions vary substantially in population. As of ratification, approximate populations are:
+
+- Northeast: 60 million
+- Southeast: 75 million
+- Midwest: 52 million
+- Great Plains: 14 million
+- Southwest: 52 million
+- Pacific: 55 million
+- Mountain: 3 million
+
+(2) Population disparity is an intentional feature of this Constitution, not a defect. Regions are defined by geographic, economic, and cultural coherence, not population equality.
+
+(3) Small-population Regions are protected by:
+
+- equal representation in the Senate,
+- equalization transfers ensuring baseline fiscal capacity (Article X, Section 3),
+- the boundary revision process, which allows but does not compel merger (Article I, Section 4),
+- inter-Regional cooperation agreements permitting shared institutions (Article I, Section 5).
+
+(4) Small Regions may petition for boundary revision to join an adjacent Region, but may not be compelled to merge.
+
+(f) Minimum Regional Capacity.
+
+(1) Each Region must maintain minimum institutional capacity to:
+
+- administer elections,
+- operate Regional courts,
+- maintain Regional Guard Forces,
+- participate in Senate representation.
+
+(2) If a Region's population falls below one-half of one percent of the total population of the United States, or if a Region demonstrates inability to maintain minimum institutional capacity, the Independent Boundary Review Commission shall conduct a special review within one year and may recommend:
+
+- merger with an adjacent Region,
+- enhanced inter-Regional cooperation agreements,
+- federal technical assistance.
+
+(3) Any merger recommendation under this subsection requires the same approval process as other boundary revisions under Article I, Section 4.
+
+---
+
 ## ARTICLE II - ALLOCATION OF POWERS
 
 ### Section 1. Enumerated Federal Powers
@@ -985,7 +1141,40 @@ Powers shall be exclusive to the level to which they are assigned unless this Co
 - (ii) amend the definition of Regional Exclusive Domain except by constitutional amendment; or
 - (iii) circumvent Domain Certification through creative bill drafting, omnibus legislation, or procedural manipulation.
 
-(7) If the Board fails to issue certification within thirty days, the bill shall be presumptively certified as impacting a Regional Exclusive Domain, and the supermajority requirement shall apply.
+(7) If the Board fails to issue certification within thirty days, the bill shall be presumptively certified as NOT impacting a Regional Exclusive Domain, and the bill may proceed under normal House procedures. This default prevents certification delay from being used to obstruct legislation.
+
+#### Anti-Bottleneck Provisions
+
+(8) **Expedited Certification Track.** The Board shall establish an expedited certification track for:
+
+- (i) bills addressing declared emergencies;
+- (ii) bills with bipartisan House sponsorship exceeding sixty percent;
+- (iii) bills that are substantially similar to previously certified legislation.
+Expedited certifications shall be completed within ten days.
+
+(9) **Staffing and Capacity Requirements.** The Board shall maintain sufficient staff to process certification requests without backlog:
+
+- (i) If average certification time exceeds twenty days for three consecutive months, the Board shall hire additional staff within sixty days;
+- (ii) Certification staff funding is mandatory spending, not subject to annual appropriation;
+- (iii) The Board shall publish monthly certification statistics including filing volume, average processing time, and pending requests.
+
+(10) **Backlog Remediation.** If pending certification requests exceed fifty at any time:
+
+- (i) The Board shall implement emergency processing procedures;
+- (ii) New requests shall be processed in order of filing date;
+- (iii) Requests pending more than twenty days shall be automatically approved for normal House procedures unless the Board affirmatively certifies Regional Exclusive Domain impact within five additional days.
+
+(11) **Anti-Strategic-Delay.** No party may file certification requests for the purpose of creating backlog or delaying unrelated legislation:
+
+- (i) Frivolous or duplicative requests may be summarily dismissed;
+- (ii) A pattern of filing requests subsequently withdrawn may result in filing restrictions;
+- (iii) The Board may consolidate substantially similar requests.
+
+(12) **Congressional Bypass for Obstruction.** If the Board fails to process certifications due to quorum failure, member vacancies, or other institutional dysfunction for more than sixty consecutive days:
+
+- (i) The House may proceed with legislation without certification by a three-fifths vote;
+- (ii) Such legislation shall be subject to expedited judicial review within ninety days of enactment;
+- (iii) This bypass may not be used if the Board is functioning normally but simply has a backlog.
 
 ---
 
@@ -1345,11 +1534,27 @@ The Senate shall not function as a routine legislative veto.
 - (d) The Senate may not adjudicate disputes involving individual rights (which belong to the courts) or disputes already pending in the Allocation Review Board or federal courts.
 - (e) Senate adjudication decisions may be appealed to the Supreme Court on questions of constitutional interpretation within 60 days.
 
+**Conflict of Interest Provisions.** To ensure impartial adjudication:
+
+- (f) **Mandatory Recusal.** Senators from any Region that is a party to a dispute shall be recused from voting on the adjudication. If both parties are Regions, Senators from both Regions are recused.
+- (g) **Quorum with Recusals.** When Senators are recused under subsection (f):
+    - (1) The quorum for adjudication shall be a majority of non-recused Senators;
+    - (2) Decisions require a majority of non-recused Senators voting;
+    - (3) If recusals reduce participating Senators below eight, the dispute shall be transferred to the Supreme Court for original jurisdiction.
+- (h) **Anti-Bloc Voting Safeguards.**
+    - (1) No adjudication may proceed if Senators from three or fewer Regions would constitute a majority of voting Senators;
+    - (2) If a pattern emerges where the same Regional coalition decides three consecutive disputes against the same Region or group of Regions, any affected Region may demand transfer to the Supreme Court;
+    - (3) The Chief Justice shall review Senate adjudication patterns annually and may certify "systematic regional bias" if statistical analysis demonstrates non-random voting patterns correlated with Regional identity rather than legal merit. Such certification triggers automatic Supreme Court review of pending and future disputes for two years.
+- (i) **Independent Adjudication Panel Option.** For disputes involving allegations of Regional discrimination or systematic bias:
+    - (1) Any party may request adjudication by an Independent Panel instead of the full Senate;
+    - (2) The Panel shall consist of the Chief Justice (presiding), two retired federal appellate judges selected by lot, and two Senators selected by lot from non-party Regions;
+    - (3) Panel decisions have the same force as Senate adjudication and are appealable under the same terms.
+
 ---
 
 ### Section 4-A. Senate Concurrence for Constitutional Safeguards (Proposed)
 
-> **Note:** This section is a proposed optional enhancement. See the [Senate Safeguard Concurrence Amendment](proposals/01-foundations/senate-safeguard-concurrence-act.md) for full text and analysis.
+> **Note:** This section is a proposed optional enhancement.
 
 Senate concurrence by majority vote may be required for legislation affecting constitutional safeguards, including emergency powers, domestic armed force deployment, election administration, judicial structure, de-escalation procedures, and allocation of powers.
 
@@ -1404,7 +1609,7 @@ The President shall not exercise general domestic governance over Regional or St
 
 ### Section 1. Independent Taxing Authority
 
-Each level of government-federal, Regional, State, local-shall possess independent taxing authority sufficient to fulfill its enumerated responsibilities.
+Each level of government--federal, Regional, State, local--shall possess independent taxing authority sufficient to fulfill its enumerated responsibilities.
 
 #### Regional Revenue Protection
 
@@ -1568,12 +1773,27 @@ Automatic, formula-based equalization transfers shall ensure baseline governing 
 
 (d) Pooling agreements under this section require no federal approval and do not constitute merger.
 
-(e) For purposes of this section, a "Small Region" is one that meets either:
+(e) **Federal Institutional Capacity Support.** For any Region with population below two percent of the total population of the United States:
+
+- (1) The federal government shall provide supplemental funding for Regional court operations, including judicial salaries, court facilities, and administrative staff, sufficient to ensure access to justice equivalent to that available in larger Regions;
+- (2) The federal government shall provide technical assistance and shared personnel for specialized regulatory functions that require expertise not economically sustainable at small-region scale;
+- (3) Regional Guard forces may be supplemented by federal reserve components under Regional Governor command for non-federalized operations, pursuant to agreement between the Region and the Department of Defense;
+- (4) This support is an entitlement, not subject to annual appropriation discretion, and shall be funded through mandatory spending.
+
+(f) **Mandatory Pooling for Critical Functions.** Regions with population below two percent of the total population shall enter into pooling agreements with at least one adjacent Region for:
+
+- (1) appellate court operations (trial courts may remain independent),
+- (2) specialized law enforcement functions (forensics, cybercrime),
+- (3) emergency management coordination.
+
+Such pooling shall preserve each Region's sovereignty and independent governance; pooled functions operate under joint authority with equal Regional representation regardless of population.
+
+(g) For purposes of this section, a "Small Region" is one that meets either:
 
 - (1) population below five percent of the total population of the United States, or
 - (2) fiscal capacity below the median fiscal capacity of all Regions.
 
-(f) Fiscal capacity shall be measured by the Independent Fiscal Council using a formula that accounts for tax base, cost of living, and geographic factors. The formula shall be established by statute and reviewed every ten years.
+(h) Fiscal capacity shall be measured by the Independent Fiscal Council using a formula that accounts for tax base, cost of living, and geographic factors. The formula shall be established by statute and reviewed every ten years.
 
 ---
 
@@ -1727,6 +1947,52 @@ Conditional funding that effectively compels unrelated policy compliance is unco
 (2) Include no provisions that defer all principal repayment beyond ten years;
 
 (3) These requirements ensure current generations bear current costs.
+
+#### Off-Balance-Sheet Debt Controls
+
+(o) **Consolidated Fiscal Reporting.** For purposes of all debt limits, ceilings, and monitoring under this Article, "Regional debt" includes:
+
+(1) All direct obligations of the Regional government;
+
+(2) All obligations of any Regional authority, agency, corporation, or instrumentality created by or on behalf of the Region, regardless of formal legal separation;
+
+(3) All revenue bonds issued by entities in which the Region has an ownership interest, exercises control, or for which Regional action was required for creation;
+
+(4) All public-private partnership obligations where the Region bears contingent liability, guarantees revenue, or provides availability payments;
+
+(5) All lease-purchase agreements, certificates of participation, and similar financing arrangements;
+
+(6) The proportionate share of any multi-Regional financing entity's obligations based on the Region's participation.
+
+(p) **Independent Infrastructure Authority Restrictions.**
+
+(1) No Region may create or authorize the creation of an independent authority, corporation, or special district for the primary purpose of issuing debt that would not be included in Regional debt calculations;
+
+(2) Any entity created by Regional action that issues debt exceeding $100 million shall be presumed to be a Regional instrumentality subject to consolidated reporting;
+
+(3) The IFC may pierce the corporate form of any entity and attribute its debt to the creating Region if:
+
+- (i) the Region exercises practical control over the entity's governance;
+- (ii) the Region provides substantial revenue support or credit enhancement;
+- (iii) the entity was structured to evade Regional debt limits.
+
+(q) **Revenue Bond Disclosure.** Revenue bonds issued by Regional instrumentalities shall:
+
+(1) Disclose in offering documents that the bonds are subject to Regional debt consolidation rules;
+
+(2) State that bondholders cannot rely on formal legal separation to avoid the consequences of Regional fiscal distress;
+
+(3) Be reported to the IFC within thirty days of issuance.
+
+(r) **Penalties for Evasion.** If the IFC determines that a Region has structured transactions to evade debt limits:
+
+(1) The evaded debt shall be immediately attributed to the Region;
+
+(2) The Region shall be placed on "Warning" status regardless of prior debt level;
+
+(3) Regional officials who authorized the evasive structure may be personally disqualified from future public financial positions;
+
+(4) The Region shall reimburse IFC enforcement costs.
 
 ---
 
@@ -2286,8 +2552,6 @@ No amendment may apply asymmetrically among Regions.
 
 ## ARTICLE XIV-RF - REGIONAL COURTS
 
-*This article presumes adoption of the Judicial Reform Amendment or an equivalent provision establishing mandatory jurisdiction for constitutional cases, time limits for judicial decisions, effective remedies requirements, self-executing default rules, Supreme Court term limits (18 years), and court structure protections (9 Justices).*
-
 ### Section 1. Establishment of Regional Courts
 
 (a) Each Region shall establish Regional courts with jurisdiction over:
@@ -2401,8 +2665,6 @@ without offset for investments made during the uncertainty period, and without d
 
 ## ARTICLE XI-RF - REGIONAL GUARD FORCES
 
-*This article presumes adoption of the Military Civilian Control Amendment or an equivalent provision establishing civilian supremacy over armed forces, two-key authorization for domestic deployment, duty to refuse unlawful orders, prohibited uses of armed forces, and transparency and accountability requirements. If the Military Civilian Control Amendment is adopted alongside Regional Federalism, substitute "Regional Governors" for "State Governors" in Key 2 authorization throughout that amendment.*
-
 ### Section 1. Establishment of Regional Guard Forces
 
 (a) Each Region may maintain Regional Guard Forces for:
@@ -2447,6 +2709,20 @@ without offset for investments made during the uncertainty period, and without d
 
 Two-key authorization may not be waived, delegated to military officers, or satisfied by implied consent. Deployment without two-key authorization is unlawful and may be refused by commanders without penalty.
 
+(h) **Emergency Response Acceleration.** Notwithstanding subsection (g), the following expedited procedures apply to time-sensitive emergencies:
+
+- (1) **Automatic Approval for Infrastructure Attacks.** When the President certifies that a cyber-physical attack on critical infrastructure (energy grid, water systems, communications networks, transportation systems) requires immediate military response, Regional Governors shall have forty-eight (48) hours to respond to a two-key authorization request. Failure to respond within forty-eight hours shall be deemed consent for the specific deployment requested, limited to defending the affected infrastructure.
+
+- (2) **Supermajority Override.** If five of seven Regional Governors affirmatively authorize deployment, the authorization is valid even if the remaining Governors actively refuse, provided the deployment does not target the refusing Governors' Regions.
+
+- (3) **Judicial Emergency Key.** If a majority of Regional Governors cannot be reached or fail to respond within forty-eight hours during a verified emergency, the Chief Justice of the Supreme Court may, upon petition by the President and certification by the Chairman of the Joint Chiefs of Staff that delay poses imminent risk of mass casualties, authorize deployment for up to seventy-two (72) hours pending Governor response. This judicial authorization:
+    - (i) requires the Chief Justice to find clear and convincing evidence of imminent threat;
+    - (ii) may not be used for any deployment targeting domestic political activity, protests, or civil disturbances;
+    - (iii) automatically terminates after seventy-two hours unless Governor majority consent is obtained;
+    - (iv) shall be reported to Congress within twenty-four hours.
+
+- (4) **Anti-Brinkmanship Provision.** A Regional Governor who withholds two-key consent while simultaneously demanding unrelated policy concessions from the President shall be deemed to have waived the consent requirement for that authorization request. The Allocation Review Board shall determine whether such conditioning has occurred, with expedited seventy-two-hour review.
+
 ---
 
 ### Section 3. Integration with State National Guard
@@ -2473,8 +2749,6 @@ Two-key authorization may not be waived, delegated to military officers, or sati
 ---
 
 ## ARTICLE XVII-RF - REGIONAL EMERGENCY AUTHORITY
-
-*This article presumes adoption of the Emergency Powers Reform Amendment or an equivalent provision establishing categorized emergency powers (natural disaster, public health, economic, security, constitutional crisis), enumerated powers by category, time limits and reauthorization requirements, judicial review standards, restoration mandate, habeas corpus protections, prohibition on emergency expansion of power, and constitutional crisis definition.*
 
 ### Section 1. Regional Governor Declaration Authority
 
@@ -2739,8 +3013,6 @@ These default rules exist to prevent deliberate nonimplementation from becoming 
 
 ## ARTICLE XXII - DEFINITIONS
 
-For purposes of this Constitution:
-
 ### Section 1. Governmental Entities
 
 (a) "Region" means a constitutional entity established under Article I consisting of a grouping of States.
@@ -2749,7 +3021,7 @@ For purposes of this Constitution:
 
 (c) "Territory" means an organized territory of the United States that has not been admitted as a State.
 
-(d) "Tribal Nation" means a federally recognized Indian Tribe, Band, Nation, or other organized group or community exercising sovereign governmental authority. State-recognized tribes and tribes seeking federal recognition possess inherent sovereignty and may petition for inclusion under the protections of this Constitution upon obtaining federal recognition or through a recognition pathway established by Congress.
+(d) "Tribal Nation" means a federally recognized Indian Tribe, Band, Nation, or other organized group or community exercising sovereign governmental authority. *See also Article XVIII, Section 3(b) for interpretive conventions regarding tribal sovereignty and the scope of constitutional protections.*
 
 (e) "Local government" means a county, municipality, township, or other general-purpose political subdivision of a State.
 
@@ -2829,106 +3101,6 @@ Congress may by statute provide additional definitions for terms used in impleme
 
 ---
 
-## SCHEDULE A - INITIAL REGIONAL BOUNDARIES
-
-The following Regions are established upon ratification. These boundaries may be revised pursuant to Article I, Section 4.
-
----
-
-### Region 1 - Northeast
-
-Connecticut, Maine, Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania, Rhode Island, Vermont
-
----
-
-### Region 2 - Southeast
-
-Alabama, Florida, Georgia, Kentucky, Louisiana, Mississippi, North Carolina, South Carolina, Tennessee, Virginia, West Virginia
-
----
-
-### Region 3 - Midwest
-
-Illinois, Indiana, Iowa, Michigan, Minnesota, Ohio, Wisconsin
-
----
-
-### Region 4 - Great Plains
-
-Kansas, Missouri, Nebraska, North Dakota, Oklahoma, South Dakota
-
----
-
-### Region 5 - Southwest
-
-Arizona, Colorado, Nevada, New Mexico, Texas, Utah
-
----
-
-### Region 6 - Pacific
-
-Alaska, California, Hawaii, Oregon, Washington
-
----
-
-### Region 7 - Mountain
-
-Idaho, Montana, Wyoming
-
----
-
-### Schedule Notes
-
-(a) The District of Columbia is not assigned to any Region upon ratification. Its Regional assignment shall be determined pursuant to Article XX, Section 1(b).
-
-(b) United States territories are not assigned to any Region upon ratification. Their Regional assignment shall be determined pursuant to Article XX, Section 2(a).
-
-(c) Tribal lands within State boundaries remain under tribal and federal jurisdiction as provided in Article XX, Section 3.
-
-(d) These initial boundaries are based on geographic, economic, and demographic considerations as of ratification. Future boundary revisions shall follow the process established in Article I, Section 4.
-
-(e) Population and Fiscal Capacity Considerations.
-
-(1) Regions vary substantially in population. As of ratification, approximate populations are:
-
-- Northeast: 60 million
-- Southeast: 75 million
-- Midwest: 52 million
-- Great Plains: 14 million
-- Southwest: 52 million
-- Pacific: 55 million
-- Mountain: 3 million
-
-(2) Population disparity is an intentional feature of this Constitution, not a defect. Regions are defined by geographic, economic, and cultural coherence, not population equality.
-
-(3) Small-population Regions are protected by:
-
-- equal representation in the Senate,
-- equalization transfers ensuring baseline fiscal capacity (Article X, Section 3),
-- the boundary revision process, which allows but does not compel merger (Article I, Section 4),
-- inter-Regional cooperation agreements permitting shared institutions (Article I, Section 5).
-
-(4) Small Regions may petition for boundary revision to join an adjacent Region, but may not be compelled to merge.
-
-(f) Minimum Regional Capacity.
-
-(1) Each Region must maintain minimum institutional capacity to:
-
-- administer elections,
-- operate Regional courts,
-- maintain Regional Guard Forces,
-- participate in Senate representation.
-
-(2) If a Region's population falls below one-half of one percent of the total population of the United States, or if a Region demonstrates inability to maintain minimum institutional capacity, the Independent Boundary Review Commission shall conduct a special review within one year and may recommend:
-
-- merger with an adjacent Region,
-- enhanced inter-Regional cooperation agreements,
-- federal technical assistance.
-
-(3) Any merger recommendation under this subsection requires the same approval process as other boundary revisions under Article I, Section 4.
-
----
-
 ## OFFICIAL COMMENTARY (NON-BINDING)
 
 ### Purpose
@@ -2985,33 +3157,14 @@ It promises something more realistic:
 
 ## Related Documents
 
-### Split Documents (for Navigation)
-
-- [Index](constitution/00-index.md) - Constitution overview and organization
-- [Regional Structure](constitution/01-regional-structure.md) - Article I
+- [Constitution Index](constitution/00-index.md) - Modular file overview
+- [Regional Structure](constitution/01-regional-structure.md) - Article I + Schedule A
 - [Powers and Rights](constitution/02-powers-and-rights.md) - Articles II-III
 - [Regional Governance](constitution/03-regional-governance.md) - Articles IV-V
 - [Fiscal System](constitution/04-fiscal-system.md) - Article X
 - [Safeguards](constitution/05-safeguards.md) - Articles XII-XIII
-- [Supremacy and Transition](constitution/06-supremacy.md) - Articles XVIII-XX
+- [Supremacy](constitution/06-supremacy.md) - Articles XVIII-XX
 - [Implementation](constitution/07-implementation.md) - Articles XXI-XXII
-- [Regional Courts](constitution/09-judiciary.md) - Article XIV-RF (RF Supplement)
-- [Regional Guard Forces](constitution/10-armed-forces.md) - Article XI-RF (RF Supplement)
-- [Regional Emergency Authority](constitution/11-emergency-powers.md) - Article XVII-RF (RF Supplement)
-
-### Implementing Proposals
-
-- [De-Escalation Procedures Act](proposals/01-foundations/de-escalation-procedures-act.md)
-- [Regional Boundary Review Act](proposals/01-foundations/boundary-review-act.md)
-- [Interstate Water Resources Coordination Act](proposals/05-environment-infrastructure/water-resources-coordination-act.md)
-- [D.C. Status Determination Act](proposals/08-special-jurisdictions/dc-status-determination-act.md)
-- [Interregional Coordination Review Act](proposals/01-foundations/interregional-coordination-review-act.md)
-- [National Common Market Access Act](proposals/03-economy-commerce/national-common-market-access-act.md)
-- [Interstate Professional Licensing Act](proposals/04-social-policy-labor/interstate-professional-licensing-act.md)
-- [Transboundary Environmental Protection Act](proposals/05-environment-infrastructure/transboundary-environmental-protection-act.md)
-- [Interstate Law Enforcement Cooperation Act](proposals/06-security-justice/interstate-law-enforcement-cooperation-act.md)
-- [Territories Status Act](proposals/08-special-jurisdictions/territories-status-act.md)
-
-### Companion Standalone Amendments
-
-See [single-topic/](single-topic/) for standalone amendments that work with either the existing federal/state system or with Regional Federalism.
+- [Judiciary](constitution/09-judiciary.md) - Article XIV-RF
+- [Armed Forces](constitution/10-armed-forces.md) - Article XI-RF
+- [Emergency Powers](constitution/11-emergency-powers.md) - Article XVII-RF

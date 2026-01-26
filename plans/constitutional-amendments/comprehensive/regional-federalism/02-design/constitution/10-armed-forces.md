@@ -24,6 +24,7 @@ This article presumes adoption of the [Military Civilian Control Amendment](../s
 - officer corps independence protections (loyalty prohibition, mass removal trigger, pardon limitation)
 
 If the Military Civilian Control Amendment is adopted alongside Regional Federalism:
+
 - Substitute "Regional Governors" for "State Governors" in Key 2 authorization throughout that amendment
 - The Judicial Key Override (Section 10) uses "five of seven Regional Governors" rather than "majority of State Governors"
 - Infrastructure Independence guarantees (Section 12) apply to Regions rather than States
@@ -78,6 +79,20 @@ If the Military Civilian Control Amendment is adopted alongside Regional Federal
 - (2) **Key 2:** A majority of Regional Governors, or if deployment is limited to a single Region, the Governor of that Region.
 
 Two-key authorization may not be waived, delegated to military officers, or satisfied by implied consent. Deployment without two-key authorization is unlawful and may be refused by commanders without penalty.
+
+(h) **Emergency Response Acceleration.** Notwithstanding subsection (g), the following expedited procedures apply to time-sensitive emergencies:
+
+- (1) **Automatic Approval for Infrastructure Attacks.** When the President certifies that a cyber-physical attack on critical infrastructure (energy grid, water systems, communications networks, transportation systems) requires immediate military response, Regional Governors shall have forty-eight (48) hours to respond to a two-key authorization request. Failure to respond within forty-eight hours shall be deemed consent for the specific deployment requested, limited to defending the affected infrastructure.
+
+- (2) **Supermajority Override.** If five of seven Regional Governors affirmatively authorize deployment, the authorization is valid even if the remaining Governors actively refuse, provided the deployment does not target the refusing Governors' Regions.
+
+- (3) **Judicial Emergency Key.** If a majority of Regional Governors cannot be reached or fail to respond within forty-eight hours during a verified emergency, the Chief Justice of the Supreme Court may, upon petition by the President and certification by the Chairman of the Joint Chiefs of Staff that delay poses imminent risk of mass casualties, authorize deployment for up to seventy-two (72) hours pending Governor response. This judicial authorization:
+    - (i) requires the Chief Justice to find clear and convincing evidence of imminent threat;
+    - (ii) may not be used for any deployment targeting domestic political activity, protests, or civil disturbances;
+    - (iii) automatically terminates after seventy-two hours unless Governor majority consent is obtained;
+    - (iv) shall be reported to Congress within twenty-four hours.
+
+- (4) **Anti-Brinkmanship Provision.** A Regional Governor who withholds two-key consent while simultaneously demanding unrelated policy concessions from the President shall be deemed to have waived the consent requirement for that authorization request. The Allocation Review Board shall determine whether such conditioning has occurred, with expedited seventy-two-hour review.
 
 ---
 
