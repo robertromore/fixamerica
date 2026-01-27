@@ -25,7 +25,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 |------|----------|--------------|
 | [01-structural-limits.md](01-structural-limits.md) | Category I: Unsolvable Structural Limits | Gaps 1-2 |
 | [02-low-probability.md](02-low-probability.md) | Category II: High-Risk but Low-Probability Scenarios | Gaps 3-4 |
-| [03-under-specified.md](03-under-specified.md) | Category III: Under-Specified Domains | Gaps 5-8, 16-32 |
+| [03-under-specified.md](03-under-specified.md) | Category III: Under-Specified Domains | Gaps 5-8, 16-22 |
 | [04-long-horizon.md](04-long-horizon.md) | Category IV: Long-Horizon Systemic Risks | Gaps 9-11 |
 | [05-transition.md](05-transition.md) | Category V: Implementation and Transition Risks | Gaps 12-13 |
 | [06-tradeoffs.md](06-tradeoffs.md) | Category VI: Tradeoffs Accepted by Design | Gaps 14-15, 29-30, 32, 43 |
@@ -76,16 +76,6 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 20 | Autonomous systems liability framework | Medium | Requires Development |
 | 21 | Virtual property and digital asset rights | Low | Requires Development |
 | 22 | Geoengineering decision authority | High | Requires Development |
-| 23 | Biosecurity and pandemic preparedness chain of command | High | Partially Mitigated |
-| 24 | Critical infrastructure cybersecurity authority | High | Partially Mitigated |
-| 25 | Cross-regional water rights during scarcity | High | Partially Mitigated |
-| 26 | Wildlife corridor governance across regional boundaries | Medium | Requires Development |
-| 27 | Refugee and asylum seeker distribution among regions | High | Requires Development |
-| 28 | Cultural heritage protection across regional boundaries | Low | Requires Development |
-| 29 | Higher education credential recognition | Low | Accepted by Design |
-| 30 | Professional licensing reciprocity | Low | Accepted by Design |
-| 31 | Regional currency or monetary experimentation authority | Low | Requires Development |
-| 32 | Trade agreement negotiation and regional consent | Medium | Accepted by Design |
 
 ### Category IV: Long-Horizon Systemic Risks
 
