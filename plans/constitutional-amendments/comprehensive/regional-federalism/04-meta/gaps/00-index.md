@@ -33,10 +33,10 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | [08-electoral-judicial.md](08-electoral-judicial.md) | Electoral & Judicial Systems | Gaps 37, 48-49, 53, 73, 81, 95, 101, 108, 117, 120-121, 130, 145, 158-166, 173, 175, 186, 189, 196, 198, 237, 238, 243 |
 | [09-emergency-military.md](09-emergency-military.md) | Emergency Powers & Military | Gaps 23-24, 33, 44, 55, 74, 82, 86, 88, 91, 102, 113, 122, 167, 169, 190, 192, 206, 224, 227, 235 |
 | [10-interstate-commerce.md](10-interstate-commerce.md) | Interstate Commerce & Infrastructure | Gaps 35, 50, 65-67, 75, 83, 92, 99, 104, 109, 116, 128, 132, 142, 185, 200 |
-| [11-institutional-governance.md](11-institutional-governance.md) | Institutional Governance | Gaps 34, 38, 41, 54, 56, 70, 79, 87, 89-90, 97, 100, 106, 118, 131, 149, 168, 171, 205, 219-223, 228-234, 248, 250-252 |
+| [11-institutional-governance.md](11-institutional-governance.md) | Institutional Governance | Gaps 34, 38, 41, 54, 56, 70, 79, 87, 89-90, 97, 100, 106, 118, 131, 149, 168, 171, 205, 219-223, 228-234, 248, 250-252, 260-261 |
 | [12-data-information.md](12-data-information.md) | Data & Information | Gaps 69, 84, 105, 119, 129, 144, 174, 218, 236, 245 |
 | [14-technology-governance.md](14-technology-governance.md) | Technology Governance | Gap 153 |
-| [15-judicial-process.md](15-judicial-process.md) | Judicial Process | Gaps 154, 216, 242, 246, 247, 256-258 |
+| [15-judicial-process.md](15-judicial-process.md) | Judicial Process | Gaps 154, 216, 242, 246, 247, 256-259 |
 | [16-information-barriers.md](16-information-barriers.md) | Information & Communication | Gap 155 |
 | [17-rights-enforcement.md](17-rights-enforcement.md) | Rights Enforcement | Gaps 156, 188, 217, 225-226, 231, 239, 244 |
 | [18-constitutional-adaptation.md](18-constitutional-adaptation.md) | Constitutional Process | Gaps 157, 187, 249 |
@@ -181,6 +181,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 256 | Dual sovereignty trap (double jeopardy abuse / single jeopardy rule) | Critical | Proposal Available |
 | 257 | Interpretive blank check (deference gap / de novo review mandate) | Critical | Proposal Available |
 | 258 | Sealed danger loophole (secret settlements / sunshine in litigation) | Critical | Proposal Available |
+| 259 | Shadow docket (emergency orders without reasoning / reasoned order mandate) | Critical | Proposal Available |
 
 ### Emergency Powers & Military
 
@@ -269,6 +270,8 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 250 | One-man veto (speaker's stranglehold / discharge mandate) | Critical | Proposal Available |
 | 251 | Black box (executive privilege abuse / crime-fraud exception) | Critical | Proposal Available |
 | 252 | Official lie (fiduciary duty of candor) | Critical | Proposal Available |
+| 260 | Debt limit suicide vest (self-inflicted default / integrated borrowing authority) | Critical | Proposal Available |
+| 261 | Watchdog massacre (inspector general purges / watchdog independence act) | Critical | Proposal Available |
 
 ### Data & Information
 
