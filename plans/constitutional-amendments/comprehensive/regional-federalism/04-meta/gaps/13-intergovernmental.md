@@ -7442,6 +7442,705 @@ Partial measures fail because:
 
 ---
 
+## Gap 265 — The "NIMBY Blockade" (Strategic Land Use)
+
+**Identified**: 2026-01-26
+**Category**: Intergovernmental Relations / Federal-Regional Conflict
+**Criticality**: 🔴 **CRITICAL**
+**Status**: UNRESOLVED
+
+### Problem Statement
+
+#### When Local Zoning Vetoes National Security
+
+The Regional Federalism framework grants Regions "Exclusive Authority over Land Use" (Article II). It also grants the Federal Government authority over "National Defense" and "Nuclear Waste." These powers collide when the Federal Government needs to build infrastructure that requires land within a Region.
+
+**The Attack Vector**:
+
+1. Federal Government determines need for critical national infrastructure:
+    - ICBM silo for nuclear deterrence
+    - Nuclear waste repository (Yucca Mountain scenario)
+    - High-speed rail corridor connecting Regions
+    - Federal laboratory or research facility
+    - Military base or installation
+2. Federal Government selects optimal site in "Mountain Region"
+3. Region denies zoning permit, citing its "Exclusive Land Use" power
+4. Federal Government cannot build because it has no land to stand on
+5. **National security is vetoed by a local zoning board**
+6. Every future federal project faces the same obstacle
+7. Regions learn they can extract concessions by threatening denial
+8. Federal Government becomes hostage to Regional NIMBY politics
+
+**Real-World Precedents**:
+
+| Project | NIMBY Opposition | Result |
+|---------|------------------|--------|
+| **Yucca Mountain** | Nevada opposition to nuclear waste | Decades of delay, billions wasted |
+| **Wind farms** | Local aesthetic objections | Projects blocked or delayed |
+| **Military bases** | Community resistance to expansion | Force structure compromised |
+| **High-speed rail** | County-by-county opposition | California HSR costs exploded |
+| **5G towers** | Local zoning denials | Infrastructure deployment delayed |
+
+**The Constitutional Collision**:
+
+| Federal Power | Regional Power | Conflict |
+|---------------|----------------|----------|
+| National Defense | Land Use | Where can missiles be based? |
+| Nuclear Waste | Land Use | Where can waste be stored? |
+| Interstate Commerce | Land Use | Where can transportation run? |
+| Federal Buildings | Land Use | Where can courthouses/offices be built? |
+
+**The Blackmail Dynamic**:
+
+Without clear supremacy, Regions can demand:
+
+- Transfer payments ("You want to build here? Pay us $10 billion")
+- Policy concessions ("Approve this or we deny your base")
+- Environmental extortion ("Your project 'might' harm our pristine wilderness")
+- Indefinite delay ("We need more environmental review... and more... and more")
+
+### Current Constitutional Gap
+
+**What's Missing**: No "National Necessity Easement" establishing federal supremacy over land use for critical national infrastructure.
+
+**Current Framework**:
+
+- Article II grants Regions exclusive land use authority
+- Federal powers include defense, nuclear regulation, interstate commerce
+- Supremacy Clause exists but doesn't explicitly address zoning conflicts
+- No mechanism to override Regional denial for national necessities
+
+**Historical U.S. Experience**: The federal government has eminent domain power and supremacy over state land use for federal purposes, but this is constantly litigated and creates delays even when federal power is eventually upheld.
+
+### Gaming Vectors Identified
+
+1. **The "Environmental Review" Stall**
+    - Region requires extensive environmental impact studies
+    - Studies take years; conclusions always find problems
+    - New studies required for each revision
+    - Federal project dies from delay, not outright denial
+
+2. **The "Local Benefit" Extraction**
+    - Region approves in exchange for massive federal payments
+    - Sets precedent for other Regions
+    - Federal costs escalate as each Region demands tribute
+    - Projects become unaffordable
+
+3. **The "Alternative Site" Game**
+    - Region denies preferred site, suggests inferior alternative
+    - Federal Government accepts suboptimal location
+    - National security compromised by geography
+
+4. **The "Popular Referendum" Block**
+    - Region requires voter approval for federal projects
+    - NIMBY sentiment dominates local elections
+    - Democratic process weaponized against national interest
+
+5. **The "Allied Regions" Coordination**
+    - Multiple Regions agree to deny federal projects
+    - No site available anywhere in certain domains
+    - Federal Government cannot find willing host
+
+### Proposed Constitutional Fix
+
+#### Article II-RF, Section 15: The National Necessity Easement
+
+> **(a) Superior Eminent Domain.** The Federal Government possesses a superior right of Eminent Domain over Regional, State, and local land use authority for facilities and infrastructure certified as essential under this section.
+>
+> **(b) Certification Categories.** Congress may certify a project as a "National Necessity" if it is:
+>
+> - (i) essential for national defense, including military installations, weapons systems, and command infrastructure;
+> - (ii) essential for nuclear safety, including waste repositories, research facilities, and power plants necessary for national energy security;
+> - (iii) essential for interstate transportation infrastructure certified by Congress as a national priority;
+> - (iv) essential for federal government operations, including courthouses, administrative facilities, and law enforcement infrastructure;
+> - (v) essential for emergency management and disaster response.
+>
+> **(c) Certification Process.**
+>
+> - (i) Congress shall pass a certification resolution by majority vote of both chambers, specifically identifying the project and its necessity category.
+> - (ii) The President shall sign the certification, or it may be enacted over veto by two-thirds vote.
+> - (iii) Certification shall include a statement of the public necessity and an estimate of compensation.
+>
+> **(d) Regional Accommodation.**
+>
+> - (i) Before invoking National Necessity, the Federal Government shall engage in good faith negotiation with affected Regions.
+> - (ii) Regional concerns about environmental impact, community disruption, and local conditions shall be considered and addressed where feasible.
+> - (iii) The Federal Government shall minimize harm to Regional interests consistent with the national necessity.
+>
+> **(e) Compensation Requirement.**
+>
+> - (i) Just compensation shall be paid for all property taken under this section.
+> - (ii) Compensation shall include direct property value plus demonstrated economic impact on the Region.
+> - (iii) Ongoing compensation (payments in lieu of taxes) shall continue for the duration of federal use.
+>
+> **(f) Supremacy over Regional Land Use.**
+>
+> - (i) Once certified, Regional zoning, permitting, and land use regulations shall not apply to the National Necessity project.
+> - (ii) Environmental review shall be conducted under federal, not Regional, standards.
+> - (iii) Regional courts shall have no jurisdiction to enjoin certified projects.
+>
+> **(g) Limitations.**
+>
+> - (i) This section shall not be used for projects primarily benefiting private commercial interests.
+> - (ii) This section shall not be used to circumvent environmental protections that apply to federal projects.
+> - (iii) This section shall not be used for projects where alternatives outside unwilling Regions are reasonably available.
+>
+> **(h) Judicial Review.**
+>
+> - (i) The Constitutional Court shall have original jurisdiction over challenges to National Necessity certifications.
+> - (ii) Review shall be limited to whether the certification was procedurally proper and whether the category classification is reasonable.
+> - (iii) Courts shall not second-guess congressional judgment on necessity but may void certifications that are pretextual or fraudulent.
+
+### Design Rationale
+
+**Why Congressional Certification?**
+
+| Alternative | Problem |
+|-------------|---------|
+| Executive-only certification | Too easy to abuse; no deliberation |
+| Regional consent required | Recreates NIMBY veto |
+| Judicial determination | Too slow; not a judicial question |
+| Supermajority requirement | Creates minority veto over national security |
+| **Congressional certification** | Democratic legitimacy + deliberation + majority rule |
+
+**Why "Accommodation" Requirement?**
+
+- Prevents federal government from ignoring legitimate Regional concerns
+- Creates good faith negotiation process
+- Allows Regions to propose alternatives
+- Ensures federal government minimizes harm where possible
+- But does not give Regions veto power
+
+**Why Ongoing Compensation?**
+
+- Regions lose tax base from federal use
+- Payments in lieu of taxes (PILT) address ongoing impact
+- Creates positive incentive for Regional cooperation
+- Compensates community for hosting national burden
+
+**Why Constitutional Court Review?**
+
+- Prevents purely pretextual certifications
+- Ensures procedural compliance
+- But limited substantive review respects congressional judgment
+- Original jurisdiction prevents forum shopping
+
+### Cross-Gap Interaction
+
+| Related Gap | Interaction |
+|-------------|-------------|
+| Gap 28 | Nuclear Facilities — National Necessity addresses siting authority |
+| Gap 255 | Hostage Capital — federal district has automatic National Necessity status |
+| Gap 66 | Energy Grid — energy infrastructure may qualify as National Necessity |
+| Gap 192 | Paramilitary Loophole — military installations fall under defense category |
+
+### Risk Assessment
+
+**Without Fix**:
+
+- Federal Government cannot build essential infrastructure
+- National security depends on Regional approval
+- Each project faces NIMBY veto or extortion
+- Defense posture, energy policy, transportation all vulnerable
+- Regions can coordinate to deny all federal projects
+
+**With Fix**:
+
+- Congress can certify true national necessities
+- Regional land use authority preserved for non-essential projects
+- Good faith negotiation required but not veto power
+- Just compensation protects Regional interests
+- Federal Government can function even when Regions are hostile
+
+### Implementation Priority
+
+**Tier**: P1 (Immediate)
+**Rationale**: Federal-Regional power allocation creates this conflict by design; resolution mechanism essential for system function
+
+**Dependencies**: Works with Gap 28 (Nuclear Facilities) and Gap 66 (Energy Grid) for specific infrastructure categories
+
+---
+
+**Status:**
+**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article II-RF, Section 15.
+
+**Severity:** Critical | **Mitigability:** Requires Constitutional Amendment
+
+---
+
+## Gap 266 — The "Shadow Diplomat" (Regional Foreign Policy)
+
+**Identified**: 2026-01-26
+**Category**: Intergovernmental Relations / Foreign Affairs
+**Criticality**: 🔴 **CRITICAL**
+**Status**: UNRESOLVED
+
+### Problem Statement
+
+#### When Regions Speak with a Different Voice
+
+The Constitution forbids Regions from entering "Treaties" with foreign powers. But it does not forbid "Memoranda of Understanding" (MOUs), "Sister City" agreements, "Trade Promotion Agreements," or "Cultural Exchange Frameworks." Through these non-treaty instruments, Regions can conduct their own foreign policy, contradicting and undermining federal policy.
+
+**The Attack Vector**:
+
+1. Federal Government sanctions Country X for human rights abuses
+2. Pacific Region (which depends on trade with Country X) objects
+3. Pacific Region signs "Economic Cooperation Framework" with Country X
+4. Framework includes:
+    - State visits by Regional leaders
+    - Trade promotion offices in each jurisdiction
+    - Investment facilitation agreements
+    - Academic and cultural exchanges
+    - "Mutual understanding" on economic policy
+5. **Effect: Sanctions are bypassed through Regional action**
+6. Foreign adversary now has "official" relationship with part of the Union
+7. Federal policy is undermined; the Union speaks with two voices
+8. Other Regions sign their own competing agreements
+9. Foreign powers play Regions against Federal Government
+
+**Real-World Precedents**:
+
+| Actor | Action | Impact |
+|-------|--------|--------|
+| **California** | Climate agreements with China | Parallel foreign policy |
+| **Texas** | Border security MOUs with Mexico | Immigration policy conflict |
+| **Various states** | Sister city agreements with controversial regimes | Diplomatic complications |
+| **EU regions** | Direct relationships with non-EU countries | Undermined EU foreign policy |
+| **Quebec** | "Gérin-Lajoie doctrine" of international capacity | Challenged Canadian federal authority |
+
+**The Constitutional Gap**:
+
+| Prohibited | Not Prohibited |
+|------------|----------------|
+| Treaties | MOUs |
+| Alliances | Partnerships |
+| Confederations | Frameworks |
+| Agreements (maybe) | Understandings |
+| Military compacts | Economic cooperation |
+
+**The Practical Effect**:
+
+- Foreign adversaries get multiple entry points into U.S. policy
+- Sanctions lose bite when Regions don't cooperate
+- Federal diplomats cannot make credible commitments
+- "One China" policy? Depends which Region you ask
+- National security relationships fragmented
+
+### Current Constitutional Gap
+
+**What's Missing**: Clear "One Voice Doctrine" establishing federal exclusivity over all foreign relations, including non-treaty instruments.
+
+**Current Framework**:
+
+- Article VI prohibits Regional treaties with foreign powers
+- Article II grants Federal Government exclusive authority over foreign relations
+- No explicit prohibition on sub-treaty arrangements
+- No mechanism to void Regional agreements that conflict with federal policy
+
+**The "Compact Clause" Problem**: The original Constitution's Compact Clause requires congressional consent for state agreements with foreign powers, but interpretation has been inconsistent and enforcement weak.
+
+### Gaming Vectors Identified
+
+1. **The "Sub-Treaty" Loophole**
+    - Region calls agreement "framework" or "understanding"
+    - Claims it's not a "treaty" requiring federal approval
+    - Achieves treaty-like effects without treaty limitations
+    - Federal Government has no clear authority to void
+
+2. **The "Economic Necessity" Defense**
+    - Region claims trade relationship is economic, not diplomatic
+    - Asserts Regional authority over economic development
+    - Federal sanctions portrayed as harming Regional economy
+    - Economic interest justifies diplomatic independence
+
+3. **The "Cultural Exchange" Cover**
+    - Agreements framed as cultural or educational
+    - "Sister city" or "academic cooperation"
+    - Actually include economic, political, or intelligence dimensions
+    - Difficult to challenge "cultural" relationships
+
+4. **The "Subnational Diplomacy" Normalization**
+    - Multiple Regions conduct parallel foreign relations
+    - Practice becomes normalized over time
+    - Federal exclusivity erodes through acquiescence
+    - Eventually, fragmented foreign policy is the new normal
+
+5. **The "Federated Undermining"**
+    - Multiple Regions coordinate to undermine federal policy
+    - Each signs complementary agreements with target country
+    - Collective Regional action achieves what one Region couldn't
+    - Federal Government faces coordinated diplomatic rebellion
+
+### Proposed Constitutional Fix
+
+#### Article VI-RF, Section 4: The One Voice Doctrine
+
+> **(a) Exclusive Federal Authority.** The conduct of foreign relations is the exclusive domain of the Federal Government. No Region, State, local government, or instrumentality thereof may:
+>
+> - (i) enter into any treaty, alliance, or confederation with a foreign power;
+> - (ii) enter into any agreement, compact, memorandum of understanding, framework, or arrangement with a foreign government, foreign government entity, foreign state-owned enterprise, or foreign political subdivision that:
+>     - contradicts established Federal foreign policy;
+>     - undermines Federal diplomatic objectives;
+>     - interferes with Federal sanctions, embargoes, or trade restrictions;
+>     - creates commitments regarding matters within Federal foreign affairs authority;
+>     - provides foreign powers access to information, facilities, or relationships that could compromise national security.
+>
+> **(b) Void Ab Initio.** Any agreement entered into in violation of subsection (a) is void from the beginning and of no legal effect. No Regional official may implement, honor, or give effect to such an agreement.
+>
+> **(c) Permitted Activities.** This section does not prohibit:
+>
+> - (i) purely commercial transactions between Regional entities and foreign private parties;
+> - (ii) academic exchanges with foreign universities that do not involve government commitments;
+> - (iii) cultural activities that do not create governmental obligations;
+> - (iv) tourism promotion not involving diplomatic representations;
+> - (v) technical cooperation on non-sensitive matters with federal notification.
+>
+> **(d) Federal Notification and Review.**
+>
+> - (i) Before any Regional entity enters into any arrangement with a foreign government or government-connected entity, it shall notify the Department of State.
+> - (ii) The Department of State shall have thirty (30) days to review and object.
+> - (iii) If the Department objects, the arrangement shall not proceed unless the objection is overruled by the Constitutional Court.
+> - (iv) Failure to notify renders any subsequent agreement presumptively void.
+>
+> **(e) Designation of Prohibited Partners.** The Federal Government may designate foreign entities with which Regional arrangements are categorically prohibited, including:
+>
+> - (i) governments of sanctioned countries;
+> - (ii) foreign intelligence services and their front organizations;
+> - (iii) foreign state-owned enterprises in sensitive sectors;
+> - (iv) political parties of adversary nations.
+>
+> **(f) Enforcement.**
+>
+> - (i) The Attorney General may seek injunctive relief against prohibited arrangements.
+> - (ii) Regional officials who enter into or implement prohibited arrangements are personally liable for damages to federal foreign policy interests.
+> - (iii) Federal courts shall have jurisdiction to void prohibited arrangements and order cessation of implementation.
+>
+> **(g) Existing Arrangements.** Within one year of ratification:
+>
+> - (i) all existing Regional arrangements with foreign entities shall be submitted to the Department of State for review;
+> - (ii) arrangements found to conflict with this section shall be terminated;
+> - (iii) failure to submit shall render existing arrangements void.
+
+### Design Rationale
+
+**Why Comprehensive Prohibition?**
+
+| Limited Prohibition | Problem |
+|---------------------|---------|
+| Only "treaties" | MOUs, frameworks, etc. used instead |
+| Only with "governments" | State-owned enterprises, front organizations used |
+| Only if "contradicts" policy | "Parallel" arrangements claim not to contradict |
+| **Comprehensive** | Closes all loopholes while preserving legitimate activity |
+
+**Why Federal Notification?**
+
+- Creates checkpoint before Regional agreements take effect
+- Allows federal review for foreign policy implications
+- Doesn't require federal permission for legitimate activities
+- 30-day review period prevents indefinite delay
+- Constitutional Court appeal prevents arbitrary federal veto
+
+**Why Personal Liability?**
+
+- Government entities are judgment-proof
+- Personal liability creates deterrence for officials
+- Prevents "just following orders" defense
+- Official who signs prohibited agreement faces consequences
+- Distinguishes intentional violation from good-faith error
+
+**Why Retroactive Review?**
+
+- Existing arrangements may already conflict with federal policy
+- One-year window allows orderly review
+- Terminates problematic arrangements without crisis
+- Failure to submit = automatic voidance prevents hiding
+
+### Cross-Gap Interaction
+
+| Related Gap | Interaction |
+|-------------|-------------|
+| Gap 228 | Treaty Toggle — prevents Regions from pursuing treaties federal government abandoned |
+| Gap 179 | Shadow Confederation — prevents Regional military coordination with foreign powers |
+| Gap 172 | Trojan Horse Infrastructure — prevents foreign penetration via Regional agreements |
+| Gap 254 | Secession — Regions cannot develop foreign relationships as prelude to separation |
+
+### Risk Assessment
+
+**Without Fix**:
+
+- Regions conduct parallel foreign policies
+- Federal sanctions undermined by Regional cooperation with targets
+- Foreign adversaries exploit federal-Regional divisions
+- National security compromised by fragmented diplomacy
+- U.S. speaks with many voices internationally
+
+**With Fix**:
+
+- One voice in foreign affairs
+- Regional arrangements reviewed for policy conflict
+- Prohibited partners clearly designated
+- Personal liability deters violations
+- Existing problematic arrangements terminated
+
+### Implementation Priority
+
+**Tier**: P1 (Immediate)
+**Rationale**: Foreign adversaries will immediately exploit Regional Federalism to develop alternate relationships; must close loophole before exploitation
+
+**Dependencies**: Works with Gap 172 (Trojan Horse) and Gap 179 (Shadow Confederation) for comprehensive foreign influence protection
+
+---
+
+**Status:**
+**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article VI-RF, Section 4.
+
+**Severity:** Critical | **Mitigability:** Requires Constitutional Amendment
+
+---
+
+## Gap 267 — The "Patent Rebellion" (IP vs. Public Health)
+
+**Identified**: 2026-01-26
+**Category**: Intergovernmental Relations / Intellectual Property
+**Criticality**: 🔴 **CRITICAL**
+**Status**: UNRESOLVED
+
+### Problem Statement
+
+#### When Public Health Authority Collides with Patent Rights
+
+The Constitution grants the Federal Government exclusive authority over "Intellectual Property" (Patents and Copyrights). It grants Regions authority over "Public Health." These powers collide when a Region, facing healthcare cost crisis, decides to override federal patents to provide affordable medicines.
+
+**The Attack Vector**:
+
+1. Pharmaceutical company holds patent on life-saving cancer drug
+2. Drug costs $100,000/year; many Regional residents cannot afford it
+3. Region declares "Public Health Emergency" due to drug unaffordability
+4. Region authorizes local manufacturers to produce generic versions
+5. Region claims "Public Health" power supersedes federal patent
+6. **Federal intellectual property regime collapses in that Region**
+7. Other Regions follow; pharmaceutical companies face patchwork
+8. Drug companies stop investing in R&D or flee U.S. market entirely
+9. The Union fractures into "Patent Zones" and "Pirate Zones"
+
+**Real-World Precedents**:
+
+| Actor | Action | Impact |
+|-------|--------|--------|
+| **India** | Compulsory licensing under WTO rules | Created generic drug industry |
+| **Brazil** | Threatened compulsory licensing | Negotiated lower prices |
+| **South Africa** | Challenged pharmaceutical patents | Led to TRIPS flexibilities |
+| **Louisiana** | Proposed "subscription model" for Hepatitis C drugs | Sought patent workaround |
+| **Various states** | Drug importation from Canada | Challenged federal authority |
+
+**The Constitutional Collision**:
+
+| Federal Power | Regional Power | Conflict |
+|---------------|----------------|----------|
+| Patents (exclusive) | Public Health (exclusive) | Who prevails when drug is patented but unaffordable? |
+| Copyright | Education | Can Regions copy textbooks for schools? |
+| Trademark | Consumer Protection | Can Regions override trademark for public safety? |
+
+**The Incentive Destruction**:
+
+- Drug development costs $1-3 billion per approved drug
+- Patent protection justifies investment
+- If Regions can override patents, why invest?
+- Companies shift R&D to jurisdictions that protect IP
+- Long-term: fewer new drugs, worse public health
+
+**The Humanitarian Crisis**:
+
+- People die when they cannot afford patented drugs
+- Patents create artificial scarcity in knowledge
+- Public health emergencies demand access
+- Letting patents cause death is also morally untenable
+
+### Current Constitutional Gap
+
+**What's Missing**: Mechanism to balance federal IP supremacy with public health emergencies—compulsory licensing at fair value rather than Regional piracy or federal intransigence.
+
+**Current Framework**:
+
+- Article I, Section 8 grants Congress power over patents
+- Regional Exclusive Domains include Public Health
+- No explicit hierarchy when powers conflict
+- No compulsory licensing mechanism in constitution
+
+**International Law**: WTO TRIPS Agreement allows compulsory licensing under certain conditions (national emergency, public non-commercial use, adequate remuneration). The U.S. has rarely used this flexibility domestically.
+
+### Gaming Vectors Identified
+
+1. **The "Permanent Emergency" Gambit**
+    - Region declares ongoing public health emergency
+    - Emergency justifies continuous patent override
+    - "Emergency" becomes normal state
+    - Patents effectively void in that Region
+
+2. **The "Indirect Piracy" Method**
+    - Region doesn't manufacture directly
+    - Region authorizes "private" companies to manufacture
+    - Region purchases generic at low cost
+    - Federal government struggles to enforce against private actors
+
+3. **The "Definition Expansion"**
+    - Region defines "public health" broadly
+    - Includes mental health, economic health, community health
+    - Any expensive product becomes "public health" matter
+    - Patent protection shrinks to insignificance
+
+4. **The "Cascade Effect"**
+    - One Region overrides patents
+    - Generic drugs flow to other Regions via commerce
+    - Patent enforcement becomes impossible nationwide
+    - One defection collapses the system
+
+5. **The "International Arbitrage"**
+    - Region imports from countries with compulsory licensing
+    - Claims it's merely purchasing, not manufacturing
+    - Federal control over borders inadequate
+    - Generic supply enters through compliant Regions
+
+### Proposed Constitutional Fix
+
+#### Article I-RF, Section 19: Innovation Supremacy (with Emergency Valve)
+
+> **(a) Patent Supremacy.** Federal Intellectual Property rights, including patents, copyrights, and trademarks, are supreme and may not be abrogated, impaired, or circumvented by Regional law, regulation, or executive action.
+>
+> **(b) Prohibition on Regional Override.**
+>
+> - (i) No Region may authorize the manufacture, import, sale, or use of products that infringe valid federal intellectual property rights.
+> - (ii) No Region may declare its territory a "patent-free zone" or otherwise suspend federal IP protections.
+> - (iii) Regional "public health" authority does not include authority to override federal patents.
+>
+> **(c) Federal Compulsory Licensing Authority.** Notwithstanding subsection (a), the Federal Government may authorize compulsory licensing of patented inventions when:
+>
+> - (i) a national or regional public health emergency exists involving the patented product;
+> - (ii) the patent holder has failed to make the product available at reasonable cost;
+> - (iii) compulsory licensing is necessary to address the emergency;
+> - (iv) alternative measures (negotiation, importation, government purchase) have been exhausted or would be inadequate.
+>
+> **(d) Fair Market Compensation.**
+>
+> - (i) Compulsory licensing shall provide fair market compensation to the patent holder.
+> - (ii) "Fair market compensation" shall include:
+>     - recovery of research and development costs attributable to the product;
+>     - a reasonable profit margin based on comparable products;
+>     - ongoing royalties during the license period.
+> - (iii) The Federal Trade Commission shall establish compensation formulas ensuring patent holders are not impoverished by compulsory licensing.
+> - (iv) Disputes over compensation shall be resolved by the Court of Federal Claims.
+>
+> **(e) Emergency Determination.**
+>
+> - (i) The President may declare a public health emergency qualifying for compulsory licensing.
+> - (ii) Congress may declare such emergency by joint resolution.
+> - (iii) A Region may petition the Federal Government to declare an emergency affecting that Region.
+> - (iv) The declaration shall specify the products covered, the duration, and the geographic scope.
+>
+> **(f) Petition Process for Regions.**
+>
+> - (i) A Region experiencing a public health crisis may petition the Department of Health and Human Services for compulsory licensing of specific products.
+> - (ii) HHS shall respond within sixty (60) days with approval, denial, or alternative remedy.
+> - (iii) If approved, the Federal Government shall issue the compulsory license with fair compensation.
+> - (iv) If denied, the Region may appeal to the Constitutional Court.
+>
+> **(g) Non-Commercial Government Use.** The Federal Government may use any patented invention for government purposes without prior authorization, subject to:
+>
+> - (i) reasonable and entire compensation to the patent holder;
+> - (ii) limitation to genuine government use, not commercial distribution;
+> - (iii) notification to the patent holder within a reasonable time.
+>
+> **(h) Private Right of Action.** Patent holders may sue Regions that violate this section for:
+>
+> - (i) injunctive relief ordering cessation of infringing activity;
+> - (ii) damages for lost sales and market disruption;
+> - (iii) attorney fees and costs.
+>
+> **(i) International Obligations.** Compulsory licensing under this section shall comply with international obligations, including:
+>
+> - (i) TRIPS Agreement flexibilities for public health emergencies;
+> - (ii) Doha Declaration on TRIPS and Public Health;
+> - (iii) applicable bilateral and multilateral agreements.
+
+### Design Rationale
+
+**Why Federal Supremacy?**
+
+| Regional Override Model | Problems |
+|-------------------------|----------|
+| Regions can override patents | Patchwork IP system; innovation flight; race to bottom |
+| "Public health" exception swallows rule | Any expensive product becomes "health" matter |
+| No enforcement mechanism | De facto piracy even if nominally prohibited |
+| **Federal supremacy + valve** | Uniform system with emergency flexibility |
+
+**Why Compulsory Licensing Rather Than Taking?**
+
+- "Taking" suggests permanent expropriation
+- Licensing is temporary and compensated
+- Maintains innovation incentive while addressing crisis
+- Consistent with international law (TRIPS flexibilities)
+- Patent holder retains ownership; just must share
+
+**Why Fair Market Compensation?**
+
+| No Compensation | Fair Compensation |
+|-----------------|-------------------|
+| Destroys innovation incentive | Preserves incentive |
+| Amounts to government theft | Government as customer, not thief |
+| Companies exit market | Companies continue operating |
+| Violates Takings Clause spirit | Consistent with constitutional compensation |
+
+**Why Regional Petition Process?**
+
+- Regions closest to public health crises
+- Regional petition triggers federal review
+- Federal Government maintains control but responds to Regional needs
+- 60-day deadline ensures timely response
+- Appeal process prevents arbitrary federal denial
+
+### Cross-Gap Interaction
+
+| Related Gap | Interaction |
+|-------------|-------------|
+| Gap 206 | Petri Dish (Bio-Security) — pandemic response may require compulsory licensing of vaccines |
+| Gap 94 | Healthcare Variation — cost variation drives Regional pressure for patent override |
+| Gap 185 | Race to Bottom — prevents IP becoming another deregulation competition arena |
+| Gap 265 | NIMBY Blockade — parallel federal-Regional conflict over exclusive domains |
+
+### Risk Assessment
+
+**Without Fix**:
+
+- Regions override patents under "public health" pretext
+- National IP system collapses into regional fragmentation
+- Pharmaceutical companies flee or stop innovating
+- Generic flow makes patent enforcement impossible
+- Long-term: fewer drugs, worse public health
+
+**With Fix**:
+
+- Federal IP supremacy maintained
+- Compulsory licensing provides emergency valve
+- Fair compensation preserves innovation incentive
+- Regions can petition for relief but cannot unilaterally override
+- System balances IP protection with public health needs
+
+### Implementation Priority
+
+**Tier**: P1 (Immediate)
+**Rationale**: Healthcare costs create immediate pressure for Regional patent override; must establish balanced framework before crisis
+
+**Dependencies**: Works with Gap 206 (Bio-Security) for pandemic drug access and Gap 94 (Healthcare) for broader healthcare reform
+
+---
+
+**Status:**
+**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article I-RF, Section 19.
+
+**Severity:** Critical | **Mitigability:** Requires Constitutional Amendment
+
+---
+
 ## Navigation
 
 - [← Previous: Data & Information](12-data-information.md)

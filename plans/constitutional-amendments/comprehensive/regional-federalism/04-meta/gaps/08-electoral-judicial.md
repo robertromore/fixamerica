@@ -175,6 +175,7 @@ This solution addresses both the integrity problem AND the RCV tabulation trap:
 | Terminal state | Forced certification | Exclusion + crisis procedures |
 
 **Relationship to Other Gaps:**
+
 - **Gap 95 (Certification Deadlock):** Regional judicial delay; Gap 48 addresses substantive integrity. *Coordinated via Gap 95, Section 4(t-v).*
 - **Gap 84 (Referendum Hijacking):** Amendment process protection; Gap 48 addresses election certification
 
@@ -640,22 +641,26 @@ Article II, Section 5(f) allows ARB decisions to be appealed to the Supreme Cour
 **Part 1: ARB Binding Effect (Article II, Section 5(g-i))**
 
 > (g) **Immediate Binding Effect.** In all matters of power allocation:
->   - (i) The ARB's ruling is immediately binding upon issuance;
->   - (ii) The ruling shall not be stayed pending appeal to the Supreme Court except as provided in subsection (i);
->   - (iii) Parties must comply with ARB rulings during any appeal period.
+>
+> - (i) The ARB's ruling is immediately binding upon issuance;
+> - (ii) The ruling shall not be stayed pending appeal to the Supreme Court except as provided in subsection (i);
+> - (iii) Parties must comply with ARB rulings during any appeal period.
 >
 > (h) **Supreme Court Review Scope.** The Supreme Court may review ARB decisions only for:
->   - (i) Errors of constitutional interpretation;
->   - (ii) Violation of due process in ARB proceedings;
->   - (iii) The Supreme Court may not reweigh factual evidence or substitute its judgment on factual matters.
+>
+> - (i) Errors of constitutional interpretation;
+> - (ii) Violation of due process in ARB proceedings;
+> - (iii) The Supreme Court may not reweigh factual evidence or substitute its judgment on factual matters.
 >
 > (i) **Limited Stay Authority.** The Supreme Court may stay an ARB ruling only upon finding:
->   - (i) Substantial likelihood that the ARB committed clear constitutional error;
->   - (ii) Irreparable harm to the appellant absent stay;
->   - (iii) The stay would not substantially harm other parties or the public interest;
->   - (iv) Stay requests must be decided within seven (7) days.
+>
+> - (i) Substantial likelihood that the ARB committed clear constitutional error;
+> - (ii) Irreparable harm to the appellant absent stay;
+> - (iii) The stay would not substantially harm other parties or the public interest;
+> - (iv) Stay requests must be decided within seven (7) days.
 
 **Design Rationale:**
+
 - Immediate binding effect prevents action-during-appeal gaming
 - Review scope limited to constitutional error, not factual reweighing
 - Stay requires high showing—not automatic
@@ -665,21 +670,25 @@ Article II, Section 5(f) allows ARB decisions to be appealed to the Supreme Cour
 **Part 2: Anti-Remand Provisions (Article II, Section 5(j-l))**
 
 > (j) **No Factual Remand.** The Supreme Court may not remand a power-allocation dispute to the ARB for:
->   - (i) Further factual findings;
->   - (ii) Reconsideration of evidence;
->   - (iii) Application of a "new" factual standard.
+>
+> - (i) Further factual findings;
+> - (ii) Reconsideration of evidence;
+> - (iii) Application of a "new" factual standard.
 >
 > (k) **Reversal or Affirmance Only.** Upon review of an ARB power-allocation decision:
->   - (i) The Supreme Court shall affirm or reverse;
->   - (ii) If reversed, the Supreme Court shall specify the correct constitutional interpretation;
->   - (iii) The ARB shall apply the Court's interpretation to the existing factual record without further proceedings.
+>
+> - (i) The Supreme Court shall affirm or reverse;
+> - (ii) If reversed, the Supreme Court shall specify the correct constitutional interpretation;
+> - (iii) The ARB shall apply the Court's interpretation to the existing factual record without further proceedings.
 >
 > (l) **One Appeal Limit.** Each party may appeal an ARB power-allocation ruling to the Supreme Court only once:
->   - (i) Subsequent appeals on the same matter are barred;
->   - (ii) ARB application of Supreme Court interpretation is not separately appealable;
->   - (iii) The ARB's post-reversal ruling is final.
+>
+> - (i) Subsequent appeals on the same matter are barred;
+> - (ii) ARB application of Supreme Court interpretation is not separately appealable;
+> - (iii) The ARB's post-reversal ruling is final.
 
 **Design Rationale:**
+
 - No factual remand closes the primary gaming vector
 - Reversal-only prevents endless refinement
 - One appeal limit creates finality
@@ -689,21 +698,25 @@ Article II, Section 5(f) allows ARB decisions to be appealed to the Supreme Cour
 **Part 3: Parallel Filing Prevention (Article II, Section 5(m-o))**
 
 > (m) **Exclusive Initial Jurisdiction.** Power-allocation disputes shall be filed first with the ARB:
->   - (i) The Supreme Court shall not accept original jurisdiction over power-allocation matters;
->   - (ii) Filings that characterize power-allocation as "pure constitutional interpretation" shall be transferred to the ARB;
->   - (iii) The ARB shall determine whether a matter involves power allocation.
+>
+> - (i) The Supreme Court shall not accept original jurisdiction over power-allocation matters;
+> - (ii) Filings that characterize power-allocation as "pure constitutional interpretation" shall be transferred to the ARB;
+> - (iii) The ARB shall determine whether a matter involves power allocation.
 >
 > (n) **Sequential Proceeding Requirement.** Parties may not:
->   - (i) File parallel proceedings in the ARB and Supreme Court on related matters;
->   - (ii) Seek Supreme Court review until ARB proceedings are complete;
->   - (iii) Raise arguments in Supreme Court that were not presented to the ARB.
+>
+> - (i) File parallel proceedings in the ARB and Supreme Court on related matters;
+> - (ii) Seek Supreme Court review until ARB proceedings are complete;
+> - (iii) Raise arguments in Supreme Court that were not presented to the ARB.
 >
 > (o) **Expedited Timeline Enforcement.** The combined timeline for ARB ruling and Supreme Court review shall not exceed:
->   - (i) One hundred twenty (120) days from initial filing to final resolution;
->   - (ii) Failure of either body to rule within its allotted time results in automatic ruling for the non-moving party;
->   - (iii) Extensions only for extraordinary circumstances certified by the Chief Justice.
+>
+> - (i) One hundred twenty (120) days from initial filing to final resolution;
+> - (ii) Failure of either body to rule within its allotted time results in automatic ruling for the non-moving party;
+> - (iii) Extensions only for extraordinary circumstances certified by the Chief Justice.
 
 **Design Rationale:**
+
 - ARB exclusive initial jurisdiction prevents forum shopping
 - Sequential requirement prevents parallel confusion
 - Hard timeline prevents indefinite delay
@@ -723,6 +736,7 @@ Article II, Section 5(f) allows ARB decisions to be appealed to the Supreme Cour
 | 120-Day Hard Timeline | Indefinite delay | Axiom 7 (Law Moves Faster) |
 
 **Relationship to Other Gaps:**
+
 - **Gap 63 (Senate Adjudication Paralysis):** Parallel jurisdictional concerns in Senate context
 - **Gap 59 (State-Regional Preemption):** ARB role in Regional-State disputes
 
@@ -780,26 +794,31 @@ Article XIV-RF (Judiciary) mandates expedited review but does not address the im
 **Part 1: Quorum Protection Standards (Article XIV-RF, Section 7(a-d))**
 
 > (a) **Quorum Preservation Duty.** Justices shall not recuse in a manner that would reduce the Court below quorum unless:
->   - (i) A direct, personal financial interest exists in the outcome;
->   - (ii) A close family member (spouse, child, parent, sibling) is a named party;
->   - (iii) The Justice previously served as counsel of record in the specific matter before the Court.
+>
+> - (i) A direct, personal financial interest exists in the outcome;
+> - (ii) A close family member (spouse, child, parent, sibling) is a named party;
+> - (iii) The Justice previously served as counsel of record in the specific matter before the Court.
 >
 > (b) **Recusal Certification.** Any recusal that would reduce the Court below quorum requires:
->   - (i) Written certification of the specific conflict under Section 7(a);
->   - (ii) Review by the Chief Justice (or senior Associate Justice if Chief recuses);
->   - (iii) Publication of the recusal grounds within seventy-two (72) hours.
+>
+> - (i) Written certification of the specific conflict under Section 7(a);
+> - (ii) Review by the Chief Justice (or senior Associate Justice if Chief recuses);
+> - (iii) Publication of the recusal grounds within seventy-two (72) hours.
 >
 > (c) **Recusal Pattern Monitoring.** The Judicial Conduct Board shall monitor:
->   - (i) Aggregate recusal patterns by Justice;
->   - (ii) Coordination indicators (simultaneous recusals, similar grounds);
->   - (iii) Annual public report on recusal patterns with statistical analysis.
+>
+> - (i) Aggregate recusal patterns by Justice;
+> - (ii) Coordination indicators (simultaneous recusals, similar grounds);
+> - (iii) Annual public report on recusal patterns with statistical analysis.
 >
 > (d) **Coordinated Recusal Presumption.** If three or more Justices recuse simultaneously on a single case:
->   - (i) A rebuttable presumption of coordination arises;
->   - (ii) Each Justice must individually certify absence of coordination;
->   - (iii) The Judicial Conduct Board may investigate.
+>
+> - (i) A rebuttable presumption of coordination arises;
+> - (ii) Each Justice must individually certify absence of coordination;
+> - (iii) The Judicial Conduct Board may investigate.
 
 **Design Rationale:**
+
 - Narrow recusal grounds prevent pretextual withdrawals
 - Certification requirement creates accountability
 - Pattern monitoring detects coordinated strategies
@@ -810,26 +829,31 @@ Article XIV-RF (Judiciary) mandates expedited review but does not address the im
 **Part 2: Emergency Quorum Restoration (Article XIV-RF, Section 7(e-h))**
 
 > (e) **Emergency Quorum Restoration.** If recusals and vacancies reduce the Supreme Court below quorum for any case:
->   - (i) The Chief Justice shall certify a "Quorum Emergency" within forty-eight (48) hours;
->   - (ii) Emergency procedures under Sections 7(f-h) shall activate automatically.
+>
+> - (i) The Chief Justice shall certify a "Quorum Emergency" within forty-eight (48) hours;
+> - (ii) Emergency procedures under Sections 7(f-h) shall activate automatically.
 >
 > (f) **Temporary Justice Designation.** During a Quorum Emergency:
->   - (i) The Chief Justice shall designate the senior-most Chief Judge of a Regional Court of Appeals not already on the Supreme Court;
->   - (ii) If multiple Regional Chief Judges are needed, selection proceeds in order of seniority;
->   - (iii) Designated judges serve as Temporary Justices for the specific case only.
+>
+> - (i) The Chief Justice shall designate the senior-most Chief Judge of a Regional Court of Appeals not already on the Supreme Court;
+> - (ii) If multiple Regional Chief Judges are needed, selection proceeds in order of seniority;
+> - (iii) Designated judges serve as Temporary Justices for the specific case only.
 >
 > (g) **Temporary Justice Authority.** Temporary Justices:
->   - (i) Have full voting authority on the designated case;
->   - (ii) Participate in oral argument, deliberation, and opinion drafting;
->   - (iii) May not be recused except under Section 7(a) standards;
->   - (iv) Their participation terminates upon case disposition.
+>
+> - (i) Have full voting authority on the designated case;
+> - (ii) Participate in oral argument, deliberation, and opinion drafting;
+> - (iii) May not be recused except under Section 7(a) standards;
+> - (iv) Their participation terminates upon case disposition.
 >
 > (h) **Regional Balance Requirement.** Temporary Justice designations:
->   - (i) Shall not include more than two (2) judges from any single Region;
->   - (ii) Shall prioritize Regions not already represented among sitting Justices on the case;
->   - (iii) The Judicial Conduct Board may review designations for regional fairness.
+>
+> - (i) Shall not include more than two (2) judges from any single Region;
+> - (ii) Shall prioritize Regions not already represented among sitting Justices on the case;
+> - (iii) The Judicial Conduct Board may review designations for regional fairness.
 
 **Design Rationale:**
+
 - Automatic activation removes discretion
 - Regional Chief Judges provide qualified backup
 - Single-case limitation prevents permanent expansion
@@ -840,21 +864,25 @@ Article XIV-RF (Judiciary) mandates expedited review but does not address the im
 **Part 3: Vacancy Acceleration (Article XIV-RF, Section 7(i-k))**
 
 > (i) **Expedited Vacancy Filling.** When Supreme Court vacancies contribute to quorum failure:
->   - (i) The President shall submit a nomination within thirty (30) days;
->   - (ii) The Senate shall hold confirmation hearings within sixty (60) days of nomination;
->   - (iii) The Senate shall vote within ninety (90) days of nomination.
+>
+> - (i) The President shall submit a nomination within thirty (30) days;
+> - (ii) The Senate shall hold confirmation hearings within sixty (60) days of nomination;
+> - (iii) The Senate shall vote within ninety (90) days of nomination.
 >
 > (j) **Default Appointment.** If the Senate fails to vote within ninety (90) days:
->   - (i) The President's nominee is deemed confirmed;
->   - (ii) The nominee takes office immediately;
->   - (iii) The Senate may subsequently vote to remove by two-thirds (2/3) majority within one hundred eighty (180) days.
+>
+> - (i) The President's nominee is deemed confirmed;
+> - (ii) The nominee takes office immediately;
+> - (iii) The Senate may subsequently vote to remove by two-thirds (2/3) majority within one hundred eighty (180) days.
 >
 > (k) **Multiple Vacancy Protocol.** When two or more vacancies exist simultaneously:
->   - (i) The President shall submit all nominations within thirty (30) days;
->   - (ii) The Senate may hold combined or sequential hearings;
->   - (iii) The ninety-day deadline applies separately to each nomination.
+>
+> - (i) The President shall submit all nominations within thirty (30) days;
+> - (ii) The Senate may hold combined or sequential hearings;
+> - (iii) The ninety-day deadline applies separately to each nomination.
 
 **Design Rationale:**
+
 - Timeline requirements prevent indefinite vacancy
 - Default appointment mechanism defeats obstruction
 - Senate removal option preserves advisory role
@@ -865,21 +893,25 @@ Article XIV-RF (Judiciary) mandates expedited review but does not address the im
 **Part 4: Anti-Circumvention Safeguards (Article XIV-RF, Section 7(l-n))**
 
 > (l) **Prohibited Coordination.** Justices may not:
->   - (i) Communicate with other Justices for the purpose of coordinating recusals;
->   - (ii) Agree to recuse in exchange for another Justice's recusal;
->   - (iii) Time recusals to achieve strategic quorum failure.
+>
+> - (i) Communicate with other Justices for the purpose of coordinating recusals;
+> - (ii) Agree to recuse in exchange for another Justice's recusal;
+> - (iii) Time recusals to achieve strategic quorum failure.
 >
 > (m) **Impeachment for Pattern Recusal Abuse.** A Justice who engages in a pattern of pretextual recusals:
->   - (i) May be impeached by the House by simple majority;
->   - (ii) Shall be tried by the Senate with two-thirds (2/3) required for removal;
->   - (iii) "Pattern of pretextual recusals" includes three or more recusals found by the Judicial Conduct Board to lack Section 7(a) grounds.
+>
+> - (i) May be impeached by the House by simple majority;
+> - (ii) Shall be tried by the Senate with two-thirds (2/3) required for removal;
+> - (iii) "Pattern of pretextual recusals" includes three or more recusals found by the Judicial Conduct Board to lack Section 7(a) grounds.
 >
 > (n) **Case Progression Guarantee.** No case may be delayed more than one hundred twenty (120) days due to quorum issues:
->   - (i) If quorum cannot be achieved within one hundred twenty (120) days, the lower court ruling stands as the final judgment;
->   - (ii) The Supreme Court may grant rehearing when quorum is restored;
->   - (iii) Lower court affirmance under this section does not create binding precedent.
+>
+> - (i) If quorum cannot be achieved within one hundred twenty (120) days, the lower court ruling stands as the final judgment;
+> - (ii) The Supreme Court may grant rehearing when quorum is restored;
+> - (iii) Lower court affirmance under this section does not create binding precedent.
 
 **Design Rationale:**
+
 - Explicit prohibition closes coordination loophole
 - Impeachment standard provides ultimate accountability
 - 120-day hard deadline prevents indefinite delay
@@ -902,6 +934,7 @@ Article XIV-RF (Judiciary) mandates expedited review but does not address the im
 | Impeachment for Abuse | Ultimate accountability | Axiom 5 (Remove Ambiguity) |
 
 **Relationship to Other Gaps:**
+
 - **Gap 63 (Senate Adjudication Paralysis):** Quorum sabotage in legislative context; Gap 81 addresses judicial quorum
 - **Gap 71 (Legislative Hostage-Taking):** Selection obstruction; Gap 81 includes default appointment mechanism
 - **Gap 73 (Jurisdictional Ping-Pong):** ARB vs Supreme Court; Gap 81 ensures Supreme Court can actually rule
@@ -965,26 +998,31 @@ Article VII, Section 4 of the Elections document mandates regional certification
 **Part 1: Automatic Federal Jurisdiction Transfer (Article VII-RF, Section 4(g-j))**
 
 > (g) **Federal Jurisdiction Timeline.** In federal elections, if a Regional Court has not issued a final, non-appealable decision within seven (7) days of the election:
->   - (i) Jurisdiction automatically and exclusively transfers to the National Election Court;
->   - (ii) All pending Regional court proceedings are stayed;
->   - (iii) All Regional court stays are vacated by operation of law.
+>
+> - (i) Jurisdiction automatically and exclusively transfers to the National Election Court;
+> - (ii) All pending Regional court proceedings are stayed;
+> - (iii) All Regional court stays are vacated by operation of law.
 >
 > (h) **National Election Court Authority.** Upon jurisdiction transfer:
->   - (i) The National Election Court assumes exclusive authority over all certification disputes;
->   - (ii) The Court may consider Regional law issues without deference to Regional court interpretations;
->   - (iii) The Court shall resolve all pending disputes within fourteen (14) days of jurisdiction transfer.
+>
+> - (i) The National Election Court assumes exclusive authority over all certification disputes;
+> - (ii) The Court may consider Regional law issues without deference to Regional court interpretations;
+> - (iii) The Court shall resolve all pending disputes within fourteen (14) days of jurisdiction transfer.
 >
 > (i) **Regional Court Deadline.** Regional courts handling federal election disputes:
->   - (i) Shall issue final decisions within seven (7) days of filing;
->   - (ii) May not issue stays extending beyond the seven-day window;
->   - (iii) Failure to meet deadline results in automatic jurisdiction transfer.
+>
+> - (i) Shall issue final decisions within seven (7) days of filing;
+> - (ii) May not issue stays extending beyond the seven-day window;
+> - (iii) Failure to meet deadline results in automatic jurisdiction transfer.
 >
 > (j) **Stay Limitation.** Regional court stays on federal election certification:
->   - (i) Are automatically vacated after seven (7) days;
->   - (ii) May not be extended regardless of pending proceedings;
->   - (iii) Federal auto-certification proceeds if no final judgment within seven days.
+>
+> - (i) Are automatically vacated after seven (7) days;
+> - (ii) May not be extended regardless of pending proceedings;
+> - (iii) Federal auto-certification proceeds if no final judgment within seven days.
 
 **Design Rationale:**
+
 - Seven-day automatic transfer defeats delay tactics
 - Exclusive federal jurisdiction removes Regional blockage
 - Stay vacation prevents perpetual stays
@@ -995,21 +1033,25 @@ Article VII, Section 4 of the Elections document mandates regional certification
 **Part 2: Anti-Pretextual Finding Authority (Article VII-RF, Section 4(k-m))**
 
 > (k) **Pretextual Stay Finding.** The National Election Court may find a Regional court stay pretextual if:
->   - (i) The underlying claim lacks substantial legal merit;
->   - (ii) The stay was issued without adequate factual basis;
->   - (iii) The pattern of rulings suggests partisan motivation rather than legal analysis.
+>
+> - (i) The underlying claim lacks substantial legal merit;
+> - (ii) The stay was issued without adequate factual basis;
+> - (iii) The pattern of rulings suggests partisan motivation rather than legal analysis.
 >
 > (l) **Pretextual Finding Consequences.** Upon finding a Regional stay was pretextual:
->   - (i) The stay is immediately vacated;
->   - (ii) The Regional court's ruling in the matter is given no deference;
->   - (iii) The finding is reported to the Judicial Conduct Board for potential disciplinary action.
+>
+> - (i) The stay is immediately vacated;
+> - (ii) The Regional court's ruling in the matter is given no deference;
+> - (iii) The finding is reported to the Judicial Conduct Board for potential disciplinary action.
 >
 > (m) **Pattern Monitoring.** The National Election Court shall monitor:
->   - (i) Regional court election rulings for patterns suggesting partisan capture;
->   - (ii) Publish annual reports on Regional court election jurisprudence;
->   - (iii) Refer persistent patterns to the Judicial Conduct Board.
+>
+> - (i) Regional court election rulings for patterns suggesting partisan capture;
+> - (ii) Publish annual reports on Regional court election jurisprudence;
+> - (iii) Refer persistent patterns to the Judicial Conduct Board.
 
 **Design Rationale:**
+
 - Pretextual finding authority enables federal override
 - Consequences create accountability for abuse
 - Pattern monitoring detects systematic problems
@@ -1020,21 +1062,25 @@ Article VII, Section 4 of the Elections document mandates regional certification
 **Part 3: Certification Default Rules (Article VII-RF, Section 4(n-p))**
 
 > (n) **Default Certification.** If no judicial decision is rendered within the jurisdiction transfer timeline:
->   - (i) The election results as certified by election officials stand;
->   - (ii) The losing party retains post-certification remedies but not certification delay;
->   - (iii) The certified winner takes office pending any post-certification proceedings.
+>
+> - (i) The election results as certified by election officials stand;
+> - (ii) The losing party retains post-certification remedies but not certification delay;
+> - (iii) The certified winner takes office pending any post-certification proceedings.
 >
 > (o) **Post-Certification Remedies.** After certification:
->   - (i) Courts may order special elections if fraud is proven;
->   - (ii) Courts may award damages for proven irregularities;
->   - (iii) Courts may not retroactively decertify without proven fraud sufficient to change outcome.
+>
+> - (i) Courts may order special elections if fraud is proven;
+> - (ii) Courts may award damages for proven irregularities;
+> - (iii) Courts may not retroactively decertify without proven fraud sufficient to change outcome.
 >
 > (p) **Fraud Standard.** To decertify a certified election:
->   - (i) Fraud must be proven by clear and convincing evidence;
->   - (ii) The fraud must be sufficient to have changed the election outcome;
->   - (iii) Mere procedural irregularities are insufficient for decertification.
+>
+> - (i) Fraud must be proven by clear and convincing evidence;
+> - (ii) The fraud must be sufficient to have changed the election outcome;
+> - (iii) Mere procedural irregularities are insufficient for decertification.
 
 **Design Rationale:**
+
 - Default certification ensures elections conclude
 - Post-certification remedies preserve legitimate challenges
 - Winner takes office pending challenge prevents power vacuum
@@ -1045,21 +1091,25 @@ Article VII, Section 4 of the Elections document mandates regional certification
 **Part 4: Regional Court Election Competency Standards (Article VII-RF, Section 4(q-s))**
 
 > (q) **Election Panel Requirements.** Regional courts hearing federal election disputes:
->   - (i) Shall convene three-judge panels rather than single judges;
->   - (ii) Panels shall include judges from different Regional judicial districts where available;
->   - (iii) No judge may sit on a panel involving an election in which they voted.
+>
+> - (i) Shall convene three-judge panels rather than single judges;
+> - (ii) Panels shall include judges from different Regional judicial districts where available;
+> - (iii) No judge may sit on a panel involving an election in which they voted.
 >
 > (r) **Expedited Procedures.** Federal election disputes in Regional courts:
->   - (i) Shall follow expedited procedures established by the National Election Court;
->   - (ii) Discovery is limited to evidence directly relevant to alleged irregularities;
->   - (iii) No continuances may extend beyond the seven-day deadline.
+>
+> - (i) Shall follow expedited procedures established by the National Election Court;
+> - (ii) Discovery is limited to evidence directly relevant to alleged irregularities;
+> - (iii) No continuances may extend beyond the seven-day deadline.
 >
 > (s) **Judicial Recusal Standards.** Regional judges with conflicts in federal election cases:
->   - (i) Must recuse if they have donated to or publicly endorsed a candidate in the election;
->   - (ii) Must recuse if a close family member is a candidate or campaign official;
->   - (iii) Failure to recuse is grounds for Judicial Conduct Board sanction.
+>
+> - (i) Must recuse if they have donated to or publicly endorsed a candidate in the election;
+> - (ii) Must recuse if a close family member is a candidate or campaign official;
+> - (iii) Failure to recuse is grounds for Judicial Conduct Board sanction.
 
 **Design Rationale:**
+
 - Three-judge panels reduce single-actor capture
 - District diversity reduces geographic bias
 - No continuances enforces deadline
@@ -1072,21 +1122,25 @@ Article VII, Section 4 of the Elections document mandates regional certification
 *[Coordination with Gap 48's Certification Escrow system]*
 
 > (t) **Escrow Tolling.** The seven-day deadline under subsection (g) is tolled during any Certification Escrow period established under Article VII, Section [X] [Gap 48]:
->   - (i) The deadline resumes upon escrow termination or release;
->   - (ii) During escrow, Regional court stays remain vacated;
->   - (iii) The National Election Court assumes jurisdiction over escrow disputes upon tolling expiration.
+>
+> - (i) The deadline resumes upon escrow termination or release;
+> - (ii) During escrow, Regional court stays remain vacated;
+> - (iii) The National Election Court assumes jurisdiction over escrow disputes upon tolling expiration.
 >
 > (u) **Jurisdiction Transfer After Escrow.** If the Certification Escrow period expires without resolution:
->   - (i) Jurisdiction transfers automatically to the National Election Court within forty-eight (48) hours;
->   - (ii) The Court shall consolidate any pending Regional judicial proceedings with the escrow resolution;
->   - (iii) The Court applies the timeline of Article VII, Section [X](d) [Gap 48, 28-day final determination].
+>
+> - (i) Jurisdiction transfers automatically to the National Election Court within forty-eight (48) hours;
+> - (ii) The Court shall consolidate any pending Regional judicial proceedings with the escrow resolution;
+> - (iii) The Court applies the timeline of Article VII, Section [X](d) [Gap 48, 28-day final determination].
 >
 > (v) **Unified Timeline.** For purposes of federal election certification:
->   - (i) Gap 95's seven-day Regional court window runs first;
->   - (ii) Gap 48's Certification Escrow process runs after Regional court resolution or jurisdiction transfer;
->   - (iii) The combined timeline shall not exceed the fifty-six (56) day final certification deadline of Article VII, Section [X](f) [Gap 48].
+>
+> - (i) Gap 95's seven-day Regional court window runs first;
+> - (ii) Gap 48's Certification Escrow process runs after Regional court resolution or jurisdiction transfer;
+> - (iii) The combined timeline shall not exceed the fifty-six (56) day final certification deadline of Article VII, Section [X](f) [Gap 48].
 
 **Design Rationale:**
+
 - Escrow tolling prevents deadline collision
 - Jurisdiction transfer ensures federal resolution
 - Unified timeline integrates both frameworks
@@ -1108,6 +1162,7 @@ Article VII, Section 4 of the Elections document mandates regional certification
 | Expedited Procedures | Procedural delay | Axiom 7 (Law Moves Faster) |
 
 **Relationship to Other Gaps:**
+
 - **Gap 48 (Certification Escrow):** Substantive integrity challenges; Gap 95 addresses procedural judicial delay. *Coordinated via Section 4(t-v).*
 - **Gap 54 (Electoral Manipulation):** General election integrity; Gap 95 addresses certification-specific manipulation
 - **Gap 81 (Judicial Recusal):** Quorum sabotage; Gap 95 addresses partisan judicial capture
@@ -1166,26 +1221,31 @@ Article XIV-RF requires judicial appointments to reflect Regional diversity. A P
 **Part 1: Regional Nominating Commissions (Article XIV-RF, Section 8(a-d))**
 
 > (a) **Regional Judicial Nominating Commission.** Each Region shall establish a non-partisan Judicial Nominating Commission:
->   - (i) Consisting of members appointed by the Regional Governor, Regional Legislature, and Regional Bar Association in equal thirds;
->   - (ii) Members serve staggered six-year terms and may not hold partisan office;
->   - (iii) The Commission shall maintain a roster of qualified judicial candidates from the Region.
+>
+> - (i) Consisting of members appointed by the Regional Governor, Regional Legislature, and Regional Bar Association in equal thirds;
+> - (ii) Members serve staggered six-year terms and may not hold partisan office;
+> - (iii) The Commission shall maintain a roster of qualified judicial candidates from the Region.
 >
 > (b) **Nomination List Requirement.** When a judicial seat reserved for a specific Region becomes vacant:
->   - (i) The Region's Nominating Commission shall submit a list of at least three (3) qualified candidates within thirty (30) days;
->   - (ii) The President must select from the Commission's list;
->   - (iii) The President may request additional candidates but may not reject the entire list without cause.
+>
+> - (i) The Region's Nominating Commission shall submit a list of at least three (3) qualified candidates within thirty (30) days;
+> - (ii) The President must select from the Commission's list;
+> - (iii) The President may request additional candidates but may not reject the entire list without cause.
 >
 > (c) **Qualification Standards.** Commission nominees must meet:
->   - (i) Professional qualification standards established by the National Professional Standards Board;
->   - (ii) Ethical standards required for judicial office;
->   - (iii) Residence or substantial professional connection to the nominating Region.
+>
+> - (i) Professional qualification standards established by the National Professional Standards Board;
+> - (ii) Ethical standards required for judicial office;
+> - (iii) Residence or substantial professional connection to the nominating Region.
 >
 > (d) **Commission Independence.** Nominating Commissions:
->   - (i) Shall operate independently of Regional and Federal political control;
->   - (ii) May not consider partisan affiliation in evaluating candidates;
->   - (iii) Shall publish candidate qualifications (not recommendations) for public review.
+>
+> - (i) Shall operate independently of Regional and Federal political control;
+> - (ii) May not consider partisan affiliation in evaluating candidates;
+> - (iii) Shall publish candidate qualifications (not recommendations) for public review.
 
 **Design Rationale:**
+
 - Commission structure ensures non-partisan candidate pool
 - List requirement constrains Presidential discretion
 - Qualification standards ensure competence
@@ -1196,20 +1256,24 @@ Article XIV-RF requires judicial appointments to reflect Regional diversity. A P
 **Part 2: Automatic Appointment Mechanism (Article XIV-RF, Section 8(e-g))**
 
 > (e) **Presidential Nomination Deadline.** The President shall nominate a candidate from the Commission list:
->   - (i) Within sixty (60) days of vacancy;
->   - (ii) Failure to nominate triggers automatic appointment under Section 8(f).
+>
+> - (i) Within sixty (60) days of vacancy;
+> - (ii) Failure to nominate triggers automatic appointment under Section 8(f).
 >
 > (f) **Automatic Seating.** If the President fails to nominate within sixty (60) days:
->   - (i) The Commission's top-ranked candidate is automatically nominated;
->   - (ii) If the Senate fails to vote within an additional sixty (60) days, the candidate is automatically seated;
->   - (iii) Automatic seating is subject to the same subsequent removal authority as other judicial appointments.
+>
+> - (i) The Commission's top-ranked candidate is automatically nominated;
+> - (ii) If the Senate fails to vote within an additional sixty (60) days, the candidate is automatically seated;
+> - (iii) Automatic seating is subject to the same subsequent removal authority as other judicial appointments.
 >
 > (g) **Senate Rejection Consequence.** If the Senate rejects a Presidential nomination:
->   - (i) The President shall nominate another candidate from the Commission list within thirty (30) days;
->   - (ii) After three rejections, the Commission's next-ranked candidate is automatically seated;
->   - (iii) This prevents indefinite vacancy through repeated rejection.
+>
+> - (i) The President shall nominate another candidate from the Commission list within thirty (30) days;
+> - (ii) After three rejections, the Commission's next-ranked candidate is automatically seated;
+> - (iii) This prevents indefinite vacancy through repeated rejection.
 
 **Design Rationale:**
+
 - 60-day deadline prevents indefinite delay
 - Automatic nomination defeats strategic vacancy
 - Automatic seating defeats Senate obstruction
@@ -1220,21 +1284,25 @@ Article XIV-RF requires judicial appointments to reflect Regional diversity. A P
 **Part 3: Diversity Monitoring and Enforcement (Article XIV-RF, Section 8(h-j))**
 
 > (h) **Diversity Monitoring.** The National Election Court shall monitor:
->   - (i) Judicial vacancy duration by Region;
->   - (ii) Nomination patterns by presidential administration;
->   - (iii) Regional representation on federal courts.
+>
+> - (i) Judicial vacancy duration by Region;
+> - (ii) Nomination patterns by presidential administration;
+> - (iii) Regional representation on federal courts.
 >
 > (i) **Diversity Alert.** The Court shall issue a "Judicial Diversity Alert" if:
->   - (i) Any Region has vacancies exceeding fifty percent (50%) of its allocated seats for more than one year;
->   - (ii) Presidential nominations show statistically significant Regional bias;
->   - (iii) Regional monoculture patterns emerge across multiple administrations.
+>
+> - (i) Any Region has vacancies exceeding fifty percent (50%) of its allocated seats for more than one year;
+> - (ii) Presidential nominations show statistically significant Regional bias;
+> - (iii) Regional monoculture patterns emerge across multiple administrations.
 >
 > (j) **Alert Consequences.** Upon Judicial Diversity Alert:
->   - (i) Automatic appointment timelines reduce to thirty (30) days;
->   - (ii) The alert is published and reported to Congress;
->   - (iii) Patterns may be considered in subsequent presidential impeachment proceedings.
+>
+> - (i) Automatic appointment timelines reduce to thirty (30) days;
+> - (ii) The alert is published and reported to Congress;
+> - (iii) Patterns may be considered in subsequent presidential impeachment proceedings.
 
 **Design Rationale:**
+
 - Monitoring creates transparency
 - Statistical analysis detects bias
 - Accelerated timelines address crisis
@@ -1255,6 +1323,7 @@ Article XIV-RF requires judicial appointments to reflect Regional diversity. A P
 | Judicial Diversity Alert | Crisis response | Axiom 7 (Law Moves Faster) |
 
 **Relationship to Other Gaps:**
+
 - **Gap 90 (Senate Blue-Slipping):** Confirmation obstruction; Gap 101 addresses nomination obstruction
 - **Gap 81 (Judicial Recusal):** Court quorum; Gap 101 addresses court composition
 - **Gap 71 (Legislative Hostage-Taking):** Selection failure; Gap 101 addresses judicial selection failure
@@ -1313,26 +1382,31 @@ Article XIV-RF mandates expedited review but the system is vulnerable during ini
 **Part 1: Immediate Judicial Continuity (Transition Strategy, Section XI(a-d))**
 
 > (a) **Provisional Regional Justices.** Upon ratification:
->   - (i) The senior-most appellate judges in each Region are automatically designated "Provisional Regional Justices";
->   - (ii) Provisional Justices have full Article XIV authority;
->   - (iii) Designation continues until permanent Regional Judiciary is seated.
+>
+> - (i) The senior-most appellate judges in each Region are automatically designated "Provisional Regional Justices";
+> - (ii) Provisional Justices have full Article XIV authority;
+> - (iii) Designation continues until permanent Regional Judiciary is seated.
 >
 > (b) **Provisional Court Authority.** Provisional Regional Courts may:
->   - (i) Hear all cases within Regional Court jurisdiction;
->   - (ii) Issue binding judgments and injunctions;
->   - (iii) Enforce Design Guardrails during transition period.
+>
+> - (i) Hear all cases within Regional Court jurisdiction;
+> - (ii) Issue binding judgments and injunctions;
+> - (iii) Enforce Design Guardrails during transition period.
 >
 > (c) **Provisional Selection Criteria.** Provisional Justices shall be:
->   - (i) The three most senior Circuit Court judges residing in each Region;
->   - (ii) If fewer than three, supplemented by senior District Court judges;
->   - (iii) Regional diversity among provisional judges is encouraged but not required.
+>
+> - (i) The three most senior Circuit Court judges residing in each Region;
+> - (ii) If fewer than three, supplemented by senior District Court judges;
+> - (iii) Regional diversity among provisional judges is encouraged but not required.
 >
 > (d) **Provisional Authority Duration.** Provisional designation terminates:
->   - (i) When the permanent Regional Court is seated with quorum;
->   - (ii) Not later than two (2) years after ratification;
->   - (iii) Cases pending at termination transfer to permanent court.
+>
+> - (i) When the permanent Regional Court is seated with quorum;
+> - (ii) Not later than two (2) years after ratification;
+> - (iii) Cases pending at termination transfer to permanent court.
 
 **Design Rationale:**
+
 - Automatic designation ensures immediate judicial capacity
 - Full authority enables effective enforcement
 - Senior judge selection provides experienced justices
@@ -1343,21 +1417,25 @@ Article XIV-RF mandates expedited review but the system is vulnerable during ini
 **Part 2: Transition Case Management (Transition Strategy, Section XI(e-g))**
 
 > (e) **Pre-Emptive Challenge Consolidation.** Challenges to Regional structure during transition:
->   - (i) Shall be consolidated in a single Transition Judicial Panel;
->   - (ii) The Panel consists of three Circuit Court judges designated by the Chief Justice;
->   - (iii) Consolidated proceedings prevent court-flooding strategy.
+>
+> - (i) Shall be consolidated in a single Transition Judicial Panel;
+> - (ii) The Panel consists of three Circuit Court judges designated by the Chief Justice;
+> - (iii) Consolidated proceedings prevent court-flooding strategy.
 >
 > (f) **Expedited Transition Review.** The Transition Judicial Panel:
->   - (i) Shall resolve challenges within one hundred eighty (180) days;
->   - (ii) May summarily dismiss frivolous or duplicative challenges;
->   - (iii) Appeals go directly to the Supreme Court on expedited basis.
+>
+> - (i) Shall resolve challenges within one hundred eighty (180) days;
+> - (ii) May summarily dismiss frivolous or duplicative challenges;
+> - (iii) Appeals go directly to the Supreme Court on expedited basis.
 >
 > (g) **Transition Stay Limitations.** During transition:
->   - (i) No stay may prevent implementation of Regional structure beyond thirty (30) days;
->   - (ii) Implementation proceeds absent final judgment finding constitutional defect;
->   - (iii) Challengers may recover damages if structure found unconstitutional, but may not block implementation.
+>
+> - (i) No stay may prevent implementation of Regional structure beyond thirty (30) days;
+> - (ii) Implementation proceeds absent final judgment finding constitutional defect;
+> - (iii) Challengers may recover damages if structure found unconstitutional, but may not block implementation.
 
 **Design Rationale:**
+
 - Consolidation prevents flooding
 - Expedited review ensures timely resolution
 - Frivolous dismissal authority enables efficient processing
@@ -1368,21 +1446,25 @@ Article XIV-RF mandates expedited review but the system is vulnerable during ini
 **Part 3: Permanent Court Seating Acceleration (Transition Strategy, Section XI(h-j))**
 
 > (h) **Accelerated Judicial Appointment.** During transition:
->   - (i) President shall nominate initial Regional judges within sixty (60) days of ratification;
->   - (ii) Senate shall confirm or reject within ninety (90) days of nomination;
->   - (iii) Automatic seating applies as provided in Gap 101/Article XIV-RF, Section 8.
+>
+> - (i) President shall nominate initial Regional judges within sixty (60) days of ratification;
+> - (ii) Senate shall confirm or reject within ninety (90) days of nomination;
+> - (iii) Automatic seating applies as provided in Gap 101/Article XIV-RF, Section 8.
 >
 > (i) **Governor Certification Deadline.** Regional Governors shall:
->   - (i) Certify Regional Court candidates within thirty (30) days of request;
->   - (ii) Failure to certify triggers automatic certification by the Regional Bar Association;
->   - (iii) No Governor may block Regional Court seating through non-certification.
+>
+> - (i) Certify Regional Court candidates within thirty (30) days of request;
+> - (ii) Failure to certify triggers automatic certification by the Regional Bar Association;
+> - (iii) No Governor may block Regional Court seating through non-certification.
 >
 > (j) **Federal Backstop Appointment.** If permanent Regional Courts are not seated within eighteen (18) months:
->   - (i) The Chief Justice shall appoint temporary judges from the federal bench;
->   - (ii) Temporary judges serve until permanent appointments are made;
->   - (iii) The President's appointment power for that Region is suspended until compliance.
+>
+> - (i) The Chief Justice shall appoint temporary judges from the federal bench;
+> - (ii) Temporary judges serve until permanent appointments are made;
+> - (iii) The President's appointment power for that Region is suspended until compliance.
 
 **Design Rationale:**
+
 - Accelerated timeline prevents delay
 - Automatic seating defeats obstruction
 - Bar Association backup prevents Governor blockade
@@ -1404,6 +1486,7 @@ Article XIV-RF mandates expedited review but the system is vulnerable during ini
 | Federal Backstop | Persistent vacancy | Axiom 6 (Redundancy) |
 
 **Relationship to Other Gaps:**
+
 - **Gap 90 (Senate Blue-Slipping):** Confirmation obstruction; Gap 108 addresses transition-specific obstruction
 - **Gap 101 (Judicial Packing):** Nomination manipulation; Gap 108 addresses transition appointment delay
 - **Gap 81 (Judicial Recusal):** Court function; Gap 108 addresses court existence
@@ -1454,21 +1537,25 @@ Article XX grants representation to DC and Territories with Regional assignment.
 **Part 1: Targeted Migration Prohibition (Article VII-RF, Section 5(a-c))**
 
 > (a) **Strategic Migration Finding.** The ARB may find "Strategic Migration" if:
->   - (i) A Regional subsidy program is tailored to encourage relocation to specific other Regions;
->   - (ii) The program disproportionately affects electoral outcomes in target Regions;
->   - (iii) The program lacks legitimate economic development purpose beyond electoral impact.
+>
+> - (i) A Regional subsidy program is tailored to encourage relocation to specific other Regions;
+> - (ii) The program disproportionately affects electoral outcomes in target Regions;
+> - (iii) The program lacks legitimate economic development purpose beyond electoral impact.
 >
 > (b) **Prohibited Subsidy Structures.** Regions may not:
->   - (i) Condition economic benefits on relocating to specific Regions;
->   - (ii) Target subsidies to residents moving to electorally competitive Regions;
->   - (iii) Coordinate with political organizations to promote strategic relocation.
+>
+> - (i) Condition economic benefits on relocating to specific Regions;
+> - (ii) Target subsidies to residents moving to electorally competitive Regions;
+> - (iii) Coordinate with political organizations to promote strategic relocation.
 >
 > (c) **Subsidy Suspension.** Upon Strategic Migration finding:
->   - (i) The offending subsidy program is suspended;
->   - (ii) Recipients may keep benefits already received;
->   - (iii) The Region may not reestablish substantially similar programs.
+>
+> - (i) The offending subsidy program is suspended;
+> - (ii) Recipients may keep benefits already received;
+> - (iii) The Region may not reestablish substantially similar programs.
 
 **Design Rationale:**
+
 - ARB finding authority provides detection
 - Specific prohibitions close gaming vectors
 - Suspension provides immediate remedy
@@ -1479,21 +1566,25 @@ Article XX grants representation to DC and Territories with Regional assignment.
 **Part 2: Organic Movement Protection (Article VII-RF, Section 5(d-f))**
 
 > (d) **Protected Movement.** This section does not prohibit:
->   - (i) General economic development subsidies available to all residents;
->   - (ii) Relocation assistance for employment opportunities;
->   - (iii) Natural migration patterns resulting from economic conditions.
+>
+> - (i) General economic development subsidies available to all residents;
+> - (ii) Relocation assistance for employment opportunities;
+> - (iii) Natural migration patterns resulting from economic conditions.
 >
 > (e) **Electoral Impact Assessment.** Programs exceeding $100 million:
->   - (i) Shall include electoral impact assessment;
->   - (ii) Assessment shall be reviewed by the National Election Court;
->   - (iii) Programs with primary electoral purpose are prohibited.
+>
+> - (i) Shall include electoral impact assessment;
+> - (ii) Assessment shall be reviewed by the National Election Court;
+> - (iii) Programs with primary electoral purpose are prohibited.
 >
 > (f) **Whistleblower Protection.** Persons who report strategic migration programs:
->   - (i) Are protected from Regional retaliation;
->   - (ii) May receive awards from program funds recovered;
->   - (iii) May report anonymously to the ARB.
+>
+> - (i) Are protected from Regional retaliation;
+> - (ii) May receive awards from program funds recovered;
+> - (iii) May report anonymously to the ARB.
 
 **Design Rationale:**
+
 - Protected movement preserves legitimate programs
 - Electoral impact assessment catches large programs
 - Whistleblower protection encourages reporting
@@ -1511,6 +1602,7 @@ Article XX grants representation to DC and Territories with Regional assignment.
 | Electoral Impact Assessment | Large program screening | Axiom 8 (Transparency) |
 
 **Relationship to Other Gaps:**
+
 - **Gap 93 (Race to Bottom Subsidies):** Industry poaching; Gap 117 addresses voter poaching
 - **Gap 54 (Electoral Manipulation):** Election integrity; Gap 117 addresses migration-based manipulation
 - **Gap 98 (Credentialing Warfare):** Human capital extraction; Gap 117 addresses voter extraction
@@ -1558,41 +1650,45 @@ The Allocation Review Board (ARB) consists of nine members: three appointed by t
 **Part 1: Partisan Balance Requirement (Article II-RF, Section 5(a))**
 
 > (a) **Composition and Balance.** The Allocation Review Board shall consist of nine (9) members:
->   - (i) Three appointed by the President;
->   - (ii) Three appointed by the Regional Governors collectively;
->   - (iii) Three appointed by the Chief Justice;
->   - (iv) **No more than five (5) members may be affiliated with the same political party;**
->   - (v) **Members must represent at least five (5) different Regions.**
+>
+> - (i) Three appointed by the President;
+> - (ii) Three appointed by the Regional Governors collectively;
+> - (iii) Three appointed by the Chief Justice;
+> - (iv) **No more than five (5) members may be affiliated with the same political party;**
+> - (v) **Members must represent at least five (5) different Regions.**
 
 ---
 
 **Part 2: Staggered Terms and Holdover Protection (Article II-RF, Section 5(b))**
 
 > (b) **Staggered Terms and Independence.**
->   - (i) Members shall serve staggered nine-year terms, with one seat from each appointment category expiring every three years;
->   - (ii) Members may not be removed except for cause (incapacity, malfeasance, or conviction);
->   - (iii) Holdover members continue serving until successor is confirmed;
->   - (iv) No appointing authority may have more than two pending vacancies simultaneously.
+>
+> - (i) Members shall serve staggered nine-year terms, with one seat from each appointment category expiring every three years;
+> - (ii) Members may not be removed except for cause (incapacity, malfeasance, or conviction);
+> - (iii) Holdover members continue serving until successor is confirmed;
+> - (iv) No appointing authority may have more than two pending vacancies simultaneously.
 
 ---
 
 **Part 3: Supermajority for Boundary Expansions (Article II-RF, Section 5(c))**
 
 > (c) **Decision Thresholds.**
->   - (i) Routine administrative matters: Simple majority;
->   - (ii) Boundary determinations maintaining status quo: Simple majority;
->   - (iii) **Boundary determinations expanding federal or Regional power beyond historical baseline: Seven (7) of nine (9) members;**
->   - (iv) **Constitutional pre-clearance for novel powers: Unanimous consent.**
+>
+> - (i) Routine administrative matters: Simple majority;
+> - (ii) Boundary determinations maintaining status quo: Simple majority;
+> - (iii) **Boundary determinations expanding federal or Regional power beyond historical baseline: Seven (7) of nine (9) members;**
+> - (iv) **Constitutional pre-clearance for novel powers: Unanimous consent.**
 
 ---
 
 **Part 4: Minority Region Appeal Right (Article II-RF, Section 5(d))**
 
 > (d) **Minority Region Protection.**
->   - (i) Any Region adversely affected by an ARB boundary determination may appeal directly to the Supreme Court;
->   - (ii) Appeals under this section receive de novo review of both legal and factual findings;
->   - (iii) The Supreme Court may vacate ARB determinations that reflect partisan capture rather than neutral arbitration;
->   - (iv) Pattern of partisan voting by ARB members is admissible evidence of capture.
+>
+> - (i) Any Region adversely affected by an ARB boundary determination may appeal directly to the Supreme Court;
+> - (ii) Appeals under this section receive de novo review of both legal and factual findings;
+> - (iii) The Supreme Court may vacate ARB determinations that reflect partisan capture rather than neutral arbitration;
+> - (iv) Pattern of partisan voting by ARB members is admissible evidence of capture.
 
 ---
 
@@ -1608,6 +1704,7 @@ The Allocation Review Board (ARB) consists of nine members: three appointed by t
 | De Novo Review | Factual finding shield | Axiom 1 (Assume Bad Faith) |
 
 **Relationship to Other Gaps:**
+
 - **Gap 90 (Senate Blue-Slipping):** Appointment obstruction; Gap 120 addresses appointment capture
 - **Gap 114 (Technocratic Rulemaking):** ARB scope creep; Gap 120 addresses ARB partisan capture
 - **Gap 44 (Referee Defunding):** Institutional independence; Gap 120 addresses compositional independence
@@ -1655,30 +1752,33 @@ Article II, Section 5(f) provides that ARB decisions are "final on factual matte
 **Part 1: Mixed Question Definition (Article II-RF, Section 5(f))**
 
 > (f) **Scope of Review.**
->   - (i) ARB decisions on purely factual matters (population counts, geographic measurements, economic data) shall be final;
->   - (ii) **"Mixed Questions" of law and fact—any factual finding that is determinative of a constitutional boundary—shall be subject to de novo review by the Supreme Court;**
->   - (iii) The ARB shall explicitly identify whether each finding is purely factual or constitutionally determinative;
->   - (iv) Failure to identify a finding as mixed question creates presumption of Supreme Court reviewability.
+>
+> - (i) ARB decisions on purely factual matters (population counts, geographic measurements, economic data) shall be final;
+> - (ii) **"Mixed Questions" of law and fact—any factual finding that is determinative of a constitutional boundary—shall be subject to de novo review by the Supreme Court;**
+> - (iii) The ARB shall explicitly identify whether each finding is purely factual or constitutionally determinative;
+> - (iv) Failure to identify a finding as mixed question creates presumption of Supreme Court reviewability.
 
 ---
 
 **Part 2: Constitutional Determination Standard (Article II-RF, Section 5(g))**
 
 > (g) **Constitutional Determination Standard.**
->   - (i) A factual finding is "constitutionally determinative" if it directly establishes or denies a governmental power;
->   - (ii) Findings regarding "administrative capacity," "historical practice," or "functional equivalence" are presumptively constitutionally determinative;
->   - (iii) The Supreme Court, not the ARB, determines whether a finding is constitutionally determinative;
->   - (iv) ARB may not use factual characterization to avoid Supreme Court review of boundary disputes.
+>
+> - (i) A factual finding is "constitutionally determinative" if it directly establishes or denies a governmental power;
+> - (ii) Findings regarding "administrative capacity," "historical practice," or "functional equivalence" are presumptively constitutionally determinative;
+> - (iii) The Supreme Court, not the ARB, determines whether a finding is constitutionally determinative;
+> - (iv) ARB may not use factual characterization to avoid Supreme Court review of boundary disputes.
 
 ---
 
 **Part 3: Transparency and Challenge Procedure (Article II-RF, Section 5(h))**
 
 > (h) **Challenge Procedure.**
->   - (i) Any party may challenge ARB's characterization of a finding as "purely factual" within fourteen (14) days;
->   - (ii) Challenges are resolved by the Supreme Court on an expedited basis;
->   - (iii) If the Supreme Court determines a finding was improperly characterized, the entire ARB decision is subject to de novo review;
->   - (iv) Pattern of improper characterization may be referred to the Judicial Conduct Board.
+>
+> - (i) Any party may challenge ARB's characterization of a finding as "purely factual" within fourteen (14) days;
+> - (ii) Challenges are resolved by the Supreme Court on an expedited basis;
+> - (iii) If the Supreme Court determines a finding was improperly characterized, the entire ARB decision is subject to de novo review;
+> - (iv) Pattern of improper characterization may be referred to the Judicial Conduct Board.
 
 ---
 
@@ -1694,6 +1794,7 @@ Article II, Section 5(f) provides that ARB decisions are "final on factual matte
 | Referral Authority | Systematic abuse | Axiom 1 (Assume Bad Faith) |
 
 **Relationship to Other Gaps:**
+
 - **Gap 120 (ARB Majoritarian Capture):** Compositional capture; Gap 121 addresses procedural capture
 - **Gap 114 (Technocratic Rulemaking):** Scope creep; Gap 121 addresses review avoidance
 - **Gap 95 (Certification Deadlock):** Judicial bypass; Gap 121 addresses ARB bypass of Supreme Court
@@ -1744,30 +1845,33 @@ The National Election Court (NEC) is the final arbiter for election disputes. Wh
 **Part 1: NEC Budget Floor (Article XIV-RF, Section 5(a))**
 
 > (a) **National Election Court Operational Budget.**
->   - (i) The National Election Court's investigative and audit divisions shall receive a dedicated budget set as a fixed percentage of federal revenue, not less than 0.05%;
->   - (ii) This budget may not be reduced by statute, appropriations rider, or executive action;
->   - (iii) The NEC Chief Judge shall have sole authority over allocation of operational funds within the Court;
->   - (iv) Unspent funds carry over to subsequent fiscal years.
+>
+> - (i) The National Election Court's investigative and audit divisions shall receive a dedicated budget set as a fixed percentage of federal revenue, not less than 0.05%;
+> - (ii) This budget may not be reduced by statute, appropriations rider, or executive action;
+> - (iii) The NEC Chief Judge shall have sole authority over allocation of operational funds within the Court;
+> - (iv) Unspent funds carry over to subsequent fiscal years.
 
 ---
 
 **Part 2: Staffing Minimums (Article XIV-RF, Section 5(b))**
 
 > (b) **Investigative Capacity Minimums.**
->   - (i) The NEC shall maintain investigative staff sufficient to conduct simultaneous investigations in all seven Regions;
->   - (ii) Minimum staffing levels shall be certified annually by the Government Accountability Office;
->   - (iii) If staffing falls below certified minimums, the NEC may contract with federal law enforcement agencies for investigative support;
->   - (iv) Salary scales for NEC technical staff shall be competitive with comparable federal law enforcement positions.
+>
+> - (i) The NEC shall maintain investigative staff sufficient to conduct simultaneous investigations in all seven Regions;
+> - (ii) Minimum staffing levels shall be certified annually by the Government Accountability Office;
+> - (iii) If staffing falls below certified minimums, the NEC may contract with federal law enforcement agencies for investigative support;
+> - (iv) Salary scales for NEC technical staff shall be competitive with comparable federal law enforcement positions.
 
 ---
 
 **Part 3: Emergency Investigative Authority (Article XIV-RF, Section 5(c))**
 
 > (c) **Emergency Investigative Authority.**
->   - (i) During election dispute periods (60 days before through 30 days after certification), the NEC may requisition investigative resources from the FBI, Secret Service, and Postal Inspection Service;
->   - (ii) Requisitioned personnel operate under NEC direction for the duration of the dispute;
->   - (iii) No agency may refuse requisition absent certification that compliance would compromise ongoing national security operations;
->   - (iv) The NEC may engage private forensic experts on emergency contracts without standard procurement requirements.
+>
+> - (i) During election dispute periods (60 days before through 30 days after certification), the NEC may requisition investigative resources from the FBI, Secret Service, and Postal Inspection Service;
+> - (ii) Requisitioned personnel operate under NEC direction for the duration of the dispute;
+> - (iii) No agency may refuse requisition absent certification that compliance would compromise ongoing national security operations;
+> - (iv) The NEC may engage private forensic experts on emergency contracts without standard procurement requirements.
 
 ---
 
@@ -1783,6 +1887,7 @@ The National Election Court (NEC) is the final arbiter for election disputes. Wh
 | Competitive Salaries | Expertise drain | Axiom 1 (Assume Bad Faith) |
 
 **Relationship to Other Gaps:**
+
 - **Gap 87 (Referee Defunding):** Oversight body funding; Gap 130 specifically addresses NEC operational capacity
 - **Gap 95 (Certification Deadlock):** Election judicial bypass; Gap 130 addresses NEC capacity to adjudicate
 - **Gap 44 (Referee Capture):** Institutional independence; Gap 130 addresses operational independence
@@ -1833,44 +1938,48 @@ The system relies on "Expedited Review" (Article XIV) to resolve constitutional 
 **Part 1: Omnibus Consolidation Authority (Article XIV-RF, Section 6(a))**
 
 > (a) **Mandatory Consolidation.**
->   - (i) The Supreme Court and ARB may consolidate repetitive or coordinated challenges into "Omnibus Proceedings" that bypass normal docketing;
->   - (ii) Consolidation may occur sua sponte or upon motion by any party;
->   - (iii) Challenges are "coordinated" if they:
+>
+> - (i) The Supreme Court and ARB may consolidate repetitive or coordinated challenges into "Omnibus Proceedings" that bypass normal docketing;
+> - (ii) Consolidation may occur sua sponte or upon motion by any party;
+> - (iii) Challenges are "coordinated" if they:
 >     - (A) Arise from the same federal action or policy;
 >     - (B) Assert substantially similar claims;
 >     - (C) Are filed within the same 90-day period; OR
 >     - (D) Are funded or organized by common parties;
->   - (iv) Omnibus rulings bind all consolidated parties and similarly situated non-parties.
+> - (iv) Omnibus rulings bind all consolidated parties and similarly situated non-parties.
 
 ---
 
 **Part 2: Vexatious Litigation Finding (Article XIV-RF, Section 6(b))**
 
 > (b) **Docket Clogging Determination.**
->   - (i) The ARB may find that a jurisdiction is engaged in "Coordinated Docket Clogging";
->   - (ii) "Docket Clogging" means a pattern of litigation designed to overwhelm judicial capacity rather than obtain legitimate relief;
->   - (iii) Indicators include: volume disproportionate to actual grievances, rapid filing and dismissal cycles, common funding sources, and explicit coordination communications;
->   - (iv) Finding requires clear and convincing evidence.
+>
+> - (i) The ARB may find that a jurisdiction is engaged in "Coordinated Docket Clogging";
+> - (ii) "Docket Clogging" means a pattern of litigation designed to overwhelm judicial capacity rather than obtain legitimate relief;
+> - (iii) Indicators include: volume disproportionate to actual grievances, rapid filing and dismissal cycles, common funding sources, and explicit coordination communications;
+> - (iv) Finding requires clear and convincing evidence.
 
 ---
 
 **Part 3: Standing Suspension (Article XIV-RF, Section 6(c))**
 
 > (c) **Vexatious Jurisdiction Sanctions.**
->   - (i) Jurisdictions found to be engaged in coordinated docket clogging shall have their standing to challenge federal actions suspended for one hundred eighty (180) days;
->   - (ii) During suspension, the jurisdiction may not file new suits against federal actions;
->   - (iii) Pending suits from suspended jurisdictions are stayed;
->   - (iv) Suspension does not affect private parties' independent standing.
+>
+> - (i) Jurisdictions found to be engaged in coordinated docket clogging shall have their standing to challenge federal actions suspended for one hundred eighty (180) days;
+> - (ii) During suspension, the jurisdiction may not file new suits against federal actions;
+> - (iii) Pending suits from suspended jurisdictions are stayed;
+> - (iv) Suspension does not affect private parties' independent standing.
 
 ---
 
 **Part 4: Expedited Timeline Preservation (Article XIV-RF, Section 6(d))**
 
 > (d) **Timeline Integrity.**
->   - (i) Coordinated litigation attacks shall not extend expedited review timelines for legitimate disputes;
->   - (ii) Courts may summarily dismiss suits that are substantially identical to consolidated Omnibus Proceedings;
->   - (iii) Attorneys who file suits found to be part of docket clogging schemes are subject to sanctions and bar referral;
->   - (iv) The Judicial Conference shall maintain surge capacity to address coordinated litigation attacks.
+>
+> - (i) Coordinated litigation attacks shall not extend expedited review timelines for legitimate disputes;
+> - (ii) Courts may summarily dismiss suits that are substantially identical to consolidated Omnibus Proceedings;
+> - (iii) Attorneys who file suits found to be part of docket clogging schemes are subject to sanctions and bar referral;
+> - (iv) The Judicial Conference shall maintain surge capacity to address coordinated litigation attacks.
 
 ---
 
@@ -1887,6 +1996,7 @@ The system relies on "Expedited Review" (Article XIV) to resolve constitutional 
 | Surge Capacity | Volume overwhelm | Axiom 7 (Law Moves Faster) |
 
 **Relationship to Other Gaps:**
+
 - **Gap 130 (NEC Capacity Freeze):** Investigative capacity; Gap 145 addresses judicial capacity
 - **Gap 53 (Interpretive Nullification):** Judicial delay; Gap 145 addresses coordinated delay
 - **Gap 73 (Jurisdictional Ping-Pong):** Forum gaming; Gap 145 addresses volume gaming
@@ -1983,6 +2093,7 @@ Amend Article XIV-RF (Judicial Branch) to add:
 | Status quo preservation | Neither party gains advantage from delay |
 
 **Relationship to Other Gaps:**
+
 - **Gap 53 (Interpretive Nullification):** Judicial delay; Gap 154 addresses procedural delay tactics
 - **Gap 73 (Jurisdictional Ping-Pong):** Forum gaming; Gap 154 addresses volume gaming
 - **Gap 145 (Coordinated Judicial Attack):** Multi-jurisdiction challenge; Gap 154 addresses coordinated filing
@@ -2551,12 +2662,14 @@ Add to Article III (The Judiciary), Section 2:
 The Constitution grants state/Regional legislatures authority over the "manner" of appointing Presidential electors. Modern actors have attempted to convert this procedural authority into substantive power to override election results. Without explicit prohibition, a Regional Legislature that dislikes how their citizens voted can refuse to certify results or send an "alternate slate" of electors.
 
 **The Constitutional Gap**:
+
 - Article II, Section 1: "Each State shall appoint, in such Manner as the Legislature thereof may direct, a Number of Electors..."
 - This language has been interpreted by some to mean legislatures have plenary power over elector selection
 - The "Independent State Legislature" theory argues legislatures can override popular vote
 - No constitutional text explicitly makes certification ministerial (mandatory)
 
 **The Attack Vector**:
+
 1. Region conducts election; Candidate A wins by certified vote count
 2. Regional Legislature dislikes result; alleges "fraud" without evidence
 3. Legislature refuses to certify results or sends "alternate slate" for Candidate B
@@ -2625,21 +2738,25 @@ Add to Article VII-RF, Section 4 — Electoral Certification Integrity:
 ### Design Rationale
 
 **Ministerial vs. Discretionary**:
+
 - Certification is clerical: verify the count, sign the paper
 - No substantive judgment involved once canvass is complete
 - Removing discretion removes the attack vector
 
 **Judicial Exclusivity**:
+
 - Fraud claims go to courts, not legislatures
 - Courts require evidence; legislatures require only votes
 - Prevents political process from overriding judicial determination
 
 **Criminal Penalties**:
+
 - Personal liability deters individual officials
 - Federal felony prevents state-level protection
 - Future office bar creates lasting consequence
 
 **Federal Backstop**:
+
 - If state/Regional officials fail, federal body certifies
 - Uses official canvass (not alternate count)
 - Prevents certification gap from enabling legislative override
@@ -2653,6 +2770,7 @@ Add to Article VII-RF, Section 4 — Electoral Certification Integrity:
 ### Risk Assessment
 
 **Without Fix**:
+
 - Elections become advisory; legislatures have final say
 - "Independent State Legislature" theory enables election nullification
 - 2020 attack becomes standard operating procedure
@@ -2660,6 +2778,7 @@ Add to Article VII-RF, Section 4 — Electoral Certification Integrity:
 - Constitutional crisis every contested election
 
 **With Fix**:
+
 - Certification is mandatory ministerial duty
 - Legislatures cannot override popular vote
 - Disputes resolved through courts with evidentiary requirements
@@ -2694,12 +2813,14 @@ Add to Article VII-RF, Section 4 — Electoral Certification Integrity:
 The Constitution guarantees "Republican Form of Government" but doesn't explicitly limit voting to natural persons. A Region seeking to attract corporate investment could grant corporations voting rights based on property ownership or tax contribution.
 
 **The Constitutional Gap**:
+
 - "Republican Form of Government" clause is non-justiciable (*Luther v. Borden*)
 - No explicit "natural person" voting requirement in constitutional text
 - Regions control election laws within their territory
 - *Citizens United* expanded corporate "speech" rights; voting could follow
 
 **The Attack Vector**:
+
 1. Region passes "Stakeholder Democracy Act": property tax payers get votes proportional to taxes paid
 2. Corporations (via property ownership) receive voting rights
 3. Shell companies multiply corporate votes
@@ -2709,6 +2830,7 @@ The Constitution guarantees "Republican Form of Government" but doesn't explicit
 7. "Republican Form of Government" destroyed through technical compliance
 
 **Historical Precedent**:
+
 - Property requirements for voting existed until 19th century
 - Corporate "boroughs" in pre-reform England controlled Parliament
 - *Santa Clara County v. Southern Pacific Railroad* (1886) established corporate personhood
@@ -2781,21 +2903,25 @@ Add to Article VII-RF, Section 2 — Natural Person Guarantee:
 ### Design Rationale
 
 **Explicit Natural Person Requirement**:
+
 - Makes implicit assumption explicit
 - Prevents future corporate voting arguments
 - Closes *Citizens United* voting extension
 
 **Comprehensive Entity List**:
+
 - Covers all known entity types
 - Includes forward-looking AI prohibition
 - No definitional loopholes
 
 **Weighted Voting Ban**:
+
 - Closes property/tax-based voting gaming
 - One person, one vote codified
 - Prevents plutocratic capture
 
 **Special District Fix**:
+
 - Addresses existing corporate-controlled districts
 - Requires democratic accountability
 - Prevents shadow government
@@ -2809,6 +2935,7 @@ Add to Article VII-RF, Section 2 — Natural Person Guarantee:
 ### Risk Assessment
 
 **Without Fix**:
+
 - Regions can grant corporations voting rights
 - Wealthy entities accumulate political power through votes
 - Shell company proliferation multiplies corporate votes
@@ -2817,6 +2944,7 @@ Add to Article VII-RF, Section 2 — Natural Person Guarantee:
 - Constitutional legitimacy destroyed through technical compliance
 
 **With Fix**:
+
 - Voting explicitly limited to natural persons
 - Corporate personhood does not extend to franchise
 - One person, one vote protected at all levels
@@ -2982,33 +3110,39 @@ Add to Article I-RF (Regional Governance), Section 5:
 ### Design Rationale
 
 **Independent Commission Mandate**:
+
 - Removes politicians from drawing their own districts
 - Multipartisan composition prevents single-party capture
 - Random selection from pools reduces gaming of appointments
 - Conflict-of-interest rules exclude those with direct stakes
 
 **Prioritized Criteria with Partisan Fairness**:
+
 - Clear hierarchy resolves conflicts between competing criteria
 - Partisan fairness as explicit criterion (unlike most current systems)
 - Quantitative metrics provide objective standards
 - VRA compliance maintained as high priority
 
 **Supermajority Approval**:
+
 - Requires cross-partisan agreement
 - Prevents majority party from imposing maps
 - Fallback to judicial review if deadlock
 
 **Transparency Requirements**:
+
 - Public process reduces backroom dealing
 - Public comment ensures community input
 - Publicly available tools enable verification
 
 **Decennial Limitation**:
+
 - Ends mid-decade gerrymandering
 - Stability for voters and candidates
 - Court orders still allow necessary corrections
 
 **Prison Population Fix**:
+
 - Ends "prison gerrymandering" distortion
 - Prisoners counted where they actually live
 - Representation reflects actual communities
@@ -3024,6 +3158,7 @@ Add to Article I-RF (Regional Governance), Section 5:
 ### Risk Assessment
 
 **Without Fix**:
+
 - Regional governments gerrymander federal House districts
 - House majority determined by map-drawing, not voting
 - Federal legislative capture by minority through redistricting
@@ -3032,6 +3167,7 @@ Add to Article I-RF (Regional Governance), Section 5:
 - No self-correction mechanism once capture achieved
 
 **With Fix**:
+
 - Independent commissions remove partisan control over redistricting
 - Partisan fairness criteria ensure representative outcomes
 - Transparency enables public verification
@@ -3112,37 +3248,37 @@ Life tenure was designed when life expectancy was ~40 years. Justices served ave
 >
 > **(d) Early Departure.** If a Justice departs before term completion:
 >
->   - (1) the successor serves only the remainder of the departed Justice's term;
->   - (2) terms of less than 9 years do not count toward the one-term limit;
->   - (3) the replacement appointment follows the same nomination and confirmation process.
+> - (1) the successor serves only the remainder of the departed Justice's term;
+> - (2) terms of less than 9 years do not count toward the one-term limit;
+> - (3) the replacement appointment follows the same nomination and confirmation process.
 >
 > **(e) Senior Justice Status.** Upon completion of the 18-year term, a Justice:
 >
->   - (1) assumes "Senior Justice" status on federal circuit courts;
->   - (2) may sit by designation on lower federal courts;
->   - (3) receives full salary and benefits for life;
->   - (4) may not return to the Supreme Court except as temporary substitute for recused Justice.
+> - (1) assumes "Senior Justice" status on federal circuit courts;
+> - (2) may sit by designation on lower federal courts;
+> - (3) receives full salary and benefits for life;
+> - (4) may not return to the Supreme Court except as temporary substitute for recused Justice.
 >
 > **(f) Transition.** Upon ratification:
 >
->   - (1) current Justices retain their seats until death, retirement, or removal;
->   - (2) the next vacancy triggers the 18-year term system;
->   - (3) staggering is achieved by adjusting initial terms so vacancies align with odd years;
->   - (4) during transition, no Justice may be appointed with term exceeding 18 years.
+> - (1) current Justices retain their seats until death, retirement, or removal;
+> - (2) the next vacancy triggers the 18-year term system;
+> - (3) staggering is achieved by adjusting initial terms so vacancies align with odd years;
+> - (4) during transition, no Justice may be appointed with term exceeding 18 years.
 >
 > **(g) Regional Diversity Preserved.** The Regional Diversity requirement for Supreme Court composition (Article III-RF, Section 1) remains in effect. The 18-year term ensures each Region's seat rotates more frequently than under life tenure.
 >
 > **(h) Chief Justice.** The Chief Justice:
 >
->   - (1) is designated by the President from among sitting Justices;
->   - (2) serves as Chief until the end of their 18-year term;
->   - (3) a new Chief is designated upon the prior Chief's departure.
+> - (1) is designated by the President from among sitting Justices;
+> - (2) serves as Chief until the end of their 18-year term;
+> - (3) a new Chief is designated upon the prior Chief's departure.
 >
 > **(i) Incapacity.** If a Justice becomes incapacitated:
 >
->   - (1) incapacity is determined by the Judicial Conference of the United States;
->   - (2) an incapacitated Justice is deemed to have vacated the seat;
->   - (3) the incapacitated Justice assumes Senior Justice status with full benefits.
+> - (1) incapacity is determined by the Judicial Conference of the United States;
+> - (2) an incapacitated Justice is deemed to have vacated the seat;
+> - (3) the incapacitated Justice assumes Senior Justice status with full benefits.
 
 #### Design Rationale
 
@@ -3232,6 +3368,7 @@ The Constitution establishes that we vote, but not *how we count*. If you use "F
 **The Attack Vector**: Without constitutional specification of voting method, FPTP becomes the default. FPTP mathematically guarantees the two-party system that creates most of America's democratic pathologies.
 
 **The "It's Just Tradition" Defense**:
+
 - FPTP is not mentioned anywhere in the Constitution
 - It was adopted by states copying British practice
 - The Founders did not anticipate mass party systems
@@ -3256,52 +3393,52 @@ The Constitution establishes that we vote, but not *how we count*. If you use "F
 >
 > **(b) Ranked Choice Voting.** To ensure majority support, all Federal elections shall utilize Ranked Choice Voting (Instant Runoff) whereby:
 >
->   - (1) voters rank candidates by preference (first choice, second choice, etc.);
->   - (2) if no candidate achieves a majority of first-choice votes, the candidate with the fewest first-choice votes is eliminated;
->   - (3) ballots cast for the eliminated candidate are redistributed to voters' next-ranked choice;
->   - (4) this process repeats until one candidate achieves a majority of remaining active ballots.
+> - (1) voters rank candidates by preference (first choice, second choice, etc.);
+> - (2) if no candidate achieves a majority of first-choice votes, the candidate with the fewest first-choice votes is eliminated;
+> - (3) ballots cast for the eliminated candidate are redistributed to voters' next-ranked choice;
+> - (4) this process repeats until one candidate achieves a majority of remaining active ballots.
 >
 > **(c) Ballot Exhaustion.** A ballot is "exhausted" and removed from the count only when:
 >
->   - (1) all candidates ranked on that ballot have been eliminated; or
->   - (2) the voter explicitly chose to rank fewer candidates than remain in the count.
+> - (1) all candidates ranked on that ballot have been eliminated; or
+> - (2) the voter explicitly chose to rank fewer candidates than remain in the count.
 >
 > Voters shall be encouraged but not required to rank all candidates.
 >
 > **(d) Multi-Member Districts.** For legislative bodies using multi-member districts:
 >
->   - (1) Single Transferable Vote (STV) shall be used;
->   - (2) the threshold for election shall be calculated by the Droop quota;
->   - (3) surplus votes shall be transferred proportionally to next-ranked candidates.
+> - (1) Single Transferable Vote (STV) shall be used;
+> - (2) the threshold for election shall be calculated by the Droop quota;
+> - (3) surplus votes shall be transferred proportionally to next-ranked candidates.
 >
 > **(e) Application.** This section applies to:
 >
->   - (1) all elections for President and Vice President (after Regional tallying per Article VII);
->   - (2) all elections for the House of Representatives;
->   - (3) all elections for the Senate;
->   - (4) all Regional elections for offices with Federal significance as defined by Congress.
+> - (1) all elections for President and Vice President (after Regional tallying per Article VII);
+> - (2) all elections for the House of Representatives;
+> - (3) all elections for the Senate;
+> - (4) all Regional elections for offices with Federal significance as defined by Congress.
 >
 > **(f) Regional Implementation.** Regions shall:
 >
->   - (1) implement ballot designs that clearly explain ranking;
->   - (2) provide voter education on the ranking system;
->   - (3) use tabulation systems certified by the Election Administration Agency;
->   - (4) complete tabulation within 14 days of election day.
+> - (1) implement ballot designs that clearly explain ranking;
+> - (2) provide voter education on the ranking system;
+> - (3) use tabulation systems certified by the Election Administration Agency;
+> - (4) complete tabulation within 14 days of election day.
 >
 > **(g) Ballot Integrity.** Physical ballots supporting ranked choice tabulation shall be retained for 22 months and be available for audit. Electronic tabulation systems shall produce paper audit trails showing each round of elimination.
 >
 > **(h) Transition.** This section takes effect for Federal elections beginning two years after ratification, allowing time for:
 >
->   - (1) voter education campaigns;
->   - (2) ballot redesign and equipment certification;
->   - (3) tabulation system implementation;
->   - (4) training of election officials.
+> - (1) voter education campaigns;
+> - (2) ballot redesign and equipment certification;
+> - (3) tabulation system implementation;
+> - (4) training of election officials.
 >
 > **(i) Primary Elections.** Party primaries for Federal offices:
 >
->   - (1) may use Ranked Choice Voting;
->   - (2) if conducted as open primaries, shall use Ranked Choice Voting;
->   - (3) shall not use FPTP for open primaries selecting candidates for Federal office.
+> - (1) may use Ranked Choice Voting;
+> - (2) if conducted as open primaries, shall use Ranked Choice Voting;
+> - (3) shall not use FPTP for open primaries selecting candidates for Federal office.
 >
 > **(j) Prohibition of First-Past-the-Post.** The "winner-take-all" or "first-past-the-post" method, whereby the candidate with the most votes wins regardless of majority support, is hereby prohibited for Federal elections.
 
@@ -3332,6 +3469,7 @@ The Constitution establishes that we vote, but not *how we count*. If you use "F
 **Duverger's Law Reversed**:
 
 The mathematical logic is straightforward:
+
 - FPTP → voting for third parties is "wasted" → voters strategically abandon third parties → two parties
 - RCV → voting for third parties is not wasted → voters express true preferences → multiple viable parties
 
@@ -3569,6 +3707,234 @@ Add to Article I-RF, Section 12 — Ultimate Beneficiary Disclosure:
 **PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article I-RF, Section 12.
 
 **Severity:** Critical | **Mitigability:** Preventable
+
+---
+
+## Gap 262 — The "Negative Right" Loophole (The Missing Right to Vote)
+
+**Identified**: 2026-01-26
+**Category**: Electoral Systems / Voting Rights
+**Criticality**: 🔴 **CRITICAL**
+**Status**: UNRESOLVED
+
+### Problem Statement
+
+#### The Constitution That Never Actually Grants the Right to Vote
+
+The U.S. Constitution does not contain an affirmative right to vote. It only lists reasons you *cannot* be denied the vote: race (15th Amendment), sex (19th Amendment), age over 18 (26th Amendment), failure to pay poll tax (24th Amendment). This "negative rights" framing creates a massive loophole: any restriction not explicitly prohibited is constitutionally permissible.
+
+**The Attack Vector**:
+
+1. Region passes law: "You cannot vote without a specific $50 government-issued photo ID"
+2. Challenge filed: "This disenfranchises poor citizens"
+3. Court rules: "The Constitution doesn't grant a right to vote; it only prohibits certain *reasons* for denial. This isn't based on race or sex."
+4. Region adds: "You cannot vote with unpaid court fines" (11 million Americans affected)
+5. Region adds: "You cannot vote without completing 'civic education' course"
+6. **Each restriction survives because no affirmative voting right exists**
+7. Voting becomes a privilege for the compliant, not a right of the citizen
+8. Bureaucratic attrition replaces explicit disenfranchisement
+
+**Current Disenfranchisement Methods (All Constitutional)**:
+
+| Restriction | Affected Population | Constitutional Basis |
+|-------------|---------------------|----------------------|
+| **Felony disenfranchisement** | 4.6 million citizens | Not race/sex-based |
+| **Strict photo ID requirements** | Millions without ID | Not race/sex-based |
+| **Voter roll purges** | Millions removed | Administrative discretion |
+| **Limited polling hours** | Working poor | Not explicit denial |
+| **No same-day registration** | Mobile populations | Not explicit denial |
+| **Unpaid fines/fees** | 11+ million | *Jones v. DeSantis* — modern poll tax upheld |
+
+**The Founding Failure**:
+
+The Framers deliberately avoided an affirmative voting right, leaving franchise rules to states. In 1787, most states limited voting to white male property owners. The Constitution's "negative rights" approach was designed to preserve state control—which historically meant exclusion.
+
+**Comparative Gap**:
+
+| Country | Constitutional Voting Right |
+|---------|----------------------------|
+| **Germany** | "All German nationals who have attained the age of eighteen shall have the right to vote" (Art. 38) |
+| **France** | "Suffrage shall always be universal, equal and secret" (Art. 3) |
+| **South Africa** | "Every citizen has the right to vote in elections" (Section 19) |
+| **Brazil** | "Voting is direct, secret, universal and periodic" (Art. 14) |
+| **United States** | *No affirmative right* — only prohibitions on certain denials |
+
+### Current Constitutional Gap
+
+**What Exists**:
+
+- 15th Amendment: Cannot deny based on "race, color, or previous condition of servitude"
+- 19th Amendment: Cannot deny based on "sex"
+- 24th Amendment: Cannot condition on "poll tax or other tax"
+- 26th Amendment: Cannot deny to citizens 18 or older based on age
+
+**What's Missing**: An affirmative statement that every citizen *has* the right to vote.
+
+**Result**: Courts apply "rational basis" review to most voting restrictions because no fundamental right is explicitly protected. Under rational basis, almost any state justification survives.
+
+**In Regional Federalism Context**: Without an affirmative right, Regions could develop radically different voting access—some with same-day registration and mail voting, others with strict ID requirements, short voting windows, and aggressive purges. Citizens' ability to participate in democracy would depend on where they live.
+
+### Gaming Vectors Identified
+
+1. **The "Administrative Burden" Gambit**
+   - Don't explicitly deny the vote
+   - Make registration require multiple trips, specific documents, specific days
+   - Create bureaucratic maze that discourages or prevents voting
+   - "We're not denying anyone the right to vote; we're just ensuring election integrity"
+
+2. **The "Indirect Disenfranchisement" Maneuver**
+   - Require payment of all court fines before voting
+   - Require completion of probation (including payment of fees)
+   - Felony disenfranchisement even after sentence served
+   - Convert inability to pay into loss of franchise
+
+3. **The "Identity Verification" Trap**
+   - Require specific ID types that poor/elderly citizens lack
+   - Make obtaining required ID expensive or difficult
+   - Accept some IDs (gun permits) but not others (student IDs)
+   - Claim "fraud prevention" while targeting specific demographics
+
+4. **The "Use It or Lose It" Purge**
+   - Remove voters who haven't voted in recent elections
+   - Fail to notify before removal
+   - Require re-registration to vote
+   - Suppress turnout through administrative erasure
+
+5. **The "Time and Place" Restriction**
+   - Limit early voting days and hours
+   - Reduce polling places in specific areas
+   - Create long lines that discourage voting
+   - Schedule elections on days when certain populations can't vote
+
+### Proposed Constitutional Fix
+
+#### Article I-RF, Section 16: The Universal Suffrage Guarantee
+
+> **(a) Affirmative Right to Vote.** Every citizen of the United Regions who has attained the age of eighteen years has a fundamental, affirmative right to vote in all Federal, Regional, and local elections.
+>
+> - (i) This right is inherent in citizenship and shall not require application, petition, or government permission beyond proof of citizenship, age, and residency.
+> - (ii) This right shall be protected with the same strict scrutiny applied to other fundamental constitutional rights.
+>
+> **(b) Prohibited Conditions.** The right to vote shall not be abridged, denied, or conditioned upon:
+>
+> - (i) payment of any fee, fine, tax, or financial obligation;
+> - (ii) possession of any specific identification document beyond reasonable proof of identity;
+> - (iii) completion of any test, course, or educational requirement;
+> - (iv) criminal conviction, except during actual incarceration for felony (restored automatically upon release);
+> - (v) failure to vote in previous elections;
+> - (vi) residence in any particular type of housing or lack of permanent address;
+> - (vii) any disability, physical or mental, that does not prevent expression of voter intent.
+>
+> **(c) Affirmative Facilitation.** Governments shall affirmatively facilitate the exercise of this right through:
+>
+> - (i) automatic voter registration upon reaching voting age or obtaining citizenship;
+> - (ii) same-day registration at any polling place for citizens not previously registered;
+> - (iii) multiple methods of voting including in-person, absentee, and mail options;
+> - (iv) sufficient polling places and hours to prevent unreasonable wait times;
+> - (v) accessible voting for citizens with disabilities.
+>
+> **(d) Anti-Dilution.** The right to vote includes the right to an equally weighted vote:
+>
+> - (i) population-based apportionment for all legislative bodies;
+> - (ii) prohibition on gerrymandering that dilutes the voting power of any group;
+> - (iii) the principle of "one person, one vote" applies to all elections.
+>
+> **(e) Strict Scrutiny.** Any law that burdens the right to vote:
+>
+> - (i) shall be subject to strict scrutiny;
+> - (ii) must serve a compelling governmental interest;
+> - (iii) must be narrowly tailored to achieve that interest;
+> - (iv) must be the least restrictive means available.
+>
+> **(f) Private Right of Action.** Any citizen whose voting rights are abridged may:
+>
+> - (i) bring suit in federal court for injunctive relief and damages;
+> - (ii) recover attorney fees if successful;
+> - (iii) proceed without first exhausting administrative remedies.
+>
+> **(g) Congressional Enforcement.** Congress shall have power to enforce this article by appropriate legislation, including:
+>
+> - (i) minimum national standards for voter registration and ballot access;
+> - (ii) oversight of Regional and local election administration;
+> - (iii) penalties for official interference with voting rights.
+
+### Design Rationale
+
+**Why Affirmative Right?**
+
+| Negative Rights Approach | Affirmative Rights Approach |
+|--------------------------|----------------------------|
+| Lists prohibited reasons for denial | Grants the right itself |
+| Any non-prohibited restriction survives | All restrictions face strict scrutiny |
+| Burden on citizen to prove discrimination | Burden on government to justify restriction |
+| Franchise depends on state generosity | Franchise is constitutional right |
+| Voting is a privilege | Voting is a right |
+
+**Why Automatic Registration?**
+
+- 70+ million eligible Americans are not registered
+- Registration burdens fall disproportionately on poor, mobile, young citizens
+- Automatic registration works in 20+ democracies
+- Government already has the data; should use it to facilitate voting
+
+**Why Restoration After Incarceration?**
+
+- 4.6 million citizens currently disenfranchised for past convictions
+- Disproportionately affects Black citizens (1 in 16 vs. 1 in 59 white citizens)
+- Lifetime disenfranchisement for completed sentences serves no penological purpose
+- Maine and Vermont allow voting even during incarceration
+- Right restored upon release maintains civic connection
+
+**Why Financial Condition Prohibition?**
+
+- *Jones v. DeSantis* (2020): Florida could require payment of fines before voting
+- This is a modern poll tax by another name
+- 11 million Americans owe court debt
+- Voting should never depend on wealth
+
+### Cross-Gap Interaction
+
+| Related Gap | Interaction |
+|-------------|-------------|
+| Gap 198 | Gerrymandering — affirmative voting right + anti-dilution = meaningful franchise |
+| Gap 238 | Duopoly Trap — universal suffrage + ranked choice = competitive elections |
+| Gap 189 | Certification Choke — right to vote meaningless if votes not counted |
+| Gap 196 | Corporate Citizen — voting is for citizens, not corporations |
+
+### Risk Assessment
+
+**Without Fix**:
+
+- No affirmative constitutional right to vote
+- Restrictions survive unless they're race/sex-based
+- "Rational basis" review for most voting laws
+- States can impose bureaucratic barriers with impunity
+- Voting becomes privilege dependent on state generosity
+- Regional Federalism could create voting apartheid between Regions
+
+**With Fix**:
+
+- Every citizen has a constitutional right to vote
+- Strict scrutiny for any restriction on that right
+- Automatic registration eliminates bureaucratic barriers
+- No financial conditions on franchise
+- Right restored automatically after incarceration
+- Private enforcement ensures accountability
+- Voting becomes what it should be: the fundamental right of citizenship
+
+### Implementation Priority
+
+**Tier**: P1 (Immediate)
+**Rationale**: The right to vote is the foundation of democracy; without it, all other rights are gifts revocable by those in power
+
+**Dependencies**: Works with Gap 198 (Gerrymandering) and Gap 238 (Duopoly Trap) for comprehensive electoral reform
+
+---
+
+**Status:**
+**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article I-RF, Section 16.
+
+**Severity:** Critical | **Mitigability:** Requires Constitutional Amendment
 
 ---
 

@@ -17,6 +17,7 @@
 **Federation:** Populations choose to merge into a single federal state with shared sovereignty, replacing two separate national governments with one federal government plus regional units.
 
 This is the most transformative end state, requiring:
+
 - Single federal citizenship
 - Single foreign policy
 - Single military (or unified command)
@@ -65,16 +66,19 @@ Federation requires the highest threshold of trust and stability:
 ### 2.2 Referendum Approval
 
 **Stage 1: Entry Referendum**
+
 - Approve Phase 3 entry (general)
 - Thresholds per [01-referenda-procedures.md](01-referenda-procedures.md)
 
 **Stage 2: End-State Referendum**
+
 - Choose federation among options
 - 70% participation threshold (highest)
 - 60% approval threshold
 - 40% community threshold in each community
 
 **Stage 3: Constitution Ratification**
+
 - Approve specific federal constitution text
 - 70% participation threshold
 - 60% approval threshold
@@ -83,6 +87,7 @@ Federation requires the highest threshold of trust and stability:
 ### 2.3 International Recognition
 
 Federation requires international recognition process:
+
 - UN membership (possibly as successor state to both)
 - Bilateral recognition from major powers
 - Treaty succession arrangements
@@ -91,6 +96,7 @@ Federation requires international recognition process:
 ### 2.4 Constitutional Convention
 
 **Mandatory Process:**
+
 - Bi-communal constitutional convention
 - Parity representation: equal delegates from each community
 - International facilitation required
@@ -106,42 +112,49 @@ Federation requires international recognition process:
 The federal constitution must include these provisions (cannot be excluded or amended away):
 
 **Equal Citizenship:**
+
 - All residents entitled to equal citizenship
 - No discrimination based on community origin
 - Equal voting rights in federal elections
 - Equal access to federal employment
 
 **Non-Discrimination:**
+
 - Constitutional prohibition on discrimination
 - Protected characteristics: community, religion, ethnicity, language
 - Affirmative action permitted to remedy historic disadvantage
 - Hate speech limitations
 
 **Right of Return:**
+
 - Both communities' members may return to ancestral areas
 - Practical limitations may apply (housing, employment)
 - Cannot be denied based on community membership
 - Implementation phased over time
 
 **Religious Sites:**
+
 - Protection of holy sites of all faiths
 - Access guarantees for worshippers
 - Special status for Jerusalem sites (if included)
 - International oversight for most sensitive sites
 
 **Cultural Autonomy:**
+
 - Regional/community control over education curriculum
 - Language rights in public services
 - Cultural institution funding
 - Community-specific family law (optional)
 
 **Federal Court with Parity:**
+
 - Supreme/Constitutional Court
 - Parity representation from both communities
 - Plus international judges (transitional)
 - Constitutional review authority
 
 **Supermajority Amendment:**
+
 - Constitutional amendments require 2/3 federal legislature
 - Plus majority approval in each community
 - Core rights provisions unamendable (eternity clause)
@@ -149,18 +162,21 @@ The federal constitution must include these provisions (cannot be excluded or am
 ### 3.2 Structural Requirements
 
 **Bicameral Legislature:**
+
 - Lower house: proportional representation based on population
 - Upper house: equal representation by region/community
 - Both houses required for major legislation
 - Upper house veto on matters affecting communities
 
 **Rotating/Shared Executive:**
+
 - President/head of state from alternating communities
 - OR: dual executive (co-presidents) with consensus requirement
 - Cabinet reflects community balance
 - Key ministries allocated across communities
 
 **Regional Government Powers:**
+
 - Education (curriculum, language of instruction)
 - Cultural affairs
 - Local policing
@@ -171,12 +187,14 @@ The federal constitution must include these provisions (cannot be excluded or am
 ### 3.3 Minority Protections
 
 **Guaranteed Representation:**
+
 - Reserved seats if proportional representation insufficient
 - Minimum community representation in cabinet
 - Community balance in senior civil service
 - Parity in judicial appointments
 
 **Community Veto:**
+
 - Vital interests mechanism (Northern Ireland model)
 - Invoked by community caucus
 - Triggers supermajority requirement
@@ -189,18 +207,21 @@ The federal constitution must include these provisions (cannot be excluded or am
 ### 4.1 Federal Legislature
 
 **Lower House (Representative Assembly):**
+
 - Members: population-proportional
 - Elections: Single Transferable Vote (STV)
 - Terms: 4 years
 - Powers: legislation, budget, government formation
 
 **Upper House (Regional Council):**
+
 - Members: equal per region/community
 - Elections: direct or regional legislature appointment
 - Terms: 6 years, staggered
 - Powers: veto on community-sensitive matters, constitutional review
 
 **Decision-Making:**
+
 - Ordinary legislation: majority in both houses
 - Significant legislation: 60% in both houses
 - Constitutional matters: 2/3 in both houses + community thresholds
@@ -208,18 +229,21 @@ The federal constitution must include these provisions (cannot be excluded or am
 ### 4.2 Federal Executive
 
 **Option A: Rotating Presidency**
+
 - Single president, alternating communities every 2-4 years
 - Prime minister from other community
 - Cabinet balanced between communities
 - President has ceremonial and reserve powers
 
 **Option B: Co-Presidency**
+
 - Two co-presidents, one from each community
 - Joint decision-making on all matters
 - Veto by either requires legislative resolution
 - More power-sharing, less majoritarian
 
 **Federal Cabinet:**
+
 - Prime minister or co-executives lead government
 - Key portfolios balanced: Defense, Finance, Foreign Affairs
 - Deputy ministers from opposite community
@@ -228,18 +252,21 @@ The federal constitution must include these provisions (cannot be excluded or am
 ### 4.3 Federal Judiciary
 
 **Constitutional Court:**
+
 - 9-12 judges: 4 from each community + 1-4 international (transitional)
 - 12-year terms, non-renewable
 - Independent appointments commission
 - Constitutional review, rights enforcement, federalism disputes
 
 **Federal Courts:**
+
 - Trial and appellate levels
 - Community balance in judiciary
 - Jury trials with representative juries
 - Appeal to Constitutional Court on constitutional matters
 
 **Regional Courts:**
+
 - Regional jurisdiction for regional matters
 - Apply federal law in regional context
 - Community-specific courts for family law (optional)
@@ -247,12 +274,14 @@ The federal constitution must include these provisions (cannot be excluded or am
 ### 4.4 Civil Service
 
 **Federal Civil Service:**
+
 - Community balance through hiring practices
 - Non-discrimination in employment
 - Language requirements for public-facing roles
 - Regional deployment reflects community distribution
 
 **Regional Civil Services:**
+
 - Hired by regional governments
 - May have community character
 - Federal oversight for constitutional compliance
@@ -264,12 +293,14 @@ The federal constitution must include these provisions (cannot be excluded or am
 ### 5.1 Taxation Powers
 
 **Federal Level:**
+
 - Income tax (individual and corporate)
 - Customs and tariffs
 - Federal VAT/sales tax
 - Resource extraction taxes
 
 **Regional Level:**
+
 - Property taxes
 - Regional business taxes
 - Service charges
@@ -278,12 +309,14 @@ The federal constitution must include these provisions (cannot be excluded or am
 ### 5.2 Revenue Sharing
 
 **Equalization:**
+
 - Federal transfers to equalize regional capacity
 - Formula-based (population, need, capacity)
 - Transparent allocation
 - Cannot be used for political pressure
 
 **Grants:**
+
 - Federal grants for specific programs
 - Conditional on program compliance
 - Regional autonomy in implementation
@@ -291,6 +324,7 @@ The federal constitution must include these provisions (cannot be excluded or am
 ### 5.3 Federal Budget
 
 **Budget Process:**
+
 - Federal executive proposes
 - Both houses approve
 - Regional consultation required
@@ -303,12 +337,14 @@ The federal constitution must include these provisions (cannot be excluded or am
 ### 6.1 Military Integration
 
 **Unified Federal Military:**
+
 - Single command structure
 - Integrated units over time
 - Community balance in officer corps
 - Transitional period: 10-15 years
 
 **Transition Phases:**
+
 1. Coordination (years 1-3): Separate forces under joint command
 2. Integration (years 3-8): Combined units, integrated training
 3. Unification (years 8-15): Single force, community balance maintained
@@ -316,11 +352,13 @@ The federal constitution must include these provisions (cannot be excluded or am
 ### 6.2 Police
 
 **Federal Police:**
+
 - National security, terrorism, organized crime
 - Community-balanced recruitment
 - Civilian oversight
 
 **Regional Police:**
+
 - Local policing, public order
 - May reflect regional community character
 - Federal standards and oversight
@@ -329,6 +367,7 @@ The federal constitution must include these provisions (cannot be excluded or am
 ### 6.3 Intelligence
 
 **Federal Intelligence:**
+
 - Single intelligence service
 - Community balance in leadership
 - Parliamentary oversight
@@ -381,11 +420,13 @@ The federal constitution must include these provisions (cannot be excluded or am
 ### 8.1 UN Membership
 
 **Options:**
+
 - Successor state to both (complex)
 - New member state (simpler)
 - Combination: successor to one, new for other
 
 **Process:**
+
 - Security Council consideration
 - General Assembly admission vote
 - Treaty succession determinations
@@ -393,6 +434,7 @@ The federal constitution must include these provisions (cannot be excluded or am
 ### 8.2 Treaty Succession
 
 **Approach:**
+
 - Federation inherits obligations of both predecessors
 - Bilateral treaties renegotiated
 - Multilateral treaties: notification of succession
@@ -401,6 +443,7 @@ The federal constitution must include these provisions (cannot be excluded or am
 ### 8.3 Regional Organizations
 
 **Memberships:**
+
 - Arab League status (if applicable)
 - Other regional organizations
 - Trade agreements
@@ -413,6 +456,7 @@ The federal constitution must include these provisions (cannot be excluded or am
 ### 9.1 Transition Period
 
 During transformation:
+
 - Guarantors monitor constitutional compliance
 - International judges on Constitutional Court
 - Technical assistance for institutional development
@@ -444,6 +488,7 @@ During transformation:
 ### 10.2 Exit Provisions
 
 **Difficult but not impossible:**
+
 - Federation dissolution requires 2/3 referendum approval
 - Both communities must approve dissolution
 - Successor arrangements negotiated
