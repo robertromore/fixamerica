@@ -10,7 +10,7 @@
 
 ## Quick Navigation
 
-The 149 identified gaps have been organized into the following categories:
+The 157 identified gaps have been organized into the following categories:
 
 ### Foundational Categories (I-VI)
 
@@ -33,7 +33,12 @@ The 149 identified gaps have been organized into the following categories:
 | [10-interstate-commerce.md](gaps/10-interstate-commerce.md) | Commerce/Infrastructure | 35, 50, 65-67, 75, 83, 92, 99, 104, 109, 116, 128, 132, 142 | Trade, transit, blockades |
 | [11-institutional-governance.md](gaps/11-institutional-governance.md) | Institutional | 34, 38, 41, 54, 56, 70, 79, 87, 89-90, 97, 100, 106, 118, 131, 149 | ARB, oversight bodies, legislatures |
 | [12-data-information.md](gaps/12-data-information.md) | Data/Information | 69, 84, 105, 119, 129, 144 | Data sovereignty, audits, transparency |
-| [13-intergovernmental.md](gaps/13-intergovernmental.md) | Intergovernmental | 25-28, 31, 57-60, 64, 71, 76-78, 85, 96, 98, 103, 111, 114-115, 125-127, 134-136, 139-141, 143, 146, 148 | Federal-Regional-State relations |
+| [14-technology-governance.md](gaps/14-technology-governance.md) | Technology Governance | 153 | Technology jurisdiction defaults |
+| [15-judicial-process.md](gaps/15-judicial-process.md) | Judicial Process | 154 | Docket manipulation, frivolous filings |
+| [16-information-barriers.md](gaps/16-information-barriers.md) | Information Barriers | 155 | Digital customs borders, epistemic secession |
+| [17-rights-enforcement.md](gaps/17-rights-enforcement.md) | Rights Enforcement | 156 | Sovereign immunity, accountability |
+| [18-constitutional-adaptation.md](gaps/18-constitutional-adaptation.md) | Constitutional Process | 157 | Amendment rigidity, ossification trap |
+| [13-intergovernmental.md](gaps/13-intergovernmental.md) | Intergovernmental | 25-28, 31, 57-60, 64, 71, 76-78, 85, 96, 98, 103, 111, 114-115, 125-127, 134-136, 139-141, 143, 146, 148, 150 | Federal-Regional-State relations |
 
 ---
 
@@ -42,15 +47,15 @@ The 149 identified gaps have been organized into the following categories:
 | Severity | Count |
 |----------|-------|
 | Critical | 12 |
-| High | 68 |
+| High | 73 |
 | Medium | 58 |
-| Low | 11 |
-| **Total** | **149** |
+| Low | 12 |
+| **Total** | **157** |
 
 | Status | Count |
 |--------|-------|
-| PROPOSAL AVAILABLE | 117 |
-| RESOLVED | 6 |
+| PROPOSAL AVAILABLE | 124 |
+| RESOLVED | 7 |
 | GUIDANCE | 3 |
 | NEEDS WORK | 1 |
 | Accepted Tradeoff | 4 |

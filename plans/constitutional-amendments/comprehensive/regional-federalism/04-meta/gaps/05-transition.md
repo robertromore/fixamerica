@@ -4,7 +4,7 @@
 
 ---
 
-### Gap 12 — Constitutional Transition Vulnerability
+## Gap 12 — Constitutional Transition Vulnerability
 
 **Description:**
 The transition from the current constitution to this system:
@@ -21,7 +21,7 @@ Outside scope of stable-state design; requires separate transition protocol.
 
 ---
 
-### Gap 13 — Uneven Regional Capacity at Inception
+## Gap 13 — Uneven Regional Capacity at Inception
 
 **Description:**
 Regions may begin with:

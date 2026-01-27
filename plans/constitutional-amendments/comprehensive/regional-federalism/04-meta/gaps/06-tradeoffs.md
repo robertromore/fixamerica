@@ -4,7 +4,7 @@
 
 ---
 
-### Gap 14 — Slower Crisis Response
+## Gap 14 — Slower Crisis Response
 
 **Description:**
 Multi-key authorization and procedural safeguards reduce speed.
@@ -19,7 +19,7 @@ Explicitly accepted to prevent abuse and irreversible centralization.
 
 ---
 
-### Gap 15 — Visible and Persistent Disagreement
+## Gap 15 — Visible and Persistent Disagreement
 
 **Description:**
 Regional pluralism makes disagreement more visible and enduring.
@@ -34,7 +34,7 @@ Intentional; visibility reduces illusion-driven backlash.
 
 ---
 
-### Gap 29 — Reproductive Rights Regional Divergence
+## Gap 29 — Reproductive Rights Regional Divergence
 
 **Description:**
 Reproductive rights (abortion, contraception, fertility treatment) are among the most contested policy domains. The constitution:
@@ -60,7 +60,7 @@ See [Contested Domains Guidance](../../proposals/01-foundations/contested-domain
 
 ---
 
-### Gap 30 — Firearms Policy Coordination
+## Gap 30 — Firearms Policy Coordination
 
 **Description:**
 Firearms regulation is highly contested. The constitution:
@@ -86,7 +86,7 @@ See [Contested Domains Guidance](../../proposals/01-foundations/contested-domain
 
 ---
 
-### Gap 32 — Educational Standards Divergence
+## Gap 32 — Educational Standards Divergence
 
 **Description:**
 Education is a regional competency. The constitution does not address:
@@ -112,7 +112,7 @@ See [Contested Domains Guidance](../../proposals/01-foundations/contested-domain
 
 ---
 
-### Gap 43 — Coordinated Emergency Response Speed
+## Gap 43 — Coordinated Emergency Response Speed
 
 **Description:**
 Public health emergencies and climate disasters may require faster coordinated response than multi-key authorization and deliberative processes permit.

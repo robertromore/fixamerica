@@ -4,7 +4,7 @@
 
 ---
 
-### Gap 23 — Regional Guard Force Accountability
+## Gap 23 — Regional Guard Force Accountability
 
 **Description:**
 Article XI (Armed Forces amendment) establishes divided military command between federal forces and Regional Guards, but does not specify:
@@ -28,9 +28,7 @@ See [Regional Guard Force Accountability Proposal](../../proposals/06-security-j
 
 ---
 
----
-
-### Gap 24 — Public Health Emergency Coordination
+## Gap 24 — Public Health Emergency Coordination
 
 **Description:**
 COVID-19 revealed critical gaps in multi-jurisdictional disease response. The constitution addresses emergency powers ([Article XVII](../../02-design/constitution/00-index.md)) but does not specify:
@@ -54,9 +52,7 @@ See [Public Health Emergency Coordination Framework](../../proposals/06-security
 
 ---
 
----
-
-### Gap 33 — Multi-Attack Coordination
+## Gap 33 — Multi-Attack Coordination
 
 **Description:**
 The analysis documents test individual attack vectors in isolation, but do not model simultaneous attacks across multiple hostile reinterpretation surfaces.
@@ -69,9 +65,7 @@ Under-analyzed. The system's redundancy provides some protection, but systematic
 
 ---
 
----
-
-### Gap 44 — Executive Enforcement Deadlock (The Judicial Key Problem)
+## Gap 44 — Executive Enforcement Deadlock (The Judicial Key Problem)
 
 **Description:**
 The Two-Key authorization rule for domestic military deployment (Article XI, Section 2) creates a circular dependency when the President is the party defying a self-executing judicial order. If the President refuses to comply with a Supreme Court order (e.g., refusing to release funds, defying an injunction), they effectively hold a veto over the very force meant to compel their compliance. The "self-executing" provisions lack a physical enforcement mechanism if the executive branch refuses to act.
@@ -133,9 +127,7 @@ Amend Article XI (Armed Forces) to add a third authorization pathway for "Restor
 
 ---
 
----
-
-### Gap 55 — The "Cyber-Kinetic" Force Ambiguity (Digital Coercion Loophole)
+## Gap 55 — The "Cyber-Kinetic" Force Ambiguity (Digital Coercion Loophole)
 
 **Description:**
 The Armed Forces Amendment (Article XI) focuses on "kinetic" force—soldiers, tanks, National Guard deployments—and the Two-Key authorization rule. However, in the 21st century, the most effective tools of federal coercion are digital: disabling power grids, freezing bank access, throttling communications, or denying access to federal payment systems. The Constitution does not define whether these "digital embargoes" or "infrastructure interdictions" constitute "domestic deployment of force."
@@ -457,9 +449,7 @@ This solution extends the Two-Key framework to cover digital and infrastructure 
 
 ---
 
----
-
-### Gap 74 — Regional Guard "Shadow Mobilization" via State Defense Forces
+## Gap 74 — Regional Guard "Shadow Mobilization" via State Defense Forces
 
 **Description:**
 Article XI-RF distinguishes between the Regional Guard (subject to Two-Key authorization) and State Defense Forces (exclusive State control, prohibited from "independent combat roles"). However, "independent combat roles" is poorly defined in a cyber/hybrid warfare context, enabling States to build paramilitary proxies that circumvent the Two-Key safeguard.
@@ -639,9 +629,7 @@ Article XI-RF distinguishes between the Regional Guard (subject to Two-Key autho
 
 ---
 
----
-
-### Gap 82 — "Double-Key" Hostage-Taking (Collusion for Inaction)
+## Gap 82 — "Double-Key" Hostage-Taking (Collusion for Inaction)
 
 **Description:**
 The "Two-Key Rule" (Article XI-RF, Section 2) requires both the President and a majority of Regional Governors to authorize domestic armed force, preventing unilateral executive militarization. However, the design assumes adversarial tension between keys. If both keys collude to withhold authorization during genuine insurrection—perhaps because both sympathize with the insurrectionary faction—legitimate use of federal force becomes impossible precisely when most needed.
@@ -816,9 +804,7 @@ The "Two-Key Rule" (Article XI-RF, Section 2) requires both the President and a 
 
 ---
 
----
-
-### Gap 86 — "De-Escalation" as a Stall for Insurrection
+## Gap 86 — "De-Escalation" as a Stall for Insurrection
 
 **Description:**
 Article XII, Section 3 requires a "graduated de-escalation sequence" prioritizing judicial and administrative remedies before military intervention. A hostile actor (e.g., Regional Governor seizing federal assets) could exploit this by engaging in "bad faith" mediation or filing endless procedural appeals at each stage, ensuring the "last resort" of military intervention is delayed indefinitely while they consolidate physical control, secure foreign support, or create a fait accompli that restoration cannot easily reverse.
@@ -1003,9 +989,7 @@ Article XII, Section 3 requires a "graduated de-escalation sequence" prioritizin
 
 ---
 
----
-
-### Gap 88 — "Two-Key" Bypass via Military Officer Corps Purge
+## Gap 88 — "Two-Key" Bypass via Military Officer Corps Purge
 
 **Description:**
 The Two-Key rule relies on military commanders refusing unlawful orders lacking both Presidential and Regional Governor authorization. However, a President seeking unilateral control could purge the senior officer corps and replace them with loyalists. If the President then issues an illegal domestic deployment order and loyalist officers follow it, the "duty to refuse" only matters if there is a mechanism to physically stop the unit. The Regional Guard might hesitate to engage Federal forces, leading to a "frozen" conflict the President wins by simply staying in the field.
@@ -1188,9 +1172,7 @@ The Two-Key rule relies on military commanders refusing unlawful orders lacking 
 
 ---
 
----
-
-### Gap 91 — The "Emergency Nesting" Power Grab
+## Gap 91 — The "Emergency Nesting" Power Grab
 
 **Description:**
 Article XVII-RF allows Regional Governors to declare emergencies for matters within Regional authority, but the interaction between simultaneous Federal and Regional emergencies is under-defined. A Regional Governor could declare a "perpetual regional emergency" regarding "public health" or "infrastructure stability" to bypass State and Local laws. If the President simultaneously declares a Federal emergency, competing executives may both claim totalizing power over the same citizens, creating a "conflict of emergencies" with no clear resolution.
@@ -1373,9 +1355,7 @@ Article XVII-RF allows Regional Governors to declare emergencies for matters wit
 
 ---
 
----
-
-### Gap 102 — The "Emergency Loophole" for Information Warfare
+## Gap 102 — The "Emergency Loophole" for Information Warfare
 
 **Description:**
 Article XVI (Cyber Defense) allows Federal government unified command against "nation-state cyber adversaries." A President could declare a "Foreign Information Emergency," claiming domestic political opposition or independent media are "proxies" for a foreign power. Under "national cyber command," the executive could filter, throttle, or de-platform domestic dissent. Because cyber-warfare is "deniable" and "blurs the line between war and peace," the "Two-Key" authorization for kinetic force might be bypassed by labeling action as "administrative digital hygiene."
@@ -1526,9 +1506,7 @@ Article XVI (Cyber Defense) allows Federal government unified command against "n
 
 ---
 
----
-
-### Gap 113 — "Emergency Pincer" via Local Law Enforcement
+## Gap 113 — "Emergency Pincer" via Local Law Enforcement
 
 **Description:**
 Article XI-RF separates Regional Guard from federal control through the "Two-Key" rule. However, it does not address federal "deputization" of Local Police or State Law Enforcement during federal emergency. If Two-Key authorization is withheld, a President could declare federal emergency and "deputize" local police in a friendly State to act as federal agents within a hostile Region. This creates a domestic armed force that is neither Guard nor Military, bypasses Two-Key, and creates "Civilian vs. Civilian" conflict that the Guard cannot intervene in without appearing to suppress local police.
@@ -1639,9 +1617,7 @@ Article XI-RF separates Regional Guard from federal control through the "Two-Key
 
 ---
 
----
-
-### Gap 122 — "Two-Key" Bypass via Military Officer Corps Purge
+## Gap 122 — "Two-Key" Bypass via Military Officer Corps Purge
 
 **Description:**
 The "Two-Key" rule (Article XI-RF) requires both the President and a majority of Regional Governors to authorize domestic deployment of armed forces. However, this assumes military units will refuse illegal orders. A President could systematically purge the officer corps of constitutionalists, replacing them with loyalists who will follow deployment orders regardless of Two-Key authorization—winning by "occupying the field" before constitutional remedies can activate.
@@ -1736,6 +1712,1176 @@ The "Two-Key" rule (Article XI-RF) requires both the President and a majority of
 **PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article XI-RF, Section 2. This four-part solution authorizes Regional Guard defensive response to unauthorized deployment, establishes officer refusal duty with protection, requires Senate approval for mass officer removal, and creates 48-hour Supreme Court emergency review.
 
 ---
+
+## Gap 151 — Emergency Renewal Impossibility (The 90-Day Hard Limit)
+
+**Description:**
+Article XVII-RF, Section 2 requires that "No State of Emergency... shall persist for longer than ninety (90) days without renewal" by the Regional Assembly. However, certain emergencies (bioweapon attacks, cascading infrastructure failures, electromagnetic pulse events) may physically prevent the Regional Assembly from convening within 90 days.
+
+**The Core Problem:**
+
+| Element | Vulnerability |
+|---------|---------------|
+| **Structural Gap** | 90-day hard limit assumes legislature can convene |
+| **Gaming Vector** | Not applicable—this is a genuine operational failure mode |
+| **Systemic Risk** | Legal authority for emergency response evaporates mid-crisis |
+| **Severity** | High — could create constitutional crisis during maximum danger |
+
+**Failure Scenarios:**
+
+1. **The Grid-Down Scenario**
+   - Cyberattack or EMP disables regional power grid
+   - Communications infrastructure collapses
+   - Legislators cannot travel or communicate
+   - Day 91 arrives with no ability to renew
+
+2. **The Bioweapon Scenario**
+   - Engineered pathogen incapacitates population
+   - Quorum of legislators hospitalized or quarantined
+   - Assembly cannot physically convene
+   - Emergency authority lapses during active outbreak
+
+3. **The Cascading Infrastructure Failure**
+   - Initial disaster triggers secondary failures
+   - Transportation networks destroyed
+   - Regional capital inaccessible
+   - Legislature fragmented across Region
+
+**Risk:**
+
+- Emergency response authority evaporates at moment of maximum need
+- Constitutional crisis compounds operational crisis
+- Officials face choice between lawlessness and abandoning constituents
+- Bad actors could deliberately trigger "Day 91" collapse
+
+**Proposed Resolution: The Continuity Exception**
+
+Amend Article XVII-RF, Section 2 to add:
+
+> **Section 2(f). Emergency Continuity Exception.**
+>
+> (1) If the Regional Assembly is physically unable to convene due to the emergency itself, the emergency authority shall automatically extend for one additional thirty (30) day period.
+>
+> (2) **Certification Requirement.** The automatic extension requires certification by:
+>
+> - (a) the Regional Supreme Court, upon finding that the Assembly cannot achieve quorum due to emergency conditions; or
+> - (b) if the Regional Supreme Court cannot convene, the Chief Justice of the Federal Supreme Court.
+>
+> (3) **Renewal Limitation.** The automatic extension under this subsection may be renewed once, for a maximum total extension of sixty (60) days beyond the initial ninety-day period.
+>
+> (4) **Termination.** The automatic extension terminates immediately upon:
+>
+> - (a) the Regional Assembly achieving quorum and voting on renewal; or
+> - (b) the certifying court finding that the Assembly is capable of convening.
+>
+> (5) **Reduced Authority.** During automatic extension periods, emergency authority is limited to actions directly necessary to:
+>
+> - (a) preserve life and safety;
+> - (b) restore essential infrastructure; and
+> - (c) enable the Regional Assembly to reconvene.
+
+**Design Rationale:**
+
+| Element | Purpose |
+|---------|---------|
+| Automatic extension | Prevents legal vacuum during genuine incapacity |
+| Certification requirement | Prevents abuse—requires judicial finding of incapacity |
+| Federal backstop | Handles scenario where Regional courts also incapacitated |
+| 60-day maximum | Bounds the exception; beyond 150 days, federal intervention warranted |
+| Reduced authority | Limits scope to genuine emergency response, not policy expansion |
+| Immediate termination | Assembly regains control the moment it can act |
+
+**Relationship to Other Gaps:**
+- **Gap 24 (Public Health Emergency):** Disease response; Gap 151 addresses legislative incapacity during health emergencies
+- **Gap 33 (Multi-Attack Coordination):** Coordinated attacks; Gap 151 addresses institutional incapacity
+- **Gap 44 (Executive Enforcement Deadlock):** Executive defiance; Gap 151 addresses legislative unavailability
+
+**Status:**
+**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article XVII-RF, Section 2. This solution provides automatic extension with judicial certification, federal backstop, bounded duration, and reduced-scope authority.
+
+---
+
+## Gap 167 — Lame Duck Sabotage (Transition Vulnerability)
+
+**Description:**
+Article XI-RF grants the Regional Governor power to refuse Guard federalization ("Key 2") and declare States of Emergency. However, no provisions address the transition period between election and inauguration.
+
+**Attack Vector:**
+
+1. Governor loses re-election campaign
+2. During 60-90 day lame duck period, Governor retains full constitutional powers
+3. Governor initiates confrontation with Federal government or refuses lawful Guard federalization order
+4. Constitutional crisis triggered by official with zero political accountability
+5. Successor inherits chaos; departing Governor faces no electoral consequences
+
+**Risk:**
+
+- Unaccountable exercise of critical constitutional powers
+- "Scorched earth" strategies by defeated executives
+- Constitutional crises manufactured for partisan purposes
+- No check on emergency declarations during transition
+
+**Proposed Resolution:**
+
+Add to Article XI-RF (or applicable Regional executive provisions):
+
+> **Section [X]. Caretaker Limitations.**
+>
+> (1) **Transition Period Defined.** The "transition period" begins when the results of a Regional gubernatorial election are certified and ends upon the inauguration of the Governor-Elect.
+>
+> (2) **Limited Powers During Transition.** During the transition period, a Governor who will not continue in office may exercise the following powers only with the written concurrence of the Governor-Elect or a two-thirds vote of the Regional Legislature:
+>
+> - (a) refusal of Guard federalization under Article XI-RF;
+> - (b) declaration of a State of Emergency;
+> - (c) withdrawal from interstate compacts;
+> - (d) termination of senior appointed officials;
+> - (e) execution of contracts or obligations exceeding 50,000 Federal Penalty Units; or
+> - (f) any action that would materially constrain the successor's policy options.
+>
+> (3) **Emergency Exception.** If the Governor-Elect is unavailable and the Regional Legislature cannot convene within 48 hours, the Governor may exercise emergency powers under subsection (2)(a) and (2)(b) with immediate notification to the Chief Justice of the Regional Supreme Court, who may stay the action pending expedited legislative review.
+>
+> (4) **Applicability.** This section applies to any executive officer exercising gubernatorial powers, including Lieutenant Governors and Acting Governors.
+
+**Status:**
+**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article XI-RF creating caretaker limitations during gubernatorial transitions.
+
+**Severity:** High | **Mitigability:** Requires Development
+
+---
+
+## Gap 169 — Serial Emergency Loophole (The Infinite Loop)
+
+**Description:**
+Article XVII-RF places a 90-day hard limit on States of Emergency. However, this limit is meaningless if a Governor can simply allow an emergency to expire and immediately declare a new one citing the same facts under a different name.
+
+**Attack Vector:**
+
+1. Governor declares State of Emergency citing civil unrest
+2. On Day 89, Governor allows emergency to expire (avoiding legislative renewal)
+3. On Day 91, Governor declares new "Public Safety Crisis" citing identical facts
+4. Governor effectively rules by decree forever without legislative involvement
+5. 90-day limit becomes theatrical; emergency powers are permanent
+
+**Risk:**
+
+- Emergency powers become indefinite without legislative oversight
+- Constitutional time limits rendered meaningless through relabeling
+- Authoritarian governance through serial emergency declarations
+- Legislature cut out of emergency renewal process entirely
+
+**Proposed Resolution:**
+
+Add to Article XVII-RF:
+
+> **Section [X]. Substantial Similarity Bar.**
+>
+> (1) **Prohibition.** No State of Emergency may be declared based on facts substantially similar to a prior emergency that expired, was revoked, or was terminated within the preceding 180 days, unless explicitly authorized by a two-thirds vote of the Legislature.
+>
+> (2) **Substantial Similarity Defined.** Facts are presumptively "substantially similar" if:
+>
+> - (a) the same geographic area is affected;
+> - (b) the same category of threat is cited (public health, civil unrest, natural disaster, security threat); AND
+> - (c) the prior emergency was not terminated due to documented resolution of the underlying condition.
+>
+> (3) **Genuine Recurrence Exception.** This prohibition does not apply to genuinely recurring emergencies (such as seasonal disasters) where the prior emergency terminated because the specific threat ended, and a new threat of the same category subsequently arose.
+>
+> (4) **Judicial Review.** Any person with standing may petition the appropriate court for a declaration that a new emergency violates this section. The court shall issue a preliminary ruling within 72 hours. If the court finds a prima facie violation, the emergency is stayed pending full hearing within 14 days.
+>
+> (5) **Legislative Override.** The Legislature may, by two-thirds vote, authorize a new emergency despite substantial similarity if it finds that the prior emergency's termination was erroneous or that circumstances have materially changed.
+
+**Status:**
+**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article XVII-RF establishing substantial similarity bar with 180-day cooling-off period.
+
+**Severity:** High | **Mitigability:** Requires Development
+
+---
+
+## Gap 190 — The Tribunal Trap (Martial Law Limits)
+
+**Identified**: 2026-01-26
+**Category**: Emergency Powers
+**Criticality**: 🔴 **CRITICAL**
+**Status**: UNRESOLVED
+
+### Problem Statement
+
+**Military Justice for Civilians: The Missing Prohibition**
+
+The principle that civilians cannot be tried by military tribunals while civilian courts remain open derives from *Ex Parte Milligan* (1866)—a Supreme Court precedent. Gap 175 (Interpretive Decoupling) voids pre-ratification precedents that conflict with the new constitutional structure. A Governor or President seeking to bypass civilian due process could argue that *Milligan* is voided, and the Constitution provides no explicit prohibition on military tribunals for civilians.
+
+**The Constitutional Gap**:
+- No constitutional text explicitly prohibits military tribunals for civilians
+- *Ex Parte Milligan* is precedent, not text
+- Article I, Section 9 addresses habeas corpus suspension but not tribunal jurisdiction
+- Gap 175 creates argument that *Milligan* no longer applies
+
+**The Attack Vector**:
+1. Governor declares State of Emergency (e.g., civil unrest, disaster)
+2. Governor claims civilian courts are "too slow" or "compromised"
+3. Governor establishes Military Tribunal to try "looters" or "insurrectionists"
+4. Defendants denied jury trial, civilian due process protections
+5. Defendant argues Sixth Amendment violation
+6. State argues: "*Milligan* is voided precedent; Constitution permits military tribunals during emergencies"
+7. **Civilian due process suspended through military jurisdiction**
+
+**Historical Precedent**: This is not theoretical. Military tribunals tried civilians during the Civil War, and the Supreme Court only stopped it after the war ended. Japanese internment included military tribunal jurisdiction. Without explicit constitutional prohibition, the practice can return.
+
+### Gaming Vectors Identified
+
+1. **The "Courts Are Overwhelmed" Excuse**
+   - Governor claims civilian courts cannot handle emergency caseload
+   - Establishes military tribunals for "efficiency"
+   - Defendants processed without civilian protections
+   - Emergency never ends; tribunals become permanent
+
+2. **The "Enemy Combatant" Classification**
+   - Governor classifies protesters or rioters as "domestic enemies"
+   - Claims military jurisdiction over "combatants"
+   - Civilian status stripped through executive declaration
+   - Due process eliminated by definitional manipulation
+
+3. **The "Court Closure" Pretext**
+   - Governor orders courthouse closures for "safety"
+   - Claims civilian courts are "not functioning"
+   - Establishes military tribunals as "temporary" replacement
+   - Closure extends indefinitely; tribunals become primary
+
+4. **The "Expedited Justice" Rationale**
+   - Governor claims emergencies require swift punishment
+   - Military tribunals process cases in hours, not months
+   - "Deterrence" justifies bypassing due process
+   - Speed prioritized over rights
+
+### Proposed Resolution
+
+Add to Article III-RF, Section 9 — Civilian Court Supremacy:
+
+> **(a) Prohibition on Military Tribunals for Civilians.** No civilian may be tried by a military tribunal, martial court, or any judicial body other than the civilian courts established under this Constitution while the civilian courts of competent jurisdiction remain open and functioning.
+>
+> **(b) Definition of "Open and Functioning."** A civilian court is "open and functioning" if:
+>
+> - (i) the courthouse or alternative facility is physically accessible;
+> - (ii) judges are available to hear cases (including by remote proceedings);
+> - (iii) basic procedural rights (counsel, confrontation, jury for serious offenses) can be provided.
+>
+> The temporary closure of a specific courthouse does not render courts "non-functioning" if alternative venues or remote proceedings are available.
+>
+> **(c) Habeas Corpus Limitations.** The suspension of the Writ of Habeas Corpus, where constitutionally authorized:
+>
+> - (i) shall not authorize the creation of ad hoc judicial bodies;
+> - (ii) shall not transfer jurisdiction from civilian to military courts;
+> - (iii) shall only authorize temporary detention pending civilian court proceedings;
+> - (iv) shall not exceed ninety (90) days without Congressional reauthorization and judicial review.
+>
+> **(d) Prohibited Exercises.** Under no circumstances may military tribunals:
+>
+> - (i) try civilians for ordinary criminal offenses, regardless of emergency status;
+> - (ii) impose sentences of death, imprisonment, or corporal punishment on civilians;
+> - (iii) exercise jurisdiction over any person not subject to the Uniform Code of Military Justice.
+>
+> **(e) Emergency Docket Procedures.** During declared emergencies, civilian courts shall:
+>
+> - (i) establish expedited dockets for emergency-related offenses;
+> - (ii) permit remote proceedings where physical attendance is impractical;
+> - (iii) temporarily relax non-essential procedural requirements while preserving core due process rights.
+>
+> The existence of emergency conditions does not justify transfer to military jurisdiction.
+>
+> **(f) Enforcement.** Any military officer who convenes a tribunal to try a civilian in violation of this section:
+>
+> - (i) acts ultra vires and without lawful authority;
+> - (ii) is personally liable for false imprisonment;
+> - (iii) may be prosecuted for deprivation of civil rights;
+> - (iv) may not claim obedience to superior orders as defense.
+>
+> Any conviction by such tribunal is void ab initio.
+
+### Design Rationale
+
+**Textual Codification of *Milligan***:
+- Converts precedent to constitutional text
+- Immune to Gap 175 interpretive decoupling
+- Explicit prohibition leaves no ambiguity
+
+**"Open and Functioning" Definition**:
+- Prevents bad-faith claims that courts are unavailable
+- Remote proceedings satisfy requirement
+- Alternative venues count as "open"
+- Only genuine court collapse triggers exception
+
+**Emergency Docket Alternative**:
+- Provides legitimate solution to emergency caseload
+- Expedited civilian proceedings address efficiency concerns
+- Preserves due process while enabling speed
+- Removes justification for military tribunals
+
+**Personal Liability**:
+- Officers cannot hide behind "following orders"
+- Void ab initio prevents legitimization of tribunal convictions
+- Criminal and civil liability deters participation
+
+### Relationship to Other Gaps
+
+- **Gap 175**: Precedent Trap (created vulnerability by voiding *Milligan*)
+- **Gap 188**: Incorporation Glitch (Sixth Amendment jury trial rights at risk)
+- **Gap 169**: Serial Emergency Loophole (perpetual emergencies enabling perpetual tribunals)
+- **Gap 167**: Lame Duck Sabotage (outgoing officials establishing tribunals)
+
+### Cross-Gap Interaction
+
+Gap 190 completes the "Gap 175 Repair Trilogy":
+
+| Gap | Precedent at Risk | Constitutional Fix |
+|-----|------------------|-------------------|
+| 188 | *Gitlow* (incorporation) | Universal Rights Guarantee |
+| 189 | Election certification norms | Ministerial Duty Mandate |
+| 190 | *Ex Parte Milligan* (civilian court supremacy) | Tribunal Prohibition |
+
+All three gaps convert protective jurisprudence into constitutional text, preserving Gap 175's benefits (Regional Exclusive Domain protection) while preventing its unintended consequences (rights erosion).
+
+### Risk Assessment
+
+**Without Fix**:
+- Military tribunals for civilians become constitutionally permissible
+- Governors can bypass jury trials during "emergencies"
+- Due process suspended through jurisdictional manipulation
+- Authoritarian tool legitimized through constitutional silence
+- Civil War-era abuses can recur
+
+**With Fix**:
+- Civilian court supremacy is constitutional text, not precedent
+- Emergency powers cannot transfer jurisdiction to military
+- Clear "open and functioning" standard prevents pretextual closures
+- Personal liability deters officer participation
+- Due process protected even during genuine emergencies
+
+### Implementation Priority
+
+**Tier**: P1 (Immediate)
+**Rationale**: Without this fix, fundamental due process rights (jury trial, civilian courts) are vulnerable to emergency suspension
+
+**Dependencies**: Should be ratified simultaneously with or before Gap 175 implementation
+
+**Status:**
+**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article III-RF, Section 9.
+
+**Severity:** Critical | **Mitigability:** Requires Development
+
+---
+
+## Gap 192 — The Paramilitary Loophole (Shadow Army Gap)
+
+**Identified**: 2026-01-26
+**Category**: Military/Security
+**Criticality**: 🔴 **CRITICAL**
+**Status**: UNRESOLVED
+
+### Problem Statement
+
+**State Defense Forces: The Unfederalizable Army**
+
+The Constitution permits federalization of the National Guard, placing state military forces under presidential command during emergencies. However, 22 states currently maintain "State Defense Forces" (SDFs)—military units that **cannot be federalized** under current law. Regional Federalism creates a pathway for Regions to build substantial military forces outside federal control.
+
+**The Constitutional Gap**:
+- Article I, Section 8 gives Congress power over "organizing, arming, and disciplining, the Militia"
+- National Guard federalization authority under 10 U.S.C. § 12406
+- State Defense Forces authorized under 32 U.S.C. § 109 but **exempt from federal call-up**
+- No constitutional provision limits Regional military forces that cannot be federalized
+- Regional Federalism provides larger tax base and organizational capacity for SDF expansion
+
+**The Attack Vector**:
+1. Region establishes "Regional Defense Force" under state defense force statutes
+2. Regional Defense Force equipped with military vehicles, weapons, aircraft
+3. Federal government cannot federalize Regional Defense Force
+4. Region has independent military force answering only to Regional Governor
+5. During federal-Regional conflict, Region has armed force to resist federal authority
+6. **Regional Federalism enables de facto independent armies**
+7. Federal military intervention required to enforce federal law
+8. Constitutional crisis escalates to armed confrontation
+
+**Historical Precedent**:
+- Confederate states used state militias against federal authority
+- State Defense Forces expanded significantly post-9/11
+- Some SDFs have thousands of members with military training
+- Texas State Guard, California State Military Reserve already substantial
+
+### Gaming Vectors Identified
+
+1. **The "Disaster Response" Buildup**
+   - Region justifies Regional Defense Force for disaster response
+   - Acquires helicopters, vehicles, communications equipment
+   - Builds substantial force under humanitarian cover
+   - Dual-use capability enables military employment
+
+2. **The "Law Enforcement Support" Expansion**
+   - Region claims RDF supports overwhelmed law enforcement
+   - Acquires armored vehicles, tactical equipment
+   - Trains in crowd control, civil disturbance response
+   - Creates paramilitary force outside federal control
+
+3. **The "Border Security" Justification**
+   - Regions claim federal border enforcement inadequate
+   - Establish "Regional Border Force" with military capabilities
+   - Independent armed force operating at federal boundary
+   - Potential armed conflict with federal border agencies
+
+4. **The "Critical Infrastructure Protection"**
+   - Region claims need to protect power grid, water systems
+   - Establishes armed guards at infrastructure sites
+   - Creates distributed armed force across Region
+   - Infrastructure protection becomes military occupation
+
+5. **The "Volunteer Militia" Integration**
+   - Region integrates private militia groups into RDF structure
+   - Provides official status, equipment, training
+   - Radical elements gain state authorization
+   - Plausible deniability for militia actions
+
+### Proposed Resolution
+
+Add to Article II-RF, Section 12 — Total Force Federalization:
+
+> **(a) Federalization Authority Extended.** The power of Congress to provide for calling forth the Militia, and the power of the President to assume command of state military forces, shall extend to all organized military or paramilitary forces maintained by Regions or States, including:
+>
+> - (i) National Guard units;
+> - (ii) State Defense Forces, State Guards, or State Military Reserves;
+> - (iii) Regional Defense Forces or any similar organizations;
+> - (iv) any armed force organized, equipped, or trained for military operations.
+>
+> No Region or State may maintain a military force exempt from federal call-up authority.
+>
+> **(b) Definition of Military Force.** For purposes of this section, a "military force" includes any organization that:
+>
+> - (i) is organized in military units (companies, battalions, brigades);
+> - (ii) uses military ranks and command structures;
+> - (iii) is equipped with weapons, vehicles, or aircraft of military type;
+> - (iv) trains in military tactics, including crowd control, civil disturbance, or combat operations;
+> - (v) is authorized to use force beyond ordinary law enforcement authority.
+>
+> **(c) Peacetime Limitations.** In periods without declared national emergency:
+>
+> - (i) Regional Defense Forces may not exceed 2,500 active personnel per Region;
+> - (ii) equipment shall be limited to disaster response capability (no tanks, artillery, or combat aircraft);
+> - (iii) weapons shall not exceed those authorized for civilian law enforcement;
+> - (iv) training shall focus on disaster response, search and rescue, and emergency medical operations.
+>
+> **(d) Federal Oversight.** The Department of Defense shall:
+>
+> - (i) maintain a registry of all Regional and State military forces;
+> - (ii) inspect Regional Defense Forces annually for compliance with this section;
+> - (iii) certify that equipment and training remain within authorized limits;
+> - (iv) report violations to Congress and the Constitutional Court.
+>
+> **(e) Emergency Expansion Authority.** During declared national emergencies, Regions may temporarily expand defense forces beyond peacetime limits with federal approval, subject to:
+>
+> - (i) federal integration planning and command coordination;
+> - (ii) equipment provided through federal channels;
+> - (iii) return to peacetime limits within 180 days of emergency termination.
+>
+> **(f) Prohibition on Private Militia Integration.** Regional Defense Forces may not:
+>
+> - (i) incorporate, affiliate with, or provide official status to private militia organizations;
+> - (ii) provide equipment, training, or funding to unregulated armed groups;
+> - (iii) grant law enforcement or military authority to non-governmental organizations.
+>
+> **(g) Enforcement.** Violation of this section shall:
+>
+> - (i) authorize federal seizure of unauthorized military equipment;
+> - (ii) permit federal prosecution of officials who exceed authorized force limits;
+> - (iii) trigger potential receivership procedures under Article X for persistent violations;
+> - (iv) void any claimed immunity for officials acting outside constitutional authority.
+>
+> **(h) Savings Clause.** Nothing in this section limits:
+>
+> - (i) civilian law enforcement agencies operating within normal police powers;
+> - (ii) private security companies operating under state law;
+> - (iii) individual Second Amendment rights;
+> - (iv) federal military installations and forces within Regional territory.
+
+### Design Rationale
+
+**Total Force Federalization**:
+- Closes loophole permitting unfederalizable state forces
+- All organized military forces subject to federal call-up
+- Prevents Regions from building independent armies
+
+**Clear Definition**:
+- Prevents definitional evasion ("this is a disaster response team, not military")
+- Functional test based on organization, equipment, training
+- Captures any force capable of military operations regardless of name
+
+**Peacetime Caps**:
+- 2,500 personnel limit prevents army-building during peacetime
+- Equipment restrictions prevent acquisition of heavy weapons
+- Training restrictions focus on legitimate disaster response
+- Allows functional emergency response capability without military threat
+
+**Federal Oversight**:
+- Annual inspections verify compliance
+- Registry tracks all forces
+- Violations reported to Constitutional Court
+- Transparency prevents covert buildup
+
+**Private Militia Prohibition**:
+- Prevents legitimization of radical armed groups
+- No state sponsorship of unaccountable forces
+- Clear separation between official and unofficial armed organizations
+
+### Related Gaps
+
+- **Gap 190**: Tribunal Trap (military vs. civilian authority)
+- **Gap 169**: Serial Emergency Loophole (emergency powers enabling military expansion)
+- **Gap 167**: Lame Duck Sabotage (outgoing officials militarizing)
+- **Gap 185**: Race to the Bottom (Regional competition in deregulation including security)
+
+### Risk Assessment
+
+**Without Fix**:
+- Regions can build substantial unfederalizable military forces
+- Armed standoffs between Regional and federal forces become possible
+- Private militias gain state sponsorship and legitimacy
+- Constitutional crises escalate to potential armed conflict
+- Federal authority unenforceable without military intervention
+- Regional Federalism enables state-level military independence
+
+**With Fix**:
+- All organized military forces subject to federal authority
+- Peacetime caps prevent army-building
+- Federal oversight ensures compliance
+- Private militia integration prohibited
+- Constitutional conflicts remain political, not military
+- Federal supremacy maintainable without armed confrontation
+
+### Implementation Priority
+
+**Tier**: P1 (Immediate)
+**Rationale**: Military force buildup poses existential threat to constitutional order
+
+**Dependencies**: Department of Defense inspection and registry capacity
+
+**Status:**
+**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article II-RF, Section 12.
+
+**Severity:** Critical | **Mitigability:** Requires Development
+
+---
+
+## Gap 206 — The "Petri Dish" (Bio-Security Anarchy)
+
+**Identified**: 2026-01-26
+**Category**: Emergency Powers / Public Health
+**Criticality**: 🔴 **CRITICAL**
+**Status**: UNRESOLVED
+
+### Problem Statement
+
+**The Exclusive Domain Becomes a Death Sentence**
+
+The Regional Federalism framework grants Regions "Exclusive Domain" over Public Health (Article II). Gap 24 addresses public health emergency *coordination*, but it does not address the fundamental problem: a Region can use its Exclusive Domain to **refuse** cooperation with pandemic response, turning its territory into a petri dish that infects the entire Union.
+
+**The Attack Vector**:
+1. A deadly, highly contagious pathogen emerges in a Region (e.g., new avian flu, novel coronavirus)
+2. The Regional Governor, fearing economic damage, refuses to implement lockdowns
+3. The Region invokes "Public Health Sovereignty" under its Exclusive Domain
+4. The Region refuses to share epidemiological data with federal authorities
+5. The virus spreads to neighboring Regions through normal interstate travel
+6. By the time federal courts adjudicate the jurisdictional dispute, millions are infected
+7. **The Exclusive Domain of one Region becomes a death sentence for the others**
+
+**The Speed Mismatch**:
+- Pandemic doubling time: 3-7 days
+- Constitutional Court adjudication: 30-90 days
+- **Biology moves faster than constitutional process**
+
+**Historical Precedent**:
+COVID-19 demonstrated exactly this failure mode. States with minimal restrictions became reservoirs that re-seeded outbreaks in states with strict controls. The U.S. had 50 separate pandemic responses when it needed one coordinated response.
+
+### Gaming Vectors Identified
+
+1. **The "Sovereignty" Shield**
+   - Region argues: "Public Health is our Exclusive Domain"
+   - Federal intervention is "tyrannical overreach"
+   - Local democratic majority supports "freedom" over restrictions
+   - Constitutional challenge while virus spreads
+
+2. **The "Economic Necessity" Defense**
+   - Region argues: "Lockdowns will destroy our economy"
+   - Citizens have "right to work"
+   - "Herd immunity" is valid alternative strategy
+   - Federal compensation insufficient; must stay open
+
+3. **The "Data Denial"**
+   - Region stops testing: "No cases if we don't test"
+   - Epidemiological data withheld as "state secret"
+   - Death certificates attribute deaths to "pneumonia"
+   - Federal government cannot prove outbreak exists
+
+4. **The "Delay Game"**
+   - Region claims compliance while delaying implementation
+   - Challenges every federal directive in court
+   - By the time courts rule, peak infection has passed
+   - "We were just exercising due process rights"
+
+### Proposed Resolution
+
+Add to Article XVII, Section 8 — Bio-Security Supremacy:
+
+> **(a) Pandemic Emergency Declaration.** The President, upon certification by the Surgeon General that a pathogen poses pandemic potential, may declare a National Bio-Security Emergency. Such declaration requires:
+>
+> - (i) Certification that the pathogen has R0 greater than 2.0 and case fatality rate exceeding 0.5%;
+> - (ii) Evidence of sustained community transmission in the United States; or
+> - (iii) Certification that international outbreak poses imminent threat of domestic spread.
+>
+> **(b) Federal Plenary Authority.** During a National Bio-Security Emergency, the Federal Government assumes temporary plenary authority over:
+>
+> - (i) Quarantine and isolation measures;
+> - (ii) Testing requirements and protocols;
+> - (iii) Travel restrictions within and between Regions;
+> - (iv) Medical supply allocation and distribution;
+> - (v) Public health data collection and sharing;
+> - (vi) Vaccine and therapeutic distribution.
+>
+> This authority supersedes Regional Exclusive Domain claims for the duration of the emergency.
+>
+> **(c) Exclusive Domain Suspension.** "Public Health" as a Regional Exclusive Domain applies only to non-communicable conditions. Infectious diseases with pandemic potential are hereby classified as Federal National Security matters, not Regional public health matters.
+>
+> **(d) Mandatory Data Sharing.** During a Bio-Security Emergency:
+>
+> - (i) Regions must share all epidemiological data with federal authorities within 24 hours of collection;
+> - (ii) Regions must permit federal epidemiological personnel access to all healthcare facilities;
+> - (iii) Failure to share data constitutes obstruction of federal emergency response;
+> - (iv) Regional officials who suppress or falsify public health data are personally liable.
+>
+> **(e) Regional Non-Compliance.** If a Region refuses to implement federally mandated bio-security measures:
+>
+> - (i) The President may federalize Regional Guard forces to enforce compliance;
+> - (ii) Federal authorities may directly implement measures within the non-compliant Region;
+> - (iii) Non-compliant Regions forfeit federal disaster and emergency assistance;
+> - (iv) Regional officials responsible for non-compliance may be prosecuted for reckless endangerment.
+>
+> **(f) Duration and Review.** Bio-Security Emergency authority:
+>
+> - (i) Expires automatically after ninety (90) days unless renewed by Congress;
+> - (ii) Must be reviewed by Congress every thirty (30) days during active emergency;
+> - (iii) May be terminated by joint resolution of Congress;
+> - (iv) Is subject to judicial review for abuse, but courts may not enjoin emergency measures during active pandemic.
+>
+> **(g) Compensation.** The Federal Government shall compensate Regions and individuals for economic losses caused by federally mandated emergency measures through the Emergency Compensation Fund established under Article XVII.
+
+### Design Rationale
+
+**Speed Imperative**:
+- Pandemic response requires speed; constitutional adjudication is slow
+- Federal plenary authority enables immediate coordinated response
+- Courts review after emergency, not during
+
+**Exclusive Domain Carve-Out**:
+- Communicable diseases are categorically different from other public health issues
+- Externality is inherent: one Region's outbreak affects all others
+- National security framing justifies federal supremacy
+
+**Data as Infrastructure**:
+- Pandemic response requires accurate data
+- Data denial is as dangerous as active obstruction
+- Personal liability prevents official stonewalling
+
+**Enforcement with Compensation**:
+- Federal authority includes enforcement mechanisms
+- But also includes compensation for economic harm
+- Addresses "economic necessity" defense by making compliance affordable
+
+**Sunset and Review**:
+- Emergency authority is temporary
+- Congressional oversight prevents indefinite emergency rule
+- Judicial review available, but not as real-time injunction
+
+### Cross-Gap Interaction
+
+| Related Gap | Interaction |
+|-------------|-------------|
+| Gap 24 (Public Health Coordination) | Gap 206 provides authority Gap 24 lacks |
+| Gap 23 (Regional Guard) | Guard federalization for bio-security enforcement |
+| Gap 174 (Census Sabotage) | Data denial parallels in public health context |
+| Gap 169 (Serial Emergency) | Bio-Security Emergency needs different safeguards |
+
+### Risk Assessment
+
+**Without Fix**:
+- Regions can refuse pandemic response cooperation
+- Virus spreads while constitutional disputes are adjudicated
+- One Region's "sovereignty" becomes other Regions' death toll
+- COVID-19 failure mode institutionalized in constitutional structure
+- Federal system becomes liability rather than asset in pandemic response
+
+**With Fix**:
+- Coordinated national response enabled
+- Data denial and obstruction criminalized
+- Regional Exclusive Domain yields to federal authority for communicable diseases
+- Compensation addresses economic concerns of compliance
+- Constitutional order survives pandemic stress
+
+### Implementation Priority
+
+**Tier**: P1 (Immediate)
+**Rationale**: COVID-19 demonstrated this failure mode is not hypothetical; next pandemic may be more deadly
+
+**Dependencies**: Requires Surgeon General certification capacity; Emergency Compensation Fund establishment; integration with existing CDC and HHS structures
+
+**Status:**
+**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article XVII, Section 8.
+
+**Severity:** Critical | **Mitigability:** Requires Development
+
+---
+
+## Gap 224: The War Funding Drift (The Forever War)
+
+**Criticality:** 🔴 Critical
+
+### Problem Statement
+
+The Constitution grants Congress alone the power to declare war, but Presidents routinely initiate and sustain military operations without congressional authorization. The War Powers Resolution requires congressional authorization within 60 days, but Presidents ignore this statute claiming it's unconstitutional, and Congress never cuts off funding because doing so would be characterized as "not supporting the troops."
+
+**Attack Vector:** Fait accompli warfare with funding hostage-taking
+
+**The Exploitation Pattern:**
+
+1. President deploys forces citing "inherent authority" or authorization from decades ago
+2. 60-day War Powers clock starts but President ignores it
+3. Troops are in harm's way; mission is underway
+4. Congress unwilling to "abandon troops in the field"
+5. Voting against war funding becomes "voting against the troops"
+6. War continues indefinitely on continuing resolutions
+7. 2001 AUMF used to justify operations in countries that didn't exist in 2001
+
+**Current Constitutional Text (Article I, Section 8):**
+
+> "The Congress shall have Power... To declare War, grant Letters of Marque and Reprisal, and make Rules concerning Captures on Land and Water; To raise and support Armies..."
+
+**The Gap:** "Declare War" has been interpreted as mere formality. Presidential "police actions," "military operations," and "hostilities" proceed without declaration. And once troops are deployed, Congress cannot cut funding without political suicide.
+
+### Gaming Vectors
+
+| Vector | Description | Precedent |
+|--------|-------------|-----------|
+| Semantic evasion | "This is not war, it's an operation" | Libya 2011: not "hostilities" per administration |
+| AUMF stretching | 2001 authorization covers all enemies forever | Operations in Yemen, Somalia, Niger under 2001 AUMF |
+| 60-day ignore | Simply don't comply with War Powers clock | Every administration since 1973 |
+| Hostage funding | "Vote to fund or abandon the troops" | Iraq War funding votes |
+| Emergency power | Commander-in-chief authority | Grenada, Panama, many others |
+| Allied obligation | NATO Article 5 or treaty obligation | Used to avoid independent authorization |
+
+### Proposed Constitutional Fix
+
+**Article I-RF, Section 13 — The War Funding Guillotine**
+
+> (a) **Authorization Requirement.** No funds may be obligated or expended for offensive military operations in a foreign country or against a foreign power without:
+>   - (i) A formal declaration of war by Congress; or
+>   - (ii) A specific statutory authorization for the use of military force that:
+>       - (A) Names the countries, territories, or organizations against which force is authorized;
+>       - (B) States the specific objectives to be achieved;
+>       - (C) Contains a sunset date not more than two (2) years from enactment;
+>       - (D) May not authorize force against any entity not in existence at time of enactment.
+>
+> (b) **Automatic Rescission.** If, sixty (60) days after the initiation of offensive military operations:
+>   - (i) Congress has not enacted a declaration of war or specific statutory authorization meeting the requirements of subsection (a)(ii);
+>   - (ii) All funds obligated or expended for such operations shall be automatically rescinded;
+>   - (iii) No new funds may be obligated for such operations;
+>   - (iv) The Comptroller General shall certify non-compliance and notify the Treasury.
+>
+> (c) **Troop Withdrawal Funding.** Upon automatic rescission:
+>   - (i) Funds necessary for safe withdrawal of forces shall remain available;
+>   - (ii) Such withdrawal shall be completed within ninety (90) days;
+>   - (iii) Force protection operations are authorized during withdrawal.
+>
+> (d) **Emergency Exception.** The sixty-day period may be extended once by thirty (30) days upon:
+>   - (i) Joint resolution of both Houses of Congress;
+>   - (ii) Presidential certification of imminent threat to United States territory or forces;
+>   - (iii) No further extensions permitted without full authorization.
+>
+> (e) **Semantic Evasion Prohibition.** "Offensive military operations" shall include:
+>   - (i) Any use of armed forces resulting in combat;
+>   - (ii) Any sustained military operations against armed groups;
+>   - (iii) Drone strikes, special operations, and cyber attacks causing physical destruction;
+>   - (iv) Actions meeting the threshold of "armed conflict" under international humanitarian law;
+>   - (v) Presidential determination that operations do not constitute "hostilities" or "war" shall not affect this Section.
+>
+> (f) **Legacy Authorization Sunset.** Any authorization for use of military force enacted prior to this Article's ratification:
+>   - (i) Shall expire two (2) years after ratification unless renewed;
+>   - (ii) Renewal shall meet all requirements of subsection (a)(ii);
+>   - (iii) No operations may continue under prior authorization after expiration.
+>
+> (g) **Treaty Obligations.** Treaty obligations requiring military action:
+>   - (i) Do not substitute for congressional authorization under this Section;
+>   - (ii) Congress may enact prospective authorization for treaty-mandated responses;
+>   - (iii) Article 5 responses under NATO or similar treaties require authorization within thirty (30) days.
+>
+> (h) **Enforcement.** Any member of Congress shall have standing to enforce this Section through action for declaratory and injunctive relief in the United States District Court for the District of Columbia, with expedited appeal directly to the Supreme Court.
+
+### Design Rationale
+
+**Why Automatic Rescission?**
+
+- Removes Congress from impossible political position
+- "Funds automatically stop" is different from "Congress voted to stop"
+- Default becomes peace, not endless war
+- Congress can still authorize; rescission is only default
+
+**Why Two-Year Sunsets?**
+
+- Forces regular reauthorization debate
+- Prevents decades-old authorizations justifying new wars
+- Aligns with congressional election cycle
+- Long enough for major campaigns, short enough for accountability
+
+**Why Name-the-Enemy Requirement?**
+
+- Prevents 2001 AUMF problem (authorize against "associated forces" forever)
+- Congress must know who we're fighting
+- Cannot authorize war against organizations that don't exist yet
+- Each new enemy requires new debate
+
+**Why Include Drones and Cyber?**
+
+- Modern warfare increasingly uses these tools
+- Previous presidents claimed these aren't "hostilities"
+- Constitutional principle applies regardless of technology
+- Prevents semantic evasion through new weapons
+
+**Why Withdrawal Funding?**
+
+- Addresses legitimate concern about troop safety
+- Cannot use troops as hostages ("fund the war or they die")
+- 90 days sufficient for orderly withdrawal
+- Force protection authorized during withdrawal
+
+### Cross-Gap Interaction
+
+| Related Gap | Interaction |
+|-------------|-------------|
+| Gap 169 | Serial Emergency (war as permanent emergency) |
+| Gap 170 | Emergency Expansion (war funding as emergency spending) |
+| Gap 221 | Secret Law (secret legal opinions authorizing war) |
+| Gap 222 | Confirmation Blockade (military nominees affected) |
+
+### Risk Assessment
+
+**Without Fix:**
+
+- Forever wars continue without democratic authorization
+- 2001 AUMF remains open-ended authority
+- Presidents wage war unilaterally
+- Congress never votes because political risk too high
+- Constitutional war power becomes dead letter
+- Military-industrial complex operates without democratic check
+
+**With Fix:**
+
+- All wars require explicit, specific, time-limited authorization
+- Automatic rescission removes Congress from political trap
+- Legacy authorizations expire unless renewed
+- Semantic evasion ("not war") explicitly prohibited
+- Safe withdrawal ensured through separate funding
+- War power restored to Congress
+
+### Implementation Priority
+
+**Tier:** P1 (Immediate)
+**Rationale:** Forever wars ongoing; 2001 AUMF still in effect; democratic control of military force is fundamental
+
+**Dependencies:** None — self-contained war powers reform
+
+**Status:**
+**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article I-RF, Section 13.
+
+**Severity:** Critical | **Mitigability:** Manageable
+
+---
+
+### Gap 227: Emergency Zombie (The Permanent Crisis)
+
+> *"The President declares a 'national emergency' to unlock special powers. It's supposed to be temporary. But it never ends—because Congress never votes to terminate it."*
+
+#### Problem Statement
+
+National emergencies unlock extraordinary executive powers: spending without appropriation, military deployment, communication seizures, and more. Under the National Emergencies Act of 1976, these declarations are supposed to be temporary, but they persist indefinitely because termination requires *affirmative* congressional action.
+
+**The Mathematics of Inaction:**
+
+- **Declaration:** Single presidential signature
+- **Termination:** Requires joint resolution passing both chambers
+- **Override:** If President vetoes termination, requires two-thirds supermajority
+
+This asymmetry means emergencies become permanent by default. The average "emergency" in America is now over 10 years old. Some declared in the 1970s remain active.
+
+**Attack Vector:**
+
+> *Step 1:* Genuine crisis occurs (terrorism, pandemic, economic crash)
+> *Step 2:* President declares emergency with broad scope
+> *Step 3:* Emergency powers become normalized into agency operations
+> *Step 4:* Bureaucratic inertia and political cowardice prevent termination votes
+> *Step 5:* Decades pass; emergency becomes permanent governance feature
+> *Step 6:* Next president inherits—and expands—accumulated emergency powers
+
+#### Gaming Vectors
+
+| Vector | Mechanism | Likelihood |
+|--------|-----------|------------|
+| Scope Creep | Declare emergency for X, use powers for Y | High (routine) |
+| Renewal Theater | Congress "reviews" but takes no action | High (standard practice) |
+| Political Shield | Any vote to terminate framed as "weak on [threat]" | High |
+| Emergency Cascade | New emergency declared before old one terminated | High |
+| Veto Trap | President vetoes termination; two-thirds override impossible | High |
+
+**The Current Reality:**
+
+As of 2024, over 40 national emergencies remain active. The oldest dates to 1979 (Iranian hostage crisis). Emergency powers originally meant for genuine crises now fund border walls, impose tariffs, and regulate international transactions on a permanent basis.
+
+#### Proposed Constitutional Fix
+
+**Article XVII-RF, Section 6 — The Automatic Sunset**
+
+> **(a) Sunset Requirement**
+> Every emergency declaration shall automatically expire 90 days after its effective date unless renewed by act of Congress signed by the President.
+>
+> **(b) Renewal Requirements**
+> No renewal shall extend an emergency for more than 180 days. Each renewal must:
+> - (1) Specify the continuing threat that necessitates emergency powers;
+> - (2) Identify the specific powers being extended and their nexus to the threat;
+> - (3) Pass both chambers by recorded vote with a quorum present.
+>
+> **(c) Termination by Inaction**
+> If Congress fails to renew an emergency before its expiration, the emergency terminates automatically without further action. No emergency may be re-declared for the same threat within 30 days of expiration.
+>
+> **(d) Cumulative Limit**
+> No emergency may be renewed more than four times for any single declared threat. After two years, continuation of emergency powers requires passage of specific legislation granting those powers through ordinary legislative process.
+>
+> **(e) Power Specificity**
+> Emergency declarations must specify which statutory emergency powers the President intends to invoke. Powers not specifically invoked are not activated. No declaration may invoke "all available emergency powers" or similar blanket activations.
+>
+> **(f) Judicial Review**
+> Any citizen with standing may challenge the nexus between an emergency declaration and the powers invoked. Courts shall apply intermediate scrutiny, requiring the government to demonstrate that:
+> - (1) The declared threat is genuine and ongoing;
+> - (2) The invoked powers are substantially related to addressing that threat;
+> - (3) Ordinary legislative processes are inadequate to the threat's timeline.
+>
+> **(g) Legacy Emergency Transition**
+> All emergencies in effect on the date this Constitution takes effect shall expire 180 days after ratification unless renewed pursuant to subsection (b).
+
+#### Design Rationale
+
+| Provision | Purpose |
+|-----------|---------|
+| 90-day sunset (a) | Short enough to require regular congressional attention |
+| 180-day max renewal (b) | Prevents "one and done" multi-year extensions |
+| Termination by inaction (c) | Inverts burden—emergencies die without action |
+| Two-year cumulative limit (d) | After two years, use ordinary legislation |
+| Power specificity (e) | Prevents blanket activation of all emergency statutes |
+| Judicial review (f) | Courts can check pretextual emergencies |
+| Legacy transition (g) | Clears zombie emergencies from previous era |
+
+**Why 90 Days?**
+
+- Short enough that Congress cannot ignore
+- Long enough for genuine crisis response
+- Matches typical congressional session rhythm
+- Forces regular re-evaluation rather than passive continuation
+
+**Why Inaction = Termination?**
+
+The key innovation is reversing the default. Currently, inaction preserves emergencies. Under this framework, inaction terminates them. This aligns incentives: if Congress truly believes an emergency is necessary, it will act. If it won't vote, the emergency ends.
+
+#### Cross-Gap Interaction
+
+| Related Gap | Interaction |
+|-------------|-------------|
+| Gap 169 | Serial Emergency (prevents rolling declaration chains) |
+| Gap 170 | Emergency Expansion (limits scope creep through specificity requirement) |
+| Gap 224 | War Funding Drift (war authorizations have separate but compatible sunset) |
+| Gap 221 | Secret Law (emergency legal interpretations must be disclosed within 90 days) |
+
+#### Risk Assessment
+
+| Dimension | Without Fix | With Fix |
+|-----------|-------------|----------|
+| Emergency Duration | Decades (current average >10 years) | Maximum 2 years per threat |
+| Congressional Role | Passive bystander | Active gatekeeper |
+| Executive Power | Ratchets upward over time | Resets automatically |
+| Judicial Check | Rarely exercised | Clear review pathway |
+| Legacy Emergencies | Accumulate indefinitely | Expire 180 days post-ratification |
+
+#### Implementation Priority
+
+**Tier:** P1 (Immediate)
+**Rationale:** Emergency power accumulation is ongoing; dozens of zombie emergencies exist; executive authority expanding continuously
+
+**Dependencies:** Coordinates with Gap 224 (War Funding) for comprehensive authorization reform
+
+**Status:**
+**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article XVII-RF, Section 6.
+
+**Severity:** Critical | **Mitigability:** Manageable
+
+---
+
+### Gap 235: Privatized War ("Mercenary Bypass") 🔴
+
+> **Category:** Military Command
+> **Discovered:** 2026-01-26
+> **Related Gaps:** Gap 192 (Paramilitary Loophole), Gap 214 (Swarm Loophole), Gap 224 (War Funding Drift)
+
+#### Problem Statement
+
+We placed strict limits on the Standing Army through the "Funding Guillotine" (Gap 224), required "Two-Key" authorization for National Guard deployment, and capped State Defense Forces at 20% of Guard strength. But we did not restrict **Private Military Contractors (PMCs)**—mercenary armies that operate outside the Uniform Code of Military Justice, constitutional command structures, and accountability mechanisms.
+
+**The Attack Vector:**
+
+1. President wants to intervene in a Region or foreign conflict
+2. Congress refuses to authorize war or provide troops
+3. President hires massive PMC army using "discretionary," "intelligence," or "emergency" funds
+4. PMC operates outside UCMJ—war crimes not prosecutable under military law
+5. PMC answers only to the check-writer, not the Constitution
+6. Congressional oversight bypassed; troops aren't "deployed" because they're not troops
+7. **Private army loyal to President, not country, conducting combat operations**
+8. If PMC commits atrocities, no clear chain of command for accountability
+9. Constitutional limits on war-making power become advisory
+
+**Historical Precedent:**
+
+- Blackwater/Xe/Academi in Iraq—war crimes with minimal accountability
+- Wagner Group in Russia—plausible deniability for state violence
+- Executive Outcomes in Africa—corporate warfare for profit
+- U.S. has more contractors than troops in most recent conflicts
+
+#### Gaming Vectors
+
+| Vector | Mechanism | Severity |
+|--------|-----------|----------|
+| **Intelligence Cover** | PMC hired through CIA, not DoD | Critical |
+| **Training Mission** | PMC "training" local forces while conducting combat | Critical |
+| **Security Services** | PMC providing "security" that includes offensive operations | High |
+| **Foreign Subsidiary** | U.S. company operates through foreign subsidiary | High |
+| **Discretionary Funds** | Presidential slush funds pay contractors off-books | Critical |
+| **Regional Contracting** | Region hires PMC for "law enforcement support" | High |
+
+#### Proposed Constitutional Fix
+
+**Article XI-RF, Section 9: Monopoly on Force**
+
+> **(a) Inherently Governmental Function.** The exercise of the following powers is an Inherently Governmental Function that may only be performed by sworn officers of the United Regions:
+>
+>   - (1) combat operations, offensive military action, and armed conflict engagement;
+>   - (2) detention, arrest, and imprisonment of persons;
+>   - (3) interrogation of prisoners or detainees;
+>   - (4) law enforcement requiring the use or threat of force;
+>   - (5) intelligence operations involving coercion, violence, or surveillance of U.S. persons;
+>   - (6) security operations requiring authority to use lethal force.
+>
+> **(b) Private Military Contractor Prohibition.** The Federal Government, Regional Governments, and all agencies and instrumentalities thereof may not:
+>
+>   - (1) employ private military contractors for combat, combat support, or security operations requiring lethal force authority;
+>   - (2) fund, directly or indirectly, private military operations by U.S. or foreign entities;
+>   - (3) grant immunity, indemnification, or legal protection to private military actors;
+>   - (4) classify PMC contracts or expenditures to evade congressional oversight;
+>   - (5) permit PMC personnel to operate under U.S. command or in conjunction with U.S. forces.
+>
+> **(c) Limited Contractor Authorization.** Private contractors may provide:
+>
+>   - (1) logistics, maintenance, and supply chain services;
+>   - (2) training and education in non-combat settings;
+>   - (3) technical expertise for weapons systems;
+>   - (4) administrative and clerical support.
+>
+> Contractors providing such services may not carry weapons, exercise detention authority, or participate in combat operations.
+>
+> **(d) UCMJ Extension.** Any person performing security or military-adjacent functions under U.S. government contract is subject to:
+>
+>   - (1) the Uniform Code of Military Justice;
+>   - (2) prosecution for war crimes under federal law;
+>   - (3) court-martial jurisdiction for offenses committed in conflict zones.
+>
+> **(e) Foreign Operations.** U.S. persons may not:
+>
+>   - (1) serve in foreign private military organizations;
+>   - (2) provide military training or services to foreign governments without State Department license;
+>   - (3) participate in combat operations for any entity other than the United Regions armed forces.
+>
+> Violation strips U.S. citizenship and creates permanent ineligibility for any government employment or contract.
+>
+> **(f) Regional PMC Prohibition.** Regional and State governments may not:
+>
+>   - (1) hire private military or armed security contractors;
+>   - (2) authorize private entities to exercise law enforcement powers;
+>   - (3) fund paramilitary organizations through grants, contracts, or tax benefits.
+>
+> **(g) Transparency.** All contracts for security services, military training, or defense-related functions:
+>
+>   - (1) shall be reported to Congress within 30 days;
+>   - (2) may not be classified solely to conceal their existence;
+>   - (3) shall include total cost, personnel count, and authorized activities;
+>   - (4) shall be publicly disclosed in unclassified summary form.
+>
+> **(h) Enforcement.** Violation of this section:
+>
+>   - (1) renders any PMC contract void and unenforceable;
+>   - (2) creates personal liability for officials authorizing prohibited contracts;
+>   - (3) subjects violators to prosecution for illegal warfare;
+>   - (4) authorizes Congress to terminate any covert action discovered to involve PMC combat operations.
+
+#### Design Rationale
+
+| Provision | Purpose |
+|-----------|---------|
+| **Inherently governmental** | Core violent powers cannot be outsourced |
+| **PMC prohibition** | Closes combat contractor loophole entirely |
+| **Limited authorization** | Permits logistics/training, not combat |
+| **UCMJ extension** | Contractors subject to military justice |
+| **Foreign service ban** | Prevents mercenary career path |
+| **Regional prohibition** | Closes state-level PMC acquisition |
+| **Transparency** | Prevents classified contract concealment |
+| **Void contracts** | Financial deterrent for contractors |
+
+**Why Absolute Prohibition?**
+
+The military monopoly of the state is foundational to constitutional order. Private armies:
+- Owe allegiance to paymasters, not Constitution
+- Operate outside military justice and chain of command
+- Create plausible deniability for government atrocities
+- Enable executive war-making without congressional approval
+- Cannot be "reformed"—the model is inherently unconstitutional
+
+#### Cross-Gap Interaction
+
+| Related Gap | Interaction |
+|-------------|-------------|
+| Gap 192 | Paramilitary Loophole — State Defense Force limits; PMC is federal equivalent |
+| Gap 214 | Swarm Loophole — autonomous weapons; PMC is human mercenary version |
+| Gap 224 | War Funding Drift — funding guillotine; PMC bypasses troop limits |
+| Gap 232 | Purse Snatch — discretionary funds enable PMC payments |
+
+#### Risk Assessment
+
+| Dimension | Without Fix | With Fix |
+|-----------|-------------|----------|
+| **War Authorization** | Bypassable through contractors | Requires actual troops subject to limits |
+| **Accountability** | UCMJ doesn't apply to civilians | Full military justice coverage |
+| **Executive Power** | Private army at President's command | Constitutional forces only |
+| **Atrocity Liability** | Plausible deniability | Clear command responsibility |
+| **Regional Forces** | Could hire mercenaries | Absolutely prohibited |
+
+#### Implementation Priority
+
+**Tier:** P1 (Immediate)
+**Rationale:** Private military contractors already constitute majority of U.S. presence in many conflict zones; constitutional forces concept becomes meaningless if PMCs can conduct combat operations
+
+**Dependencies:** Coordinates with Gap 224 (War Funding), Gap 232 (Appropriations Integrity)
+
+---
+
+**Status:**
+**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article XI-RF, Section 9.
+
+**Severity:** Critical | **Mitigability:** Preventable
 
 ---
 

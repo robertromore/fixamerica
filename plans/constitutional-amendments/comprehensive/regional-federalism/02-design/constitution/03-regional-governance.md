@@ -33,7 +33,7 @@ The House shall be elected by the People according to population and shall initi
 
 (d) Each Region shall select Senators according to Regional law, provided such law provides for direct popular election.
 
-(e) **Transitional Exception.** Senators representing the District of Columbia and United States territories prior to Regional assignment serve as at-large members with full voting rights pursuant to Article XX, Sections 1(b) and 2(b). Upon Regional assignment, such Senators join the assigned Region's delegation.
+(e) **Transitional Exception.** Senators representing the District of Columbia and United States territories prior to Regional assignment serve as at-large members pursuant to Article XX, Sections 1(b) and 2(b). At-large Senators have full voting rights for five (5) years following ratification; thereafter, voting rights are subject to the Integration Timeline provisions of Article XX, Section 4. Upon Regional assignment, the Integration Bonus provisions of Article XX, Section 4 apply, and such Senators join the assigned Region's delegation.
 
 ---
 
@@ -59,24 +59,51 @@ The Senate shall not function as a routine legislative veto.
 **Conflict of Interest Provisions.** To ensure impartial adjudication:
 
 - (f) **Mandatory Recusal.** Senators from any Region that is a party to a dispute shall be recused from voting on the adjudication. If both parties are Regions, Senators from both Regions are recused.
+- (f-1) **Party Definition and Material Interest.**
+    - (1) **"Party" Defined.** For purposes of mandatory recusal under subsection (f), "party" includes: (a) any Region formally named in the dispute; (b) any Region that has filed an appearance or amicus submission; and (c) any Region determined by the presiding officer to be a "beneficial party" under paragraph (2).
+    - (2) **Beneficial Party Standard.** A Region is a "beneficial party" if it: (a) is providing more than incidental funding, legal assistance, or strategic direction to a named party; (b) has entered into any agreement with a named party concerning the conduct or outcome of the dispute; or (c) would receive more than incidental direct benefit from the relief sought, as distinguished from precedential effect.
+    - (3) **Material Interest Recusal.** Independent of party status, a Senator shall be recused if the dispute's outcome would directly and substantially affect that Senator's Region's: (a) fiscal obligations or entitlements exceeding 0.5% of Regional annual budget; (b) territorial boundaries or jurisdiction; or (c) constitutional authority as distinguished from policy preferences.
+    - (4) **Party Limitation.** No dispute may name more than four Regions as parties. If additional Regions have material interests, they may participate as amici but their Senators are not automatically recused unless they meet the beneficial party or material interest standards above.
 - (g) **Quorum with Recusals.** When Senators are recused under subsection (f):
     - (1) The quorum for adjudication shall be a majority of non-recused Senators;
     - (2) Decisions require a majority of non-recused Senators voting;
-    - (3) If recusals reduce participating Senators below eight, the dispute shall be transferred to the Supreme Court for original jurisdiction.
+    - (3) If recusals reduce participating Senators below eight, the presiding officer shall first convene a Special Senate Panel under subsection (g-1). Transfer to the Supreme Court occurs only if a Special Senate Panel cannot be constituted.
+- (g-1) **Special Senate Panel.** When recusals reduce participating Senators below eight:
+    - (1) The Chief Justice shall convene a Special Senate Panel consisting of six former Senators selected by lot from those who left office within the preceding twelve years and who did not represent any party Region;
+    - (2) The Panel shall have the same authority as the full Senate for the specific dispute;
+    - (3) Panel decisions are appealable to the Supreme Court on the same terms as full Senate decisions;
+    - (4) If fewer than six eligible former Senators are available, the Panel may proceed with a minimum of four members;
+    - (5) If a Special Senate Panel cannot be constituted, the dispute transfers to the Supreme Court for original jurisdiction.
+- (g-2) **Anti-Engineering Provisions.**
+    - (1) **Frivolous Party Addition.** If recusals would reduce participating Senators below eight, the presiding officer shall review whether any party was added primarily to force recusals rather than because of genuine legal necessity. Parties added without substantial justification shall be dismissed for recusal calculation purposes.
+    - (2) **Transfer Quota.** No more than three disputes per calendar year may be transferred to the Supreme Court or Special Senate Panel under subsection (g)(3) at the initiation of the same party or coordinated parties. Additional disputes shall be held in abeyance pending resolution of transferred matters.
+- (g-3) **Tertiary Fallback for Exhausted Forums.**
+    - (1) **Trigger.** If a dispute transferred to the Supreme Court under subsection (g-1)(5) cannot be heard because Supreme Court recusals prevent a quorum, the Chief Justice shall certify the dispute to a Circuit Resolution Panel.
+    - (2) **Panel Composition.** The Circuit Resolution Panel shall consist of the chief judges of five circuits, selected by lot from circuits whose territorial jurisdiction does not substantially overlap with any party Region. If fewer than five circuits are eligible, retired chief judges from ineligible circuits may be added by lot.
+    - (3) **Authority.** The Circuit Resolution Panel shall have original jurisdiction over the certified dispute with the same authority as the Supreme Court. Its decision is final and not subject to further appeal.
+    - (4) **Absolute Fallback.** If a Circuit Resolution Panel cannot be constituted, the dispute shall be resolved by binding arbitration before a panel of three arbitrators: one selected by each party and one selected by the American Arbitration Association from its roster of former federal judges. The arbitration award shall have the force of a Supreme Court judgment.
 - (h) **Anti-Bloc Voting Safeguards.**
     - (1) No adjudication may proceed if Senators from three or fewer Regions would constitute a majority of voting Senators;
-    - (2) If a pattern emerges where the same Regional coalition decides three consecutive disputes against the same Region or group of Regions, any affected Region may demand transfer to the Supreme Court;
+    - (2) If the same Regional coalition decides three consecutive disputes against the same Region or group of Regions, and those disputes involved claims with aggregate value exceeding 500,000 Federal Penalty Units or involving a question of Certified Constitutional Impression, any affected Region may demand transfer to the Supreme Court. Disputes voluntarily conceded, dismissed for procedural defect, or resolved by settlement shall not count toward the pattern threshold;
     - (3) The Chief Justice shall review Senate adjudication patterns annually and may certify "systematic regional bias" if statistical analysis demonstrates non-random voting patterns correlated with Regional identity rather than legal merit. Such certification triggers automatic Supreme Court review of pending and future disputes for two years.
 - (i) **Independent Adjudication Panel Option.** For disputes involving allegations of Regional discrimination or systematic bias:
     - (1) Any party may request adjudication by an Independent Panel instead of the full Senate;
     - (2) The Panel shall consist of the Chief Justice (presiding), two retired federal appellate judges selected by lot, and two Senators selected by lot from non-party Regions;
     - (3) Panel decisions have the same force as Senate adjudication and are appealable under the same terms.
+- (i-1) **Randomization Protocol for Panel Selection.**
+    - (1) **Selection Authority.** Senator selection by lot under subsection (i)(2) and former Senator selection under subsection (g-1)(1) shall be conducted by the Clerk of the Supreme Court, not by any Senate officer.
+    - (2) **Procedure.** The Clerk shall: (a) publicly announce the pool of eligible Senators or former Senators; (b) use a cryptographically verifiable random selection algorithm, with the seed derived from a publicly observable source announced at least 24 hours in advance; (c) conduct the selection in a recorded public proceeding; and (d) publish the algorithm, seed, and selection results within one hour.
+    - (3) **Challenge.** Any party may challenge the selection within 48 hours by demonstrating procedural irregularity. The Chief Justice shall rule on challenges within 72 hours. A successful challenge requires new selection; it does not permit party-directed selection.
 - (j) **Anti-Strategic Filing.** To prevent deliberate overload of adjudication systems:
     - (1) No party may have more than three disputes pending before the Senate or Supreme Court simultaneously;
     - (2) Disputes that are substantially similar or arise from coordinated filing strategies may be consolidated;
     - (3) The Chief Justice may impose filing restrictions on parties who demonstrate a pattern of filing disputes primarily to create procedural burden;
     - (4) If Supreme Court transfer requests exceed the Court's capacity, the Court may designate a Special Master panel of retired federal judges to hear overflow cases with the same binding authority;
     - (5) Filing fees, set by the Judicial Conference and waivable for hardship, shall apply to deter frivolous or strategic filings.
+- (j-1) **Coalition Filing Limits.**
+    - (1) **Coordination Presumption.** Disputes filed by different Regions within 60 days that: (a) name the same opposing party or parties; (b) raise substantially similar legal theories; or (c) seek relief that would be cumulative or reinforcing—are presumed to be coordinated filings subject to consolidated limits.
+    - (2) **Coalition Limit.** Regions whose filings are determined to be coordinated shall collectively be limited to five pending disputes, allocated among the coordinating Regions as they agree or, absent agreement, as the presiding officer directs.
+    - (3) **Rebuttal.** The presumption of coordination may be rebutted by demonstrating that the filings arose from genuinely independent grievances without communication or agreement among the filing Regions.
 
 **Senate Adjudicative Ethics Code.** When exercising quasi-judicial functions:
 

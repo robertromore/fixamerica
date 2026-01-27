@@ -4,7 +4,7 @@
 
 ---
 
-### Gap 1 — Civic Culture and Democratic Norms
+## Gap 1 — Civic Culture and Democratic Norms
 
 **Description:**
 The system cannot manufacture democratic commitment, truthfulness, or nonviolence.
@@ -25,7 +25,7 @@ Unavoidable. Managed only through time-buying and visibility, not prevention.
 
 ---
 
-### Gap 2 — Total Breakdown of Shared Reality
+## Gap 2 — Total Breakdown of Shared Reality
 
 **Description:**
 The system does not centrally regulate:

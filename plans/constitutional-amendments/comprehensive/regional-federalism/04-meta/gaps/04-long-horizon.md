@@ -4,7 +4,7 @@
 
 ---
 
-### Gap 9 — Inter-Regional Divergence Over Time
+## Gap 9 — Inter-Regional Divergence Over Time
 
 **Description:**
 Even with equalization, regions may diverge economically and culturally.
@@ -17,7 +17,7 @@ Mitigated by mobility, benefits floor, amendment adaptability; not eliminable.
 
 ---
 
-### Gap 10 — Institutional Fatigue and Complexity
+## Gap 10 — Institutional Fatigue and Complexity
 
 **Description:**
 The system is administratively complex and demanding.
@@ -30,7 +30,7 @@ Accepted tradeoff in exchange for survivability.
 
 ---
 
-### Gap 11 — Boundary Revision Politics and Regional Identity Crystallization
+## Gap 11 — Boundary Revision Politics and Regional Identity Crystallization
 
 **Description:**
 Regional boundaries are subject to periodic review ([Article I, Section 4](../../02-design/constitution/01-regional-structure.md)), but the political dynamics of boundary revision are unpredictable.

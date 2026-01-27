@@ -1,5 +1,85 @@
 # Regional Federalism Plan Changelog
 
+**Note**: This changelog has been reorganized by date. See the `changelog/` directory for detailed entries:
+
+- [`changelog/2026-01-26.md`](changelog/2026-01-26.md) - Latest changes
+- [`changelog/2026-01-25.md`](changelog/2026-01-25.md) - Major integration work 
+- [`changelog/2026-01-24.md`](changelog/2026-01-24.md) - Historical development
+
+## 2026-01-26: Territorial Integration Incentives (Bridge and Cliff)
+
+Added Article XX, Section 4 to address perverse incentive structure where territories could rationally remain indefinitely in at-large status rather than completing Regional integration.
+
+### Problem Identified
+
+The original Article XX, Sections 1-2 created a situation where:
+
+- Territories received dedicated at-large Senators with full voting rights
+- Joining a Region would dilute territorial representation within a larger delegation
+- The Territories Status Determination Act allowed indefinite "continued territorial status"
+- No countervailing pressure existed to incentivize Regional integration
+
+### Solution: "Bridge and Cliff" Mechanism
+
+**Part A: The Integration Bonus (The Bridge)**
+
+- Regions gain +1 Senate seat for 15 years upon accepting a Territory
+- Makes territories a prize (bonus power) rather than a burden
+- Post-bonus guarantee: territories with population ≥2× national population per House seat get one dedicated Regional Senate seat (guarantee expires when population falls below 1× for two consecutive censuses)
+
+**Part B: The Integration Timeline (The Cliff)**
+
+- At-large Senators have full voting rights for 5 years
+- After year 5 unassigned: reversion to delegate status (voice, no vote)
+- Fiscal consequences: frozen transfers, ineligible for Regional programs
+
+**Part C: The Orphan Safeguard**
+
+- Commission reviews Regional rejections for "Fiscal Discrimination"
+- Can order assignment if rejection was financially motivated
+- Federal government assumes 100% of pre-ratification territorial debt
+- Anti-gaming provisions prevent post-ratification debt accumulation
+
+### Files Modified
+
+**Constitutional Text:**
+
+- `02-design/constitution/06-supremacy.md` — Added Section 4 (full text), updated Sections 1-2 references
+- `02-design/constitution/03-regional-governance.md` — Updated Article IV, Section 3(e) transitional exception
+- `02-design/constitution.md` — Consolidated file updated with all changes
+
+**Implementing Legislation:**
+
+- `proposals/08-special-jurisdictions/territories-status-act.md` — Added Part VII (Sections 61-65) implementing integration incentives
+
+**Gap Documentation:**
+
+- `04-meta/gaps/13-intergovernmental.md` — Added Gap 150 (RESOLVED)
+- `04-meta/02-identified-gaps.md` — Updated statistics (150 total, 7 resolved)
+
+### Design Rationale
+
+The mechanism aligns incentives for all parties:
+
+| Party | Positive Incentive | Negative Incentive |
+|-------|-------------------|-------------------|
+| Territory | Bonus seat, Regional programs | Voting cliff, fiscal freeze |
+| Region | Bonus seat increases power | None (acceptance voluntary) |
+| Indebted Territory | Orphan Safeguard protection | Cannot game debt assumption |
+
+The 15-year bonus period allows political adjustment without permanent Senate asymmetry.
+
+### Formula Refinement
+
+The post-bonus representation guarantee uses House apportionment rather than arbitrary population thresholds:
+
+- **Threshold**: Territory population ≥ 2× national population per House seat (currently ~1.54M with 435 seats and ~335M population)
+- **Expiration**: Territory population < 1× national population per House seat for two consecutive censuses
+
+This formula automatically adjusts with population growth and is anchored to an existing constitutional mechanism (House apportionment).
+
+---
+
 ## 2026-01-25: Provision Reconciliation Complete
 
 Completed all 8 prioritized reconciliation items from `04-meta/03-provision-reconciliation.md`.

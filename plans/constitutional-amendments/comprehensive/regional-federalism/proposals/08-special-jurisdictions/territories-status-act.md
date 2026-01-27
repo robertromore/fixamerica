@@ -354,6 +354,159 @@ financial support for territorial governance transitions.
 
 ---
 
+## Part VII: Integration Incentives Implementation
+
+*This Part implements Article XX, Section 4 of the Regional Federal Constitution (the "Bridge and Cliff" mechanism).*
+
+### Section 61. Integration Bonus Administration
+
+(a) **Bonus Seat Activation.** Upon certification of Regional assignment by the
+Independent Boundary Review Commission:
+
+- (1) the receiving Region's Senate delegation shall increase by one seat;
+- (2) the bonus seat election shall be conducted within 180 days of assignment;
+- (3) the bonus seat term shall be six years, staggered with existing Regional
+    Senators.
+
+(b) **Election Administration.** The bonus seat shall be elected:
+
+- (1) exclusively by residents of the integrated Territory;
+- (2) using ranked-choice voting;
+- (3) administered by the Territory's election authority under federal oversight.
+
+(c) **Bonus Period Tracking.** The Independent Boundary Review Commission shall:
+
+- (1) maintain public records of bonus seat activation dates;
+- (2) provide two-year, one-year, and 90-day advance notice before bonus
+    expiration;
+- (3) certify bonus expiration and transition to standard Regional elections.
+
+### Section 62. Post-Bonus Representation Guarantee
+
+(a) **Population Determination.** The most recent decennial census and House
+apportionment shall determine whether a Territory qualifies for the post-bonus
+representation guarantee. A Territory qualifies if its population equals or
+exceeds twice the national population per House seat.
+
+(b) **Guaranteed Seat Election.** For qualifying Territories:
+
+- (1) one of the Region's three standard Senate seats shall be designated for
+    Territory-exclusive election;
+- (2) the designation shall rotate among the three seats according to the
+    Region's Senate election schedule;
+- (3) the designation continues until population falls below the national
+    population per House seat for two consecutive censuses.
+
+(c) **Non-Qualifying Territories.** Territories below the population threshold
+participate in Region-wide Senate elections without a guaranteed seat.
+
+(d) **Reference Calculation.** For purposes of this Section, "national population
+per House seat" means the total United States population divided by the number
+of House seats (435), as determined by the most recent decennial census and
+apportionment.
+
+### Section 63. Integration Timeline Implementation
+
+(a) **Five-Year Window.** For five years following ratification:
+
+- (1) territorial Senators have full voting rights;
+- (2) territorial Representatives have full voting rights;
+- (3) no fiscal consequences for non-assignment apply.
+
+(b) **Delegate Status Transition.** If a Territory remains unassigned after
+year five:
+
+- (1) the Presiding Officer of the Senate shall certify delegate status within
+    30 days;
+- (2) territorial Senators retain floor privileges, committee membership, and
+    bill introduction rights;
+- (3) territorial Senators may not vote on final passage of legislation or
+    nominations;
+- (4) House representation is unaffected and retains full voting rights.
+
+(c) **Fiscal Consequences.** Unassigned Territories after year five:
+
+- (1) remain eligible for existing federal programs;
+- (2) are ineligible for new Regional infrastructure grants established after
+    ratification;
+- (3) have baseline federal transfers frozen at year-five levels, adjusted
+    annually for CPI inflation.
+
+(d) **Restoration.** Upon Regional assignment certification:
+
+- (1) full Senate voting rights are restored immediately;
+- (2) Regional program eligibility begins immediately;
+- (3) the Integration Bonus provisions of Section 61 activate.
+
+### Section 64. Orphan Safeguard Procedures
+
+(a) **Rejection Review Petition.** A Territory rejected by a receiving Region
+may petition the Independent Boundary Review Commission within 90 days.
+
+(b) **Commission Review.** The Commission shall:
+
+- (1) complete review within 180 days;
+- (2) hold public hearings in the Territory and the rejecting Region;
+- (3) receive submissions from both parties and interested stakeholders.
+
+(c) **Fiscal Discrimination Standard.** The Commission may find Fiscal
+Discrimination if:
+
+- (1) financial concerns (debt, fiscal condition, anticipated costs) were a
+    substantial factor in the rejection; AND
+- (2) no legitimate geographic, cultural, or administrative basis exists for
+    rejection; OR
+- (3) multiple Regions have rejected the Territory on fiscal grounds.
+
+(d) **Ordered Assignment.** Upon finding Fiscal Discrimination:
+
+- (1) the Commission shall identify the most appropriate Region based on
+    geographic proximity, cultural ties, and economic integration;
+- (2) the Commission shall issue an assignment order within 30 days of the
+    finding;
+- (3) the order is subject to Supreme Court appeal within 60 days.
+
+(e) **Federal Debt Assumption.** In ordered assignments:
+
+- (1) the Treasury Department shall calculate the Territory's outstanding public
+    debt as of ratification date;
+- (2) the debt shall be assumed by the Federal Government within one year of
+    assignment;
+- (3) post-ratification debt is not assumed and transfers with the Territory.
+
+(f) **Anti-Gaming Enforcement.** The Commission may reduce or deny debt
+assumption if:
+
+- (1) the Territory incurred substantial new debt after ratification in
+    anticipation of federal assumption;
+- (2) the Territory engaged in deliberate fiscal mismanagement; or
+- (3) audit reveals debt was structured to exploit the assumption provision.
+
+### Section 65. Good Faith Integration Monitoring
+
+(a) **Commission Oversight.** The Independent Boundary Review Commission shall
+monitor integration for 15 years following each assignment.
+
+(b) **Bad Faith Indicators.** The Commission may find bad faith integration if:
+
+- (1) the Territory is denied proportional committee representation in Regional
+    legislature;
+- (2) the Territory is excluded from fiscal equalization formulas;
+- (3) Regional elections are structured to dilute Territory resident voting
+    power;
+- (4) the Territory is systematically excluded from Regional governance
+    decisions.
+
+(c) **Remedy.** Upon finding bad faith integration:
+
+- (1) the bonus seat period is extended until good faith integration is
+    certified;
+- (2) the Territory may petition for transfer to a different Region under
+    expedited review;
+- (3) the Commission may order specific remedial measures.
+
+---
+
 ## Hostile Reinterpretation Stress Test
 
 ### Attack Vector 1: Indefinite Congressional Delay
@@ -417,14 +570,14 @@ assignment to keep it in limbo.
 
 **Countermeasure:**
 
-- Continued territorial status with representation (Section 24)
-- Federal election participation regardless of assignment (Section 1)
-- Congressional authority to establish representation without Regional
-    integration
-- Multiple potential receiving Regions for most territories
+- Orphan Safeguard provisions (Sections 64-65)
+- Fiscal Discrimination review by Commission
+- Ordered assignment power for Commission
+- Federal debt assumption removes fiscal objection
+- Integration Timeline creates urgency for territory to seek assignment
 
-**Outcome:** Regional rejection does not eliminate representation rights;
-continued territorial status provides defined governance.
+**Outcome:** Regions cannot collude to reject territories on fiscal grounds;
+ordered assignment with debt assumption provides path forward.
 
 ---
 
@@ -445,14 +598,84 @@ status ensures representation.
 
 ---
 
+### Attack Vector 6: Permanent At-Large Status Gaming
+
+**Attack:** Territory deliberately remains unassigned to retain dedicated
+at-large Senators rather than being diluted in a Region.
+
+**Countermeasure:**
+
+- Five-year voting rights cliff (Section 63(b))
+- Fiscal consequences after year five (Section 63(c))
+- Integration Bonus makes joining attractive (Section 61)
+- Post-bonus representation guarantee for large territories (Section 62)
+
+**Outcome:** Remaining unassigned becomes strictly worse than joining after
+year five; territories have positive incentive to integrate.
+
+---
+
+### Attack Vector 7: Region Takes Territory, Then Marginalizes
+
+**Attack:** Region accepts territory for the bonus seat, then systematically
+excludes territory from Regional governance.
+
+**Countermeasure:**
+
+- Good Faith Integration monitoring (Section 65)
+- Bonus seat extension until good faith certified
+- Transfer petition option for mistreated territories
+- Commission authority to order remedial measures
+
+**Outcome:** Bad faith integration extends the bonus period and risks losing
+the territory entirely; Regions have incentive for genuine integration.
+
+---
+
+### Attack Vector 8: Territory Runs Up Debt Before Integration
+
+**Attack:** Territory incurs massive debt after ratification, expecting federal
+assumption upon ordered assignment.
+
+**Countermeasure:**
+
+- Debt assumption capped at ratification-date levels (Section 64(e))
+- Post-ratification debt excluded from assumption
+- Anti-gaming audit authority (Section 64(f))
+- Commission may reduce assumption for deliberate mismanagement
+
+**Outcome:** Only pre-ratification debt is assumed; post-ratification fiscal
+irresponsibility remains the Territory's responsibility.
+
+---
+
+### Attack Vector 9: Bonus Seat Manipulation
+
+**Attack:** Territory joins Region, gets bonus seat, then attempts to transfer
+to different Region for another bonus period.
+
+**Countermeasure:**
+
+- Non-transferable bonus (Article XX, Section 4(f))
+- One bonus per Territory, ever
+- Transfer does not reset the 15-year clock
+
+**Outcome:** Serial bonus-shopping is explicitly prohibited; territories get
+one bonus regardless of subsequent movements.
+
+---
+
 ### Residual Vulnerabilities
 
 | Vulnerability | Severity | Mitigation |
 |--------------|----------|------------|
-| Multiple receiving Region rejections | Low | Continued status option; Congressional alternatives |
+| Multiple receiving Region rejections | Low | Orphan Safeguard with ordered assignment |
 | Territorial politics internal disputes | Low | Multiple petition mechanisms (legislature or referendum) |
 | Transition funding shortfalls | Medium | Federal agency coordination; Congressional appropriations |
 | Statehood requires affirmative action | Medium | Expedited process; judicial review of arbitrary denial |
+| Temporary Senate asymmetry during bonus period | Low | 15-year limit; expiration built into constitutional text |
+| Large territory debt assumption costs | Medium | Capped at ratification levels; general federal revenues |
+| Small territories diluted post-bonus | Low | Accepted tradeoff; alternative is permanent asymmetry |
 
 ---
 

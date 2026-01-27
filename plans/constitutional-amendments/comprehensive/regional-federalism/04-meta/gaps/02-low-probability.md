@@ -4,7 +4,7 @@
 
 ---
 
-### Gap 3 — Coordinated Capture Across All Levels
+## Gap 3 — Coordinated Capture Across All Levels
 
 **Description:**
 If a single authoritarian coalition simultaneously captures:
@@ -29,7 +29,7 @@ See [Authoritarian Consolidation Scenario](../../03-analysis/05-authoritarian-sc
 
 ---
 
-### Gap 4 — Sustained, Mass Political Violence
+## Gap 4 — Sustained, Mass Political Violence
 
 **Description:**
 Large-scale, persistent violence can:
