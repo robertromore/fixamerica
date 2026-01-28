@@ -25,6 +25,28 @@ Design every institution as if:
 
 ---
 
+### Design Note: Why Adjudication Must Be Non-Political
+
+This Constitution intentionally separates adjudication from political representation. The reason is not moral idealism about judges, but structural realism about incentives.
+
+Political bodies are designed to aggregate preferences, negotiate compromises, and respond to constituencies. Their legitimacy flows from responsiveness and accountability. These are strengths in legislation and coordination—but liabilities in adjudication.
+
+Adjudication requires the opposite incentives.
+
+When disputes are resolved by political actors, outcomes inevitably track power rather than principle. Decisions become contingent on membership, partisan control, or electoral timing. Precedent becomes unstable. Compliance becomes selective. Losing parties interpret outcomes not as authoritative resolutions, but as temporary defeats to be reversed at the next election.
+
+History shows that once adjudication becomes political, disputes stop ending—they escalate.
+
+A constitutional system that relies on good faith from political actors to act judicially will eventually fail. This Constitution therefore assumes bad faith and designs around it. Binding determinations of rights, boundaries, and authority are assigned only to institutions structured to value consistency over popularity, reason-giving over signaling, and finality over leverage.
+
+Political bodies retain a vital role in coordination, mediation, and consent. They do not retain the power to declare winners and losers in disputes between sovereigns.
+
+This separation protects all parties, including those temporarily in power. It ensures that constitutional conflict is resolved by rules rather than by strength, and that losing a dispute does not require losing legitimacy. In a durable republic, adjudication must be authoritative enough to end conflict, and perceived as neutral enough to compel voluntary compliance.
+
+See [Gap 268: Senate Quasi-Judicial Power](../04-meta/gaps/11-institutional-governance.md#gap-268--senate-quasi-judicial-power-separation-of-powers-tension) for the constitutional provisions implementing this principle.
+
+---
+
 ## Axiom 2 — Distribute Power Relentlessly
 
 No office, branch, or level may:

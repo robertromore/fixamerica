@@ -46,7 +46,7 @@ These articles are part of the Regional Federal Constitution and require Regiona
 | Article | Section | Content | File |
 |---------|---------|---------|------|
 | **I** | 1-14 + Schedule A | Regions, boundaries, cooperation, water rights, transit, data sovereignty, environment, law enforcement, compacts, professional credentials; Schedule A defines initial Regional boundaries | [01-regional-structure.md](01-regional-structure.md) |
-| **II** | 1-7 | Federal/Regional/State powers, non-concurrency, exclusive domains, equivalence exemptions, ARB | [02-powers-and-rights.md](02-powers-and-rights.md) |
+| **II** | 1-10 + 1(e), 3-A, 4-A, 6-A | Federal/Regional/State powers, domain classification, rights floor enforcement constraints, concurrent authority framework, dispute reduction, exclusive domains, equivalence exemptions, infrastructure prioritization transparency, ARB | [02-powers-and-rights.md](02-powers-and-rights.md) |
 | **III** | 1-3 | Floors not ceilings, subsidiarity, hierarchy of law | [02-powers-and-rights.md](02-powers-and-rights.md) |
 | **IV** | 1-5 | Congress, House, Senate, lawmaking | [03-regional-governance.md](03-regional-governance.md) |
 | **V** | 1-2 | Presidency, executive authority | [03-regional-governance.md](03-regional-governance.md) |
@@ -94,7 +94,12 @@ For articles in this directory, cite directly:
 
 ```
 Article I, Section 7 (Water Rights)
+Article II, Section 1(e) (Domain Classification)
+Article II, Section 3-A (Rights Floor Enforcement Constraints)
+Article II, Section 4 (Concurrent Authority Framework)
+Article II, Section 4-A (Dispute Reduction and Litigation Management)
 Article II, Section 5 (Allocation Review Board)
+Article II, Section 6-A (Infrastructure Prioritization Transparency)
 Article X, Section 4 (Anti-Coercion Rule)
 Article XX, Section 1 (District of Columbia)
 ```
@@ -119,6 +124,7 @@ For region-dependent supplements, use the "-RF" designation:
 
 ```
 Article XIV-RF, Section 2 (Specialized Courts) — see 09-judiciary.md
+Article XIV-RF, Section 4 (Provisional Relief and Remedy Preservation) — see 09-judiciary.md
 Article XI-RF, Section 2 (Regional Guard Forces) — see 10-armed-forces.md
 ```
 

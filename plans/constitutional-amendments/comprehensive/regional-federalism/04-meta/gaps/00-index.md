@@ -33,14 +33,14 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | [08-electoral-judicial.md](08-electoral-judicial.md) | Electoral & Judicial Systems | Gaps 37, 48-49, 53, 73, 81, 95, 101, 108, 117, 120-121, 130, 145, 158-166, 173, 175, 186, 189, 196, 198, 237, 238, 243, 262 |
 | [09-emergency-military.md](09-emergency-military.md) | Emergency Powers & Military | Gaps 23-24, 33, 44, 55, 74, 82, 86, 88, 91, 102, 113, 122, 167, 169, 190, 192, 206, 224, 227, 235 |
 | [10-interstate-commerce.md](10-interstate-commerce.md) | Interstate Commerce & Infrastructure | Gaps 35, 50, 65-67, 75, 83, 92, 99, 104, 109, 116, 128, 132, 142, 185, 200 |
-| [11-institutional-governance.md](11-institutional-governance.md) | Institutional Governance | Gaps 34, 38, 41, 54, 56, 70, 79, 87, 89-90, 97, 100, 106, 118, 131, 149, 168, 171, 205, 219-223, 228-234, 248, 250-252, 260-261 |
+| [11-institutional-governance.md](11-institutional-governance.md) | Institutional Governance | Gaps 34, 38, 41, 54, 56, 70, 79, 87, 89-90, 97, 100, 106, 118, 131, 149, 168, 171, 205, 219-223, 228-234, 248, 250-252, 260-261, 268 |
 | [12-data-information.md](12-data-information.md) | Data & Information | Gaps 69, 84, 105, 119, 129, 144, 174, 218, 236, 245 |
 | [14-technology-governance.md](14-technology-governance.md) | Technology Governance | Gap 153 |
-| [15-judicial-process.md](15-judicial-process.md) | Judicial Process | Gaps 154, 216, 242, 246, 247, 256-259 |
+| [15-judicial-process.md](15-judicial-process.md) | Judicial Process | Gaps 154, 216, 242, 246, 247, 256-259, 272 |
 | [16-information-barriers.md](16-information-barriers.md) | Information & Communication | Gap 155 |
-| [17-rights-enforcement.md](17-rights-enforcement.md) | Rights Enforcement | Gaps 156, 188, 217, 225-226, 231, 239, 244, 263-264 |
+| [17-rights-enforcement.md](17-rights-enforcement.md) | Rights Enforcement | Gaps 156, 188, 217, 225-226, 231, 239, 244, 263-264, 270 |
 | [18-constitutional-adaptation.md](18-constitutional-adaptation.md) | Constitutional Process | Gaps 157, 187, 249 |
-| [13-intergovernmental.md](13-intergovernmental.md) | Intergovernmental Relations | Gaps 25-28, 31, 57, 59-60, 64, 71, 76-78, 96, 111, 114-115, 125-127, 134-136, 139-141, 143, 146, 148, 172, 176-184, 191, 199, 201, 203, 204, 240, 253-255, 265-267 |
+| [13-intergovernmental.md](13-intergovernmental.md) | Intergovernmental Relations | Gaps 25-28, 31, 57, 59-60, 64, 71, 76-78, 96, 111, 114-115, 125-127, 134-136, 139-141, 143, 146, 148, 172, 176-184, 191, 199, 201, 203, 204, 240, 253-255, 265-267, 269, 271 |
 | [19-emerging-technology.md](19-emerging-technology.md) | Emerging Technology | Gaps 207-215 |
 
 ---
@@ -172,6 +172,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 257 | Interpretive blank check (deference gap / de novo review mandate) | Critical | Proposal Available |
 | 258 | Sealed danger loophole (secret settlements / sunshine in litigation) | Critical | Proposal Available |
 | 259 | Shadow docket (emergency orders without reasoning / reasoned order mandate) | Critical | Proposal Available |
+| 272 | Judicial time-horizon mismatch (remedies after the fact / provisional relief) | High | ✅ Resolved |
 | 262 | Negative right loophole (missing right to vote / universal suffrage guarantee) | Critical | Proposal Available |
 
 ### Emergency Powers & Military
@@ -265,6 +266,8 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 261 | Watchdog massacre (inspector general purges / watchdog independence act) | Critical | Proposal Available |
 | 263 | Cashless panopticon (CBDC trap / right to anonymous transaction) | Critical | Proposal Available |
 | 264 | Espionage trap (whistleblower's gag / public interest defense) | Critical | Proposal Available |
+| 268 | Senate quasi-judicial power (separation of powers tension) | High | Resolved |
+| 270 | Rights floor enforcement expansion (anti-pretext framework) | High | ✅ Resolved |
 
 ### Data & Information
 
@@ -326,6 +329,8 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 265 | NIMBY blockade (strategic land use / national necessity easement) | Critical | Proposal Available |
 | 266 | Shadow diplomat (regional foreign policy / one voice doctrine) | Critical | Proposal Available |
 | 267 | Patent rebellion (IP vs. public health / innovation supremacy) | Critical | Proposal Available |
+| 269 | Non-concurrency rigidity (systemic litigation driver) | High | ✅ Resolved |
+| 271 | Regional patronage via infrastructure sequencing | Medium-High | ✅ Resolved |
 
 ### Emerging Technology
 
@@ -449,6 +454,6 @@ This gaps analysis should be reviewed and updated:
 - Following any significant intergovernmental compact affecting gap mitigation
 - When new technological or social developments create previously unidentified gaps
 
-**Last Updated**: 2026-01-26
+**Last Updated**: 2026-01-27
 **Version**: 1.1
 **Status**: Living Document

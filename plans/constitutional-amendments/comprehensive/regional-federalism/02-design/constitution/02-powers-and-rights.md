@@ -25,6 +25,44 @@ All powers not enumerated to the federal government herein are denied to the fed
 
 ---
 
+### Section 1(e). Domain Classification
+
+(1) **Exclusive Federal Domains.** The following domains are exclusively federal, and no Regional or State law may operate within them:
+
+- (i) National defense and armed forces;
+- (ii) Foreign affairs, treaties, and diplomacy;
+- (iii) Currency, monetary policy, and central banking;
+- (iv) Immigration and naturalization;
+- (v) Postal service and interstate telecommunications infrastructure;
+- (vi) Intellectual property (patents, copyrights, trademarks).
+
+(2) **Exclusive Regional Domains.** The following domains are exclusively Regional, and no Federal or State law may operate within them except as specifically enumerated:
+
+- (i) K-12 education curriculum and standards;
+- (ii) Land use, zoning, and local planning;
+- (iii) State and local government structure;
+- (iv) Family law (marriage, divorce, custody, adoption);
+- (v) Intraregional transportation infrastructure.
+
+(3) **Structured Concurrent Domains.** The following domains are inherently cross-cutting and shall be governed by the Concurrent Authority Framework:
+
+- (i) Healthcare delivery and insurance;
+- (ii) Environmental protection and climate;
+- (iii) Labor standards and workplace safety;
+- (iv) Housing policy and fair housing;
+- (v) Higher education and workforce development;
+- (vi) Criminal justice and policing;
+- (vii) Energy production and distribution;
+- (viii) Public health and disease control.
+
+(4) **Classification Review.** The Allocation Review Board shall review domain classifications every ten years and recommend reclassifications to Congress and the Regional Assemblies:
+
+- (i) ARB recommendations have no legal effect absent legislative action by Congress and ratification by a majority of Regional Assemblies;
+- (ii) Failure of Congress or the Regions to act on a recommendation does not alter existing classifications;
+- (iii) No domain may be reclassified by judicial interpretation; reclassification requires the legislative process specified herein.
+
+---
+
 ### Section 2. Enumerated Regional Powers
 
 Regions shall have exclusive authority over:
@@ -53,9 +91,155 @@ Local governments retain authority over implementation and service delivery.
 
 ---
 
-### Section 4. Non-Concurrency Rule
+### Section 3-A. Rights Floor Enforcement Constraints
 
-Powers shall be exclusive to the level to which they are assigned unless this Constitution explicitly authorizes shared jurisdiction.
+(a) **Rights Floor Authority.** Congress may enforce minimum protections against Regional abridgment only where:
+
+- (i) The right is explicitly enumerated in this Constitution or its amendments; OR
+- (ii) The right has been established by constitutional amendment ratified after the effective date of this Section.
+
+(b) **No Implied Rights Floors.** Congress may not claim enforcement authority based on:
+
+- (i) Penumbral reasoning from enumerated rights;
+- (ii) Substantive due process doctrine;
+- (iii) General welfare, commerce, or spending power rationales recharacterized as rights enforcement; OR
+- (iv) International treaty obligations not separately ratified as constitutional amendments.
+
+(c) **Enforcement Prerequisites.** Before exercising rights floor enforcement authority, Congress shall:
+
+- (i) **Identify the enumerated right** by specific textual citation;
+- (ii) **Document Regional violation** with specific findings of fact, including identification of the Regional law, policy, or practice alleged to violate the floor;
+- (iii) **Demonstrate necessity** showing that judicial remedies are inadequate to protect the enumerated right; AND
+- (iv) **Publish the evidentiary record** supporting enforcement in its entirety within 30 days of enactment, subject only to narrowly tailored national security redactions. Redacted material shall be provided in full to reviewing courts under seal.
+
+(d) **Judicial Review.** Any exercise of rights floor enforcement authority shall be subject to de novo judicial review. Courts shall apply no deference to congressional characterization of:
+
+- (i) Whether the asserted right is enumerated;
+- (ii) Whether Regional action violates the floor; OR
+- (iii) Whether judicial remedies are inadequate.
+
+(e) **Pretext Analysis.** Courts shall invalidate enforcement actions where:
+
+- (i) The stated rights justification is pretextual;
+- (ii) The enforcement mechanism bears no rational relationship to protecting the enumerated right; OR
+- (iii) The enforcement imposes burdens on Regional authority disproportionate to any plausible rights-protective benefit.
+
+A rebuttable presumption of pretext arises where enforcement targets Regional policies that Congress has previously sought to override through ordinary legislation.
+
+(f) **Individual Litigation Unaffected.** Nothing in this Section limits the ability of individuals to seek judicial relief for violations of constitutional rights, nor the authority of courts to grant such relief in individual cases. This Section constrains only congressional claims of enforcement authority under enabling clauses.
+
+---
+
+### Section 4. Concurrent Authority Framework
+
+(a) **Federal Floor, Regional Ceiling.** In Structured Concurrent Domains:
+
+- (i) Congress may establish minimum standards ("floors") applicable nationwide;
+- (ii) Regions may exceed federal floors within their territory;
+- (iii) Regions may not fall below federal floors;
+- (iv) Federal floors require three-fifths vote in both houses and certification by the ARB that the floor addresses genuine cross-regional spillover.
+
+(b) **Regional Primary Authority.** Within Structured Concurrent Domains:
+
+- (i) Regions have primary regulatory authority;
+- (ii) Federal authority is limited to establishing floors, not comprehensive regulation;
+- (iii) Federal enforcement operates only when Regional enforcement fails.
+
+(c) **Spillover Trigger.** Federal floor authority may be exercised only upon ARB certification that:
+
+- (i) The problem addressed has documented cross-regional effects;
+- (ii) Regional action alone cannot adequately address the spillover;
+- (iii) The proposed floor is the minimum necessary to address the spillover;
+- (iv) The floor does not prescribe specific means, only outcomes.
+
+(c-1) **ARB Role Limitation.** In certifying spillover and necessity under subsection (c), the ARB shall not evaluate the wisdom, desirability, or policy merits of the proposed floor, but only whether the constitutional criteria for federal floor authority are satisfied.
+
+(d) **Automatic Sunset.** Federal floors in Structured Concurrent Domains:
+
+- (i) Expire after ten years unless reauthorized;
+- (ii) May be reauthorized by simple majority upon ARB certification that spillover conditions persist;
+- (iii) Shall be reviewed by the ARB at years 5 and 8 with public report on continued necessity.
+
+(e) **Regional Variance.** A Region may petition for variance from a federal floor upon demonstrating:
+
+- (i) An alternative approach that achieves equivalent spillover mitigation;
+- (ii) The variance will not export harms to other Regions;
+- (iii) Approval by ARB, which shall issue variance within 90 days or state reasons for denial.
+
+(f) **Accountability Labeling.**
+
+(1) **Federal Responsibility Statement.** Federal floors in Structured Concurrent Domains shall include a Responsibility Statement identifying:
+
+- (i) which outcomes are federally guaranteed;
+- (ii) which implementation choices are delegated to Regions.
+
+(2) **Regional Compliance Statement.** Regional legislation in Structured Concurrent Domains shall include a Compliance Statement identifying:
+
+- (i) which provisions implement federal floor requirements;
+- (ii) which provisions exceed federal floors as Regional policy choices;
+- (iii) which implementation methods were selected by the Region from among permissible alternatives.
+
+(3) **Specificity Requirement.** Responsibility Statements and Compliance Statements shall be sufficiently specific to permit a reasonable reader to distinguish mandated requirements from discretionary policy choices.
+
+(4) **Effect of Non-Compliance.** Failure to include required Statements:
+
+- (i) does not invalidate the underlying legislation;
+- (ii) creates rebuttable presumption that challenged provisions are discretionary Regional choices for purposes of accountability;
+- (iii) may be cured by amendment at any time.
+
+(g) **Non-Concurrent Domains.** Powers in Exclusive Federal Domains and Exclusive Regional Domains (as defined in Section 1(e)) shall be exclusive to the level to which they are assigned unless this Constitution explicitly authorizes shared jurisdiction.
+
+---
+
+### Section 4-A. Dispute Reduction and Litigation Management
+
+(a) **Pre-Enactment Consultation.** Before enacting legislation in a Structured Concurrent Domain:
+
+- (i) The Federal Government shall provide 60 days' notice to all Regional Governors with draft text;
+- (ii) Regions shall provide 30 days' notice to the Federal Government and other Regions with draft text;
+- (iii) Any level may request ARB advisory opinion during notice period;
+- (iv) Advisory opinions issued within 45 days; non-binding but precedential.
+
+(b) **Expedited ARB Certification.** For legislation in Structured Concurrent Domains:
+
+- (i) ARB shall issue floor certifications within 60 days;
+- (ii) Failure to issue within 60 days creates rebuttable presumption of validity;
+- (iii) Expedited certifications are provisional and subject to full review within one year.
+
+(c) **Presumption of Validity.** In judicial review of Concurrent Domain legislation:
+
+- (i) Regional legislation exceeding federal floors is presumed valid;
+- (ii) Federal floors with ARB spillover certification are presumed valid;
+- (iii) Challenger bears burden of demonstrating invalidity by clear and convincing evidence.
+
+(d) **Safe Harbors.** The ARB shall publish:
+
+- (i) Model legislation templates that are pre-certified as valid;
+- (ii) "Bright line" lists of clearly permissible Regional and Federal actions;
+- (iii) Quarterly guidance on emerging issues.
+
+(e) **Annual Limits.** The ARB shall not be required to adjudicate more than:
+
+- (i) Fifty (50) domain boundary disputes per year from Federal Government;
+- (ii) Twenty (20) domain boundary disputes per year per Region;
+- (iii) Disputes exceeding limits shall be queued by filing date.
+
+(f) **Hardship Exception.** The ARB may grant leave to exceed annual filing limits upon a showing that:
+
+- (i) Denial would result in irreparable harm to Regional constitutional authority; and
+- (ii) The dispute could not reasonably have been anticipated and filed earlier.
+
+(g) **Consolidation Authority.** The ARB shall consolidate:
+
+- (i) Disputes raising substantially similar domain questions;
+- (ii) Disputes involving the same parties on related matters;
+- (iii) Consolidated disputes count as one against filing limits.
+
+(h) **Frivolousness Penalties.** A party that files a domain dispute found frivolous:
+
+- (i) Shall pay the opposing party's costs;
+- (ii) Loses one filing slot for the following year per frivolous filing;
+- (iii) After three frivolous filings in five years, requires ARB leave to file.
 
 ---
 
@@ -146,6 +330,91 @@ Expedited certifications shall be completed within ten days.
 (3) Provisional implementation shall not constitute a violation of the National Floor during the pendency of the petition;
 
 (4) If the petition is denied, the Region shall have one hundred eighty days to achieve full compliance with the National Floor.
+
+---
+
+### Section 6-A. Infrastructure Prioritization Transparency
+
+(a) **Published Criteria.** Each Region shall publish and maintain criteria for infrastructure sequencing, including:
+
+- (i) Factors determining project priority;
+- (ii) Methodology for applying factors to specific projects;
+- (iii) Timeline projections for queued projects.
+
+(b) **Prohibited Factors.** No prioritization criteria may include:
+
+- (i) Voting patterns of affected localities;
+- (ii) Party registration of affected populations;
+- (iii) Prior electoral outcomes in affected areas;
+- (iv) Political affiliation of local officials.
+
+(c) **Proxy Measure Limitation.** Criteria that correlate greater than 0.6 with prohibited factors require independent infrastructure justification. "Independent infrastructure justification" means a justification that, when applied neutrally across all localities, would not systematically correlate with political alignment.
+
+(d) **Public Accessibility.** Prioritization criteria and their application shall be:
+
+- (i) Published on publicly accessible websites;
+- (ii) Updated within 30 days of any methodology change;
+- (iii) Accompanied by explanation of how current projects were prioritized.
+
+(e) **Presumption of Need.**
+
+(1) **Prima Facie Case.** A prima facie case of patronage sequencing is established if a locality demonstrates:
+
+- (i) The locality is demonstrably underserved relative to the Regional average for the infrastructure category; AND
+- (ii) A sequencing decision delays investment by more than three (3) years relative to comparable projects; AND
+- (iii) A pattern of delays correlates with political alignment at greater than 0.5 statistical significance.
+
+(2) **Burden Shift.** Upon prima facie showing:
+
+- (i) The Region bears the burden of demonstrating independent infrastructure justification;
+- (ii) Justifications must be specific to the delayed project, not general policy;
+- (iii) Post-hoc justifications are viewed with skepticism.
+
+(3) **Independent Infrastructure Justification.** Justification is independent if it:
+
+- (i) Applies neutrally across all localities;
+- (ii) Would not systematically disadvantage politically disfavored areas when applied consistently;
+- (iii) Is documented in contemporaneous records, not reconstructed for litigation.
+
+(f) **Infrastructure Sequencing Audits.**
+
+(1) **Audit Authority.** The Regional Auditor (or equivalent independent official) may:
+
+- (i) Audit infrastructure sequencing decisions for compliance with this Section;
+- (ii) Conduct statistical correlation analysis between sequencing and political variables;
+- (iii) Publish annual reports on infrastructure allocation patterns.
+
+(2) **Data Requirements.** Regions shall maintain and provide to auditors:
+
+- (i) Complete sequencing decisions for the prior ten (10) years;
+- (ii) Stated justifications for each decision at time of decision;
+- (iii) Outcome data enabling correlation analysis.
+
+(3) **Delegation Non-Relief.** Delegation of infrastructure sequencing to private or quasi-private entities does not relieve the Region of responsibility for compliance with this Section. Private entities exercising delegated sequencing authority are subject to the same transparency and anti-patronage requirements.
+
+(4) **Public Reporting.** Audit results shall be:
+
+- (i) Published annually;
+- (ii) Transmitted to the ARB for potential enforcement action;
+- (iii) Available to affected localities for use in challenges.
+
+(g) **Remedies for Sequencing Patronage.**
+
+(1) **Standing.** Affected localities have standing to challenge sequencing patterns if they meet the prima facie standard of subsection (e).
+
+(2) **ARB Authority.** Upon finding patronage sequencing, the ARB may:
+
+- (i) Order revised prioritization using neutral methodology;
+- (ii) Order accelerated timelines for demonstrably disadvantaged localities;
+- (iii) Appoint an infrastructure sequencing monitor for up to five (5) years.
+
+(3) **Prospective-First Remedies.** Remedies shall prioritize prospective correction over retroactive reallocation except where delay has caused irreparable harm. No monetary damages for past sequencing; remedy is prospective correction of methodology and accelerated timelines.
+
+(4) **Pattern Evidence.** In challenges under this Section:
+
+- (i) Pattern evidence is admissible and probative;
+- (ii) Individual intent is not required if pattern establishes discriminatory effect;
+- (iii) Statistical evidence of correlation may establish prima facie case.
 
 ---
 
@@ -702,14 +971,20 @@ Authority resides at the lowest level capable of exercising it effectively, subj
 
 ## Design Rationale
 
-### Why Exclusive Rather Than Concurrent Powers?
+### Why Structured Concurrency Rather Than Pure Non-Concurrency?
 
-Traditional federalism allows concurrent jurisdiction, creating ambiguity exploited by both levels of government. The non-concurrency rule:
+The original design used exclusive domain assignment to prevent jurisdictional ambiguity. However, modern governance is inherently interdependent—healthcare crosses with labor and commerce, environment with energy and trade. Pure non-concurrency generates constant boundary litigation as every policy touches multiple domains.
 
-- prevents federal "creeping preemption" of Regional/State authority
-- prevents Regions from obstructing federal enumerated powers
-- creates clear lines for judicial enforcement
-- reduces intergovernmental conflict
+The Structured Concurrency Framework (Gap 269) resolves this by:
+
+- **Maintaining true exclusives:** Core sovereignty functions (defense, currency, diplomacy) and genuinely local matters (zoning, family law, K-12) remain exclusive
+- **Acknowledging inherent overlap:** Eight structured concurrent domains receive explicit floor/ceiling treatment
+- **Federal floors, not mandates:** Federal authority in concurrent domains is limited to minimum standards addressing cross-regional spillover
+- **Regional primary authority:** Regions have primary regulatory authority within concurrent domains
+- **Dispute prevention:** Pre-enactment consultation, safe harbors, and expedited certification reduce litigation
+- **Litigation management:** Filing limits and frivolousness penalties prevent strategic flooding
+
+This approach preserves the benefits of clear jurisdiction while avoiding the rigidity that generated 500+ disputes annually in pure non-concurrency models.
 
 ### Why Rights Floors Rather Than Uniform Rights?
 

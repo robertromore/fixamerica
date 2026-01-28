@@ -1949,6 +1949,158 @@ Both are treated identically: unauthorized disclosure of classified information.
 
 ---
 
+## Gap 270: Rights Floor Enforcement Expansion (Anti-Pretext Framework)
+
+**Identified**: 2026-01-27
+**Resolved**: 2026-01-27
+**Category**: Rights Enforcement / Intergovernmental Relations
+**Severity**: 🟠 HIGH
+**Status**: ✅ RESOLVED
+
+### Problem Statement
+
+Article II establishes federal authority to enforce "rights floors"—minimum protections that Regions cannot abridge. This power is essential for preventing a race to the bottom on civil liberties. However, it creates a structural vulnerability:
+
+**The federal government could weaponize "rights floor enforcement" to override legitimate Regional policy choices by:**
+
+- Inventing novel "rights" through creative interpretation of vague constitutional language
+- Claiming enforcement authority for rights that don't clearly exist in enumerated text
+- Using rights rhetoric as pretext for policy preferences that have nothing to do with protecting individuals
+
+**Historical Precedent**: The Commerce Clause's transformation from trade regulation to general police power demonstrates how enforcement authority expands beyond original scope when courts defer to congressional characterization.
+
+**Failure Scenario**:
+
+1. Congress dislikes a Regional policy (e.g., healthcare approach, education standards)
+2. Congress "discovers" a previously unrecognized rights floor (via penumbral reasoning or substantive due process)
+3. Congress enacts enforcement legislation overriding Regional policy
+4. Courts defer to congressional characterization of the "right"
+5. Rights floor enforcement becomes backdoor general police power
+6. Regional autonomy eroded; federal government gains effective veto over all Regional policy
+
+### Proposed Resolution
+
+#### Part 1: Enumeration Requirement (Article II, Section 3(a) — Revised)
+
+> **(a) Rights Floor Authority.** Congress may enforce minimum protections against Regional abridgment only where:
+>
+> (1) The right is explicitly enumerated in this Constitution or its amendments; OR
+>
+> (2) The right has been established by constitutional amendment ratified after the effective date of this Section.
+>
+> **(b) No Implied Rights Floors.** Congress may not claim enforcement authority based on:
+>
+> (1) Penumbral reasoning from enumerated rights;
+>
+> (2) Substantive due process doctrine;
+>
+> (3) General welfare, commerce, or spending power rationales recharacterized as rights enforcement; OR
+>
+> (4) International treaty obligations not separately ratified as constitutional amendments.
+
+#### Part 2: Procedural Safeguards (Article II, Section 3(c))
+
+> **(c) Enforcement Prerequisites.** Before exercising rights floor enforcement authority, Congress shall:
+>
+> (1) **Identify the enumerated right** by specific textual citation;
+>
+> (2) **Document Regional violation** with specific findings of fact, including identification of the Regional law, policy, or practice alleged to violate the floor;
+>
+> (3) **Demonstrate necessity** showing that judicial remedies are inadequate to protect the enumerated right; AND
+>
+> (4) **Publish the evidentiary record** supporting enforcement in its entirety within 30 days of enactment, subject only to narrowly tailored national security redactions. Redacted material shall be provided in full to reviewing courts under seal.
+>
+> **(d) Judicial Review.** Any exercise of rights floor enforcement authority shall be subject to de novo judicial review. Courts shall apply no deference to congressional characterization of:
+>
+> (1) Whether the asserted right is enumerated;
+>
+> (2) Whether Regional action violates the floor; OR
+>
+> (3) Whether judicial remedies are inadequate.
+>
+> **(e) Pretext Analysis.** Courts shall invalidate enforcement actions where:
+>
+> (1) The stated rights justification is pretextual;
+>
+> (2) The enforcement mechanism bears no rational relationship to protecting the enumerated right; OR
+>
+> (3) The enforcement imposes burdens on Regional authority disproportionate to any plausible rights-protective benefit.
+>
+> A rebuttable presumption of pretext arises where enforcement targets Regional policies that Congress has previously sought to override through ordinary legislation.
+
+#### Part 3: Preservation of Individual Remedies (Article II, Section 3(f))
+
+> **(f) Individual Litigation Unaffected.** Nothing in this Section limits the ability of individuals to seek judicial relief for violations of constitutional rights, nor the authority of courts to grant such relief in individual cases. This Section constrains only congressional claims of enforcement authority under enabling clauses.
+
+### Residual Risks
+
+| Risk | Mitigation | Residual |
+|------|------------|----------|
+| **Enumerated-rights rigidity** | Intentional design choice; channels new rights toward amendment process | Over 50-100 year horizons, may slow recognition of genuinely new baseline rights; pressure shifts to amendment mechanisms |
+| **Judicial culture resistance** | Explicit "no deference" text; structured presumptions | Courts may still subconsciously defer on emotionally charged claims; unfixable by drafting alone |
+| **Politicized pretext analysis** | Structured presumptions make analysis legible | Accusations of judicial activism inevitable; this is the least-bad approach vs. ad hoc deference |
+| **Evidentiary record gaming** | Public release requirement; under-seal provision for courts | Thin justifications become politically embarrassing but may still occur |
+
+**Design Note:** This framework intentionally channels the creation of new enforceable rights floors toward constitutional amendment rather than judicial or legislative accretion. This is an accepted tradeoff: slower rights evolution in exchange for protection against pretextual expansion.
+
+**Design Note (Rights Floor Rhetorical Framing):** Constraining enforcement authority strengthens rights by preventing dilution through overuse. When enforcement mechanisms can be deployed pretextually, genuine rights violations compete for attention with policy disagreements dressed as rights claims. The enumeration requirement ensures that enforcement authority remains credible and focused on actual constitutional protections, rather than becoming a general-purpose tool for federal override. This is not a limitation on rights—it is a protection of rights against weaponized enforcement rhetoric.
+
+### Cross-Gap Interaction
+
+| Related Gap | Interaction |
+|-------------|-------------|
+| **Gap 269 (Non-Concurrency Rigidity)** | Complementary; 269 addresses domain allocation while 270 addresses rights enforcement within domains |
+| **Gap 156 (Sovereign Immunity)** | Individual remedies clause ensures 270 doesn't inadvertently expand immunity defenses |
+| **Axiom 4 (Floors, Not Ceilings)** | Tension acknowledged; floors must be constitutionally grounded to prevent ceiling creep |
+| **Axiom 9 (Adaptation Is Safer Than Rigidity)** | Tension acknowledged; amendment path preserves adaptation while preventing weaponization |
+
+### Refinements Incorporated
+
+| Concern | Refinement |
+|---------|------------|
+| Implied rights creep | Section 3(b): Explicit prohibition on penumbral, substantive due process, and recharacterized rationales |
+| Congressional characterization deference | Section 3(d): De novo review with no deference on three key questions |
+| Pretext detection | Section 3(e): Structured presumption where prior legislative attempts failed |
+| Individual vs. legislative enforcement confusion | Section 3(f): Explicit carve-out preserving individual judicial remedies |
+| Evidentiary accountability | Section 3(c)(4): Public release with under-seal court access |
+
+### Risk Assessment
+
+**Without Fix**:
+
+- Federal government can claim novel "rights" via penumbral reasoning
+- Courts defer to congressional characterization
+- Rights enforcement becomes backdoor general police power
+- Regional autonomy effectively nullified
+- Commerce Clause expansion repeats in rights context
+
+**With Fix**:
+
+- Rights floors tied to enumerated constitutional text
+- Courts review de novo with no deference
+- Pretext analysis prevents policy-driven overreach
+- Individual remedies preserved
+- New rights channeled through amendment process
+- Regional autonomy protected within constitutional bounds
+
+### Implementation Priority
+
+**Tier**: P2 (Near-term)
+**Rationale**: Not immediately urgent but addresses structural vulnerability that could be exploited once political conditions align; preemptive protection before weaponization occurs
+
+**Dependencies**: Interacts with Gap 269 (domain allocation) and Axioms 4/9 (design tradeoffs)
+
+---
+
+**Status:**
+**✅ RESOLVED.** Constitutional amendment integrated into Article II, Section 3-A (Rights Floor Enforcement Constraints).
+
+See [02-powers-and-rights.md](../../02-design/constitution/02-powers-and-rights.md) for the constitutional text.
+
+**Severity:** High → Mitigated | **Resolution Date:** 2026-01-27
+
+---
+
 ## Navigation
 
 - [← Previous: Information Barriers](16-information-barriers.md)

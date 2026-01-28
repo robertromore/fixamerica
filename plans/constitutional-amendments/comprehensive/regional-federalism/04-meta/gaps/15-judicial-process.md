@@ -1829,6 +1829,270 @@ The Constitution creates one Supreme Court with "judicial Power." Judicial power
 
 ---
 
+## Gap 272 — The "Judicial Time-Horizon Mismatch" (Remedies After the Fact)
+
+**Identified**: 2026-01-27
+**Category**: Judicial Process / Implementation
+**Criticality**: 🔴 **HIGH**
+**Status**: ✅ RESOLVED
+
+**Resolution**: 2026-01-27 — Constitutional text integrated into Article XIV-RF, Section 4.
+
+### Problem Statement
+
+#### Courts Decide After Facts Are Locked In
+
+Even well-functioning courts with good-faith judges face a structural timing problem: by the time cases are fully briefed, argued, and decided, the underlying facts have often become irreversible. Elections have been certified. Infrastructure has been built. Contracts have been performed. Personnel have been appointed.
+
+**The Timing Gap**:
+
+| Domain | Time to Harm | Typical Resolution | Gap |
+|--------|--------------|-------------------|-----|
+| Elections | Hours to days | Months to years | Remedies arrive after certification |
+| Infrastructure | Months | Years | Projects complete before review |
+| Contracts | Days to weeks | Months to years | Performance complete before ruling |
+| Appointments | Immediate | Years | Officials serve full terms before review |
+| Policy implementation | Days | Months | Populations affected before challenge resolved |
+
+**The Attack Vector**:
+
+1. Government or Region takes unconstitutional action with immediate effect
+2. Challenger files lawsuit seeking injunctive relief
+3. Court schedules hearing, briefing, argument
+4. By the time ruling issues, action is complete
+5. Court declares action unconstitutional but declines prospective remedy as "moot"
+6. Government faces no consequences for constitutional violation
+7. Future actors learn that speed defeats judicial review
+
+**Failure Scenario (Election Context)**:
+
+1. Region implements unconstitutional voter restrictions 60 days before election
+2. Challenger seeks emergency relief
+3. Court schedules expedited hearing for 45 days out
+4. Election occurs 15 days before ruling
+5. Court rules restrictions unconstitutional but election results stand
+6. No one is held accountable; restriction achieved its purpose
+
+**Failure Scenario (Infrastructure Context)**:
+
+1. Region prioritizes infrastructure to politically favored areas
+2. Disadvantaged localities challenge under Article II, Section 6-A
+3. Court schedules hearing
+4. By the time ruling issues, infrastructure is built and operational
+5. Court finds violation but cannot "unbuild" the road
+6. Patronage objective achieved; remedy meaningless
+
+### Current Constitutional Gap
+
+**Existing Mitigations**:
+
+The RF Constitution includes several expedited review provisions:
+
+- **Article II, Section 5(h)**: ARB must issue certification within 60 days
+- **Article XIV (Judicial Reform)**: Supreme Court ruling within 30 days for emergency petitions
+- **Article XVII (Emergency Powers)**: 7-day judicial review requirement
+
+**Missing Protection**: No mechanism requires courts to:
+
+1. Assess remedy timing at the outset of litigation
+2. Issue provisional relief preserving the status quo
+3. Expedite review when delay would defeat the remedy
+4. Provide meaningful remedies when irreversibility has occurred
+
+The current system assumes normal litigation timelines work for all disputes, but constitutional rights frequently require faster protection.
+
+### Gaming Vectors Identified
+
+1. **The "Run Out the Clock" Strategy**
+   - Government takes immediate action with long-term effects
+   - Mounts vigorous procedural defense to extend timeline
+   - Achieves objective before court can rule
+   - Argues mootness or changed circumstances
+
+2. **The "Fait Accompli" Defense**
+   - Region implements policy immediately upon adoption
+   - When challenged, argues that reversal would be "disruptive"
+   - Courts reluctant to unwind completed transactions
+   - Constitutional violations become self-ratifying through speed
+
+3. **The "Emergency Exemption" Abuse**
+   - Government declares emergency to justify immediate action
+   - Action continues during litigation
+   - By the time emergency is reviewed, effects are permanent
+   - Emergency powers used to evade judicial review
+
+4. **The "Standing Now, Moot Later" Trap**
+   - Challenger has clear standing at time of harm
+   - Harm is completed during litigation
+   - Government argues case is moot
+   - Challenger has neither remedy nor precedent
+
+### Proposed Constitutional Fix
+
+#### Article XIV-RF, Section 4: Provisional Relief and Remedy Preservation
+
+> **Scope.** This section applies to claims challenging constitutional structure, separation of powers, electoral processes, intergovernmental authority, or fundamental rights where delay would defeat the remedy—not to ordinary policy disputes or regulatory challenges.
+>
+> **(a) Remedy Timing Assessment.** Upon filing of any case within the scope of this section, the court shall within seven (7) days assess whether:
+>
+> - (i) the challenged action is ongoing or of continuing effect;
+> - (ii) delay in resolution would render effective relief impracticable;
+> - (iii) irreversible harm to constitutional rights is likely absent provisional relief.
+>
+> **(b) Expedited Review Track.** If the court determines that any condition in subsection (a) is satisfied, the case shall be assigned to an Expedited Review Track with:
+>
+> - (i) abbreviated briefing schedules (not to exceed 30 days total);
+> - (ii) priority scheduling for oral argument;
+> - (iii) decision within 60 days of track assignment, absent extraordinary circumstances documented in writing.
+>
+> **(c) Provisional Relief Standard.** In cases on the Expedited Review Track, courts may issue provisional relief upon a showing that:
+>
+> - (i) the challenger raises a substantial constitutional question;
+> - (ii) continuation of the challenged action pending resolution would likely cause irreversible harm; and
+> - (iii) the balance of harms favors preserving the status quo ante.
+>
+> The challenger need not demonstrate likelihood of success on the merits for provisional relief under this section; a substantial question is sufficient.
+>
+> Any order granting or denying provisional relief shall include written findings addressing each factor in this subsection and explaining the court's reasoning.
+>
+> **(d) Status Quo Preservation Orders.** Provisional relief under this section may include:
+>
+> - (i) orders freezing the implementation of challenged policies;
+> - (ii) orders requiring continuation of prior practices pending resolution;
+> - (iii) orders enjoining expenditure of funds or execution of contracts that would create irreversible facts;
+> - (iv) orders preserving election procedures in effect before the challenged action.
+>
+> **(e) Mootness Limitation.** No case presenting a substantial constitutional question shall be dismissed as moot solely because:
+>
+> - (i) the specific election, term, or transaction at issue has concluded;
+> - (ii) the challenged policy has expired by its own terms; or
+> - (iii) the government has voluntarily ceased the challenged action.
+>
+> Courts shall resolve the constitutional question on the merits unless both parties agree to dismissal and no public interest in precedent exists.
+>
+> **(f) Remedies for Completed Violations.** When a court determines that a constitutional violation occurred but was completed before judicial resolution:
+>
+> - (i) the court shall issue a declaratory judgment establishing the violation;
+> - (ii) the court may award compensatory damages to injured parties;
+> - (iii) the court may impose structural injunctions preventing recurrence;
+> - (iv) responsible officials may be subject to sanctions under Article VIII, Section 5, including disqualification from future office for pattern violations;
+> - (v) the government entity shall bear the costs of litigation and reasonable attorney fees.
+>
+> **(g) Anti-Delay Sanctions.** If a court finds that a party engaged in procedural delay tactics to defeat timely remedy, the court shall:
+>
+> - (i) award attorney fees and costs to the opposing party;
+> - (ii) impose additional sanctions proportional to the harm caused by delay;
+> - (iii) refer responsible attorneys to disciplinary proceedings.
+>
+> **(h) Transparency and Reporting.** The Judicial Conference shall publish annual statistics on petitions for expedited review, assignments to the Expedited Review Track, provisional relief orders granted and denied, case outcomes, and average time to resolution. These reports shall be publicly accessible and transmitted to Congress.
+>
+> **(i) Election-Specific Expedited Review.** Any challenge to election procedures filed within 90 days of an election shall receive:
+>
+> - (i) ruling within 14 days of filing if filed more than 45 days before the election;
+> - (ii) ruling within 7 days if filed 45 days or fewer before the election;
+> - (iii) provisional relief maintaining the most recent validated election procedures pending resolution.
+>
+> **(j) Infrastructure and Contract Expedited Review.** Challenges to infrastructure prioritization under Article II, Section 6-A, or to contract awards exceeding 10,000 Federal Currency Units, shall:
+>
+> - (i) trigger automatic stay of implementation pending initial hearing;
+> - (ii) receive ruling on provisional relief within 21 days;
+> - (iii) receive final resolution within 120 days.
+
+### Design Rationale
+
+**Why Remedy Timing Assessment Matters**:
+
+| Without Assessment | With Assessment |
+|-------------------|-----------------|
+| All cases follow standard timeline | Time-sensitive cases identified immediately |
+| Delay benefits government | Government cannot run out clock |
+| Irreversible harms occur routinely | Status quo preserved pending review |
+| Constitutional rights effectively unenforceable | Provisional relief available |
+
+**The "Substantial Question" Standard**:
+
+Traditional preliminary injunction requires "likelihood of success on the merits." This standard defeats provisional relief in close cases—exactly where constitutional rights most need protection. The "substantial question" standard:
+
+- Preserves status quo in genuinely contested cases
+- Prevents fait accompli from determining outcome
+- Shifts burden from challenger to government
+- Allows meaningful judicial review before irreversible action
+
+**Mootness Limitation**:
+
+The mootness doctrine often defeats constitutional accountability:
+
+| Traditional Mootness | RF Approach |
+|---------------------|-------------|
+| Case dismissed if controversy resolved | Constitutional question resolved on merits |
+| No precedent established | Clear guidance for future conduct |
+| No accountability for violation | Declaratory judgment plus damages |
+| Repeat violations possible | Pattern triggers disqualification |
+
+### Cross-Gap Interaction
+
+| Related Gap | Interaction |
+|-------------|-------------|
+| Gap 48 (Electoral certification) | Election-specific expedited review addresses certification timing |
+| Gap 154 (Docket manipulation) | Anti-delay sanctions complement anti-frivolous filing provisions |
+| Gap 271 (Infrastructure sequencing) | Infrastructure expedited review enforces Section 6-A |
+| Gap 44 (Executive enforcement) | Declaratory judgments create enforceable standards |
+| Gap 242 (Trial penalty) | Expedited review reduces pressure for plea bargains in time-sensitive cases |
+
+### Risk Assessment
+
+**Without Fix**:
+
+- Constitutional rights exist on paper but are practically unenforceable
+- Speed defeats judicial review
+- Governments learn to take immediate action and litigate later
+- Accountability becomes impossible once facts are locked in
+- Elections, infrastructure, and appointments become immune to review
+
+**With Fix**:
+
+- Courts assess remedy timing at outset
+- Provisional relief preserves status quo
+- Expedited tracks ensure timely resolution
+- Completed violations still result in accountability
+- Constitutional rights have teeth
+
+### Constitutional Integration
+
+**Placement**: Article XIV-RF, Section 4
+
+**Rationale**: This provision fits naturally in the Regional Courts supplement because:
+
+- It governs court procedures at all levels
+- It complements existing expedited review provisions
+- It addresses Regional-Federal timing coordination
+- It strengthens enforcement of RF-specific provisions (allocation, infrastructure, elections)
+
+**Relationship to Judicial Reform Amendment**:
+The standalone Judicial Reform Amendment establishes time limits for decisions; this provision adds:
+
+- Remedy timing assessment at filing
+- Expedited track for time-sensitive cases
+- Provisional relief standards
+- Mootness limitations
+- Accountability for completed violations
+
+### Implementation Priority
+
+**Tier**: P1 (Immediate)
+**Rationale**: Without timely remedies, all other constitutional protections are merely advisory
+
+**Dependencies**: Works with Gap 154 (anti-docket manipulation) and Gap 271 (infrastructure sequencing)
+
+---
+
+**Status:**
+**✅ RESOLVED.** Constitutional text integrated into Article XIV-RF, Section 4.
+
+**Severity:** High | **Mitigability:** Requires Constitutional Amendment | **Resolved:** 2026-01-27
+
+---
+
 ## Navigation
 
 - [← Previous: Technology Governance](14-technology-governance.md)

@@ -8141,6 +8141,515 @@ The Constitution grants the Federal Government exclusive authority over "Intelle
 
 ---
 
+## Gap 269 — Non-Concurrency Rigidity (Systemic Litigation Driver)
+
+**Identified**: 2026-01-27
+**Resolved**: 2026-01-27
+**Category**: Intergovernmental Relations / Constitutional Structure
+**Criticality**: 🔴 **HIGH**
+**Status**: ✅ RESOLVED
+
+### Problem Statement
+
+#### The Structural Problem
+
+Article II establishes a "Non-Concurrency Rule" whereby each domain is exclusively allocated to one level of government unless explicitly designated as shared. This clean design principle generates constant boundary litigation because modern governance is inherently interdependent. The result: the ARB becomes overwhelmed with "does this impact that domain?" disputes, and the system's stability depends entirely on one institution's capacity.
+
+| Domain | Example of Interdependence | Dispute Generated |
+|--------|---------------------------|-------------------|
+| Healthcare (Regional) | Crosses with labor (Regional), commerce (Federal), education (Regional) | Does medical residency regulation "impact" education domain? |
+| Environment (Regional) | Crosses with interstate commerce (Federal), energy (Regional), agriculture (Regional) | Does emissions standard "impact" interstate commerce? |
+| Housing (Regional) | Crosses with finance (Federal), infrastructure (Regional), civil rights (Federal) | Does zoning reform "impact" fair housing enforcement? |
+| Labor (Regional) | Crosses with immigration (Federal), commerce (Federal), education (Regional) | Does apprenticeship program "impact" immigration? |
+
+#### The Litigation Multiplier
+
+Every policy touches multiple domains. Under non-concurrency:
+
+1. Actor proposes policy in "their" domain
+2. Affected level claims policy "impacts" their exclusive domain
+3. ARB must certify whether impact exists
+4. Losing party appeals to courts
+5. Courts must interpret "impact" standard
+6. Precedent generates new boundary questions
+7. Cycle repeats
+
+#### Quantitative Risk
+
+- EU experiences ~200 competence disputes annually with its shared-powers model
+- U.S. federalism generates ~50 preemption cases per year
+- Exclusive-domain model with interdependent governance could generate 500+ disputes annually
+- ARB capacity: 9 members, ~50 complex determinations per year maximum
+- **Result:** 10-year backlog within first decade
+
+#### The Madisonian Tension
+
+Madison's "extended republic" theory assumed layered sovereignty with significant overlap. The Articles of Confederation failed partly because states had exclusive domains with no coordination mechanism. The Constitution's genius was the Necessary and Proper Clause—explicit permission for means-ends flexibility. Non-concurrency reintroduces the rigidity the Founders rejected.
+
+#### Risk
+
+- ARB becomes system bottleneck (reinforcing Gap 268's concern about single points of failure)
+- Policy innovation stalls pending years of boundary litigation
+- Actors learn to frame policies to maximize domain ambiguity (strategic litigation)
+- Courts develop expansive "impact" jurisprudence that swallows exclusivity
+- System either gridlocks (too rigid) or exclusivity becomes meaningless (too flexible)
+
+---
+
+### Proposed Resolution: Structured Concurrency for Interdependent Domains (Five-Part Solution)
+
+This solution acknowledges that some domains are inherently shared while preserving clear exclusivity where possible.
+
+---
+
+**Part 1: Domain Classification (Article II, Section 1(e) — New)**
+
+> **Section 1(e). Domain Classification.**
+>
+> (1) **Exclusive Federal Domains.** The following domains are exclusively federal, and no Regional or State law may operate within them:
+>
+> - (i) National defense and armed forces;
+> - (ii) Foreign affairs, treaties, and diplomacy;
+> - (iii) Currency, monetary policy, and central banking;
+> - (iv) Immigration and naturalization;
+> - (v) Postal service and interstate telecommunications infrastructure;
+> - (vi) Intellectual property (patents, copyrights, trademarks).
+>
+> (2) **Exclusive Regional Domains.** The following domains are exclusively Regional, and no Federal or State law may operate within them except as specifically enumerated:
+>
+> - (i) K-12 education curriculum and standards;
+> - (ii) Land use, zoning, and local planning;
+> - (iii) State and local government structure;
+> - (iv) Family law (marriage, divorce, custody, adoption);
+> - (v) Intraregional transportation infrastructure.
+>
+> (3) **Structured Concurrent Domains.** The following domains are inherently cross-cutting and shall be governed by the Concurrent Authority Framework:
+>
+> - (i) Healthcare delivery and insurance;
+> - (ii) Environmental protection and climate;
+> - (iii) Labor standards and workplace safety;
+> - (iv) Housing policy and fair housing;
+> - (v) Higher education and workforce development;
+> - (vi) Criminal justice and policing;
+> - (vii) Energy production and distribution;
+> - (viii) Public health and disease control.
+>
+> (4) **Classification Review.** The Allocation Review Board shall review domain classifications every ten years and recommend reclassifications to Congress and the Regional Assemblies:
+>
+> - (i) ARB recommendations have no legal effect absent legislative action by Congress and ratification by a majority of Regional Assemblies;
+> - (ii) Failure of Congress or the Regions to act on a recommendation does not alter existing classifications;
+> - (iii) No domain may be reclassified by judicial interpretation; reclassification requires the legislative process specified herein.
+
+**Design Rationale:**
+
+- **True exclusives remain exclusive:** Core sovereignty functions (defense, currency, diplomacy) have no overlap
+- **Regional exclusives protected:** Local matters (zoning, family law, K-12) remain Regional
+- **Concurrent category explicit:** Domains with unavoidable overlap get structured treatment
+- **Periodic review:** Classifications can adapt without constitutional amendment
+- **No soft law:** Recommendations cannot become de facto reclassifications through inaction
+
+---
+
+**Part 2: Concurrent Authority Framework (Article II, Section 4 — Revised)**
+
+> **Section 4. Concurrent Authority Framework.**
+>
+> (a) **Federal Floor, Regional Ceiling.** In Structured Concurrent Domains:
+>
+> - (i) Congress may establish minimum standards ("floors") applicable nationwide;
+> - (ii) Regions may exceed federal floors within their territory;
+> - (iii) Regions may not fall below federal floors;
+> - (iv) Federal floors require three-fifths vote in both houses and certification by the ARB that the floor addresses genuine cross-regional spillover.
+>
+> (b) **Regional Primary Authority.** Within Structured Concurrent Domains:
+>
+> - (i) Regions have primary regulatory authority;
+> - (ii) Federal authority is limited to establishing floors, not comprehensive regulation;
+> - (iii) Federal enforcement operates only when Regional enforcement fails.
+>
+> (c) **Spillover Trigger.** Federal floor authority may be exercised only upon ARB certification that:
+>
+> - (i) The problem addressed has documented cross-regional effects;
+> - (ii) Regional action alone cannot adequately address the spillover;
+> - (iii) The proposed floor is the minimum necessary to address the spillover;
+> - (iv) The floor does not prescribe specific means, only outcomes.
+>
+> (c-1) **ARB Role Limitation.** In certifying spillover and necessity under subsection (c), the ARB shall not evaluate the wisdom, desirability, or policy merits of the proposed floor, but only whether the constitutional criteria for federal floor authority are satisfied.
+>
+> (d) **Automatic Sunset.** Federal floors in Structured Concurrent Domains:
+>
+> - (i) Expire after ten years unless reauthorized;
+> - (ii) May be reauthorized by simple majority upon ARB certification that spillover conditions persist;
+> - (iii) Shall be reviewed by the ARB at years 5 and 8 with public report on continued necessity.
+>
+> (e) **Regional Variance.** A Region may petition for variance from a federal floor upon demonstrating:
+>
+> - (i) An alternative approach that achieves equivalent spillover mitigation;
+> - (ii) The variance will not export harms to other Regions;
+> - (iii) Approval by ARB, which shall issue variance within 90 days or state reasons for denial.
+>
+> (f) **Accountability Labeling.**
+>
+> (1) **Federal Responsibility Statement.** Federal floors in Structured Concurrent Domains shall include a Responsibility Statement identifying:
+>
+> - (i) which outcomes are federally guaranteed;
+> - (ii) which implementation choices are delegated to Regions.
+>
+> (2) **Regional Compliance Statement.** Regional legislation in Structured Concurrent Domains shall include a Compliance Statement identifying:
+>
+> - (i) which provisions implement federal floor requirements;
+> - (ii) which provisions exceed federal floors as Regional policy choices;
+> - (iii) which implementation methods were selected by the Region from among permissible alternatives.
+>
+> (3) **Specificity Requirement.** Responsibility Statements and Compliance Statements shall be sufficiently specific to permit a reasonable reader to distinguish mandated requirements from discretionary policy choices.
+>
+> (4) **Effect of Non-Compliance.** Failure to include required Statements:
+>
+> - (i) does not invalidate the underlying legislation;
+> - (ii) creates rebuttable presumption that challenged provisions are discretionary Regional choices for purposes of accountability;
+> - (iii) may be cured by amendment at any time.
+
+**Design Rationale:**
+
+- **Floors not ceilings:** Federal authority limited to preventing races to the bottom, not mandating uniformity
+- **Spillover requirement:** Federal action must be justified by cross-regional effects, not mere preference
+- **ARB polices authority, not policy:** Explicit constraint prevents mission creep into policy evaluation
+- **Outcome-based floors:** Prevents federal micromanagement; Regions choose means
+- **Sunset forces reauthorization:** Prevents permanent accretion of federal authority
+- **Variance mechanism:** Innovation-friendly; Regions can experiment with ARB approval
+- **Accountability labeling:** Voters can identify who made which choices; symmetric for both levels
+- **Specificity requirement:** Prevents boilerplate compliance statements
+
+---
+
+**Part 3: Dispute Reduction Procedures (Article II, Section 5(n))**
+
+> **Section 5(n). Dispute Reduction in Concurrent Domains.**
+>
+> (1) **Pre-Enactment Consultation.** Before enacting legislation in a Structured Concurrent Domain:
+>
+> - (i) The Federal Government shall provide 60 days' notice to all Regional Governors with draft text;
+> - (ii) Regions shall provide 30 days' notice to the Federal Government and other Regions with draft text;
+> - (iii) Any level may request ARB advisory opinion during notice period;
+> - (iv) Advisory opinions issued within 45 days; non-binding but precedential.
+>
+> (2) **Expedited ARB Certification.** For legislation in Structured Concurrent Domains:
+>
+> - (i) ARB shall issue floor certifications within 60 days;
+> - (ii) Failure to issue within 60 days creates rebuttable presumption of validity;
+> - (iii) Expedited certifications are provisional and subject to full review within one year.
+>
+> (3) **Presumption of Validity.** In judicial review of Concurrent Domain legislation:
+>
+> - (i) Regional legislation exceeding federal floors is presumed valid;
+> - (ii) Federal floors with ARB spillover certification are presumed valid;
+> - (iii) Challenger bears burden of demonstrating invalidity by clear and convincing evidence.
+>
+> (4) **Safe Harbors.** The ARB shall publish:
+>
+> - (i) Model legislation templates that are pre-certified as valid;
+> - (ii) "Bright line" lists of clearly permissible Regional and Federal actions;
+> - (iii) Quarterly guidance on emerging issues.
+
+**Design Rationale:**
+
+- **Front-loaded consultation:** Disputes prevented before they arise
+- **Expedited process:** 60-day timeline prevents policy paralysis
+- **Presumption of validity:** Reduces litigation; burden on challenger
+- **Safe harbors:** Provides certainty; actors can use templates without litigation risk
+
+---
+
+**Part 4: Litigation Management (Article II, Section 5(o))**
+
+> **Section 5(o). Domain Dispute Docket Management.**
+>
+> (1) **Annual Limits.** The ARB shall not be required to adjudicate more than:
+>
+> - (i) Fifty (50) domain boundary disputes per year from Federal Government;
+> - (ii) Twenty (20) domain boundary disputes per year per Region;
+> - (iii) Disputes exceeding limits shall be queued by filing date.
+>
+> (2) **Hardship Exception.** The ARB may grant leave to exceed annual filing limits upon a showing that:
+>
+> - (i) Denial would result in irreparable harm to Regional constitutional authority; and
+> - (ii) The dispute could not reasonably have been anticipated and filed earlier.
+>
+> (3) **Consolidation Authority.** The ARB shall consolidate:
+>
+> - (i) Disputes raising substantially similar domain questions;
+> - (ii) Disputes involving the same parties on related matters;
+> - (iii) Consolidated disputes count as one against filing limits.
+>
+> (4) **Frivolousness Penalties.** A party that files a domain dispute found frivolous:
+>
+> - (i) Shall pay the opposing party's costs;
+> - (ii) Loses one filing slot for the following year per frivolous filing;
+> - (iii) After three frivolous filings in five years, requires ARB leave to file.
+
+**Design Rationale:**
+
+- **Filing limits:** Prevents strategic flooding
+- **Hardship exception:** Prevents caps from becoming inequitable for smaller or less-resourced Regions
+- **Consolidation:** Efficient treatment of related disputes
+- **Frivolousness penalties:** Discourages fishing expeditions
+
+---
+
+### Residual Risks Acknowledged
+
+| Risk | Mitigation | Residual |
+|------|------------|----------|
+| ARB quasi-legislative drift | Section 4(c-1) limits ARB to authority-policing, not policy evaluation | Subtle policy steering through guidance still possible; requires monitoring |
+| Accountability blur | Symmetric Responsibility/Compliance Statements with specificity requirement | Some blame-shifting inevitable in shared systems |
+| Filing cap inequity | Hardship exception for irreparable harm | Exception could be gamed; narrow standard reduces risk |
+| Reclassification flashpoint | Section 1(e)(4) requires legislative action; no soft law | Political controversy unavoidable; procedural clarity reduces legitimacy attacks |
+
+**Design Note (ARB Guidance Gravity):** ARB guidance, safe harbors, and model legislation templates have no precedential force unless adopted through adjudication. They cannot be cited as evidence of optimal policy, nor do they establish presumptions about what policies Regions "should" adopt. The guidance function exists to reduce litigation, not to shape policy agendas. Actors seeking to use ARB guidance as authority for policy positions must demonstrate independent constitutional or statutory grounds.
+
+---
+
+### Cross-Gap Interaction
+
+| Related Gap | Interaction |
+|-------------|-------------|
+| **Gap 54 (Expert Capture)** | Reduced ARB workload makes capture less catastrophic |
+| **Gap 175 (Precedent Trap)** | Safe harbors and presumptions reduce interpretive disputes |
+| **Gap 184 (Regulatory Void)** | Presumption of validity during transition |
+| **Gap 268 (Senate Quasi-Judicial)** | Mutually reinforcing; reduced ARB adjudicative workload |
+
+---
+
+### Implementation Priority
+
+**Tier**: P1 (Immediate)
+**Rationale**: Non-concurrency rigidity threatens system operability; every policy dispute becomes constitutional dispute without structured concurrency
+
+**Dependencies**: Works with Gap 268 (ARB adjudicative authority); Gap 54 safeguards apply to ARB guidance functions
+
+---
+
+**Status:**
+**✅ RESOLVED.** Constitutional amendments integrated into Article II:
+
+- Section 1(e): Domain Classification
+- Section 4: Concurrent Authority Framework (replaced Non-Concurrency Rule)
+- Section 4-A: Dispute Reduction and Litigation Management
+
+See [02-powers-and-rights.md](../../02-design/constitution/02-powers-and-rights.md) for the constitutional text.
+
+**Severity:** High → Mitigated | **Resolution Date:** 2026-01-27
+
+---
+
+## Gap 271 — Regional Patronage via Infrastructure Sequencing
+
+**Identified**: 2026-01-27
+**Category**: Intergovernmental Relations / Political Economy
+**Severity**: 🟠 MEDIUM-HIGH → Mitigated
+**Status**: ✅ RESOLVED
+**Resolved**: 2026-01-27
+**Constitutional Text**: [Article II, Section 6-A](../../02-design/constitution/02-powers-and-rights.md#section-6-a-infrastructure-prioritization-transparency)
+
+### Problem Statement
+
+Regions control infrastructure sequencing within their territory—the order in which roads, bridges, broadband, water systems, and other infrastructure projects are built. Even without violating any substantive floor, a Region can systematically reward allied localities and punish opposing ones through timing alone:
+
+- Allied localities receive infrastructure investments first, enabling economic development
+- Opposing localities wait years or decades for equivalent investments
+- No individual decision violates any rule, but the pattern constitutes political patronage
+- Citizens in disfavored localities suffer material harm based on political alignment
+
+**The Patronage Mechanism:**
+
+| Tactic | Appearance | Effect |
+|--------|------------|--------|
+| Priority sequencing | "Efficient resource allocation" | Allied localities develop first |
+| Delayed maintenance | "Budget constraints" | Opposing localities deteriorate |
+| Conditional funding | "Performance-based allocation" | Conditions favor allies |
+| Project bundling | "Economies of scale" | Opposing localities excluded from bundles |
+
+**Historical Precedent**: State highway departments have historically been sites of patronage, with road construction following political rather than needs-based criteria. The Regional structure creates larger entities with more resources, potentially amplifying this pattern.
+
+**Failure Scenario**:
+
+1. Region controlled by Party A
+2. Localities voting for Party B consistently moved to back of infrastructure queue
+3. Economic development diverges based on political alignment
+4. No individual decision is actionable—each has plausible neutral justification
+5. Pattern emerges only in aggregate but causes real harm
+6. Citizens punished for exercising democratic choice
+
+### Proposed Resolution
+
+#### Part 1: Transparent Prioritization Methodology (Article II, Section 6(a))
+
+> **Section 6(a). Infrastructure Prioritization Transparency.**
+>
+> (1) **Published Criteria.** Each Region shall publish and maintain criteria for infrastructure sequencing, including:
+>
+> - (i) Factors determining project priority;
+> - (ii) Methodology for applying factors to specific projects;
+> - (iii) Timeline projections for queued projects.
+>
+> (2) **Prohibited Factors.** No prioritization criteria may include:
+>
+> - (i) Voting patterns of affected localities;
+> - (ii) Party registration of affected populations;
+> - (iii) Prior electoral outcomes in affected areas;
+> - (iv) Political affiliation of local officials.
+>
+> (3) **Proxy Measure Limitation.** Criteria that correlate greater than 0.6 with prohibited factors require independent infrastructure justification. "Independent infrastructure justification" means a justification that, when applied neutrally across all localities, would not systematically correlate with political alignment.
+>
+> (4) **Public Accessibility.** Prioritization criteria and their application shall be:
+>
+> - (i) Published on publicly accessible websites;
+> - (ii) Updated within 30 days of any methodology change;
+> - (iii) Accompanied by explanation of how current projects were prioritized.
+
+**Design Rationale:**
+
+- Transparency enables detection of patterns
+- Prohibited factors list closes obvious gaming
+- 0.6 correlation threshold with independent justification requirement catches sophisticated proxies
+- Public accessibility enables citizen oversight
+
+---
+
+#### Part 2: Needs-Based Presumption (Article II, Section 6(b))
+
+> **Section 6(b). Presumption of Need.**
+>
+> (1) **Prima Facie Case.** A prima facie case of patronage sequencing is established if a locality demonstrates:
+>
+> - (i) The locality is demonstrably underserved relative to the Regional average for the infrastructure category; AND
+> - (ii) A sequencing decision delays investment by more than three (3) years relative to comparable projects; AND
+> - (iii) A pattern of delays correlates with political alignment at greater than 0.5 statistical significance.
+>
+> (2) **Burden Shift.** Upon prima facie showing:
+>
+> - (i) The Region bears the burden of demonstrating independent infrastructure justification;
+> - (ii) Justifications must be specific to the delayed project, not general policy;
+> - (iii) Post-hoc justifications are viewed with skepticism.
+>
+> (3) **Independent Infrastructure Justification.** Justification is independent if it:
+>
+> - (i) Applies neutrally across all localities;
+> - (ii) Would not systematically disadvantage politically disfavored areas when applied consistently;
+> - (iii) Is documented in contemporaneous records, not reconstructed for litigation.
+
+**Design Rationale:**
+
+- Needs-based presumption protects underserved localities
+- Prima facie threshold prevents frivolous claims
+- Burden shift forces justification from Region
+- Three-part test makes gaming harder
+
+---
+
+#### Part 3: Independent Audit Authority (Article II, Section 6(c))
+
+> **Section 6(c). Infrastructure Sequencing Audits.**
+>
+> (1) **Audit Authority.** The Regional Auditor (or equivalent independent official) may:
+>
+> - (i) Audit infrastructure sequencing decisions for compliance with this Section;
+> - (ii) Conduct statistical correlation analysis between sequencing and political variables;
+> - (iii) Publish annual reports on infrastructure allocation patterns.
+>
+> (2) **Data Requirements.** Regions shall maintain and provide to auditors:
+>
+> - (i) Complete sequencing decisions for the prior ten (10) years;
+> - (ii) Stated justifications for each decision at time of decision;
+> - (iii) Outcome data enabling correlation analysis.
+>
+> (3) **Delegation Non-Relief.** Delegation of infrastructure sequencing to private or quasi-private entities does not relieve the Region of responsibility for compliance with this Section. Private entities exercising delegated sequencing authority are subject to the same transparency and anti-patronage requirements.
+>
+> (4) **Public Reporting.** Audit results shall be:
+>
+> - (i) Published annually;
+> - (ii) Transmitted to the ARB for potential enforcement action;
+> - (iii) Available to affected localities for use in challenges.
+
+**Design Rationale:**
+
+- Independent auditor provides neutral analysis
+- Statistical analysis detects patterns invisible in individual decisions
+- Ten-year lookback enables trend detection
+- Delegation clause prevents PPP laundering of patronage decisions
+- Public reporting creates political accountability
+
+---
+
+#### Part 4: Remedies (Article II, Section 6(d))
+
+> **Section 6(d). Remedies for Sequencing Patronage.**
+>
+> (1) **Standing.** Affected localities have standing to challenge sequencing patterns if they meet the prima facie standard of Section 6(b).
+>
+> (2) **ARB Authority.** Upon finding patronage sequencing, the ARB may:
+>
+> - (i) Order revised prioritization using neutral methodology;
+> - (ii) Order accelerated timelines for demonstrably disadvantaged localities;
+> - (iii) Appoint an infrastructure sequencing monitor for up to five (5) years.
+>
+> (3) **Prospective-First Remedies.** Remedies shall prioritize prospective correction over retroactive reallocation except where delay has caused irreparable harm. No monetary damages for past sequencing; remedy is prospective correction of methodology and accelerated timelines.
+>
+> (4) **Pattern Evidence.** In challenges under this Section:
+>
+> - (i) Pattern evidence is admissible and probative;
+> - (ii) Individual intent is not required if pattern establishes discriminatory effect;
+> - (iii) Statistical evidence of correlation may establish prima facie case.
+
+**Design Rationale:**
+
+- Standing limited to genuinely affected localities
+- ARB remedies focus on correction, not punishment
+- Prospective-first approach avoids destabilizing retroactive reallocations
+- No damages avoids judicial overreach into fiscal policy
+- Pattern evidence essential—individual decisions always have neutral cover
+
+---
+
+### Residual Risks Acknowledged
+
+| Risk | Mitigation | Residual |
+|------|------------|----------|
+| Correlation ≠ causation | Burden shifts to Region to justify; pattern evidence alone insufficient for retroactive relief | Some false positives possible |
+| Audit capture | Regional Auditor independence provisions (existing) | Partial |
+| Proxy variable gaming | 0.6 threshold + independent justification requirement | Sophisticated gaming remains possible |
+| Litigation burden | Standing limited to demonstrably underserved localities | Some meritorious claims may not meet threshold |
+| PPP laundering | Explicit delegation non-relief clause | Private entity opacity remains concern |
+
+---
+
+### Cross-Gap Interaction
+
+| Related Gap | Interaction |
+|-------------|-------------|
+| **Gap 269 (Non-Concurrency)** | Infrastructure often crosses domain boundaries; concurrent framework applies |
+| **Gap 52 (Equalization Formula)** | Infrastructure disparities may compound fiscal disparities |
+| **Gap 54 (Expert Capture)** | Audit independence relies on existing safeguards |
+| **Gap 268 (Senate Quasi-Judicial)** | ARB remedies under Gap 271 follow ARB hardening provisions |
+
+---
+
+### Implementation Priority
+
+**Tier**: P2 (Near-term)
+**Rationale**: Patronage sequencing is ongoing but not crisis-level; constitutional solution prevents weaponization as Regions consolidate
+
+**Dependencies**: Works with Gap 269 (domain allocation); relies on Regional Auditor independence provisions
+
+---
+
+**Status:**
+**✅ RESOLVED.** Integrated into Article II, Section 6-A (Infrastructure Prioritization Transparency).
+
+**Severity:** Medium-High → Mitigated | **Implementation Priority:** P2 (Near-term) — COMPLETED
+
+---
+
 ## Navigation
 
 - [← Previous: Data & Information](12-data-information.md)

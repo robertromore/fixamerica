@@ -139,6 +139,98 @@ without offset for investments made during the uncertainty period, and without d
 
 ---
 
+### Section 4. Provisional Relief and Remedy Preservation
+
+**Scope.** This section applies to claims challenging constitutional structure, separation of powers, electoral processes, intergovernmental authority, or fundamental rights where delay would defeat the remedy—not to ordinary policy disputes or regulatory challenges.
+
+(a) **Remedy Timing Assessment.** Upon filing of any case within the scope of this section, the court shall within seven (7) days assess whether:
+
+(1) the challenged action is ongoing or of continuing effect;
+
+(2) delay in resolution would render effective relief impracticable;
+
+(3) irreversible harm to constitutional rights is likely absent provisional relief.
+
+(b) **Expedited Review Track.** If the court determines that any condition in subsection (a) is satisfied, the case shall be assigned to an Expedited Review Track with:
+
+(1) abbreviated briefing schedules (not to exceed 30 days total);
+
+(2) priority scheduling for oral argument;
+
+(3) decision within 60 days of track assignment, absent extraordinary circumstances documented in writing.
+
+(c) **Provisional Relief Standard.** In cases on the Expedited Review Track, courts may issue provisional relief upon a showing that:
+
+(1) the challenger raises a substantial constitutional question;
+
+(2) continuation of the challenged action pending resolution would likely cause irreversible harm; and
+
+(3) the balance of harms favors preserving the status quo ante.
+
+The challenger need not demonstrate likelihood of success on the merits for provisional relief under this section; a substantial question is sufficient.
+
+Any order granting or denying provisional relief shall include written findings addressing each factor in this subsection and explaining the court's reasoning.
+
+(d) **Status Quo Preservation Orders.** Provisional relief under this section may include:
+
+(1) orders freezing the implementation of challenged policies;
+
+(2) orders requiring continuation of prior practices pending resolution;
+
+(3) orders enjoining expenditure of funds or execution of contracts that would create irreversible facts;
+
+(4) orders preserving election procedures in effect before the challenged action.
+
+(e) **Mootness Limitation.** No case presenting a substantial constitutional question shall be dismissed as moot solely because:
+
+(1) the specific election, term, or transaction at issue has concluded;
+
+(2) the challenged policy has expired by its own terms; or
+
+(3) the government has voluntarily ceased the challenged action.
+
+Courts shall resolve the constitutional question on the merits unless both parties agree to dismissal and no public interest in precedent exists.
+
+(f) **Remedies for Completed Violations.** When a court determines that a constitutional violation occurred but was completed before judicial resolution:
+
+(1) the court shall issue a declaratory judgment establishing the violation;
+
+(2) the court may award compensatory damages to injured parties;
+
+(3) the court may impose structural injunctions preventing recurrence;
+
+(4) responsible officials may be subject to sanctions under Article VIII, Section 5, including disqualification from future office for pattern violations;
+
+(5) the government entity shall bear the costs of litigation and reasonable attorney fees.
+
+(g) **Anti-Delay Sanctions.** If a court finds that a party engaged in procedural delay tactics to defeat timely remedy, the court shall:
+
+(1) award attorney fees and costs to the opposing party;
+
+(2) impose additional sanctions proportional to the harm caused by delay;
+
+(3) refer responsible attorneys to disciplinary proceedings.
+
+(h) **Transparency and Reporting.** The Judicial Conference shall publish annual statistics on petitions for expedited review, assignments to the Expedited Review Track, provisional relief orders granted and denied, case outcomes, and average time to resolution. These reports shall be publicly accessible and transmitted to Congress.
+
+(i) **Election-Specific Expedited Review.** Any challenge to election procedures filed within 90 days of an election shall receive:
+
+(1) ruling within 14 days of filing if filed more than 45 days before the election;
+
+(2) ruling within 7 days if filed 45 days or fewer before the election;
+
+(3) provisional relief maintaining the most recent validated election procedures pending resolution.
+
+(j) **Infrastructure and Contract Expedited Review.** Challenges to infrastructure prioritization under Article II, Section 6-A, or to contract awards exceeding 10,000 Federal Currency Units, shall:
+
+(1) trigger automatic stay of implementation pending initial hearing;
+
+(2) receive ruling on provisional relief within 21 days;
+
+(3) receive final resolution within 120 days.
+
+---
+
 ## Design Rationale
 
 ### Why Regional Courts?

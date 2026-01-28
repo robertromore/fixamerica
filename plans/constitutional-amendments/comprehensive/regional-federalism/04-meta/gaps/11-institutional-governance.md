@@ -5885,6 +5885,338 @@ IGs investigate the Executive Branch. But they serve at the pleasure of the Exec
 
 ---
 
+## Gap 268 — Senate Quasi-Judicial Power (Separation of Powers Tension)
+
+**Identified**: 2026-01-27
+**Category**: Institutional Governance / Separation of Powers
+**Criticality**: 🔴 **HIGH**
+**Status**: RESOLVED
+
+### Problem Statement
+
+#### The Structural Conflict
+
+Article IV, Section 4 assigns the Senate "adjudication of intergovernmental disputes" with discovery powers, evidentiary hearings, and binding deadlines. This places quasi-judicial authority in a political chamber, creating structural tensions that procedural safeguards (Gaps 158-166) cannot fully address.
+
+**The Separation of Powers Problem:**
+
+| Issue | Consequence |
+|-------|-------------|
+| **Forum shopping** | Parties strategize between ARB, Senate, and courts based on political composition |
+| **Inconsistent precedent** | Senate rulings not bound by stare decisis; outcomes vary with membership |
+| **Politicized adjudication** | Disputes become partisan votes rather than legal determinations |
+| **Judicial independence erosion** | Senate outcomes pressure courts; courts may defer to "political question" |
+| **Weaponized process** | Majority can use "adjudication" as punishment against disfavored Regions |
+
+**The Madisonian Concern:**
+
+The Federalist Papers (particularly No. 47 and No. 78) warn against combining legislative and judicial functions. Hamilton specifically argued that courts must be separate to protect against "the encroachments and oppressions of the representative body." Senate adjudication inverts this protection—the representative body becomes the encroacher.
+
+**Historical Precedent:**
+
+- **Impeachment** is the sole quasi-judicial Senate function in the original Constitution, and it is explicitly *not* a legal proceeding (no appeal, no precedent, purely political judgment)
+- **Legislative courts** (e.g., Tax Court, military tribunals) exist but are Article I bodies with limited jurisdiction, not the full Senate
+- **Politicized tribunals** in other systems (e.g., parliamentary select committees with adjudicative power) have been vehicles for partisan retaliation
+
+**Risk:**
+
+- Creates a constitutional battlefield that rewards partisan control of the Senate
+- Undermines the ARB's role as neutral arbiter (why go to ARB if Senate can override?)
+- Generates legitimacy crises when Senate rulings are perceived as partisan
+- Violates Axiom 1 (Assume Bad Faith) by trusting political actors with judicial functions
+
+**Why Existing Safeguards Are Insufficient:**
+
+| Safeguard | Why It Fails |
+|-----------|--------------|
+| Recusal provisions (Gaps 158-159) | Address conflicts of interest, not structural separation |
+| Supreme Court transfer (Gap 163) | Only triggers after recusal threshold; doesn't prevent political adjudication |
+| Independent Panel option (Gap 160) | Still uses Senators; still political actors |
+| Filing limits (Gap 161) | Addresses volume, not legitimacy |
+
+---
+
+### Proposed Resolution: Separation of Senate and Adjudication Functions (Four-Part Solution)
+
+This solution removes adjudicative functions from the Senate while preserving its role in intergovernmental coordination and treaty-like agreements.
+
+---
+
+**Part 1: Transfer of Adjudicative Authority (Article IV, Section 4(a) — Revised)**
+
+> **Section 4(a). Senate Role in Intergovernmental Relations.**
+>
+> (1) **Coordination Function.** The Senate shall serve as the primary forum for:
+>
+> - (i) Negotiation of interregional compacts and agreements;
+> - (ii) Ratification of treaties affecting Regional authority;
+> - (iii) Confirmation of appointments to federal bodies with Regional jurisdiction;
+> - (iv) Amendment proposals affecting the federal-Regional relationship.
+>
+> (2) **Mediation Function.** The Senate may, upon request of disputing parties:
+>
+> - (i) Appoint mediators from among its members or outside experts;
+> - (ii) Host non-binding mediation sessions;
+> - (iii) Issue non-binding recommendations for dispute resolution;
+> - (iv) Refer disputes to the Allocation Review Board or federal courts with recommended terms.
+>
+> (2-A) **Mediation Limitations.** Senate mediation:
+>
+> - (i) Does not toll filing deadlines for ARB or judicial proceedings unless all parties stipulate in writing;
+> - (ii) Shall not exceed 120 days from initiation to conclusion absent unanimous party consent;
+> - (iii) May be terminated by any party at any time without prejudice.
+>
+> (2-B) **Evidentiary Exclusion.** In subsequent ARB or judicial proceedings:
+>
+> - (i) Senate mediation proceedings, statements, and documents are inadmissible absent stipulation by all parties;
+> - (ii) Senate recommendations have no evidentiary weight;
+> - (iii) A party's participation in or rejection of mediation may not be cited as evidence of good or bad faith;
+> - (iv) Senators who served as mediators may not testify regarding mediation communications.
+>
+> (2-C) **Anti-Abuse Provisions.** Senate mediation may not be used to:
+>
+> - (i) Delay ARB or judicial proceedings strategically;
+> - (ii) Conduct discovery or compel testimony;
+> - (iii) Issue findings of fact or conclusions of law;
+> - (iv) Generate public reports characterizing the merits of either party's position without that party's consent.
+>
+> (2-D) **Mediation Abuse Sanction.** If the ARB or a court finds that a party used Senate mediation for strategic delay or bad-faith purposes:
+>
+> - (i) The offending party shall bear the opposing party's costs incurred during the mediation period;
+> - (ii) The offending party may not invoke Senate mediation in subsequent disputes for three years;
+> - (iii) The finding shall be reported to the Regional Governor(s) of the offending party.
+>
+> (3) **Adjudication Prohibition.** The Senate shall not:
+>
+> - (i) Issue binding rulings in disputes between Regions, between the Federal Government and Regions, or between States and Regions;
+> - (ii) Conduct evidentiary hearings with subpoena power for adjudicative purposes;
+> - (iii) Impose remedies, penalties, or compliance orders on governmental parties.
+>
+> (4) **Transfer of Pending Disputes.** Upon ratification of this amendment:
+>
+> - (i) All pending Senate adjudications shall transfer to the Allocation Review Board;
+> - (ii) Prior Senate rulings shall have persuasive but not precedential weight;
+> - (iii) Parties may petition for de novo review of Senate rulings issued within two years prior to ratification only if:
+>     - (A) The ruling imposed coercive remedies (injunctions, compliance orders, fiscal penalties, or mandated governmental action); OR
+>     - (B) A party objected to Senate jurisdiction on the record at the time of the original proceeding; OR
+>     - (C) The ruling was issued over dissent by Senators representing the petitioning Region, including:
+>         - (I) Senators elected from districts within the Region;
+>         - (II) Senators elected at-large by the Region; and
+>         - (III) Senators appointed by the Regional government to fill vacancies, regardless of election method for the vacated seat.
+> - (iv) Petitions for de novo review must be filed within 180 days of ratification; untimely petitions are barred.
+> - (v) During de novo review, the original Senate ruling remains in effect unless the ARB issues a preliminary stay upon finding likelihood of reversal and irreparable harm.
+
+**Design Rationale:**
+
+- **Preserves Senate's legitimate role:** Coordination, negotiation, and ratification remain with the chamber designed for intergovernmental representation
+- **Removes incompatible function:** Adjudication moves to bodies designed for neutral determination
+- **Mediation as middle ground:** Senate can still facilitate resolution without binding authority
+- **No tolling by default:** Parties cannot unilaterally stop litigation clocks by requesting mediation
+- **Time limit:** 120-day cap prevents endless "good faith" delays
+- **Evidentiary exclusion:** Mediation statements cannot be weaponized in later proceedings
+- **No political theater:** Senate cannot issue one-sided "findings" designed to delegitimize future rulings
+- **Clean transition:** Pending matters transfer; recent coercive rulings subject to review
+
+---
+
+**Part 2: Enhanced ARB Adjudicative Authority (Article II, Section 5(m))**
+
+> **Section 5(m). Intergovernmental Dispute Resolution.**
+>
+> (1) **Primary Jurisdiction.** The Allocation Review Board shall have original jurisdiction over:
+>
+> - (i) Disputes between Regions concerning the boundaries of Regional Exclusive Domains;
+> - (ii) Disputes between the Federal Government and one or more Regions concerning allocation of authority;
+> - (iii) Disputes between States and Regions concerning the scope of Regional supremacy within Regional domains;
+> - (iv) Disputes concerning the interpretation of interregional compacts.
+>
+> (2) **Procedures.** The Board shall:
+>
+> - (i) Adopt rules of procedure providing for discovery, evidentiary hearings, and briefing;
+> - (ii) Issue written opinions with stated reasoning and precedential effect;
+> - (iii) Complete adjudication within 180 days of filing, absent good cause extension;
+> - (iv) Publish all opinions and maintain a searchable database.
+>
+> (3) **Panel Composition.** Disputes shall be heard by panels of three Board members:
+>
+> - (i) No panelist may be a resident of a party Region or have served in government of a party Region within the preceding ten years;
+> - (ii) Panel assignments shall be made by random selection, publicly audited;
+> - (iii) En banc review available upon petition of any party or three Board members.
+>
+> (4) **Appeal.** Board rulings may be appealed to the Supreme Court:
+>
+> - (i) Questions of law reviewed de novo;
+> - (ii) Questions of fact reviewed for clear error;
+> - (iii) Expedited briefing and decision within 120 days.
+
+**Design Rationale:**
+
+- **ARB designed for this function:** Composition already includes safeguards against capture (Gap 54)
+- **Judicial-style procedures:** Written opinions, precedent, discovery—functions incompatible with legislative chamber
+- **Conflict-of-interest rules:** Panel composition prevents interested adjudicators
+- **Appellate review:** Supreme Court provides check without becoming court of first instance
+
+---
+
+**Part 2A: ARB Adjudicative Authority Hardening (Article II, Section 5(m-1))**
+
+> **Section 5(m-1). Constitutional Court Standard for Adjudicative Functions.**
+>
+> (1) **Institutional Status.** When exercising adjudicative authority under Section 5(m), the Allocation Review Board:
+>
+> - (i) Shall operate under the procedural standards applicable to Article III courts, not administrative agencies;
+> - (ii) Shall be immune from executive branch reorganization, budget impoundment, or personnel actions except as provided herein;
+> - (iii) Shall have its adjudicative budget set by formula tied to federal judiciary appropriations, not annual discretionary appropriation.
+>
+> (2) **Supermajority for Precedent Reversal.** The Board sitting en banc:
+>
+> - (i) May not overrule a prior panel decision except by vote of six of nine members;
+> - (ii) Must issue a written opinion explaining why the prior decision was clearly erroneous;
+> - (iii) May not reverse precedent within three years of its issuance absent intervening constitutional amendment.
+>
+> (3) **Mandatory Dissent Publication.** In any adjudicative ruling:
+>
+> - (i) Dissenting opinions shall be published alongside majority opinions;
+> - (ii) The dissent shall identify the specific points of disagreement;
+> - (iii) Statistical tracking of dissent frequency by member shall be publicly reported annually.
+>
+> (4) **Procedural Rule Sunset.** All ARB procedural rules governing adjudication:
+>
+> - (i) Expire after twelve years unless reauthorized;
+> - (ii) Reauthorization requires approval by two-thirds of Regional Governors AND simple majority of Congress;
+> - (iii) Upon expiration without reauthorization, the National Constitutional Court shall promulgate interim rules pending new authorization.
+>
+> (5) **Existential Redundancy.** If the ARB is unable to function due to capture, mass vacancy, or institutional failure:
+>
+> - (i) The Chief Justice shall certify Board dysfunction upon petition of any three Regional Governors:
+>     - (A) The Chief Justice shall issue a written decision within 14 days of petition;
+>     - (B) The decision shall state specific findings regarding the nature of dysfunction (capture, vacancy, procedural breakdown, or other cause);
+>     - (C) The decision shall be published immediately upon issuance;
+>     - (D) Failure to decide within 14 days constitutes denial; petitioners may re-petition after 30 days or upon changed circumstances.
+> - (ii) Upon certification, adjudicative jurisdiction transfers to three-judge panels drawn from Regional appellate courts, one judge per panel from three different Regions;
+> - (ii-A) Certification of restoration follows the same procedure: petition by any three Regional Governors, 14-day deadline, written public justification;
+> - (iii) Transfer continues until the Chief Justice certifies Board restoration;
+> - (iv) Panel rulings during transfer period have full precedential effect.
+
+**Design Rationale:**
+
+- **Explicit acknowledgment:** This proposal intentionally centralizes adjudicative authority in the ARB and therefore requires constitutional-court-level hardening, not agency-level protection
+- **Supermajority reversal:** Prevents 5-4 ideological swings from destabilizing precedent
+- **Dissent publication:** Creates transparency about board divisions; enables monitoring for capture patterns
+- **Procedural sunset:** Forces periodic reauthorization with cross-branch approval
+- **Existential redundancy:** System survives ARB failure through Regional court backup
+- **Chief Justice deadline:** Prevents silent veto; forces decision with public justification
+
+---
+
+**Part 3: Federal Court Concurrent Jurisdiction (Article XIV, Section 2(d))**
+
+> **Section 2(d). Intergovernmental Disputes in Federal Courts.**
+>
+> (1) **Concurrent Jurisdiction.** Federal district courts shall have concurrent jurisdiction with the Allocation Review Board over intergovernmental disputes when:
+>
+> - (i) All parties consent to federal court jurisdiction; OR
+> - (ii) The ARB certifies that the dispute presents primarily questions of constitutional interpretation rather than domain allocation; OR
+> - (iii) The dispute involves claimed violations of individual rights by governmental action.
+>
+> (1-A) **Threshold Certification Procedure.** When a party seeks federal court jurisdiction under subsection (1)(ii):
+>
+> - (i) The party shall file a classification request with the ARB within 30 days of dispute initiation;
+> - (ii) The ARB shall classify the dispute as "primarily allocative," "primarily constitutional," or "mixed" within 45 days;
+> - (iii) Classification as "primarily constitutional" permits federal court jurisdiction; "primarily allocative" or "mixed" requires ARB jurisdiction;
+> - (iv) ARB classification is reviewable only for abuse of discretion; reviewing courts may not reweigh the classification factors de novo;
+> - (v) Failure to issue classification within 45 days creates rebuttable presumption of "primarily allocative."
+>
+> (1-B) **Classification Factors.** In making threshold classification, the ARB shall consider:
+>
+> - (i) Whether resolution requires interpretation of constitutional text versus application of domain allocation criteria;
+> - (ii) Whether precedent from constitutional cases or domain-allocation cases is more directly applicable;
+> - (iii) Whether the relief sought is constitutional (declaratory, injunctive) or allocative (domain certification, boundary determination);
+> - (iv) Whether the dispute would exist absent the Regional Federalism structure.
+>
+> (1-C) **Interlocutory Constitutional Certification.** In disputes classified as "mixed" under subsection (1-A)(ii):
+>
+> - (i) Either party may petition the ARB to certify an embedded constitutional question for immediate federal court review;
+> - (ii) The ARB shall grant certification if:
+>     - (A) The constitutional question is dispositive of a material issue;
+>     - (B) Resolution of the constitutional question will substantially advance the proceeding; and
+>     - (C) Immediate review will not cause undue delay.
+> - (iii) Upon certification:
+>     - (A) The constitutional question transfers to a three-judge federal panel under subsection (2);
+>     - (B) ARB proceedings on allocative questions continue unless the ARB stays pending constitutional resolution;
+>     - (C) The federal panel shall issue its ruling within 90 days;
+>     - (D) The ARB shall incorporate the federal ruling into its final judgment.
+> - (iv) Denial of interlocutory certification:
+>     - (A) Is not separately appealable;
+>     - (B) Preserves the constitutional question for appeal from final ARB judgment;
+>     - (C) Shall be accompanied by written explanation.
+> - (v) In final appeals from "mixed" ARB judgments:
+>     - (A) Constitutional questions receive de novo review;
+>     - (B) Allocative questions receive deferential review under Section 2(d)(3).
+>
+> (2) **Three-Judge Panels.** Intergovernmental disputes in federal court shall be heard by three-judge panels:
+>
+> - (i) One district judge from the district where filed;
+> - (ii) Two circuit judges from circuits other than those in which any party Region is located;
+> - (iii) Direct appeal to the Supreme Court.
+>
+> (3) **Deference to ARB Expertise.** Federal courts shall give substantial deference to ARB determinations on questions of:
+>
+> - (i) Domain classification and boundary;
+> - (ii) Spillover effects and cross-regional impacts;
+> - (iii) Fiscal capacity and equalization calculations.
+
+**Design Rationale:**
+
+- **Preserves judicial option:** Parties can choose Article III courts for constitutional questions
+- **ARB as gatekeeper:** Threshold certification prevents courts from becoming the first forum for classification battles
+- **Abuse of discretion standard:** Highly deferential; prevents relitigation of classification
+- **Default to ARB:** Presumption favors ARB jurisdiction; parties must affirmatively establish federal court path
+- **Interlocutory certification:** Allows constitutional questions to be resolved mid-proceeding when efficiency warrants
+- **Three-judge panels:** Prevents forum shopping to friendly district judges
+- **ARB deference:** Courts respect expertise while retaining constitutional review
+- **Direct appeal:** Efficient resolution at Supreme Court level
+
+---
+
+### Residual Risk Acknowledged
+
+| Risk | Mitigation | Residual |
+|------|------------|----------|
+| ARB power concentration | Supermajority reversal, dissent publication, procedural sunset, existential redundancy via Regional court backup | Chief Justice certification becomes legitimacy focal point in crisis (mitigated by deadline + public justification requirement) |
+| Transition destabilization | De novo review limited to coercive/objected/dissented rulings; 180-day filing deadline | Minor relitigation spike possible in first six months |
+| Forum classification disputes | ARB threshold certification; abuse-of-discretion review only | Some front-end litigation over "mixed" classification inevitable |
+| Mediation weaponization | No tolling without consent; evidentiary exclusion; sanctions | Political theater still possible but toothless |
+
+---
+
+### Cross-Gap Interaction
+
+| Related Gap | Interaction |
+|-------------|-------------|
+| **Gap 54 (Expert Capture)** | **Amplified importance**; existing safeguards now critical prerequisites since ARB authority is expanded |
+| **Gap 269 (Non-Concurrency Rigidity)** | Mutually reinforcing; reduced ARB workload through concurrent-domain framework |
+| **Gaps 158-166 (Senate Adjudication Vulnerabilities)** | **Superseded**; procedural fixes no longer needed if adjudicative function removed from Senate |
+| **Gap 175 (Precedent Trap)** | ARB precedent rules address interpretive regress |
+
+---
+
+### Implementation Priority
+
+**Tier**: P1 (Immediate)
+**Rationale**: Separation of powers is foundational to constitutional architecture; politicized adjudication undermines system legitimacy
+
+**Dependencies**: Requires Gap 54 (Expert Capture) safeguards to be in place before ARB assumes expanded jurisdiction
+
+---
+
+**Status:**
+**RESOLVED.** Constitutional amendments to Article II, Section 5; Article IV, Section 4; Article XIV, Section 2. Four-part solution transfers adjudicative authority from Senate to ARB/federal courts, hardens ARB to constitutional-court standard, narrows de novo review of prior Senate rulings, establishes threshold certification for concurrent jurisdiction, and prevents mediation abuse.
+
+**Severity:** High | **Mitigability:** Mitigated
+
+---
+
 ## Navigation
 
 - [← Previous: Interstate Commerce](10-interstate-commerce.md)

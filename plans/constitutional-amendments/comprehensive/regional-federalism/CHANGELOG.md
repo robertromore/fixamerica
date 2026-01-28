@@ -2,9 +2,74 @@
 
 **Note**: This changelog has been reorganized by date. See the `changelog/` directory for detailed entries:
 
-- [`changelog/2026-01-26.md`](changelog/2026-01-26.md) - Latest changes
-- [`changelog/2026-01-25.md`](changelog/2026-01-25.md) - Major integration work 
+- [`changelog/2026-01-27.md`](changelog/2026-01-27.md) - Latest changes
+- [`changelog/2026-01-26.md`](changelog/2026-01-26.md) - Territorial integration incentives
+- [`changelog/2026-01-25.md`](changelog/2026-01-25.md) - Major integration work
 - [`changelog/2026-01-24.md`](changelog/2026-01-24.md) - Historical development
+
+## 2026-01-27: Gap 268 — Senate Quasi-Judicial Power (Separation of Powers Fix)
+
+Added Gap 268 addressing the structural conflict created by assigning quasi-judicial adjudicative authority to the Senate.
+
+### Solution: Four-Part Separation of Functions
+
+- **Part 1:** Transfer adjudicative authority from Senate to ARB; Senate retains coordination and non-binding mediation only
+- **Part 2:** Enhanced ARB jurisdiction with judicial-style procedures and precedent
+- **Part 2A:** ARB hardening to constitutional-court standard (supermajority reversal, dissent publication, existential redundancy)
+- **Part 3:** Federal court concurrent jurisdiction with threshold certification
+
+### Files Modified
+
+- `01-foundation/02-design-axioms.md` — Added Design Note "Why Adjudication Must Be Non-Political" as corollary to Axiom 1
+- `04-meta/gaps/11-institutional-governance.md` — Added Gap 268 (RESOLVED)
+- `04-meta/gaps/00-index.md` — Updated Table of Contents and Institutional Governance table
+- `04-meta/02-identified-gaps.md` — Updated statistics
+
+**Status:** RESOLVED | **Severity:** High → Mitigated
+
+---
+
+## 2026-01-27: Gap 269 — Non-Concurrency Rigidity (Structured Concurrency Framework)
+
+Added Gap 269 addressing the systemic litigation burden created by exclusive domain allocation in an interdependent governance environment.
+
+### Solution: Five-Part Structured Concurrency Framework
+
+- **Part 1:** Domain classification (Exclusive Federal, Exclusive Regional, Structured Concurrent) with 10-year review
+- **Part 2:** Federal floor / Regional ceiling model with 3/5 supermajority requirement for floors
+- **Part 3:** Dispute reduction procedures (pre-enactment consultation, ARB advisory opinions, safe harbors)
+- **Part 4:** Litigation management (annual filing limits with hardship exception)
+- **Part 5:** Symmetric accountability labeling with specificity requirement
+
+### Files Modified
+
+- `04-meta/gaps/13-intergovernmental.md` — Added Gap 269 (PROPOSAL AVAILABLE)
+- `04-meta/gaps/00-index.md` — Updated Table of Contents and Intergovernmental Relations table
+- `04-meta/02-identified-gaps.md` — Updated statistics (High: 75, Total: 159, Proposal Available: 125)
+
+**Status:** PROPOSAL AVAILABLE | **Severity:** High
+
+---
+
+## 2026-01-27: Gap 270 — Rights Floor Enforcement Expansion (Anti-Pretext Framework)
+
+Added Gap 270 addressing the structural vulnerability that federal rights floor enforcement could be weaponized through pretextual claims.
+
+### Solution: Three-Part Anti-Pretext Framework
+
+- **Part 1:** Enumeration requirement — rights floors limited to explicit constitutional text; no penumbral or substantive due process rationales
+- **Part 2:** Procedural safeguards — mandatory textual citation, documented violation, public evidentiary record, de novo review with no deference, structured pretext analysis
+- **Part 3:** Individual remedies preserved — constraint applies only to congressional enforcement claims, not individual litigation
+
+### Files Modified
+
+- `04-meta/gaps/17-rights-enforcement.md` — Added Gap 270 (PROPOSAL AVAILABLE)
+- `04-meta/gaps/00-index.md` — Updated Table of Contents and Institutional Governance table
+- `04-meta/02-identified-gaps.md` — Updated statistics (High: 76, Total: 160, Proposal Available: 126)
+
+**Status:** PROPOSAL AVAILABLE | **Severity:** High
+
+---
 
 ## 2026-01-26: Territorial Integration Incentives (Bridge and Cliff)
 
