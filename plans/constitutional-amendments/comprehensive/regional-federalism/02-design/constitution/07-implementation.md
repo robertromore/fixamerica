@@ -103,6 +103,32 @@ These default rules exist to prevent deliberate nonimplementation from becoming 
 
 ---
 
+### Section 4. Partial Adoption Safeguards
+
+(a) **Supplement Activation Condition.** No RF supplement (Article XIV-RF, XI-RF, or XVII-RF) shall take effect unless the corresponding standalone amendment, or federal legislation establishing equivalent protections meeting the minimum requirements enumerated in that supplement's compatibility clause, has been adopted. Until that condition is met, the subject matter governed by the supplement shall continue under prior constitutional and statutory law as modified by this Constitution's core articles.
+
+(b) **Minimum Safeguard Defaults.** If the core articles of this Constitution are ratified and any standalone amendment has not been adopted within four years of ratification, the following defaults shall take effect by operation of law and remain in force until the corresponding standalone amendment or equivalent legislation is adopted:
+
+(1) *Judicial default.* All cases arising under this Constitution, including disputes between Regions, between a Region and the Federal Government, and challenges to Regional or Federal legislation under this Constitution, shall be heard by the federal courts established under the existing Constitution. The Supreme Court shall have original jurisdiction over inter-Regional disputes. No court established under this Constitution shall operate without mandatory jurisdiction over constitutional challenges, published time limits for decisions, and merit-based selection procedures.
+
+(2) *Military default.* No armed forces of the United States, including any Regional Guard force, shall be deployed for domestic law enforcement or civil governance purposes except upon concurrent authorization of the President and a majority of Regional Governors whose Regions are affected. The duty of any member of the armed forces to refuse orders that violate this Constitution or the laws of war shall not be diminished by the absence of the Military Civilian Control Amendment. No Regional Guard force shall be established until civilian control safeguards meeting the compatibility clause requirements of Article XI-RF are in effect.
+
+(3) *Emergency powers default.* No declaration of emergency by a Regional Governor or the President shall suspend the rights guaranteed by Article III of this Constitution or the existing Bill of Rights. Emergency declarations shall expire after thirty days unless reauthorized by the declaring authority's legislature. No emergency declaration shall be used to expand the declaring authority's substantive powers beyond those enumerated in this Constitution. Judicial review of emergency measures shall be available within forty-eight hours of any individual petition.
+
+(c) **Equivalent Legislation Standard.** Federal legislation satisfying a supplement's compatibility clause must:
+
+(1) Address each requirement enumerated in the compatibility clause;
+
+(2) Be adopted by a three-fifths vote of the House;
+
+(3) Not be subject to repeal or material amendment that weakens the protections established therein by simple majority for ten years following adoption; technical, conforming, or strengthening amendments are not subject to this restriction;
+
+(4) Be certified as meeting compatibility clause requirements by the Allocation Review Board.
+
+(d) **Adoption Status Reporting.** Beginning one year after ratification and annually thereafter until all standalone amendments or equivalent legislation have been adopted, the Allocation Review Board shall publish a Partial Adoption Status Report identifying: which supplements remain inactive, which defaults are in effect, whether existing defaults have proven sufficient, and recommended actions. Congress shall hold public hearings on each report within ninety days of publication.
+
+---
+
 ## ARTICLE XXII - DEFINITIONS
 
 For purposes of this Constitution:

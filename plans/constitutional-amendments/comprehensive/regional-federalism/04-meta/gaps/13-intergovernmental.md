@@ -8650,6 +8650,148 @@ Regions control infrastructure sequencing within their territory—the order in 
 
 ---
 
+## Gap 274 — The "Rigged Survey" Gap (Policy Preference Data Integrity in Boundary Transfers)
+
+**Identified**: 2026-01-28
+**Category**: Intergovernmental / Data Integrity
+**Criticality**: 🟡 HIGH
+**Status**: PROPOSAL AVAILABLE
+
+### Problem Statement
+
+Article I, Section 4(g)(3) establishes a "Fundamental Misalignment" criterion based on policy preference divergence:
+
+> The State's median voter policy preferences diverge from the Regional median by more than 1.5 standard deviations on three or more major policy domains, as measured by the biennial National Policy Preference Survey administered by the Federal Election Commission.
+
+This is the most subjective and manipulation-prone of the four Fundamental Misalignment criteria, yet it has the weakest institutional protections:
+
+- **FEC is not covered** by the Federal Statistics and Data Integrity Act (which protects Census Bureau, BLS, and BEA)
+- **No survey methodology standards** are specified (sample size, confidence intervals, question design, mode)
+- **"Major policy domains" are undefined** — neither the constitutional text nor the Boundary Review Act enumerates them
+- **No independent audit or cross-validation** is required
+- **No dispute resolution** pathway exists for challenging survey validity before automatic certification
+- **Burden-shift incentive**: Manufacturing Fundamental Misalignment via survey manipulation flips the anti-arbitrage burden from preponderance to clear-and-convincing evidence (Section 4(k)), creating a strong strategic incentive to game Criterion 3
+
+The other three criteria (BEA economic data, Census commuting data, geographic contiguity) rely on well-established, independently protected federal statistical agencies or objective geographic facts. Criterion 3 is the asymmetric vulnerability.
+
+### Gaming Vectors
+
+1. **Survey Design Manipulation**: Hostile FEC administration designs questions to maximize apparent divergence for targeted states (e.g., framing questions to polarize rather than measure)
+2. **Domain Selection Gaming**: Without defined "major policy domains," the administering authority selects or rotates domains to produce desired divergence scores
+3. **Methodology Opacity**: Without transparency requirements, weighting decisions, sampling frames, and response rate adjustments are hidden from scrutiny
+4. **Timing Exploitation**: Administering the survey during periods of heightened political conflict inflates temporary divergence into structural misalignment
+5. **Cross-Criterion Amplification**: Manufactured Criterion 3 satisfaction + genuine Criterion 1 or 2 satisfaction = automatic certification, bypassing ARB judgment
+6. **Question Drift**: Subtle changes in question wording across administrations gradually shift divergence scores without triggering any alarm
+
+### Proposed Resolution
+
+#### A. Constitutional Amendment: Article I, Section 4(g)(3) — Survey Integrity Clause
+
+Replace current subsection (3) with:
+
+> **(3)** The State's median voter policy preferences diverge from the Regional median by more than 1.5 standard deviations on three or more major policy domains, as measured by the biennial National Policy Preference Survey. The Survey shall be:
+>
+> **(A)** administered by the Federal Data Coordination Agency or successor independent statistical agency — not by any agency with electoral, prosecutorial, or enforcement responsibilities;
+>
+> **(B)** designed and validated pursuant to methodology standards established by Congress, including minimum sample sizes, confidence intervals, pre-registered question frameworks, and defined policy domains; question wording shall remain constant across administrations absent two-thirds approval of the methodology standards body;
+>
+> **(C)** subject to independent statistical audit by a panel of three non-governmental experts selected by the Judicial Conference from among members of accredited professional statistical associations;
+>
+> **(D)** published in full (anonymized individual responses, methodology documentation, weighting procedures, and audit findings) no later than ninety (90) days after administration;
+>
+> **(E)** cross-validated against at least two independent, nationally representative, methodologically transparent surveys not funded or controlled by any governmental entity; divergence scores that differ by more than 0.5 standard deviations from cross-validation sources shall trigger mandatory methodological review before certification.
+
+#### B. Constitutional Amendment: Article I, Section 4(g-1) — Policy Domain Definition
+
+> **(g-1) Major Policy Domains Defined.** For purposes of subsection (g)(3), "major policy domains" shall include, at minimum:
+>
+> **(1)** fiscal policy (taxation and spending priorities);
+>
+> **(2)** environmental and energy regulation;
+>
+> **(3)** healthcare and social welfare;
+>
+> **(4)** criminal justice and public safety;
+>
+> **(5)** education and workforce policy;
+>
+> **(6)** immigration and border policy;
+>
+> **(7)** economic regulation and labor standards.
+>
+> Congress may add domains by statute but may not remove enumerated domains. The Survey shall measure preferences on all enumerated domains in every administration.
+
+#### C. Constitutional Amendment: Article I, Section 4(g-2) — Survey Dispute Resolution
+
+> **(g-2) Survey Validity Challenge.** Any State or Region may challenge the validity of Survey results before the ARB within sixty (60) days of publication. The ARB shall:
+>
+> **(1)** convene the independent audit panel referenced in subsection (g)(3)(C) for expedited review;
+>
+> **(2)** issue findings within ninety (90) days of challenge;
+>
+> **(3)** invalidate Survey results and require re-administration if the panel finds material methodological deficiencies, sampling bias, or evidence of political interference;
+>
+> **(4)** toll the two-year persistence period (subsection (g)) during pendency of a validity challenge.
+>
+> No Fundamental Misalignment certification based on subsection (g)(3) shall issue while a Survey validity challenge is pending.
+
+### Cross-Gap Interactions
+
+| Related Gap | Interaction |
+|-------------|-------------|
+| **Gap 11 (Boundary Revision Politics)** | Survey integrity is precondition for legitimate boundary revision; manipulation enables partisan weaponization |
+| **Gap 12 (Path Dependency)** | Initial boundary decisions depend on data integrity; compromised surveys entrench bad boundaries |
+| **Gap 84 (Data Sovereignty)** | Survey data governance extends Article I, Section 10 data integrity framework to boundary transfer process |
+| **Gap 129 (Algorithmic Transparency)** | Survey weighting algorithms should be subject to same transparency standards |
+
+### Design Rationale
+
+**Why reassign from FEC to FDCA?** The FEC has electoral and enforcement responsibilities that create conflicts of interest. Boundary transfers have partisan implications; the administering agency should have no stake in outcomes. The FDCA is already designed as an independent statistical authority under the Article I, Section 10 data governance framework.
+
+**Why enumerate policy domains constitutionally?** Leaving domain selection to the administering agency creates a manipulation vector. Constitutional enumeration ensures the survey covers dimensions most relevant to genuine misalignment while allowing Congress to add (but not subtract) domains as governance evolves.
+
+**Why cross-validation?** No single survey is immune to design bias. Requiring comparison against independent surveys creates a check on methodological manipulation. The 0.5 SD discrepancy threshold catches serious manipulation while accommodating normal methodological variation.
+
+**Why require question stability?** Subtle changes in question wording across administrations can gradually shift divergence scores without triggering alarms. Requiring two-thirds approval of the standards body for wording changes prevents manipulation through incremental drift.
+
+**Why toll the persistence period during challenges?** Without tolling, disputed data could drive irreversible transfers. Tolling prevents both gaming (filing frivolous challenges to extend windows) and injustice (transfers based on contested data).
+
+### Risk Assessment
+
+**Without Fix**:
+
+- Most subjective Fundamental Misalignment criterion has weakest protections
+- Hostile FEC administration could manufacture transfer evidence
+- Burden-shift to clear-and-convincing evidence amplifies survey manipulation
+- Boundary transfers become politicized, delegitimizing entire system
+- States trapped in or expelled from Regions based on manipulated data
+
+**With Fix**:
+
+- Survey administration by independent statistical agency removes conflict of interest
+- Methodology standards and pre-registration prevent question-design manipulation
+- Question stability requirement prevents incremental drift
+- Independent audit catches statistical irregularities
+- Cross-validation by non-governmental sources detects systematic bias
+- Public transparency enables external scrutiny
+- Dispute resolution prevents irreversible action on contested data
+
+### Implementation Priority
+
+**Tier**: P2 (Near-term)
+**Rationale**: Not immediately crisis-urgent but addresses structural vulnerability exploitable once the boundary transfer mechanism becomes operational.
+
+**Dependencies**: Requires Federal Data Coordination Agency to be established under Article I, Section 10 data governance framework.
+
+---
+
+**Status:**
+**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article I, Section 4(g)(3), with new subsections (g-1) and (g-2).
+
+**Severity:** High | **Mitigability:** PROPOSAL AVAILABLE
+
+---
+
 ## Navigation
 
 - [← Previous: Data & Information](12-data-information.md)

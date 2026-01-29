@@ -141,9 +141,51 @@ The structural form of Regional government (unicameral or bicameral legislature,
 
 (2) The State's labor market integration (cross-border commuting, migration) is greater than fifty percent (50%) with an adjacent Region, as measured by Census Bureau commuting data; OR
 
-(3) The State's median voter policy preferences diverge from the Regional median by more than 1.5 standard deviations on three or more major policy domains, as measured by the biennial National Policy Preference Survey administered by the Federal Election Commission; OR
+(3) The State's median voter policy preferences diverge from the Regional median by more than 1.5 standard deviations on three or more major policy domains, as measured by the biennial National Policy Preference Survey. The Survey shall be:
+
+(A) administered by the Federal Data Coordination Agency or successor independent statistical agency — not by any agency with electoral, prosecutorial, or enforcement responsibilities;
+
+(B) designed and validated pursuant to methodology standards established by Congress, including minimum sample sizes, confidence intervals, pre-registered question frameworks, and defined policy domains; question wording shall remain constant across administrations absent two-thirds approval of the methodology standards body;
+
+(C) subject to independent statistical audit by a panel of three non-governmental experts selected by the Judicial Conference from among members of accredited professional statistical associations;
+
+(D) published in full (anonymized individual responses, methodology documentation, weighting procedures, and audit findings) no later than ninety (90) days after administration;
+
+(E) cross-validated against at least two independent, nationally representative, methodologically transparent surveys not funded or controlled by any governmental entity; divergence scores that differ by more than 0.5 standard deviations from cross-validation sources shall trigger mandatory methodological review before certification.
+
+OR
 
 (4) The State shares a contiguous border with the destination Region and does not share a contiguous border with any other State in its current Region.
+
+(g-1) **Major Policy Domains Defined.** For purposes of subsection (g)(3), "major policy domains" shall include, at minimum:
+
+(1) fiscal policy (taxation and spending priorities);
+
+(2) environmental and energy regulation;
+
+(3) healthcare and social welfare;
+
+(4) criminal justice and public safety;
+
+(5) education and workforce policy;
+
+(6) immigration and border policy;
+
+(7) economic regulation and labor standards.
+
+Congress may add domains by statute but may not remove enumerated domains. The Survey shall measure preferences on all enumerated domains in every administration.
+
+(g-2) **Survey Validity Challenge.** Any State or Region may challenge the validity of Survey results before the ARB within sixty (60) days of publication. The ARB shall:
+
+(1) convene the independent audit panel referenced in subsection (g)(3)(C) for expedited review;
+
+(2) issue findings within ninety (90) days of challenge;
+
+(3) invalidate Survey results and require re-administration if the panel finds material methodological deficiencies, sampling bias, or evidence of political interference;
+
+(4) toll the two-year persistence period (subsection (g)) during pendency of a validity challenge.
+
+No Fundamental Misalignment certification based on subsection (g)(3) shall issue while a Survey validity challenge is pending.
 
 (h) **Waiting Period.** A State initiating Unilateral Departure shall complete a three (3) year waiting period during which:
 

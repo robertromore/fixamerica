@@ -6217,6 +6217,74 @@ This solution removes adjudicative functions from the Senate while preserving it
 
 ---
 
+## Gap 275 — The "Half-Built House" Gap (Partial Amendment Adoption Risk)
+
+**Nickname:** Half-Built House
+**Category:** Institutional Governance
+**Severity:** High
+**Affects:** Article XXI; RF Supplements (XIV-RF, XI-RF, XVII-RF); Standalone Amendments (XIV, XI, XVII)
+
+### Problem
+
+The RF modular architecture creates one-way dependencies: RF supplements (XIV-RF, XI-RF, XVII-RF) presume adoption of their corresponding standalone amendments (Judicial Reform, Military Civilian Control, Emergency Powers). Each supplement includes a compatibility clause stating it "presumes adoption of [standalone] or an equivalent provision establishing [list of requirements]."
+
+If RF core is ratified but one or more standalone amendments fail adoption, the system shifts authority to Regional institutions while the safeguard frameworks governing those institutions remain at Article XXII default levels — minimal substitutes for full standalone protections:
+
+| Supplement | Without Standalone | Article XXII Default | Gap |
+|---|---|---|---|
+| XIV-RF (Regional Courts) | No mandatory jurisdiction, time limits, self-executing defaults, term limits, nominating commissions | "Good behavior" definition only (Section 6(c)) | Court tier created without procedural safeguard framework |
+| XI-RF (Regional Guard) | No duty to refuse unlawful orders, prohibited uses, counter-deployment authority, officer corps independence | Two-key authorization definition only (Section 6(d)) | Armed forces without full civilian control framework |
+| XVII-RF (Regional Emergency) | No categorized powers, enumerated limits by category, restoration mandate, habeas protections | "Routine operations" definition only (Section 3(b)) | Emergency authority without clear limits or sunset |
+
+Gap 7 (Implementation Act Dependency) covers statutory dependency but not amendment dependency. Gap 34 (Default Degradation Timeline) covers prolonged operation under implementation act defaults but not amendment adoption failure. Neither analyzes whether Article XXII defaults are sufficient substitutes.
+
+### Proposed Resolution
+
+**Article XXI, Section 4 — Partial Adoption Safeguards** (4 subsections):
+
+**(a) Supplement Activation Condition.** No RF supplement shall take effect unless the corresponding standalone amendment, or federal legislation establishing equivalent protections meeting the compatibility clause minimum requirements, has been adopted. Until that condition is met, the subject matter continues under prior law as modified by RF core articles.
+
+**(b) Minimum Safeguard Defaults.** If RF core is ratified and any standalone amendment has not been adopted within four years, stronger defaults take effect by operation of law:
+
+- *Judicial default:* Federal courts hear all cases arising under this Constitution; Supreme Court has original jurisdiction over inter-Regional disputes; no court operates without mandatory jurisdiction, time limits, and merit-based selection
+- *Military default:* No domestic deployment without concurrent Presidential and Regional Governor authorization; duty to refuse unlawful orders preserved regardless of standalone adoption; no Regional Guard without civilian control safeguards meeting XI-RF compatibility clause
+- *Emergency powers default:* No suspension of Article III rights or Bill of Rights; 30-day expiration without legislative reauthorization; no emergency expansion of substantive powers; 48-hour judicial review availability
+
+**(c) Equivalent Legislation Standard.** Federal legislation satisfying a compatibility clause must: address each enumerated requirement; be adopted by three-fifths House vote; not be subject to repeal or material weakening by simple majority for ten years (technical, conforming, or strengthening amendments exempt); and be certified by ARB.
+
+**(d) Adoption Status Reporting.** Annual ARB Partial Adoption Status Report beginning one year after ratification: which supplements are inactive, which defaults are in effect, whether defaults are sufficient, recommended actions. Congressional public hearings within 90 days.
+
+### Cross-Gap Interactions
+
+| Related Gap | Interaction |
+|-------------|-------------|
+| **Gap 7 (Implementation Act Dependency)** | 275 extends dependency analysis from statutory to constitutional amendment level |
+| **Gap 34 (Default Degradation Timeline)** | 275 adds amendment-specific defaults with explicit activation triggers |
+| **Gap 13 (Uneven Regional Capacity)** | Partial adoption compounds capacity gaps — Regions can't build courts without judicial framework |
+| **Gap 184 (Regulatory Void)** | Partial adoption creates analogous void for supplement-governed functions |
+
+### Design Rationale
+
+The resolution preserves the modular architecture's independent adoptability while ensuring partial adoption degrades gracefully rather than dangerously. The key principle is **no authority without safeguards**: RF supplements that shift power to Regional institutions cannot activate until the safeguard frameworks governing those institutions exist.
+
+Section (b) defaults are deliberately more protective than Article XXII's current minimal definitions — they provide functional safeguards rather than bare definitions. Section (c) ensures that legislative equivalents aren't easily repealed, addressing the concern that statutory substitutes lack constitutional durability. Section (d) creates institutional pressure toward complete adoption without mandating bundling.
+
+The resolution explicitly rejects the "bundled package" mitigation as inconsistent with the modular architecture's core rationale. Instead, it ensures that partial adoption produces a system that is incomplete but safe, not incomplete and dangerous.
+
+---
+
+### Implementation Priority
+
+**Tier**: P2 (Near-term)
+**Rationale**: Risk materializes only at ratification; resolution should be in place before ratification process begins
+
+---
+
+**Status:** PROPOSAL AVAILABLE
+**Severity:** High | **Mitigability:** Proposal Available
+
+---
+
 ## Navigation
 
 - [← Previous: Interstate Commerce](10-interstate-commerce.md)
