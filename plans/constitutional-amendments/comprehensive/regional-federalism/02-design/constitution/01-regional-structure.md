@@ -55,6 +55,58 @@ Regional constitutions shall provide for:
 
 The structural form of Regional government (unicameral or bicameral legislature, electoral system) shall be determined by each Region, subject to the foregoing requirements.
 
+### Section 3-A. Regional Electoral Standards Enforcement
+
+(a) **Proportionality Standard.** Regional constitutions shall adopt electoral systems for Regional legislative elections that produce seat distributions reasonably reflecting vote distributions. A system satisfies this requirement if, over two consecutive election cycles, the average disparity between any party's regionwide vote share and its seat share does not exceed five (5) percentage points, as measured by the Gallagher Index of Disproportionality or a successor metric designated by the National Election Court, absent a demonstrated compelling structural justification — arising from geographic, demographic, or party-system constraints rather than electoral system design choices — documented in the Compliance Review.
+
+(b) **Competitiveness Standard.** Regional constitutions shall ensure that electoral systems produce meaningful voter choice. A system satisfies this requirement if at least thirty percent (30%) of legislative seats are contested with winning margins of fifteen (15) percentage points or less, as measured by post-election margin analysis. Where historical election data is unavailable due to newly created districts or first implementation of a new electoral system, pre-election margin projections by the National Election Court may be used as interim evidence for the first two election cycles, after which post-election data shall govern.
+
+(c) **Anti-Domination Standard.** Regional constitutions shall include structural protections against legislative domination by any single metropolitan area or rural bloc. A system satisfies this requirement if:
+
+(1) no single metropolitan statistical area controls a majority of legislative seats unless it contains a majority of the Region's population AND the electoral system satisfies subsection (a);
+
+(2) legislative representation is geographically distributed such that no contiguous geographic area containing less than forty percent (40%) of the Region's population holds more than fifty percent (50%) of legislative seats;
+
+(3) the Regional constitution includes at least one structural mechanism (such as a geographic chamber, weighted committee representation, or supermajority requirements for geographically concentrated impact) to ensure non-dominant areas have meaningful input on legislation disproportionately affecting them.
+
+(d) **Compliance Review.** The National Election Court (or, if not yet established, the Allocation Review Board) shall conduct Regional Electoral Compliance Reviews:
+
+(1) following each decennial census;
+
+(2) upon petition by twenty percent (20%) of a Region's legislative members;
+
+(3) upon petition by citizens representing at least two percent (2%) of the Region's registered voters.
+
+(e) **Review Process.** Compliance Reviews shall:
+
+(1) evaluate Regional electoral systems against the standards in subsections (a) through (c) using publicly available election data;
+
+(2) issue findings within one hundred eighty (180) days of initiation;
+
+(3) provide a two-year remediation period for Regions found non-compliant;
+
+(4) publish all findings, data, and methodology for public review.
+
+(f) **Automatic Remedies.** If a Region fails to achieve compliance within the remediation period:
+
+(1) the National Election Court shall prescribe minimum electoral system reforms necessary for compliance;
+
+(2) the Region may adopt the prescribed reforms or propose alternatives that demonstrably meet the standards;
+
+(3) if the Region takes no action within one additional year, the prescribed reforms take effect by operation of law for the next election cycle;
+
+(4) affected elections conducted under non-compliant systems remain valid, but the results may be considered by courts in evaluating remedies.
+
+(g) **Metric Updating.** The specific metric thresholds in subsections (a) and (b) may be adjusted by two-thirds vote of Congress upon recommendation of the National Election Court, provided that:
+
+(1) adjusted thresholds may not be less protective of proportionality or competitiveness than those specified herein;
+
+(2) the National Election Court publishes a public justification for the adjustment;
+
+(3) adjustments take effect no earlier than the second election cycle following adoption.
+
+(h) **Relationship to Redistricting.** This section governs the overall electoral system design and outcome standards. Independent redistricting commissions required by Section 5 of this Article address the specific mechanism of district boundary drawing. Both provisions apply simultaneously; compliance with redistricting requirements does not satisfy this section if the electoral system as a whole fails to meet the standards in subsections (a) through (c).
+
 ---
 
 ### Section 4. Regional Boundary Revision

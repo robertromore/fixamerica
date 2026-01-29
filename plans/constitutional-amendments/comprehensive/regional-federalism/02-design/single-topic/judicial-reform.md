@@ -202,6 +202,66 @@ This standalone constitutional amendment reforms the federal judiciary to enhanc
 
 (d) **Diversity Monitoring.** The Judicial Conference shall monitor vacancy duration and nomination patterns. If any State or Region has vacancies exceeding fifty percent of its allocated seats for more than one year, automatic appointment timelines reduce to thirty days.
 
+### Section 15. Separation of Adjudication
+
+(a) **Independent Adjudicator Requirement.** No person may be deprived of private rights (including professional licenses, regulatory penalties, or property interests) except upon determination by an adjudicator who:
+
+(1) is not employed by, appointed by, or removable at will by the agency or entity bringing the enforcement action;
+
+(2) has compensation independent of agency control or influence;
+
+(3) has no career advancement dependent on agency satisfaction with adjudicatory outcomes.
+
+(b) **Private Rights Defined.** For purposes of this section, "private rights" include:
+
+(1) professional and occupational licenses;
+
+(2) civil monetary penalties exceeding 1,000 Federal Penalty Units;
+
+(3) property seizures or forfeitures;
+
+(4) immigration removal proceedings;
+
+(5) benefit determinations affecting vested interests (including benefits for which eligibility has been established by statute, contract, or prior adjudication);
+
+(6) any proceeding where the agency seeks remedies traditionally available only from courts.
+
+(c) **Administrative Courts Authorized.** This section does not prohibit specialized administrative courts, provided such courts:
+
+(1) are structurally independent from enforcement agencies;
+
+(2) have judges appointed through merit selection with tenure protection;
+
+(3) are supervised by the judiciary, not executive agencies;
+
+(4) follow procedures substantially similar to federal court rules.
+
+(d) **Existing ALJ Systems.** Within five (5) years of ratification:
+
+(1) all federal ALJs shall be transferred to an independent Administrative Court system under Article III supervision;
+
+(2) Regional ALJ systems (if Regional Federalism is adopted) or State ALJ systems shall comply with the independence requirements of this section within the same five-year transition period;
+
+(3) proceedings commenced after the transition period before non-compliant adjudicators are voidable; proceedings concluded before the transition period remain valid under prior law.
+
+For purposes of this section, "Article III supervision" means budgetary authority, disciplinary oversight, and rulemaking control vested in the federal judiciary rather than executive agencies.
+
+(e) **De Novo Review Right.** Any person subject to adverse determination by an adjudicator shall have the right to de novo review by an Article III court upon:
+
+(1) prima facie showing that the adjudicator failed to meet independence requirements; or
+
+(2) prima facie showing that constitutional rights were violated in the proceeding.
+
+A prima facie showing requires specific factual allegations demonstrating structural non-independence or procedural violation; bare assertions are insufficient to trigger de novo review.
+
+(f) **Anti-Evasion.** Agencies may not circumvent this section by:
+
+(1) requiring "consent" to administrative adjudication as condition of licensure;
+
+(2) structuring penalties to fall below private rights thresholds;
+
+(3) characterizing deprivations as "public rights" to avoid adjudicator independence requirements.
+
 ---
 
 ## Implementation Notes
@@ -215,6 +275,8 @@ This amendment requires implementing legislation including:
 - Quorum Emergency Procedures Act (temporary justice designation and protocols)
 - Judicial Nominating Commission Framework Act (establishment and operation procedures)
 - Vacancy Acceleration Act (default confirmation and seating procedures)
+- Administrative Court Establishment Act (transfer of ALJ functions to independent judiciary)
+- ALJ Transition Act (five-year transfer schedule, merit selection, and tenure protections)
 
 ---
 
@@ -281,6 +343,18 @@ If adopted standalone:
 - List requirement constrains Presidential discretion to qualified candidates
 - Automatic seating defeats both Presidential and Senate obstruction
 - Diversity monitoring detects and addresses geographic packing
+
+### Why Separation of Adjudication?
+
+- **Structural bias is endemic**: ALJs employed by agencies deciding cases brought by those agencies have 90%+ "conviction" rates—not because respondents are always wrong, but because the system is rigged
+- **"No man may be judge in his own cause"**: Violates fundamental due process principle recognized since *Dr. Bonham's Case* (1610) and *Tumey v. Ohio* (1927)
+- **Scale of impact**: ~2,000 federal ALJs decide Social Security, immigration, securities, and environmental cases affecting millions annually
+- **Structural independence preserves expertise**: Independent administrative courts can still employ specialized judges; independence from enforcement agencies does not require generalist adjudication
+- **Private rights threshold**: Focuses protection on significant deprivations (licenses, major penalties, property, deportation) while allowing streamlined procedures for minor matters
+- **Transition period**: Five years allows orderly transfer without disrupting pending cases; voidability applies only to post-transition non-compliant proceedings
+- **Prima facie gate for de novo review**: Prevents automatic relitigation while preserving meaningful access when structural violations occur
+
+**Political Feasibility Note**: This reform will face resistance from executive agencies (lose control over outcomes), the administrative law bar (disrupts established practice), and parts of the judiciary (increased caseload). This is acknowledged as high-conflict structural reform requiring coalition-building with civil liberties advocates, regulated industries frustrated by agency bias, and judicial reformers.
 
 ---
 

@@ -47,15 +47,15 @@ The 157 identified gaps have been organized into the following categories:
 | Severity | Count |
 |----------|-------|
 | Critical | 12 |
-| High | 78 |
+| High | 79 |
 | Medium | 58 |
 | Low | 12 |
-| **Total** | **162** |
+| **Total** | **163** |
 
 | Status | Count |
 |--------|-------|
 | PROPOSAL AVAILABLE | 124 |
-| RESOLVED | 12 |
+| RESOLVED | 13 |
 | GUIDANCE | 3 |
 | NEEDS WORK | 1 |
 | Accepted Tradeoff | 4 |

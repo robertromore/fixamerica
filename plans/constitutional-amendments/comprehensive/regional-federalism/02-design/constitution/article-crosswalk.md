@@ -45,7 +45,7 @@ These articles are part of the Regional Federal Constitution and require Regiona
 
 | Article | Section | Content | File |
 |---------|---------|---------|------|
-| **I** | 1-14 + Schedule A | Regions, boundaries, cooperation, water rights, transit, data sovereignty, environment, law enforcement, compacts, professional credentials; Schedule A defines initial Regional boundaries | [01-regional-structure.md](01-regional-structure.md) |
+| **I** | 1-14, 3-A + Schedule A | Regions, boundaries, cooperation, water rights, transit, data sovereignty, environment, law enforcement, compacts, professional credentials, electoral standards enforcement; Schedule A defines initial Regional boundaries | [01-regional-structure.md](01-regional-structure.md) |
 | **II** | 1-10 + 1(e), 3-A, 4-A, 6-A | Federal/Regional/State powers, domain classification, rights floor enforcement constraints, concurrent authority framework, dispute reduction, exclusive domains, equivalence exemptions, infrastructure prioritization transparency, ARB | [02-powers-and-rights.md](02-powers-and-rights.md) |
 | **III** | 1-3 | Floors not ceilings, subsidiarity, hierarchy of law | [02-powers-and-rights.md](02-powers-and-rights.md) |
 | **IV** | 1-5 | Congress, House, Senate, lawmaking | [03-regional-governance.md](03-regional-governance.md) |
@@ -93,6 +93,7 @@ These files contain ONLY the region-dependent provisions. They supplement the st
 For articles in this directory, cite directly:
 
 ```
+Article I, Section 3-A (Regional Electoral Standards Enforcement)
 Article I, Section 7 (Water Rights)
 Article II, Section 1(e) (Domain Classification)
 Article II, Section 3-A (Rights Floor Enforcement Constraints)
@@ -113,6 +114,7 @@ For standalone amendments, cite the article but link to the standalone plan:
 ```
 Article VII (Elections) — see single-topic/election-reform.md
 Article XIV (Judicial Reform) — see single-topic/judicial-reform.md
+Article XIV, Section 15 (Separation of Adjudication / ALJ Independence) — see single-topic/judicial-reform.md
 Article XVII (Emergency Powers) — see single-topic/emergency-powers-reform.md
 ```
 
@@ -146,6 +148,7 @@ Senate Safeguard Concurrence (proposed Article IV, Section 4-A) — see proposal
 | "Article XIV" for ARB | Article II, Section 5 |
 | "Article XIV" for Water Court | Article I, Section 7(f) |
 | "Article III, Section 4" for DLRS | DLRS proposal (proposed Article III, Section 4) |
+| "Article III-RF, Section 13" for ALJ independence | Article XIV, Section 15 (Separation of Adjudication) |
 | "Article VI" for certification | Article VII (Elections standalone) |
 | "Article XVII" for implementation | Article XXI |
 | Linking VII/XIV/XVI/XVII to index.md | Link to single-topic/ directories |

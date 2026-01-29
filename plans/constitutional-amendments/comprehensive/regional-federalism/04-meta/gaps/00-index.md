@@ -30,7 +30,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | [05-transition.md](05-transition.md) | Category V: Implementation and Transition Risks | Gaps 12-13 |
 | [06-tradeoffs.md](06-tradeoffs.md) | Category VI: Tradeoffs Accepted by Design | Gaps 14-15, 29-30, 32, 43 |
 | [07-fiscal-equalization.md](07-fiscal-equalization.md) | Fiscal Architecture & Equalization | Gaps 45, 52, 61-62, 72, 80, 93-94, 107, 110, 112, 123-124, 133, 137-138, 147, 170, 193-195, 197, 202, 241 |
-| [08-electoral-judicial.md](08-electoral-judicial.md) | Electoral & Judicial Systems | Gaps 37, 48-49, 53, 73, 81, 95, 101, 108, 117, 120-121, 130, 145, 158-166, 173, 175, 186, 189, 196, 198, 237, 238, 243, 262 |
+| [08-electoral-judicial.md](08-electoral-judicial.md) | Electoral & Judicial Systems | Gaps 37, 48-49, 53, 73, 81, 95, 101, 108, 117, 120-121, 130, 145, 158-166, 173, 175, 186, 189, 196, 198, 237, 238, 243, 262, 273 |
 | [09-emergency-military.md](09-emergency-military.md) | Emergency Powers & Military | Gaps 23-24, 33, 44, 55, 74, 82, 86, 88, 91, 102, 113, 122, 167, 169, 190, 192, 206, 224, 227, 235 |
 | [10-interstate-commerce.md](10-interstate-commerce.md) | Interstate Commerce & Infrastructure | Gaps 35, 50, 65-67, 75, 83, 92, 99, 104, 109, 116, 128, 132, 142, 185, 200 |
 | [11-institutional-governance.md](11-institutional-governance.md) | Institutional Governance | Gaps 34, 38, 41, 54, 56, 70, 79, 87, 89-90, 97, 100, 106, 118, 131, 149, 168, 171, 205, 219-223, 228-234, 248, 250-252, 260-261, 268 |
@@ -161,7 +161,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 189 | Certification choke (election subversion) | Critical | Requires Development |
 | 196 | Corporate citizen (voting dilution) | Critical | Requires Development |
 | 198 | Gerrymander (representation rig) | Critical | Requires Development |
-| 216 | In-house judge (prosecutor-jury-judge loophole) | Critical | Requires Development |
+| 216 | In-house judge (prosecutor-jury-judge loophole) | Critical | ✅ Resolved |
 | 237 | Judicial lottery (life tenure stagnation) | Critical | Proposal Available |
 | 238 | Duopoly trap (minority rule via FPTP) | Critical | Proposal Available |
 | 242 | Trial penalty (death of the jury) | Critical | Proposal Available |
@@ -174,6 +174,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 259 | Shadow docket (emergency orders without reasoning / reasoned order mandate) | Critical | Proposal Available |
 | 272 | Judicial time-horizon mismatch (remedies after the fact / provisional relief) | High | ✅ Resolved |
 | 262 | Negative right loophole (missing right to vote / universal suffrage guarantee) | Critical | Proposal Available |
+| 273 | Paper standard (regional electoral standards without metrics) | High | Proposal Available |
 
 ### Emergency Powers & Military
 

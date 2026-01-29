@@ -2,10 +2,60 @@
 
 **Note**: This changelog has been reorganized by date. See the `changelog/` directory for detailed entries:
 
-- [`changelog/2026-01-27.md`](changelog/2026-01-27.md) - Latest changes
+- [`changelog/2026-01-28.md`](changelog/2026-01-28.md) - Latest changes
+- [`changelog/2026-01-27.md`](changelog/2026-01-27.md) - Previous day
 - [`changelog/2026-01-26.md`](changelog/2026-01-26.md) - Territorial integration incentives
 - [`changelog/2026-01-25.md`](changelog/2026-01-25.md) - Major integration work
 - [`changelog/2026-01-24.md`](changelog/2026-01-24.md) - Historical development
+
+## 2026-01-28: Gap 216 — The "In-House Judge" Gap (Separation of Adjudication)
+
+Implemented Gap 216 addressing the structural due process violation where agencies serve as prosecutor, jury, and judge in administrative proceedings.
+
+### Solution: Article XIV, Section 15 — Separation of Adjudication
+
+- **(a) Independent Adjudicator Requirement** — Structural independence from prosecuting agency
+- **(b) Private Rights Defined** — Licenses, major penalties, property, immigration, vested benefits
+- **(c) Administrative Courts Authorized** — Independent specialized courts permitted
+- **(d) 5-Year Transition** — Federal ALJs transfer to independent court; voidability clarified
+- **(e) De Novo Review** — Prima facie showing required (not bare allegation)
+- **(f) Anti-Evasion** — Prevents consent requirements, threshold gaming, recharacterization
+
+### Files Modified
+
+- `02-design/single-topic/judicial-reform.md` — Added Section 15: Separation of Adjudication
+- `04-meta/gaps/15-judicial-process.md` — Updated Gap 216 status to RESOLVED
+- `02-design/constitution/article-crosswalk.md` — Added citation example and error correction
+
+**Status:** ✅ RESOLVED | **Severity:** Critical → Mitigated
+
+---
+
+## 2026-01-28: Gap 273 — The "Paper Standard" Gap (Regional Electoral Standards Without Metrics)
+
+Added Gap 273 addressing unenforceable Article I, Section 3 requirements for proportionality, competitiveness, and anti-domination in Regional constitutions.
+
+### Solution: Article I, Section 3-A — Regional Electoral Standards Enforcement
+
+- **(a) Proportionality** — Gallagher Index ≤5% disparity (two-cycle average), with compelling structural justification safety valve
+- **(b) Competitiveness** — ≥30% of seats contested at ≤15-point margins (post-election default)
+- **(c) Anti-Domination** — Metro/rural seat caps; structural mechanism for non-dominant areas
+- **(d-e) Compliance Review** — NEC/ARB decennial review with citizen petition triggers; 180-day findings
+- **(f) Automatic Remedies** — Graduated: review → remediation → prescription → operation of law
+- **(g) Metric Updating** — Two-thirds congressional vote; may not reduce protections
+- **(h) Redistricting Complementarity** — Explicit relationship to Gap 198
+
+### Files Modified
+
+- `02-design/constitution/01-regional-structure.md` — Added Section 3-A
+- `04-meta/gaps/08-electoral-judicial.md` — Added Gap 273 (PROPOSAL AVAILABLE)
+- `04-meta/gaps/00-index.md` — Updated Table of Contents
+- `04-meta/02-identified-gaps.md` — Updated statistics (High: 79, Total: 163)
+- `02-design/constitution/article-crosswalk.md` — Updated Article I description and citations
+
+**Status:** PROPOSAL AVAILABLE | **Severity:** High
+
+---
 
 ## 2026-01-27: Gap 268 — Senate Quasi-Judicial Power (Separation of Powers Fix)
 

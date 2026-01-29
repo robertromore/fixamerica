@@ -185,7 +185,7 @@ If expedited review is sought regarding an imminent threat to public safety, con
 **Identified**: 2026-01-26
 **Category**: Judicial Process
 **Criticality**: 🔴 **CRITICAL**
-**Status**: UNRESOLVED
+**Status**: ✅ **RESOLVED** — Implemented in Article XIV, Section 15
 
 ### Problem Statement
 
@@ -242,7 +242,7 @@ This structure violates the principle that "no man may be judge in his own cause
 
 ### Proposed Resolution
 
-Add to Article III-RF, Section 13 — Separation of Adjudication:
+**Implemented as Article XIV, Section 15 — Separation of Adjudication** (see [judicial-reform.md](../../single-topic/judicial-reform.md)):
 
 > **(a) Independent Adjudicator Requirement.** No person may be deprived of private rights (including professional licenses, regulatory penalties, or property interests) except upon determination by an adjudicator who:
 >
@@ -256,7 +256,7 @@ Add to Article III-RF, Section 13 — Separation of Adjudication:
 > - (ii) civil monetary penalties exceeding 1,000 Federal Penalty Units;
 > - (iii) property seizures or forfeitures;
 > - (iv) immigration removal proceedings;
-> - (v) benefit determinations affecting vested interests;
+> - (v) benefit determinations affecting vested interests (including benefits for which eligibility has been established by statute, contract, or prior adjudication);
 > - (vi) any proceeding where the agency seeks remedies traditionally available only from courts.
 >
 > **(c) Administrative Courts Authorized.** This section does not prohibit specialized administrative courts, provided such courts:
@@ -269,13 +269,17 @@ Add to Article III-RF, Section 13 — Separation of Adjudication:
 > **(d) Existing ALJ Systems.** Within five (5) years of ratification:
 >
 > - (i) all federal ALJs shall be transferred to an independent Administrative Court system under Article III supervision;
-> - (ii) Regional ALJ systems shall comply with the independence requirements of this section;
-> - (iii) proceedings before non-compliant adjudicators are voidable.
+> - (ii) Regional ALJ systems shall comply with the independence requirements of this section within the same five-year transition period;
+> - (iii) proceedings commenced after the transition period before non-compliant adjudicators are voidable; proceedings concluded before the transition period remain valid under prior law.
+>
+> For purposes of this section, "Article III supervision" means budgetary authority, disciplinary oversight, and rulemaking control vested in the federal judiciary rather than executive agencies.
 >
 > **(e) De Novo Review Right.** Any person subject to adverse determination by an adjudicator shall have the right to de novo review by an Article III court upon:
 >
-> - (i) allegation that the adjudicator failed to meet independence requirements; or
-> - (ii) claim that constitutional rights were violated in the proceeding.
+> - (i) prima facie showing that the adjudicator failed to meet independence requirements; or
+> - (ii) prima facie showing that constitutional rights were violated in the proceeding.
+>
+> A prima facie showing requires specific factual allegations demonstrating structural non-independence or procedural violation; bare assertions are insufficient to trigger de novo review.
 >
 > **(f) Anti-Evasion.** Agencies may not circumvent this section by:
 >
@@ -336,6 +340,16 @@ Add to Article III-RF, Section 13 — Separation of Adjudication:
 - Efficiency maintained through streamlined procedures
 - Constitutional legitimacy restored to administrative process
 
+### Political Feasibility
+
+This reform will face significant resistance from:
+
+- **Executive agencies** — lose control over adjudicatory outcomes
+- **Administrative law bar** — disrupts established practice and expertise silos
+- **Parts of the judiciary** — increased caseload and loss of Chevron-style deference habits
+
+This is acknowledged as a high-conflict structural reform. The resistance does not indicate drafting flaws but rather the depth of institutional interests vested in the current prosecutor-judge fusion model. Successful implementation requires coalition-building with civil liberties advocates, regulated industries frustrated by agency bias, and judicial reformers committed to due process restoration.
+
 ### Implementation Priority
 
 **Tier**: P1 (Immediate)
@@ -344,9 +358,9 @@ Add to Article III-RF, Section 13 — Separation of Adjudication:
 **Dependencies**: None — self-contained judicial reform
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article III-RF, Section 13.
+✅ **RESOLVED.** Implemented as Article XIV, Section 15 in [judicial-reform.md](../../single-topic/judicial-reform.md).
 
-**Severity:** Critical | **Mitigability:** Requires Development
+**Severity:** Critical | **Mitigability:** Addressed
 
 ---
 

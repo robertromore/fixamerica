@@ -3938,6 +3938,198 @@ The Framers deliberately avoided an affirmative voting right, leaving franchise 
 
 ---
 
+## Gap 273 — The "Paper Standard" Gap (Regional Electoral Standards Without Metrics)
+
+**Identified**: 2026-01-28
+**Category**: Electoral & Judicial
+**Criticality**: High
+**Status**: PROPOSAL AVAILABLE
+
+### Problem Statement
+
+**The Unenforceable Mandate**
+
+Article I, Section 3 requires Regional constitutions to provide "independent redistricting processes," "proportionality and competitiveness standards for elections," and "explicit protection against domination by any single metropolitan area or rural bloc." But none of these terms are defined with measurable standards, and no enforcement pathway is specified.
+
+**The Attack Vector**:
+
+1. Region adopts constitution with nominal "proportionality standard" language
+2. Regional legislature defines "proportional" as any system where parties can run candidates
+3. Region uses single-member FPTP for Regional legislative elections
+4. Result: 55% vote share produces 75% seat share — technically "compliant"
+5. Region claims "competitiveness" because seats are technically "contestable"
+6. No enforcement body has authority or metrics to evaluate compliance
+7. Article I, Section 3 becomes aspirational language, not enforceable mandate
+8. Regional constitutions entrench dominant factions while formally satisfying federal requirements
+
+**The Three Unaddressed Dimensions**:
+
+- **Proportionality**: Gap 198 (Gerrymander) addresses redistricting fairness for districts, but not whether the electoral system itself produces proportional outcomes. A Region could have perfectly drawn districts and still produce grossly disproportional seat-to-vote ratios through FPTP mechanics.
+- **Competitiveness**: No existing provision defines what constitutes a "competitive" election. A system where 90% of seats are won by >20-point margins could claim compliance.
+- **Anti-Domination**: No provision defines "domination by any single metropolitan area or rural bloc." A Region where one metro area holds 80% of population and 90% of legislative seats has no structural protection for non-metro areas.
+
+**Why Gap 198 Is Necessary But Insufficient**:
+
+Gap 198 proposes an Independent Redistricting Commission with partisan fairness metrics — this addresses the mechanism of drawing district boundaries. Gap 273 addresses the meta-level: whether the electoral system as a whole produces outcomes consistent with Article I, Section 3's requirements, regardless of how districts are drawn.
+
+### Gaming Vectors Identified
+
+1. **The "Nominal Compliance" Loophole**
+   - Region adopts constitution with boilerplate proportionality language
+   - Defines proportionality in self-serving terms
+   - No federal metric to evaluate against
+   - Courts have no benchmark for judicial review
+
+2. **The "System Choice" Evasion**
+   - Article VII, Section 3 mandates proportional representation / RCV for federal elections
+   - Article I, Section 3 requires proportionality for Regional elections but doesn't mandate a system
+   - Region adopts FPTP for Regional legislature
+   - Claims "proportionality" is satisfied by fair redistricting alone
+   - FPTP math still produces large winner's bonus
+
+3. **The "Metro Dominance" Shield**
+   - Region has one dominant metro area with 70%+ of population
+   - Perfectly proportional system gives metro 70%+ of legislative seats
+   - All legislation reflects metro priorities
+   - Rural areas, small cities face perpetual legislative irrelevance
+   - Region claims it's not "domination" — it's proportional representation
+
+4. **The "No Cop on the Beat" Problem**
+   - ARB resolves power allocation disputes, not electoral design disputes
+   - National Election Court "may be established" but isn't mandatory
+   - No body has periodic review authority over Regional electoral systems
+   - Non-compliance discovered only through expensive litigation
+   - Challenging party must prove violation without an established standard
+
+### Proposed Resolution
+
+**Implemented as Article I, Section 3-A — Regional Electoral Standards Enforcement** (see [01-regional-structure.md](../../constitution/01-regional-structure.md)):
+
+> **(a) Proportionality Standard.** Regional constitutions shall adopt electoral systems for Regional legislative elections that produce seat distributions reasonably reflecting vote distributions. A system satisfies this requirement if, over two consecutive election cycles, the average disparity between any party's regionwide vote share and its seat share does not exceed five (5) percentage points, as measured by the Gallagher Index of Disproportionality or a successor metric designated by the National Election Court, absent a demonstrated compelling structural justification — arising from geographic, demographic, or party-system constraints rather than electoral system design choices — documented in the Compliance Review.
+>
+> **(b) Competitiveness Standard.** Regional constitutions shall ensure that electoral systems produce meaningful voter choice. A system satisfies this requirement if at least thirty percent (30%) of legislative seats are contested with winning margins of fifteen (15) percentage points or less, as measured by post-election margin analysis. Where historical election data is unavailable due to newly created districts or first implementation of a new electoral system, pre-election margin projections by the National Election Court may be used as interim evidence for the first two election cycles, after which post-election data shall govern.
+>
+> **(c) Anti-Domination Standard.** Regional constitutions shall include structural protections against legislative domination by any single metropolitan area or rural bloc. A system satisfies this requirement if:
+>
+> - (i) no single metropolitan statistical area controls a majority of legislative seats unless it contains a majority of the Region's population AND the electoral system satisfies subsection (a);
+> - (ii) legislative representation is geographically distributed such that no contiguous geographic area containing less than forty percent (40%) of the Region's population holds more than fifty percent (50%) of legislative seats;
+> - (iii) the Regional constitution includes at least one structural mechanism (such as a geographic chamber, weighted committee representation, or supermajority requirements for geographically concentrated impact) to ensure non-dominant areas have meaningful input on legislation disproportionately affecting them.
+>
+> **(d) Compliance Review.** The National Election Court (or, if not yet established, the Allocation Review Board) shall conduct Regional Electoral Compliance Reviews:
+>
+> - (i) following each decennial census;
+> - (ii) upon petition by twenty percent (20%) of a Region's legislative members;
+> - (iii) upon petition by citizens representing at least two percent (2%) of the Region's registered voters.
+>
+> **(e) Review Process.** Compliance Reviews shall:
+>
+> - (i) evaluate Regional electoral systems against the standards in subsections (a) through (c) using publicly available election data;
+> - (ii) issue findings within one hundred eighty (180) days of initiation;
+> - (iii) provide a two-year remediation period for Regions found non-compliant;
+> - (iv) publish all findings, data, and methodology for public review.
+>
+> **(f) Automatic Remedies.** If a Region fails to achieve compliance within the remediation period:
+>
+> - (i) the National Election Court shall prescribe minimum electoral system reforms necessary for compliance;
+> - (ii) the Region may adopt the prescribed reforms or propose alternatives that demonstrably meet the standards;
+> - (iii) if the Region takes no action within one additional year, the prescribed reforms take effect by operation of law for the next election cycle;
+> - (iv) affected elections conducted under non-compliant systems remain valid, but the results may be considered by courts in evaluating remedies.
+>
+> **(g) Metric Updating.** The specific metric thresholds in subsections (a) and (b) may be adjusted by two-thirds vote of Congress upon recommendation of the National Election Court, provided that:
+>
+> - (i) adjusted thresholds may not be less protective of proportionality or competitiveness than those specified herein;
+> - (ii) the National Election Court publishes a public justification for the adjustment;
+> - (iii) adjustments take effect no earlier than the second election cycle following adoption.
+>
+> **(h) Relationship to Redistricting.** This section governs the overall electoral system design and outcome standards. Independent redistricting commissions required by [Article I, Section 5] address the specific mechanism of district boundary drawing. Both provisions apply simultaneously; compliance with redistricting requirements does not satisfy this section if the electoral system as a whole fails to meet the standards in subsections (a) through (c).
+
+### Design Rationale
+
+**Why Outcome-Based Standards?**
+
+| Approach | Problem |
+|----------|---------|
+| System-prescriptive ("use proportional representation") | Removes Regional autonomy; one-size-fits-all |
+| Process-based ("use independent commissions") | Already addressed by Gap 198; doesn't guarantee outcomes |
+| Outcome-based ("achieve proportional results") | Preserves Regional choice of system; enforces results |
+
+**Why the Gallagher Index?**
+
+- Widely used in comparative political science
+- Squares deviations, penalizing large disproportionalities more than small ones
+- Accepted in academic literature and by electoral reform organizations
+- "Successor metric" clause prevents obsolescence
+
+**Why the Safety Valve?**
+
+- Small Regions or asymmetric party systems may genuinely produce >5% disproportionality
+- Geographic extremes may create structural constraints
+- Requires "compelling structural justification" (high bar) arising from constraints, not design choices
+- Prevents the metric from becoming a straitjacket
+
+**Why Post-Election Default for Competitiveness?**
+
+- Post-election margins are objective and verifiable
+- Pre-election projections involve contestable modeling choices
+- Pre-election data reserved only as interim fallback for new systems
+- Eliminates satellite litigation over projection methodology
+
+**Why Anti-Domination as Structural Requirement?**
+
+- Pure proportionality can still produce geographic domination
+- A Region with one 70%-population metro area needs structural protection for non-metro areas
+- Flexible mechanisms (geographic chamber, committee weighting, supermajority) allow Regional tailoring
+- Prevents "tyranny of the metropolis" while respecting majority rule
+
+### Cross-Gap Interactions
+
+| Related Gap | Interaction |
+|-------------|-------------|
+| Gap 198 (Gerrymander) | Complementary: 198 fixes redistricting mechanism; 273 fixes electoral system outcome standards |
+| Gap 238 (Duopoly Trap) | Proportionality standard may require multi-member districts or RCV for Regional elections |
+| Gap 262 (Missing Right to Vote) | Affirmative voting right + enforceable proportionality = meaningful franchise |
+| Gap 48 (Electoral system variation) | Currently "Accepted by Design" — 273 constrains the acceptable range of variation |
+
+### Risk Assessment
+
+| Risk | Assessment | Mitigation |
+|------|------------|------------|
+| Gallagher Index gaming | Regions structure elections to technically pass threshold | Two-cycle averaging; competitiveness as independent check; safety valve for genuine constraints only |
+| Metro/rural standard rigidity | 40% population / 50% seat threshold may not fit all Regions | Structural mechanism alternative in (c)(iii) provides flexibility |
+| Metric obsolescence | Political science develops better measures | Section (g) allows metric updating by supermajority |
+| Over-federalization of Regional electoral design | Regions lose autonomy over own legislatures | Standards are outcome-based, not system-prescriptive; Regions choose how to comply |
+| Compliance Review politicization | National Election Court weaponizes reviews | Decennial default cadence; citizen petition threshold prevents frivolous triggers |
+
+**Without Fix:**
+
+- Article I, Section 3 becomes aspirational language
+- Regions adopt nominally compliant constitutions that entrench factions
+- No enforcement body, no metrics, no remedies
+- Proportionality and competitiveness standards are whatever each Region says they are
+- Metro domination proceeds unchecked in population-concentrated Regions
+
+**With Fix:**
+
+- Enforceable metrics provide clear compliance benchmarks
+- Outcome-based standards preserve Regional autonomy over system design
+- Compliance Review cycle catches backsliding without constant litigation
+- Graduated remedies (review → remediation → prescription → automatic effect) provide escalation
+- Anti-domination protections prevent geographic tyranny
+
+### Implementation Priority
+
+**Tier**: P2 (Near-term)
+**Rationale**: Article I, Section 3 is foundational to Regional constitutional legitimacy, but enforcement gaps become acute only after Regions adopt constitutions; initial elections will generate baseline data for Compliance Reviews
+
+**Dependencies**: Coordinates with Gap 198 (redistricting commissions); requires National Election Court establishment or ARB assignment as interim enforcement body
+
+**Status:**
+**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article I, Section 3-A.
+
+**Severity:** High | **Mitigability:** Manageable
+
+---
+
 ## Navigation
 
 - [← Previous: Fiscal & Equalization](07-fiscal-equalization.md)
