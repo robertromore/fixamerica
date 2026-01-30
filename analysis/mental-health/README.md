@@ -1,21 +1,27 @@
-# Overview
+# Mental Health Policy
 
-## Files
+This directory contains a comprehensive analysis of United States mental health policy, covering the systems, laws, workforce, and funding structures that shape how Americans access and receive mental health care.
 
-| File | Description |
-|------|-------------|
-| [01-overview.md](01-overview.md) | Executive summary and scope |
-| [02-current-state.md](02-current-state.md) | Present-day conditions and data |
-| [03-history.md](03-history.md) | Historical context and evolution |
-| [04-root-causes.md](04-root-causes.md) | Systemic analysis of why problems exist |
-| [05-stakeholders.md](05-stakeholders.md) | Who is affected and who has power |
-| [06-opposition.md](06-opposition.md) | Who opposes reform and why |
-| [07-solutions.md](07-solutions.md) | Proposed reforms and interventions |
-| [08-roadmap.md](08-roadmap.md) | Implementation timeline and sequencing |
-| [09-resources.md](09-resources.md) | Further reading and citations |
-| [10-actions.md](10-actions.md) | What citizens can do |
-| [11-legislation.md](11-legislation.md) | Draft legal text and model legislation |
-| [12-perspectives.md](12-perspectives.md) | Political perspectives analysis with scoring and compromise proposals |
+## Overview
+
+The United States faces a mental health crisis of historic proportions. More than one in five American adults -- over 57 million people -- lives with a mental illness, yet fewer than half receive treatment in any given year. The system intended to serve them is fragmented across federal, state, and local jurisdictions, chronically underfunded, and plagued by severe workforce shortages that leave entire regions of the country without a single psychiatrist. The 988 Suicide and Crisis Lifeline, launched in 2022, represented a landmark expansion of crisis services, but the broader infrastructure to support people in mental health emergencies remains dangerously thin.
+
+This analysis examines the structural failures driving America's mental health treatment gap, from insurance parity laws that are widely violated to a community mental health system that never recovered from deinstitutionalization. It traces the history from the asylum era through managed care to the present, identifies the root causes of persistent access barriers, and proposes evidence-based reforms spanning federal legislation, state model laws, workforce development, crisis system buildout, and integration of behavioral health into primary care and schools. The analysis gives particular attention to populations bearing the greatest burden: children and adolescents experiencing unprecedented rates of anxiety and depression, people with serious mental illness cycling through jails and emergency rooms, and veterans and older adults facing isolation and inadequate care.
+
+## Core Analysis Files
+
+- **[01-overview.md](01-overview.md):** Executive summary of the mental health system crisis, scope, key facts, core tensions, and vision for reform.
+- **[02-current-state.md](02-current-state.md):** Detailed data on prevalence, treatment access, workforce capacity, crisis services, insurance parity, and spending.
+- **[03-history.md](03-history.md):** Evolution from the asylum era through deinstitutionalization, managed care, parity legislation, and the post-COVID landscape.
+- **[04-root-causes.md](04-root-causes.md):** Systemic analysis of funding fragmentation, workforce pipeline failures, stigma, and institutional misalignment.
+- **[05-stakeholders.md](05-stakeholders.md):** Roles of federal and state agencies, providers, insurers, advocacy organizations, patients, and families.
+- **[06-opposition.md](06-opposition.md):** Arguments against expanded government involvement, spending increases, and specific reform proposals.
+- **[07-solutions.md](07-solutions.md):** Proposals for parity enforcement, workforce expansion, crisis system investment, youth mental health, and integration models.
+- **[08-roadmap.md](08-roadmap.md):** Phased implementation plan with timelines, milestones, and resource requirements.
+- **[09-resources.md](09-resources.md):** Key research, government reports, data sources, and organizations working on mental health policy.
+- **[10-actions.md](10-actions.md):** How citizens can advocate for mental health reform, support legislation, and engage locally.
+- **[11-legislation.md](11-legislation.md):** Draft federal legislation, state model laws, and regulatory frameworks for mental health system reform.
+- **[12-perspectives.md](12-perspectives.md):** Analysis of mental health policy through conservative, liberal, progressive, libertarian, and other political lenses.
 
 ## Subtopics (20)
 
