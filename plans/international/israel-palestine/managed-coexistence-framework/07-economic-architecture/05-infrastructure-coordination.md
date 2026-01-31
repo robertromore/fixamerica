@@ -62,6 +62,27 @@ Different systems must work together. MCF establishes technical standards for in
 - Technical cooperation
 - No forced system integration
 
+### 5. Operational Autarky
+
+MCF critical systems -- finance, connectivity, utilities -- must be capable of sustaining essential functions without the active cooperation of any single party's national infrastructure.
+
+**What This Means:**
+
+- Connection to national systems is preferred for efficiency
+- Independence is required for resilience
+- Each critical system must have an operational mode that does not depend on Host State infrastructure cooperation
+- Autarky provisions are not assertions of sovereignty; they are engineering requirements for survivability
+
+**Instantiations:**
+
+| Domain | Normal Mode | Autarky Mode |
+|--------|-------------|--------------|
+| **Finance** | ILS/USD clearing through national banking | MVTP closed-loop ledger (see [Economic Integration Section 4.4](01-economic-integration.md)) |
+| **Connectivity** | Commercial telecom + ISP | LEO satellite backbone + private local networks (see Telecommunications Section 5 below) |
+| **Electricity** | National grid connection (IEC) | Solar micro-grid + battery storage (see Utilities Section 1a below) |
+| **Water** | National supply (Mekorot) | On-site treatment + atmospheric generation (see [Water Resources](../06-sensitive-issues/01-water-resources.md)) |
+| **Materials** | Israeli port customs | Jordan Corridor (see Port Access Section 1a below) |
+
 ---
 
 ## Telecommunications
@@ -145,7 +166,55 @@ Spectrum is finite; allocations affect coverage on both sides.
 - International connectivity
 - Payment system connectivity
 
-### 5. Gaza Telecommunications
+### 5. MCF Independent Connectivity (Satellite-First Architecture)
+
+MCF operational systems depend on telecommunications for core functions: MVTP settlement, CMS registry access, JSVC incident reporting, PCC monitoring, and Digital Phase -1 engagement. Per the Operational Autarky Principle (Design Principle 5), MCF connectivity must not depend on any single party's commercial telecom infrastructure.
+
+**Architecture:**
+
+| Layer | Technology | Purpose |
+|-------|-----------|---------|
+| **Primary backbone** | Low Earth Orbit (LEO) satellite constellation (guarantor-contracted) | MCF institutional connectivity independent of terrestrial telecom |
+| **Local distribution** | Private 5G / Wi-Fi 6 networks on unlicensed or internationally protected spectrum bands (ISM bands) | Last-mile connectivity within SAZ/PCC areas |
+| **Terrestrial supplement** | Commercial Israeli/Palestinian telecom | Additional capacity when available; not required for critical operations |
+
+**LEO Satellite Backbone:**
+
+- Guarantor states contract LEO satellite capacity (e.g., Starlink, OneWeb, or EU-provided constellation) for MCF institutional uplink
+- VSAT terminals deployed at all MCF institutional sites, SAZ administrative centers, and PCC checkpoints
+- Satellite uplink provides connectivity independent of Israeli fiber optic backbone and frequency allocations
+- Jamming a LEO constellation constitutes a hostile act against the satellite operator's flag state, raising the cost of interference beyond bilateral Israeli-Palestinian dynamics
+
+**Private Local Networks:**
+
+- SAZ and PCC areas deploy private 5G/Wi-Fi 6 networks for local distribution
+- ISM bands (2.4 GHz, 5 GHz, 6 GHz) are internationally protected and cannot be selectively denied without disrupting the host country's own civilian economy
+- MCF-managed local networks serve CMS holder access to digital services, MVTP transactions, and institutional communications
+- Equipment imported through the Jordan Corridor (see Port Access Section 1a) to bypass telecom equipment import restrictions
+
+**Degradation-as-Interference:**
+
+Systematic bandwidth throttling and frequency denial are explicitly classified as interference under MCF non-interference rules (Section 2 above). Measurable thresholds:
+
+| Metric | Interference Threshold | Documentation |
+|--------|----------------------|---------------|
+| **Bandwidth** | <50% of baseline capacity sustained >48 hours | Infrastructure Coordination Unit certifies |
+| **Latency** | >500ms average sustained >24 hours | Automated monitoring |
+| **Service availability** | <90% uptime over any 7-day period | Automated monitoring |
+| **Frequency denial** | MCF spectrum request unanswered >60 days | Infrastructure Coordination Unit documents |
+
+Threshold breaches trigger documentation and escalation per spoiler response protocols as a category of infrastructure interference.
+
+**Offline-Capable Systems:**
+
+Critical MCF systems must operate in degraded-connectivity mode:
+
+- CMS verification: Local caching with periodic synchronization
+- MVTP transactions: Store-and-forward with settlement on reconnection
+- JSVC incident reporting: Local recording with batch upload
+- PCC monitoring: Autonomous operation with periodic data sync
+
+### 6. Gaza Telecommunications
 
 **Specific Challenges:**
 
@@ -162,6 +231,7 @@ Spectrum is finite; allocations affect coverage on both sides.
 | **Power coordination** | Power access for telecom facilities |
 | **Maintenance** | Equipment import for repair/maintenance |
 | **Connectivity** | International connectivity support |
+| **Satellite access** | LEO satellite terminals for MCF operations (per Section 5) |
 
 ---
 
@@ -279,6 +349,54 @@ Spectrum is finite; allocations affect coverage on both sides.
 | **Future ports** | No prejudice to future development |
 | **Inspection** | Security with efficiency |
 
+### 1a. Jordan Corridor: Primary Material Entry Point
+
+**Rationale:** MCF cannot override Israeli or Egyptian border controls (see Gaza Transportation note). Goods transiting Israeli ports are subject to Israeli customs classification, which historically classifies construction materials (cement, steel rebar, aggregates) as dual-use or restricted. This creates a pre-corridor supply chain vulnerability that MCF's internal customs protocols cannot remedy.
+
+To mitigate this dependency, MCF designates the **King Hussein Bridge (Allenby Bridge) crossing from Jordan** as the Primary Material Entry Point for West Bank SAZ construction and infrastructure projects.
+
+**Jordan Corridor Design:**
+
+| Element | Specification |
+|---------|---------------|
+| **Entry point** | King Hussein Bridge / Allenby Bridge crossing |
+| **Inspection authority** | UVB inspection at crossing (leveraging UVB's mandate for unilateral verification) |
+| **Material scope** | Construction materials (cement, steel, rebar, aggregates, glass, lumber), infrastructure equipment, heavy machinery |
+| **Customs transition** | Goods clear Jordanian export customs, transit the crossing under UVB inspection, and enter MCF customs jurisdiction directly (Tier 1 classification per [Economic Integration Section 2.2](01-economic-integration.md)) |
+| **Security verification** | UVB confirms goods match manifest; random sampling per MCF protocols; no dual-use reclassification |
+
+**Jordan Corridor Advantages:**
+
+- Bypasses Israeli port customs for construction materials
+- Leverages Jordan's role as a regional guarantor with direct border access
+- Utilizes existing crossing infrastructure (King Hussein Bridge is operational)
+- UVB inspection provides security verification independent of Israeli or Palestinian customs authority
+
+**Jordan Corridor Limitations:**
+
+- Crossing capacity constrains throughput (infrastructure upgrades may be needed)
+- Jordan must consent to corridor designation (leverages Jordanian guarantor role per [Guarantor Selection](../04-guarantor-architecture/01-guarantor-selection.md))
+- Israeli security presence at the crossing creates residual dependency (requires guarantor-negotiated transit protocols)
+- Southern West Bank / Gaza requires alternative routing (Egyptian crossings, maritime options)
+
+**Alternative Supply Routes:**
+
+| Route | Applicable Territory | Constraints |
+|-------|---------------------|-------------|
+| **King Hussein Bridge (primary)** | West Bank (north and central) | Jordan consent; crossing capacity |
+| **Egyptian crossings (Rafah, Kerem Abu Salem)** | Gaza, southern territory | Egyptian consent; Gaza security conditions |
+| **Guarantor direct procurement** | All MCF territory | Guarantor states procure and ship via their own logistics; highest cost but bypasses all national customs |
+| **Maritime (future)** | Gaza, coastal territory | Requires port development or floating terminal; long-term option |
+
+**Pre-Positioned Material Reserves:**
+
+MCF maintains strategic reserves of key construction materials within MCF domains:
+
+- Minimum 90-day supply of cement, steel, and aggregates for active SAZ construction projects
+- Reserve locations within SAZ territory or PCC-accessible warehousing
+- Replenishment through Jordan Corridor as primary channel
+- Reserve adequacy reviewed quarterly by Infrastructure Coordination Unit
+
 ### 2. Airport Access
 
 **Current Situation:**
@@ -329,6 +447,36 @@ Spectrum is finite; allocations affect coverage on both sides.
 - Shutoffs as coercion prohibited
 - Maintenance access guaranteed
 - Emergency restoration priority
+
+### 1a. Off-Grid Primary Design (SAZ Power Independence)
+
+Per the Operational Autarky Principle (Design Principle 5), SAZ and PCC infrastructure must be designed as **islandable micro-grids** capable of sustaining critical operations without national grid connection.
+
+**Default SAZ Power Design:**
+
+| Component | Specification |
+|-----------|---------------|
+| **Primary source** | Solar photovoltaic + battery storage, sized for critical operations (hospitals, water pumps, administration, telecom) |
+| **Secondary source** | Wind generation and/or waste-to-energy where site conditions permit |
+| **Grid connection** | Treated as supplementary bulk power source, not a survival dependency |
+| **Backup** | Diesel/natural gas generators for extended low-solar periods |
+
+**Design Standard:**
+
+- All SAZ site plans must include independent power generation sufficient for critical operations (medical, water, communications, administration) without grid connection
+- Grid connection is pursued for efficiency and cost reduction but is not required for SAZ operational viability
+- Guarantor states provide renewable energy technology (solar panels, battery systems, inverters) as part of SAZ construction support obligations
+
+**Connection Refusal as Interference:**
+
+If the national grid provider (IEC or equivalent) does not provide a connection plan within 90 days of a formal MCF connection request for an established SAZ:
+
+1. Infrastructure Coordination Unit documents the refusal
+2. Refusal classified as infrastructure obstruction subject to guarantor escalation
+3. MCF proceeds with independent power generation (already in place as default design)
+4. Pattern of connection refusals documented as systematic interference per spoiler response protocols
+
+**Rationale:** This inverts the monopoly vulnerability. The SAZ is self-sufficient by default. Grid connection is a convenience that reduces operating costs, not a chokepoint that determines viability. If IEC connects, both parties benefit from efficiency. If IEC refuses, the SAZ operates independently and the refusal is documented as obstruction.
 
 ### 2. Natural Gas
 

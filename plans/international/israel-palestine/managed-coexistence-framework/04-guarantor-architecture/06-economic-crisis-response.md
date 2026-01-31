@@ -583,6 +583,24 @@ The following scenarios guide crisis planning and exercises:
 - Impact: Liquidity crisis; account access lost
 - Response: Guarantor emergency bridge; alternative banking; payment disruption management
 
+**Scenario F: State-Level Clearing Denial**
+
+- Trigger: Israel severs ILS clearing for MCF-licensed banks or pressures correspondent banks to de-risk MCF-connected institutions under national security regulations
+- Duration: Indefinite (political, not market-driven)
+- Impact: ILS-denominated transactions within MCF domains seize; CMS benefit disbursement disrupted; SAZ salary payments stalled; corridor commerce halted
+- Response: MVTP activation (see [Economic Integration Section 4.4](../07-economic-architecture/01-economic-integration.md)); USD-only settlement mode; guarantor bridge banking; guarantor diplomatic pressure and escalation to spoiler response protocols
+
+**Scenario F Response Sequence:**
+
+| Phase | Timeline | Actions |
+|-------|----------|---------|
+| **Immediate** | 0-72 hours | Assess scope; activate backup correspondent channels; notify Guarantor Forum |
+| **MVTP activation** | 72 hours-7 days | CFO certification; Executive Committee authorization; MVTP transitions to primary settlement |
+| **Stabilization** | 7-30 days | MCF operations continue via MVTP + USD channels; guarantor diplomatic pressure on Israel |
+| **Resolution or adaptation** | 30+ days | If clearing restored: MVTP deactivation per protocol. If sustained: permanent USD/MVTP operations; guarantor escalation to sanctions |
+
+**Distinction from Scenario E:** Scenario E is a market/institutional failure requiring liquidity substitution. Scenario F is deliberate state-level interference requiring both operational adaptation (MVTP) and political response (guarantor enforcement). Documentation of the clearing denial feeds into spoiler response protocols as state-level economic warfare (see [Spoiler Response Section 2.2](../08-operational-procedures/04-spoiler-response.md)).
+
 ### 8.2 Exercise Schedule
 
 **Tabletop Exercises:**

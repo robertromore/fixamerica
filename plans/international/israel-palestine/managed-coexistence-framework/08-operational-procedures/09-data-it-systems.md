@@ -456,19 +456,41 @@ MCF system operations are transparent; individual participant data is protected.
 
 ### 2. Network Infrastructure
 
-**Connectivity:**
+**Connectivity (Satellite-First Architecture):**
 
-- Multiple ISP connections for redundancy
-- Encrypted links between sites
-- Dedicated circuits for critical operations
-- Satellite backup for emergency communications
+Per the Operational Autarky Principle ([Infrastructure Coordination Design Principle 5](../07-economic-architecture/05-infrastructure-coordination.md)), MCF institutional connectivity must not depend on any single party's commercial telecom infrastructure.
+
+- **Primary:** LEO satellite constellation uplink (guarantor-contracted) for all MCF institutional sites
+- **Secondary:** Dedicated terrestrial circuits where available (leased fiber, microwave links)
+- **Tertiary:** Commercial ISP connections for supplementary capacity
+- **Local distribution:** Private 5G / Wi-Fi 6 networks within SAZ/PCC areas on ISM bands
+
+**Satellite Infrastructure:**
+
+| Component | Specification |
+|-----------|---------------|
+| **VSAT terminals** | Deployed at all MCF institutional sites, SAZ administrative centers, PCC checkpoints |
+| **Uplink provider** | LEO constellation contracted through Guarantor state (not through Israeli or Palestinian telecom providers) |
+| **Bandwidth** | Sufficient for MVTP settlement, CMS registry operations, JSVC reporting, and institutional communications |
+| **Redundancy** | Multi-constellation access where possible; ground-based backup routing through Jordan |
+
+**Offline-Capable Design:**
+
+Critical MCF systems must operate in degraded-connectivity mode with local caching and periodic synchronization:
+
+| System | Offline Capability |
+|--------|--------------------|
+| **CMS verification** | Local credential cache; periodic sync |
+| **MVTP transactions** | Store-and-forward; settlement on reconnection |
+| **JSVC incident reporting** | Local recording; batch upload |
+| **PCC monitoring** | Autonomous operation; periodic data sync |
 
 **Topology:**
 
 - Segmented networks by function
 - DMZ for external-facing services
 - Internal network isolation
-- Out-of-band management network
+- Out-of-band management network (satellite-routed)
 
 ### 3. Cloud and Outsourcing
 

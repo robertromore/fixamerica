@@ -77,7 +77,7 @@ managed-coexistence-framework/
 │   ├── 05-external-saz.md          # Jordan-based pilot
 │   └── 06-internal-saz-selection.md
 │
-├── 03-phase-3-voluntary-convergence/  # End-state options
+├── 04-phase-3-voluntary-convergence/  # End-state options
 │   ├── 00-overview.md
 │   ├── 01-referenda-procedures.md
 │   ├── 02-confederation-path.md
@@ -164,7 +164,7 @@ managed-coexistence-framework/
 | Individual participation | [01-cms-framework.md](02-phase-1-civic-membership/01-cms-framework.md) |
 | Rights and protections | [02-confederal-rights-compact.md](02-phase-1-civic-membership/02-confederal-rights-compact.md) |
 | Territorial governance | [01-saz-legal-framework.md](03-phase-2-saz/01-saz-legal-framework.md) |
-| End-state options | [00-overview.md](03-phase-3-voluntary-convergence/00-overview.md) |
+| End-state options | [00-overview.md](04-phase-3-voluntary-convergence/00-overview.md) |
 | Jerusalem arrangements | [02-jerusalem.md](06-sensitive-issues/02-jerusalem.md) |
 | Refugee treatment | [04-refugees-diaspora.md](06-sensitive-issues/04-refugees-diaspora.md) |
 | Economic benefits | [01-economic-integration.md](07-economic-architecture/01-economic-integration.md) |
@@ -188,7 +188,7 @@ managed-coexistence-framework/
 
 ## Status
 
-All documents are in **Final Draft** status, representing a complete framework ready for stakeholder review and refinement.
+Core framework documents are in **Draft** status. Section overviews are Complete. Annexes with operational detail (templates, calibration methodology, detailed procedures) remain to be developed. See individual section overviews for per-document status.
 
 ---
 

@@ -41,7 +41,7 @@ MCF does not attempt to **defeat** spoilers directly. It **changes the cost-bene
 | Principle | Description |
 |-----------|-------------|
 | **Visibility over retaliation** | Document interference rather than respond in kind; legibility creates costs |
-| **Cost externalization** | MCF doesn't punish spoilers; guarantors do, in their own domains |
+| **Cost externalization** | MCF doesn't punish spoilers; guarantors do, in their own domains. The documentation-to-guarantor-action pipeline's effectiveness depends on guarantor willingness to act; if guarantors are politically paralyzed or fatigued, documentation alone does not impose costs. See [Guarantor Withdrawal Procedures](../04-guarantor-architecture/05-guarantor-withdrawal.md) for the backstop when guarantor commitment falters |
 | **Strategic patience** | Spoilers expend resources; MCF outlasts interference cycles |
 | **Institutional resilience** | No single point of failure; sabotage triggers containment, not collapse |
 | **Response separation** | Distinguish MCF operational response from guarantor punitive response |
@@ -134,7 +134,16 @@ This includes:
 | **Information warfare** | State-sponsored disinformation, media manipulation |
 | **Diplomatic sabotage** | Undermining guarantor support, international legitimacy |
 | **Economic warfare** | Sanctions, trade pressure, financial system manipulation |
+| **Financial infrastructure denial** | Severing clearing access, pressuring correspondent banks to de-risk MCF institutions, blocking material imports through dual-use over-classification |
 | **Passive non-compliance** | Party governments failing to meet obligations |
+
+**Financial Infrastructure Denial -- Special Note:**
+
+Financial infrastructure denial is a distinct category of economic warfare because it operates at the systemic level rather than the transaction level. MCF's internal banking protections (see [Economic Integration Section 3](../07-economic-architecture/01-economic-integration.md)) prevent discriminatory practices by MCF-licensed banks, but cannot remedy clearing denial imposed at the national infrastructure level (e.g., Bank of Israel refusing to process MCF-related Shekel transactions). Similarly, dual-use over-classification of construction materials at national ports operates before goods enter MCF customs jurisdiction.
+
+**MCF operational response** to financial infrastructure denial: MVTP activation (see [Economic Integration Section 4.4](../07-economic-architecture/01-economic-integration.md)); USD-only settlement; guarantor bridge banking; alternative supply routing through Jordan Corridor (see [Infrastructure Coordination](../07-economic-architecture/05-infrastructure-coordination.md)).
+
+**Guarantor response:** Documentation triggers standard state-level interference escalation (Section 2.2.4). Financial infrastructure denial at the "Systematic" or "Sustained campaign" level warrants guarantor financial countermeasures, including conditioning bilateral economic cooperation with the interfering party on restoration of clearing access.
 
 #### 2.2.3 Identification Patterns
 

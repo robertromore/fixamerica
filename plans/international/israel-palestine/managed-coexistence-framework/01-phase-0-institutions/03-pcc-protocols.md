@@ -1072,6 +1072,39 @@ PCCs crossing conflict lines require:
 | **Communication** | Real-time coordination across boundary |
 | **Incident response** | Unified response regardless of incident location |
 
+### 8.4 Jerusalem Bypass Routing
+
+Jerusalem is explicitly excluded from MCF territorial governance (see [Jerusalem: Special Exclusion](../06-sensitive-issues/02-jerusalem.md)). However, Jerusalem sits between the northern and southern West Bank, making north-south PCC connectivity a geographic challenge.
+
+**Routing Options**
+
+| Option | Route | Characteristics |
+|--------|-------|-----------------|
+| **Eastern bypass** | East of Jerusalem municipal boundaries, through Ma'ale Adumim area toward Bethlehem | Avoids Jerusalem entirely; requires new infrastructure through difficult terrain |
+| **Existing tunnel/bypass roads** | Route 60 tunnel road, existing bypass infrastructure | Already functional; uses Israeli-controlled infrastructure |
+| **Jerusalem transit corridor** | Through Jerusalem municipal boundaries | Leverages Jerusalem exclusion transit exception (see [Jerusalem Document Section: Operational Boundaries](../06-sensitive-issues/02-jerusalem.md#implementation-safeguards)); politically sensitive |
+
+**Transit Corridor Treatment**
+
+Where routing through Jerusalem municipal boundaries is the only practical option for specific PCC functions:
+
+- The [Jerusalem transit exception](../06-sensitive-issues/02-jerusalem.md) ("Transit through Jerusalem (practical necessity)") applies
+- PCC transit through Jerusalem does **not** constitute MCF governance or operational presence in Jerusalem
+- No MCF personnel deployment, facilities, or branded activities within Jerusalem during transit
+- Transit routes use existing infrastructure without modification or MCF construction
+- Monitoring responsibility transfers at Jerusalem municipal boundaries (handover protocol per Section 8.3)
+
+**Infrastructure Investment**
+
+Where bypass routes (avoiding Jerusalem entirely) require upgrades to meet PCC operational standards:
+
+- Infrastructure investment costs included in PCC establishment budgets
+- Priority given to routes that avoid Jerusalem entirely to reduce political sensitivity
+- Route selection considers both operational efficiency and political feasibility
+- Guarantor infrastructure support may be directed toward bypass route development
+
+**Operational Default:** PCCs should be designed to function without relying on Jerusalem transit wherever physically possible. The Jerusalem transit exception is a fallback, not a primary design assumption.
+
 ---
 
 ## Annexes

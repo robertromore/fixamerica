@@ -622,6 +622,75 @@ See [CMS Framework](01-cms-framework.md).
 
 See [No Worse Off Guarantee](05-no-worse-off-guarantee.md).
 
+### 10.2a Community Spillover Design
+
+MCF economic success must generate benefits that reach non-participants, reducing the perception of a privileged CMS-holder class and mitigating relative deprivation dynamics (see [No Worse Off Guarantee Section 4.1a](05-no-worse-off-guarantee.md#41a-relative-deprivation-and-community-spillovers)).
+
+**Infrastructure Spillovers**
+
+- PCC utilities (water, electricity, telecommunications) serve all residents in the corridor area, not only CMS holders
+- PCC medical transport is available to all patients requiring emergency or specialist care
+- Road and infrastructure improvements along PCC routes benefit all road users
+
+**Employment Spillovers**
+
+- Employers participating in MCF employment programs adopt MCF labor standards (safety, wage floors, non-discrimination) that apply to **all workers** at participating workplaces, not only CMS holders
+- MCF-funded vocational training centers may offer a defined percentage of places to non-CMS community members
+
+**Healthcare Spillovers**
+
+- MCF-funded healthcare facilities operate on a universal service basis within their coverage area
+- Emergency care is available regardless of CMS status
+- Preventive health programs (vaccination, maternal health) serve all community members
+
+**Community Development Fund**
+
+A defined percentage of MCF economic activity revenue is allocated to a **Community Development Fund (CDF)**:
+
+| Parameter | Standard |
+|-----------|----------|
+| **Revenue source** | Percentage of MCF institutional revenue, SAZ tax revenue, and guarantor economic support |
+| **Allocation rate** | To be determined based on economic modeling; target range 5-15% of MCF revenue |
+| **Eligibility** | All communities in the operational area, regardless of CMS participation rates |
+| **Governance** | Joint MCF-community board with non-CMS community representation |
+| **Uses** | Local infrastructure, education facilities, health clinics, water systems, public spaces |
+| **Transparency** | Public reporting on allocations and outcomes |
+
+The CDF allows CMS holders to frame their participation as **contributing to collective community benefit**: "My participation in MCF funds the new water system / school / clinic that serves everyone." This reframes the participation narrative from personal enrichment to community contribution.
+
+### 10.2b Human Capital Replacement Levy
+
+MCF economic conditions create wage differential pressure that may draw skilled professionals from PA and municipal institutions into the private sector within MCF domains (see [No Worse Off Guarantee Section 4.4a](05-no-worse-off-guarantee.md)). To internalize this externality, MCF imposes a transition levy when it contributes to institutional talent drain:
+
+**Levy Structure:**
+
+| Element | Standard |
+|---------|----------|
+| **Trigger** | MCF-registered employer hires a worker who was employed in a public sector institution (PA, municipal government, UNRWA) within the preceding 12 months |
+| **Amount** | One-time fee equal to 3 months of the worker's new MCF-area salary |
+| **Payee** | Originating public sector institution (earmarked for recruitment and training of replacement) |
+| **Collection** | Collected by MCF Labor Authority as part of employer hiring reporting (see [Labor Mobility Section 4.3](../07-economic-architecture/02-labor-mobility.md)) |
+| **Exemptions** | Workers who were involuntarily separated from public sector employment; workers whose public sector positions were eliminated |
+
+**Rotation Secondment Alternative:**
+
+As an alternative to permanent talent extraction, MCF facilitates structured secondments:
+
+- PA public sector workers may work in MCF-area facilities for fixed terms (6-12 months)
+- During secondment, the worker remains on PA payroll with an MCF salary supplement
+- Worker returns to PA service with enhanced skills and a re-integration stipend funded by MCF
+- Secondment positions count toward MCF employer workforce requirements
+- See [Personnel Standards](../08-operational-procedures/12-personnel-standards.md) for rotation protocol details
+
+**Levy Revenue Use:**
+
+Levy revenues are remitted to originating institutions and may be used only for:
+
+- Recruitment costs for replacement staff
+- Training and professional development
+- Salary competitiveness improvements
+- Institutional capacity maintenance
+
 ### 10.3 Economic Architecture Integration
 
 - Employment benefits administered through labor mobility framework

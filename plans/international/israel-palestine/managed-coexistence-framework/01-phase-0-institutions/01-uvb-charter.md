@@ -589,6 +589,61 @@ See [JSVC Charter Section 8: Phase Transition Certification Authority](02-jsvc-c
 
 ---
 
+## 9. Deployment Logistics
+
+### 9.1 Personnel Entry
+
+UVB international personnel must physically enter the mandate area to conduct operations. This section addresses deployment logistics, including scenarios where one party blocks entry.
+
+**Primary Entry Routes**
+
+| Route | Controller | Status |
+|-------|-----------|--------|
+| Ben Gurion International Airport | Israel | Primary route; subject to Israeli visa/entry policy |
+| Allenby/King Hussein Bridge (Jordan) | Israel/Jordan (Israeli security control on western side) | Alternative; subject to Israeli security screening |
+| Rafah Crossing (Egypt) | Egypt/variable | Gaza access; availability depends on political conditions |
+| Erez Crossing | Israel | Gaza access; Israeli-controlled |
+
+**Entry Denial Scenarios**
+
+If Israel denies visas or entry to UVB personnel:
+
+1. **Guarantor diplomatic facilitation**: Guarantor states use diplomatic channels to secure entry. This is the primary response and is a core guarantor obligation under the framework agreement
+2. **Alternative entry via Jordan/Egypt**: Where the PA or other cooperating party controls or can facilitate access through non-Israeli-controlled crossings, UVB deploys through those routes
+3. **Minimum viable deployment**: UVB begins operations within cooperating party territory only, documenting the access denial as a finding per Section 4.2
+
+### 9.2 Asymmetric Start
+
+UVB may initially operate on one side only. This is an acknowledged limitation, not a framework failure.
+
+**Single-Territory Operation**
+
+If confined to Palestinian-controlled territory:
+
+- UVB documents incidents within accessible areas
+- Incidents in inaccessible areas documented from external sources (satellite imagery, witness testimony from border areas, open-source monitoring)
+- Access denial is itself documented and reported to guarantors
+- UVB credibility established in operating territory creates pressure for access in non-cooperating territory
+
+**Expansion Pathway**
+
+- Guarantor diplomatic pressure for access expansion is continuous
+- Demonstrated UVB professionalism and impartiality in operating territory provides basis for non-cooperating party to grant access
+- Access expansion may be incremental (specific sites, specific incident types) before full mandate-area access is achieved
+
+### 9.3 Guarantor Facilitation Obligations
+
+Guarantor states commit, as part of the framework agreement, to:
+
+- Facilitate visa issuance for UVB personnel through their own diplomatic processes
+- Exert diplomatic pressure on parties that block UVB entry
+- Provide transit arrangements through guarantor-accessible territory where applicable
+- Include UVB access in bilateral diplomatic agendas with conflict parties
+
+Entry facilitation is a **concrete, measurable guarantor obligation**, not a general aspiration. Failure to actively facilitate UVB entry is documented in guarantor performance assessments (see [Guarantor Coordination](../04-guarantor-architecture/04-guarantor-coordination.md)).
+
+---
+
 ## Annexes
 
 ### Annex A: UVB Emblem and Identification

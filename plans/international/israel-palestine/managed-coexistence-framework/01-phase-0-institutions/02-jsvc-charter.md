@@ -936,7 +936,7 @@ If not renewed, transition proceeds at override expiration regardless of circums
 
 ### 8.7 Asymmetric Protective Design
 
-JSVC's phase authority flows **in one direction**: certifying readiness to expand rights and participation, not suspending them.
+JSVC's phase authority flows **in one direction**: certifying readiness to expand rights and participation, not suspending them. When JSVC certifies a regression trigger, the resulting benefit suspension is an automatic consequence of the regression protocol, not a JSVC order. JSVC certifies conditions; it does not direct operational changes.
 
 **JSVC May:**
 

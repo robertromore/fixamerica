@@ -846,6 +846,38 @@ When protection fails:
 - International pressure on systematic intimidation
 - Guarantor countries may provide asylum options
 
+### 11.5 Pre-SAZ Advocacy Protection
+
+Anti-intimidation protections extend to **local officials and community leaders who express interest in SAZ participation** during the candidate generation, consultation, and petition phases (see [SAZ Site Selection](../03-phase-2-saz/06-internal-saz-selection.md) and [SAZ Legal Framework Section 2.4](../03-phase-2-saz/01-saz-legal-framework.md)).
+
+**Rationale:** The anti-intimidation architecture's core protections begin at CMS application (Section 11.1). However, the decision to pursue SAZ establishment occurs before CMS is relevant to local governance. Local officials who publicly support SAZ face retaliation from central authorities (PA dismissal of mayors, Israeli government defunding of settlement councils, factional threats). Without protection at this stage, the framework's emphasis on local demand ("site selection begins with demand") is undermined by the inability of local leaders to safely express that demand.
+
+**Scope:**
+
+| Protected Activity | Protection Level | Mechanism |
+|--------------------|-----------------|-----------|
+| Confidential interest signaling to MCF Secretariat | Maximum confidentiality | Data security protocols; no disclosure without consent |
+| Public statements supporting SAZ exploration | Standard protection | Monitoring; documentation of retaliation; guarantor engagement |
+| Organizing community consultations on SAZ | Standard protection | MCF facilitation; observer presence at consultations |
+| Signing or organizing a community petition | Protected | Enhanced monitoring; guarantor diplomatic engagement with retaliating authority |
+| Serving as petition spokesperson | Protected | Named guarantor-state contact for emergency; retaliation documented and escalated |
+
+**Retaliation by Central Authorities:**
+
+When a central authority retaliates against local officials for SAZ advocacy:
+
+1. MCF documents the retaliation (per spoiler response Section 2.3 internal obstruction protocols)
+2. Guarantor diplomatic engagement with the retaliating authority
+3. If retaliation is systematic: triggers Non-Interference Conditionality considerations (see [SAZ Legal Framework Section 2.4](../03-phase-2-saz/01-saz-legal-framework.md))
+4. Affected officials may request enhanced protection measures (legal support, international visibility, economic protection per Section 4.3)
+
+**Limitations:**
+
+- Protection applies to peaceful advocacy for SAZ participation, not to all political activity by local officials
+- Protection does not extend to officials inciting violence or organizing armed resistance
+- MCF does not intervene in legitimate administrative actions by central authorities unrelated to SAZ advocacy (e.g., removal for corruption)
+- CMS status is not required for pre-SAZ advocacy protection; protection derives from the advocacy activity itself
+
 ---
 
 ## Annexes

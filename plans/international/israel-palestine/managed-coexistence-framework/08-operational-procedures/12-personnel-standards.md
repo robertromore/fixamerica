@@ -156,6 +156,31 @@ Personnel seconded from guarantor states or international organizations.
 | **Approval** | MCF institutional head |
 | **Term** | Secondment agreement terms |
 
+### 4a. Rotation Secondment Protocol
+
+Per the [Operational Autarky Principle](../07-economic-architecture/05-infrastructure-coordination.md), MCF must mitigate institutional capacity drain from Host State public sectors. International and local staff seconded from Palestinian Authority or Israeli institutions follow rotation protocols to prevent permanent talent extraction.
+
+**Rotation Requirements:**
+
+| Element | Standard |
+|---------|----------|
+| **Term length** | 6-12 months per rotation |
+| **Extension** | One renewal permitted (maximum 24 months continuous) |
+| **Cooling-off** | Minimum 12 months before re-secondment from same institution |
+| **Exceptions** | Positions requiring specialized continuity (approved by MCF HR Director case-by-case) |
+
+**Applicability:**
+
+- Mandatory for personnel seconded from PA ministries, Israeli government agencies, and local municipal authorities
+- Not applicable to guarantor secondees, private-sector hires, or direct MCF recruits
+- Positions filled via the [Human Capital Replacement Levy](../02-phase-1-civic-membership/04-incentive-structure.md) pathway (permanent MCF employment) are exempt from rotation but trigger levy payment
+
+**Knowledge Transfer:**
+
+- Each rotation includes 30-day overlap for handover
+- Returning secondees expected to strengthen sending institution with MCF-acquired skills
+- MCF tracks institutional return rates; patterns of non-return trigger [Institutional Capacity Monitoring](../02-phase-1-civic-membership/05-no-worse-off-guarantee.md) review
+
 ---
 
 ## Recruitment Standards

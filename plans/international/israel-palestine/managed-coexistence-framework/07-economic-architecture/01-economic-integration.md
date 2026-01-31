@@ -541,6 +541,89 @@ All MCF-licensed banks must:
 - Process payments regardless of originating bank
 - Maintain adequate liquidity for settlement
 
+### 4.4 MCF Value Transfer Protocol (MVTP)
+
+The MCF economic architecture is structurally dependent on ILS clearing infrastructure controlled by the Bank of Israel. If Israel severs the clearing interface -- refusing to process MCF-related Shekel transactions or pressuring correspondent banks to de-risk MCF-licensed institutions -- ILS-denominated activity within MCF domains would seize up regardless of internal protections.
+
+To prevent this single point of failure, MCF maintains a **closed-loop digital ledger** capable of sustaining essential economic activity independently of any party's national clearing infrastructure.
+
+**MVTP Characteristics:**
+
+| Feature | Specification |
+|---------|---------------|
+| **Nature** | Closed-loop digital ledger for internal MCF payments |
+| **Backing** | 1:1 backed by hard currency (USD/EUR) held in Guarantor Central Bank accounts |
+| **Scope** | SAZ salaries, vendor contracts, CMS benefit disbursements, civic dividends |
+| **Settlement** | Operates on MCF corridor settlement infrastructure |
+| **Conversion** | Redeemable at par for backing currency through guarantor-facilitated channels |
+
+**MVTP Is NOT:**
+
+- A sovereign currency (MCF does not claim currency-issuing authority)
+- A speculative instrument (1:1 backing, no floating exchange rate)
+- A replacement for ILS/USD in normal operations (activates only when clearing is severed)
+- A cryptocurrency (operates on permissioned MCF infrastructure, not public blockchain)
+
+**Activation Criteria:**
+
+MVTP transitions from standby to primary settlement mode when:
+
+1. ILS clearing disruption persists for >72 hours affecting >50% of MCF-licensed bank transactions
+2. CFO certifies clearing disruption to Executive Committee
+3. Executive Committee authorizes MVTP activation (notification to Confederal Council within 24 hours)
+
+**Deactivation:** When ILS clearing resumes and operates normally for 30 consecutive days, MVTP reverts to standby. Outstanding MVTP balances are settled in backing currency.
+
+**Reserve Requirements:**
+
+- MVTP backing reserves maintained in at least 2 Guarantor Central Banks (geographic diversification)
+- Minimum reserve: 6 months of MCF essential operations at current activity levels
+- Reserve adequacy reviewed quarterly by CFO
+- Guarantor states commit to maintaining reserve accounts as a guarantor obligation
+
+### 4.5 Correspondent Banking Resilience
+
+MCF-licensed banks must maintain **diversified correspondent banking relationships** to prevent single-point clearing dependency:
+
+| Requirement | Standard |
+|-------------|----------|
+| **Non-Israeli correspondents** | At least 1 non-Israeli correspondent for USD and EUR transactions |
+| **Guarantor-state correspondents** | At least 1 correspondent in a Guarantor state for each mandatory currency |
+| **Relationship testing** | Quarterly live test transactions through each correspondent channel |
+| **Emergency routing** | Pre-configured backup routing if primary correspondent is unavailable |
+
+**Guarantor Bridge Banking:**
+
+If systematic correspondent bank de-risking occurs (>30% of MCF-licensed banks lose correspondent access within 90 days), Guarantor states commit to providing emergency clearing access through their own financial institutions. This obligation is documented in the Guarantor Coordination Agreement and reviewed annually.
+
+---
+
+## 4b. Port-to-Corridor Transition Protocol
+
+MCF customs protocols (Section 2) apply within MCF corridors, but goods entering the territory must first transit national customs at ports of entry. This creates a jurisdictional gap: Israeli customs at Ashdod/Haifa ports applies Israeli classification, which may differ from MCF classification (e.g., classifying construction materials as dual-use). Goods blocked at the port never reach MCF corridors.
+
+**Transition Mechanism:**
+
+| Stage | Jurisdiction | Process |
+|-------|-------------|---------|
+| **International transit** | Flag state / carrier | Standard international shipping |
+| **Port of entry** | National customs (Israeli, Jordanian, or Egyptian) | National classification and inspection applies |
+| **Port-to-corridor transit** | Shared (national security + MCF corridor authority) | Goods cleared at port transit to MCF corridor entry point |
+| **Corridor entry** | MCF Corridor Authority | MCF classification applies; goods enter MCF customs regime |
+
+**Where National and MCF Classification Conflict:**
+
+If national customs classifies goods as restricted/dual-use but MCF classifies the same goods as Tier 1 (automatically permitted):
+
+1. MCF Corridor Authority documents the classification conflict
+2. Shipper may reroute through alternative entry points (see [Jordan Corridor](05-infrastructure-coordination.md))
+3. Guarantor diplomatic engagement with national customs authority
+4. Pattern of classification conflicts documented and escalated per spoiler response protocols if systematic
+
+**Primary Material Entry Point:** For construction materials and other goods historically subject to dual-use over-classification, the Jordan Corridor (King Hussein Bridge) is designated as the primary entry point, bypassing Israeli port customs. See [Infrastructure Coordination](05-infrastructure-coordination.md) for details.
+
+**MCF does not claim authority** to override national customs at ports of entry. The transition protocol manages the jurisdictional handoff, routes goods through the least restrictive available entry point, and documents systematic blocking as a category of state-level interference.
+
 ---
 
 ## 5. Trade Facilitation

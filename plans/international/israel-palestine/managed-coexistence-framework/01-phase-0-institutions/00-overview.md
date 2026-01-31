@@ -37,7 +37,7 @@ Phase 0 is deliberately limited in scope: it does not attempt political integrat
 
 ## Transition to Phase 1
 
-Phase 0 institutions remain operational throughout all subsequent phases. The transition to Phase 1 occurs when Phase 0 success criteria are met and verified by external guarantors.
+Phase 0 institutions remain operational throughout all subsequent phases. The transition to Phase 1 occurs when Phase 0 success criteria are met and certified by the JSVC, with guarantor data verification and assessment review.
 
 See: [Phase Transition Criteria](../00-introduction.md#phase-transition-criteria)
 

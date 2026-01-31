@@ -103,7 +103,7 @@ Phase 3 may only be entered after sustained Phase 2 success. Per [Phase Transiti
 
 ## Referendum Requirements Summary
 
-Phase 3 is the **first phase requiring referendum approval**. Key thresholds:
+Phase 3 is the **first phase requiring a framework-wide referendum** among all CMS holders on the political direction of MCF. (Phase 1→2 includes localized SAZ Local Consent Plebiscites for specific SAZ locations, which are community-level consent processes rather than framework-level political mandates.) Key thresholds:
 
 | Element | Requirement |
 |---------|-------------|

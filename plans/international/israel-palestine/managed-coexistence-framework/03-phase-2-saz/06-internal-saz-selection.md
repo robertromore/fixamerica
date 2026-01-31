@@ -382,14 +382,27 @@ Jerusalem is **explicitly excluded from SAZ consideration** until Phase 3 or bey
 #### 1.1 Candidate Generation
 
 **Sources of Candidates:**
+
 - CMS participant surveys (where would you live in an SAZ?)
 - Civil society proposals
 - Academic studies
 - International expert recommendations
 - Local initiative (community petition)
+- Confidential interest signaling (see below)
+
+**Confidential Interest Signaling:**
+
+Local leaders and communities may face retaliation from central authorities for publicly expressing SAZ interest (see Finding 18 analysis). To enable demand assessment without requiring premature public exposure:
+
+- MCF Secretariat maintains a confidential channel for local officials and community organizations to signal SAZ interest
+- Signaling is non-binding and does not constitute a petition
+- MCF Secretariat assesses demand through confidential surveys of signaling communities before any public process begins
+- Identity of signaling communities is protected under MCF data security protocols until the community decides to proceed to a formal petition
+- Anti-intimidation protections (see [Anti-Intimidation Architecture Section 11.5](../02-phase-1-civic-membership/03-anti-intimidation.md)) apply to local officials and community leaders who participate in confidential interest signaling
 
 **Initial List:**
-- All proposed sites compiled
+
+- All proposed sites compiled (including confidential signals)
 - No immediate filtering
 - Geographic spread considered
 - Both sides of Green Line considered
@@ -492,6 +505,7 @@ Jerusalem is **explicitly excluded from SAZ consideration** until Phase 3 or bey
 - **Both parties (Israeli and Palestinian authorities) must consent** (per [SAZ Legal Framework Section 2.1-2.5](01-saz-legal-framework.md#21-establishment-options))
 - Local referendum confirms
 - No single party can impose; equally, no SAZ can proceed without party consent
+- **Exception:** For community-initiated petitions where a central authority files a non-substantive objection, the Blocked-Petition Escalation pathway applies (see [SAZ Legal Framework Section 2.4](01-saz-legal-framework.md#24-community-petition-model)). Guarantor Forum determination may authorize referendum under guarantor facilitation, with Non-Interference Conditionality as the structural incentive.
 
 **Sequence (aligned with [SAZ Legal Framework Section 2.2](01-saz-legal-framework.md#22-bilateral-agreement-model)):**
 
@@ -607,6 +621,72 @@ Jerusalem is **explicitly excluded from SAZ consideration** until Phase 3 or bey
 - Cannot incite violence
 - Cannot organize paramilitary resistance
 - Can advocate for dissolution through democratic means
+
+---
+
+## Transition Implementation
+
+Once an SAZ site is selected (decision sequence complete per Section 5.3) and all approvals obtained, the gap between "agreement signed" and "SAZ operational" is the most operationally dangerous transition moment. This section specifies the authority transfer mechanics.
+
+### 1. Authority Transfer Sequence
+
+Authority transfers in a defined sequence to maintain governance continuity:
+
+| Phase | Duration | Key Actions |
+|-------|----------|-------------|
+| **Pre-transfer preparation** | 60-90 days | SAZ governance institutions formed; personnel appointed; legal framework enacted |
+| **Administrative handover** | 30-60 days | Municipal functions transfer to SAZ governance; records, budgets, and contracts migrate |
+| **Security transition** | 60-120 days | Phased transfer from existing security forces (IDF/PA) to SAZ security arrangements |
+| **Full SAZ operation** | Ongoing | SAZ governance assumes all designated functions; enhanced monitoring for 12 months |
+
+**Sequencing Principle:** Administrative functions transfer before security functions. Municipal services (water, electricity, waste, permits) must continue uninterrupted throughout the transition.
+
+### 2. Security Transition
+
+Security transition is the highest-risk element and follows a phased approach:
+
+| Step | Action | Duration |
+|------|--------|----------|
+| 1 | SAZ security force trained and certified | Before transition begins |
+| 2 | Joint patrols: SAZ security + existing forces (IDF/PA) operate together | 30-60 days |
+| 3 | Lead transfer: SAZ security assumes primary responsibility; existing forces in support | 30-60 days |
+| 4 | Full SAZ security authority: existing forces withdraw to perimeter | Target: 30 days |
+| 5 | Perimeter withdrawal complete: SAZ security fully operational | Target: 30 days |
+
+**IDF/PA Withdrawal:** The terms of military/security withdrawal are negotiated as part of the SAZ establishment agreement (party consent at Section 5.3 step 5). The framework specifies the phased approach; exact timelines and modalities are agreement-specific.
+
+**Emergency Reversion:** If security conditions deteriorate during transition, the joint patrol phase may be extended or the transition paused. Transition pause does not constitute phase regression; it is an implementation adjustment.
+
+### 3. Administrative Continuity
+
+During the handover period:
+
+- All pre-existing municipal services continue without interruption
+- Existing municipal employees are offered transition to SAZ employment (at equivalent or better terms)
+- Contracts with utility providers, service companies, and vendors are assumed by SAZ governance
+- Property records, land registrations, and legal filings transfer to SAZ administrative systems
+- Tax collection transitions to SAZ revenue authority on a defined date
+
+### 4. Recalcitrant Officials
+
+If local officials refuse to cooperate with the authority transfer:
+
+| Scenario | Response |
+|----------|----------|
+| **Mayor/council refuses handover** | Guarantor mediation; if mediation fails, SAZ governance establishes parallel administrative capacity and existing services transfer as contracts expire or are assumed |
+| **Civil servants refuse to transfer** | SAZ governance hires replacement staff; no individual penalized for declining SAZ employment |
+| **Security forces refuse withdrawal** | Guarantor diplomatic intervention; escalation to guarantor enforcement mechanisms; SAZ security operates alongside until withdrawal achieved |
+| **Population resistance** | Distinction between political opposition (protected) and violent obstruction (addressed per SAZ security protocols) |
+
+### 5. Transition Monitoring
+
+Enhanced monitoring during the transition period:
+
+- JSVC maintains intensified presence during transition
+- Guarantor observers stationed at SAZ boundaries and key administrative sites
+- Weekly transition progress reports published
+- Defined milestones for transition completion assessment
+- CRC Review Panel available for urgent individual complaints via interim mechanism (see [Constitutional Floor Section 7.1](03-constitutional-floor.md#71-saz-establishment))
 
 ---
 

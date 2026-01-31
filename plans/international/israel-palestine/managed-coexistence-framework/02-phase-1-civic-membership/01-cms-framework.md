@@ -143,6 +143,8 @@ Vetting covers:
 - Vetting Unit may request information from parties but makes independent determinations
 - Guarantors provide oversight of vetting standards and processes
 
+**Non-Cooperation Fallback:** Where a party declines to share security records, the Vetting Unit proceeds using available sources: international databases, open-source review, guarantor-provided intelligence, and the cooperating party's records. Non-availability of one party's records is documented but does not automatically disqualify applicants. The Vetting Unit may impose enhanced monitoring conditions for applicants whose background could not be fully verified due to party non-cooperation. This preserves the framework's design principle that Phase 1 does not require mutual governmental agreement.
+
 **Vetting Process**
 
 1. Applicant submits application with identity documentation
@@ -350,36 +352,27 @@ Applicants denied CMS or in extended Pending status may appeal:
 
 ### 2.9 Diaspora Eligibility
 
+Diaspora populations are eligible for **CMS Diaspora Status (CMS-D)**, a distinct subtype of CMS with rights and limitations specific to the diaspora context. Standard CMS is reserved for those physically resident in the operational area.
+
 **Eligible Diaspora Populations**
 
-The following diaspora populations may apply for CMS:
+The following diaspora populations may apply for CMS-D:
 
 - Palestinian refugees registered with UNRWA (any generation)
 - Palestinians displaced in 1948 or 1967 and their descendants
 - Israeli citizens residing abroad
 - Persons with documented family origin in the MCF operational area
 
-**Diaspora Application Process**
+CMS-D eligibility, benefits, limitations, and renewal requirements are defined in the [Diaspora Engagement Framework](../07-economic-architecture/07-diaspora-engagement.md#21-civic-membership-system-cms-interface). Key distinctions from standard CMS:
 
-- Application may be submitted at MCF-affiliated facilities abroad
-- Vetting includes verification of diaspora eligibility
-- Civic education may be completed online
-- CMS credential is issued but certain benefits require physical presence
+| Dimension | Standard CMS | CMS-D |
+|-----------|-------------|-------|
+| **Governance** | Weighted participation | Observer status only |
+| **Institutional access** | Full | Limited |
+| **Renewal** | Standard renewal cycle | Annual renewal with activity requirement |
+| **Residency** | N/A (already resident) | Does not confer residency rights |
 
-**Diaspora Benefit Limitations**
-
-Diaspora CMS holders may access:
-
-- Recognition of status
-- Participation in diaspora-specific programs
-- External SAZ participation (where available)
-- Credential portability for professional purposes
-
-Diaspora CMS holders may not access (until physically present):
-
-- Employment programs within operational area
-- Physical facility access
-- Most Phase 1 material benefits
+CMS-D holders who subsequently establish physical residency in the operational area may apply for standard CMS conversion, subject to normal eligibility and vetting criteria.
 
 ---
 

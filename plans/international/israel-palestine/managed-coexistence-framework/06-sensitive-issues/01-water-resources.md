@@ -354,6 +354,38 @@ Response focuses on **restoring civilian water access**, not punishment:
 - Humanitarian response coordination
 - Long-term prevention
 
+### 4. Independent Water Provisioning
+
+Per the [Operational Autarky Principle](../07-economic-architecture/05-infrastructure-coordination.md), SAZ and MCF institutional sites must be capable of sustaining critical water functions without dependence on Mekorot or any single national water provider.
+
+**Default SAZ Water Design:**
+
+| Component | Primary (Independent) | Secondary (Grid) |
+|-----------|-----------------------|-------------------|
+| **Potable water** | On-site desalination (brackish/seawater where available), rainwater harvesting, atmospheric water generation | Mekorot/national grid connection |
+| **Non-potable** | Greywater recycling, treated wastewater reuse | National wastewater system |
+| **Storage** | Minimum 72-hour independent reserve per SAZ | National reservoir access |
+| **Quality** | On-site testing and treatment to WHO standards | National quality monitoring |
+
+**Design Standards:**
+
+- All SAZ master plans must include independent water provisioning as *primary* design, with national grid connection as supplementary
+- Wastewater recycling mandatory for all SAZ developments; minimum 60% greywater reuse target
+- Atmospheric water generation units deployed at MCF institutional sites in arid zones
+- Water storage sized for 72-hour autonomous operation at full population
+
+**Connection Refusal as Interference:**
+
+If national water authorities refuse SAZ connection requests (for supplementary supply):
+
+| Timeline | Classification |
+|----------|----------------|
+| **0-90 days** | Administrative processing (normal) |
+| **90-180 days** | Escalation to Guarantor Forum |
+| **180+ days** | Classified as obstruction under [Infrastructure Coordination](../07-economic-architecture/05-infrastructure-coordination.md) |
+
+This classification does not impair SAZ operations (which are designed for independent function) but triggers diplomatic and conditionality responses.
+
 ---
 
 ## Cooperation Mechanisms

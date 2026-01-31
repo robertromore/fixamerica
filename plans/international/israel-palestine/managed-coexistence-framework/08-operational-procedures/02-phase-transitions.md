@@ -144,7 +144,7 @@ Step 5: Transition Implementation
 └── Enhanced monitoring during transition
 ```
 
-### 2.4 Guarantor Role
+### 2.4 Guarantor Confidence Requirement
 
 Guarantors participate in certification through:
 
@@ -152,10 +152,23 @@ Guarantors participate in certification through:
 |----------|-----------|
 | **Data verification** | Observer access to JSVC data collection |
 | **Assessment review** | Consultation during formal assessment period |
+| **Confidence statement** | Affirmative guarantor confidence required for transition (see below) |
 | **Override authority** | Unanimous guarantor concurrence required for emergency override |
 | **Implementation support** | Resource commitment for transition implementation |
 
-Guarantors do NOT have veto power over certification itself.
+Transition to the next phase requires the affirmative certification of the JSVC **and** a Confidence Statement from all guarantors. While guarantors do not vote on internal metrics, their continued security and financial backing is a prerequisite for phase advancement. Guarantors have effective blocking authority over transitions: a guarantor that withholds its Confidence Statement prevents the transition from proceeding.
+
+This is intentional: transitions that proceed without guarantor confidence lack the external credibility and enforcement capacity needed to succeed. The guarantor confidence requirement ensures that no phase advancement outpaces the international commitment to sustain it.
+
+**Accountability:** A guarantor that withholds a Confidence Statement must publish its reasoning within 14 days. A pattern of unexplained negative assessments may trigger the guarantor coordination review process (see [Guarantor Coordination](../04-guarantor-architecture/04-guarantor-coordination.md)).
+
+**Phase-specific confidence requirements:**
+
+| Transition | Confidence Standard |
+|------------|---------------------|
+| Phase 0→1 | Positive stability rating from all guarantors (Confidence Statement) |
+| Phase 1→2 | Guarantor concurrence (formal expression of support; lower threshold) |
+| Phase 2→3 | Guarantor formal endorsement (stronger than concurrence; reflects political significance) |
 
 ---
 
@@ -206,7 +219,7 @@ The 0→1 transition signifies that the environment is **predictable and legible
 |--------|-----------|----------|
 | **JSVC operational continuity** | No major operational disruption | 18 months |
 | **Party cooperation** | Both parties respond to ≥ 80% of JSVC requests | 18 months |
-| **Guarantor assessment** | Positive stability rating from all guarantors | Current |
+| **Guarantor confidence** | Positive stability rating from all guarantors (Confidence Statement per Section 2.4) | Current |
 
 ### 3.3 Assessment Methodology
 
@@ -340,17 +353,19 @@ Before any SAZ can be established, additional readiness criteria must be met:
 | **External guarantee** | Guarantor security commitment in place |
 | **Emergency protocols** | SAZ-specific emergency protocols established |
 
-#### 4.3.4 Community Consent
+#### 4.3.4 Community Consent (SAZ Local Consent Plebiscite)
 
 | Requirement | Standard |
 |-------------|----------|
 | **Consultation completed** | Affected communities consulted per defined process |
-| **Referendum approval** | Per [SAZ Selection](../03-phase-2-saz/06-internal-saz-selection.md#23-voluntary-participation-rates): ≥50% participation, ≥55% approval, ≥30% approval in each community present |
-| **No majority opposition** | Referendum implies: no more than 45% oppose (since ≥55% must approve) |
+| **SAZ Local Consent Plebiscite** | Per [SAZ Selection](../03-phase-2-saz/06-internal-saz-selection.md#23-voluntary-participation-rates): ≥50% participation, ≥55% approval, ≥30% approval in each community present |
+| **No majority opposition** | Plebiscite implies: no more than 45% oppose (since ≥55% must approve) |
 | **Displacement provisions** | Relocation assistance available for those who prefer |
 | **Ongoing voice** | Mechanisms for resident input established |
 
-*Threshold note: The SAZ selection referendum (≥55% approval) is the operative standard. The "no more than 40% oppose" formulation in earlier drafts is superseded by the referendum threshold—which is more restrictive (≥55% approval = ≤45% opposition at most).*
+*Terminology note: The SAZ Local Consent Plebiscite is a community-level consent process for a specific SAZ site. It is distinct from the Phase 3 framework-wide referendum, which is the first vote on the overall political direction of MCF. The word "referendum" is reserved for the Phase 2→3 framework-wide vote.*
+
+*Threshold note: The plebiscite threshold (≥55% approval) is the operative standard. The "no more than 40% oppose" formulation in earlier drafts is superseded by the plebiscite threshold—which is more restrictive (≥55% approval = ≤45% opposition at most).*
 
 ### 4.4 Authorization Process
 

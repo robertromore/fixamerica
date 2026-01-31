@@ -173,7 +173,36 @@ Requirements for community petition:
 2. JSVC verifies thresholds and feasibility
 3. 90-day party objection period
 4. If no objection: referendum conducted per Section 2.6
-5. Referendum thresholds apply (50% participation, 55% approval, 30% per-community)
+5. If active objection filed: blocked-petition escalation (see below)
+6. Referendum thresholds apply (50% participation, 55% approval, 30% per-community)
+
+**Blocked-Petition Escalation (Active Objection):**
+
+The 90-day silence rule provides a non-objection pathway. When a central authority files an active objection to a verified community petition, the following escalation applies:
+
+| Stage | Timeline | Process |
+|-------|----------|---------|
+| **Objection documentation** | Day 0 | Central authority files written objection with stated grounds |
+| **Grounds review** | 30 days | Guarantor Forum reviews whether objection is based on substantive grounds (security, feasibility, legal) or is a political block without substantive basis |
+| **Mediation** | 30-120 days | If grounds are contestable: Guarantor Forum mediates between central authority and petitioning community |
+| **Mediation outcome** | Day 120 | If mediation succeeds: proceed to referendum with agreed modifications. If mediation fails: Guarantor Forum issues determination |
+
+**Guarantor Forum Determination:**
+
+If mediation fails, the Guarantor Forum determines whether the central authority's objection constitutes:
+
+1. **Substantive objection** (legitimate security, feasibility, or legal concern): Petition is paused. Community may address concerns and re-petition after 12 months.
+2. **Non-substantive blocking** (political veto without demonstrated security, feasibility, or legal basis): Guarantor Forum may authorize the referendum to proceed under guarantor facilitation (Section 2.1), with the central authority's objection documented but not dispositive.
+
+**Non-Interference Conditionality:**
+
+The framework does not authorize SAZ establishment over sovereign objection by force. However, guarantors apply **conditionality of aid** as a structural incentive against non-substantive blocking:
+
+- Guarantor states condition general budget support to the blocking authority (PA budgetary aid, Israeli security cooperation packages) on non-interference with verified community SAZ petitions
+- Conditioning applies only when the Guarantor Forum has determined the objection is non-substantive
+- The mechanism preserves the legal fiction of sovereign consent (central authority can withdraw its objection at any time to restore unconditional aid) while making the cost of blocking a democratic local vote economically significant
+
+**Safeguard:** Non-Interference Conditionality may NOT be applied when the Guarantor Forum has determined the objection is substantive. Guarantors cannot use aid conditionality to override legitimate security or legal concerns.
 
 Community-initiated SAZs require additional guarantor support due to weaker governmental endorsement.
 
@@ -191,6 +220,18 @@ All SAZ establishment agreements must address:
 | **Economics** | Revenue, taxation, services |
 | **Transition** | Entry and exit procedures |
 | **Dispute resolution** | Mechanisms for agreement interpretation disputes |
+| **Utilities** | Independent provisioning authority per [Operational Autarky Principle](../07-economic-architecture/05-infrastructure-coordination.md) |
+
+**Utility Provisioning Authority:**
+
+Each SAZ establishment agreement must grant the SAZ governing authority the right to:
+
+1. **Procure independent utility infrastructure** (electricity, water, telecommunications) without requiring Host State approval for generation, treatment, or transmission equipment within SAZ boundaries
+2. **Connect to national grids** on non-discriminatory commercial terms where available, but with no obligation to depend on such connections for critical operations
+3. **Contract directly with guarantor-facilitated providers** (LEO satellite operators, equipment suppliers) for infrastructure that bypasses national distribution networks
+4. **Classify sustained connection refusal as obstruction** per the timelines in [Infrastructure Coordination](../07-economic-architecture/05-infrastructure-coordination.md), triggering guarantor diplomatic and conditionality responses
+
+This authority implements the [Off-Grid Primary Design](../07-economic-architecture/05-infrastructure-coordination.md) and [Satellite-First Connectivity](../07-economic-architecture/05-infrastructure-coordination.md) standards at the legal-framework level, ensuring SAZs have explicit treaty-based authorization for operational independence.
 
 ### 2.6 Resident Consent Referendum
 

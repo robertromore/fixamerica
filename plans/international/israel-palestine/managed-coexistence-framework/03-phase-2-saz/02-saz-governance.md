@@ -542,6 +542,21 @@ SAZ Appeals Court decisions may be appealed directly to Confederal Court (bypass
 - CRC Review Panel exhaustion required before Confederal Court hears CRC-related appeals
 - Exception: Urgent matters where exhaustion would cause irreparable harm (expedited review)
 
+#### 1.4 SAZ Public Prosecutor
+
+Criminal cases in SAZ courts are prosecuted by the **SAZ Public Prosecutor's Office**, an independent office within the judicial branch.
+
+| Element | Standard |
+|---------|----------|
+| **Appointment** | Chief Prosecutor appointed by Judicial Appointments Committee |
+| **Independence** | Prosecutorial independence from SAZ executive; removal only by Judicial Appointments Committee for cause |
+| **Jurisdiction** | All criminal matters within SAZ court competence (offenses with maximum penalty ≤10 years) |
+| **Discretion** | Standard prosecutorial discretion; declination decisions reviewable by SAZ Appeals Court on petition from victim |
+| **Staffing** | Community balance: no more than 60% from either community |
+| **Investigation** | Works with SAZ Integrated Police; may direct investigation within prosecutorial authority |
+
+The SAZ Public Prosecutor does not prosecute serious offenses (>10 years), which are transferred to national prosecutors per Section 3.1 Serious Offense procedures.
+
 ### 2. Judicial Independence
 
 #### 2.1 Selection and Tenure
@@ -617,6 +632,17 @@ Non-residents may be plaintiffs or defendants in SAZ courts when the nexus requi
 - Offenses by SAZ residents within SAZ
 - SAZ court jurisdiction: Offenses with maximum penalty up to 10 years
 
+**Applicable Criminal Law for SAZ Courts (≤10 Year Offenses):**
+
+| Rule | Application |
+|------|-------------|
+| **Offense definition** | Defendant's national criminal law determines whether conduct is criminal and the applicable penalty range |
+| **Procedural law** | SAZ court procedural rules apply to all proceedings |
+| **Constitutional Floor** | CRC protections override: no penalty may violate CRC standards (cruel punishment, disproportionate sentencing) |
+| **SAZ regulatory offenses** | SAZ Council may define regulatory offenses (maximum penalty ≤2 years) for SAZ-specific matters (building codes, licensing, public order) |
+
+Where defendant's national criminal law does not recognize the charged conduct as criminal, SAZ courts may not convict. The defendant cannot be prosecuted under a more punitive foreign penal code merely because the victim belongs to a different national community. Prosecution is by the SAZ Public Prosecutor (see Section 1.4 above).
+
 **Reserved to National Courts (regardless of penalty):**
 
 National security offenses (treason, espionage, and similar offenses against national governments) are reserved to national courts regardless of maximum penalty. See [SAZ Legal Framework Section 7.1](01-saz-legal-framework.md#71-saz-to-national-relationship).
@@ -639,6 +665,44 @@ Offenses occurring within SAZ that carry maximum penalties exceeding 10 years ar
 - JSVC monitors to prevent double jeopardy
 - Guarantor oversight of fair trial standards
 - SAZ may request case return if penalty reduced below 10-year threshold
+
+**Transfer Custody Protocol:**
+
+SAZ police investigate and collect evidence for all offenses within SAZ boundaries. For serious offenses (>10 years) reserved to national courts, the following transfer procedure applies:
+
+| Stage | Procedure |
+|-------|-----------|
+| **Arrest and investigation** | SAZ police arrest suspect; investigate under SAZ evidence standards |
+| **Notification** | National prosecution authority notified within 48 hours of arrest |
+| **Transfer Indictment** | National authority must present a prima facie indictment meeting MCF evidence standards within 14 days |
+| **Physical transfer** | Upon receipt of conforming indictment, suspect transferred to national custody |
+| **Default (no indictment)** | If no conforming indictment within 14 days: suspect released on SAZ-supervised conditions; case referred to SAZ Justice Monitor |
+
+SAZ police do not release suspects to national custody without a Transfer Indictment. This prevents SAZ police from functioning as a transfer service delivering suspects to national systems that may decline to prosecute.
+
+**SAZ Justice Monitor:**
+
+The JSVC appoints an SAZ Justice Monitor with legal standing to observe all national court proceedings arising from SAZ offenses:
+
+- Attends all hearings; access to case files
+- Files amicus briefs on behalf of MCF
+- Reports to JSVC and Guarantor Forum on prosecution adequacy and trial fairness
+- Has no authority to direct prosecution, modify proceedings, or appeal verdicts
+- Monitor reports are public (redacted for witness protection)
+
+**Prosecution Failure Accountability:**
+
+If a national court system fails to adequately prosecute a serious offense transferred from an SAZ, the SAZ Justice Monitor certifies the failure and the following response applies:
+
+| Outcome | Classification | Response |
+|---------|---------------|----------|
+| **Declination to prosecute** (no charges filed within 90 days of transfer) | Documented; referred to Guarantor Forum | Guarantor diplomatic engagement with national authority |
+| **Sham prosecution** (Monitor-certified: acquittal against overwhelming evidence, trivially lenient sentence for inter-communal violence, procedural dismissal without substantive hearing) | Classified as spoiler action per [Spoiler Response](../08-operational-procedures/04-spoiler-response.md) | Documentation; guarantor escalation; pattern tracking |
+| **Systematic failure** (3+ certified failures from the same national system within 24 months) | Escalated to Guarantor Forum as systematic interference | Full spoiler response protocol activation; conditionality review |
+
+Prosecution failure does not authorize SAZ courts to retry the case (double jeopardy prohibition applies). The remedy is political (guarantor pressure, conditionality) rather than judicial (retrial). The framework cannot force a national court to convict, but it ensures that systematic prosecution failures carry political costs that make impunity economically irrational.
+
+**Rationale:** Personal jurisdiction (defendant tried under their own national system) preserves sovereignty. Observation standing and spoiler classification ensure accountability. This prevents the "Revolving Door" where SAZ police arrest, national courts release, and inter-communal violence goes unaddressed -- the dynamic most likely to destroy SAZ legitimacy from within.
 
 **Administrative Matters:**
 

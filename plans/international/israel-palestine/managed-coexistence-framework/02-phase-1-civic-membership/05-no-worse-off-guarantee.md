@@ -222,6 +222,35 @@ MCF's existence cannot be accompanied by new restrictions that disadvantage non-
 
 **Key Distinction:** The guarantee protects non-participants from losing access to what they had before MCF. It does **not** require that MCF-created benefits be extended to non-participants. MCF may create new programs (employment facilitation, training, civic dividends, SAZ residency) available only to CMS holders—this is the incentive structure, not a penalty for non-participation. See [Incentive Structure](04-incentive-structure.md) for CMS-specific benefits.
 
+### 4.1a Relative Deprivation and Community Spillovers
+
+**Acknowledged Dynamic:** As MCF matures and CMS-linked economic activity grows, non-participants may experience **relative deprivation** even without absolute degradation. If the best employment programs, functioning commercial courts, credential portability, and (in Phase 2) SAZ residency and civic dividends are all CMS-linked, non-participation becomes an increasingly costly choice regardless of the guarantee's technical provisions.
+
+This is a design tradeoff, not an oversight. Incentive structures require differential benefits—if participation offered no advantage, there would be no reason to participate and accept the associated risks. The question is whether the resulting economic divergence creates an untenable social dynamic.
+
+**How MCF Differs from Historical Collaborator-Class Dynamics:**
+
+MCF's structure differs fundamentally from historical models (such as the 1980s Village Leagues) that created stigmatized collaborator classes:
+
+| Factor | Village Leagues | MCF |
+|--------|----------------|-----|
+| **Governance role** | Proxy governance on behalf of occupying power | No proxy role; CMS holders have no security or governance function |
+| **Voluntary character** | Coerced participation for access to permits and employment | Fully voluntary; no penalty for non-participation |
+| **Security function** | Participants served as informants and enforcement auxiliaries | No security function; anti-intimidation protections for participants |
+| **Identity** | Public identification with occupying power | Layered confidentiality; participation can be private |
+| **Benefit distribution** | Benefits flowed only to collaborators | Community spillover benefits designed for all residents (see below) |
+
+**Community Spillover Mitigations:**
+
+To reduce the perception of a privileged class and ensure MCF success benefits non-participants:
+
+1. **PCC infrastructure benefits all users.** Protected Civic Corridors carry utilities, medical transport, and commercial goods that serve all residents of the operational area, not just CMS holders
+2. **MCF-funded medical facilities serve all patients.** Healthcare infrastructure funded through MCF economic activity operates on a universal basis within the service area
+3. **Employer participation improves workplace standards broadly.** Employers participating in MCF employment programs adopt MCF labor standards that apply to all workers, not just CMS holders
+4. **Community Development Fund.** A defined percentage of MCF economic activity revenue funds a Community Development Fund accessible regardless of CMS status, supporting local infrastructure, education, and health improvements. This allows CMS holders to frame participation as contributing to collective community benefit, not personal enrichment at others' expense
+
+See [Incentive Structure Section 10.2a](04-incentive-structure.md#102a-community-spillover-design) for implementation details.
+
 ### 4.2 Existing Service Preservation
 
 Non-participants retain access to:
@@ -255,6 +284,33 @@ MCF monitors non-participant conditions:
 | **Economic indicators** | Track non-participant economic conditions |
 | **Complaint channels** | Receive reports of guarantee violations |
 | **Survey sampling** | Regular assessment of non-participant conditions |
+| **Institutional capacity indicators** | Track PA/municipal institutional staffing and service quality (see below) |
+
+### 4.4a Institutional Capacity Monitoring
+
+The No Worse Off guarantee protects individual access to pre-existing services. However, MCF wage differentials may gradually drain skilled professionals from PA and municipal institutions (see [Labor Mobility](../07-economic-architecture/02-labor-mobility.md)), degrading service quality even if formal access is preserved. To prevent the guarantee from becoming hollow, MCF monitors institutional capacity in operational areas:
+
+**Indicators Tracked:**
+
+| Indicator | Source | Frequency |
+|-----------|--------|-----------|
+| **Hospital staffing levels** | PA Ministry of Health; facility reports | Quarterly |
+| **Teacher-student ratios** | PA Ministry of Education; school reports | Annual |
+| **Ministry vacancy rates** | PA civil service data | Quarterly |
+| **UNRWA staffing** | UNRWA reports (where applicable) | Annual |
+| **Municipal service quality** | Survey sampling of non-participants | Annual |
+
+**Threshold and Response:**
+
+If institutional capacity in MCF operational areas degrades beyond baseline by >15% on any indicator:
+
+1. MCF documents the degradation and assesses MCF contribution to the trend
+2. If MCF activity is a significant contributing factor, mitigation obligations activate:
+    - Human Capital Replacement Levy collection increases (see [Incentive Structure Section 10.2b](04-incentive-structure.md))
+    - Rotation secondment program expanded
+    - CDF allocation to institutional support increased
+3. Guarantor states increase PA institutional capacity support in development assistance
+4. MCF Annual Report includes institutional capacity assessment
 
 ---
 

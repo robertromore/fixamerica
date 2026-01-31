@@ -199,7 +199,7 @@ Step 1: Proposal Development
 Step 2: Approval Process
 ├── Both party governments formally agree
 ├── Guarantor endorsement
-├── Referendum in each community (per [Referenda Procedures](../03-phase-3-voluntary-convergence/01-referenda-procedures.md#5-threshold-framework))
+├── Referendum in each community (per [Referenda Procedures](../04-phase-3-voluntary-convergence/01-referenda-procedures.md#5-threshold-framework))
 │   ├── 60% participation threshold
 │   ├── 55% approval threshold in each
 │   └── 40% minimum community support in each community
@@ -242,7 +242,7 @@ Step 1: Constitutional Development
 └── Constitutional protections for minorities
 
 Step 2: Approval Process
-├── Referendum in each community (per [Referenda Procedures](../03-phase-3-voluntary-convergence/01-referenda-procedures.md#5-threshold-framework))
+├── Referendum in each community (per [Referenda Procedures](../04-phase-3-voluntary-convergence/01-referenda-procedures.md#5-threshold-framework))
 │   ├── 70% participation threshold
 │   ├── 60% approval threshold in each
 │   └── 40% minimum community support in each community
@@ -470,7 +470,7 @@ Minimum Total Timeline: 42-66 months from trigger to decision
 
 #### 4.4.1 Basic Referendum Parameters
 
-Per [Referenda Procedures](../03-phase-3-voluntary-convergence/01-referenda-procedures.md#5-threshold-framework):
+Per [Referenda Procedures](../04-phase-3-voluntary-convergence/01-referenda-procedures.md#5-threshold-framework):
 
 | Parameter | Requirement |
 |-----------|-------------|
@@ -492,7 +492,7 @@ Per [Referenda Procedures](../03-phase-3-voluntary-convergence/01-referenda-proc
 
 #### 4.4.3 Ranked-Choice Counting
 
-Per [Referenda Procedures Section 6](../03-phase-3-voluntary-convergence/01-referenda-procedures.md#6-multi-option-referenda), multi-option end-state referenda use ranked-choice voting with instant runoff:
+Per [Referenda Procedures Section 6](../04-phase-3-voluntary-convergence/01-referenda-procedures.md#6-multi-option-referenda), multi-option end-state referenda use ranked-choice voting with instant runoff:
 
 1. Count first-preference votes; if any option exceeds its approval threshold (per Section 4.4.2), it wins
 2. If no option exceeds threshold, eliminate the lowest option and transfer votes to next preferences
@@ -902,7 +902,7 @@ See [Communication Protocols](07-communication-protocols.md) for communication p
 | **Reversibility** | High | Low | Medium | High |
 | **Transition time** | 5-10 years | 10-20 years | 5-15 years | 3-5 years |
 
-*Normalized Separation is achieved through JSVC graduation certification (per Section 3.5), not referendum. It occurs when MCF is no longer needed because underlying conditions have normalized—not through population vote. Referendum-based end states have two threshold stages: (1) **End-state selection referendum** requires 65% participation and the approval thresholds shown above; (2) **Constitutional ratification referendum** (after selection) requires 60-70% participation depending on end state (70% for federation, 60% for others). Both stages require 40% minimum community support. See [Referenda Procedures](../03-phase-3-voluntary-convergence/01-referenda-procedures.md#5-threshold-framework) for complete threshold framework.*
+*Normalized Separation is achieved through JSVC graduation certification (per Section 3.5), not referendum. It occurs when MCF is no longer needed because underlying conditions have normalized—not through population vote. Referendum-based end states have two threshold stages: (1) **End-state selection referendum** requires 65% participation and the approval thresholds shown above; (2) **Constitutional ratification referendum** (after selection) requires 60-70% participation depending on end state (70% for federation, 60% for others). Both stages require 40% minimum community support. See [Referenda Procedures](../04-phase-3-voluntary-convergence/01-referenda-procedures.md#5-threshold-framework) for complete threshold framework.*
 
 ### Annex B: Success Metrics Dashboard Template
 

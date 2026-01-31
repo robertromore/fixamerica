@@ -71,6 +71,23 @@ See: [State-Level Spoilers and External Interference](../00-introduction.md#stat
 
 ---
 
+## Legal Protection for MCF Personnel
+
+Guarantor states commit, as part of the framework agreement, to provide **legal protections for MCF personnel and institutional data** within their jurisdictions:
+
+| Protection | Mechanism |
+|------------|-----------|
+| **Personnel immunity** | MCF officials performing framework duties receive functional immunity from civil suit in guarantor jurisdictions, comparable to protections afforded to international organization staff under the International Organizations Immunities Act (US) or equivalent legislation |
+| **Data protection** | CMS participant data, verification records, and internal MCF deliberations are shielded from foreign discovery proceedings in guarantor courts |
+| **Anti-harassment provisions** | Guarantor states commit to intervene against coordinated legal harassment (SLAPP-equivalent) targeting MCF personnel for framework activities |
+| **Personnel defense** | Guarantor states provide or fund legal defense for MCF personnel facing litigation in guarantor courts arising from framework activities |
+
+**Rationale:** Without these protections, activists in guarantor countries could impose significant costs on MCF through civil litigation (e.g., suits alleging "support for occupation" or "funding terrorism"), discovery requests targeting CMS data, or coordinated legal harassment of MCF staff. These legal risks could deter qualified personnel from serving and compromise participant data confidentiality. Legal protection is a concrete guarantor obligation, not optional goodwill.
+
+See [Guarantor Roles](02-guarantor-roles.md) for full guarantor obligations.
+
+---
+
 ## Document Status
 
 | Document | Status |

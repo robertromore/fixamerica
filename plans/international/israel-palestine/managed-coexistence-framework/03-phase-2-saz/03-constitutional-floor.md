@@ -358,7 +358,9 @@ When CRC and national constitutional provisions conflict:
 1. CRC Review Panel has primary jurisdiction over CRC interpretation
 2. National courts may review only after CRC Review Panel exhaustion
 3. National court review is limited to constitutional overlay (whether the CRC application also implicates national constitutional rights)
-4. CRC Review Panel interpretation of CRC provisions is binding on national courts
+4. CRC Review Panel interpretation of CRC provisions is authoritative within the jurisdiction of the SAZ and binding upon MCF institutions. National courts are requested to grant comity to Review Panel findings within the scope of SAZ operations. Where national courts decline comity and override CRC protections within SAZ territory, guarantor enforcement mechanisms provide the backstop (see [Guarantor Architecture](../04-guarantor-architecture/00-overview.md))
+
+**Legal Basis:** CRC authority within SAZs derives from the SAZ establishment agreements, which require enabling consent from both parties. SAZ establishment consent implicitly includes acceptance of the CRC legal framework. The specific form of enabling legislation or executive authorization is a matter for each party's domestic legal process, to be resolved during SAZ establishment negotiations.
 
 See [SAZ Legal Framework Section 7.5](01-saz-legal-framework.md#75-appellate-review-of-saz-court-decisions) for full appellate procedure.
 

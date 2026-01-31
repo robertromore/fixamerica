@@ -56,7 +56,7 @@ This framework enables constructive diaspora participation while respecting thes
 
 **Phase 1+ Eligibility:**
 
-Diaspora members may apply for CMS Diaspora Status (CMS-D), which provides:
+Diaspora members may apply for CMS Diaspora Status (CMS-D), a formally defined subtype of CMS under the [CMS Framework](../02-phase-1-civic-membership/01-cms-framework.md#29-diaspora-eligibility). CMS-D holders are CMS holders with diaspora-specific scope limitations. CMS-D provides:
 
 | Benefit | CMS-D Holders | Full CMS Holders |
 |---------|---------------|------------------|
