@@ -7,6 +7,7 @@ The American justice system has transformed monetary sanctions—fines, fees, su
 ## Scope of This Analysis
 
 This section examines:
+
 - **Criminal fines**: Punitive monetary penalties imposed as part of sentences
 - **Court fees and costs**: Administrative charges for using the justice system
 - **Supervision fees**: Charges for probation, parole, electronic monitoring, and drug testing
@@ -43,7 +44,7 @@ The fundamental problem is simple: monetary sanctions that vary based on wealth 
 
 ### The Cycle of Poverty and Incarceration
 
-```
+```text
 Initial Offense → Fine/Fee Imposed → Cannot Pay → Late Fees/Interest Added
        ↑                                                    ↓
        |                                          Warrant Issued
@@ -72,6 +73,7 @@ Initial Offense → Fine/Fee Imposed → Cannot Pay → Late Fees/Interest Added
 ### Public Safety Implications
 
 Fines and fees undermine the goals they purportedly serve:
+
 - **Recidivism**: People with court debt are 18-25% more likely to reoffend
 - **Supervision failure**: Those who cannot pay supervision fees are set up to fail
 - **Trust erosion**: Communities see courts as revenue extraction, not justice
@@ -90,6 +92,7 @@ Fines and fees undermine the goals they purportedly serve:
 ### Democratic Legitimacy
 
 When courts become revenue centers:
+
 - Judicial independence is compromised
 - Policing priorities distort toward ticketing
 - Poor communities subsidize government operations
