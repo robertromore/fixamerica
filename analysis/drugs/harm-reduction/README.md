@@ -1,6 +1,6 @@
 # Harm Reduction
 
-Needle exchange programs, safe injection sites, naloxone access, drug checking services, and public health approach.
+Needle exchange programs, safe injection sites, naloxone access, drug checking services, and public health approach to substance use.
 
 ## Files
 

@@ -1,6 +1,6 @@
 # Cannabis Legalization
 
-State legalization trends, federal scheduling, banking access for cannabis businesses, and criminal record expungement.
+State legalization trends, federal scheduling, banking access for cannabis businesses, social equity programs, criminal record expungement, and the regulatory frameworks governing the legal cannabis market.
 
 ## Files
 
