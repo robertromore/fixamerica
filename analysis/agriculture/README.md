@@ -1,6 +1,6 @@
 # Agriculture Policy Domain
 
-Agriculture underpins national food security, rural livelihoods, and a web of domestic and international supply chains. The United States exports roughly $180 billion in agricultural goods annually, but the industry depends on aging infrastructure, volatile commodity markets, and climate-sensitive resources such as soil and water. Modern policy must balance the need for productivity and affordability with resilience to droughts, extreme weather, and market consolidation.
+Agriculture underpins national food security, rural livelihoods, and a web of domestic and international supply chains. The United States is among the world's largest agricultural exporters—with annual exports ranging from $170 billion to $200 billion in recent years—but the industry depends on aging infrastructure, volatile commodity markets, and climate-sensitive resources such as soil and water. Modern policy must balance the need for productivity and affordability with resilience to droughts, extreme weather, and market consolidation.
 
 ## Subtopics
 

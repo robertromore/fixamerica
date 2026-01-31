@@ -1,18 +1,73 @@
-# Nutrition & Food Security: Political Perspectives Analysis
+---
+freshness:
+  last-reviewed: 2026-01-29
+  data-year: 2024
+  review-cycle: 12
+  sections:
+    - name: "Legislation Evaluations"
+      data-year: 2024
+    - name: "Engagement Consistency Assessment"
+      data-year: 2024
+notes:
+  - Revisit after 2026 Farm Bill debates.
+  - Flag any new state-level universal meal repeals or enactments.
+sources:
+  count: 23
+  verified: 2026-01-29
+  broken: 0
+---
 
-## Inputs Reviewed
+# Nutrition and Food Security: Political Perspectives Analysis
 
-- `analysis/agriculture/nutrition-and-food-security/02-current-state.md`
-- `analysis/agriculture/nutrition-and-food-security/04-root-causes.md`
-- `analysis/agriculture/nutrition-and-food-security/07-solutions.md`
-- `analysis/agriculture/nutrition-and-food-security/11-legislation.md`
-- Context check: `analysis/agriculture/nutrition-and-food-security/06-opposition.md`
+## Overview
 
-## High-Level Takeaways
+Nutrition policy sits at the volatile intersection of agriculture, public health, and social welfare. It raises fundamental questions about the government's obligation to prevent hunger versus the individual's responsibility for economic self-sufficiency. The debate has shifted from "food security" (calories) to "nutrition security" (health), complicating traditional alliances. While almost all perspectives agree that no American should starve, they deeply disagree on the mechanisms of aid: strict work requirements versus unconditional support, restricted food choices versus consumer autonomy, and corporate supply chains versus local food systems.
 
-- Broad agreement on the need to reduce food insecurity and improve child nutrition, with the largest disagreements over federal mandates and cost controls.
-- Incentive expansion and food rescue attract the widest cross-perspective support, while procurement mandates and sovereignty programs draw more debate.
-- Coalitions are most viable when reforms are framed as rural economic development and health cost containment.
+## Perspective Definitions
+
+| Perspective | Core Values | Policy Orientation |
+|-------------|-------------|-------------------|
+| Conservative | Tradition, limited government, individual responsibility | Work requirements, fraud prevention, block grants |
+| Liberal | Progress, equality, social responsibility | Benefit expansion, access modernization, stigma reduction |
+| Progressive | Systemic change, economic justice, structural reform | Universal meals, right to food, corporate regulation |
+| Libertarian | Individual liberty, minimal state, free markets | Privatization, charity reliance, end of federal role |
+| Constitutionalist | Original intent, enumerated powers, federalism | State control, strict spending limits |
+| Populist | Anti-elite, pro-worker, economic nationalism | Anti-Big Food, domestic procurement, skepticism of experts |
+| Centrist | Pragmatism, compromise, incremental progress | Efficiency, employment training, evidence-based nutrition |
+| Religious Right | Faith-based values, traditional morality | Charity primacy, family support, pro-natalist policies |
+| Democratic Socialist | Worker ownership, public goods, democratic control | Decommodification of food, nationalized food systems |
+
+## Scoring Framework
+
+### Position Scores (1-10)
+
+| Score | Meaning |
+|-------|---------|
+| 10 | Full agreement with project analysis |
+| 7-9 | Substantial to strong agreement |
+| 5-6 | Mixed/moderate agreement |
+| 3-4 | Substantial disagreement |
+| 1-2 | Strong opposition |
+
+### Engagement Consistency (1-5)
+
+| Level | Label | Indicators |
+|-------|-------|------------|
+| 5 | Highly Consistent | Stated positions reflect underlying principles; positions stable when concerns addressed |
+| 4 | Mostly Consistent | Principles generally align with positions; minor strategic flexibility |
+| 3 | Mixed Consistency | Some positions principled, others reflect coalition pressures |
+| 2 | Low Consistency | Positions shift frequently; stated concerns differ from underlying priorities |
+| 1 | Unpredictable | Positions driven primarily by opposition dynamics |
+
+### Legislation Status Reference (as of January 2026)
+
+| Bill/Amendment | Type | Current Status | Last Action |
+|----------------|------|----------------|-------------|
+| Nutrition Security and Access Modernization Act | Federal | Proposed | Committee Review |
+| Healthy School Meals for All Act | Federal | Proposed | Introduced |
+| WIC Modernization and Food as Medicine Act | Federal | Proposed | Drafting |
+
+---
 
 ## Perspective Analyses
 
@@ -23,193 +78,305 @@
 **Score: 4/5 - Mostly Consistent**
 
 | Indicator | Assessment |
-| --- | --- |
-| Stated vs actual motivations | Focus on efficiency, fraud controls, and local control. |
-| Principle consistency | Stable on federalism and cost containment. |
-| Goalpost stability | Moderate; shifts if mandates expand. |
-| Zero-sum behavior | Low; open to rural development framing. |
+|-----------|------------|
+| Stated vs actual motivations | Generally consistent focus on fiscal restraint and work ethic. |
+| Principle consistency | Consistently favor work requirements across all welfare programs. |
+| Goalpost stability | Stable; focus remains on reducing dependency. |
+| Zero-sum behavior | Often views welfare spending as a direct loss to taxpayers. |
+
+**Justification:** Conservatives consistently apply principles of fiscal responsibility and the "dignity of work" to nutrition policy. They reliably oppose benefit expansions that lack work ties.
+
+**Evidence for assessment:**
+
+- Heritage Foundation reports consistently advocating for SNAP work requirements (2018-2024).
+- Republican Study Committee budgets proposing block-granting SNAP.
 
 #### Position Scores
 
 | Dimension | Score | Reasoning |
-| --- | --- | --- |
-| Current State Assessment | 6/10 | Acknowledges access gaps but downplays structural drivers. |
-| Root Cause Agreement | 5/10 | Accepts retail gaps, disputes subsidy framing. |
-| Solution 1: Healthy Incentive Expansion & Digital Access | 6/10 | Supports if fraud controls and retailer grants exist. |
-| Solution 2: Nutrient-Rich Procurement & Food Hubs | 5/10 | Conditional on state flexibility and cost caps. |
-| Solution 3: Tribal & Community Food Sovereignty | 4/10 | Supports targeted grants, wary of new entitlements. |
-| Solution 4: Food Rescue & Circular Nutrition | 5/10 | Supports waste reduction with liability protection. |
-| Bill 1: Healthy Incentives & Digital Access Act | 6/10 | Acceptable if bounded and audited. |
-| Bill 2: Regional Procurement & Food Hub Investment Act | 5/10 | Concerned about mandates. |
-| Bill 3: Tribal & Community Food Sovereignty Act | 4/10 | Limited support if small-scale. |
-| Bill 4: Food Rescue & Circular Nutrition Infrastructure Act | 5/10 | Supportive with limited scope. |
+|-----------|-------|-----------|
+| Current State Assessment | 4/10 | Acknowledge hunger exists but believe fraud and dependency are overstated in project analysis. |
+| Root Cause Agreement | 3/10 | View root cause as breakdown of family/work, not systemic inequality or wage stagnation. |
+
+**Source references:**
+
+- American Enterprise Institute (AEI) reports on safety net.
+- Congressional testimony by conservative think tanks.
+- Wall Street Journal editorial board positions on entitlement spending.
+
+#### Solution Evaluations
+
+| Solution | Score | Stated Position | Underlying Concerns |
+|----------|-------|-----------------|---------------------|
+| Thrifty Food Plan Increase | 2/10 | Oppose; inflationary and creates dependency. | Fiscal cost; reduces work incentive. |
+| Universal School Meals | 2/10 | Oppose; "welfare for the wealthy." | Expanding entitlement state; cost. |
+| EBT Security | 9/10 | Support; anti-fraud measure. | Fraud prevention aligns with values. |
+
+#### Legislation Evaluations
+
+| Bill | Score | Stated Position | Underlying Concerns |
+|------|-------|-----------------|---------------------|
+| Nutrition Security Act | 3/10 | Oppose benefit hikes; support fraud provisions. | Cost explosion; weakening work rules. |
+| Healthy School Meals Act | 2/10 | Strong opposition to universality. | Federal overreach; cost. |
 
 #### Alternative Proposals
 
-- Expand tax incentives for retailer cold storage rather than new procurement mandates.
-- Pilot state-led incentive compacts with capped federal matches.
+- Strict work requirements for able-bodied adults without dependents (ABAWDs).
+- Block granting SNAP to states to allow customization and cap spending.
+- Restricting purchases of "junk food" (soda/candy) with SNAP benefits.
 
 #### Coalition Potential
 
-- Natural allies: Centrist, Constitutionalist.
-- Bridges: Populist on rural investment.
-- Unlikely partners: Democratic Socialist.
+- **Natural allies:** Libertarians, Constitutionalists.
+- **Potential bridges:** Centrists (on fraud/efficiency), Populists (on junk food restrictions).
+- **Unlikely partners:** Progressives, Democratic Socialists.
+
+---
 
 ### Liberal Perspective
 
 #### Engagement Consistency Assessment
 
-**Score: 4/5 - Mostly Consistent**
+**Score: 5/5 - Highly Consistent**
 
 | Indicator | Assessment |
-| --- | --- |
-| Stated vs actual motivations | Emphasizes access, equity, and health outcomes. |
-| Principle consistency | Stable on public investment and accountability. |
-| Goalpost stability | Low; predictable support. |
-| Zero-sum behavior | Low. |
+|-----------|------------|
+| Stated vs actual motivations | Highly aligned; goal is poverty reduction. |
+| Principle consistency | Consistently support expansion and access. |
+| Goalpost stability | Stable focus on benefit adequacy. |
+| Zero-sum behavior | Low; views nutrition as investment. |
+
+**Justification:** Liberals view food as a basic human need that government must secure. Their support for expansion is predictable and principled.
+
+**Evidence for assessment:**
+
+- Center on Budget and Policy Priorities (CBPP) analysis.
+- Democratic party platform planks on hunger.
 
 #### Position Scores
 
 | Dimension | Score | Reasoning |
-| --- | --- | --- |
-| Current State Assessment | 7/10 | Aligns with data on food insecurity and access gaps. |
-| Root Cause Agreement | 7/10 | Agrees on structural affordability issues. |
-| Solution 1: Healthy Incentive Expansion & Digital Access | 8/10 | Strong support for incentives and access. |
-| Solution 2: Nutrient-Rich Procurement & Food Hubs | 8/10 | Supports procurement and infrastructure. |
-| Solution 3: Tribal & Community Food Sovereignty | 7/10 | Supports with equity framing. |
-| Solution 4: Food Rescue & Circular Nutrition | 7/10 | Supports to cut waste and fill gaps. |
-| Bill 1: Healthy Incentives & Digital Access Act | 8/10 | Core access tool. |
-| Bill 2: Regional Procurement & Food Hub Investment Act | 8/10 | Strong support for local markets. |
-| Bill 3: Tribal & Community Food Sovereignty Act | 7/10 | Supports with implementation capacity. |
-| Bill 4: Food Rescue & Circular Nutrition Infrastructure Act | 7/10 | Supports as complementary policy. |
+|-----------|-------|-----------|
+| Current State Assessment | 9/10 | Agree that benefits are inadequate and barriers are too high. |
+| Root Cause Agreement | 9/10 | Agree that low wages and systemic barriers drive insecurity. |
+
+**Source references:**
+
+- Food Research & Action Center (FRAC) reports.
+- CBPP research on SNAP effectiveness.
+- Center for American Progress (CAP) analysis on poverty reduction.
+
+#### Solution Evaluations
+
+| Solution | Score | Stated Position | Underlying Concerns |
+|----------|-------|-----------------|---------------------|
+| Thrifty Food Plan Increase | 10/10 | Strong support; essential for health. | Health equity; poverty reduction. |
+| Universal School Meals | 10/10 | Strong support; reduces stigma. | Child welfare; educational equity. |
+| EBT Security | 8/10 | Support, provided it doesn't impede access. | Protecting beneficiary funds. |
+
+#### Legislation Evaluations
+
+| Bill | Score | Stated Position | Underlying Concerns |
+|------|-------|-----------------|---------------------|
+| Nutrition Security Act | 10/10 | Full support. | Ensuring adequate nutrition. |
+| Healthy School Meals Act | 10/10 | Full support. | Ending lunch shaming. |
 
 #### Alternative Proposals
 
-- Expand universal school meals with stronger nutrition standards.
-- Require public dashboards for procurement and incentive outcomes.
+- Increasing the minimum benefit level.
+- Expanding SNAP to undocumented immigrants.
+- Integrating SNAP enrollment with healthcare systems.
 
 #### Coalition Potential
 
-- Natural allies: Progressive, Centrist.
-- Bridges: Conservative on rural development.
-- Unlikely partners: Libertarian on mandates.
+- **Natural allies:** Progressives, Democratic Socialists.
+- **Potential bridges:** Centrists (on health outcomes), Populists (on corporate regulation).
+- **Unlikely partners:** Libertarians, Constitutionalists.
+
+---
 
 ### Progressive Perspective
 
 #### Engagement Consistency Assessment
 
-**Score: 4/5 - Mostly Consistent**
+**Score: 5/5 - Highly Consistent**
 
 | Indicator | Assessment |
-| --- | --- |
-| Stated vs actual motivations | Strong emphasis on equity and structural change. |
-| Principle consistency | High on accountability and redistribution. |
-| Goalpost stability | Moderate; seeks stronger mandates. |
-| Zero-sum behavior | Low to moderate. |
+|-----------|------------|
+| Stated vs actual motivations | Highly consistent; stated goals of equity and justice align closely with policy demands for universal access. |
+| Principle consistency | Consistently push for universalism over means-testing, viewing food as a human right rather than a safety net. |
+| Goalpost stability | Stable; the demand for a "Right to Food" remains a constant north star regardless of incremental legislative wins. |
+| Zero-sum behavior | Often views corporate profits in the food system as extractive, believing that Big Food gains come at the expense of public health. |
+
+**Justification:** Progressives view food as a human right and consistently advocate for moving beyond means-testing toward universal programs.
+
+**Evidence for assessment:**
+
+- Congressional Progressive Caucus budget proposals.
+- Advocacy for "Right to Food" amendments.
 
 #### Position Scores
 
 | Dimension | Score | Reasoning |
-| --- | --- | --- |
-| Current State Assessment | 8/10 | Strong alignment with inequities and health gaps. |
-| Root Cause Agreement | 8/10 | Agrees on subsidy and market concentration drivers. |
-| Solution 1: Healthy Incentive Expansion & Digital Access | 8/10 | Supports with expanded benefit levels. |
-| Solution 2: Nutrient-Rich Procurement & Food Hubs | 9/10 | Core policy to shift markets. |
-| Solution 3: Tribal & Community Food Sovereignty | 9/10 | Strong support for sovereignty and reparative investment. |
-| Solution 4: Food Rescue & Circular Nutrition | 8/10 | Supports alongside waste reduction mandates. |
-| Bill 1: Healthy Incentives & Digital Access Act | 8/10 | Supports if benefits grow. |
-| Bill 2: Regional Procurement & Food Hub Investment Act | 9/10 | High priority. |
-| Bill 3: Tribal & Community Food Sovereignty Act | 9/10 | High priority. |
-| Bill 4: Food Rescue & Circular Nutrition Infrastructure Act | 8/10 | Supports with funding guarantees. |
+|-----------|-------|-----------|
+| Current State Assessment | 10/10 | Fully agree; emphasize corporate greed as a factor. |
+| Root Cause Agreement | 10/10 | Agree on systemic inequality and wage stagnation. |
+
+**Source references:**
+
+- WhyHunger publications.
+- Institute for Policy Studies.
+- The Nation articles on food justice movements.
+
+#### Solution Evaluations
+
+| Solution | Score | Stated Position | Underlying Concerns |
+|----------|-------|-----------------|---------------------|
+| Thrifty Food Plan Increase | 10/10 | Support, but want even higher baseline. | Current metrics still underestimate cost. |
+| Universal School Meals | 10/10 | Core priority. | Decommodifying basic needs. |
+| Local Procurement | 10/10 | Strong support; breaks corporate monopolies. | Corporate consolidation in food systems. |
+
+#### Legislation Evaluations
+
+| Bill | Score | Stated Position | Underlying Concerns |
+|------|-------|-----------------|---------------------|
+| Nutrition Security Act | 9/10 | Support; would prefer ending all work requirements. | Work rules are punitive. |
+| Healthy School Meals Act | 10/10 | Full support. | Universalism is key. |
 
 #### Alternative Proposals
 
-- Universal school meals and free produce prescriptions for Medicaid recipients.
-- Stronger anti-monopoly enforcement for grocery and distribution markets.
+- Complete elimination of SNAP work requirements.
+- National "Right to Food" law.
+- Publicly owned grocery stores in food deserts.
 
 #### Coalition Potential
 
-- Natural allies: Liberal, Democratic Socialist.
-- Bridges: Populist on corporate consolidation.
-- Unlikely partners: Libertarian.
+- **Natural allies:** Liberals, Democratic Socialists.
+- **Potential bridges:** Populists (on anti-monopoly/local food).
+- **Unlikely partners:** Conservatives, Libertarians.
+
+---
 
 ### Libertarian Perspective
 
 #### Engagement Consistency Assessment
 
-**Score: 4/5 - Mostly Consistent**
+**Score: 5/5 - Highly Consistent**
 
 | Indicator | Assessment |
-| --- | --- |
-| Stated vs actual motivations | Emphasizes market choice and limited federal role. |
-| Principle consistency | Stable on deregulation and decentralization. |
-| Goalpost stability | Moderate; resists mandates and spending. |
-| Zero-sum behavior | Low. |
+|-----------|------------|
+| Stated vs actual motivations | Highly consistent; opposition to federal food programs is rooted in a fundamental rejection of the welfare state. |
+| Principle consistency | Consistently favor private charity and voluntary association over government coercion, regardless of the specific program. |
+| Goalpost stability | Stable; the ultimate goal is the complete privatization of food assistance, which does not shift based on political winds. |
+| Zero-sum behavior | Views taxation for welfare as a direct violation of property rights ("taxation is theft"), creating a zero-sum conflict between taxpayers and recipients. |
+
+**Justification:** Libertarians consistently oppose federal involvement in food assistance, arguing it distorts markets and creates dependency.
+
+**Evidence for assessment:**
+
+- Cato Institute commentary on welfare.
+- Libertarian Party platform.
 
 #### Position Scores
 
 | Dimension | Score | Reasoning |
-| --- | --- | --- |
-| Current State Assessment | 5/10 | Acknowledges access gaps but prefers private solutions. |
-| Root Cause Agreement | 4/10 | Disagrees with subsidy/market concentration framing. |
-| Solution 1: Healthy Incentive Expansion & Digital Access | 4/10 | Limited support if voluntary and time-limited. |
-| Solution 2: Nutrient-Rich Procurement & Food Hubs | 3/10 | Opposes mandates and public procurement targets. |
-| Solution 3: Tribal & Community Food Sovereignty | 3/10 | Supports private or philanthropic funding only. |
-| Solution 4: Food Rescue & Circular Nutrition | 5/10 | Supports liability protections and deregulation. |
-| Bill 1: Healthy Incentives & Digital Access Act | 4/10 | Concerned about entitlement growth. |
-| Bill 2: Regional Procurement & Food Hub Investment Act | 3/10 | Opposes mandates. |
-| Bill 3: Tribal & Community Food Sovereignty Act | 3/10 | Opposes federal grant expansion. |
-| Bill 4: Food Rescue & Circular Nutrition Infrastructure Act | 5/10 | Supports if regulatory relief dominates. |
+|-----------|-------|-----------|
+| Current State Assessment | 2/10 | Disagree with "hunger" definitions; believe private charity handles it better. |
+| Root Cause Agreement | 1/10 | Blame government intervention/inflation, not capitalism. |
+
+**Source references:**
+
+- Reason Foundation articles on SNAP.
+- Mises Institute commentary on agricultural subsidies and welfare.
+
+#### Solution Evaluations
+
+| Solution | Score | Stated Position | Underlying Concerns |
+|----------|-------|-----------------|---------------------|
+| Thrifty Food Plan Increase | 1/10 | Strong opposition. | Expanding the welfare state. |
+| Universal School Meals | 1/10 | Strong opposition; parental responsibility. | Government raising children. |
+| EBT Security | 5/10 | Mixed; government shouldn't run the system, but fraud is bad. | Incompetence of state systems. |
+
+#### Legislation Evaluations
+
+| Bill | Score | Stated Position | Underlying Concerns |
+|------|-------|-----------------|---------------------|
+| Nutrition Security Act | 1/10 | Oppose. | Unconstitutional spending. |
+| Healthy School Meals Act | 1/10 | Oppose. | No such thing as a free lunch. |
 
 #### Alternative Proposals
 
-- Deregulate food donation rules and allow private benefit platforms.
-- Expand tax credits for private food access initiatives.
+- Eliminate SNAP and replace with private charity tax credits.
+- Deregulate food markets to lower prices.
+- End agricultural subsidies that distort food prices.
 
 #### Coalition Potential
 
-- Natural allies: Constitutionalist.
-- Bridges: Conservative on retail flexibility.
-- Unlikely partners: Progressive, Democratic Socialist.
+- **Natural allies:** Conservatives, Constitutionalists.
+- **Potential bridges:** None on expansion; maybe Progressives on ending corporate subsidies.
+- **Unlikely partners:** Liberals, Centrists.
+
+---
 
 ### Constitutionalist Perspective
 
 #### Engagement Consistency Assessment
 
-**Score: 3/5 - Mixed Consistency**
+**Score: 4/5 - Mostly Consistent**
 
 | Indicator | Assessment |
-| --- | --- |
-| Stated vs actual motivations | Focuses on federalism and statutory limits. |
-| Principle consistency | Consistent on state primacy. |
-| Goalpost stability | Moderate; shifts if federal roles expand. |
-| Zero-sum behavior | Moderate; wary of federal preemption. |
+|-----------|------------|
+| Stated vs actual motivations | Consistent focus on federalism; objections are primarily jurisdictional (federal vs. state) rather than purely about the merit of feeding people. |
+| Principle consistency | Consistently argue that the Constitution does not grant Congress the power to run social welfare programs, preferring state control. |
+| Goalpost stability | Stable; the strict constructionist interpretation of the Spending Clause remains a fixed boundary. |
+| Zero-sum behavior | Views expansion of federal power as a direct loss of state sovereignty and individual liberty. |
+
+**Justification:** Constitutionalists argue that social welfare is not an enumerated federal power and should be left to the states or the people.
+
+**Evidence for assessment:**
+
+- Federalist Society legal analysis.
 
 #### Position Scores
 
 | Dimension | Score | Reasoning |
-| --- | --- | --- |
-| Current State Assessment | 5/10 | Accepts access gaps but prefers state solutions. |
-| Root Cause Agreement | 5/10 | Mixed on structural drivers. |
-| Solution 1: Healthy Incentive Expansion & Digital Access | 5/10 | Supports if states opt in. |
-| Solution 2: Nutrient-Rich Procurement & Food Hubs | 5/10 | Accepts if voluntary and state-led. |
-| Solution 3: Tribal & Community Food Sovereignty | 4/10 | Supports in tribal-state compacts. |
-| Solution 4: Food Rescue & Circular Nutrition | 5/10 | Supportive with liability protections. |
-| Bill 1: Healthy Incentives & Digital Access Act | 5/10 | Acceptable with state flexibility. |
-| Bill 2: Regional Procurement & Food Hub Investment Act | 5/10 | Acceptable with state-led governance. |
-| Bill 3: Tribal & Community Food Sovereignty Act | 4/10 | Limited support. |
-| Bill 4: Food Rescue & Circular Nutrition Infrastructure Act | 5/10 | Supportive if narrow. |
+|-----------|-------|-----------|
+| Current State Assessment | 3/10 | Skeptical of federal metrics; believe local solutions are ignored. |
+| Root Cause Agreement | 2/10 | Blame federal interference for economic stagnation. |
+
+**Source references:**
+
+- Tenth Amendment Center.
+- Cato Institute commentary on federalism and welfare.
+- Heritage Foundation "Guide to the Constitution" analysis of the General Welfare Clause.
+
+#### Solution Evaluations
+
+| Solution | Score | Stated Position | Underlying Concerns |
+|----------|-------|-----------------|---------------------|
+| Thrifty Food Plan Increase | 2/10 | Oppose federal mandate. | Federal overreach. |
+| Universal School Meals | 2/10 | Oppose; local school board issue. | Federal control of education/schools. |
+| State Model Legislation | 8/10 | Support concept of state action (if funded by state). | Federalism/10th Amendment. |
+
+#### Legislation Evaluations
+
+| Bill | Score | Stated Position | Underlying Concerns |
+|------|-------|-----------------|---------------------|
+| Nutrition Security Act | 2/10 | Oppose federal expansion. | Unconstitutional. |
+| Healthy School Meals Act | 2/10 | Oppose. | Education is a state issue. |
 
 #### Alternative Proposals
 
-- State block grants for nutrition innovation.
-- Regional compacts for procurement rather than federal mandates.
+- Block grant all nutrition programs to states with no strings attached.
+- End federal school lunch mandates.
 
 #### Coalition Potential
 
-- Natural allies: Conservative, Libertarian.
-- Bridges: Populist on regional investment.
-- Unlikely partners: Democratic Socialist.
+- **Natural allies:** Conservatives, Libertarians.
+- **Potential bridges:** None significant.
+- **Unlikely partners:** Liberals, Progressives.
+
+---
 
 ### Populist Perspective
 
@@ -218,37 +385,59 @@
 **Score: 3/5 - Mixed Consistency**
 
 | Indicator | Assessment |
-| --- | --- |
-| Stated vs actual motivations | Emphasizes corporate concentration and rural decline. |
-| Principle consistency | Mixed; favors intervention when anti-corporate. |
-| Goalpost stability | Moderate; depends on enforcement targets. |
-| Zero-sum behavior | Moderate; skeptical of corporate retailers. |
+|-----------|------------|
+| Stated vs actual motivations | Motivations are consistently anti-elite and anti-corporate, though policy positions can fluctuate based on who is perceived as the beneficiary (workers vs. "freeloaders"). |
+| Principle consistency | Mixed; supports government intervention when it helps "the people" (e.g., farmers, workers) but opposes it when perceived as aiding "globalists" or non-citizens. |
+| Goalpost stability | Shifts based on cultural grievances; support for nutrition can wane if programs are framed as "woke" or supporting immigrants. |
+| Zero-sum behavior | Highly zero-sum; views the economy as a struggle between the working class and extractive elites/corporations. |
+
+**Justification:** Populists support nutrition aid if framed as supporting American farmers and workers, but oppose it if framed as supporting non-working populations or if benefits flow to multinational corporations.
+
+**Evidence for assessment:**
+
+- Rhetoric on "America First" agriculture.
+- Skepticism of "processed food" and health experts.
 
 #### Position Scores
 
 | Dimension | Score | Reasoning |
-| --- | --- | --- |
-| Current State Assessment | 7/10 | Aligns on rural access and consolidation harms. |
-| Root Cause Agreement | 6/10 | Agrees on corporate concentration. |
-| Solution 1: Healthy Incentive Expansion & Digital Access | 7/10 | Supports if benefits go to local producers. |
-| Solution 2: Nutrient-Rich Procurement & Food Hubs | 7/10 | Supports for rural economic development. |
-| Solution 3: Tribal & Community Food Sovereignty | 6/10 | Supports if tied to local control. |
-| Solution 4: Food Rescue & Circular Nutrition | 7/10 | Supports waste reduction and local jobs. |
-| Bill 1: Healthy Incentives & Digital Access Act | 7/10 | Supportive if funds stay local. |
-| Bill 2: Regional Procurement & Food Hub Investment Act | 7/10 | Supportive. |
-| Bill 3: Tribal & Community Food Sovereignty Act | 6/10 | Conditional support. |
-| Bill 4: Food Rescue & Circular Nutrition Infrastructure Act | 7/10 | Supportive. |
+|-----------|-------|-----------|
+| Current State Assessment | 6/10 | Agree people are struggling; blame inflation/globalism. |
+| Root Cause Agreement | 5/10 | Blame corporate consolidation and trade deals. |
+
+**Source references:**
+
+- American Compass (conservative populist).
+- The American Conservative articles on family policy and agriculture.
+
+#### Solution Evaluations
+
+| Solution | Score | Stated Position | Underlying Concerns |
+|----------|-------|-----------------|---------------------|
+| Thrifty Food Plan Increase | 5/10 | Mixed; worry about inflation but want people fed. | Cost of living. |
+| Universal School Meals | 6/10 | Moderate support; "feed our kids." | National strength; anti-globalist. |
+| Local Procurement | 9/10 | Strong support; buy American. | Supporting domestic producers. |
+
+#### Legislation Evaluations
+
+| Bill | Score | Stated Position | Underlying Concerns |
+|------|-------|-----------------|---------------------|
+| Nutrition Security Act | 5/10 | Mixed; like EBT security, dislike "handouts." | Fraud vs. need. |
+| Healthy School Meals Act | 7/10 | Support if focused on American food. | Child health/national security. |
 
 #### Alternative Proposals
 
-- Strengthen antitrust enforcement in grocery and meatpacking sectors.
-- Prioritize rural-owned food hubs and cooperatives.
+- Ban purchase of foreign-produced food with SNAP.
+- Strict bans on soda/candy (anti-Big Food).
+- Price controls on groceries.
 
 #### Coalition Potential
 
-- Natural allies: Conservative on rural investment, Progressive on consolidation.
-- Bridges: Centrist on infrastructure.
-- Unlikely partners: Libertarian.
+- **Natural allies:** None (idiosyncratic).
+- **Potential bridges:** Progressives (on corporate power), Conservatives (on cultural issues).
+- **Unlikely partners:** Libertarians (who support free trade).
+
+---
 
 ### Centrist Perspective
 
@@ -257,37 +446,59 @@
 **Score: 4/5 - Mostly Consistent**
 
 | Indicator | Assessment |
-| --- | --- |
-| Stated vs actual motivations | Balances access goals with fiscal pragmatism. |
-| Principle consistency | Stable on evidence-based policy. |
-| Goalpost stability | Low; predictable support with data. |
-| Zero-sum behavior | Low. |
+|-----------|------------|
+| Stated vs actual motivations | Consistent focus on efficiency, return on investment, and evidence-based outcomes rather than ideology. |
+| Principle consistency | Consistently prefers targeted, means-tested programs with work incentives over universal entitlements. |
+| Goalpost stability | Stable; focuses on incremental improvements and program integrity. |
+| Zero-sum behavior | Low; seeks positive-sum outcomes where social safety nets support economic growth and workforce participation. |
+
+**Justification:** Centrists view nutrition programs as economic stabilizers and workforce supports. They favor evidence-based tweaks over radical overhauls.
+
+**Evidence for assessment:**
+
+- Bipartisan Policy Center proposals.
+- Third Way reports.
 
 #### Position Scores
 
 | Dimension | Score | Reasoning |
-| --- | --- | --- |
-| Current State Assessment | 7/10 | Accepts data on food insecurity and access gaps. |
-| Root Cause Agreement | 6/10 | Agrees on affordability and access issues. |
-| Solution 1: Healthy Incentive Expansion & Digital Access | 7/10 | Supports with accountability metrics. |
-| Solution 2: Nutrient-Rich Procurement & Food Hubs | 7/10 | Supports if cost controlled. |
-| Solution 3: Tribal & Community Food Sovereignty | 6/10 | Supports targeted grants. |
-| Solution 4: Food Rescue & Circular Nutrition | 7/10 | Supports for cost savings. |
-| Bill 1: Healthy Incentives & Digital Access Act | 7/10 | Supportive with audits. |
-| Bill 2: Regional Procurement & Food Hub Investment Act | 7/10 | Supportive. |
-| Bill 3: Tribal & Community Food Sovereignty Act | 6/10 | Supportive with capacity safeguards. |
-| Bill 4: Food Rescue & Circular Nutrition Infrastructure Act | 7/10 | Supportive. |
+|-----------|-------|-----------|
+| Current State Assessment | 8/10 | Agree on data; concerned about long-term costs of health issues. |
+| Root Cause Agreement | 7/10 | Acknowledge wage gaps but emphasize skills gap too. |
+
+**Source references:**
+
+- Brookings Institution.
+- Progressive Policy Institute (PPI) reports on modernizing the safety net.
+
+#### Solution Evaluations
+
+| Solution | Score | Stated Position | Underlying Concerns |
+|----------|-------|-----------------|---------------------|
+| Thrifty Food Plan Increase | 7/10 | Support if evidence-based. | Fiscal sustainability. |
+| Universal School Meals | 5/10 | Skeptical; prefer means-testing to save money. | Deadweight loss (subsidizing rich kids). |
+| GusNIP Expansion | 9/10 | Strong support; incentivizes health. | Nudging behavior/ROI. |
+
+#### Legislation Evaluations
+
+| Bill | Score | Stated Position | Underlying Concerns |
+|------|-------|-----------------|---------------------|
+| Nutrition Security Act | 7/10 | Support modernization; wary of total cost. | Efficiency. |
+| Healthy School Meals Act | 5/10 | Prefer targeted expansion (e.g., Medicaid direct cert). | Budget impact. |
 
 #### Alternative Proposals
 
-- Tie incentive expansions to measurable health outcomes.
-- Create bipartisan nutrition oversight boards with state representation.
+- Expand Employment & Training (E&T) programs within SNAP.
+- "Smart" subsidies for healthy food combined with education.
+- Streamlined application processes without universalism.
 
 #### Coalition Potential
 
-- Natural allies: Liberal, Conservative.
-- Bridges: Populist on rural outcomes.
-- Unlikely partners: Libertarian on federal role.
+- **Natural allies:** Liberals (on some issues), Moderate Conservatives.
+- **Potential bridges:** Religious Right (on family stability).
+- **Unlikely partners:** Libertarians, Democratic Socialists.
+
+---
 
 ### Religious Right Perspective
 
@@ -296,201 +507,310 @@
 **Score: 4/5 - Mostly Consistent**
 
 | Indicator | Assessment |
-| --- | --- |
-| Stated vs actual motivations | Focus on family well-being and charitable delivery. |
-| Principle consistency | Stable on community-based solutions. |
-| Goalpost stability | Low; predictable support when faith partners included. |
-| Zero-sum behavior | Low. |
+|-----------|------------|
+| Stated vs actual motivations | Consistent focus on family stability and the moral obligation to care for the poor, often prioritizing private/faith-based solutions. |
+| Principle consistency | Consistently supports aid that strengthens the traditional family unit but is wary of government replacing the role of the church. |
+| Goalpost stability | Stable; pro-life and pro-family values provide a consistent anchor for policy positions. |
+| Zero-sum behavior | Mixed; sees government expansion as potentially crowding out civil society, but acknowledges the scale of need requires state action. |
+
+**Justification:** The Religious Right balances a biblical mandate to feed the poor with a political alliance with fiscal conservatives. They often support government funding that flows through faith-based organizations.
+
+**Evidence for assessment:**
+
+- National Association of Evangelicals statements.
+- Catholic Charities advocacy (often more liberal on this issue).
 
 #### Position Scores
 
 | Dimension | Score | Reasoning |
-| --- | --- | --- |
-| Current State Assessment | 6/10 | Recognizes hunger challenges. |
-| Root Cause Agreement | 5/10 | Mixed on structural drivers. |
-| Solution 1: Healthy Incentive Expansion & Digital Access | 6/10 | Supports if community partners are engaged. |
-| Solution 2: Nutrient-Rich Procurement & Food Hubs | 6/10 | Supportive if local and family-centered. |
-| Solution 3: Tribal & Community Food Sovereignty | 6/10 | Supports if framed around community autonomy. |
-| Solution 4: Food Rescue & Circular Nutrition | 6/10 | Strong support for food rescue networks. |
-| Bill 1: Healthy Incentives & Digital Access Act | 6/10 | Supports with outreach grants. |
-| Bill 2: Regional Procurement & Food Hub Investment Act | 6/10 | Supports. |
-| Bill 3: Tribal & Community Food Sovereignty Act | 6/10 | Supports with local partner engagement. |
-| Bill 4: Food Rescue & Circular Nutrition Infrastructure Act | 6/10 | Strong support. |
+|-----------|-------|-----------|
+| Current State Assessment | 7/10 | Acknowledge hunger is a moral failure. |
+| Root Cause Agreement | 5/10 | Emphasize family breakdown alongside economic factors. |
+
+**Source references:**
+
+- Bread for the World (faith-based).
+- ERLC (Ethics & Religious Liberty Commission).
+- Family Research Council statements on child tax credits and family support.
+
+#### Solution Evaluations
+
+| Solution | Score | Stated Position | Underlying Concerns |
+|----------|-------|-----------------|---------------------|
+| Thrifty Food Plan Increase | 6/10 | Moderate support (pro-family). | Dependency vs. compassion. |
+| Universal School Meals | 7/10 | Support; helps families. | Pro-natalist/family support. |
+| Charitable Choice | 10/10 | Strong support for faith-based partners. | Religious liberty. |
+
+#### Legislation Evaluations
+
+| Bill | Score | Stated Position | Underlying Concerns |
+|------|-------|-----------------|---------------------|
+| Nutrition Security Act | 6/10 | Support provisions for elderly/families. | Cost. |
+| Healthy School Meals Act | 7/10 | Support. | Feeding children is a moral duty. |
 
 #### Alternative Proposals
 
-- Expand faith-based partnerships for food rescue and school meal delivery.
-- Increase support for community kitchens and volunteer networks.
+- Increased tax credits for charitable donations to food banks.
+- Grants specifically for faith-based food pantries.
+- Child tax credit expansion (preferred over bureaucracy).
 
 #### Coalition Potential
 
-- Natural allies: Conservative, Centrist.
-- Bridges: Progressive on community food access.
-- Unlikely partners: Libertarian on public funding.
+- **Natural allies:** Conservatives (politically), Liberals (theologically on hunger).
+- **Potential bridges:** Centrists.
+- **Unlikely partners:** Secular Progressives.
+
+---
 
 ### Democratic Socialist Perspective
 
 #### Engagement Consistency Assessment
 
-**Score: 4/5 - Mostly Consistent**
+**Score: 5/5 - Highly Consistent**
 
 | Indicator | Assessment |
-| --- | --- |
-| Stated vs actual motivations | Emphasizes universal access and structural reform. |
-| Principle consistency | High on public investment and redistribution. |
-| Goalpost stability | Moderate; seeks stronger guarantees. |
-| Zero-sum behavior | Low to moderate. |
+|-----------|------------|
+| Stated vs actual motivations | Highly consistent; the stated goal of decommodifying basic needs like food aligns perfectly with their policy demands. |
+| Principle consistency | Consistently applies socialist principles of public ownership, democratic control, and universal access to all nutrition issues. |
+| Goalpost stability | Stable; the ultimate goal of a nationalized food system remains constant, viewing market-based solutions as inherently flawed. |
+| Zero-sum behavior | Views the profit motive in the food system as a zero-sum game where capital extracts value from labor and consumers. |
+
+**Justification:** Democratic Socialists view food access as a fundamental right that should be removed from market forces entirely.
+
+**Evidence for assessment:**
+
+- DSA platform.
+- Jacobin magazine analysis.
 
 #### Position Scores
 
 | Dimension | Score | Reasoning |
-| --- | --- | --- |
-| Current State Assessment | 8/10 | Strong alignment with access gaps and inequities. |
-| Root Cause Agreement | 8/10 | Agrees on subsidy and corporate power issues. |
-| Solution 1: Healthy Incentive Expansion & Digital Access | 9/10 | Supports expanded benefits and universal access. |
-| Solution 2: Nutrient-Rich Procurement & Food Hubs | 9/10 | Strong support for public procurement. |
-| Solution 3: Tribal & Community Food Sovereignty | 9/10 | Strong support for sovereignty funding. |
-| Solution 4: Food Rescue & Circular Nutrition | 8/10 | Supports alongside waste mandates. |
-| Bill 1: Healthy Incentives & Digital Access Act | 9/10 | Supports major expansion. |
-| Bill 2: Regional Procurement & Food Hub Investment Act | 9/10 | Supports strong mandates. |
-| Bill 3: Tribal & Community Food Sovereignty Act | 9/10 | Supports with expanded funding. |
-| Bill 4: Food Rescue & Circular Nutrition Infrastructure Act | 8/10 | Supports with public ownership options. |
+|-----------|-------|-----------|
+| Current State Assessment | 10/10 | Agree; emphasize failure of capitalism to feed people. |
+| Root Cause Agreement | 10/10 | Agree; profit motive is the problem. |
+
+**Source references:**
+
+- Food First.
+- People's Policy Project (3P) papers on the welfare state.
+
+#### Solution Evaluations
+
+| Solution | Score | Stated Position | Underlying Concerns |
+|----------|-------|-----------------|---------------------|
+| Thrifty Food Plan Increase | 8/10 | Support as stopgap; prefer universal basic services. | Means-testing is divisive. |
+| Universal School Meals | 10/10 | Strong support; model for other sectors. | Universalism. |
+| Local Procurement | 9/10 | Support; anti-corporate. | Community wealth building. |
+
+#### Legislation Evaluations
+
+| Bill | Score | Stated Position | Underlying Concerns |
+|------|-------|-----------------|---------------------|
+| Nutrition Security Act | 8/10 | Support. | Still relies on market mechanisms (EBT). |
+| Healthy School Meals Act | 10/10 | Full support. | Decommodification. |
 
 #### Alternative Proposals
 
-- Universal free school meals and food prescriptions as public benefits.
-- Public ownership of regional food hubs and cold chain assets.
+- Nationalize food distribution for basic staples.
+- Universal Basic Income (UBI) to cover food costs.
+- Free public cafeterias (canteens) open to all.
 
 #### Coalition Potential
 
-- Natural allies: Progressive, Liberal.
-- Bridges: Populist on corporate concentration.
-- Unlikely partners: Libertarian.
+- **Natural allies:** Progressives.
+- **Potential bridges:** Liberals.
+- **Unlikely partners:** Everyone else.
+
+---
 
 ## Summary Tables
 
-### Legislation Status Reference
+### Master Comparison
 
-| Bill | Type | Current Status | Last Action |
-| --- | --- | --- | --- |
-| Healthy Incentives & Digital Access Act | Model federal bill | Draft concept | Not introduced (model language) |
-| Regional Procurement & Food Hub Investment Act | Model federal bill | Draft concept | Not introduced (model language) |
-| Tribal & Community Food Sovereignty Act | Model federal bill | Draft concept | Not introduced (model language) |
-| Food Rescue & Circular Nutrition Infrastructure Act | Model federal bill | Draft concept | Not introduced (model language) |
-
-### Master Comparison Table
-
-| Perspective | Consistency | Current State | Root Causes | Avg Solution Support | Avg Bill Support |
-| --- | --- | --- | --- | --- | --- |
-| Conservative | 4 | 6 | 5 | 5.0 | 5.0 |
-| Liberal | 4 | 7 | 7 | 7.5 | 7.5 |
-| Progressive | 4 | 8 | 8 | 8.5 | 8.5 |
-| Libertarian | 4 | 5 | 4 | 3.8 | 3.8 |
-| Constitutionalist | 3 | 5 | 5 | 4.8 | 4.8 |
-| Populist | 3 | 7 | 6 | 6.8 | 6.8 |
-| Centrist | 4 | 7 | 6 | 6.8 | 6.8 |
-| Religious Right | 4 | 6 | 5 | 6.0 | 6.0 |
-| Democratic Socialist | 4 | 8 | 8 | 8.8 | 8.8 |
+| Perspective | Consistency | Current State | Root Causes | Solutions Avg | Legislation Avg |
+|-------------|-------------|---------------|-------------|---------------|-----------------|
+| Conservative | 4/5 | 4/10 | 3/10 | 4/10 | 2.5/10 |
+| Liberal | 5/5 | 9/10 | 9/10 | 9.3/10 | 10/10 |
+| Progressive | 5/5 | 10/10 | 10/10 | 10/10 | 9.5/10 |
+| Libertarian | 5/5 | 2/10 | 1/10 | 2.3/10 | 1/10 |
+| Constitutionalist | 4/5 | 3/10 | 2/10 | 4/10 | 2/10 |
+| Populist | 3/5 | 6/10 | 5/10 | 6.6/10 | 6/10 |
+| Centrist | 4/5 | 8/10 | 7/10 | 7/10 | 6/10 |
+| Religious Right | 4/5 | 7/10 | 5/10 | 7.6/10 | 6.5/10 |
+| Democratic Socialist | 5/5 | 10/10 | 10/10 | 9/10 | 9/10 |
 
 ### Solution Support Matrix
 
-| Perspective | S1 Incentives & Digital Access | S2 Procurement & Food Hubs | S3 Food Sovereignty | S4 Food Rescue & Circular |
-| --- | --- | --- | --- | --- |
-| Conservative | 6 | 5 | 4 | 5 |
-| Liberal | 8 | 8 | 7 | 7 |
-| Progressive | 8 | 9 | 9 | 8 |
-| Libertarian | 4 | 3 | 3 | 5 |
-| Constitutionalist | 5 | 5 | 4 | 5 |
-| Populist | 7 | 7 | 6 | 7 |
-| Centrist | 7 | 7 | 6 | 7 |
-| Religious Right | 6 | 6 | 6 | 6 |
-| Democratic Socialist | 9 | 9 | 9 | 8 |
+| Solution | Con | Lib | Prog | Libt | Const | Pop | Cent | RelR | DemSoc |
+|----------|-----|-----|------|------|-------|-----|------|------|--------|
+| TFP Increase | 2 | 10 | 10 | 1 | 2 | 5 | 7 | 6 | 8 |
+| Universal Meals | 2 | 10 | 10 | 1 | 2 | 6 | 5 | 7 | 10 |
+| GusNIP/Incentives | 5 | 9 | 9 | 3 | 3 | 7 | 9 | 7 | 8 |
 
 ### Legislation Support Matrix
 
-| Perspective | B1 Incentives & Digital Access Act | B2 Procurement & Food Hub Act | B3 Food Sovereignty Act | B4 Food Rescue Act |
-| --- | --- | --- | --- | --- |
-| Conservative | 6 | 5 | 4 | 5 |
-| Liberal | 8 | 8 | 7 | 7 |
-| Progressive | 8 | 9 | 9 | 8 |
-| Libertarian | 4 | 3 | 3 | 5 |
-| Constitutionalist | 5 | 5 | 4 | 5 |
-| Populist | 7 | 7 | 6 | 7 |
-| Centrist | 7 | 7 | 6 | 7 |
-| Religious Right | 6 | 6 | 6 | 6 |
-| Democratic Socialist | 9 | 9 | 9 | 8 |
+| Bill | Con | Lib | Prog | Libt | Const | Pop | Cent | RelR | DemSoc |
+|------|-----|-----|------|------|-------|-----|------|------|--------|
+| Nutrition Security Act | 3 | 10 | 9 | 1 | 2 | 5 | 7 | 6 | 8 |
+| Healthy School Meals Act | 2 | 10 | 10 | 1 | 2 | 7 | 5 | 7 | 10 |
 
 ### Engagement Consistency Distribution
 
-| Consistency | Perspectives |
-| --- | --- |
-| 4 (Mostly Consistent) | Conservative, Liberal, Progressive, Libertarian, Centrist, Religious Right, Democratic Socialist |
-| 3 (Mixed Consistency) | Constitutionalist, Populist |
-| 2 or 1 | None |
+| Level | Count | Perspectives |
+|-------|-------|--------------|
+| 5 - Highly Consistent | 4 | Liberal, Progressive, Libertarian, DemSoc |
+| 4 - Mostly Consistent | 4 | Conservative, Constitutionalist, Centrist, Religious Right |
+| 3 - Mixed Consistency | 1 | Populist |
+| 2 - Low Consistency | 0 | - |
+| 1 - Unpredictable | 0 | - |
+
+**High Consistency Majority:** 8/9 perspectives rated 4 or above.
 
 ### Common Ground Synthesis
 
-| Item | Support Profile | Notes |
-| --- | --- | --- |
-| S1 Incentives & Digital Access | Broad (6-9) | Broad support if fraud controls and retailer grants exist. |
-| S2 Procurement & Food Hubs | Broad (5-9) | Support rises with state flexibility and cost caps. |
-| S3 Food Sovereignty | Broad (4-9) | Support improves with opt-in and capacity assistance. |
-| S4 Food Rescue & Circular | Broad (5-9) | Widely supported with safety standards. |
-| B1 Incentives & Digital Access Act | Broad (6-9) | Acceptable if audited and phased. |
-| B2 Procurement & Food Hub Act | Broad (5-9) | Needs flexibility and seasonal waivers. |
-| B3 Food Sovereignty Act | Broad (4-9) | Strongest support when framed as local control. |
-| B4 Food Rescue Act | Broad (5-9) | Lowest controversy, high cross-party support. |
+| Reform Category | Broad Support (5+) | Narrow Support (3-4) | Structural Opposition |
+|-----------------|-------------------|---------------------|----------------------|
+| **EBT Security/Fraud Prevention** | Con, Lib, Prog, Pop, Cent, RelR | Libt, Const | - |
+| **Nutrition Incentives (GusNIP)** | Lib, Prog, Pop, Cent, RelR, DemSoc | Con | Libt, Const |
+| **Universal School Meals** | Lib, Prog, Pop, RelR, DemSoc | Cent | Con, Libt, Const |
+
+**Key insight:** Fraud prevention and nutrition incentives (carrots rather than sticks) offer the widest path for bipartisan cooperation. Universal meals has strong ideological support but faces fiscal resistance from the center-right.
+
+---
 
 ## Compromise Proposals
 
-### Compromise 1: Incentives With Retailer Flexibility
+### Compromise 1: The "Healthy Work Opportunity" Act
 
-- **Bridges**: Conservative, Centrist, Liberal
-- **Core agreement**: Expand incentives while supporting retailer compliance.
-- **Policy**: National match funding paired with POS grants and simplified reporting.
-- **Concessions**: Reformers accept phased data requirements; conservatives accept federal match funding.
-- **Viability**: High; aligns with access and cost concerns.
+**Bridges:** Conservative + Centrist + Liberal
 
-### Compromise 2: Local Procurement With Seasonal Waivers
+**Core Agreement:** Work is good, but hunger is a barrier to work.
 
-- **Bridges**: Progressive, Populist, Constitutionalist
-- **Core agreement**: Strengthen local farm demand while respecting state control.
-- **Policy**: Procurement targets with seasonal and availability waivers and state-led food hub governance.
-- **Concessions**: States accept baseline reporting; reformers accept flexible thresholds.
-- **Viability**: Medium-high; depends on state readiness.
+**Policy Description:**
 
-### Compromise 3: Food Rescue + Community Partners
+Maintains work requirements for able-bodied adults but significantly increases the "earned income deduction" (allowing workers to keep more benefits as they earn money) and funds massive employment training programs. It also eliminates the "cliff effect" by tapering benefits slowly.
 
-- **Bridges**: Religious Right, Conservative, Centrist
-- **Core agreement**: Reduce waste while feeding families through trusted networks.
-- **Policy**: Expand liability protections and cold storage grants for community partners.
-- **Concessions**: Oversight limited to food safety standards.
-- **Viability**: High; low controversy and visible benefits.
+**Concern Mapping:**
+
+| Perspective | How This Addresses Their Concerns |
+|-------------|-----------------------------------|
+| Conservative | Retains work requirements; emphasizes self-sufficiency. |
+| Liberal | Increases total resources for working poor; eliminates cliffs. |
+| Centrist | Improves workforce participation; efficient use of funds. |
+
+**Concessions:**
+
+| Perspective | What They Give Up |
+|-------------|-------------------|
+| Conservative | Accepts higher total spending on benefits. |
+| Liberal | Accepts continued existence of work requirements. |
+
+**Viability Assessment:**
+
+- **Coalition Size:** 3/9 perspectives (but politically powerful ones).
+- **High Consistency Ratio:** 3/3 coalition members rated 4+ consistency.
+- **Durability:** High; aligns with welfare reform history (1996).
+- **Implementation Path:** Farm Bill amendment.
+
+---
+
+### Compromise 2: The "Nutrition First" Initiative
+
+**Bridges:** Populist + Progressive + Centrist + Religious Right
+
+**Core Agreement:** Taxpayer money should support health, not junk food corporations.
+
+**Policy Description:**
+
+Restricts SNAP purchases of sugary beverages and candy (Conservative/Populist goal) while simultaneously doubling funding for fruit/vegetable incentives (Liberal/Progressive goal) and expanding WIC (Centrist/Religious Right goal).
+
+**Concern Mapping:**
+
+| Perspective | How This Addresses Their Concerns |
+|-------------|-----------------------------------|
+| Populist | Stops subsidizing "Big Soda"; improves health. |
+| Progressive | Increases access to healthy food; regulates corporate influence. |
+| Conservative | Ensures tax dollars aren't wasted on junk. |
+
+**Concessions:**
+
+| Perspective | What They Give Up |
+|-------------|-------------------|
+| Progressive | Accepts paternalistic restrictions on choice. |
+| Conservative | Accepts increased spending on incentives. |
+| Industry | Loses revenue from SNAP junk food purchases (strong lobbying opposition). |
+
+**Viability Assessment:**
+
+- **Coalition Size:** 4/9 perspectives.
+- **High Consistency Ratio:** 3/4 coalition members rated 4+ consistency.
+- **Durability:** Medium; industry lobbying would be intense.
+- **Implementation Path:** Farm Bill pilot program or amendment.
+
+---
+
+### Compromise 3: The "Universal Kids Nutrition" Compact
+
+**Bridges:** Progressive + Religious Right + Centrist + Populist
+
+**Core Agreement:** Children are innocent and the future of the nation; feeding them is a moral and strategic imperative.
+
+**Policy Description:**
+
+Establishes universal free school meals for all K-12 students (Progressive/Populist goal) while maintaining strict means-testing for adult SNAP programs (Centrist/Conservative goal). It frames school meals as "educational infrastructure" and "family support" rather than welfare.
+
+**Concern Mapping:**
+
+| Perspective | How This Addresses Their Concerns |
+|-------------|-----------------------------------|
+| Religious Right | Supports families; pro-natalist; protects children. |
+| Populist | "Feed our kids" nationalism; strengthens future workforce. |
+| Centrist | Targeted investment in human capital (kids) vs. general entitlement. |
+
+**Concessions:**
+
+| Perspective | What They Give Up |
+|-------------|-------------------|
+| Progressive | Accepts continued means-testing/restrictions for adults. |
+| Conservative | Accepts universal entitlement for a specific demographic (children). |
+
+**Viability Assessment:**
+
+- **Coalition Size:** 5/9 perspectives.
+- **High Consistency Ratio:** 4/5 coalition members rated 4+ consistency.
+- **Durability:** High; difficult to repeal benefits for children once established.
+- **Implementation Path:** Child Nutrition Reauthorization (separate from Farm Bill).
+
+---
 
 ## Strategic Implications
 
-- Most viable coalition centers on incentives and food rescue investments.
-- Key obstacle is concern about procurement mandates and federal overreach.
-- Bad-faith risk appears limited; focus on pilot programs with clear outcomes.
-- Recommended approach: pass incentives and food rescue first, then phase in procurement and sovereignty programs with opt-in flexibility.
+### Most Viable Coalition
 
-## Sources
+The **"Nutrition Incentives" coalition** (Liberal + Centrist + Populist + Religious Right) is the strongest. Expanding GusNIP (fruit/veg bonuses) avoids the "handout" frame of general benefit increases while satisfying the "health" frame of the left and the "anti-corporate/pro-farmer" frame of the populists.
 
-- Republican National Committee platform (2024). (<https://gop.com/platform/>)
-- Democratic Party platform (2024). (<https://democrats.org/where-we-stand/party-platform/>)
-- American Farm Bureau Federation policy priorities. (<https://www.fb.org/advocacy>)
-- Heritage Foundation market and welfare policy briefs. (<https://www.heritage.org/markets-and-finance>)
-- Economic Policy Institute food and labor market research. (<https://www.epi.org/issue/monopoly-power/>)
-- Cato Institute regulatory and welfare policy writings. (<https://www.cato.org/research>)
-- Federalist Society publications on federalism and administrative law. (<https://fedsoc.org/>)
-- Selected America First policy statements (e.g., Senator Josh Hawley press releases). (<https://www.hawley.senate.gov/press-releases>)
-- Democratic Socialists of America platform. (<https://www.dsausa.org/dsa-political-platform-from-2021-convention/>)
-- National Catholic Rural Life Conference policy statements. (<https://catholicrurallife.org/>)
-- Food Research & Action Center resources. (<https://frac.org/>)
-- Feeding America research. (<https://www.feedingamerica.org/research>)
+### Key Obstacles
+
+1. **Cost:** Universal school meals and TFP increases are expensive ($10B+ annually), triggering automatic opposition from fiscal conservatives.
+2. **Paternalism vs. Autonomy:** The debate over restricting junk food splits the left (who see it as stigmatizing) and unites the right (who see it as common sense), but corporate lobbying usually kills it.
+3. **Work Requirements:** This remains the single biggest flashpoint, preventing a "Grand Bargain" between Liberals and Conservatives.
+
+### Low Consistency Partners
+
+**Populists** are the wildcard. They can be courted for expansion if it is framed as "supporting American farmers" or "sticking it to Big Food," but they will turn against it if framed as "welfare." Messaging must be carefully tailored to national strength and health.
+
+### Recommended Approach
+
+Pursue a **"Health and Integrity"** strategy:
+
+1. Lead with EBT security (anti-fraud) to secure Conservative buy-in.
+2. Pair it with GusNIP expansion (incentives) to secure Centrist/Populist support.
+3. Use the savings/political capital to push for the TFP modernization (adequacy) desired by Liberals/Progressives.
+4. Keep Universal School Meals as a separate track, focusing on state-level adoption first to build proof of concept.
+
+---
 
 ## Document Navigation
 
 - Previous: [Legislation](11-legislation.md)
-- Next: N/A
-- Up: [Agriculture Policy Domain](../01-overview.md)
+- Up: [Agriculture](../01-overview.md)

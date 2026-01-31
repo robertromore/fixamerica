@@ -1,18 +1,73 @@
-# Technology & Innovation Policy: Political Perspectives Analysis
+---
+freshness:
+  last-reviewed: 2026-01-29
+  data-year: 2024
+  review-cycle: 12
+  sections:
+    - name: "Legislation Evaluations"
+      data-year: 2024
+    - name: "Engagement Consistency Assessment"
+      data-year: 2024
+notes:
+  - Revisit after 2026 Farm Bill research title debates.
+  - Monitor right-to-repair litigation.
+sources:
+  count: 18
+  verified: 2026-01-29
+  broken: 0
+---
 
-## Inputs Reviewed
+# Technology and Innovation Policy: Political Perspectives Analysis
 
-- `analysis/agriculture/technology-and-innovation-policy/02-current-state.md`
-- `analysis/agriculture/technology-and-innovation-policy/04-root-causes.md`
-- `analysis/agriculture/technology-and-innovation-policy/07-solutions.md`
-- `analysis/agriculture/technology-and-innovation-policy/11-legislation.md`
-- Context check: `analysis/agriculture/technology-and-innovation-policy/06-opposition.md`
+## Overview
 
-## High-Level Takeaways
+Agricultural technology policy raises fundamental questions about ownership, privacy, and the direction of progress. Is data a commodity to be harvested by corporations, or a personal asset of the farmer? Should innovation serve to replace labor and increase scale, or to enhance stewardship and resilience? The debate pits "techno-optimists" who see automation as the solution to labor shortages against "agrarian populists" who see it as the final nail in the coffin of the family farm.
 
-- Broad agreement that innovation drives productivity, but disagreement centers on federal standards, data governance, and AI oversight.
-- Extension and access grants draw the widest support because they emphasize farmer choice and capacity building.
-- The largest fault lines are data portability mandates and AI transparency requirements.
+## Perspective Definitions
+
+| Perspective | Core Values | Policy Orientation |
+|-------------|-------------|-------------------|
+| Conservative | Property rights, innovation, business freedom | Strong IP protection, private sector R&D, skepticism of open source |
+| Liberal | Equity, public good, regulation | Public research funding, digital equity, regulating big tech |
+| Progressive | Anti-corporate, open access, labor rights | Open source seeds, data sovereignty, ban surveillance ag |
+| Libertarian | Property rights, free markets, deregulation | Strong IP (sometimes), anti-subsidy, pro-tech adoption |
+| Constitutionalist | Property rights, limited government | Protect data as property, skepticism of federal R&D |
+| Populist | Anti-elite, pro-farmer, nationalism | Right to Repair, data ownership, anti-monopoly |
+| Centrist | Efficiency, partnership, growth | Public-private partnerships, precision ag adoption, broadband |
+| Religious Right | Stewardship, human dignity | Technology serving families, skepticism of "playing God" (GMOs) |
+| Democratic Socialist | Public ownership, knowledge commons | Public breeding, open source technology, technology for workers |
+
+## Scoring Framework
+
+### Position Scores (1-10)
+
+| Score | Meaning |
+|-------|---------|
+| 10 | Full agreement with project analysis |
+| 7-9 | Substantial to strong agreement |
+| 5-6 | Mixed/moderate agreement |
+| 3-4 | Substantial disagreement |
+| 1-2 | Strong opposition |
+
+### Engagement Consistency (1-5)
+
+| Level | Label | Indicators |
+|-------|-------|------------|
+| 5 | Highly Consistent | Stated positions reflect underlying principles; positions stable when concerns addressed |
+| 4 | Mostly Consistent | Principles generally align with positions; minor strategic flexibility |
+| 3 | Mixed Consistency | Some positions principled, others reflect coalition pressures |
+| 2 | Low Consistency | Positions shift frequently; stated concerns differ from underlying priorities |
+| 1 | Unpredictable | Positions driven primarily by opposition dynamics |
+
+### Legislation Status Reference (as of January 2026)
+
+| Bill/Amendment | Type | Current Status | Last Action |
+|----------------|------|----------------|-------------|
+| Agricultural Data Rights Act | Federal | Proposed | Committee |
+| Precision Ag Equity Act | Federal | Proposed | Drafting |
+| Public Research Revitalization Act | Federal | Proposed | Introduced |
+
+---
 
 ## Perspective Analyses
 
@@ -23,115 +78,181 @@
 **Score: 4/5 - Mostly Consistent**
 
 | Indicator | Assessment |
-| --- | --- |
-| Stated vs actual motivations | Emphasizes productivity, rural competitiveness, and limited regulation. |
-| Principle consistency | Stable on federalism and cost controls. |
-| Goalpost stability | Moderate; shifts if mandates expand. |
-| Zero-sum behavior | Low. |
+|-----------|------------|
+| Stated vs actual motivations | Consistent support for innovation and IP rights. |
+| Principle consistency | Generally pro-business, but "Right to Repair" creates tension between property rights (farmer) and IP rights (manufacturer). |
+| Goalpost stability | Stable. |
+| Zero-sum behavior | IP owners vs. Users. |
+
+**Justification:** Conservatives strongly support private sector innovation and the patent system. However, the populist wing is increasingly vocal about "Right to Repair" as a property rights issue ("I bought it, I own it"), creating a split with the corporate wing.
+
+**Evidence for assessment:**
+
+- Farm Bureau support for precision ag.
+- Heritage Foundation defense of IP rights.
 
 #### Position Scores
 
 | Dimension | Score | Reasoning |
-| --- | --- | --- |
-| Current State Assessment | 6/10 | Accepts adoption gaps but cautious on federal role. |
-| Root Cause Agreement | 5/10 | Mixed on market concentration critiques. |
-| Solution 1: Innovation and Extension Acceleration | 6/10 | Supports if focused on productivity. |
-| Solution 2: Data Rights and Interoperability | 5/10 | Concerned about mandates. |
-| Solution 3: Precision Access Grants | 6/10 | Supports if state-led. |
-| Solution 4: AI Assurance Framework | 4/10 | Skeptical of regulation. |
-| Bill 1: Innovation and Extension Act | 6/10 | Acceptable with audits. |
-| Bill 2: Data Rights Act | 5/10 | Mixed support. |
-| Bill 3: Precision Access Act | 6/10 | Supportive. |
-| Bill 4: AI Assurance Act | 4/10 | Low support. |
+|-----------|-------|-----------|
+| Current State Assessment | 7/10 | Agree tech is vital; disagree that corporate control is the primary problem. |
+| Root Cause Agreement | 6/10 | Blame regulation for high costs, not consolidation. |
+
+**Source references:**
+
+- American Enterprise Institute.
+- CropLife America.
+
+#### Solution Evaluations
+
+| Solution | Score | Stated Position | Underlying Concerns |
+|----------|-------|-----------------|---------------------|
+| Data Ownership | 8/10 | Support; data is property. | Protecting assets. |
+| Public Research | 5/10 | Mixed; support basic research, oppose "picking winners." | Government waste. |
+| Open Source | 3/10 | Skeptical; undermines IP incentives. | Profit motive. |
+
+#### Legislation Evaluations
+
+| Bill | Score | Stated Position | Underlying Concerns |
+|------|-------|-----------------|---------------------|
+| Data Rights Act | 7/10 | Support property rights aspect. | Regulation of business. |
+| Precision Ag Act | 6/10 | Support grants; dislike equity mandates. | Efficiency. |
 
 #### Alternative Proposals
 
-- Use tax credits for precision equipment adoption.
-- State-led data governance compacts instead of federal mandates.
+- Tax credits for precision ag equipment.
+- Stronger patent enforcement abroad.
+- Voluntary industry data standards.
 
 #### Coalition Potential
 
-- Natural allies: Centrist, Constitutionalist.
-- Bridges: Populist on rural investment.
-- Unlikely partners: Democratic Socialist.
+- **Natural allies:** Libertarians, Centrists.
+- **Potential bridges:** Populists (on Right to Repair).
+- **Unlikely partners:** Progressives.
+
+---
 
 ### Liberal Perspective
 
 #### Engagement Consistency Assessment
 
-**Score: 4/5 - Mostly Consistent**
+**Score: 5/5 - Highly Consistent**
 
 | Indicator | Assessment |
-| --- | --- |
-| Stated vs actual motivations | Emphasizes equity, transparency, and public investment. |
-| Principle consistency | Stable on accountability. |
-| Goalpost stability | Low. |
+|-----------|------------|
+| Stated vs actual motivations | Consistent focus on equity and public good. |
+| Principle consistency | Consistently supports government role in research and access. |
+| Goalpost stability | Stable. |
 | Zero-sum behavior | Low. |
+
+**Justification:** Liberals view the "digital divide" and corporate control of research as market failures. They support robust public funding and regulation to ensure technology benefits everyone.
+
+**Evidence for assessment:**
+
+- Democratic support for rural broadband.
+- Union of Concerned Scientists reports.
 
 #### Position Scores
 
 | Dimension | Score | Reasoning |
-| --- | --- | --- |
-| Current State Assessment | 7/10 | Aligns with access and data governance gaps. |
-| Root Cause Agreement | 7/10 | Agrees on capacity and standards issues. |
-| Solution 1: Innovation and Extension Acceleration | 8/10 | Strong support. |
-| Solution 2: Data Rights and Interoperability | 8/10 | Strong support with privacy safeguards. |
-| Solution 3: Precision Access Grants | 8/10 | Supports equity. |
-| Solution 4: AI Assurance Framework | 7/10 | Supports transparency. |
-| Bill 1: Innovation and Extension Act | 8/10 | Core policy. |
-| Bill 2: Data Rights Act | 8/10 | Strong support. |
-| Bill 3: Precision Access Act | 8/10 | Strong support. |
-| Bill 4: AI Assurance Act | 7/10 | Supportive. |
+|-----------|-------|-----------|
+| Current State Assessment | 9/10 | Agree on digital divide and privatization risks. |
+| Root Cause Agreement | 9/10 | Agree on decline of public research. |
+
+**Source references:**
+
+- Center for American Progress.
+- National Sustainable Agriculture Coalition.
+
+#### Solution Evaluations
+
+| Solution | Score | Stated Position | Underlying Concerns |
+|----------|-------|-----------------|---------------------|
+| Public Research | 10/10 | Strong support. | Climate/Public good. |
+| Equity Grants | 10/10 | Strong support. | Access. |
+| Data Regulation | 9/10 | Support; privacy protection. | Corporate power. |
+
+#### Legislation Evaluations
+
+| Bill | Score | Stated Position | Underlying Concerns |
+|------|-------|-----------------|---------------------|
+| Public Research Act | 10/10 | Full support. | Science. |
+| Precision Ag Act | 10/10 | Full support. | Equity. |
 
 #### Alternative Proposals
 
-- Require public dashboards for federally funded ag tech outcomes.
-- Expand broadband and digital literacy programs.
+- Algorithmic accountability laws.
+- Digital equity offices in USDA.
+- Climate-focused R&D mandates.
 
 #### Coalition Potential
 
-- Natural allies: Progressive, Centrist.
-- Bridges: Conservative on innovation. |
-- Unlikely partners: Libertarian on data mandates.
+- **Natural allies:** Progressives, Centrists.
+- **Potential bridges:** Populists (on anti-monopoly).
+- **Unlikely partners:** Libertarians.
+
+---
 
 ### Progressive Perspective
 
 #### Engagement Consistency Assessment
 
-**Score: 4/5 - Mostly Consistent**
+**Score: 5/5 - Highly Consistent**
 
 | Indicator | Assessment |
-| --- | --- |
-| Stated vs actual motivations | Focus on equity, labor impacts, and corporate accountability. |
-| Principle consistency | High on accountability and redistribution. |
-| Goalpost stability | Moderate. |
-| Zero-sum behavior | Low to moderate. |
+|-----------|------------|
+| Stated vs actual motivations | Consistent anti-corporate focus. |
+| Principle consistency | Consistently opposes patenting of life/seeds. |
+| Goalpost stability | Stable. |
+| Zero-sum behavior | Public vs. Corporate. |
+
+**Justification:** Progressives view the current ag-tech landscape as a system of extraction and surveillance. They want to decommodify seeds and data, promoting open-source alternatives.
+
+**Evidence for assessment:**
+
+- Open Source Seed Initiative.
+- Food & Water Watch.
 
 #### Position Scores
 
 | Dimension | Score | Reasoning |
-| --- | --- | --- |
-| Current State Assessment | 8/10 | Strong alignment with adoption inequities. |
-| Root Cause Agreement | 8/10 | Agrees on market concentration and data gaps. |
-| Solution 1: Innovation and Extension Acceleration | 8/10 | Supports with equity targets. |
-| Solution 2: Data Rights and Interoperability | 9/10 | High priority. |
-| Solution 3: Precision Access Grants | 9/10 | High priority. |
-| Solution 4: AI Assurance Framework | 8/10 | Supports to protect workers and farmers. |
-| Bill 1: Innovation and Extension Act | 8/10 | Supportive. |
-| Bill 2: Data Rights Act | 9/10 | Strong support. |
-| Bill 3: Precision Access Act | 9/10 | Strong support. |
-| Bill 4: AI Assurance Act | 8/10 | Supportive. |
+|-----------|-------|-----------|
+| Current State Assessment | 10/10 | Fully agree; emphasize surveillance capitalism. |
+| Root Cause Agreement | 10/10 | Agree; corporate capture of science. |
+
+**Source references:**
+
+- ETC Group.
+- Civil Eats.
+
+#### Solution Evaluations
+
+| Solution | Score | Stated Position | Underlying Concerns |
+|----------|-------|-----------------|---------------------|
+| Open Source Seeds | 10/10 | Core priority. | Seed sovereignty. |
+| Data Sovereignty | 10/10 | Strong support. | Surveillance. |
+| Public Research | 9/10 | Support, if not captured by corporate partnerships. | Corporate influence. |
+
+#### Legislation Evaluations
+
+| Bill | Score | Stated Position | Underlying Concerns |
+|------|-------|-----------------|---------------------|
+| Data Rights Act | 9/10 | Support. | Power dynamics. |
+| Public Research Act | 10/10 | Support IP prohibitions. | Decommodification. |
 
 #### Alternative Proposals
 
-- Stronger labor standards for automation-driven adoption.
-- Public ownership of key data infrastructure.
+- Ban utility patents on seeds.
+- Ban algorithmic price discrimination.
+- Public ownership of data infrastructure.
 
 #### Coalition Potential
 
-- Natural allies: Liberal, Democratic Socialist.
-- Bridges: Populist on corporate accountability.
-- Unlikely partners: Libertarian.
+- **Natural allies:** Liberals, Democratic Socialists.
+- **Potential bridges:** Populists (on Right to Repair/Data).
+- **Unlikely partners:** Conservatives.
+
+---
 
 ### Libertarian Perspective
 
@@ -140,115 +261,178 @@
 **Score: 4/5 - Mostly Consistent**
 
 | Indicator | Assessment |
-| --- | --- |
-| Stated vs actual motivations | Emphasizes property rights and minimal regulation. |
-| Principle consistency | Stable on deregulation. |
-| Goalpost stability | Moderate. |
-| Zero-sum behavior | Low. |
+|-----------|------------|
+| Stated vs actual motivations | Consistent focus on property rights. |
+| Principle consistency | Split on IP: some view patents as government monopolies, others as property. |
+| Goalpost stability | Stable. |
+| Zero-sum behavior | State vs. Market. |
+
+**Justification:** Libertarians strongly support Right to Repair (property rights) but oppose government grants for technology adoption (subsidies). They are divided on intellectual property.
+
+**Evidence for assessment:**
+
+- Electronic Frontier Foundation (Right to Repair).
+- Cato Institute (against subsidies).
 
 #### Position Scores
 
 | Dimension | Score | Reasoning |
-| --- | --- | --- |
-| Current State Assessment | 5/10 | Acknowledges gaps but prefers private solutions. |
-| Root Cause Agreement | 4/10 | Disagrees with policy intervention framing. |
-| Solution 1: Innovation and Extension Acceleration | 4/10 | Skeptical of public funding. |
-| Solution 2: Data Rights and Interoperability | 4/10 | Supports data rights but not mandates. |
-| Solution 3: Precision Access Grants | 4/10 | Limited support. |
-| Solution 4: AI Assurance Framework | 3/10 | Opposes federal AI rules. |
-| Bill 1: Innovation and Extension Act | 4/10 | Limited support. |
-| Bill 2: Data Rights Act | 4/10 | Limited support. |
-| Bill 3: Precision Access Act | 4/10 | Limited support. |
-| Bill 4: AI Assurance Act | 3/10 | Opposes. |
+|-----------|-------|-----------|
+| Current State Assessment | 5/10 | Agree on Right to Repair; disagree on "equity" gaps. |
+| Root Cause Agreement | 4/10 | Blame IP laws (government monopoly), not "capitalism." |
+
+**Source references:**
+
+- Reason Foundation.
+- TechFreedom.
+
+#### Solution Evaluations
+
+| Solution | Score | Stated Position | Underlying Concerns |
+|----------|-------|-----------------|---------------------|
+| Tech Grants | 1/10 | Strong opposition. | Corporate welfare. |
+| Data Ownership | 8/10 | Support as contract/property right. | Property rights. |
+| Public Research | 2/10 | Oppose; private sector should do it. | Government waste. |
+
+#### Legislation Evaluations
+
+| Bill | Score | Stated Position | Underlying Concerns |
+|------|-------|-----------------|---------------------|
+| Precision Ag Act | 1/10 | Oppose spending. | Subsidies. |
+| Data Rights Act | 6/10 | Mixed; dislike regulation, like property definition. | Freedom of contract. |
 
 #### Alternative Proposals
 
-- Deregulate precision tool licensing and reduce compliance overhead.
-- Promote private data standards through industry coalitions.
+- Abolish or shorten patent terms.
+- Enforce contracts strictly.
+- Remove regulatory barriers to drone use.
 
 #### Coalition Potential
 
-- Natural allies: Constitutionalist.
-- Bridges: Conservative on deregulation.
-- Unlikely partners: Progressive, Democratic Socialist.
+- **Natural allies:** Conservatives (fiscal).
+- **Potential bridges:** Progressives (on IP reform/Right to Repair).
+- **Unlikely partners:** Liberals, Centrists.
+
+---
 
 ### Constitutionalist Perspective
 
 #### Engagement Consistency Assessment
 
-**Score: 3/5 - Mixed Consistency**
+**Score: 4/5 - Mostly Consistent**
 
 | Indicator | Assessment |
-| --- | --- |
-| Stated vs actual motivations | Emphasizes state primacy and limits on federal mandates. |
-| Principle consistency | Consistent on federalism. |
-| Goalpost stability | Moderate. |
-| Zero-sum behavior | Moderate. |
+|-----------|------------|
+| Stated vs actual motivations | Focus on enumerated powers. |
+| Principle consistency | Consistent preference for private property. |
+| Goalpost stability | Stable. |
+| Zero-sum behavior | Federal vs. State. |
+
+**Justification:** Constitutionalists view data as property and support protecting it from theft. They are skeptical of federal research spending not explicitly authorized.
+
+**Evidence for assessment:**
+
+- Federalist Society IP debates.
 
 #### Position Scores
 
 | Dimension | Score | Reasoning |
-| --- | --- | --- |
-| Current State Assessment | 5/10 | Accepts innovation gaps but prefers state control. |
-| Root Cause Agreement | 5/10 | Mixed on data governance framing. |
-| Solution 1: Innovation and Extension Acceleration | 5/10 | Supports if state-led. |
-| Solution 2: Data Rights and Interoperability | 5/10 | Supports state standards. |
-| Solution 3: Precision Access Grants | 5/10 | Acceptable with state administration. |
-| Solution 4: AI Assurance Framework | 4/10 | Skeptical of federal AI rules. |
-| Bill 1: Innovation and Extension Act | 5/10 | Acceptable with state control. |
-| Bill 2: Data Rights Act | 5/10 | Acceptable if opt-in. |
-| Bill 3: Precision Access Act | 5/10 | Acceptable. |
-| Bill 4: AI Assurance Act | 4/10 | Limited support. |
+|-----------|-------|-----------|
+| Current State Assessment | 5/10 | Concerned about property rights erosion. |
+| Root Cause Agreement | 4/10 | Blame departure from common law property. |
+
+**Source references:**
+
+- Heritage Foundation (Legal).
+
+#### Solution Evaluations
+
+| Solution | Score | Stated Position | Underlying Concerns |
+|----------|-------|-----------------|---------------------|
+| Data Ownership | 9/10 | Strong support; defines property. | 5th Amendment. |
+| Federal Grants | 3/10 | Oppose; not a federal role. | Enumerated powers. |
+| Right to Repair | 7/10 | Support; ownership implies right to modify. | Property rights. |
+
+#### Legislation Evaluations
+
+| Bill | Score | Stated Position | Underlying Concerns |
+|------|-------|-----------------|---------------------|
+| Data Rights Act | 8/10 | Support. | Property definition. |
+| Public Research Act | 3/10 | Oppose spending. | Limited government. |
 
 #### Alternative Proposals
 
-- State compacts for data governance and innovation pilots.
-- Block grants for extension staffing.
+- Strengthen trade secret laws.
+- State-level property definitions.
 
 #### Coalition Potential
 
-- Natural allies: Conservative, Libertarian.
-- Bridges: Populist on rural control.
-- Unlikely partners: Democratic Socialist.
+- **Natural allies:** Conservatives, Libertarians.
+- **Potential bridges:** Populists.
+- **Unlikely partners:** Liberals.
+
+---
 
 ### Populist Perspective
 
 #### Engagement Consistency Assessment
 
-**Score: 3/5 - Mixed Consistency**
+**Score: 4/5 - Mostly Consistent**
 
 | Indicator | Assessment |
-| --- | --- |
-| Stated vs actual motivations | Focus on corporate power and rural opportunity. |
-| Principle consistency | Mixed; supports intervention when anti-corporate. |
-| Goalpost stability | Moderate. |
-| Zero-sum behavior | Moderate. |
+|-----------|------------|
+| Stated vs actual motivations | Anti-corporate/pro-farmer. |
+| Principle consistency | Consistent support for "the little guy" vs. Big Tech/Ag. |
+| Goalpost stability | Stable. |
+| Zero-sum behavior | Farmers vs. Corporations. |
+
+**Justification:** Populists are the strongest supporters of Right to Repair and data sovereignty. They view John Deere and Bayer as threats to farmer independence.
+
+**Evidence for assessment:**
+
+- "Tractor hacking" movement.
+- Senator Hawley/Vance on Big Tech.
 
 #### Position Scores
 
 | Dimension | Score | Reasoning |
-| --- | --- | --- |
-| Current State Assessment | 7/10 | Aligns with adoption inequality. |
-| Root Cause Agreement | 6/10 | Agrees on concentration and access gaps. |
-| Solution 1: Innovation and Extension Acceleration | 7/10 | Supports if rural-focused. |
-| Solution 2: Data Rights and Interoperability | 7/10 | Supports farmer control. |
-| Solution 3: Precision Access Grants | 7/10 | Supports small farm access. |
-| Solution 4: AI Assurance Framework | 6/10 | Supports if corporate accountability. |
-| Bill 1: Innovation and Extension Act | 7/10 | Supportive. |
-| Bill 2: Data Rights Act | 7/10 | Supportive. |
-| Bill 3: Precision Access Act | 7/10 | Supportive. |
-| Bill 4: AI Assurance Act | 6/10 | Supportive. |
+|-----------|-------|-----------|
+| Current State Assessment | 9/10 | Agree system is rigged by tech monopolies. |
+| Root Cause Agreement | 8/10 | Blame corporate greed and IP laws. |
+
+**Source references:**
+
+- American Compass.
+- Farm Action.
+
+#### Solution Evaluations
+
+| Solution | Score | Stated Position | Underlying Concerns |
+|----------|-------|-----------------|---------------------|
+| Right to Repair | 10/10 | Core demand. | Independence. |
+| Data Ownership | 10/10 | Strong support. | Sovereignty. |
+| Public Research | 7/10 | Support if it helps farmers, not corps. | National interest. |
+
+#### Legislation Evaluations
+
+| Bill | Score | Stated Position | Underlying Concerns |
+|------|-------|-----------------|---------------------|
+| Data Rights Act | 10/10 | Full support. | Fighting elites. |
+| Precision Ag Act | 8/10 | Support helping small farms. | Fairness. |
 
 #### Alternative Proposals
 
-- Antitrust action against agritech consolidation.
-- Rural-owned data cooperatives.
+- Break up John Deere/Bayer.
+- Ban data collection by foreign entities.
+- Mandate interoperability.
 
 #### Coalition Potential
 
-- Natural allies: Progressive on corporate accountability, Conservative on rural investment.
-- Bridges: Centrist on delivery.
-- Unlikely partners: Libertarian.
+- **Natural allies:** Progressives.
+- **Potential bridges:** Conservatives (on property rights).
+- **Unlikely partners:** Corporate Centrists.
+
+---
 
 ### Centrist Perspective
 
@@ -257,37 +441,59 @@
 **Score: 4/5 - Mostly Consistent**
 
 | Indicator | Assessment |
-| --- | --- |
-| Stated vs actual motivations | Balances innovation with accountability. |
-| Principle consistency | Stable on evidence-based policy. |
-| Goalpost stability | Low. |
-| Zero-sum behavior | Low. |
+|-----------|------------|
+| Stated vs actual motivations | Focus on efficiency and growth. |
+| Principle consistency | Consistent preference for public-private partnerships. |
+| Goalpost stability | Stable. |
+| Zero-sum behavior | Low; seeks win-win. |
+
+**Justification:** Centrists believe technology is the key to feeding the world. They support R&D funding and adoption incentives but are wary of undermining IP rights that drive private investment.
+
+**Evidence for assessment:**
+
+- Bipartisan Policy Center.
+- Association of Public and Land-grant Universities (APLU).
 
 #### Position Scores
 
 | Dimension | Score | Reasoning |
-| --- | --- | --- |
-| Current State Assessment | 7/10 | Accepts adoption gaps. |
-| Root Cause Agreement | 6/10 | Agrees on standards and capacity issues. |
-| Solution 1: Innovation and Extension Acceleration | 7/10 | Supports with metrics. |
-| Solution 2: Data Rights and Interoperability | 7/10 | Supports with privacy safeguards. |
-| Solution 3: Precision Access Grants | 7/10 | Supports targeted access. |
-| Solution 4: AI Assurance Framework | 6/10 | Supports guardrails. |
-| Bill 1: Innovation and Extension Act | 7/10 | Supportive. |
-| Bill 2: Data Rights Act | 7/10 | Supportive. |
-| Bill 3: Precision Access Act | 7/10 | Supportive. |
-| Bill 4: AI Assurance Act | 6/10 | Supportive. |
+|-----------|-------|-----------|
+| Current State Assessment | 7/10 | Agree on need for innovation; worry about adoption gaps. |
+| Root Cause Agreement | 6/10 | See it as underinvestment, not systemic failure. |
+
+**Source references:**
+
+- Brookings Institution.
+- Council on Agricultural Science and Technology (CAST).
+
+#### Solution Evaluations
+
+| Solution | Score | Stated Position | Underlying Concerns |
+|----------|-------|-----------------|---------------------|
+| Public Research | 9/10 | Strong support; innovation engine. | Competitiveness. |
+| Tech Grants | 8/10 | Support; adoption is good. | Efficiency. |
+| Data Regulation | 5/10 | Mixed; support standards, wary of heavy regulation. | Innovation stifling. |
+
+#### Legislation Evaluations
+
+| Bill | Score | Stated Position | Underlying Concerns |
+|------|-------|-----------------|---------------------|
+| Public Research Act | 9/10 | Support. | Global leadership. |
+| Precision Ag Act | 8/10 | Support. | Modernization. |
 
 #### Alternative Proposals
 
-- Tie innovation grants to adoption and equity outcomes.
-- Establish independent data governance oversight boards.
+- Public-private R&D consortia.
+- Broadband expansion.
+- Voluntary data clearinghouses.
 
 #### Coalition Potential
 
-- Natural allies: Liberal, Conservative.
-- Bridges: Populist on rural outcomes.
-- Unlikely partners: Libertarian on federal role.
+- **Natural allies:** Liberals, Moderate Conservatives.
+- **Potential bridges:** Corporate sector.
+- **Unlikely partners:** Populists, Socialists.
+
+---
 
 ### Religious Right Perspective
 
@@ -296,200 +502,298 @@
 **Score: 4/5 - Mostly Consistent**
 
 | Indicator | Assessment |
-| --- | --- |
-| Stated vs actual motivations | Focus on stewardship and family farm viability. |
-| Principle consistency | Stable on community-focused solutions. |
-| Goalpost stability | Low. |
-| Zero-sum behavior | Low. |
+|-----------|------------|
+| Stated vs actual motivations | Focus on stewardship and human dignity. |
+| Principle consistency | Consistent support for family farms; mixed on GMOs/tech. |
+| Goalpost stability | Stable. |
+| Zero-sum behavior | Mixed. |
+
+**Justification:** The Religious Right evaluates technology based on whether it supports or undermines the family farm and stewardship. They are skeptical of technology that treats life as a mere commodity.
+
+**Evidence for assessment:**
+
+- Catholic Rural Life.
+- ERLC.
 
 #### Position Scores
 
 | Dimension | Score | Reasoning |
-| --- | --- | --- |
-| Current State Assessment | 6/10 | Recognizes adoption challenges. |
-| Root Cause Agreement | 5/10 | Mixed on data governance. |
-| Solution 1: Innovation and Extension Acceleration | 6/10 | Supports for community benefit. |
-| Solution 2: Data Rights and Interoperability | 6/10 | Supports if farmer-controlled. |
-| Solution 3: Precision Access Grants | 6/10 | Supports small farm access. |
-| Solution 4: AI Assurance Framework | 5/10 | Supports with limits. |
-| Bill 1: Innovation and Extension Act | 6/10 | Supportive. |
-| Bill 2: Data Rights Act | 6/10 | Supportive. |
-| Bill 3: Precision Access Act | 6/10 | Supportive. |
-| Bill 4: AI Assurance Act | 5/10 | Supportive. |
+|-----------|-------|-----------|
+| Current State Assessment | 6/10 | Concerned about tech replacing people. |
+| Root Cause Agreement | 5/10 | Blame hubris/greed. |
+
+**Source references:**
+
+- Christianity Today.
+
+#### Solution Evaluations
+
+| Solution | Score | Stated Position | Underlying Concerns |
+|----------|-------|-----------------|---------------------|
+| Right to Repair | 9/10 | Support; stewardship of tools. | Self-reliance. |
+| Public Research | 6/10 | Support if it helps families. | Common good. |
+| Data Privacy | 8/10 | Support; privacy is a right. | Dignity. |
+
+#### Legislation Evaluations
+
+| Bill | Score | Stated Position | Underlying Concerns |
+|------|-------|-----------------|---------------------|
+| Data Rights Act | 8/10 | Support. | Protection. |
+| Precision Ag Act | 7/10 | Support. | Family farm survival. |
 
 #### Alternative Proposals
 
-- Expand faith-based partnerships for technology training.
-- Prioritize community demonstration farms for innovation pilots.
+- Ethical guidelines for bio-engineering.
+- Support for appropriate/low-tech farming.
 
 #### Coalition Potential
 
-- Natural allies: Conservative, Centrist.
-- Bridges: Progressive on community stability.
-- Unlikely partners: Libertarian on public spending.
+- **Natural allies:** Conservatives, Populists.
+- **Potential bridges:** Progressives (on ethics).
+- **Unlikely partners:** Technocrats.
+
+---
 
 ### Democratic Socialist Perspective
 
 #### Engagement Consistency Assessment
 
-**Score: 4/5 - Mostly Consistent**
+**Score: 5/5 - Highly Consistent**
 
 | Indicator | Assessment |
-| --- | --- |
-| Stated vs actual motivations | Emphasizes public investment and equity. |
-| Principle consistency | High on redistribution and public oversight. |
-| Goalpost stability | Moderate. |
-| Zero-sum behavior | Low to moderate. |
+|-----------|------------|
+| Stated vs actual motivations | Focus on public ownership and knowledge commons. |
+| Principle consistency | Consistent. |
+| Goalpost stability | Stable. |
+| Zero-sum behavior | Public vs. Private. |
+
+**Justification:** Democratic Socialists view agricultural knowledge as a commons. They oppose the privatization of life (seeds) and data. They support public breeding and open source technology.
+
+**Evidence for assessment:**
+
+- DSA Agrarian Working Group.
+- Jacobin.
 
 #### Position Scores
 
 | Dimension | Score | Reasoning |
-| --- | --- | --- |
-| Current State Assessment | 8/10 | Aligns with adoption inequities. |
-| Root Cause Agreement | 8/10 | Agrees on market concentration and access gaps. |
-| Solution 1: Innovation and Extension Acceleration | 9/10 | Strong support. |
-| Solution 2: Data Rights and Interoperability | 9/10 | High priority. |
-| Solution 3: Precision Access Grants | 9/10 | High priority. |
-| Solution 4: AI Assurance Framework | 8/10 | Supports public safeguards. |
-| Bill 1: Innovation and Extension Act | 9/10 | Strong support. |
-| Bill 2: Data Rights Act | 9/10 | Strong support. |
-| Bill 3: Precision Access Act | 9/10 | Strong support. |
-| Bill 4: AI Assurance Act | 8/10 | Supportive. |
+|-----------|-------|-----------|
+| Current State Assessment | 10/10 | Agree; tech is used to exploit labor/nature. |
+| Root Cause Agreement | 10/10 | Agree; private property in knowledge is the problem. |
+
+**Source references:**
+
+- Monthly Review.
+
+#### Solution Evaluations
+
+| Solution | Score | Stated Position | Underlying Concerns |
+|----------|-------|-----------------|---------------------|
+| Open Source Seeds | 10/10 | Strong support. | Decommodification. |
+| Public Research | 10/10 | Strong support; end corporate subsidies. | Public good. |
+| Data Ownership | 8/10 | Support, but prefer collective/public data trusts. | Collective power. |
+
+#### Legislation Evaluations
+
+| Bill | Score | Stated Position | Underlying Concerns |
+|------|-------|-----------------|---------------------|
+| Public Research Act | 10/10 | Support IP bans. | Anti-capitalist. |
+| Data Rights Act | 8/10 | Support. | Worker rights. |
 
 #### Alternative Proposals
 
-- Public ownership of core ag data infrastructure.
-- Universal access grants for precision tools.
+- Abolish seed patents entirely.
+- Nationalize agricultural data platforms.
+- Technology assessment boards (worker veto).
 
 #### Coalition Potential
 
-- Natural allies: Progressive, Liberal.
-- Bridges: Populist on corporate accountability.
-- Unlikely partners: Libertarian.
+- **Natural allies:** Progressives.
+- **Potential bridges:** Populists (on anti-corporate).
+- **Unlikely partners:** Everyone else.
+
+---
 
 ## Summary Tables
 
-### Legislation Status Reference
+### Master Comparison
 
-| Bill | Type | Current Status | Last Action |
-| --- | --- | --- | --- |
-| Agricultural Innovation and Extension Acceleration Act | Model federal bill | Draft concept | Not introduced (model language) |
-| Farm Data Rights and Interoperability Act | Model federal bill | Draft concept | Not introduced (model language) |
-| Precision Access and Equipment Sharing Act | Model federal bill | Draft concept | Not introduced (model language) |
-| Agricultural AI Assurance and Transparency Act | Model federal bill | Draft concept | Not introduced (model language) |
-
-### Master Comparison Table
-
-| Perspective | Consistency | Current State | Root Causes | Avg Solution Support | Avg Bill Support |
-| --- | --- | --- | --- | --- | --- |
-| Conservative | 4 | 6 | 5 | 5.3 | 5.3 |
-| Liberal | 4 | 7 | 7 | 7.5 | 7.5 |
-| Progressive | 4 | 8 | 8 | 8.5 | 8.5 |
-| Libertarian | 4 | 5 | 4 | 3.8 | 3.8 |
-| Constitutionalist | 3 | 5 | 5 | 4.8 | 4.8 |
-| Populist | 3 | 7 | 6 | 6.8 | 6.8 |
-| Centrist | 4 | 7 | 6 | 6.8 | 6.8 |
-| Religious Right | 4 | 6 | 5 | 5.8 | 5.8 |
-| Democratic Socialist | 4 | 8 | 8 | 8.8 | 8.8 |
+| Perspective | Consistency | Current State | Root Causes | Solutions Avg | Legislation Avg |
+|-------------|-------------|---------------|-------------|---------------|-----------------|
+| Conservative | 4/5 | 7/10 | 6/10 | 5.3/10 | 6.5/10 |
+| Liberal | 5/5 | 9/10 | 9/10 | 9.6/10 | 10/10 |
+| Progressive | 5/5 | 10/10 | 10/10 | 9.6/10 | 9.5/10 |
+| Libertarian | 5/5 | 5/10 | 4/10 | 3.6/10 | 3.5/10 |
+| Constitutionalist | 4/5 | 5/10 | 4/10 | 6.3/10 | 5.5/10 |
+| Populist | 4/5 | 9/10 | 8/10 | 9/10 | 9/10 |
+| Centrist | 4/5 | 7/10 | 6/10 | 7.3/10 | 8.5/10 |
+| Religious Right | 4/5 | 6/10 | 5/10 | 7.6/10 | 7.5/10 |
+| Democratic Socialist | 5/5 | 10/10 | 10/10 | 9.3/10 | 9/10 |
 
 ### Solution Support Matrix
 
-| Perspective | S1 Innovation + Extension | S2 Data Rights | S3 Precision Access | S4 AI Assurance |
-| --- | --- | --- | --- | --- |
-| Conservative | 6 | 5 | 6 | 4 |
-| Liberal | 8 | 8 | 8 | 7 |
-| Progressive | 8 | 9 | 9 | 8 |
-| Libertarian | 4 | 4 | 4 | 3 |
-| Constitutionalist | 5 | 5 | 5 | 4 |
-| Populist | 7 | 7 | 7 | 6 |
-| Centrist | 7 | 7 | 7 | 6 |
-| Religious Right | 6 | 6 | 6 | 5 |
-| Democratic Socialist | 9 | 9 | 9 | 8 |
+| Solution | Con | Lib | Prog | Libt | Const | Pop | Cent | RelR | DemSoc |
+|----------|-----|-----|------|------|-------|-----|------|------|--------|
+| Data Rights | 8 | 9 | 10 | 8 | 9 | 10 | 5 | 8 | 8 |
+| Public R&D | 5 | 10 | 9 | 2 | 3 | 7 | 9 | 6 | 10 |
+| Open Source | 3 | 10 | 10 | 6 | 5 | 9 | 7 | 7 | 10 |
 
 ### Legislation Support Matrix
 
-| Perspective | B1 Innovation Act | B2 Data Rights Act | B3 Precision Access Act | B4 AI Assurance Act |
-| --- | --- | --- | --- | --- |
-| Conservative | 6 | 5 | 6 | 4 |
-| Liberal | 8 | 8 | 8 | 7 |
-| Progressive | 8 | 9 | 9 | 8 |
-| Libertarian | 4 | 4 | 4 | 3 |
-| Constitutionalist | 5 | 5 | 5 | 4 |
-| Populist | 7 | 7 | 7 | 6 |
-| Centrist | 7 | 7 | 7 | 6 |
-| Religious Right | 6 | 6 | 6 | 5 |
-| Democratic Socialist | 9 | 9 | 9 | 8 |
+| Bill | Con | Lib | Prog | Libt | Const | Pop | Cent | RelR | DemSoc |
+|------|-----|-----|------|------|-------|-----|------|------|--------|
+| Data Act | 7 | 9 | 9 | 6 | 8 | 10 | 7 | 8 | 8 |
+| Research Act | 5 | 10 | 10 | 2 | 3 | 8 | 9 | 7 | 10 |
 
 ### Engagement Consistency Distribution
 
-| Consistency | Perspectives |
-| --- | --- |
-| 4 (Mostly Consistent) | Conservative, Liberal, Progressive, Libertarian, Centrist, Religious Right, Democratic Socialist |
-| 3 (Mixed Consistency) | Constitutionalist, Populist |
-| 2 or 1 | None |
+| Level | Count | Perspectives |
+|-------|-------|--------------|
+| 5 - Highly Consistent | 4 | Liberal, Progressive, Libertarian, DemSoc |
+| 4 - Mostly Consistent | 5 | Conservative, Constitutionalist, Populist, Centrist, Religious Right |
+| 3 - Mixed Consistency | 0 | - |
+| 2 - Low Consistency | 0 | - |
+| 1 - Unpredictable | 0 | - |
 
 ### Common Ground Synthesis
 
-| Item | Support Profile | Notes |
-| --- | --- | --- |
-| S1 Innovation + Extension | Broad (5-9) | Highest agreement due to local benefits. |
-| S2 Data Rights | Broad (4-9) | Support improves with privacy safeguards. |
-| S3 Precision Access | Broad (4-9) | Strong support for equity gains. |
-| S4 AI Assurance | Broad (3-8) | Most contested due to regulation fears. |
-| B1 Innovation Act | Broad (5-9) | Strong support with metrics. |
-| B2 Data Rights Act | Broad (4-9) | Support grows with opt-in standards. |
-| B3 Precision Access Act | Broad (4-9) | Broad support. |
-| B4 AI Assurance Act | Broad (3-8) | Support if limited scope. |
+| Reform Category | Broad Support (5+) | Narrow Support (3-4) | Structural Opposition |
+|-----------------|-------------------|---------------------|----------------------|
+| **Data Ownership** | Con, Lib, Prog, Libt, Const, Pop, RelR, DemSoc | Cent | - |
+| **Right to Repair** | Con, Lib, Prog, Libt, Const, Pop, RelR, DemSoc | Cent (Corp) | - |
+| **Public Research** | Lib, Prog, Pop, Cent, RelR, DemSoc | Con | Libt, Const |
+
+**Key insight:** Data Ownership and Right to Repair have massive "Horseshoe" support (Left + Right vs. Center/Corporate). Public Research splits along traditional ideological lines (Big Gov vs. Small Gov).
+
+---
 
 ## Compromise Proposals
 
-### Compromise 1: Extension and Access First
+### Compromise 1: The "Farmer Data Bill of Rights"
 
-- **Bridges**: Conservative, Centrist, Liberal
-- **Core agreement**: Expand extension and equipment access without heavy mandates.
-- **Policy**: Fund extension staffing and precision access grants, delay data mandates.
-- **Concessions**: Reformers accept sequencing; conservatives accept funding.
-- **Viability**: High; strong shared benefit.
+**Bridges:** Conservative + Progressive + Libertarian + Populist
 
-### Compromise 2: Data Rights with Opt-In Portability
+**Core Agreement:** Farmers own their data; corporations shouldn't steal it.
 
-- **Bridges**: Conservative, Centrist, Liberal
-- **Core agreement**: Protect farmer data while avoiding coercive mandates.
-- **Policy**: Opt-in portability standards with incentives for compliant platforms.
-- **Concessions**: Reformers accept opt-in; skeptics accept baseline standards.
-- **Viability**: Medium-high; depends on industry buy-in.
+**Policy Description:**
 
-### Compromise 3: AI Assurance Pilots
+Establishes clear statutory property rights for agricultural data generated on-farm. Prohibits equipment manufacturers from restricting access to this data or using it for trading without consent. It frames data protection as a property right (appealing to Right) and anti-exploitation (appealing to Left).
 
-- **Bridges**: Centrist, Progressive, Populist
-- **Core agreement**: Test AI governance without freezing innovation.
-- **Policy**: Pilot audits and disclosures for USDA-funded tools first.
-- **Concessions**: Reformers accept pilots; industry accepts limited audits.
-- **Viability**: Medium; hinges on governance design.
+**Concern Mapping:**
+
+| Perspective | How This Addresses Their Concerns |
+|-------------|-----------------------------------|
+| Conservative | Protects property; prevents theft. |
+| Progressive | Checks corporate power; protects privacy. |
+| Libertarian | Enforces contracts/property rights. |
+
+**Concessions:**
+
+| Perspective | What They Give Up |
+|-------------|-------------------|
+| Progressive | Accepts data commodification (it's property). |
+| Conservative | Accepts federal regulation of tech contracts. |
+
+**Viability Assessment:**
+
+- **Coalition Size:** 8/9 perspectives.
+- **High Consistency Ratio:** 8/8 coalition members rated 4+ consistency.
+- **Durability:** High; aligns with broad anti-Big Tech sentiment.
+- **Implementation Path:** Standalone bill or Farm Bill title.
+
+### Compromise 2: The "Open Innovation" Partnership
+
+**Bridges:** Liberal + Centrist + Populist + Democratic Socialist
+
+**Core Agreement:** Innovation should serve the public, not just shareholders.
+
+**Policy Description:**
+
+Massive investment in public agricultural research (Land Grants/ARS) with a mandate that resulting seeds/tech remain open-source or non-exclusively licensed. It combines the "investment" appeal for Centrists/Liberals with the "anti-monopoly" appeal for Populists/Socialists.
+
+**Concern Mapping:**
+
+| Perspective | How This Addresses Their Concerns |
+|-------------|-----------------------------------|
+| Centrist | Boosts US competitiveness/productivity. |
+| Populist | Breaks dependence on Big Ag inputs. |
+| Liberal | Solves climate/environmental problems. |
+
+**Concessions:**
+
+| Perspective | What They Give Up |
+|-------------|-------------------|
+| Centrist | Accepts limits on patenting/commercialization. |
+| Populist | Accepts government spending/experts. |
+
+**Viability Assessment:**
+
+- **Coalition Size:** 5/9 perspectives.
+- **High Consistency Ratio:** 5/5 coalition members rated 4+ consistency.
+- **Durability:** Medium; funding battles are perennial.
+- **Implementation Path:** Farm Bill Research Title.
+
+### Compromise 3: The "Tech Access and Equity" Fund
+
+**Bridges:** Liberal + Centrist + Religious Right + Populist
+
+**Core Agreement:** Small farms shouldn't be left behind by technology.
+
+**Policy Description:**
+
+Provides cost-share grants and technical assistance for small/mid-sized farms to adopt precision agriculture tools. It frames this as "leveling the playing field" (Populist/Liberal) and "modernization/efficiency" (Centrist).
+
+**Concern Mapping:**
+
+| Perspective | How This Addresses Their Concerns |
+|-------------|-----------------------------------|
+| Liberal | Equity; environmental benefits of precision ag. |
+| Centrist | Technology adoption; efficiency. |
+| Religious Right | Helps family farms survive. |
+
+**Concessions:**
+
+| Perspective | What They Give Up |
+|-------------|-------------------|
+| Centrist | Subsidizes less efficient producers. |
+| Populist | Accepts high-tech farming model. |
+
+**Viability Assessment:**
+
+- **Coalition Size:** 6/9 perspectives.
+- **High Consistency Ratio:** 5/6 coalition members rated 4+ consistency.
+- **Durability:** High; popular distributive politics.
+- **Implementation Path:** Farm Bill Conservation/Credit Titles.
+
+---
 
 ## Strategic Implications
 
-- Most viable coalition centers on extension expansion and precision access grants.
-- Key obstacle is data governance mandates and AI transparency requirements.
-- Bad-faith risk appears limited; focus on pilots and farmer-controlled data rights.
-- Recommended approach: pass extension and access acts first, then phase in data rights and AI assurance.
+### Most Viable Coalition
 
-## Sources
+The **"Data Property Rights" coalition** (Compromise 1) is the strongest. It unites the entire political spectrum against a few unpopular tech/equipment giants. It frames the issue in a way that satisfies both property-rights absolutists and anti-corporate activists.
 
-- Republican National Committee platform (2024). (<https://gop.com/platform/>)
-- Democratic Party platform (2024). (<https://democrats.org/where-we-stand/party-platform/>)
-- American Farm Bureau Federation policy priorities. (<https://www.fb.org/advocacy>)
-- Heritage Foundation technology and regulatory policy briefs. (<https://www.heritage.org/markets-and-finance>)
-- Economic Policy Institute research on market concentration. (<https://www.epi.org/issue/monopoly-power/>)
-- Cato Institute regulatory policy writings. (<https://www.cato.org/research>)
-- Federalist Society publications on federalism and administrative law. (<https://fedsoc.org/>)
-- Selected America First policy statements (e.g., Senator Josh Hawley press releases). (<https://www.hawley.senate.gov/press-releases>)
-- Democratic Socialists of America platform. (<https://www.dsausa.org/dsa-political-platform-from-2021-convention/>)
-- National Catholic Rural Life Conference policy statements. (<https://catholicrurallife.org/>)
-- National Sustainable Agriculture Coalition policy resources. (<https://sustainableagriculture.net/>)
+### Key Obstacles
+
+1. **University Capture:** Land-grant universities rely on corporate funding and may resist "open source" mandates that cut into their patent royalties.
+2. **Tech Lobbying:** John Deere, Bayer, etc., have immense influence and will frame data rights as "security risks" or "innovation killers."
+3. **Complexity:** Defining "agricultural data" legally is difficult; loopholes are easy to write.
+
+### Low Consistency Partners
+
+**Conservatives** are generally reliable on property rights but can be swayed by corporate lobbying (framing IP as property). The key is to frame *farmer data* as the property being violated, trumping the *software IP* of the manufacturer.
+
+### Recommended Approach
+
+Pursue a **"Rights and Research"** strategy:
+
+1. Lead with **Data Ownership and Right to Repair** to build a massive, bipartisan populist coalition.
+2. Use that momentum to pass **Public Research Funding** as a "national security/competitiveness" measure (anti-China framing works well here).
+3. Attach **Open Source Mandates** to the funding as a "taxpayer protection" measure (public pays, public owns).
+
+---
 
 ## Document Navigation
 
 - Previous: [Legislation](11-legislation.md)
-- Next: N/A
-- Up: [Agriculture Policy Domain](../01-overview.md)
+- Up: [Agriculture](../01-overview.md)

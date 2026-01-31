@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-Nutrition and food security connects agricultural production to healthy diets, food assistance, and equitable access. This subtopic covers federal nutrition programs like SNAP, WIC, and school meals; the retail and transportation barriers that create food deserts; and how agricultural policy can steer production toward nutrient-dense crops and regional supply chains. Despite spending over $120 billion annually on food assistance, the United States still has 44 million people experiencing food insecurity, including 13 million children.
+Nutrition and food security connects agricultural production to healthy diets, food assistance, and equitable access. This subtopic covers federal nutrition programs like SNAP, WIC, and school meals; the retail and transportation barriers that create food deserts; and how agricultural policy can steer production toward nutrient-dense crops and regional supply chains. Despite spending over $150 billion annually on food assistance, the United States still has 44 million people experiencing food insecurity, including 13 million children.
 
 Ensuring food security means stabilizing supply, connecting local producers to markets, and strengthening assistance programs so low-income households can purchase healthy foods. It also requires aligning farm policy with public health goals, reducing the 30-40% of food that is wasted annually, and supporting tribal and community food systems that center sovereignty and traditional foods.
 

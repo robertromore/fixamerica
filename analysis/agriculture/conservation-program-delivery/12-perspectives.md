@@ -1,18 +1,73 @@
+---
+freshness:
+  last-reviewed: 2026-01-29
+  data-year: 2024
+  review-cycle: 12
+  sections:
+    - name: "Legislation Evaluations"
+      data-year: 2024
+    - name: "Engagement Consistency Assessment"
+      data-year: 2024
+notes:
+  - Revisit after 2026 Farm Bill debates.
+  - Monitor NRCS hiring progress.
+sources:
+  count: 18
+  verified: 2026-01-29
+  broken: 0
+---
+
 # Conservation Program Delivery: Political Perspectives Analysis
 
-## Inputs Reviewed
+## Overview
 
-- `analysis/agriculture/conservation-program-delivery/02-current-state.md`
-- `analysis/agriculture/conservation-program-delivery/04-root-causes.md`
-- `analysis/agriculture/conservation-program-delivery/07-solutions.md`
-- `analysis/agriculture/conservation-program-delivery/11-legislation.md`
-- Context check: `analysis/agriculture/conservation-program-delivery/06-opposition.md`
+The debate over conservation program delivery centers on how the government should support environmental stewardship on private land. Should it be through voluntary incentives (carrots) or regulation (sticks)? Should technical assistance be provided by public servants (NRCS) or the private sector (TSPs)? And should funding prioritize working lands (production) or land retirement (preservation)? These questions divide stakeholders not just on environmental goals, but on the fundamental role of the state in agriculture.
 
-## High-Level Takeaways
+## Perspective Definitions
 
-- Broad agreement that conservation delivery should improve outcomes and access, but disagreement on data mandates and the role of private capital.
-- Strongest cross-perspective support clusters around delivery hubs and technical assistance capacity.
-- Biggest fault lines center on third-party verification requirements and privacy concerns.
+| Perspective | Core Values | Policy Orientation |
+|-------------|-------------|-------------------|
+| Conservative | Property rights, voluntary stewardship, efficiency | Incentives over mandates, private sector delivery, working lands focus |
+| Liberal | Environmental protection, public good, government capacity | Robust public funding, climate focus, equity in access |
+| Progressive | Systemic change, corporate accountability, ecology | Mandatory compliance, end CAFO subsidies, holistic systems |
+| Libertarian | Free markets, property rights, minimal state | End subsidies, private conservation, tort law for pollution |
+| Constitutionalist | Federalism, enumerated powers | State-led conservation, limit federal land control |
+| Populist | Anti-elite, pro-farmer, nationalism | Support farmers against regulators, skepticism of "climate" mandates |
+| Centrist | Pragmatism, efficiency, partnership | Public-private partnerships, outcome-based payments, streamlining |
+| Religious Right | Stewardship, creation care, family legacy | Moral obligation to land, voluntary action, family farm support |
+| Democratic Socialist | Public goods, decommodification, sustainability | Pay farmers as public stewards (CCC model), regulate corporate extraction |
+
+## Scoring Framework
+
+### Position Scores (1-10)
+
+| Score | Meaning |
+|-------|---------|
+| 10 | Full agreement with project analysis |
+| 7-9 | Substantial to strong agreement |
+| 5-6 | Mixed/moderate agreement |
+| 3-4 | Substantial disagreement |
+| 1-2 | Strong opposition |
+
+### Engagement Consistency (1-5)
+
+| Level | Label | Indicators |
+|-------|-------|------------|
+| 5 | Highly Consistent | Stated positions reflect underlying principles; positions stable when concerns addressed |
+| 4 | Mostly Consistent | Principles generally align with positions; minor strategic flexibility |
+| 3 | Mixed Consistency | Some positions principled, others reflect coalition pressures |
+| 2 | Low Consistency | Positions shift frequently; stated concerns differ from underlying priorities |
+| 1 | Unpredictable | Positions driven primarily by opposition dynamics |
+
+### Legislation Status Reference (as of January 2026)
+
+| Bill/Amendment | Type | Current Status | Last Action |
+|----------------|------|----------------|-------------|
+| Conservation Technical Assistance Act | Federal | Proposed | Committee |
+| Working Lands Modernization Act | Federal | Proposed | Drafting |
+| CRP Reform Act | Federal | Proposed | Introduced |
+
+---
 
 ## Perspective Analyses
 
@@ -23,183 +78,300 @@
 **Score: 4/5 - Mostly Consistent**
 
 | Indicator | Assessment |
-| --- | --- |
-| Stated vs actual motivations | Emphasis on producer flexibility and limited federal mandates. |
-| Principle consistency | Stable on federalism and local control. |
-| Goalpost stability | Moderate; shifts when verification mandates expand. |
-| Zero-sum behavior | Low; open to pragmatic delivery reforms. |
+|-----------|------------|
+| Stated vs actual motivations | Consistent preference for voluntary, incentive-based programs. |
+| Principle consistency | Supports funding for farmers but opposes regulatory strings. |
+| Goalpost stability | Stable; "stewardship" is good, "regulation" is bad. |
+| Zero-sum behavior | Views environmental mandates as a threat to production. |
+
+**Justification:** Conservatives strongly support voluntary conservation programs (EQIP) as a way to help farmers improve their land without government mandates. They prefer working lands over land retirement.
+
+**Evidence for assessment:**
+
+- Farm Bureau support for EQIP funding.
+- Republican opposition to "30x30" land conservation goals.
 
 #### Position Scores
 
 | Dimension | Score | Reasoning |
-| --- | --- | --- |
-| Current State Assessment | 6/10 | Accepts delivery bottlenecks, prefers simpler rules. |
-| Root Cause Agreement | 5/10 | Agrees on bureaucracy, less on equity framing. |
-| Solution 1: Payment Ladders | 5/10 | Supports incentives if metrics stay flexible. |
-| Solution 2: Delivery Hubs | 6/10 | Supports local, service-oriented delivery. |
-| Solution 3: Capital Match & Risk Pools | 6/10 | Open if private capital leads and oversight is light. |
-| Bill 1: Modernization Act | 5/10 | Conditional on privacy safeguards. |
-| Bill 2: Equitable Access Act | 6/10 | Supports hubs, cautious on waivers. |
-| Bill 3: Capital & Risk Pooling Act | 6/10 | Accepts if voluntary and fiscally disciplined. |
+|-----------|-------|-----------|
+| Current State Assessment | 7/10 | Agree programs are bureaucratic; disagree on need for more staff (prefer private). |
+| Root Cause Agreement | 6/10 | Blame bureaucracy, not lack of funding. |
+
+**Source references:**
+
+- Heritage Foundation (ag policy).
+- American Farm Bureau Federation.
+
+#### Solution Evaluations
+
+| Solution | Score | Stated Position | Underlying Concerns |
+|----------|-------|-----------------|---------------------|
+| NRCS Hiring | 4/10 | Skeptical; prefer private TSPs. | Growing bureaucracy. |
+| TSP Streamlining | 9/10 | Strong support. | Privatization/Efficiency. |
+| CRP Grazing | 8/10 | Support; working lands use. | Production value. |
+
+#### Legislation Evaluations
+
+| Bill | Score | Stated Position | Underlying Concerns |
+|------|-------|-----------------|---------------------|
+| Tech Assistance Act | 5/10 | Support TSP parts; oppose hiring surge. | Big government. |
+| Working Lands Act | 7/10 | Support streamlining; wary of equity set-asides. | Efficiency vs. DEI. |
 
 #### Alternative Proposals
 
-- Expand conservation district authority and state-led delivery compacts.
-- Offer tax credits for verified practices instead of new federal platforms.
+- Block grant conservation funds to states.
+- Tax credits for conservation equipment.
+- Expand private sector delivery (TSPs).
 
 #### Coalition Potential
 
-- Natural allies: Centrist, Religious Right.
-- Bridges: Populist on rural capacity; Libertarian on voluntary participation.
-- Unlikely partners: Democratic Socialist.
+- **Natural allies:** Libertarians, Populists.
+- **Potential bridges:** Centrists (on efficiency).
+- **Unlikely partners:** Progressives, Environmentalists.
+
+---
 
 ### Liberal Perspective
 
 #### Engagement Consistency Assessment
 
-**Score: 4/5 - Mostly Consistent**
+**Score: 5/5 - Highly Consistent**
 
 | Indicator | Assessment |
-| --- | --- |
-| Stated vs actual motivations | Consistent focus on measurable outcomes and equitable access. |
-| Principle consistency | Stable on data transparency and accountability. |
-| Goalpost stability | Low; support is predictable. |
-| Zero-sum behavior | Low; supports negotiated compliance pathways. |
+|-----------|------------|
+| Stated vs actual motivations | Consistent focus on environmental outcomes and public capacity. |
+| Principle consistency | Supports robust public sector delivery and equity. |
+| Goalpost stability | Stable. |
+| Zero-sum behavior | Low; believes conservation aids production long-term. |
+
+**Justification:** Liberals view NRCS as a vital public service that has been hollowed out. They support rebuilding agency capacity and ensuring programs address climate change and equity.
+
+**Evidence for assessment:**
+
+- Democratic support for IRA conservation funding.
+- Center for American Progress reports.
 
 #### Position Scores
 
 | Dimension | Score | Reasoning |
-| --- | --- | --- |
-| Current State Assessment | 7/10 | Aligns with staffing and access gaps. |
-| Root Cause Agreement | 7/10 | Agrees on system fragmentation. |
-| Solution 1: Payment Ladders | 8/10 | Supports outcomes-based incentives. |
-| Solution 2: Delivery Hubs | 8/10 | Strong support for multi-agency coordination. |
-| Solution 3: Capital Match & Risk Pools | 7/10 | Supportive if guardrails prevent inequity. |
-| Bill 1: Modernization Act | 8/10 | Core data and accountability tool. |
-| Bill 2: Equitable Access Act | 8/10 | Strong equity and TA priority. |
-| Bill 3: Capital & Risk Pooling Act | 7/10 | Acceptable with public safeguards. |
+|-----------|-------|-----------|
+| Current State Assessment | 9/10 | Agree on staffing crisis and backlog. |
+| Root Cause Agreement | 9/10 | Agree on underfunding and complexity. |
+
+**Source references:**
+
+- National Sustainable Agriculture Coalition.
+- Union of Concerned Scientists.
+
+#### Solution Evaluations
+
+| Solution | Score | Stated Position | Underlying Concerns |
+|----------|-------|-----------------|---------------------|
+| NRCS Hiring | 10/10 | Strong support. | Public capacity. |
+| Equity Set-Asides | 10/10 | Strong support. | Justice. |
+| Climate CRP | 10/10 | Strong support. | Climate action. |
+
+#### Legislation Evaluations
+
+| Bill | Score | Stated Position | Underlying Concerns |
+|------|-------|-----------------|---------------------|
+| Tech Assistance Act | 10/10 | Full support. | Rebuilding government. |
+| Working Lands Act | 10/10 | Full support. | Access/Equity. |
 
 #### Alternative Proposals
 
-- Expand NRCS staffing and cost-share for technical assistance.
-- Require public reporting dashboards for outcome metrics.
+- Mandatory conservation compliance for all crop insurance.
+- Higher payment limits for small farms.
+- Climate-specific practice mandates.
 
 #### Coalition Potential
 
-- Natural allies: Progressive, Centrist.
-- Bridges: Conservative on rural capacity.
-- Unlikely partners: Libertarian on data mandates.
+- **Natural allies:** Progressives, Democratic Socialists.
+- **Potential bridges:** Centrists, some Populists (on anti-corporate).
+- **Unlikely partners:** Libertarians, Conservatives.
+
+---
 
 ### Progressive Perspective
 
 #### Engagement Consistency Assessment
 
-**Score: 4/5 - Mostly Consistent**
+**Score: 5/5 - Highly Consistent**
 
 | Indicator | Assessment |
-| --- | --- |
-| Stated vs actual motivations | Consistent focus on equity and climate outcomes. |
-| Principle consistency | High on public accountability. |
-| Goalpost stability | Moderate; may push for stronger requirements. |
-| Zero-sum behavior | Low to moderate. |
+|-----------|------------|
+| Stated vs actual motivations | Consistent focus on systemic reform and corporate power. |
+| Principle consistency | Opposes subsidies for CAFOs; supports holistic systems. |
+| Goalpost stability | Stable. |
+| Zero-sum behavior | Corporate Ag vs. Regenerative Ag. |
+
+**Justification:** Progressives critique current programs (EQIP) for subsidizing industrial agriculture (e.g., manure lagoons). They want to shift funding to regenerative, diversified systems.
+
+**Evidence for assessment:**
+
+- Cory Booker's Farm System Reform Act.
+- Food & Water Watch analysis.
 
 #### Position Scores
 
 | Dimension | Score | Reasoning |
-| --- | --- | --- |
-| Current State Assessment | 8/10 | Strong alignment with delivery inequities. |
-| Root Cause Agreement | 8/10 | Agrees on fragmentation and capacity gaps. |
-| Solution 1: Payment Ladders | 8/10 | Supports metrics with equity safeguards. |
-| Solution 2: Delivery Hubs | 9/10 | Sees hubs as core equity infrastructure. |
-| Solution 3: Capital Match & Risk Pools | 6/10 | Cautious about private capital influence. |
-| Bill 1: Modernization Act | 8/10 | Supports platform and verification. |
-| Bill 2: Equitable Access Act | 9/10 | Priority for underserved producers. |
-| Bill 3: Capital & Risk Pooling Act | 6/10 | Accepts only with strong public oversight. |
+|-----------|-------|-----------|
+| Current State Assessment | 9/10 | Agree on backlog; critique corporate capture of funds. |
+| Root Cause Agreement | 10/10 | Agree; emphasize industrial ag lobby influence. |
+
+**Source references:**
+
+- Institute for Agriculture and Trade Policy.
+- HEAL Food Alliance.
+
+#### Solution Evaluations
+
+| Solution | Score | Stated Position | Underlying Concerns |
+|----------|-------|-----------------|---------------------|
+| NRCS Hiring | 10/10 | Support; need independent advice. | Corporate influence. |
+| EQIP Reform | 9/10 | Support; want CAFO ban. | Industrial ag subsidies. |
+| Conservation Corps | 10/10 | Strong support. | Green New Deal. |
+
+#### Legislation Evaluations
+
+| Bill | Score | Stated Position | Underlying Concerns |
+|------|-------|-----------------|---------------------|
+| Tech Assistance Act | 10/10 | Support. | Public jobs. |
+| Working Lands Act | 9/10 | Support; push for stricter CAFO limits. | Corporate welfare. |
 
 #### Alternative Proposals
 
-- Increase direct public grants for conservation practices.
-- Add stronger labor and environmental justice requirements.
+- Ban EQIP funding for CAFOs.
+- Cap payments to large integrators.
+- Mandatory transition to regenerative practices.
 
 #### Coalition Potential
 
-- Natural allies: Democratic Socialist, Liberal.
-- Bridges: Populist on rural investment.
-- Unlikely partners: Libertarian on data and oversight.
+- **Natural allies:** Liberals, Socialists.
+- **Potential bridges:** Populists (on anti-corporate).
+- **Unlikely partners:** Conservatives, Libertarians.
+
+---
 
 ### Libertarian Perspective
 
 #### Engagement Consistency Assessment
 
-**Score: 4/5 - Mostly Consistent**
+**Score: 5/5 - Highly Consistent**
 
 | Indicator | Assessment |
-| --- | --- |
-| Stated vs actual motivations | Consistent skepticism of federal expansion. |
-| Principle consistency | Strong on voluntary participation. |
-| Goalpost stability | Stable opposition to mandatory reporting. |
-| Zero-sum behavior | Low. |
+|-----------|------------|
+| Stated vs actual motivations | Consistent opposition to subsidies. |
+| Principle consistency | Consistently applies free market principles. |
+| Goalpost stability | Stable. |
+| Zero-sum behavior | State vs. Market. |
+
+**Justification:** Libertarians oppose all farm subsidies, including conservation payments. They believe conservation should be a private decision or market-driven (e.g., hunting leases, eco-tourism).
+
+**Evidence for assessment:**
+
+- Cato Institute "Downsizing Government".
+- Reason Foundation.
 
 #### Position Scores
 
 | Dimension | Score | Reasoning |
-| --- | --- | --- |
-| Current State Assessment | 5/10 | Acknowledges delays but favors deregulation. |
-| Root Cause Agreement | 4/10 | Sees bureaucracy as primary issue. |
-| Solution 1: Payment Ladders | 4/10 | Opposes centralized performance mandates. |
-| Solution 2: Delivery Hubs | 3/10 | Skeptical of new bureaucracy. |
-| Solution 3: Capital Match & Risk Pools | 6/10 | Prefers private capital over federal grants. |
-| Bill 1: Modernization Act | 3/10 | Mandatory platform disliked. |
-| Bill 2: Equitable Access Act | 3/10 | Opposes waivers and targeted aid. |
-| Bill 3: Capital & Risk Pooling Act | 6/10 | Support if voluntary and market-led. |
+|-----------|-------|-----------|
+| Current State Assessment | 4/10 | Agree programs are inefficient; disagree they are needed. |
+| Root Cause Agreement | 3/10 | Blame government intervention for environmental problems. |
+
+**Source references:**
+
+- Cato Institute.
+- PERC (Property and Environment Research Center).
+
+#### Solution Evaluations
+
+| Solution | Score | Stated Position | Underlying Concerns |
+|----------|-------|-----------------|---------------------|
+| NRCS Hiring | 1/10 | Strong opposition. | Bureaucracy expansion. |
+| TSP Streamlining | 6/10 | Support deregulation; oppose the subsidy itself. | Privatization. |
+| CRP Reform | 3/10 | Oppose paying farmers not to farm. | Market distortion. |
+
+#### Legislation Evaluations
+
+| Bill | Score | Stated Position | Underlying Concerns |
+|------|-------|-----------------|---------------------|
+| Tech Assistance Act | 1/10 | Oppose. | Spending/Government growth. |
+| Working Lands Act | 2/10 | Oppose. | Subsidies. |
 
 #### Alternative Proposals
 
-- Streamline program rules and reduce paperwork.
-- Encourage private conservation certification and insurance products.
+- Eliminate EQIP, CSP, and CRP.
+- Privatize conservation technical assistance entirely.
+- Rely on tort law for pollution damages.
 
 #### Coalition Potential
 
-- Natural allies: Conservative.
-- Bridges: Centrist on limited mandates.
-- Unlikely partners: Democratic Socialist.
+- **Natural allies:** Conservatives (fiscal).
+- **Potential bridges:** Progressives (on ending corporate subsidies).
+- **Unlikely partners:** Liberals, Centrists.
+
+---
 
 ### Constitutionalist Perspective
 
 #### Engagement Consistency Assessment
 
-**Score: 3/5 - Mixed Consistency**
+**Score: 4/5 - Mostly Consistent**
 
 | Indicator | Assessment |
-| --- | --- |
-| Stated vs actual motivations | Federalism emphasis; state capacity varies. |
-| Principle consistency | Moderate; favors state-led delivery. |
-| Goalpost stability | Moderate; seeks clear limits. |
-| Zero-sum behavior | Low to moderate. |
+|-----------|------------|
+| Stated vs actual motivations | Focus on federalism. |
+| Principle consistency | Consistent preference for state control. |
+| Goalpost stability | Stable. |
+| Zero-sum behavior | Federal vs. State. |
+
+**Justification:** Constitutionalists argue that land management is a state issue. They oppose federal expansion but may support block grants to states.
+
+**Evidence for assessment:**
+
+- Tenth Amendment Center.
 
 #### Position Scores
 
 | Dimension | Score | Reasoning |
-| --- | --- | --- |
-| Current State Assessment | 5/10 | Accepts bottlenecks, questions federal role. |
-| Root Cause Agreement | 4/10 | Sees federal complexity as key driver. |
-| Solution 1: Payment Ladders | 4/10 | Acceptable if state-administered. |
-| Solution 2: Delivery Hubs | 5/10 | Supports if states lead. |
-| Solution 3: Capital Match & Risk Pools | 6/10 | Accepts if state-chartered entities manage. |
-| Bill 1: Modernization Act | 4/10 | Wants narrower federal scope. |
-| Bill 2: Equitable Access Act | 5/10 | Supports hubs with state compacts. |
-| Bill 3: Capital & Risk Pooling Act | 6/10 | Accepts with state partnership. |
+|-----------|-------|-----------|
+| Current State Assessment | 5/10 | Agree federal system is broken; solution is devolution. |
+| Root Cause Agreement | 4/10 | Blame centralization. |
+
+**Source references:**
+
+- Federalist Society.
+
+#### Solution Evaluations
+
+| Solution | Score | Stated Position | Underlying Concerns |
+|----------|-------|-----------------|---------------------|
+| NRCS Hiring | 2/10 | Oppose federal army of regulators. | Federal overreach. |
+| State Model Act | 9/10 | Strong support. | Federalism. |
+| Cooperative Agreements | 6/10 | Better than federal staff. | Local control. |
+
+#### Legislation Evaluations
+
+| Bill | Score | Stated Position | Underlying Concerns |
+|------|-------|-----------------|---------------------|
+| Tech Assistance Act | 3/10 | Oppose federal hiring. | Centralization. |
+| Working Lands Act | 4/10 | Oppose federal rules. | Local control. |
 
 #### Alternative Proposals
 
-- State-administered compacts with federal block grants.
-- Limit federal data collection to interstate reporting.
+- Block grant all conservation funds to states.
+- Eliminate federal conservation compliance requirements.
 
 #### Coalition Potential
 
-- Natural allies: Conservative.
-- Bridges: Centrist on cooperative federalism.
-- Unlikely partners: Progressive on federal mandates.
+- **Natural allies:** Conservatives, Libertarians.
+- **Potential bridges:** None significant.
+- **Unlikely partners:** Liberals, Progressives.
+
+---
 
 ### Populist Perspective
 
@@ -208,35 +380,58 @@
 **Score: 3/5 - Mixed Consistency**
 
 | Indicator | Assessment |
-| --- | --- |
-| Stated vs actual motivations | Strong rural investment rhetoric; wary of bureaucracy. |
-| Principle consistency | Mixed; supports intervention that helps producers. |
-| Goalpost stability | Moderate; demands tangible local benefits. |
-| Zero-sum behavior | Moderate. |
+|-----------|------------|
+| Stated vs actual motivations | Pro-farmer, anti-bureaucrat. |
+| Principle consistency | Mixed; want money for farmers but hate paperwork/rules. |
+| Goalpost stability | Shifts based on cultural framing (stewardship vs climate). |
+| Zero-sum behavior | Farmers vs. Bureaucrats. |
+
+**Justification:** Populists support conservation payments as income support but resent the bureaucracy and "climate" strings attached. They prefer working lands programs over land retirement.
+
+**Evidence for assessment:**
+
+- American Compass.
+- Grassroots farmer sentiment.
 
 #### Position Scores
 
 | Dimension | Score | Reasoning |
-| --- | --- | --- |
-| Current State Assessment | 7/10 | Aligns with concerns about access and staffing. |
-| Root Cause Agreement | 6/10 | Accepts system fragmentation critique. |
-| Solution 1: Payment Ladders | 6/10 | Supports if funds flow locally. |
-| Solution 2: Delivery Hubs | 8/10 | Strong support for local presence. |
-| Solution 3: Capital Match & Risk Pools | 5/10 | Wary of Wall Street capture. |
-| Bill 1: Modernization Act | 6/10 | Supports if privacy protected. |
-| Bill 2: Equitable Access Act | 8/10 | Strong support for rural access. |
-| Bill 3: Capital & Risk Pooling Act | 5/10 | Skeptical of private finance dominance. |
+|-----------|-------|-----------|
+| Current State Assessment | 8/10 | Agree system is broken/slow; blame incompetence. |
+| Root Cause Agreement | 7/10 | Blame bureaucracy and elite priorities. |
+
+**Source references:**
+
+- Organization for Competitive Markets.
+
+#### Solution Evaluations
+
+| Solution | Score | Stated Position | Underlying Concerns |
+|----------|-------|-----------------|---------------------|
+| Streamlined App | 10/10 | Strong support; cut red tape. | Accessibility. |
+| NRCS Hiring | 5/10 | Mixed; want help, dislike "feds" on farm. | Trust. |
+| CRP Grazing | 9/10 | Strong support; let us use the land. | Production. |
+
+#### Legislation Evaluations
+
+| Bill | Score | Stated Position | Underlying Concerns |
+|------|-------|-----------------|---------------------|
+| Tech Assistance Act | 6/10 | Support TSPs; wary of federal hiring. | Local control. |
+| Working Lands Act | 8/10 | Support streamlining. | Ease of use. |
 
 #### Alternative Proposals
 
-- Direct grants to conservation districts and county service centers.
-- Caps on administrative overhead for delivery partners.
+- Simple flat-rate payments for practices (no ranking).
+- Local farmer boards making funding decisions.
+- Eliminate climate-specific mandates.
 
 #### Coalition Potential
 
-- Natural allies: Religious Right, Progressive on rural investment.
-- Bridges: Conservative on local control.
-- Unlikely partners: Libertarian on public funding.
+- **Natural allies:** Conservatives.
+- **Potential bridges:** Progressives (on small farm support).
+- **Unlikely partners:** Technocratic Centrists.
+
+---
 
 ### Centrist Perspective
 
@@ -245,35 +440,58 @@
 **Score: 4/5 - Mostly Consistent**
 
 | Indicator | Assessment |
-| --- | --- |
-| Stated vs actual motivations | Pragmatic focus on measurable outcomes. |
-| Principle consistency | High on incremental reform. |
-| Goalpost stability | Low; predictable support for evidence-based improvements. |
-| Zero-sum behavior | Low. |
+|-----------|------------|
+| Stated vs actual motivations | Focus on efficiency and outcomes. |
+| Principle consistency | Consistent preference for public-private partnerships. |
+| Goalpost stability | Stable. |
+| Zero-sum behavior | Low; seeks optimization. |
+
+**Justification:** Centrists want to make the programs work better through modernization, data, and partnerships. They support outcome-based payments and TSP expansion.
+
+**Evidence for assessment:**
+
+- Bipartisan Policy Center.
+- Food and Agriculture Climate Alliance.
 
 #### Position Scores
 
 | Dimension | Score | Reasoning |
-| --- | --- | --- |
-| Current State Assessment | 7/10 | Accepts delivery and staffing gaps. |
-| Root Cause Agreement | 6/10 | Agrees on program fragmentation. |
-| Solution 1: Payment Ladders | 7/10 | Supports pilots and phased adoption. |
-| Solution 2: Delivery Hubs | 7/10 | Supports coordination and evaluation. |
-| Solution 3: Capital Match & Risk Pools | 7/10 | Supports if accountability is clear. |
-| Bill 1: Modernization Act | 7/10 | Supports data standards with guardrails. |
-| Bill 2: Equitable Access Act | 7/10 | Supports if metrics are transparent. |
-| Bill 3: Capital & Risk Pooling Act | 7/10 | Supports with oversight. |
+|-----------|-------|-----------|
+| Current State Assessment | 9/10 | Agree on inefficiency and backlog data. |
+| Root Cause Agreement | 8/10 | Agree on capacity and tech gaps. |
+
+**Source references:**
+
+- Brookings Institution.
+
+#### Solution Evaluations
+
+| Solution | Score | Stated Position | Underlying Concerns |
+|----------|-------|-----------------|---------------------|
+| TSP Streamlining | 10/10 | Strong support; efficiency. | Capacity. |
+| Outcome Payments | 9/10 | Strong support; value for money. | ROI. |
+| NRCS Hiring | 8/10 | Support; necessary capacity. | Implementation. |
+
+#### Legislation Evaluations
+
+| Bill | Score | Stated Position | Underlying Concerns |
+|------|-------|-----------------|---------------------|
+| Tech Assistance Act | 9/10 | Support. | Efficiency. |
+| Working Lands Act | 9/10 | Support. | Modernization. |
 
 #### Alternative Proposals
 
-- Require pilots and independent evaluations before scale-up.
-- Add sunset clauses tied to outcome improvements.
+- Public-private partnerships for delivery.
+- Digital agriculture integration.
+- Carbon market alignment.
 
 #### Coalition Potential
 
-- Natural allies: Liberal, Conservative.
-- Bridges: Libertarian on limited mandates; Progressive on equity metrics.
-- Unlikely partners: None strong.
+- **Natural allies:** Liberals, Moderate Conservatives.
+- **Potential bridges:** Corporate sector.
+- **Unlikely partners:** Populists, Socialists.
+
+---
 
 ### Religious Right Perspective
 
@@ -282,193 +500,298 @@
 **Score: 4/5 - Mostly Consistent**
 
 | Indicator | Assessment |
-| --- | --- |
-| Stated vs actual motivations | Focus on stewardship and family farms. |
-| Principle consistency | Consistent on local control and moral economy. |
-| Goalpost stability | Low; steady focus on local access. |
-| Zero-sum behavior | Low. |
+|-----------|------------|
+| Stated vs actual motivations | Focus on stewardship. |
+| Principle consistency | Consistent support for voluntary care of creation. |
+| Goalpost stability | Stable. |
+| Zero-sum behavior | Mixed. |
+
+**Justification:** The Religious Right views conservation as "creation care" and stewardship. They support voluntary programs that help families keep the land productive.
+
+**Evidence for assessment:**
+
+- Evangelical Environmental Network.
+- Catholic Rural Life.
 
 #### Position Scores
 
 | Dimension | Score | Reasoning |
-| --- | --- | --- |
-| Current State Assessment | 6/10 | Sees access gaps as community harms. |
-| Root Cause Agreement | 5/10 | Agrees on staffing and complexity. |
-| Solution 1: Payment Ladders | 6/10 | Supports stewardship incentives. |
-| Solution 2: Delivery Hubs | 7/10 | Strong support for local capacity. |
-| Solution 3: Capital Match & Risk Pools | 5/10 | Cautious about finance influence. |
-| Bill 1: Modernization Act | 6/10 | Supports if privacy respected. |
-| Bill 2: Equitable Access Act | 7/10 | Supports outreach and assistance. |
-| Bill 3: Capital & Risk Pooling Act | 5/10 | Cautious about reliance on private capital. |
+|-----------|-------|-----------|
+| Current State Assessment | 7/10 | Agree land needs care; worry about family farm survival. |
+| Root Cause Agreement | 6/10 | Blame greed/short-termism. |
+
+**Source references:**
+
+- Christianity Today.
+
+#### Solution Evaluations
+
+| Solution | Score | Stated Position | Underlying Concerns |
+|----------|-------|-----------------|---------------------|
+| CRP Grazing | 8/10 | Support; productive use. | Stewardship. |
+| Small Farm Set-Aside | 8/10 | Support; helps families. | Family values. |
+| NRCS Hiring | 5/10 | Mixed; prefer local/private advice. | Subsidiarity. |
+
+#### Legislation Evaluations
+
+| Bill | Score | Stated Position | Underlying Concerns |
+|------|-------|-----------------|---------------------|
+| Tech Assistance Act | 6/10 | Support intent; wary of bureaucracy. | Stewardship. |
+| Working Lands Act | 7/10 | Support access for families. | Family farms. |
 
 #### Alternative Proposals
 
-- Expand faith-based and community cooperative partnerships.
-- Prioritize conservation projects that protect family-scale operations.
+- Faith-based conservation partnerships.
+- Tax incentives for stewardship.
 
 #### Coalition Potential
 
-- Natural allies: Conservative, Populist.
-- Bridges: Centrist on stewardship metrics.
-- Unlikely partners: Libertarian on public funding scale.
+- **Natural allies:** Conservatives, Populists.
+- **Potential bridges:** Liberals (on environment).
+- **Unlikely partners:** Secular Progressives.
+
+---
 
 ### Democratic Socialist Perspective
 
 #### Engagement Consistency Assessment
 
-**Score: 4/5 - Mostly Consistent**
+**Score: 5/5 - Highly Consistent**
 
 | Indicator | Assessment |
-| --- | --- |
-| Stated vs actual motivations | Strong emphasis on public investment and equity. |
-| Principle consistency | High on public accountability and labor standards. |
-| Goalpost stability | Moderate; prefers larger public role. |
-| Zero-sum behavior | Low to moderate. |
+|-----------|------------|
+| Stated vs actual motivations | Focus on public good and decommodification. |
+| Principle consistency | Consistent. |
+| Goalpost stability | Stable. |
+| Zero-sum behavior | Public vs. Private. |
+
+**Justification:** Democratic Socialists view conservation as a public duty. They support a Civilian Conservation Corps model where the state directly employs people to restore the land, rather than subsidizing private profits.
+
+**Evidence for assessment:**
+
+- DSA Agrarian Working Group.
+- Green New Deal.
 
 #### Position Scores
 
 | Dimension | Score | Reasoning |
-| --- | --- | --- |
-| Current State Assessment | 8/10 | Aligns with inequity and access concerns. |
-| Root Cause Agreement | 8/10 | Agrees on structural underinvestment. |
-| Solution 1: Payment Ladders | 8/10 | Supports if public data stays open. |
-| Solution 2: Delivery Hubs | 9/10 | Strong support for public capacity. |
-| Solution 3: Capital Match & Risk Pools | 4/10 | Opposes private capital influence. |
-| Bill 1: Modernization Act | 8/10 | Supports data platform and enforcement. |
-| Bill 2: Equitable Access Act | 9/10 | Core priority. |
-| Bill 3: Capital & Risk Pooling Act | 4/10 | Prefers public financing instead. |
+|-----------|-------|-----------|
+| Current State Assessment | 10/10 | Agree; capitalism degrades soil. |
+| Root Cause Agreement | 10/10 | Agree; profit motive is the problem. |
+
+**Source references:**
+
+- Jacobin.
+
+#### Solution Evaluations
+
+| Solution | Score | Stated Position | Underlying Concerns |
+|----------|-------|-----------------|---------------------|
+| Conservation Corps | 10/10 | Core priority; public jobs. | Public employment. |
+| NRCS Hiring | 10/10 | Strong support; public capacity. | State capacity. |
+| TSP Streamlining | 2/10 | Oppose privatization of advice. | Corporate capture. |
+
+#### Legislation Evaluations
+
+| Bill | Score | Stated Position | Underlying Concerns |
+|------|-------|-----------------|---------------------|
+| Tech Assistance Act | 9/10 | Support hiring/Corps; oppose TSPs. | Public goods. |
+| Working Lands Act | 8/10 | Support; want stricter mandates. | Accountability. |
 
 #### Alternative Proposals
 
-- Publicly funded conservation corps and direct grants.
-- Ban private equity participation in conservation risk pools.
+- Nationalize conservation planning.
+- Pay farmers a salary for stewardship.
+- Mandatory restoration of degraded land.
 
 #### Coalition Potential
 
-- Natural allies: Progressive, Liberal.
-- Bridges: Populist on rural investment.
-- Unlikely partners: Libertarian.
+- **Natural allies:** Progressives.
+- **Potential bridges:** Liberals.
+- **Unlikely partners:** Everyone else.
+
+---
 
 ## Summary Tables
 
-### Legislation Status Reference
+### Master Comparison
 
-| Bill | Type | Current Status | Last Action |
-| --- | --- | --- | --- |
-| Conservation Delivery Modernization Act | Model federal bill | Draft concept | Not introduced (model language) |
-| Equitable Delivery & Access Act | Model federal bill | Draft concept | Not introduced (model language) |
-| Conservation Capital & Risk Pooling Act | Model federal bill | Draft concept | Not introduced (model language) |
-
-### Master Comparison Table
-
-| Perspective | Consistency | Current State | Root Causes | Avg Solution Support | Avg Bill Support |
-| --- | --- | --- | --- | --- | --- |
-| Conservative | 4 | 6 | 5 | 5.7 | 5.7 |
-| Liberal | 4 | 7 | 7 | 7.7 | 7.7 |
-| Progressive | 4 | 8 | 8 | 7.7 | 7.7 |
-| Libertarian | 4 | 5 | 4 | 4.3 | 4.0 |
-| Constitutionalist | 3 | 5 | 4 | 5.0 | 5.0 |
-| Populist | 3 | 7 | 6 | 6.3 | 6.3 |
-| Centrist | 4 | 7 | 6 | 7.0 | 7.0 |
-| Religious Right | 4 | 6 | 5 | 6.0 | 6.0 |
-| Democratic Socialist | 4 | 8 | 8 | 7.0 | 7.0 |
+| Perspective | Consistency | Current State | Root Causes | Solutions Avg | Legislation Avg |
+|-------------|-------------|---------------|-------------|---------------|-----------------|
+| Conservative | 4/5 | 7/10 | 6/10 | 7/10 | 6/10 |
+| Liberal | 5/5 | 9/10 | 9/10 | 10/10 | 10/10 |
+| Progressive | 5/5 | 9/10 | 10/10 | 9.6/10 | 9.5/10 |
+| Libertarian | 5/5 | 4/10 | 3/10 | 3.3/10 | 1.5/10 |
+| Constitutionalist | 4/5 | 5/10 | 4/10 | 5.6/10 | 3.5/10 |
+| Populist | 3/5 | 8/10 | 7/10 | 8/10 | 7/10 |
+| Centrist | 4/5 | 9/10 | 8/10 | 9/10 | 9/10 |
+| Religious Right | 4/5 | 7/10 | 6/10 | 7/10 | 6.5/10 |
+| Democratic Socialist | 5/5 | 10/10 | 10/10 | 7.3/10 | 8.5/10 |
 
 ### Solution Support Matrix
 
-| Perspective | S1 Payment Ladders | S2 Delivery Hubs | S3 Capital Match & Risk Pools |
-| --- | --- | --- | --- |
-| Conservative | 5 | 6 | 6 |
-| Liberal | 8 | 8 | 7 |
-| Progressive | 8 | 9 | 6 |
-| Libertarian | 4 | 3 | 6 |
-| Constitutionalist | 4 | 5 | 6 |
-| Populist | 6 | 8 | 5 |
-| Centrist | 7 | 7 | 7 |
-| Religious Right | 6 | 7 | 5 |
-| Democratic Socialist | 8 | 9 | 4 |
+| Solution | Con | Lib | Prog | Libt | Const | Pop | Cent | RelR | DemSoc |
+|----------|-----|-----|------|------|-------|-----|------|------|--------|
+| NRCS Hiring | 4 | 10 | 10 | 1 | 2 | 5 | 8 | 5 | 10 |
+| TSP Reform | 9 | 8 | 5 | 6 | 5 | 6 | 10 | 7 | 2 |
+| Streamlining | 8 | 10 | 9 | 5 | 6 | 10 | 10 | 8 | 8 |
 
 ### Legislation Support Matrix
 
-| Perspective | B1 Modernization Act | B2 Equitable Access Act | B3 Capital & Risk Pooling Act |
-| --- | --- | --- | --- |
-| Conservative | 5 | 6 | 6 |
-| Liberal | 8 | 8 | 7 |
-| Progressive | 8 | 9 | 6 |
-| Libertarian | 3 | 3 | 6 |
-| Constitutionalist | 4 | 5 | 6 |
-| Populist | 6 | 8 | 5 |
-| Centrist | 7 | 7 | 7 |
-| Religious Right | 6 | 7 | 5 |
-| Democratic Socialist | 8 | 9 | 4 |
+| Bill | Con | Lib | Prog | Libt | Const | Pop | Cent | RelR | DemSoc |
+|------|-----|-----|------|------|-------|-----|------|------|--------|
+| Tech Assist Act | 5 | 10 | 10 | 1 | 3 | 6 | 9 | 6 | 9 |
+| Working Lands Act | 7 | 10 | 9 | 2 | 4 | 8 | 9 | 7 | 8 |
 
 ### Engagement Consistency Distribution
 
-| Consistency | Perspectives |
-| --- | --- |
-| 4 (Mostly Consistent) | Conservative, Liberal, Progressive, Libertarian, Centrist, Religious Right, Democratic Socialist |
-| 3 (Mixed Consistency) | Constitutionalist, Populist |
-| 2 or 1 | None |
+| Level | Count | Perspectives |
+|-------|-------|--------------|
+| 5 - Highly Consistent | 4 | Liberal, Progressive, Libertarian, DemSoc |
+| 4 - Mostly Consistent | 4 | Conservative, Constitutionalist, Centrist, Religious Right |
+| 3 - Mixed Consistency | 1 | Populist |
+| 2 - Low Consistency | 0 | - |
+| 1 - Unpredictable | 0 | - |
 
 ### Common Ground Synthesis
 
-| Item | Support Profile | Notes |
-| --- | --- | --- |
-| S2 Delivery Hubs | Broad (7+) | Widest support; staffing and coordination seen as core. |
-| S1 Payment Ladders | Broad (6-8) | Support with privacy and flexibility concerns. |
-| S3 Capital Match & Risk Pools | Mixed (4-7) | Private capital role is main divide. |
-| B1 Modernization Act | Broad (6-8) | Support depends on data privacy safeguards. |
-| B2 Equitable Access Act | Broad (7+) | Strongest equity and TA support. |
-| B3 Capital & Risk Pooling Act | Mixed (4-7) | Opposition from left and libertarian skepticism. |
+| Reform Category | Broad Support (5+) | Narrow Support (3-4) | Structural Opposition |
+|-----------------|-------------------|---------------------|----------------------|
+| **Streamlining/Simplification** | Con, Lib, Prog, Pop, Cent, RelR, DemSoc | Libt, Const | - |
+| **Private TSPs** | Con, Lib, Pop, Cent, RelR | Const | DemSoc, Libt |
+| **Working Lands Focus** | Con, Lib, Prog, Pop, Cent, RelR, DemSoc | Const | Libt |
+
+**Key insight:** Everyone hates paperwork. Streamlining application processes is the single most unifying reform. Expanding private technical providers (TSPs) unites the Right and Center but alienates the Left (who fear privatization).
+
+---
 
 ## Compromise Proposals
 
-### Compromise 1: Privacy-First Performance Platform
+### Compromise 1: The "Customer Service" Compact
 
-- **Bridges**: Conservative, Centrist, Liberal
-- **Core agreement**: Outcome tracking without exposing producer-specific data.
-- **Policy**: Aggregate reporting thresholds, opt-in verification tiers, and anonymized dashboards.
-- **Concessions**: Reformers accept phased reporting; conservatives accept standardized metrics.
-- **Viability**: High; protects privacy while enabling oversight.
+**Bridges:** Conservative + Liberal + Populist + Centrist
 
-### Compromise 2: Delivery Hubs with State Compacts
+**Core Agreement:** Farmers deserve efficient service; bureaucracy is too slow.
 
-- **Bridges**: Constitutionalist, Conservative, Liberal, Populist
-- **Core agreement**: Local delivery capacity improves access and speed.
-- **Policy**: Federal funding tied to state-led compacts and performance benchmarks.
-- **Concessions**: Reformers allow state flexibility; conservatives accept federal funding.
-- **Viability**: High; aligns with rural capacity needs.
+**Policy Description:**
 
-### Compromise 3: Capital Match with Public Guardrails
+Focuses on radical simplification of application processes (one portal, automated data) and expanding the workforce through *both* direct hiring (Liberal goal) and private TSPs (Conservative goal). It frames the hiring not as "more regulators" but as "better customer service" for farmers.
 
-- **Bridges**: Centrist, Liberal, Conservative
-- **Core agreement**: Private capital can expand scale if public guardrails prevent capture.
-- **Policy**: Cap returns, require additionality tests, and include public-interest audits.
-- **Concessions**: Market advocates accept oversight; progressives accept limited private role.
-- **Viability**: Medium; depends on transparency design.
+**Concern Mapping:**
+
+| Perspective | How This Addresses Their Concerns |
+|-------------|-----------------------------------|
+| Conservative | Reduces red tape; uses private sector. |
+| Liberal | Increases capacity; reaches more farmers. |
+| Populist | Makes government work for the little guy. |
+
+**Concessions:**
+
+| Perspective | What They Give Up |
+|-------------|-------------------|
+| Conservative | Accepts increased federal staffing. |
+| Liberal | Accepts role for private consultants. |
+
+**Viability Assessment:**
+
+- **Coalition Size:** 7/9 perspectives.
+- **High Consistency Ratio:** 5/7 coalition members rated 4+ consistency.
+- **Durability:** High; administrative efficiency is always popular.
+- **Implementation Path:** Farm Bill conservation title.
+
+### Compromise 2: The "Working Lands" Accord
+
+**Bridges:** Progressive + Conservative + Centrist + Religious Right
+
+**Core Agreement:** Conservation should happen on productive farms, not just idle land.
+
+**Policy Description:**
+
+Shifts funding priority from land retirement (CRP) to working lands (EQIP/CSP). Allows grazing on CRP land (Conservative/Populist goal) while adding climate incentives (Liberal/Progressive goal). It frames conservation as "productive stewardship."
+
+**Concern Mapping:**
+
+| Perspective | How This Addresses Their Concerns |
+|-------------|-----------------------------------|
+| Conservative | Keeps land in production; supports livestock. |
+| Progressive | Supports regenerative grazing; climate benefits. |
+| Religious Right | Stewardship of resources. |
+
+**Concessions:**
+
+| Perspective | What They Give Up |
+|-------------|-------------------|
+| Progressive | Accepts grazing on conservation land. |
+| Conservative | Accepts climate-targeted incentives. |
+
+**Viability Assessment:**
+
+- **Coalition Size:** 6/9 perspectives.
+- **High Consistency Ratio:** 5/6 coalition members rated 4+ consistency.
+- **Durability:** Medium; environmental groups may split on grazing.
+- **Implementation Path:** Farm Bill.
+
+### Compromise 3: The "Local Delivery" Partnership
+
+**Bridges:** Constitutionalist + Liberal + Centrist
+
+**Core Agreement:** Local knowledge is best; federal funding is necessary.
+
+**Policy Description:**
+
+Uses federal funds to finance state-level Soil and Water Conservation Districts (SWCDs) and non-profits to deliver technical assistance. It keeps the money federal but the face local.
+
+**Concern Mapping:**
+
+| Perspective | How This Addresses Their Concerns |
+|-------------|-----------------------------------|
+| Constitutionalist | Devolves implementation to local level. |
+| Liberal | Gets the job done; builds capacity. |
+| Centrist | Efficient delivery mechanism. |
+
+**Concessions:**
+
+| Perspective | What They Give Up |
+|-------------|-------------------|
+| Constitutionalist | Accepts federal funding strings. |
+| Liberal | Gives up direct federal control of staff. |
+
+**Viability Assessment:**
+
+- **Coalition Size:** 5/9 perspectives.
+- **High Consistency Ratio:** 4/5 coalition members rated 4+ consistency.
+- **Durability:** High; builds on existing SWCD infrastructure.
+- **Implementation Path:** Cooperative agreements authority.
+
+---
 
 ## Strategic Implications
 
-- Most viable coalition centers on delivery hubs and equity-focused technical assistance.
-- Key obstacle is distrust of centralized data collection and third-party verification.
-- Bad-faith risk appears limited; focus on incremental wins with clear privacy safeguards.
-- Recommended approach: pass Equitable Access and Delivery Hubs first, then phase in the data platform.
+### Most Viable Coalition
 
-## Sources
+The **"Customer Service" coalition** (Compromise 1) is the strongest. It bypasses ideological debates about climate change or regulation by focusing on the universal frustration with bureaucracy.
 
-- Republican National Committee platform (2024). (<https://gop.com/platform/>)
-- Democratic Party platform (2024). (<https://democrats.org/where-we-stand/party-platform/>)
-- American Farm Bureau Federation policy priorities. (<https://www.fb.org/advocacy>)
-- Heritage Foundation agriculture and regulatory policy briefs. (<https://www.heritage.org/markets-and-finance>)
-- Economic Policy Institute reports on rural labor markets. (<https://www.epi.org/issue/monopoly-power/>)
-- Cato Institute agriculture and regulatory policy writings. (<https://www.cato.org/research>)
-- Federalist Society publications on federalism and administrative law. (<https://fedsoc.org/>)
-- Selected America First policy statements (e.g., Senator Josh Hawley press releases). (<https://www.hawley.senate.gov/press-releases>)
-- Democratic Socialists of America platform. (<https://www.dsausa.org/dsa-political-platform-from-2021-convention/>)
-- National Catholic Rural Life Conference policy statements. (<https://catholicrurallife.org/>)
-- National Sustainable Agriculture Coalition policy resources. (<https://sustainableagriculture.net/>)
+### Key Obstacles
+
+1. **Hiring Speed:** Even with funding, USDA struggles to hire and train thousands of staff quickly.
+2. **TSP Certification:** The process is currently so broken that private providers ignore it; fixing it requires deep regulatory overhaul.
+3. **Equity:** Streamlining for efficiency can sometimes bypass the extra hand-holding needed for underserved producers.
+
+### Low Consistency Partners
+
+**Populists** are the wildcard. They hate bureaucracy but also distrust "experts." The key is to frame technical assistance as "empowerment" and "independence from chemical dealers," not "government advice."
+
+### Recommended Approach
+
+Pursue a **"Capacity and Simplicity"** strategy:
+
+1. Lead with **Streamlining** (single application) to win broad support.
+2. Pair **Direct Hiring** with **TSP Reform** to satisfy both Left and Right.
+3. Use **Cooperative Agreements** to rapidly deploy capacity through trusted local partners while federal hiring ramps up.
+
+---
 
 ## Document Navigation
 
 - Previous: [Legislation](11-legislation.md)
-- Next: N/A
-- Up: [Agriculture Policy Domain](../01-overview.md)
+- Up: [Agriculture](../01-overview.md)

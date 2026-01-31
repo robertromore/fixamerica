@@ -39,8 +39,8 @@ Source: USDA Economic Research Service, 2022 data
 | Average age of principal operators | 58.1 years | Increasing | USDA Census of Agriculture 2022 |
 | New and beginning farmers | 25% of producers | Declining share | USDA Census 2022 |
 | Women as principal operators | 36% | Increasing | USDA Census 2022 |
-| Hispanic/Latino operators | 6% | Increasing | USDA Census 2022 |
-| Black operators | 1.4% | Slight increase | USDA Census 2022 |
+| Hispanic/Latino operators | 3.4% | Increasing | USDA Census 2022 |
+| Black operators | 1.3% | Slight increase | USDA Census 2022 |
 
 **Aging Workforce Crisis:**
 
@@ -216,7 +216,7 @@ Source: USDA Economic Research Service, 2022 data
 | All households | 12.8% | 44 million people |
 | Households with children | 17.3% | 13 million children |
 | Rural households | 11.1% | 5 million people |
-| SNAP participants | -- | 42 million |
+| SNAP participants | -- | ~41 million |
 
 ### Food Deserts
 

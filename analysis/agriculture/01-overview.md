@@ -6,11 +6,11 @@ This domain examines the policies that shape the production, distribution, and s
 
 ## Executive Summary
 
-Agriculture underpins national food security, rural livelihoods, and a web of domestic and international supply chains. The United States exports roughly $180 billion in agricultural goods annually, but the industry depends on aging infrastructure, volatile commodity markets, and climate-sensitive resources such as soil and water. Modern policy must balance the need for productivity and affordability with resilience to droughts, extreme weather, and market consolidation.
+Agriculture underpins national food security, rural livelihoods, and a web of domestic and international supply chains. The United States is among the world's largest agricultural exporters—with annual exports ranging from $170 billion to $200 billion in recent years—but the industry depends on aging infrastructure, volatile commodity markets, and climate-sensitive resources such as soil and water. Modern policy must balance the need for productivity and affordability with resilience to droughts, extreme weather, and market consolidation.
 
 At the same time, farmers and ranchers face a generational transition: the average producer is nearly 58 years old, and aspiring new entrants must navigate rising land prices, expensive inputs, and regulatory complexity. Rural communities depend on agriculture for jobs, tax bases, and cultural identity, yet they also bear disproportionate burdens from pollution, labor shortages, and limited health care.
 
-This domain will cover the curtain of issues—from soil health and climate adaptation to rural broadband and worker protections—while weaving in nutrition policy, global trade, and conservation programs to deliver actionable, evidence-based reforms.
+This domain will cover the full spectrum of issues—from soil health and climate adaptation to rural broadband and worker protections—while weaving in nutrition policy, global trade, and conservation programs to deliver actionable, evidence-based reforms.
 
 ## Scope
 
@@ -23,7 +23,7 @@ This domain will cover the curtain of issues—from soil health and climate adap
 ## Key Facts
 
 - U.S. agriculture contributes roughly 11% of GDP when upstream and downstream industries are included and supports over 18 million jobs (USDA Economic Research Service).
-- The average age of principal farm operators is 57.5, and only 5.6% are under 35 (USDA 2017 Census of Agriculture).
+- The average age of principal farm operators is 58.1 years, and only 5.6% are under 35 (USDA Census of Agriculture 2022).
 - Agricultural production accounts for approximately 10–12% of U.S. greenhouse gas emissions, with livestock, soils, and fertilizer use as major drivers (EPA inventory).
 - Nearly 40% of irrigation districts report diminished surface or groundwater supplies over the last decade, intensifying competition between urban, industrial, and agricultural uses (USDA and USGS reports).
 - Farm debt has risen to $531 billion, pressuring small farms and increasing default risks in rural communities (USDA Farm Income Forecast).

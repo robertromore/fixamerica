@@ -1,18 +1,73 @@
-# Water & Climate Resilience: Political Perspectives Analysis
+---
+freshness:
+  last-reviewed: 2026-01-29
+  data-year: 2024
+  review-cycle: 12
+  sections:
+    - name: "Legislation Evaluations"
+      data-year: 2024
+    - name: "Engagement Consistency Assessment"
+      data-year: 2024
+notes:
+  - Revisit after Colorado River compact negotiations (post-2026).
+  - Monitor Supreme Court rulings on WOTUS and interstate water disputes.
+sources:
+  count: 18
+  verified: 2026-01-29
+  broken: 0
+---
 
-## Inputs Reviewed
+# Water and Climate: Political Perspectives Analysis
 
-- `analysis/agriculture/water-and-climate/02-current-state.md`
-- `analysis/agriculture/water-and-climate/04-root-causes.md`
-- `analysis/agriculture/water-and-climate/07-solutions.md`
-- `analysis/agriculture/water-and-climate/11-legislation.md`
-- Context check: `analysis/agriculture/water-and-climate/06-opposition.md`
+## Overview
 
-## High-Level Takeaways
+Water and climate policy in agriculture sits at the volatile intersection of property rights, environmental stewardship, and existential survival. In the arid West, water is property, and any attempt to regulate it triggers fierce defense of "prior appropriation" rights. In the humid East/Midwest, water is a management problem (flooding/runoff), triggering debates over regulation vs. voluntary incentives. Climate change acts as a threat multiplier, forcing all sides to confront the reality that historical baselines are no longer valid. The debate pits "techno-optimists" (efficiency, dams) against "ecological realists" (demand reduction, restoration), with farmers caught in the middle.
 
-- Broad agreement that water and climate risks threaten agriculture, but disagreement centers on federal mandates, water rights, and funding scale.
-- Irrigation modernization and recharge projects draw the most cross-perspective support.
-- The main fault lines are governance reforms and resilience-linked insurance requirements.
+## Perspective Definitions
+
+| Perspective | Core Values | Policy Orientation |
+|-------------|-------------|-------------------|
+| Conservative | Property rights, local control, production | Storage infrastructure, voluntary conservation, oppose federal overreach |
+| Liberal | Public trust, environmental protection, science | Regulation, efficiency mandates, climate adaptation funding |
+| Progressive | Justice, rights of nature, anti-corporate | Water as human right, ban factory farms, strict regulation |
+| Libertarian | Property rights, markets, pricing | Water markets, end subsidies, privatization |
+| Constitutionalist | State sovereignty, takings clause | Interstate compacts, oppose federal WOTUS expansion |
+| Populist | Anti-elite, pro-farmer, nationalism | Protect water for food (not cities), skepticism of climate mandates |
+| Centrist | Efficiency, pragmatism, stability | Technology, trading markets, collaborative settlements |
+| Religious Right | Stewardship, creation care | Moral obligation to conserve, support rural communities |
+| Democratic Socialist | Public goods, decommodification | Public ownership of water, ban speculation, planning |
+
+## Scoring Framework
+
+### Position Scores (1-10)
+
+| Score | Meaning |
+|-------|---------|
+| 10 | Full agreement with project analysis |
+| 7-9 | Substantial to strong agreement |
+| 5-6 | Mixed/moderate agreement |
+| 3-4 | Substantial disagreement |
+| 1-2 | Strong opposition |
+
+### Engagement Consistency (1-5)
+
+| Level | Label | Indicators |
+|-------|-------|------------|
+| 5 | Highly Consistent | Stated positions reflect underlying principles; positions stable when concerns addressed |
+| 4 | Mostly Consistent | Principles generally align with positions; minor strategic flexibility |
+| 3 | Mixed Consistency | Some positions principled, others reflect coalition pressures |
+| 2 | Low Consistency | Positions shift frequently; stated concerns differ from underlying priorities |
+| 1 | Unpredictable | Positions driven primarily by opposition dynamics |
+
+### Legislation Status Reference (as of January 2026)
+
+| Bill/Amendment | Type | Current Status | Last Action |
+|----------------|------|----------------|-------------|
+| Agricultural Water Sustainability Act | Federal | Proposed | Committee |
+| Clean Water for Rural Communities Act | Federal | Proposed | Drafting |
+| Climate-Resilient Crop Insurance Act | Federal | Proposed | Introduced |
+
+---
 
 ## Perspective Analyses
 
@@ -23,193 +78,302 @@
 **Score: 4/5 - Mostly Consistent**
 
 | Indicator | Assessment |
-| --- | --- |
-| Stated vs actual motivations | Emphasizes property rights, local control, and drought preparedness. |
-| Principle consistency | Stable on federalism and cost controls. |
-| Goalpost stability | Moderate; shifts if mandates expand. |
-| Zero-sum behavior | Low. |
+|-----------|------------|
+| Stated vs actual motivations | Consistent defense of property rights and production. |
+| Principle consistency | Consistently opposes federal regulation (WOTUS) but supports federal infrastructure (dams). |
+| Goalpost stability | Stable; focus is on supply augmentation over demand reduction. |
+| Zero-sum behavior | Farms vs. Fish (Environment). |
+
+**Justification:** Conservatives view water rights as property rights. They consistently support infrastructure to ensure supply but oppose regulations that limit use. The tension lies in wanting federal money for dams but no federal rules on water.
+
+**Evidence for assessment:**
+
+- Farm Bureau litigation against WOTUS.
+- Western Republican support for water storage projects.
 
 #### Position Scores
 
 | Dimension | Score | Reasoning |
-| --- | --- | --- |
-| Current State Assessment | 6/10 | Accepts drought risk but cautious on federal role. |
-| Root Cause Agreement | 5/10 | Mixed on over-allocation framing. |
-| Solution 1: Irrigation Modernization | 6/10 | Supports if voluntary and locally run. |
-| Solution 2: Managed Recharge | 6/10 | Supports if property rights protected. |
-| Solution 3: Governance Compacts | 5/10 | Skeptical of federal mandates. |
-| Solution 4: Resilience-Linked Insurance | 4/10 | Concerned about program complexity. |
-| Bill 1: Irrigation Act | 6/10 | Acceptable with audits. |
-| Bill 2: Recharge Act | 6/10 | Supportive. |
-| Bill 3: Governance Act | 5/10 | Conditional. |
-| Bill 4: Insurance Act | 4/10 | Low support. |
+|-----------|-------|-----------|
+| Current State Assessment | 7/10 | Agree water is scarce; blame "environmental extremists" and lack of storage. |
+| Root Cause Agreement | 5/10 | Disagree that agriculture uses "too much"; believe cities/environment take too much. |
+
+**Source references:**
+
+- Family Farm Alliance.
+- Heritage Foundation (environmental regulations).
+
+#### Solution Evaluations
+
+| Solution | Score | Stated Position | Underlying Concerns |
+|----------|-------|-----------------|---------------------|
+| WaterSMART Expansion | 8/10 | Support efficiency/infrastructure. | Maintaining production. |
+| Voluntary Fallowing | 6/10 | Mixed; support payment, dislike "drying up" ag. | Community decline. |
+| Regulatory Certainty | 9/10 | Strong support. | Freedom from EPA. |
+
+#### Legislation Evaluations
+
+| Bill | Score | Stated Position | Underlying Concerns |
+|------|-------|-----------------|---------------------|
+| Ag Water Sustainability Act | 7/10 | Support infrastructure; wary of federal strings. | Federal control. |
+| Clean Water Act | 5/10 | Support grants; oppose regulation. | EPA overreach. |
 
 #### Alternative Proposals
 
-- Expand state water banks and voluntary conservation credits.
-- Use tax incentives for irrigation upgrades.
+- Build more dams and reservoirs.
+- Forest management to increase runoff.
+- Desalination technology.
 
 #### Coalition Potential
 
-- Natural allies: Centrist, Constitutionalist.
-- Bridges: Populist on rural resilience.
-- Unlikely partners: Democratic Socialist.
+- **Natural allies:** Constitutionalists, Populists.
+- **Potential bridges:** Centrists (on infrastructure).
+- **Unlikely partners:** Environmentalists, Progressives.
+
+---
 
 ### Liberal Perspective
 
 #### Engagement Consistency Assessment
 
-**Score: 4/5 - Mostly Consistent**
+**Score: 5/5 - Highly Consistent**
 
 | Indicator | Assessment |
-| --- | --- |
-| Stated vs actual motivations | Emphasizes climate adaptation and equity. |
-| Principle consistency | Stable on accountability and investment. |
-| Goalpost stability | Low. |
-| Zero-sum behavior | Low. |
+|-----------|------------|
+| Stated vs actual motivations | Consistent focus on environmental protection and public trust. |
+| Principle consistency | Consistently supports regulation and science-based management. |
+| Goalpost stability | Stable. |
+| Zero-sum behavior | Low; seeks balance but prioritizes ecosystem health. |
+
+**Justification:** Liberals view water as a public resource. They consistently advocate for balancing agricultural needs with environmental flows and drinking water safety.
+
+**Evidence for assessment:**
+
+- Center for American Progress water policy.
+- Democratic support for Inflation Reduction Act climate provisions.
 
 #### Position Scores
 
 | Dimension | Score | Reasoning |
-| --- | --- | --- |
-| Current State Assessment | 7/10 | Aligns with climate and water risk data. |
-| Root Cause Agreement | 7/10 | Agrees on governance and infrastructure gaps. |
-| Solution 1: Irrigation Modernization | 8/10 | Strong support. |
-| Solution 2: Managed Recharge | 8/10 | Strong support. |
-| Solution 3: Governance Compacts | 7/10 | Supports with equity safeguards. |
-| Solution 4: Resilience-Linked Insurance | 7/10 | Supports if accessible. |
-| Bill 1: Irrigation Act | 8/10 | Core policy. |
-| Bill 2: Recharge Act | 8/10 | Strong support. |
-| Bill 3: Governance Act | 7/10 | Supportive. |
-| Bill 4: Insurance Act | 7/10 | Supportive. |
+|-----------|-------|-----------|
+| Current State Assessment | 9/10 | Agree on scarcity and pollution data. |
+| Root Cause Agreement | 9/10 | Agree on overuse and lack of regulation. |
+
+**Source references:**
+
+- Environmental Defense Fund.
+- NRDC.
+
+#### Solution Evaluations
+
+| Solution | Score | Stated Position | Underlying Concerns |
+|----------|-------|-----------------|---------------------|
+| WaterSMART Expansion | 9/10 | Support efficiency. | Must include environmental flows. |
+| Crop Insurance Reform | 10/10 | Strong support; align incentives. | Climate adaptation. |
+| Edge-of-Field Grants | 9/10 | Support; water quality. | Public health. |
+
+#### Legislation Evaluations
+
+| Bill | Score | Stated Position | Underlying Concerns |
+|------|-------|-----------------|---------------------|
+| Ag Water Sustainability Act | 9/10 | Support. | Sustainability. |
+| Climate-Resilient Insurance | 10/10 | Full support. | Climate action. |
 
 #### Alternative Proposals
 
-- Expand climate and water data integration across USDA and NOAA.
-- Public dashboards for water savings and basin performance.
+- Mandatory riparian buffers.
+- Stricter nutrient limits (TMDLs).
+- Removal of obsolete dams.
 
 #### Coalition Potential
 
-- Natural allies: Progressive, Centrist.
-- Bridges: Conservative on drought preparedness.
-- Unlikely partners: Libertarian on mandates.
+- **Natural allies:** Progressives, Centrists.
+- **Potential bridges:** Libertarians (on subsidy reform).
+- **Unlikely partners:** Conservatives, Populists.
+
+---
 
 ### Progressive Perspective
 
 #### Engagement Consistency Assessment
 
-**Score: 4/5 - Mostly Consistent**
+**Score: 5/5 - Highly Consistent**
 
 | Indicator | Assessment |
-| --- | --- |
-| Stated vs actual motivations | Focus on equity, ecosystem protection, and climate action. |
-| Principle consistency | High on accountability. |
-| Goalpost stability | Moderate. |
-| Zero-sum behavior | Low to moderate. |
+|-----------|------------|
+| Stated vs actual motivations | Consistent focus on justice and corporate accountability. |
+| Principle consistency | Consistently opposes corporate water use (e.g., alfalfa exports). |
+| Goalpost stability | Stable. |
+| Zero-sum behavior | People/Nature vs. Corporations. |
+
+**Justification:** Progressives view the water crisis as a result of corporate extraction. They prioritize drinking water for communities and rights of nature over industrial agriculture.
+
+**Evidence for assessment:**
+
+- Food & Water Watch campaigns against mega-dairies.
+- Green New Deal water provisions.
 
 #### Position Scores
 
 | Dimension | Score | Reasoning |
-| --- | --- | --- |
-| Current State Assessment | 8/10 | Strong alignment with water and climate risks. |
-| Root Cause Agreement | 8/10 | Agrees on over-allocation and infrastructure gaps. |
-| Solution 1: Irrigation Modernization | 8/10 | Supports with equity targets. |
-| Solution 2: Managed Recharge | 8/10 | Strong support. |
-| Solution 3: Governance Compacts | 8/10 | Supports with stronger standards. |
-| Solution 4: Resilience-Linked Insurance | 7/10 | Supports to drive adaptation. |
-| Bill 1: Irrigation Act | 8/10 | Supportive. |
-| Bill 2: Recharge Act | 8/10 | Supportive. |
-| Bill 3: Governance Act | 8/10 | Supportive. |
-| Bill 4: Insurance Act | 7/10 | Supportive. |
+|-----------|-------|-----------|
+| Current State Assessment | 10/10 | Agree; emphasize injustice of pollution/scarcity. |
+| Root Cause Agreement | 10/10 | Agree; blame corporate greed and lack of regulation. |
+
+**Source references:**
+
+- Food & Water Watch.
+- Institute for Agriculture and Trade Policy.
+
+#### Solution Evaluations
+
+| Solution | Score | Stated Position | Underlying Concerns |
+|----------|-------|-----------------|---------------------|
+| Voluntary Fallowing | 5/10 | Skeptical of paying polluters; prefer regulation. | Corporate welfare. |
+| Crop Insurance Reform | 9/10 | Support; stop subsidizing bad behavior. | Accountability. |
+| Source Water Protection | 10/10 | Strong support. | Environmental justice. |
+
+#### Legislation Evaluations
+
+| Bill | Score | Stated Position | Underlying Concerns |
+|------|-------|-----------------|---------------------|
+| Ag Water Sustainability Act | 7/10 | Support conservation; dislike subsidies to big ag. | Equity. |
+| Clean Water Act | 9/10 | Support. | Justice. |
 
 #### Alternative Proposals
 
-- Stronger requirements for ecosystem flows and water quality.
-- Public ownership or stricter oversight of key water infrastructure.
+- Ban CAFOs to protect water quality.
+- Ban export of water-intensive crops (alfalfa) from drought zones.
+- Recognize "Rights of Nature" for rivers.
 
 #### Coalition Potential
 
-- Natural allies: Liberal, Democratic Socialist.
-- Bridges: Populist on water equity.
-- Unlikely partners: Libertarian.
+- **Natural allies:** Liberals, Democratic Socialists.
+- **Potential bridges:** Populists (on corporate water grabs).
+- **Unlikely partners:** Conservatives, Libertarians.
+
+---
 
 ### Libertarian Perspective
 
 #### Engagement Consistency Assessment
 
-**Score: 4/5 - Mostly Consistent**
+**Score: 5/5 - Highly Consistent**
 
 | Indicator | Assessment |
-| --- | --- |
-| Stated vs actual motivations | Emphasizes property rights and market-based allocation. |
-| Principle consistency | Stable on deregulation. |
-| Goalpost stability | Moderate. |
-| Zero-sum behavior | Low. |
+|-----------|------------|
+| Stated vs actual motivations | Consistent focus on markets and property rights. |
+| Principle consistency | Consistently supports water markets and pricing; opposes subsidies. |
+| Goalpost stability | Stable. |
+| Zero-sum behavior | State vs. Market. |
+
+**Justification:** Libertarians believe water scarcity is a pricing problem. If water were priced correctly and rights were tradeable, the market would solve the shortage. They oppose subsidized water and crop insurance.
+
+**Evidence for assessment:**
+
+- PERC (Property and Environment Research Center) water market research.
+- Reason Foundation articles on water subsidies.
 
 #### Position Scores
 
 | Dimension | Score | Reasoning |
-| --- | --- | --- |
-| Current State Assessment | 5/10 | Acknowledges risks but prefers private solutions. |
-| Root Cause Agreement | 4/10 | Disagrees with federal intervention framing. |
-| Solution 1: Irrigation Modernization | 4/10 | Supports if private-led. |
-| Solution 2: Managed Recharge | 4/10 | Supports if property rights protected. |
-| Solution 3: Governance Compacts | 3/10 | Opposes federal mandates. |
-| Solution 4: Resilience-Linked Insurance | 3/10 | Opposes new subsidies. |
-| Bill 1: Irrigation Act | 4/10 | Limited support. |
-| Bill 2: Recharge Act | 4/10 | Limited support. |
-| Bill 3: Governance Act | 3/10 | Opposes. |
-| Bill 4: Insurance Act | 3/10 | Opposes. |
+|-----------|-------|-----------|
+| Current State Assessment | 6/10 | Agree on scarcity; blame lack of markets/pricing. |
+| Root Cause Agreement | 5/10 | Blame "tragedy of the commons" due to lack of property rights. |
+
+**Source references:**
+
+- PERC.
+- Cato Institute.
+
+#### Solution Evaluations
+
+| Solution | Score | Stated Position | Underlying Concerns |
+|----------|-------|-----------------|---------------------|
+| WaterSMART Expansion | 2/10 | Oppose; federal spending. | Fiscal waste. |
+| Voluntary Fallowing | 7/10 | Support if it's a market transaction (buybacks). | Market mechanism. |
+| Crop Insurance Reform | 8/10 | Support reducing subsidies. | Market distortion. |
+
+#### Legislation Evaluations
+
+| Bill | Score | Stated Position | Underlying Concerns |
+|------|-------|-----------------|---------------------|
+| Ag Water Sustainability Act | 4/10 | Mixed; like markets, hate spending. | Spending. |
+| Climate-Resilient Insurance | 7/10 | Support reducing risk subsidies. | Moral hazard. |
 
 #### Alternative Proposals
 
-- Strengthen private water markets and transferable rights.
-- Deregulate irrigation technology approvals.
+- Full privatization of water infrastructure.
+- Unfettered water markets (buy/sell rights).
+- End all federal water subsidies.
 
 #### Coalition Potential
 
-- Natural allies: Constitutionalist.
-- Bridges: Conservative on local control.
-- Unlikely partners: Progressive, Democratic Socialist.
+- **Natural allies:** Conservatives (on property rights).
+- **Potential bridges:** Environmentalists (on ending subsidies/pricing water).
+- **Unlikely partners:** Socialists, Populists.
+
+---
 
 ### Constitutionalist Perspective
 
 #### Engagement Consistency Assessment
 
-**Score: 3/5 - Mixed Consistency**
+**Score: 4/5 - Mostly Consistent**
 
 | Indicator | Assessment |
-| --- | --- |
-| Stated vs actual motivations | Emphasizes state primacy and limits on federal rules. |
-| Principle consistency | Consistent on federalism. |
-| Goalpost stability | Moderate. |
-| Zero-sum behavior | Moderate. |
+|-----------|------------|
+| Stated vs actual motivations | Focus on state sovereignty and compacts. |
+| Principle consistency | Consistent preference for interstate compacts over federal mandates. |
+| Goalpost stability | Stable. |
+| Zero-sum behavior | Federal vs. State. |
+
+**Justification:** Constitutionalists view water allocation as a state power. They support interstate compacts (like the Colorado River Compact) but oppose federal imposition of solutions.
+
+**Evidence for assessment:**
+
+- Federalist Society analysis of WOTUS.
+- Western Governors' Association positions.
 
 #### Position Scores
 
 | Dimension | Score | Reasoning |
-| --- | --- | --- |
-| Current State Assessment | 5/10 | Accepts risk but prefers state governance. |
-| Root Cause Agreement | 5/10 | Mixed on federal role. |
-| Solution 1: Irrigation Modernization | 5/10 | Supports if state-led. |
-| Solution 2: Managed Recharge | 5/10 | Supports if local control. |
-| Solution 3: Governance Compacts | 4/10 | Skeptical of federal standards. |
-| Solution 4: Resilience-Linked Insurance | 4/10 | Limited support. |
-| Bill 1: Irrigation Act | 5/10 | Acceptable with state control. |
-| Bill 2: Recharge Act | 5/10 | Supportive. |
-| Bill 3: Governance Act | 4/10 | Limited support. |
-| Bill 4: Insurance Act | 4/10 | Limited support. |
+|-----------|-------|-----------|
+| Current State Assessment | 5/10 | Acknowledge drought; blame federal mismanagement. |
+| Root Cause Agreement | 4/10 | Blame federal interference/ESA. |
+
+**Source references:**
+
+- Mountain States Legal Foundation.
+
+#### Solution Evaluations
+
+| Solution | Score | Stated Position | Underlying Concerns |
+|----------|-------|-----------------|---------------------|
+| Western Water Authority | 2/10 | Oppose new federal bureaucracy. | Federalism. |
+| Regulatory Certainty | 8/10 | Support; protects property owners. | Property rights. |
+| State Model Legislation | 9/10 | Strong support. | Local control. |
+
+#### Legislation Evaluations
+
+| Bill | Score | Stated Position | Underlying Concerns |
+|------|-------|-----------------|---------------------|
+| Ag Water Sustainability Act | 4/10 | Oppose federal control. | 10th Amendment. |
+| Clean Water Act | 3/10 | Oppose EPA expansion. | Federalism. |
 
 #### Alternative Proposals
 
-- State compacts for basin governance.
-- Block grants for irrigation upgrades.
+- Strengthen interstate compacts.
+- Adjudicate water rights in state courts.
+- Limit federal reserved water rights.
 
 #### Coalition Potential
 
-- Natural allies: Conservative, Libertarian.
-- Bridges: Populist on local control.
-- Unlikely partners: Democratic Socialist.
+- **Natural allies:** Conservatives, Libertarians.
+- **Potential bridges:** None significant.
+- **Unlikely partners:** Liberals, Progressives.
+
+---
 
 ### Populist Perspective
 
@@ -218,37 +382,59 @@
 **Score: 3/5 - Mixed Consistency**
 
 | Indicator | Assessment |
-| --- | --- |
-| Stated vs actual motivations | Focus on rural livelihoods and corporate concentration. |
-| Principle consistency | Mixed; supports intervention when anti-corporate. |
-| Goalpost stability | Moderate. |
-| Zero-sum behavior | Moderate. |
+|-----------|------------|
+| Stated vs actual motivations | Pro-farmer, anti-urban/corporate. |
+| Principle consistency | Mixed; want water for farms but oppose "buy and dry" by cities. |
+| Goalpost stability | Shifts based on threat (cities vs. corporations). |
+| Zero-sum behavior | Rural vs. Urban. |
+
+**Justification:** Populists see water as the lifeblood of rural communities. They oppose water transfers to cities or corporations ("buy and dry") and are skeptical of climate mandates, viewing them as attacks on their way of life.
+
+**Evidence for assessment:**
+
+- Resistance to water meters in some districts.
+- Opposition to ESG/climate framing.
 
 #### Position Scores
 
 | Dimension | Score | Reasoning |
-| --- | --- | --- |
-| Current State Assessment | 7/10 | Aligns with rural water risk. |
-| Root Cause Agreement | 6/10 | Agrees on allocation inequities. |
-| Solution 1: Irrigation Modernization | 7/10 | Supports if rural access prioritized. |
-| Solution 2: Managed Recharge | 7/10 | Supports with public benefit. |
-| Solution 3: Governance Compacts | 6/10 | Supports if local voices lead. |
-| Solution 4: Resilience-Linked Insurance | 6/10 | Supports if targeted to small farms. |
-| Bill 1: Irrigation Act | 7/10 | Supportive. |
-| Bill 2: Recharge Act | 7/10 | Supportive. |
-| Bill 3: Governance Act | 6/10 | Supportive. |
-| Bill 4: Insurance Act | 6/10 | Supportive. |
+|-----------|-------|-----------|
+| Current State Assessment | 7/10 | Agree water is short; blame cities/environmentalists. |
+| Root Cause Agreement | 5/10 | Blame urban growth and "fish over people" policies. |
+
+**Source references:**
+
+- American Compass.
+- Local farm bureau chapters.
+
+#### Solution Evaluations
+
+| Solution | Score | Stated Position | Underlying Concerns |
+|----------|-------|-----------------|---------------------|
+| Voluntary Fallowing | 4/10 | Oppose; kills rural communities ("buy and dry"). | Community survival. |
+| Infrastructure Grants | 9/10 | Strong support. | Investment in rural areas. |
+| Measurement | 2/10 | Strong opposition; "spying." | Privacy/Control. |
+
+#### Legislation Evaluations
+
+| Bill | Score | Stated Position | Underlying Concerns |
+|------|-------|-----------------|---------------------|
+| Ag Water Sustainability Act | 6/10 | Like the money, hate the strings. | Sovereignty. |
+| Climate-Resilient Insurance | 3/10 | Oppose "climate" mandates. | Ideology. |
 
 #### Alternative Proposals
 
-- Stronger limits on large water users during drought.
-- Rural ownership models for water infrastructure.
+- Stop water transfers to cities.
+- Build more storage (dams).
+- Prioritize agriculture over endangered species.
 
 #### Coalition Potential
 
-- Natural allies: Progressive on equity, Conservative on rural investment.
-- Bridges: Centrist on delivery.
-- Unlikely partners: Libertarian.
+- **Natural allies:** Conservatives.
+- **Potential bridges:** Progressives (on anti-corporate water grabs).
+- **Unlikely partners:** Libertarians (who support water markets).
+
+---
 
 ### Centrist Perspective
 
@@ -257,37 +443,59 @@
 **Score: 4/5 - Mostly Consistent**
 
 | Indicator | Assessment |
-| --- | --- |
-| Stated vs actual motivations | Balances resilience with fiscal pragmatism. |
-| Principle consistency | Stable on evidence-based policy. |
-| Goalpost stability | Low. |
-| Zero-sum behavior | Low. |
+|-----------|------------|
+| Stated vs actual motivations | Focus on technology and efficiency. |
+| Principle consistency | Consistent preference for "all of the above" solutions. |
+| Goalpost stability | Stable. |
+| Zero-sum behavior | Low; seeks win-win through tech. |
+
+**Justification:** Centrists believe technology (desalination, recycling, precision irrigation) and markets can solve the crisis without radical lifestyle changes. They favor collaborative settlements.
+
+**Evidence for assessment:**
+
+- Bipartisan Infrastructure Law water provisions.
+- Colorado River drought contingency plans.
 
 #### Position Scores
 
 | Dimension | Score | Reasoning |
-| --- | --- | --- |
-| Current State Assessment | 7/10 | Accepts data on risk exposure. |
-| Root Cause Agreement | 6/10 | Agrees on governance and infrastructure gaps. |
-| Solution 1: Irrigation Modernization | 7/10 | Supports with metrics. |
-| Solution 2: Managed Recharge | 7/10 | Supports with cost controls. |
-| Solution 3: Governance Compacts | 6/10 | Supports with performance benchmarks. |
-| Solution 4: Resilience-Linked Insurance | 6/10 | Supports with risk controls. |
-| Bill 1: Irrigation Act | 7/10 | Supportive. |
-| Bill 2: Recharge Act | 7/10 | Supportive. |
-| Bill 3: Governance Act | 6/10 | Supportive. |
-| Bill 4: Insurance Act | 6/10 | Supportive. |
+|-----------|-------|-----------|
+| Current State Assessment | 8/10 | Agree on data; focus on management solutions. |
+| Root Cause Agreement | 7/10 | See it as a math problem (supply/demand). |
+
+**Source references:**
+
+- Brookings Institution.
+- Public Policy Institute of California.
+
+#### Solution Evaluations
+
+| Solution | Score | Stated Position | Underlying Concerns |
+|----------|-------|-----------------|---------------------|
+| WaterSMART Expansion | 9/10 | Strong support; efficiency. | Practicality. |
+| Measurement | 9/10 | Strong support; data is key. | Management. |
+| Trading Framework | 8/10 | Support; flexibility. | Efficiency. |
+
+#### Legislation Evaluations
+
+| Bill | Score | Stated Position | Underlying Concerns |
+|------|-------|-----------------|---------------------|
+| Ag Water Sustainability Act | 8/10 | Support. | Bipartisan appeal. |
+| Clean Water Act | 7/10 | Support with flexibility. | Balance. |
 
 #### Alternative Proposals
 
-- Tie funding to verified water savings and resilience outcomes.
-- Create bipartisan oversight for basin governance metrics.
+- Water recycling/reuse.
+- Collaborative basin planning.
+- Data/technology investment.
 
 #### Coalition Potential
 
-- Natural allies: Liberal, Conservative.
-- Bridges: Populist on rural outcomes.
-- Unlikely partners: Libertarian on federal role.
+- **Natural allies:** Liberals, Moderate Conservatives.
+- **Potential bridges:** Corporate sector.
+- **Unlikely partners:** Populists.
+
+---
 
 ### Religious Right Perspective
 
@@ -296,200 +504,300 @@
 **Score: 4/5 - Mostly Consistent**
 
 | Indicator | Assessment |
-| --- | --- |
-| Stated vs actual motivations | Focus on stewardship and family farm stability. |
-| Principle consistency | Stable on community-based solutions. |
-| Goalpost stability | Low. |
-| Zero-sum behavior | Low. |
+|-----------|------------|
+| Stated vs actual motivations | Focus on stewardship and community. |
+| Principle consistency | Consistent support for rural communities. |
+| Goalpost stability | Stable. |
+| Zero-sum behavior | Mixed. |
+
+**Justification:** The Religious Right views water stewardship as a moral duty but prioritizes human needs (farming) over "nature worship." They support policies that keep farm families on the land.
+
+**Evidence for assessment:**
+
+- Catholic Rural Life.
+- Evangelical Environmental Network.
 
 #### Position Scores
 
 | Dimension | Score | Reasoning |
-| --- | --- | --- |
-| Current State Assessment | 6/10 | Recognizes drought impacts. |
-| Root Cause Agreement | 5/10 | Mixed on policy framing. |
-| Solution 1: Irrigation Modernization | 6/10 | Supports for community stability. |
-| Solution 2: Managed Recharge | 6/10 | Supports as stewardship. |
-| Solution 3: Governance Compacts | 5/10 | Supports if local control. |
-| Solution 4: Resilience-Linked Insurance | 5/10 | Supports if accessible. |
-| Bill 1: Irrigation Act | 6/10 | Supportive. |
-| Bill 2: Recharge Act | 6/10 | Supportive. |
-| Bill 3: Governance Act | 5/10 | Supportive. |
-| Bill 4: Insurance Act | 5/10 | Supportive. |
+|-----------|-------|-----------|
+| Current State Assessment | 6/10 | Agree drought is a problem; see it as a test/call to stewardship. |
+| Root Cause Agreement | 5/10 | Blame mismanagement and lack of foresight. |
+
+**Source references:**
+
+- Christianity Today.
+
+#### Solution Evaluations
+
+| Solution | Score | Stated Position | Underlying Concerns |
+|----------|-------|-----------------|---------------------|
+| Infrastructure Grants | 8/10 | Support; helps families. | Rural survival. |
+| Voluntary Fallowing | 5/10 | Mixed; worry about community death. | Community cohesion. |
+| Regulatory Certainty | 7/10 | Support; fairness. | Justice. |
+
+#### Legislation Evaluations
+
+| Bill | Score | Stated Position | Underlying Concerns |
+|------|-------|-----------------|---------------------|
+| Ag Water Sustainability Act | 6/10 | Support aid. | Federal control. |
+| Clean Water Act | 5/10 | Mixed. | Stewardship vs. Freedom. |
 
 #### Alternative Proposals
 
-- Expand faith-based conservation partnerships and drought outreach.
-- Prioritize small-town water resilience projects.
+- Local stewardship councils.
+- Support for family farm viability.
 
 #### Coalition Potential
 
-- Natural allies: Conservative, Centrist.
-- Bridges: Progressive on stewardship outcomes.
-- Unlikely partners: Libertarian on public spending.
+- **Natural allies:** Conservatives, Populists.
+- **Potential bridges:** Liberals (on stewardship).
+- **Unlikely partners:** Secular Progressives.
+
+---
 
 ### Democratic Socialist Perspective
 
 #### Engagement Consistency Assessment
 
-**Score: 4/5 - Mostly Consistent**
+**Score: 5/5 - Highly Consistent**
 
 | Indicator | Assessment |
-| --- | --- |
-| Stated vs actual motivations | Emphasizes public investment and equity. |
-| Principle consistency | High on redistribution and public oversight. |
-| Goalpost stability | Moderate. |
-| Zero-sum behavior | Low to moderate. |
+|-----------|------------|
+| Stated vs actual motivations | Focus on water as a human right/public good. |
+| Principle consistency | Consistent opposition to privatization and commodification. |
+| Goalpost stability | Stable. |
+| Zero-sum behavior | Public vs. Private. |
+
+**Justification:** Democratic Socialists view water as a commons that should not be owned or traded. They oppose water markets and support strict regulation of industrial agriculture.
+
+**Evidence for assessment:**
+
+- Food & Water Watch "Water is a Human Right" campaigns.
+- DSA platform.
 
 #### Position Scores
 
 | Dimension | Score | Reasoning |
-| --- | --- | --- |
-| Current State Assessment | 8/10 | Aligns with water scarcity risks. |
-| Root Cause Agreement | 8/10 | Agrees on governance and equity gaps. |
-| Solution 1: Irrigation Modernization | 8/10 | Supports with public funding. |
-| Solution 2: Managed Recharge | 8/10 | Strong support. |
-| Solution 3: Governance Compacts | 8/10 | Supports stronger standards. |
-| Solution 4: Resilience-Linked Insurance | 7/10 | Supports public safeguards. |
-| Bill 1: Irrigation Act | 8/10 | Supportive. |
-| Bill 2: Recharge Act | 8/10 | Supportive. |
-| Bill 3: Governance Act | 8/10 | Supportive. |
-| Bill 4: Insurance Act | 7/10 | Supportive. |
+|-----------|-------|-----------|
+| Current State Assessment | 10/10 | Agree; emphasize corporate theft of public water. |
+| Root Cause Agreement | 10/10 | Agree; profit motive drives depletion. |
+
+**Source references:**
+
+- Food & Water Watch.
+- Jacobin.
+
+#### Solution Evaluations
+
+| Solution | Score | Stated Position | Underlying Concerns |
+|----------|-------|-----------------|---------------------|
+| Trading Framework | 1/10 | Strong opposition; commodification. | Privatization. |
+| Infrastructure Grants | 6/10 | Support if public; oppose if corporate subsidy. | Corporate welfare. |
+| Source Water Protection | 10/10 | Strong support. | Public health. |
+
+#### Legislation Evaluations
+
+| Bill | Score | Stated Position | Underlying Concerns |
+|------|-------|-----------------|---------------------|
+| Ag Water Sustainability Act | 5/10 | Mixed; dislike subsidies to big ag. | Equity. |
+| Clean Water Act | 9/10 | Support. | Regulation. |
 
 #### Alternative Proposals
 
-- Public ownership of key water infrastructure.
-- Stronger caps on large withdrawals during drought.
+- Nationalize water infrastructure.
+- Ban water trading.
+- Strict allocation based on social need, not ability to pay.
 
 #### Coalition Potential
 
-- Natural allies: Progressive, Liberal.
-- Bridges: Populist on water equity.
-- Unlikely partners: Libertarian.
+- **Natural allies:** Progressives.
+- **Potential bridges:** Populists (on anti-corporate).
+- **Unlikely partners:** Libertarians, Conservatives.
+
+---
 
 ## Summary Tables
 
-### Legislation Status Reference
+### Master Comparison
 
-| Bill | Type | Current Status | Last Action |
-| --- | --- | --- | --- |
-| Irrigation Modernization and Efficiency Act | Model federal bill | Draft concept | Not introduced (model language) |
-| Managed Aquifer Recharge and Storage Act | Model federal bill | Draft concept | Not introduced (model language) |
-| Basin Governance and Data Transparency Act | Model federal bill | Draft concept | Not introduced (model language) |
-| Resilience-Linked Insurance and Disaster Reform Act | Model federal bill | Draft concept | Not introduced (model language) |
-
-### Master Comparison Table
-
-| Perspective | Consistency | Current State | Root Causes | Avg Solution Support | Avg Bill Support |
-| --- | --- | --- | --- | --- | --- |
-| Conservative | 4 | 6 | 5 | 5.3 | 5.3 |
-| Liberal | 4 | 7 | 7 | 7.5 | 7.5 |
-| Progressive | 4 | 8 | 8 | 7.8 | 7.8 |
-| Libertarian | 4 | 5 | 4 | 3.5 | 3.5 |
-| Constitutionalist | 3 | 5 | 5 | 4.5 | 4.5 |
-| Populist | 3 | 7 | 6 | 6.5 | 6.5 |
-| Centrist | 4 | 7 | 6 | 6.5 | 6.5 |
-| Religious Right | 4 | 6 | 5 | 5.5 | 5.5 |
-| Democratic Socialist | 4 | 8 | 8 | 7.8 | 7.8 |
+| Perspective | Consistency | Current State | Root Causes | Solutions Avg | Legislation Avg |
+|-------------|-------------|---------------|-------------|---------------|-----------------|
+| Conservative | 4/5 | 7/10 | 5/10 | 7.6/10 | 6/10 |
+| Liberal | 5/5 | 9/10 | 9/10 | 9.3/10 | 9.5/10 |
+| Progressive | 5/5 | 10/10 | 10/10 | 8/10 | 8/10 |
+| Libertarian | 5/5 | 6/10 | 5/10 | 5.6/10 | 5.5/10 |
+| Constitutionalist | 4/5 | 5/10 | 4/10 | 6.3/10 | 3.5/10 |
+| Populist | 3/5 | 7/10 | 5/10 | 5/10 | 4.5/10 |
+| Centrist | 4/5 | 8/10 | 7/10 | 8.6/10 | 7.5/10 |
+| Religious Right | 4/5 | 6/10 | 5/10 | 6.6/10 | 5.5/10 |
+| Democratic Socialist | 5/5 | 10/10 | 10/10 | 5.6/10 | 7/10 |
 
 ### Solution Support Matrix
 
-| Perspective | S1 Modernization | S2 Recharge | S3 Governance | S4 Insurance |
-| --- | --- | --- | --- | --- |
-| Conservative | 6 | 6 | 5 | 4 |
-| Liberal | 8 | 8 | 7 | 7 |
-| Progressive | 8 | 8 | 8 | 7 |
-| Libertarian | 4 | 4 | 3 | 3 |
-| Constitutionalist | 5 | 5 | 4 | 4 |
-| Populist | 7 | 7 | 6 | 6 |
-| Centrist | 7 | 7 | 6 | 6 |
-| Religious Right | 6 | 6 | 5 | 5 |
-| Democratic Socialist | 8 | 8 | 8 | 7 |
+| Solution | Con | Lib | Prog | Libt | Const | Pop | Cent | RelR | DemSoc |
+|----------|-----|-----|------|------|-------|-----|------|------|--------|
+| WaterSMART | 8 | 9 | 7 | 2 | 5 | 9 | 9 | 8 | 6 |
+| Fallowing | 6 | 8 | 5 | 7 | 4 | 4 | 8 | 5 | 4 |
+| Measurement | 4 | 10 | 10 | 5 | 2 | 2 | 9 | 5 | 9 |
 
 ### Legislation Support Matrix
 
-| Perspective | B1 Modernization Act | B2 Recharge Act | B3 Governance Act | B4 Insurance Act |
-| --- | --- | --- | --- | --- |
-| Conservative | 6 | 6 | 5 | 4 |
-| Liberal | 8 | 8 | 7 | 7 |
-| Progressive | 8 | 8 | 8 | 7 |
-| Libertarian | 4 | 4 | 3 | 3 |
-| Constitutionalist | 5 | 5 | 4 | 4 |
-| Populist | 7 | 7 | 6 | 6 |
-| Centrist | 7 | 7 | 6 | 6 |
-| Religious Right | 6 | 6 | 5 | 5 |
-| Democratic Socialist | 8 | 8 | 8 | 7 |
+| Bill | Con | Lib | Prog | Libt | Const | Pop | Cent | RelR | DemSoc |
+|------|-----|-----|------|------|-------|-----|------|------|--------|
+| Ag Water Act | 7 | 9 | 7 | 4 | 4 | 6 | 8 | 6 | 5 |
+| Clean Water Act | 5 | 9 | 9 | 3 | 3 | 4 | 7 | 5 | 9 |
 
 ### Engagement Consistency Distribution
 
-| Consistency | Perspectives |
-| --- | --- |
-| 4 (Mostly Consistent) | Conservative, Liberal, Progressive, Libertarian, Centrist, Religious Right, Democratic Socialist |
-| 3 (Mixed Consistency) | Constitutionalist, Populist |
-| 2 or 1 | None |
+| Level | Count | Perspectives |
+|-------|-------|--------------|
+| 5 - Highly Consistent | 4 | Liberal, Progressive, Libertarian, DemSoc |
+| 4 - Mostly Consistent | 4 | Conservative, Constitutionalist, Centrist, Religious Right |
+| 3 - Mixed Consistency | 1 | Populist |
+| 2 - Low Consistency | 0 | - |
+| 1 - Unpredictable | 0 | - |
 
 ### Common Ground Synthesis
 
-| Item | Support Profile | Notes |
-| --- | --- | --- |
-| S1 Modernization | Broad (4-8) | Strong support for efficiency upgrades. |
-| S2 Recharge | Broad (4-8) | Strong support for drought resilience. |
-| S3 Governance | Broad (3-8) | Support improves with state-led models. |
-| S4 Insurance | Broad (3-7) | Most contested due to subsidy concerns. |
-| B1 Modernization Act | Broad (4-8) | Acceptable with verified savings. |
-| B2 Recharge Act | Broad (4-8) | Strong support. |
-| B3 Governance Act | Broad (3-8) | Support if flexible. |
-| B4 Insurance Act | Broad (3-7) | Support if limited scope. |
+| Reform Category | Broad Support (5+) | Narrow Support (3-4) | Structural Opposition |
+|-----------------|-------------------|---------------------|----------------------|
+| **Infrastructure Investment** | Con, Lib, Prog, Pop, Cent, RelR, DemSoc | Const | Libt |
+| **Voluntary Conservation** | Con, Lib, Cent, RelR, Libt | Prog, DemSoc | Pop, Const |
+| **Regulatory Certainty** | Con, Cent, RelR, Libt, Const | Lib | Prog, DemSoc |
+
+**Key insight:** Infrastructure spending (efficiency) is the safest political ground. Measurement and regulation are the third rails.
+
+---
 
 ## Compromise Proposals
 
-### Compromise 1: Modernization with Verified Savings
+### Compromise 1: The "Efficiency and Infrastructure" Deal
 
-- **Bridges**: Conservative, Centrist, Liberal
-- **Core agreement**: Invest in upgrades that prove water savings.
-- **Policy**: Grants tied to monitoring and maintenance plans.
-- **Concessions**: Reformers accept phased targets; skeptics accept funding.
-- **Viability**: High; strong cross-party appeal.
+**Bridges:** Conservative + Liberal + Centrist + Populist
 
-### Compromise 2: Recharge First, Governance Later
+**Core Agreement:** We need to do more with less water; technology and infrastructure are the answers.
 
-- **Bridges**: Conservative, Centrist, Progressive
-- **Core agreement**: Build drought reserves while reducing conflict.
-- **Policy**: Prioritize recharge projects and delay governance mandates.
-- **Concessions**: Reformers accept sequencing; skeptics accept pilots.
-- **Viability**: High; easier consensus.
+**Policy Description:**
 
-### Compromise 3: Insurance Pilots with Opt-In Standards
+Massive investment in irrigation modernization (lining canals, piping, drip irrigation) and groundwater recharge infrastructure. It avoids mandates and focuses on "supply enhancement" (recharge) and "efficiency" (technology).
 
-- **Bridges**: Centrist, Conservative, Liberal
-- **Core agreement**: Incentivize resilience without mandatory compliance.
-- **Policy**: Optional insurance discounts with evaluation triggers.
-- **Concessions**: Reformers accept opt-in; skeptics accept limited incentives.
-- **Viability**: Medium-high; depends on actuarial results.
+**Concern Mapping:**
+
+| Perspective | How This Addresses Their Concerns |
+|-------------|-----------------------------------|
+| Conservative | Invests in infrastructure; no new regulations. |
+| Liberal | Reduces water waste; adapts to climate. |
+| Populist | Invests in rural areas; helps farmers. |
+
+**Concessions:**
+
+| Perspective | What They Give Up |
+|-------------|-------------------|
+| Liberal | Accepts that efficiency might not return water to rivers (paradox of efficiency). |
+| Conservative | Accepts federal funding/involvement. |
+
+**Viability Assessment:**
+
+- **Coalition Size:** 7/9 perspectives.
+- **High Consistency Ratio:** 5/7 coalition members rated 4+ consistency.
+- **Durability:** High; infrastructure is permanent.
+- **Implementation Path:** Infrastructure Bill or Farm Bill.
+
+### Compromise 2: The "Voluntary Market" Compact
+
+**Bridges:** Libertarian + Centrist + Environmentalist (Liberal)
+
+**Core Agreement:** Water has value; farmers should be paid to conserve it.
+
+**Policy Description:**
+
+Establishes a federally funded, voluntary water leasing program (like the System Conservation Pilot Program). Farmers are paid to fallow land or reduce use. It creates a "market" for conservation without privatizing the water rights themselves.
+
+**Concern Mapping:**
+
+| Perspective | How This Addresses Their Concerns |
+|-------------|-----------------------------------|
+| Libertarian | Uses price signals; voluntary. |
+| Liberal | Gets water back in the river/aquifer. |
+| Centrist | Efficient allocation. |
+
+**Concessions:**
+
+| Perspective | What They Give Up |
+|-------------|-------------------|
+| Libertarian | Accepts government as the buyer (subsidy). |
+| Liberal | Accepts paying polluters/users rather than regulating them. |
+
+**Viability Assessment:**
+
+- **Coalition Size:** 4/9 perspectives.
+- **High Consistency Ratio:** 4/4 coalition members rated 4+ consistency.
+- **Durability:** Medium; depends on funding.
+- **Implementation Path:** Appropriations.
+
+### Compromise 3: The "Clean Water Certainty" Bargain
+
+**Bridges:** Conservative + Centrist + Liberal
+
+**Core Agreement:** Farmers need predictability; the public needs clean water.
+
+**Policy Description:**
+
+Farmers who implement a high standard of conservation practices (verified by third party) receive a "safe harbor" from new water quality regulations for 10 years. This trades regulatory relief for actual performance.
+
+**Concern Mapping:**
+
+| Perspective | How This Addresses Their Concerns |
+|-------------|-----------------------------------|
+| Conservative | Provides regulatory certainty/relief. |
+| Liberal | Achieves high adoption of practices. |
+| Centrist | Collaborative solution. |
+
+**Concessions:**
+
+| Perspective | What They Give Up |
+|-------------|-------------------|
+| Conservative | Accepts verification/monitoring. |
+| Liberal | Gives up right to regulate for a period. |
+
+**Viability Assessment:**
+
+- **Coalition Size:** 5/9 perspectives.
+- **High Consistency Ratio:** 4/5 coalition members rated 4+ consistency.
+- **Durability:** High; creates a contract.
+- **Implementation Path:** Legislation.
+
+---
 
 ## Strategic Implications
 
-- Most viable coalition centers on modernization and recharge investments.
-- Key obstacle is governance reform and insurance mandates.
-- Bad-faith risk appears limited; focus on pilots and verified savings.
-- Recommended approach: pass modernization and recharge acts first, then phase in governance and insurance reforms.
+### Most Viable Coalition
 
-## Sources
+The **"Infrastructure" coalition** (Compromise 1) is the easiest lift. Everyone likes efficiency and infrastructure money. It avoids the thorny issues of water rights and regulation.
 
-- Republican National Committee platform (2024). (<https://gop.com/platform/>)
-- Democratic Party platform (2024). (<https://democrats.org/where-we-stand/party-platform/>)
-- American Farm Bureau Federation policy priorities. (<https://www.fb.org/advocacy>)
-- Heritage Foundation water and regulatory policy briefs. (<https://www.heritage.org/markets-and-finance>)
-- Economic Policy Institute research on rural labor markets. (<https://www.epi.org/issue/monopoly-power/>)
-- Cato Institute regulatory policy writings. (<https://www.cato.org/research>)
-- Federalist Society publications on federalism and administrative law. (<https://fedsoc.org/>)
-- Selected America First policy statements (e.g., Senator Josh Hawley press releases). (<https://www.hawley.senate.gov/press-releases>)
-- Democratic Socialists of America platform. (<https://www.dsausa.org/dsa-political-platform-from-2021-convention/>)
-- National Catholic Rural Life Conference policy statements. (<https://catholicrurallife.org/>)
-- National Sustainable Agriculture Coalition policy resources. (<https://sustainableagriculture.net/>)
+### Key Obstacles
+
+1. **The "Use It or Lose It" Doctrine:** Western water law actively discourages conservation. Federal policy must navigate this state-law minefield.
+2. **Data Privacy:** Farmers are terrified that water measurement data will be used to regulate them. Any measurement program must have ironclad privacy protections.
+3. **The Efficiency Paradox:** More efficient irrigation often leads to *more* water consumption (switching to thirstier crops), not less. Policy must ensure "saved" water actually stays in the system.
+
+### Low Consistency Partners
+
+**Populists** are the wildcard. They can be mobilized to protect local water from "corporate grabs," but they will fight any "climate" mandate. Framing is everything: "Local Control" works; "Climate Adaptation" fails.
+
+### Recommended Approach
+
+Pursue a **"Resilience and Infrastructure"** strategy:
+
+1. Lead with **Infrastructure Grants** (efficiency/recharge) to secure Conservative/Populist buy-in.
+2. Pair it with **Voluntary Fallowing** payments to achieve actual water savings (satisfying Liberals/Centrists).
+3. Use **Regulatory Certainty** as the carrot to get farmers to accept measurement and verification.
+4. Avoid direct federal regulation of water rights; use funding conditions instead.
+
+---
 
 ## Document Navigation
 
 - Previous: [Legislation](11-legislation.md)
-- Next: N/A
-- Up: [Agriculture Policy Domain](../01-overview.md)
+- Up: [Agriculture](../01-overview.md)
