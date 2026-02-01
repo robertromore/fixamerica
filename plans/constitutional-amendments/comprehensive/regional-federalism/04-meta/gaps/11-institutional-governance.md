@@ -4034,108 +4034,67 @@ The mechanism designed to remove an incapacitated President depends entirely on 
 - No sitting President has ever been removed for incapacity
 - The deterrent effect of loyalty-dependent process prevents necessary action
 
-#### Gaming Vectors
+#### Gaming Vectors (Post-Resolution)
 
-| Vector | Mechanism | Likelihood |
-|--------|-----------|------------|
-| Loyalty Shield | Cabinet refuses to act against patron | High (structural) |
-| Staff Concealment | Inner circle hides symptoms from Cabinet | High |
-| "Good Days" Rationalization | Selective observation ignores pattern | High |
-| Career Calculation | Cabinet members prioritize post-administration prospects | High |
-| Partisan Protection | Opposition party invocation rejected as coup | Medium |
-| Medical Denial | President refuses examination or provides doctor's note | High |
+| # | Vector | Mechanism | Mitigation |
+|---|--------|-----------|------------|
+| G1 | Panel stacking | Future Presidents influence through court/NAM appointments | Staggered 7-year terms; NAM institutional independence; no reappointment |
+| G2 | Politicized medicine | Panel makes political judgment disguised as medical | §20(a)(1) functional capacity standard; §20(o) procedural judicial review |
+| G3 | Factitious incapacity | President feigns incapacity to avoid accountability | Not addressed (corner case; Panel would likely detect) |
+| G4 | Panel paralysis | Members fear public backlash for acting against popular President | §20(b)(4) for-cause removal protection; §20(m)(1) independent budget |
+| G5 | Trigger abuse | Partisan majority forces evaluation as harassment | Mitigated: removed low-bar triggers; 2/3 both chambers required |
+| G6 | Challenge delay | President challenges to buy 14 days; uses time to consolidate | §20(j) acting president restrictions prevent consolidation |
+| G7 | Acting President coup | VP and congressional leaders collude to install VP | Requires genuine Panel medical finding by independent physicians |
+| G8 | VP complicity (reverse) | VP refuses to participate in triggers to protect President | Alternative triggers: Congress 2/3, Governors 5/7, Panel supermajority |
+| G9 | Medical disagreement | Legitimate uncertainty about cognitive decline exploited | §20(k) dual track; Panel majority resolves; 60-day permanent threshold |
+| G10 | Panel vacancy blockade | Senate refuses to confirm, leaving Panel without quorum | §20(c) Chief Justice temporary appointments within 14 days |
+| G11 | Classification of evidence | Executive privilege blocks medical records access | §20(m)(2-3) subpoena power + unrestricted access |
+| G12 | Acting President pardons | VP pardons incapacitated President for offenses | §20(j)(1) explicit pardon prohibition |
+| G13 | Concealment by staff | Inner circle hides symptoms from Panel | §20(l) concealment penalties; §20(m)(4) whistleblower protection |
+| G14 | Budget starvation | Executive impounds Panel funding | §20(m)(1) independent appropriation, not subject to impoundment |
 
-#### Proposed Constitutional Fix
+#### Resolution
 
-**Article II-RF, Section 7 — The Independent Medical Review**
+**Resolved as Article II, Section 20** in `02-powers-and-rights.md` — Presidential Fitness and Incapacity.
 
-> **(a) Medical Fitness Panel**
-> There is established a Presidential Medical Fitness Panel ("the Panel") consisting of:
->
-> - (1) The Surgeon General of the United States;
-> - (2) Four physicians selected by the Supreme Court, serving staggered four-year terms, each board-certified in internal medicine, neurology, psychiatry, or geriatric medicine;
-> - (3) Two physicians selected by the President pro tempore of the Senate and the Speaker of the House, serving staggered four-year terms.
->
-> Panel members may be removed only for cause by two-thirds vote of the Senate.
->
-> **(b) Mandatory Annual Examination**
-> The President shall submit to annual comprehensive medical examination by the Panel, including cognitive assessment. The Panel shall issue a public report on the President's fitness to discharge the powers and duties of the office.
->
-> **(c) Emergency Fitness Inquiry**
-> Upon written request of:
->
-> - (1) The Vice President and any three Cabinet members; or
-> - (2) The Speaker of the House and the Majority Leader of the Senate; or
-> - (3) A majority of either chamber of Congress; or
-> - (4) Five of the seven Regional Governors
->
-> the Panel shall convene within 48 hours to conduct emergency fitness evaluation.
->
-> **(d) Fitness Determination**
-> If the Panel determines by majority vote that the President is unable to discharge the powers and duties of the office, the powers and duties (but not the title) of President immediately transfer to the Vice President as Acting President.
->
-> **(e) Presidential Challenge**
-> The President may challenge the Panel's determination by written declaration within 14 days. Upon challenge:
->
-> - (1) The Panel shall conduct a second evaluation within 7 days;
-> - (2) If the Panel reaffirms its determination by five of seven votes, the transfer becomes permanent;
-> - (3) If the Panel does not reaffirm, powers return to the President immediately.
->
-> **(f) Congressional Override**
-> Notwithstanding subsection (e), Congress may, by two-thirds vote of both chambers, override a Panel determination favorable to the President if Congress finds the President unable to discharge the powers and duties of the office.
->
-> **(g) Judicial Non-Review**
-> The Panel's medical determinations are final and not subject to judicial review. Courts may review only procedural compliance with this section.
->
-> **(h) Protection of Panel Members**
-> Panel members may not be removed, transferred, demoted, or retaliated against for any determination under this section. Violation of this protection is a High Crime subject to impeachment.
+Placement corrected from original "Article II-RF, Section 7" (double error: "-RF" suffix invalid for Article II, which IS the RF Core article; Section 7 occupied by Allocation Review Board). Article II §20 places the presidential incapacity framework alongside the existing executive constraint provisions (§§11-19).
 
-#### Design Rationale
+**Core mechanism:** Independent 7-member Presidential Medical Fitness Panel (NAM 3, Chief Justice 2, Congressional leaders 2) replaces Cabinet-dependent 25th Amendment §4 process. Mandatory annual examination with public fitness summary. Four trigger paths for emergency inquiry: VP + Cabinet majority, 2/3 both chambers, 5/7 Regional Governors, or Panel supermajority self-initiation. Fitness determination by 4/7 majority with immediate power transfer; presidential challenge within 14 days requiring 5/7 reaffirmation. Nuclear authority transfers immediately upon initial determination. Acting President restricted from pardoning incapacitated President, removing Panel members, or reassigning medical staff. Dual track for temporary (14-day follow-up) and permanent (60-day threshold) incapacity. Concealment constitutes §15 violation, impeachable offense, and criminal act.
 
-| Provision | Purpose |
-|-----------|---------|
-| Independent Panel (a) | Removes determination from loyalty-dependent Cabinet |
-| Supreme Court selection | Provides politically neutral appointment mechanism |
-| Annual examination (b) | Creates regular baseline; prevents concealment |
-| Multiple trigger mechanisms (c) | Various paths ensure no single gatekeeper |
-| Immediate transfer (d) | Prevents delay tactics; crisis response |
-| Challenge procedure (e) | Preserves presidential rights; higher bar for permanence |
-| Congressional override (f) | Ultimate democratic check on medical panel |
-| Non-justiciability (g) | Prevents courts from second-guessing medical judgment |
-| Retaliation protection (h) | Enables Panel to act without fear |
+**Cross-references:** §15 Fiduciary Duty of Candor (concealment provisions); §12 Transition Integrity (accelerated timelines during transition); Article XI §2(g) (nuclear authority transfer); Article VIII (concealment as impeachable offense).
 
-**Why Remove Cabinet from the Process?**
+#### Design Decisions
 
-- Cabinet members are selected for loyalty, not independence
-- Career incentives favor protecting the President
-- Historical pattern: Cabinet never acts even when incapacity is obvious
-- Independent Panel has no stake in outcome
-
-**Why Include Regional Governors as Trigger?**
-
-- Provides federalism-based check on federal executive
-- Governors have independent political bases
-- Five of seven requirement prevents partisan abuse
-- Creates alternative path if Congress is deadlocked
+| Decision | Resolution |
+|----------|------------|
+| D1: Placement | Article II §20 in 02-powers-and-rights.md |
+| D2: Scope | Narrow — involuntary incapacity only (25th Amendment §4 replacement) |
+| D3: Panel composition | 7 members: NAM (3), Chief Justice (2), Congressional leaders (2, bipartisan); no Surgeon General |
+| D4: Trigger mechanisms | VP + Cabinet majority; 2/3 both chambers; 5/7 Regional Governors; Panel 5/7 self-initiation; removed Speaker+Majority Leader alone and majority-of-one-chamber |
+| D5: Determination thresholds | 4/7 majority (initial); 5/7 supermajority (reaffirmation after challenge) |
+| D6: Congressional role | Restoration only — sustain removal or allow restoration; cannot declare incapacity contrary to Panel |
+| D7: Judicial review | Procedural compliance only; no review of medical judgment or evidence sufficiency |
+| D8: Annual examination | Mandatory; fitness summary public; refusal triggers automatic inquiry |
+| D9: Acting President restrictions | No pardon of President; no removal of Panel members; no reassignment of medical staff |
+| D10: Nuclear authority | Immediate transfer to Acting President; no ambiguity during challenge period |
+| D11: Temporary vs permanent | Dual track: 14-day follow-up for temporary; 60-day threshold + 5/7 reaffirmation for permanent |
+| D12: Concealment | §15 Fiduciary Duty violation + independent impeachable offense + criminal penalties |
+| D13: Transition period | Accelerated timelines (halved); automatic acting transfer for incapacitated President-elect |
+| D14: Panel vacancies | Chief Justice temporary appointments if Senate delays >90 days |
+| D15: Retroactive application | Immediate effect with 90-day implementation window |
+| Additional: Surgeon General | Excluded — subordinate military officer serving at President's pleasure |
+| Additional: Panel safeguards | Independent appropriation; subpoena power; record access; whistleblower protection |
+| Additional: Quorum | 5 of 7 required; Chief Justice fills vacancies if below quorum within 14 days |
 
 #### Cross-Gap Interaction
 
 | Related Gap | Interaction |
 |-------------|-------------|
-| Gap 222 | Confirmation Blockade (Panel member confirmation) |
-| Gap 167 | Lame Duck Sabotage (incapacity during transition) |
-| Gap 223 | Pardon Loophole (incapacitated President issuing pardons) |
-| Gap 228 | Treaty Toggle (incapacitated President withdrawing treaties) |
-
-#### Risk Assessment
-
-| Dimension | Without Fix | With Fix |
-|-----------|-------------|----------|
-| Incapacity Detection | Dependent on loyal Cabinet | Independent medical evaluation |
-| Time to Action | Months or years | 48-hour emergency evaluation |
-| Decision-Maker | Political appointees | Medical professionals |
-| Career Risk | Panel members have no stake | Protection from retaliation |
-| Nuclear Authority | Potentially incapacitated President | Acting President assumes duties |
+| Gap 222 | Confirmation Blockade (Panel member confirmation) — mitigated by Chief Justice temporary appointments §20(c) |
+| Gap 167 | Lame Duck Sabotage (incapacity during transition) — addressed by §20(n) accelerated timelines |
+| Gap 223 | Pardon Loophole (Acting President pardoning incapacitated President) — addressed by §20(j)(1) prohibition |
+| Gap 228 | Treaty Toggle (incapacitated President withdrawing treaties) — addressed by §20(f)(2) immediate power transfer |
+| Gap 233 | Merit System Protection (firing medical staff) — addressed by §20(j)(3) and §20(m)(4) |
 
 #### Implementation Priority
 
@@ -4145,7 +4104,7 @@ The mechanism designed to remove an incapacitated President depends entirely on 
 **Dependencies:** Coordinates with Gap 222 (Panel member confirmation) and Gap 167 (transition period protections)
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article II-RF, Section 7.
+**RESOLVED.** Integrated as Article II, Section 20 in `02-powers-and-rights.md`. Design Rationale entries added. Article crosswalk updated.
 
 **Severity:** Critical | **Mitigability:** Preventable
 

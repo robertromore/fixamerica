@@ -1443,6 +1443,118 @@ Classification of operational details does not authorize classification of legal
 
 ---
 
+### Section 20. Presidential Fitness and Incapacity
+
+*Resolves Gap 229 — The "Mad King" (The Incapacity Crisis). Replaces the 25th Amendment's Cabinet-dependent incapacity mechanism with an independent medical determination process, addressing the structural conflict of interest whereby the officials best positioned to observe presidential incapacity are those with the most to lose by acting on it.*
+
+(a) **Definitions.** For purposes of this section:
+
+- (1) "Incapacity" means a functional inability to discharge the powers and duties of the office of President, whether arising from physical illness, cognitive impairment, mental health crisis, or any other cause. Incapacity is determined by observable functional capacity, not by diagnosis alone.
+- (2) "Acting President" means the Vice President exercising the powers and duties (but not the title or office) of the President under this section.
+- (3) "Panel" means the Presidential Medical Fitness Panel established by subsection (b).
+
+(b) **Presidential Medical Fitness Panel.**
+
+- (1) There is hereby established a Presidential Medical Fitness Panel of seven members, appointed as follows:
+    - (i) Three physicians appointed by the National Academy of Medicine, each board-certified in internal medicine, neurology, or psychiatry;
+    - (ii) Two physicians appointed by the Chief Justice of the United States, after consultation with the Judicial Conference;
+    - (iii) One physician appointed by the Speaker of the House of Representatives;
+    - (iv) One physician appointed by the President pro tempore of the Senate.
+- (2) The congressional appointees under clauses (iii) and (iv) shall not be members of the same political party.
+- (3) Panel members shall serve staggered seven-year terms. No member may be reappointed.
+- (4) A Panel member may be removed only for cause, by a vote of two-thirds of the Senate.
+- (5) No person may serve on the Panel who has a personal, financial, or political relationship with the sitting President, Vice President, or any principal officer of an executive department.
+
+(c) **Vacancy and Quorum.**
+
+- (1) If the Senate fails to confirm a Panel member within ninety (90) days of a vacancy, the Chief Justice of the United States shall make a temporary appointment to serve until the Senate acts.
+- (2) Five members constitute a quorum. The Panel may not issue a fitness determination under subsection (f) without a quorum.
+- (3) If vacancies reduce Panel membership below five, the Chief Justice shall make sufficient temporary appointments within fourteen (14) days to restore a quorum.
+
+(d) **Mandatory Annual Examination.**
+
+- (1) The President shall submit to a comprehensive medical examination by the Panel annually, including physical, neurological, and cognitive assessments.
+- (2) The Panel shall publish a fitness summary within thirty (30) days of the examination, stating whether the President is fit to discharge the powers and duties of the office. The summary shall address functional capacity without disclosing specific diagnoses, treatments, or medical records beyond what is necessary to support the finding.
+- (3) If the President refuses or fails to submit to the annual examination within sixty (60) days of the scheduled date, the Panel shall automatically initiate an emergency fitness inquiry under subsection (e).
+
+(e) **Emergency Fitness Inquiry.** An emergency fitness inquiry may be initiated by any of the following:
+
+- (1) The Vice President and a majority of the principal officers of the executive departments, acting jointly;
+- (2) A vote of two-thirds of the members of both the Senate and the House of Representatives;
+- (3) Five of the seven Regional Governors;
+- (4) A vote of five of the seven Panel members.
+
+Upon initiation, the Panel shall commence an emergency fitness evaluation and issue a determination under subsection (f) within seven (7) days.
+
+(f) **Fitness Determination.**
+
+- (1) If the Panel determines, by a vote of at least four of seven members, that the President is unable to discharge the powers and duties of the office, the Panel shall transmit a written declaration to the President pro tempore of the Senate and the Speaker of the House of Representatives.
+- (2) Upon transmission, the powers and duties of the office (but not the title) immediately transfer to the Vice President, who shall serve as Acting President.
+- (3) The written declaration shall state the functional basis for the determination without disclosing specific diagnoses except as necessary to establish the basis for the finding.
+
+(g) **Nuclear and Military Authority.**
+
+- (1) Upon transmission of a declaration under subsection (f), sole authority to authorize the use of nuclear weapons and the authority of Commander-in-Chief under Article XI, Section 2(g) transfers immediately to the Acting President.
+- (2) No ambiguity in the challenge or congressional review process under subsections (h) or (i) shall delay or divide the transfer of nuclear and military command authority.
+
+(h) **Presidential Challenge.**
+
+- (1) The President may challenge the Panel's determination by transmitting a written declaration to the President pro tempore of the Senate and the Speaker of the House of Representatives within fourteen (14) days of the Panel's declaration.
+- (2) Upon receiving the President's challenge, the Panel shall reexamine the President and issue a reaffirmation or reversal within seven (7) days.
+- (3) Reaffirmation requires a vote of at least five of seven Panel members. If the Panel does not reaffirm by the required supermajority, the President's powers and duties are restored.
+- (4) During the challenge period, the Vice President continues to serve as Acting President.
+
+(i) **Congressional Action.**
+
+- (1) If the Panel reaffirms the determination of incapacity under subsection (h)(3), Congress shall assemble within forty-eight (48) hours and decide the issue within twenty-one (21) days.
+- (2) Congress may sustain the removal of powers by a vote of two-thirds of both the Senate and the House of Representatives. If Congress does not vote within twenty-one days, or if the vote fails to reach two-thirds in both chambers, the President's powers and duties are restored.
+- (3) Congress may not declare the President incapacitated contrary to a Panel finding of fitness. The congressional role under this subsection is limited to sustaining or declining to sustain a Panel determination of incapacity.
+
+(j) **Acting President Restrictions.** During any period in which the Vice President serves as Acting President under this section:
+
+- (1) The Acting President shall not grant a pardon, reprieve, or commutation of sentence to the President whose powers have been transferred;
+- (2) The Acting President shall not remove, suspend, or reassign any member of the Panel;
+- (3) The Acting President shall not remove, reassign, or restrict the access of the President's personal medical staff or the White House Medical Unit;
+- (4) The Acting President shall not nominate a new Vice President under the Twenty-fifth Amendment, Section 2, unless the Vice Presidency is independently vacant.
+
+(k) **Temporary and Permanent Incapacity.**
+
+- (1) *Temporary incapacity.* If the Panel determines that the President's incapacity is temporary in nature, the Panel shall conduct follow-up evaluations at intervals not exceeding fourteen (14) days. Upon a majority vote finding that the President has recovered functional capacity, the President's powers and duties are immediately restored.
+- (2) *Permanent incapacity.* If the President remains under an incapacity determination for more than sixty (60) consecutive days, the Panel shall conduct a comprehensive reassessment. If the Panel reaffirms incapacity by a vote of at least five of seven members, the determination is reclassified as permanent. A permanent determination may be reversed only by a subsequent Panel vote of at least five of seven members finding functional recovery.
+
+(l) **Concealment of Incapacity.**
+
+- (1) Any person subject to the Fiduciary Duty of Candor under Section 15 of this Article who has actual knowledge of facts constituting presidential incapacity under subsection (a)(1) and fails to disclose those facts to the Panel, the Vice President, or the congressional leadership within a reasonable time violates that duty.
+- (2) Deliberate concealment of presidential incapacity by the President, Vice President, or any principal officer of an executive department constitutes an independent ground for impeachment under Article VIII.
+- (3) Congress shall establish criminal penalties for willful concealment of presidential incapacity by officers and employees of the executive branch.
+
+(m) **Panel Safeguards.**
+
+- (1) The Panel shall receive an independent appropriation sufficient to perform its duties, which shall not be subject to executive impoundment or reduction.
+- (2) The Panel shall have authority to issue subpoenas for medical records, testimony, and evidence relevant to a fitness inquiry.
+- (3) The Panel shall have unrestricted access to the President's medical records, attending physicians, and medical staff for purposes of annual examinations and emergency fitness inquiries.
+- (4) Any member of the presidential medical staff, the White House Medical Unit, or the executive branch who reports concerns about presidential fitness to the Panel in good faith shall be protected from retaliation. Retaliatory action against such a person constitutes an impeachable offense and a criminal violation.
+
+(n) **Transition Period.**
+
+- (1) If an incapacity determination occurs during the Transition Period as defined in Section 12 of this Article, all timelines under this section are reduced by half, rounded up to the nearest whole day.
+- (2) If the President-elect is determined to be incapacitated before assuming office, the Vice President-elect shall serve as Acting President upon inauguration, and the Panel shall conduct a fitness evaluation within seven (7) days thereafter.
+
+(o) **Judicial Review.** Federal courts shall have jurisdiction to review whether the procedures prescribed by this section have been followed. Courts shall not review the Panel's medical judgments, the sufficiency of the medical evidence, or the policy wisdom of any determination. Remedies shall be limited to procedural compliance.
+
+(p) **Implementing Legislation.** Congress shall, by law:
+
+- (1) establish the administrative structure, compensation, and support staff of the Panel;
+- (2) define the standards and scope of the annual medical examination under subsection (d);
+- (3) establish procedures for Panel vacancies, temporary appointments, and confirmation;
+- (4) define criminal penalties for concealment under subsection (l)(3);
+- (5) establish whistleblower protections under subsection (m)(4);
+- (6) provide for any other matter necessary to carry out the purposes of this section.
+
+This section shall take effect immediately upon ratification. Congress shall enact implementing legislation within ninety (90) days of ratification. The Panel shall be constituted within one hundred and eighty (180) days of ratification, and the first annual examination shall occur within one (1) year of ratification.
+
+---
+
 ## ARTICLE III - RIGHTS FLOORS AND SUBSIDIARITY
 
 ### Section 1. Floors, Not Ceilings
@@ -1705,6 +1817,34 @@ Treaties between the United States and Indigenous Nations are sui generis — th
 ### Why a Single-Suspension Limit?
 
 Without an explicit limit, a President could perpetually suspend a treaty through serial 180-day certifications, achieving de facto withdrawal without ever obtaining Senate consent. Section 19(e)(4) limits emergency suspension to once per treaty per presidential term, forcing the President to seek Senate consent if the situation persists beyond six months. This preserves executive flexibility for genuine emergencies while closing the serial-suspension loophole.
+
+### Why an Independent Medical Panel for Presidential Incapacity?
+
+The 25th Amendment's Section 4 places the incapacity determination in the hands of the Vice President and a majority of the Cabinet — political appointees selected for loyalty who serve at the President's pleasure. This creates a structural conflict of interest: the people best positioned to observe incapacity are the people with the most to lose by acting on it. No Cabinet has ever invoked Section 4 despite documented incapacity (Woodrow Wilson was incapacitated for 18 months while his wife effectively governed; Reagan aides debated invoking but declined). Section 20 replaces this loyalty-dependent mechanism with an independent medical panel whose members have no career stake in the outcome, transforming the determination from a political judgment into a professional medical one.
+
+### Why Seven Members Appointed by NAM, SCOTUS, and Congress?
+
+Three appointing authorities prevent any single branch from controlling the Panel. The National Academy of Medicine (three members) provides medical credibility and professional standards; the Chief Justice (two members) provides institutional independence parallel to the Judicial Conference's role in judicial incapacity; and congressional leaders (two members, bipartisan) provide democratic accountability. The Surgeon General is excluded because as a uniformed military officer subordinate to the President who serves at the President's pleasure, the same loyalty-dependency that renders the Cabinet mechanism ineffective would compromise the Panel's independence. The seven-member odd number avoids ties while remaining small enough for rapid deliberation during emergencies.
+
+### Why Chief Justice Vacancy Appointments?
+
+Senate delay or refusal to confirm Panel members could be weaponized to leave the Panel without a quorum, creating a structural immunity from incapacity determination. The Chief Justice's temporary appointment power, modeled on similar vacancy-filling mechanisms elsewhere in the judiciary, ensures the Panel remains functional regardless of confirmation politics. The ninety-day trigger is long enough to give the Senate genuine opportunity to act but short enough to prevent deliberate paralysis.
+
+### Why Acting President Restrictions?
+
+Without restrictions, the Vice President serving as Acting President could consolidate power by pardoning the incapacitated President (extinguishing future accountability), removing Panel members (undermining future determinations), or dismissing medical staff (destroying evidence of incapacity). These restrictions close the "Acting President coup" gaming vector while preserving all other executive powers needed to govern effectively during the incapacity period.
+
+### Why Immediate Nuclear Transfer?
+
+Nuclear command authority cannot be divided or ambiguous. During the fourteen-day challenge period, having two individuals each claiming nuclear authority creates dangerous uncertainty that adversaries could exploit. Section 20(g) adopts a simple principle: whoever holds the powers and duties holds all the powers and duties, including nuclear authorization under Article XI, Section 2(g). This eliminates the "nuclear limbo" gaming vector entirely.
+
+### Why Procedural-Only Judicial Review for Incapacity?
+
+Allowing courts to review the Panel's medical judgments would transform incapacity determinations into adversarial litigation, with the President's legal team challenging medical evidence while the country operates under dual authority. Procedural review ensures the process was followed correctly without turning the judiciary into a super-medical panel. This parallels the judicial non-review of the Judicial Conference's own incapacity determinations under Article XIV and matches the procedural-only review applied to treaty withdrawal under Section 19(m).
+
+### Why a Dual Track for Temporary and Permanent Incapacity?
+
+A President recovering from surgery needs a rapid clearance mechanism (fourteen-day follow-up evaluations), while a President with progressive cognitive decline needs a permanent removal pathway (sixty-day threshold plus supermajority reaffirmation). Without the dual track, temporary incapacity would either be under-treated (no rapid return) or over-treated (premature permanent removal), and permanent incapacity would lack the elevated threshold that its finality demands. The sixty-day reclassification trigger provides a clear boundary between the two tracks.
 
 ---
 

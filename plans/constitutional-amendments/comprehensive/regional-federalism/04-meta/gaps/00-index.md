@@ -251,7 +251,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 225 | Impunity shield (qualified immunity) | Critical | ✅ Resolved |
 | 226 | Citizenship void (who are "we"?) | Critical | ✅ Resolved |
 | 228 | Treaty toggle (foreign policy whiplash) | Critical | ✅ Resolved |
-| 229 | Mad king (incapacity crisis) | Critical | Requires Development |
+| 229 | Mad king (incapacity crisis) | Critical | ✅ Resolved |
 | 230 | Insider (congressional graft) | Critical | Requires Development |
 | 231 | Sovereign shield (government accountability) | Critical | ✅ Resolved |
 | 232 | Purse snatch (appropriations reprogramming) | Critical | ✅ Resolved |
