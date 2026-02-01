@@ -4834,9 +4834,33 @@ Add to Article III-RF (Rights and Mobility), Section 7:
 > - (iv) officials knowingly initiating such prosecution are personally liable.
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article III-RF, Section 7.
+**RESOLVED — existing provisions provide very high overlap.** No new constitutional text needed. The proposed "Article III-RF, Section 7" placement contained a double error (§7 occupied by Defense Parity Rule / Gap 246; content belongs in Articles I and IV where existing provisions already sit).
 
-**Severity:** Critical | **Mitigability:** Requires Development
+**Existing Coverage:**
+
+| Proposal Element | Existing Provision | Location |
+|---|---|---|
+| (a) Lex Loci Shield | Article IV §9(a) territorial jurisdiction limits (Extradition Shield); Article I §11(l) lex loci delicti principle | 03-regional-governance.md:517; 01-regional-structure.md:1377 |
+| (b) Right to Access Lawful Services | Article IV §9(d) travel protection; Article I §8(a) right to travel | 03-regional-governance.md:542; 01-regional-structure.md:621 |
+| (c) Prohibited Extraterritorial Claims | Article IV §9(c) aiding/abetting shield; Article I §11(o) anti-extraterritorial enforcement | 03-regional-governance.md:535; 01-regional-structure.md:1398 |
+| (d) Full Faith and Credit Limitation | Article I §11(p) judgment non-recognition; Article IV §9(e) data protection | 01-regional-structure.md:1405; 03-regional-governance.md:550 |
+| (e) Border Enforcement Prohibition | Article I §8(b) border control prohibition | 01-regional-structure.md:628 |
+| (f) Enforcement | Article IV §9(i) injunctive relief, removal, fees, damages | 03-regional-governance.md:579 |
+
+**Gaming Vector Coverage:**
+
+| Gaming Vector | Existing Mitigation |
+|---|---|
+| Conspiracy Extension | Article IV §9(c)(1): cannot prosecute conspiracy to perform acts lawful where planned |
+| Aiding and Abetting Trap | Article IV §9(c)(2-3): shields transportation, information, logistical support |
+| Return Prosecution | Article IV §9(b)(2) + §9(d): cannot prosecute for conduct outside demanding Region |
+| Bounty Hunter Model | Article I §11(o)(4): cannot create private causes of action for extraterritorial lawful conduct |
+
+**Additional Coverage:** Article III-RF §8 (Single Jeopardy Rule) in 09-judiciary.md supersedes dual sovereignty doctrine, preventing multi-Region prosecution for same conduct.
+
+**Note on exceptions:** The Lex Loci provisions include explicit exceptions at Article I §11(n) (01-regional-structure.md:1391) for conduct specifically directed at causing harm within the regulating Region, evasion-purpose travel, and contractual choice-of-law. These carve-outs mean coverage is very high but not absolute — the exceptions are narrowly drawn and represent deliberate design choices rather than gaps.
+
+**Severity:** Critical | **Mitigability:** Resolved
 
 ---
 
