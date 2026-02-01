@@ -383,9 +383,49 @@ Add Article III-RF, Section 10 — The Right to Human Review:
 **Dependencies**: Builds on Gap 144 (Algorithm Audit) framework
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article III-RF, Section 10.
+**RESOLVED.** Two targeted additions close this gap by extending the existing §7-A framework to all governmental entities and establishing individual rights: (1) Article II §7-A(l) extends transparency, audit, bias testing, and anti-black-box requirements to all governmental algorithmic systems at every level of government; (2) Article III §6 (Right to Human Review of Algorithmic Determinations) establishes individual rights to meaningful human review, human appeal, prohibited algorithmic factors, retroactive review when systems are found flawed, and enforcement remedies including voidability and damages. The 90% rubber-stamp presumption (§7-A(l)(2)) closes the "advisory only" fiction gaming vector.
 
-**Severity:** Critical | **Mitigability:** Requires Development
+**Severity:** Critical | **Mitigability:** ✅ Resolved
+
+### Resolution Record — Targeted Extension
+
+**Overlap: ~70-75% (MODERATE-HIGH)** — Resolved via scope extension + new rights clause.
+
+**Existing Framework (Art II §7-A):**
+
+Article II §7-A (Algorithmic Governance Transparency) already provides comprehensive technical protections — mandatory transparency (a), open-source (b), independent audit (c), bias testing (d), data input transparency (e), methodological challenge right (f), factual finding limitation (g), anti-black-box provision (h), algorithmic impact statements (i), whistleblower protection (j), and anti-capture provisions (k). However, §7-A was scoped exclusively to "Constitutional Oversight Bodies" (ARB, IFC, FDCA, ETRB), leaving Regional criminal justice, benefit allocation, and law enforcement AI outside its reach.
+
+**New Provisions:**
+
+| Component | Location | What It Does |
+|---|---|---|
+| Scope extension | Art II §7-A(l) | Extends all §7-A protections to every governmental entity (federal, Regional, State, local) using algorithmic systems affecting life, liberty, property, or constitutional rights |
+| "Advisory only" fiction closure | Art II §7-A(l)(2) | 90% approval rate creates rebuttable presumption of no independent judgment; system treated as final decision-maker |
+| Private delegation block | Art II §7-A(l)(3) | Government cannot outsource to private vendors to circumvent §7-A |
+| Right to human decision | Art III §6(a) | No final determination may rest solely on algorithmic output; requires meaningful human review with documented reasoning |
+| Right to human appeal | Art III §6(b) | Appeal to independent human decision-maker with override authority and explanation obligation |
+| Prohibited factors | Art III §6(c) | Bars unconstitutional factors, proxy discrimination, unknowable inputs, and group-statistics-only determinations |
+| Retroactive review | Art III §6(d) | Flawed systems trigger identification, notification, individualized review, and burden shift to government |
+| Enforcement remedies | Art III §6(e) | Voidable determinations, damages under sovereign immunity waiver, personal liability for willful deployment |
+| Technical standards cross-reference | Art III §6(f) | Links rights clause to §7-A's full technical framework |
+
+**Gaming Vector Analysis:**
+
+| Vector | Status |
+|--------|--------|
+| "Advisory Only" Fiction | Addressed — §7-A(l)(2): 90% approval rate creates presumption of no independent judgment |
+| "Complexity Defense" | Addressed — §7-A(a)-(b): plain language + technical documentation + open source required |
+| "Trade Secret" Shield | Addressed — §7-A(h)(1): proprietary algorithms prohibited; §7-A(l)(3): private delegation blocked |
+| "Continuous Learning" Evasion | Addressed — §7-A(b)(3): version control with full change history; §7-A(i): impact statement before material modification |
+| Pro Forma Human Review | Addressed — Art III §6(a)(2): documented reasoning demonstrating engagement with individual facts required |
+| Appeal to Another Algorithm | Addressed — Art III §6(b): appeal must be to independent *human* decision-maker with override authority |
+| Retroactive Harm | Addressed — Art III §6(d): flawed systems trigger mandatory notification and individualized review |
+
+**Residual Notes:**
+
+1. Implementation timeline: §7-A(l)(4) gives two years for Regional/State implementation details — during this window, systems in use must still comply with Art III §6 rights provisions immediately upon ratification.
+2. Cost of compliance for smaller jurisdictions may require federal assistance — this is a statutory matter, not a constitutional gap.
+3. The "90% presumption" threshold (§7-A(l)(2)) is a constitutional bright line that Congress may supplement but not weaken.
 
 ---
 

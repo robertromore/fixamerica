@@ -785,6 +785,13 @@ An officeholder who formally declares non-alignment with any party shall not be 
 - (3) disgorgement of compensation received in violation of these provisions;
 - (4) civil penalties of up to $500,000 for willful violations.
 
+(l) **Universal Application to Governmental Algorithmic Systems.** *Resolves Gap 208 — The "Black Box" (Algorithmic Tyranny), in conjunction with Article III, Section 6.* The requirements of subsections (a) through (k) of this Section apply to all governmental entities — federal, Regional, State, and local — that use algorithmic systems, artificial intelligence, or automated decision tools to make or materially influence determinations affecting the life, liberty, property, or constitutional rights of any person. For purposes of this subsection:
+
+- (1) "materially influence" means the algorithmic output is presented to, relied upon by, or incorporated into the reasoning of the decision-maker, regardless of whether the system is denominated as "advisory," "predictive," or "decisional";
+- (2) a decision-maker who approves algorithmic recommendations in more than ninety percent (90%) of cases within any twelve-month period is presumed not to exercise independent judgment, and the system shall be treated as a final decision-maker subject to subsection (h);
+- (3) government may not delegate decision-making authority to private entities, vendors, or contractors to circumvent the requirements of this Section; private systems exercising governmental authority are subject to all requirements herein;
+- (4) Regional and State entities shall comply with subsections (a) through (j) for all systems within this subsection's scope, with implementation details prescribed by statute within two (2) years of ratification.
+
 ---
 
 ### Section 8. National Security Operations Override
@@ -1852,6 +1859,44 @@ These protections apply regardless of whether the person is classified as an emp
 (4) time limits for processing citizenship documentation under subsection (f); and
 
 (5) transition provisions for citizenship recognition during the period between adoption and full implementation of this Constitution.
+
+### Section 6. Right to Human Review of Algorithmic Determinations
+
+*Resolves Gap 208 — The "Black Box" (Algorithmic Tyranny), in conjunction with Article II, Section 7-A(l).*
+
+(a) **Right to Human Decision.** No final determination by any governmental entity regarding the life, liberty, or property of any person may rest solely on the output of an algorithmic system, artificial intelligence, or automated decision tool. Every such determination requires:
+
+- (1) meaningful review by a qualified human official exercising independent judgment;
+- (2) the human reviewer's documented reasoning, demonstrating engagement with the facts of the individual case; and
+- (3) the human reviewer's authority to depart from the algorithmic recommendation.
+
+(b) **Right to Human Appeal.** Any person subject to a governmental determination materially influenced by an algorithmic system may appeal to an independent human decision-maker who shall have:
+
+- (1) authority to override any algorithmic recommendation or prior determination;
+- (2) access to the algorithmic inputs and decision factors applied to the individual case, as required by Article II, Section 7-A; and
+- (3) an obligation to provide written explanation of the appeal decision in terms the person can understand.
+
+(c) **Prohibited Algorithmic Factors.** No algorithmic system used in governmental decision-making may employ:
+
+- (1) factors that would be unconstitutional if used by a human decision-maker;
+- (2) correlates or proxies for protected characteristics, as determined by disparate impact analysis;
+- (3) inputs the affected person cannot know, inspect, or contest; or
+- (4) aggregate group statistics as the sole basis for an individualized determination.
+
+(d) **Retroactive Review.** When an algorithmic system is found by audit, judicial determination, or administrative finding to have been materially flawed, biased, or non-compliant with Article II, Section 7-A:
+
+- (1) all persons whose determinations were materially influenced by the flawed system shall be identified and notified;
+- (2) each affected person shall have the right to individualized human review of the prior determination;
+- (3) the governmental entity bears the burden of demonstrating that the prior determination was independently justified; and
+- (4) remedies shall include reversal, compensation, and expungement of records as appropriate.
+
+(e) **Enforcement.** A determination made in violation of this Section:
+
+- (1) is voidable at the election of the affected person;
+- (2) entitles the affected person to damages under the sovereign immunity waiver applicable to the issuing jurisdiction; and
+- (3) subjects responsible officials who willfully deploy non-compliant systems to personal liability.
+
+(f) **Technical Standards.** The transparency, audit, bias testing, open-source, and anti-black-box requirements of Article II, Section 7-A apply to all systems within the scope of this Section, as extended by subsection (l) of that Section.
 
 ---
 
