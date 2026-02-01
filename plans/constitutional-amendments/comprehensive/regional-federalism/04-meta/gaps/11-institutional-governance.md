@@ -4139,138 +4139,75 @@ Members of Congress receive classified briefings on market-moving events—pande
 
 Studies show congressional trading systematically outperforms market benchmarks by 6-10% annually—a statistical impossibility without informational advantage. Members' trades predict market-moving announcements with suspicious accuracy. The STOCK Act has produced zero prosecutions of sitting members.
 
-#### Gaming Vectors
+#### Gaming Vectors (Post-Resolution)
 
-| Vector | Mechanism | Likelihood |
-|--------|-----------|------------|
-| Delayed Disclosure | 45-day reporting window allows profit-taking before disclosure | High (routine) |
-| Spousal Trading | Member's spouse trades; technically not covered | High |
-| "Blind Trust" Theater | Nominally blind trust with regular "updates" | High |
-| Committee Shopping | Seek committee assignments based on trading opportunities | Medium |
-| Enforcement Immunity | DOJ rarely investigates members; political pressure | High |
-| Complexity Shield | Portfolio complexity obscures individual trades | High |
+| # | Vector | Mechanism | Mitigation |
+|---|--------|-----------|------------|
+| G1 | Delayed disclosure | 45-day reporting window | §10(b) eliminates individual trading entirely |
+| G2 | Spousal trading | Spouse trades on shared information | §10(d) anti-proxy tipping rule with rebuttable presumption |
+| G3 | Blind trust theater | Nominally blind trust with info leakage | §10(c) mandates liquidating trust — prohibited assets actually sold |
+| G4 | Committee shopping | Seek assignments for trading intelligence | §10(b) eliminates individual holdings; committee shopping for other corruption remains |
+| G5 | Enforcement immunity | DOJ rarely investigates colleagues | §10(f) automated OLO surveillance + mandatory DOJ referral + special counsel trigger |
+| G6 | Complexity shield | Portfolio complexity obscures violations | §10(a)(2-3) clear prohibited/permitted definitions; liquidating trust simplifies |
+| G7 | Adult child proxy | Adult child trades on dinner-table intelligence | §10(d)(3) rebuttable presumption covers adult children in family member definition |
+| G8 | Friend-and-family network | Tips non-family associates who trade | §10(d)(1-2) criminalizes tipping as high crime; general insider trading law applies |
+| G9 | Pre-service front-running | Candidate trades before taking office | Not addressed (starts at assumption of covered position) |
+| G10 | Cryptocurrency evasion | Trade in assets not listed as prohibited | §10(a)(2) explicitly includes cryptocurrency and digital assets |
+| G11 | Shell entity | Layered corporate structures hold prohibited assets | §10(b) covers "any entity in which the official has a beneficial interest" |
+| G12 | Trustee collusion | Blind trust trustee communicates through intermediary | §10(c)(4) liquidating trust mandates sale — no ongoing investment decisions for trustee |
+| G13 | Post-service monetization | Resign to trade on accumulated intelligence | §10(e) aligned with §3-A tiers (5yr/2yr); disgorgement for violations |
+| G14 | Budget starvation | Defund OLO surveillance capability | §7 independent office with constitutional mandate; §10(j) implementing legislation |
 
-#### Proposed Constitutional Fix
+#### Resolution
 
-**Article I-RF, Section 9 — The Blind Trust Mandate**
+**Resolved as Article IX, Section 10** in `single-topic/lobbying-reform.md` — Active-Service Financial Restrictions.
 
-> **(a) Prohibited Holdings**
-> No Federal Elected Official, Federal Judge, or Cabinet Officer may own, directly or beneficially:
->
-> - (1) Individual stocks, bonds, or securities of particular companies;
-> - (2) Commodity futures, options, or derivatives;
-> - (3) Sector-specific funds or ETFs;
-> - (4) Real estate other than personal residences.
->
-> **(b) Mandatory Divestiture**
-> Within 90 days of taking office:
->
-> - (1) Officials shall divest all prohibited holdings; or
-> - (2) Transfer all prohibited holdings to a Qualified Blind Trust meeting requirements of subsection (c).
->
-> Failure to divest or transfer is grounds for removal from office.
->
-> **(c) Qualified Blind Trust Requirements**
-> A "Qualified Blind Trust" must:
->
-> - (1) Be managed by an Independent Trustee with no prior relationship to the official;
-> - (2) Provide the official with no information about specific holdings or trades;
-> - (3) Invest only in broad-market index funds, Treasury securities, or money market instruments;
-> - (4) Be subject to audit by the Government Ethics Office;
-> - (5) Have all communications between trustee and official monitored and recorded.
->
-> **(d) Spousal and Dependent Coverage**
-> The prohibitions of this section apply to:
->
-> - (1) The official's spouse and dependent children;
-> - (2) Any trust or entity in which the official has beneficial interest;
-> - (3) Any person trading on the official's behalf or at the official's direction.
->
-> **(e) Post-Service Cooling Off**
-> For two years after leaving office:
->
-> - (1) Former officials may not trade in securities of companies they directly regulated;
-> - (2) Former officials must disclose all trades within 48 hours;
-> - (3) Profits from trading within 24 months of relevant official action are subject to disgorgement.
->
-> **(f) Enforcement**
->
-> - (1) The Government Ethics Office shall monitor compliance through automated trade surveillance;
-> - (2) Violations are referred to the Public Integrity Section of the Department of Justice;
-> - (3) Violation of this section is a felony punishable by up to 10 years imprisonment;
-> - (4) Convicted officials are permanently barred from federal office;
-> - (5) Civil penalties include disgorgement of profits and triple damages.
->
-> **(g) Constitutional Floor**
-> Regions may impose stricter requirements on their officials but may not permit conduct prohibited by this section.
->
-> **(h) Whistleblower Protection**
-> Any person who reports violations of this section:
->
-> - (1) Is entitled to 15% of any civil penalties recovered;
-> - (2) Is protected from retaliation under federal whistleblower statutes;
-> - (3) May report anonymously through secure channels.
+Placement corrected from original "Article I-RF, Section 9" (triple error: Article I is Regional Structure not Congress/anti-corruption; "-RF" suffix invalid; Section 9 occupied by Enforcement). Article IX §10 extends the existing Lobbying and Anti-Corruption Amendment with active-service restrictions, complementing the post-service restrictions already in §3-A.
 
-#### Design Rationale
+**Core mechanism:** Prohibits covered financial officials (President, VP, Congress, judges, Cabinet, Fed, SES, senior staff) from holding individual stocks, crypto, commodities, PE, and sector-specific funds. Requires divestiture or liquidating trust within 90 days. Tax-neutral rollover prevents financial penalty for service. Anti-proxy tipping rule criminalizes MNPI communication as a high crime with rebuttable presumption for close-family trading near official acts. Automated OLO surveillance with mandatory DOJ referral and special counsel trigger. Willful violations result in disgorgement, treble damages, and permanent disqualification from federal office.
 
-| Provision | Purpose |
-|-----------|---------|
-| Prohibited holdings (a) | Eliminates conflict of interest at source |
-| 90-day divestiture (b) | Clear deadline with removal consequence |
-| Blind trust requirements (c) | Prevents "blind trust theater" with information leakage |
-| Spousal coverage (d) | Closes obvious proxy trading loophole |
-| Post-service cooling off (e) | Prevents delayed exploitation of inside knowledge |
-| Automated surveillance (f) | Removes politics from enforcement |
-| Whistleblower bounty (h) | Creates private enforcement mechanism |
+**Cross-references:** §5(c) general personal-benefit prohibition (§10 supplements and implements); §3-A post-service tiers (§10(e) aligns); §7 Office of Lobbying Oversight (houses surveillance); §8(d) whistleblower bounty (§10(h) consistent); §9 enforcement (§10(g)(2) overrides penalty cap for willful violations); Article VIII (tipping as high crime); Article XIV (judicial referral).
 
-**Why Prohibit Individual Stock Ownership Entirely?**
+#### Design Decisions
 
-- Half-measures (disclosure, delay rules) have failed
-- The informational advantage is structural and ongoing
-- Officials cannot credibly claim ignorance when their job is to know
-- Public trust requires structural separation, not honor-system rules
-
-**Why Include Judges?**
-
-- Federal judges make decisions affecting company valuations
-- Recusal rules are inadequate—judges self-police
-- Same structural conflict exists; same structural solution required
-
-**Why Automated Surveillance?**
-
-- Removes human discretion from enforcement
-- Patterns detected by algorithm, not political appointee
-- DOJ referral is mandatory, not discretionary
-- Eliminates "too politically sensitive" excuse
+| Decision | Resolution |
+|----------|------------|
+| D1: Placement | Article IX §10 in lobbying-reform.md |
+| D2: Scope | President, VP, Congress, judges, Cabinet, Fed officials, SES, senior staff with classified/market access |
+| D3: Prohibited assets | Individual stocks, crypto, commodities, PE/VC/hedge funds, derivatives, sector-specific funds |
+| D4: Permitted assets | Broad-market index funds, US Treasuries, GO municipal bonds, money market, bank deposits |
+| D5/D12: Mechanism | Divestiture or liquidating trust (mandates sale of prohibited assets); 90 days + hardship extension up to 1 year for illiquid assets |
+| D6: Post-service | Aligned with §3-A tiers: Tier 1 = 5 years, Tier 2 = 2 years; disgorgement for violations |
+| D7: Enforcement | OLO automated surveillance; mandatory DOJ referral within 30 days; special counsel if DOJ declines within 120 days |
+| D8: Penalties | Willful: disgorgement + treble damages + permanent disqualification; negligent: civil penalties + mandatory divestiture only |
+| D9: Constitutional floor | Uniform federal standard; Regions/States may impose stricter on own officials only |
+| D10: Whistleblower | 10-30% bounty range per §8(d); applies to §10 violations |
+| D11: Judges | Dual referral to Judicial Conference + OLO; DOJ for criminal; coordinate with Article XIV |
+| D13: Cross-reference | §10 explicitly supplements and implements §5(c) |
+| D14: Ratification transition | One-time election; 90 days for liquid assets, up to 1 year for illiquid |
+| D15: Anti-proxy tipping | MNPI communication for trading = high crime; rebuttable presumption for close family |
+| D16: Tax neutrality | Non-taxable rollover; basis carries over |
+| Additional: Real estate | Not prohibited (narrowed from original proposal); investment real estate in entities covered via beneficial interest |
 
 #### Cross-Gap Interaction
 
 | Related Gap | Interaction |
 |-------------|-------------|
-| Gap 220 | Revolving Door (post-service trading is related corruption) |
-| Gap 219 | Unread Law (budget bills create trading opportunities) |
-| Gap 221 | Secret Law (secret regulatory guidance enables trading) |
-| Gap 70 | Lobbying Regulation (lobbying provides trading intelligence) |
-
-#### Risk Assessment
-
-| Dimension | Without Fix | With Fix |
-|-----------|-------------|----------|
-| Trading Activity | Systematic insider trading | Structurally impossible |
-| Enforcement | Zero prosecutions | Automated detection and mandatory referral |
-| Public Trust | Congress seen as corrupt | Structural integrity guaranteed |
-| Information Advantage | Monetized through trading | Cannot be monetized |
-| Spousal Loophole | Wide open | Closed |
+| Gap 220 | Revolving Door (post-service trading aligned with §3-A tiers) |
+| Gap 219 | Unread Law (budget bills create trading opportunities — eliminated by asset ban) |
+| Gap 221 | Secret Law (secret regulatory guidance enables trading — eliminated by asset ban) |
+| Gap 70 | Lobbying Regulation (lobbying provides trading intelligence — OLO now monitors both) |
+| Gap 222 | Confirmation Blockade (OLO director confirmation) |
 
 #### Implementation Priority
 
 **Tier:** P1 (Immediate)
 **Rationale:** Congressional insider trading is ongoing and documented; public trust in Congress at historic lows; structural fix required because voluntary compliance has failed
 
-**Dependencies:** None — self-contained ethics reform
+**Dependencies:** Coordinates with Article IX §§3-A, 5, 7, 8, 9 (existing anti-corruption framework)
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article I-RF, Section 9.
+**RESOLVED.** Integrated as Article IX, Section 10 in `single-topic/lobbying-reform.md`. Design Rationale entries added. Article crosswalk updated.
 
 **Severity:** Critical | **Mitigability:** Preventable
 

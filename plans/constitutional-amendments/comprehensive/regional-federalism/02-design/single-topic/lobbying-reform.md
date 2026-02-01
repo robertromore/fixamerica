@@ -288,6 +288,76 @@ The Office of Lobbying Oversight may petition for or oppose waivers and shall pu
 
 ---
 
+### Section 10. Active-Service Financial Restrictions
+
+*Resolves Gap 230 — The "Insider" (Congressional Graft). Prohibits covered financial officials from holding individual stocks, cryptocurrency, commodities, private equity, and sector-specific funds during active service, closing the structural conflict of interest that enables insider trading by officials with access to non-public market-moving information.*
+
+(a) **Definitions.** For purposes of this section:
+
+- (1) "Covered financial official" means: the President; the Vice President; any Member of Congress; any federal judge; any principal officer or head of an executive department confirmed by the Senate; any member of the Board of Governors of the Federal Reserve System; any Senior Executive Service employee; any congressional committee staff member with access to classified or market-sensitive information; and any other officer or employee designated by the Office of Lobbying Oversight under subsection (j).
+- (2) "Prohibited asset" means any individual stock, bond (other than United States Treasury obligations and general obligation municipal bonds), commodity, cryptocurrency or digital asset, private equity interest, venture capital interest, hedge fund interest, derivative, option, future, or sector-specific exchange-traded fund or mutual fund.
+- (3) "Permitted asset" means United States Treasury securities, general obligation municipal bonds, broad-market index funds or exchange-traded funds that are not sector-specific, money market instruments, and bank deposits.
+- (4) "Liquidating trust" means a trust that mandates the sale of all prohibited assets and reinvestment solely in permitted assets within the divestiture period, managed by an independent trustee with no prior relationship to the official.
+- (5) "Non-public information" means information obtained through official duties that is not available to the general public and that a reasonable person would expect to affect the market value of a security or other financial instrument.
+
+(b) **Prohibited Holdings.** No covered financial official may own, directly or through any entity in which the official has a beneficial interest, any prohibited asset.
+
+(c) **Mandatory Divestiture.**
+
+- (1) Within ninety (90) days of assuming a covered position, a covered financial official shall divest all prohibited assets or transfer them to a liquidating trust.
+- (2) Divestiture of prohibited assets into permitted assets under this section shall be treated as a non-taxable event for purposes of federal income tax. The basis of the original asset carries over to the replacement permitted asset.
+- (3) The Office of Lobbying Oversight may grant a hardship extension of up to one (1) year for illiquid assets, including private equity interests, vesting stock options, and real property held in investment entities, upon a showing that divestiture within ninety days would result in substantial financial harm unrelated to the asset's market value.
+- (4) Failure to divest or transfer prohibited assets within the required period, including any extension, is grounds for removal from office.
+
+(d) **Anti-Proxy Rule.**
+
+- (1) No covered financial official may communicate non-public information to any person for the purpose of enabling that person to trade in any security, commodity, cryptocurrency, or other financial instrument.
+- (2) Violation of this subsection constitutes a high crime within the meaning of Article VIII.
+- (3) If a close family member of a covered financial official — defined as spouse, domestic partner, parent, child (including adult child), sibling, or household member — executes a trade in a security or other financial instrument within fourteen (14) days before or after an official act by the covered financial official that materially affects the value of that instrument, a rebuttable presumption arises that the trade was based on non-public information communicated in violation of paragraph (1). The official may overcome this presumption only by demonstrating, by clear and convincing evidence, that no non-public information was communicated.
+
+(e) **Post-Service Trading Restrictions.** The post-service trading restrictions under this section shall be aligned with the tier structure of Section 3-A:
+
+- (1) Tier 1 covered financial officials (Senate-confirmed officers, Members of Congress, federal judges, Federal Reserve Board members) may not, for five (5) years after leaving office, trade in securities of any entity that was subject to their direct regulatory authority, oversight, or official action.
+- (2) Tier 2 covered financial officials (SES employees, senior congressional staff, other designated officials) may not, for two (2) years after leaving office, trade in securities of any entity that was subject to their direct regulatory authority, oversight, or official action.
+- (3) Profits from trades within the applicable cooling-off period that violate this subsection are subject to disgorgement.
+
+(f) **Enforcement.**
+
+- (1) The Office of Lobbying Oversight shall maintain automated financial surveillance systems to monitor compliance with this section, including detection of prohibited holdings, suspicious trading patterns by close family members, and post-service trading violations.
+- (2) Upon detection of a potential violation, the Office shall refer the matter to the Department of Justice within thirty (30) days.
+- (3) If the Department of Justice declines to prosecute within one hundred and twenty (120) days of referral, the Office may petition for the appointment of a special counsel under procedures established by law.
+- (4) For violations involving federal judges, the Office shall also refer the matter to the Judicial Conference for investigation under Article XIV.
+
+(g) **Penalties.**
+
+- (1) A covered financial official who willfully holds prohibited assets, fails to divest within the required period, or engages in prohibited trading shall be subject to:
+    - (i) disgorgement of all profits from the prohibited holdings or trades;
+    - (ii) civil penalties of treble the amount of profits gained or losses avoided;
+    - (iii) permanent disqualification from holding any federal office.
+- (2) Criminal penalties for willful violations shall be as provided by law, notwithstanding the limitations of Section 9(b).
+- (3) Negligent violations (failure to timely divest without intent to evade) shall be subject to civil penalties and mandatory divestiture but not criminal prosecution or permanent disqualification.
+
+(h) **Whistleblower Awards.** Any person who provides original information to the Office of Lobbying Oversight leading to a successful enforcement action under this section shall be eligible for an award of ten to thirty percent of penalties collected, consistent with Section 8(d).
+
+(i) **Constitutional Floor.** This section establishes a uniform federal standard for federal officials. Regions and States may impose stricter financial restrictions on their own officials but may not permit conduct prohibited by this section for federal officials serving within their jurisdiction.
+
+(j) **Implementing Legislation.** Congress shall, by law:
+
+- (1) establish the automated surveillance systems and procedures for the Office of Lobbying Oversight under subsection (f);
+- (2) designate additional positions subject to this section beyond those enumerated in subsection (a)(1);
+- (3) establish procedures for hardship extensions under subsection (c)(3);
+- (4) implement the tax-deferred rollover mechanism under subsection (c)(2);
+- (5) define standards for the rebuttable presumption under subsection (d)(3);
+- (6) establish special counsel procedures under subsection (f)(3);
+- (7) establish post-service trading reporting and enforcement procedures;
+- (8) provide for any other matter necessary to carry out the purposes of this section.
+
+(k) **Ratification Transition.** Officials serving in covered positions at the time of ratification shall have a one-time election to divest or transfer prohibited assets to a liquidating trust. The divestiture period for officials serving at ratification shall be ninety (90) days for liquid assets and up to one (1) year for illiquid assets, commencing upon the date of ratification.
+
+This section supplements and implements the general prohibition of Section 5(c).
+
+---
+
 ## Implementation Notes
 
 This amendment requires implementing legislation including:
@@ -297,6 +367,9 @@ This amendment requires implementing legislation including:
 - Foreign Agents Registration Act amendments (aligning with Section 4)
 - Office of Lobbying Oversight Establishment Act (structure, budget, personnel)
 - Ethics in Government Act amendments (financial disclosure requirements)
+- Active-Service Financial Restrictions Act (automated surveillance systems, OLO procedures, hardship extension standards, special counsel trigger, post-service trading reporting)
+- Tax Code amendments (non-taxable rollover for divestiture under Section 10(c)(2))
+- Rebuttable Presumption Standards Act (defining standards for close-family trading presumption under Section 10(d)(3))
 
 ---
 
@@ -313,6 +386,8 @@ If adopted standalone:
 - Article IX applies to lobbying of the federal government
 - States may establish parallel requirements for state lobbying
 - Federal requirements set a floor, not a ceiling
+- Section 10 active-service financial restrictions apply to all covered federal officials regardless of whether Regions exist
+- Section 10(i) constitutional floor prevents States from permitting conduct prohibited for federal officials
 
 ---
 
@@ -361,6 +436,41 @@ If adopted standalone:
 - Constitutional principle: Americans govern America
 - Disclosure ensures transparency when engagement occurs
 - Lifetime ban for former officials prevents capture
+
+### Why Prohibit Individual Asset Ownership Rather Than Regulate Trading?
+
+- The STOCK Act (2012) attempted to regulate congressional trading and produced zero prosecutions of sitting members
+- Disclosure-based regimes fail because the informational advantage is structural and ongoing — officials cannot credibly claim ignorance when their job is to know
+- Trading restrictions create complex enforcement problems (timing, intent, materiality)
+- Asset prohibition eliminates the conflict at its source: if you cannot hold the asset, you cannot profit from non-public information about it
+- Congressional trading systematically outperforms market benchmarks by 6-10% annually, a statistical impossibility without informational advantage
+
+### Why a Liquidating Trust Rather Than a Traditional Blind Trust?
+
+- Traditional blind trusts have been "blind trust theater" — officials receive regular updates, trustees are not truly independent, and the trust retains the prohibited assets
+- A liquidating trust mandates actual sale of prohibited assets and reinvestment in permitted assets (broad-market index funds, Treasuries)
+- This means the official truly cannot benefit from non-public information about individual companies, because they no longer own individual companies
+- The trustee's only discretion is timing and method of liquidation, not ongoing investment decisions
+
+### Why an Anti-Proxy Tipping Rule?
+
+- Prohibiting the official's own holdings does not prevent the official from tipping family members or associates
+- The rebuttable presumption for close-family trading near official acts shifts the burden of proof without requiring direct evidence of communication
+- This is modeled on SEC insider trading enforcement, which uses circumstantial evidence of tipping
+- The "high crime" classification for deliberate tipping ensures that proxy trading through family members carries the same constitutional severity as direct corruption
+
+### Why Tax-Neutral Divestiture?
+
+- Without tax neutrality, officials face a financial penalty for public service — forced realization of capital gains creates a deterrent to entering government
+- Tax-deferred rollover (basis carries over) means no immediate tax consequence; taxes are paid when the permitted asset is eventually sold
+- This removes the most legitimate objection to mandatory divestiture: that it imposes an unfair financial burden on officials with large unrealized gains
+
+### Why Automated Surveillance?
+
+- Human-discretion enforcement of financial ethics rules has uniformly failed: DOJ rarely investigates sitting members, ethics committees are politically captured, complaints are career suicide for the filer
+- Automated detection removes human discretion from the initial identification step: patterns are flagged by algorithm, not political appointee
+- Mandatory DOJ referral ensures detected violations cannot be buried
+- Special counsel trigger ensures DOJ cannot protect allies by declining prosecution without consequence
 
 ---
 

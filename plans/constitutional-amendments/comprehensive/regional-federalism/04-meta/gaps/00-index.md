@@ -252,7 +252,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 226 | Citizenship void (who are "we"?) | Critical | ✅ Resolved |
 | 228 | Treaty toggle (foreign policy whiplash) | Critical | ✅ Resolved |
 | 229 | Mad king (incapacity crisis) | Critical | ✅ Resolved |
-| 230 | Insider (congressional graft) | Critical | Requires Development |
+| 230 | Insider (congressional graft) | Critical | ✅ Resolved |
 | 231 | Sovereign shield (government accountability) | Critical | ✅ Resolved |
 | 232 | Purse snatch (appropriations reprogramming) | Critical | ✅ Resolved |
 | 233 | Spoils system (civil service purges) | Critical | ✅ Resolved |

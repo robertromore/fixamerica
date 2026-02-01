@@ -74,7 +74,7 @@ These articles are standalone constitutional amendments that work with OR withou
 |---------|-------|----------|----------------|
 | **VII** | Elections | [single-topic/election-reform.md](../single-topic/election-reform.md) | No—works same with States or Regions |
 | **VIII** | Impeachment, Pardon Reform | [single-topic/impeachment-reform.md](../single-topic/impeachment-reform.md) | No |
-| **IX** | Lobbying/Anti-Corruption | [single-topic/lobbying-reform.md](../single-topic/lobbying-reform.md) | No |
+| **IX** | Lobbying/Anti-Corruption, Active-Service Financial Restrictions | [single-topic/lobbying-reform.md](../single-topic/lobbying-reform.md) | No |
 | **XI** | Armed Forces | [single-topic/military-civilian-control.md](../single-topic/military-civilian-control.md) | Yes: [10-armed-forces.md](10-armed-forces.md) |
 | **XIV** | Judicial Reform, Official Accountability, Government Accountability | [single-topic/judicial-reform.md](../single-topic/judicial-reform.md) | Yes: [09-judiciary.md](09-judiciary.md) |
 | **XV** | Federal Reserve | [single-topic/federal-reserve-reform.md](../single-topic/federal-reserve-reform.md) | No |
@@ -169,6 +169,7 @@ Article VIII, Section 9 (Pardon Power Limitations: self-clemency prohibition, re
 Article XIV, Section 17 (Abolition of Qualified Immunity: QI abolition, anti-reconstruction clause, under-color-of-law definition, good faith mitigation, indemnification with personal floor, financial responsibility, punitive damages, supervisory liability, attorney fees, discovery-rule limitations, non-dischargeability, supersession of topic-specific waivers, preserved legislative/judicial immunity, federal floor) — see single-topic/judicial-reform.md
 Article XIV, Section 18 (Waiver of Sovereign Immunity: entity immunity waiver, Eleventh Amendment supersession, discretionary function/Feres abolition, private-party parity, government entity definition, anti-retaliation, anti-reconstruction, entity liability for immune official acts, discovery/privilege limitations, judgment satisfaction, operational floor, supersession with savings clause, retroactivity for ongoing harm) — see single-topic/judicial-reform.md
 Article IX, Section 3-A (Post-Service Economic Restrictions: tiered cooling-off, covered entities, family members, entity-side obligations, anti-circumvention) — see single-topic/lobbying-reform.md
+Article IX, Section 10 (Active-Service Financial Restrictions: prohibited/permitted asset definitions, mandatory divestiture, liquidating trust, anti-proxy tipping rule with rebuttable presumption, post-service trading alignment with §3-A tiers, automated OLO surveillance, DOJ referral, special counsel trigger, disgorgement/treble damages/permanent disqualification, whistleblower bounty, constitutional floor, tax-neutral rollover) — see single-topic/lobbying-reform.md
 ```
 
 **Do NOT link these to `constitution/00-index.md`** — they are not in this directory.
