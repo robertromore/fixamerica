@@ -623,9 +623,54 @@ Add Article III-RF, Section 11 — Digital Habeas Corpus:
 **Dependencies**: Requires coordination with data portability rights (Gap 69, Gap 84)
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article III-RF, Section 11.
+**RESOLVED.** New Article III §7 (Right to Functional Identity and Digital Habeas Corpus) establishes digital identity as a fundamental right distinct from and antecedent to citizenship. Seven subsections provide: inviolability of identity with property framing (a), prohibition on civil death with enumerated prohibited grounds (b), digital habeas corpus with 24-hour hearing, federal original jurisdiction, and clear-and-convincing burden (c), mandatory provisional credentials during disputes (d), analog redundancy with non-digital alternatives (e), data portability and self-sovereignty (f), and anti-retaliation with treble damages and criminal penalties (g). Cross-references Article III §4 (Unwaivable Core), §6 (Human Review), and Article IV §10 (Digital Papers Protection).
 
-**Severity:** Critical | **Mitigability:** Requires Development
+**Severity:** Critical | **Mitigability:** ✅ Resolved
+
+### Resolution Record — New Constitutional Text
+
+**Overlap: ~25-35% (LOW)** — Required new constitutional text.
+
+**Existing Provisions (Foundational Only):**
+
+| Existing Provision | What It Covers | What It Misses |
+|---|---|---|
+| Art III §5 (Citizenship) | Prevents citizenship loss; exclusive grounds for loss | Doesn't prevent functional identity suspension while retaining citizenship |
+| Art III §4 (Unwaivable Core) | Right to access courts | Catch-22 if identity credentials needed to prove standing |
+| Art III §6 (Human Review) | Algorithmic decisions need human review | Doesn't mandate identity restoration or provisional credentials |
+| Art I §8 (Freedom of Movement) | Right to travel | Not the credentials needed to travel |
+| Art I §22 (Anonymous Transaction) | Right to transact anonymously | Not the ability to transact at all |
+| Art IV §10 (Digital Papers) | Data privacy and security | Not credential integrity or availability |
+| Art I §10 (Data Sovereignty) | Inter-government data sharing | Not citizen identity protection |
+
+**New Provision — Article III §7:**
+
+| Subsection | Content | Key Innovation |
+|---|---|---|
+| (a) Inviolability of Identity | Digital credentials are individual property, not state property; applies to all government levels + mandated private providers | Property framing invokes Takings Clause protections |
+| (b) Prohibition on Civil Death | Judicial warrant required for suspension; 5 prohibited grounds enumerated | Bars social credit scoring, administrative non-compliance pretexts, punitive coercion |
+| (c) Digital Habeas Corpus | Federal original jurisdiction; 24-hour hearing; clear-and-convincing burden; immediate restoration authority; no exhaustion requirement | Adapts oldest common law remedy to digital age |
+| (d) Provisional Credentials | Functional temporary ID during dispute; 5 guaranteed capabilities | Prevents "Catch-22" — need ID to hire lawyer to restore ID |
+| (e) Analog Redundancy | Non-digital alternative pathway; no biometric precondition; cross-reference to Art IV §10 | Constitutional firewall against purely digital surveillance state |
+| (f) Data Portability | Encrypted offline copy; independent verification mechanisms | Prevents server failure/cyberattack from erasing legal existence |
+| (g) Anti-Retaliation | Bars identity weaponization for speech, protest, journalism, whistleblowing; treble damages; criminal penalties | Explicit deterrent against political weaponization |
+
+**Gaming Vector Analysis:**
+
+| Vector | Status |
+|--------|--------|
+| "Technical Difficulties" Cover | Addressed — §7(c)(3): government bears burden to justify by clear and convincing evidence; "error" is not justification |
+| "Verification Failure" Loophole | Addressed — §7(b): "render unverifiable" explicitly prohibited without judicial warrant |
+| "Anti-Fraud" Pretext | Addressed — §7(b)(1)-(5): enumerated prohibited grounds; §7(c)(2): 24-hour hearing prevents indefinite "investigation" |
+| "Multi-Factor Authentication" Trap | Addressed — §7(d): provisional credentials must be issued during any dispute; §7(e): non-digital alternative required |
+| Biometric Database "Loss" | Addressed — §7(f): citizen holds encrypted offline copy; §7(e): biometric data cannot be precondition for rights |
+| Algorithm-Driven Revocation | Addressed — Art III §6 (Human Review) applies as supplementary remedy per §7(c)(5) |
+
+**Residual Notes:**
+
+1. Verification availability standards (30-second response, 99.9% uptime) left to statutory implementation — constitutional authority established but operational details are legislative.
+2. Private-sector identity systems not mandated by government fall outside §7 scope; this is intentional to avoid over-constitutionalizing commercial identity services.
+3. International identity portability (passport-equivalent) requires diplomatic framework — not a constitutional gap.
 
 ---
 

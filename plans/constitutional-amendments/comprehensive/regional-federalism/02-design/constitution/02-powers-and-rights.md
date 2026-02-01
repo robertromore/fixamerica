@@ -1898,6 +1898,48 @@ These protections apply regardless of whether the person is classified as an emp
 
 (f) **Technical Standards.** The transparency, audit, bias testing, open-source, and anti-black-box requirements of Article II, Section 7-A apply to all systems within the scope of this Section, as extended by subsection (l) of that Section.
 
+### Section 7. Right to Functional Identity and Digital Habeas Corpus
+
+*Resolves Gap 209 — The "Digital Death" (Identity Revocation).*
+
+(a) **Inviolability of Identity.** The functional ability to prove one's identity, authenticate one's existence, and access one's assets is a fundamental right, distinct from and antecedent to citizenship. Digital identity credentials — including all identification numbers, tokens, biometric records, authentication keys, and digital certificates issued or maintained by government — are the property of the individual, not the state. This Section applies to all governmental entities — federal, Regional, State, and local — and to any private entity operating a government-mandated identity system.
+
+(b) **Prohibition on Civil Death.** No government, agency, or automated system may revoke, suspend, degrade, or render unverifiable a person's primary identity credentials except upon a specific, particularized judicial warrant based on probable cause of identity fraud or severe security threat. The following are prohibited grounds for identity suspension:
+
+- (1) administrative non-compliance unrelated to identity fraud;
+- (2) social credit scoring or behavioral rating;
+- (3) punitive coercion for lawful conduct;
+- (4) failure to pay fees, fines, or taxes unrelated to identity services; and
+- (5) any pretext designed to circumvent the due process protections of this Section.
+
+(c) **Digital Habeas Corpus.** Any person whose identity credentials are suspended, locked, or rendered non-functional may invoke the following protections:
+
+- (1) *Immediate Jurisdiction.* Federal district courts shall have original jurisdiction over all claims arising under this Section, concurrent with any other jurisdiction;
+- (2) *Twenty-Four-Hour Hearing.* Upon filing, the court shall conduct a hearing to verify the petitioner's physical existence and identity within twenty-four (24) hours;
+- (3) *Presumption of Validity.* The burden of proof rests solely on the government to justify the suspension by clear and convincing evidence;
+- (4) *Immediate Restoration.* The court shall have authority to order immediate restoration of identity credentials and may not be divested of this authority by statute or regulation;
+- (5) *No Exhaustion Requirement.* Immediate injunctive relief is available without exhaustion of administrative remedies. The protections of Section 4 (The Unwaivable Core) and Section 6 (Right to Human Review) of this Article apply as supplementary remedies.
+
+(d) **Provisional Credentials.** During any investigation, dispute, or litigation regarding identity, the government shall issue provisional credentials that legally suffice to:
+
+- (1) retain and pay legal counsel;
+- (2) access housing, food, and medical care;
+- (3) transact in physical currency and access financial accounts;
+- (4) travel within and between Regions; and
+- (5) enter government buildings to petition for redress.
+
+Rendering a person functionally non-existent prior to final adjudication constitutes a deprivation of liberty without due process.
+
+(e) **Analog Redundancy.** The government shall maintain a functional, non-digital pathway for identity verification sufficient to exercise all constitutional rights. No person may be denied rights or services solely for lack of a specific digital device, and possession of biometric data may not be made a precondition for the exercise of constitutional rights. The security and audit obligations of Article IV, Section 10 (Digital Papers Protection) apply to all identity systems maintained under this Section.
+
+(f) **Data Portability and Self-Sovereignty.** Individuals have the right to possess an encrypted, offline copy of their identity attributes. The government shall provide mechanisms for individuals to verify their identity independently of centralized government servers, ensuring that server failure, cyberattack, or administrative action cannot erase a person's legal existence.
+
+(g) **Anti-Retaliation.** Use of identity suspension, degradation, verification failure, or administrative delay as retaliation for political speech, lawful protest, journalism, whistleblowing, legal challenges to government action, or any other activity protected by this Constitution is prohibited. Violations of this subsection:
+
+- (1) create civil liability with treble damages;
+- (2) subject responsible officials to personal liability; and
+- (3) constitute grounds for the criminal penalties applicable to deprivation of rights under color of law.
+
 ---
 
 ## Design Rationale
