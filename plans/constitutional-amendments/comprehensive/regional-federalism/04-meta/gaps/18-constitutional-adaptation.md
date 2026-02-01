@@ -3,7 +3,7 @@
 **Identified**: 2026-01-26  
 **Category**: Constitutional Process  
 **Criticality**: 🔴 HIGH  
-**Status**: UNRESOLVED
+**Status**: ✅ **RESOLVED.** Constitutional text verified in Article XIII, Section 8 (Popular Ratification Bypass). See `02-design/constitution/05-safeguards.md`. Alternative amendment pathway with 57% supermajority and 4+ Regional majorities. Verified 2026-01-31.
 
 ## Problem Statement
 
@@ -339,10 +339,9 @@ Add to Article XIII (Amendments), Section 9:
 > - (iii) either house of Congress by majority vote;
 > - (iv) the Constitutional Court.
 
-**Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article XIII, Section 9.
+**Status:** ✅ **RESOLVED.** Constitutional text verified in Article XIII, Section 9 (Convention Scope Limitation). See `02-design/constitution/05-safeguards.md`. Pre-convention scope certification, delegate oaths, real-time monitoring, and severability. Verified 2026-01-31.
 
-**Severity:** Critical | **Mitigability:** Requires Development
+**Severity:** Critical | **Mitigability:** Requires Development | **Resolved:** 2026-01-31
 
 ---
 
@@ -351,7 +350,7 @@ Add to Article XIII (Amendments), Section 9:
 **Identified**: 2026-01-26
 **Category**: Constitutional Adaptation / Amendment Process
 **Criticality**: 🔴 **CRITICAL**
-**Status**: UNRESOLVED
+**Status**: ✅ **RESOLVED.** Constitutional text verified in Article XIII, Section 10 (Eternity Clause). See `02-design/constitution/05-safeguards.md`. Unamendable provisions protecting democratic structure, Bill of Rights, elections, separation of powers, federalism, judiciary, and prohibiting hereditary office. Verified 2026-01-31.
 
 ### Problem Statement
 
@@ -624,10 +623,9 @@ If Section 10 can be amended, it provides no protection—first amend away the e
 
 ---
 
-**Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article XIII, Section 10.
+**Status:** ✅ **RESOLVED.** Constitutional text verified in Article XIII, Section 10 (Eternity Clause). See `02-design/constitution/05-safeguards.md`. Unamendable provisions protecting democratic structure, Bill of Rights, elections, separation of powers, federalism, judiciary, and prohibiting hereditary office. Verified 2026-01-31.
 
-**Severity:** Critical | **Mitigability:** Requires Constitutional Amendment
+**Severity:** Critical | **Mitigability:** Requires Constitutional Amendment | **Resolved:** 2026-01-31
 
 ---
 

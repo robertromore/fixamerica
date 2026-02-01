@@ -52,16 +52,150 @@ See [Public Health Emergency Coordination Framework](../../proposals/06-security
 
 ---
 
-## Gap 33 — Multi-Attack Coordination
+## Gap 33 — Multi-Attack Coordination (Simultaneous Vector Analysis)
 
 **Description:**
-The analysis documents test individual attack vectors in isolation, but do not model simultaneous attacks across multiple hostile reinterpretation surfaces.
+The gap analysis documents test individual attack vectors in isolation. Each of the mitigated gaps (44, 48, 55, 62, 69, 72, 73, 81, 84, 95, 119) was stress-tested against a single adversary pursuing a single line of attack. However, a sophisticated adversary with institutional reach would not attack on one front alone. The constitution's resilience against *coordinated, simultaneous* multi-vector attacks remains under-analyzed.
+
+**The Core Problem:**
+
+Individual mitigations assume that responding institutions are functioning normally when called upon. But a coordinated attack deliberately degrades the institutions needed to execute each mitigation:
+
+| Individual Mitigation | Assumes | Coordination Attack Degrades |
+|----------------------|---------|------------------------------|
+| Gap 44 (Judicial Key Override) | Supreme Court can certify Systemic Executive Breach | Court simultaneously under recusal attack (Gap 81) |
+| Gap 81 (Emergency Quorum Restoration) | Regional Chief Judges available as replacements | Regional judiciary under certification deadlock (Gap 95) |
+| Gap 48 (Certification Escrow) | National Election Court can handle challenges | Court overwhelmed by simultaneous multi-Region escrows |
+| Gap 62 (Revenue Protection) | IFC can detect fiscal sabotage | Data denial (Gap 69) blocks IFC visibility |
+| Gap 72 (Inverted Default) | Congress fails to act through gridlock | Combined with fiscal sabotage (Gap 62) to force capitulation before IFC adjustment |
+| Gap 55 (Cyber-Kinetic Framework) | Regions can exercise Governor Key | Infrastructure coercion degrades Regional communication and governance capacity |
 
 **Risk:**
-Coordinated attacks on courts, executive, legislature, and media simultaneously could overwhelm individual defenses designed to handle single-vector threats.
+
+Coordinated attacks on courts, executive, legislature, fiscal institutions, and communications infrastructure simultaneously could overwhelm defenses designed to handle single-vector threats. The system's redundancy provides distributed resilience, but institutional response times may be insufficient when multiple fronts activate within the same 30-90 day window.
+
+---
+
+### Multi-Vector Attack Scenarios
+
+**Scenario A: Authoritarian Consolidation Blitz (Executive-Centric)**
+
+| Phase | Vector | Constitutional Target | Individual Mitigation |
+|-------|--------|----------------------|----------------------|
+| Day 1 | Emergency declaration (Article XVII) | Invoke crisis powers | Multi-key requirement, sunset enforcement |
+| Day 1-7 | Strategic recusal pressure on Supreme Court | Degrade judicial certification capacity | Emergency Quorum Restoration (Gap 81) |
+| Day 7-14 | Cyber-kinetic coercion of dissenting Regions | Degrade Regional Governor Key capacity | Cyber-Kinetic Framework (Gap 55) |
+| Day 14-30 | Executive defiance of injunctions | Block judicial enforcement | Judicial Key Override (Gap 44) |
+
+**Cross-vector synergy:** The Judicial Key Override requires Supreme Court certification (6+ Justices), but if the Court is simultaneously under recusal attack, certification is delayed. Emergency Quorum Restoration takes time (Regional Chief Judges must be seated), during which cyber-kinetic attacks degrade Regional capacity to exercise the Governor Key that the Judicial Key Override relies upon. The emergency declaration provides legal cover for the cyber-kinetic operations.
+
+**Residual vulnerability:** Institutional response time. If the Court takes 14-21 days to restore quorum and certify, and Regions take 7-14 days to restore communication infrastructure, the adversary has a 21-35 day window where no effective enforcement mechanism operates.
+
+---
+
+**Scenario B: Electoral Subversion Package (Electoral-Centric)**
+
+| Phase | Vector | Constitutional Target | Individual Mitigation |
+|-------|--------|----------------------|----------------------|
+| Pre-election | Dark money flooding target Regions | Distort electoral competition | Campaign finance provisions (Gap 49) |
+| Election day | Information blackouts in 3+ Regions | Suppress turnout, prevent monitoring | Referendum Immunity Protocol (Gap 84) |
+| Post-election | Simultaneous certification escrow in 3+ Regions | Overwhelm National Election Court | Certification Escrow (Gap 48) |
+| Post-election | Regional judicial stays blocking federal jurisdiction | Prevent certification transfer | Preemptive Federal Jurisdiction (Gap 95) |
+
+**Cross-vector synergy:** The Certification Escrow mechanism assumes one or two Regions challenge results while the rest certify normally. If 3+ Regions simultaneously escrow results, the National Election Court must convene multiple emergency panels within 48 hours each. The 28-day final determination deadline creates a constitutional crisis if multiple cases require different timelines. Meanwhile, Regional judicial stays (before Gap 95's federal transfer kicks in at 7 days) create a window where no results are certified.
+
+**Residual vulnerability:** National Election Court capacity. The constitution does not specify maximum concurrent Integrity Challenges the Court can adjudicate, or how competing timelines are prioritized.
+
+---
+
+**Scenario C: Fiscal Strangulation Campaign (Economic-Centric)**
+
+| Phase | Vector | Constitutional Target | Individual Mitigation |
+|-------|--------|----------------------|----------------------|
+| Year 1 | State-level tax strikes in 2+ Regions | Drain Regional revenue | Revenue Protection Framework (Gap 62) |
+| Year 1-2 | Obstruct Fiscal Equalization Act renewal | Trigger default provisions | Inverted Default (Gap 72) |
+| Concurrent | Data denial blocking IFC oversight | Prevent detection and response | National Data Spine (Gap 69) |
+| Year 2+ | Infrastructure leverage against weakened Regions | Force political capitulation | Cyber-Kinetic Framework (Gap 55) |
+
+**Cross-vector synergy:** The Revenue Protection Framework requires IFC detection and enforcement, but data denial (Gap 69) delays detection by months. The Inverted Default protects transfers, but combined fiscal attacks may require IFC emergency adjustment—which requires data the adversary is denying. By the time federal backup data authority (Gap 69 mitigation) activates, Regional fiscal capacity may already be degraded enough to force political concessions.
+
+**Residual vulnerability:** Detection lag. Individual fiscal attack mitigations assume timely IFC awareness. Coordinated data denial extends the detection-to-response timeline beyond what Regional fiscal reserves can sustain.
+
+---
+
+### Structural Assessment
+
+**What the system gets right:**
+
+1. **Distributed authority:** No single institution controls all enforcement mechanisms. Capturing the Executive still leaves the judiciary, Regions, and IFC as independent actors.
+2. **Multiple key requirements:** Most critical actions require 2-3 independent authorizations. Simultaneous capture of all key-holders is geometrically harder than capturing one.
+3. **Automatic triggers:** Several mitigations activate automatically (auto-certification at 21 days, default fiscal transfers, federal jurisdiction transfer at 7 days) without requiring institutional action.
+4. **Constitutional floor:** Rights-floor protections and non-suspension provisions constrain what any captured institution can do even during emergencies.
+
+**Where coordination creates residual risk:**
+
+1. **Response time gaps:** Individual mitigations assume sequential activation. Simultaneous attacks create overlapping response timelines where each responding institution is itself under attack.
+2. **Institutional capacity limits:** The National Election Court, Supreme Court, and IFC are designed to handle one crisis at a time. Simultaneous crises in all three domains are not modeled.
+3. **Communication degradation:** Cyber-kinetic attacks on Regional infrastructure could prevent the very coordination needed to activate multi-key responses.
+4. **Cascading dependencies:** Gap 44's fix depends on Gap 81's fix, which depends on Regional judiciary availability, which depends on Gap 95's fix. A chain of dependencies creates a single failure cascade.
+
+---
+
+### Proposed Protocols: Coordination-Aware Resilience
+
+**Protocol 1: Cross-Institutional Alert System**
+
+> When any institution detects an attack within its domain (certification challenge, recusal pattern, fiscal anomaly, data denial, cyber-kinetic incident), it shall immediately notify:
+>
+> - (a) The Supreme Court (or its Emergency Quorum designee);
+> - (b) The Independent Fiscal Council;
+> - (c) All Regional Governors;
+> - (d) The National Election Court (during election periods);
+> - (e) The Congressional leadership of both chambers.
+>
+> Notification triggers a **Coordinated Threat Assessment** within 72 hours, conducted by a standing inter-institutional panel.
+
+**Protocol 2: Concurrent Crisis Adjudication**
+
+> The National Election Court and Supreme Court shall maintain surge capacity sufficient to adjudicate three (3) concurrent emergency matters simultaneously. The Judicial Council shall maintain a reserve roster of qualified judges who can be temporarily assigned to emergency panels without displacing standing judges.
+
+**Protocol 3: Communication Resilience Mandate**
+
+> Federal institutions and Regional Governors shall maintain redundant, hardened communication channels independent of public internet infrastructure. These channels shall be tested quarterly and shall be sufficient to conduct all multi-key authorization procedures even during complete disruption of civilian communications.
+
+**Protocol 4: Cascading Dependency Audit**
+
+> The Constitutional Review Commission shall conduct annual audits of mitigation dependency chains, identifying any sequence where Mitigation A depends on Mitigation B depends on Mitigation C. For any chain exceeding two dependencies, the Commission shall recommend either:
+>
+> - (a) an independent fallback mechanism that bypasses the chain, or
+> - (b) a constitutional floor provision that activates automatically if the chain fails.
+
+**Protocol 5: Time-Compression Stress Test**
+
+> Every five years, the Constitutional Review Commission shall conduct a classified simulation of the three multi-vector scenarios identified above (Authoritarian Consolidation Blitz, Electoral Subversion Package, Fiscal Strangulation Campaign), testing whether institutional response times are sufficient to prevent adversary objectives. Results shall be reported to the public in summary form, with specific vulnerability details restricted to cleared officials.
+
+---
+
+### Severity Assessment
+
+| Dimension | Assessment |
+|-----------|------------|
+| **Likelihood** | Low-to-Medium. Requires a sophisticated adversary with reach into multiple institutions simultaneously. |
+| **Impact** | Critical. If coordination succeeds, individual mitigations fail in cascade. |
+| **Detectability** | Medium. Individual vectors are detectable; coordination pattern may not be apparent until multiple vectors are active. |
+| **Existing mitigation** | Partial. Distributed authority and automatic triggers provide baseline resilience. Coordination-specific protocols do not yet exist. |
+
+**Cross-References:**
+
+- **Gap 3 (Coordinated Capture):** Category II precursor; Gap 33 operationalizes how coordinated capture would actually unfold against specific constitutional provisions
+- **Gap 44 (Executive Enforcement Deadlock):** Individual vector now mitigated; dependency chain identified above
+- **Gap 55 (Cyber-Kinetic Force):** Individual vector now mitigated; communication degradation identified as enabler for other vectors
+- **Gap 81 (Pocket Nullification):** Individual vector now mitigated; dependency on quorum restoration timeline identified
+- **Gap 84 (Referendum Hijacking):** Individual vector now mitigated; capacity limits during simultaneous challenges identified
+- **Gap 95 (Certification Deadlock):** Individual vector now mitigated; cascading dependency with Gap 48 identified
 
 **Status:**
-Under-analyzed. The system's redundancy provides some protection, but systematic analysis of multi-vector coordinated attacks is needed.
+✅ **RESOLVED.** Constitutional text verified in Article XII, Section 4 (Coordinated Threat Response). See `02-design/constitution/05-safeguards.md`. All five protocols constitutionalized: Cross-Institutional Alert System with 72-hour Coordinated Threat Assessment (subsections a-c), Concurrent Crisis Adjudication with judicial surge capacity and reserve roster (subsection d), Communication Resilience with hardened inter-institutional channels and quarterly testing (subsection e), Cascading Dependency Audit with annual Constitutional Review Commission review (subsection f), and Multi-Vector Simulation with five-year stress testing cycle (subsection g). The system's distributed authority, multi-key requirements, and automatic triggers provide baseline resilience; these coordination-specific protocols address the residual risk of simultaneous multi-front exploitation. Verified 2026-01-31.
 
 ---
 
@@ -123,7 +257,7 @@ Amend Article XI (Armed Forces) to add a third authorization pathway for "Restor
 4. **Political abuse:** The supermajority requirements (6/9 Justices, 5/7 Governors) make partisan abuse extremely difficult.
 
 **Status:**
-**PROPOSAL NEEDED.** This gap should be elevated to high priority. Recommend drafting as addition to Article XI, Section 2 of the Armed Forces provisions.
+✅ **RESOLVED.** Constitutional text verified in Article XI, Section 2(h) (Armed Forces / Judicial Enforcement Authorization). See `02-design/constitution/10-armed-forces.md`. Verified 2026-01-31.
 
 ---
 
@@ -445,7 +579,7 @@ This solution extends the Two-Key framework to cover digital and infrastructure 
 | **Axiom 2 (Distribute Power)** | ARO verification; Regional forensic access; Two-Key extension |
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article XI, Sections 1(d), 2(i), 8, 9, and 10. This five-part solution extends the Two-Key authorization framework to digital and infrastructure coercion, closes the "Attribution Fog" and "Selective Decay" vulnerabilities, and ensures that "Bloodless Nullification" is as constitutionally constrained as military occupation.
+✅ **RESOLVED.** Constitutional text verified in Article XI, Sections 1(d), 2(i), 8-10 (Cyber-Kinetic Authorization Framework). See `02-design/constitution/10-armed-forces.md`. Five-part solution extends Two-Key authorization framework to digital and infrastructure coercion, closes "Attribution Fog" and "Selective Decay" vulnerabilities, and ensures "Bloodless Nullification" is as constitutionally constrained as military occupation. Verified 2026-01-31.
 
 ---
 
@@ -800,7 +934,7 @@ The "Two-Key Rule" (Article XI-RF, Section 2) requires both the President and a 
 - **Gap 74 (Regional Guard Shadow Mobilization):** State Defense Forces; Gap 82 addresses federal response paralysis
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article XI-RF, Section 2. This four-part solution creates Congressional Key-Override with 4/5 House and 2/3 Senate threshold, establishes independent insurrection certification authority, enables Governor bypass for affected Regions, and prohibits key-holder collusion with post-incident accountability review.
+**✅ RESOLVED.** Integrated as Article XI-RF, Section 2(m)-(q) with Section 2(b) amendment. Multi-LLM review (3 rounds, full convergence on all 8 design decisions) determined that standalone Article XI, Section 14 already provides override authority, vote thresholds, scope, independent certification, governor bypass, and anti-collusion prohibition. The RF supplement adds five genuinely new provisions: (m) command authority during override (SecDef commands, resolving Section 2(b) conflict); (n) binding 3-part insurrection certification standards with RF judicial mapping (Chief Justices of Regional Supreme Courts); (o) 24-hour presidential action deadline with refusal as prima facie evidence (not automatic impeachment grounds); (p) geographic scope limitations for regional bypass; (q) petition-triggered post-incident Constitutional Court review. ARB military authorization removed per Anti-Militarization Principle (subsection (l)). Post-certification Congressional threshold set at 2/3 House + simple majority Senate per Section 14(d). Verified 2026-01-31.
 
 ---
 
@@ -1890,9 +2024,34 @@ Add to Article XVII-RF:
 > (5) **Legislative Override.** The Legislature may, by two-thirds vote, authorize a new emergency despite substantial similarity if it finds that the prior emergency's termination was erroneous or that circumstances have materially changed.
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article XVII-RF establishing substantial similarity bar with 180-day cooling-off period.
+**RESOLVED.** Jointly resolved with Gap 227 (Emergency Zombie / Permanent Crisis).
 
-**Severity:** High | **Mitigability:** Requires Development
+**Resolution (2026-01-31):**
+
+The proposal's core concern — serial re-declaration to evade time limits — is addressed through Article XVII, Section 12 (Serial Emergency Prevention), which establishes federal anti-ratcheting provisions mirroring the Regional safeguards already in Article XVII-RF §2(e)-(h):
+
+1. **Article XVII, Section 12(a)** — Prohibition on Sequential Category Switching: President may not declare under a different category within 30 days if addressing the same conditions, seeking unavailable powers, or exceeding cumulative duration limits.
+
+2. **Article XVII, Section 12(b)** — Cooling-Off Period: 180-day bar after reaching duration or renewal limits, unless genuinely new triggering event occurs AND Congress certifies by two-thirds vote.
+
+3. **Article XVII, Section 12(c)** — Cumulative Duration Tracking: Comptroller General maintains public registry; pattern exceeding twice the 2-year absolute cap in 5 years triggers mandatory congressional review.
+
+4. **Article XVII, Section 12(d)** — Judicial Review of Successive Declarations: Strict scrutiny requiring President to demonstrate genuinely distinct conditions.
+
+The proposal's "Substantial Similarity Bar" concept is incorporated into §12(a)-(b) with the following adaptations:
+
+- Applies at federal level (President/Congress) rather than only Regional level (Governor/Legislature)
+- Cross-references the absolute 2-year duration limit in §4(e) rather than the 90-day Regional limit
+- Comptroller General (not Regional Arbiter) maintains the tracking registry
+- Two-thirds congressional certification (not legislative override) for cooling-off exemptions
+
+**Cross-References:**
+
+- Article XVII, §12: see single-topic/emergency-powers-reform.md
+- Article XVII-RF, §2(e)-(h): Existing Regional anti-ratcheting (now mirrored at federal level)
+- Gap 227 (Emergency Zombie): Jointly resolved — §12 prevents serial re-declaration, §4(e) prevents indefinite renewal, §13 clears legacy emergencies
+
+**Severity:** High | **Mitigability:** Resolved
 
 ---
 
@@ -2063,9 +2222,9 @@ All three gaps convert protective jurisprudence into constitutional text, preser
 **Dependencies**: Should be ratified simultaneously with or before Gap 175 implementation
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article III-RF, Section 9.
+**RESOLVED.** Article III-RF, Section 12 (Civilian Court Supremacy) added to [09-judiciary.md](../../02-design/constitution/09-judiciary.md). Three modifications from multi-LLM review: (1) Renumbered from proposed Section 9 to Section 12 to avoid collision with existing De Novo Review Mandate; (2) Subsection (c)(iv) rewritten as conditional cross-reference — defers to Article XVII Section 8 habeas limits where Emergency Powers Reform Amendment is in force, self-contained 90-day fallback where it is not; (3) Tech-failure clause added to subsection (b) — disruption of electronic systems does not render courts non-functioning if judges remain available through manual or paper-based proceedings, closing the cyber-pretext hole. Completes the Gap 175 Repair Trilogy (Gaps 188, 189, 190).
 
-**Severity:** Critical | **Mitigability:** Requires Development
+**Severity:** Critical | **Mitigability:** Resolved
 
 ---
 
@@ -2260,9 +2419,9 @@ Add to Article II-RF, Section 12 — Total Force Federalization:
 **Dependencies**: Department of Defense inspection and registry capacity
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article II-RF, Section 12.
+**RESOLVED.** Three surgical amendments to Article XI-RF in [10-armed-forces.md](../../02-design/constitution/10-armed-forces.md): (1) Section 1(c) Regional Force Classification — any organized armed force maintained by a Regional government (other than civilian law enforcement) is classified as Regional Guard Forces subject to federalization; Regions may not maintain forces exempt from federal call-up; State SDF non-federalization exemption under Section 3(d) explicitly preserved for forces within standalone Section 13 limits. (2) Section 3(h) Subnational Force Registry and Inspection — DoD registry of all subnational military forces; annual inspections for compliance with caps and capability prohibitions; annual certification of SDF non-federalization eligibility; refusal to register or submit to inspection triggers reclassification. (3) Section 4(f)(4) Private Militia Affiliation Prohibition — Regional and State governments may not grant official status, affiliation, rank, or auxiliary designation to private militia organizations, or integrate them into governmental forces. Multi-LLM review (1 round, effective convergence on all 5 design decisions) determined that existing provisions (standalone Section 13 SDF caps + Section 4 Monopoly on Force + Section 3(d) exemption) cover ~65% of the original proposal; targeted amendments close the three remaining gaps (Regional-level force classification, proactive inspection, militia affiliation) without disrupting the cap-and-reclassify framework.
 
-**Severity:** Critical | **Mitigability:** Requires Development
+**Severity:** Critical | **Mitigability:** Resolved
 
 ---
 
@@ -2428,9 +2587,9 @@ Add to Article XVII, Section 8 — Bio-Security Supremacy:
 **Dependencies**: Requires Surgeon General certification capacity; Emergency Compensation Fund establishment; integration with existing CDC and HHS structures
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article XVII, Section 8.
+**RESOLVED.** Dual-placement integration correcting the factual error in the original proposal (Public Health is a Structured Concurrent Domain per Article II, Section 1(e)(3)(viii), NOT an Exclusive Domain). The actual vulnerability is a speed-and-enforcement problem, not a jurisdiction problem. Resolution comprises three amendments: (1) Article XVII, Section 3(b) expanded with items (5)-(6) adding mandatory epidemiological data sharing and federal direct implementation to the enumerated Public Health emergency powers. (2) New Article XVII, Section 11 (Bio-Security Emergency Escalation) in the standalone Emergency Powers Reform Amendment — hybrid triggering criteria (fixed R0/CFR thresholds OR expert professional judgment), temporary override of Structured Concurrent authority for communicable disease response only, mandatory data sharing with personal liability for suppression/falsification, civilian-first enforcement escalation (notice → fiscal consequences → federal direct implementation → judicial enforcement → military support as last resort), 90-day sunset with congressional renewal, expedited 72-hour judicial review (not an injunction ban — courts may enjoin unconstitutional measures even during active emergency), anti-abuse provisions prohibiting use for political restrictions (voting, elections, speech, assembly beyond viewpoint-neutral gathering limits), and compensation principle with Bio-Security Compensation Fund. (3) New Article XVII-RF, Section 4 (Regional Bio-Security Cooperation) in the RF supplement — Regional Governor cooperation duty, Regional data infrastructure requirements, Guard deployment for bio-security as last resort under Two-Key with civilian direction, explicit federal supersession of Regional concurrent authority during Bio-Security Emergency, and post-emergency restoration with ARB compliance assessment. Multi-LLM review (1 round, effective convergence on all 5 design decisions plus 3 additional points) identified the factual error, placement collision (Section 8 already occupied by Habeas Corpus), enumerated powers conflict, and judicial review tension in the original proposal.
 
-**Severity:** Critical | **Mitigability:** Requires Development
+**Severity:** Critical | **Mitigability:** Resolved
 
 ---
 
@@ -2592,7 +2751,38 @@ The Constitution grants Congress alone the power to declare war, but Presidents 
 **Dependencies:** None — self-contained war powers reform
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article I-RF, Section 13.
+**✅ RESOLVED.** Integrated into Article XI, Section 2 (subsections (b)(3), (d)(6), (g)-(k)) and Section 7(e) of the Military Civilian Control Amendment, plus Article X, Section 19(i) Auto-CR unauthorized operations exclusion.
+
+**Resolution Summary:**
+
+The original proposal targeted "Article I-RF, Section 13" — a placement error (Article I-RF is Regional Structure; war powers belong in Article XI). Research found ~60-70% overlap with existing Article XI §2 provisions (war declaration authority, AUMF specifications, 60-day auto-termination, congressional termination). The resolution addresses the genuine residual vulnerabilities:
+
+- **§2(b)(3)**: Treaty obligation exception for mutual defense — covers NATO Article 5 gap in §2(b)(1) which only covered attacks on US territory/forces; narrow scope (armed attack on ally only, not collective security/peacekeeping); 30-day authorization + 60-day termination
+- **§2(d)(6)**: Hard two-year maximum AUMF duration
+- **§2(g)**: Mandatory reauthorization with escalating supermajority (majority → 3/5 → 2/3); automatic termination on expiration
+- **§2(h)**: Hostilities definition anchored in IHL; enumerated list closes semantic evasion routes (drones, cyber, special ops); justiciable
+- **§2(i)**: Legacy AUMF transition — 180-day compliance with §2(d), 2-year maximum continuation; fallback clause limits scope if Congress fails to act
+- **§2(j)**: Withdrawal funding guarantee — 180-day protected funding; offensive operations prohibited; Auto-CR reduction exempted
+- **§2(k)**: Congressional standing for enforcement with expedited judicial review
+- **§7(e) strengthened**: From passive ("Congress shall appropriate no funds") to active mechanism with Comptroller General quarterly certification, unauthorized expenditure identification, and 30-day cease requirement
+- **Article X §19(i)**: Auto-CR carve-out excluding unauthorized military operations from automatic re-appropriation; Comptroller General quarantine within 30 days; withdrawal funding exempted
+
+**Rejected elements from original proposal:**
+
+- "Article I-RF, Section 13" placement — placement error
+- Automatic fund rescission at 60 days — operationally dangerous; replaced with strengthened §7(e) + Auto-CR carve-out
+- 90-day withdrawal limit — replaced with 180 days (more realistic for major deployments)
+- Emergency extension of 60-day period — existing framework (60-day auto-termination + reauthorization) is stronger without additional extension mechanism
+
+**Design decisions:**
+
+- D1:A — Amend existing §2 directly rather than creating new section (avoids duplication with existing war powers provisions)
+- D2:C — Mandatory reauthorization with escalating supermajority (stronger than hard sunset alone)
+- D3:A — Auto-CR carve-out (resolves §7(e)/§19 conflict directly)
+- D4:C — IHL reference for hostilities definition (anchored in established law)
+- D5:C — Immediate application of §2(d) requirements to legacy AUMFs with 2-year maximum
+- D6:A — Explicit treaty exception (§2(b)(1) doesn't cover treaty ally attacks)
+- D7:A — Guaranteed withdrawal funding (prevents troop safety hostage-taking)
 
 **Severity:** Critical | **Mitigability:** Manageable
 
@@ -2718,9 +2908,61 @@ The key innovation is reversing the default. Currently, inaction preserves emerg
 **Dependencies:** Coordinates with Gap 224 (War Funding) for comprehensive authorization reform
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article XVII-RF, Section 6.
+**RESOLVED.** Jointly resolved with Gap 169 (Serial Emergency Loophole).
 
-**Severity:** Critical | **Mitigability:** Manageable
+**Resolution (2026-01-31):**
+
+The proposal's core concerns — indefinite emergency duration, congressional passivity, legacy zombie emergencies, and scope creep — are addressed through three additions to standalone Article XVII (Emergency Powers Reform Amendment):
+
+1. **Article XVII, Section 4(e)-(f)** — Absolute Duration Limit and Nexus Re-demonstration:
+   - Two-year hard cap on all emergencies (Constitutional Crisis exempt under §9)
+   - 30-day wind-down period upon reaching the limit
+   - Written re-certification required for every renewal: continuing conditions, specific nexus to powers sought, necessity and proportionality
+   - All renewal votes by recorded vote (no voice votes or unanimous consent)
+
+2. **Article XVII, Section 12** — Serial Emergency Prevention:
+   - Prohibition on sequential category switching within 30 days if addressing same conditions
+   - 180-day cooling-off after reaching duration or renewal limits
+   - Comptroller General maintains public registry of all emergency declarations with cumulative duration tracking
+   - Pattern exceeding twice the absolute duration limit in 5 years triggers mandatory congressional review
+   - Strict scrutiny judicial review of successive declarations
+   - Mirrors Article XVII-RF §2(e)-(h) Regional anti-ratcheting at the federal level
+
+3. **Article XVII, Section 13** — Legacy Emergency Transition:
+   - All pre-ratification emergencies expire 180 days after ratification
+   - President may re-declare under new framework within transition period
+   - Re-declarations must meet all Article XVII requirements (category, powers, time limits)
+   - IEEPA/sanctions programs categorized as Economic emergencies
+   - 30-day inventory requirement: President must catalog all active emergencies
+   - Expedited congressional review by recorded vote during transition
+
+**Design Decisions:**
+
+- D1: Joint resolution with Gap 169 (anti-ratcheting and permanent crisis addressed together)
+- D2: Placement in standalone Article XVII, not Article XVII-RF (federal reforms, not Region-specific)
+- D3: 2-year absolute cap (not 90-day universal sunset — preserves category-specific limits in §4(a))
+- D4: 180-day legacy transition (not immediate termination — orderly conversion)
+- D5: Nexus re-demonstration on renewal (not power specificity, which §1(a)(4) and §3(f) already require)
+- D6: Recorded vote mandate (accountability for every renewal decision)
+
+**Rejected Elements:**
+
+- 90-day universal sunset: Conflicts with §4(a) category-specific durations; 2-year absolute cap achieves the goal
+- Intermediate scrutiny for judicial review: Conflicts with §6(c) no-deference framework; strict scrutiny for anti-ratcheting, independent review for regular challenges
+- "Article XVII-RF, Section 6" placement: These are general federal reforms, not Region-specific
+- Blanket "power specificity" requirement: Already covered by §1(a)(4) and §3(f)
+- Veto trap concern: Already resolved by §4(b) non-vetoable congressional termination
+
+**Cross-References:**
+
+- Article XVII, §4(e)-(f): see single-topic/emergency-powers-reform.md
+- Article XVII, §12: see single-topic/emergency-powers-reform.md
+- Article XVII, §13: see single-topic/emergency-powers-reform.md
+- Gap 169 (Serial Emergency): Jointly resolved by §12
+- Gap 224 (War Funding): Compatible — AUMF sunset (Article XI) and emergency sunset (Article XVII) operate independently
+- Article XVII-RF §2(e)-(h): Regional anti-ratcheting (now mirrored at federal level by §12)
+
+**Severity:** Critical | **Mitigability:** Resolved
 
 ---
 
@@ -2878,10 +3120,9 @@ The military monopoly of the state is foundational to constitutional order. Priv
 
 ---
 
-**Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article XI-RF, Section 9.
+**Status:** ✅ **RESOLVED.** Constitutional text verified in Article XI-RF, Section 4 (Monopoly on Force). See `02-design/constitution/10-armed-forces.md`. Prohibits private military contractors in inherently governmental functions, extends UCMJ to authorized contractors. Verified 2026-01-31.
 
-**Severity:** Critical | **Mitigability:** Preventable
+**Severity:** Critical | **Mitigability:** Preventable | **Resolved:** 2026-01-31
 
 ---
 

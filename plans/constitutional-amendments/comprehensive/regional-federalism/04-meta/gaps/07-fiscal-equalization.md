@@ -86,7 +86,7 @@ Amend Article X (Fiscal System) to add Section 6 establishing Administrative Rec
 | Constitutional coherence | Contradicts design axioms | Consistent with design |
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend adding to Article X, Section 6 and updating the Fiscal Equalization Act to include implementing procedures. Any existing weighted-voting language should be removed from the framework.
+✅ **RESOLVED.** Constitutional text verified in Article X, Section 8 (Administrative Receivership for Chronic Fiscal Dependency). See `02-design/constitution/04-fiscal-system.md`. Weighted-voting language removed from the framework; receivership approach preserves democratic equality while addressing fiscal dependency. Verified 2026-01-31.
 
 ---
 
@@ -818,7 +818,7 @@ While Article X grants Regions independent taxing authority, the Constitution do
 - **Gap 57 (Boundary Petrification):** State fiscal sabotage could be used to force State departure from Region
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article X, Section 1. This four-part solution creates a Regional Revenue Protection Framework that prohibits targeted fiscal nullification while preserving legitimate State tax autonomy, establishes lien parity and direct Regional collection authority, limits intra-Regional tax competition and authorizes Regional Minimum Taxes, and provides expedited enforcement with revenue restoration remedies.
+✅ **RESOLVED.** Constitutional text verified in Article X, Section 1(a-f) (Regional Revenue Protection Framework). See `02-design/constitution/04-fiscal-system.md`. Four-part solution prohibits targeted fiscal nullification, establishes lien parity and direct Regional collection authority, limits intra-Regional tax competition with Regional Minimum Taxes, and provides expedited enforcement with revenue restoration remedies. Verified 2026-01-31.
 
 ---
 
@@ -957,7 +957,7 @@ Article XXI, Section 2(b) creates a default fiscal rule where equalization trans
 - **Gap 62 (Fiscal Hollow-Out):** Regional fiscal capacity requires equalization transfers
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article XXI, Section 2. This three-part solution inverts the default incentive structure so that Congressional inaction benefits Recipient Regions (stable 5% transfers) rather than Donor Regions (declining transfers), grants IFC emergency adjustment authority, and provides expedited consideration with poison pill severability.
+✅ **RESOLVED.** Constitutional text verified in Article XXI, Section 2(b) through (b-6) (Inverted Default Incentive Framework). See `02-design/constitution/07-implementation.md`. Three-part solution inverts default incentive structure so Congressional inaction benefits Recipient Regions (stable 5% transfers), grants IFC emergency adjustment authority, and provides expedited consideration with poison pill severability. Verified 2026-01-31.
 
 ---
 
@@ -2669,9 +2669,18 @@ Add to Article [Fiscal/Budget Article]:
 > (6) **Debt Limit Integration.** If automatic appropriations would cause federal debt to exceed any statutory debt limit, the debt limit shall be deemed automatically suspended for the duration of automatic appropriations, to prevent shutdown by alternative means.
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment establishing automatic continuing resolution to constitutionally prohibit government shutdowns.
+**RESOLVED.** Integrated as Article X, Section 19 in 04-fiscal-system.md. Key refinements from multi-LLM review:
 
-**Severity:** Critical | **Mitigability:** Requires Development
+- Essential functions receive CPI-U-indexed full appropriations (not just personnel compensation)
+- Fixed enumerated list of protected functions with supermajority amendment process
+- Subsection (6) (debt limit suspension) removed as redundant with Article I, Section 20 (Gap 260)
+- Explicit borrowing authority bridge clause linking auto-CR to Section 20
+- "No new programs/expansions" guardrail ported from Article XXI, Section 2(d)
+- Article XXI, Section 2(d) amended to forward-reference Section 19
+
+Verified 2026-01-31.
+
+**Severity:** Critical | **Mitigability:** ✅ Resolved
 
 ---
 
@@ -2887,9 +2896,9 @@ Add to Article VI-RF, Section 4 — Minimum Contribution Floor:
 **Dependencies**: Constitutional Court for genuine capacity certification; Interstate Compact for corporate apportionment formula
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article VI-RF, Section 4.
+**RESOLVED.** Integrated as Article X, Section 3(l)-(s) (Tax Effort and Anti-Haven Standards) in [04-fiscal-system.md](../../02-design/constitution/04-fiscal-system.md). Key refinements from multi-LLM review: (1) IFC certifies genuine capacity vs. fiscal shirking instead of Constitutional Court, aligning with Section 5; (2) anti-haven rate floor converted from hard prohibition to fiscal consequence (deemed full capacity for equalization), preserving Regional autonomy; (3) phantom revenue coordination rule prevents double-counting with Section 3(f) subsidy-neutrality add-backs; (4) Section 3-A minimum floor explicitly preserved — phantom revenue reduces above floor but cannot reduce below it; (5) corporate apportionment includes IFC default formula if no Interstate Compact; (6) federal backstop narrowed to equalization formula adjustments only — Congress may not establish minimum tax rates; (7) State-level applicability excluded as outside scope; (8) residence/domicile standards (183-day rule, source taxation) included for enforcement. Verified 2026-01-31.
 
-**Severity:** High | **Mitigability:** Requires Development
+**Severity:** High | **Mitigability:** Resolved
 
 ---
 
@@ -2897,8 +2906,8 @@ Add to Article VI-RF, Section 4 — Minimum Contribution Floor:
 
 **Identified**: 2026-01-26
 **Category**: Federal-Regional Relations
-**Criticality**: 🔴 **CRITICAL**
-**Status**: UNRESOLVED
+**Severity:** Critical | **Mitigability:** Resolved
+**Status**: **RESOLVED.** Integrated as Article X, Section 4 (Non-Coercion Standard) in `02-design/constitution/04-fiscal-system.md`. Expanded from one-line anti-coercion rule to 9-subsection framework via multi-LLM review. Key refinements: (1) cumulative + per-condition 5% coercion threshold using IFC functional categories; (2) explicit coverage of conditional tax expenditures; (3) two-thirds Regional Assembly supermajority for voluntary Exclusive Domain cooperation; (4) germaneness requirement codifying weakest element of *Dole* doctrine; (5) Section 18(c) cross-reference linking unfunded mandate and spending coercion protections; (6) MOE requirements linked to Section 18(e) regardless of funding status. Verified 2026-01-31.
 
 ### Problem Statement
 
@@ -3058,8 +3067,8 @@ Add to Article VI-RF, Section 8 — Non-Coercion Standard:
 
 **Identified**: 2026-01-26
 **Category**: Monetary Policy
-**Criticality**: 🔴 **CRITICAL**
-**Status**: UNRESOLVED
+**Severity:** Critical | **Mitigability:** Resolved
+**Status**: **RESOLVED.** Integrated into Article X, Section 13 (Prohibition on Shadow Currencies) in `02-design/constitution/04-fiscal-system.md`. Amended Section 13(c) functional test to explicitly apply to any instrument regardless of issuer (closing adoption-vs-issuance loophole). Added three subsections: (h) Legal Tender Monopoly prohibiting Regional acceptance/denomination/endorsement of non-Federal-Dollar currencies; (i) Federal Dollar definition with CBDC inclusion, stablecoin exclusion, and Article I Section 22 cross-reference for anti-programmability; (j) Private Transactions carve-out. Verified 2026-01-31.
 
 ### Problem Statement
 
@@ -3387,9 +3396,9 @@ Add to Article VI-RF (Fiscal Framework), Section 9:
 **Dependencies**: Constitutional Court must be operational to administer reorganization petitions
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article VI-RF, Section 9.
+**RESOLVED.** Existing Article X, Sections 6-10 already addressed most attack vectors (no-bailout rule in Section 6(i), structured bankruptcy in Section 6(j), conservatorship in Section 7, receivership in Section 8, 5-stage intervention hierarchy in Section 10). Remaining gaps integrated through narrow additive changes: (1) Section 6(i) strengthened with voidness clause, "instrumentality" language, and explicit carve-outs for stabilization transfers, essential service operations, and emergency liquidity; (2) Section 6(j) enhanced with creditor voting (two-thirds by value), holdout binding, and pension priority ordering; (3) Section 6(s) Market Discipline Preservation added (prohibits risk-free treatment of Regional bonds); (4) Section 6(t) Emergency Liquidity Assistance added with IFC gatekeeping (liquidity-only certification, penalty rates, 18-month maximum, no renewal); (5) Section 7(d)(1)(B) clarified as operational continuity. Multi-LLM review determined that proposed Constitutional Court/Federal Trustee track, numeric fiscal emergency trigger, and fixed 30% haircut floor were rejected in favor of existing ARB/IFC architecture, Section 10 escalation pathway, and process-based creditor voting. Verified 2026-01-31.
 
-**Severity:** Critical | **Mitigability:** Requires Development
+**Severity:** Critical | **Mitigability:** Resolved
 
 ---
 
@@ -3607,16 +3616,16 @@ Add to Article VI-RF, Section 10 — Actuarial Honesty Mandate:
 **Dependencies**: Federal Pension Oversight Board requires congressional establishment; existing unfunded liabilities require transition plan
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article VI-RF, Section 10.
+**RESOLVED.** Integrated as Article X, Section 20 (Actuarial Honesty and Pension Discipline) in [04-fiscal-system.md](../../02-design/constitution/04-fiscal-system.md). Section 6(o) amended to include unfunded pension/OPEB liabilities with 10-year phase-in. Key refinements from multi-LLM review: (1) IFC Pension Actuarial Division replaces proposed standalone Federal Pension Oversight Board; (2) private sector extension (subsection j) removed as outside constitutional scope; (3) enforcement integrated into existing Section 10 intervention hierarchy with pension-specific stage triggers; (4) reorganization treatment harmonized with Section 6(j)(6) priority ordering; (5) pre-ratification liabilities subject to both amortization discipline and Section 15 Legacy Burden Factor equalization; (6) anti-gaming guardrail added to automatic contribution trigger (IFC may disregard assumption changes within 12 months of trigger event); (7) pension obligation bonds gated by IFC certification of net actuarial improvement. Verified 2026-01-31.
 
-**Severity:** Critical | **Mitigability:** Requires Development
+**Severity:** Critical | **Mitigability:** Resolved
 
 ---
 
 ## Gap 241 — The "Unfunded Mandate" (Fiscal Stranglehold)
 
 **Identified:** 2026-01-26
-**Severity:** Critical | **Status:** PROPOSAL AVAILABLE
+**Severity:** Critical | **Status:** ✅ **RESOLVED.** Constitutional text verified in Article X, Section 18 (Full Funding Requirement). See `02-design/constitution/04-fiscal-system.md`. Prohibits unfunded mandates, requires CBO cost determination, and bans conditional funding coercion. Verified 2026-01-31.
 
 ### Problem Statement
 
@@ -3793,10 +3802,9 @@ The Supreme Court permits Congress to condition federal funding on state complia
 
 **Dependencies:** Requires CBO capacity expansion; coordinates with Gap 232 (appropriations protection)
 
-**Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article X-RF, Section 14.
+**Status:** ✅ **RESOLVED.** Constitutional text verified in Article X, Section 18 (Full Funding Requirement). See `02-design/constitution/04-fiscal-system.md`. Prohibits unfunded mandates, requires CBO cost determination, and bans conditional funding coercion. Verified 2026-01-31.
 
-**Severity:** Critical | **Mitigability:** Preventable
+**Severity:** Critical | **Mitigability:** Preventable | **Resolved:** 2026-01-31
 
 ---
 

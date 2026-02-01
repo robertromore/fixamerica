@@ -92,6 +92,90 @@ This standalone constitutional amendment establishes transparency requirements f
 
 (3) criminal prosecution for willful violations.
 
+### Section 3-A. Post-Service Economic Restrictions
+
+(a) **Relationship to Section 3.** This section supplements Section 3. Compliance with the lobbying restrictions of Section 3 does not excuse violation of this section, and compliance with this section does not excuse violation of Section 3. A former official subject to both provisions shall comply with each independently.
+
+(b) **Covered Positions.** For purposes of this section, covered positions are defined in two tiers:
+
+(1) **Tier 1** — positions subject to a five-year cooling-off period:
+
+(i) all positions requiring Senate confirmation;
+
+(ii) all Senior Executive Service positions or equivalent;
+
+(iii) all positions with regulatory, enforcement, or contracting authority over private entities.
+
+(2) **Tier 2** — positions subject to a two-year cooling-off period:
+
+(i) all positions involving access to non-public information relevant to private investment or business decisions;
+
+(ii) congressional staff earning above a threshold set by law;
+
+(iii) other positions designated by the Office of Lobbying Oversight as having substantial private-sector interaction.
+
+(c) **Post-Service Economic Prohibition.** No former holder of a covered position may, during the applicable cooling-off period, accept from a covered entity any employment, compensation, consulting fees, advisory fees, speaking fees, board seats, equity interests, stock options, deferred compensation, or any other arrangement providing economic benefit, regardless of the form such arrangement takes.
+
+(d) **Covered Entities.** The prohibition extends to:
+
+(1) any entity the former official regulated, contracted with, or had substantial official dealings with during the final three years of service;
+
+(2) any subsidiary, affiliate, parent, or successor of such entity;
+
+(3) any trade association of which such entity is a member or substantial funder;
+
+(4) any entity receiving more than twenty-five percent of its revenue from entities described in paragraphs (1) through (3);
+
+(5) any entity substantially controlled by principals of a covered entity.
+
+For officials of agencies with jurisdiction over multiple industries, "regulated, contracted with, or had substantial official dealings with" extends only to entities within the specific sector or industry over which the official had substantial authority, not to all entities within the agency's jurisdiction.
+
+(e) **Family Members.** The prohibitions of subsection (c) extend to compensation paid to or economic benefits conferred upon the immediate family of a former covered official, where such compensation or benefit is designed to circumvent this section. "Immediate family" means the official's spouse, domestic partner, dependent children, and any person sharing a household with the official at the time of separation from service.
+
+(f) **De Minimis and Passive Investment Exceptions.** This section does not prohibit:
+
+(1) ownership of shares in diversified mutual funds, index funds, or exchange-traded funds that are not sector-specific to the official's former regulatory portfolio;
+
+(2) economic relationships below fifty Federal Penalty Units per year in aggregate value;
+
+(3) pre-existing financial arrangements entered into before government service, provided no new economic benefit is conferred during the cooling-off period.
+
+(g) **Penalties.** Violation of this section results in:
+
+(1) civil penalties of up to five times the compensation received for prohibited activities;
+
+(2) forfeiture of federal pension benefits during the period of violation;
+
+(3) criminal prosecution for willful violations;
+
+(4) clawback of all compensation received in violation of this section;
+
+(5) permanent ineligibility for future federal employment.
+
+(h) **Entity-Side Obligations.** Covered entities:
+
+(1) shall certify annually to the Office of Lobbying Oversight that they do not employ, compensate, or provide economic benefit to any former covered official in violation of this section, including by providing compensation or economic benefit to the immediate family of any such official;
+
+(2) that knowingly employ, compensate, or provide economic benefit to a former covered official in violation of this section are subject to civil penalties under Section 9(a) and criminal prosecution under Section 9(b) for willful violations.
+
+(i) **Reporting.** Former holders of covered positions shall file annual employment and compensation disclosures with the Office of Lobbying Oversight for ten years after leaving office. Disclosures shall include all sources of income, board memberships, consulting arrangements, and equity interests.
+
+(j) **Whistleblower Incentive.** Persons who provide original information leading to successful enforcement of this section are eligible for awards under Section 8(d).
+
+(k) **Hardship Exception.** The prohibitions of this section may be waived only upon:
+
+(1) a finding by a federal court that no comparable employment outside the covered sector is available and that the former official's financial circumstances constitute genuine hardship;
+
+(2) limitation that the waiver does not extend to board seats, equity interests, or compensation exceeding civil service pay levels for comparable positions;
+
+(3) public disclosure of the waiver, including the court's findings, within forty-eight hours of issuance.
+
+The Office of Lobbying Oversight may petition for or oppose waivers and shall publish all waiver decisions.
+
+(l) **Relationship to Article II, Section 7-A(k).** Nothing in this section limits the application of Article II, Section 7-A(k) (Revolving Door Restrictions for Constitutional Oversight Bodies). Officials subject to both this section and Article II, Section 7-A(k) shall comply with both; the stricter requirement controls where they overlap.
+
+(m) **Anti-Circumvention.** Any arrangement designed to provide economic benefit to a former covered official or the official's immediate family through intermediaries — including charitable donations to entities affiliated with or substantially benefiting the former official — is subject to the prohibitions of this section regardless of the form of the arrangement.
+
 ### Section 4. Foreign Lobbying Restrictions
 
 (a) Any person acting as an agent of a foreign principal shall register with the Office of Lobbying Oversight before engaging in any political activities, lobbying activities, or public relations activities within the United States on behalf of that foreign principal.
@@ -209,6 +293,7 @@ This standalone constitutional amendment establishes transparency requirements f
 This amendment requires implementing legislation including:
 
 - Lobbying Disclosure Act (registration procedures, reporting formats, thresholds)
+- Post-Service Economic Restrictions Act (Tier 2 position designation criteria, OLO reporting formats, entity certification procedures, multi-mission agency sector definitions)
 - Foreign Agents Registration Act amendments (aligning with Section 4)
 - Office of Lobbying Oversight Establishment Act (structure, budget, personnel)
 - Ethics in Government Act amendments (financial disclosure requirements)
@@ -253,6 +338,22 @@ If adopted standalone:
 - Congressional ethics committees are captured
 - Independent oversight with single-mission focus
 - Director tenure provides insulation from political pressure
+
+### Why Extend Beyond Lobbying to All Economic Relationships?
+
+- Section 3 bans "lobbying" — compensated communications to influence official action
+- This leaves employment, consulting, boards, equity, and speaking fees untouched
+- The "deferred bribe" operates through employment promises, not lobbying
+- 60% of former SEC Directors become securities industry consultants
+- Capture operates through implicit reward expectations, not explicit lobbying
+
+### Why Tiered Cooling-Off Periods?
+
+- Not all government employees pose the same revolving door risk
+- Senate-confirmed officials and SES regulators have the most influence — five years
+- Information-access positions still create risk but less direct — two years
+- Flat five-year ban for all would cause brain drain and recruitment failure
+- Tier 2 aligns with existing §3(a)(3) two-year staff lobbying ban
 
 ### Why Strict Foreign Lobbying Rules?
 

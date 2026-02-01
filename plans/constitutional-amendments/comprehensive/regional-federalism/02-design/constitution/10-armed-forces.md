@@ -46,6 +46,10 @@ If the Military Civilian Control Amendment is adopted alongside Regional Federal
 
 (b) Regional Guard Forces are under the command of the Regional Governor except when called into federal service.
 
+*Resolves Gap 192 — Paramilitary Loophole (Shadow Army). Closes the unfederalizable Regional force vulnerability by classifying all Regional-level armed forces as Regional Guard.*
+
+(c) **Regional Force Classification.** Any organized armed force maintained by a Regional government, other than civilian law enforcement agencies operating within normal police powers, shall be classified as Regional Guard Forces and subject to federalization under Section 2. No Region may establish or maintain military or paramilitary forces exempt from federal call-up authority. The non-federalization exemption under Section 3(d) applies only to State Defense Forces maintained by individual State governments within the limits established by the Military Civilian Control Amendment.
+
 ---
 
 ### Section 2. Federalization of Regional Guard
@@ -56,7 +60,7 @@ If the Military Civilian Control Amendment is adopted alongside Regional Federal
 - upon authorization for use of military force approved by two-thirds of the House and Senate,
 - for domestic deployment pursuant to two-key authorization (as defined by the Military Civilian Control Amendment if adopted, or by subsection (g) of this section).
 
-(b) When called into federal service, Regional Guard units are commanded by the President through the chain of command.
+(b) When called into federal service, Regional Guard units are commanded by the President through the chain of command, except during Congressional Key Override as provided in subsection (m).
 
 (c) Federalization for domestic purposes may not exceed ninety days without consent of the affected Region's Governor.
 
@@ -119,6 +123,49 @@ Two-key authorization may not be waived, delegated to military officers, or sati
 
 (l) **Anti-Militarization Principle.** The limitations on Guard federalization in subsection (d) reflect the constitutional preference for civilian, fiscal, and judicial enforcement mechanisms over military force in resolving intergovernmental disputes. Nothing in this section shall be construed to authorize military action against civilian populations.
 
+#### Congressional Key Override Operations
+
+*Resolves Gap 82 — Double-Key Hostage-Taking (Collusion for Inaction). These provisions supplement the Congressional Key Override (Article XI, Section 14) with operational details that depend on Regional Federalism institutions. The standalone Section 14 provides the override authority, vote thresholds, scope, independent certification, governor bypass, and anti-collusion prohibition. The following subsections address command authority, certification standards, certification effect, geographic scope, and post-incident review.*
+
+(m) **Command Authority During Congressional Key Override.** When Congress activates the override authority under Article XI, Section 14:
+
+- (1) The Secretary of Defense exercises operational command of all federalized forces, including Regional Guard units called into federal service;
+- (2) The President retains titular Commander-in-Chief status but may not countermand Congress-authorized operations;
+- (3) Command reverts to the President upon termination of the Congressional override.
+
+(n) **Insurrection Certification Standards.** For purposes of independent insurrection certification under Article XI, Section 14(d):
+
+- (1) Certification requires a binding finding that all three conditions are met:
+    - (i) armed groups exercise territorial control within the United Regions;
+    - (ii) civil law enforcement, including State and Regional law enforcement, has proven insufficient to restore order; and
+    - (iii) constitutional governance faces an imminent threat that military force alone can address.
+- (2) Where Article XI, Section 14(d)(2) refers to "Circuit Chief Judges," the Regional Federalism equivalent shall be the Chief Justices of the Regional Supreme Courts or, if Regional Supreme Courts have not been established, the chief judges of the federal circuit courts encompassing the affected Region.
+- (3) Certification under this subsection is judicially reviewable only after the operational period ends.
+
+(o) **Certification Effect on Presidential Action.** Upon independent insurrection certification under subsection (n):
+
+- (1) The President shall request two-key authorization or invoke the insurrection exception under Article XI, Section 3 within twenty-four (24) hours;
+- (2) Failure to act within twenty-four hours:
+    - (i) reduces the Congressional override threshold to two-thirds of the House and simple majority of the Senate, as provided in Article XI, Section 14(d);
+    - (ii) constitutes prima facie evidence of dereliction of duty in any subsequent impeachment proceeding, but does not automatically constitute grounds for impeachment.
+- (3) The President may satisfy the twenty-four-hour deadline by providing written justification for declining to act, which shall be transmitted to Congress and published immediately.
+
+(p) **Post-Certification Regional Bypass Scope.** When a Regional Governor provides individual consent for operations under Article XI, Section 14(e):
+
+- (1) Operations are limited to the consenting Governor's Region and areas of direct threat spillover;
+- (2) Operations may not extend to non-affected Regions without those Regions' Governor consent or Congressional authorization;
+- (3) The geographic scope determination shall be made by the Secretary of Defense, subject to judicial review.
+
+(q) **Post-Incident Review.** Following any deployment authorized through Congressional key override under Article XI, Section 14:
+
+- (1) Any member of Congress, any Regional Governor, or any affected party with standing may petition the Constitutional Court to review:
+    - (i) whether the certification of insurrection was factually supported;
+    - (ii) whether key-holder refusals were justified;
+    - (iii) whether the scope of military operations exceeded the certified threat.
+- (2) The Constitutional Court shall accept or decline the petition within thirty (30) days.
+- (3) Findings of unjustified refusal may be used as evidence in subsequent impeachment or recall proceedings.
+- (4) No review under this subsection may retroactively invalidate lawful military orders issued during the operational period.
+
 ---
 
 ### Section 3. Integration with State National Guard
@@ -141,6 +188,84 @@ Two-key authorization may not be waived, delegated to military officers, or sati
 (f) During concurrent operations, the senior Regional Guard commander shall coordinate overall response unless the emergency is confined to a single State and the Regional Governor has not declared a Regional emergency.
 
 (g) Nothing in this section shall be construed to subordinate State National Guard units to Regional command without agreement under subsection (b), except during federalization or declared Regional emergency requiring unified command.
+
+*Resolves Gap 192 — Paramilitary Loophole (Shadow Army). Ensures the cap-and-reclassify framework in the Military Civilian Control Amendment, Section 13(d) has proactive detection rather than relying on reactive discovery.*
+
+(h) **Subnational Force Registry and Inspection.** The Department of Defense shall:
+
+- (1) maintain a comprehensive registry of all Regional Guard Forces, State National Guard units, and State Defense Forces;
+- (2) conduct annual inspections of all registered forces to verify compliance with personnel caps, capability prohibitions, and authorized roles established by this article and the Military Civilian Control Amendment;
+- (3) report findings to Congress, the affected Regional Governor, and the Constitutional Court;
+- (4) certify annually whether each State Defense Force remains within the limits that preserve its non-federalization exemption under Section 3(d).
+
+Failure to register or refusal to submit to inspection shall constitute prima facie evidence that the force exceeds authorized limits, triggering reclassification review under the Military Civilian Control Amendment, Section 13(d) for State forces, or immediate classification as Regional Guard under Section 1(c) for Regional forces.
+
+---
+
+### Section 4. Monopoly on Force
+
+*Resolves Gap 235 — Privatized War / PMC Prohibition. Closes the mercenary bypass by prohibiting private military contractors from performing inherently governmental functions involving force.*
+
+(a) **Inherently Governmental Function.** The exercise of the following powers is an Inherently Governmental Function that may only be performed by sworn officers of the United Regions:
+
+- (1) combat operations, offensive military action, and armed conflict engagement;
+- (2) detention, arrest, and imprisonment of persons;
+- (3) interrogation of prisoners or detainees;
+- (4) law enforcement requiring the use or threat of force;
+- (5) intelligence operations involving coercion, violence, or surveillance of U.S. persons;
+- (6) security operations requiring authority to use lethal force.
+
+(b) **Private Military Contractor Prohibition.** The Federal Government, Regional Governments, and all agencies and instrumentalities thereof may not:
+
+- (1) employ private military contractors for combat, combat support, or security operations requiring lethal force authority;
+- (2) fund, directly or indirectly, private military operations by U.S. or foreign entities;
+- (3) grant immunity, indemnification, or legal protection to private military actors;
+- (4) classify PMC contracts or expenditures to evade congressional oversight;
+- (5) permit PMC personnel to operate under U.S. command or in conjunction with U.S. forces.
+
+(c) **Limited Contractor Authorization.** Private contractors may provide:
+
+- (1) logistics, maintenance, and supply chain services;
+- (2) training and education in non-combat settings;
+- (3) technical expertise for weapons systems;
+- (4) administrative and clerical support.
+
+Contractors providing such services may not carry weapons, exercise detention authority, or participate in combat operations.
+
+(d) **UCMJ Extension.** Any person performing security or military-adjacent functions under U.S. government contract is subject to:
+
+- (1) the Uniform Code of Military Justice;
+- (2) prosecution for war crimes under federal law;
+- (3) court-martial jurisdiction for offenses committed in conflict zones.
+
+(e) **Foreign Operations.** U.S. persons may not:
+
+- (1) serve in foreign private military organizations;
+- (2) provide military training or services to foreign governments without State Department license;
+- (3) participate in combat operations for any entity other than the United Regions armed forces.
+
+Violation strips U.S. citizenship and creates permanent ineligibility for any government employment or contract.
+
+(f) **Regional PMC Prohibition.** Regional and State governments may not:
+
+- (1) hire private military or armed security contractors;
+- (2) authorize private entities to exercise law enforcement powers;
+- (3) fund paramilitary organizations through grants, contracts, or tax benefits;
+- (4) grant official status, affiliation, rank, or auxiliary designation to private militia or paramilitary organizations, or integrate such organizations into any governmental armed force.
+
+(g) **Transparency.** All contracts for security services, military training, or defense-related functions:
+
+- (1) shall be reported to Congress within 30 days;
+- (2) may not be classified solely to conceal their existence;
+- (3) shall include total cost, personnel count, and authorized activities;
+- (4) shall be publicly disclosed in unclassified summary form.
+
+(h) **Enforcement.** Violation of this section:
+
+- (1) renders any PMC contract void and unenforceable;
+- (2) creates personal liability for officials authorizing prohibited contracts;
+- (3) subjects violators to prosecution for illegal warfare;
+- (4) authorizes Congress to terminate any covert action discovered to involve PMC combat operations.
 
 ---
 

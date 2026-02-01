@@ -192,6 +192,116 @@ This standalone constitutional amendment modernizes the impeachment process to e
 
 (e) Judicial review under this section is limited to the sufficiency of the charges, not the factual merits, which remain exclusively for the Senate.
 
+### Section 9. Limitations on the Pardon Power
+
+*Addresses Gap 223: The Pardon Loophole ("The Impunity Circle") and Gap 171: Impunity Pardon ("The Self-Cleanse"). Reforms the pardon power to prevent self-dealing, obstruction of justice, and abuse of clemency while preserving traditional mercy functions.*
+
+(a) Definitions. For purposes of this Section:
+
+(1) "Act of clemency" means any pardon, commutation of sentence, reprieve, remission of fine or forfeiture, or other exercise of executive clemency power, however denominated.
+
+(2) "Named relationship" means a person who is the President's: spouse, domestic partner, parent, child (including adopted child and stepchild), sibling (including stepsibling), grandparent, grandchild, parent-in-law, child-in-law, or sibling-in-law.
+
+(3) "Same administration" means having served simultaneously as officers or employees of the executive branch during any portion of the same presidential term, regardless of relative seniority.
+
+(4) "Senior campaign role" means any compensated position, or any uncompensated position with authority over strategy, communications, finance, or operations, in a presidential campaign.
+
+(b) Self-Clemency Prohibition. No President, Regional Governor, or State Governor may grant an act of clemency to themselves for any offense. This prohibition is absolute and may not be waived or circumvented.
+
+(c) Impeachment-Related Clemency. The President may not grant an act of clemency for any offense:
+
+(1) that is the subject of pending articles of impeachment against the President;
+
+(2) that is cited as evidence in articles of impeachment against the President; or
+
+(3) that forms part of the same course of conduct alleged in articles of impeachment against the President.
+
+(d) Restricted Clemency Requiring Senate Approval. The President may not, without approval by two-thirds vote of the Senate, grant an act of clemency to:
+
+(1) any person who is a named relationship of the President;
+
+(2) any person who served in the President's presidential campaign in a senior campaign role;
+
+(3) any person who served as a principal officer, head of executive department, or senior advisor in the President's administration; or
+
+(4) any person with whom the President has had a significant financial or business relationship within the ten (10) years preceding the President's inauguration.
+
+The Senate shall act on any request for clemency approval within sixty (60) calendar days of submission. Failure to act within sixty days shall constitute denial. The Senate's authority under this subsection is granted directly by this Article.
+
+(e) Witness and Subject Clemency. When an act of clemency is granted to a person who, at the time of the grant or at any time during the preceding five (5) years:
+
+(1) was a witness or potential witness in any proceeding involving the President;
+
+(2) possessed evidence relevant to any investigation of the President; or
+
+(3) was a subject or target of an investigation involving the President's conduct;
+
+the act of clemency shall be presumed to have been granted with corrupt intent. The President may overcome this presumption only by demonstrating, by clear and convincing evidence before a federal court, that the clemency was granted for a legitimate purpose unrelated to the President's personal legal exposure.
+
+(f) Same-Administration Clemency. The President may not, without approval by two-thirds vote of the Senate, grant an act of clemency to any person with whom the President served simultaneously as officers of the executive branch during any portion of the same presidential term, regardless of relative seniority. This includes but is not limited to a former President under whom the granting President served as Vice President. The Senate's authority under this subsection is granted directly by this Article.
+
+(g) Timing Restrictions. During the final sixty (60) calendar days before the expiration of the President's term of office:
+
+(1) all acts of clemency shall be submitted to Congress before taking effect;
+
+(2) Congress may, by joint resolution adopted within thirty (30) days of submission, void any act of clemency;
+
+(3) no act of clemency shall take effect during this period without submission under paragraph (1).
+
+(h) Disclosure Requirements. All acts of clemency shall be accompanied by:
+
+(1) public identification of the recipient;
+
+(2) a statement of the offenses covered;
+
+(3) a certification that no restricted relationship exists under subsections (d) or (f), or that the required Senate approval has been obtained; and
+
+(4) filing with the official government publication system designated by law within seventy-two (72) hours.
+
+No act of clemency shall be classified, sealed, or withheld from public disclosure. Secret acts of clemency are void.
+
+(i) Retroactive Voidability. If articles of impeachment are adopted by the House of Representatives within two (2) years following the issuance of an act of clemency by the President, any such act of clemency covering offenses related to the conduct alleged in the articles of impeachment shall be voidable upon petition to a federal court. The court shall void the act of clemency unless the President demonstrates by clear and convincing evidence that the clemency was not granted to obstruct justice or shield participants in the alleged conduct.
+
+(j) Enforcement.
+
+(1) An act of clemency issued in violation of subsection (b), (c), or the submission requirement of subsection (g) shall be void ab initio.
+
+(2) An act of clemency issued without required Senate approval under subsection (d) or (f) shall be void ab initio.
+
+(3) An act of clemency subject to the presumption under subsection (e) shall be voidable upon judicial finding that the presumption has not been overcome.
+
+(4) An act of clemency subject to subsection (i) shall be voidable within the two-year retroactive voidability window.
+
+(5) An act of clemency that fails to comply with disclosure requirements under subsection (h) shall be voidable, and non-compliance shall constitute evidence of corrupt intent under subsection (e).
+
+(6) Any person with standing may challenge an act of clemency in federal court. Standing includes: Congress by resolution of either chamber, any prosecutor with jurisdiction over covered offenses, and any victim of the covered offense.
+
+(k) Conspiracy to Evade. Any agreement, express or implied, to grant or accept an act of clemency in exchange for silence, false testimony, refusal to cooperate with lawful investigations, or other obstruction of justice shall constitute a separate criminal offense. This offense:
+
+(1) is not subject to any act of clemency by any executive at any level of government;
+
+(2) may be prosecuted by any federal, Regional, or State authority with jurisdiction; and
+
+(3) shall be punishable as provided by law, with a minimum penalty established by Congress.
+
+(l) Traditional Clemency Preserved. Nothing in this Section shall limit:
+
+(1) acts of clemency for persons with no relationship to the President described in subsections (d) or (f);
+
+(2) acts of clemency granted for purposes of justice reform, humanitarian relief, or national reconciliation, provided they comply with disclosure requirements under subsection (h); or
+
+(3) the exercise of clemency power by officials other than the President, except as provided in subsection (b).
+
+(m) Implementing Legislation. Congress shall enact legislation providing:
+
+(1) procedures for Senate review of clemency requests under subsections (d) and (f);
+
+(2) standards for determining "significant financial or business relationship" under subsection (d)(4);
+
+(3) procedures for congressional review of lame-duck clemency under subsection (g); and
+
+(4) penalties for conspiracy to evade under subsection (k).
+
 ---
 
 ## Implementation Notes
@@ -201,6 +311,7 @@ This amendment requires implementing legislation including:
 - House Impeachment Procedures Act (committee rules, witness procedures, timeline enforcement)
 - Senate Trial Rules (evidence standards, presiding officer duties)
 - Judicial Discipline Act (procedures for suspension and incapacity under Section 7)
+- Pardon Power Limitations Act (Senate clemency review procedures, financial relationship standards, conspiracy-to-evade penalties, lame-duck review procedures)
 
 ---
 
@@ -211,11 +322,14 @@ If the Regional Federal Constitution is adopted:
 - Article VIII applies to federal officers as specified
 - Regional officers are subject to Regional impeachment procedures under Regional constitutions
 - No RF Supplement is required; impeachment applies uniformly to federal government
+- Section 9(b) self-clemency prohibition applies to Regional Governors in addition to the President
 
 If adopted standalone:
 
 - Article VIII replaces current impeachment provisions in Articles I and II
 - Applies to all federal officers subject to current impeachment provisions
+- Section 9(b) self-clemency prohibition applies to State Governors in addition to the President
+- Section 9 comprehensively reforms the presidential pardon power regardless of whether Regions exist
 
 ---
 
@@ -248,6 +362,41 @@ If adopted standalone:
 - Disqualification from future office serves public interest
 - Prevents strategic resignation to preserve future eligibility
 - Historical precedent supports continuation
+
+### Why Cover All Acts of Clemency?
+
+- If only "pardons" were restricted, Presidents could commute sentences to achieve the same corrupt purpose
+- Commutation to time served releases co-conspirator identically to a pardon
+- "Act of clemency" defined to include all forms: pardons, commutations, reprieves, remissions
+- Traditional clemency preserved under subsection (l) for legitimate uses
+
+### Why Named Relationships Rather Than Degrees of Consanguinity?
+
+- "Third degree of consanguinity or affinity" is a legal term most citizens cannot evaluate
+- Named list (spouse, parent, child, sibling, etc.) is unambiguous and self-enforcing
+- Prevents gaming through relationship-degree disputes
+- Inclusionary approach covers domestic partners, step-relations, and in-laws
+
+### Why Rebuttable Presumption for Witness Clemency?
+
+- Automatic prohibition would create false positives for legitimate clemency involving witnesses
+- "Corrupt intent" standard (original proposal) is practically unenforceable — Presidents always claim legitimate reasons
+- Rebuttable presumption shifts burden to the President: must prove legitimate purpose by clear and convincing evidence
+- Creates effective deterrent through legal uncertainty for corrupt actors
+
+### Why Same-Administration Language for Successor Pardons?
+
+- The Ford-Nixon sequence (VP becomes President, pardons former President) is a specific historical vulnerability
+- Banning all successor pardons would be too broad (legitimate clemency decades later)
+- "Same administration" captures the specific corrupt bargain without affecting unrelated administrations
+- Applies regardless of seniority direction: VP pardoning former President or President pardoning former VP
+
+### Why Retroactive Voidability for Pre-Impeachment Pardons?
+
+- Without this provision, a President could pardon all co-conspirators before articles of impeachment are filed
+- Section 9(c) only triggers on "pending" articles — creating a race-to-pardon incentive
+- Retroactive voidability means pre-emptive pardons are conditionally valid: they evaporate if impeachment follows within two years
+- Changes calculus for co-conspirators: the pardon may not protect them, reducing the obstruction incentive
 
 ---
 

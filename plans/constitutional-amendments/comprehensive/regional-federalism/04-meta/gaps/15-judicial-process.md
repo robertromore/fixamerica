@@ -369,7 +369,7 @@ This is acknowledged as a high-conflict structural reform. The resistance does n
 **Identified**: 2026-01-26
 **Category**: Judicial Process
 **Criticality**: 🔴 **CRITICAL**
-**Status**: UNRESOLVED
+**Status**: ✅ RESOLVED (2026-01-31)
 
 ### Problem Statement
 
@@ -531,9 +531,9 @@ The 150% cap acknowledges that trials consume more resources and that some sente
 **Dependencies**: None — self-contained criminal procedure reform
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article III-RF, Section 18.
+✅ **RESOLVED.** Constitutional text verified in Article III-RF, Section 6 (Trial Penalty Prohibition). See `02-design/constitution/09-judiciary.md`. 150% coercion cap on post-trial sentences relative to plea offers. Verified 2026-01-31.
 
-**Severity:** Critical | **Mitigability:** Requires Constitutional Amendment
+**Severity:** Critical | **Mitigability:** Requires Constitutional Amendment | **Resolved:** 2026-01-31
 
 ---
 
@@ -542,7 +542,7 @@ The 150% cap acknowledges that trials consume more resources and that some sente
 **Identified**: 2026-01-26
 **Category**: Judicial Process
 **Criticality**: 🔴 **CRITICAL**
-**Status**: UNRESOLVED
+**Status**: ✅ RESOLVED (2026-01-31)
 
 ### Problem Statement
 
@@ -736,9 +736,9 @@ The Constitution doesn't guarantee that rich defendants win—but the current sy
 **Dependencies**: Coordinates with Gap 242 (Trial Penalty) for comprehensive criminal procedure reform
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article III-RF, Section 19.
+✅ **RESOLVED.** Constitutional text verified in Article III-RF, Section 7 (Defense Parity Rule). See `02-design/constitution/09-judiciary.md`. Resource equivalence between prosecution and defense, caseload limits. Verified 2026-01-31.
 
-**Severity:** Critical | **Mitigability:** Requires Constitutional Amendment
+**Severity:** Critical | **Mitigability:** Requires Constitutional Amendment | **Resolved:** 2026-01-31
 
 ---
 
@@ -747,7 +747,7 @@ The Constitution doesn't guarantee that rich defendants win—but the current sy
 **Identified**: 2026-01-26
 **Category**: Judicial Process
 **Criticality**: 🔴 **CRITICAL**
-**Status**: UNRESOLVED
+**Status**: ✅ RESOLVED (2026-01-31)
 
 ### Problem Statement
 
@@ -962,9 +962,9 @@ Fee-shifting for prevailing plaintiffs:
 ---
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article XIV-RF, Section 11.
+✅ **RESOLVED.** Constitutional text verified in Article XIV-RF, Section 5 (Citizen Standing). See `02-design/constitution/09-judiciary.md`. Broadened standing for constitutional challenges, institutional injury doctrine. Verified 2026-01-31.
 
-**Severity:** Critical | **Mitigability:** Requires Constitutional Amendment
+**Severity:** Critical | **Mitigability:** Requires Constitutional Amendment | **Resolved:** 2026-01-31
 
 ---
 
@@ -973,7 +973,7 @@ Fee-shifting for prevailing plaintiffs:
 **Identified**: 2026-01-26
 **Category**: Judicial Process / Criminal Procedure
 **Criticality**: 🔴 **CRITICAL**
-**Status**: UNRESOLVED
+**Status**: ✅ RESOLVED (2026-01-31)
 
 ### Problem Statement
 
@@ -1160,9 +1160,9 @@ The Supreme Court's *Blockburger* "same elements" test allows prosecution for th
 ---
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article V, Section 3 (or Article III-RF, Section 20).
+✅ **RESOLVED.** Constitutional text verified in Article III-RF, Section 8 (Single Jeopardy Rule). See `02-design/constitution/09-judiciary.md`. Unified jeopardy across sovereign levels, supersedes Gamble v. United States. Verified 2026-01-31.
 
-**Severity:** Critical | **Mitigability:** Requires Constitutional Amendment
+**Severity:** Critical | **Mitigability:** Requires Constitutional Amendment | **Resolved:** 2026-01-31
 
 ---
 
@@ -1171,7 +1171,7 @@ The Supreme Court's *Blockburger* "same elements" test allows prosecution for th
 **Identified**: 2026-01-26
 **Category**: Judicial Process / Administrative Law
 **Criticality**: 🔴 **CRITICAL**
-**Status**: UNRESOLVED
+**Status**: ✅ RESOLVED (2026-01-31)
 
 ### Problem Statement
 
@@ -1375,9 +1375,9 @@ Courts lack expertise in science, engineering, economics. But legal interpretati
 ---
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article III-RF, Section 21.
+✅ **RESOLVED.** Constitutional text verified in Article III-RF, Section 9 (De Novo Review Mandate). See `02-design/constitution/09-judiciary.md`. Constitutionalizes Loper Bright, eliminates agency deference. Verified 2026-01-31.
 
-**Severity:** Critical | **Mitigability:** Requires Constitutional Amendment
+**Severity:** Critical | **Mitigability:** Requires Constitutional Amendment | **Resolved:** 2026-01-31
 
 ---
 
@@ -1386,7 +1386,7 @@ Courts lack expertise in science, engineering, economics. But legal interpretati
 **Identified**: 2026-01-26
 **Category**: Judicial Process / Public Safety
 **Criticality**: 🔴 **CRITICAL**
-**Status**: UNRESOLVED
+**Status**: ✅ RESOLVED (2026-01-31)
 
 ### Problem Statement
 
@@ -1612,9 +1612,9 @@ Constitutional protection ensures:
 ---
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article III-RF, Section 22.
+✅ **RESOLVED.** Constitutional text verified in Article III-RF, Section 10 (Sunshine in Litigation Mandate). See `02-design/constitution/09-judiciary.md`. Prohibits sealing of public hazard evidence in litigation settlements. Verified 2026-01-31.
 
-**Severity:** Critical | **Mitigability:** Requires Constitutional Amendment
+**Severity:** Critical | **Mitigability:** Requires Constitutional Amendment | **Resolved:** 2026-01-31
 
 ---
 
@@ -1623,7 +1623,7 @@ Constitutional protection ensures:
 **Identified**: 2026-01-26
 **Category**: Judicial Process / Supreme Court Procedure
 **Criticality**: 🔴 **CRITICAL**
-**Status**: UNRESOLVED
+**Status**: ✅ RESOLVED (2026-01-31)
 
 ### Problem Statement
 
@@ -1837,9 +1837,9 @@ The Constitution creates one Supreme Court with "judicial Power." Judicial power
 ---
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article III-RF, Section 23.
+✅ **RESOLVED.** Constitutional text verified in Article III-RF, Section 11 (Reasoned Order Mandate). See `02-design/constitution/09-judiciary.md`. Shadow docket reform requiring published reasoning for all orders. Verified 2026-01-31.
 
-**Severity:** Critical | **Mitigability:** Requires Constitutional Amendment
+**Severity:** Critical | **Mitigability:** Requires Constitutional Amendment | **Resolved:** 2026-01-31
 
 ---
 

@@ -280,7 +280,7 @@ While the framework addresses fiscal, military, and regulatory independence, it 
 - **Gap 66 (Regulatory Dumping):** Data denial as enforcement sabotage
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article I, Section 10. This five-part solution creates a National Data Spine Framework that classifies Critical Governance Data as a Shared Constitutional Utility, prohibits digital blockade and technical obstruction, establishes data reconciliation procedures with IFC authority, protects privacy through use restrictions rather than access denial, and provides emergency access orders and federal backup authority for persistent obstruction.
+✅ **RESOLVED.** Constitutional text verified in Article I, Section 10 (Data Sovereignty and Critical Governance Data). See `02-design/constitution/01-regional-structure.md`. Five-part solution classifies Critical Governance Data as Shared Constitutional Utility, prohibits digital blockade and technical obstruction, establishes data reconciliation procedures with IFC authority, protects privacy through use restrictions rather than access denial, and provides emergency access orders with federal backup authority. Verified 2026-01-31.
 
 ---
 
@@ -493,7 +493,7 @@ Article XXII-RF (Amendment Process) establishes the National Popular Referendum 
 - **Gap 45 (Emergency Power Abuse):** General emergency abuse; Gap 84 addresses referendum-targeted abuse
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article XXII-RF, Section 6. This four-part solution establishes Referendum Immunity Period with emergency power limitations, protects communications infrastructure with NEC backup systems, guarantees polling access with extended voting for disruptions, and creates enforcement authority with referendum invalidation and personal criminal liability.
+✅ **RESOLVED.** Constitutional text verified in Article XIII, Section 7 (Referendum Immunity Protocol). See `02-design/constitution/05-safeguards.md`. Four-part solution establishes Referendum Immunity Period with emergency power limitations, protects communications infrastructure with NEC backup systems, guarantees polling access with extended voting for disruptions, and creates enforcement authority with referendum invalidation and personal criminal liability. Verified 2026-01-31.
 
 ---
 
@@ -657,7 +657,7 @@ The transition strategy relies on phased transfer of authority from States to Re
 - **Gap 100 (Hollow Region):** Regional dysfunction; Gap 105 addresses data-caused dysfunction
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend amendments to Transition Strategy, Section X. This three-part solution mandates State Mirror Repositories with open formats and 30-day transfer timeline, establishes Restoration Mandate breach consequences with destruction prohibition and criminal accountability, and creates federal backup repository with service continuity requirements.
+✅ **RESOLVED.** Constitutional text verified in Article XXI, Section 5 (Data Continuity During Transition). See `02-design/constitution/07-implementation.md`. Mirror repository mandate, data destruction prohibition, federal backup, criminal accountability. Verified 2026-01-31.
 
 ---
 
@@ -781,7 +781,7 @@ Article II, Section 1 tasks the Federal government with "enforcement of constitu
 - **Gap 111 (Shadow Stay):** Rights enforcement blocking; Gap 119 addresses data-based blocking
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article II-RF, Section 1. This two-part solution establishes Federal Data Supremacy for rights enforcement with judicial Data Access Mandates, and protects privacy through minimization requirements and individual protections against misuse.
+✅ **RESOLVED.** Constitutional text verified in Article I, Section 10(u)-(v) (Specialized Data Access Provisions and Hierarchy of Access) and Article II, Section 1 (Enumerated Federal Powers including rights floor enforcement). See `02-design/constitution/01-regional-structure.md` and `02-design/constitution/02-powers-and-rights.md`. Federal Data Supremacy for rights enforcement established through Section 10(u)(1) cross-reference and Section 10(v)(1) precedence rule, with general data access framework providing enforcement mechanisms. Verified 2026-01-31.
 
 ---
 
@@ -890,7 +890,7 @@ The system relies on data shared by Regions for Equalization Transfers (Article 
 - **Gap 124 (Tax Haven Arbitrage):** Fiscal gaming; Gap 129 addresses data-based fiscal gaming
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article X-RF, Section 3. This four-part solution establishes IFC/ARB forensic audit authority with full system access, requires perjury-backed data certification, imposes Exclusive Domain suspension for systematic falsification, and mandates cross-verification against independent data sources.
+✅ **RESOLVED.** Constitutional text verified in Article X, Section 16 (Forensic Audit Authority and Data Integrity). See `02-design/constitution/04-fiscal-system.md`. IFC/ARB audit powers, perjury certification, cross-verification, falsification consequences. Verified 2026-01-31.
 
 ---
 
@@ -999,7 +999,7 @@ Modern governance increasingly relies on automated systems for "Benefit Allocati
 - **Gap 46 (Tactical Data Manipulation):** Data gaming; Gap 144 addresses algorithmic gaming
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article VII-RF, Section 3. This four-part solution establishes Open-Audit requirement for rights-affecting algorithms, mandates vendor transparency with nationwide bar for obstruction, requires decision explainability with human review rights, and imposes immediate suspension and retroactive review for discriminatory systems.
+✅ **RESOLVED.** Constitutional text verified in Article VII, Section 9 (Algorithmic Transparency). See `02-design/single-topic/election-reform.md`. Open-Audit requirement, vendor accountability, decision explainability, algorithmic discrimination finding. Verified 2026-01-31.
 
 ---
 
@@ -1096,9 +1096,9 @@ Add to Article I, Section 10 (National Data Spine Framework):
 > - (iv) immunity from state and local prosecution for activities within scope of enumeration duties.
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article I, Section 10(x-bb).
+✅ **RESOLVED.** Constitutional text verified in Article I, Section 10(kk-oo) (Census Protection). See `02-design/constitution/01-regional-structure.md`. Census as Constitutional Infrastructure, mandatory records sharing, obstruction consequences, anti-intimidation provision, enumeration access rights. Verified 2026-01-31.
 
-**Severity:** High | **Mitigability:** Requires Development
+**Severity:** High | **Mitigability:** Addressed | **Resolved:** 2026-01-31
 
 ---
 
@@ -1107,7 +1107,7 @@ Add to Article I, Section 10 (National Data Spine Framework):
 **Identified**: 2026-01-26
 **Category**: Data & Information
 **Criticality**: 🔴 **CRITICAL**
-**Status**: UNRESOLVED
+**Status**: ✅ **RESOLVED.** Constitutional text verified in Article IV, Section 7 (The Acquisition Shield). See `02-design/constitution/03-regional-governance.md`. Government cannot purchase what it needs a warrant to search, third-party doctrine abrogation. Verified 2026-01-31.
 
 ### Problem Statement
 
@@ -1304,9 +1304,9 @@ Today, digital existence requires sharing data with hundreds of entities. The th
 **Dependencies**: None — self-contained Fourth Amendment clarification
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article IV-RF, Section 3.
+✅ **RESOLVED.** Constitutional text verified in Article IV, Section 7 (The Acquisition Shield). See `02-design/constitution/03-regional-governance.md`. Government cannot purchase what it needs a warrant to search, third-party doctrine abrogation. Verified 2026-01-31.
 
-**Severity:** Critical | **Mitigability:** Requires Development
+**Severity:** Critical | **Mitigability:** Addressed | **Resolved:** 2026-01-31
 
 ---
 
@@ -1492,9 +1492,9 @@ Only constitutional status provides durable independence.
 ---
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article X-RF, Section 13.
+✅ **RESOLVED.** Constitutional text verified in Article X, Section 17 (Independent Statistical Trust). See `02-design/constitution/04-fiscal-system.md`. IST establishment, independence guarantees, statistical fraud as High Crime. Verified 2026-01-31.
 
-**Severity:** Critical | **Mitigability:** Preventable
+**Severity:** Critical | **Mitigability:** Addressed | **Resolved:** 2026-01-31
 
 ---
 
@@ -1503,7 +1503,7 @@ Only constitutional status provides durable independence.
 **Identified**: 2026-01-26
 **Category**: Data & Information / Privacy
 **Criticality**: 🔴 **CRITICAL**
-**Status**: UNRESOLVED
+**Status**: ✅ **RESOLVED.** Constitutional text verified in Article IV, Section 10 (The Digital Papers Protection). See `02-design/constitution/03-regional-governance.md`. Extends Fourth Amendment to third-party data, abolishes third-party doctrine. Verified 2026-01-31.
 
 ### Problem Statement
 
@@ -1685,9 +1685,9 @@ The doctrine made some sense when phone records were limited. It makes no sense 
 **Dependencies**: Coordinates with Gap 218 (Data Purchase Bypass) for comprehensive third-party data protection
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article IV-RF, Section 5.
+✅ **RESOLVED.** Constitutional text verified in Article IV, Section 10 (The Digital Papers Protection). See `02-design/constitution/03-regional-governance.md`. Extends Fourth Amendment to third-party data, abolishes third-party doctrine. Verified 2026-01-31.
 
-**Severity:** Critical | **Mitigability:** Requires Constitutional Amendment
+**Severity:** Critical | **Mitigability:** Addressed | **Resolved:** 2026-01-31
 
 ---
 

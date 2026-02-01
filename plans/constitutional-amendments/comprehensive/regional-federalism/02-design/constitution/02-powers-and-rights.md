@@ -271,7 +271,7 @@ A rebuttable presumption of pretext arises where enforcement targets Regional po
 
 - (i) define its own jurisdiction over Regional Exclusive Domains;
 - (ii) amend the definition of Regional Exclusive Domain except by constitutional amendment; or
-- (iii) circumvent Domain Certification through creative bill drafting, omnibus legislation, or procedural manipulation.
+- (iii) circumvent Domain Certification through creative bill drafting, omnibus legislation, or procedural manipulation. The single-subject requirement of Article IV, Section 5-A provides the enforcement mechanism for this prohibition.
 
 (7) If the Board fails to issue certification within thirty days, the bill shall be presumptively certified as NOT impacting a Regional Exclusive Domain, and the bill may proceed under normal House procedures. This default prevents certification delay from being used to obstruct legislation.
 
@@ -921,6 +921,448 @@ An officeholder who formally declares non-alignment with any party shall not be 
 
 ---
 
+### Section 11. Merit System Protection
+
+*Addresses Gap 233: Civil Service Purges ("Spoils System")*
+
+(a) **Career Service Defined.** There shall exist a constitutionally protected Career Civil Service comprising all federal employees not specifically designated as political appointees by statute. No executive order, administrative action, or regulation shall reclassify Career Civil Service positions as political appointments.
+
+(b) **Political Appointment Ceiling.** The total number of political appointees in the Executive Branch shall not exceed 4,000 positions, or 0.2% of total federal civilian employment, whichever is less. This ceiling may only be modified by Act of Congress. Political appointees shall be limited to agency heads, deputy heads, and positions requiring Senate confirmation.
+
+(c) **Merit Principles.** Career Civil Service employees shall be:
+
+- (1) Selected based solely on qualifications, demonstrated competence, and merit;
+- (2) Protected from removal except for cause demonstrated through due process;
+- (3) Free to provide professional advice without political interference;
+- (4) Protected from retaliation for lawful whistleblowing or refusal to execute unlawful orders.
+
+(d) **For-Cause Removal.** Career Civil Service employees may be removed only for documented misconduct, incapacity, or failure to perform job duties. Political disagreement, policy views, or failure to demonstrate personal loyalty shall not constitute cause. Removal decisions shall be reviewable by the Merit Systems Protection Board with de novo authority.
+
+(e) **Anti-Circumvention.** The following actions are prohibited:
+
+- (1) Creating new employment schedules or categories to evade this section;
+- (2) Reassigning employees to compel resignation;
+- (3) Eliminating positions to terminate protected employees;
+- (4) Requiring loyalty oaths beyond the constitutional oath of office;
+- (5) Using hiring freezes to force attrition of career staff.
+
+(f) **Transition Protection.** During presidential transitions, Career Civil Service employees shall remain in their positions absent individual for-cause removal. Mass terminations, reassignments, or reclassifications during the 90 days before or after an inauguration shall be presumptively invalid.
+
+(g) **Enforcement.** The Merit Systems Protection Board shall be an independent constitutional body with members serving staggered 7-year terms, removable only by impeachment. Employees wrongfully terminated shall be entitled to reinstatement with back pay, plus damages of 100 to 500 FPUs. Supervisors who knowingly violate this section shall be personally liable.
+
+---
+
+### Section 12. Transition Integrity
+
+*Addresses Gap 234: Presidential Transition ("Scorched Earth")*
+
+(a) **Transition Period Defined.** The "Transition Period" shall commence upon:
+
+- (1) The certification of a presidential election in which the incumbent is not the winner; or
+- (2) The President's announcement that they will not seek re-election, if occurring after primary elections conclude; or
+- (3) The President's term reaching its final 90 days.
+
+(b) **Pardon Limitations.** During the Transition Period:
+
+- (1) The President may not pardon any person who served in the administration, any family member within the third degree of consanguinity, any person under investigation for matters related to the President, or themselves;
+- (2) All pardons shall require countersignature by the Attorney General or, if the Attorney General position is vacant, the Solicitor General;
+- (3) Pardons issued in the final 30 days shall be subject to review and revocation by the incoming President within 60 days of inauguration.
+
+(c) **Executive Actions Restricted.** During the Transition Period, the President may not:
+
+- (1) Issue executive orders with prospective effect beyond the current term;
+- (2) Promulgate regulations unless required by statutory deadline or genuine emergency;
+- (3) Withdraw from treaties or international agreements;
+- (4) Declassify information except upon written request specifying national security need;
+- (5) Remove inspectors general, the FBI Director, or special counsels;
+- (6) Fill vacancies in positions with terms extending beyond the current term, except acting appointments.
+
+(d) **Records Preservation.** During the Transition Period:
+
+- (1) All presidential records, including digital communications, shall be secured by the Archivist of the United States;
+- (2) The President and senior staff shall have no authority to destroy, delete, or remove records;
+- (3) The Archivist shall have security access to White House systems;
+- (4) Destruction of records during this period shall be a felony punishable by imprisonment.
+
+(e) **Transition Cooperation.** The outgoing President shall:
+
+- (1) Provide the President-elect with daily intelligence briefings within 48 hours of election certification;
+- (2) Grant transition team access to all agencies within 72 hours of election certification;
+- (3) Ensure orderly transfer of control codes, classified materials, and emergency protocols;
+- (4) Personally meet with the President-elect at least twice before inauguration.
+
+(f) **Emergency Exception.** The restrictions in subsections (b) through (c) may be suspended during a genuine national emergency declared by joint resolution of Congress, but only for actions directly related to the emergency response.
+
+(g) **Enforcement.** Actions taken in violation of this section shall be void ab initio. The incoming President shall have standing to seek judicial declaration of invalidity. Officials who facilitate violations shall be subject to criminal penalties of 50 to 500 FPUs and permanent disqualification from federal service.
+
+---
+
+### Section 13. Faithful Execution Mandate
+
+*Addresses Gap 248: Prosecutorial Nullification ("Pocket Veto of Enforcement")*
+
+(a) **Mandatory Duty.** The Executive "shall take care that the Laws be faithfully executed" is a mandatory constitutional duty, not a discretionary power. Systematic refusal to enforce a duly enacted statute constitutes a breach of this duty.
+
+(b) **Categorical Non-Enforcement Prohibited.** The Executive may not:
+
+- (i) categorically decline to enforce an entire statutory scheme;
+- (ii) issue guidance, memoranda, or policies directing non-enforcement of statutory categories;
+- (iii) interpret statutes so as to render major provisions unenforceable;
+- (iv) settle enforcement actions on terms that effectively immunize future violations.
+
+(c) **Case-by-Case Discretion Preserved.** Nothing in this section eliminates:
+
+- (i) prosecutorial discretion in individual cases based on specific facts;
+- (ii) reasonable prioritization among equally meritorious cases;
+- (iii) resource allocation decisions that do not amount to categorical abandonment;
+- (iv) decisions not to prosecute based on evidentiary insufficiency in particular matters.
+
+(d) **Distinction Standard.** Non-enforcement becomes unconstitutional categorical abandonment when:
+
+- (i) an entire class of violations is exempted from enforcement;
+- (ii) enforcement is conditioned on criteria not found in the statute;
+- (iii) the practical effect is that the statutory prohibition becomes unenforceable;
+- (iv) a reasonable observer would conclude the Executive has nullified the statute.
+
+(e) **Compelled Enforcement (Mandamus).**
+
+- (i) Upon a finding of categorical non-enforcement, courts shall issue writs of mandamus compelling the Executive to enforce the statute.
+- (ii) Mandamus under this section is not discretionary; it shall issue upon finding of violation.
+- (iii) Courts may specify minimum enforcement levels, reporting requirements, and compliance timelines.
+- (iv) Standing to seek mandamus under this section is granted to: any member of Congress; any State or Region; any person with a concrete interest in enforcement of the statute.
+
+(f) **Congressional Enforcement Trigger.**
+
+- (i) If either house of Congress passes a resolution by majority vote finding categorical non-enforcement of a specific statute, the resolution shall trigger expedited judicial review.
+- (ii) Upon such resolution, the burden shifts to the Executive to demonstrate that enforcement is occurring at levels consistent with faithful execution.
+- (iii) The reviewing court shall rule within sixty (60) days.
+
+(g) **Reporting Requirements.**
+
+- (i) Each agency shall report annually to Congress on enforcement levels for each major statutory scheme under its jurisdiction.
+- (ii) Reports shall include: number of violations detected, investigations opened, enforcement actions initiated, penalties imposed, and comparison to prior years.
+- (iii) Significant declines in enforcement levels without corresponding statutory change shall trigger explanatory hearings.
+
+(h) **Impeachment Standard.** Systematic, intentional refusal to enforce duly enacted law, when continued after judicial mandamus, constitutes a "high Crime or Misdemeanor" for purposes of impeachment.
+
+(i) **Regional Application.** This section applies equally to Regional Governors with respect to Regional legislation, with mandamus available in Regional courts and enforcement trigger available to Regional legislatures.
+
+---
+
+### Section 14. Executive Privilege Reform
+
+*Addresses Gap 251: Executive Privilege Abuse ("The Black Box")*
+
+(a) **Recognition of Privilege.** The President may assert executive privilege to withhold from Congress or the courts confidential communications and deliberative materials necessary for the effective discharge of executive duties.
+
+(b) **Crime-Fraud Exception.** Executive privilege shall not apply to:
+
+- (i) any communication or document that constitutes, describes, or provides evidence of criminal misconduct, corruption, fraud, or abuse of office by the President or any executive officer;
+- (ii) any communication made in furtherance of a crime or fraud;
+- (iii) any document that would tend to exonerate a person under criminal investigation or prosecution;
+- (iv) any communication or document subject to a congressional impeachment inquiry.
+
+(c) **Independent Determination.**
+
+- (i) Disputes over executive privilege claims shall be resolved by a Special Privilege Panel of three judges selected by lot from the federal judiciary.
+- (ii) No judge appointed by the President whose privilege is at issue may serve on the Panel.
+- (iii) The Panel's determination is final and not subject to appeal except on procedural grounds.
+
+(d) **Time-Bound Resolution.**
+
+- (i) The Special Privilege Panel shall rule on any privilege dispute within thirty (30) days of submission.
+- (ii) If the Panel fails to rule within thirty (30) days, the privilege claim is deemed denied.
+- (iii) No extension of time may be granted except by unanimous consent of all parties.
+
+(e) **Burden of Proof.**
+
+- (i) The burden of establishing that executive privilege applies rests on the Executive.
+- (ii) In cases involving allegations of misconduct by the President or senior officials, there is a presumption against privilege.
+- (iii) The presumption may be overcome only by specific showing that disclosure would cause concrete harm to national security or foreign relations.
+
+(f) **In Camera Review.**
+
+- (i) The Special Privilege Panel shall review contested documents in camera (privately) to determine applicability of privilege.
+- (ii) The Panel may disclose to Congress or courts any documents found not privileged.
+- (iii) Documents found privileged shall remain confidential unless the crime-fraud exception applies.
+
+(g) **No Blanket Claims.**
+
+- (i) Privilege must be asserted document-by-document with specific justification.
+- (ii) Blanket assertions of privilege over categories of documents are void.
+- (iii) Failure to provide specific justification within fourteen (14) days of subpoena constitutes waiver.
+
+(h) **Contempt and Enforcement.**
+
+- (i) Refusal to comply with a Panel determination is contempt of the Constitution.
+- (ii) Officials who refuse compliance may be fined, imprisoned, or removed from office.
+- (iii) The Sergeant-at-Arms of either chamber may enforce compliance by arrest.
+
+(i) **Preservation Requirement.**
+
+- (i) All presidential communications shall be preserved pursuant to the Presidential Records Act.
+- (ii) Destruction of records subject to a subpoena or privilege dispute is a felony.
+- (iii) Obstruction of privilege proceedings is grounds for impeachment.
+
+(j) **Coordination with Section 18.** Executive privilege under this section does not apply to final legal interpretations as defined in Section 18(h)(ii). Pre-decisional legal advice remains subject to this section.
+
+---
+
+### Section 15. Fiduciary Duty of Candor
+
+*Addresses Gap 252: Government Lies Without Consequence ("The Official Lie")*
+
+(a) **Duty of Truth.** All public officers of the United States, the Regions, and the States hold a fiduciary duty of candor to the citizens. In their official capacity, they shall not knowingly make false statements on matters of material public importance.
+
+(b) **Covered Officials.** This section applies to:
+
+- (i) the President, Vice President, and all Cabinet officers;
+- (ii) all members of Congress;
+- (iii) all federal judges;
+- (iv) all general and flag officers of the armed forces;
+- (v) all heads of federal agencies;
+- (vi) all Regional Governors and equivalent state officers;
+- (vii) any official authorized to speak for the government on matters of public concern.
+
+(c) **Material Public Importance.** A matter is of "material public importance" if a reasonable citizen would consider it significant in:
+
+- (i) deciding how to vote;
+- (ii) protecting their health, safety, or financial interests;
+- (iii) understanding the conduct of government;
+- (iv) evaluating the necessity or conduct of military action;
+- (v) assessing threats to national security or public safety.
+
+(d) **Knowledge Standard.**
+
+- (i) Liability attaches when an official knows the statement is false, or
+- (ii) makes the statement with reckless disregard for its truth or falsity, or
+- (iii) makes the statement in willful ignorance of readily available contrary information.
+
+(e) **Defenses.** It is a defense to a charge under this section that:
+
+- (i) the statement was true;
+- (ii) the official reasonably relied on information provided by subordinates and had no reason to doubt its accuracy;
+- (iii) the statement involved a matter of opinion, interpretation, or prediction clearly identified as such;
+- (iv) disclosure of the truth would have caused specific, identifiable harm to national security, and the official disclosed the truth as soon as the security concern abated.
+
+(f) **Consequences.**
+
+- (i) **Impeachment**: Knowing dissemination of material falsehoods is a "high Crime or Misdemeanor" for purposes of impeachment.
+- (ii) **Criminal Penalty**: A covered official who violates this section is guilty of a felony punishable by imprisonment of one (1) to five (5) years and a fine of 100 to 500 FPUs.
+- (iii) **Disqualification**: Upon conviction, the official is permanently disqualified from holding any office of honor, trust, or profit under the United States or any Region.
+- (iv) **Civil Liability**: Citizens harmed by official falsehoods may bring civil actions; sovereign immunity is waived for this purpose.
+
+(g) **Enforcement.**
+
+- (i) The Attorney General shall investigate credible allegations of violations.
+- (ii) If the Attorney General is a potential defendant or has a conflict of interest, a Special Counsel shall be appointed.
+- (iii) Congress may independently investigate and refer violations for prosecution.
+- (iv) Citizens may petition for investigation; petitions with 100,000 signatures must be formally reviewed.
+
+(h) **Corrections Requirement.**
+
+- (i) Upon learning that an official statement was false, the official shall issue a correction within 72 hours.
+- (ii) Failure to correct a known falsehood is itself a violation of this section.
+- (iii) Corrections must be given prominence equal to the original false statement.
+
+(i) **Press Briefings and Official Communications.**
+
+- (i) Press secretaries and official spokespeople are covered officials when speaking in their official capacity.
+- (ii) "No comment" is always permissible; false statements are not.
+- (iii) Official government publications, press releases, and social media accounts are covered.
+
+---
+
+### Section 16. Watchdog Independence
+
+*Addresses Gap 261: Inspector General Purges ("The Watchdog Massacre")*
+
+(a) **Inspector General Independence.** Inspectors General within the Executive Branch shall be:
+
+- (i) appointed by the President with the advice and consent of the Senate for fixed terms of seven (7) years;
+- (ii) eligible for reappointment to one additional term;
+- (iii) removable only for "Good Cause" as defined in subsection (b).
+
+(b) **Good Cause for Removal.** An Inspector General may be removed only upon:
+
+- (i) conviction of a felony;
+- (ii) permanent incapacity to perform duties;
+- (iii) malfeasance in office, including fabrication of evidence, corruption, or gross abuse of authority;
+- (iv) neglect of duty amounting to a substantial failure to perform essential functions.
+
+(c) **Removal Procedure.** Before an Inspector General may be removed:
+
+- (i) the President shall submit written charges to a three-judge panel drawn by lot from active federal circuit judges;
+- (ii) the IG shall have thirty (30) days to respond to the charges;
+- (iii) the panel shall conduct a hearing and issue findings within sixty (60) days;
+- (iv) removal requires unanimous finding by the panel that good cause exists;
+- (v) the IG remains in office pending completion of this process.
+
+(d) **Prohibited Grounds for Removal.** An Inspector General may not be removed for:
+
+- (i) "loss of confidence" by the President or agency head;
+- (ii) conducting, initiating, or pursuing any lawful investigation;
+- (iii) issuing findings or reports critical of the agency or administration;
+- (iv) cooperating with congressional oversight or responding to whistleblowers;
+- (v) any political disagreement with agency policy or administration priorities.
+
+(e) **Resource Protection.** Each Inspector General office shall receive:
+
+- (i) a budget appropriated directly by Congress, not subject to agency or OMB reduction;
+- (ii) authority to hire staff without agency approval;
+- (iii) unrestricted access to agency records, personnel, and facilities;
+- (iv) independent authority to issue subpoenas for testimony and documents.
+
+(f) **Reporting Independence.** Inspectors General shall:
+
+- (i) report simultaneously to Congress and the agency head;
+- (ii) have authority to publish reports without agency clearance or editing;
+- (iii) immediately notify Congress of any interference with investigations;
+- (iv) testify before Congress without Executive Branch approval or preparation.
+
+(g) **Whistleblower Protection.** Inspectors General shall:
+
+- (i) receive and protect whistleblower complaints;
+- (ii) investigate retaliation against whistleblowers;
+- (iii) have authority to recommend discipline for retaliators;
+- (iv) report retaliation to Congress regardless of agency preferences.
+
+(h) **Council of Inspectors General.** There shall be a Council of Inspectors General:
+
+- (i) composed of all federal IGs;
+- (ii) authorized to coordinate cross-agency investigations;
+- (iii) empowered to establish professional standards;
+- (iv) required to issue annual report on oversight activities and interference.
+
+---
+
+### Section 17. National Necessity Easement
+
+*Addresses Gap 265: Strategic Land Use ("The NIMBY Blockade")*
+
+(a) **Superior Eminent Domain.** The Federal Government possesses a superior right of Eminent Domain over Regional, State, and local land use authority for facilities and infrastructure certified as essential under this section.
+
+(b) **Certification Categories.** Congress may certify a project as a "National Necessity" if it is:
+
+- (i) essential for national defense, including military installations, weapons systems, and command infrastructure;
+- (ii) essential for nuclear safety, including waste repositories, research facilities, and power plants necessary for national energy security;
+- (iii) essential for interstate transportation infrastructure certified by Congress as a national priority;
+- (iv) essential for federal government operations, including courthouses, administrative facilities, and law enforcement infrastructure;
+- (v) essential for emergency management and disaster response.
+
+(c) **Certification Process.**
+
+- (i) Congress shall pass a certification resolution by majority vote of both chambers, specifically identifying the project and its necessity category.
+- (ii) The President shall sign the certification, or it may be enacted over veto by two-thirds vote.
+- (iii) Certification shall include a statement of the public necessity and an estimate of compensation.
+
+(d) **Regional Accommodation.**
+
+- (i) Before invoking National Necessity, the Federal Government shall engage in good faith negotiation with affected Regions.
+- (ii) Regional concerns about environmental impact, community disruption, and local conditions shall be considered and addressed where feasible.
+- (iii) The Federal Government shall minimize harm to Regional interests consistent with the national necessity.
+
+(e) **Compensation Requirement.**
+
+- (i) Just compensation shall be paid for all property taken under this section.
+- (ii) Compensation shall include direct property value plus demonstrated economic impact on the Region.
+- (iii) Ongoing compensation (payments in lieu of taxes) shall continue for the duration of federal use.
+
+(f) **Supremacy over Regional Land Use.**
+
+- (i) Once certified, Regional zoning, permitting, and land use regulations shall not apply to the National Necessity project.
+- (ii) Environmental review shall be conducted under federal, not Regional, standards.
+- (iii) Regional courts shall have no jurisdiction to enjoin certified projects.
+
+(g) **Limitations.**
+
+- (i) This section shall not be used for projects primarily benefiting private commercial interests.
+- (ii) This section shall not be used to circumvent environmental protections that apply to federal projects.
+- (iii) This section shall not be used for projects where alternatives outside unwilling Regions are reasonably available.
+
+(h) **Judicial Review.**
+
+- (i) The Constitutional Court shall have original jurisdiction over challenges to National Necessity certifications.
+- (ii) Review shall be limited to whether the certification was procedurally proper and whether the category classification is reasonable.
+- (iii) Courts shall not second-guess congressional judgment on necessity but may void certifications that are pretextual or fraudulent.
+
+---
+
+### Section 18. Prohibition on Secret Law
+
+*Addresses Gap 221: Secret Legal Interpretations ("The Dark State")*
+
+(a) **Public Law Requirement.** No law, regulation, judicial opinion, executive order, or legal interpretation having the force of law may be classified or otherwise kept secret from the public. For purposes of this section:
+
+- (i) "Legal interpretation having the force of law" means any written or oral determination regarding the scope, meaning, applicability, or constitutionality of a statute, regulation, constitutional provision, or government authority, that is relied upon, cited, or treated as authoritative by any government entity in the course of official action, regardless of its form, label, or originating office;
+- (ii) The authority for any government action must be stated in publicly available law;
+- (iii) No government entity may refuse to confirm or deny the existence of a legal interpretation concerning the scope or authority of government action; the existence of legal authority is not classifiable;
+- (iv) A legal interpretation that remains unpublished beyond the deadline established in subsection (c) is void and may not be relied upon to authorize, justify, or defend any government action;
+- (v) This section applies to the United States, each Region, each State, and all subdivisions thereof.
+
+(b) **Law and Operations Distinguished.** This section distinguishes between:
+
+- (i) **Legal authority** (which must be public): the legal reasoning, interpretation, and conclusion justifying or authorizing government action, including the statutory or constitutional basis, the scope of authority claimed, and the legal conclusion reached;
+- (ii) **Operational details** (which may be classified): sources, methods, targets, identities of agents, and specific operational parameters of implementation.
+
+Classification of operational details does not authorize classification of legal authority. At minimum, the legal question addressed, the conclusion reached, and the statutory or constitutional authority relied upon must remain unredacted in any published version.
+
+(c) **Memorialization and Publication.**
+
+- (i) Any legal guidance, whether written or oral, that is relied upon by any government entity as authority for government action shall be reduced to writing within thirty (30) days of first reliance. Guidance not so memorialized may not be relied upon, and any action taken under unwritten legal authority is ultra vires;
+- (ii) Any executive component, office, or official issuing legal opinions, interpretations, or guidance having the force of law shall publish such interpretations within one hundred eighty (180) days of issuance;
+- (iii) Publication may redact operational details as defined in subsection (b), but shall not redact legal reasoning, the legal question addressed, or the conclusion reached;
+- (iv) Each published interpretation shall include a public summary stating the legal question and the conclusion;
+- (v) No government entity may rely upon a legal interpretation that has not been published in accordance with this section;
+- (vi) During the period between issuance and the publication deadline, an interpretation is operative but must be disclosed to Congress and to any court reviewing government action conducted under its authority, upon request.
+
+(d) **Surveillance Court Transparency.** Any court, tribunal, or judicial body issuing ex parte orders under surveillance authority:
+
+- (i) shall publish all opinions interpreting the scope or constitutionality of surveillance authorities, redacted for operational details as defined in subsection (b);
+- (ii) shall be subject to review by courts of general jurisdiction upon constitutional challenge by any party with standing under this Constitution;
+- (iii) shall permit amicus curiae participation in cases raising novel questions of law or constitutional interpretation;
+- (iv) may not issue opinions interpreting constitutional rights or the scope of government authority that are permanently withheld from the public.
+
+(e) **Congressional Access.** No classification, privilege, or executive determination may prevent:
+
+- (i) any member of Congress from accessing legal interpretations relevant to their constitutional oversight duties;
+- (ii) congressional committees from receiving complete legal justifications for executive programs within their jurisdiction;
+- (iii) congressional staff holding appropriate security clearances from reviewing classified legal material under the direction of the member or committee they serve.
+
+(f) **Judicial Review.** Courts reviewing any government action:
+
+- (i) shall have access to all legal interpretations upon which the government relies to justify the action;
+- (ii) may review such interpretations in camera where necessary to protect operational details;
+- (iii) shall not defer to executive branch classification of legal reasoning;
+- (iv) may order publication of any legal interpretation upon which the government relies in the proceeding.
+
+(g) **Whistleblower Coordination.** The disclosure of a legal interpretation that is required to be public under this section but has not been published:
+
+- (i) shall constitute a disclosure in the public interest under Article I, Section 23, and the protections of that section shall apply in full;
+- (ii) shall trigger a mandatory declassification review of the interpretation, to be completed within ninety (90) days;
+- (iii) shall not be prosecuted under any espionage, classified information, or secrecy statute if the disclosure is limited to legal reasoning and does not include operational details as defined in subsection (b).
+
+(h) **Executive Privilege Coordination.**
+
+- (i) Pre-decisional legal advice — including draft opinions, internal deliberation, and attorney-client communications between government lawyers and officials regarding legal options not yet adopted — remains subject to executive privilege under Section 14 of this Article;
+- (ii) A final legal interpretation — defined as one that has been adopted, issued, or relied upon by any government entity as authority for action — may not be withheld from Congress, courts, or the public under executive privilege;
+- (iii) Upon expiration of the one-hundred-eighty-day publication period in subsection (c), executive privilege may not be asserted as a basis to prevent publication of any legal interpretation subject to this section.
+
+(i) **Sunset Backstop.** Any legal interpretation that has not been published within five (5) years of issuance:
+
+- (i) expires and may not be relied upon to authorize, justify, or defend any government action;
+- (ii) any program or activity conducted under the expired interpretation must be reauthorized under published legal authority or terminated;
+- (iii) all such interpretations shall be reviewed for possible declassification at least every two (2) years.
+
+(j) **Implementing Legislation.** Congress shall, by law:
+
+- (i) designate or establish the office or offices responsible for redaction and publication of legal interpretations under this section;
+- (ii) establish procedures for memorializing oral guidance under subsection (c)(i);
+- (iii) establish publication standards, including format, searchability, and public accessibility requirements;
+- (iv) designate the specific bodies within the surveillance court system subject to subsection (d).
+
+---
+
 ## ARTICLE III - RIGHTS FLOORS AND SUBSIDIARITY
 
 ### Section 1. Floors, Not Ceilings
@@ -967,6 +1409,86 @@ Authority resides at the lowest level capable of exercising it effectively, subj
 - superseded by Regional law on matters transferred to Regional authority,
 - or repealed by the State.
 
+### Section 4. The Unwaivable Core
+
+*Addresses Gap 217: Terms of Service Trap (Contractual Feudalism)*
+
+(a) **Inalienable Rights.** The following rights may not be waived, surrendered, or contracted away by any person, and any purported waiver is void:
+
+(1) the right to access a judicial tribunal for claims alleging violation of rights under this Constitution, including access unimpeded by forum selection clauses requiring litigation in jurisdictions having no reasonable connection to the dispute or the parties — a jurisdiction has "reasonable connection" only if it is the residence of a party, the place of contract formation or performance, or the principal place of business of a party;
+
+(2) the right to trial by jury for disputes exceeding five thousand (5,000) Federal Penalty Units;
+
+(3) the right to petition the government for redress of grievances;
+
+(4) the right to associate or not associate for political purposes;
+
+(5) the right to be free from unreasonable searches by entities acting under color of law or under contract with government;
+
+(6) the right to speak on matters of public concern, to report unlawful conduct to government authorities, and to participate in legal proceedings without contractual restraint;
+
+(7) any right whose waiver would render the person unable to vindicate protections under this Constitution.
+
+The privilege to contract conferred by Article I, Section 18(c)(1) does not authorize contracts that waive rights protected by this section.
+
+(b) **Forced Arbitration of Protected Claims Prohibited.** No pre-dispute agreement may require arbitration of:
+
+(1) claims alleging violation of rights under this Constitution;
+
+(2) claims alleging civil rights violations under federal or Regional law, including but not limited to employment discrimination, retaliation, workplace safety, and wage-and-hour claims;
+
+(3) claims for injunctive relief affecting constitutional interests;
+
+(4) class actions where individual claims are below one thousand (1,000) Federal Penalty Units.
+
+The determination of whether a claim falls within this subsection shall be made by a court, not an arbitrator. Post-dispute arbitration agreements are enforceable only if entered into knowingly and voluntarily, with the claimant informed in writing of the right to judicial resolution.
+
+(c) **Unconscionability and Severability.** A contract term waiving rights protected by subsection (a) or requiring arbitration prohibited by subsection (b) is presumptively unconscionable, unenforceable as against public policy, and severable — leaving the remainder of the contract intact.
+
+(d) **Class Action Preservation.** Waivers of class action participation are unenforceable where:
+
+(1) individual claims are below one thousand (1,000) Federal Penalty Units;
+
+(2) the aggregate claims of the class exceed one hundred thousand (100,000) Federal Penalty Units; and
+
+(3) individual litigation is not economically viable.
+
+Congress may lower but not raise these thresholds by law.
+
+(e) **Adhesion Contract Scrutiny.** For contracts of adhesion — defined as standardized agreements presented on a take-it-or-leave-it basis without meaningful opportunity for negotiation — courts shall:
+
+(1) construe ambiguities against the drafter;
+
+(2) refuse enforcement of terms not reasonably expected by the adhering party;
+
+(3) apply heightened scrutiny to rights-affecting provisions;
+
+(4) refuse enforcement of rights-waiving terms that are incorporated by reference rather than stated in the agreement itself.
+
+(f) **Employment Protection.** No person may, as a condition of employment, be required to:
+
+(1) waive the right to report workplace safety violations, fraud, or unlawful conduct to government authorities;
+
+(2) waive the right to discuss wages and working conditions with coworkers or the public;
+
+(3) agree to non-competition provisions exceeding twelve (12) months in duration or of unreasonable geographic scope;
+
+(4) waive the right to testify truthfully in any legal proceeding.
+
+These protections apply regardless of whether the person is classified as an employee, independent contractor, or otherwise.
+
+(g) **Digital Contracts.** Click-through, browse-wrap, and similar electronic agreements:
+
+(1) may not waive rights enumerated in subsection (a);
+
+(2) must provide conspicuous, separately acknowledged disclosure of any arbitration, class action waiver, or dispute resolution provisions — opt-out mechanisms for such provisions that require affirmative mail, in-person, or otherwise burdensome action are presumptively inadequate;
+
+(3) permit withdrawal of consent for prospective (but not retroactive) application upon reasonable notice.
+
+(h) **No Regional Diminution.** Consistent with Section 1 of this Article, Regions may provide greater protection against contractual rights waiver but may not diminish the protections established in this section.
+
+(i) **Savings Clause.** Nothing in this section limits the protections for digital data established by Article IV, Section 10, which shall continue to apply independently.
+
 ---
 
 ## Design Rationale
@@ -1005,6 +1527,18 @@ Centralized authority creates:
 - authoritarian consolidation risk
 
 Subsidiarity keeps decisions close to affected populations while ensuring baseline protections through judicial enforcement.
+
+### Why "Any Person" Rather Than "Citizen" in the Unwaivable Core?
+
+Section 4 uses "any person" rather than "citizen" deliberately. Adhesion contracts, forced arbitration clauses, and class action waivers affect all persons within U.S. jurisdiction — non-citizen workers, lawful residents, tourists, and visitors are equally subject to terms-of-service extraction. Limiting protection to citizens would create a two-tier rights regime where non-citizens face even greater contractual coercion. The Fourteenth Amendment's Due Process and Equal Protection Clauses already protect "any person," and Section 4 follows this established scope.
+
+### Why Functional Language in the Prohibition on Secret Law?
+
+Section 18 deliberately avoids naming specific statutory bodies (the Office of Legal Counsel, the Foreign Intelligence Surveillance Court). Constitutional text that names statutory bodies is brittle — Congress can rename an office to escape coverage. Sections 13-17 consistently use functional language ("The Executive," "Inspectors General within the Executive Branch"), and Section 18 follows this pattern: "any executive component, office, or official issuing legal opinions" and "any court, tribunal, or judicial body issuing ex parte orders under surveillance authority." Named bodies are designated in implementing legislation under Section 18(j).
+
+### Why a Hybrid Self-Execution Model for Secret Law?
+
+Section 18 resolves the tension between immediate invalidity and operational reality through a three-layer approach: (1) During the 180-day publication window, interpretations are operative but must be disclosed to Congress and courts on request (§18(c)(vi)); (2) After 180 days, unpublished interpretations are void (§18(a)(iv)); (3) A 5-year hard sunset catches any interpretation that evades the 180-day mandate through relabeling or other gaming (§18(i)). This avoids both the recklessness of instant invalidity (which could destabilize active intelligence programs overnight) and the permissiveness of a purely challenge-based model (which founders on the standing paradox: who challenges law they don't know exists?).
 
 ---
 

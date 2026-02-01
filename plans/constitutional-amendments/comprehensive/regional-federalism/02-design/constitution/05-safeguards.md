@@ -155,6 +155,93 @@ Implementation procedures are established by statute. See the [De-Escalation Pro
 
 ---
 
+### Section 4. Coordinated Threat Response
+
+*[This section addresses the risk that individually-mitigated constitutional vulnerabilities may be exploited simultaneously through coordinated multi-vector attacks that overwhelm institutional response capacity. See Gap 33.]*
+
+#### Cross-Institutional Alert System
+
+(a) **Coordinated Threat Detection.** When any constitutional institution detects an attack or anomaly within its domain — including but not limited to certification challenges, judicial recusal patterns, fiscal anomalies, data access denials, or cyber-kinetic incidents — it shall immediately notify:
+
+(1) The Supreme Court, or its Emergency Quorum designee;
+
+(2) The Independent Fiscal Council;
+
+(3) All Regional Governors;
+
+(4) The National Election Court, during election or referendum periods;
+
+(5) The Congressional leadership of both chambers.
+
+(b) **Coordinated Threat Assessment.** When two or more institutions report domain-specific attacks or anomalies within a thirty (30) day period:
+
+(1) A Coordinated Threat Assessment shall be convened within seventy-two (72) hours;
+
+(2) The Assessment shall be conducted by a standing inter-institutional panel comprising one designee each from the Supreme Court, IFC, and Regional Governors' Council;
+
+(3) The panel shall determine whether the reported events constitute a coordinated multi-vector attack;
+
+(4) Upon finding of coordination, the panel shall recommend specific institutional responses and resource deployments.
+
+(c) **Communication During Assessment.** The Coordinated Threat Assessment:
+
+(1) May not be delayed or obstructed by any single institution or official;
+
+(2) Shall proceed even if one or more institutions fail to designate a representative;
+
+(3) Shall be conducted via hardened communication channels established under subsection (e).
+
+#### Concurrent Crisis Adjudication
+
+(d) **Judicial Surge Capacity.** The National Election Court and Supreme Court shall maintain institutional capacity to adjudicate three (3) concurrent emergency matters simultaneously:
+
+(1) The Judicial Council shall maintain a reserve roster of qualified judges who may be temporarily assigned to emergency panels without displacing standing judges;
+
+(2) Reserve judges shall meet the same qualifications and independence standards as standing judges;
+
+(3) Emergency panel assignments shall be by lot from the reserve roster, not by designation of any single official;
+
+(4) No emergency panel may include more than one reserve judge per three standing judges.
+
+#### Communication Resilience
+
+(e) **Hardened Communication Channels.** Federal institutions, the Independent Fiscal Council, and Regional Governors shall maintain redundant, hardened communication channels independent of public internet and commercial telecommunications infrastructure:
+
+(1) These channels shall be sufficient to conduct all multi-key authorization procedures, coordinated threat assessments, and emergency adjudication even during complete disruption of civilian communications;
+
+(2) Channels shall be tested quarterly under simulated disruption conditions;
+
+(3) No single actor — federal, Regional, or private — shall have the ability to sever all inter-institutional communication channels simultaneously;
+
+(4) Specifications and maintenance shall be overseen by a joint committee of the institutions served, not by any single branch.
+
+#### Dependency Audit
+
+(f) **Cascading Dependency Review.** The Constitutional Review Commission shall conduct annual audits of constitutional mitigation dependency chains:
+
+(1) The audit shall identify any sequence where the effectiveness of one constitutional safeguard depends on the functioning of a second safeguard, which depends on a third;
+
+(2) For any dependency chain exceeding two links, the Commission shall recommend either:
+
+- (A) an independent fallback mechanism that bypasses the chain; or
+- (B) a constitutional floor provision that activates automatically if the chain fails;
+
+(3) Audit findings and recommendations shall be reported to Congress and published for public review within ninety (90) days of completion.
+
+#### Periodic Stress Testing
+
+(g) **Multi-Vector Simulation.** Every five (5) years, the Constitutional Review Commission shall conduct a simulation exercise testing institutional response to coordinated multi-vector attack scenarios:
+
+(1) Simulations shall include, at minimum, scenarios involving simultaneous attacks on executive compliance, judicial capacity, electoral certification, fiscal systems, and communication infrastructure;
+
+(2) All constitutional institutions shall participate;
+
+(3) Results shall be reported to Congress and the public in summary form;
+
+(4) Specific vulnerability details identified during simulation may be restricted to cleared officials for a period not exceeding two (2) years, after which they shall be declassified absent renewed certification of ongoing risk.
+
+---
+
 ## ARTICLE XIII - CONSTITUTIONAL AMENDMENTS
 
 ### Section 1. Proposal
@@ -312,6 +399,202 @@ No amendment may apply asymmetrically among Regions.
 (2) Ballot instructions must be clear and non-misleading;
 
 (3) Provisional ballots must be available for any voter whose eligibility is questioned.
+
+---
+
+### Section 8. Popular Ratification Bypass
+
+*[This section provides an alternative amendment pathway when substantial Regional support exists but falls short of the three-fourths threshold due to minority veto. See Gap 157.]*
+
+(a) **Triggering Conditions.** If an Amendment proposed by Congress:
+
+(1) Is ratified by at least four (4) Regional Legislatures;
+
+(2) Fails to achieve three-fourths ratification within two (2) years of Congressional proposal; and
+
+(3) Has not been rejected by more than two (2) Regional Legislatures;
+
+(b) **Congressional Authorization.** Congress may, by two-thirds vote of each chamber taken within six (6) months after the two-year deadline, submit the Amendment to a National Referendum;
+
+(c) **Ratification Requirements.** The Amendment becomes part of this Constitution if approved by:
+
+(1) Fifty-seven percent (57%) of the total national vote cast; AND
+
+(2) A majority of voters in at least four (4) Regions;
+
+(d) **Usage Limitations.** No more than two (2) bypass amendments may be:
+
+(1) Submitted to referendum per decade;
+
+(2) Adopted via bypass per two decades;
+
+(e) **Referendum Process.** National Referenda under this section:
+
+(1) Shall be conducted by the National Electoral Commission;
+
+(2) Shall include standardized informational materials prepared by nonpartisan federal agencies;
+
+(3) May not be held during the same election cycle as Presidential elections to avoid partisan spillover effects;
+
+(f) **Anti-Circumvention.** This bypass may not be used for amendments that:
+
+(1) Alter the basic structure of Regional Federalism;
+
+(2) Eliminate the requirement for Regional ratification of future amendments;
+
+(3) Were previously submitted to referendum and failed within the preceding decade.
+
+(g) **Referendum Integrity Protections.**
+
+(1) No Regional government may restrict voter registration or access specifically for federal referendum participation;
+
+(2) Polling locations and hours must meet federal minimum standards;
+
+(3) Any interference with referendum voting triggers federal election intervention procedures;
+
+(4) Results are not final until certified by both National Electoral Commission and federal courts.
+
+---
+
+### Section 9. Convention Scope Limitation
+
+*[This section prevents a constitutional convention from exceeding its mandate, addressing the "runaway convention" risk. See Gap 187.]*
+
+(a) **Scope Limitation.** A Convention for proposing Amendments called pursuant to this Article shall be strictly limited to the specific subject matter identified in the applications of the Regional Legislatures. Any proposal exceeding this scope is ultra vires and void.
+
+(b) **Pre-Convention Scope Certification.** Before any Convention may convene:
+
+(1) the Constitutional Court shall certify the scope of the Convention based on the language of the calling applications;
+
+(2) the certification shall define the subject matter boundaries with specificity;
+
+(3) the certification is binding on all Convention proceedings;
+
+(4) no Convention may convene without scope certification.
+
+(c) **Delegate Oath.** All Convention delegates shall, before participating in proceedings, swear or affirm:
+
+(1) to limit their proposals to the certified scope;
+
+(2) to recognize the Constitutional Court's authority to enforce scope limitations;
+
+(3) that violation of the scope limitation constitutes breach of oath.
+
+Delegates who violate their oath are subject to removal from the Convention and may be prosecuted for breach of constitutional duty.
+
+(d) **Real-Time Monitoring.** The Constitutional Court shall:
+
+(1) appoint an observer to attend all Convention proceedings;
+
+(2) receive daily reports on Convention activities;
+
+(3) have authority to issue cease-and-desist orders if proceedings exceed certified scope;
+
+(4) have authority to declare specific proposals ultra vires during Convention proceedings.
+
+(e) **Ratification Bar.** No amendment proposed by a Convention may be submitted for ratification until:
+
+(1) the Constitutional Court certifies that it falls within the certified scope;
+
+(2) the scope certification may be challenged by any Region, the President, or Congress;
+
+(3) scope determination shall be completed within sixty (60) days.
+
+(f) **Severability.** If any portion of a Convention's output is determined to exceed the certified scope:
+
+(1) the entire Convention output is void;
+
+(2) legitimate proposals may not be "severed" and separately ratified;
+
+(3) a new Convention must be called for any desired amendments.
+
+This severability rule prevents bundling legitimate and illegitimate proposals.
+
+(g) **Sovereignty Limitation.** A Convention called under this Article:
+
+(1) is a creature of the Constitution, not superior to it;
+
+(2) derives its authority solely from this Article, not from "the people" directly;
+
+(3) may not claim authority beyond that granted by this Article;
+
+(4) may not declare itself a "constitutional convention" with plenary authority.
+
+Claims of inherent sovereignty or extra-constitutional authority are void and without legal effect.
+
+(h) **Original Jurisdiction.** The Supreme Court shall have original jurisdiction to enforce this section. Standing to challenge Convention proceedings or proposals is granted to:
+
+(1) any Region;
+
+(2) the President;
+
+(3) either house of Congress by majority vote;
+
+(4) the Constitutional Court.
+
+---
+
+### Section 10. Eternity Clause
+
+*[This section establishes unamendable constitutional provisions to prevent democracy from using its own procedures to abolish itself. See Gap 249.]*
+
+(a) **Unamendable Provisions.** Amendments to this Constitution may not:
+
+(1) abolish the democratic and republican form of government;
+
+(2) abolish, suspend, or render unenforceable the Bill of Rights or subsequent amendments protecting individual liberties;
+
+(3) abolish or suspend regular elections for federal office;
+
+(4) abolish or fundamentally alter the separation of powers among the Legislative, Executive, and Judicial branches;
+
+(5) abolish or fundamentally alter the federal structure dividing power between the Federal Government and the Regions or States;
+
+(6) abolish or fundamentally alter the independence of the Judiciary;
+
+(7) concentrate governmental power in a single person, office, or entity;
+
+(8) establish any hereditary office or title;
+
+(9) abolish or suspend the right of the people to alter their government through constitutional amendment.
+
+(b) **Void Ab Initio.** Any amendment purporting to accomplish objectives prohibited by subsection (a) is void from the beginning and of no legal effect, regardless of the procedures by which it was proposed or ratified.
+
+(c) **Pre-Ratification Review.** Before any proposed amendment may be submitted to Regions or the people for ratification:
+
+(1) the Constitutional Court shall review the proposal for compliance with this section;
+
+(2) if the Constitutional Court finds the proposal violates this section, it shall declare the proposal ineligible for ratification;
+
+(3) the Constitutional Court's determination may be appealed to the Supreme Court within thirty (30) days;
+
+(4) no ratification proceedings may occur until judicial review is complete.
+
+(d) **Post-Ratification Review.** If an amendment is ratified despite pre-ratification review:
+
+(1) any citizen, State, Region, or federal officer may challenge the amendment within five (5) years of ratification;
+
+(2) the Constitutional Court shall have mandatory jurisdiction over such challenges;
+
+(3) if the Constitutional Court finds the amendment violates this section, the amendment is void and all actions taken under it are reversed to the extent practicable.
+
+(e) **Interpretation Standard.** In determining whether a proposed or ratified amendment violates this section:
+
+(1) courts shall consider substance over form, examining the practical effect of the amendment rather than its stated purpose;
+
+(2) courts shall consider cumulative effect, examining whether the amendment combined with previous amendments would accomplish prohibited objectives;
+
+(3) doubt shall be resolved in favor of preserving democratic governance and individual liberty.
+
+(f) **This Section Unamendable.** This section itself may not be amended or repealed. Any amendment purporting to modify or abolish this section is void.
+
+(g) **Enforcement.** Federal officers who attempt to implement provisions of void amendments, or who refuse to recognize judicial determinations under this section, shall be subject to:
+
+(1) immediate removal from office by the Constitutional Court;
+
+(2) criminal prosecution for violation of constitutional duty;
+
+(3) permanent disqualification from federal service.
 
 ---
 

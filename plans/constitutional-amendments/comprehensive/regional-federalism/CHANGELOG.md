@@ -2,11 +2,383 @@
 
 **Note**: This changelog has been reorganized by date. See the `changelog/` directory for detailed entries:
 
-- [`changelog/2026-01-28.md`](changelog/2026-01-28.md) - Latest changes
-- [`changelog/2026-01-27.md`](changelog/2026-01-27.md) - Previous day
+- [`changelog/2026-02-01.md`](changelog/2026-02-01.md) - Latest changes
+- [`changelog/2026-01-31.md`](changelog/2026-01-31.md) - Gap resolutions and verifications
+- [`changelog/2026-01-30.md`](changelog/2026-01-30.md) - Gap reconciliation and integration
+- [`changelog/2026-01-28.md`](changelog/2026-01-28.md) - Gap resolutions and new gaps
+- [`changelog/2026-01-27.md`](changelog/2026-01-27.md) - Separation of powers fixes
 - [`changelog/2026-01-26.md`](changelog/2026-01-26.md) - Territorial integration incentives
 - [`changelog/2026-01-25.md`](changelog/2026-01-25.md) - Major integration work
 - [`changelog/2026-01-24.md`](changelog/2026-01-24.md) - Historical development
+
+## 2026-02-01: Gap 220 — Revolving Door Resolved (Article IX §3-A)
+
+Resolved Gap 220 (The "Revolving Door" Gap / Regulatory Capture) through new Article IX, Section 3-A (Post-Service Economic Restrictions) in `single-topic/lobbying-reform.md`. Overlap analysis found ~25-35% existing coverage — Article IX §3 bans lobbying (compensated communications) for 2-4 years and Article II §7-A(k) covers COB revolving door with "personally participated" scope, but no prohibition existed on employment, consulting, board seats, equity interests, speaking fees, or deferred compensation from formerly regulated entities. The original proposal targeted "Article I-RF, Section 11" — a triple placement error (§11 occupied by Environmental Border Protection, "-RF" suffix invalid for Article I, and wrong article entirely); corrected to Article IX §3-A (companion to §3 Revolving Door Restrictions). Resolution creates tiered post-service economic restrictions: Tier 1 (5-year) for Senate-confirmed/SES/regulatory officials; Tier 2 (2-year) for information-access positions. Covers all economic benefit forms with broad entity definition (subsidiaries, trade associations, 25% revenue test), family member circumvention protection, de minimis/passive investment exceptions, penalties aligned with §3(d) plus clawback and permanent ban, entity-side certification, judicial hardship exception, savings clause for §7-A(k), and anti-circumvention including charitable donation laundering. Multi-LLM review (1 round; convergence on all 9 design decisions).
+
+### Files Modified
+
+- `02-design/single-topic/lobbying-reform.md` — Article IX §3-A added (Post-Service Economic Restrictions); Implementation Notes and Design Rationale updated
+- `02-design/constitution/article-crosswalk.md` — §3-A citation added to Standalone Amendment guidance
+- `04-meta/gaps/11-institutional-governance.md` — Gap 220 status: UNRESOLVED → RESOLVED
+- `04-meta/gaps/00-index.md` — Gap 220 status updated
+- `04-meta/02-identified-gaps.md` — Statistics updated (Requires Development 85→84, Resolved 95→96)
+
+**Status:** RESOLVED | **Detail:** [changelog/2026-02-01.md](changelog/2026-02-01.md)
+
+---
+
+## 2026-02-01: Gap 219 — Unread Law Resolved (Article IV §5-A)
+
+Resolved Gap 219 (The "Unread Law" Gap / Omnibus Chaos) through new Article IV, Section 5-A (The Deliberation Mandate) in `03-regional-governance.md`. Overlap analysis found ~10-15% existing coverage — Article II §5(b)(6)(iii) prohibits circumventing Domain Certification through omnibus legislation and Article I §19 ensures bills get floor votes, but no general single-subject, publication/reading period, or readability mandate existed for federal legislation. The original proposal targeted "Article I-RF, Section 6" — a triple placement error (§6 is occupied, "-RF" suffix is invalid for Article I, and wrong article entirely); corrected to Article IV §5-A (companion to §5 Federal Lawmaking). Resolution creates comprehensive deliberation framework: (a) single-subject requirement with narrow definition of "subject," void unrelated provisions, appropriations limited to amounts/conditions/reporting with explicit limitation-rider ban; (b) 72-calendar-hour publication in searchable machine-readable format with verifiable timestamp, plain-language summary by statute, CBO scoring with 14-day timeout, committee report with sponsor-statement alternative for discharged bills; (c) 7-day extended review for 100+ page bills with section-by-section index and 20%-threshold separate voting; (d) definition transparency (first 10%, no counterintuitive meanings, cross-referenced); (e) constitutional right to removal amendments and bill division; (f) conference reports treated as new bills with full publication reset; (g) materiality threshold for post-amendment resets (>10% word count or new subject restarts clock; otherwise 24hr repost); (h) waiver by 3/4 House vote only (no Senate per §5(d)) during Declared National Emergency with 24hr minimum; unwaivable for 200+ page bills and for single-subject requirement; (i) concurrent timing with Discharge Mandate (§19); (j) explicit enforcement mechanism for Article II §5(b)(6)(iii) anti-omnibus principle; (k) implementing legislation delegation. Multi-LLM review (1 round; convergence on all 11 design decisions).
+
+### Files Modified
+
+- `02-design/constitution/03-regional-governance.md` — Article IV §5-A added (The Deliberation Mandate); Article II §5(b)(6)(iii) forward reference added in `02-powers-and-rights.md`
+- `02-design/constitution/article-crosswalk.md` — Article IV section range updated; §5-A citation added
+- `04-meta/gaps/11-institutional-governance.md` — Gap 219 status: PROPOSAL AVAILABLE → RESOLVED
+- `04-meta/gaps/00-index.md` — Gap 219 status updated
+- `04-meta/02-identified-gaps.md` — Statistics updated (Requires Development 86→85, Resolved 94→95)
+
+**Status:** RESOLVED | **Detail:** [changelog/2026-02-01.md](changelog/2026-02-01.md)
+
+---
+
+## 2026-02-01: Gap 217 — Terms of Service Trap Resolved (Article III §4)
+
+Resolved Gap 217 (Contractual Feudalism / Terms of Service Trap) through new Article III, Section 4 (The Unwaivable Core) in `02-powers-and-rights.md`. Overlap analysis found ~10-15% existing coverage — Article IV §10(f)(iv) prohibits contracting away 4th Amendment rights in ToS, and Article I §18(c) limits corporate privilege to contract, but no general prohibition existed on waiving constitutional rights through adhesion contracts. The original proposal targeted "Article III-RF, Section 14" — a placement error (Article III has only 3 sections, and "-RF" variant is invalid); corrected to Article III §4 (next available). Resolution creates comprehensive contractual rights protection: (a) seven enumerated inalienable rights plus catch-all, with explicit §18(c) override; (b) forced arbitration prohibition for constitutional/civil rights claims with court (not arbitrator) scope determination and post-dispute consent standards; (c) presumptive unconscionability and severability; (d) class action preservation with FPU thresholds (Congress may lower, not raise); (e) adhesion contract scrutiny including incorporated-by-reference ban; (f) employment protection regardless of classification; (g) digital contract requirements with opt-out obfuscation protection; (h) no Regional diminution; (i) savings clause preserving Article IV §10. Uses "any person" (not "citizen") deliberately — adhesion contracts affect all persons in U.S. jurisdiction. Forum selection narrowed: "reasonable connection" defined as residence, place of performance, or principal place of business. Multi-LLM review (1 round + refinement pass; convergence on all 7 design decisions).
+
+### Files Modified
+
+- `02-design/constitution/02-powers-and-rights.md` — Article III §4 added (The Unwaivable Core); Design Rationale updated
+- `02-design/constitution/article-crosswalk.md` — Article III section range updated 1-3 → 1-4; §4 citation added; DLRS proposal reference updated §4 → §5
+- `04-meta/gaps/17-rights-enforcement.md` — Gap 217 status: PROPOSAL AVAILABLE → RESOLVED
+- `04-meta/gaps/00-index.md` — Gap 217 status updated
+- `04-meta/02-identified-gaps.md` — Statistics updated (Requires Development 87→86, Resolved 93→94)
+
+**Status:** RESOLVED | **Detail:** [changelog/2026-02-01.md](changelog/2026-02-01.md)
+
+---
+
+## 2026-01-31: Gap 198 — Gerrymander Resolved (Article VII §10)
+
+Resolved Gap 198 (Representation Rig / Gerrymander) through new Article VII, Section 10 (Independent Redistricting) in `election-reform.md`. Overlap analysis found ~15-20% existing coverage — Article VII §3(c) and Article I §3 establish the principle of independent commissions, and §3-A covers system-level outcomes (proportionality metrics), but zero constitutional detail existed for the redistricting process itself. The original proposal targeted "Article I-RF, Section 5" — a placement error (§5 is Inter-Regional Cooperation); §3-A(h) contained a phantom forward reference to "Section 5 of this Article" for redistricting commissions. Corrected placement: Article VII §10 (standalone). Resolution creates comprehensive IRC framework: (a) independence mandate with void clause for non-IRC plans; (b) commission composition with 5% party threshold (up to 4 parties), equal unaffiliated members, random selection, 5-year cooling-off; (c) prioritized criteria with STV-adapted magnitude consistency (max 2-seat variance + NEC waiver), partisan fairness via NEC-designated metrics; (d) district magnitude floor of 3 members (closes "multi-member districts of 1" loophole); (e) 60% supermajority approval with public transparency + recorded technical consultation carve-out; (f) citizen judicial review with burden on IRC; (g) decennial timing with §3-A compliance carve-out; (h) prison population at last residence; (i) federal backup split between IEC (administrative/special master) and NEC (judicial review). Also amended §3(c) with cross-reference and fixed §3-A(h) phantom reference. Institution naming corrected: "National Electoral Commission" → IEC + NEC. Multi-LLM review (1 round + refinement pass; convergence on all 6 design decisions).
+
+### Files Modified
+
+- `02-design/single-topic/election-reform.md` — Article VII §10 added; §3(c) amended; Implementation Notes updated
+- `02-design/constitution/01-regional-structure.md` — Article I §3-A(h) phantom reference fixed
+- `02-design/constitution/article-crosswalk.md` — Article VII §10 citation added
+- `04-meta/gaps/08-electoral-judicial.md` — Gap 198 status: PROPOSAL AVAILABLE → RESOLVED
+- `04-meta/gaps/00-index.md` — Gap 198 status updated
+- `04-meta/02-identified-gaps.md` — Statistics updated (Requires Development 88→87, Resolved 92→93)
+
+**Status:** RESOLVED | **Detail:** [changelog/2026-01-31.md](changelog/2026-01-31.md)
+
+---
+
+## 2026-01-31: Gap 196 — Corporate Citizen Resolved (Article I §18(c), §21(h)-(k) + Article VII §1(d))
+
+Resolved Gap 196 (Voting Dilution / Corporate Citizen) through amendments to Article I §18(c) (franchise exclusion from corporate statutory privileges), Article I §21(h)-(k) (Natural Person Voting Exclusivity, Weighted Voting Prohibition, Governmental Authority Bodies, Void Elections and Continuity), and Article VII §1(d) (standalone franchise restriction). Overlap analysis found ~55-65% existing coverage across Article I §18 (Gap 244, corporate personhood) and §21 (Gap 262, universal suffrage). The original proposal targeted "Article VII-RF, Section 2" — a placement error (no Article VII-RF exists; Article VII §2 is Electoral System). Core vulnerability: §18 limits corporate constitutional rights but §18(c)'s statutory privilege language leaves a loophole for legislative franchise grants; §21's "one person, one vote" doesn't explicitly exclude non-natural entities. Resolution: (1) §18(c) adds absolute prohibition on granting franchise to artificial entities (closes statutory privilege loophole); (2) §21(h) establishes natural person exclusivity with cross-reference to §18(a) definition, functional catch-all plus enumerated entity list including AI/algorithms, void ab initio for non-natural-person enfranchisement; (3) §21(i) prohibits weighted voting by property, tax, wealth, income, or corporate affiliation for all elections, governmental body elections, and binding referenda; (4) §21(j) requires all entities exercising governmental authority (taxing, regulatory, budgetary, binding rulemaking) to be governed by natural-person suffrage or democratic appointment, with anti-evasion clause defeating "advisory" labeling; (5) §21(k) voids elections conducted with entity voting, with caretaker continuity clause (90-day lawful election requirement); (6) Article VII §1(d) provides standalone universal protection regardless of RF adoption. Multi-LLM review (2 rounds, convergence on all 6 design decisions; R2 tightened weighted voting scope, strengthened advisory body test, added standalone coverage, and added caretaker clause).
+
+### Files Modified
+
+- `02-design/constitution/01-regional-structure.md` — Article I §18(c) franchise exclusion sentence; §21(h)-(k) added
+- `02-design/single-topic/election-reform.md` — Article VII §1(d) added; Implementation Notes updated
+- `02-design/constitution/article-crosswalk.md` — Article I §18(c), §21(h)-(k), and Article VII §1(d) citations added
+- `04-meta/gaps/08-electoral-judicial.md` — Gap 196 status: PROPOSAL AVAILABLE → RESOLVED
+- `04-meta/gaps/00-index.md` — Gap 196 status updated
+- `04-meta/02-identified-gaps.md` — Statistics updated (Requires Development 89→88, Resolved 91→92)
+
+**Status:** RESOLVED | **Detail:** [changelog/2026-01-31.md](changelog/2026-01-31.md)
+
+---
+
+## 2026-01-31: Gap 189 — Certification Choke Resolved (Article VII §7(m)-(o))
+
+Resolved Gap 189 (Certification Choke / Election Subversion) through amendments to standalone Article VII (Election Reform). Overlap analysis found ~50-55% existing coverage in §7(a)-(l) (three certification options, NEC review, default resolution). The original proposal targeted "Article VII-RF, Section 3" — a placement error (no Article VII-RF exists; election reform is standalone only). Genuine residual vulnerabilities: no explicit ministerial duty declaration (enabling Independent State Legislature theory claims), no prohibition on alternate certifications (alternate electors scenario), and no constitutional-level penalties for certification subversion. Resolution: (1) §7(m) establishes certification as a ministerial duty — not discretionary legislative or executive act, no legislature may override, officials must execute within constitutional timeframe, and if no option is executed the results of the official canvass are deemed certified by operation of law (closing the pure inaction gap); (2) §7(n) prohibits alternate certifications — no legislature, executive, political party, or other body may submit or recognize alternate certifications, any purported alternate certification is void ab initio; (3) §7(o) establishes penalties for certification subversion — immediate removal from office and permanent bar (self-executing) plus criminal penalties delegated to Congress (hybrid penalty pattern). Multi-LLM review (1 round, convergence on all 6 design decisions).
+
+### Files Modified
+
+- `02-design/single-topic/election-reform.md` — Article VII §7(m) (Ministerial Nature of Certification), §7(n) (Prohibition on Alternate Certifications), §7(o) (Penalties for Certification Subversion) added; Implementation Notes expanded
+- `02-design/constitution/article-crosswalk.md` — Article VII §7(m)-(o) citation added
+- `04-meta/gaps/08-electoral-judicial.md` — Gap 189 status: PROPOSAL AVAILABLE → RESOLVED
+- `04-meta/gaps/00-index.md` — Gap 189 status updated
+- `04-meta/02-identified-gaps.md` — Statistics updated (Requires Development 90→89, Resolved 90→91)
+
+**Status:** RESOLVED | **Detail:** [changelog/2026-01-31.md](changelog/2026-01-31.md)
+
+---
+
+## 2026-01-31: Gap 173 — National Injunction Paralysis Resolved (Article XIV, Section 16)
+
+Resolved Gap 173 (National Injunction Paralysis / Forum Shopping) through a new Section 16 added to standalone Article XIV (Judicial Reform). Overlap analysis found partial coverage in Article XIV-RF §3(e) (Trial Court Injection Prevention — Regional courts only) and §4 (Provisional Relief — constitutional-structure claims only). The original proposal targeted "Article III-RF, Section 13" — a placement error (Article III-RF ends at Section 12, and the provision addresses federal judicial procedure, not Region-specific judiciary). The gap entry was also in a phantom resolved state (marked "RESOLVED" citing the non-existent section). Genuine residual vulnerabilities: no district-level nationwide injunction prohibition, no automatic stay mechanism for non-constitutional cases, no anti-forum shopping venue requirements, and no serial litigation coordination. Resolution: (1) §16(a) limits single district courts to relief within their district and named parties; (2) §16(b) allows nationwide relief only through Supreme Court, three-judge panels, or Article XIV-RF §4 Provisional Relief; (3) §16(c) establishes automatic stay upon government appeal for non-§4 cases (60-day window); (4) §16(d) requires substantial connection for venue and creates rebuttable forum-shopping presumption; (5) §16(e) preserves effective remedies under Article XIV §6 via elevated courts; (6) §16(f) requires MDL consolidation for substantially similar challenges, with sanctions for vexatious litigation. Multi-LLM review (1 round, convergence on all 7 design decisions including D7 MDL consolidation).
+
+### Files Modified
+
+- `02-design/single-topic/judicial-reform.md` — Article XIV, Section 16 (Injunctive Relief Scope and Anti-Forum Shopping, 6 subsections) added; Implementation Notes expanded
+- `02-design/constitution/article-crosswalk.md` — Article XIV §16 citation added
+- `04-meta/gaps/08-electoral-judicial.md` — Gap 173 status: phantom RESOLVED (citing non-existent Art. III-RF §13) → properly RESOLVED (Article XIV §16)
+- `04-meta/gaps/00-index.md` — Gap 173 status updated
+- `04-meta/02-identified-gaps.md` — Statistics updated (Requires Development 91→90, Resolved 89→90)
+
+**Status:** RESOLVED | **Detail:** [changelog/2026-01-31.md](changelog/2026-01-31.md)
+
+---
+
+## 2026-01-31: Gap 175 — Precedent Trap Resolved (Article XVIII §§4-5 + Article XIV-RF §5(i))
+
+Resolved Gap 175 (Interpretive Regress) through targeted amendments to Article XVIII (Supremacy and Construction) and Article XIV-RF (Standing). Overlap analysis found ~60% existing coverage across scattered provisions (Article XVIII §§1-2, Article II §1(e)(4)(iii), Article II §3-A(b), Article III-RF §9(f), Article XIV-RF §5(g)). Genuinely additive: comprehensive interpretive decoupling, explicit Commerce Clause supersession, dormant Commerce Clause treatment with anti-protectionism cross-references, and Regional institutional standing. Original proposal targeted non-existent "Article XIV-RF, Section 10" — corrected to split placement. Resolution: (1) Article XVIII §4 establishes Interpretive Decoupling — pre-ratification precedent non-binding where conflicts, supersedes substantial effects test, implied field preemption, dormant Commerce Clause (with Art. I §9 / Art. X §11-A as textual substitutes), and agency deference on constitutional questions; affirmative text requirement for Exclusive Domain authority; (2) Article XVIII §5 establishes Presumption of Subsidiarity — ambiguities resolved in favor of Regional Exclusive Domains, burden on party asserting federal authority; (3) Article XIV-RF §5 renamed to "Standing to Enforce the Constitution" with new subsection (i) providing Regional sovereign standing without injury-in-fact requirement.
+
+### Files Modified
+
+- `02-design/constitution/06-supremacy.md` — Article XVIII §4 (Interpretive Decoupling, 4 subsections) and §5 (Presumption of Subsidiarity, 3 subsections) added
+- `02-design/constitution/09-judiciary.md` — Article XIV-RF §5 renamed; subsection (i) Regional Standing added
+- `02-design/constitution/article-crosswalk.md` — Article XVIII 1-3 → 1-5; XIV-RF §5 citation updated; §5(i) added
+- `04-meta/gaps/08-electoral-judicial.md` — Gap 175 status: PROPOSAL AVAILABLE → RESOLVED
+- `04-meta/gaps/00-index.md` — Gap 175 status updated
+- `04-meta/02-identified-gaps.md` — Statistics updated (Requires Development 92→91, Resolved 88→89)
+
+**Status:** RESOLVED | **Detail:** [changelog/2026-01-31.md](changelog/2026-01-31.md)
+
+---
+
+## 2026-01-31: Gaps 227+169 — Emergency Zombie + Serial Emergency Jointly Resolved (Article XVII §4(e)-(f), §12, §13)
+
+Jointly resolved Gap 227 (Emergency Zombie / Permanent Crisis) and Gap 169 (Serial Emergency Loophole) through amendments to standalone Article XVII (Emergency Powers Reform Amendment). Research found ~80% overlap with existing Article XVII provisions (category-specific time limits, auto-termination by inaction, non-vetoable congressional termination, power specificity, independent judicial review, restoration mandate, anti-expansion). The original proposal targeted "Article XVII-RF, Section 6" — a placement error (federal reforms, not Region-specific). Genuine residual vulnerabilities: no absolute duration cap (2/3 supermajority could renew indefinitely), no nexus re-demonstration on renewal, no recorded vote mandate, no federal anti-ratcheting (Regional XVII-RF §2(e)-(h) already had this), and no legacy transition for ~40 pre-ratification zombie emergencies. Resolution: (1) §4(e) adds 2-year absolute duration limit across all categories (Constitutional Crisis exempt under §9); (2) §4(f) requires written nexus re-certification and recorded vote for every renewal; (3) §12 establishes Serial Emergency Prevention mirroring Regional XVII-RF §2(e)-(h) at federal level — sequential category switching prohibition (30-day bar), 180-day cooling-off period, Comptroller General cumulative duration tracking, strict scrutiny judicial review of successive declarations; (4) §13 establishes Legacy Emergency Transition — all pre-ratification emergencies expire 180 days after ratification, President may re-declare under new framework, IEEPA/sanctions categorized as Economic emergencies, 30-day inventory requirement. Multi-LLM review (1 round, convergence on all 6 design decisions). Sixth and seventh Emergency & Military theme gaps resolved.
+
+### Files Modified
+
+- `02-design/single-topic/emergency-powers-reform.md` — §4(e)-(f) added; §12 (Serial Emergency Prevention, 4 subsections) added; §13 (Legacy Emergency Transition, 5 subsections) added; Design Rationale + Implementation Notes expanded
+- `02-design/constitution/article-crosswalk.md` — Article XVII §4(e), §4(f), §12, §13 citations added
+- `04-meta/gaps/09-emergency-military.md` — Gap 227 status: PROPOSAL AVAILABLE → RESOLVED; Gap 169 status: PROPOSAL AVAILABLE → RESOLVED
+- `04-meta/gaps/00-index.md` — Gap 227 and Gap 169 status updated
+- `04-meta/02-identified-gaps.md` — Statistics updated (Requires Development 94→92, Resolved 86→88)
+
+**Status:** RESOLVED | **Detail:** [changelog/2026-01-31.md](changelog/2026-01-31.md)
+
+---
+
+## 2026-01-31: Gap 224 — Forever War Resolved (Article XI §2(b)(3), §2(d)(6), §2(g)-(k), §7(e) + Article X §19(i))
+
+Integrated Gap 224 (War Funding Drift / Forever War) through amendments to Article XI §2, §7(e), and Article X §19. Research found ~60-70% overlap with existing Article XI §2 provisions (war declaration, AUMF specifications, 60-day auto-termination, congressional termination). The original proposal targeted "Article I-RF, Section 13" — a placement error. Genuine residual vulnerabilities: no AUMF sunset, no legacy AUMF expiration, §7(e) passive constraint undermined by Auto-CR, undefined "hostilities," and §2(b)(1) not covering treaty allies. Resolution: (1) §2(b)(3) adds treaty obligation exception for mutual defense with 30-day authorization / 60-day termination; (2) §2(d)(6) caps AUMF duration at 2 years; (3) §2(g) mandatory reauthorization with escalating supermajority (majority → 3/5 → 2/3); (4) §2(h) defines hostilities via IHL + enumerated list with justiciability clause; (5) §2(i) legacy AUMF transition (180-day §2(d) compliance + 2-year maximum); (6) §2(j) withdrawal funding guarantee (180-day, Auto-CR exempt); (7) §2(k) congressional standing for enforcement; (8) §7(e) strengthened from passive to active with Comptroller General quarterly certification; (9) Article X §19(i) Auto-CR carve-out excluding unauthorized military operations. Multi-LLM review (1 round, convergence on all 7 design decisions). Fifth Emergency & Military theme gap resolved.
+
+### Files Modified
+
+- `02-design/single-topic/military-civilian-control.md` — §2(b)(3), §2(d)(6), §2(g)-(k) added; §7(e) strengthened; Design Rationale + Implementation Notes expanded
+- `02-design/constitution/04-fiscal-system.md` — §19(i) unauthorized military operations exclusion
+- `02-design/constitution/article-crosswalk.md` — Article XI and X new citations added
+- `04-meta/gaps/09-emergency-military.md` — Gap 224 status: PROPOSAL AVAILABLE → RESOLVED
+- `04-meta/gaps/00-index.md` — Gap 224 status updated
+- `04-meta/02-identified-gaps.md` — Statistics updated (Requires Development 95→94, Resolved 85→86)
+
+**Status:** RESOLVED | **Detail:** [changelog/2026-01-31.md](changelog/2026-01-31.md)
+
+---
+
+## 2026-01-31: Gap 206 — Petri Dish Resolved (Article XVII §3(b), §11 + Article XVII-RF §4)
+
+Integrated Gap 206 (Bio-Security Anarchy) through dual-placement across standalone Article XVII and RF supplement. Critical factual correction: the original proposal stated Public Health is an "Exclusive Domain" — it is actually a Structured Concurrent Domain (Article II, §1(e)(3)(viii)), meaning the federal government already has floor-setting authority. The actual vulnerability is a speed-and-enforcement problem (pandemic doubling time 3-7 days vs. ARB floor certification 60+ days). Additional correction: proposal targeted Section 8 but that is occupied by Habeas Corpus. Resolution: (1) Section 3(b) expanded with mandatory data sharing and federal direct implementation as enumerated Public Health powers; (2) new Section 11 (Bio-Security Emergency Escalation) with hybrid triggering criteria (R0/CFR thresholds OR expert professional judgment), temporary override of Structured Concurrent authority for communicable diseases only, mandatory data sharing with personal liability, civilian-first 5-step enforcement escalation, 90-day sunset, 72-hour expedited judicial review (courts may enjoin even during active emergency), anti-abuse provisions (no political restrictions), and compensation fund; (3) new Article XVII-RF Section 4 (Regional Bio-Security Cooperation) with Governor cooperation duty, Regional data infrastructure requirements, Guard deployment as civilian-directed last resort, federal supersession, and post-emergency restoration with ARB compliance assessment. Multi-LLM review (1 round, convergence on all 5 design decisions). Fourth Emergency & Military theme gap resolved.
+
+### Files Modified
+
+- `02-design/single-topic/emergency-powers-reform.md` — Section 3(b) items (5)-(6) added; new Section 11 (8 subsections)
+- `02-design/constitution/11-emergency-powers.md` — New Section 4 (5 subsections)
+- `02-design/constitution/article-crosswalk.md` — XVII §11 and XVII-RF §4 citations added
+- `04-meta/gaps/09-emergency-military.md` — Gap 206 status: PROPOSAL AVAILABLE → RESOLVED
+- `04-meta/gaps/00-index.md` — Gap 206 status updated
+- `04-meta/02-identified-gaps.md` — Statistics updated (Requires Development 96→95, Resolved 84→85)
+
+**Status:** RESOLVED | **Detail:** [changelog/2026-01-31.md](changelog/2026-01-31.md)
+
+---
+
+## 2026-01-31: Gap 192 — Paramilitary Loophole Resolved (Article XI-RF, Sections 1(c), 3(h), 4(f)(4))
+
+Integrated Gap 192 (Shadow Army) through three surgical amendments to existing sections in 10-armed-forces.md, preserving the cap-and-reclassify framework rather than adopting the original "Total Force Federalization" proposal. Multi-LLM review (1 round, effective convergence on all 5 design decisions) determined existing provisions cover ~65% of the threat. Three targeted additions: (1) Section 1(c) Regional Force Classification — any organized Regional armed force is classified as Regional Guard (federalizable), closing the loophole where a Region could create a "Regional Defense Force" exempt from federal call-up; (2) Section 3(h) Subnational Force Registry and Inspection — DoD registry and annual inspections ensure the standalone Section 13(d) auto-reclassification trigger has proactive detection; (3) Section 4(f)(4) Militia Affiliation Prohibition — closes the deputization gap where Section 4(f)(3) prohibited funding but not granting official status to private militia groups. State SDF non-federalization exemption (Section 3(d)) preserved for forces within standalone Section 13 limits. Third Emergency & Military theme gap resolved.
+
+### Files Modified
+
+- `02-design/constitution/10-armed-forces.md` — Section 1(c), 3(h), 4(f)(4) added
+- `02-design/constitution/article-crosswalk.md` — XI-RF citations updated
+- `04-meta/gaps/09-emergency-military.md` — Gap 192 status: PROPOSAL AVAILABLE → RESOLVED
+- `04-meta/gaps/00-index.md` — Gap 192 status updated
+- `04-meta/02-identified-gaps.md` — Statistics updated (Requires Development 97→96, Resolved 83→84)
+
+**Status:** RESOLVED | **Detail:** [changelog/2026-01-31.md](changelog/2026-01-31.md)
+
+---
+
+## 2026-01-31: Gap 190 — Tribunal Trap Resolved (Article III-RF, Section 12)
+
+Integrated Gap 190 (Martial Law Limits) by adding Article III-RF, Section 12 (Civilian Court Supremacy) to 09-judiciary.md. Multi-LLM review (2 rounds, convergence on all 3 design decisions) converts *Ex Parte Milligan* (1866) holding into constitutional text, closing the vulnerability created by Gap 175's interpretive decoupling. Six subsections: (a) absolute prohibition on military tribunals for civilians while civilian courts remain open and functioning; (b) three-part "open and functioning" definition with tech-failure clause (electronic system disruption does not render courts non-functioning); (c) habeas corpus limitations with conditional cross-reference to Article XVII Section 8 (self-contained fallback if Emergency Powers amendment not adopted); (d) prohibited exercises (no military jurisdiction over non-UCMJ persons); (e) emergency docket procedures (expedited civilian proceedings preserve jurisdiction through speed); (f) enforcement with personal liability and void ab initio convictions. Completes the Gap 175 Repair Trilogy (Gaps 188, 189, 190). Second Emergency & Military theme gap resolved.
+
+### Files Modified
+
+- `02-design/constitution/09-judiciary.md` — Article III-RF, Section 12 added
+- `02-design/constitution/article-crosswalk.md` — Article III-RF Section 12 citations added
+- `04-meta/gaps/09-emergency-military.md` — Gap 190 status: PROPOSAL AVAILABLE → RESOLVED
+- `04-meta/gaps/00-index.md` — Gap 190 status updated
+- `04-meta/02-identified-gaps.md` — Statistics updated (Requires Development 98→97, Resolved 82→83)
+
+**Status:** RESOLVED | **Detail:** [changelog/2026-01-31.md](changelog/2026-01-31.md)
+
+---
+
+## 2026-01-31: Gap 82 — Double-Key Hostage-Taking Resolved (Article XI-RF, Section 2)
+
+Integrated Gap 82 (Collusion for Inaction) by adding Article XI-RF, Section 2(m)-(q) and amending Section 2(b). Multi-LLM review (3 rounds, full convergence on all 8 design decisions) discovered that standalone Article XI, Section 14 (Congressional Key Override) already covers ~80% of the original proposal. The RF supplement adds five genuinely new provisions: (m) SecDef command authority during override (resolving Section 2(b) conflict where colluding President would command counter-insurrection forces); (n) binding 3-part insurrection certification standards with RF judicial mapping; (o) 24-hour presidential action deadline with refusal as prima facie evidence; (p) geographic scope limitations for regional bypass; (q) petition-triggered post-incident Constitutional Court review. Key rejections: ARB military authorization removed (violates Anti-Militarization Principle), automatic impeachment for refusal replaced with prima facie evidence standard, "Regional Chief Judges" replaced with functional definition. First Emergency & Military theme gap resolved.
+
+### Files Modified
+
+- `02-design/constitution/10-armed-forces.md` — Section 2(b) amended; Section 2(m)-(q) added
+- `02-design/constitution/article-crosswalk.md` — Article XI-RF citations updated
+- `04-meta/gaps/09-emergency-military.md` — Gap 82 status: PROPOSAL AVAILABLE → RESOLVED
+- `04-meta/gaps/00-index.md` — Gap 82 status updated
+- `04-meta/02-identified-gaps.md` — Statistics updated (Requires Development 99→98, Resolved 81→82)
+
+**Status:** RESOLVED | **Detail:** [changelog/2026-01-31.md](changelog/2026-01-31.md)
+
+---
+
+## 2026-01-31: Gap 193 — Tax Haven Parasite Resolved (Article X, Section 3)
+
+Integrated Gap 193 (Fiscal Cannibalism) by expanding Article X, Section 3 (Equalization) with eight new subsections (l)-(s) establishing Tax Effort and Anti-Haven Standards. Addresses the vulnerability where Regions could minimize taxation and rely on equalization transfers, becoming subsidized tax havens. Multi-LLM review (1 round, unanimous convergence) converted proposed hard rate prohibition to fiscal consequence (deemed full capacity), reassigned capacity certification from Constitutional Court to IFC, added phantom revenue coordination rule with Section 3(f) to prevent double-counting, and explicitly preserved Section 3-A minimum floor. Key provisions: 75% tax effort threshold with IFC certification; phantom revenue adjustment; genuine low capacity exception; anti-haven fiscal consequence for rates >50% below average; 183-day residence rule and source taxation; corporate apportionment with IFC default; congressional authority limited to equalization formula adjustments (no minimum tax rates). Last remaining fiscal architecture gap — all fiscal gaps now resolved.
+
+### Files Modified
+
+- `02-design/constitution/04-fiscal-system.md` — Section 3 expanded with subsections (l)-(s)
+- `02-design/constitution/article-crosswalk.md` — Article X description updated
+- `04-meta/gaps/07-fiscal-equalization.md` — Gap 193 status: PROPOSAL AVAILABLE → RESOLVED
+- `04-meta/gaps/00-index.md` — Gap 193 status updated
+- `04-meta/02-identified-gaps.md` — Statistics updated (Requires Development 100→99, Resolved 80→81)
+
+**Status:** RESOLVED | **Detail:** [changelog/2026-01-31.md](changelog/2026-01-31.md)
+
+---
+
+## 2026-01-31: Gap 202 — Pension Ponzi Resolved (Article X, Section 20)
+
+Integrated Gap 202 (Intergenerational Theft) as new Article X, Section 20 (Actuarial Honesty and Pension Discipline). Addresses the single most common cause of subnational insolvency: politicians promising massive pension benefits while systematically underfunding obligations. Multi-LLM review (2 rounds) consolidated proposed standalone Federal Pension Oversight Board into IFC Pension Actuarial Division, removed private sector extension, and integrated enforcement into existing Section 10 intervention hierarchy. Key provisions: full accrual funding with IFC-set actuarial standards; Treasury+100bps discount rate cap; 20-year amortization for pre-ratification liabilities (with Section 15 equalization cross-reference); automatic contribution trigger with anti-gaming guardrail; anti-spiking and POB gate; Section 10 stage-mapped enforcement; Section 6(j)(6) priority ordering for reorganization. Section 6(o) amended to include unfunded pension/OPEB liabilities with 10-year phase-in, closing the monitoring blind spot.
+
+### Files Modified
+
+- `02-design/constitution/04-fiscal-system.md` — New Section 20 (8 subsections); Section 6(o)(7) added
+- `02-design/constitution/article-crosswalk.md` — Section range 1-19 → 1-20
+- `04-meta/gaps/07-fiscal-equalization.md` — Gap 202 status: PROPOSAL AVAILABLE → RESOLVED
+- `04-meta/gaps/00-index.md` — Gap 202 status updated
+- `04-meta/02-identified-gaps.md` — Statistics updated (Requires Development 101→100, Resolved 79→80)
+
+**Status:** RESOLVED | **Detail:** [changelog/2026-01-31.md](changelog/2026-01-31.md)
+
+---
+
+## 2026-01-31: Gap 197 — Bailout Trap Resolved (Article X, Section 6)
+
+Integrated Gap 197 (Moral Hazard) through narrow additive changes to Article X, Sections 6 and 7. Existing Sections 6-10 already provided extensive fiscal distress coverage (no-bailout rule, structured bankruptcy, conservatorship, receivership, 5-stage intervention hierarchy). Multi-LLM review (2 rounds) identified genuinely missing elements and rejected proposed Constitutional Court/Federal Trustee track, numeric fiscal emergency trigger, and fixed 30% haircut floor in favor of existing ARB/IFC architecture. Key additions: Section 6(i) strengthened with voidness clause and explicit carve-outs; Section 6(j) enhanced with creditor voting/holdout binding/pension priority; Section 6(s) Market Discipline Preservation; Section 6(t) Emergency Liquidity Assistance with IFC gatekeeping; Section 7(d)(1)(B) clarified as operational continuity.
+
+### Files Modified
+
+- `02-design/constitution/04-fiscal-system.md` — Section 6(i) strengthened; Section 6(j) enhanced; Sections 6(s-t) added; Section 7(d)(1)(B) clarified
+- `04-meta/gaps/07-fiscal-equalization.md` — Gap 197 status: PROPOSAL AVAILABLE → RESOLVED
+- `04-meta/gaps/00-index.md` — Gap 197 status updated
+- `04-meta/02-identified-gaps.md` — Statistics updated (Requires Development 102→101, Resolved 78→79)
+
+**Status:** RESOLVED | **Detail:** [changelog/2026-01-31.md](changelog/2026-01-31.md)
+
+---
+
+## 2026-01-31: Gap 195 — Crypto Backdoor Resolved (Article X, Section 13)
+
+Integrated Gap 195 (Monetary Subversion) by amending Article X, Section 13 (Prohibition on Shadow Currencies). Developed through multi-LLM review (1 round, 2 external reviewers). Key changes: Section 13(c) functional test clarified to apply to any instrument regardless of issuer; added Legal Tender Monopoly (h), Federal Dollar definition with CBDC inclusion and stablecoin exclusion (i), and Private Transactions carve-out (j). Cross-references Article I, Section 22 for anti-programmability. Closes the adoption-vs-issuance loophole.
+
+### Files Modified
+
+- `02-design/constitution/04-fiscal-system.md` — Section 13(c) amended; added Section 13(h-j)
+- `04-meta/gaps/07-fiscal-equalization.md` — Gap 195 status: UNRESOLVED → RESOLVED
+- `04-meta/gaps/00-index.md` — Gap 195 status updated
+- `04-meta/02-identified-gaps.md` — Statistics updated (Requires Development 103→102, Resolved 77→78)
+
+**Status:** RESOLVED | **Detail:** [changelog/2026-01-31.md](changelog/2026-01-31.md)
+
+---
+
+## 2026-01-31: Gap 194 — Dole Loophole Resolved (Article X, Section 4)
+
+Integrated Gap 194 (Spending Power Coercion) by expanding Article X, Section 4 from a one-line Anti-Coercion Rule to a 9-subsection Non-Coercion Standard. Developed through multi-LLM review (2 rounds, 2 external reviewers). Key features: 5% per-condition + cumulative coercion threshold using IFC functional categories, tax expenditure coverage, germaneness requirement, Exclusive Domain absolute bar, two-thirds Regional Assembly voluntary cooperation, Section 18(c) cross-reference. Closes the *South Dakota v. Dole* spending-power backdoor around Exclusive Regional Domains.
+
+### Files Modified
+
+- `02-design/constitution/04-fiscal-system.md` — Section 4 expanded (9 subsections); Section 18(c) cross-reference added
+- `02-design/constitution/article-crosswalk.md` — Article X description updated
+- `04-meta/gaps/07-fiscal-equalization.md` — Gap 194 status: UNRESOLVED → RESOLVED
+- `04-meta/gaps/00-index.md` — Gap 194 status updated
+- `04-meta/02-identified-gaps.md` — Statistics updated (Requires Development 104→103, Resolved 76→77)
+
+**Status:** RESOLVED | **Detail:** [changelog/2026-01-31.md](changelog/2026-01-31.md)
+
+---
+
+## 2026-01-31: Gap 170 — Fiscal Cliff Hostage Resolved (Article X, Section 19)
+
+Integrated Gap 170 (Weaponized Shutdowns) into constitutional text as Article X, Section 19: Automatic Continuing Resolution. Developed through multi-LLM review process (4 rounds, 2 external reviewers). Key features: 98% monthly compounding decline for discretionary programs, CPI-U-indexed essential functions (6 enumerated), no-new-programs guardrail, borrowing authority bridge clause to Section 20. Resolved conflicts with Article XXI 2(d) and Gap 260.
+
+### Files Modified
+
+- `02-design/constitution/04-fiscal-system.md` — Added Section 19 (8 subsections)
+- `02-design/constitution/07-implementation.md` — Article XXI 2(d) replaced with forward reference
+- `04-meta/gaps/07-fiscal-equalization.md` — Gap 170 status: REQUIRES DEVELOPMENT → RESOLVED
+- `04-meta/gaps/00-index.md` — Gap 170 status updated
+- `04-meta/02-identified-gaps.md` — Statistics updated (Requires Development 105→104, Resolved 75→76)
+
+**Status:** RESOLVED | **Detail:** [changelog/2026-01-31.md](changelog/2026-01-31.md)
+
+---
+
+## 2026-01-31: Phase 3 — All 69 Mitigated Gaps Verified and Resolved
+
+Verified all 69 previously-mitigated gaps against constitutional design files using 8 parallel verification agents. Each gap's cited Article/Section confirmed present and addressing identified gaming vectors. All 69 updated from MITIGATED to RESOLVED. Statistics: Mitigated 69→0, Resolved 6→75.
+
+### Files Modified
+
+- 10 gap detail files — Status updates for all 69 gaps
+- `04-meta/gaps/00-index.md` — All 69 statuses updated
+- `04-meta/02-identified-gaps.md` — Statistics updated, version 1.4
+
+**Gaps resolved:** 69 | **Detail:** [changelog/2026-01-31.md](changelog/2026-01-31.md)
+
+---
+
+## 2026-01-30: Gap 33 — Coordinated Threat Response (Article XII, Section 4)
+
+Integrated Gap 33's five multi-vector coordination protocols into constitutional text as Article XII, Section 4. Cross-Institutional Alert System, Concurrent Crisis Adjudication, Communication Resilience, Cascading Dependency Audit, and Multi-Vector Simulation are now constitutionalized. Gap 33 status updated from PARTIALLY MITIGATED to MITIGATED.
+
+### Files Modified
+
+- `02-design/constitution/05-safeguards.md` — Added Article XII, Section 4 (7 subsections)
+- `02-design/constitution/article-crosswalk.md` — Updated Article XII sections 1-3 to 1-4
+- `04-meta/gaps/09-emergency-military.md` — Gap 33 status PARTIALLY MITIGATED → MITIGATED
+- `04-meta/gaps/00-index.md` — Gap 33 description and status updated
+
+**Status:** MITIGATED | **Detail:** [changelog/2026-01-30.md](changelog/2026-01-30.md)
+
+---
+
+## 2026-01-30: Phase 1 Gap Status Reconciliation and Statistics Update
+
+Updated 13 gap detail files from PROPOSAL AVAILABLE to MITIGATED, aligning with constitutional text already integrated. Updated severity ratings for Gaps 3 and 4 (Critical to High). Expanded Gap 33 analysis with 3 attack scenarios and 5 proposed protocols. Updated gap statistics: Mitigated 8→23, Proposal Available 41→29, Partially Mitigated 39→36, Critical 82→80, High 50→52.
+
+### Files Modified
+
+- `04-meta/gaps/02-low-probability.md` — Gaps 3, 4 severity and status
+- `04-meta/gaps/07-fiscal-equalization.md` — Gaps 45, 62, 72 status
+- `04-meta/gaps/08-electoral-judicial.md` — Gaps 48, 73, 81, 95 status
+- `04-meta/gaps/09-emergency-military.md` — Gaps 33 (expanded), 55 status
+- `04-meta/gaps/12-data-information.md` — Gaps 69, 84, 119 status
+- `04-meta/02-identified-gaps.md` — Severity and status count tables updated
+
+**Gaps affected:** 16 | **Detail:** [changelog/2026-01-30.md](changelog/2026-01-30.md)
+
+---
 
 ## 2026-01-28: Gap 216 — The "In-House Judge" Gap (Separation of Adjudication)
 

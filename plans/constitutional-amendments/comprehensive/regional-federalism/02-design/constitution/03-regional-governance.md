@@ -1,6 +1,6 @@
 # Regional Governance
 
-## Articles IV-V: Legislative and Executive Branches (Regional-Specific Provisions)
+## Articles IV-VI: Legislative Branch, Executive Branch, and Foreign Affairs (Regional-Specific Provisions)
 
 *This document contains the regional-specific governance provisions of the Regional Federal Constitution. For standalone federal governance reforms, see the companion plans:*
 
@@ -179,6 +179,72 @@ If adopted, this section would create targeted Senate involvement in safeguard l
 
 ---
 
+### Section 4-B. Mandatory Confirmation Procedures
+
+*Addresses Gap 222: The Confirmation Blockade ("The Empty Chair Crisis"). Establishes mandatory deadlines and default confirmation to prevent strategic vacancy creation through Senate inaction.*
+
+(a) **Scope and Definitions.**
+
+- (i) This section applies to all nominations requiring Senate confirmation under this Constitution, including judicial officers, constitutional officers, and principal officers of executive departments whose confirmation is required by this Constitution or by law.
+- (ii) "Officers requiring Senate confirmation" includes heads of executive departments, deputies and assistants whose appointment requires Senate confirmation by law, members of constitutional bodies established by this Constitution (including the Allocation Review Board and Independent Fiscal Commission), and such other officers as Congress may by law require to be confirmed.
+- (iii) Where another provision of this Constitution establishes a specific confirmation timeline or procedure for a particular office, that provision controls to the extent it imposes a shorter deadline or alternative mechanism. This section provides the default where no specific provision applies.
+
+(b) **Mandatory Vote Requirement.** Upon public transmission of a presidential nomination to the Senate:
+
+- (i) The Senate shall complete a confirmation vote within ninety (90) calendar days;
+- (ii) If the Senate fails to hold a vote within ninety (90) calendar days, the nominee shall be deemed confirmed by operation of law;
+- (iii) The Senate may vote to reject any nominee, but silence shall constitute consent;
+- (iv) Confirmation shall be by majority of Senators present and voting. No procedural rule, including rules requiring supermajority cloture, may prevent a confirmation vote from occurring or raise the threshold for confirmation above simple majority.
+
+(c) **Procedure Protections.** During the confirmation period:
+
+- (i) The nominee shall be entitled to at least one public hearing before the relevant committee;
+- (ii) If the relevant committee has not concluded hearings within sixty (60) calendar days of public transmission, hearings shall be deemed concluded by operation of law;
+- (iii) The full Senate shall hold a floor vote within thirty (30) days of committee action or the deemed-conclusion deadline under subsection (c)(ii), whichever is earlier;
+- (iv) Upon expiration of the ninety-day confirmation period, the confirmation vote shall be the first order of business on the next day the Senate is in session. No procedural motion may delay, table, or block the vote.
+
+(d) **Clock Start and Tolling.**
+
+- (i) The confirmation clock begins on the date of public transmission of the nomination to the Senate, as timestamped by the official transmission record;
+- (ii) The confirmation period shall be tolled only if the nominee fails to respond to written questions submitted by the relevant committee within fourteen (14) calendar days of receipt. The tolling period equals the number of days of non-response beyond the fourteen-day deadline;
+- (iii) No other event — including Senate recess, quorum failure, or scheduling conflict — shall toll the confirmation clock;
+- (iv) Written questions eligible to toll the clock must be submitted within thirty (30) calendar days of public transmission. Questions submitted after this deadline do not trigger tolling.
+
+(e) **Deemed Confirmation Effect.** A nominee deemed confirmed by operation of law under this section:
+
+- (i) Holds office with the same authority, tenure, and legal status as any officer confirmed by Senate vote;
+- (ii) May exercise all powers and duties of the office from the date of deemed confirmation;
+- (iii) Serves until resignation, removal for cause, impeachment, expiration of term, or removal under subsection (f).
+
+(f) **Removal Safety Valve.** Following deemed confirmation under this section or any other provision of this Constitution:
+
+- (i) The Senate may vote to remove the deemed-confirmed officer within one hundred eighty (180) calendar days of the deemed confirmation date;
+- (ii) Removal under this subsection requires a two-thirds vote of Senators present and voting;
+- (iii) Removal under this subsection is not an impeachment and does not require House action;
+- (iv) An officer removed under this subsection may be re-nominated.
+
+(g) **Recess Appointments.**
+
+- (i) The President may make temporary appointments during genuine recesses of the Senate exceeding thirty (30) consecutive calendar days;
+- (ii) Recess appointments expire at the end of the next Senate session or upon Senate action on a nomination for the same position, whichever comes first;
+- (iii) Pro forma sessions in which no substantive business is transacted and which are held for the purpose of preventing recess appointments shall not constitute a session for purposes of this subsection.
+
+(h) **Anti-Gaming Provisions.**
+
+- (i) **No Clock Reset by Withdrawal.** If the President withdraws a nomination and re-nominates the same or a different person for the same position within one hundred eighty (180) calendar days, the original confirmation clock continues from the date of the initial public transmission. The clock resets only if the position is filled and subsequently vacated, or if more than one hundred eighty (180) days have elapsed since withdrawal;
+- (ii) **Incomplete Submissions.** If a nomination is transmitted without the documentation required by law or Senate rules, the confirmation clock begins thirty (30) calendar days after the initial transmission or upon completion of documentation, whichever is earlier;
+- (iii) **Hearing Conclusion.** Committee hearings are deemed concluded upon: (A) a recorded committee vote to report or not report the nomination; (B) the expiration of the sixty-day committee deadline under subsection (c)(ii); or (C) a majority vote of the committee to conclude hearings.
+
+(i) **Coordination with Acting Official Limitations.** The provisions of this section complement, and shall be construed in coordination with, any limitations on acting officials established elsewhere in this Constitution.
+
+(j) **Implementing Legislation.** Congress shall enact legislation providing:
+
+- (i) Procedures for public transmission and timestamping of nominations;
+- (ii) Standards for documentation required with nominations;
+- (iii) Transition provisions for nominations pending at the time of ratification.
+
+---
+
 ### Section 5. Federal Lawmaking
 
 (a) Bills within enumerated federal powers may be introduced in the House of Representatives.
@@ -199,6 +265,65 @@ If adopted, this section would create targeted Senate involvement in safeguard l
 (f) The categories triggering Senate review may not be expanded except by constitutional amendment.
 
 (g) Implementation procedures are established by statute. See the [Interregional Coordination Legislative Review Act](../../proposals/01-foundations/interregional-coordination-review-act.md) for the proposed implementing legislation.
+
+---
+
+### Section 5-A. The Deliberation Mandate (Single-Subject and Readability Requirements)
+
+*Addresses Gap 219: The "Unread Law" Gap (Omnibus Chaos). Ensures deliberative democracy by requiring that legislation be limited to a single subject, publicly available for genuine review, and structured for transparency.*
+
+(a) **Single-Subject Requirement.** Every Bill before Congress shall embrace but one subject, which shall be expressed in its title. For purposes of this section, "subject" means a single, reasonably narrow policy objective; labels such as "general government operations," "national security," or similarly capacious descriptors do not satisfy this requirement.
+
+- (1) A bill that contains provisions unrelated to its stated subject is void as to the unrelated provisions.
+- (2) "Omnibus" packaging of unrelated legislation is prohibited.
+- (3) Appropriations bills may contain only provisions that allocate funds, establish conditions on the expenditure of the funds allocated therein, or impose reporting and oversight requirements tied to the appropriation account. Provisions that alter, restrict, or expand substantive law or regulatory authority unrelated to the mechanics of the expenditure — including limitation riders conditioning funding on non-enforcement of otherwise valid law — are void.
+- (4) Enforcement of this subsection is governed by Article XIV-RF, Section 5 (Standing to Enforce the Constitution). No separate time limit restricts the filing of challenges under this subsection.
+
+(b) **Publication Requirement.** No Bill may receive a floor vote until:
+
+- (1) The final text has been publicly posted in searchable, machine-readable format on the official congressional publication system, with a verifiable timestamp, for not less than seventy-two (72) calendar hours;
+- (2) A plain-language summary not exceeding ten percent (10%) of the bill's word count has been prepared and posted, as provided by law;
+- (3) A fiscal impact estimate has been completed and posted by the Congressional Budget Office or its successor; provided that if no estimate is produced within fourteen (14) calendar days of a formal scoring request by the bill's sponsor or committee of jurisdiction, this requirement is waived and the bill may proceed without a score;
+- (4) A committee report explaining the bill's provisions has been filed; provided that for bills discharged under Article I, Section 19, the bill's sponsor or sponsors may file a statement in lieu of a committee report satisfying this requirement.
+
+(c) **Extended Review for Complex Legislation.** For bills exceeding one hundred (100) pages in standard legislative format:
+
+- (1) The seventy-two-hour period in subsection (b)(1) extends to seven (7) calendar days;
+- (2) A section-by-section index with page references is required;
+- (3) Each section must be separately voteable upon motion of twenty percent (20%) of the total membership of the chamber.
+
+(d) **Definition Transparency.** Definitions in legislation:
+
+- (1) Must appear within the first ten percent (10%) of the bill's pages;
+- (2) May not assign counterintuitive meanings to common terms, as determined by the presiding officer subject to appeal by majority vote of the chamber;
+- (3) Must be cross-referenced wherever the defined term appears.
+
+(e) **Amendment Procedure.** No procedural rule may prevent:
+
+- (1) Members from offering amendments to remove individual provisions;
+- (2) Separate votes on severable portions of legislation;
+- (3) Motions to divide compound bills into component parts.
+
+(f) **Conference Committee Reports.** A conference report shall be treated as a new bill for purposes of the publication requirements of subsections (b) and (c). The publication period restarts upon the filing of the conference report.
+
+(g) **Post-Amendment Publication.**
+
+- (1) An amendment adopted after the publication period has been satisfied that increases the bill's word count by more than ten percent (10%) or introduces subject matter not contained in the published version restarts the full publication period under subsections (b) and (c).
+- (2) An amendment that does not meet the threshold in paragraph (1) requires reposting of the amended text for not less than twenty-four (24) calendar hours before a floor vote.
+- (3) The presiding officer shall determine whether an amendment meets the threshold in paragraph (1), subject to appeal by majority vote of the chamber.
+
+(h) **Waiver Limitations.**
+
+- (1) The publication and review requirements of subsections (b) through (g) may be waived only by three-fourths (3/4) vote of the House of Representatives, and only during a Declared National Emergency under Article XVII.
+- (2) Even when waived, the final text must be publicly posted for not less than twenty-four (24) calendar hours before a floor vote.
+- (3) Publication requirements may not be waived for legislation exceeding two hundred (200) pages.
+- (4) The single-subject requirement of subsection (a) may not be waived under any circumstances.
+
+(i) **Interaction with Discharge Mandate.** The publication period under this section runs concurrently with any pending discharge period under Article I, Section 19. No floor vote may occur until both the publication requirement of this section and the discharge procedure of Article I, Section 19 are satisfied.
+
+(j) **Domain Certification Coordination.** This section operates independently of and in addition to the Domain Certification requirements of Article II, Section 5. The single-subject requirement of subsection (a) provides the enforcement mechanism for the anti-omnibus principle declared in Article II, Section 5(b)(6)(iii). A bill that satisfies the single-subject requirement of this section may still require Domain Certification if it impacts a Regional Exclusive Domain.
+
+(k) **Implementing Legislation.** Congress shall provide by law for the designation of the non-partisan office responsible for preparing plain-language summaries under subsection (b)(2), the standards governing official congressional publication under subsection (b)(1), and the procedures for determining page count and word count under this section.
 
 ---
 
@@ -247,6 +372,283 @@ If adopted, this section would create targeted Senate involvement in safeguard l
 - (1) based solely on the decennial census conducted by the Census Bureau;
 - (2) unadjusted for citizenship status, incarceration, or other factors that might be manipulated;
 - (3) certified by the Census Bureau Director, whose certification is final and non-reviewable.
+
+---
+
+### Section 7. The Acquisition Shield
+
+*Integrated from Gap 218 -- closes the Fourth Amendment commercial data purchase loophole.*
+
+(a) **Equivalence Principle.** The government may not acquire through purchase, gift, compulsion, or any other means, information that it would require a warrant to obtain through direct search or seizure.
+
+(b) **Information Covered.** This section applies to:
+
+- (i) location tracking data, whether real-time or historical;
+- (ii) communications metadata (sender, recipient, time, duration, frequency);
+- (iii) browsing, search, and online activity records;
+- (iv) purchase history and financial transaction records;
+- (v) biometric data (facial recognition, gait analysis, voice prints);
+- (vi) aggregated data profiles sufficient to reveal intimate life details;
+- (vii) any information that, individually or in combination, would reveal information protected from warrantless search.
+
+(c) **Commercial Acquisition Treated as Search.** Government acquisition of covered information from commercial data brokers, advertisers, app developers, or other private entities:
+
+- (i) constitutes a "search" within the meaning of the Fourth Amendment;
+- (ii) requires probable cause and a warrant describing with particularity the information sought;
+- (iii) is subject to minimization requirements limiting retention and use;
+- (iv) triggers notice requirements to affected persons within 90 days unless court grants delay.
+
+(d) **Third-Party Doctrine Abrogation.** The mere fact that information was disclosed to or collected by a private entity does not:
+
+- (i) eliminate the reasonable expectation of privacy in that information;
+- (ii) authorize government acquisition without constitutional process;
+- (iii) constitute consent to government access;
+- (iv) waive Fourth Amendment protections.
+
+(e) **Data Broker Regulations.** Entities that collect, aggregate, or sell personal information:
+
+- (i) may not sell to any government entity information described in subsection (b) without certification that constitutional process was followed;
+- (ii) must maintain records of all government purchases for five (5) years, subject to audit;
+- (iii) face civil penalties of 10,000 FPU per violation and criminal liability for knowing violations;
+- (iv) shall provide annual transparency reports on government data requests.
+
+(f) **Exclusionary Rule.** Information acquired in violation of this section:
+
+- (i) is inadmissible in any criminal, civil, or administrative proceeding;
+- (ii) may not be used to develop leads or corroborate other evidence;
+- (iii) must be purged from government databases upon discovery of violation;
+- (iv) entitles affected persons to statutory damages of 1,000 FPU per incident.
+
+(g) **Foreign Acquisition.** Acquisition of information on U.S. persons from foreign data brokers or through foreign intermediaries:
+
+- (i) is subject to the same restrictions as domestic acquisition;
+- (ii) may not be used to circumvent this section;
+- (iii) triggers heightened reporting requirements to the Privacy and Civil Liberties Board.
+
+(h) **Regional Application.** This section applies with equal force to:
+
+- (i) Federal agencies and instrumentalities;
+- (ii) Regional governments and agencies;
+- (iii) State and local law enforcement;
+- (iv) any entity acting under color of law or pursuant to government contract.
+
+---
+
+### Section 8. The Conviction Prerequisite (Abolition of Civil Asset Forfeiture)
+
+*Integrated from Gap 239 -- eliminates the legal fiction of civil asset forfeiture and restores due process.*
+
+(a) **Conviction Required.** The forfeiture of private property to the government is prohibited unless:
+
+- (1) the owner has first been convicted of a criminal offense in a court of law; and
+- (2) the property is proven beyond a reasonable doubt to be the direct proceeds of that specific crime or an instrumentality essential to its commission.
+
+(b) **Abolition of Civil Forfeiture.** "Civil Asset Forfeiture"--the legal fiction of proceeding in rem against property rather than in personam against its owner--is hereby abolished for all purposes. The government may not:
+
+- (1) sue property as a defendant;
+- (2) seize property based on suspicion without criminal charge;
+- (3) require owners to prove the "innocence" of their property;
+- (4) shift the burden of proof from government to citizen in forfeiture proceedings.
+
+(c) **Seizure Limitations.** Pre-conviction seizure of property is permitted only when:
+
+- (1) a criminal charge has been filed against the property owner;
+- (2) the property would be destroyed or dissipated without seizure;
+- (3) a judicial officer issues a seizure warrant upon sworn probable cause; and
+- (4) the owner is entitled to a prompt hearing (within 14 days) to challenge the seizure.
+
+Property seized pre-conviction but not forfeited after conviction shall be returned with interest.
+
+(d) **Proceeds Disposition.** Forfeited property, after conviction and all appeals, shall be:
+
+- (1) deposited in the general treasury of the jurisdiction obtaining forfeiture;
+- (2) not allocated to the seizing agency or department;
+- (3) not budgeted, anticipated, or relied upon as operational revenue by law enforcement.
+
+No law enforcement agency shall retain any direct or indirect financial benefit from forfeitures.
+
+(e) **Equitable Sharing Prohibition.** No Regional, State, or local government may:
+
+- (1) transfer seized property to federal agencies to circumvent this section;
+- (2) receive property or proceeds from federal forfeitures that would violate this section;
+- (3) participate in joint task forces whose forfeiture practices violate this section.
+
+The federal "Equitable Sharing" program and similar arrangements are hereby abolished.
+
+(f) **Standard of Proof.** In all forfeiture proceedings:
+
+- (1) the government bears the burden of proof;
+- (2) the standard of proof is "beyond a reasonable doubt";
+- (3) forfeiture may not exceed the scope of proven criminal activity;
+- (4) proportionality to the offense is required.
+
+(g) **Innocent Owner Protection.** Property may not be forfeited from:
+
+- (1) owners who did not know of and did not consent to the criminal use;
+- (2) secured creditors with perfected interests predating the criminal activity;
+- (3) bona fide purchasers for value without notice;
+- (4) family members not involved in the offense.
+
+The government bears the burden of proving owner knowledge or consent.
+
+(h) **Right to Counsel.** Any person facing forfeiture valued above 100 FPU ($10,000) shall have the right to appointed counsel if indigent. Legal fees incurred defending against wrongful forfeiture attempts shall be compensated if the forfeiture is denied.
+
+(i) **Return and Compensation.** If property is:
+
+- (1) seized but charges are not filed within 90 days -- property shall be returned with interest and storage costs compensated;
+- (2) seized but owner is acquitted -- property shall be returned with interest and all legal costs reimbursed;
+- (3) damaged or destroyed while in government custody -- full fair market value shall be compensated;
+- (4) sold before final judgment -- owner is entitled to full sale proceeds plus interest if forfeiture is not sustained.
+
+(j) **Enforcement.** Violations of this section shall be:
+
+- (1) actionable under 42 U.S.C. Section 1983 or its successor;
+- (2) grounds for disciplinary action against responsible officials;
+- (3) considered in evaluating law enforcement funding and accreditation.
+
+Officials who knowingly violate this section forfeit qualified immunity for that conduct.
+
+---
+
+### Section 9. The Extradition Shield (Sovereignty Protection)
+
+*Integrated from Gap 240 -- prevents cross-Regional prosecution for conduct lawful where performed.*
+
+(a) **Territorial Limitation of Criminal Jurisdiction.** The criminal jurisdiction of each Region extends only to:
+
+- (1) conduct occurring within the Region's territorial boundaries;
+- (2) conduct by the Region's residents that produces direct harmful effects within the Region; or
+- (3) conduct that would constitute a crime in the Region where performed and also in the prosecuting Region.
+
+No Region may criminalize conduct occurring entirely within another Region where such conduct is lawful.
+
+(b) **Extradition Prohibition.** No person shall be extradited from one Region to another for:
+
+- (1) conduct that was lawful in the Region where it was performed;
+- (2) conduct occurring entirely outside the demanding Region's borders;
+- (3) assisting another person in performing conduct lawful where performed;
+- (4) traveling to another Region to engage in conduct lawful there; or
+- (5) providing information about services lawful where offered.
+
+A Region receiving an extradition demand shall refuse the demand if any of these conditions apply.
+
+(c) **Aiding and Abetting Shield.** No person shall be prosecuted for:
+
+- (1) "conspiracy" to perform acts lawful where planned to be performed;
+- (2) "aiding and abetting" conduct lawful where the conduct occurred;
+- (3) providing transportation, information, or logistical support for activities lawful at their destination;
+- (4) medical, legal, or professional services lawful in the jurisdiction where rendered.
+
+(d) **Travel Protection.** The right of citizens to travel between Regions for any lawful purpose shall not be infringed. No Region may:
+
+- (1) criminalize travel to another Region;
+- (2) criminalize the intent to perform lawful acts in another Region;
+- (3) impose civil liability for travel to obtain lawful services elsewhere;
+- (4) require residents to report travel plans or purposes;
+- (5) penalize employers, insurers, or others for facilitating lawful travel.
+
+(e) **Data Protection.** No Region may:
+
+- (1) subpoena records from another Region's government or businesses regarding conduct lawful in that Region;
+- (2) require businesses to report on customers' lawful activities in other Regions;
+- (3) use surveillance data to identify persons engaging in conduct lawful where performed.
+
+Regions may refuse to comply with any demand for data regarding conduct lawful within their borders.
+
+(f) **Retroactivity Prohibition.** No person may be prosecuted for conduct that:
+
+- (1) was lawful in any Region when performed; or
+- (2) was lawful in the Region where performed, regardless of subsequent law changes.
+
+This prohibition applies to criminal charges, civil penalties, professional discipline, and any other government sanction.
+
+(g) **Forum Non Conveniens.** When conduct spans multiple Regions:
+
+- (1) the Region where the principal conduct occurred has primary jurisdiction;
+- (2) prosecution shall occur in the Region with the strongest nexus to the alleged harm;
+- (3) multiple prosecutions for the same conduct in different Regions are prohibited;
+- (4) the first Region to assert jurisdiction retains exclusive jurisdiction.
+
+(h) **Valid Extradition.** This section does not prohibit extradition for:
+
+- (1) conduct that was criminal in both the demanding and asylum Regions at the time performed;
+- (2) conduct occurring within the demanding Region's territory;
+- (3) conduct with direct, substantial harmful effects within the demanding Region;
+- (4) flight from prosecution after commission of a universally recognized crime.
+
+(i) **Enforcement.** Any person subject to extradition, prosecution, or penalty in violation of this section may:
+
+- (1) petition any federal court for immediate injunctive relief;
+- (2) have the case removed to federal court;
+- (3) recover costs and attorney fees if the claim is sustained;
+- (4) seek damages from officials who knowingly violated this section.
+
+(j) **Supremacy.** This section supersedes any Regional law, court order, or official action purporting to extend criminal jurisdiction beyond the limits established herein. Officials who execute extradition warrants or arrests in violation of this section are personally liable.
+
+---
+
+### Section 10. The Digital Papers Protection
+
+*Integrated from Gap 245 -- extends Fourth Amendment protection to data entrusted to third parties, abolishing the third-party doctrine.*
+
+(a) **Privacy Extends to Entrusted Data.** The right of privacy under the Fourth Amendment extends to data, records, and communications entrusted to third parties for the purpose of commerce, communication, storage, or service. Such data remains the constitutional property of the citizen who created or provided it.
+
+(b) **Third-Party Doctrine Abolished.** The fact that information has been shared with a third party does not:
+
+- (i) eliminate the citizen's reasonable expectation of privacy in that information;
+- (ii) authorize government access without constitutional process;
+- (iii) constitute consent to government surveillance;
+- (iv) waive Fourth Amendment protections.
+
+*Smith v. Maryland*, *United States v. Miller*, and their progeny are hereby overruled to the extent inconsistent with this section.
+
+(c) **Warrant Requirement.** Government access to data held by third parties requires:
+
+- (i) a warrant issued upon probable cause;
+- (ii) the warrant must describe with particularity the data sought and the crime investigated;
+- (iii) the warrant must be served on the citizen, not merely the third party, within 72 hours;
+- (iv) the citizen may challenge the warrant before data is disclosed, unless court finds notice would jeopardize investigation.
+
+(d) **Categories of Protected Data.** This section applies to, but is not limited to:
+
+- (i) financial records held by banks, credit unions, payment processors, or investment firms;
+- (ii) communications records held by phone companies, email providers, or messaging services;
+- (iii) location data held by cellular carriers, GPS services, or applications;
+- (iv) browsing history held by internet service providers or search engines;
+- (v) purchase records held by merchants, credit card companies, or e-commerce platforms;
+- (vi) health data held by pharmacies, insurance companies, fitness applications, or medical devices;
+- (vii) any data that, individually or in aggregate, reveals intimate details of the citizen's life.
+
+(e) **Subpoena Prohibition.** Administrative subpoenas, grand jury subpoenas, and national security letters may not be used to obtain data protected by this section. Only a judicial warrant, issued upon probable cause after adversarial hearing, suffices.
+
+(f) **Third-Party Obligations.** Entities holding citizen data:
+
+- (i) may not voluntarily disclose data to government without warrant or citizen consent;
+- (ii) must notify citizens within 72 hours of receiving government data request, unless court orders delayed notice;
+- (iii) must provide citizens with copies of data disclosed upon request;
+- (iv) may not contract away citizens' Fourth Amendment rights through terms of service.
+
+(g) **Aggregation Principle.** Individual data points that may seem innocuous alone but reveal intimate details when aggregated receive the same protection as directly sensitive data. The constitutional analysis considers the aggregate privacy invasion, not merely individual data fields.
+
+(h) **Exclusionary Rule.** Data obtained in violation of this section:
+
+- (i) is inadmissible in any criminal, civil, or administrative proceeding;
+- (ii) may not be used to develop leads or corroborate other evidence;
+- (iii) must be purged from government databases upon discovery of violation;
+- (iv) entitles the citizen to statutory damages and attorney fees.
+
+(i) **Regional Application.** This section applies to:
+
+- (i) Federal law enforcement and intelligence agencies;
+- (ii) Regional and State law enforcement;
+- (iii) any entity acting under color of law or government contract;
+- (iv) foreign requests for data under mutual legal assistance treaties.
+
+(j) **Coordination with Section 7.** This section operates in parallel with the Acquisition Shield (Section 7):
+
+- (i) Section 7 prohibits purchasing surveillance-equivalent data;
+- (ii) this section requires warrants for compelled disclosure;
+- (iii) together, they close both purchase and subpoena circumvention paths.
 
 ---
 
@@ -384,6 +786,60 @@ The Court shall apply consistent standards across receiverships, and precedent f
 
 ---
 
+## ARTICLE VI - FOREIGN AFFAIRS AND REGIONAL LIMITATIONS
+
+### Section 4. The One Voice Doctrine
+
+*Integrated from Gap 266 -- establishes federal exclusivity over all foreign relations including non-treaty instruments.*
+
+(a) **Exclusive Federal Authority.** The conduct of foreign relations is the exclusive domain of the Federal Government. No Region, State, local government, or instrumentality thereof may:
+
+- (i) enter into any treaty, alliance, or confederation with a foreign power;
+- (ii) enter into any agreement, compact, memorandum of understanding, framework, or arrangement with a foreign government, foreign government entity, foreign state-owned enterprise, or foreign political subdivision that:
+    - contradicts established Federal foreign policy;
+    - undermines Federal diplomatic objectives;
+    - interferes with Federal sanctions, embargoes, or trade restrictions;
+    - creates commitments regarding matters within Federal foreign affairs authority;
+    - provides foreign powers access to information, facilities, or relationships that could compromise national security.
+
+(b) **Void Ab Initio.** Any agreement entered into in violation of subsection (a) is void from the beginning and of no legal effect. No Regional official may implement, honor, or give effect to such an agreement.
+
+(c) **Permitted Activities.** This section does not prohibit:
+
+- (i) purely commercial transactions between Regional entities and foreign private parties;
+- (ii) academic exchanges with foreign universities that do not involve government commitments;
+- (iii) cultural activities that do not create governmental obligations;
+- (iv) tourism promotion not involving diplomatic representations;
+- (v) technical cooperation on non-sensitive matters with federal notification.
+
+(d) **Federal Notification and Review.**
+
+- (i) Before any Regional entity enters into any arrangement with a foreign government or government-connected entity, it shall notify the Department of State.
+- (ii) The Department of State shall have thirty (30) days to review and object.
+- (iii) If the Department objects, the arrangement shall not proceed unless the objection is overruled by the Constitutional Court.
+- (iv) Failure to notify renders any subsequent agreement presumptively void.
+
+(e) **Designation of Prohibited Partners.** The Federal Government may designate foreign entities with which Regional arrangements are categorically prohibited, including:
+
+- (i) governments of sanctioned countries;
+- (ii) foreign intelligence services and their front organizations;
+- (iii) foreign state-owned enterprises in sensitive sectors;
+- (iv) political parties of adversary nations.
+
+(f) **Enforcement.**
+
+- (i) The Attorney General may seek injunctive relief against prohibited arrangements.
+- (ii) Regional officials who enter into or implement prohibited arrangements are personally liable for damages to federal foreign policy interests.
+- (iii) Federal courts shall have jurisdiction to void prohibited arrangements and order cessation of implementation.
+
+(g) **Existing Arrangements.** Within one year of ratification:
+
+- (i) all existing Regional arrangements with foreign entities shall be submitted to the Department of State for review;
+- (ii) arrangements found to conflict with this section shall be terminated;
+- (iii) failure to submit shall render existing arrangements void.
+
+---
+
 ## Design Rationale
 
 ### Why Transform the Senate?
@@ -402,6 +858,16 @@ The transformed Senate:
 - cannot veto ordinary legislation
 - retains review power only for interregional coordination matters
 - may optionally require concurrence for safeguard legislation (see Section 4-A proposal)
+
+### Why "Silence Equals Consent" for Confirmations?
+
+The confirmation blockade exploits a gap in the original Constitution: "advice and consent" was understood to require action, but no mechanism forces the Senate to act. Strategic inaction became a weapon — the Senate could block nominees indefinitely without taking a recorded vote, avoiding political accountability. The Regional Federal system amplifies this risk because more constitutionally empowered offices require confirmation (ARB, IFC, Regional Guard commanders), and vacancy in these offices degrades constitutional functions rather than merely statutory ones.
+
+The "deemed confirmed" mechanism does not remove the Senate's power to reject. It removes only the power to do nothing. Senators must vote no or accept the nominee. The 180-day removal safety valve (matching Article XIV §13(c)(3)) provides a further backstop: if the Senate believes a deemed-confirmed officer is unfit, it can organize a two-thirds vote to remove within six months.
+
+### Why Self-Executing Deadlines Rather Than Officer-Triggered?
+
+The proposed text avoids relying on any specific officer (Parliamentarian, Chief Justice, presiding officer) to schedule the mandatory vote. Instead, the vote becomes "the first order of business on the next day the Senate is in session" by operation of law. This prevents gaming where the triggering officer is pressured not to act, and is consistent with the pattern in Article IV §5-A (Deliberation Mandate), which uses similar self-executing language ("No procedural mechanism may prevent").
 
 ### Why Limit Presidential Domestic Authority?
 

@@ -152,6 +152,70 @@ Automatic, formula-based equalization transfers shall ensure baseline governing 
 
 (3) The lower of the two limits applies.
 
+#### Tax Effort and Anti-Haven Standards
+
+(l) **Minimum Tax Effort Requirement.** To receive equalization transfers under this Section beyond the minimum floor established by Section 3-A, a Region must demonstrate minimum tax effort, defined as:
+
+(1) Regional tax revenue collection equal to at least seventy-five percent (75%) of the national average Regional tax revenue per capita; OR
+
+(2) Regional tax rates that, if applied to the national average tax base, would generate at least seventy-five percent (75%) of the national average Regional tax revenue per capita.
+
+The Independent Fiscal Council shall certify annually whether each Region meets this threshold.
+
+(m) **Phantom Revenue Adjustment.** For Regions that fail to meet the minimum tax effort threshold under subsection (l):
+
+(1) equalization entitlement shall be calculated as if the Region collected revenue at the minimum tax effort threshold;
+
+(2) the difference between actual collection and the minimum threshold ("phantom revenue") shall be subtracted from equalization transfers;
+
+(3) phantom revenue calculations shall be net of any tax expenditure add-backs already applied under subsection (f) of this Section, to prevent double-counting;
+
+(4) the IFC shall publish phantom revenue calculations for all Regions annually.
+
+(n) **Genuine Low Capacity Exception.** The minimum tax effort requirement under subsection (l) does not apply to a Region that demonstrates:
+
+(1) tax rates at or above the national average for each major tax category; AND
+
+(2) below-average revenue attributable to a genuinely lower tax base, including fewer high-income residents, less corporate activity, or lower property values;
+
+(3) not attributable to tax policy choices designed to attract tax-avoiding residents or entities.
+
+The IFC shall certify whether a Region qualifies for this exception. IFC certification is subject to judicial review for abuse of discretion.
+
+(o) **Anti-Haven Fiscal Consequence.** A Region that maintains tax rates more than fifty percent (50%) below the national average for any major tax category (income, corporate, property, or sales) shall be:
+
+(1) deemed to have fiscal capacity equal to the national average for equalization purposes, regardless of actual revenue;
+
+(2) ineligible for the Genuine Low Capacity Exception under subsection (n);
+
+(3) subject to enhanced phantom revenue calculation using one hundred percent (100%) of the national average (rather than seventy-five percent (75%)) as the threshold.
+
+No Region may provide special tax exemptions or incentives available only to new residents or entities relocating from other Regions, or establish tax-free zones that function primarily as havens for avoiding other Regions' taxation. *[See also subsection (i) Predatory Subsidy Prohibition.]*
+
+(p) **Section 3-A Floor Preservation.** Notwithstanding subsections (l) through (o), the minimum equalization floor under Section 3-A shall not be reduced below the level required to fund basic Regional governance functions. Phantom revenue adjustments may reduce equalization transfers above the Section 3-A floor but may not reduce transfers below it.
+
+(q) **Residence and Domicile Standards.** For purposes of Regional taxation:
+
+(1) physical presence within a Region for more than one hundred eighty-three (183) days per calendar year establishes a presumption of tax residence in that Region;
+
+(2) income earned through work performed within a Region is taxable by that Region regardless of the taxpayer's nominal residence;
+
+(3) Regions shall cooperate in the sharing of taxpayer information to prevent residence arbitrage, subject to privacy protections established by statute.
+
+(r) **Corporate Tax Apportionment.** Corporate tax liability shall be apportioned among Regions based on:
+
+(1) the proportion of sales to customers in each Region;
+
+(2) the proportion of employees and payroll in each Region;
+
+(3) the proportion of property and assets in each Region;
+
+using a formula established by Interstate Compact. Nominal headquarters location alone does not determine tax liability. In the absence of such a Compact, the Independent Fiscal Council shall promulgate a default apportionment formula based on sales, payroll, and property factors.
+
+(s) **Congressional Equalization Adjustment Authority.** If interstate tax competition undermines the viability of the equalization system under this Section, Congress may by law adjust the equalization formula to account for competitive distortions. Congress may not, under this subsection, establish minimum tax rates for Regional taxation.
+
+*[See Gap 193.]*
+
 ---
 
 ### Section 3-A. Small Region Support
@@ -198,9 +262,67 @@ Such pooling shall preserve each Region's sovereignty and independent governance
 
 ---
 
-### Section 4. Anti-Coercion Rule
+### Section 4. Non-Coercion Standard
 
-Conditional funding that effectively compels unrelated policy compliance is unconstitutional.
+*[This section prohibits the federal government from using conditional spending or tax expenditures to coerce Regions into adopting policies within Exclusive Regional Domains. See Gap 194.]*
+
+(a) **Conditional Spending Limitations.** Federal spending conditions and conditional tax expenditures must be:
+
+(1) **Germane**: directly and substantially related to the federal spending program's purpose;
+
+(2) **Non-Coercive**: not compelling adoption of policies within Exclusive Regional Domains as defined in Article II, Section 1(e)(2); and
+
+(3) **Transparent**: clearly stated in the authorizing legislation, not imposed through regulation, guidance, or enforcement discretion.
+
+(b) **Coercion Threshold.** A spending condition or conditional tax expenditure is presumptively coercive if:
+
+(1) the potential loss to the Region exceeds 5% of the Region's budget for the affected functional category as determined by the Independent Fiscal Council; OR
+
+(2) the aggregate financial impact of all federal conditions within a single functional category exceeds 5% of the Region's budget for that category in a fiscal year; OR
+
+(3) the condition requires a Region to enact, maintain, or repeal legislation within an Exclusive Regional Domain; OR
+
+(4) the condition effectively transfers regulatory authority from the Region to the federal government in an Exclusive Regional Domain.
+
+(c) **Germaneness Requirement.** Conditions attached to federal spending must relate to how the federal funds are spent, not to unrelated Regional policies. A condition on transportation funds must relate to transportation construction, maintenance, or safety--not to education, family law, or other domains.
+
+(d) **Exclusive Domain Protection.** No spending condition or conditional tax expenditure may require a Region to:
+
+(1) adopt specific policies within an Exclusive Regional Domain;
+
+(2) surrender regulatory authority within an Exclusive Regional Domain;
+
+(3) submit Exclusive Regional Domain legislation for federal approval; or
+
+(4) enforce federal standards within an Exclusive Regional Domain.
+
+(e) **Voluntary Cooperation.** A Region may accept federal conditions within an Exclusive Regional Domain only by a two-thirds vote of the Regional Assembly. Such acceptance:
+
+(1) may be revoked by the same two-thirds vote at any time;
+
+(2) does not establish precedent for future conditions;
+
+(3) does not waive the Region's right to challenge other conditions under this section.
+
+(f) **Scope.** For purposes of this section, "federal funds" includes appropriations, grants, transfers, tax credits, tax deductions, tax exemptions, and any other financial incentive conditioned on Regional policy compliance. "Functional category" means the budget classification categories established and maintained by the Independent Fiscal Council under Section 5.
+
+(g) **Maintenance of Effort.** Maintenance of Effort requirements attached to conditional spending are subject to the limitations of Section 18(e) regardless of whether the underlying program constitutes a funded or unfunded mandate.
+
+(h) **Enforcement.** Regions may challenge spending conditions before the Constitutional Court. If a condition is found invalid:
+
+(1) the invalid condition is severed; the Region receives the funds without the condition;
+
+(2) Congress may not reduce baseline funding to the Region--defined as the prior fiscal year's appropriation for the affected program--in retaliation for a successful challenge;
+
+(3) the prevailing Region recovers litigation costs.
+
+(i) **Savings Clause.** This section does not limit:
+
+(1) legitimate accounting, audit, and reporting requirements for how federal funds are spent;
+
+(2) conditions directly and substantially related to the administration of the funded program itself;
+
+(3) federal regulatory authority in Shared Domains or Federal Exclusive Domains as defined in Article II, Section 1(e).
 
 ---
 
@@ -301,13 +423,23 @@ Conditional funding that effectively compels unrelated policy compliance is unco
 
 #### No-Bailout Commitment
 
-(i) **Federal No-Bailout Rule.** The Federal government may not:
+(i) **Federal No-Bailout Rule.** Neither the United States nor any instrumentality thereof shall:
 
-(1) Assume Regional debt obligations;
+(1) Assume, guarantee, or pay any debt or obligation of any Region or any instrumentality thereof;
 
-(2) Guarantee Regional bond payments;
+(2) Appropriate funds for the purpose of enabling any Region to meet debt obligations or avoid default;
 
-(3) Provide transfers conditioned on debt repayment.
+(3) Provide loans, credit facilities, or other financial assistance if the primary purpose is to enable debt service or avoid default.
+
+Any law, appropriation, or executive action that violates this prohibition is void.
+
+This prohibition does not apply to:
+
+- (A) Formula-based stabilization transfers under Section 9, which address cyclical economic conditions rather than debt service;
+- (B) Temporary federal assumption of essential service operations under Section 7(d)(1)(B), which constitutes operational continuity rather than financial assistance;
+- (C) Emergency liquidity assistance under subsection (t) of this Section, provided all conditions therein are satisfied.
+
+*[See Gap 197.]*
 
 (j) **Regional Default Procedures.** If a Region cannot service its debt:
 
@@ -315,7 +447,15 @@ Conditional funding that effectively compels unrelated policy compliance is unco
 
 (2) Bondholders bear losses according to normal priority rules;
 
-(3) Essential services continue under ARB-supervised receivership.
+(3) Essential services continue under ARB-supervised receivership;
+
+(4) Restructuring plans require approval by two-thirds of creditors by value in each class;
+
+(5) Approved restructuring plans bind all creditors in the approving class, including holdouts;
+
+(6) Pension obligations shall be modified only after bondholders and general obligation creditors have absorbed losses proportionate to their claims; pensions are not immune from modification if solvency cannot otherwise be restored.
+
+*[See Gap 197.]*
 
 (k) **Corridor Protection During Default.** National Interest Corridors:
 
@@ -363,7 +503,9 @@ Conditional funding that effectively compels unrelated policy compliance is unco
 
 (5) All lease-purchase agreements, certificates of participation, and similar financing arrangements;
 
-(6) The proportionate share of any multi-Regional financing entity's obligations based on the Region's participation.
+(6) The proportionate share of any multi-Regional financing entity's obligations based on the Region's participation;
+
+(7) Unfunded pension liabilities, unfunded other post-employment benefit (OPEB) liabilities, and unfunded liabilities of any other long-term employee benefit obligation, calculated using actuarial standards under Section 20 of this Article; provided that inclusion of such liabilities shall be phased in over ten (10) years following ratification, with ten percent (10%) of the calculated liability added in each year. *[See Gap 202.]*
 
 (p) **Independent Infrastructure Authority Restrictions.**
 
@@ -394,6 +536,34 @@ Conditional funding that effectively compels unrelated policy compliance is unco
 (3) Regional officials who authorized the evasive structure may be personally disqualified from future public financial positions;
 
 (4) The Region shall reimburse IFC enforcement costs.
+
+#### Market Discipline and Liquidity
+
+(s) **Market Discipline Preservation.** To preserve market discipline on Regional borrowing:
+
+(1) No federal law shall establish that Regional bonds are guaranteed by federal full faith and credit;
+
+(2) No federal regulatory action shall require financial institutions to treat Regional bonds as risk-free assets;
+
+(3) Regional bonds shall be rated, priced, and traded based on the creditworthiness of the issuing Region alone.
+
+*[See Gap 197.]*
+
+(t) **Emergency Liquidity Assistance.** Notwithstanding subsection (i), the Federal Reserve may provide short-term liquidity assistance to a Region:
+
+(1) Only upon certification by the Independent Fiscal Council that the Region faces a temporary liquidity crisis rather than structural insolvency;
+
+(2) At penalty interest rates above market rates for comparable risk;
+
+(3) For a maximum duration of eighteen (18) months, which may not be extended or renewed;
+
+(4) Secured by adequate collateral;
+
+(5) Subject to Congressional notification within forty-eight (48) hours and Congressional override within sixty (60) days.
+
+If the IFC determines at any point during the assistance period that the Region is structurally insolvent rather than temporarily illiquid, liquidity assistance shall terminate immediately and the Region shall enter the fiscal intervention process under Section 10.
+
+*[See Gap 197.]*
 
 ---
 
@@ -446,7 +616,7 @@ Conditional funding that effectively compels unrelated policy compliance is unco
 (1) If a Region in Conservatorship cannot achieve fiscal sustainability, the IFC may implement orderly resolution including:
 
 - (A) Mandatory debt restructuring with haircuts distributed equitably among bondholders;
-- (B) Temporary federal assumption of essential services;
+- (B) Temporary federal assumption of essential service operations, which constitutes operational continuity and does not constitute financial assistance or a guarantee of Regional debt obligations under Section 6(i);
 - (C) Asset sales from Regional Development Banks;
 
 (2) Resolution shall not include unlimited federal bailouts or transfer increases;
@@ -741,7 +911,7 @@ The IFC fiscal intervention authorities established in this Article proceed in e
 - (3) scrip, vouchers, or certificates that are designed to circulate as a substitute for federal currency;
 - (4) any instrument that, regardless of its formal designation, functions as a store of value, medium of exchange, and unit of account within the Regional economy.
 
-(c) **Functional Test.** An instrument shall be deemed a prohibited quasi-currency if it meets any two of the following criteria:
+(c) **Functional Test.** An instrument, regardless of whether it was created, issued, or sponsored by a Region or State, shall be deemed a prohibited quasi-currency if it meets any two of the following criteria:
 
 - (1) it is accepted for payment of Regional or State taxes, fees, or charges;
 - (2) it is traded on secondary markets or exchanges;
@@ -775,6 +945,27 @@ The IFC fiscal intervention authorities established in this Article proceed in e
 - (1) determine whether an instrument constitutes a prohibited quasi-currency;
 - (2) require reporting from Regions on fiscal instruments that approach the thresholds in subsection (c);
 - (3) issue cease-and-desist orders for instruments that threaten monetary policy effectiveness.
+
+(h) **Legal Tender Monopoly.** *[See Gap 195.]*
+
+- (1) No Region or State may make any thing other than the Federal Dollar legal tender in payment of debts, whether public or private;
+- (2) No Region or State may accept any medium other than the Federal Dollar for the discharge of public taxes, fees, fines, or other obligations owed to the Regional or State government;
+- (3) No Region or State may denominate public obligations, contracts, or budgets in any unit of account other than the Federal Dollar;
+- (4) No Region or State may establish, sponsor, adopt, or officially endorse any alternative currency, cryptocurrency, commodity money, or medium of exchange as equivalent to or substitute for the Federal Dollar.
+
+(i) **Definition of "Federal Dollar."** For purposes of this section and of this Constitution:
+
+- (1) "Federal Dollar" means the currency issued by the United States Federal Reserve System;
+- (2) Digital representations of Federal Dollars issued or authorized by the Federal Reserve are Federal Dollars, subject to the privacy and anti-programmability requirements of Article I, Section 22;
+- (3) Private stablecoins, cryptocurrencies, and digital assets are not Federal Dollars regardless of their denomination or peg.
+
+(j) **Private Transactions.** Nothing in this section prohibits:
+
+- (1) private parties from voluntarily transacting in any medium they choose, subject to applicable federal regulation;
+- (2) federal regulation of cryptocurrency and digital assets;
+- (3) Regional consumer protection laws regarding cryptocurrency fraud.
+
+This subsection limits only governmental acceptance and endorsement, not private economic activity.
 
 ---
 
@@ -864,6 +1055,387 @@ The IFC fiscal intervention authorities established in this Article proceed in e
 - (2) defer maintenance or remediation to increase legacy burden claims;
 - (3) manipulate pension assumptions to inflate unfunded liability calculations.
 Violations shall result in forfeiture of NLT assistance and clawback of prior disbursements.
+
+---
+
+### Section 16. Forensic Audit Authority and Data Integrity
+
+*[This section establishes forensic audit authority and data integrity requirements for Regional fiscal data submissions. See Gap 129.]*
+
+(a) **Forensic Audit Authority.**
+
+(1) The Independent Fiscal Council (IFC) and Allocation Review Board (ARB) shall possess authority to conduct unannounced forensic audits of Regional data systems;
+
+(2) Audits may examine source records, data entry processes, and algorithmic transformations;
+
+(3) Regions must provide auditors with full system access, including administrative credentials;
+
+(4) Obstruction of forensic audit is treated as admission of data falsification.
+
+(b) **Data Integrity Certification.**
+
+(1) Regional officials certifying data submissions for federal purposes shall attest under penalty of perjury to data accuracy;
+
+(2) Certification must identify the official responsible, data sources used, and any known limitations;
+
+(3) Intentional false certification is a federal felony with mandatory removal from office;
+
+(4) The IFC shall establish Data Integrity Standards that Regions must demonstrate compliance with annually.
+
+(c) **Falsification Consequences.**
+
+(1) Upon IFC or ARB finding of systematic data falsification, the affected Region's "Exclusive Domain" status for the affected sector is automatically suspended for three (3) years;
+
+(2) Federal agencies assume direct data collection authority in the affected sector;
+
+(3) All constitutional determinations made using falsified data are subject to reopening and revision;
+
+(4) The Region must reimburse all equalization transfers received based on falsified data, plus interest and penalties.
+
+(d) **Cross-Verification.**
+
+(1) The IFC shall cross-verify Regional data submissions against:
+
+- (A) Federal tax records;
+- (B) Private sector economic indicators (energy consumption, freight volume, financial transactions);
+- (C) Adjacent Regions' border-crossing data;
+- (D) Satellite and remote sensing data where applicable;
+
+(2) Material discrepancies trigger mandatory audit;
+
+(3) Regions with consistent verification failures are placed on "Enhanced Monitoring" with quarterly audits;
+
+(4) Three consecutive quarters of verification failure creates rebuttable presumption of falsification.
+
+---
+
+### Section 17. Independent Statistical Trust
+
+*[This section establishes an Independent Statistical Trust to prevent fiscal data fraud and ensure the integrity of all statistics used for equalization, apportionment, and federal funding formulae. See Gap 236.]*
+
+(a) **Establishment.** There shall be an Independent Statistical Trust (IST), insulated from political control, responsible for the collection, verification, and certification of all economic, demographic, and social data used for:
+
+(1) Federal apportionment of funds;
+
+(2) Fiscal Equalization calculations;
+
+(3) Congressional representation;
+
+(4) Cost-of-living adjustments to federal programs;
+
+(5) Any constitutional or statutory formula requiring statistical inputs.
+
+(b) **Independence.** The Independent Statistical Trust:
+
+(1) is not part of the Executive Branch and does not report to the President;
+
+(2) has Commissioners serving staggered 10-year terms, removable only for cause by two-thirds vote of the Senate;
+
+(3) has constitutionally guaranteed funding equal to 0.1% of federal discretionary spending, not subject to executive impoundment;
+
+(4) employs career statistical professionals under merit-based civil service protection;
+
+(5) may not receive instructions from any elected official regarding methodology or findings.
+
+(c) **Mandatory Data.** The IST has sole authority to certify:
+
+(1) Regional and State GDP and economic output;
+
+(2) Population counts between decennial censuses;
+
+(3) Unemployment and labor force participation rates;
+
+(4) Consumer price indices and inflation measures;
+
+(5) Tax capacity and fiscal capacity for Equalization;
+
+(6) Any other statistic used in federal funding formulae.
+
+Regional statistics that have not been IST-certified may not be used for federal purposes.
+
+(d) **Access Authority.** The IST:
+
+(1) has unrestricted access to all Regional and State administrative data;
+
+(2) may conduct independent surveys and sampling within any jurisdiction;
+
+(3) may audit Regional statistical agencies at any time without notice;
+
+(4) may subpoena records from private entities for statistical verification;
+
+(5) Regional claims of data sovereignty do not apply to IST access for certification.
+
+(e) **Methodology Transparency.** The IST:
+
+(1) shall publish all methodologies for public review before implementation;
+
+(2) shall submit major methodology changes to a 90-day public comment period;
+
+(3) shall explain all statistical adjustments in public documentation;
+
+(4) shall make microdata available to qualified researchers under privacy protections;
+
+(5) may not classify statistical methodology or certification processes.
+
+(f) **Statistical Fraud as High Crime.** Any official who:
+
+(1) falsifies data submitted to the IST;
+
+(2) obstructs IST access to source records;
+
+(3) pressures IST personnel regarding findings;
+
+(4) manipulates administrative data to distort certified statistics;
+
+(5) retaliates against IST personnel or whistleblowers
+
+commits a High Crime punishable by imprisonment of 5-20 years and permanent disqualification from public office.
+
+(g) **Cross-Verification.** The IST shall:
+
+(1) cross-verify Regional data against independent sources (tax records, satellite imagery, private economic indicators);
+
+(2) flag statistically implausible claims for mandatory audit;
+
+(3) maintain historical baselines to detect sudden unexplained changes;
+
+(4) publish confidence intervals and uncertainty measures with all certified statistics.
+
+(h) **Consequences of Falsification.** If the IST finds that a Region systematically falsified data:
+
+(1) all Equalization transfers based on falsified data shall be clawed back with interest;
+
+(2) the Region's Equalization receipts shall be reduced by 25% for 5 years;
+
+(3) the Region shall bear costs of IST direct data collection for 10 years;
+
+(4) responsible officials shall be referred for criminal prosecution;
+
+(5) the Region loses voting representation on the Allocation Review Board.
+
+(i) **Federal Statistics.** Federal agencies may not release official statistics that:
+
+(1) contradict IST-certified figures;
+
+(2) use methodologies rejected by IST after public comment;
+
+(3) are produced under political direction regarding outcomes.
+
+The Bureau of Labor Statistics, Census Bureau, and Bureau of Economic Analysis shall coordinate with IST or be absorbed into IST.
+
+---
+
+### Section 18. Full Funding Requirement for Federal Mandates
+
+*[This section establishes the "No Money, No Mandate" rule, prohibiting unfunded federal mandates on Regional, State, and local governments. See Gap 241.]*
+
+(a) **Full Funding Requirement.** Any Federal law, regulation, or Executive order that imposes a financial cost upon Regional, State, or local governments shall include a fully funded Federal appropriation to cover that cost. If the Federal Government does not appropriate funds to cover the implementation cost, the mandate is unenforceable.
+
+(b) **Cost Determination.** For each Federal mandate:
+
+(1) the Congressional Budget Office shall estimate total compliance costs to Regional, State, and local governments over a 10-year horizon;
+
+(2) the estimate shall include direct costs, administrative costs, and opportunity costs;
+
+(3) the estimate shall be published before any floor vote;
+
+(4) Congress shall appropriate the full estimated cost or the mandate does not take effect.
+
+(c) **Conditional Funding Prohibition.** The Federal Government may not:
+
+(1) condition unrelated federal funding on compliance with new mandates;
+
+(2) threaten withdrawal of existing funding to coerce acceptance of unfunded requirements;
+
+(3) structure "voluntary" programs such that non-participation triggers effective penalties;
+
+(4) use spending power to accomplish what would otherwise require unfunded mandate.
+
+Coercive conditional funding arrangements are treated as unfunded mandates subject to this section and are subject to the Non-Coercion Standard of Section 4.
+
+(d) **Regulatory Mandates.** Federal agency regulations imposing costs on Regional, State, or local governments:
+
+(1) are subject to the same full funding requirement as statutory mandates;
+
+(2) may not take effect until Congress appropriates implementation costs;
+
+(3) require explicit statutory authorization--agencies may not independently create mandates;
+
+(4) must include compliance cost estimates certified by the Office of Management and Budget.
+
+(e) **Maintenance of Effort Limitation.** "Maintenance of Effort" requirements that compel Regional spending as condition of federal participation:
+
+(1) may not exceed the level of spending that existed when the federal program began;
+
+(2) must be adjusted for inflation and population changes;
+
+(3) may not be used to ratchet up Regional spending obligations;
+
+(4) expire after 5 years unless explicitly renewed by Congress.
+
+(f) **Partial Funding Accountability.** If Congress provides partial funding for a mandate:
+
+(1) the mandate is enforceable only to the extent of federal funding;
+
+(2) Regions may scale implementation proportionally to funding received;
+
+(3) Federal agencies may not penalize partial compliance due to partial funding;
+
+(4) the gap between mandate and funding must be reported annually to Congress.
+
+(g) **Existing Mandates.** For mandates enacted prior to ratification:
+
+(1) Congress shall review all existing unfunded mandates within 5 years;
+
+(2) each mandate must be either funded, modified to eliminate cost, or repealed;
+
+(3) pending review, existing mandates remain in effect but may not be expanded;
+
+(4) Regions may petition for expedited review of particularly burdensome mandates.
+
+(h) **Enforcement.** Regional, State, and local governments may:
+
+(1) refuse compliance with unfunded mandates without penalty;
+
+(2) seek declaratory judgment that a federal requirement constitutes an unfunded mandate;
+
+(3) recover compliance costs from the Federal Government if compelled to implement unfunded mandate;
+
+(4) obtain injunctive relief against enforcement of unfunded mandates.
+
+(i) **Emergency Exception.** This section does not apply to:
+
+(1) mandates during a declared national emergency, for the duration of the emergency only;
+
+(2) requirements necessary to protect constitutional rights (civil rights enforcement);
+
+(3) mandates that merely prohibit conduct without requiring affirmative spending;
+
+(4) reciprocal obligations incidental to federal grants voluntarily accepted.
+
+(j) **Appropriations Protection.** Appropriations for mandate funding:
+
+(1) may not be rescinded, impounded, or reprogrammed without Congressional action;
+
+(2) are subject to automatic continuing resolution under Section 19 if new appropriation is not enacted;
+
+(3) flow directly to implementing governments without executive discretion;
+
+(4) are indexed to actual compliance costs, with true-up provisions for underestimates.
+
+---
+
+### Section 19. Automatic Continuing Resolution
+
+*[This section constitutionally prohibits government shutdowns and establishes automatic appropriations if Congress fails to enact a budget. See Gap 170.]*
+
+(a) **Prohibition on Shutdowns.** Government shutdowns are constitutionally prohibited. The Federal Government shall not cease operations due to failure to enact appropriations.
+
+(b) **Automatic Appropriation.** If Congress fails to enact an appropriation bill for any department or agency by the first day of the fiscal year, the previous fiscal year's appropriation for that department or agency shall be automatically reenacted at ninety-eight percent (98%) of the prior level.
+
+(c) **Monthly Continuation.** Automatic appropriations under subsection (b) shall continue on a monthly basis until new appropriations are enacted. Each month, the automatic level shall be recalculated at ninety-eight percent (98%) of the prior month's automatic level, creating compounding incentive to reach agreement.
+
+(d) **Essential Functions Protection.** Notwithstanding subsections (b) and (c), the following constitutionally enumerated functions shall receive full appropriations at the prior fiscal year's enacted level, adjusted annually by the Consumer Price Index for All Urban Consumers (CPI-U) as published by the Bureau of Labor Statistics, or by a successor index designated by statute:
+
+(1) border security and immigration enforcement;
+
+(2) interstate commerce regulation and enforcement;
+
+(3) federal court operations, including the Constitutional Court, the Autonomy Review Board, and all Article III courts;
+
+(4) election administration, including the Independent Electoral Commission;
+
+(5) equalization payment processing and disbursement;
+
+(6) debt service and existing obligation payments.
+
+Congress may add functions to this list by two-thirds vote of both chambers, subject to judicial review for consistency with constitutional purposes. Removal from this list requires constitutional amendment.
+
+(e) **No New Programs or Expansions.** During any period of automatic appropriation:
+
+(1) no new programs, agencies, or spending initiatives may be funded;
+
+(2) no existing programs may be expanded beyond their prior-year scope;
+
+(3) no new obligations extending beyond the current fiscal year may be created;
+
+(4) automatic appropriation authority extends only to programs authorized by Congress prior to the lapse in appropriations.
+
+(f) **No Retroactive Reduction.** Obligations incurred and compensation earned during periods of automatic appropriation shall not be subject to retroactive reduction if a subsequent appropriation is enacted at a lower level.
+
+(g) **Borrowing Authority.** Automatic appropriations under this Section shall be deemed appropriations authorized by Congress for purposes of Article I, Section 20. The Treasury shall have full borrowing authority to execute automatic appropriations on the same terms as legislated appropriations.
+
+(h) **Termination.** Automatic appropriations terminate immediately upon enactment of regular appropriations for the affected fiscal year. Partial appropriations (covering some but not all departments or agencies) terminate automatic appropriation only for the departments or agencies covered by the enacted legislation.
+
+(i) **Unauthorized Military Operations Exclusion.** Automatic appropriations under this section shall not fund military operations for which authorization under Article XI, Section 2, has expired, been terminated, or was never granted. The Comptroller General shall identify and quarantine such expenditures within thirty days of the commencement of any automatic appropriation period. Funds necessary for the orderly withdrawal of forces under Article XI, Section 2(j), are not subject to this exclusion.
+
+---
+
+### Section 20. Actuarial Honesty and Pension Discipline
+
+*[This section prevents the accumulation of unfunded pension and retiree benefit liabilities through mandatory accrual funding, realistic actuarial assumptions, and automatic correction mechanisms. See Gap 202.]*
+
+(a) **Full Accrual Funding Requirement.** All public pension systems, retiree healthcare systems, and other long-term employee benefit obligations of Regional, State, and local governments shall be funded on a current accrual basis:
+
+- (1) the Annual Required Contribution (ARC) shall be calculated using actuarial standards promulgated by the Pension Actuarial Division of the Independent Fiscal Council;
+- (2) governments shall contribute one hundred percent (100%) of the ARC each fiscal year;
+- (3) failure to contribute one hundred percent (100%) of the ARC constitutes a fiscal violation subject to the intervention hierarchy under Section 10 of this Article.
+
+(b) **Discount Rate Standards.** For purposes of calculating pension and benefit liabilities:
+
+- (1) the discount rate shall be the yield on twenty-year Treasury bonds, plus a risk premium not to exceed one hundred (100) basis points;
+- (2) assumed investment returns may not exceed historical thirty-year rolling averages for the pension system's actual asset allocation;
+- (3) mortality assumptions shall use the most recent federal actuarial tables without modification;
+- (4) the IFC shall audit discount rate assumptions annually.
+
+Actuarial assumptions that systematically understate liabilities are prohibited.
+
+(c) **Unfunded Liability Amortization.** Existing unfunded liabilities as of ratification shall be:
+
+- (1) amortized over a maximum of twenty (20) years using level-dollar amortization;
+- (2) included as a separate line item in Regional, State, and local budgets;
+- (3) subject to annual progress reporting to the IFC.
+
+No new unfunded liability may be created. Benefit enhancements must be fully funded at the time of enactment. Pre-ratification unfunded pension obligations are also subject to the Legacy Burden Factor under Section 15 of this Article, which provides equalization support but does not excuse the amortization obligation.
+
+(d) **Automatic Contribution Trigger.** If a government fails to make its full ARC:
+
+- (1) employee and employer contribution rates automatically increase by the shortfall percentage, divided equally;
+- (2) the automatic increase takes effect the following fiscal year;
+- (3) the government may override the automatic increase only by enacting equivalent benefit reductions or alternative funding sources certified as actuarially sufficient by the IFC;
+- (4) failure to cure within two (2) fiscal years triggers enhanced oversight under Section 10 of this Article.
+
+No government may manipulate its ARC calculation through assumption changes for the purpose of avoiding the automatic contribution trigger. The IFC may disregard assumption changes made within twelve (12) months of a trigger event if the changes lack independent actuarial justification.
+
+(e) **Benefit Enhancement Restrictions.** No Regional, State, or local government may:
+
+- (1) enhance pension or benefit formulas unless the enhancement is fully funded by increased contributions or reduced benefits elsewhere, as certified by the IFC;
+- (2) allow pension spiking through artificial inflation of final average salary, including through overtime, unused leave payouts, or temporary reclassification;
+- (3) grant retroactive benefit enhancements applying to service already rendered;
+- (4) issue pension obligation bonds without IFC certification that the issuance improves net actuarial position over the full amortization period.
+
+(f) **Transparency Requirements.** All public pension systems shall:
+
+- (1) publish annual actuarial reports using standardized formats promulgated by the IFC;
+- (2) disclose funded ratios, unfunded liabilities, and amortization schedules prominently in annual budgets;
+- (3) provide thirty-year projections under assumptions certified by the IFC;
+- (4) make all actuarial data available for independent analysis.
+
+(g) **Enforcement.** Pension funding violations are subject to the fiscal intervention hierarchy under Section 10 of this Article. For purposes of Section 10:
+
+- (1) failure to contribute one hundred percent (100%) of the ARC for a single fiscal year constitutes a fiscal condition warranting Stage 1 (Capacity Adjustment) review;
+- (2) persistent ARC shortfalls exceeding two (2) consecutive fiscal years constitute fiscal negligence warranting Stage 2 review;
+- (3) unfunded liability ratios exceeding seventy-five percent (75%) of annual Regional revenue, as calculated by the IFC, constitute grounds for Stage 3 (Solvency Suspension) consideration;
+- (4) officials who knowingly approve inadequate contributions, or who knowingly submit false actuarial data, are subject to personal liability and removal under the same standards applicable to fiscal negligence under Section 10.
+
+(h) **Relationship to Sovereign Reorganization.** In any Sovereign Reorganization proceeding under Section 6(j), pension obligations:
+
+- (1) are subject to the priority ordering established by Section 6(j)(6);
+- (2) may be modified only prospectively for future benefit accruals, not retroactively for benefits already earned;
+- (3) must maintain minimum benefit floors established by the IFC;
+- (4) may not be discharged entirely—some pension recovery is required even in insolvency.
+
+*[See Gap 202.]*
 
 ---
 

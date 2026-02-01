@@ -262,6 +262,46 @@ A prima facie showing requires specific factual allegations demonstrating struct
 
 (3) characterizing deprivations as "public rights" to avoid adjudicator independence requirements.
 
+### Section 16. Injunctive Relief Scope and Anti-Forum Shopping
+
+(a) **District Court Scope Limitation.** A single federal district court may not issue injunctive relief against enforcement of any federal statute, regulation, or executive action that extends beyond the parties before the court and the judicial district in which the court sits, except as provided in subsection (b).
+
+(b) **Nationwide Relief Through Elevated Courts.** Injunctive relief extending beyond a single judicial district may be issued only by:
+
+(1) the Supreme Court;
+
+(2) a panel of not fewer than three federal judges, as provided by law; or
+
+(3) a court exercising jurisdiction under Section 4 of Article XIV-RF (Provisional Relief) for constitutional-structure claims within that section's scope.
+
+The requirement of a multi-judge panel does not apply to relief limited to the named parties.
+
+(c) **Automatic Stay for Non-Constitutional Cases.** When a district court issues injunctive relief against federal action in cases outside the scope of Article XIV-RF, Section 4 (statutory, regulatory, and administrative challenges):
+
+(1) the injunction is automatically stayed upon the government's filing of notice of appeal;
+
+(2) the stay continues unless the appellate court affirms within sixty (60) days;
+
+(3) this subsection does not apply to cases on the Expedited Review Track under Article XIV-RF, Section 4.
+
+(d) **Anti-Forum Shopping.** Challenges to federal policy:
+
+(1) must be filed in a district with substantial connection to the challenger's residence, principal place of business, or the locus of the challenged conduct;
+
+(2) may be consolidated by the Judicial Panel on Multidistrict Litigation, as provided by law, for coordinated proceedings;
+
+(3) a pattern of filing in districts unconnected to challengers creates rebuttable presumption of forum shopping.
+
+(e) **Effective Remedies Preservation.** Nothing in this section limits the authority of courts to provide effective remedies under Section 6 of this Article. The scope limitations in subsection (a) are procedural requirements for obtaining nationwide relief, not substantive limitations on the remedies available through the elevated courts identified in subsection (b).
+
+(f) **Serial Litigation Coordination.** When substantially similar challenges to the same federal action are filed in multiple districts:
+
+(1) the Judicial Panel on Multidistrict Litigation, as provided by law, shall consolidate such challenges for coordinated pretrial proceedings;
+
+(2) a court may impose sanctions for vexatious litigation where a party files challenges substantially similar to claims previously adjudicated on the merits, under standards established by the Federal Rules or by law;
+
+(3) consolidation does not limit any party's right to trial in the transferor district upon completion of coordinated proceedings.
+
 ---
 
 ## Implementation Notes
@@ -277,6 +317,8 @@ This amendment requires implementing legislation including:
 - Vacancy Acceleration Act (default confirmation and seating procedures)
 - Administrative Court Establishment Act (transfer of ALJ functions to independent judiciary)
 - ALJ Transition Act (five-year transfer schedule, merit selection, and tenure protections)
+- Injunctive Relief Scope Act (three-judge panel procedures, MDL consolidation standards, forum shopping sanctions)
+- Anti-Forum Shopping Venue Act (substantial connection standards, venue transfer procedures)
 
 ---
 

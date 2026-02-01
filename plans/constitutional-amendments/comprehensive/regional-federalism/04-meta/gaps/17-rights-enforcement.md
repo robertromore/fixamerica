@@ -387,7 +387,7 @@ Gap 188 surgically restores the protective precedents while preserving Gap 175's
 **Identified**: 2026-01-26
 **Category**: Rights Enforcement
 **Criticality**: 🔴 **CRITICAL**
-**Status**: UNRESOLVED
+**Status**: RESOLVED (2026-02-01) — Article III, Section 4 (The Unwaivable Core)
 
 ### Problem Statement
 
@@ -574,9 +574,37 @@ Add to Article III-RF, Section 14 — The Unwaivable Core:
 **Dependencies**: None — self-contained rights protection
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article III-RF, Section 14.
+**RESOLVED.** Constitutional amendment integrated as Article III, Section 4 (The Unwaivable Core) in `02-design/constitution/02-powers-and-rights.md`.
 
-**Severity:** Critical | **Mitigability:** Requires Development
+**Severity:** Critical | **Mitigability:** ✅ Resolved
+
+**Design Decisions (D1-D7, multi-LLM converged):**
+
+| Decision | Choice | Rationale |
+|----------|--------|-----------|
+| D1: Placement | Article III §4 | Next available section in Rights Floors article; proximity to §1 (Floors Not Ceilings) and §3-A (Rights Floor Enforcement Constraints) |
+| D2: Scope of inalienable rights | Catch-all clause + public-concern speech | Enumerated rights plus catch-all + subsection (a)(6) adds public-concern speech, whistleblower, and legal proceeding rights |
+| D3: Detail level | Constitutional floor + statutory delegation | Core protections locked in; FPU thresholds provide indexed specificity; Congress sets implementing detail |
+| D4: Non-compete duration | 12-month constitutional cap | Constitutional maximum; Congress may lower but not raise |
+| D5: Article IV §10 relationship | Cross-reference via savings clause | §4(i) preserves Digital Papers Protection independently |
+| D6: Employment scope | All employment regardless of classification | Covers independent contractors, gig workers — closes misclassification loophole |
+| D7: §18(c) relationship | Explicit override | §18(c)(1) privilege to contract does not authorize rights waiver |
+
+**Gaming Vectors Addressed:**
+
+| Vector | Resolution |
+|--------|------------|
+| "Voluntary Exchange" defense | §4(a) makes enumerated rights unwaivable regardless of consent |
+| Arbitration efficiency rationale | §4(b) court determination of scope; post-dispute consent standards |
+| Class action waiver | §4(d) preserves class actions below FPU threshold |
+| Private ordering shield | §4(a) lead-in + §4(c) presumptive unconscionability |
+| Regional enhancement risk | §4(h) no Regional diminution |
+| Delegation clause trap | §4(b) "determination... shall be made by a court, not an arbitrator" |
+| §18(c) privilege argument | §4(a) final paragraph explicitly overrides |
+| Incorporated waiver laundering | §4(e)(4) refuses enforcement of incorporated-by-reference rights waivers |
+| Independent contractor loophole | §4(f) applies "regardless of whether the person is classified as an employee, independent contractor, or otherwise" |
+| Opt-out obfuscation | §4(g)(2) burdensome opt-out mechanisms presumptively inadequate |
+| Forum selection abuse | §4(a)(1) narrows "reasonable connection" to residence, place of performance, or principal place of business |
 
 ---
 
@@ -1085,7 +1113,7 @@ The government alone operates outside this accountability structure.
 ## Gap 239 — The "Highwayman's Badge" (Civil Asset Forfeiture Abuse)
 
 **Identified:** 2026-01-26
-**Severity:** Critical | **Status:** PROPOSAL AVAILABLE
+**Severity:** Critical | **Status:** ✅ RESOLVED (2026-01-31)
 
 ### Problem Statement
 
@@ -1265,9 +1293,9 @@ Directing proceeds to general treasury removes the incentive entirely.
 **Dependencies:** Coordinates with Gap 225 (immunity) for enforcement against violating officers
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article IV-RF, Section 4.
+✅ **RESOLVED.** Constitutional text verified in Article IV, Section 8 (The Conviction Prerequisite). See `02-design/constitution/03-regional-governance.md`. Abolishes civil asset forfeiture, requires criminal conviction before property forfeiture. Verified 2026-01-31.
 
-**Severity:** Critical | **Mitigability:** Preventable
+**Severity:** Critical | **Mitigability:** Addressed | **Resolved:** 2026-01-31
 
 ---
 
@@ -1276,7 +1304,7 @@ Directing proceeds to general treasury removes the incentive entirely.
 **Identified**: 2026-01-26
 **Category**: Rights Enforcement
 **Criticality**: 🔴 **CRITICAL**
-**Status**: UNRESOLVED
+**Status**: ✅ RESOLVED (2026-01-31)
 
 ### Problem Statement
 
@@ -1450,9 +1478,9 @@ These cases represent the apex of corporate personhood doctrine and must be expl
 **Dependencies**: None — self-contained constitutional clarification
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article I-RF, Section 15.
+✅ **RESOLVED.** Constitutional text verified in Article I, Section 18 (Human Rights Exclusivity). See `02-design/constitution/01-regional-structure.md`. Constitutional rights reserved to natural persons, strips corporate personhood, overrules Citizens United. Verified 2026-01-31.
 
-**Severity:** Critical | **Mitigability:** Requires Constitutional Amendment
+**Severity:** Critical | **Mitigability:** Addressed | **Resolved:** 2026-01-31
 
 ---
 
@@ -1461,7 +1489,7 @@ These cases represent the apex of corporate personhood doctrine and must be expl
 **Identified**: 2026-01-26
 **Category**: Rights Enforcement / Economic Liberty
 **Criticality**: 🔴 **CRITICAL**
-**Status**: UNRESOLVED
+**Status**: ✅ RESOLVED (2026-01-31)
 
 ### Problem Statement
 
@@ -1694,9 +1722,9 @@ This is not hypothetical—China is implementing this system now.
 ---
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article I-RF, Section 17.
+✅ **RESOLVED.** Constitutional text verified in Article I, Section 22 (Right to Anonymous Transaction). See `02-design/constitution/01-regional-structure.md`. Physical currency guarantee, prohibition on programmable money, warrant requirement for financial records. Verified 2026-01-31.
 
-**Severity:** Critical | **Mitigability:** Requires Constitutional Amendment
+**Severity:** Critical | **Mitigability:** Addressed | **Resolved:** 2026-01-31
 
 ---
 
@@ -1705,7 +1733,7 @@ This is not hypothetical—China is implementing this system now.
 **Identified**: 2026-01-26
 **Category**: Rights Enforcement / Government Accountability
 **Criticality**: 🔴 **CRITICAL**
-**Status**: UNRESOLVED
+**Status**: ✅ RESOLVED (2026-01-31)
 
 ### Problem Statement
 
@@ -1943,9 +1971,9 @@ Both are treated identically: unauthorized disclosure of classified information.
 ---
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article I-RF, Section 18.
+✅ **RESOLVED.** Constitutional text verified in Article I, Section 23 (Public Interest Defense). See `02-design/constitution/01-regional-structure.md`. Affirmative defense for whistleblowers, jury weighs public interest vs. harm, retroactive application. Verified 2026-01-31.
 
-**Severity:** Critical | **Mitigability:** Requires Constitutional Amendment
+**Severity:** Critical | **Mitigability:** Addressed | **Resolved:** 2026-01-31
 
 ---
 

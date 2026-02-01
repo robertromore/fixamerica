@@ -86,12 +86,7 @@ are severable and may be struck by the ARB without invalidating the remainder.
 - Any provisions of prior federal law inconsistent with the national popular vote requirement (including the Electoral College) are superseded and inapplicable.
 - If no candidate receives a majority of votes cast, a runoff election between the two candidates receiving the most votes shall be held within twenty-one days. If Congress has enacted a different majority mechanism (such as ranked-choice voting or instant runoff), that mechanism supersedes this default.
 
-(d) If Congress fails to enact appropriations for any fiscal year by the start of that fiscal year, the following automatic fiscal continuation shall apply:
-
-- Spending shall continue at the prior fiscal year's enacted levels for all previously authorized programs.
-- Prior-year levels shall be adjusted by the Consumer Price Index for All Urban Consumers (CPI-U) as published by the Bureau of Labor Statistics, or by a successor index designated by statute.
-- No new programs, expansions of existing programs, or new spending initiatives may be funded under automatic continuation.
-- Automatic continuation terminates upon enactment of appropriations for the affected fiscal year.
+(d) If Congress fails to enact appropriations for any fiscal year by the start of that fiscal year, the Automatic Continuing Resolution provisions of Article X, Section 19 shall apply.
 
 (e) Default rules remain in effect until Congress enacts superseding legislation.
 
@@ -104,6 +99,8 @@ These default rules exist to prevent deliberate nonimplementation from becoming 
 ---
 
 ### Section 4. Partial Adoption Safeguards
+
+*Addresses Gap 275 — Partial Amendment Adoption Risk ("Half-Built House"). Ensures partial adoption of the modular architecture degrades gracefully by preventing RF supplements from activating without corresponding safeguard frameworks, establishing protective defaults, and creating institutional pressure toward complete adoption.*
 
 (a) **Supplement Activation Condition.** No RF supplement (Article XIV-RF, XI-RF, or XVII-RF) shall take effect unless the corresponding standalone amendment, or federal legislation establishing equivalent protections meeting the minimum requirements enumerated in that supplement's compatibility clause, has been adopted. Until that condition is met, the subject matter governed by the supplement shall continue under prior constitutional and statutory law as modified by this Constitution's core articles.
 
@@ -126,6 +123,98 @@ These default rules exist to prevent deliberate nonimplementation from becoming 
 (4) Be certified as meeting compatibility clause requirements by the Allocation Review Board.
 
 (d) **Adoption Status Reporting.** Beginning one year after ratification and annually thereafter until all standalone amendments or equivalent legislation have been adopted, the Allocation Review Board shall publish a Partial Adoption Status Report identifying: which supplements remain inactive, which defaults are in effect, whether existing defaults have proven sufficient, and recommended actions. Congress shall hold public hearings on each report within ninety days of publication.
+
+### Section 5. Data Continuity During Transition
+
+*[This section establishes data handover protocols during the transition from State to Regional authority, preventing hostile States from sequestering or destroying critical administrative data. See Gap 105.]*
+
+#### Mirror Repository Requirement
+
+(a) **Mirror Repository Mandate.** All States shall maintain "Mirror Repositories" of data pertaining to transferred Regional powers:
+
+(1) Water usage, allocation, and quality records;
+
+(2) Energy generation, transmission, and grid load data;
+
+(3) Public health statistics and disease surveillance;
+
+(4) Transportation infrastructure condition and usage.
+
+(b) **Data Standards.** Mirror Repositories shall:
+
+(1) Use machine-readable, open formats specified by the Federal Data Coordinator;
+
+(2) Include complete records for the ten (10) years preceding transfer;
+
+(3) Be updated continuously until transfer completion.
+
+(c) **Transfer Timeline.** States shall provide complete Mirror Repository access to Regional governments:
+
+(1) Within thirty (30) days of Regional government formation;
+
+(2) With technical documentation enabling immediate use;
+
+(3) With trained personnel available for transition assistance.
+
+(d) **Completeness Certification.** The Federal Data Coordinator shall certify:
+
+(1) That State repositories meet completeness standards;
+
+(2) That data formats are usable by Regional systems;
+
+(3) Certification required before State transfer obligations are deemed satisfied.
+
+#### Constitutional Enforcement
+
+(e) **Restoration Mandate Breach.** Failure to provide complete, machine-readable records within thirty (30) days:
+
+(1) Constitutes a breach of the Restoration Mandate under Article XII;
+
+(2) Triggers mandatory ARB intervention;
+
+(3) May result in federal assumption of data management functions.
+
+(f) **Data Destruction Prohibition.** States may not:
+
+(1) Destroy, delete, or render unusable data subject to transfer;
+
+(2) Claim routine records retention policies exempt transfer data;
+
+(3) Transfer data to private entities to avoid transfer obligations.
+
+(g) **Criminal Accountability.** State officials who deliberately destroy or sequester transfer data:
+
+(1) Are personally liable for damages caused by data loss;
+
+(2) May be prosecuted for obstruction of constitutional transition;
+
+(3) Are disqualified from Regional office for ten (10) years.
+
+#### Continuity Safeguards
+
+(h) **Federal Backup Repository.** The Federal Data Coordinator shall maintain:
+
+(1) Backup copies of all State data subject to Regional transfer;
+
+(2) Real-time synchronization with State systems during transition period;
+
+(3) Authority to provide data directly to Regions if States fail to comply.
+
+(i) **Transition Assistance.** The Federal government shall provide:
+
+(1) Technical assistance to Regions receiving data transfers;
+
+(2) Funding for data integration and system development;
+
+(3) Personnel support during the initial operational period.
+
+(j) **Service Continuity.** If data transfer failures threaten essential services:
+
+(1) The State shall continue operating transferred functions until data is available;
+
+(2) State costs during extended operation are borne by the State as consequence of non-compliance;
+
+(3) The Region assumes authority immediately upon data availability.
 
 ---
 

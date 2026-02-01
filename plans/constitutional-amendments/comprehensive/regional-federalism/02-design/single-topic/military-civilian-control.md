@@ -28,7 +28,14 @@ This standalone constitutional amendment reinforces civilian supremacy over the 
 
 (1) to repel a sudden attack on the United States, its territories, possessions, or armed forces;
 
-(2) to protect and evacuate United States citizens abroad when their lives are in imminent danger.
+(2) to protect and evacuate United States citizens abroad when their lives are in imminent danger;
+
+(3) to respond to an armed attack on a treaty ally pursuant to a mutual defense treaty ratified by the Senate, provided that:
+
+- (A) the President notifies Congress within forty-eight hours;
+- (B) the President seeks specific authorization from Congress within thirty days;
+- (C) operations terminate within sixty days absent such authorization;
+- (D) this exception applies only to responses to armed attack on an ally's territory, not to collective security operations, humanitarian interventions, or peacekeeping missions.
 
 (c) Any use of armed forces under subsection (b) shall be reported to Congress within forty-eight hours and shall terminate within sixty days unless Congress has declared war or enacted a specific authorization for the use of military force.
 
@@ -42,11 +49,61 @@ This standalone constitutional amendment reinforces civilian supremacy over the 
 
 (4) the duration of the authorization or conditions for termination;
 
-(5) any limitations on the means or methods of warfare.
+(5) any limitations on the means or methods of warfare;
+
+(6) a maximum duration not exceeding two years from the date of enactment, subject to reauthorization under subsection (g).
 
 (e) No authorization for the use of military force shall be construed to authorize operations against nations, groups, or threats not specifically identified in the authorization.
 
 (f) Congress may terminate any use of military force by joint resolution not subject to presidential veto.
+
+(g) **Mandatory Reauthorization and Sunset.** No authorization for the use of military force shall remain in effect for more than two years from the date of enactment or most recent reauthorization. Reauthorization shall require:
+
+(1) for the first reauthorization: a majority vote of both chambers of Congress, with the authorization meeting all requirements of subsection (d);
+
+(2) for the second reauthorization: a three-fifths vote of both chambers;
+
+(3) for the third and each subsequent reauthorization: a two-thirds vote of both chambers.
+
+Each reauthorization shall not exceed two years and shall specify any changes in objective, scope, enemy, or limitations since the prior authorization. An authorization that is not reauthorized before expiration terminates automatically, and all military operations conducted under that authorization shall cease, subject to subsection (j).
+
+(h) **Definition of Hostilities.** For purposes of this Article, "hostilities" includes:
+
+(1) any situation in which United States armed forces are engaged in exchanges of fire with hostile forces;
+
+(2) sustained military operations against armed groups, whether or not war has been declared;
+
+(3) the use of armed drones, special operations forces, or offensive cyber operations causing physical destruction or casualties;
+
+(4) any situation meeting the threshold of "armed conflict" under international humanitarian law, including non-international armed conflict;
+
+(5) the presence of United States armed forces in territory where combat operations by any party are ongoing, unless limited to embassy security or diplomatic protection.
+
+A presidential determination that operations do not constitute "hostilities" shall not affect the application of this Article. The question of whether operations constitute hostilities is justiciable and subject to judicial review.
+
+(i) **Legacy Authorization Transition.** Any authorization for the use of military force in effect on the date of ratification of this Article shall:
+
+(1) be brought into compliance with subsection (d) by Congress within one hundred eighty days of ratification, including specification of objective, geographic scope, enemy, duration, and limitations;
+
+(2) expire two years after the date of ratification unless reauthorized in compliance with this section;
+
+(3) not be construed to authorize operations beyond the scope specified in compliance legislation enacted under paragraph (1);
+
+(4) require a recorded vote in each chamber for continued authorization under this subsection.
+
+If Congress fails to enact compliance legislation under paragraph (1) within one hundred eighty days, the authorization shall be deemed to authorize only operations in the specific countries where United States armed forces were conducting operations on the date of ratification, against only the specific entities engaged in hostilities on that date.
+
+(j) **Withdrawal Funding.** Upon termination or expiration of any authorization for the use of military force:
+
+(1) funds necessary for the safe and orderly withdrawal of forces, protection of personnel, and fulfillment of obligations to allied forces shall remain available for a period not exceeding one hundred eighty days;
+
+(2) such withdrawal funding shall not be subject to the automatic reduction provisions of Article X, Section 19;
+
+(3) no withdrawal funding may be used to continue offensive operations;
+
+(4) force protection operations, including defensive actions necessary to protect withdrawing personnel, are authorized during withdrawal.
+
+(k) **Enforcement.** Any member of Congress shall have standing to enforce this section through an action for declaratory or injunctive relief. The United States District Court for the District of Columbia shall have original jurisdiction over such actions, with expedited appeal directly to the Supreme Court. The Supreme Court shall decide such appeals within sixty days of filing.
 
 ### Section 3. Two-Key Authorization for Domestic Deployment
 
@@ -166,7 +223,7 @@ This standalone constitutional amendment reinforces civilian supremacy over the 
 
 (d) Any person harmed by a violation of this Article shall have a cause of action for damages against responsible officials, who shall not be entitled to qualified immunity for violations of this Article.
 
-(e) Congress shall appropriate no funds for military operations conducted in violation of this Article.
+(e) Congress shall appropriate no funds for military operations conducted in violation of this Article. Automatic appropriations under Article X, Section 19, shall not extend to expenditures for military operations for which authorization under Section 2 has expired, been terminated, or was never granted. The Comptroller General shall certify quarterly to Congress and the public whether any funds are being expended on unauthorized military operations. If the Comptroller General identifies unauthorized expenditures, the Comptroller General shall notify Congress and the expenditures shall cease within thirty days unless Congress enacts specific authorization.
 
 ### Section 8. Military Justice and Service Member Rights
 
@@ -420,6 +477,8 @@ This amendment requires implementing legislation including:
 - State Defense Force Regulation Act (personnel caps, capability limits, reporting)
 - Congressional Key Override Procedures Act (vote procedures, certification, scope limits)
 - Officer Corps Independence Act (protected refusal, mass removal review, purge finding procedures)
+- War Powers Enforcement Act (Comptroller General quarterly certification, unauthorized expenditure identification, legacy AUMF compliance procedures)
+- Legacy Authorization Transition Act (procedures for bringing pre-ratification AUMFs into §2(d) compliance)
 
 ---
 
@@ -511,6 +570,42 @@ If adopted standalone:
 - Mass removal trigger catches coordinated purges early
 - Counter-deployment authority provides physical enforcement of two-key rule
 - Pardon limitation prevents President from immunizing own illegal orders
+
+### Why Mandatory Reauthorization with Escalating Supermajority?
+
+- Two-year sunset forces regular democratic deliberation on ongoing wars
+- Aligns with congressional election cycle so voters can hold representatives accountable
+- Escalating supermajority (majority → 3/5 → 2/3) makes indefinite wars progressively harder
+- Automatic termination removes Congress from the political trap of "voting to abandon troops"
+- Default becomes peace, not permanent war
+
+### Why Define Hostilities?
+
+- Presidents have claimed drone campaigns, cyber operations, and special operations are not "hostilities"
+- IHL reference anchors definition in established international law rather than executive self-serving interpretation
+- Enumerated list closes known semantic evasion routes (Libya 2011, Yemen, Niger)
+- Justiciability clause ensures courts can review presidential classification attempts
+
+### Why Legacy AUMF Transition?
+
+- 2001 AUMF has been used to justify operations in countries that did not exist when it was enacted
+- 180-day compliance window gives Congress time to bring existing authorizations into §2(d) compliance
+- Two-year maximum prevents indefinite continuation under grandfathered authority
+- Fallback clause (operations limited to date-of-ratification scope) prevents congressional inaction from creating a loophole
+
+### Why Auto-CR Carve-Out for Unauthorized Operations?
+
+- Article X, Section 19 automatically re-appropriates prior-year funding at 98%, which would keep unauthorized military operations funded
+- Without the carve-out, §7(e) is a dead letter: Congress says "no funds" but Auto-CR says "98% of last year"
+- Comptroller General identification and quarantine creates active enforcement rather than passive prohibition
+- Withdrawal funding exemption ensures troop safety is never held hostage
+
+### Why Treaty Exception with Time Limit?
+
+- §2(b)(1) only covers attacks on US territory/forces, leaving NATO Article 5 scenarios uncovered
+- Narrow exception (armed attack on ally only, not collective security or peacekeeping) prevents expansion
+- 30-day authorization requirement and 60-day termination ensure Congress retains control
+- Prevents treaty obligations from becoming blank checks for executive war-making
 
 ---
 

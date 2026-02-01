@@ -180,7 +180,7 @@ This solution addresses both the integrity problem AND the RCV tabulation trap:
 - **Gap 84 (Referendum Hijacking):** Amendment process protection; Gap 48 addresses election certification
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend adding to Article VII (Elections) and Elections Implementation Act. This addresses the core tension between obstruction prevention and integrity preservation while integrating with RCV tabulation mechanics.
+✅ **RESOLVED.** Constitutional text verified in Article VII, Section 7 (Certification and Escrow). See `02-design/single-topic/election-reform.md`. Addresses core tension between obstruction prevention and integrity preservation while integrating with RCV tabulation mechanics. Verified 2026-01-31.
 
 ---
 
@@ -741,7 +741,7 @@ Article II, Section 5(f) allows ARB decisions to be appealed to the Supreme Cour
 - **Gap 59 (State-Regional Preemption):** ARB role in Regional-State disputes
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article II, Section 5. This three-part solution establishes ARB Precedence with immediate binding effect, prohibits factual remands and limits appeals to one per party, and prevents parallel filings with a hard 120-day timeline for complete resolution.
+✅ **RESOLVED.** Constitutional text verified in Article II, Section 7 (Allocation Review Board), subsections (i)-(r). See `02-design/constitution/02-powers-and-rights.md`. Three-part solution establishes ARB Precedence with immediate binding effect, prohibits factual remands with one-appeal limit, and prevents parallel filings with hard 120-day resolution timeline. Verified 2026-01-31.
 
 ---
 
@@ -940,7 +940,7 @@ Article XIV-RF (Judiciary) mandates expedited review but does not address the im
 - **Gap 73 (Jurisdictional Ping-Pong):** ARB vs Supreme Court; Gap 81 ensures Supreme Court can actually rule
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article XIV-RF, Section 7. This four-part solution establishes narrow recusal grounds with certification requirements, creates Emergency Quorum Restoration using Regional Chief Judges as Temporary Justices, accelerates vacancy filling with default appointment mechanism, and guarantees case progression within 120 days.
+✅ **RESOLVED.** Constitutional text verified in Article XIV, Section 12 (Quorum Protection) and Section 13 (Vacancy Acceleration). See `02-design/single-topic/judicial-reform.md` and `02-design/constitution/09-judiciary.md`. Four-part solution establishes narrow recusal grounds with certification, creates Emergency Quorum Restoration using Circuit Chief Judges as Temporary Justices, accelerates vacancy filling with default appointment mechanism, and guarantees case progression within 120 days. Verified 2026-01-31.
 
 ---
 
@@ -1169,7 +1169,7 @@ Article VII, Section 4 of the Elections document mandates regional certification
 - **Gap 84 (Referendum Hijacking):** Democratic process protection; Gap 95 addresses election certification protection
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article VII-RF, Section 4. This four-part solution establishes automatic federal jurisdiction transfer after seven days with all Regional stays vacated, creates pretextual stay finding authority with Judicial Conduct Board referral, ensures default certification with high fraud standard for post-certification challenges, and requires three-judge panels with expedited procedures for Regional election disputes.
+✅ **RESOLVED.** Constitutional text verified in Article VII, Section 7(f)-(l) (Preemptive Federal Election Jurisdiction and Certification Escrow Coordination). See `02-design/single-topic/election-reform.md`. Four-part solution establishes automatic federal jurisdiction transfer after seven days, creates pretextual stay finding authority with Judicial Conduct Board referral, ensures default certification with high fraud standard, and requires three-judge panels with expedited procedures. Verified 2026-01-31.
 
 ---
 
@@ -2549,9 +2549,37 @@ Add to Article XIV-RF (Judiciary), Section 10:
 > Standing shall not require demonstration of injury-in-fact beyond the alleged constitutional violation.
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article XIV-RF, Section 10.
+**RESOLVED.** Integrated through targeted amendments to Article XVIII (Supremacy and Construction) and Article XIV-RF (Standing to Enforce the Constitution).
 
-**Severity:** Critical | **Mitigability:** Requires Development
+**Resolution:**
+
+Overlap analysis found ~60% of the proposal covered by scattered existing provisions (Article XVIII §§1-2, Article II §1(e)(4)(iii), Article II §3-A(b), Article III-RF §9(f), Article XIV-RF §5(g)). The remaining ~40% — comprehensive interpretive decoupling, explicit Commerce Clause supersession, dormant Commerce Clause treatment, and Regional institutional standing — was genuinely additive.
+
+**Placement correction:** The original proposal targeted "Article XIV-RF, Section 10," which does not exist (Article XIV-RF ends at Section 5). Resolved through split placement: interpretive rules in Article XVIII (natural home for meta-rules about constitutional construction) and standing in Article XIV-RF §5 (consolidates all standing provisions).
+
+**Design Decisions:**
+
+- D1 (Placement): Split by function — Article XVIII §§4-5 for interpretive rules, Article XIV-RF §5(i) for Regional standing
+- D2 (Scope): Full decoupling — pre-ratification precedent non-binding where conflicts with new text/structure
+- D3 (Commerce Clause): Explicit supersession of substantial effects test for all purposes (Article II §3-A(b) only constrains rights floor enforcement)
+- D4 (Dormant Commerce): Superseded with anti-protectionism savings clause cross-referencing Article I §9 (Mutual Recognition) and Article X §11-A (Tax Exportation)
+- D5 (Regional Standing): Dedicated subsection — sovereign interest sufficient without injury-in-fact
+- D6 (Integration): Targeted amendments preserving modular architecture
+
+**Rejected Elements:**
+
+- "Article XIV-RF, Section 10" placement — section does not exist; split placement used instead
+- Consolidated single section — would create redundancy with existing scattered provisions
+- Rebuttable presumption approach — puts burden on wrong party; clean break necessary
+
+**Cross-References:**
+
+- Article XVIII, Section 4 (Interpretive Decoupling) — see 06-supremacy.md
+- Article XVIII, Section 5 (Presumption of Subsidiarity) — see 06-supremacy.md
+- Article XIV-RF, Section 5(i) (Regional Standing) — see 09-judiciary.md
+- Complementary provisions: Article II §1(e)(4)(iii), Article II §3-A, Article XVIII §1, Article III-RF §9
+
+**Severity:** Critical | **Mitigability:** Resolved
 
 ---
 
@@ -2793,9 +2821,35 @@ Add to Article VII-RF, Section 4 — Electoral Certification Integrity:
 **Dependencies**: Requires functioning National Electoral Commission (Gap 130)
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article VII-RF, Section 4.
+**RESOLVED.** Integrated into standalone Article VII, Section 7(m)-(o) (Certification Integrity) in `02-design/single-topic/election-reform.md`.
 
-**Severity:** Critical | **Mitigability:** Requires Development
+**Severity:** Critical | **Mitigability:** Resolved
+
+**Placement correction:** Original proposal targeted "Article VII-RF, Section 4" — Article VII-RF does not exist (Article VII is standalone), and §4 is the Independent Election Commission. Resolved by amending existing Article VII, Section 7 (Certification and Escrow) with subsections (m)-(o).
+
+**Overlap analysis:** ~50-55% covered by existing Article VII §7. Certification Escrow (§7(a)-(c)), NEC jurisdiction (§7(d), §7(f-i)), and default resolution (§7(l)) handle delay and disputes. Genuinely additive: explicit ministerial duty declaration foreclosing ISL theory, alternate certification prohibition, criminal penalties with removal and office bar, default-to-certification on pure official inaction.
+
+**Design Decisions (6 converged):**
+
+| Decision | Choice | Rationale |
+|----------|--------|-----------|
+| D1: Placement | Amend Article VII §7 | Certification constraints belong in the certification section |
+| D2: Scope | Functional definition | "No legislature, executive, political party, or other person or body" prevents novel-actor bypass |
+| D3: Penalties | Hybrid | Constitutional removal + office bar (self-executing); criminal penalties delegated to Congress |
+| D4: Ministerial duty | Explicit declaration | ISL foreclosure requires explicit text, not implicit mechanisms |
+| D5: Escrow integration | Duty to choose | Officials must execute one of three valid §7(a) options; cannot refuse all three |
+| D6: Federal backstop | Keep auto-certification | "Operation of law" requires no human action that can be blocked |
+
+**Gaming vectors addressed:**
+
+| Vector | Resolution |
+|--------|------------|
+| Fraud Pretext | §7(a) three-option framework + Escrow requires >1% evidence |
+| Alternate Slate | §7(n) void ab initio prohibition on all actors |
+| Procedural Defect | §7(m) ministerial duty forecloses discretionary refusal |
+| Safe Harbor Exploit | §7(m) default-to-certification on inaction by operation of law |
+
+Resolved 2026-01-31.
 
 ---
 
@@ -2959,9 +3013,33 @@ Add to Article VII-RF, Section 2 — Natural Person Guarantee:
 **Dependencies**: None—works with existing constitutional structure
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article VII-RF, Section 2.
+**RESOLVED.** Integrated as Article I, Section 18(c) (franchise exclusion sentence) and Section 21(h)-(k) (Natural Person Voting Exclusivity, Weighted Voting Prohibition, Governmental Authority Bodies, Void Elections) in `02-design/constitution/01-regional-structure.md`; also Article VII, Section 1(d) (standalone franchise exclusivity) in `02-design/single-topic/election-reform.md`.
 
-**Severity:** Critical | **Mitigability:** Requires Development
+**Placement correction:** Original proposal targeted "Article VII-RF, Section 2." Article VII-RF does not exist (Article VII is standalone). Article VII §2 is the Electoral System (presidential popular vote). Resolved by amending Article I §18(c) and §21 (RF-specific comprehensive voting rights) plus Article VII §1(d) (standalone).
+
+**Overlap analysis:** ~55-65% overlap with existing provisions. Article I §18 (Human Rights Exclusivity, Gap 244) limits corporate constitutional rights but leaves statutory privilege loophole. Article I §21 (Universal Suffrage Guarantee, Gap 262) establishes affirmative voting rights with "one person, one vote" but doesn't explicitly exclude non-natural entities. Genuinely additive: explicit franchise prohibition for artificial entities, special district governance requirements, weighted voting prohibition, and void ab initio enforcement with caretaker continuity.
+
+| Decision | Choice | Rationale |
+|----------|--------|-----------|
+| D1: Placement | Both Art I §21 + Art VII §1(d) | R2 identified standalone coverage gap; §1(d) prevents special district corporate voting without RF |
+| D2: Scope | Hybrid (functional + enumerated) | Functional catch-all with enumerated examples; consistent with Gap 189/195 pattern |
+| D3: Weighted voting | Explicit prohibition | §21(d)(3) ambiguous on property-weighted schemes; explicit prohibition removes interpretive doubt |
+| D4: Special districts | Functional definition | Effects-based test including budgetary control and binding rulemaking; "advisory" label doesn't exempt de facto authority |
+| D5: §18 relationship | Add exclusion to §18(c) | Absolute prohibition phrasing closes statutory privilege loophole at source |
+| D6: Enforcement | Hybrid (§21(f) + void ab initio + caretaker) | Void elections pattern from Gap 189; caretaker clause prevents governance vacuum |
+
+| Vector | Resolution |
+|--------|------------|
+| Statutory Privilege Loophole | §18(c) absolute prohibition: "No statute may grant the franchise to artificial entities" |
+| Property Owner Gateway | §21(i) explicit weighted voting prohibition; §21(h) natural person exclusivity |
+| Special District Shell Game | §21(j) functional test on actual authority/effects, not labels |
+| AI Voting Extension | §21(h) enumerated: "artificial intelligence systems, algorithms, or automated decision-making entities" |
+| Advisory Board Loophole | §21(j) anti-evasion: "advisory" label doesn't exempt if determinations are required by law or binding in practice |
+| Governance Vacuum | §21(k) caretaker appointment within 90 days; next higher government level as fallback |
+
+Resolved 2026-01-31.
+
+**Severity:** Critical | **Mitigability:** Resolved
 
 ---
 
@@ -3180,12 +3258,46 @@ Add to Article I-RF (Regional Governance), Section 5:
 **Tier**: P1 (Immediate)
 **Rationale**: Without redistricting reform, the first federal elections under Regional Federalism could entrench permanent partisan capture
 
-**Dependencies**: National Electoral Commission must be operational for backup authority; Constitutional Court for judicial review
+**Dependencies**: Independent Election Commission (IEC) must be operational for backup authority; National Election Court (NEC) for judicial review and compliance
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article I-RF, Section 5.
+**RESOLVED.** Integrated as Article VII, Section 10 (Independent Redistricting) in `02-design/single-topic/election-reform.md`. Article VII §3(c) amended with cross-reference. Article I §3-A(h) phantom reference fixed to Article VII, Section 10.
 
-**Severity:** Critical | **Mitigability:** Requires Development
+**Severity:** Critical | **Mitigability:** Resolved
+
+**Placement Correction:** Original proposal targeted "Article I-RF, Section 5" — that section is Inter-Regional Cooperation (occupied). §3-A(h) contained a phantom forward reference to "Section 5 of this Article" for redistricting commissions, but §5 is Inter-Regional Cooperation. Corrected to Article VII §10 (standalone election reform, next available section).
+
+**Institution Correction:** Original proposal referenced "National Electoral Commission" — no such institution exists. Corrected to Independent Election Commission (IEC, Art VII §4) for administrative backup and National Election Court (NEC, Art VII §7 / Art I §3-A) for judicial review.
+
+**Overlap Analysis:** ~15-20% overall. Existing provisions establish the principle (independent commissions per Art VII §3(c), Art I §3) and cover system-level outcomes (proportionality metrics per Art I §3-A), but contain zero constitutional detail about the redistricting process itself. Genuinely additive: commission composition, criteria hierarchy with STV-adapted magnitude consistency, supermajority approval, transparency, decennial limitation with compliance carve-out, prison population counting, district magnitude floor (3-7 members), judicial review framework, federal backup (IEC/NEC split).
+
+**Design Decisions:**
+
+| Decision | Choice | Rationale |
+|---|---|---|
+| D1: Placement | Article VII §10 (standalone) | Both reviewers agree; applies with/without RF; keeps election machinery together |
+| D2: Scope | Federal + Regional | Federal authority undisputed; Regional needed to prevent self-dealing; State left to Regional constitutions |
+| D3: Detail | Hybrid (constitutional floor + delegation to IRC Act) | Locks in anti-capture essentials; delegates procedural mechanics |
+| D4: STV adaptation | Constitutional magnitude protection + NEC-designated adapted metrics | Prevents magnitude gaming; avoids misfit single-member metrics |
+| D5: §3-A(h) fix | Specific cross-article reference to Article VII §10 | Fixes phantom reference; precision prevents litigation |
+| D6: Institution | IEC (administrative backup) + NEC (judicial review) | Aligns with existing institutional roles |
+
+**Gaming Vectors Addressed:**
+
+| Vector | Resolution |
+|---|---|
+| Surgical precision gerrymander | IRC independence mandate + partisan fairness criteria + void ab initio for non-IRC plans |
+| Mid-decade redraw | Decennial limitation with enumerated exceptions; mid-decade redistricting void |
+| Prison gerrymandering | Incarcerated persons counted at last residence |
+| Incumbent protection bipartisan gerrymander | Prohibition on drawing to favor/disfavor any incumbent; supermajority cross-party approval |
+| Cracking communities | Community of interest preservation criteria; VRA compliance as priority 2 |
+| District magnitude gaming (STV-specific) | Magnitude consistency criterion (priority 3); variation capped at 2 unless NEC waiver; minimum 3 / maximum 7 members; prohibition on magnitude manipulation for threshold gaming |
+| Commission capture via applicant pool | Random selection from qualified pools; 5-year cooling-off; opposing-party strikes; congressional qualification standards |
+| Funding starvation / data delay | IEC federal backup + NEC backup plan authority if IRC fails to produce compliant plan |
+| Deadlock weaponization | Simple majority fallback after three failed supermajority attempts; automatic judicial review |
+| Criteria hierarchy gaming | Prioritized list with quantitative partisan fairness requirement; NEC-designated metrics |
+
+Resolved 2026-01-31.
 
 ---
 
@@ -3342,17 +3454,16 @@ Most developed democracies impose either term limits or mandatory retirement age
 
 ---
 
-**Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article III-RF, Section 17.
+**Status:** ✅ **RESOLVED.** Constitutional text verified in Article III-RF, Section 5 (Supreme Court Term Reform). See `02-design/constitution/09-judiciary.md`. 18-year staggered terms with biennial vacancies. Verified 2026-01-31.
 
-**Severity:** Critical | **Mitigability:** Preventable
+**Severity:** Critical | **Mitigability:** Preventable | **Resolved:** 2026-01-31
 
 ---
 
 ## Gap 238 — The "Duopoly Trap" (Minority Rule via First-Past-the-Post)
 
 **Identified:** 2026-01-26
-**Severity:** Critical | **Status:** PROPOSAL AVAILABLE
+**Severity:** Critical | **Status:** ✅ **RESOLVED.** Constitutional text verified in Article I, Section 16 (Ranked Choice Elections). See `02-design/constitution/01-regional-structure.md`. Mandates RCV for federal elections, majority requirement, STV for multi-member districts, FPTP prohibition. Verified 2026-01-31.
 
 ### Problem Statement
 
@@ -3501,10 +3612,9 @@ The mathematical logic is straightforward:
 
 **Dependencies:** Coordinates with Gap 48 (certification timing for RCV tabulation); requires voter education infrastructure
 
-**Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article I-RF, Section 11.
+**Status:** ✅ **RESOLVED.** Constitutional text verified in Article I, Section 16 (Ranked Choice Elections). See `02-design/constitution/01-regional-structure.md`. Mandates RCV for federal elections, majority requirement, STV for multi-member districts, FPTP prohibition. Verified 2026-01-31.
 
-**Severity:** Critical | **Mitigability:** Preventable
+**Severity:** Critical | **Mitigability:** Preventable | **Resolved:** 2026-01-31
 
 ---
 
@@ -3513,7 +3623,7 @@ The mathematical logic is straightforward:
 **Identified**: 2026-01-26
 **Category**: Electoral / Campaign Finance
 **Criticality**: 🔴 **CRITICAL**
-**Status**: UNRESOLVED
+**Status**: ✅ **RESOLVED.** Constitutional text verified in Article I, Section 17 (Ultimate Beneficiary Disclosure). See `02-design/constitution/01-regional-structure.md`. Traces election spending to natural persons, prohibits anonymous/foreign contributions, treble damages. Verified 2026-01-31.
 
 ### Problem Statement
 
@@ -3703,10 +3813,9 @@ Add to Article I-RF, Section 12 — Ultimate Beneficiary Disclosure:
 
 **Dependencies:** Coordinates with FinCEN beneficial ownership database; requires FEC database infrastructure; may require IRS coordination on 501(c)(4) reporting
 
-**Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article I-RF, Section 12.
+**Status:** ✅ **RESOLVED.** Constitutional text verified in Article I, Section 17 (Ultimate Beneficiary Disclosure). See `02-design/constitution/01-regional-structure.md`. Traces election spending to natural persons, prohibits anonymous/foreign contributions, treble damages. Verified 2026-01-31.
 
-**Severity:** Critical | **Mitigability:** Preventable
+**Severity:** Critical | **Mitigability:** Preventable | **Resolved:** 2026-01-31
 
 ---
 
@@ -3715,7 +3824,7 @@ Add to Article I-RF, Section 12 — Ultimate Beneficiary Disclosure:
 **Identified**: 2026-01-26
 **Category**: Electoral Systems / Voting Rights
 **Criticality**: 🔴 **CRITICAL**
-**Status**: UNRESOLVED
+**Status**: ✅ **RESOLVED.** Constitutional text verified in Article I, Section 21 (Universal Suffrage Guarantee). See `02-design/constitution/01-regional-structure.md`. Affirmative right to vote, automatic registration, strict scrutiny for burdens. Verified 2026-01-31.
 
 ### Problem Statement
 
@@ -3931,10 +4040,9 @@ The Framers deliberately avoided an affirmative voting right, leaving franchise 
 
 ---
 
-**Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article I-RF, Section 16.
+**Status:** ✅ **RESOLVED.** Constitutional text verified in Article I, Section 21 (Universal Suffrage Guarantee). See `02-design/constitution/01-regional-structure.md`. Affirmative right to vote, automatic registration, strict scrutiny for burdens. Verified 2026-01-31.
 
-**Severity:** Critical | **Mitigability:** Requires Constitutional Amendment
+**Severity:** Critical | **Mitigability:** Requires Constitutional Amendment | **Resolved:** 2026-01-31
 
 ---
 
@@ -3943,7 +4051,7 @@ The Framers deliberately avoided an affirmative voting right, leaving franchise 
 **Identified**: 2026-01-28
 **Category**: Electoral & Judicial
 **Criticality**: High
-**Status**: PROPOSAL AVAILABLE
+**Status**: ✅ **RESOLVED.** Constitutional text verified in Article I, Section 3-A (Regional Electoral Standards Enforcement). See `02-design/constitution/01-regional-structure.md`. Quantitative proportionality, competitiveness, and anti-domination standards with automatic remedies. Verified 2026-01-31.
 
 ### Problem Statement
 
@@ -4123,10 +4231,9 @@ Gap 198 proposes an Independent Redistricting Commission with partisan fairness 
 
 **Dependencies**: Coordinates with Gap 198 (redistricting commissions); requires National Election Court establishment or ARB assignment as interim enforcement body
 
-**Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article I, Section 3-A.
+**Status:** ✅ **RESOLVED.** Constitutional text verified in Article I, Section 3-A (Regional Electoral Standards Enforcement). See `02-design/constitution/01-regional-structure.md`. Quantitative proportionality, competitiveness, and anti-domination standards with automatic remedies. Verified 2026-01-31.
 
-**Severity:** High | **Mitigability:** Manageable
+**Severity:** High | **Mitigability:** Manageable | **Resolved:** 2026-01-31
 
 ---
 

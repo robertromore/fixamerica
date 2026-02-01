@@ -1,8 +1,8 @@
 # Supremacy and Transition
 
-## Articles XVIII-XX: Supremacy, Transition, and Non-State Entities
+## Articles XVIII-XX, XXIII-XXV: Supremacy, Transition, Non-State Entities, and Structural Protections
 
-*This document contains the supremacy, transition, and non-state entity provisions of the Regional Federal Constitution.*
+*This document contains the supremacy, transition, and non-state entity provisions of the Regional Federal Constitution, along with structural protections for indigenous sovereignty, union permanence, and federal district independence.*
 
 ---
 
@@ -29,6 +29,76 @@ Rights and standards shall be construed as floors unless explicitly stated other
 (c) References to "Regional" institutions (Regional Governor, Regional legislature, Regional courts) use initial capitalization to denote constitutional status.
 
 (d) "Federal" refers to the national government of the United States.
+
+---
+
+### Section 4. Interpretive Decoupling
+
+*Resolves Gap 175 — The Precedent Trap (Interpretive Regress). Prevents courts from importing pre-ratification centralizing precedent into the new constitutional framework.*
+
+(a) **Pre-Ratification Precedent.** Judicial precedents established prior to the ratification of this Constitution shall not be binding interpretation of this Constitution where they:
+
+(1) conflict with the text or structure of this Constitution;
+
+(2) would diminish the scope of Regional Exclusive Domains below their textual meaning;
+
+(3) would expand federal authority beyond its enumerated powers in this Constitution; or
+
+(4) were decided under constitutional provisions superseded by this Constitution.
+
+Pre-ratification precedent may be considered as persuasive authority where consistent with the text and structure of this Constitution, but carries no presumption of correctness regarding the allocation of powers between Federal, Regional, and State governments.
+
+(b) **Supersession of Conflicting Doctrine.** The following pre-ratification doctrines are hereby superseded to the extent inconsistent with this Constitution:
+
+(1) the "substantial effects" test for Commerce Clause jurisdiction, including the holdings of *Wickard v. Filburn* (1942) and *Gonzales v. Raich* (2005) insofar as they permit federal regulation of activity wholly within a single Region on the theory that such activity substantially affects interstate commerce;
+
+(2) implied field preemption of Regional or State authority, whereby federal regulation of a field is deemed to exclude all subnational regulation even absent express preemption;
+
+(3) the dormant Commerce Clause as a judicially implied restriction on Regional or State regulatory authority, provided that the common-market protections established by Article I, Section 9 (Mutual Recognition) and Article X, Section 11-A (Prohibition on Predatory Tax Exportation) remain in full force as textual substitutes for judicially implied commerce restrictions;
+
+(4) any doctrine that treats federal agency interpretation as binding or presumptively correct on constitutional questions, including questions regarding the scope of federal versus Regional authority.
+
+(c) **Affirmative Text Requirement.** Federal authority over matters assigned to Regional Exclusive Domains under Article II, Section 1(e)(2) requires:
+
+(1) explicit textual authorization in this Constitution; and
+
+(2) where exercised through legislation, explicit textual authorization in a federal statute enacted after ratification of this Constitution that specifically identifies the constitutional provision granting authority.
+
+No federal authority over Exclusive Regional Domains may be implied from the general structure of the Constitution, from pre-ratification precedent, or from the aggregate effect of multiple non-exclusive powers.
+
+(d) **Relationship to Existing Provisions.** This section complements and does not diminish:
+
+(1) Article II, Section 1(e)(4)(iii) (prohibition on judicial reclassification of domains);
+
+(2) Article II, Section 3-A (rights floor enforcement constraints);
+
+(3) Article XVIII, Section 1 (enumerated powers supremacy);
+
+(4) Article III-RF, Section 9 (de novo review mandate).
+
+---
+
+### Section 5. Presumption of Subsidiarity
+
+*Resolves Gap 175 — The Precedent Trap (Interpretive Regress). Establishes the default rule for resolving ambiguities in the allocation of powers.*
+
+(a) **Power Allocation Presumption.** Ambiguities regarding the division of authority between Federal, Regional, and State governments shall be resolved:
+
+(1) in favor of the Regional Exclusive Domains as defined in Article II, Section 1(e)(2);
+
+(2) against implied preemption of Regional authority;
+
+(3) in favor of concurrent jurisdiction where this Constitution does not clearly assign exclusive authority to any level of government.
+
+(b) **Burden of Proof.** The party asserting federal authority over a matter within a Regional Exclusive Domain or Structured Concurrent Domain bears the burden of demonstrating explicit textual authorization. No presumption of federal authority arises from:
+
+(1) the historical exercise of federal power over similar subject matter prior to ratification;
+
+(2) the existence of pre-ratification federal statutes addressing the subject matter;
+
+(3) the practical convenience of uniform federal regulation.
+
+(c) **Concurrent Domain Default.** Within Structured Concurrent Domains under Article II, Section 1(e)(3), federal authority is limited to setting minimum standards (floors) through the procedures established in Article II, Section 4. Regional authority to exceed those floors is presumed unless this Constitution expressly provides otherwise.
 
 ---
 
@@ -310,6 +380,295 @@ This mechanism ensures that:
 - No territory is left in limbo through no fault of its own
 - The 15-year bonus period allows political adjustment without permanent asymmetry
 - Post-bonus guarantees protect large territories from dilution
+
+---
+
+## ARTICLE XXIII - INDIGENOUS SOVEREIGNTY PRESERVATION
+
+*Resolves Gap 253 — Indigenous/Treaty Sovereignty. Establishes a three-sovereign framework explicitly protecting tribal sovereignty from Regional encroachment.*
+
+### Section 1. Recognition of Tribal Sovereignty
+
+(a) The sovereignty of Indigenous Nations and Tribes, as recognized by Treaty, Federal statute, and judicial precedent, is hereby affirmed and preserved.
+
+(b) Indigenous Nations possess inherent powers of self-governance that predate this Constitution and are not granted by it.
+
+(c) The Federal Government shall maintain its trust responsibility to Indigenous Nations. This responsibility may not be diminished, transferred, or delegated to Regions.
+
+---
+
+### Section 2. Federal Exclusivity
+
+(a) Relations with Indigenous Nations, including but not limited to treaty obligations, trust responsibilities, and recognition matters, are the exclusive domain of the Federal Government.
+
+(b) Neither Regions nor States may:
+
+- (i) enter into treaties or agreements with Indigenous Nations that purport to alter federal treaty obligations;
+- (ii) exercise jurisdiction over tribal lands except as authorized by federal law with tribal consent;
+- (iii) impose taxes on tribal lands, tribal governments, or tribal members for activities occurring on tribal land;
+- (iv) regulate tribal governance, membership, or internal affairs;
+- (v) infringe upon tribal water rights, hunting and fishing rights, or other treaty-protected resources.
+
+---
+
+### Section 3. Treaty Supremacy
+
+(a) Treaties between the United States and Indigenous Nations remain "the supreme Law of the Land" and take precedence over any Regional or State law.
+
+(b) Regional laws that conflict with treaty obligations are void to the extent of the conflict.
+
+(c) Ambiguities in treaties shall be construed in favor of the Indigenous Nations, consistent with the canons of treaty interpretation.
+
+---
+
+### Section 4. Tribal Consent Requirement
+
+(a) No federal action that diminishes tribal sovereignty, alters reservation boundaries, or modifies treaty rights may occur without the free, prior, and informed consent of the affected Indigenous Nation(s).
+
+(b) Tribal consent must be obtained through procedures established by the Indigenous Nation's own governance structure.
+
+(c) Consent may not be coerced through threats to federal funding, services, or trust responsibilities.
+
+---
+
+### Section 5. Enforcement and Remedies
+
+(a) Indigenous Nations shall have standing to challenge in federal court any Regional or State action that infringes upon tribal sovereignty or treaty rights.
+
+(b) The burden of proof shall be on the Region or State to demonstrate that the challenged action does not infringe upon tribal rights.
+
+(c) Courts shall enjoin Regional or State actions that violate this Article pending full adjudication.
+
+(d) Regional officials who knowingly violate tribal sovereignty or treaty rights are personally liable and may be removed from office.
+
+---
+
+### Section 6. Coordination, Not Subordination
+
+(a) Regions and Indigenous Nations are encouraged to enter into government-to-government compacts for mutual benefit on matters of shared concern.
+
+(b) Such compacts may not diminish tribal sovereignty or treaty rights.
+
+(c) The Federal Government shall facilitate Regional-Tribal cooperation through technical assistance and dispute resolution services.
+
+---
+
+### Section 7. Cross-Boundary Tribal Territories
+
+(a) When a tribal territory spans multiple Regions, the Indigenous Nation retains unified sovereignty over its entire territory.
+
+(b) Regions may not partition tribal territory or impose different requirements on different portions.
+
+(c) The Federal Government shall coordinate with the Indigenous Nation and affected Regions to ensure consistent treatment.
+
+---
+
+## ARTICLE XXIV - UNION PERMANENCE AND ORDERLY ALTERATION
+
+*Resolves Gap 254 — Union Permanence. Eliminates secession ambiguity by combining a perpetual union declaration with a demanding consensual exit path.*
+
+### Section 1. Perpetual Union
+
+(a) The Union of the Regions under this Constitution is perpetual and indissoluble.
+
+(b) No Region may unilaterally secede, withdraw, or declare independence from the United States.
+
+(c) Any purported act of unilateral secession is void and of no legal effect.
+
+---
+
+### Section 2. No Right of Revolution Within Constitutional Order
+
+(a) There is no constitutional "right of revolution" or "right of secession."
+
+(b) The remedy for political grievances lies in the amendment process, elections, and other constitutional mechanisms -- not exit.
+
+(c) This section does not affect the natural right of revolution, which exists outside constitutional order when constitutional order has wholly failed. Such revolution is extra-constitutional by definition.
+
+---
+
+### Section 3. Orderly Alteration of Regional Status
+
+(a) A Region's status within the Union may be altered only through Constitutional Amendment, which shall require:
+
+- (i) proposal by two-thirds of Congress or two-thirds of Regional legislatures;
+- (ii) ratification by three-fourths of Regions (not including the Region seeking alteration);
+- (iii) ratification by national popular referendum;
+- (iv) consent of the Federal Government, expressed by joint resolution of Congress signed by the President.
+
+(b) Such amendment may provide for:
+
+- (i) independence of the Region as a separate nation;
+- (ii) merger of the Region with another nation;
+- (iii) restructuring of the Region into multiple Regions;
+- (iv) other fundamental alterations of Regional status.
+
+---
+
+### Section 4. Process Requirements
+
+(a) Before any amendment under Section 3 may be proposed, the affected Region must:
+
+- (i) hold a referendum in which at least two-thirds of voters approve seeking alteration;
+- (ii) demonstrate that this support is durable by holding a second referendum at least two (2) years later with the same result;
+- (iii) engage in good-faith negotiation with the Federal Government for at least one (1) year.
+
+(b) If any requirement of this section is not met, the amendment process may not proceed.
+
+---
+
+### Section 5. Consequences of Attempted Secession
+
+(a) Officials who purport to act on behalf of a seceding Region commit the crime of rebellion.
+
+(b) Any Region that attempts unilateral secession:
+
+- (i) forfeits all representation in Congress during the period of rebellion;
+- (ii) forfeits all federal funding and transfer payments;
+- (iii) may be subject to federal enforcement action to restore constitutional order.
+
+(c) Individual citizens of the Region who do not participate in rebellion retain all constitutional rights.
+
+---
+
+### Section 6. Federal Obligations During Alteration Process
+
+(a) During good-faith alteration proceedings under Section 3, the Federal Government shall:
+
+- (i) continue all services, funding, and protections to the Region;
+- (ii) negotiate in good faith regarding transition arrangements;
+- (iii) refrain from punitive action against the Region for pursuing alteration.
+
+(b) Failure to meet these obligations may be raised as grounds to pause the alteration process.
+
+---
+
+### Section 7. Division of Assets and Obligations
+
+(a) Any amendment providing for Regional independence shall address:
+
+- (i) allocation of the national debt;
+- (ii) disposition of federal property within the Region;
+- (iii) citizenship status of persons in the Region;
+- (iv) treaty obligations and international commitments;
+- (v) defense arrangements and military assets;
+- (vi) currency, monetary, and fiscal transition.
+
+(b) These matters shall be resolved before independence takes effect.
+
+---
+
+## ARTICLE XXV - FEDERAL DISTRICT INDEPENDENCE
+
+*Resolves Gap 255 — Federal District Vulnerability. Ensures the Federal Government cannot be held hostage by surrounding Regions through infrastructure, security, or economic pressure.*
+
+### Section 1. Exclusive Federal Jurisdiction
+
+(a) The Seat of the Federal Government shall be a distinct Federal District, independent of any Region.
+
+(b) The Federal Government shall have exclusive legislative, executive, and judicial authority over the Federal District.
+
+(c) No Region may exercise any governmental authority within the Federal District.
+
+---
+
+### Section 2. Territorial Boundaries
+
+(a) The Federal District shall comprise sufficient territory for the effective operation of the Federal Government, including:
+
+- (i) all buildings and facilities of the three branches of government;
+- (ii) residential areas for federal employees who choose to reside within the District;
+- (iii) commercial areas necessary for District function;
+- (iv) parks, monuments, and public spaces of national significance.
+
+(b) The boundaries of the Federal District may be adjusted by Act of Congress, provided that the District always maintains sufficient territory for independent operation.
+
+---
+
+### Section 3. Infrastructure Independence
+
+(a) The Federal Government shall maintain independent control over all critical infrastructure serving the Federal District, including but not limited to:
+
+- (i) water supply and treatment facilities;
+- (ii) electricity generation and distribution;
+- (iii) natural gas and fuel supply;
+- (iv) telecommunications and internet infrastructure;
+- (v) transportation access including roads, rail, and airports.
+
+(b) Where infrastructure necessarily crosses Regional territory:
+
+- (i) the Federal Government shall have easements and rights-of-way that may not be revoked;
+- (ii) Regions may not impede, tax, or regulate federal infrastructure;
+- (iii) the Federal Government may construct, maintain, and protect such infrastructure without Regional consent.
+
+---
+
+### Section 4. Security and Defense
+
+(a) The security of the Federal District is a federal responsibility. No Region may:
+
+- (i) deploy armed forces within or around the District without federal authorization;
+- (ii) withdraw security cooperation during federal emergencies;
+- (iii) impede federal law enforcement operations within or transiting to the District.
+
+(b) The President may deploy federal forces to secure the District and its approaches without invoking emergency powers.
+
+(c) Federal control of the District's airspace and surrounding airspace necessary for security is exclusive.
+
+---
+
+### Section 5. Economic Independence
+
+(a) No Region may:
+
+- (i) impose taxes on federal employees for income earned from federal employment;
+- (ii) impose taxes on contractors for work performed for the Federal Government;
+- (iii) impose regulations designed to burden or discourage federal employment or contracting.
+
+(b) The Federal District may establish its own tax system for District residents and businesses.
+
+(c) Federal employees residing outside the District in surrounding Regions remain subject to Regional taxation, but Regions may not impose punitive taxes targeting federal employees as a class.
+
+---
+
+### Section 6. Access Guarantees
+
+(a) All citizens have the right to travel to the Federal District to petition their government, access federal services, or conduct business with federal agencies.
+
+(b) Regions may not impede such travel through:
+
+- (i) checkpoints or travel permits;
+- (ii) closure of transportation routes;
+- (iii) discriminatory enforcement of traffic or travel regulations.
+
+(c) Federal courts have jurisdiction to enjoin any Regional action that impedes access to the District.
+
+---
+
+### Section 7. Emergency Provisions
+
+(a) If a Region takes any action that threatens the operation of the Federal Government in the District:
+
+- (i) the President may declare a District Emergency;
+- (ii) federal authority over infrastructure, security, and access extends to surrounding Regional territory as necessary;
+- (iii) Regional officials who participate in the threat are subject to federal criminal prosecution;
+- (iv) the Region forfeits federal funding for the duration of the emergency.
+
+(b) District Emergencies are subject to the same duration limits and oversight requirements as other federal emergencies.
+
+---
+
+### Section 8. Congressional Representation for District Residents
+
+(a) Citizens residing in the Federal District shall have full representation in Congress as if the District were a Region.
+
+(b) The District shall have:
+
+- (i) representation in the House of Representatives proportional to its population;
+- (ii) two Senators;
+- (iii) electoral votes for President equal to its congressional representation.
+
+(c) District residents may vote in federal elections and referenda.
 
 ---
 

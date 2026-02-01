@@ -2615,9 +2615,9 @@ Amend pardon provisions (Presidential and Gubernatorial):
 > (5) **Conspiracy to Evade.** Any agreement to grant a pardon in exchange for silence, false testimony, or other obstruction of justice shall constitute a separate offense not subject to pardon.
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment limiting pardon power to prevent self-pardons and pardons of co-conspirators in constitutional crimes.
+**RESOLVED — Absorbed by Gap 223 resolution.** All Gap 171 elements are covered by Article VIII, Section 9 (Limitations on the Pardon Power) in `single-topic/impeachment-reform.md`. Gap 171's unique contribution — "Conspiracy to Evade" — is incorporated as §9(k). Self-pardon prohibition: §9(b). Co-conspirator restrictions: §9(d)-(e). Transition period limitation: §9(g). Disclosure requirement: §9(h). Judicial review: §9(j).
 
-**Severity:** High | **Mitigability:** Requires Development
+**Severity:** High | **Mitigability:** Resolved
 
 ---
 
@@ -2958,9 +2958,48 @@ Add to Article I-RF, Section 6 — The Single-Subject & Readability Mandate:
 **Dependencies**: None — self-contained legislative process reform
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article I-RF, Section 6.
+**RESOLVED (2026-02-01) — Article IV, Section 5-A (The Deliberation Mandate)** in `03-regional-governance.md`. Twentieth gap resolved through multi-LLM review process.
 
-**Severity:** Critical | **Mitigability:** Requires Development
+**Placement correction:** Original proposal targeted "Article I-RF, Section 6" — triple error: (1) Article I §6 is occupied (Right of Transit and Non-Blockade); (2) the "-RF" suffix is invalid for Article I; (3) wrong article entirely — legislative process belongs in Article IV. Corrected to Article IV, Section 5-A (companion to Section 5, Federal Lawmaking).
+
+**Design Decisions:**
+
+| Decision | Choice | Rationale |
+|----------|--------|-----------|
+| D1: Placement | Article IV §5-A | Companion to §5 (Federal Lawmaking); follows -A suffix pattern |
+| D2: Appropriations germaneness | Narrow mechanical + limitation rider ban | Closes primary gaming vector; prevents policy repeal via spending riders |
+| D3: Conference committee | Full publication reset | Conference reports are primary "air-drop" vector; new text requires new review |
+| D4: Emergency waiver | 3/4 House vote + 24hr minimum + Declared Emergency only | High threshold prevents abuse; 24hr absolute floor |
+| D5: Standing | XIV-RF §5 universal standing, no time limit | Existing standing is broader; 90-day window would be rollback |
+| D6: Discharge interaction | Concurrent timing with explicit cross-reference | Publication and discharge clocks run simultaneously; vote after both satisfied |
+| D7: Post-amendment reset | Materiality threshold (>10% word count or new subject) | Prevents filibuster-by-amendment while blocking midnight rewrites |
+| D8: Waiver authority | House-only (3/4 vote) | Avoids creating Senate veto in tension with §5(d) |
+| D9: CBO timeout | 14 calendar days from formal request | Prevents scorekeeper veto; consistent with existing CBO references |
+| D10: Summary authorship | Statutory delegation | Constitutional principle; implementing office designated by law |
+| D11: Time measurement | Calendar days/hours | Prevents legislative-day gaming; matches reading-time rationale |
+
+**Gaming Vectors Addressed:**
+
+| Vector | Resolution |
+|--------|------------|
+| Must-pass omnibus vehicle | §5-A(a) single-subject requirement; void unrelated provisions |
+| Definition bury | §5-A(d) definitions in first 10%, no counterintuitive meanings |
+| Midnight release | §5-A(b) 72hr calendar posting; §5-A(c) 7-day for 100+ pages |
+| Log-rolling aggregation | §5-A(a)(2) omnibus prohibition; §5-A(e) severability voting |
+| Amendment tree fill | §5-A(e) constitutional right to removal amendments |
+| Conference committee air-drop | §5-A(f) full publication reset for conference reports |
+| Limitation riders | §5-A(a)(3) explicit prohibition on policy-altering spending riders |
+| Filibuster-by-amendment | §5-A(g) materiality threshold (10% word count or new subject) |
+| Scorekeeper veto | §5-A(b)(3) 14-day timeout; bill proceeds without score |
+| Senate veto via waiver | §5-A(h)(1) House-only waiver vote |
+| Timing manipulation | §5-A(b)(1) calendar hours with verifiable timestamp |
+| Committee report as veto | §5-A(b)(4) sponsor statement in lieu for discharged bills |
+| Discharge vs. publication conflict | §5-A(i) concurrent timing with explicit coordination |
+| Standing restrictions | §5-A(a)(4) defers to XIV-RF §5; no time limit |
+
+Resolved 2026-02-01.
+
+**Severity:** Critical | **Mitigability:** Resolved
 
 ---
 
@@ -2969,7 +3008,7 @@ Add to Article I-RF, Section 6 — The Single-Subject & Readability Mandate:
 **Identified**: 2026-01-26
 **Category**: Institutional Governance
 **Criticality**: 🔴 **CRITICAL**
-**Status**: UNRESOLVED
+**Status**: **RESOLVED.** Integrated as Article IX, Section 3-A (Post-Service Economic Restrictions) in `02-design/single-topic/lobbying-reform.md`. Resolved 2026-02-01.
 
 ### Problem Statement
 
@@ -3163,6 +3202,47 @@ Add to Article I-RF, Section 11 — The Public Service Quarantine:
 **Rationale**: Regulatory capture affects every domain of government; revolving door is primary capture mechanism
 
 **Dependencies**: None — self-contained ethics reform
+
+### Resolution Record
+
+**Placement Correction:** Original proposal targeted "Article I-RF, Section 11" — triple error: (1) "-RF" suffix invalid for Article I (Article I IS the RF core article); (2) Article I §11 is occupied (Environmental Border Protection); (3) wrong article — general ethics reform belongs in Article IX (Standalone Lobbying and Anti-Corruption Amendment). Corrected to Article IX, Section 3-A (companion to §3 Revolving Door Restrictions, following -A suffix pattern).
+
+**Overlap Analysis:** ~25-35% (LOW — genuinely additive). Article IX §3 covers lobbying bans (compensated communications to influence official action per §1(b)) but does NOT ban employment, consulting, boards, equity, or speaking fees. Article II §7-A(k) covers COB revolving door with "personally participated" standard — much narrower scope. The core additive contribution: extending from "lobbying activity" form of revolving door to ALL "economic relationship" forms.
+
+**Design Decisions:**
+
+| Decision | Choice | Rationale |
+|----------|--------|-----------|
+| D1: Placement | Article IX §3-A | Companion to §3; same article; follows -A suffix pattern |
+| D2: Cooling-off periods | Tiered: Tier 1 = 5 years, Tier 2 = 2 years | Aligns Tier 2 with existing §3(a)(3) staff cooling-off; avoids brain drain for non-regulatory access roles |
+| D3: Scope | All economic relationships (not just lobbying) + de minimis exception | Core gap — §3 only bans lobbying; §3-A closes all other compensation forms |
+| D4: Entity definition | Broad: subsidiaries, affiliates, trade associations, 25% revenue test | Closes subsidiary shuffle, intermediary laundering, revenue-linked capture |
+| D5: Penalties | Align with §3(d) (5x + pension forfeiture during violation + criminal) + clawback + permanent ban + entity-side | Consistency with §3; adds genuinely new enforcement hooks |
+| D6: Hardship exception | Judicial finding (federal court), strict | No "independent ethics panel" (doesn't exist); OLO may petition for/oppose |
+| D7: Entity-side obligations | Annual certification + penalties | Creates corporate accountability; references §9(a)/(b) for penalty structure |
+| D8: Family member scope | Immediate family (spouse, domestic partner, dependent children, household) | Defined term; circumvention-triggered (not automatic ban on all family employment) |
+| D9: §7-A(k) relationship | Savings clause / independent operation | Cleanest — §7-A(k) stricter in some dimensions, narrower in others; no "floor" ambiguity |
+
+**Gaming Vectors Addressed:**
+
+| Vector | Resolution |
+|--------|------------|
+| "Consulting" relabel | §3-A(c) covers "any employment, compensation, consulting fees, advisory fees, speaking fees...or any other arrangement providing economic benefit" |
+| Subsidiary shuffle | §3-A(d)(2) covers "any subsidiary, affiliate, parent, or successor" |
+| Deferred compensation | §3-A(c) covers "deferred compensation...regardless of the form" |
+| Speaking fee laundering | §3-A(c) covers "speaking fees" explicitly |
+| Foundation/think tank intermediary | §3-A(d)(3)-(4) covers trade associations and 25% revenue test |
+| Book deals/IP licensing | §3-A(m) anti-circumvention: "any arrangement designed to provide economic benefit...through intermediaries" |
+| Charitable donation laundering | §3-A(m) explicitly covers "charitable donations to entities affiliated with or substantially benefiting the former official" |
+| Family member proxy payments | §3-A(e) extends prohibitions to immediate family |
+| Sham employment for family | §3-A(h)(1) entity certification covers family hires |
+| Independent contractor loophole | §3-A(c) "any other arrangement providing economic benefit, regardless of the form" |
+| Opt-out via passive investment | §3-A(f)(1) carves out diversified funds; sector-specific funds remain covered |
+| Multi-mission agency overreach | §3-A(d) final paragraph limits scope to specific sector of authority |
+| Post-cooling-off reward | Beyond constitutional reach; 5-year disruption period is the mechanism |
+| Delegation clause / arbitrator trap | N/A — no arbitration provisions; enforcement through OLO and federal courts |
+
+**Multi-LLM Review:** 1 round; convergence on all 9 design decisions (7 converged, 2 near-converged resolved by coordinator recommendation).
 
 **Status:**
 **PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article I-RF, Section 11.
@@ -3371,9 +3451,51 @@ Add to Article I-RF, Section 12 — The Prohibition on Secret Law:
 **Dependencies**: None — self-contained transparency reform
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article I-RF, Section 12.
+**RESOLVED.** Integrated as Article II, Section 18 (Prohibition on Secret Law) in `02-design/constitution/02-powers-and-rights.md`. Resolved 2026-01-31.
 
-**Severity:** Critical | **Mitigability:** Requires Development
+**Severity:** Critical | **Mitigability:** Resolved
+
+**Placement Correction:** Original proposal targeted "Article I-RF, Section 12" — triple error: (1) "-RF" suffix invalid for Article I (Article I IS the RF core article); (2) Article I §12 is occupied (Cross-Jurisdictional Law Enforcement Cooperation); (3) wrong article entirely (executive branch transparency belongs with executive accountability, not regional structure). Corrected to Article II, Section 18, joining the executive accountability cluster (§§13-17).
+
+**Design Decisions:**
+
+| Decision | Choice | Rationale |
+|----------|--------|-----------|
+| D1: Placement | Article II §18 | Executive accountability cluster; co-located with §§14-16 |
+| D2: Institution naming | Functional language (constitutional); named bodies in implementing legislation | Prevents renaming/forum-shopping; matches §§13-17 pattern |
+| D3: Whistleblower | Cross-reference Article I §23 + automatic declassification trigger | Avoids duplicating §23's calibrated framework |
+| D4: Executive privilege | Hybrid: finality + time limit | Final interpretations (relied upon as authority) published within 180 days; pre-decisional advice privileged |
+| D5: Self-execution | Hybrid: operative during 180-day window; void after deadline | Avoids both operational recklessness and standing paradox |
+| D6: Sunset | 5-year hard sunset as backstop | Failsafe for evasions; 180-day mandate remains primary |
+| D7: Surveillance court | Full constitutional mandate with functional language | Prevents congressional dilution; avoids naming FISA |
+| D8: Scope | Explicit multi-level (US, Regions, States, subdivisions) | Matches §15 pattern; closes Regional secrecy loophole |
+| D9: Oral guidance | Memorialization mandate (30-day written reduction) | Closes "don't write it down" loophole |
+| D10: Glomar ban | Explicit prohibition | Existence of legal authority is not classifiable |
+
+**Gaming Vectors Addressed:**
+
+| Vector | Resolution |
+|--------|------------|
+| Relabeling legal reasoning as "operational analysis" | §18(a)(i) functional definition; §18(b) minimum disclosure standard |
+| Glomar responses ("neither confirm nor deny") | §18(a)(iii) explicit ban |
+| Infinite redaction | §18(b) minimum unredacted: question, conclusion, authority |
+| Oral guidance bypass | §18(c)(i) 30-day memorialization mandate; unwritten = ultra vires |
+| Statutory body renaming | §18(c)(ii) functional language; named bodies in implementing legislation only |
+| Executive privilege shield | §18(h) finality carve-out; §14(j) coordination clause |
+| Non-reliance defense | §18(a)(i) "relied upon, cited, or treated as authoritative" |
+| Forum shopping to non-covered courts | §18(d) functional: "any court, tribunal, or judicial body issuing ex parte orders" |
+| Attrition of publication capacity | §18(j) Congress must designate publication offices |
+| 180-day evasion (relabeling to avoid deadline) | §18(i) 5-year hard sunset as backstop |
+
+**Conflicts Resolved:**
+
+| Conflict | Resolution |
+|----------|------------|
+| §18(a)(iv) void vs. §18(c) 180-day grace | Hybrid: operative during window; void after deadline; must disclose on request during window (§18(c)(vi)) |
+| §18(g) categorical immunity vs. §23 calibrated defense | Replaced with cross-reference to §23 + auto-declassification trigger; §23's balancing test preserved |
+| §14(a) privilege for deliberative materials vs. publication mandate | §18(h) finality distinction + §14(j) coordination clause |
+| §15 candor duty (lying) vs. §18 publication (concealment) | Complementary: §15 covers affirmative lies; §18 covers withholding; both apply |
+| §13 faithful execution vs. secret reinterpretation | §18 closes transparency gap §13 leaves open |
 
 ---
 
@@ -3515,9 +3637,56 @@ The Constitution requires Senate "advice and consent" for presidential nominees 
 **Dependencies:** None — self-contained confirmation reform
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article II-RF, Section 4.
+**RESOLVED.** Integrated as Article IV, Section 4-B (Mandatory Confirmation Procedures) in `02-design/constitution/03-regional-governance.md`. Resolved 2026-02-01 through multi-LLM review process.
 
 **Severity:** Critical | **Mitigability:** Manageable
+
+#### Resolution Details
+
+**Placement Correction:** Original proposal targeted "Article II-RF, Section 4" — triple error: (1) "-RF" suffix invalid for RF Core articles; (2) Article II §4 occupied (Concurrent Authority Framework); (3) wrong article (powers allocation vs. governance procedures). Corrected to Article IV §4-B, extending Senate Powers (§4).
+
+**Design Decisions:**
+
+| Decision | Choice | Rationale |
+|----------|--------|-----------|
+| D1: Judicial treatment | Harmonize — deemed confirmation for all | Consistent with Article XIV §3(c), §13(c), and Article III-RF §5(c) forward reference |
+| D2: Placement | Article IV §4-B | Confirmation is enumerated Senate power in §4; adds procedural teeth |
+| D3: Timeline | 90-day standard; preserve existing specific timelines | 30-day Receiver (Art. V §5(c)), 60-day Commission (Art. XIV §14(c)) as carve-outs |
+| D4: Tolling | Nominee-side only | Senate cannot toll clock through recess; only nominee non-cooperation within 14 days |
+| D5: Safety valve | Universal 180-day, 2/3 removal | Matches Article XIV §13(c)(3); mitigates malicious nomination risk |
+| D6: Recess appointments | Preserve, limit to genuine recesses >30 days | Continuity protection; pro forma session abuse blocked |
+| D7: Gap 168 coordination | Independent, cross-referenced | Complementary mechanisms; distinct targets (Senate vs. Executive) |
+| D8: Trigger mechanism | Self-executing | "First order of business" — no officer dependency |
+| D9: Clock start | Public transmission timestamp | Prevents "received but not clocked" games |
+| D10: Scope | All principal officers by Constitution or law | Congressional discretion preserved via "as Congress may by law require" |
+| D11: Misrepresentation | Dropped from tolling | Handled via safety valve / post-confirmation removal |
+| D12: Vote threshold | Explicit simple majority | Constitutionally supersedes cloture/filibuster rules for confirmations |
+| D13: Anti-gaming | Constitutional anti-reset rules | No clock reset by withdrawal within 180 days; incomplete submission auto-clock |
+
+**Gaming Vectors Addressed:**
+
+| Vector | Mitigation |
+|--------|-----------|
+| Calendar manipulation / silent veto | 90-day deemed confirmation; self-executing floor vote |
+| Blanket holds / single-senator blockade | Deemed confirmation bypasses holds; simple majority supersedes cloture |
+| Committee bottleneck | 60-day deemed-conclusion deadline; floor vote regardless |
+| Clock manipulation via recess | Senate recess does not toll clock |
+| Serial withdrawal/re-nomination | 180-day no-reset rule on withdrawal |
+| Incomplete nomination delay | 30-day auto-start regardless of documentation |
+| Hearing never "concluded" | Three defined conclusion triggers including 60-day deadline |
+| Malicious nominations | 180-day, 2/3 removal safety valve |
+| Pro forma session abuse | Pro forma sessions blocking recess appointments = not genuine sessions |
+| Mass end-of-term dumps | Clock runs from each transmission; Senate processes in order received |
+
+**Conflicts Resolved:**
+
+| Conflict | Resolution |
+|----------|------------|
+| Gap 222 §(f) vs. Art. XIV §3(c)/§13(c) | Harmonized: deemed confirmation applies to all nominees including judicial |
+| Gap 222 §(d)(ii) vs. Art. XIV §13(c)(3) | Adopted universal safety valve matching XIV §13(c)(3) pattern |
+| Art. IV §4 scope ("constitutional officers") vs. statutory offices | Defined broadly: all principal officers whose confirmation required by Constitution or law |
+| Art. III-RF §5(c) forward reference | Updated from "(see Gap 222)" to "pursuant to Article IV, Section 4-B" |
+| Art. V §5(c) 30-day vs. 90-day default | Carve-out: specific provisions control where they impose shorter deadlines |
 
 ---
 
@@ -3671,10 +3840,57 @@ The President's pardon power under Article II, Section 2 is essentially unlimite
 **Tier:** P1 (Immediate)
 **Rationale:** Pardon abuse is immediate threat to rule of law; extends Gap 171 immunity concerns
 
-**Dependencies:** Gap 171 (immunity loophole) — related but independent
+**Dependencies:** Gap 171 (immunity loophole) — absorbed into this resolution
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article II-RF, Section 5.
+**RESOLVED.** Article VIII, Section 9 (Limitations on the Pardon Power) added to `single-topic/impeachment-reform.md`. Also resolves Gap 171 (Impunity Pardon).
+
+**Placement Correction:** Original proposal targeted "Article II-RF, Section 5" — triple error: (1) "-RF" suffix invalid for RF Core article; (2) Article II §5 is occupied (Allocation Review Board); (3) Wrong article (Article II covers powers allocation, not executive accountability). Corrected to Article VIII §9 (extends standalone Impeachment Reform; §5(e) already limits pardons).
+
+**Overlap:** ~5-10% (one of lowest in the system). Only existing provision: Article VIII §5(e) narrowly prevents pardon from undoing impeachment disqualification.
+
+**Design Decisions:**
+
+| Decision | Choice | Rationale |
+|----------|--------|-----------|
+| D1: Merge Gap 171 | A: Yes, both resolved | Gap 171 is strict subset; "Conspiracy to Evade" merged as §9(k) |
+| D2: Placement | A: Article VIII §9 | Extends standalone impeachment reform; works with or without RF |
+| D3: Multi-level scope | C: Tiered | Self-clemency prohibition (§9(b)) at all levels; broader restrictions federal only |
+| D4: Family/associate definition | B: Named relationships | Explicit list; avoids "any capacity" overbreadth; includes domestic partners, step-relations |
+| D5: Senate threshold | A: Two-thirds | Matches treaty ratification bar; meaningfully deters partisan capture |
+| D6: Lame duck window | A: 60 days, unambiguous | "Final sixty (60) calendar days before the expiration of the President's term" |
+| D7: Witness tampering | B: Rebuttable presumption | Shifts burden to President; clear and convincing standard; avoids false positives |
+| D8: Disclosure language | A: Functional | "Official government publication system designated by law" |
+| D9: Conspiracy to evade | A: Standalone subsection | Un-pardonable at all levels of government; §9(k) |
+| D10: Commutation coverage | A: All acts of clemency | "Act of clemency" covers pardons, commutations, reprieves, remissions |
+| D11: Successor pardon | C: Same-administration | Closes Ford-Nixon without banning all successor clemency |
+| D12: Pre-impeachment trigger | B: Retroactive voidability | 2-year window; pardons evaporate if impeachment follows |
+
+**Gaming Vectors Addressed:**
+
+| Vector | How Addressed |
+|--------|---------------|
+| Self-pardon | §9(b): absolute prohibition at all executive levels |
+| Co-conspirator pardon | §9(d): Senate approval required; §9(e): rebuttable presumption for witnesses/subjects |
+| Family pardon | §9(d)(1): named relationships require 2/3 Senate approval |
+| Commutation bypass | §9(a)(1): "act of clemency" covers all forms including commutations |
+| Pre-emptive pardon dump | §9(i): retroactive voidability within 2 years of impeachment |
+| Midnight/lame-duck pardons | §9(g): 60-day congressional submission and review |
+| Ford-Nixon successor pardon | §9(f): same-administration restriction |
+| Pardon-for-silence deal | §9(k): conspiracy to evade is separate un-pardonable offense |
+| Secret pardon | §9(h): secret clemency is void; mandatory disclosure |
+| Senate capture for approvals | §9(d): 2/3 threshold; failure to act = denial (not approval) |
+
+**Conflicts Resolved:**
+
+| Conflict | Resolution |
+|----------|------------|
+| Voidable (§d) vs void ab initio (§g) in original | Tiered enforcement: §9(j)(1) void ab initio for absolute prohibitions; §9(j)(3) voidable for presumption |
+| "Noon on January 20 of the final year" ambiguity | Replaced with "final sixty (60) calendar days before expiration of the President's term" |
+| Article IV §4 Senate powers enumeration | Senate authority "granted directly by this Article" in §9(d) and §9(f) |
+| "Administration in any capacity" overbreadth | Narrowed to "principal officer, head of executive department, or senior advisor" |
+| Commutations excluded from restrictions | §9(a)(1) defines "act of clemency" to cover all clemency forms |
+| Successor pardon loophole | §9(f) same-administration restriction closes Ford-Nixon |
 
 **Severity:** Critical | **Mitigability:** Manageable
 
@@ -4239,9 +4455,9 @@ The Constitution declares "No money shall be drawn from the Treasury, but in Con
 ---
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article I-RF, Section 10.
+✅ **RESOLVED.** Constitutional text verified in Article I, Section 15 (Appropriations Integrity). See `02-design/constitution/01-regional-structure.md`. Prevents executive fund transfers/reprogramming, 2% cap, anti-impoundment duty. Verified 2026-01-31.
 
-**Severity:** Critical | **Mitigability:** Preventable
+**Severity:** Critical | **Mitigability:** Addressed | **Resolved:** 2026-01-31
 
 ---
 
@@ -4352,9 +4568,9 @@ The Constitution establishes no protection for career civil servants. A Presiden
 ---
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article II-RF, Section 8.
+✅ **RESOLVED.** Constitutional text verified in Article II, Section 11 (Merit System Protection). See `02-design/constitution/02-powers-and-rights.md`. Civil service protection against political purges. Verified 2026-01-31.
 
-**Severity:** Critical | **Mitigability:** Preventable
+**Severity:** Critical | **Mitigability:** Addressed | **Resolved:** 2026-01-31
 
 ---
 
@@ -4484,9 +4700,9 @@ We placed strict "Lame Duck Limits" on Regional Governors (Article II), but forg
 ---
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article II-RF, Section 9.
+✅ **RESOLVED.** Constitutional text verified in Article II, Section 12 (Transition Integrity). See `02-design/constitution/02-powers-and-rights.md`. Presidential transition protections against scorched earth tactics. Verified 2026-01-31.
 
-**Severity:** Critical | **Mitigability:** Preventable
+**Severity:** Critical | **Mitigability:** Addressed | **Resolved:** 2026-01-31
 
 ---
 
@@ -4495,7 +4711,7 @@ We placed strict "Lame Duck Limits" on Regional Governors (Article II), but forg
 **Identified**: 2026-01-26
 **Category**: Institutional Governance / Executive Accountability
 **Criticality**: 🔴 **CRITICAL**
-**Status**: UNRESOLVED
+**Status**: ✅ **RESOLVED.** Constitutional text verified in Article II, Section 13 (Faithful Execution Mandate). See `02-design/constitution/02-powers-and-rights.md`. Prevents prosecutorial nullification through non-enforcement. Verified 2026-01-31.
 
 ### Problem Statement
 
@@ -4743,9 +4959,9 @@ The Executive Branch possesses broad "prosecutorial discretion" to prioritize en
 ---
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article II-RF, Section 10.
+✅ **RESOLVED.** Constitutional text verified in Article II, Section 13 (Faithful Execution Mandate). See `02-design/constitution/02-powers-and-rights.md`. Prevents prosecutorial nullification through non-enforcement. Verified 2026-01-31.
 
-**Severity:** Critical | **Mitigability:** Requires Constitutional Amendment
+**Severity:** Critical | **Mitigability:** Addressed | **Resolved:** 2026-01-31
 
 ---
 
@@ -4754,7 +4970,7 @@ The Executive Branch possesses broad "prosecutorial discretion" to prioritize en
 **Identified**: 2026-01-26
 **Category**: Institutional Governance / Legislative Process
 **Criticality**: 🔴 **CRITICAL**
-**Status**: UNRESOLVED
+**Status**: ✅ **RESOLVED.** Constitutional text verified in Article I, Section 19 (Discharge Mandate). See `02-design/constitution/01-regional-structure.md`. Constitutional right to floor vote upon majority petition, 60-day committee deadline. Verified 2026-01-31.
 
 ### Problem Statement
 
@@ -4959,9 +5175,9 @@ In most legislatures, the Speaker or Majority Leader has near-absolute control o
 ---
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article I-RF, Section 8.
+✅ **RESOLVED.** Constitutional text verified in Article I, Section 19 (Discharge Mandate). See `02-design/constitution/01-regional-structure.md`. Constitutional right to floor vote upon majority petition, 60-day committee deadline. Verified 2026-01-31.
 
-**Severity:** Critical | **Mitigability:** Requires Constitutional Amendment
+**Severity:** Critical | **Mitigability:** Addressed | **Resolved:** 2026-01-31
 
 ---
 
@@ -4970,7 +5186,7 @@ In most legislatures, the Speaker or Majority Leader has near-absolute control o
 **Identified**: 2026-01-26
 **Category**: Institutional Governance / Executive Accountability
 **Criticality**: 🔴 **CRITICAL**
-**Status**: UNRESOLVED
+**Status**: ✅ **RESOLVED.** Constitutional text verified in Article II, Section 14 (Executive Privilege Reform). See `02-design/constitution/02-powers-and-rights.md`. Crime-fraud exception, congressional override, judicial in camera review. Verified 2026-01-31.
 
 ### Problem Statement
 
@@ -5176,9 +5392,9 @@ The crime-fraud exception is well-established in attorney-client privilege law. 
 ---
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article II-RF, Section 11.
+✅ **RESOLVED.** Constitutional text verified in Article II, Section 14 (Executive Privilege Reform). See `02-design/constitution/02-powers-and-rights.md`. Crime-fraud exception, congressional override, judicial in camera review. Verified 2026-01-31.
 
-**Severity:** Critical | **Mitigability:** Requires Constitutional Amendment
+**Severity:** Critical | **Mitigability:** Addressed | **Resolved:** 2026-01-31
 
 ---
 
@@ -5187,7 +5403,7 @@ The crime-fraud exception is well-established in attorney-client privilege law. 
 **Identified**: 2026-01-26
 **Category**: Institutional Governance / Public Trust
 **Criticality**: 🔴 **CRITICAL**
-**Status**: UNRESOLVED
+**Status**: ✅ **RESOLVED.** Constitutional text verified in Article II, Section 15 (Fiduciary Duty of Candor). See `02-design/constitution/02-powers-and-rights.md`. Federal officials' duty to provide truthful information, knowing falsehood as High Crime. Verified 2026-01-31.
 
 ### Problem Statement
 
@@ -5431,9 +5647,9 @@ This relationship is fiduciary in nature—officials serve citizens, not themsel
 ---
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article II-RF, Section 12.
+✅ **RESOLVED.** Constitutional text verified in Article II, Section 15 (Fiduciary Duty of Candor). See `02-design/constitution/02-powers-and-rights.md`. Federal officials' duty to provide truthful information, knowing falsehood as High Crime. Verified 2026-01-31.
 
-**Severity:** Critical | **Mitigability:** Requires Constitutional Amendment
+**Severity:** Critical | **Mitigability:** Addressed | **Resolved:** 2026-01-31
 
 ---
 
@@ -5442,7 +5658,7 @@ This relationship is fiduciary in nature—officials serve citizens, not themsel
 **Identified**: 2026-01-26
 **Category**: Institutional Governance / Fiscal Process
 **Criticality**: 🔴 **CRITICAL**
-**Status**: UNRESOLVED
+**Status**: ✅ **RESOLVED.** Constitutional text verified in Article I, Section 20 (Integrated Borrowing Authority). See `02-design/constitution/01-regional-structure.md`. Abolishes debt ceiling, unified spending-borrowing authorization. Verified 2026-01-31.
 
 ### Problem Statement
 
@@ -5641,9 +5857,9 @@ Congress has the power to authorize spending. Congress has the duty to pay debts
 ---
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article I-RF, Section 9.
+✅ **RESOLVED.** Constitutional text verified in Article I, Section 20 (Integrated Borrowing Authority). See `02-design/constitution/01-regional-structure.md`. Abolishes debt ceiling, unified spending-borrowing authorization. Verified 2026-01-31.
 
-**Severity:** Critical | **Mitigability:** Requires Constitutional Amendment
+**Severity:** Critical | **Mitigability:** Addressed | **Resolved:** 2026-01-31
 
 ---
 
@@ -5652,7 +5868,7 @@ Congress has the power to authorize spending. Congress has the duty to pay debts
 **Identified**: 2026-01-26
 **Category**: Institutional Governance / Oversight Accountability
 **Criticality**: 🔴 **CRITICAL**
-**Status**: UNRESOLVED
+**Status**: ✅ **RESOLVED.** Constitutional text verified in Article II, Section 16 (Watchdog Independence). See `02-design/constitution/02-powers-and-rights.md`. Inspector General protection against political purges, for-cause removal only. Verified 2026-01-31.
 
 ### Problem Statement
 
@@ -5879,9 +6095,9 @@ IGs investigate the Executive Branch. But they serve at the pleasure of the Exec
 ---
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article II-RF, Section 13.
+✅ **RESOLVED.** Constitutional text verified in Article II, Section 16 (Watchdog Independence). See `02-design/constitution/02-powers-and-rights.md`. Inspector General protection against political purges, for-cause removal only. Verified 2026-01-31.
 
-**Severity:** Critical | **Mitigability:** Requires Constitutional Amendment
+**Severity:** Critical | **Mitigability:** Addressed | **Resolved:** 2026-01-31
 
 ---
 
@@ -6280,8 +6496,8 @@ The resolution explicitly rejects the "bundled package" mitigation as inconsiste
 
 ---
 
-**Status:** PROPOSAL AVAILABLE
-**Severity:** High | **Mitigability:** Proposal Available
+**Status:** ✅ **RESOLVED.** Constitutional text verified in Article XXI, Section 4 (Partial Adoption Safeguards). See `02-design/constitution/07-implementation.md`. Prevents partial amendment adoption from creating dangerous gaps. Verified 2026-01-31.
+**Severity:** High | **Mitigability:** Addressed | **Resolved:** 2026-01-31
 
 ---
 

@@ -105,7 +105,7 @@ The structural form of Regional government (unicameral or bicameral legislature,
 
 (3) adjustments take effect no earlier than the second election cycle following adoption.
 
-(h) **Relationship to Redistricting.** This section governs the overall electoral system design and outcome standards. Independent redistricting commissions required by Section 5 of this Article address the specific mechanism of district boundary drawing. Both provisions apply simultaneously; compliance with redistricting requirements does not satisfy this section if the electoral system as a whole fails to meet the standards in subsections (a) through (c).
+(h) **Relationship to Redistricting.** This section governs the overall electoral system design and outcome standards. Independent redistricting commissions required by Article VII, Section 10 address the specific mechanism of district boundary drawing. Both provisions apply simultaneously; compliance with redistricting requirements does not satisfy this section if the electoral system as a whole fails to meet the standards in subsections (a) through (c).
 
 ---
 
@@ -1212,6 +1212,64 @@ These rules shall prevent both double taxation and tax avoidance through artific
 - (4) services for which the non-resident pays full cost.
 A Region may require proof of tax residency as a condition of receiving resident-only benefits.
 
+#### Census Protection
+
+*[Gap 174: Census Sabotage — Data Denial Attack on Representation]*
+
+(kk) **Census as Constitutional Infrastructure.** The decennial census and related enumeration activities are hereby designated "Constitutional Infrastructure" entitled to enhanced protection:
+
+(1) obstruction of census operations is a federal felony;
+
+(2) state and Regional officials have affirmative duty to facilitate census operations;
+
+(3) failure to protect census workers is treated as obstruction.
+
+(ll) **Mandatory Administrative Records Sharing.** States and Regions shall provide to the Census Bureau:
+
+(1) birth, death, and marriage records;
+
+(2) driver's license and state ID records;
+
+(3) school enrollment records;
+
+(4) property tax and utility records;
+
+(5) any other administrative records the Bureau determines necessary for enumeration verification.
+
+Privacy protections of subsection (m) apply to Bureau use of such records.
+
+(mm) **Census Obstruction Consequences.** Upon finding by the ARB that a state or Region has systematically obstructed census operations:
+
+(1) the Census Bureau may use statistical estimation to correct for documented undercount;
+
+(2) the obstructing jurisdiction forfeits objection rights to Bureau methodology;
+
+(3) federal formula allocations to the obstructing jurisdiction may be reduced proportionally;
+
+(4) officials responsible for obstruction are personally liable for costs of remedial enumeration;
+
+(5) pattern of census obstruction triggers enhanced monitoring for subsequent census.
+
+(nn) **Anti-Intimidation Provision.** Any person who:
+
+(1) threatens, intimidates, or harms census workers;
+
+(2) disseminates false information designed to suppress census response;
+
+(3) uses official position to discourage census participation
+
+is subject to federal prosecution and civil liability to affected communities.
+
+(oo) **Enumeration Access Rights.** Census workers shall have:
+
+(1) right of access to all residential properties for enumeration purposes;
+
+(2) right to federal law enforcement protection upon request;
+
+(3) right to complete enumeration activities notwithstanding local ordinances;
+
+(4) immunity from state and local prosecution for activities within scope of enumeration duties.
+
 ---
 
 ### Section 11. Environmental Border Protection
@@ -1468,6 +1526,714 @@ A Region may require proof of tax residency as a condition of receiving resident
 (3) The federal preemption remedy of subsections (c) and (e) applies when a licensing authority has engaged in two or more retaliatory actions within five years;
 
 (4) Nothing in this section prevents Regional licensing bodies from disciplining professionals for conduct unrelated to federal cooperation.
+
+---
+
+### Section 15. Appropriations Integrity
+
+*[Gap 232: Appropriations Reprogramming — preventing executive circumvention of congressional spending authority]*
+
+(a) **Appropriations Inviolability.** Funds appropriated by Congress for a specific purpose shall be expended solely for that purpose. No emergency declaration, executive order, or administrative action shall authorize the transfer, reprogramming, or redirection of appropriated funds to any purpose Congress did not authorize in the appropriation.
+
+(b) **Transfer Prohibition.** The President may not transfer, reprogram, or redirect more than 2% of any appropriation account, or $50 million (indexed to inflation), whichever is less, without prior written approval from the Appropriations Committees of both chambers. No emergency declaration shall expand this authority.
+
+(c) **Anti-Impoundment.** The President shall faithfully execute all appropriations. Failure to obligate appropriated funds within 90 days of availability, absent explicit statutory deferral authority, shall constitute an impeachable offense. Any citizen or Member of Congress may seek mandamus in federal court to compel obligation.
+
+(d) **Emergency Spending.** Emergency appropriations shall be made only through a separate emergency appropriation enacted after the emergency declaration. Pre-existing appropriations may not be redirected to emergency purposes. Emergency appropriations shall automatically terminate with the underlying emergency declaration.
+
+(e) **Transparency.** All transfers, reprogrammings, or deferrals exceeding $1 million shall be publicly reported within 48 hours of authorization.
+
+(f) **Enforcement.** The Comptroller General shall have standing to enforce this section. Courts shall award attorney fees to prevailing plaintiffs. Officials who knowingly violate this section shall be personally liable for restoration of funds, plus penalties of 100 to 1,000 FPUs.
+
+---
+
+### Section 16. Ranked Choice Elections (The Majority Mandate)
+
+*[Gap 238: The "Duopoly Trap" — ensuring majority representation through ranked choice voting]*
+
+(a) **Majority Requirement.** No candidate shall be declared elected to any Federal office unless that candidate receives support from a majority (50% + 1) of valid ballots cast in the final round of tabulation.
+
+(b) **Ranked Choice Voting.** To ensure majority support, all Federal elections shall utilize Ranked Choice Voting (Instant Runoff) whereby:
+
+(1) voters rank candidates by preference (first choice, second choice, etc.);
+
+(2) if no candidate achieves a majority of first-choice votes, the candidate with the fewest first-choice votes is eliminated;
+
+(3) ballots cast for the eliminated candidate are redistributed to voters' next-ranked choice;
+
+(4) this process repeats until one candidate achieves a majority of remaining active ballots.
+
+(c) **Ballot Exhaustion.** A ballot is "exhausted" and removed from the count only when:
+
+(1) all candidates ranked on that ballot have been eliminated; or
+
+(2) the voter explicitly chose to rank fewer candidates than remain in the count.
+
+Voters shall be encouraged but not required to rank all candidates.
+
+(d) **Multi-Member Districts.** For legislative bodies using multi-member districts:
+
+(1) Single Transferable Vote (STV) shall be used;
+
+(2) the threshold for election shall be calculated by the Droop quota;
+
+(3) surplus votes shall be transferred proportionally to next-ranked candidates.
+
+(e) **Application.** This section applies to:
+
+(1) all elections for President and Vice President (after Regional tallying per Article VII);
+
+(2) all elections for the House of Representatives;
+
+(3) all elections for the Senate;
+
+(4) all Regional elections for offices with Federal significance as defined by Congress.
+
+(f) **Regional Implementation.** Regions shall:
+
+(1) implement ballot designs that clearly explain ranking;
+
+(2) provide voter education on the ranking system;
+
+(3) use tabulation systems certified by the Election Administration Agency;
+
+(4) complete tabulation within 14 days of election day.
+
+(g) **Ballot Integrity.** Physical ballots supporting ranked choice tabulation shall be retained for 22 months and be available for audit. Electronic tabulation systems shall produce paper audit trails showing each round of elimination.
+
+(h) **Transition.** This section takes effect for Federal elections beginning two years after ratification, allowing time for:
+
+(1) voter education campaigns;
+
+(2) ballot redesign and equipment certification;
+
+(3) tabulation system implementation;
+
+(4) training of election officials.
+
+(i) **Primary Elections.** Party primaries for Federal offices:
+
+(1) may use Ranked Choice Voting;
+
+(2) if conducted as open primaries, shall use Ranked Choice Voting;
+
+(3) shall not use FPTP for open primaries selecting candidates for Federal office.
+
+(j) **Prohibition of First-Past-the-Post.** The "winner-take-all" or "first-past-the-post" method, whereby the candidate with the most votes wins regardless of majority support, is hereby prohibited for Federal elections.
+
+---
+
+### Section 17. Ultimate Beneficiary Disclosure
+
+*[Gap 243: The "Dark Money Shell" Gap — preventing foreign influence laundering in elections]*
+
+(a) **Ultimate Beneficial Owner Defined.** For purposes of this section, "Ultimate Beneficial Owner" (UBO) means the natural person who:
+
+(1) ultimately owns or controls, directly or indirectly, 10% or more of an entity; or
+
+(2) exercises substantial control over an entity; or
+
+(3) is the source of funds that an entity contributes to election-related activity.
+
+(b) **Mandatory Disclosure.** Any entity spending money to influence Federal, Regional, or State elections shall disclose:
+
+(1) the identity of all Ultimate Beneficial Owners;
+
+(2) the original source of contributed funds traced to the natural person(s);
+
+(3) the citizenship and country of residence of each UBO;
+
+(4) certification under penalty of perjury that no UBO is a foreign national or foreign-controlled entity.
+
+(c) **Tracing Requirement.** Disclosure shall trace funds through all intermediate entities to their original source. No entity may contribute to election-related spending unless it can demonstrate:
+
+(1) knowledge of the UBO for all contributed funds; or
+
+(2) good-faith procedures to identify UBOs, with immediate return of any contribution whose UBO cannot be verified as a U.S. citizen or permanent resident.
+
+(d) **Prohibited Contributions.** The following are prohibited and subject to immediate forfeiture:
+
+(1) contributions from any entity that cannot identify its Ultimate Beneficial Owners;
+
+(2) contributions where any UBO is a foreign national;
+
+(3) contributions structured to evade beneficial ownership disclosure;
+
+(4) contributions from shell companies, opaque trusts, or intermediary structures designed to obscure the true source of funds.
+
+(e) **Entity Contribution Eligibility.** Entities may contribute to election-related activity only if:
+
+(1) registered with the Federal Election Commission or equivalent Regional authority;
+
+(2) beneficial ownership information filed and publicly available;
+
+(3) annual certification that all contributors/members are U.S. citizens or permanent residents;
+
+(4) agreement to audit upon reasonable suspicion of foreign money.
+
+(f) **Public Database.** The Federal Election Commission shall maintain a publicly searchable database of:
+
+(1) all entities contributing to election-related activity;
+
+(2) Ultimate Beneficial Owners of contributing entities;
+
+(3) contribution amounts and recipients;
+
+(4) updated within 48 hours of any contribution exceeding 100 Federal Penalty Units.
+
+(g) **Penalties.** Violations of this section shall result in:
+
+(1) forfeiture of all contributed funds;
+
+(2) civil penalties of three times the amount contributed in violation;
+
+(3) criminal liability for knowing violations, including conspiracy to evade disclosure;
+
+(4) permanent ban on election-related spending by repeat violators.
+
+(h) **Recipient Liability.** Any campaign, PAC, or political organization that knowingly accepts contributions in violation of this section:
+
+(1) shall forfeit the contribution plus matching amount to the U.S. Treasury;
+
+(2) may not deduct the contribution against contribution limits;
+
+(3) principals may be held personally liable for knowing acceptance.
+
+(i) **No Preemption of Stronger Standards.** Regional and State governments may impose stricter disclosure requirements; this section establishes only the minimum floor.
+
+(j) **501(c)(4) Reform.** Any organization exempt under 26 U.S.C. 501(c)(4) that engages in election-related activity:
+
+(1) shall comply with all disclosure requirements of this section;
+
+(2) shall separately account for election-related spending;
+
+(3) may not shield donor identity for election-related contributions under "social welfare" exemption.
+
+---
+
+### Section 18. Human Rights Exclusivity
+
+*[Gap 244: The "Frankenstein" Loophole — clarifying that constitutional rights belong to natural persons]*
+
+(a) **Natural Persons Defined.** For purposes of this Constitution, the rights of Free Speech, Religion, Conscience, Assembly, Petition, Privacy, and all other rights derived from human dignity, are the exclusive endowment of Natural Persons -- biological human beings.
+
+(b) **Corporations Are Not Persons.** Corporations, limited liability companies, partnerships, trusts, and all other artificial entities:
+
+(1) are creations of law, not nature;
+
+(2) exist by government permission, not inherent right;
+
+(3) possess only those privileges explicitly granted by statute;
+
+(4) do not possess constitutional rights designed to protect human liberty.
+
+(c) **Enumerated Corporate Privileges.** Artificial entities may exercise by statute:
+
+(1) the privilege to contract, sue, and be sued;
+
+(2) the privilege to own property and conduct business;
+
+(3) procedural due process in governmental proceedings affecting their interests;
+
+(4) equal protection against arbitrary discrimination among similarly situated entities.
+
+These are statutory privileges subject to legislative modification, not constitutional rights beyond democratic reach. No statute, ordinance, or other enactment may grant the franchise — the right to vote in any election — to artificial entities; the franchise is reserved exclusively to natural persons as defined in subsection (a).
+
+(d) **Speech Distinction.** The commercial speech of corporations:
+
+(1) is not entitled to the same constitutional protection as individual political speech;
+
+(2) may be regulated for consumer protection, market integrity, and public health;
+
+(3) may not be used to drown out the political speech of natural persons;
+
+(4) in elections may be prohibited, limited, or conditioned as Congress determines appropriate.
+
+(e) **Religious Liberty Limitation.** Corporations may not:
+
+(1) exercise religious beliefs or claim religious exemptions from law;
+
+(2) attribute the religious beliefs of owners to the corporate entity;
+
+(3) discriminate based on religious objections in commercial activity open to the public;
+
+(4) claim exemption from generally applicable laws based on owner religious belief.
+
+The religious freedom of individuals does not extend to the commercial entities they own.
+
+(f) **Political Spending.** Congress and the Regions may:
+
+(1) limit corporate spending in elections;
+
+(2) prohibit corporate contributions to candidates and parties;
+
+(3) require disclosure of corporate political spending;
+
+(4) establish public financing systems that diminish corporate influence.
+
+Such regulations are presumptively constitutional and do not violate corporate "speech rights."
+
+(g) **Privacy Limitation.** Artificial entities:
+
+(1) have no Fourth Amendment rights against reasonable regulatory inspection;
+
+(2) may not claim privacy to shield public health, safety, or environmental compliance records;
+
+(3) may be compelled to produce records and documents without Fifth Amendment privilege;
+
+(4) operate in commerce as a privilege subject to transparency conditions.
+
+(h) **Severability from Owners.** The rights of natural persons who own corporations:
+
+(1) remain fully protected as individuals;
+
+(2) do not extend to the corporate entities they create;
+
+(3) cannot be aggregated through corporate form to magnify individual rights;
+
+(4) cannot be shielded by corporate structure from personal accountability.
+
+(i) **Existing Precedent Overruled.** To the extent inconsistent with this section, the holdings of *Citizens United v. FEC*, *Burwell v. Hobby Lobby*, and all cases treating corporations as constitutional persons are hereby overruled and without force.
+
+---
+
+### Section 19. Discharge Mandate
+
+*[Gap 250: The "One-Man Veto" — preventing leadership obstruction of majority-supported legislation]*
+
+(a) **Right to a Floor Vote.** Any bill or resolution pending before the House of Representatives or the Senate shall receive a floor vote if a majority of the total membership of that chamber petition for such vote.
+
+(b) **Automatic Discharge.**
+
+(1) Upon the filing of a petition signed by a majority of the total membership of a chamber, the bill or resolution shall be automatically discharged from all committees and placed on the calendar for floor consideration.
+
+(2) The discharge shall occur within five (5) legislative days of the petition reaching majority signatures.
+
+(3) No procedural motion, rule, or leadership action may delay or prevent floor consideration of a discharged bill.
+
+(c) **Guaranteed Vote.**
+
+(1) A discharged bill shall receive a floor vote within ten (10) legislative days of discharge.
+
+(2) The vote shall be on final passage of the bill as discharged, with amendments permitted under open rule procedures.
+
+(3) No procedural motion to table, recommit, or postpone may prevent the final passage vote.
+
+(d) **Signature Protection.**
+
+(1) Members may add their signature to a discharge petition at any time.
+
+(2) Signatures may not be withdrawn after the petition reaches majority.
+
+(3) All signatures shall be public and published in the Congressional Record.
+
+(4) No member may be punished by leadership for signing a discharge petition.
+
+(e) **Committee Time Limit.**
+
+(1) Any bill referred to committee shall receive a committee vote within sixty (60) calendar days of referral.
+
+(2) If no committee vote occurs within sixty (60) days, any member may move to discharge the bill without petition.
+
+(3) Such motion shall be privileged and decided by majority vote of the full chamber.
+
+(f) **Leadership Neutrality.**
+
+(1) The Speaker of the House and Majority Leader of the Senate shall schedule all business without regard to whether bills are favored by leadership.
+
+(2) The agenda of each chamber belongs to the chamber as a whole, not to leadership.
+
+(3) Violation of scheduling duties is grounds for removal from leadership position by majority vote.
+
+(g) **Regional Application.** This section applies to all Regional legislatures with appropriate modifications for unicameral bodies.
+
+---
+
+### Section 20. Integrated Borrowing Authority
+
+*[Gap 260: The "Debt Limit" Suicide Vest — eliminating artificial default through unified fiscal authorization]*
+
+(a) **Unified Authorization.** The authorization by Congress to appropriate or obligate funds shall automatically constitute authorization to borrow the necessary funds to meet those obligations.
+
+(1) A separate vote to "increase the debt limit" or "raise the debt ceiling" is prohibited.
+
+(2) When Congress appropriates, it authorizes both spending and the borrowing necessary to execute that spending.
+
+(3) No statute may create a procedural barrier between spending authorization and borrowing authority.
+
+(b) **Principle of Fiscal Integrity.** Congress may not create obligations it refuses to fund. To spend is to commit to pay.
+
+(1) The validity of the public debt shall not be questioned, threatened, or made contingent on unrelated legislative demands.
+
+(2) No legislative procedure may be used to threaten default on existing obligations.
+
+(3) The full faith and credit of the United States is not a bargaining chip.
+
+(c) **Budget Process Integration.** The congressional budget process shall:
+
+(1) consider spending and revenue as an integrated whole;
+
+(2) explicitly address deficit implications of spending decisions at the time of authorization;
+
+(3) not permit spending authorization without acknowledgment of financing requirements.
+
+(d) **Treasury Authority.** If Congress fails to appropriate funds for existing obligations:
+
+(1) the Treasury shall have authority to borrow necessary funds to meet obligations previously authorized by Congress;
+
+(2) this authority extends only to obligations created by prior congressional action;
+
+(3) the Treasury shall report to Congress on any exercise of this authority within fifteen (15) days.
+
+(e) **Prohibition on Default Threats.** No member of Congress or executive official may:
+
+(1) threaten or advocate for default on United States obligations as a negotiating tactic;
+
+(2) condition payment of existing obligations on unrelated legislative demands;
+
+(3) use the credit of the United States as leverage for political objectives.
+
+(f) **Existing Debt Limit Abolished.** The statutory debt limit established by 31 U.S.C. 3101 and any similar provisions are hereby abolished. Borrowing authority flows automatically from spending authorization.
+
+(g) **Deficit Accountability.** To ensure fiscal responsibility without artificial crises:
+
+(1) each appropriation bill shall include an estimate of borrowing required;
+
+(2) members voting for spending implicitly vote for necessary borrowing;
+
+(3) deficit spending remains a political choice, but not a default trigger.
+
+---
+
+### Section 21. Universal Suffrage Guarantee
+
+*[Gap 262: The "Negative Right" Loophole — establishing an affirmative constitutional right to vote]*
+
+(a) **Affirmative Right to Vote.** Every citizen of the United Regions who has attained the age of eighteen years has a fundamental, affirmative right to vote in all Federal, Regional, and local elections.
+
+(1) This right is inherent in citizenship and shall not require application, petition, or government permission beyond proof of citizenship, age, and residency.
+
+(2) This right shall be protected with the same strict scrutiny applied to other fundamental constitutional rights.
+
+(b) **Prohibited Conditions.** The right to vote shall not be abridged, denied, or conditioned upon:
+
+(1) payment of any fee, fine, tax, or financial obligation;
+
+(2) possession of any specific identification document beyond reasonable proof of identity;
+
+(3) completion of any test, course, or educational requirement;
+
+(4) criminal conviction, except during actual incarceration for felony (restored automatically upon release);
+
+(5) failure to vote in previous elections;
+
+(6) residence in any particular type of housing or lack of permanent address;
+
+(7) any disability, physical or mental, that does not prevent expression of voter intent.
+
+(c) **Affirmative Facilitation.** Governments shall affirmatively facilitate the exercise of this right through:
+
+(1) automatic voter registration upon reaching voting age or obtaining citizenship;
+
+(2) same-day registration at any polling place for citizens not previously registered;
+
+(3) multiple methods of voting including in-person, absentee, and mail options;
+
+(4) sufficient polling places and hours to prevent unreasonable wait times;
+
+(5) accessible voting for citizens with disabilities.
+
+(d) **Anti-Dilution.** The right to vote includes the right to an equally weighted vote:
+
+(1) population-based apportionment for all legislative bodies;
+
+(2) prohibition on gerrymandering that dilutes the voting power of any group;
+
+(3) the principle of "one person, one vote" applies to all elections.
+
+(e) **Strict Scrutiny.** Any law that burdens the right to vote:
+
+(1) shall be subject to strict scrutiny;
+
+(2) must serve a compelling governmental interest;
+
+(3) must be narrowly tailored to achieve that interest;
+
+(4) must be the least restrictive means available.
+
+(f) **Private Right of Action.** Any citizen whose voting rights are abridged may:
+
+(1) bring suit in federal court for injunctive relief and damages;
+
+(2) recover attorney fees if successful;
+
+(3) proceed without first exhausting administrative remedies.
+
+(g) **Congressional Enforcement.** Congress shall have power to enforce this article by appropriate legislation, including:
+
+(1) minimum national standards for voter registration and ballot access;
+
+(2) oversight of Regional and local election administration;
+
+(3) penalties for official interference with voting rights.
+
+(h) **Natural Person Exclusivity.** The right to vote in any election — Federal, Regional, State, local, or for any body exercising governmental authority — is held exclusively by natural persons as defined in Section 18(a) of this Article. No Region, State, locality, or other governmental entity may grant, extend, or recognize voting rights to any entity other than a natural person, including but not limited to corporations, limited liability companies, partnerships, trusts, foundations, associations, governmental entities, artificial intelligence systems, algorithms, or automated decision-making entities. Any purported enfranchisement of a non-natural-person entity is void ab initio.
+
+(i) **Prohibition on Weighted Voting.** No election for public office, for the governing body of any entity exercising governmental authority, or any binding public referendum may weight votes by property ownership or value, tax contribution, wealth, income, corporate affiliation, employment status, or any factor other than the principle of one natural person, one equal vote. This subsection applies to all elections described in subsection (a) and to elections for special districts and other bodies described in subsection (j).
+
+(j) **Governmental Authority Bodies.** Any entity that exercises governmental authority — including taxing power, regulatory power, eminent domain, budgetary control over public funds, or the power to issue rules or determinations with binding legal effect — shall be governed exclusively by:
+
+(1) boards or officials elected by the natural person residents of the jurisdiction served; or
+
+(2) boards or officials appointed by and accountable to elected officials who are themselves chosen by natural person suffrage.
+
+No entity exercising governmental authority may be governed by corporate-weighted, property-weighted, or entity-based voting. An entity's characterization as "advisory" does not exempt it from this subsection if its determinations, recommendations, or approvals are required by law, operate as a precondition to governmental action, or are binding in practice.
+
+(k) **Void Elections and Continuity.** Any election conducted in violation of subsections (h), (i), or (j) is void ab initio. Officials seated through such elections hold no lawful authority. Upon a finding of violation, the appointing authority for the jurisdiction shall designate a caretaker pending a lawful election, which shall be held within ninety (90) days. Where no appointing authority exists, the next higher level of government shall appoint the caretaker. The remedies in subsection (f) apply, and Congress may provide additional penalties by law.
+
+---
+
+### Section 22. Right to Anonymous Transaction
+
+*[Gap 263: The "Cashless Panopticon" — protecting economic privacy and preventing programmable money control]*
+
+(a) **Right to Economic Privacy.** The right of the people to engage in lawful commercial transactions without government surveillance is a fundamental liberty protected by this Constitution.
+
+(1) No person shall be required to use a government-monitored payment system for lawful purchases.
+
+(2) No person shall be denied goods or services solely for using anonymous payment methods.
+
+(3) The government shall not condition any benefit, license, or right on use of tracked payment systems.
+
+(b) **Physical Currency Guarantee.** The government shall maintain physical currency as legal tender:
+
+(1) Physical currency (cash) shall remain available in sufficient quantities for normal commerce.
+
+(2) All businesses open to the public shall accept physical currency for transactions under $10,000.
+
+(3) No law shall prohibit, penalize, or discourage the use of physical currency for lawful transactions.
+
+(4) Physical currency shall not be redesigned to enable tracking or expiration.
+
+(c) **Prohibition on Programmable Restrictions.** Any currency or payment system operated or endorsed by the government:
+
+(1) shall not be programmed to expire, devalue, or become unusable after any time period;
+
+(2) shall not be programmed to restrict purchases of lawful goods or services;
+
+(3) shall not be programmed to limit transaction amounts except as provided by law for anti-money-laundering purposes;
+
+(4) shall not be programmed to impose geographic restrictions on use;
+
+(5) shall not be linked to social credit scores, behavior ratings, or compliance metrics.
+
+(d) **Transaction Privacy.** Government access to financial transaction records:
+
+(1) requires a warrant supported by probable cause, particularly describing the transactions to be examined;
+
+(2) shall not be obtained through bulk collection, data purchases, or third-party subpoenas without warrant;
+
+(3) shall be limited to transactions relevant to the specific investigation;
+
+(4) shall not be retained beyond the investigation's conclusion.
+
+(e) **Due Process for Account Actions.** No government entity may freeze, seize, or restrict access to any person's financial accounts:
+
+(1) without prior judicial authorization except in genuine emergency (maximum 72 hours);
+
+(2) without notice and opportunity to be heard within 14 days;
+
+(3) as punishment for speech, association, or political activity;
+
+(4) based solely on administrative determination without judicial review.
+
+(f) **Anti-Coercion.** The government shall not:
+
+(1) pressure or incentivize private businesses to deny service to cash users;
+
+(2) create systems that make cash use impractical or impossible;
+
+(3) discriminate against cash users in government services or benefits;
+
+(4) use regulatory power to force adoption of surveilled payment systems.
+
+(g) **Regional Application.** Regions shall not:
+
+(1) issue regional digital currencies with surveillance or programmable features prohibited by this section;
+
+(2) require businesses to reject cash or physical currency;
+
+(3) condition any Regional benefit on use of tracked payment systems.
+
+---
+
+### Section 23. Public Interest Defense
+
+*[Gap 264: The "Espionage Trap" — protecting whistleblowers who reveal government misconduct]*
+
+(a) **Affirmative Defense Established.** In any prosecution for unauthorized disclosure of classified or protected government information, it shall be an affirmative defense that:
+
+(1) the disclosure revealed illegal conduct by government officials or agencies;
+
+(2) the disclosure revealed gross mismanagement, waste, fraud, or abuse of authority;
+
+(3) the disclosure revealed a specific and substantial danger to public health, safety, or civil liberties;
+
+(4) the disclosure revealed information the public had a right to know in a functioning democracy.
+
+(b) **Jury Determination.** If the defendant raises the public interest defense:
+
+(1) the defendant may present evidence of the nature and significance of the information disclosed;
+
+(2) the defendant may present evidence of efforts to use internal channels before disclosure;
+
+(3) the jury shall determine whether the public interest served by disclosure outweighs any harm to national security;
+
+(4) if the jury finds the disclosure was in the public interest, the defendant shall be acquitted.
+
+(c) **Balancing Factors.** In evaluating the public interest defense, the jury may consider:
+
+(1) the seriousness of the misconduct revealed;
+
+(2) whether the information was classified to conceal illegal conduct rather than protect legitimate secrets;
+
+(3) whether the defendant made reasonable efforts to minimize harm;
+
+(4) whether the defendant sought to use internal channels first;
+
+(5) whether the information was already partially public;
+
+(6) the nature and extent of any actual harm caused by disclosure.
+
+(d) **Burden of Proof.** Once the defendant raises the public interest defense:
+
+(1) the defendant bears the initial burden of producing evidence supporting the defense;
+
+(2) the government then bears the burden of proving beyond a reasonable doubt that the disclosure was not in the public interest;
+
+(3) the government must specifically identify actual harm caused by the disclosure;
+
+(4) speculative or generalized claims of harm are insufficient.
+
+(e) **Classification Review.** In any prosecution under this section:
+
+(1) the court shall review the classification of disclosed materials;
+
+(2) if the court finds information was classified primarily to conceal illegal conduct, the classification is void;
+
+(3) over-classification to prevent accountability is itself official misconduct.
+
+(f) **Whistleblower Protection.** Any person who discloses information covered by subsection (a):
+
+(1) shall not be subjected to adverse employment action;
+
+(2) shall be protected from retaliation by any government agency;
+
+(3) may bring civil action for damages if retaliated against;
+
+(4) shall have access to security-cleared counsel.
+
+(g) **Limitations.** This section does not protect:
+
+(1) disclosure to foreign governments or their agents;
+
+(2) disclosure for personal financial gain;
+
+(3) disclosure of information identifying intelligence sources whose lives would be endangered;
+
+(4) disclosure during time of declared war to entities assisting the enemy.
+
+(h) **Retroactive Application.** This section applies to:
+
+(1) all pending prosecutions;
+
+(2) any person currently incarcerated for disclosure offenses who can establish the public interest defense;
+
+(3) sentence reduction or release shall be available upon showing.
+
+---
+
+### Section 24. Innovation Supremacy (with Emergency Valve)
+
+*[Gap 267: The "Patent Rebellion" — balancing federal intellectual property supremacy with public health emergency access]*
+
+(a) **Patent Supremacy.** Federal Intellectual Property rights, including patents, copyrights, and trademarks, are supreme and may not be abrogated, impaired, or circumvented by Regional law, regulation, or executive action.
+
+(b) **Prohibition on Regional Override.**
+
+(1) No Region may authorize the manufacture, import, sale, or use of products that infringe valid federal intellectual property rights.
+
+(2) No Region may declare its territory a "patent-free zone" or otherwise suspend federal IP protections.
+
+(3) Regional "public health" authority does not include authority to override federal patents.
+
+(c) **Federal Compulsory Licensing Authority.** Notwithstanding subsection (a), the Federal Government may authorize compulsory licensing of patented inventions when:
+
+(1) a national or regional public health emergency exists involving the patented product;
+
+(2) the patent holder has failed to make the product available at reasonable cost;
+
+(3) compulsory licensing is necessary to address the emergency;
+
+(4) alternative measures (negotiation, importation, government purchase) have been exhausted or would be inadequate.
+
+(d) **Fair Market Compensation.**
+
+(1) Compulsory licensing shall provide fair market compensation to the patent holder.
+
+(2) "Fair market compensation" shall include:
+
+- (A) recovery of research and development costs attributable to the product;
+- (B) a reasonable profit margin based on comparable products;
+- (C) ongoing royalties during the license period.
+
+(3) The Federal Trade Commission shall establish compensation formulas ensuring patent holders are not impoverished by compulsory licensing.
+
+(4) Disputes over compensation shall be resolved by the Court of Federal Claims.
+
+(e) **Emergency Determination.**
+
+(1) The President may declare a public health emergency qualifying for compulsory licensing.
+
+(2) Congress may declare such emergency by joint resolution.
+
+(3) A Region may petition the Federal Government to declare an emergency affecting that Region.
+
+(4) The declaration shall specify the products covered, the duration, and the geographic scope.
+
+(f) **Petition Process for Regions.**
+
+(1) A Region experiencing a public health crisis may petition the Department of Health and Human Services for compulsory licensing of specific products.
+
+(2) HHS shall respond within sixty (60) days with approval, denial, or alternative remedy.
+
+(3) If approved, the Federal Government shall issue the compulsory license with fair compensation.
+
+(4) If denied, the Region may appeal to the Constitutional Court.
+
+(g) **Non-Commercial Government Use.** The Federal Government may use any patented invention for government purposes without prior authorization, subject to:
+
+(1) reasonable and entire compensation to the patent holder;
+
+(2) limitation to genuine government use, not commercial distribution;
+
+(3) notification to the patent holder within a reasonable time.
+
+(h) **Private Right of Action.** Patent holders may sue Regions that violate this section for:
+
+(1) injunctive relief ordering cessation of infringing activity;
+
+(2) damages for lost sales and market disruption;
+
+(3) attorney fees and costs.
+
+(i) **International Obligations.** Compulsory licensing under this section shall comply with international obligations, including:
+
+(1) TRIPS Agreement flexibilities for public health emergencies;
+
+(2) Doha Declaration on TRIPS and Public Health;
+
+(3) applicable bilateral and multilateral agreements.
 
 ---
 

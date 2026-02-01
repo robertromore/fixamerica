@@ -17,7 +17,7 @@ This document provides a canonical mapping of all constitutional article numbers
 | III | Rights Floors and Subsidiarity | [02-powers-and-rights.md](02-powers-and-rights.md) | RF Core |
 | IV | The Legislative Branch | [03-regional-governance.md](03-regional-governance.md) | RF Core |
 | V | The Executive Branch | [03-regional-governance.md](03-regional-governance.md) | RF Core |
-| VI | *Reserved* | — | Reserved for future use; maintains numbering continuity |
+| VI | Foreign Affairs and Regional Limitations | [03-regional-governance.md](03-regional-governance.md) | RF Core |
 | VII | Elections | [single-topic/election-reform.md](../single-topic/election-reform.md) | Standalone |
 | VIII | Impeachment | [single-topic/impeachment-reform.md](../single-topic/impeachment-reform.md) | Standalone |
 | IX | Lobbying and Anti-Corruption | [single-topic/lobbying-reform.md](../single-topic/lobbying-reform.md) | Standalone |
@@ -34,6 +34,9 @@ This document provides a canonical mapping of all constitutional article numbers
 | XX | Non-State Entities | [06-supremacy.md](06-supremacy.md) | RF Core |
 | XXI | Implementation and Default Rules | [07-implementation.md](07-implementation.md) | RF Core |
 | XXII | Definitions | [07-implementation.md](07-implementation.md) | RF Core |
+| XXIII | Indigenous Sovereignty Preservation | [06-supremacy.md](06-supremacy.md) | RF Core |
+| XXIV | Union Permanence and Orderly Alteration | [06-supremacy.md](06-supremacy.md) | RF Core |
+| XXV | Federal District Independence | [06-supremacy.md](06-supremacy.md) | RF Core |
 
 ---
 
@@ -45,19 +48,23 @@ These articles are part of the Regional Federal Constitution and require Regiona
 
 | Article | Section | Content | File |
 |---------|---------|---------|------|
-| **I** | 1-14, 3-A, 4(g-1), 4(g-2) + Schedule A | Regions, boundaries, cooperation, water rights, transit, data sovereignty, environment, law enforcement, compacts, professional credentials, electoral standards enforcement, survey integrity, policy domain definition, survey dispute resolution; Schedule A defines initial Regional boundaries | [01-regional-structure.md](01-regional-structure.md) |
-| **II** | 1-10 + 1(e), 3-A, 4-A, 6-A | Federal/Regional/State powers, domain classification, rights floor enforcement constraints, concurrent authority framework, dispute reduction, exclusive domains, equivalence exemptions, infrastructure prioritization transparency, ARB | [02-powers-and-rights.md](02-powers-and-rights.md) |
-| **III** | 1-3 | Floors not ceilings, subsidiarity, hierarchy of law | [02-powers-and-rights.md](02-powers-and-rights.md) |
-| **IV** | 1-5 | Congress, House, Senate, lawmaking | [03-regional-governance.md](03-regional-governance.md) |
+| **I** | 1-24, 3-A, 4(g-1), 4(g-2) + Schedule A | Regions, boundaries, cooperation, water rights, transit, data sovereignty, environment, law enforcement, compacts, professional credentials, electoral standards enforcement, survey integrity, appropriations integrity, ranked choice elections, beneficiary disclosure, human rights exclusivity, discharge mandate, integrated borrowing, universal suffrage, anonymous transaction, public interest defense, innovation supremacy; Schedule A defines initial Regional boundaries | [01-regional-structure.md](01-regional-structure.md) |
+| **II** | 1-18 + 1(e), 3-A, 4-A, 6-A | Federal/Regional/State powers, domain classification, rights floor enforcement constraints, concurrent authority framework, dispute reduction, exclusive domains, equivalence exemptions, infrastructure prioritization transparency, ARB, merit system protection, transition integrity, faithful execution, executive privilege reform, fiduciary duty of candor, watchdog independence, national necessity easement, prohibition on secret law (publication mandate, law/operations distinction, surveillance court transparency, memorialization requirement, executive privilege coordination, Glomar prohibition, 5-year sunset backstop) | [02-powers-and-rights.md](02-powers-and-rights.md) |
+| **III** | 1-4 | Floors not ceilings, subsidiarity, hierarchy of law, unwaivable core (contractual rights waiver prohibition, forced arbitration ban, class action preservation, adhesion contract scrutiny, employment protection, digital contract requirements) | [02-powers-and-rights.md](02-powers-and-rights.md) |
+| **IV** | 1-10, 4-B, 5-A | Congress, House, Senate, mandatory confirmation procedures (deemed confirmation, self-executing deadlines, nominee-side tolling, removal safety valve, anti-gaming, recess appointment reform), lawmaking, deliberation mandate (single-subject requirement, publication/readability requirements, conference committee resets, waiver limitations, discharge mandate coordination), acquisition shield, conviction prerequisite, extradition shield, digital papers protection | [03-regional-governance.md](03-regional-governance.md) |
 | **V** | 1-2 | Presidency, executive authority | [03-regional-governance.md](03-regional-governance.md) |
-| **X** | 1-11, 3-A | Revenue, equalization, anti-coercion, IFC, debt discipline, conservatorship, receivership, stabilization, intervention hierarchy, subsidiarity | [04-fiscal-system.md](04-fiscal-system.md) |
-| **XII** | 1-3 | Secession prohibition, nullification, de-escalation | [05-safeguards.md](05-safeguards.md) |
-| **XIII** | 1-7 | Amendment procedures, referendum immunity | [05-safeguards.md](05-safeguards.md) |
-| **XVIII** | 1-3 | Supremacy, floors not ceilings, interpretive conventions | [06-supremacy.md](06-supremacy.md) |
+| **VI** | 4 | Foreign affairs, one voice doctrine | [03-regional-governance.md](03-regional-governance.md) |
+| **X** | 1-20, 3-A | Revenue, equalization, tax effort and anti-haven standards, non-coercion standard, IFC, debt discipline, conservatorship, receivership, stabilization, intervention hierarchy, subsidiarity, forensic audit authority, independent statistical trust, full funding requirement, automatic continuing resolution (including unauthorized military operations exclusion), actuarial honesty and pension discipline | [04-fiscal-system.md](04-fiscal-system.md) |
+| **XII** | 1-4 | Secession prohibition, nullification, de-escalation, coordinated threat response | [05-safeguards.md](05-safeguards.md) |
+| **XIII** | 1-10 | Amendment procedures, referendum immunity, popular ratification bypass, convention scope limitation, eternity clause | [05-safeguards.md](05-safeguards.md) |
+| **XVIII** | 1-5 | Supremacy, floors not ceilings, interpretive conventions, interpretive decoupling, presumption of subsidiarity | [06-supremacy.md](06-supremacy.md) |
 | **XIX** | 1-3 | Ratification, transition, activation | [06-supremacy.md](06-supremacy.md) |
 | **XX** | 1-3 | D.C., territories, tribal nations | [06-supremacy.md](06-supremacy.md) |
-| **XXI** | 1-4 | Congressional implementation, default rules, partial adoption safeguards | [07-implementation.md](07-implementation.md) |
+| **XXI** | 1-5 | Congressional implementation, default rules, partial adoption safeguards, data continuity during transition | [07-implementation.md](07-implementation.md) |
 | **XXII** | 1-6 | Definitions | [07-implementation.md](07-implementation.md) |
+| **XXIII** | 1-7 | Indigenous sovereignty preservation, treaty sovereignty | [06-supremacy.md](06-supremacy.md) |
+| **XXIV** | 1-7 | Union permanence, orderly alteration, secession prohibition | [06-supremacy.md](06-supremacy.md) |
+| **XXV** | 1-8 | Federal district independence, self-governance | [06-supremacy.md](06-supremacy.md) |
 
 ### Standalone Amendment Articles (in single-topic/)
 
@@ -66,7 +73,7 @@ These articles are standalone constitutional amendments that work with OR withou
 | Article | Topic | Location | RF Supplement? |
 |---------|-------|----------|----------------|
 | **VII** | Elections | [single-topic/election-reform.md](../single-topic/election-reform.md) | No—works same with States or Regions |
-| **VIII** | Impeachment | [single-topic/impeachment-reform.md](../single-topic/impeachment-reform.md) | No |
+| **VIII** | Impeachment, Pardon Reform | [single-topic/impeachment-reform.md](../single-topic/impeachment-reform.md) | No |
 | **IX** | Lobbying/Anti-Corruption | [single-topic/lobbying-reform.md](../single-topic/lobbying-reform.md) | No |
 | **XI** | Armed Forces | [single-topic/military-civilian-control.md](../single-topic/military-civilian-control.md) | Yes: [10-armed-forces.md](10-armed-forces.md) |
 | **XIV** | Judicial Reform | [single-topic/judicial-reform.md](../single-topic/judicial-reform.md) | Yes: [09-judiciary.md](09-judiciary.md) |
@@ -80,9 +87,16 @@ These files contain ONLY the region-dependent provisions. They supplement the st
 
 | RF Supplement | Article Designation | Requires | File |
 |---------------|---------------------|----------|------|
+| Criminal Justice Reform | III-RF | RF Core Constitution | [09-judiciary.md](09-judiciary.md) |
 | Regional Courts | XIV-RF | Judicial Reform Amendment | [09-judiciary.md](09-judiciary.md) |
 | Regional Guard Forces | XI-RF | Military Civilian Control Amendment | [10-armed-forces.md](10-armed-forces.md) |
+| Congressional Key Override Operations | XI-RF §2(m-q) | Military Civilian Control Amendment | [10-armed-forces.md](10-armed-forces.md) |
+| Regional Force Classification | XI-RF §1(c) | Military Civilian Control Amendment | [10-armed-forces.md](10-armed-forces.md) |
+| Subnational Force Registry | XI-RF §3(h) | Military Civilian Control Amendment | [10-armed-forces.md](10-armed-forces.md) |
+| Militia Affiliation Prohibition | XI-RF §4(f)(4) | Military Civilian Control Amendment | [10-armed-forces.md](10-armed-forces.md) |
+| Civilian Court Supremacy | III-RF §12 | RF Core Constitution | [09-judiciary.md](09-judiciary.md) |
 | Regional Emergency Powers | XVII-RF | Emergency Powers Reform Amendment | [11-emergency-powers.md](11-emergency-powers.md) |
+| Regional Bio-Security Cooperation | XVII-RF §4 | Emergency Powers Reform Amendment | [11-emergency-powers.md](11-emergency-powers.md) |
 
 ---
 
@@ -104,8 +118,21 @@ Article II, Section 4-A (Dispute Reduction and Litigation Management)
 Article II, Section 5 (Allocation Review Board)
 Article II, Section 6-A (Infrastructure Prioritization Transparency)
 Article X, Section 4 (Anti-Coercion Rule)
+Article X, Section 19(i) (Unauthorized Military Operations Exclusion from Auto-CR)
 Article XXI, Section 4 (Partial Adoption Safeguards)
 Article XX, Section 1 (District of Columbia)
+Article XXI, Section 5 (Data Continuity During Transition)
+Article XXIII (Indigenous Sovereignty Preservation)
+Article XXIV (Union Permanence)
+Article XXV (Federal District Independence)
+Article I, Section 18(c) (Franchise Exclusion for Artificial Entities)
+Article I, Section 21(h)-(k) (Natural Person Voting Exclusivity, Weighted Voting Prohibition, Governmental Authority Bodies, Void Elections)
+Article XVIII, Section 4 (Interpretive Decoupling)
+Article XVIII, Section 5 (Presumption of Subsidiarity)
+Article III, Section 4 (The Unwaivable Core)
+Article IV, Section 4-B (Mandatory Confirmation Procedures: deemed confirmation, self-executing deadlines, nominee-side tolling, removal safety valve, anti-gaming, recess appointment reform)
+Article IV, Section 5-A (The Deliberation Mandate)
+Article II, Section 18 (Prohibition on Secret Law: publication mandate, law/operations distinction, surveillance court transparency, memorialization requirement, executive privilege coordination, Glomar prohibition, 5-year sunset backstop)
 ```
 
 Link to the appropriate file in this directory.
@@ -116,9 +143,28 @@ For standalone amendments, cite the article but link to the standalone plan:
 
 ```
 Article VII (Elections) — see single-topic/election-reform.md
+Article VII, Section 1(d) (Natural Person Franchise Exclusivity) — see single-topic/election-reform.md
+Article VII, Section 7(m)-(o) (Certification Integrity: Ministerial Duty, Alternate Slate Prohibition, Subversion Penalties) — see single-topic/election-reform.md
+Article VII, Section 10 (Independent Redistricting: IRC Mandate, Composition, Criteria, District Magnitude, Approval/Transparency, Judicial Review, Timing, Incarcerated Persons, Federal Backup) — see single-topic/election-reform.md
 Article XIV (Judicial Reform) — see single-topic/judicial-reform.md
 Article XIV, Section 15 (Separation of Adjudication / ALJ Independence) — see single-topic/judicial-reform.md
+Article XIV, Section 16 (Injunctive Relief Scope and Anti-Forum Shopping) — see single-topic/judicial-reform.md
+Article XI (Armed Forces and Civilian Control) — see single-topic/military-civilian-control.md
+Article XI, Section 2(b)(3) (Treaty Obligation Exception) — see single-topic/military-civilian-control.md
+Article XI, Section 2(g) (Mandatory Reauthorization and Sunset) — see single-topic/military-civilian-control.md
+Article XI, Section 2(h) (Definition of Hostilities) — see single-topic/military-civilian-control.md
+Article XI, Section 2(i) (Legacy Authorization Transition) — see single-topic/military-civilian-control.md
+Article XI, Section 2(j) (Withdrawal Funding) — see single-topic/military-civilian-control.md
+Article XI, Section 2(k) (War Powers Enforcement) — see single-topic/military-civilian-control.md
+Article XI, Section 7(e) (Unauthorized Operations Funding Prohibition) — see single-topic/military-civilian-control.md
 Article XVII (Emergency Powers) — see single-topic/emergency-powers-reform.md
+Article XVII, Section 4(e) (Absolute Duration Limit) — see single-topic/emergency-powers-reform.md
+Article XVII, Section 4(f) (Nexus Re-demonstration and Recorded Vote) — see single-topic/emergency-powers-reform.md
+Article XVII, Section 11 (Bio-Security Emergency Escalation) — see single-topic/emergency-powers-reform.md
+Article XVII, Section 12 (Serial Emergency Prevention) — see single-topic/emergency-powers-reform.md
+Article XVII, Section 13 (Legacy Emergency Transition) — see single-topic/emergency-powers-reform.md
+Article VIII, Section 9 (Pardon Power Limitations: self-clemency prohibition, restricted clemency, witness presumption, same-administration restriction, lame-duck review, disclosure mandate, retroactive voidability, conspiracy to evade) — see single-topic/impeachment-reform.md
+Article IX, Section 3-A (Post-Service Economic Restrictions: tiered cooling-off, covered entities, family members, entity-side obligations, anti-circumvention) — see single-topic/lobbying-reform.md
 ```
 
 **Do NOT link these to `constitution/00-index.md`** — they are not in this directory.
@@ -129,8 +175,22 @@ For region-dependent supplements, use the "-RF" designation:
 
 ```
 Article XIV-RF, Section 2 (Specialized Courts) — see 09-judiciary.md
+Article III-RF, Section 6 (Trial Penalty Prohibition) — see 09-judiciary.md
+Article III-RF, Section 12 (Civilian Court Supremacy) — see 09-judiciary.md
 Article XIV-RF, Section 4 (Provisional Relief and Remedy Preservation) — see 09-judiciary.md
+Article XIV-RF, Section 5 (Standing to Enforce the Constitution) — see 09-judiciary.md
+Article XIV-RF, Section 5(i) (Regional Standing) — see 09-judiciary.md
 Article XI-RF, Section 2 (Regional Guard Forces) — see 10-armed-forces.md
+Article XI-RF, Section 2(m) (Command Authority During Congressional Key Override) — see 10-armed-forces.md
+Article XI-RF, Section 2(n) (Insurrection Certification Standards) — see 10-armed-forces.md
+Article XI-RF, Section 2(o) (Certification Effect on Presidential Action) — see 10-armed-forces.md
+Article XI-RF, Section 2(p) (Post-Certification Regional Bypass Scope) — see 10-armed-forces.md
+Article XI-RF, Section 2(q) (Post-Incident Review) — see 10-armed-forces.md
+Article XI-RF, Section 1(c) (Regional Force Classification) — see 10-armed-forces.md
+Article XI-RF, Section 3(h) (Subnational Force Registry and Inspection) — see 10-armed-forces.md
+Article XI-RF, Section 4 (Monopoly on Force) — see 10-armed-forces.md
+Article XI-RF, Section 4(f)(4) (Militia Affiliation Prohibition) — see 10-armed-forces.md
+Article XVII-RF, Section 4 (Regional Bio-Security Cooperation) — see 11-emergency-powers.md
 ```
 
 ### Citing Proposed Additions
@@ -138,7 +198,7 @@ Article XI-RF, Section 2 (Regional Guard Forces) — see 10-armed-forces.md
 For provisions not yet incorporated into the Constitution, cite the proposal:
 
 ```
-DLRS (proposed Article III, Section 4) — see proposals/01-foundations/dual-legitimacy-rights-floor-statute.md
+DLRS (proposed Article III, Section 5) — see proposals/01-foundations/dual-legitimacy-rights-floor-statute.md
 Senate Safeguard Concurrence (proposed Article IV, Section 4-A) — see proposals/01-foundations/senate-safeguard-concurrence-act.md
 ```
 

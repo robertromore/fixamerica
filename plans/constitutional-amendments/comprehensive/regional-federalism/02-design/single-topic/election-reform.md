@@ -16,6 +16,8 @@ This standalone constitutional amendment reforms the federal electoral system to
 
 (c) No State or Region shall impose voter identification requirements that create an undue burden on the right to vote.
 
+(d) The right to vote in any election conducted under this Constitution is held exclusively by natural persons who are citizens of the United States. No State or Region may grant, extend, or recognize voting rights to corporations, artificial entities, or automated systems, or weight votes by property, tax contribution, or wealth. Elections in which non-natural-person entities vote or votes are so weighted are void.
+
 ### Section 2. Electoral System
 
 (a) The President and Vice President shall be elected by national popular vote using ranked-choice voting.
@@ -30,7 +32,7 @@ This standalone constitutional amendment reforms the federal electoral system to
 
 (b) Members of the Senate shall be elected by ranked-choice voting within each State or Region.
 
-(c) Congressional redistricting shall be conducted by independent commissions as provided by the Independent Redistricting Commission Act.
+(c) Congressional redistricting shall be conducted by independent redistricting commissions as provided by Section 10 of this Article and the Independent Redistricting Commission Act.
 
 ### Section 4. Independent Election Commission
 
@@ -175,6 +177,20 @@ This standalone constitutional amendment reforms the federal electoral system to
 
 (3) The National Certification Board shall proceed with tabulation.
 
+#### Certification Integrity
+
+(m) **Ministerial Nature of Certification.** The certification of election results by any State, Regional, or federal official is a ministerial duty, not a discretionary legislative or executive act. No legislature may direct, override, or substitute its judgment for the certification processes established in this section. Officials shall execute one of the options in subsection (a) within the timeframe established therein. If no option is executed within the constitutional timeframe, the results of the official canvass shall be deemed certified under subsection (a)(1) by operation of law.
+
+(n) **Prohibition on Alternate Certifications.** No legislature, executive, political party, or other person or body may submit, recognize, or act upon any certification of election results other than the single certification issued pursuant to the processes in this section. Any purported alternate certification is void ab initio and of no legal force or effect.
+
+(o) **Penalties for Certification Subversion.** Any official who knowingly refuses to perform the ministerial duties established in this section, or who submits, certifies, or endorses an alternate certification in violation of subsection (n):
+
+(1) shall be immediately removed from office;
+
+(2) shall be permanently barred from holding any office of profit or trust under the United States or any State or Region thereof; and
+
+(3) shall be subject to such criminal penalties as Congress shall provide by law, which shall include penalties classified as felonies.
+
 ### Section 8. Caretaker Governance
 
 #### Disqualified Caretaker Rule
@@ -228,6 +244,117 @@ This standalone constitutional amendment reforms the federal electoral system to
 - (ii) The Caretaker shall continue with minimal authority until the special election concludes;
 - (iii) The special election winner takes office immediately upon certification.
 
+### Section 9. Algorithmic Transparency
+
+*[This section establishes transparency requirements for algorithmic systems used to administer rights-affecting governmental functions. See Gap 144.]*
+
+(a) **Algorithmic Transparency Floor.**
+
+(1) Any automated system used by a Region or State to administer functions related to Federal Rights Floors or National Frameworks must be "Open-Audit" compliant;
+
+(2) "Open-Audit" compliance means the ARB or authorized federal agencies may inspect:
+
+- (i) Source code and decision logic;
+- (ii) Training data and model parameters;
+- (iii) Input variables and weighting factors;
+- (iv) Output logs and decision records;
+
+(3) Inspection authority activates upon a finding of probable cause of rights violation;
+
+(4) No trade secret, proprietary data, or intellectual property claim may be asserted against federal audit authority.
+
+(b) **Vendor Accountability.**
+
+(1) Regions may not contract for algorithmic systems unless the vendor agrees to federal audit compliance;
+
+(2) Vendor contracts must include audit access clauses as a condition of use in rights-affecting functions;
+
+(3) Regions are liable for vendor non-compliance as if the Region itself refused access;
+
+(4) Vendors who obstruct federal audits are barred from government contracts nationwide for five years.
+
+(c) **Decision Explainability.**
+
+(1) Algorithmic systems affecting individual rights must be capable of providing human-understandable explanations for specific decisions;
+
+(2) "Black box" systems that cannot explain individual decisions are prohibited for rights-affecting functions;
+
+(3) Regions must maintain audit trails sufficient to reconstruct the basis for any algorithmic decision;
+
+(4) Individuals denied benefits or rights by algorithmic systems have a right to human review and explanation.
+
+(d) **Algorithmic Discrimination Finding.**
+
+(1) Upon federal finding that an algorithmic system violates Rights Floors, the Region must immediately suspend the system;
+
+(2) All decisions made by the discriminatory system are subject to retroactive review;
+
+(3) Affected individuals are entitled to remediation and compensation;
+
+(4) Regions that deploy discriminatory algorithms face automatic three-year enhanced monitoring of all automated systems.
+
+---
+
+### Section 10. Independent Redistricting
+
+(a) **Independent Redistricting Commission Mandate.** Each Region shall establish an Independent Redistricting Commission (IRC) to draw boundaries for federal House of Representatives districts and Regional legislative districts. No Regional legislature, governor, or executive official shall have authority to draw, approve, or modify redistricting plans for districts covered by this section. Any redistricting plan adopted by a body other than an IRC established under this section is void.
+
+(b) **Commission Composition.** Each IRC shall consist of not fewer than seven (7) and not more than fifteen (15) members, comprising:
+
+(1) an equal number of members affiliated with each qualifying political party — defined as any party that received at least five percent (5%) of the total vote in the most recent federal or Regional general election within the jurisdiction — up to the four parties receiving the highest vote share; if fewer than two parties qualify, the unaffiliated category shall comprise at least two-thirds of the commission;
+
+(2) an equal number of members not affiliated with any qualifying political party.
+
+Commissioners shall be selected through a process that includes random selection from qualified applicant pools, with opposing parties permitted limited strikes. No person who has served as an elected official, registered lobbyist, or party officer within the preceding five (5) years may serve as a commissioner. Congress shall provide by law additional qualification, conflict-of-interest, and selection procedures.
+
+(c) **Redistricting Criteria.** IRCs shall draw districts according to the following criteria, in order of priority:
+
+(1) equal population within constitutionally permissible deviation;
+
+(2) compliance with voting rights protections, including prohibition on dilution of racial or language minority voting strength;
+
+(3) consistency of district magnitude — multi-member districts within the same jurisdiction shall not vary in the number of seats per district by more than two, unless required by population equality or geographic constraints and approved by the National Election Court upon a public finding that no compliant alternative is practicable;
+
+(4) geographic contiguity;
+
+(5) geographic compactness;
+
+(6) preservation of political subdivisions and communities of interest where feasible;
+
+(7) partisan fairness — the overall plan shall produce seat distributions reasonably reflecting vote distributions, as measured by metrics appropriate to the electoral system in use, designated by the National Election Court.
+
+No district shall be drawn with the intent or predictable effect of favoring or disfavoring any political party, candidate, or incumbent. No district shall vary in magnitude for the purpose of manipulating the effective representation threshold.
+
+(d) **District Magnitude.** Each multi-member district for the House of Representatives shall elect not fewer than three (3) and not more than seven (7) members. Congress may adjust the maximum within this range but may not reduce the minimum below three.
+
+(e) **Approval and Transparency.** Redistricting plans shall be approved by a supermajority of the IRC — at least sixty percent (60%) of members, including at least one member from each qualifying party category and at least one unaffiliated member. If no plan achieves supermajority after three attempts, a plan may be adopted by simple majority, subject to automatic judicial review for compliance with subsection (c).
+
+All IRC proceedings shall be open to the public. The IRC shall conduct public hearings in each geographic area of the jurisdiction before adopting a plan, shall use publicly available mapping data and software, and shall publish all deliberation records. No private communications between commissioners and elected officials, party representatives, or lobbyists shall occur during the redistricting process. Communications with non-partisan technical staff — including census officials, geographic information system specialists, and demographers — are permitted if recorded and published as part of the IRC's deliberation record.
+
+(f) **Judicial Review.** Any citizen residing in the jurisdiction may challenge a redistricting plan within sixty (60) days of adoption. Courts shall apply de novo review to claims of non-compliance with subsection (c) criteria and shall order plans redrawn if they fail to comply. The burden is on the IRC to demonstrate compliance with partisan fairness and magnitude consistency requirements through quantitative evidence using metrics designated by the National Election Court. If the IRC fails to produce a compliant plan within the timeframe required by law, the National Election Court may adopt a backup plan.
+
+(g) **Timing.** Redistricting shall occur only:
+
+(1) following each decennial federal census;
+
+(2) if ordered by a court or by the National Election Court pursuant to a compliance review under Article I, Section 3-A or this section;
+
+(3) if required by a change in the number of districts allocated to the jurisdiction.
+
+Mid-decade redistricting for partisan advantage is prohibited. Any redistricting conducted outside the circumstances enumerated in this subsection is void.
+
+(h) **Incarcerated Persons.** For redistricting purposes, incarcerated persons shall be counted at their last known residence prior to incarceration, not at the location of the correctional facility.
+
+(i) **Federal Backup.** If a Region fails to establish a compliant IRC, or if an IRC fails to adopt a redistricting plan by the deadline established by law:
+
+(1) the Independent Election Commission shall appoint a special master to draw the jurisdiction's districts;
+
+(2) the special master shall apply the criteria in subsection (c);
+
+(3) plans adopted by a special master are subject to the same judicial review as IRC plans;
+
+(4) the National Election Court retains jurisdiction over compliance challenges to special master plans.
+
 ---
 
 ## Implementation Notes
@@ -236,7 +363,9 @@ This amendment requires implementing legislation including:
 
 - [Elections Implementation Act](../../../05-implementation/05-elections-implementation-act.md)
 - [Independent Election Commission Act](../../../proposals/02-elections-democracy/independent-election-commission-act.md)
-- [Independent Redistricting Commission Act](../../../proposals/02-elections-democracy/independent-redistricting-commission-act.md)
+- [Independent Redistricting Commission Act](../../../proposals/02-elections-democracy/independent-redistricting-commission-act.md) (commission qualification standards, applicant pool procedures, conflict-of-interest rules, census data formatting, mapping software standards, timeline requirements)
+- Election Certification Integrity Act (certification subversion penalties, felony classifications, enforcement procedures)
+- Natural Person Franchise Protection Act (special district governance compliance standards, void election procedures, caretaker appointment rules)
 
 ---
 

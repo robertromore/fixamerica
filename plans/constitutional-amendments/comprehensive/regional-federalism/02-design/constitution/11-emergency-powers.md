@@ -83,6 +83,42 @@ The Emergency Powers Reform Amendment works with either the existing federal/sta
 
 ---
 
+### Section 4. Regional Bio-Security Cooperation
+
+*Resolves Gap 206 — The "Petri Dish" (Bio-Security Anarchy). Supplements the Bio-Security Emergency Escalation provisions in Article XVII, Section 11 with Regional-specific cooperation requirements and enforcement mechanisms.*
+
+(a) **Regional Governor Cooperation Duty.** During a Bio-Security Emergency declared under Article XVII, Section 11:
+
+- (1) Regional Governors shall implement federally mandated communicable disease response measures within their Regions without delay;
+- (2) Regional Governors shall designate a Regional Public Health Liaison to coordinate with the federal emergency response authority;
+- (3) Regional Governors may not invoke Regional concurrent authority over public health to refuse, delay, or undermine federally mandated bio-security measures.
+
+(b) **Regional Data Infrastructure.** Each Region shall maintain public health surveillance and reporting systems capable of:
+
+- (1) real-time transmission of epidemiological data to federal authorities as required by Article XVII, Section 11(c);
+- (2) standardized case reporting compatible with federal data systems;
+- (3) genomic sequencing capacity or access through interstate compact;
+- (4) interoperability with neighboring Regions' public health surveillance systems.
+
+Failure to maintain such capacity does not excuse non-compliance with data-sharing mandates.
+
+(c) **Regional Guard for Bio-Security — Last Resort.** Regional Guard Forces may be deployed to support bio-security enforcement within a Region only:
+
+- (1) after civilian enforcement measures under Article XVII, Section 11(d)(1)-(4) have been exhausted or are demonstrably insufficient;
+- (2) pursuant to Two-Key authorization under Article XI-RF, Section 2, with the Emergency Response Acceleration provisions of Section 2(h) applicable;
+- (3) under the operational direction of civilian public health authorities, not military command;
+- (4) for logistical support, facility security, and distribution operations — not for enforcement of public health orders against individual civilians.
+
+(d) **Federal Supersession.** During a Bio-Security Emergency, Article XVII, Section 11(b) supersedes Regional concurrent authority over communicable disease response. Section 3(a) of this article (federal emergencies supersede conflicting Regional emergencies) applies with full force to Bio-Security Emergencies.
+
+(e) **Post-Emergency Restoration.** Upon termination of a Bio-Security Emergency:
+
+- (1) Regional concurrent authority over public health is fully restored;
+- (2) any federal measures imposed under Article XVII, Section 11 that Regions wish to continue may be adopted as Regional law through normal legislative process;
+- (3) the Allocation Review Board shall publish a post-emergency assessment of each Region's compliance, data-sharing performance, and public health outcomes within one hundred eighty (180) days.
+
+---
+
 ## Design Rationale
 
 ### Why Regional Emergency Authority?
@@ -122,6 +158,7 @@ This Regional Emergency Authority article adds:
 - Regional Governor declaration authority
 - Regional legislature reauthorization
 - Coordination rules between Regional and federal emergencies
+- Regional bio-security cooperation requirements (Section 4)
 
 ---
 

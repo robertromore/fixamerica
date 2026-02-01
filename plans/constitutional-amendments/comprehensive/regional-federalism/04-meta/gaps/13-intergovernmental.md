@@ -6509,7 +6509,7 @@ Add to Article I-RF, Section 9 — Standard of Administration:
 ## Gap 240 — The "Legal Kidnapping" (Extradition Abuse Across Regions)
 
 **Identified:** 2026-01-26
-**Severity:** Critical | **Status:** PROPOSAL AVAILABLE
+**Severity:** Critical | **Status:** ✅ RESOLVED
 
 ### Problem Statement
 
@@ -6692,9 +6692,9 @@ The Extradition Shield ensures that modern policy disputes don't recreate this d
 **Dependencies:** Coordinates with Gap 191 (professional licensing) and Gap 199 (family law) for complete protection of cross-Regional activity
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article IV-RF, Section 5.
+✅ **RESOLVED.** Constitutional text verified in Article IV, Section 9 (The Extradition Shield). See `02-design/constitution/03-regional-governance.md`. Limits criminal jurisdiction to territorial boundaries, dual-criminality requirement, protects right to travel. Verified 2026-01-31.
 
-**Severity:** Critical | **Mitigability:** Preventable
+**Severity:** Critical | **Mitigability:** Addressed | **Resolved:** 2026-01-31
 
 ---
 
@@ -6703,7 +6703,7 @@ The Extradition Shield ensures that modern policy disputes don't recreate this d
 **Identified**: 2026-01-26
 **Category**: Intergovernmental Relations / Tribal Sovereignty
 **Criticality**: 🔴 **CRITICAL**
-**Status**: UNRESOLVED
+**Status**: ✅ RESOLVED
 
 ### Problem Statement
 
@@ -6930,9 +6930,9 @@ The Constitution establishes a binary between "Federal" and "Regional" power. Bu
 ---
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend new constitutional Article XVII for Indigenous Sovereignty Preservation.
+✅ **RESOLVED.** Constitutional text verified in Article XXIII (Indigenous Sovereignty Preservation). See `02-design/constitution/06-supremacy.md`. Treaty sovereignty clause, consent requirement, cultural protection, self-determination. Verified 2026-01-31.
 
-**Severity:** Critical | **Mitigability:** Requires Constitutional Amendment
+**Severity:** Critical | **Mitigability:** Addressed | **Resolved:** 2026-01-31
 
 ---
 
@@ -6941,7 +6941,7 @@ The Constitution establishes a binary between "Federal" and "Regional" power. Bu
 **Identified**: 2026-01-26
 **Category**: Intergovernmental Relations / Constitutional Structure
 **Criticality**: 🔴 **CRITICAL**
-**Status**: UNRESOLVED
+**Status**: ✅ RESOLVED
 
 ### Problem Statement
 
@@ -7177,9 +7177,9 @@ This framework combines:
 ---
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend new constitutional Article XVIII for Union Permanence and Orderly Alteration.
+✅ **RESOLVED.** Constitutional text verified in Article XXIV (Union Permanence and Orderly Alteration). See `02-design/constitution/06-supremacy.md`. Secession prohibition with escape valve through constitutional alteration process. Verified 2026-01-31.
 
-**Severity:** Critical | **Mitigability:** Requires Constitutional Amendment
+**Severity:** Critical | **Mitigability:** Addressed | **Resolved:** 2026-01-31
 
 ---
 
@@ -7188,7 +7188,7 @@ This framework combines:
 **Identified**: 2026-01-26
 **Category**: Intergovernmental Relations / Federal Structure
 **Criticality**: 🔴 **CRITICAL**
-**Status**: UNRESOLVED
+**Status**: ✅ RESOLVED
 
 ### Problem Statement
 
@@ -7436,9 +7436,9 @@ Partial measures fail because:
 ---
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend new constitutional Article XIX for Federal District Independence.
+✅ **RESOLVED.** Constitutional text verified in Article XXV (Federal District Independence). See `02-design/constitution/06-supremacy.md`. Federal district governance, budget independence, self-governance rights. Verified 2026-01-31.
 
-**Severity:** Critical | **Mitigability:** Requires Constitutional Amendment
+**Severity:** Critical | **Mitigability:** Addressed | **Resolved:** 2026-01-31
 
 ---
 
@@ -7447,7 +7447,7 @@ Partial measures fail because:
 **Identified**: 2026-01-26
 **Category**: Intergovernmental Relations / Federal-Regional Conflict
 **Criticality**: 🔴 **CRITICAL**
-**Status**: UNRESOLVED
+**Status**: ✅ RESOLVED
 
 ### Problem Statement
 
@@ -7662,9 +7662,9 @@ Without clear supremacy, Regions can demand:
 ---
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article II-RF, Section 15.
+✅ **RESOLVED.** Constitutional text verified in Article II, Section 17 (National Necessity Easement). See `02-design/constitution/02-powers-and-rights.md`. Federal eminent domain for critical infrastructure with just compensation and environmental review. Verified 2026-01-31.
 
-**Severity:** Critical | **Mitigability:** Requires Constitutional Amendment
+**Severity:** Critical | **Mitigability:** Addressed | **Resolved:** 2026-01-31
 
 ---
 
@@ -7673,7 +7673,7 @@ Without clear supremacy, Regions can demand:
 **Identified**: 2026-01-26
 **Category**: Intergovernmental Relations / Foreign Affairs
 **Criticality**: 🔴 **CRITICAL**
-**Status**: UNRESOLVED
+**Status**: ✅ RESOLVED
 
 ### Problem Statement
 
@@ -7892,9 +7892,9 @@ The Constitution forbids Regions from entering "Treaties" with foreign powers. B
 ---
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article VI-RF, Section 4.
+✅ **RESOLVED.** Constitutional text verified in Article VI, Section 4 (The One Voice Doctrine). See `02-design/constitution/03-regional-governance.md`. Exclusive federal authority over foreign relations, prohibits Regional foreign policy arrangements. Verified 2026-01-31.
 
-**Severity:** Critical | **Mitigability:** Requires Constitutional Amendment
+**Severity:** Critical | **Mitigability:** Addressed | **Resolved:** 2026-01-31
 
 ---
 
@@ -7903,7 +7903,7 @@ The Constitution forbids Regions from entering "Treaties" with foreign powers. B
 **Identified**: 2026-01-26
 **Category**: Intergovernmental Relations / Intellectual Property
 **Criticality**: 🔴 **CRITICAL**
-**Status**: UNRESOLVED
+**Status**: ✅ RESOLVED
 
 ### Problem Statement
 
@@ -8135,9 +8135,9 @@ The Constitution grants the Federal Government exclusive authority over "Intelle
 ---
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article I-RF, Section 19.
+✅ **RESOLVED.** Constitutional text verified in Article I, Section 24 (Innovation Supremacy). See `02-design/constitution/01-regional-structure.md`. Federal IP supremacy, compulsory licensing for emergencies with fair compensation. Verified 2026-01-31.
 
-**Severity:** Critical | **Mitigability:** Requires Constitutional Amendment
+**Severity:** Critical | **Mitigability:** Addressed | **Resolved:** 2026-01-31
 
 ---
 
@@ -8655,7 +8655,7 @@ Regions control infrastructure sequencing within their territory—the order in 
 **Identified**: 2026-01-28
 **Category**: Intergovernmental / Data Integrity
 **Criticality**: 🟡 HIGH
-**Status**: PROPOSAL AVAILABLE
+**Status**: ✅ RESOLVED
 
 ### Problem Statement
 
@@ -8786,9 +8786,9 @@ Replace current subsection (3) with:
 ---
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article I, Section 4(g)(3), with new subsections (g-1) and (g-2).
+✅ **RESOLVED.** Constitutional text verified in Article I, Section 4(g-1)/(g-2) (Survey Integrity). See `02-design/constitution/01-regional-structure.md`. Survey integrity requirements and validity challenge procedures for boundary reviews. Verified 2026-01-31.
 
-**Severity:** High | **Mitigability:** PROPOSAL AVAILABLE
+**Severity:** High | **Mitigability:** Addressed | **Resolved:** 2026-01-31
 
 ---
 
