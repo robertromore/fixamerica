@@ -6313,9 +6313,68 @@ Add to Article II, Section 5 — Federal Civic Baseline:
 **Dependencies**: National Civic Education Commission requires congressional establishment; Federal Civic Baseline curriculum requires development
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article II, Section 5.
+**RESOLVED.** Added as Article II, Section 21 (Federal Civic Baseline) in 02-powers-and-rights.md, with carve-out in Article II §1(e)(2)(i).
 
-**Severity:** Critical | **Mitigability:** Requires Development
+**Severity:** Critical | **Mitigability:** ✅ Resolved
+
+### Design Decisions
+
+| Decision | Choice | Rationale |
+|----------|--------|-----------|
+| D1: Placement | Article II §21 + carve-out in §1(e)(2)(i) | Keeps rule in powers architecture; explicitly resolves Exclusive Domain conflict |
+| D2: Domain architecture | Constitutional exception (hybrid) | Avoids reclassifying all K-12; creates narrow override for civic fidelity |
+| D3: Content prohibition | Narrow to incitement of unlawful acts + academic safe harbor | Targets indoctrination, not history or debate |
+| D4: First Amendment | Government-speech/neutrality clause + no-pledge clause | Reduces First Amendment ambiguity; avoids loyalty-oath conflict |
+| D5: Commission | 9 members, mixed appointment, staggered 6-year terms, for-cause removal | Minimizes capture and confirmation blockade risk |
+| D6: Private schools | Assessment nexus ("passport model") | Covers private/charter without direct curriculum policing |
+| D7: Home school | Remediation + retake; no lifetime bans | Proportional, reduces due-process risk |
+| D8: Enforcement | Graduated: notice → assistance → conditional funding → targeted delivery (5yr) | Feasible, credible, preserves federalism |
+| D9: Seditious content | Strict: advocates/incites violent overthrow, unconstitutional secession, or non-legal nullification | Reduces vagueness; scienter required for liability |
+| D10: Anti-loyalty oath | Explicit no-pledge/affirmation clause | "This Section mandates knowledge, not belief" |
+| D11: Update safeguards | 2/3 Commission + ARB certification; non-regression floor; 180-day comment period | Prevents baseline capture or dilution |
+| D12: Reverse weaponization | Subject-matter scope locked; partisan endorsement banned; Commission limitations clause | Federal thought control blocked |
+
+### Coverage of Proposal Elements
+
+| Proposal Element | Constitutional Coverage | Citation |
+|-----------------|----------------------|----------|
+| Civic Education Requirement | Civic Baseline mandated for all institutions satisfying compulsory education or issuing diplomas | Art II §21(b) |
+| Prohibited Curricula | Narrowed to incitement of violent overthrow, unconstitutional secession, non-legal nullification | Art II §21(c) |
+| Academic Safe Harbor | Five explicit protections for historical study, critical analysis, comparative systems, legal theory, student expression | Art II §21(d) |
+| No Compelled Affirmation | "This Section mandates knowledge, not belief" | Art II §21(e) |
+| National Civic Education Commission | 9-member mixed-appointment commission, staggered terms, independent budget, for-cause removal | Art II §21(f) |
+| National Civic Competency Assessment | Assessment prerequisite for federal aid, public university, civil service, recognized diploma | Art II §21(g) |
+| Public School Enforcement | Graduated: notice → conditional funding → targeted federal delivery (5yr time-limited) | Art II §21(h)(1) |
+| Prohibited Content Enforcement | Notice → 180-day cure → funding suspension; knowing officials face civil liability | Art II §21(h)(2) |
+| Update Safeguards | 2/3 Commission + ARB certification; non-regression floor; decennial review | Art II §21(i) |
+| Regional Implementation Authority | All non-Baseline education remains exclusively Regional | Art II §21(j) |
+
+### Gaming Vector Coverage
+
+| Vector | Coverage | Mechanism |
+|--------|----------|-----------|
+| G1: Academic Freedom Shield | Addressed | §21(a) explicitly overrides Exclusive Domain; "notwithstanding" clause |
+| G2: States' Rights Callback | Addressed | §1(e)(2)(i) carve-out makes federal authority textually explicit |
+| G3: Alternative History Framing | Partially addressed | §21(c) narrowed to incitement; §21(d) safe harbor protects legitimate scholarship; G9 residual |
+| G4: Private School End-Run | Addressed | Assessment nexus (§21(g)(2)) — graduates need Assessment for federal benefits regardless of school type |
+| G5: Gradualism | Partially addressed | Commission compliance review (§21(f)(3)(iv)); Assessment catches outcomes; detection still challenging |
+| G6: Commission Capture | Addressed | Mixed appointment (§21(f)(1)); limitations clause (§21(f)(4)); for-cause removal; independent budget |
+| G7: Reverse Weaponization | Addressed | Scope locked to constitutional subjects (§21(b)); partisan endorsement banned (§21(f)(4)(ii)) |
+| G8: Defund and Privatize | Addressed | Assessment nexus applies regardless of school funding status (§21(g)(2)); compulsory education nexus (§21(b)) |
+| G9: Curriculum Shell Game | Residual | Teaching compliance as propaganda hard to police constitutionally; Assessment tests knowledge not attitude |
+| G10: Charter School Loophole | Addressed | §21(b) applies to any institution "satisfying compulsory education requirements or issuing recognized diplomas" |
+| G11: Assessment Gaming | Residual | Teach-to-test while indoctrinating otherwise; Assessment verifies knowledge but not internalization |
+| G12: Personnel Resistance | Residual | Teacher ideology not constitutionally regulable; market effect of Assessment provides incentive alignment |
+| G13: Digital Curriculum | Residual | Implementation-level concern; Assessment catches outcomes regardless of delivery method |
+| G14: Litigation Flood | Partially addressed | §21(a) "notwithstanding" clause forecloses Exclusive Domain challenges; First Amendment claims narrowed by safe harbor and no-pledge clause |
+
+### Minor Residuals
+
+1. **Curriculum Shell Game (G9)**: A Region could teach Civic Baseline content in a hostile framing ("here's what the feds force us to teach you"). The Assessment tests knowledge, not attitude — this is constitutionally appropriate but means internalization is not guaranteed.
+2. **Assessment Gaming (G11)**: Home-schooled students could be coached to pass the Assessment while being indoctrinated otherwise. The Assessment is a necessary but insufficient check.
+3. **Personnel Ideology (G12)**: Teacher beliefs cannot be constitutionally regulated. The market incentive of Assessment outcomes provides indirect alignment but no guarantee.
+
+These residuals reflect fundamental limits on any constitutional provision addressing education: the Constitution can mandate exposure and verify knowledge, but cannot mandate belief. This is by design — see §21(e): "This Section mandates knowledge, not belief."
 
 ---
 

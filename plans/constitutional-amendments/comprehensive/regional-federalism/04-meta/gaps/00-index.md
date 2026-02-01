@@ -322,7 +322,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 184 | Regulatory Void (Day 1 problem) | Critical | ✅ Resolved |
 | 191 | Credential Wall (professional balkanization) | High | Requires Development |
 | 199 | Family fracture (status portability) | High | Requires Development |
-| 201 | Seditious curriculum (indoctrination trap) | Critical | Requires Development |
+| 201 | Seditious curriculum (indoctrination trap) | Critical | ✅ Resolved |
 | 203 | Indentured student (brain drain tax) | Critical | Requires Development |
 | 204 | Tower of Babel (linguistic fragmentation) | Critical | Requires Development |
 | 240 | Legal kidnapping (extradition abuse) | Critical | ✅ Resolved |

@@ -38,7 +38,7 @@ All powers not enumerated to the federal government herein are denied to the fed
 
 (2) **Exclusive Regional Domains.** The following domains are exclusively Regional, and no Federal or State law may operate within them except as specifically enumerated:
 
-- (i) K-12 education curriculum and standards;
+- (i) K-12 education curriculum and standards, except as provided in Section 21 of this Article;
 - (ii) Land use, zoning, and local planning;
 - (iii) State and local government structure;
 - (iv) Family law (marriage, divorce, custody, adoption);
@@ -1552,6 +1552,122 @@ Upon initiation, the Panel shall commence an emergency fitness evaluation and is
 - (6) provide for any other matter necessary to carry out the purposes of this section.
 
 This section shall take effect immediately upon ratification. Congress shall enact implementing legislation within ninety (90) days of ratification. The Panel shall be constituted within one hundred and eighty (180) days of ratification, and the first annual examination shall occur within one (1) year of ratification.
+
+---
+
+### Section 21. Federal Civic Baseline
+
+*Resolves Gap 201 — The "Seditious Curriculum" (Indoctrination Trap). Establishes a narrow federal minimum for civic education within the otherwise Exclusive Regional Domain of K-12 education, protecting the constitutional order against generational ideological erosion while preserving Regional authority over all other educational content.*
+
+(a) **Constitutional Exception.** Notwithstanding the classification of K-12 education curriculum and standards as an Exclusive Regional Domain under Section 1(e)(2)(i), the federal government shall establish and enforce the minimum civic education requirements specified in this Section. This exception is narrowly limited to the preservation of constitutional literacy and fidelity; all other aspects of K-12 education remain exclusively Regional.
+
+(b) **Civic Education Requirement.** All educational institutions satisfying compulsory education requirements or issuing diplomas recognized by any level of government shall include in their curricula instruction in:
+
+- (1) the text and history of the United States Constitution, including all amendments;
+- (2) the text and structure of this Constitution, including the Regional Federalism framework;
+- (3) the principles of constitutional democracy, including federalism, separation of powers, and individual rights;
+- (4) the history of the United States as a continuous political community;
+- (5) the rights and responsibilities of citizenship, including mechanisms for peaceful constitutional change through amendment, legislation, and judicial interpretation;
+- (6) the structure and function of elections at all levels of government.
+
+The scope of the Civic Baseline is limited to constitutional structure, rights, elections, federalism, and the rule of law. No content beyond these subjects may be mandated under this Section.
+
+(c) **Prohibited Curricula.** No educational institution satisfying compulsory education requirements or issuing recognized diplomas may include in its required curriculum material that advocates or incites:
+
+- (1) the violent overthrow of the United States government or any Regional government;
+- (2) the unconstitutional secession of any Region or State from the United States;
+- (3) the nullification of federal constitutional authority through non-legal means.
+
+(d) **Academic Safe Harbor.** The prohibitions in subsection (c) do not extend to:
+
+- (1) objective historical study of secessionist movements, civil wars, constitutional crises, or failed states;
+- (2) critical analysis of constitutional provisions or proposals for constitutional amendment through lawful processes;
+- (3) comparative study of other nations' political systems, including those that permit secession;
+- (4) scholarly discussion of legal theories, including historical arguments regarding the constitutionality of secession;
+- (5) student expression of personal political views in assignments, discussions, or extracurricular activities.
+
+(e) **No Compelled Affirmation.** Nothing in this Section shall be construed to require any student, teacher, or institution to:
+
+- (1) affirm or pledge allegiance to any political position, party, officeholder, or ideology;
+- (2) express agreement with any provision of this Constitution as a condition of enrollment, graduation, employment, or accreditation;
+- (3) refrain from advocacy for constitutional amendment through lawful processes.
+
+This Section mandates knowledge, not belief.
+
+(f) **National Civic Education Commission.**
+
+(1) *Establishment.* There is hereby established a National Civic Education Commission consisting of nine (9) members serving staggered six-year terms, removable only for cause:
+
+- (i) three (3) appointed by the President with the advice and consent of the Senate; if the Senate fails to act within ninety (90) days of nomination, the nominee is deemed confirmed;
+- (ii) two (2) appointed by the Chief Justice of the Supreme Court from among persons with demonstrated expertise in constitutional law, history, or civic education;
+- (iii) two (2) appointed by Congress, one by the Speaker of the House and one by the President pro tempore of the Senate;
+- (iv) two (2) appointed by the Regional Governors Association by supermajority vote.
+
+(2) *Independence.* The Commission shall have independent budget authority funded by mandatory spending not subject to annual appropriation. No member may hold any other government office, elected or appointed, during their term.
+
+(3) *Functions.* The Commission shall:
+
+- (i) develop and maintain the Federal Civic Baseline curriculum standards within the scope defined in subsection (b);
+- (ii) create model curricula and educational materials available to all institutions at no cost;
+- (iii) administer the National Civic Competency Assessment under subsection (g);
+- (iv) review compliance and report annually to Congress and the Regional Assemblies;
+- (v) provide technical assistance to Regions and educational institutions implementing the Baseline.
+
+(4) *Limitations.* The Commission may not:
+
+- (i) mandate instruction in subjects beyond those enumerated in subsection (b);
+- (ii) endorse, recommend, or oppose any political party, candidate, ideology, or policy position;
+- (iii) prescribe teaching methods, textbook selections, or assessment formats beyond the Competency Assessment;
+- (iv) reduce the scope of the Civic Baseline below the requirements enumerated in subsection (b).
+
+(g) **National Civic Competency Assessment.**
+
+(1) *Establishment.* The Commission shall develop and administer a National Civic Competency Assessment measuring knowledge of the subjects enumerated in subsection (b).
+
+(2) *Eligibility Nexus.* Successful completion of the Assessment is a prerequisite for:
+
+- (i) receipt of federal financial aid for higher education;
+- (ii) admission to public institutions of higher education;
+- (iii) federal civil service employment;
+- (iv) receipt of a federally recognized high school diploma or equivalent.
+
+(3) *Remediation.* Any person who does not pass the Assessment may:
+
+- (i) retake the Assessment without limit and at no cost;
+- (ii) access free federal remediation materials and instruction provided by the Commission;
+- (iii) achieve eligibility at any age; no person is permanently disqualified by failure of the Assessment.
+
+(4) *Assessment Standards.* The Assessment shall test factual knowledge and structural understanding only. It may not test political opinions, ideological agreement, or policy preferences.
+
+(h) **Enforcement.**
+
+(1) *Public Schools.* Upon a finding by the Commission that a Region's public education system fails to implement the Civic Baseline:
+
+- (i) the Commission shall issue notice of non-compliance with specific remedial requirements and offer technical assistance;
+- (ii) continued non-compliance after one (1) year triggers conditional withholding of federal education funding, with funds restored upon compliance;
+- (iii) persistent non-compliance after three (3) years triggers targeted federal delivery of Civic Baseline instruction within the Region, limited to Baseline content and funded by reallocation from the Region's withheld federal education allocation;
+- (iv) targeted federal delivery is time-limited to five (5) years, after which the Commission shall report to Congress on whether compliance has been achieved or whether additional legislative measures are required.
+
+(2) *Prohibited Content.* Upon a finding that an educational institution's required curriculum includes material prohibited by subsection (c):
+
+- (i) the Commission shall issue notice with specific findings and remedial requirements;
+- (ii) if the institution receives public funding and fails to cure within one hundred eighty (180) days, all public funding shall be suspended until the prohibited content is removed;
+- (iii) officials who knowingly direct the inclusion of prohibited content after notice are subject to civil liability under the enforcement provisions of Article XIV.
+
+(i) **Update Safeguards.**
+
+- (1) Amendments to the Civic Baseline curriculum standards require approval by two-thirds of the Commission and certification by the Allocation Review Board that the amendments remain within the scope defined in subsection (b).
+- (2) The Civic Baseline may not be reduced below the minimum requirements enumerated in subsection (b); only additions within that scope are permitted.
+- (3) The Commission shall review the Baseline decennially and publish its findings. Any proposed changes shall be subject to a one-hundred-eighty-day public comment period before adoption.
+
+(j) **Regional Implementation Authority.** Subject to the minimum requirements of this Section, Regions retain authority over:
+
+- (1) all educational content not covered by the Civic Baseline;
+- (2) educational methods, assessment formats, teacher certification, and institutional governance;
+- (3) curriculum in history, social studies, and civics beyond the Baseline;
+- (4) supplementary civic content consistent with subsection (c).
+
+This Section establishes a narrow constitutional floor, not federal control of education.
 
 ---
 
