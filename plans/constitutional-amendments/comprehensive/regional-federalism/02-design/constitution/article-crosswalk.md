@@ -60,7 +60,7 @@ These articles are part of the Regional Federal Constitution and require Regiona
 | **XVIII** | 1-5 | Supremacy, floors not ceilings, interpretive conventions, interpretive decoupling, presumption of subsidiarity | [06-supremacy.md](06-supremacy.md) |
 | **XIX** | 1-3 | Ratification, transition, activation | [06-supremacy.md](06-supremacy.md) |
 | **XX** | 1-3 | D.C., territories, tribal nations | [06-supremacy.md](06-supremacy.md) |
-| **XXI** | 1-5 | Congressional implementation, default rules, partial adoption safeguards, data continuity during transition | [07-implementation.md](07-implementation.md) |
+| **XXI** | 1-6 | Congressional implementation, default rules, partial adoption safeguards, data continuity during transition, regulatory continuity | [07-implementation.md](07-implementation.md) |
 | **XXII** | 1-6 | Definitions | [07-implementation.md](07-implementation.md) |
 | **XXIII** | 1-7 | Indigenous sovereignty preservation, treaty sovereignty | [06-supremacy.md](06-supremacy.md) |
 | **XXIV** | 1-7 | Union permanence, orderly alteration, secession prohibition | [06-supremacy.md](06-supremacy.md) |
@@ -170,6 +170,7 @@ Article XIV, Section 17 (Abolition of Qualified Immunity: QI abolition, anti-rec
 Article XIV, Section 18 (Waiver of Sovereign Immunity: entity immunity waiver, Eleventh Amendment supersession, discretionary function/Feres abolition, private-party parity, government entity definition, anti-retaliation, anti-reconstruction, entity liability for immune official acts, discovery/privilege limitations, judgment satisfaction, operational floor, supersession with savings clause, retroactivity for ongoing harm) — see single-topic/judicial-reform.md
 Article IX, Section 3-A (Post-Service Economic Restrictions: tiered cooling-off, covered entities, family members, entity-side obligations, anti-circumvention) — see single-topic/lobbying-reform.md
 Article IX, Section 10 (Active-Service Financial Restrictions: prohibited/permitted asset definitions, mandatory divestiture, liquidating trust, anti-proxy tipping rule with rebuttable presumption, post-service trading alignment with §3-A tiers, automated OLO surveillance, DOJ referral, special counsel trigger, disgorgement/treble damages/permanent disqualification, whistleblower bounty, constitutional floor, tax-neutral rollover) — see single-topic/lobbying-reform.md
+Article XXI, Section 6 (Regulatory Continuity and Transition: Transitional Regional Law, enforcement bridge, cost reimbursement, personnel transfer, five-year conversion, no voiding, transitional judicial jurisdiction, deregulation-by-delay prohibition)
 ```
 
 **Do NOT link these to `constitution/00-index.md`** — they are not in this directory.

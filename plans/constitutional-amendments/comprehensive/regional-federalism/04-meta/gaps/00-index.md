@@ -319,7 +319,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 181 | Benefit Serfdom (fiscal Berlin Wall) | High | Requires Development |
 | 182 | Water War Trap (resource blackmail) | Critical | ✅ Resolved |
 | 183 | Soft Seizure (federal property hostages) | High | Requires Development |
-| 184 | Regulatory Void (Day 1 problem) | Critical | Requires Development |
+| 184 | Regulatory Void (Day 1 problem) | Critical | ✅ Resolved |
 | 191 | Credential Wall (professional balkanization) | High | Requires Development |
 | 199 | Family fracture (status portability) | High | Requires Development |
 | 201 | Seditious curriculum (indoctrination trap) | Critical | Requires Development |

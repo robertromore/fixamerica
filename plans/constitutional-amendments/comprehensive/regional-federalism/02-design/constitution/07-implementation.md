@@ -218,6 +218,40 @@ These default rules exist to prevent deliberate nonimplementation from becoming 
 
 ---
 
+### Section 6. Regulatory Continuity and Transition
+
+*Addresses Gap 184: The Regulatory Void (The Day 1 Problem). Prevents regulatory collapse when jurisdiction over Exclusive Domains transfers from federal to Regional authority by establishing automatic continuity of existing federal law as Transitional Regional Law.*
+
+#### Continuity of Law
+
+(a) **Transitional Regional Law.** Upon the ratification of this Constitution, all federal statutes, regulations, and administrative rules governing matters within the Exclusive Domains of the Regions shall continue in full force and effect as "Transitional Regional Law."
+
+(b) **Status.** Transitional Regional Law shall have the force of Regional statutory law. It may be amended or repealed only by the Regional Legislature or appropriate Regional regulatory authority. Congress shall have no authority to amend such law after ratification.
+
+#### Enforcement Bridge
+
+(c) **Federal Administration.** For a period of five (5) years following ratification, or until the Allocation Review Board certifies that a Region has established sufficient regulatory and enforcement capacity, whichever is earlier, federal agencies shall continue to administer and enforce Transitional Regional Law within that Region.
+
+(d) **Cost Reimbursement.** The Region shall reimburse the Federal Government for the full cost of such administration and enforcement. Failure to reimburse shall constitute a debt subject to offset against federal transfers.
+
+(e) **Personnel.** Federal employees engaged in such enforcement shall be offered transfer to the corresponding Regional agency with preservation of seniority and pension credits, or may be seconded to the Regional government.
+
+#### Conversion and Sunset
+
+(f) **Five-Year Conversion.** Any Transitional Regional Law that has not been affirmatively amended, repealed, or replaced by the Region within five (5) years of ratification shall automatically convert to permanent Regional statutory law.
+
+(g) **No Voiding.** The expiration of the transition period shall not cause any Transitional Regional Law to lapse or become void; it ensures only that the law loses its "Transitional" character.
+
+#### Judicial Jurisdiction
+
+(h) **Transitional Jurisdiction.** During the period of federal administration under subsection (c), federal courts shall retain jurisdiction over disputes arising under Transitional Regional Law, applying Regional law as the rule of decision. Upon certification of Regional capacity, jurisdiction shall transfer to Regional courts.
+
+#### Good Faith Implementation
+
+(i) **Deregulation by Delay Prohibited.** No Region may engage in deregulation by delay. The Allocation Review Board may issue compliance orders if a Region intentionally fails to establish regulatory capacity for the purpose of avoiding the enforcement of Transitional Regional Law.
+
+---
+
 ## ARTICLE XXII - DEFINITIONS
 
 For purposes of this Constitution:

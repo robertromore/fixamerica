@@ -5664,9 +5664,30 @@ Add to Article XXI (Transition and Implementation), Section 3:
 > - (iii) consolidated consideration of related regulations.
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article XXI, Section 3.
+**RESOLVED — Article XXI §6 (Regulatory Continuity and Transition) added to 07-implementation.md.** Five subsections address the Day 1 regulatory void: (a)-(b) Continuity of Law — federal statutes/regulations in Exclusive Domains automatically continue as "Transitional Regional Law" with force of Regional statutory law; Congress loses amendment authority; (c)-(e) Enforcement Bridge — federal agencies continue administration for up to 5 years or until ARB certifies Regional capacity; Regions reimburse costs; federal personnel offered transfer with preserved seniority; (f)-(g) Conversion and Sunset — unaddressed law auto-converts to permanent Regional statute at 5 years; no voiding; (h) Judicial Jurisdiction — federal courts retain during bridge, transfer on certification; (i) Good Faith — ARB may issue compliance orders against deregulation-by-delay.
 
-**Severity:** Critical | **Mitigability:** Requires Development
+**Design decisions:**
+
+| Question | Decision | Rationale |
+|---|---|---|
+| D1: Placement | Article XXI §6 in 07-implementation.md | Continues implementation sequence (§4 safeguards, §5 data, §6 regulatory) |
+| D3: Legal status | Transitional Regional Law = Regional statutory law; frozen to federal amendment | Clean jurisdictional break at ratification |
+| D5: Enforcement | 5-year bridge with ARB certification and cost reimbursement | Financial incentive for Regions to build capacity |
+| D7: Federal Floor | Deleted — relies on Gap 269 (Structured Concurrency) | Avoids contradiction with Exclusive Domain doctrine |
+| D8: Expedited process | Dropped from final text | Abuse risk; normal legislative process sufficient |
+| D12: Personnel | Transfer rights with preserved seniority and pension | Preserves institutional knowledge |
+
+**Gaming vector coverage:**
+
+| Vector | Mitigation |
+|---|---|
+| Instant Void | §(a)-(b): automatic continuity; no gap between ratification and Regional legislation |
+| Intentional Delay | §(i): ARB compliance orders against deregulation-by-delay |
+| Selective Adoption | §(f)-(g): unaddressed law auto-converts; no voiding mechanism |
+| Enforcement Collapse | §(c)-(e): 5-year federal enforcement bridge with ARB extension |
+| Strategic auto-adoption/repeal | Auto-converted law becomes standard Regional statute subject to normal repeal |
+
+**Severity:** Critical | **Mitigability:** Resolved
 
 ---
 
