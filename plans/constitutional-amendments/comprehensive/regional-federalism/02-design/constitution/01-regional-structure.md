@@ -695,6 +695,8 @@ The Board shall coordinate water allocation, establish monitoring standards, and
 
 (n) **Preservation of Freedom of Movement.** Nothing in this section authorizes any restriction on the constitutional right of citizens to travel freely and establish residence in any Region. This section provides fiscal stabilization mechanisms only.
 
+(o) **Prohibition on Exit Penalties.** *Resolves Gap 203 — The "Indentured Student" (Brain Drain Tax).* No Region or State may impose any tax, fee, debt obligation, or financial penalty conditioned upon a person's decision to leave the jurisdiction or establish residence elsewhere. Any contract provision, including student loan forgiveness or tuition assistance, that imposes a financial penalty for relocation exceeding the actual principal and interest of the benefit received is void as an unconstitutional restriction on the freedom of movement.
+
 ---
 
 ### Section 9. Mutual Recognition

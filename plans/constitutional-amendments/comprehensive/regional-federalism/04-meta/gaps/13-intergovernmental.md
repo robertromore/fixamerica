@@ -6522,9 +6522,41 @@ Add to Article III-RF, Section 8 — Human Capital Mobility Guarantee:
 **Dependencies**: Works with Gap 181 (Benefit Serfdom) as complementary protection; requires Gap 156 (Sovereign Shield) for individual enforcement
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article III-RF, Section 8.
+**RESOLVED.** Added as Article I, Section 8(o) (Prohibition on Exit Penalties) in 01-regional-structure.md. Brief new text closes litigation gap in otherwise strong existing coverage (~60-70% overlap).
 
-**Severity:** Critical | **Mitigability:** Requires Development
+**Severity:** Critical | **Mitigability:** ✅ Resolved
+
+### Resolution Details
+
+**Approach**: Brief new text (one subsection) rather than full proposed §(g)-(h). Existing provisions (Freedom of Movement absolute bar, Unwaivable Core adhesion scrutiny, anti-exile provision) create strong implicit protection, but the "voluntary contract" defense creates enough litigation space to justify explicit constitutional closure.
+
+### Coverage via New + Existing Provisions
+
+| Proposal Element | Constitutional Coverage | Citation |
+|-----------------|----------------------|----------|
+| Prohibition on exit taxes/penalties | **New**: explicit ban on any tax, fee, debt, or penalty conditioned on departure | Art I §8(o) |
+| Contract preemption | **New**: void clause for relocation penalties exceeding actual principal + interest | Art I §8(o) |
+| Maximum residency requirement | **Existing**: durational residency for tuition capped at 12 months | Art I §8(c) |
+| Credential portability | **Existing**: cannot condition licensure on Region of prior residence | Art I §8(b), Art I §14 |
+| Freedom of movement | **Existing**: absolute bar on any restriction | Art I §8(n) |
+| Adhesion contract scrutiny | **Existing**: heightened review for rights-affecting terms; unconscionability presumption | Art III §4(e), §4(c) |
+| Enforcement — standing | **Existing**: constitutional standing without particularized harm | Art XIV-RF §5 |
+| Higher education federal floor | **Existing**: higher ed is Structured Concurrent Domain; Congress may set floors | Art II §1(e)(3)(v) |
+
+### Gaming Vector Coverage
+
+| Vector | Coverage | Mechanism |
+|--------|----------|-----------|
+| "Voluntary Contract" defense | Addressed | §8(o) voids contract provisions regardless of "consent" |
+| "Reasonable Return on Investment" | Addressed | §8(o) permits only actual principal + interest recovery |
+| Escalating Trap | Addressed | §8(o) absolute prohibition; any exit-conditioned penalty is void |
+| Compound Interest Penalty | Addressed | §8(o) caps at "actual principal and interest"; punitive calculations void |
+| Credential Revocation | Existing | Art I §8(b) + Art I §14 prohibit residency-conditioned licensure |
+
+### Minor Residuals
+
+1. **Inflated principal**: Region sets tuition artificially high and "subsidizes" it, creating a large principal due upon departure. Partially mitigated by "actual principal and interest of the benefit received" language.
+2. **Private employer clawbacks**: §8(o) addresses jurisdictional penalties; private employer tuition-for-residency agreements are secondarily covered by Art III §4(e) adhesion scrutiny.
 
 ---
 
