@@ -312,7 +312,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 127 | Public health data sharing and disease surveillance | High | Partially Mitigated |
 | 172 | Trojan Horse infrastructure (foreign influence) | High | Requires Development |
 | 176 | Lex Loci crisis (cross-border prosecution) | Critical | ✅ Resolved |
-| 177 | Capital siege (physical vulnerability) | Critical | Requires Development |
+| 177 | Capital siege (physical vulnerability) | Critical | ✅ Resolved |
 | 178 | Tribal preservation clause (sovereignty protection) | High | Requires Development |
 | 179 | Shadow Confederation (military compacts) | High | Requires Development |
 | 180 | Extradition Standoff (sanctuary warfare) | High | Requires Development |

@@ -4964,9 +4964,45 @@ Add to Article XX (Non-State Entities), Section 5:
 > Failure to appropriate such funds for two consecutive fiscal years triggers automatic appropriation at the prior year's level plus inflation adjustment.
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article XX, Section 5.
+**RESOLVED — existing provisions provide comprehensive coverage.** Gap 177 is functionally duplicate with Gap 255 (Federal District Vulnerability), which was resolved by Article XXV (Federal District Independence) in 06-supremacy.md. The proposed "Article XX, Section 5" placement was incorrect — Article XX handles Non-State Entities (D.C. status, territories, tribal nations), not capital infrastructure resilience.
 
-**Severity:** Critical | **Mitigability:** Requires Development
+**Primary Coverage: Article XXV (Federal District Independence) in 06-supremacy.md**
+
+| Proposal Element | Article XXV Coverage | Location |
+|---|---|---|
+| (a)(i) Independent water supply | §3(a)(i) "water supply and treatment facilities" | 06-supremacy.md:592 |
+| (a)(ii) Independent electricity | §3(a)(ii) "electricity generation and distribution" | 06-supremacy.md:593 |
+| (a)(iii) Independent waste management | §3(a) "including but not limited to" (implied) | 06-supremacy.md:590 |
+| (a)(iv) Independent communications | §3(a)(iv) "telecommunications and internet infrastructure" | 06-supremacy.md:595 |
+| (b) Federally protected easements | §3(b)(i-iii) irrevocable easements; federal construction without Regional consent | 06-supremacy.md:600-602 |
+| (c) Service continuity guarantee | §3 (independent control) + §7 (emergency provisions) | 06-supremacy.md:588-602, 648-657 |
+| (d) Insurrection classification | §7(a)(iii) federal criminal prosecution + §7(a)(iv) funding forfeiture | 06-supremacy.md:654-655 |
+| (d)(iv) Military protection | §4(b) President may deploy forces without invoking emergency powers | 06-supremacy.md:614 |
+| (e) Capital Security Zone | §4(a) no Regional armed forces without authorization; §4(c) exclusive airspace | 06-supremacy.md:610-616 |
+
+**Supplementary Coverage:**
+
+| Provision | Coverage | Location |
+|---|---|---|
+| Article II §10 (Vital Federal Operations) | Anti-hostage provision; emergency federal assumption of utilities | 02-powers-and-rights.md:908-918 |
+| Article I §6 (Right of Transit and Non-Blockade) | Infrastructure blockade remedies; 72-hour review; federal operational assumption | 01-regional-structure.md:320-590 |
+
+**Gaming Vector Coverage:**
+
+| Gaming Vector | Existing Mitigation |
+|---|---|
+| Maintenance Emergency | Article I §6(dd-ee): manufactured safety necessity doctrine; burden shifts to closing jurisdiction |
+| Rate Spike | Article XXV §5: economic independence; Article I §6(u): 110% cost-plus fee ceiling |
+| Contract Dispute | Article XXV §3(b)(i): easements may not be revoked; §7: emergency federal authority |
+| Security Concern | Article XXV §4: security is exclusive federal responsibility; no Regional forces without authorization |
+
+**Minor Residual Items (implementation-level, not constitutional gaps):**
+
+- 90-day emergency supplies stockpiling requirement — not present in Article XXV; operational planning matter
+- Explicit funding mandate with auto-appropriation — not present; Congress has inherent appropriations authority for federal facilities
+- Fixed geographic radius for security zone (proposal: 25 miles) — Article XXV §4 uses "within or around" without fixed distance; §7(a)(ii) extends authority "as necessary"
+
+**Severity:** Critical | **Mitigability:** Resolved
 
 ---
 
