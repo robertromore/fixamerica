@@ -1491,6 +1491,60 @@ These protections apply regardless of whether the person is classified as an emp
 
 ---
 
+### Section 5. Citizenship and National Membership
+
+*Resolves Gap 226 — The "Citizenship Void" (Who Are "We"?). Establishes the constitutional definition of citizenship, ensuring that the foundational question of political membership is not left to inference, statutory construction, or executive discretion. Together with Section 4, this section completes the rights framework: Section 4 defines protections available to any person; this section defines the status of citizenship upon which additional rights depend.*
+
+(a) **Citizenship Defined.**
+
+(1) *Birthright Citizenship.* All persons born within the territory of the United States, including all States, Regions, territories, and possessions subject to United States sovereignty, are citizens of the United States at birth. This right applies regardless of parentage, excluding only children born to parents holding diplomatic immunity accredited to the United States or to members of hostile occupying forces.
+
+(2) *Citizenship by Parentage.* All persons born outside the territory of the United States to at least one parent who is a citizen of the United States are citizens of the United States at birth. Congress may establish reasonable administrative requirements for documentation and registration of such citizenship, but may not condition the right itself on compliance with administrative procedures.
+
+(3) *Naturalization.* Congress shall establish uniform rules for naturalization. No person who has been lawfully naturalized may be treated as holding a lesser form of citizenship than a citizen by birth, except as provided in subsection (b)(1).
+
+(4) *Foundlings.* Any infant or young child found within the territory of the United States whose parentage and birthplace are unknown shall be presumed to be a citizen of the United States at birth until proven otherwise by clear and convincing evidence.
+
+(5) *Continuity.* All persons holding United States citizenship under any law, treaty, or constitutional provision in effect immediately prior to the adoption of this Constitution retain full citizenship under this Constitution, without any requirement of oath, registration, consent, or affirmative action.
+
+(b) **Equality of Citizenship.**
+
+(1) *No Distinction.* No distinction shall be drawn between citizens by birth and citizens by naturalization in any right, privilege, immunity, or eligibility under this Constitution, except that the President and Vice President must have held citizenship for at least twenty (20) years prior to taking office.
+
+(2) *Regional Membership.* All citizens of the United States who are domiciled within a Region are members of that Region for purposes of representation, taxation, and public services. No Region or State may impose citizenship tests, loyalty oaths, or residency duration requirements as conditions of Regional membership beyond those established by this Constitution.
+
+(3) *Dual Citizenship.* Citizenship under this Constitution is not affected by the holding of citizenship in another nation. No person may be required to renounce foreign citizenship as a condition of exercising rights under this Constitution.
+
+(c) **Irrevocability and Loss of Citizenship.** Citizenship is a fundamental status that may not be involuntarily stripped, revoked, suspended, or conditioned, except upon final judicial conviction in the following narrow circumstances:
+
+(1) *Voluntary Renunciation.* A citizen who has attained the age of eighteen (18) years may renounce citizenship by voluntary written declaration before a federal magistrate, subject to a ninety (90) day waiting period during which counseling regarding the consequences of renunciation shall be offered. No renunciation shall take effect if it would render the person stateless. No person may be coerced, threatened, or induced to renounce citizenship; any renunciation obtained through duress is void.
+
+(2) *Treason.* Upon final conviction for treason against the United States, following trial by jury and exhaustion of all appeals.
+
+(3) *Unauthorized Foreign Military Service.* Upon final criminal conviction for unauthorized participation in foreign combat operations or service in foreign private military organizations as defined in Article XI-RF, Section 1(e).
+
+(4) *Exclusive Grounds.* The grounds enumerated in this subsection are the exclusive grounds upon which citizenship may be lost. No court, legislature, or executive may create additional grounds for loss of citizenship, whether denominated as denaturalization, expatriation, forfeiture, or otherwise.
+
+(d) **Protection from Exile.** No citizen may be deported, exiled, banished, expelled from, or denied entry to the territory of the United States, nor compelled to reside in or excluded from any part thereof, except pursuant to lawful criminal sentence imposing geographic restrictions as a condition of supervised release.
+
+(e) **Non-Citizen Rights.** Nothing in this section shall be construed to diminish the rights extended to "any person" under Section 4 of this Article or other provisions of this Constitution. Rights denominated as belonging to "any person," "all persons," or equivalent formulations are not conditioned on citizenship.
+
+(f) **Prohibition on Citizenship Conditions.** No oath, registration, affirmation, or other act of consent shall be required to establish or exercise the rights of citizenship. Citizenship inheres automatically from the qualifying conditions of birth, parentage, or naturalization. Government agencies responsible for documenting citizenship status shall treat such documentation as a ministerial duty and shall process applications within time limits established by statute.
+
+(g) **Implementing Legislation.** Congress shall enact legislation providing:
+
+(1) administrative procedures for documentation and registration of citizenship by parentage under subsection (a)(2);
+
+(2) uniform rules of naturalization under subsection (a)(3);
+
+(3) renunciation procedures, including counseling services, under subsection (c)(1);
+
+(4) time limits for processing citizenship documentation under subsection (f); and
+
+(5) transition provisions for citizenship recognition during the period between adoption and full implementation of this Constitution.
+
+---
+
 ## Design Rationale
 
 ### Why Structured Concurrency Rather Than Pure Non-Concurrency?
@@ -1539,6 +1593,22 @@ Section 18 deliberately avoids naming specific statutory bodies (the Office of L
 ### Why a Hybrid Self-Execution Model for Secret Law?
 
 Section 18 resolves the tension between immediate invalidity and operational reality through a three-layer approach: (1) During the 180-day publication window, interpretations are operative but must be disclosed to Congress and courts on request (§18(c)(vi)); (2) After 180 days, unpublished interpretations are void (§18(a)(iv)); (3) A 5-year hard sunset catches any interpretation that evades the 180-day mandate through relabeling or other gaming (§18(i)). This avoids both the recklessness of instant invalidity (which could destabilize active intelligence programs overnight) and the permissiveness of a purely challenge-based model (which founders on the standing paradox: who challenges law they don't know exists?).
+
+### Why a Constitutional Citizenship Definition?
+
+The constitution references "citizens" in at least six provisions across four articles (Article I §8 freedom of movement, Article I §21 suffrage, Article VII §1(d) franchise, Article XIV-RF §5 standing, Article IV §6 census, Article XI-RF §1(e) denaturalization) but never defines who is a citizen. If a new constitutional framework supersedes the existing Constitution without explicitly incorporating the Fourteenth Amendment's citizenship clause, the foundational question — who is a citizen? — becomes legally ambiguous. Section 5 closes this void by constitutionalizing birthright citizenship (jus soli), citizenship by parentage (jus sanguinis), and the continuity of all existing citizenship. Together with Section 4 ("any person" protections), Section 5 completes the rights framework: Section 4 defines protections available to all persons; Section 5 defines the status of citizenship upon which additional rights depend.
+
+### Why Equal Citizenship and the Twenty-Year Requirement?
+
+The current Constitution's "natural-born citizen" requirement for the Presidency creates a two-tier citizenship system that is incompatible with Section 5(b)(1)'s principle that no distinction shall be drawn between citizens by birth and by naturalization. Rather than preserving this anachronism, Section 5(b)(1) replaces it with a twenty-year citizenship duration requirement — ensuring that presidential candidates have deep roots in the polity without creating a permanent second class of citizens who can never hold the highest office regardless of their commitment to the nation.
+
+### Why Three Narrow Grounds for Loss of Citizenship?
+
+Section 5(c) limits citizenship loss to three grounds: voluntary renunciation, treason conviction, and unauthorized foreign military service conviction. The third ground harmonizes with Article XI-RF §1(e), which previously stripped citizenship automatically for foreign military service violations. Section 5(c)(3) requires final criminal conviction rather than administrative determination — ensuring due process while preserving the deterrent against mercenary service. The exclusive-grounds clause (§5(c)(4)) prevents any court, legislature, or executive from creating additional denaturalization categories, whether denominated as expatriation, forfeiture, or otherwise.
+
+### Why Explicit Jus Sanguinis?
+
+Under current law, children born abroad to U.S. citizen parents receive citizenship by statute (8 U.S.C. §1401), not by constitutional right. This means Congress could theoretically revoke jus sanguinis citizenship for future births. Section 5(a)(2) elevates this to a constitutional right while preserving congressional authority over administrative procedures — ensuring that no American family serving abroad, in the military, or in diplomatic service risks having their children's citizenship depend on the whims of a future Congress.
 
 ---
 

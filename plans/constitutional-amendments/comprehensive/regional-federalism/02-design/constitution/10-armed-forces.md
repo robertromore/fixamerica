@@ -244,7 +244,7 @@ Contractors providing such services may not carry weapons, exercise detention au
 - (2) provide military training or services to foreign governments without State Department license;
 - (3) participate in combat operations for any entity other than the United Regions armed forces.
 
-Violation strips U.S. citizenship and creates permanent ineligibility for any government employment or contract.
+Violation constitutes a criminal offense punishable upon final conviction by loss of citizenship pursuant to Article III, Section 5(c)(3), and permanent ineligibility for any government employment or contract.
 
 (f) **Regional PMC Prohibition.** Regional and State governments may not:
 

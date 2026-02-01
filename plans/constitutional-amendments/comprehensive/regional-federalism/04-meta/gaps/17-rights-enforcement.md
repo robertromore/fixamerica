@@ -853,97 +853,43 @@ The current doctrine inverts constitutional accountability: rights are meaningle
 
 > *"The new constitution promises rights to 'all citizens.' But who counts as a citizen? If the old Constitution is out, are birthright citizenship rules out too?"*
 
-#### Problem Statement
+**Status:**
+**RESOLVED — Article III, Section 5** (Citizenship and National Membership). Establishes the constitutional definition of citizenship through birthright (jus soli), parentage (jus sanguinis), naturalization, and continuity. Together with Section 4 (The Unwaivable Core), completes the rights framework: §4 defines protections for any person; §5 defines the status upon which additional rights depend.
 
-A transformative constitutional framework that "decouples" from the existing Constitution creates fundamental identity ambiguity. The original 14th Amendment defines citizenship through birthright: "All persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens." If a new framework replaces or supersedes the existing Constitution without explicitly incorporating this definition, a dangerous void emerges.
+**Severity:** Critical | **Mitigability:** Preventable
 
-**The Core Vulnerability:**
+#### Design Decisions
 
-Without explicit citizenship definition, any of the following interpretations become legally arguable:
-
-- Citizenship requires affirmative action (oath, registration)
-- Historical citizenship status doesn't automatically transfer
-- Naturalized citizens have different status than birthright citizens
-- Citizenship could be limited to those who "consent" to the new framework
-
-**Attack Vector:**
-
-> *Step 1:* New constitutional framework adopted via convention or succession process
-> *Step 2:* Framework references "citizens" throughout but omits 14th Amendment incorporation
-> *Step 3:* Political faction argues that "citizens under this Constitution" requires affirmative consent
-> *Step 4:* Non-consenting populations—potentially millions—face citizenship uncertainty
-> *Step 5:* Mass disenfranchisement, deportation threats, or coerced political compliance follow
+| ID | Question | Decision |
+|----|----------|----------|
+| D1 | Placement | Article III §5 (Bill of Rights, next available). Original "Article I-RF §14" had triple error: (1) "-RF" suffix invalid for Article I; (2) §14 occupied (Professional Credential Protection); (3) wrong article for citizenship |
+| D2 | Territorial scope | Universal jus soli — all U.S. territory including territories and possessions (closes American Samoa gap) |
+| D3 | Diplomatic/hostile force exception | Functional exclusion (accredited diplomats + hostile occupying forces), not blanket "subject to jurisdiction" |
+| D4 | Jus sanguinis | Constitutionalized — §5(a)(2) establishes citizenship by parentage (previously statutory only under 8 U.S.C. §1401) |
+| D5 | Grounds for citizenship loss | Three narrow grounds: (1) voluntary renunciation (18+, 90-day wait, not stateless, no coercion); (2) treason upon conviction + exhaustion; (3) unauthorized foreign military service upon conviction per Article XI-RF §1(e) |
+| D6 | Dual citizenship | Explicitly permitted — §5(b)(3) non-interference principle |
+| D7 | Natural-born citizen distinction | Abolished — §5(b)(1) equal citizenship; 20-year citizenship duration replaces natural-born requirement for President/VP |
+| D8 | Regional membership | Automatic domicile-based — §5(b)(2); no citizenship tests, loyalty oaths, or separate Regional citizenship |
+| D9 | Statelessness | Prohibited — renunciation invalid if it would create statelessness |
+| D10 | Foundlings | §5(a)(4) — infant/child of unknown parentage found on U.S. territory presumed citizen |
+| D11 | Non-citizen rights | §5(e) broad savings clause — nothing in §5 diminishes "any person" rights |
+| D12 | Documentation | §5(f) — ministerial duty with statutory time limits; prevents documentation denial as weapon |
+| D13 | Deportation ban | §5(d) comprehensive — no deportation, exile, banishment, expulsion, or entry denial for citizens |
 
 #### Gaming Vectors
 
-| Vector | Mechanism | Likelihood |
-|--------|-----------|------------|
-| Consent Requirement | Argue new framework requires affirmative adoption to establish citizenship | High if adoption contentious |
-| Selective Recognition | Apply citizenship uncertainty only to disfavored groups | High during political conflict |
-| Naturalization Freeze | Claim naturalization procedures under old Constitution invalid | Medium |
-| Territorial Exclusion | Argue residents of non-consenting states lose citizenship | High in regional adoption scenarios |
-| Generational Cut-off | Claim only those born after adoption are "true" citizens | Low but catastrophic if successful |
-
-#### Proposed Constitutional Fix
-
-**Article I-RF, Section 14 — The Definition of Citizenship**
-
-> **(a) Birthright Citizenship**
-> All persons born within the territory of the United States, regardless of parentage, and all persons naturalized pursuant to federal law, are citizens of the United States.
->
-> **(b) Continuity Provision**
-> All persons who held citizenship under the Constitution of 1787 and its amendments immediately prior to the adoption of this framework shall retain full citizenship under this Constitution, without any requirement of oath, registration, consent, or affirmative action.
->
-> **(c) Non-Severability of Citizenship**
-> Citizenship, once established by birth or naturalization, may not be revoked, suspended, or conditioned except:
->
-> - (1) Upon voluntary written renunciation before a federal magistrate, with a 90-day waiting period and mandatory counseling regarding consequences; or
-> - (2) Upon criminal conviction for treason as defined in Article III, following trial by jury and exhaustion of appeals.
->
-> **(d) Equal Citizenship**
-> No distinction shall be drawn between citizens by birth and citizens by naturalization in any right, privilege, or immunity under this Constitution. No citizen shall be subject to deportation, removal, or territorial exclusion.
->
-> **(e) Prohibition on Citizenship Conditions**
-> No oath, registration, affirmation, or other act of consent shall be required to exercise the rights of citizenship. Citizenship inheres automatically from the qualifying conditions of birth or naturalization.
-
-#### Design Rationale
-
-| Provision | Purpose |
-|-----------|---------|
-| Birthright citizenship (a) | Explicitly incorporates jus soli principle, preventing narrow interpretation |
-| Continuity provision (b) | Creates ironclad bridge between old and new frameworks |
-| Non-severability (c) | Prevents citizenship stripping except for treason after due process |
-| Equal citizenship (d) | Eliminates naturalized/birthright distinction permanently |
-| No consent requirement (e) | Blocks "consent theory" that could exclude non-participants |
-
-#### Cross-Gap Interaction
-
-| Related Gap | Interaction |
-|-------------|-------------|
-| Gap 215 (Constitutional Decoupling) | Citizenship continuity prevents decoupling from creating identity void |
-| Gap 188 (Equal Protection Erosion) | Equal citizenship provision reinforces anti-discrimination framework |
-| Gap 156 (Sovereign Immunity) | Citizenship definition affects standing for rights claims |
-
-#### Risk Assessment
-
-| Dimension | Without Fix | With Fix |
-|-----------|-------------|----------|
-| Constitutional Transition | Mass citizenship uncertainty during adoption | Seamless identity continuity |
-| Political Exploitation | Selective disenfranchisement of disfavored groups | No room for selective application |
-| Naturalized Citizens | Second-class status arguable | Constitutional equality guaranteed |
-| Coerced Consent | "Accept new Constitution or lose citizenship" | Citizenship unconditional |
-
-#### Implementation Priority
-
-**Tier:** P1 (Immediate)
-**Rationale:** Citizenship definition is foundational; ambiguity here undermines every other constitutional protection
-
-**Dependencies:** Must be adopted simultaneously with any constitutional transition provisions
-
-**Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article I-RF, Section 14.
-
-**Severity:** Critical | **Mitigability:** Preventable
+| ID | Vector | Mitigation |
+|----|--------|------------|
+| G1 | Consent requirement (argue new framework requires affirmative adoption) | §5(a)(5) continuity: all prior citizens retain without oath/registration/consent |
+| G2 | Selective recognition (apply uncertainty to disfavored groups) | §5(b)(1) equal citizenship; §5(a)(1) universal territorial birthright |
+| G3 | Territorial exclusion (residents of non-consenting states) | §5(a)(1) covers all territory "subject to United States sovereignty" |
+| G4 | Embassy enclave (birth in foreign embassy = foreign territory) | §5(a)(1) uses "territory subject to sovereignty" not "jurisdiction" — embassies remain U.S. soil |
+| G5 | Constructive renunciation (infer renunciation from behavior) | §5(c)(1) requires voluntary written declaration before federal magistrate; no constructive inference |
+| G6 | Documentation denial (refuse to process citizenship documentation) | §5(f) treats documentation as ministerial duty with statutory time limits |
+| G7 | Probationary citizenship (create conditional/provisional status) | §5(c)(4) exclusive grounds clause bars additional loss categories; §5(b)(1) no distinction |
+| G8 | Naturalization freeze (old procedures invalid under new framework) | §5(a)(3) naturalization on uniform terms; §5(a)(5) continuity preserves all prior naturalizations |
+| G9 | Generational cut-off (only post-adoption births count) | §5(a)(5) continuity applies to all persons holding citizenship under prior law |
+| G10 | Automatic denaturalization for foreign military service | Article XI-RF §1(e) amended to require final conviction; cross-references §5(c)(3) |
 
 ---
 

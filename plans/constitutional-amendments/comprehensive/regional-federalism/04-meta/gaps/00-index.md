@@ -249,7 +249,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 222 | Confirmation blockade (empty chair crisis) | Critical | ✅ Resolved |
 | 223 | Pardon loophole (impunity circle) | Critical | ✅ Resolved |
 | 225 | Impunity shield (qualified immunity) | Critical | ✅ Resolved |
-| 226 | Citizenship void (who are "we"?) | Critical | Requires Development |
+| 226 | Citizenship void (who are "we"?) | Critical | ✅ Resolved |
 | 228 | Treaty toggle (foreign policy whiplash) | Critical | Requires Development |
 | 229 | Mad king (incapacity crisis) | Critical | Requires Development |
 | 230 | Insider (congressional graft) | Critical | Requires Development |

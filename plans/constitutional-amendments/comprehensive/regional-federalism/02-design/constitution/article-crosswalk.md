@@ -50,7 +50,7 @@ These articles are part of the Regional Federal Constitution and require Regiona
 |---------|---------|---------|------|
 | **I** | 1-24, 3-A, 4(g-1), 4(g-2) + Schedule A | Regions, boundaries, cooperation, water rights, transit, data sovereignty, environment, law enforcement, compacts, professional credentials, electoral standards enforcement, survey integrity, appropriations integrity, ranked choice elections, beneficiary disclosure, human rights exclusivity, discharge mandate, integrated borrowing, universal suffrage, anonymous transaction, public interest defense, innovation supremacy; Schedule A defines initial Regional boundaries | [01-regional-structure.md](01-regional-structure.md) |
 | **II** | 1-18 + 1(e), 3-A, 4-A, 6-A | Federal/Regional/State powers, domain classification, rights floor enforcement constraints, concurrent authority framework, dispute reduction, exclusive domains, equivalence exemptions, infrastructure prioritization transparency, ARB, merit system protection, transition integrity, faithful execution, executive privilege reform, fiduciary duty of candor, watchdog independence, national necessity easement, prohibition on secret law (publication mandate, law/operations distinction, surveillance court transparency, memorialization requirement, executive privilege coordination, Glomar prohibition, 5-year sunset backstop) | [02-powers-and-rights.md](02-powers-and-rights.md) |
-| **III** | 1-4 | Floors not ceilings, subsidiarity, hierarchy of law, unwaivable core (contractual rights waiver prohibition, forced arbitration ban, class action preservation, adhesion contract scrutiny, employment protection, digital contract requirements) | [02-powers-and-rights.md](02-powers-and-rights.md) |
+| **III** | 1-5 | Floors not ceilings, subsidiarity, hierarchy of law, unwaivable core (contractual rights waiver prohibition, forced arbitration ban, class action preservation, adhesion contract scrutiny, employment protection, digital contract requirements), citizenship and national membership (birthright citizenship, jus sanguinis, naturalization, continuity, equal citizenship, 20-year presidential requirement, Regional membership, dual citizenship, irrevocability, exclusive loss grounds, anti-exile, non-citizen rights savings, documentation as ministerial duty) | [02-powers-and-rights.md](02-powers-and-rights.md) |
 | **IV** | 1-10, 4-B, 5-A | Congress, House, Senate, mandatory confirmation procedures (deemed confirmation, self-executing deadlines, nominee-side tolling, removal safety valve, anti-gaming, recess appointment reform), lawmaking, deliberation mandate (single-subject requirement, publication/readability requirements, conference committee resets, waiver limitations, discharge mandate coordination), acquisition shield, conviction prerequisite, extradition shield, digital papers protection | [03-regional-governance.md](03-regional-governance.md) |
 | **V** | 1-2 | Presidency, executive authority | [03-regional-governance.md](03-regional-governance.md) |
 | **VI** | 4 | Foreign affairs, one voice doctrine | [03-regional-governance.md](03-regional-governance.md) |
@@ -130,6 +130,7 @@ Article I, Section 21(h)-(k) (Natural Person Voting Exclusivity, Weighted Voting
 Article XVIII, Section 4 (Interpretive Decoupling)
 Article XVIII, Section 5 (Presumption of Subsidiarity)
 Article III, Section 4 (The Unwaivable Core)
+Article III, Section 5 (Citizenship and National Membership: birthright citizenship, jus sanguinis, naturalization, continuity, equal citizenship, twenty-year presidential requirement, Regional membership, dual citizenship, irrevocability with exclusive loss grounds, anti-exile, non-citizen rights savings, documentation as ministerial duty, foundlings presumption)
 Article IV, Section 4-B (Mandatory Confirmation Procedures: deemed confirmation, self-executing deadlines, nominee-side tolling, removal safety valve, anti-gaming, recess appointment reform)
 Article IV, Section 5-A (The Deliberation Mandate)
 Article II, Section 18 (Prohibition on Secret Law: publication mandate, law/operations distinction, surveillance court transparency, memorialization requirement, executive privilege coordination, Glomar prohibition, 5-year sunset backstop)
@@ -200,7 +201,7 @@ Article XVII-RF, Section 4 (Regional Bio-Security Cooperation) — see 11-emerge
 For provisions not yet incorporated into the Constitution, cite the proposal:
 
 ```
-DLRS (proposed Article III, Section 5) — see proposals/01-foundations/dual-legitimacy-rights-floor-statute.md
+DLRS (proposed Article III, Section 6) — see proposals/01-foundations/dual-legitimacy-rights-floor-statute.md
 Senate Safeguard Concurrence (proposed Article IV, Section 4-A) — see proposals/01-foundations/senate-safeguard-concurrence-act.md
 ```
 
@@ -212,7 +213,7 @@ Senate Safeguard Concurrence (proposed Article IV, Section 4-A) — see proposal
 |-------|------------------|
 | "Article XIV" for ARB | Article II, Section 5 |
 | "Article XIV" for Water Court | Article I, Section 7(f) |
-| "Article III, Section 4" for DLRS | DLRS proposal (proposed Article III, Section 4) |
+| "Article III, Section 4" for DLRS | DLRS proposal (proposed Article III, Section 6) |
 | "Article III-RF, Section 13" for ALJ independence | Article XIV, Section 15 (Separation of Adjudication) |
 | "Article VI" for certification | Article VII (Elections standalone) |
 | "Article XVII" for implementation | Article XXI |
