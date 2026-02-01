@@ -2529,9 +2529,45 @@ Add to Article XVI, Section 14 — Air Shed Commons:
 **Dependencies**: Federal Air Quality Commission requires congressional establishment; sovereign immunity waiver (Gap 156) must be implemented for federal tort mechanism
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article XVI, Section 14.
+**RESOLVED — existing provisions provide comprehensive coverage (~80-85%).** No new constitutional text needed. The proposed "Article XVI, Section 14" placement was incorrect — the existing design addresses transboundary air pollution through Article I §11 (Environmental Border Protection), Article II §1(e) (Structured Concurrent Domain classification), Article II §4 (Concurrent Authority Framework), and Article XIV §18 (Waiver of Sovereign Immunity).
 
-**Severity:** Critical | **Mitigability:** Requires Development
+**Primary Coverage: Article I §11 (Environmental Border Protection) in 01-regional-structure.md**
+
+| Proposal Element | Existing Provision | Location |
+|---|---|---|
+| (a) Federal Air Shed Authority | §11(f)(2): "shared airsheds crossing Regional boundaries" designated as Shared Ecosystem; §11(g): EPA establishes Ecosystem Carrying Capacity limits | 01-regional-structure.md:1289, 1297 |
+| (b) Transboundary pollution prohibition | §11(a): "No jurisdiction may externalize environmental harms... through pollution siting, emissions, discharges" | 01-regional-structure.md:1277 |
+| (c) Federal tort for pollution | §11(b): injunctive relief, compensatory damages, remediation orders; Article XIV §18: sovereign immunity waived | 01-regional-structure.md:1279; judicial-reform.md:425 |
+| (d) Federal Air Quality Commission | §11(b): EPA maintains monitoring + enforcement; §11(f)-(g): EPA designates shared ecosystems, establishes carrying capacity | 01-regional-structure.md:1279, 1289, 1297 |
+| (e) Emission allocation | §11(g): allocation formulas apportioning carrying capacity among contributing jurisdictions | 01-regional-structure.md:1297 |
+| (f) Emergency authority | §11(j): preemptive intervention at 80% capacity; mandatory planning; EPA may impose allocations directly | 01-regional-structure.md:1316 |
+| (g) Relationship to Regional authority | Article II §1(e): environmental protection is Structured Concurrent Domain (not Exclusive); §4: federal floor authority | 02-powers-and-rights.md:47, 133 |
+| (h) Integration with Water Commons | §11 covers both air and water through unified Shared Ecosystem framework; §7 provides parallel water-specific protections | 01-regional-structure.md:1275-1320, 596-615 |
+
+**Supplementary Coverage:**
+
+| Provision | Coverage | Location |
+|---|---|---|
+| Article II §1(e) (Structured Concurrent Domains) | Environmental protection classified as Concurrent — blocks "Intra-Regional" exclusivity defense | 02-powers-and-rights.md:47 |
+| Article II §4 (Concurrent Authority Framework) | Federal floor with spillover trigger; ARB certification for cross-regional effects | 02-powers-and-rights.md:133-190 |
+| Article I §11(e)-(h) (Cumulative Impact) | Cumulative harm doctrine; proportional liability; joint and several liability for remediation | 01-regional-structure.md:1287-1308 |
+| Article I §11(i) (Remediation Fund) | Shared Ecosystem Remediation Fund with proportional contributions and penalty for non-payment | 01-regional-structure.md:1310-1314 |
+| Article X §15(b-2) (Federal Backstop) | Federal backstop for catastrophic legacy harms including national corporate carbon fee | 04-fiscal-system.md:1032 |
+| Article XIV §18 (Sovereign Immunity) | Universal waiver enables citizen and Regional suits for transboundary harm | judicial-reform.md:425 |
+
+**Gaming Vector Coverage:**
+
+| Gaming Vector | Existing Mitigation |
+|---|---|
+| "Intra-Regional" Definitional Shield | Article II §1(e): environmental protection is Concurrent Domain, not Exclusive; §11(a): prohibition applies regardless |
+| Race to the Bottom | §11(e): cumulative impact standard; Article II §4: federal floor authority; §11(g): ecosystem carrying capacity |
+| Measurement Dispute | §11(g): EPA establishes science-based limits and monitoring protocols; §11(b): EPA enforcement authority |
+| Economic Hostage | §11(h): proportional liability; §11(i): mandatory remediation fund; Article XIV §18: sovereign immunity waived |
+| Temporal Delay | §11(j): preemptive intervention at 80% capacity; mandatory 90-day planning deadline |
+
+**Minor residuals (implementation-level, not constitutional gaps):** Emission trading mechanics (allocation framework exists at §11(g) but trading not explicitly authorized — implementable through enabling legislation). Dedicated Air Quality Commission (EPA assigned the role; separate commission not constitutionally required). Emergency facility operational control (EPA can impose allocations directly at §11(j) but facility takeover not specified — enabling legislation can authorize).
+
+**Severity:** Critical | **Mitigability:** Resolved
 
 ---
 

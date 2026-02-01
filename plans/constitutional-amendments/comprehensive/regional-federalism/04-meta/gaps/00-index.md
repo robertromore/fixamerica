@@ -221,7 +221,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 132 | Hyperloop and novel transport technology | Low | Requires Development |
 | 142 | Stealth amendment hazard | Medium | Requires Development |
 | 185 | Race to the bottom (deregulation trap) | High | Requires Development |
-| 200 | Smog drift (externalized pollution) | Critical | Requires Development |
+| 200 | Smog drift (externalized pollution) | Critical | ✅ Resolved |
 
 ### Institutional Governance
 

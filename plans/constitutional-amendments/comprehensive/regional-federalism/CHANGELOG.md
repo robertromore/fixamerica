@@ -3295,7 +3295,7 @@ Added new high-priority gap addressing the fiscal misalignment in the National B
 
 **The Fiscal Blame Loop:**
 
-```
+```text
 Region expands services → Costs rise → Feds impose caps →
 Region claims "underfunding" → Voters blame Feds →
 Pressure to increase funding → Cycle repeats
