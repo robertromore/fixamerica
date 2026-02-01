@@ -302,6 +302,266 @@ The requirement of a multi-judge panel does not apply to relief limited to the n
 
 (3) consolidation does not limit any party's right to trial in the transferor district upon completion of coordinated proceedings.
 
+### Section 17. Abolition of Qualified Immunity
+
+*Resolves Gap 225 — The "Impunity Shield" (Qualified Immunity). Pursuant to Section 6(b) of this Article, this section abolishes the doctrine of qualified immunity and establishes personal accountability for government officials who violate constitutional rights.*
+
+(a) **Abolition.** The doctrine of qualified immunity is abolished. No court may condition liability for violation of rights secured by this Constitution on the existence of prior judicial precedent addressing the specific factual circumstances of the violation. The phrase "clearly established law" and any equivalent formulation are abolished as standards for determining official liability.
+
+(b) **Personal Liability.** Any person who, under color of law, violates the constitutional rights of any person shall be personally liable for damages. Liability attaches when:
+
+(1) the person's conduct violated a right secured by this Constitution;
+
+(2) the constitutional provision's text, combined with reasonable interpretation, made the violation apparent; and
+
+(3) the person knew or should have known that the conduct was unconstitutional.
+
+No prior judicial decision with identical or substantially similar facts is required to establish liability.
+
+(c) **Under Color of Law Defined.** For purposes of this section, "under color of law" means any exercise, misuse, or abuse of authority conferred by government position, regardless of whether the person characterizes the conduct as undertaken in a personal or official capacity. An act is under color of law if it was made possible by the person's government authority, access, or resources.
+
+(d) **Good Faith.** Good faith shall not bar liability for compensatory damages. Good faith may:
+
+(1) mitigate the quantum of compensatory damages, as the court determines just; and
+
+(2) serve as a defense to punitive damages, provided the person demonstrates by a preponderance of the evidence that the conduct was objectively reasonable under the circumstances.
+
+Good faith may not be established by reliance on:
+
+(3) an unconstitutional statute or regulation;
+
+(4) a superior's order, if the order was facially unconstitutional; or
+
+(5) official training, if the training itself directed or encouraged unconstitutional conduct.
+
+Reliance on advice of counsel may mitigate but not eliminate liability.
+
+(e) **Indemnification.** Government entities may indemnify officials for compensatory damages arising from non-willful constitutional violations, subject to the following:
+
+(1) the official shall bear a minimum of ten percent (10%) of the compensatory judgment personally;
+
+(2) implementing legislation shall establish hardship adjustment procedures to cap personal liability at a reasonable proportion of the official's annual compensation, but the personal share may not be reduced below two percent (2%) of the judgment;
+
+(3) government entities may not indemnify officials for punitive damages; and
+
+(4) government entities may not indemnify officials for violations involving death, serious bodily harm, or knowing deprivation of liberty.
+
+(f) **Financial Responsibility.** Officials exercising government authority shall maintain financial responsibility sufficient to satisfy potential judgments for constitutional violations. Implementing legislation shall establish:
+
+(1) categories of officials subject to financial responsibility requirements;
+
+(2) acceptable forms of financial responsibility, which may include insurance, bond, pooled funds, or other security;
+
+(3) requirements that individual risk history affect the cost or availability of financial responsibility; and
+
+(4) provisions that an official who cannot obtain or maintain adequate financial responsibility may not hold a position involving the exercise of authority over persons, property, or liberty. Loss of financial responsibility constitutes cause for removal by operation of law, notwithstanding any contractual, civil service, or collective bargaining protection.
+
+(g) **Punitive Damages.** Punitive damages shall be available for constitutional violations that are:
+
+(1) willful, malicious, or reckless;
+
+(2) committed after warning, notice, or prior adjudication of similar conduct; or
+
+(3) part of a pattern or practice of constitutional violations.
+
+Punitive damages shall be in an amount sufficient to deter future violations.
+
+(h) **Supervisory Liability.** A supervisor is personally liable for constitutional violations committed by subordinates when the supervisor:
+
+(1) knew or should have known of a pattern or significant risk of subordinate constitutional violations and failed to take reasonable corrective action;
+
+(2) failed to establish or enforce training, supervision, or discipline systems adequate to prevent known categories of constitutional violations; or
+
+(3) directed, authorized, approved, or ratified the unconstitutional conduct.
+
+(i) **Attorney Fees.** In actions under this section:
+
+(1) prevailing plaintiffs shall be awarded reasonable attorney fees and costs;
+
+(2) fee awards shall not be reduced based on the availability of injunctive or declaratory relief;
+
+(3) fee awards shall reflect the complexity and constitutional significance of the case; and
+
+(4) defendants may not be awarded fees absent a finding that the action was frivolous.
+
+(j) **Statute of Limitations.** The limitations period for claims under this section:
+
+(1) runs from the date the plaintiff discovers, or reasonably should have discovered, the violation and the identity of the responsible official;
+
+(2) is tolled during any period the government conceals relevant information;
+
+(3) is tolled for any plaintiff under legal disability; and
+
+(4) may not be shorter than the limitations period for equivalent claims against private persons under the law of the jurisdiction where the violation occurred.
+
+(k) **Non-Dischargeability.** Judgments for constitutional violations under this section are not dischargeable in bankruptcy. This prohibition applies to both compensatory and punitive damage awards.
+
+(l) **Supersession.** This section supersedes all prior provisions of this Constitution that preserve, recognize, or apply qualified immunity to government officials, including any provision that conditions liability on the existence of "clearly established" prior precedent. Topic-specific immunity waivers elsewhere in this Constitution are subsumed by the universal standard established herein.
+
+(m) **Preserved Immunities.** This section does not abrogate:
+
+(1) legislative immunity for legislators acting in their legislative capacity, provided this immunity extends only to acts that are legislative in nature and may not be invoked for executive, administrative, or enforcement functions regardless of the official's title; or
+
+(2) judicial immunity for judges acting in their judicial capacity, provided this immunity extends only to acts that are judicial in nature and may not be invoked for administrative or enforcement functions.
+
+(n) **Federal Floor.** This section establishes a minimum standard of official accountability. No level of government — federal, Regional, or State — may provide lesser accountability for officials than established by this section. Greater accountability may be established by any level of government.
+
+(o) **Implementing Legislation.** Congress shall enact legislation providing:
+
+(1) financial responsibility requirements, categories, and acceptable forms under subsection (f);
+
+(2) hardship adjustment procedures under subsection (e)(2);
+
+(3) screening procedures for actions under this section, including expedited threshold determinations and sanctions for frivolous filings; and
+
+(4) standards for supervisory liability training and supervision requirements under subsection (h).
+
+---
+
+### Section 18. Waiver of Sovereign Immunity
+
+*Resolves Gap 231 — The "Sovereign Shield" (Government Accountability) and absorbs Gap 156 — The "Sovereign Shield" (Universal Accountability Failure). Pursuant to Section 6(b) of this Article, this section waives sovereign immunity for government entities at all levels and establishes entity accountability for government harm. Together with Section 17, this section completes the accountability framework: Section 17 addresses individual official immunity; this section addresses government entity immunity.*
+
+(a) **Waiver.** Sovereign immunity is waived for the United States, each Region, each State, and each political subdivision thereof, for:
+
+(1) violations of this Constitution by any government entity;
+
+(2) torts committed by government agents acting within the scope of employment or under color of law;
+
+(3) breach of contract to which a government entity is a party;
+
+(4) unjust enrichment or taking without compensation; and
+
+(5) any other harm for which a private entity performing the same function would be liable under applicable law.
+
+This waiver is self-executing and may not be limited by statute.
+
+(b) **Eleventh Amendment Supersession.** This section supersedes the Eleventh Amendment to this Constitution and all judicial interpretations thereof — including but not limited to *Hans v. Louisiana*, *Seminole Tribe of Florida v. Florida*, and *Alden v. Maine* — insofar as they would bar claims authorized by this section in any court, federal, Regional, or State.
+
+(c) **Abolition of Immunity Exceptions.** The following immunity doctrines are abolished:
+
+(1) the discretionary function exception, insofar as it shields negligent execution or implementation of policy. Immunity is retained only for genuine high-level policy formulation — decisions regarding whether to act, allocation of resources among competing priorities, and strategic direction — not for the manner of execution once policy is adopted;
+
+(2) the Feres doctrine barring military personnel from suit for service-related injuries, except that immunity is retained for tactical combat decisions made during active hostilities. Military personnel may bring claims for medical malpractice, training injuries, toxic exposure, sexual assault, and all other harm not arising from tactical combat decisions;
+
+(3) absolute immunity for government entities, except as provided in subsection (m); and
+
+(4) any other doctrine that shields government entities from liability for harm that would be actionable against a private entity performing the same function.
+
+(d) **Liability Standard.** Government entities are liable on the same basis as a private entity performing the same function:
+
+(1) negligence, gross negligence, and recklessness standards apply;
+
+(2) respondeat superior applies to all government employees, agents, and volunteers;
+
+(3) strict liability applies to: (i) activities for which private entities face strict liability under applicable law; (ii) wrongful imprisonment — detention or incarceration subsequently adjudicated to be without legal basis; and (iii) wrongful deportation — removal of a person subsequently adjudicated to have had legal authority to remain;
+
+(4) vicarious liability applies to government contractors performing governmental functions, regardless of the level of government direction. The government contractor defense is abolished. Contractors are independently liable for their own negligence; the government entity is vicariously liable for contractor conduct in the performance of governmental functions.
+
+(e) **Government Entity Defined.** For purposes of this section, "government entity" includes:
+
+(1) the Federal Government and all departments, agencies, and instrumentalities;
+
+(2) each Regional Government and all departments, agencies, and instrumentalities;
+
+(3) each State and all departments, agencies, and instrumentalities;
+
+(4) each county, municipality, and political subdivision;
+
+(5) any entity created by law or in which a government entity holds majority ownership or exercises effective control;
+
+(6) any government-sponsored enterprise, public-private partnership, or special purpose entity performing governmental functions; and
+
+(7) any entity exercising delegated sovereign powers, including rulemaking, enforcement, taxation, or detention authority.
+
+An entity's characterization as "private" or "independent" does not defeat classification as a government entity under this section if the entity satisfies any criterion in paragraphs (5) through (7).
+
+(f) **Damages.** Successful plaintiffs may recover:
+
+(1) full compensatory damages without statutory cap or limitation;
+
+(2) punitive damages for gross negligence, recklessness, or intentional misconduct;
+
+(3) reasonable attorney fees and costs as prevailing party; and
+
+(4) prejudgment interest from date of injury.
+
+No statute may cap or limit damages for government entities below what would apply to a private entity performing the same function. Courts retain authority to reduce grossly disproportionate awards through remittitur, as in actions against private defendants.
+
+(g) **Exhaustion Limitations.** Administrative exhaustion requirements:
+
+(1) may not exceed ninety (90) days;
+
+(2) may not require more than one level of administrative review;
+
+(3) are deemed exhausted if the agency fails to respond within the deadline; and
+
+(4) may not apply to constitutional claims, claims involving ongoing physical harm, or claims involving government concealment of relevant information, which may proceed directly to court.
+
+(h) **Statute of Limitations.** The limitations period for claims against government entities:
+
+(1) runs from discovery of injury, not from date of injury;
+
+(2) is tolled during any period the government conceals relevant information;
+
+(3) is tolled for any plaintiff under legal disability; and
+
+(4) may not be shorter than the limitations period for equivalent claims against private entities under the law of the jurisdiction where the injury occurred.
+
+(i) **Judgment Satisfaction.** All judgments against government entities shall be satisfied in full within one hundred eighty (180) days of final judgment.
+
+(1) The appropriation or fund from which judgments are satisfied shall be permanent and sufficient to discharge all obligations under this section.
+
+(2) Government entities whose conduct generates liability shall bear budget consequences proportional to their responsibility, subject to an operational floor ensuring that essential public services are not impaired by any single judgment. Liability costs exceeding the operational floor shall be borne by a centralized judgment fund, with the responsible entity subject to budget reprogramming requirements.
+
+(3) Courts may enforce payment through contempt proceedings, mandamus, or other equitable remedies. Persistent refusal to satisfy judgments may trigger receivership procedures.
+
+(j) **Discovery and Privilege.** In claims under this section:
+
+(1) state secrets privilege, deliberative process privilege, and law enforcement privilege may not be asserted to prevent all discovery of facts necessary to adjudicate the claim;
+
+(2) courts shall conduct in-camera review of material claimed as privileged;
+
+(3) if the government asserts privilege over evidence essential to the claim, the court shall order disclosure, provide a non-prejudicial substitute, or draw an adverse inference against the government, but may not dismiss the claim solely on the basis of privilege; and
+
+(4) the distinction between legal authority and operational details established in Article II, Section 18 applies to discovery under this section.
+
+(k) **Anti-Retaliation.** Government entities may not take adverse action against any person who brings, threatens to bring, or assists in bringing a claim under this section.
+
+(1) "Adverse action" includes termination, demotion, denial of promotion, transfer, denial of services or benefits, denial or revocation of licenses or permits, initiation or escalation of enforcement actions, and any other action that a reasonable person would find materially discouraging.
+
+(2) Adverse action taken within one year of the filing of a claim creates a rebuttable presumption of retaliation.
+
+(3) Prevailing plaintiffs in retaliation claims shall be awarded reinstatement, back pay, compensatory damages, and reasonable attorney fees.
+
+(4) This subsection applies to the Federal Government, each Region, each State, and each political subdivision.
+
+(l) **Anti-Reconstruction.** No doctrine, by any name — including but not limited to sovereign immunity, governmental immunity, intergovernmental immunity, discretionary immunity, or any newly created label — shall immunize government entities from liability authorized by this section. No statute may create new categories of government entity immunity. The preserved immunities in subsection (m) and Section 17(m) are the exclusive immunities recognized under this Constitution.
+
+(m) **Entity Liability for Immune Official Acts.** Where an individual official is personally immune under Section 17(m) — legislative immunity for acts legislative in nature, or judicial immunity for acts judicial in nature — the government entity that employs or directs the official remains liable for harm caused by the official's conduct. Individual immunity does not shield the entity.
+
+(n) **Coordination with Section 17.** Claims under this section and claims under Section 17 may be brought concurrently. The official and the entity are jointly and severally liable. Total recovery may not exceed actual harm for compensatory damages, but punitive damages against the individual under Section 17 and against the entity under this section are independent. Contribution rights between entity and individual are as provided by implementing legislation.
+
+(o) **Supersession.** This section supersedes all prior provisions of this Constitution that waive or preserve sovereign immunity for government entities on a topic-specific basis. Topic-specific sovereign immunity waivers elsewhere in this Constitution are subsumed by the universal standard established herein. Any provision in a topic-specific waiver that provides greater accountability than this section — including treble damages, automatic sanctions, or other enhanced remedies — remains in force to the extent it exceeds the baseline established herein.
+
+(p) **Retroactivity.** This section applies to claims arising after ratification. For claims where the injury is ongoing at the time of ratification — including but not limited to continuing imprisonment, continuing exposure to hazardous conditions, and continuing denial of constitutionally protected rights — this section applies regardless of when the initial harm began.
+
+(q) **Transparency.** Final judgments and settlements against government entities exceeding a threshold established by law shall be publicly reported, including the identity of the government entity, the nature of the claim, and the amount. Publication may redact information necessary to protect individual privacy or national security operational details, but may not conceal the fact, nature, or amount of government liability.
+
+(r) **Federal Floor.** This section establishes a minimum standard of government entity accountability. No level of government — federal, Regional, or State — may provide lesser accountability for government entities than established by this section. Greater accountability may be established by any level of government.
+
+(s) **Implementing Legislation.** Congress shall enact legislation providing:
+
+(1) judgment fund structure, operational floor thresholds, and budget charging procedures under subsection (i);
+
+(2) procedures for in-camera review and substitute disclosure under subsection (j);
+
+(3) public reporting thresholds, formats, and privacy standards under subsection (q);
+
+(4) coordination of contribution rights between entities and individuals under subsection (n); and
+
+(5) standards for determining "governmental function" under subsection (e).
+
 ---
 
 ## Implementation Notes
@@ -319,6 +579,8 @@ This amendment requires implementing legislation including:
 - ALJ Transition Act (five-year transfer schedule, merit selection, and tenure protections)
 - Injunctive Relief Scope Act (three-judge panel procedures, MDL consolidation standards, forum shopping sanctions)
 - Anti-Forum Shopping Venue Act (substantial connection standards, venue transfer procedures)
+- Official Accountability Act (financial responsibility categories and forms, hardship adjustment procedures, supervisory liability training standards, screening procedures for constitutional claims, frivolous filing sanctions)
+- Government Accountability Act (judgment fund structure and operational floor thresholds, budget charging procedures, in-camera review and substitute disclosure procedures, public reporting thresholds and privacy standards, contribution rights between entities and individuals, governmental function standards for entity classification)
 
 ---
 
@@ -329,12 +591,18 @@ If the Regional Federal Constitution is adopted:
 - Article XIV integrates as specified in [Article Crosswalk](../constitution/article-crosswalk.md)
 - Regional courts are established by [Article XIV-RF](../constitution/09-judiciary.md)
 - Specialized courts (ARB, National Water Court) are added for RF-specific disputes
+- Section 17 applies to Regional officials with the same force as to federal officials; Regional law may provide greater but not lesser accountability
+- Section 18 applies to all government entities at all levels — federal, Regional, State, and local — with the same force; Regional and State law may provide greater but not lesser accountability
+- Section 17 supersedes Gap 156 §(d)'s preservation of qualified immunity; Section 18 absorbs Gap 156's sovereign immunity waiver for Regions and establishes universal coverage
+- Sections 17 and 18 form the complete accountability pair: §17 (individual official liability) + §18 (government entity liability)
 
 If adopted standalone:
 
 - Article XIV applies to the existing federal court system
 - States retain authority over state courts
 - No Regional court tier exists
+- Section 17 applies to federal and State officials; State law may provide greater but not lesser accountability
+- Section 18 applies to the federal government, each State, and all subdivisions; Section 18(b) supersedes the Eleventh Amendment for claims authorized by the section
 
 ---
 
@@ -397,6 +665,98 @@ If adopted standalone:
 - **Prima facie gate for de novo review**: Prevents automatic relitigation while preserving meaningful access when structural violations occur
 
 **Political Feasibility Note**: This reform will face resistance from executive agencies (lose control over outcomes), the administrative law bar (disrupts established practice), and parts of the judiciary (increased caseload). This is acknowledged as high-conflict structural reform requiring coalition-building with civil liberties advocates, regulated industries frustrated by agency bias, and judicial reformers.
+
+### Why Abolish Qualified Immunity?
+
+- Qualified immunity was created by courts, not Congress; Section 1983 says "shall be liable"
+- "Clearly established" requires near-identical prior case — every creative violation escapes liability
+- Rights cannot become "clearly established" without successful suits, but suits fail due to immunity (the paradox)
+- Millions of constitutional violations go unremedied annually
+- Reformed standards (e.g., "objectively reasonable") invite courts to reconstruct the doctrine under a new name
+- Total abolition with explicit anti-reconstruction language is the only durable fix
+
+### Why Good Faith Mitigation Rather Than Defense?
+
+- Good faith as a full defense would recreate qualified immunity under a different label
+- Victim's harm exists regardless of the official's intent — "I didn't mean to" doesn't heal the broken arm
+- Good faith appropriately affects damages quantum (less culpable = lower damages) rather than the fact of liability
+- Good faith remains a full defense to punitive damages, which target the official's state of mind
+- This structure ensures victims are always compensated while protecting good-faith officials from financial ruin
+
+### Why Financial Responsibility Rather Than Insurance?
+
+- "Insurance" mandates a specific mechanism that may not exist in all markets or may become obsolete
+- "Financial responsibility" (following the auto-insurance model) mandates the outcome while allowing bond, insurance, pooled funds, or other security
+- Implementing legislation can adapt the mechanism as markets develop
+- Constitutional text establishes the principle; statute designs the program
+- Risk-based pricing is mandated regardless of form, preserving the market-based deterrent
+
+### Why Supervisory Liability?
+
+- Without supervisory liability, agencies restructure to hide decision-makers behind layers of delegation
+- The official who designed the unconstitutional policy is shielded; only the low-level officer who executed it faces liability
+- Extends *City of Canton v. Harris* "failure to train" standard from entity liability to individual supervisor liability
+- Creates incentive for supervisors to establish training, supervision, and discipline systems
+- Three triggers: knew of pattern, failed to train/supervise, or directed/ratified the conduct
+
+### Why Non-Dischargeability?
+
+- Without non-dischargeability, officials facing large judgments can declare bankruptcy and escape the personal liability the provision creates
+- The 10% personal floor (or 2% hardship minimum) is meaningless if dischargeable
+- Precedent exists: fraud judgments, willful injury, and student loans are non-dischargeable under current bankruptcy law
+- Constitutional violations are at least as serious as fraud; discharge would reward the violator at the victim's expense
+
+### Why Supersession of Topic-Specific Waivers?
+
+- The constitution contains 6 topic-specific qualified immunity waivers (Senate ethics, asset forfeiture, military control, emergency powers, bio-security, truth-in-government)
+- Without a supersession clause, courts could read §17 narrowly through "negative pregnant" inference: the specific waivers define the scope, and anything not specifically waived retains immunity
+- Supersession makes §17 the universal standard; topic-specific waivers are subsumed, not limiting
+- Avoids the need to amend 6 provisions across 4 articles
+
+### Why Waive Sovereign Immunity?
+
+- "The King can do no wrong" is a medieval doctrine incompatible with democratic self-governance
+- The Federal Tort Claims Act (1946) waived immunity with so many exceptions that the waiver is largely illusory
+- Government is the only entity that can destroy your life through negligence and not have to pay for it
+- Private-party parity (functional equivalence standard) ensures government faces the same accountability as any entity performing the same function
+- Self-executing waiver prevents legislative re-creation of immunity through statutory exceptions
+
+### Why Supersede the Eleventh Amendment?
+
+- The Eleventh Amendment is the constitutional root of state sovereign immunity in federal court
+- Without explicit supersession, courts will read §18's general waiver as not overriding a specific constitutional bar
+- The *Hans*/*Seminole Tribe*/*Alden* line of cases extended state sovereign immunity far beyond the Amendment's text — to suits by a state's own citizens, to congressional abrogation attempts, and even to state courts
+- A constitutional amendment supersedes prior amendments by its own force, but naming the Eleventh Amendment and its progeny forecloses litigation
+
+### Why the "Deductible" Model for Budget Charging?
+
+- Directly charging agency budgets creates institutional accountability — agencies that cause harm feel budget consequences
+- But unlimited charging creates a "death spiral" for essential services (suing the VA for malpractice could bankrupt the VA)
+- The operational floor ensures agencies can continue essential functions after a large judgment
+- The centralized judgment fund provides catastrophic coverage above the floor
+- Agencies still face budget reprogramming requirements, preserving the accountability signal without destroying operations
+
+### Why Entity Liability for Immune Official Acts?
+
+- A judge's bad ruling may be protected by judicial immunity (to preserve independence), but the victim still suffered harm
+- Entity liability fills this gap: the state is liable even when the individual judge is immune
+- Private analogy: a corporation is liable for employee acts even when the employee has personal defenses
+- This structure compensates the victim without chilling the judicial/legislative function the immunity protects
+
+### Why Anti-Reconstruction for Sovereign Immunity?
+
+- Without anti-reconstruction language, courts or legislatures could create new immunity doctrines under different names
+- "Governmental immunity," "intergovernmental immunity," "public necessity shield" — same concept, different label
+- The anti-reconstruction clause makes the preserved immunities in §17(m) and §18(m) exclusive — no new categories
+- Parallels §17(a)'s anti-reconstruction clause banning "clearly established law" and equivalents for qualified immunity
+
+### Why Discovery and Privilege Limitations?
+
+- Waiving immunity is meaningless if the government can classify the evidence needed to prove the claim
+- State secrets privilege and deliberative process privilege have been used to dismiss meritorious claims without any adjudication of the merits
+- In-camera judicial review preserves legitimate security interests while preventing privilege from defeating all accountability
+- The adverse inference option ensures government pays a price for secrecy — it cannot simultaneously cause harm and hide the evidence
+- Coordinates with Article II §18's law/operations distinction: legal authority is public; operational details may be protected
 
 ---
 

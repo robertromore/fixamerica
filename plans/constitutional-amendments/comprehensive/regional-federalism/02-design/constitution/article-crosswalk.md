@@ -76,7 +76,7 @@ These articles are standalone constitutional amendments that work with OR withou
 | **VIII** | Impeachment, Pardon Reform | [single-topic/impeachment-reform.md](../single-topic/impeachment-reform.md) | No |
 | **IX** | Lobbying/Anti-Corruption | [single-topic/lobbying-reform.md](../single-topic/lobbying-reform.md) | No |
 | **XI** | Armed Forces | [single-topic/military-civilian-control.md](../single-topic/military-civilian-control.md) | Yes: [10-armed-forces.md](10-armed-forces.md) |
-| **XIV** | Judicial Reform | [single-topic/judicial-reform.md](../single-topic/judicial-reform.md) | Yes: [09-judiciary.md](09-judiciary.md) |
+| **XIV** | Judicial Reform, Official Accountability, Government Accountability | [single-topic/judicial-reform.md](../single-topic/judicial-reform.md) | Yes: [09-judiciary.md](09-judiciary.md) |
 | **XV** | Federal Reserve | [single-topic/federal-reserve-reform.md](../single-topic/federal-reserve-reform.md) | No |
 | **XVI** | Cyber Defense | [single-topic/cyber-defense.md](../single-topic/cyber-defense.md) | No |
 | **XVII** | Emergency Powers | [single-topic/emergency-powers-reform.md](../single-topic/emergency-powers-reform.md) | Yes: [11-emergency-powers.md](11-emergency-powers.md) |
@@ -164,6 +164,8 @@ Article XVII, Section 11 (Bio-Security Emergency Escalation) — see single-topi
 Article XVII, Section 12 (Serial Emergency Prevention) — see single-topic/emergency-powers-reform.md
 Article XVII, Section 13 (Legacy Emergency Transition) — see single-topic/emergency-powers-reform.md
 Article VIII, Section 9 (Pardon Power Limitations: self-clemency prohibition, restricted clemency, witness presumption, same-administration restriction, lame-duck review, disclosure mandate, retroactive voidability, conspiracy to evade) — see single-topic/impeachment-reform.md
+Article XIV, Section 17 (Abolition of Qualified Immunity: QI abolition, anti-reconstruction clause, under-color-of-law definition, good faith mitigation, indemnification with personal floor, financial responsibility, punitive damages, supervisory liability, attorney fees, discovery-rule limitations, non-dischargeability, supersession of topic-specific waivers, preserved legislative/judicial immunity, federal floor) — see single-topic/judicial-reform.md
+Article XIV, Section 18 (Waiver of Sovereign Immunity: entity immunity waiver, Eleventh Amendment supersession, discretionary function/Feres abolition, private-party parity, government entity definition, anti-retaliation, anti-reconstruction, entity liability for immune official acts, discovery/privilege limitations, judgment satisfaction, operational floor, supersession with savings clause, retroactivity for ongoing harm) — see single-topic/judicial-reform.md
 Article IX, Section 3-A (Post-Service Economic Restrictions: tiered cooling-off, covered entities, family members, entity-side obligations, anti-circumvention) — see single-topic/lobbying-reform.md
 ```
 

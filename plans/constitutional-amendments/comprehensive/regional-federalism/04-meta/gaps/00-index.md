@@ -248,12 +248,12 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 221 | Secret law (dark state) | Critical | ✅ Resolved |
 | 222 | Confirmation blockade (empty chair crisis) | Critical | ✅ Resolved |
 | 223 | Pardon loophole (impunity circle) | Critical | ✅ Resolved |
-| 225 | Impunity shield (qualified immunity) | Critical | Requires Development |
+| 225 | Impunity shield (qualified immunity) | Critical | ✅ Resolved |
 | 226 | Citizenship void (who are "we"?) | Critical | Requires Development |
 | 228 | Treaty toggle (foreign policy whiplash) | Critical | Requires Development |
 | 229 | Mad king (incapacity crisis) | Critical | Requires Development |
 | 230 | Insider (congressional graft) | Critical | Requires Development |
-| 231 | Sovereign shield (government accountability) | Critical | Requires Development |
+| 231 | Sovereign shield (government accountability) | Critical | ✅ Resolved |
 | 232 | Purse snatch (appropriations reprogramming) | Critical | ✅ Resolved |
 | 233 | Spoils system (civil service purges) | Critical | ✅ Resolved |
 | 234 | Scorched earth (presidential transition) | Critical | ✅ Resolved |

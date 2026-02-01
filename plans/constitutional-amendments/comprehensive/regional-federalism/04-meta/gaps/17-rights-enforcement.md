@@ -3,7 +3,7 @@
 **Identified**: 2026-01-26
 **Category**: Rights Enforcement
 **Criticality**: 🔴 HIGH
-**Status**: UNRESOLVED
+**Status**: ABSORBED into Gap 231 — Article XIV, Section 18 (Waiver of Sovereign Immunity). Gap 231's universal waiver (all levels of government) subsumes Gap 156's Region/State-only waiver. Gap 156 §(d) QI preservation superseded by Article XIV §17(l). Anti-retaliation and jurisdictional coordination provisions ported to §18(k) and §18(b).
 
 ## Problem Statement
 
@@ -613,7 +613,7 @@ Add to Article III-RF, Section 14 — The Unwaivable Core:
 **Identified**: 2026-01-26
 **Category**: Rights Enforcement
 **Criticality**: 🔴 **CRITICAL**
-**Status**: UNRESOLVED
+**Status**: RESOLVED — Article XIV, Section 17 (Abolition of Qualified Immunity) in `single-topic/judicial-reform.md`
 
 ### Problem Statement
 
@@ -806,10 +806,44 @@ The current doctrine inverts constitutional accountability: rights are meaningle
 **Tier:** P1 (Immediate)
 **Rationale:** Qualified immunity undermines entire constitutional accountability structure; affects millions of citizens annually
 
-**Dependencies:** Coordinates with Gap 156 (sovereign immunity waiver) for complete accountability framework
+**Dependencies:** Coordinates with Gap 156 (sovereign immunity waiver) and Gap 231 (government entity accountability) for complete accountability framework
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article III-RF, Section 15.
+**RESOLVED.** Implemented as Article XIV, Section 17 (Abolition of Qualified Immunity) in `02-design/single-topic/judicial-reform.md`. Placement corrected from original "Article III-RF §15" (4 errors: wrong article designator, wrong architectural category, section gap, subject matter mismatch) to Article XIV §17 (standalone Judicial Reform, next available section). Gap 156 §(d) QI preservation is superseded by §17(l); Gap 156 will be formally amended when Gap 231 is resolved.
+
+**Design Decisions:**
+
+| Decision | Choice | Rationale |
+|----------|--------|-----------|
+| D1: Scope | Total abolition | Anything less invites judicial reconstruction |
+| D2: Good faith | Mitigates damages, cannot eliminate; defense to punitive only | Victim always compensated; intent matters for punishment |
+| D3: Indemnification | 10% personal floor with hardship adjustment (2% minimum) | Skin in the game without ruin; hardship caps by salary |
+| D4/D12: Insurance model | "Financial responsibility" — outcome mandated, mechanism deferred to statute | Future-proof; avoids constitutional operational detail |
+| D5: Topic-specific waivers | Supersession clause | Avoids negative pregnant; §17(l) subsumes all 6 existing waivers |
+| D6: Relationship to §6 | "Pursuant to Section 6(b)" — explicit implementation | Makes constitutional logic visible |
+| D7: Gap 156 conflict | Supersession now + amend later | §17(l) supersedes; Gap 156 §(d) amended with Gap 231 |
+| D8: Regional application | Compatibility clause in document; §17(n) dual-compatible | Follows established pattern |
+| D9: Gap 231 coordination | Sequential — §17 now, §18 next | Separate fights; clear coordination |
+| D10: Bankruptcy | Non-dischargeable — §17(k) | Enforcement essential; parallels fraud/willful injury |
+| D11: Supervisory liability | Explicit — §17(h) | Closes delegation/restructuring loophole |
+| D13: Statute of limitations | Discovery rule with concealment tolling — §17(j) | Can't depend on unresolved Gap 231 |
+| D14: Anti-reconstruction | "Clearly established" explicitly banned — §17(a) | Prevents judicial resurrection of QI |
+| D15: Under color of law | Defined to include misuse regardless of capacity label — §17(c) | Blocks official/personal capacity dodge |
+
+**Gaming Vectors Addressed:**
+
+| Vector | Mitigation |
+|--------|-----------|
+| G1: QI reconstruction | §17(a) bans "clearly established" and equivalent formulations |
+| G2: Indemnification end-run | §17(e) 10% personal floor; no indemnification for punitive/death/serious harm |
+| G3: Insurance subsidy wash | §17(f)(3) mandates risk-based pricing; implementing statute caps subsidy |
+| G4: "Significant interaction" line-drawing | §17(f) uses functional "officials exercising government authority"; categories defined by statute |
+| G5: Frivolous suit flood | §17(o)(3) mandates screening procedures; §17(i)(4) allows sanctions |
+| G6: Bankruptcy shield | §17(k) non-dischargeability for compensatory and punitive |
+| G7: Delegation layering | §17(h) supervisory liability for failure to train/supervise/correct |
+| G8: Legislative immunity expansion | §17(m) limits to acts "legislative in nature"; no invocation for executive/enforcement |
+| G9: Statute of limitations race | §17(j) discovery rule with concealment tolling |
+| G10: Capacity dodge | §17(c) defines "under color of law" to include misuse regardless of characterization |
 
 **Severity:** Critical | **Mitigability:** Manageable
 
@@ -917,196 +951,59 @@ Without explicit citizenship definition, any of the following interpretations be
 
 > *"The ancient doctrine of sovereign immunity says you cannot sue the King unless he gives you permission. In America, the government is the only entity that can destroy your life through negligence and not have to pay for it."*
 
-#### Problem Statement
+**Status:**
+**RESOLVED — Article XIV, Section 18** (Waiver of Sovereign Immunity). Also absorbs Gap 156 (Universal Accountability Failure). Together with Section 17 (Abolition of Qualified Immunity), forms the complete accountability pair: §17 (individual official) + §18 (government entity).
 
-The doctrine of "sovereign immunity" holds that the government cannot be sued without its consent. This medieval relic—"the King can do no wrong"—persists in American law, meaning victims of government negligence, misconduct, or constitutional violations often have no remedy.
+**Severity:** Critical | **Mitigability:** Manageable
 
-**The Core Vulnerability:**
+#### Design Decisions
 
-When the government causes harm, victims face obstacles no private defendant could hide behind:
+| Decision | Choice | Rationale |
+|----------|--------|-----------|
+| D1: Scope | D: Functional equivalence catch-all + enumerated categories | "Private entity performing the same function" avoids absurd comparisons; enumerated categories (constitutional violations, torts, contract, unjust enrichment) provide clarity |
+| D2: Discretionary function | B: Narrow retention for core sovereign functions | High-level policy formulation (whether to act) immune; execution/implementation liable |
+| D3: Feres doctrine | B: Combat exclusion only | Abolished for medical malpractice, training, toxic exposure, sexual assault; retained only for tactical combat decisions |
+| D4: Absolute immunity residual | D: Entity liable even when individual immune | Judge personally immune; state liable for systemic harm. Compensates victim without chilling judicial function |
+| D5: Damage caps | C: No statutory caps; remittitur preserved | Full compensation; courts retain standard proportionality review |
+| D6: Exhaustion | Modified A/C: 90-day base + exemptions | Constitutional claims, ongoing physical harm, and government concealment bypass exhaustion |
+| D7: Judgment fund | D: Hybrid | 180-day payment mandate, agency budget charging, judicial enforcement through contempt |
+| D8: Agency charging | B: Operational floor / deductible model | Agency bears first tranche (deterrent); judgment fund absorbs catastrophic excess |
+| D9: §17-§18 coordination | Modified A: Joint and several, no double recovery | Official and entity jointly liable; contribution rights by statute; independent punitive awards |
+| D10: Gap 156 | A: Full absorption | Universal waiver subsumes Gap 156's Region/State-only waiver; anti-retaliation and jurisdictional coordination ported to §18 |
+| D11: Contractor liability | D: Dual accountability | Government vicariously liable for contractor conduct in governmental functions; Boyle defense abolished; contractor independently liable for own negligence |
+| D12: Eleventh Amendment | A: Explicit supersession | Names 11th Amendment and Hans/Seminole Tribe/Alden progeny; forecloses litigation |
+| D13: Strict liability | Modified A/B: Parity baseline + wrongful imprisonment/deportation | Private-party parity for existing categories; strict liability added for wrongful imprisonment and wrongful deportation |
+| D14: Retroactivity | B: Limited retroactivity for ongoing harm | Prospective generally; applies to ongoing harm at ratification regardless of when initial harm began |
+| D15: Supersession | C: Supersession with savings clause | Universal standard replaces patchwork; stronger topic-specific remedies (e.g., treble damages) preserved |
+| D16: Anti-retaliation | Yes: Broad scope, presumption, mandatory remedies | Adverse-action scope covers employment, contracts, licensing, benefits, enforcement; one-year presumption; multi-level |
+| D17: Discovery/privilege | Yes: In-camera review, adverse inference, no dismissal on privilege | State secrets/deliberative process limited; court orders disclosure, substitute, or adverse inference; coordinates with Art. II §18 |
+| D18: Anti-reconstruction | Yes: Exclusive immunities | No new immunity doctrines by any name; §17(m) and §18(m) are exclusive |
+| D19: Government entity definition | Yes: Control + function test | Majority public ownership/control or delegated sovereign powers; explicitly includes GSEs/PPPs/SPVs |
+| D20: Transparency | Modified: Constitutional baseline | Judgments/settlements above threshold publicly reported; threshold/format by statute |
 
-- Federal Tort Claims Act requires permission to sue (with massive exceptions)
-- State sovereign immunity often provides total protection
-- Feres doctrine bars military personnel from suing for injuries
-- Discretionary function exception shields policy decisions
-- "Absolute immunity" protects many officials completely
+#### Gaming Vectors Addressed
 
-**Attack Vector:**
-
-> *Step 1:* Army Corps of Engineers negligently designs a dam
-> *Step 2:* Dam fails, destroying a town and killing 50 people
-> *Step 3:* Survivors sue the federal government for wrongful death and property destruction
-> *Step 4:* Government argues: "This was a discretionary function; we have sovereign immunity"
-> *Step 5:* Court dismisses the case—government concedes negligence but claims immunity
-> *Step 6:* Victims receive nothing; taxpayers unknowingly subsidized their destruction
-> *Step 7:* No accountability mechanism changes behavior
-
-**The Reality:**
-
-- Government destroyed the entire town of Love Canal through negligent waste disposal—limited recovery
-- Government negligently tested nuclear weapons on soldiers—Feres doctrine barred suits
-- Government wrongfully imprisoned innocent people for decades—caps limit recovery
-- VA hospitals kill veterans through malpractice—bureaucratic barriers prevent accountability
-- Police departments systematically violate rights—qualified immunity shields officers
-
-#### Gaming Vectors
-
-| Vector | Mechanism | Likelihood |
-|--------|-----------|------------|
-| Discretionary Function | Claim any decision was "policy" | High (routine) |
-| Feres Doctrine | Military personnel cannot sue | High (categorical) |
-| Westfall Act | Individual officials shielded by substituting U.S. | High |
-| Damage Caps | Recovery limits below actual harm | High |
-| Exhaustion Requirements | Bureaucratic barriers prevent suit | High |
-| Statute of Limitations | Short windows expire before harm discovered | Medium |
-
-**The Injustice:**
-
-Any private corporation that caused equivalent harm would face:
-
-- Unlimited compensatory damages
-- Punitive damages for negligence
-- Criminal prosecution for egregious misconduct
-- Regulatory sanctions
-
-The government alone operates outside this accountability structure.
-
-#### Proposed Constitutional Fix
-
-**Article III-RF, Section 16 — The Accountability Waiver**
-
-> **(a) Waiver of Sovereign Immunity**
-> The United Regions, each Region, each State, and each political subdivision thereof, waives sovereign immunity for:
->
-> - (1) Torts committed by government agents acting within the scope of employment;
-> - (2) Constitutional violations by any government entity or official;
-> - (3) Breach of contract to which the government is a party;
-> - (4) Unjust enrichment or taking without compensation;
-> - (5) Any harm caused by government action or inaction for which a private party would be liable.
->
-> This waiver is self-executing and may not be limited by statute.
->
-> **(b) Abolition of Immunity Exceptions**
-> The following immunity doctrines are abolished:
->
-> - (1) The "discretionary function" exception for negligent policy decisions;
-> - (2) The Feres doctrine barring military personnel from suit;
-> - (3) Absolute immunity for any official other than judges in judicial proceedings and legislators in legislative proceedings;
-> - (4) Any doctrine that shields government from liability for harm that would be actionable against a private defendant.
->
-> **(c) Liability Standard**
-> The government is liable on the same basis as a private person or corporation:
->
-> - (1) Negligence, gross negligence, and recklessness standards apply identically;
-> - (2) Respondeat superior applies to all government employees;
-> - (3) Strict liability applies where private defendants would face strict liability;
-> - (4) Vicarious liability applies to government contractors acting under government direction.
->
-> **(d) Damages**
-> Successful plaintiffs may recover:
->
-> - (1) Full compensatory damages without cap or limitation;
-> - (2) Punitive damages for gross negligence, recklessness, or intentional misconduct;
-> - (3) Attorney fees and costs as prevailing party;
-> - (4) Prejudgment interest from date of injury.
->
-> No statute may cap or limit damages for government tortfeasors below what would apply to private defendants.
->
-> **(e) Exhaustion Limitations**
-> Administrative exhaustion requirements:
->
-> - (1) May not exceed 90 days;
-> - (2) May not require more than one level of administrative review;
-> - (3) Are deemed exhausted if the agency fails to respond within the deadline;
-> - (4) May not apply to constitutional claims, which may proceed directly to court.
->
-> **(f) Statute of Limitations**
-> The limitations period for claims against the government:
->
-> - (1) Runs from discovery of injury, not from date of injury;
-> - (2) Is tolled during any period the government conceals relevant information;
-> - (3) Is tolled for any plaintiff under disability;
-> - (4) May not be shorter than the limitations period for equivalent private claims.
->
-> **(g) Judgment Fund**
-> Congress shall maintain a Judgment Fund sufficient to pay all judgments against the United Regions. Agencies whose conduct generates liability shall see such amounts charged against their appropriations.
->
-> **(h) Regional Application**
-> This section applies to:
->
-> - (1) The Federal Government and all agencies and instrumentalities;
-> - (2) Each Regional Government and all agencies and instrumentalities;
-> - (3) Each State and all agencies and instrumentalities;
-> - (4) Each county, municipality, and political subdivision;
-> - (5) Any entity exercising delegated government authority.
->
-> Regional and State constitutions may provide greater accountability but may not provide lesser.
-
-#### Design Rationale
-
-| Provision | Purpose |
-|-----------|---------|
-| Self-executing waiver (a) | Prevents legislative erosion of accountability |
-| Abolished exceptions (b) | Closes every immunity loophole |
-| Private-party parity (c) | Government liable same as any defendant |
-| Unlimited damages (d) | Harm fully compensated; no statutory caps |
-| Limited exhaustion (e) | Bureaucratic barriers cannot defeat claims |
-| Discovery-based limitations (f) | Victims have time to discover government harm |
-| Judgment Fund (g) | Ensures payment; charges responsible agencies |
-| Universal application (h) | No level of government exempted |
-
-**Why Abolish Discretionary Function Exception?**
-
-- Government claims virtually everything is "discretionary"
-- Negligent decisions are labeled "policy choices" to escape liability
-- Private companies cannot avoid negligence liability by calling decisions "discretionary"
-- The exception swallows the rule of accountability
-
-**Why Abolish Feres Doctrine?**
-
-- Military personnel are the only Americans who cannot sue for government malpractice
-- A soldier can sue a private hospital for negligence but not a military hospital
-- Doctrine was invented by courts, never enacted by Congress
-- Serving the nation should not strip constitutional rights
-
-**Why Charge Agencies?**
-
-- Currently, Judgment Fund pays without consequence to responsible agency
-- Charging agency budgets creates institutional incentive to prevent harm
-- Agencies will invest in safety when liability affects their resources
-- Budget consequence is only language bureaucracies understand
+| Vector | Mitigation |
+|--------|------------|
+| G1: Subsidiary dodge | §18(e) defines "government entity" by control + function test, not labels |
+| G2: Outsourcing shield | §18(d)(4) vicarious liability for contractors + Boyle defense abolished |
+| G3: Definitional narrowing | §18(l) anti-reconstruction clause bars immunity under any label |
+| G4: Damage calculation gaming | §18(f) full compensatory + remittitur standard matches private tort |
+| G5: Exhaustion manipulation | §18(g) 90-day cap + deemed exhausted + bypass for constitutional/ongoing/concealment |
+| G6: Jurisdiction stripping | §18(b) Eleventh Amendment supersession ensures federal court access |
+| G7: Budget starvation | §18(i)(2) operational floor protects essential services |
+| G8: Discovery resistance | §18(j) in-camera review + adverse inference; privilege cannot defeat claims |
+| G9: Intergovernmental finger-pointing | §18(n) joint and several liability; contribution by statute |
+| G10: Settlement coercion | §18(q) transparency requirement ensures public reporting of outcomes |
 
 #### Cross-Gap Interaction
 
 | Related Gap | Interaction |
 |-------------|-------------|
-| Gap 156 | Sovereign Shield (extends and strengthens sovereign immunity waiver) |
-| Gap 225 | Impunity Shield (qualified immunity for officials—complementary) |
-| Gap 217 | Terms of Service Trap (government can't waive citizen rights through contract) |
-| Gap 216 | In-House Judge (due process in administrative proceedings) |
-
-#### Risk Assessment
-
-| Dimension | Without Fix | With Fix |
-|-----------|-------------|----------|
-| Government Negligence | Victims often have no remedy | Full compensation available |
-| Discretionary Exception | Swallows most claims | Abolished |
-| Military Personnel | Cannot sue for government malpractice | Equal rights to other citizens |
-| Damage Caps | Limit recovery below actual harm | Full damages without cap |
-| Administrative Barriers | Exhaust victims before trial | 90-day maximum; deemed exhausted |
-| Agency Incentives | Judgment Fund shields agencies | Budget charging creates accountability |
-
-#### Implementation Priority
-
-**Tier:** P1 (Immediate)
-**Rationale:** Government harm occurs daily; victims currently denied remedies routinely available against private defendants; fundamental equal protection concern
-
-**Dependencies:** Coordinates with Gap 225 (official immunity) for complete accountability framework
-
-**Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article III-RF, Section 16.
-
-**Severity:** Critical | **Mitigability:** Manageable
+| Gap 156 | ABSORBED — Universal waiver subsumes Region/State-only waiver |
+| Gap 225 | RESOLVED — §17 (individual) + §18 (entity) = complete accountability pair |
+| Gap 217 | Terms of Service Trap — government can't waive citizen rights through contract |
+| Gap 216 | In-House Judge — due process in administrative proceedings |
 
 ---
 
