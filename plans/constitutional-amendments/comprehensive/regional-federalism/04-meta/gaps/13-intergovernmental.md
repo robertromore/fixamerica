@@ -5427,9 +5427,46 @@ Add to Article XVI (Interstate Commerce and Infrastructure), Section 12:
 > - (iii) in cases of deliberate deprivation causing harm, an Act of Aggression authorizing federal intervention.
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article XVI, Section 12.
+**RESOLVED — existing provisions provide comprehensive coverage exceeding the proposal.** No new constitutional text needed. The proposed "Article XVI, Section 12" placement was incorrect — the existing design addresses water/resource blackmail through Article I §7 (Water Rights and Shared Waterways), Article I §6 (Right of Transit and Non-Blockade), Article I §11 (Environmental Border Protection), and Article X §11-A(c) (Monopoly Rents Finding).
 
-**Severity:** Critical | **Mitigability:** Requires Development
+**Primary Coverage: Article I §7 (Water Rights) in 01-regional-structure.md**
+
+| Proposal Element | Existing Provision | Location |
+|---|---|---|
+| (a) Federal Commons designation | §7(a) shared resources subject to equitable apportionment | 01-regional-structure.md:596 |
+| (b)(i) No obstruction/diversion | §7(b) no unilateral diversion diminishing quantity or quality | 01-regional-structure.md:598 |
+| (c) Federal Water Commission | §7(e) Water Resources Coordination Board (multi-stakeholder) + §7(f) National Water Court with exclusive jurisdiction | 01-regional-structure.md:604-613 |
+| (d) Existing Compacts | §7(c) compacts remain in force unless superseded by Regional agreement or federal law | 01-regional-structure.md:600 |
+
+**Supplementary Coverage: Article I §6 (Right of Transit) in 01-regional-structure.md**
+
+| Proposal Element | Existing Provision | Location |
+|---|---|---|
+| (b)(ii) Transit fee limits | §6(u-v) 110% cost-plus ceiling; aggregate fee limitation | 01-regional-structure.md:486-500 |
+| (c)(iv) Emergency drought override | §6(d-f) 72-hour ARB review; federal operational assumption | 01-regional-structure.md:330-354 |
+| (e) Energy Corridor Protection | §6(a) non-obstruction of energy infrastructure; §6(j-k) rate regulation | 01-regional-structure.md:322, 380-394 |
+| (f) Enforcement | §6(m-o) full + treble damages, personal liability, federal operational assumption | 01-regional-structure.md:406-428 |
+
+**Additional Coverage:**
+
+| Provision | Coverage | Location |
+|---|---|---|
+| Article I §11 (Environmental Border Protection) | Transboundary harm prohibition; cumulative harm framework; shared ecosystem remediation fund | 01-regional-structure.md:1275-1315 |
+| Article X §11-A(c) (Monopoly Rents Finding) | IFC caps rates for geographic monopolies on vital utilities; excess revenue deemed monopoly rent and credited against equalization transfers | 04-fiscal-system.md:826-829 |
+| Article I §6(p-q) (NITS + Repeat Offender) | Transparency system; repeat offender designation losing unilateral authority | 01-regional-structure.md:430-484 |
+
+**Gaming Vector Coverage:**
+
+| Gaming Vector | Existing Mitigation |
+|---|---|
+| Conservation Emergency | §6(d-f): 72-hour ARB review; genuine safety necessity standard; §7(b): non-diversion prohibition |
+| Infrastructure Fee | §6(u-v): 110% cost-plus ceiling; §6(v): aggregate fee limitation; Article X §11-A(c): monopoly rent cap |
+| Environmental Protection | §7(b): non-degradation prohibition; §11(a): transboundary harm prohibition |
+| Agricultural Priority | §7(a): equitable apportionment principle; §7(f): National Water Court jurisdiction |
+
+**Note on scope:** The existing design exceeds the proposal in several areas: NITS transparency system, cumulative obstruction assessment, repeat offender designation, shared ecosystem remediation fund, specialized National Water Court with water law expertise, and tribal water rights protection (§7(d)). Minor residuals: drought override explicitness (§6(d-f) provides the mechanism but does not explicitly name drought as a trigger category) and compact status (existing says "remain in force" but does not elevate to constitutional status). A one-sentence addendum to §7 could close both if zero ambiguity is desired.
+
+**Severity:** Critical | **Mitigability:** Resolved
 
 ---
 
