@@ -3930,90 +3930,51 @@ This asymmetry means decades of diplomacy, alliance-building, and international 
 - 2020: Open Skies Treaty withdrawal
 - Threatened: NATO withdrawal
 
-#### Gaming Vectors
+#### Gaming Vectors (Post-Resolution)
 
-| Vector | Mechanism | Likelihood |
-|--------|-----------|------------|
-| Electoral Whiplash | Each election potentially reverses all treaties | High (structural) |
-| Hostage Taking | Threaten withdrawal to extract concessions from allies | High |
-| Fait Accompli | Announce withdrawal before Congress can respond | High |
-| Ambiguity Exploitation | Courts historically defer to executive on treaty withdrawal | High |
-| Notification Timing | Provide required notice during lame duck period | Medium |
+| # | Vector | Mechanism | Mitigation |
+|---|--------|-----------|------------|
+| G1 | Executive agreement substitution | Negotiate as executive agreements to avoid withdrawal constraints | §19(d) 4-year cap; classification by function not label |
+| G2 | Serial suspension | Repeatedly suspend treaty for 180 days | §19(e)(4) single use per treaty per term |
+| G3 | Pocket treaty | Senate committee blocks floor vote | §19(c) 60-day committee report mandate; deemed denied |
+| G4 | Treaty shopping | Prefer bilateral over multilateral to ease exit | Not addressed (structural diplomatic incentive) |
+| G5 | Interpretive withdrawal | Narrow interpretation as de facto withdrawal | Article XIV §8 de novo judicial interpretation |
+| G6 | Non-compliance withdrawal | Deliberate violation to provoke partner exit | Not addressed (diplomatic conduct beyond constitutional scope) |
+| G7 | Lame duck gaming | Time withdrawal notice to expire post-inauguration | §19(f) absolute transition freeze; §19(g) clock tolling |
+| G8 | Treaty-by-executive-order | Executive orders nullifying treaty obligations | §13 Faithful Execution mandate |
+| G9 | Senate hostage-taking | Refuse all withdrawal to extract concessions | Deemed denial is structural (addresses through status quo bias) |
+| G10 | Framework proliferation | Non-binding "political commitments" to avoid constraints | §19(d) classification by function |
 
-**The Credibility Crisis:**
+#### Resolution
 
-When any commitment can be reversed by the next President, rational treaty partners discount American promises. This undermines:
+**Resolved as Article II, Section 19** in `02-powers-and-rights.md` — Treaty and International Agreement Withdrawal.
 
-- Alliance credibility (NATO Article 5)
-- Arms control verification regimes
-- Trade agreement stability
-- Climate cooperation frameworks
-- Human rights treaty enforcement
+Placement corrected from original "Article II-RF, Section 6" (double error: "-RF" suffix invalid; Section 6 occupied by Regional Equivalence Exemptions). Article II §19 places the treaty withdrawal framework alongside the existing executive constraint provisions (§§11-18).
 
-#### Proposed Constitutional Fix
+**Core mechanism:** Senate majority consent required for treaty withdrawal; three-tier agreement framework (treaties, congressional-executive agreements, sole executive agreements); emergency suspension limited to single use per presidential term; absolute transition period freeze; indigenous treaty exemption.
 
-**Article II-RF, Section 6 — The Withdrawal Check**
+**Cross-reference:** §12(c)(3) transition-period prohibition harmonized with §19(f) absolute freeze during Transition Period.
 
-> **(a) Senate Consent for Withdrawal**
-> The President may withdraw the United States from a treaty ratified by the Senate only with the advice and consent of the Senate, by a majority vote of Senators present and voting.
->
-> **(b) Expedited Consideration**
-> Upon presidential submission of a withdrawal request:
->
-> - (1) The Senate Foreign Relations Committee shall report the request to the floor within 60 days;
-> - (2) The full Senate shall vote within 30 days of committee report;
-> - (3) If the Senate fails to vote within 90 days of submission, the request is deemed denied.
->
-> **(c) Emergency Withdrawal**
-> In cases of material breach by treaty partners, imminent threat to national security, or fundamental change of circumstances:
->
-> - (1) The President may suspend treaty obligations for up to 180 days pending Senate action;
-> - (2) Suspension requires written certification to Congress specifying the grounds;
-> - (3) If the Senate does not approve withdrawal within 180 days, obligations resume automatically.
->
-> **(d) Executive Agreements**
-> Executive agreements not submitted to the Senate for ratification may be terminated by the President unilaterally, but:
->
-> - (1) Congress may, by law, require Senate consent for termination of specified executive agreements;
-> - (2) Any executive agreement with duration exceeding four years must be submitted to the Senate as a treaty or approved by majority vote of both chambers.
->
-> **(e) Notification Requirements**
-> The President shall notify Congress and treaty partners at least 180 days before any intended withdrawal takes effect. No withdrawal may be initiated during the period between a presidential election and the inauguration of the next President.
->
-> **(f) Judicial Review**
-> Federal courts shall have jurisdiction to review whether withdrawal procedures have been followed. Courts shall not question the policy wisdom of withdrawal, only procedural compliance.
+#### Design Decisions
 
-#### Design Rationale
-
-| Provision | Purpose |
-|-----------|---------|
-| Senate consent (a) | Matches entry requirement with exit requirement |
-| Expedited consideration (b) | Prevents indefinite delay; deemed denial ends uncertainty |
-| Emergency suspension (c) | Addresses legitimate need for rapid response to breach |
-| Executive agreement limits (d) | Prevents treaty-by-another-name evasion |
-| Notification requirements (e) | Prevents lame duck sabotage; ensures orderly transition |
-| Judicial review (f) | Courts can enforce procedure without second-guessing policy |
-
-**Why Majority Rather Than Two-Thirds for Withdrawal?**
-
-- Entry requires building supermajority consensus for new commitment
-- Withdrawal only requires majority affirmation that commitment should end
-- Higher threshold would make exit nearly impossible even when warranted
-- Asymmetry between entry and exit is appropriate here
-
-**Why Deemed Denial for Inaction?**
-
-- Prevents silent pocket veto by Senate inaction
-- Forces deliberate choice: approve withdrawal or let it fail
-- Matches emergency sunset approach (Gap 227)
-- Default preserves existing commitments
-
-**Why Prohibit Lame Duck Withdrawal?**
-
-- Prevents outgoing President from sabotaging successor
-- Election results reflect public judgment on foreign policy
-- Incoming administration should make consequential decisions
-- 180-day notice requirement makes lame duck withdrawal mechanically difficult
+| Decision | Resolution |
+|----------|------------|
+| D1: Placement | Article II §19 in 02-powers-and-rights.md |
+| D2: Withdrawal threshold | Simple majority of Senate |
+| D3: Transition harmonization | Hard freeze — §12(c)(3) absolute prohibition during Transition Period; §19(f) tolls all clocks |
+| D4: Agreement framework | Three-tier: Treaties (2/3 entry, majority exit); CEAs (bicameral entry, statutory repeal exit); Sole executive (4-year cap, coterminous with administration) |
+| D5: Emergency suspension | Non-renewable — single suspension per treaty per presidential term; extension requires Senate authorization |
+| D6: War powers interaction | Article XI §2(b)(3) treaty obligation exception tolls during suspension |
+| D7: International organizations | Withdrawal governed by entry instrument (treaty-based IOs require Senate consent) |
+| D8: Reservations | Material modifications to reservations/interpretive declarations require Senate consent |
+| D9: Implementation legislation | Domestic primacy — if Congress repeals implementing statute, President must submit withdrawal request within 90 days |
+| D10: Default for inaction | Deemed denied (status quo bias preserving treaties) |
+| D11: Regional consultation | Via Senate representation; no separate Governor consultation layer |
+| D12: Conditions/riders | Single-subject rule — withdrawal requests and consent votes must be clean |
+| D13: Retroactive application | All existing treaties subject to new withdrawal requirements |
+| Additional: Indigenous treaties | Exempt — Article XXIII governs exclusively; requires FPIC |
+| Additional: Definitions | Functional definitions included (treaty, CEA, sole executive, withdrawal, material modification) |
+| Additional: Public justification | Required with withdrawal request submission |
 
 #### Cross-Gap Interaction
 
@@ -4023,16 +3984,7 @@ When any commitment can be reversed by the next President, rational treaty partn
 | Gap 219 | Unread Law (treaty terms must be accessible) |
 | Gap 227 | Emergency Zombie (emergency suspension has similar sunset logic) |
 | Gap 221 | Secret Law (treaty interpretations must be public) |
-
-#### Risk Assessment
-
-| Dimension | Without Fix | With Fix |
-|-----------|-------------|----------|
-| Treaty Durability | Every treaty at risk each election | Commitments survive transitions |
-| Allied Trust | Partners discount American promises | Credibility restored through process |
-| Presidential Power | Unilateral withdrawal unchecked | Withdrawal requires democratic consent |
-| International Standing | Perceived as unreliable partner | Process signals serious commitment |
-| Emergency Response | Adequate (no treaty requires immediate exit) | Preserved through suspension mechanism |
+| Gap 234 | Scorched Earth (transition integrity protects treaty obligations) |
 
 #### Implementation Priority
 
@@ -4042,7 +3994,7 @@ When any commitment can be reversed by the next President, rational treaty partn
 **Dependencies:** None — self-contained foreign affairs reform
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article II-RF, Section 6.
+**RESOLVED.** Integrated as Article II, Section 19 in `02-powers-and-rights.md`. Cross-reference added to §12(c)(3). Design Rationale entries added. Article crosswalk updated.
 
 **Severity:** Critical | **Mitigability:** Manageable
 

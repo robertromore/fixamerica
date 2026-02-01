@@ -972,7 +972,7 @@ An officeholder who formally declares non-alignment with any party shall not be 
 
 - (1) Issue executive orders with prospective effect beyond the current term;
 - (2) Promulgate regulations unless required by statutory deadline or genuine emergency;
-- (3) Withdraw from treaties or international agreements;
+- (3) Withdraw from treaties or international agreements (see Section 19 for general withdrawal procedures; this subsection provides an absolute prohibition during the Transition Period);
 - (4) Declassify information except upon written request specifying national security need;
 - (5) Remove inspectors general, the FBI Director, or special counsels;
 - (6) Fill vacancies in positions with terms extending beyond the current term, except acting appointments.
@@ -1363,6 +1363,86 @@ Classification of operational details does not authorize classification of legal
 
 ---
 
+### Section 19. Treaty and International Agreement Withdrawal
+
+*Resolves Gap 228 — The "Treaty Toggle" (Foreign Policy Whiplash). Establishes procedural requirements for withdrawal from treaties and international agreements, closing the constitutional asymmetry whereby the President can unilaterally undo commitments that required a Senate supermajority to enter. Together with Section 12(c) (Transition Integrity), this section ensures that international commitments reflect democratic consent for both entry and exit.*
+
+(a) **Definitions.** For purposes of this section:
+
+- (1) "Treaty" means any international agreement submitted to and ratified by the Senate under the Treaty Clause;
+- (2) "Congressional-executive agreement" means any international agreement approved by majority vote of both chambers of Congress;
+- (3) "Sole executive agreement" means any international agreement entered into by the President without congressional approval;
+- (4) "Withdrawal" means denunciation, termination, suspension of all obligations, or any action that has the legal effect of ending participation in a treaty or international agreement;
+- (5) "Material modification" means the addition, removal, or alteration of a reservation, understanding, or interpretive declaration that substantially changes the scope of obligations under the agreement.
+
+(b) **Senate Consent for Treaty Withdrawal.** The President may withdraw the United States from a treaty ratified by the Senate only with the advice and consent of the Senate, by a majority vote of the members present and voting.
+
+(c) **Expedited Consideration.**
+
+- (1) Upon presidential submission of a withdrawal request, the Senate Foreign Relations Committee shall report the request to the floor within sixty (60) days;
+- (2) The full Senate shall vote within thirty (30) days of committee report;
+- (3) If the Senate fails to vote within ninety (90) days of submission, the request is deemed denied;
+- (4) The withdrawal request shall be accompanied by a published justification stating the grounds for withdrawal and an assessment of economic, national security, and diplomatic consequences, including impacts on Regions whose economies are materially affected.
+
+(d) **Three-Tier Agreement Framework.**
+
+- (1) *Treaties.* Entry requires two-thirds of the Senate; withdrawal requires a majority of the Senate under subsection (b);
+- (2) *Congressional-executive agreements.* Withdrawal requires the same approval as entry: majority vote of both chambers, or statutory repeal by the same process;
+- (3) *Sole executive agreements.* The President may terminate sole executive agreements unilaterally, subject to the following limitations:
+    - (i) No sole executive agreement may have a duration exceeding four (4) years;
+    - (ii) Renewal, extension, or replacement of a sole executive agreement counts as a new agreement for purposes of the four-year limit;
+    - (iii) Any sole executive agreement that the President intends to continue beyond four years must be submitted to the Senate as a treaty or approved by majority vote of both chambers as a congressional-executive agreement;
+    - (iv) Congress may, by law, require Senate consent for termination of specified sole executive agreements before their expiration.
+- (4) *Classification by function.* The substance of an international agreement, not its label, determines its classification under this section. An agreement that would require Senate ratification under the Treaty Clause may not be denominated a "sole executive agreement" or "political commitment" to avoid the requirements of this section.
+
+(e) **Emergency Suspension.**
+
+- (1) In cases of material breach by treaty partners, imminent threat to national security, or fundamental change of circumstances as recognized under international law, the President may suspend treaty obligations for up to one hundred eighty (180) days;
+- (2) Suspension requires written certification to Congress specifying the factual grounds;
+- (3) If the Senate does not approve withdrawal within one hundred eighty (180) days of suspension, obligations resume automatically;
+- (4) *Single suspension limit.* The President may invoke emergency suspension only once per treaty per presidential term. Any further suspension of the same treaty requires Senate authorization by majority vote;
+- (5) Emergency suspension is judicially reviewable for factual basis; courts may order immediate reinstatement of obligations upon finding that the certification lacked substantial evidence.
+
+(f) **Transition Period Freeze.** During the Transition Period as defined in Section 12(a):
+
+- (1) The prohibition in Section 12(c)(3) applies absolutely: the President may not initiate, execute, or finalize withdrawal from any treaty or international agreement;
+- (2) All notice periods, Senate consideration deadlines, and suspension clocks under this section are tolled during the Transition Period;
+- (3) No emergency suspension may be initiated during the Transition Period;
+- (4) Any withdrawal notice submitted to treaty partners during the Transition Period is void.
+
+(g) **Notification Requirements.**
+
+- (1) The President shall notify Congress and treaty partners at least one hundred eighty (180) days before any intended withdrawal takes effect;
+- (2) The notice period under subsection (g)(1) is tolled during any Transition Period under subsection (f)(2).
+
+(h) **Reservations and Interpretive Declarations.** A material modification of a treaty — including the addition, removal, or alteration of any reservation, understanding, or interpretive declaration that substantially narrows the obligations of the United States — requires the advice and consent of the Senate by a majority vote. Technical clarifications that do not alter the scope of obligations do not require consent.
+
+(i) **Implementation Legislation.**
+
+- (1) If Congress repeals the domestic implementing legislation for a treaty, domestic law changes immediately upon the effective date of the repeal;
+- (2) Following such repeal, the President shall submit a withdrawal request to the Senate within ninety (90) days;
+- (3) Until withdrawal is completed under this section, the United States remains bound under international law; non-compliance during this period shall not constitute grounds for any adverse domestic legal consequence against private parties.
+
+(j) **War Powers Coordination.** During any period of treaty suspension under subsection (e), the authority to deploy armed forces under the treaty obligation exception in Article XI, Section 2(b)(3) is suspended with respect to that treaty. Resumption of treaty obligations automatically restores the exception.
+
+(k) **Indigenous Treaty Exemption.** This section does not apply to treaties between the United States and Indigenous Nations, which are governed exclusively by Article XXIII (Indigenous Sovereignty Preservation) and may not be withdrawn, terminated, or materially modified without the free, prior, and informed consent of the affected Indigenous Nation or Nations.
+
+(l) **Single-Subject Requirement.** A Senate resolution consenting to treaty withdrawal may address only that withdrawal and may not include unrelated conditions, policy riders, or appropriations.
+
+(m) **Judicial Review.** Federal courts shall have jurisdiction to review whether withdrawal procedures under this section have been followed. Courts shall not question the policy wisdom of withdrawal, only procedural compliance.
+
+(n) **Retroactive Application.** This section applies to all treaties and international agreements in force at the time of adoption, regardless of when ratified. Any withdrawal process commenced before adoption that has not been completed must comply with this section before taking effect.
+
+(o) **Implementing Legislation.** Congress shall, by law:
+
+- (1) establish procedures for expedited Senate consideration of withdrawal requests;
+- (2) define standards for classification of agreements under subsection (d)(4);
+- (3) establish the format and content requirements for withdrawal justifications under subsection (c)(4);
+- (4) define "material modification" for purposes of subsection (h);
+- (5) establish procedures for treaty-implementation-repeal reconciliation under subsection (i).
+
+---
+
 ## ARTICLE III - RIGHTS FLOORS AND SUBSIDIARITY
 
 ### Section 1. Floors, Not Ceilings
@@ -1609,6 +1689,22 @@ Section 5(c) limits citizenship loss to three grounds: voluntary renunciation, t
 ### Why Explicit Jus Sanguinis?
 
 Under current law, children born abroad to U.S. citizen parents receive citizenship by statute (8 U.S.C. §1401), not by constitutional right. This means Congress could theoretically revoke jus sanguinis citizenship for future births. Section 5(a)(2) elevates this to a constitutional right while preserving congressional authority over administrative procedures — ensuring that no American family serving abroad, in the military, or in diplomatic service risks having their children's citizenship depend on the whims of a future Congress.
+
+### Why Senate Consent for Treaty Withdrawal?
+
+The Constitution requires a two-thirds Senate supermajority to enter treaties but is silent on withdrawal. Courts have never definitively resolved whether the President can unilaterally exit treaties, and practice has drifted toward executive unilateralism (Paris Climate Agreement, Iran nuclear deal, INF Treaty, Open Skies Treaty). Section 19 restores the democratic consent principle: if broad consensus is needed to bind the nation, some level of democratic consent should be needed to unbind it. Simple majority (rather than two-thirds) for exit avoids creating "zombie treaties" that a majority opposes but a minority blocks from termination, while the emergency suspension mechanism handles genuine crises without bypassing the Senate.
+
+### Why a Three-Tier Agreement Framework?
+
+Modern international commitments take three forms — treaties (Senate ratification), congressional-executive agreements (bicameral approval), and sole executive agreements (President alone) — but the Constitution addresses only the first. Section 19(d) closes this gap by applying withdrawal constraints matched to the entry instrument. The four-year hard cap on sole executive agreements prevents Presidents from using the "executive agreement" label to create durable commitments that bypass the Senate, while ensuring that agreements intended to outlast an administration receive congressional endorsement.
+
+### Why Exempt Indigenous Treaties?
+
+Treaties between the United States and Indigenous Nations are sui generis — they are domestic compacts between a sovereign and dependent nations, not foreign affairs instruments. Article XXIII already requires free, prior, and informed consent for any action that diminishes tribal sovereignty or modifies treaty rights. Section 19(k) makes explicit that this general withdrawal framework does not override those protections, preventing any argument that the new treaty withdrawal process could be used to unilaterally terminate indigenous treaty obligations.
+
+### Why a Single-Suspension Limit?
+
+Without an explicit limit, a President could perpetually suspend a treaty through serial 180-day certifications, achieving de facto withdrawal without ever obtaining Senate consent. Section 19(e)(4) limits emergency suspension to once per treaty per presidential term, forcing the President to seek Senate consent if the situation persists beyond six months. This preserves executive flexibility for genuine emergencies while closing the serial-suspension loophole.
 
 ---
 
