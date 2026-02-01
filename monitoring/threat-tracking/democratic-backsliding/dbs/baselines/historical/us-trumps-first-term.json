@@ -1,0 +1,39 @@
+{
+  "baseline_id": "us-trump-first-term",
+  "baseline_type": "historical_calibration",
+  "description": "United States structural baseline covering the 2017-2021 period",
+  "period": "2017-2021",
+  "period_notes": "Characterized by democratic backsliding, executive overreach, and the first modern U.S. transition from 'Full' to 'Flawed' democracy.",
+  "dbs_range": {
+    "low": 20,
+    "mid": 25,
+    "high": 30
+  },
+  "tier": "Eroding democracy / Flawed democracy",
+  "pathway_mode": "executive_aggrandizement",
+  "key_checkpoints": {
+    "B3": 3,
+    "D7": 4,
+    "D9": 2,
+    "E3": 4
+  },
+  "checkpoint_notes": {
+    "B3": "Intensified racial disparities in justice and immigration enforcement; massive civil rights protests (2020) highlighted systemic issues.",
+    "D7": "Sophistication of partisan gerrymandering increased; technical efforts to control redistricting and redraw maps grew.",
+    "D9": "Pandemic-era voting changes expanded access in some areas but were met with systematic challenges to election legitimacy and subversion attempts in 2020.",
+    "E3": "Systematic use of misinformation by domestic actors; toxic polarization peaked; media environments characterized by pluralism but extreme partisan silos."
+  },
+  "red_lines_triggered": ["executive_overreach", "election_subversion_attempt"],
+  "diagnostic_flags": [
+    "toxic_polarization",
+    "norm_erosion",
+    "judicial_reshaping"
+  ],
+  "narrative": "The 2017-2021 baseline reflects a significant deterioration from the pre-2016 norm. The U.S. was reclassified as a 'Flawed Democracy' by the EIU due to a sharp decline in public trust and government functioning. Key markers included executive aggrandizement, the purging of perceived opponents from the bureaucracy, and persistent attacks on the free press and judiciary. The period culminated in an unprecedented challenge to the peaceful transfer of power following the 2020 election. This baseline of 25 accounts for these systemic stressors while noting that institutional guardrails largely remained intact despite being significantly shaken.",
+  "scholarly_sources": [
+    "Levitsky, Steven and Daniel Ziblatt. 'How Democracies Die.' Crown (2018)",
+    "Freedom House. 'Freedom in the World 2021: Democracy under Siege.' (2021)",
+    "V-Dem Institute. 'Democracy Report 2021: Autocratization Turns Viral.' (2021)"
+  ],
+  "comparison_guidance": "Use this to measure shifts during the Trump administration's initial tenure. A score of 25 reflects an environment where structural issues have moved from 'imperfections' to 'systemic threats.' Comparison against the pre-2016 baseline (15) shows a 10-point deterioration primarily driven by E3 (disinformation) and executive overreach."
+}

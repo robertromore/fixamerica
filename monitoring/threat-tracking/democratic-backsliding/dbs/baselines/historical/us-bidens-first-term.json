@@ -1,0 +1,39 @@
+{
+  "baseline_id": "us-biden-first-term",
+  "baseline_type": "historical_calibration",
+  "description": "United States structural baseline covering the 2021-2025 period, defined by efforts to restore institutional norms alongside persistent systemic polarization.",
+  "period": "2021-2025",
+  "period_notes": "Represents a period of institutional stabilization and 'recovering backslider' status, though structural malarise and polarization prevented a return to pre-2016 scoring levels.",
+  "dbs_range": {
+    "low": 18,
+    "mid": 21,
+    "high": 24
+  },
+  "tier": "Stabilizing / Flawed democracy",
+  "pathway_mode": "institutional_restoration",
+  "key_checkpoints": {
+    "B3": 2,
+    "D7": 4,
+    "D9": 1,
+    "E3": 4
+  },
+  "checkpoint_notes": {
+    "B3": "Efforts were made to address systemic disparities through executive orders on racial equity and police accountability, though fundamental legislative reform remained elusive.",
+    "D7": "Partisan gerrymandering remained a dominant structural constraint following the 2020 redistricting cycle, with legal challenges producing mixed results across states.",
+    "D9": "Election integrity was tested but held; the 2024 general election proceeded smoothly with results widely accepted and no significant subversion attempts materialized.",
+    "E3": "Domestic and foreign disinformation remained a systemic threat, with the 'information landscape' characterized by extreme partisan silos despite a vibrant and free press."
+  },
+  "red_lines_triggered": [],
+  "diagnostic_flags": [
+    "institutional_restoration_attempt",
+    "persistent_toxic_polarization",
+    "judicial_diversification"
+  ],
+  "narrative": "The 2021-2025 baseline reflects a period of contested restoration. Following the 2021 transition, the administration prioritized the repair of democratic norms, rescinding restrictive executive orders and confirming a historically diverse judiciary to restore public trust. However, the U.S. remained classified as a 'Flawed Democracy' by major indices due to chronic legislative gridlock and the persistence of 'election deniers' in local and federal roles. While the 2024 election successfully avoided the subversion attempts seen in 2020, the overall score of 21 accounts for a 'democratic malaise' where institutions functioned but failed to resolve the underlying structural weaknesses of the previous decade.",
+  "scholarly_sources": [
+    "V-Dem Institute. 'Democracy Report 2025: 25 Years of Autocratization.' (2025)",
+    "Freedom House. 'Freedom in the World 2025: United States Country Report.' (2025)",
+    "The Economist Intelligence Unit (EIU). 'Democracy Index 2024.' (2025)"
+  ],
+  "comparison_guidance": "Use this baseline to evaluate the impact of institutional stabilization efforts. Compared to the Trump first-term baseline (25), this period shows a 4-point improvement driven by the successful 2024 transfer of power and judicial restoration. However, it remains 6 points higher than the pre-2016 baseline (15), reflecting that the 'new normal' of American democracy includes higher systemic risks regarding disinformation and partisan gridlock."
+}
