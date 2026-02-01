@@ -324,7 +324,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 199 | Family fracture (status portability) | High | Requires Development |
 | 201 | Seditious curriculum (indoctrination trap) | Critical | ✅ Resolved |
 | 203 | Indentured student (brain drain tax) | Critical | ✅ Resolved |
-| 204 | Tower of Babel (linguistic fragmentation) | Critical | Requires Development |
+| 204 | Tower of Babel (linguistic fragmentation) | Critical | ✅ Resolved |
 | 240 | Legal kidnapping (extradition abuse) | Critical | ✅ Resolved |
 | 253 | Ghost nations (indigenous sovereignty / treaty sovereignty clause) | Critical | ✅ Resolved |
 | 254 | Violent exit (secession ambiguity / clarity & continuity act) | Critical | ✅ Resolved |

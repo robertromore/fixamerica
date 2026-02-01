@@ -1639,6 +1639,8 @@ This Section mandates knowledge, not belief.
 
 (4) *Assessment Standards.* The Assessment shall test factual knowledge and structural understanding only. It may not test political opinions, ideological agreement, or policy preferences.
 
+(5) *Language and Literacy.* *Resolves Gap 204 — The "Tower of Babel" (Linguistic Fragmentation).* The Assessment shall be administered in English and shall include an English reading comprehension component sufficient to demonstrate the ability to read and understand this Constitution, federal statutes, and federal court proceedings. Reasonable accommodations shall be provided for persons with documented disabilities affecting language processing. Remediation materials under paragraph (3)(ii) shall include English literacy instruction.
+
 (h) **Enforcement.**
 
 (1) *Public Schools.* Upon a finding by the Commission that a Region's public education system fails to implement the Civic Baseline:

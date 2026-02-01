@@ -2239,6 +2239,76 @@ No entity exercising governmental authority may be governed by corporate-weighte
 
 ---
 
+### Section 25. Linguistic Infrastructure
+
+*Resolves Gap 204 — The "Tower of Babel" (Linguistic Fragmentation). Establishes English as the language of record for federal and inter-Regional operations while preserving Regional multilingualism, protecting indigenous language heritage, and ensuring constitutional literacy across generations.*
+
+#### Language of Record
+
+(a) **English as Language of Record.** English is hereby designated the language of record for:
+
+(1) all federal laws, regulations, executive orders, and official acts of the United States;
+
+(2) all proceedings, filings, orders, and judgments of federal courts;
+
+(3) all official acts, records, and judicial proceedings entitled to recognition under the Full Faith and Credit Clause (Section 9(a) of this Article);
+
+(4) all inter-Regional contracts, agreements, and official communications requiring enforcement or recognition across jurisdictional boundaries.
+
+(b) **Controlling Text.** Where a conflict exists between an English-language record and a translation in another language, the English-language record controls.
+
+#### Language of Access
+
+(c) **Translation and Interpretation Services.** Nothing in subsection (a) prohibits any level of government from providing services, communications, or documents in languages other than English. Governments shall provide interpretation and translation services in:
+
+(1) federal and Regional court proceedings, to ensure meaningful participation by non-English-speaking parties, witnesses, and jurors;
+
+(2) emergency services, including law enforcement, fire, medical, and disaster response;
+
+(3) voting and election administration, consistent with applicable rights floors;
+
+(4) access to federal benefits and programs.
+
+(d) **Cost Allocation.** The cost of interpretation and translation for federal services shall be borne by the federal government. For Regional and State services, the cost shall be borne by the serving jurisdiction.
+
+#### Regional Language Autonomy
+
+(e) **Regional Authority Preserved.** Regions retain authority to:
+
+(1) conduct Regional legislative deliberation, executive administration, and internal government operations in any language or combination of languages;
+
+(2) offer public services and education in any language, provided that English instruction sufficient to achieve the constitutional literacy standard of Article II, Section 21(g) is available to all students satisfying compulsory education requirements;
+
+(3) designate additional official languages for Regional purposes.
+
+(f) **English Records for Inter-Regional Purposes.** All Regional statutes, regulations, and judicial records shall be available in English for purposes of Full Faith and Credit recognition, inter-Regional enforcement, and federal judicial review.
+
+#### Non-Suppression of Languages
+
+(g) **Private Language Use Protected.** No level of government may:
+
+(1) prohibit, penalize, or discourage the use of any language in private speech, commerce, worship, or association;
+
+(2) condition employment, licensing, or public benefits on exclusive use of English, except where English proficiency is a documented operational necessity for the specific position;
+
+(3) suppress, defund, or obstruct programs for the preservation or instruction of heritage languages, including indigenous languages, immigrant community languages, and sign languages.
+
+#### Indigenous Language Preservation
+
+(h) **Tribal Language Authority.** Consistent with Article XXIII (Indigenous Sovereignty Preservation):
+
+(1) Indigenous Nations retain full authority to conduct tribal government, education, and cultural activities in tribal languages;
+
+(2) nothing in this Section alters tribal authority over education within tribal jurisdictions;
+
+(3) tribal citizens seeking federal credentials, federal employment, or recognition of diplomas outside tribal jurisdiction shall demonstrate English literacy through the National Civic Competency Assessment under Article II, Section 21(g).
+
+#### Inter-Regional Professional Practice
+
+(i) **English Proficiency as Universal Baseline.** English proficiency sufficient for inter-Regional professional communication constitutes a universal baseline for credential portability under Section 9 of this Article, and is not a supplementary or Region-specific requirement subject to the limitations of Section 9(h)-(i).
+
+---
+
 ## Part II: Schedule A - Initial Regional Boundaries
 
 The following Regions are established upon ratification. These boundaries may be revised pursuant to Article I, Section 4.

@@ -6709,9 +6709,72 @@ Add to Article I-RF, Section 9 — Standard of Administration:
 **Dependencies**: Interacts with education policy (Gap 201); requires coordination with civil rights protections
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article I-RF, Section 9.
+**RESOLVED.** Hybrid resolution: Article I, Section 25 (Linguistic Infrastructure) in `02-design/constitution/01-regional-structure.md` + Article II, Section 21(g)(5) (Language and Literacy) in `02-design/constitution/02-powers-and-rights.md`.
 
-**Severity:** Critical | **Mitigability:** Requires Development
+**Severity:** Critical | **Mitigability:** ✅ Resolved
+
+### Resolution Record
+
+**Design Decisions:**
+
+| Decision | Choice | Rationale |
+|----------|--------|-----------|
+| D1: Placement | Hybrid: Art I §25 + Art II §21(g)(5) | Infrastructure in Article I; literacy in existing Assessment |
+| D2: §21 relationship | Hybrid: separate infrastructure + integrated literacy | Language broader than civic education; reuse Assessment |
+| D3: Authority | Non-education framing + §21 exception | Federal/inter-Regional language is infrastructure, not education; education literacy uses existing §21 exception |
+| D4: Scope | Language of record + language of access | English records binding; multilingual services preserved |
+| D5: Literacy overlap | English literacy component added to §21(g) | Assessment now administered in English; closes the "Spanish assessment" loophole |
+| D6: First Amendment | Government-speech + neutrality | Private language use explicitly protected; no compelled affirmation |
+| D7: Non-discrimination | Translation duties for courts/emergency/voting/benefits | Cost allocated: federal for federal services, jurisdiction for Regional |
+| D8: Indigenous languages | Negative right + literacy pathway | Tribal education authority preserved (Art XXIII); English via Assessment for federal credentials |
+| D9: Enforcement | Via existing §21(h) | English Assessment + graduated enforcement chain already exists; no separate mechanism needed |
+| D10: Regional autonomy | Outcome-based | Internal operations in any language; English records for inter-Regional purposes |
+| D11: Credentials | English as universal baseline | Not "Region-specific knowledge" under §9(h)-(i) |
+| D12: Record vs. access | Both | English of record controls in conflicts; language of access preserved for services |
+
+**Coverage — New Provisions:**
+
+| New Provision | Coverage |
+|---|---|
+| Art I §25(a)-(b): Language of Record | English designated for federal acts, courts, FFC, inter-Regional contracts; English controls in conflicts |
+| Art I §25(c)-(d): Language of Access | Translation/interpretation required for courts, emergency, voting, benefits; cost allocation |
+| Art I §25(e)-(f): Regional Autonomy | Internal multilingualism preserved; English records required for inter-Regional purposes |
+| Art I §25(g): Non-Suppression | Private language use protected; heritage language preservation protected |
+| Art I §25(h): Indigenous Preservation | Tribal language authority preserved; English literacy via Assessment for federal credentials |
+| Art I §25(i): Professional Practice | English proficiency is universal baseline, not Region-specific requirement |
+| Art II §21(g)(5): Language and Literacy | Assessment administered in English; English reading comprehension component; disability accommodations; English literacy remediation |
+
+**Coverage — Existing Provisions (Reinforced):**
+
+| Existing Provision | How Reinforced |
+|---|---|
+| Art I §9(a) Full Faith and Credit | §25(a)(3) makes English the language for FFC documents |
+| Art II §21(g) Civic Competency Assessment | §21(g)(5) adds English administration and reading comprehension |
+| Art II §21(h) Enforcement | Existing graduated enforcement now covers English literacy via Assessment chain |
+| Art XXIII Indigenous Sovereignty | §25(h) explicitly preserves tribal language authority |
+| Art I §9(h)-(i) Credential Recognition | §25(i) clarifies English proficiency is not a protectionist barrier |
+
+**Gaming Vector Analysis:**
+
+| Vector | Status |
+|--------|--------|
+| Cultural Autonomy Defense | Addressed — non-education framing; §25 is infrastructure, not curriculum |
+| Gradual Transition | Addressed — Assessment enforces English literacy each generation; §21(h) catches decline |
+| Practical Necessity | Addressed — language of access preserved; English is language of record, not language of exclusion |
+| Sovereignty Claim | Addressed — Regional autonomy explicitly preserved for internal operations |
+| Assessment Language Gaming | Addressed — §21(g)(5) mandates English administration |
+| Translation Burden Shifting | Partially addressed — §25(f) requires English records but no quality/timeline standard |
+| Technical Compliance | Addressed — Assessment tests actual reading comprehension, not instruction hours |
+| Private School End-Run | Addressed — Assessment applies to all diploma-issuing institutions via §21(g)(2) |
+| Tribal Shield | Addressed — §25(h) explicitly coordinates with Art XXIII |
+| Digital Bypass | Residual — "available in English" for digital services not specified |
+| Generational Fade | Addressed — Assessment enforces per-student literacy; institutional decline triggers §21(h) |
+
+**Residual Notes:**
+
+1. Translation quality standard: §25(f) requires English records but does not specify quality standards or timelines. A Region could technically comply with machine-translated records. Mitigated by: federal courts can reject inadequate translations under existing procedural rules.
+2. Digital services: §25 addresses documents and records but not interactive digital services (AI assistants, government apps). Mitigated by: §25(a)(1) covers "official acts" which includes digital service delivery.
+3. "Alongside" ambiguity: §25(e)(2) says "provided that English instruction sufficient to achieve the constitutional literacy standard" without specifying how much English instruction or when. Mitigated by: outcome-based enforcement via Assessment — the measure is student literacy, not instruction hours.
 
 ---
 
