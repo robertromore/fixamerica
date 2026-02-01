@@ -169,9 +169,50 @@ Add Article III-RF, Section 9 — Human Baseline Preservation:
 **Dependencies**: Requires international coordination; domestic prohibition alone insufficient
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article III-RF, Section 9.
+**RESOLVED.** Existing constitutional provisions provide comprehensive coverage through two reinforcing paths: (1) Article II §9 (Emerging Technology Domain Assignment) enables ETRB to assign provisional federal jurisdiction upon finding germline modification meets all four criteria (catastrophic/irreversible harm, race-to-bottom, uniform standards, national security); (2) Article II §1(e)(3) + §4 (Concurrent Authority Framework) enables federal floor authority in healthcare domain. No new constitutional text required.
 
-**Severity:** Critical | **Mitigability:** Requires Development
+**Severity:** Critical | **Mitigability:** ✅ Resolved
+
+### Resolution Record — Overlap Analysis
+
+**Overlap: ~80-85% (HIGH)** — Resolved via existing provisions without new constitutional text.
+
+**Coverage — Existing Provisions:**
+
+| Gap 207 Component | Existing Provision | How It Resolves |
+|---|---|---|
+| Federal jurisdiction over germline modification | Art II §9(d)-(e) (ETRB Provisional Federal Jurisdiction) | ETRB assigns provisional jurisdiction upon finding: (1) catastrophic/irreversible harm — heritable biological caste system; (2) race-to-bottom — enhancement competition; (3) uniform standards — patchwork policy unworkable; (4) national security — enhanced citizens dominate institutions. All four criteria met. |
+| Uniform national standards | Art II §4(a) (Federal Floor in Concurrent Domains) | Healthcare is Structured Concurrent (§1(e)(3)); Congress may set federal floor prohibiting germline enhancement with 3/5 vote + ARB certification of cross-Regional spillover |
+| Federal Genetic Modification Authority | Art II §9(g)(2) (Congressional codification) | ETRB assignment → Congress codifies permanent assignment by statute → statutory authority establishes regulatory body |
+| Anti-circumvention / regulatory haven | Art II §9(h) (Anti-Haven Provision) | Voids regulatory haven status; federal enforcement regardless of Regional non-cooperation; 5-year funding ineligibility for obstruction |
+| Biological equality as federal interest | Art I §18(a) (Natural Persons / Human Rights Exclusivity) | "Biological human beings" as constitutional unit; doctrinal foundation for biological equality |
+| Rights protection | Art III §4(a)(7) (Unwaivable Core) | Rights whose waiver renders person unable to vindicate constitutional protections may not be waived — biological equality underlies meaningful exercise of all rights |
+| Therapeutic exception | Art II §4(c)-(e) (Spillover trigger + Regional variance) | Federal floor defines permitted vs. prohibited modifications; Regions may exceed floor but cannot fall below |
+| Research limitations | Art II §9(d)-(g) (Provisional jurisdiction framework) | Federal provisional authority covers research regulation |
+| Enforcement | Art II §3-A (Rights Floor Enforcement) + §9 ETRB framework | Congressional legislation under ETRB assignment provides enforcement authority |
+| Patent/IP for genetic technology | Art I §24 (Innovation Supremacy) + Art II §1(e)(1)(vi) (Exclusive Federal IP) | Federal patent authority is exclusive; can restrict use of patented germline modification technology |
+
+**Gaming Vector Analysis:**
+
+| Vector | Status |
+|--------|--------|
+| Medical Tourism End-Run | Addressed — Art II §9(h) voids regulatory haven status; federal enforcement extends regardless of Regional non-cooperation |
+| Therapeutic vs. Enhancement Shell Game | Addressed — Federal floor (Art II §4) defines permitted modifications; ARB certifies spillover; binding definitions set by Congress |
+| Somatic Only Loophole | Addressed — ETRB jurisdiction covers all "human enhancement technologies that create systematic biological advantages" including somatic; federal definition controls |
+| Research Exception Pathway | Addressed — Art II §9(d)-(g) provisional federal jurisdiction covers research; federal licensing applies regardless of Regional authorization |
+| Offshore enhancement | Residual — Requires federal statute establishing disclosure registry; constitutional authority exists via ETRB assignment but specific statutory framework needed |
+
+**Operational Paths:**
+
+*Path 1 — ETRB Assignment (fastest):* Petition ETRB → provisional federal jurisdiction (5 years) → Congress codifies permanent assignment → statutory authority establishes Federal Genetic Modification Authority.
+
+*Path 2 — Federal Floor (more durable):* Congress recognizes germline modification as "public health and disease control" → 3/5 vote + ARB certification → federal floor prohibiting germline enhancement with therapeutic carve-out → Regions may maintain or exceed but cannot fall below.
+
+**Residual Notes:**
+
+1. No explicit constitutional mention of "germline modification" — intentional: Art II §9 ETRB framework is designed to be technology-agnostic. Adding technology-specific text would undermine the framework's ability to address future technologies.
+2. Offshore enhancement disclosure requires statutory framework — constitutional authority exists but implementation requires congressional action.
+3. International coordination requires diplomatic action via existing treaty authority — not a constitutional gap.
 
 ---
 
