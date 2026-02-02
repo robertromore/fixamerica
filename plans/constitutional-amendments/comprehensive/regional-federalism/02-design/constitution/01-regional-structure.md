@@ -798,7 +798,7 @@ The originating jurisdiction may not impose conditions, penalties, or differenti
 
 (a) Full Faith and Credit. Each jurisdiction shall give full faith and credit to the public acts, records, and judicial proceedings of every other jurisdiction.
 
-(b) Legal Status Recognition. Marriages, divorces, adoptions, name changes, powers of attorney, corporate registrations, and property titles established under any jurisdiction's law shall be recognized in all other jurisdictions.
+(b) Legal Status Recognition. Marriages, civil unions, domestic partnerships, divorces, adoptions, parentage determinations, surrogacy agreements, custody orders, guardianship orders, name changes, powers of attorney, corporate registrations, property titles, and all other legal determinations of family status or relationship established under any jurisdiction's law shall be recognized in all other jurisdictions.
 
 (c) Professional Credentials. Professional licenses shall be recognized for practice in all jurisdictions, subject only to registration, fees not exceeding the lesser of actual administrative processing costs or the fee charged to in-Region professionals for license renewal in the same profession, and verification of good standing. Supplementary requirements may be imposed only where the receiving jurisdiction's standards demonstrably exceed those of the issuing jurisdiction.
 
@@ -948,6 +948,74 @@ The originating jurisdiction may not impose conditions, penalties, or differenti
 
 (5) The Independent Fiscal Council shall monitor professional workforce flows across Regions and report annually on credential recognition compliance, processing times, denial rates, and any patterns suggesting protectionist obstruction.
 
+#### Family Status Portability
+
+(v) **Full Incidents of Recognition.**
+
+(1) Recognition of legal status under subsection (b) entails the obligation to honor all legal incidents, rights, benefits, privileges, and obligations associated with that status, including but not limited to: spousal benefits and insurance coverage, inheritance and survivorship rights, hospital visitation and medical decision-making authority, emergency contact designation, parental rights and custody, child support obligations, property rights and community property protections, testimonial privileges and confidential communications, tax filing status and exemptions, and immigration benefits dependent on family relationship;
+
+(2) A Region shall extend to a recognized out-of-Region status the same incidents it extends to the most comparable status under its own law. If no comparable status exists under Regional law, the Region shall extend the incidents applicable under federal law;
+
+(3) Selective recognition — acknowledging a status for some legal purposes (such as debt liability or tax obligation) while denying recognition for others (such as spousal benefits or inheritance rights) — is prohibited;
+
+(4) Re-characterization of a validly established status as a lesser legal category (such as characterizing a marriage as a "civil arrangement" or "domestic contract" with fewer incidents) constitutes a denial of recognition;
+
+(5) Functional non-recognition — imposing conditions, delays, re-registration requirements, or procedural burdens that render recognition ineffective in practice — is prohibited.
+
+(w) **Continuity of Parentage.**
+
+(1) The relationship between parent and child, once validly established by birth, adoption, parentage determination, surrogacy agreement, adjudication, or operation of law in any Region, is inviolable and travels with the parent and child regardless of relocation;
+
+(2) No Region may deny, sever, diminish, or refuse to recognize a legal parent-child relationship recognized in another jurisdiction;
+
+(3) An adoption decree or parentage determination final in one Region is final in all Regions. Re-adoption proceedings in a receiving Region are prohibited;
+
+(4) No child shall be rendered a legal orphan or lose a legal parent due to interstate relocation;
+
+(5) Termination of a parent-child relationship may occur only through judicial proceedings meeting federal due process requirements, based on a specific finding of parental unfitness, and may not be based on the characteristics of the parents that are protected under subsection (z);
+
+(6) Custody orders and child support orders issued by a court of competent jurisdiction are enforceable in all Regions. A Region may not modify a custody order from another Region except upon a finding of changed circumstances under the law of the Region with jurisdiction, and may not use modification proceedings to nullify the parent-child relationship itself.
+
+(x) **Conflict of Laws.**
+
+(1) The validity of a civil status is determined by the law of the jurisdiction where it was established;
+
+(2) The legal incidents of the status are determined by the law of the jurisdiction of current residence, subject to the requirements that no jurisdiction may extinguish the fundamental legal relationship, deny the minimum incidents enumerated in subsection (v)(1), or discriminate based on the characteristics protected under subsection (z);
+
+(3) Modifications of status (divorce, custody modification, adoption dissolution) are governed by the law of the jurisdiction with subject-matter and personal jurisdiction over the modification proceeding;
+
+(4) Civil status established prior to the effective date of this section shall receive the same recognition as status established afterward. No Region may retroactively nullify, invalidate, or refuse recognition of a previously recognized family status.
+
+(y) **Exclusive Domain Limitation.**
+
+(1) The Exclusive Regional Domain over family law under Article II, Section 1(e)(2)(iv) authorizes Regions to define family structures and establish family law for their own domiciliaries;
+
+(2) The Exclusive Regional Domain does not authorize a Region to refuse recognition of family status validly established under the laws of another Region;
+
+(3) In any conflict between a Regional definition of family law and the recognition obligations of this Section, the recognition obligations prevail;
+
+(4) A Region retains full authority to establish requirements for the creation of new family status within its borders, including age, consent, capacity, and procedural requirements, subject to federal constitutional protections.
+
+(z) **Anti-Discrimination in Family Status Recognition.**
+
+(1) Recognition of family status may not be denied, delayed, diminished, or conditioned based on the sex, gender, sexual orientation, race, ethnicity, religion, national origin, age, disability, or any other characteristic of the parties to the status;
+
+(2) No jurisdiction may invoke "public policy," "public order," "public morals," or any similar doctrine to refuse recognition of family status validly established in another Region, except that a Region may decline to recognize a relationship involving a party who was below the age of consent in the receiving Region at the time the relationship was established or a party who did not consent;
+
+(3) Delegated bodies — including religious courts, private institutions, and any entity exercising family law authority on behalf of a Region — are bound by the same recognition obligations as the delegating Region. A Region may not evade the requirements of this Section by delegating family law administration to entities that refuse recognition.
+
+(aa) **Enforcement and Emergency Relief.**
+
+(1) Presentation of a valid vital record, court order, or official certificate of family status from any Region creates a presumption of recognition in all other Regions. In medical emergencies, custodial crises, or any situation requiring immediate determination of family status, this presumption is conclusive pending judicial review;
+
+(2) A person denied recognition of family status under this Section may bring suit in any federal court for declaratory and injunctive relief, and shall recover compensatory damages, attorney fees, and costs;
+
+(3) Expedited review: any federal court shall rule on a claim under this Section within fourteen (14) days of filing. Temporary restraining orders shall issue within forty-eight (48) hours upon showing of valid out-of-Region status and imminent or ongoing harm;
+
+(4) The United States Department of Justice shall have authority to bring enforcement actions against Regions that systematically deny family status recognition. A pattern of three (3) or more denials within twenty-four (24) months creates a rebuttable presumption of systematic non-compliance;
+
+(5) Family status recognition follows the person, not the domicile. A person's family status is recognized in all Regions where any family member resides, works, travels, or receives services, regardless of which Region established the status.
+
 ---
 
 ### Section 10. Data Sovereignty and Critical Governance Data
@@ -962,7 +1030,7 @@ The originating jurisdiction may not impose conditions, penalties, or differenti
 
 (3) **Infrastructure Data:** Energy grid telemetry, water system monitoring, transportation network status, communications infrastructure;
 
-(4) **Identity Data:** Citizenship records, vital statistics (birth, death, marriage), professional licensing;
+(4) **Identity Data:** Citizenship records, vital statistics (birth, death, marriage, divorce, adoption, parentage), professional licensing;
 
 (5) **Public Safety Data:** Law enforcement records, emergency response data, public health surveillance.
 

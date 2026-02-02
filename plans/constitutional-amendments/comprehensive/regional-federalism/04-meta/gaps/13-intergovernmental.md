@@ -6253,9 +6253,33 @@ Add to Article III-RF (Individual Rights), Section 8:
 **Dependencies**: Sovereign immunity waiver (Gap 156) must be implemented for individual enforcement; federal vital records database requires congressional action
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article III-RF, Section 8.
+**RESOLVED.** Integrated via Art I §9(b) expanded enumeration, Art I §9(v)-(aa) six new subsections, and Art I §10(a)(4) vital statistics expansion. Placed in Mutual Recognition (Art I §9) rather than Art III-RF §8 to consolidate all recognition provisions.
 
-**Severity:** High | **Mitigability:** Requires Development
+| Proposed Element | Resolution | Provision |
+|---|---|---|
+| Vital Records Supremacy §(a) — civil status recognition | Covered | Art I §9(b) expanded enumeration: civil unions, domestic partnerships, parentage determinations, surrogacy agreements, custody orders, guardianship orders + catch-all |
+| Full Incidents of Status §(b) — all legal incidents travel | Covered + strengthened | Art I §9(v): enumerated minimum incidents, equivalence principle (same incidents as most comparable in-Region status), selective recognition prohibited, re-characterization prohibited |
+| Conflict of Laws §(c) — validity vs. incidents | Covered + strengthened | Art I §9(x): validity from establishing Region, incidents from residence Region (cannot extinguish or discriminate), modifications by jurisdictionally competent court, retroactivity + anti-nullification |
+| Children's Status Protection §(d) — parent-child relationship | Covered + strengthened | Art I §9(w): inviolable once established, portability, adoption finality (no re-adoption), no legal orphaning, termination only through due process, custody/support enforceable across borders |
+| Retroactive Recognition §(e) — pre-enactment status | Covered | Art I §9(x)(4): explicit retroactivity + anti-nullification of previously recognized status |
+| Anti-Discrimination Integration §(f) — protected characteristics | Covered + strengthened | Art I §9(z): enumerated characteristics (sex, gender, sexual orientation, race, ethnicity, religion, national origin, age, disability), public policy exception abolished (except non-consenting/minor parties), delegated bodies bound |
+| Enforcement §(g) — federal court, damages, DOJ | Covered + strengthened | Art I §9(aa): automatic provisional recognition, private right of action with compensatory damages + attorney fees, 14-day expedited review, 48-hour TRO, DOJ authority (3 denials/24 months = presumption of systematic violation) |
+| Vital Records Coordination §(h) — federal database | Partially covered | Art I §10(a)(4) expanded to include divorce, adoption, parentage; interoperability mandate via existing §10(b)-(c); specific database left to implementing legislation |
+| Exclusive Domain Limitation §(i) — domain boundary | Covered | Art I §9(y): domain governs creation/modification for own domiciliaries, does NOT authorize refusal of recognition, recognition prevails in conflict |
+| G1: Traditional Marriage Attack | Blocked | Art I §9(b) expanded + §9(z) anti-discrimination + §9(e) religious/moral prohibition |
+| G2: Adoption Nullification | Blocked | Art I §9(b) "adoptions" + §9(w) Continuity of Parentage (adoption finality, no re-adoption) |
+| G3: Parentage Rejection | Blocked | Art I §9(b) "parentage determinations, surrogacy agreements" + §9(w) inviolable parent-child relationship |
+| G4: Divorce Non-Recognition | Blocked | Art I §9(b) "divorces" + §9(v) full incidents of recognition |
+| G5: Selective Recognition | Blocked | Art I §9(v)(3) selective recognition prohibited + §9(v)(4) re-characterization prohibited + §9(v)(5) functional non-recognition prohibited |
+| G6: Re-Characterization (briefing) | Blocked | Art I §9(v)(4) explicit prohibition on re-characterization to lesser legal category |
+| G7: Public Policy Exception (briefing) | Blocked | Art I §9(z)(2) public policy exception abolished except for non-consenting parties or minors below age of consent |
+| G8: Procedural Challenge (briefing) | Blocked | Art I §9(aa)(1) automatic provisional recognition upon presentation of valid vital record |
+| G9: Waiting Period (briefing) | Blocked | Art I §9(aa)(1) recognition effective upon presentation; no registration period |
+| G10: Third-Party Delegation (briefing) | Blocked | Art I §9(z)(3) all entities exercising delegated family law authority bound |
+| G11: Custody Jurisdiction Grab (briefing) | Blocked | Art I §9(w)(5) custody orders enforceable across borders + §9(x)(3) modifications only by jurisdictionally competent court |
+| G12: Retroactive Invalidity (briefing) | Blocked | Art I §9(x)(4) retroactivity + anti-nullification |
+
+**Severity:** High | **Mitigability:** ✅ Resolved
 
 ---
 
