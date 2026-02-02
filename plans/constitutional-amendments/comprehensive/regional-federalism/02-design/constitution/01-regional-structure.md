@@ -1415,6 +1415,56 @@ is subject to federal prosecution and civil liability to affected communities.
 - (3) affect enforcement of judgments for conduct that was unlawful where performed; or
 - (4) prevent enforcement of valid contractual choice-of-law provisions.
 
+#### Federal Extradition Enforcement
+
+*Integrated from Gap 180 — closes the extradition standoff by providing federal arrest authority, mandatory federal custody, expedited review, obstruction penalties, officer immunity, and pattern escalation when a Region refuses to surrender a fugitive charged with a serious crime in another Region.*
+
+(r) **Federal Extradition Warrant.** When a Region fails to surrender a fugitive within seventy-two (72) hours of a valid extradition request for a crime enumerated in subsection (b), the requesting Region may petition a Federal Magistrate. Upon a finding that:
+
+- (1) probable cause exists to believe the fugitive committed the charged offense;
+- (2) a valid arrest warrant has been issued by the demanding Region;
+- (3) the fugitive is present in the asylum Region; and
+- (4) the asylum Region has refused, failed, or unreasonably delayed compliance with the extradition request;
+
+the Magistrate shall issue a Federal Extradition Warrant authorizing the United States Marshals Service to arrest the fugitive within any jurisdiction, take exclusive federal custody, and transport the fugitive to the demanding Region. Congress shall establish procedures for execution of Federal Extradition Warrants.
+
+(s) **Custody and Bail.** Upon issuance of a Federal Extradition Warrant:
+
+- (1) the fugitive shall be remanded to exclusive federal custody;
+- (2) bail determinations shall be made by the Federal Magistrate under federal standards; no Regional court may release a fugitive subject to a Federal Extradition Warrant;
+- (3) the fugitive may challenge the warrant through remote testimony to prevent unnecessary transport if the warrant is deficient on its face; and
+- (4) medical fitness for transport shall be determined by a federal medical examiner, not by Regional authorities.
+
+(t) **Expedited Review.** Challenges to extradition under this section shall be adjudicated by the Federal District Court within fourteen (14) days of the fugitive's arrest:
+
+- (1) the asylum Region bears the burden of proving that a defense under subsection (j) applies, by clear and convincing evidence;
+- (2) the inquiry is limited to the validity of the extradition request and the applicability of subsection (j) defenses; the underlying guilt or innocence of the fugitive is not at issue;
+- (3) the standard for extradition is probable cause on the face of the warrant and supporting affidavit; the asylum Region may not demand trial-level evidence, depositions, expert testimony, or discovery as a precondition; and
+- (4) for capital offenses, extradition shall be conditioned on written assurance by the demanding Region's chief prosecutor that the death penalty will not be sought.
+
+(u) **Officer Protection.** Federal and Regional officers executing a valid Federal Extradition Warrant are immune from criminal prosecution and civil liability in the asylum Region for acts reasonably necessary to effect the arrest and transport:
+
+- (1) any Regional or State criminal charges filed against officers executing a Federal Extradition Warrant are preempted and void ab initio;
+- (2) civil claims arising from extradition enforcement shall be adjudicated exclusively in federal court; and
+- (3) this immunity does not extend to the use of excessive force, which remains subject to federal prosecution.
+
+(v) **Obstruction of Extradition.** It shall be a federal offense for any Regional or State official to:
+
+- (1) actively conceal a fugitive subject to a valid extradition request;
+- (2) warn a fugitive of an impending Federal Extradition Warrant or federal enforcement action;
+- (3) interfere with the execution of a Federal Extradition Warrant, including ordering Regional law enforcement to impede federal officers;
+- (4) release a fugitive from custody to avoid extradition, including release on nominal bail designed to facilitate flight;
+- (5) provide resources, funds, or logistical assistance to help a fugitive evade arrest; or
+- (6) create procedural requirements exceeding probable cause review for the purpose of delaying or defeating extradition.
+
+Passive non-cooperation after an adverse ARB ruling under subsection (k) constitutes grounds for removal from office. Active obstruction under this subsection is a High Crime subject to federal prosecution.
+
+(w) **Gubernatorial Pardon Limitation and Pattern Non-Compliance.**
+
+- (1) **Pardon Limitation.** A Regional or State Governor's pardon power extends only to offenses against the pardoning sovereign. No pardon, commutation, or grant of clemency by the asylum Region's Governor shall moot, defeat, or delay extradition for offenses committed against the demanding Region. A pardon issued for the purpose of defeating extradition is void.
+- (2) **Pattern Non-Compliance.** Upon a judicial finding by the Constitutional Court that a Region has systematically refused lawful extradition requests — defined as three (3) or more adverse federal court rulings on extradition within twelve (12) months — the Court may authorize the Federal Government to assume direct administration of that Region's extradition docket for a period of up to one (1) year, renewable upon continued non-compliance.
+- (3) **Hot Pursuit.** Law enforcement officers of one Region may pursue a fleeing felon across Regional boundaries without prior authorization, provided that: (i) pursuit is continuous and commenced within the demanding Region's territory; (ii) the pursuing officers notify the asylum Region's law enforcement at the earliest practicable opportunity; (iii) the fugitive is surrendered to federal or asylum Region custody upon apprehension; and (iv) Congress shall establish uniform procedures governing cross-Regional hot pursuit, including geographic and temporal limitations.
+
 ---
 
 ### Section 13. Interstate Compacts

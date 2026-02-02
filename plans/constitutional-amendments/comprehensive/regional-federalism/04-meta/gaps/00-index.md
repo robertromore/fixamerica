@@ -315,7 +315,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 177 | Capital siege (physical vulnerability) | Critical | ✅ Resolved |
 | 178 | Tribal preservation clause (sovereignty protection) | High | ✅ Resolved |
 | 179 | Shadow Confederation (military compacts) | High | ✅ Resolved |
-| 180 | Extradition Standoff (sanctuary warfare) | High | Requires Development |
+| 180 | Extradition Standoff (sanctuary warfare) | High | ✅ Resolved |
 | 181 | Benefit Serfdom (fiscal Berlin Wall) | High | Requires Development |
 | 182 | Water War Trap (resource blackmail) | Critical | ✅ Resolved |
 | 183 | Soft Seizure (federal property hostages) | High | Requires Development |

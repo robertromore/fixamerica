@@ -5278,9 +5278,27 @@ Add to Article IV (Full Faith and Credit), Section 3:
 > - (iv) providing resources to help fugitives evade arrest.
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article IV, Section 3.
+✅ **RESOLVED** — New Art I §12(r)-(w) (Federal Extradition Enforcement, 6 subsections) added to `02-design/constitution/01-regional-structure.md`. Provides federal arrest authority, mandatory federal custody, expedited 14-day review, obstruction penalties, officer immunity, pardon limitation, pattern escalation, and hot pursuit definition.
 
-**Severity:** High | **Mitigability:** Requires Development
+| Proposal Element | Constitutional Coverage | Provision |
+|---|---|---|
+| (a) Mandatory extradition + federal review | Art I §12(r) | Federal Magistrate issues Federal Extradition Warrant upon probable cause + refusal |
+| (b) Probable cause / Marshals authority | Art I §12(r) | US Marshals arrest, take exclusive custody, transport |
+| (c) Limited defenses / 30-day review | Art I §12(t) | 14-day expedited Federal District Court review; clear-and-convincing burden on asylum Region |
+| (d) Pattern non-compliance | Art I §12(w)(2) | Constitutional Court finding (3 adverse rulings/12 months) → federal assumption of extradition docket |
+| (e) Obstruction definition | Art I §12(v)(1-6) | 6 enumerated acts; passive non-cooperation = removal; active obstruction = High Crime |
+| G1 Human Rights Shield | Art I §12(t)(1) | Defenses adjudicated by federal court, not Regional politicians; clear-and-convincing standard |
+| G2 Corrupt Prosecution | Art I §12(t)(1-2) | Burden on asylum Region; inquiry limited to request validity |
+| G3 Legal Limbo | Art I §12(t) | 14-day mandatory timeline; federal court jurisdiction |
+| G4 Counter-Charge Gambit | Art I §12(u)(1-2) | Officer immunity; Regional charges preempted and void ab initio |
+| G5 Slow Walk | Art I §12(r) | 72-hour compliance window before federal intervention |
+| G6 Bail Release | Art I §12(s)(2), (v)(4) | Federal-only bail; release to avoid extradition = obstruction |
+| G7 Procedural Fortress | Art I §12(t)(3), (v)(6) | Probable cause on face of warrant; excess procedures = obstruction |
+| G8 Gubernatorial Pardon | Art I §12(w)(1) | Pardon extends only to pardoning sovereign's offenses; anti-extradition pardon void |
+| G10 Evidence Escalation | Art I §12(t)(3) | Standard is probable cause, not trial-level evidence |
+| G11 Medical Hold | Art I §12(s)(4) | Federal medical examiner determines fitness, not Regional authorities |
+
+**Severity:** High | **Mitigability:** Resolved
 
 ---
 
