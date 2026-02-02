@@ -5165,9 +5165,28 @@ Add to Article XV (Emergencies and Military Affairs), Section 8:
 > - (iii) impose civil penalties on officials who knowingly participate in prohibited military integration.
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article XV, Section 8.
+✅ **RESOLVED** — New Art XI-RF §6 (Prohibition on Inter-Regional Military Confederations, 11 subsections a-k) added to `02-design/constitution/10-armed-forces.md`. Art XI-RF §3(e) amended with "subject to Section 6" qualifier.
 
-**Severity:** High | **Mitigability:** Requires Development
+| Proposal Element | Constitutional Coverage | Provision |
+|---|---|---|
+| (a) Prohibition on unified command | Art XI-RF §6(a)(1-4) | Permanent unified command, standing joint staff, automatic integration, joint weapons ownership all prohibited |
+| (b)(i) 60-day time limit | Art XI-RF §6(b)(1) | 30 days + 30-day extension with Congressional authorization (tighter than proposal) |
+| (b)(ii) Host Governor operational control | Art XI-RF §6(b)(3) | Visiting forces under home Governor command; host has operational control only for emergency duration |
+| (b)(iii) No advisor/liaison command | Art XI-RF §6(b)(3) | No advisor, liaison, or consultant may exercise formal or informal command |
+| (b)(iv) 2-year compact renewal | Art XI-RF §6(k) | 2-year Congressional review with auto-sunset on non-reauthorization |
+| (c) Command authority | Art XI-RF §6(a), (b)(3), (i)(1) | Command stays with own Governor; Art XI §10 carved out as sole unified command exception |
+| (d) Enforcement | Art XI-RF §6(j)(1-4) | AG injunction + removal/disqualification + federalization + Court petition |
+| G1 Rotation Reset | Art XI-RF §6(b)(2) | Anti-rotation aggregation: 60 days per Region-pair per 12-month window |
+| G2 Coordination Center | Art XI-RF §6(a)(2) | Permanent joint HQ/staff/academy banned |
+| G3 Equipment Pre-Position | Art XI-RF §6(c) | Lethal pre-positioning banned; non-lethal limited to 120-day seasonal window |
+| G4 Doctrine Standardization | Art XI-RF §6(a), (h)(3) | Unified tactical doctrine banned; joint training requires federal observers |
+| G5 Training Academy | Art XI-RF §6(a)(2) | Permanent joint military academy banned |
+| G7 Emergency Mgmt Rebrand | Art XI-RF §6(d)(1-4) | Functional classification test regardless of label |
+| G9 Intelligence Fusion | Art XI-RF §6(e) | Force-planning intel compacts banned |
+| G13 Consulting General | Art XI-RF §6(b)(3) | "Consultant" command authority explicitly banned |
+| G14 Spare Parts Depot | Art XI-RF §6(c) | Joint logistics depots/shared maintenance banned |
+
+**Severity:** High | **Mitigability:** Resolved
 
 ---
 

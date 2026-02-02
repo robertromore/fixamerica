@@ -178,7 +178,7 @@ Two-key authorization may not be waived, delegated to military officers, or sati
 
 (d) State Defense Forces under exclusive State control may be maintained and are not subject to federalization.
 
-(e) Coordination Requirements. State National Guard and Regional Guard Forces shall maintain:
+(e) Coordination Requirements. Subject to the limitations in Section 6, State National Guard and Regional Guard Forces shall maintain:
 
 - (1) interoperable communications and command systems,
 - (2) joint training exercises at least annually,
@@ -326,6 +326,76 @@ Violation constitutes a criminal offense punishable upon final conviction by los
 - (4) **Personal Liability.** Officials who authorize the acquisition, possession, or deployment of prohibited autonomous systems are personally liable and subject to prosecution;
 - (5) **Whistleblower Protection.** Any person who reports the acquisition, possession, or development of prohibited autonomous systems by a sub-federal government is protected from retaliation under the whistleblower provisions of this Constitution; and
 - (6) **Compliance Monitoring.** The Department of Defense, in coordination with the Emerging Technology Review Board, shall conduct annual inspections of sub-federal armed forces to verify compliance with this Section, and shall report findings to Congress.
+
+### Section 6. Prohibition on Inter-Regional Military Confederations
+
+*Integrated from Gap 179 — closes the shadow confederation loophole by prohibiting inter-Regional unified command structures, limiting mutual aid deployments, restricting equipment pre-positioning, and establishing a functional classification test that prevents evasion through relabeling.*
+
+(a) **Prohibition on Unified Command.** No Region, State, or subdivision thereof shall enter into any compact, agreement, or arrangement with another Region, State, or subdivision thereof that establishes:
+
+- (1) a permanent unified military command structure between Regions;
+- (2) a standing joint general staff, permanent joint headquarters, or permanent joint military academy for coordinating Regional Guard Forces, State National Guard units, or any other armed force subject to this Article;
+- (3) automatic force integration protocols that bypass the specific mutual aid request process required by subsection (b); or
+- (4) joint ownership of lethal weapons systems, ammunition stockpiles, or armored combat vehicles between Regions.
+
+While Section 3(e) mandates interoperability and mutual aid agreements, nothing in that section shall be construed to authorize permanent unified command, standing joint staff, unified tactical doctrine, or cross-Regional force pooling outside the exceptions enumerated in subsection (i).
+
+(b) **Mutual Aid Limitations.** Military mutual aid deployments between Regions are subject to the following:
+
+- (1) **Time Limit.** Mutual aid deployments may not exceed thirty (30) days per incident without specific Congressional authorization. Congress may authorize one extension of up to thirty (30) additional days upon written request from both the host and guest Governors.
+- (2) **Anti-Rotation.** Aggregate deployments between the same Region-pair may not exceed sixty (60) days in any twelve-month period, regardless of the number of incidents invoked, absent federal authorization. Consecutive deployments involving the same Regions designed to circumvent time limits by rotating host and guest roles are prohibited.
+- (3) **Command Authority.** Visiting forces shall remain under the ultimate command of their home Governor. The hosting Governor exercises operational control only for the duration and specific purpose of the declared emergency. No "advisor," "liaison," or "consultant" from another Region may exercise command authority — formal or informal — over a host Region's forces.
+- (4) **Incident Specificity.** Each mutual aid deployment must be tied to a specific, identified incident or emergency. Deployments may not be authorized for generalized "readiness," "deterrence," or "precautionary" purposes.
+
+(c) **Equipment Pre-Positioning.** Pre-positioning of military equipment in another Region's territory is prohibited, except:
+
+- (1) non-lethal disaster relief supplies, including food, water, generators, medical supplies, and communications equipment, may be staged pursuant to a DoD-approved seasonal emergency plan for a period not exceeding one hundred twenty (120) days per calendar year; and
+- (2) mission-specific equipment may be deployed during an active, declared state of emergency and must be withdrawn within fourteen (14) days after the emergency declaration is terminated.
+
+The pre-positioning of ammunition, heavy weapons, armored combat vehicles, or combat aircraft outside a Region's jurisdiction absent a declared emergency is prohibited. Joint logistics depots, shared maintenance facilities, or shared munitions storage between Regions are prohibited.
+
+(d) **Functional Classification.** The prohibitions of this Section apply to any organized force, regardless of its designation as "Guard," "Police," "Civil Defense," "Emergency Management," or any other label, if that force:
+
+- (1) is equipped with heavy weapons, armored combat vehicles, or military-grade rotary or fixed-wing aircraft;
+- (2) maintains military-grade surveillance, intelligence, or electronic warfare capability;
+- (3) is organized in military-style command and control structures with unit designations, ranks, and operational doctrine distinct from civilian law enforcement; or
+- (4) conducts training in offensive military tactics, combined arms operations, or force-on-force maneuvers.
+
+Any entity meeting this functional test shall be classified as a Regional Guard Force under Section 1(c) for purposes of this Article, including the compact limitations of this Section, the registry and inspection requirements of Section 3(h), and the force cap provisions of Article XI, Section 13.
+
+(e) **Intelligence and Surveillance Compacts.** Inter-Regional intelligence-sharing compacts are prohibited when tied to force planning, operational military coordination, or the maintenance of permanent files on citizens outside active criminal investigations. Routine criminal intelligence sharing between law enforcement agencies is not restricted by this subsection, provided such sharing does not serve as a coordination mechanism for the military or paramilitary activities prohibited by this Section.
+
+(f) **Foreign Sub-National Compacts.** No Region or State may enter into any military, paramilitary, or defense cooperation agreement with a foreign government, foreign sub-national entity, or foreign state-owned enterprise. This prohibition supplements and reinforces Article VI, Section 4 (One Voice Doctrine) as applied to military cooperation.
+
+(g) **Joint Procurement and Standardization.** Regions may jointly procure military equipment for cost efficiency, provided that:
+
+- (1) each item of lethal equipment, weapons system, and combat vehicle shall be owned by and registered to a single Region;
+- (2) no joint procurement agreement may require participating Regions to adopt unified tactical doctrine, unified command protocols, or interchangeable officer assignments; and
+- (3) cross-commissioning of officers across Regions is prohibited except for temporary training exchanges not exceeding thirty (30) days per officer per calendar year, conducted under federal observation.
+
+(h) **Compact Registration and Oversight.**
+
+- (1) **Registry.** All inter-Regional security compacts, mutual aid agreements, joint training schedules, and cooperative defense arrangements must be filed with the Department of Defense and the Department of Justice within thirty (30) days of execution.
+- (2) **Inspection.** The Department of Defense, through the Subnational Force Registry established under Section 3(h), shall inspect all inter-Regional security compacts and their implementing structures for compliance with this Section. The Inspector General shall report findings annually to Congress.
+- (3) **Federal Observers.** Joint training exercises conducted under Section 3(e) shall be observed by federal personnel designated by the Department of Defense. Federal observers shall certify that exercises are limited to disaster response and defensive readiness and do not constitute unified tactical doctrine development or combined arms training.
+
+(i) **Exceptions.** This Section does not prohibit or restrict:
+
+- (1) unified command authorized under Article XI, Section 10 (Judicial Key Override) when the Supreme Court has certified a Systemic Executive Breach;
+- (2) federalization of Regional Guard or National Guard forces under Section 2 of this Article;
+- (3) standard mutual aid compacts for civilian disaster relief that do not involve lethal equipment, unified combat command, or standing joint military structures; or
+- (4) military cooperation specifically authorized by Act of Congress for a defined purpose and duration.
+
+No exception other than those enumerated in this subsection shall be implied, inferred, or created by compact, executive agreement, or judicial interpretation.
+
+(j) **Enforcement.**
+
+- (1) The Attorney General shall seek immediate injunctive relief against any compact, agreement, or arrangement that violates this Section.
+- (2) Any official who knowingly participates in establishing or maintaining a prohibited unified command, standing joint staff, or military confederation shall be removed from office and permanently disqualified from holding any federal, Regional, or State office.
+- (3) The Department of Defense may federalize Regional Guard or State National Guard units engaged in prohibited unified operations under Section 2 of this Article.
+- (4) Any non-participating Region, the Attorney General, or the Department of Defense may petition the Constitutional Court for a declaration that a compact violates this Section.
+
+(k) **Congressional Review.** Congress shall review all active inter-Regional security compacts every two (2) years. Any compact not affirmatively reauthorized by Congress shall automatically sunset. Annual reports on compact activity shall be submitted to the Armed Services Committees of both Houses.
 
 ---
 
