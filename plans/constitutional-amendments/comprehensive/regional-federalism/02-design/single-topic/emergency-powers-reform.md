@@ -24,7 +24,7 @@ This standalone constitutional amendment constrains emergency powers to prevent 
 
 (6) the conditions for termination.
 
-(b) The proclamation shall be transmitted to Congress and published within twenty-four hours.
+(b) The proclamation shall be authenticated in accordance with Article II, Section 23 (Authenticity of Official Acts), transmitted to Congress, and published within twenty-four hours.
 
 (c) No emergency may be declared retroactively. Emergency powers may be exercised only prospectively from the time of declaration.
 

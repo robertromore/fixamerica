@@ -32,6 +32,7 @@ The Emergency Powers Reform Amendment works with either the existing federal/sta
 (b) Regional emergency declarations are subject to the same requirements as federal declarations under the Emergency Powers Reform Amendment:
 
 - written declaration specifying nature, geographic scope, powers to be exercised, duration, and termination conditions,
+- authentication in accordance with Article II, Section 23 (Authenticity of Official Acts),
 - publication and transmission to Regional legislature within twenty-four hours,
 - category-specific powers only,
 - time limits and reauthorization requirements.

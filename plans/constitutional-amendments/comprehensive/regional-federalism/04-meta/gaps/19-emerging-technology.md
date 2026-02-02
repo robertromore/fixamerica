@@ -895,7 +895,7 @@ Add Article XVI, Section 15 — Celestial Monopoly:
 **Identified**: 2026-01-26
 **Category**: Emerging Technology
 **Criticality**: 🔴 **CRITICAL**
-**Status**: UNRESOLVED
+**Status**: ✅ RESOLVED
 
 ### Problem Statement
 
@@ -1065,9 +1065,57 @@ Add Article I-RF, Section 10 — The Provenance Mandate:
 **Dependencies**: Requires federal cryptographic infrastructure development
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article I-RF, Section 10.
+**✅ RESOLVED** via new constitutional text — Art II §23 (Authenticity of Official Acts) + cross-reference amendments in Art XVII-RF (emergency powers), Art XI (Two-Key), and Emergency Powers Reform Amendment.
 
-**Severity:** Critical | **Mitigability:** Requires Development
+**Severity:** Critical | **Mitigability:** Resolved
+
+### Resolution Analysis (2026-02-01)
+
+**Approach**: New Art II §23 establishing authentication requirements for official acts, reframed from "deepfake ban" to "counterfeit governance" prohibition. Three cross-reference amendments integrate authentication into existing emergency and military frameworks.
+
+**Overlap Assessment**: ~15-20% from existing provisions (data sovereignty authentication standards, cryptographic panel selection precedent, information warfare recognition). Insufficient to close gap — no provision authenticates official communications or addresses synthetic media forgery. New constitutional text required.
+
+**Art II §23 (Authenticity of Official Acts)**:
+
+| Subsection | Coverage | Attack Vectors Addressed |
+|------------|----------|--------------------------|
+| (a) Authentication Mandate | Cryptographic authentication required for all high-stakes communications | Plausible Origin (G1), all forgery vectors |
+| (b) Legal Effect + Analog Fallback | Unauthenticated communications presumed void; physical attestation fallback if digital system fails | Infrastructure Denial (G6), Key Compromise (G5) |
+| (c) Domestic Verification Delay | Offensive action prohibited on unverified communications; defensive posture permitted | Speed Kills (G2), Cascade Forgery (G3) |
+| (d) Counterfeit Governance | Felony for knowing forgery of official acts with intent to trigger crisis | All deliberate forgery vectors |
+| (e) Non-Repudiation | Authenticated acts bind the issuer; no disavowal without demonstrated compromise | Liar's Dividend (G15) |
+| (f) Key Sovereignty + Algorithm Agility | FDCA administers with multi-branch key custody; Regional sovereign keys; quantum-resistant design | Root Key Revocation (G16), Quantum Compromise (G14) |
+| (g) Transition | 3-year legacy verification window | Transition Window (G13) |
+| (h) First Amendment Preservation | Regulates official acts, not private speech | Overcensorship (G9) |
+
+**Cross-Reference Amendments**:
+
+| Location | Change | Purpose |
+|----------|--------|---------|
+| Art XVII-RF §1(b) (11-emergency-powers.md) | Added authentication requirement to Regional emergency declaration list | Emergency declarations must be authenticated |
+| Art XI §2(g) (10-armed-forces.md) | Added authentication requirement for Two-Key communications | Nuclear/military authorization communications must be authenticated |
+| Emergency Powers Reform §1(b) (single-topic) | Added authentication to federal emergency proclamation requirements | Federal emergency declarations must be authenticated |
+
+**Design Decisions**:
+
+| Decision | Choice | Rationale |
+|----------|--------|-----------|
+| Placement | Art II §23 (Powers) + cross-references | Defines valid "Act of State" — limitation on exercise of power |
+| Framing | "Counterfeit governance" not "deepfake ban" | Sidesteps content discrimination; parallels counterfeit currency |
+| Legal effect | Voidable-unless-authenticated with analog fallback | Prevents infrastructure denial from decapitating government |
+| Military delay | Offensive action only; defensive posture permitted | Prevents defense-failure vector |
+| Criminal standard | Knowing intent; felony not "High Crime" | Proportionate; actual knowledge required |
+| Platform liability | Statutory only — excluded from constitution | Ages poorly; First Amendment concerns |
+| Broadcast commandeering | Dropped — replaced with authenticated registry | Commandeering power more dangerous than the problem |
+| Key custody | FDCA + multi-branch distribution; Regional sovereign keys | Prevents single-branch compromise; prevents federal key revocation as political weapon |
+| Algorithm agility | Updateable without amendment | Quantum-resistant by design |
+| Transition | 3-year legacy verification | Prevents transition-window attack |
+
+**Residual Notes**:
+
+1. Platform liability for synthetic media amplification is left to statutory implementation — the constitution authorizes but does not require it.
+2. The analog fallback (physical attestation + public registry) prevents the "infrastructure denial" vector but is harder to verify remotely — acceptable tradeoff for resilience.
+3. The non-repudiation clause (§23(e)) closes the "Liar's Dividend" gaming vector where officials issue orders and later claim forgery.
 
 ---
 

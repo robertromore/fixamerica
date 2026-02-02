@@ -82,7 +82,7 @@ If the Military Civilian Control Amendment is adopted alongside Regional Federal
 - (1) **Key 1:** The President (or, if the President is unavailable or incapacitated, the next civilian in the line of succession), and
 - (2) **Key 2:** A majority of Regional Governors, or if deployment is limited to a single Region, the Governor of that Region.
 
-Two-key authorization may not be waived, delegated to military officers, or satisfied by implied consent. Deployment without two-key authorization is unlawful and may be refused by commanders without penalty.
+Two-key authorization may not be waived, delegated to military officers, or satisfied by implied consent. Communications requesting or conveying two-key authorization shall be authenticated in accordance with Article II, Section 23 (Authenticity of Official Acts). Deployment without two-key authorization is unlawful and may be refused by commanders without penalty.
 
 (h) **Emergency Response Acceleration.** Notwithstanding subsection (g), the following expedited procedures apply to time-sensitive emergencies:
 

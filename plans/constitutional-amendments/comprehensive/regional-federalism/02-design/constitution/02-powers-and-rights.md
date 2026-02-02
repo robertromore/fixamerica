@@ -2070,6 +2070,28 @@ A President recovering from surgery needs a rapid clearance mechanism (fourteen-
 
 ---
 
+### Section 23. Authenticity of Official Acts
+
+*Resolves Gap 211 — The "Synthetic Insurrection" (Deepfake Treason). Establishes authentication requirements for high-stakes government communications, preventing synthetic media forgery from triggering armed conflict or constitutional crisis by defining what constitutes a valid official act.*
+
+(a) **Authentication Mandate.** All high-stakes official communications issued by any branch of the Federal Government, any Regional government, or any State government shall be cryptographically authenticated before they carry legal force. High-stakes official communications include, but are not limited to: declarations of emergency or martial law; military orders, mobilization directives, and nuclear authorization requests; executive orders and formal presidential directives; legislative enactments and judicial orders; electoral certifications and results; and any directive commanding the use of lethal force or the suspension of civil rights.
+
+(b) **Legal Effect and Analog Fallback.** An unauthenticated high-stakes communication is presumed void and may not be relied upon as authority for government action. If the digital authentication system is unavailable due to technical failure, cyberattack, or other disruption, high-stakes communications retain legal force if authenticated by physical attestation of the issuing official in the presence of at least one officer from a different branch of government and entered in a public registry within twenty-four hours of issuance, with subsequent digital authentication within seventy-two hours of system restoration.
+
+(c) **Domestic Verification Delay.** No Regional Guard, State militia, or other subnational military force may initiate offensive action against federal forces or forces of another Region on the basis of an unverified communication. Defensive posture and readiness measures are permitted pending verification. This subsection does not apply to self-defense against imminent physical attack or to defense against foreign aggressors.
+
+(d) **Counterfeit Governance.** The knowing creation or dissemination of forged official government acts — including fabricated orders, declarations, certifications, or judicial rulings — with the intent to trigger armed conflict, insurrection, or constitutional crisis, is a felony punishable as Congress shall provide. This prohibition extends to synthetic media, forged documents, and any medium designed to impersonate legitimate government authority. Clearly labeled satire, parody, journalism, and political commentary are not within its scope.
+
+(e) **Non-Repudiation.** An authenticated official act binds its issuer. No official may disavow an authenticated communication by claiming forgery unless the authentication system is demonstrated to have been compromised at the time of issuance. Authenticated records are admissible as conclusive evidence of official action.
+
+(f) **Key Sovereignty and Algorithm Agility.** The Federal Data Coordination Agency shall administer the authentication infrastructure, with root key custody distributed across the executive, legislative, and judicial branches. Each Region shall maintain sovereign authentication keys for Regional official acts, which may not be revoked, suspended, or degraded by federal action except upon judicial order for demonstrated compromise or fraud. Authentication standards shall be designed to resist emerging cryptographic threats, including quantum computing, and shall be updateable by the administering agency without constitutional amendment, subject to multi-branch approval.
+
+(g) **Transition.** For three years following ratification of this Section, high-stakes communications authenticated by traditional means — physical signatures, official seals, and witnessed attestation — retain full legal force. During this period, the Federal Data Coordination Agency shall deploy the authentication infrastructure required by this Section.
+
+(h) **First Amendment Preservation.** Nothing in this Section prohibits criticism of government, reporting on government actions, or expression of political opinion. This Section regulates the authenticity of official government acts, not the content of private speech.
+
+---
+
 ## Related Documents
 
 - [Index](00-index.md) - Constitution overview
