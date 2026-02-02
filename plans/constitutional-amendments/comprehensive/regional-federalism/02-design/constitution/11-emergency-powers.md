@@ -120,6 +120,78 @@ Failure to maintain such capacity does not excuse non-compliance with data-shari
 
 ---
 
+### Section 5. Catastrophic Displacement and Resettlement
+
+*Resolves Gap 215 — The "Internal Refugee" (Climate Displacement). Supplements Natural Disaster emergency powers in Article XVII with displacement-specific coordination authority when catastrophic events render territory uninhabitable and overwhelm normal migration mechanisms under Article I, Section 8(f)-(o).*
+
+(a) **Declaration of Displacement Emergency.** The President may declare a "Displacement Emergency" when a natural disaster, climate event, or environmental catastrophe renders significant territory uninhabitable and displaces citizens beyond the capacity of standard migration mechanisms under Article I, Section 8(f)-(o):
+
+- (1) Declaration requires certification by the Independent Fiscal Council that:
+    - (A) displacement exceeds three percent (3%) of the origin Region's population; or
+    - (B) the affected territory is projected uninhabitable for ten (10) or more years based on scientific assessment;
+- (2) Congress shall concur within thirty (30) days. If Congress neither concurs nor rejects within thirty (30) days, the declaration continues in effect but the President must re-certify every ninety (90) days until Congressional action;
+- (3) the declaration supersedes and supplements Migration Surge Stabilization mechanisms under Article I, Section 8(f)-(o), which continue to operate concurrently.
+
+(b) **Federal Coordination Authority.** During a declared Displacement Emergency, the Federal Government shall have authority to:
+
+- (1) coordinate resettlement through voluntary incentive programs, including housing vouchers, employment assistance, and relocation grants targeted to Regions with verified absorption capacity;
+- (2) preempt Regional zoning, land use, or residency restrictions that impede the immediate housing of displaced citizens, limited to emergency shelter and transitional housing;
+- (3) prohibit any Region from closing its borders, denying services, or declaring emergency powers to limit absorption of displaced citizens;
+- (4) determine Regional absorption capacity through independent federal audit; a Region may not deny displaced citizens absent IFC-certified capacity exhaustion.
+
+No displaced citizen shall be compelled to relocate to a specific Region. Allocation shall operate through incentive structures that distribute displaced populations according to verified capacity, not through mandatory assignment.
+
+(c) **Fiscal Indemnification.** The Federal Government shall guarantee fiscal neutrality for receiving Regions:
+
+- (1) the IFC shall determine the direct marginal costs of housing and servicing displaced citizens, and the Federal Government shall reimburse one hundred percent (100%) of verified costs;
+- (2) federal funds shall cover infrastructure expansion required by displacement;
+- (3) reimbursement shall be offset against equalization transfers under Article X, Section 3 to prevent double-counting;
+- (4) the origin Region shall contribute to resettlement costs based on pre-disaster fiscal capacity; origin Regions that failed to invest in climate adaptation, as assessed by the IFC, shall bear a higher contribution share.
+
+(d) **Rights of the Displaced.** Citizens displaced under a declared Displacement Emergency:
+
+- (1) shall register to vote in the receiving Region immediately upon arrival; registration waiting periods are waived for displaced citizens;
+- (2) may not vote in both the origin and receiving Region; the one-person-one-vote principle applies absolutely;
+- (3) shall have professional licenses and credentials recognized in any receiving Region for five (5) years under Article I, Section 9, without supplementary requirements;
+- (4) shall receive portable federal benefits that adhere to the citizen, not the jurisdiction;
+- (5) may not be classified as "transients" or "temporary residents" for purposes of benefits, services, or legal protections.
+
+(e) **Right to Return.** If territory previously declared uninhabitable becomes habitable:
+
+- (1) displaced citizens shall have priority right to return for twenty (20) years from the date of displacement;
+- (2) the custodial authority over the territory shall facilitate return, restore services, and provide reintegration assistance;
+- (3) the right to return does not obligate return; displaced citizens who have established residence elsewhere retain all rights in their receiving Region.
+
+(f) **Origin Region Obligations.** The Region from which citizens are displaced:
+
+- (1) remains responsible for pension and benefit obligations until formally transferred to the Federal Government or a successor entity;
+- (2) shall facilitate transfer of records, credentials, and documentation to receiving Regions;
+- (3) may not impose exit requirements, fees, or penalties on displaced citizens;
+- (4) shall contribute to resettlement costs based on pre-disaster fiscal capacity as determined by the IFC.
+
+(g) **Dissolution of Origin Region.** If the IFC certifies that an origin Region is permanently uninhabitable or has lost more than fifty percent (50%) of its population to displacement:
+
+- (1) Congress may place the Region into Federal Trusteeship by majority vote of both chambers;
+- (2) the territory becomes Federal Territory; Regional debts are assumed by the Union;
+- (3) remaining political structures are dissolved or merged with neighboring Regions by act of Congress, subject to Article I, Section 2 boundary procedures;
+- (4) assets of the dissolved Region are managed by a federal custodial authority for the benefit of displaced citizens and creditors;
+- (5) Congressional representation is adjusted pursuant to Article I, Section 2.
+
+(h) **Termination and Review.**
+
+- (1) A Displacement Emergency terminates when the IFC certifies that resettlement is stabilized and displaced citizens are integrated into receiving communities;
+- (2) the IFC shall conduct annual reviews of displacement status, Regional absorption capacity, fiscal neutrality, and integration progress;
+- (3) federal coordination authority under subsection (b) expires five (5) years from declaration absent Congressional renewal;
+- (4) all emergency powers under this section expire immediately upon termination of the Displacement Emergency.
+
+(i) **Climate Displacement Reserve.** Congress shall establish and maintain a reserve fund sufficient to meet anticipated displacement costs:
+
+- (1) the fund shall be sized based on actuarial and scientific projections of climate displacement risk, updated annually;
+- (2) upon declaration of a Displacement Emergency, funds shall be available for expenditure without further appropriation, subject to IFC oversight;
+- (3) the IFC shall publish annual reports on fund adequacy and displacement risk projections.
+
+---
+
 ## Design Rationale
 
 ### Why Regional Emergency Authority?

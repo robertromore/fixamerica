@@ -1982,9 +1982,54 @@ Add Article XVII, Section 9 — Federal Resettlement Authority:
 **Dependencies**: Coordinates with Gap 11 (climate risk) and emergency powers framework
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article XVII, Section 9.
+✅ **RESOLVED.** Article XVII-RF, Section 5 (Catastrophic Displacement and Resettlement) added to `02-design/constitution/11-emergency-powers.md`. Cross-reference added as Article I, Section 8(p) (Catastrophic Displacement Escalation) in `02-design/constitution/01-regional-structure.md`.
 
-**Severity:** Critical | **Mitigability:** Requires Development
+### Coverage
+
+| Proposal Element | Resolution | Location |
+|---|---|---|
+| Displacement Emergency declaration (a) | IFC-certified trigger (3% origin population OR 10+ years uninhabitability); President declares with 30-day Congressional concurrence (auto-continuation if Congress fails to act) | Art XVII-RF §5(a) |
+| Federal Resettlement Authority (b) | Federal coordination authority (not plenary power); voluntary incentive programs (housing vouchers, relocation grants); limited preemption for emergency housing; IFC-verified capacity determinations | Art XVII-RF §5(b) |
+| Border Closure Prohibition (c) | No Region may close borders, deny services, or use emergency powers to limit absorption; capacity claims require IFC-certified verification | Art XVII-RF §5(b)(3-4) |
+| Capacity-Based Allocation (d) | Voluntary incentive-based distribution (not mandatory assignment); citizens choose destination; incentives shape distribution to verified-capacity Regions | Art XVII-RF §5(b)(1-2) |
+| Federal Reimbursement (e) | Fiscal neutrality guarantee; 100% of IFC-verified marginal costs; infrastructure expansion covered; offset against equalization to prevent double-counting; origin Region risk-adjusted contribution | Art XVII-RF §5(c) |
+| Displaced Citizen Rights (f) | Immediate voting transfer (no ghost voting); 5-year credential portability; portable benefits; no transient classification | Art XVII-RF §5(d) |
+| Origin Region Obligations (g) | Pension responsibility until federal transfer; record facilitation; no exit penalties; risk-adjusted contribution based on climate adaptation investment | Art XVII-RF §5(f) |
+| Climate Adaptation Fund (h) | Climate Displacement Reserve — constitutional principle with statutory funding; actuarial/scientific projections; automatic draws from dedicated fund with IFC oversight | Art XVII-RF §5(i) |
+| Right to Return (new) | 20-year priority right if territory becomes habitable | Art XVII-RF §5(e) |
+| Origin Region Dissolution (new) | Federal Trusteeship if permanently uninhabitable or >50% population loss; debts federalized; structures dissolved or merged per Art I §2 | Art XVII-RF §5(g) |
+| Termination/Sunset (new) | IFC certifies stabilization; annual reviews; 5-year federal authority sunset absent renewal | Art XVII-RF §5(h) |
+
+### Design Decisions
+
+| Decision | Choice | Rationale |
+|----------|--------|-----------|
+| Placement | Art XVII-RF §5 | Emergency authority with Regional implications; follows Bio-Security (§4) pattern |
+| Surge relationship | Escalation of Art I §8(f-o) | Displacement Emergency supersedes and supplements existing surge framework |
+| Trigger | IFC-certified (3% origin population OR 10+ year uninhabitability) | Effect-based, scientific certification; avoids arbitrary fixed thresholds |
+| Federal authority | Coordination authority with limited preemption | Not plenary power; override only for exclusionary zoning impeding emergency housing |
+| Allocation | Voluntary via incentives | Housing vouchers, employment assistance targeted to high-capacity Regions; no forced relocation |
+| Reimbursement | Fiscal neutrality (IFC-determined) | No hard-coded percentages; offset against equalization; origin risk-adjusted contribution |
+| Voting | Immediate receiving Region transfer | No ghost voting; 0-day registration; one-person-one-vote bar |
+| Climate Fund | Constitutional principle, statutory funding | Reserve fund requirement; actuarial projections; no locked-in revenue source |
+| Right to Return | 20-year priority right | Preserves option without obligating return |
+| Origin dissolution | Federal Trusteeship | Debts federalized; assets managed for displaced citizens/creditors |
+| Termination | 5-year sunset + IFC stabilization certification | Prevents perpetual emergency governance |
+
+### Gaming Vector Coverage
+
+| Vector | Coverage |
+|--------|----------|
+| G1 Infrastructure Emergency Defense | Addressed: IFC determines capacity; Regions cannot self-certify |
+| G2 Residency Requirement Wall | Addressed: Art XVII-RF §5(d)(5) prohibits transient classification; Art I §8(a-b) baseline |
+| G3 Temporary Permanent Closure | Addressed: §5(h) sunset and annual review; IFC termination certification |
+| G4 Economic Migrant Reframe | Addressed: IFC scientific certification of uninhabitability; not self-declared |
+| G5 Capacity Measurement Gaming | Addressed: §5(b)(4) independent federal capacity audit |
+| G6 Origin Region Fiscal Escape | Addressed: §5(f)(1) pension obligations remain; §5(g)(2) debts federalized (not discharged) |
+| G7 Strategic Non-Preparation | Addressed: §5(c)(4) risk-adjusted contribution for origin Regions that failed to invest in adaptation |
+| G8-G15 | Partially addressed through voluntary allocation, one-person-one-vote, IFC oversight, sunset provisions |
+
+**Severity:** Critical | **Mitigability:** ✅ Resolved
 
 ---
 

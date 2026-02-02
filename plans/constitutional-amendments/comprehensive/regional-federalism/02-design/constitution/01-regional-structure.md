@@ -697,6 +697,8 @@ The Board shall coordinate water allocation, establish monitoring standards, and
 
 (o) **Prohibition on Exit Penalties.** *Resolves Gap 203 — The "Indentured Student" (Brain Drain Tax).* No Region or State may impose any tax, fee, debt obligation, or financial penalty conditioned upon a person's decision to leave the jurisdiction or establish residence elsewhere. Any contract provision, including student loan forgiveness or tuition assistance, that imposes a financial penalty for relocation exceeding the actual principal and interest of the benefit received is void as an unconstitutional restriction on the freedom of movement.
 
+(p) **Catastrophic Displacement Escalation.** When displacement resulting from natural disaster, climate event, or environmental catastrophe exceeds the capacity of the Migration Surge Stabilization mechanisms in this section, the President may declare a Displacement Emergency under Article XVII-RF, Section 5, activating enhanced federal coordination authority, fiscal indemnification, and displaced citizen protections. The Migration Surge Stabilization mechanisms of this section continue to operate concurrently with any Displacement Emergency declaration.
+
 ---
 
 ### Section 9. Mutual Recognition

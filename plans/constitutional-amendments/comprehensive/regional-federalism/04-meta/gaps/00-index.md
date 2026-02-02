@@ -348,7 +348,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 212 | Post-Labor Crash (robot tax gap) | Critical | ✅ Resolved |
 | 213 | Neural Warrant (cognitive liberty) | Critical | ✅ Resolved |
 | 214 | Swarm Loophole (army of none) | Critical | ✅ Resolved |
-| 215 | Internal Refugee (climate displacement) | Critical | Requires Development |
+| 215 | Internal Refugee (climate displacement) | Critical | ✅ Resolved |
 
 ### Constitutional Process
 
