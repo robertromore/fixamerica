@@ -5654,9 +5654,40 @@ Add to Article XX (Non-State Entities), Section 6:
 > - (iv) suspension of federal funds to the Region pending resolution.
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article XX, Section 6.
+**RESOLVED.** Placed in Art II §10 (Vital Federal Operations Protection) rather than proposed Art XX §6 — preserves the existing §8/§10 two-tier architecture. Art II §10(a) amended to add intelligence community facilities. Art II §10(b)(4) amended to replace "specifically targeting" standard with operational-effect standard. Art II §10(i)-(m) added: (i) Physical Access and Infrastructure (unimpeded ingress/egress, checkpoint prohibition, infrastructure maintenance obligation at parity standards, federal maintenance authority with 30-day cure and cost recovery, digital infrastructure extension); (j) Operational-Effect Standard (presumptively void if materially impairs regardless of facial neutrality, Region may rebut only by showing grave/immediate/documented health threat with proportionate impairment and no obstructive purpose, safe harbor for incidental non-material effects, federal permitting supremacy on federal land); (k) Defensive Perimeter and Adjacent Land Use (1-mile maximum Security Buffer Zone for defense/nuclear/intel facilities, federal-set perimeter with ARB review, eminent domain/zoning preemption within buffer, utility easement protection, civilian facilities excluded from buffer but retain operational-effect protections); (l) Non-Discrimination in Utilities and Workforce (Most Favored Nation utility pricing, workforce/contractor anti-exclusion, water allocation as prior appropriation right); (m) Enforcement and Personal Liability (5-year disqualification for knowing obstruction, targeted fund suspension by category proportionate to obstruction with escalation, concurrent operation with Art XII §3 de-escalation without exhaustion requirement).
 
-**Severity:** High | **Mitigability:** Requires Development
+| Proposed Element | Coverage |
+|---|---|
+| (a)(i) Regional regulation immunity | Art II §10(b)(4) (amended) — operational-effect standard; §10(j) operational-effect review |
+| (a)(ii) Regional taxation immunity | Existing federal tax immunity doctrine; §10(l)(1) utility pricing protection |
+| (a)(iii) Regional eminent domain immunity | Art II §17 (superior eminent domain) + §10(k) (defensive perimeter) |
+| (a)(iv) Regional law enforcement jurisdiction | §10(i)(2) — checkpoint prohibition on access routes |
+| (b)(i) Road access | §10(i)(1) — unimpeded ingress/egress, primary + secondary routes |
+| (b)(ii) Utility access | §10(b)(1) (existing) + §10(l)(1) (pricing protection) + §10(i)(5) (digital) |
+| (b)(iii) Checkpoint prohibition | §10(i)(2) — screening/inspection targeting federal personnel prohibited |
+| (b)(iv) Effective denial | §10(j)(1) — operational-effect test regardless of facial neutrality |
+| (c)(i) Buffer zone eminent domain | §10(k)(1)-(2) — Security Buffer Zone with federal consent requirement |
+| (c)(ii) Zoning restrictions | §10(j)(1) — operational-effect standard; §10(k)(2)(B) — buffer zone consultation |
+| (c)(iii) Permit denial | §10(j)(4) — federal permitting supremacy on federal land |
+| (d) Environmental interface | §10(j)(2)-(3) — rebuttal standard + safe harbor; uses existing §10(d)-(e) arbitration |
+| (e)(i) Federal court injunction | Existing §10(c)-(e) certification/arbitration framework |
+| (e)(ii) Physical intervention | Existing §10(g) emergency authority |
+| (e)(iii) Personal liability | §10(m)(1) — personal liability + removal + 5-year disqualification |
+| (e)(iv) Fund suspension | §10(m)(2) — targeted, proportionate, escalating fund suspension |
+| Gaming: Environmental Shutdown (G1) | §10(b)(4) (amended) + §10(j)(1) — operational-effect test |
+| Gaming: Access Denial (G2) | §10(i)(1) — unimpeded ingress/egress guarantee |
+| Gaming: Eminent Domain Squeeze (G3) | §10(k) — defensive perimeter with federal consent |
+| Gaming: Security Perimeter (G4) | §10(i)(2) — checkpoint prohibition |
+| Gaming: Infrastructure Decay (G5) | §10(i)(3)-(4) — parity maintenance + federal maintenance authority |
+| Gaming: Permit Freeze (G6) | §10(j)(4) — federal permitting on federal land |
+| Gaming: Workforce Squeeze (G7) | §10(l)(2) — workforce/contractor anti-exclusion |
+| Gaming: NIMBY Escalation (G8) | §10(i)(1)-(2) — access guarantee; §10(g) emergency authority |
+| Gaming: Utility Rate Gouge (G9) | §10(l)(1) — Most Favored Nation utility pricing |
+| Gaming: Contractor Exclusion (G10) | §10(l)(2) — contractor licensing anti-exclusion |
+| Gaming: Historic Preservation Trap (G11) | §10(j)(1) — operational-effect standard covers historic designations |
+| Gaming: Water Rights Choke (G12) | §10(l)(3) — water allocation as prior appropriation right |
+
+**Severity:** High | **Mitigability:** Resolved
 
 ---
 

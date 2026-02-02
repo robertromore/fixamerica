@@ -886,14 +886,15 @@ An officeholder who formally declares non-alignment with any party shall not be 
 - (5) Medicare and Medicaid Services processing facilities;
 - (6) Federal court facilities and administrative offices;
 - (7) United States Postal Service distribution centers;
-- (8) Any other federal facility designated by Congress as "Vital" by statute.
+- (8) Intelligence community facilities, including but not limited to data centers, analysis facilities, and secure communications infrastructure; *[Added by Gap 183.]*
+- (9) Any other federal facility designated by Congress as "Vital" by statute.
 
 (b) **Minimum Operating Guarantee.** Regions may not use exclusive-domain regulatory authority to:
 
 - (1) deny, restrict, or condition utility services (water, electricity, natural gas, telecommunications) to Vital Federal Operations;
 - (2) impose labor standards that would require reduction of operating hours or staffing below levels necessary for continuous operation;
 - (3) apply zoning, permitting, or land-use restrictions that would require relocation or closure of existing Vital Federal Operations;
-- (4) impose environmental or health regulations specifically targeting federal facilities without generally applicable justification.
+- (4) impose environmental or health regulations that materially impair the operations of federal facilities, regardless of whether such regulations are facially neutral or generally applicable. *[Amended by Gap 183 — operational-effect standard replaces "specifically targeting" standard. See subsection (j).]*
 
 (c) **Certification of Vital Operations Necessity.** When Regional regulations materially impede Vital Federal Operations, the head of the affected federal agency may certify a "Vital Operations Necessity":
 
@@ -926,6 +927,72 @@ An officeholder who formally declares non-alignment with any party shall not be 
 - (3) The federal government shall compensate the Region for costs of federal operation.
 
 (h) **Distinction from National Security Override.** This section provides protection for civilian administrative operations; Section 8 provides protection for defense operations. The standards and procedures differ because civilian operations do not implicate the same national security concerns, and Regional interests are given greater weight in balancing.
+
+#### Federal Facility Protection
+
+*Resolves Gap 183 — The "Soft Seizure" (Federal Property Hostages). Prevents Regions from using regulatory harassment, access denial, infrastructure neglect, or adjacent land use manipulation to render federal facilities inoperable without formal seizure.*
+
+(i) **Physical Access and Infrastructure.**
+
+(1) **Unimpeded Access.** The Federal Government possesses the right of unimpeded ingress and egress to all facilities protected under this section and Section 8. No Region may close, restrict, degrade, or impose conditions upon public roads, rail lines, waterways, or air corridors serving a federal facility in a manner that materially impairs operations. At minimum, primary and secondary access routes to each facility shall remain functional at all times.
+
+(2) **Checkpoint Prohibition.** Regional law enforcement may not establish checkpoints, screening procedures, or inspection points on access routes that target, delay, or impede federal personnel, authorized contractors, or cargo. This prohibition does not limit normal traffic enforcement applied uniformly to all road users.
+
+(3) **Infrastructure Maintenance Obligation.** Regions shall maintain public infrastructure (roads, bridges, water mains, sewer lines, electrical transmission, telecommunications lines) serving federal facilities at standards no lower than the standards applied to comparable infrastructure serving non-federal users in the same jurisdiction. Deliberate neglect or disproportionate deferred maintenance of infrastructure serving federal facilities constitutes a violation of this section.
+
+(4) **Federal Maintenance Authority.** If a Region fails to maintain infrastructure serving a federal facility at parity standards and the failure materially impairs operations:
+
+- (A) the federal agency shall notify the Regional Government and provide thirty (30) days to cure;
+- (B) if the failure persists, the Federal Government may undertake maintenance directly;
+- (C) the costs of federal maintenance shall be recovered from the Region's federal transfer payments.
+
+(5) **Digital Infrastructure.** The protections of subsection (b)(1) extend to all forms of digital infrastructure, including internet connectivity, data transmission, cloud services, and encryption capabilities. No Region may impose cyber-regulation, data localization, or encryption restrictions that materially impair federal facility operations.
+
+(j) **Operational-Effect Standard for Environmental and Regulatory Review.**
+
+(1) **Standard.** Any Regional regulation, zoning ordinance, environmental rule, historic preservation designation, permitting requirement, or water allocation decision that has the practical effect of materially impairing the operations of a Vital Federal Operation or a facility protected under Section 8 is presumptively void as applied to that facility, regardless of its facial neutrality or general applicability.
+
+(2) **Rebuttal.** A Region may enforce such a regulation as applied to a federal facility only by demonstrating to the arbitration panel under subsection (e) that:
+
+- (A) the regulation addresses a grave, immediate, and documented threat to public health or safety that cannot be mitigated by alternative means;
+- (B) the operational impairment is proportionate to the threat addressed; and
+- (C) the regulation was not adopted, amended, or applied with the purpose of impeding federal operations.
+
+(3) **Safe Harbor.** This subsection does not invalidate bona fide environmental or health regulations of general applicability that impose only incidental, non-material effects on federal facility operations. The distinction between material impairment and incidental effect shall be determined by the arbitration panel based on operational evidence.
+
+(4) **Permitting and Construction.** Federal construction, renovation, or expansion on federal land is subject to federal, not Regional, permitting authority. Regions may not deny, delay, or condition building permits, fire certifications, or health inspections for federal facilities as a means of impeding operations.
+
+(k) **Defensive Perimeter and Adjacent Land Use.**
+
+(1) **Security Buffer Designation.** The Federal Government may designate a Security Buffer Zone extending up to one (1) mile from the boundary of any defense installation, intelligence facility, or nuclear facility protected under Section 8 or this section. The perimeter shall be set by the facility commander or administrator based on operational security requirements, published in the Federal Register, and subject to review by the Allocation Review Board upon petition by the affected Region.
+
+(2) **Preemption Within Buffer.** Within a designated Security Buffer Zone:
+
+- (A) Regional eminent domain may not be exercised without prior written federal consent;
+- (B) material changes to land use, zoning, or development that would compromise facility security or operations require prior federal consultation and may be overridden by federal certification of necessity;
+- (C) utility easements and rights-of-way serving the facility may not be revoked, modified, or allowed to lapse without federal consent.
+
+(3) **Civilian Federal Facilities.** For Vital Federal Operations that are not defense, intelligence, or nuclear facilities, the Federal Government may not designate a Security Buffer Zone but may invoke subsection (i)(4) (Federal Maintenance Authority) and subsection (j) (Operational-Effect Standard) to protect operations from adjacent land use interference.
+
+(l) **Non-Discrimination in Utilities and Workforce.**
+
+(1) **Utility Pricing.** Federal facilities shall receive utility services at rates no higher than the lowest rate charged to any other institutional or industrial customer for comparable service volume and usage pattern within the same jurisdiction. Discriminatory rate classifications, surcharges, or fee structures that disproportionately burden federal facilities are prohibited.
+
+(2) **Workforce and Contractor Access.** Regions may not impose occupational licensing, bonding, residency, or certification requirements on federal employees or authorized federal contractors that are designed to or have the practical effect of excluding personnel necessary for federal facility operations. This subsection does not limit generally applicable professional licensing requirements that apply uniformly and do not disproportionately burden federal operations.
+
+(3) **Water Allocation.** Regional water allocation decisions may not reduce, revoke, or condition water rights serving federal facilities in a manner that materially impairs operations. Water disputes involving federal facilities shall be resolved through the certification and arbitration process of subsections (c)-(e), with the federal facility's operational requirements treated as a prior appropriation right.
+
+(m) **Enforcement and Personal Liability.**
+
+(1) **Personal Liability.** Any Regional or local official who knowingly enforces a regulation, order, or administrative action declared void under this section, or who knowingly directs the degradation, denial, or obstruction of infrastructure, utilities, or access serving a federal facility, shall be personally liable for civil damages, subject to removal from office, and disqualified from holding public office for a period of five (5) years.
+
+(2) **Targeted Fund Suspension.** Upon a finding by a federal court that a Region has intentionally obstructed Vital Federal Operations in violation of this section:
+
+- (A) the court may order suspension of specific categories of federal transfer payments to the obstructing jurisdiction (not the entire Region) proportionate to the category of obstruction;
+- (B) suspension shall escalate in scope with the duration and severity of the obstruction;
+- (C) suspended funds shall be restored upon certified compliance.
+
+(3) **Relation to De-Escalation.** The protections and remedies of this section operate concurrently with the de-escalation procedures of Article XII, Section 3. Nothing in Article XII requires exhaustion of de-escalation stages before invoking the emergency authority of subsection (g) or the physical access protections of subsection (i) when federal facility operations face material operational impairment.
 
 ---
 
