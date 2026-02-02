@@ -6006,9 +6006,46 @@ Add to Article III-RF, Section 7 — Mutual Recognition Mandate:
 **Dependencies**: Constitutional Court operational for scope difference certification
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article III-RF, Section 7.
+**RESOLVED.** Art I §9(c) amended (fee parity cap), §9(f) amended (self-execution clause), §9(p)-(u) added (delegated authority, processing timeline, interim practice, supervised practice cap, anti-retaliation, federal backstop). Existing §9(g)-(o) provides the core framework; new subsections close six identified gaps.
 
-**Severity:** High | **Mitigability:** Requires Development
+**Severity:** High | **Mitigability:** Resolved
+
+**Coverage:**
+
+| Proposed Element / Gaming Vector | Constitutional Provision | Status |
+|---|---|---|
+| Professional license portability mandate | Art I §9(c) — mandatory recognition | Existing |
+| Presumption of competency | Art I §9(g) — rebuttable presumption, burden on receiving Region | Existing |
+| Prohibited barriers: re-examination | Art I §9(i)(1) — "higher standards" assertions not valid | Existing |
+| Prohibited barriers: Region-specific training | Art I §9(n)(1) — cannot require CE obtainable only within Region | Existing |
+| Prohibited barriers: residency requirements | Art I §8(b) — cannot condition licensure on Region of prior residence | Existing |
+| Genuine scope differences | Art I §9(h) — Essential for Public Safety, four-part test | Existing |
+| ARB pre-approval of supplementary requirements | Art I §9(j) — must certify within 90 days | Existing |
+| Auto-recognition on ARB inaction | Art I §9(k) — deemed not certified | Existing |
+| Grandfathering sunset | Art I §9(l) — 2-year validity, ARB certification within 1 year | Existing |
+| Anti-protectionism / facially neutral discrimination | Art I §9(m) — strict scrutiny, rebuttable protectionist presumption | Existing |
+| Expedited judicial review | Art I §9(o) — Constitutional Court, 60 days, provisional recognition | Existing |
+| Fee cap (F5) | Art I §9(c) amended — parity with in-Region renewal rate | **NEW** |
+| Self-execution (F3) | Art I §9(f) amended — self-executing, supplementary statute optional | **NEW** |
+| Delegated authority / private association gate (F1, G8) | Art I §9(p) — binds all entities exercising delegated licensing authority | **NEW** |
+| Processing timeline / administrative delay (F4, G4) | Art I §9(q) — 30-day deadline, automatic recognition on inaction | **NEW** |
+| Insurance portability (D13) | Art I §9(q)(5) — origin-Region insurance valid for 90-day transition | **NEW** |
+| Common-scope interim practice (F2, G5) | Art I §9(r)(1)-(2) — immediate practice in undisputed common scope | **NEW** |
+| Scope resolution deadline | Art I §9(r)(3) — 6-month resolution or full scope recognition | **NEW** |
+| Remote/telehealth practice (D8) | Art I §9(r)(4) — recognition extends to remote provision of services | **NEW** |
+| Emergency practice (D9) | Art I §9(r)(5) — registration suspended during declared emergencies | **NEW** |
+| Supervised practice cap | Art I §9(s) — 90-day maximum, anti-circumvention | **NEW** |
+| Anti-retaliation for general professionals (G12) | Art I §9(t)(1) — covers licensing boards and delegated bodies | **NEW** |
+| Reciprocity revocation protection (G9) | Art I §9(t)(2) — revocation requires ARB certification of degraded standards | **NEW** |
+| Federal backstop / federal practice credential | Art I §9(u)(1)-(4) — federal credential on systematic non-compliance | **NEW** |
+| Workforce monitoring (D10) | Art I §9(u)(5) — IFC monitors and reports annually | **NEW** |
+| G1 "Regional Standards" Shield | Art I §9(h)-(i) — Essential for Public Safety + prohibited justifications | Existing |
+| G2 "Grandfather Wall" | Art I §9(l) — 2-year sunset with ARB certification | Existing |
+| G3 "Credential Creep" | Art I §9(j) — ARB pre-approval + §9(s) supervised practice cap | Existing + **NEW** |
+| G6 "Registration Fee Gouge" | Art I §9(c) amended — fee parity cap | **NEW** |
+| G7 "CE Localization" | Art I §9(n)(1) — cannot require Region-only CE | Existing |
+| G10 "Scope Inflation" | Art I §9(j) — ARB must certify any supplementary requirement | Existing |
+| G11 "Insurance Lock" | Art I §9(q)(5) — origin-Region insurance accepted for 90-day transition | **NEW** |
 
 ---
 

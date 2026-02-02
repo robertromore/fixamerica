@@ -800,13 +800,13 @@ The originating jurisdiction may not impose conditions, penalties, or differenti
 
 (b) Legal Status Recognition. Marriages, divorces, adoptions, name changes, powers of attorney, corporate registrations, and property titles established under any jurisdiction's law shall be recognized in all other jurisdictions.
 
-(c) Professional Credentials. Professional licenses shall be recognized for practice in all jurisdictions, subject only to registration, reasonable fees, and verification of good standing. Supplementary requirements may be imposed only where the receiving jurisdiction's standards demonstrably exceed those of the issuing jurisdiction.
+(c) Professional Credentials. Professional licenses shall be recognized for practice in all jurisdictions, subject only to registration, fees not exceeding the lesser of actual administrative processing costs or the fee charged to in-Region professionals for license renewal in the same profession, and verification of good standing. Supplementary requirements may be imposed only where the receiving jurisdiction's standards demonstrably exceed those of the issuing jurisdiction.
 
 (d) Academic Credentials. Educational degrees from accredited institutions shall be recognized throughout the United States.
 
 (e) No jurisdiction may refuse recognition based on religious or moral objection, political disagreement, economic protectionism, or retaliation.
 
-(f) Implementation procedures are established by statute. See the [Interstate Professional Licensing Reciprocity Act](../../proposals/04-social-policy-labor/interstate-professional-licensing-act.md) for the proposed implementing legislation.
+(f) This section is self-executing and does not require implementing legislation to take effect. Implementation procedures may be supplemented by statute. See the [Interstate Professional Licensing Reciprocity Act](../../proposals/04-social-policy-labor/interstate-professional-licensing-act.md) for proposed supplementary legislation.
 
 #### Rebuttable Presumption of Competency
 
@@ -891,6 +891,62 @@ The originating jurisdiction may not impose conditions, penalties, or differenti
 (2) Receive expedited ruling within sixty (60) days;
 
 (3) Practice under provisional recognition pending appeal if they demonstrate valid out-of-Region credential.
+
+#### Delegated Authority and Processing
+
+(p) **Delegated Authority.** The obligations of this Section apply to any entity, public or private, to which a Region or State has delegated the authority to license, certify, or regulate a profession, including professional associations, examining boards, and credentialing bodies. Acts of such entities in the exercise of delegated licensing authority are acts of the delegating jurisdiction for constitutional purposes. No Region may evade the requirements of this Section by delegating licensing authority to an entity that claims exemption from constitutional obligations.
+
+(q) **Processing Timeline and Automatic Recognition.**
+
+(1) Applications for credential recognition shall be processed within thirty (30) days of submission of a complete application;
+
+(2) Failure to issue a specific, written denial based on a supplementary requirement certified under subsection (h) within thirty (30) days constitutes automatic recognition by operation of law;
+
+(3) A denial must identify the specific certified supplementary requirement not met and the specific deficiency in the applicant's qualifications;
+
+(4) Criminal history review, where relevant to professional fitness, does not extend the thirty-day deadline; the reviewing jurisdiction must complete all background review within the same period;
+
+(5) During the first ninety (90) days of practice following recognition, professional liability insurance valid in the originating Region shall be accepted as valid in the receiving Region.
+
+#### Interim Practice and Scope Resolution
+
+(r) **Interim Practice and Partial Recognition.**
+
+(1) Upon submission of a valid application for credential recognition, a professional is immediately authorized to practice within the common scope shared by the originating and receiving licenses;
+
+(2) Disputes regarding supplementary requirements for scope elements that differ between Regions shall not suspend the right to practice within the undisputed common scope;
+
+(3) Supplementary requirements for differing scope elements shall be resolved within six (6) months; failure to resolve within six (6) months constitutes recognition of the full scope;
+
+(4) The right to recognition and practice under this Section extends to remote provision of professional services where the professional is located in one Region and the client or patient is in another;
+
+(5) During a declared emergency under Article XI or any Regional emergency declaration, the registration requirement of subsection (c) is suspended, and any professional holding a valid credential from any Region may practice immediately without application.
+
+(s) **Supervised Practice Cap.** Any supplementary requirement for supervised practice certified by the ARB under subsection (h) shall not exceed ninety (90) days. A Region may not circumvent this limitation by requiring sequential supervised practice periods under different supervisory classifications.
+
+#### Anti-Retaliation and Federal Backstop
+
+(t) **Anti-Retaliation.**
+
+(1) No licensing board, professional association, credentialing body, or entity exercising delegated licensing authority may discriminate against, impose heightened scrutiny upon, conduct targeted audits of, or discipline a professional for exercising rights under this Section;
+
+(2) No Region may revoke, suspend, or restrict reciprocal recognition of another Region's credentials absent ARB certification that the other Region's standards have materially degraded below the Essential for Public Safety threshold;
+
+(3) Violations of this subsection are subject to the remedies and penalties established in Section 14, including treble damages and federal preemption of the offending licensing authority after a pattern of two (2) or more violations within five (5) years;
+
+(4) A professional who prevails in a claim under this subsection shall recover attorney fees and costs.
+
+(u) **Federal Backstop.**
+
+(1) Upon a finding by the National Constitutional Court or the Allocation Review Board that a Region has systematically failed to comply with this Section — including systematic processing delays, pattern of pretextual denials, delegation to non-compliant bodies, or refusal to recognize ARB-certified credentials — the Federal Government shall issue Federal Practice Credentials to affected professionals;
+
+(2) A Federal Practice Credential supersedes Regional licensing requirements and authorizes practice throughout the United States;
+
+(3) The Federal Practice Credential shall be issued within fourteen (14) days of the finding of systematic non-compliance;
+
+(4) The non-compliant Region's licensing authority for the affected profession is suspended until the Region demonstrates compliance to the satisfaction of the ARB;
+
+(5) The Independent Fiscal Council shall monitor professional workforce flows across Regions and report annually on credential recognition compliance, processing times, denial rates, and any patterns suggesting protectionist obstruction.
 
 ---
 
