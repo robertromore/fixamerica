@@ -1575,7 +1575,57 @@ Add Article III-RF, Section 12 — Cognitive Liberty Shield:
 **Identified**: 2026-01-26
 **Category**: Emerging Technology
 **Criticality**: 🔴 **CRITICAL**
-**Status**: UNRESOLVED
+**Status**: ✅ RESOLVED
+
+**Resolution:** New constitutional text — Article XI-RF, Section 5 (Autonomous Lethal Systems and Force Equivalence) in `02-design/constitution/10-armed-forces.md`, plus cross-reference amendments to Article XI §13(a)(3), §13(b)(6), and §13(d) in `02-design/single-topic/military-civilian-control.md`.
+
+**Overlap:** ~20-25% (LOW) — existing SDF armed drone prohibition (Art XI §13(b)(3)) and PMC prohibition (Art XI-RF §4) cover some ground, but no provision restricts Regional Guard autonomous weapons, counts autonomous systems toward personnel caps, or requires meaningful human control for armed systems.
+
+**Coverage by existing provisions:**
+
+| Existing Provision | Coverage | Remaining Gap |
+|---|---|---|
+| Art XI §13(b)(3) (SDF drone ban) | Armed drones prohibited for SDFs | SDF-only; not Regional Guard or law enforcement; aerial only |
+| Art XI §13(a) (SDF personnel cap) | 0.5% or 10,000 personnel | Counts only humans; autonomous systems excluded |
+| Art XI-RF §4 (PMC prohibition) | Private military contractors banned | Human-centric; government-owned autonomous systems uncovered |
+| Art XI §11 (Digital Force Equivalence) | Cyber-kinetic = domestic force | Precedent for equivalence, but for cyber only |
+| Art II §9 (ETRB) | Technology domain classification | No weapons-specific mandate |
+
+**Design decisions applied:**
+
+| Decision | Choice | Rationale |
+|----------|--------|-----------|
+| Placement | Art XI-RF §5 + Art XI §13 cross-references | Regional force constraint in Regional Guard file; SDF limits updated via cross-reference |
+| Scope | Universal sub-federal ban | Applies to Regional Guard, SDF, State/local law enforcement; no label exemption |
+| Definition | Capability-based | "Can select and engage targets with lethal force without affirmative human decision" |
+| HITL standard | Meaningful human control (principle) | Specific ratios set by ETRB, not constitutional text |
+| Force equivalence | ETRB sets ratios annually | Capability-based; minimum 1:1; aggregated with human personnel |
+| Law enforcement | Lethal capability = military | No label exemption; "police equipment" classification irrelevant |
+| Surveillance | Separated from military prohibition | Handled under existing Art IV privacy provisions |
+| Private intermediary | Constructive Control doctrine | Funded, directed, or commandeerable = Regional regardless of ownership |
+| Federal domestic | Restricted by Two-Key + HITL | Autonomous lethal domestic deployment only for declared foreign invasion |
+| Latent lethality | Weaponizable = military equipment | ETRB classifies; presumed lethal unless certified non-weaponizable |
+| Swarms | Exclusive federal power for external defense | Domestic swarm deployment prohibited for all governments |
+| Enforcement | Federal seizure + federalization + personal liability | Immediate for prohibited systems; whistleblower protection |
+
+**Gaming vector coverage:**
+
+| Gaming Vector | How Addressed |
+|---|---|
+| G1 Law Enforcement Label | §(a)(2) explicitly: label does not exempt; functional definition controls |
+| G2 Private Intermediary | §(e) Constructive Control doctrine: funded, directed, or commandeerable = covered |
+| G3 Remote Control Fiction | §(b)(3) requires situational awareness, not mere ratification of algorithmic recommendation; ETRB certifies operator ratios |
+| G4 Defensive Pretext | §(a)(2) explicitly: "defensive infrastructure" label does not exempt |
+| G5 Software Weaponization | §(g) Latent Lethality: convertible systems classified as military; presumed lethal unless ETRB certifies |
+| G6 Dual-Use Stockpiling | §(g) covers systems with "payload modularity" or "field modification" potential |
+| G7 Foreign Import | §(a)(1) applies to all sub-federal entities regardless of acquisition source |
+| G8 Research Exemption | No research exemption in text; functional definition applies regardless of purpose |
+| G9 Incremental Acquisition | §(c)(2) aggregates all equivalent personnel; no per-acquisition threshold |
+| G10 Multi-Region Pooling | §(d)(1) prohibits sub-federal swarms; §(e) covers pooled control structures |
+| G11 Contractor-Operated | §(e)(3)-(4) covers contractors under operational control; leasing = possession |
+| G12 Non-Lethal Redesignation | §(b) requires HITL for all armed systems (lethal or less-lethal); §(g) covers latent lethality |
+| G13 Infrastructure Protection | §(a)(2) no label exemption; "border security" / "infrastructure protection" does not override functional definition |
+| G14 Militia Classification | §(a)(1) applies regardless of designation; constitutional provision supersedes statutory militia claims |
 
 ### Problem Statement
 
@@ -1741,9 +1791,9 @@ Add Article XI, Section 8 — Automated Force Cap:
 **Dependencies**: Coordinates with Gap 192 (State Defense Force limits)
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article XI, Section 8.
+**✅ RESOLVED.** Constitutional text added as Article XI-RF, Section 5 (Autonomous Lethal Systems and Force Equivalence) with cross-reference amendments to Article XI §13.
 
-**Severity:** Critical | **Mitigability:** Requires Development
+**Severity:** Critical | **Mitigability:** ✅ Resolved
 
 ---
 

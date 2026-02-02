@@ -389,7 +389,7 @@ for the sole and specific purpose of enforcing that particular Supreme Court ord
 
 (2) Ten thousand personnel, whichever is smaller;
 
-(3) Personnel includes all full-time, part-time, and volunteer members.
+(3) Personnel includes all full-time, part-time, and volunteer members, and autonomous system equivalents as calculated under Article XI-RF, Section 5(c).
 
 (b) **Prohibited Capabilities.** State Defense Forces are prohibited from possessing or operating:
 
@@ -401,7 +401,9 @@ for the sole and specific purpose of enforcing that particular Supreme Court ord
 
 (4) Offensive cyber capabilities designed to disrupt, damage, or destroy systems;
 
-(5) Chemical, biological, radiological, or nuclear materials or delivery systems.
+(5) Chemical, biological, radiological, or nuclear materials or delivery systems;
+
+(6) Autonomous lethal systems as defined in Article XI-RF, Section 5(a).
 
 (c) **Combat Role Definition.** For purposes of State Defense Force limitations, "independent combat role" includes:
 
@@ -413,7 +415,7 @@ for the sole and specific purpose of enforcing that particular Supreme Court ord
 
 (4) Any operation that would constitute an "act of war" if conducted by a foreign nation.
 
-(d) **Automatic Reclassification.** Any State Defense Force that exceeds the personnel cap by more than ten percent, possesses prohibited capabilities, or engages in independent combat roles is automatically reclassified as a National Guard unit subject to federalization.
+(d) **Automatic Reclassification.** Any State Defense Force that exceeds the personnel cap by more than ten percent (including autonomous system equivalents under Article XI-RF, Section 5(c)), possesses prohibited capabilities (including autonomous lethal systems under Article XI-RF, Section 5), or engages in independent combat roles is automatically reclassified as a National Guard unit subject to federalization.
 
 (e) **Multi-State Coordination Limits.** State Defense Forces from different States may not conduct joint exercises exceeding one thousand combined personnel without federal notification, establish unified command structures, or coordinate operations that would constitute de facto military force.
 

@@ -267,6 +267,66 @@ Violation constitutes a criminal offense punishable upon final conviction by los
 - (3) subjects violators to prosecution for illegal warfare;
 - (4) authorizes Congress to terminate any covert action discovered to involve PMC combat operations.
 
+### Section 5. Autonomous Lethal Systems and Force Equivalence
+
+*Integrated from Gap 214 — closes the autonomous weapons loophole by prohibiting sub-federal autonomous lethal systems, requiring meaningful human control for armed systems, establishing force equivalence counting, and restricting federal domestic deployment.*
+
+(a) **Prohibition on Autonomous Lethal Force.** No Region, State, municipality, or local government may possess, deploy, or authorize any autonomous lethal system. For purposes of this Section, an "autonomous lethal system" is any weapons system that, once activated, can select and engage targets with lethal force without a specific, affirmative human decision for each engagement.
+
+- (1) This prohibition applies to all sub-federal entities regardless of designation, including Regional Guard forces, State Defense Forces, State and local law enforcement agencies, and any other entity exercising governmental authority;
+- (2) Classification of a system as "law enforcement equipment," "defensive infrastructure," "border security," or any other label does not exempt it from this prohibition if it meets the functional definition of an autonomous lethal system; and
+- (3) Single-use munitions (missiles, torpedoes, and similar ordnance that destroy themselves upon impact) are not "autonomous lethal systems" for purposes of this Section, provided they are launched pursuant to an affirmative human engagement decision.
+
+(b) **Meaningful Human Control.** Any armed system operated by or on behalf of a Region, State, or local government — whether lethal or less-lethal — must be subject to meaningful human control:
+
+- (1) every lethal engagement must require a specific, affirmative human decision by an identified operator;
+- (2) the human operator must have the ability to abort any engagement at any moment prior to the application of force;
+- (3) the operator must possess situational awareness sufficient to make an informed engagement decision, not merely ratify an algorithmic recommendation; and
+- (4) the Emerging Technology Review Board shall establish and periodically update the maximum ratio of armed systems to human operators necessary to maintain meaningful control, and shall certify compliance by sub-federal armed forces.
+
+(c) **Force Equivalence.** For purposes of personnel limitations under this Article and Article XI, Section 13, autonomous and remotely operated systems shall be counted as equivalent personnel:
+
+- (1) the Emerging Technology Review Board shall annually establish Force Equivalence Ratios, determining the number of human personnel operationally equivalent to each class of unmanned or autonomous system, based on capability assessment;
+- (2) equivalent personnel counts shall be aggregated with human personnel for all force caps applicable to Regional Guard forces, State Defense Forces, and State or local armed units;
+- (3) any force — Regional Guard, State Defense Force, or other sub-federal armed entity — whose aggregate personnel count (human plus equivalents) exceeds the applicable constitutional cap shall immediately disarm excess systems or submit to federalization under Section 2 of this Article; and
+- (4) the ETRB may not set a Force Equivalence Ratio below one-to-one for any armed system.
+
+(d) **Anti-Swarm Doctrine.** The possession and operation of networked autonomous systems capable of coordinated lethal or coercive action exceeding the meaningful control capacity of their human operators is a power reserved exclusively to the federal Armed Forces for external defense:
+
+- (1) no Region, State, or local government may possess, operate, or authorize swarms of networked autonomous systems capable of coordinated armed action;
+- (2) domestic deployment of armed autonomous swarms by any level of government, including federal, is prohibited except in response to a declared invasion by a foreign power authorized under this Article; and
+- (3) for purposes of this subsection, a "swarm" means three or more networked unmanned systems capable of coordinated autonomous action beyond the real-time control capacity of individual human operators.
+
+(e) **Constructive Control and Private Intermediaries.** The prohibitions of this Section extend to any autonomous system subject to the effective control or direction of a sub-federal government, regardless of nominal ownership:
+
+- (1) any system funded by Regional, State, or local appropriations is covered regardless of the entity that holds title;
+- (2) any system that a Region, State, or local government may commandeer, requisition, or operationally direct is covered regardless of ownership structure;
+- (3) any private entity, corporation, public-private partnership, or contractor that operates armed autonomous systems under the direction, funding, or operational control of a sub-federal government is subject to this Section;
+- (4) leasing, licensing, or other arrangements that provide sub-federal governments with operational access to autonomous weapons systems are treated as possession for purposes of this Section; and
+- (5) this subsection incorporates and extends the private military contractor prohibitions of Section 4 of this Article to autonomous systems.
+
+(f) **Federal Domestic Restriction.** To preserve the balance of force between the federal government and the Regions:
+
+- (1) the federal government may not deploy autonomous lethal systems within the domestic territory of the United States except in response to a declared invasion by a foreign power, and only pursuant to Two-Key authorization under Article XI, Section 3;
+- (2) any federal domestic deployment of armed autonomous systems, whether lethal or less-lethal, requires the meaningful human control standards of subsection (b); and
+- (3) this subsection does not restrict federal military use of autonomous systems in foreign theaters of war authorized under Article XI, Section 2.
+
+(g) **Latent Lethality.** Systems designed or marketed for non-lethal purposes — including surveillance, logistics, agriculture, firefighting, or disaster relief — that possess latent capacity for rapid weaponization through software update, payload modularity, or field modification:
+
+- (1) shall be classified as military equipment by the Emerging Technology Review Board if they can be converted to lethal capability without specialized manufacturing;
+- (2) are subject to the force equivalence counting of subsection (c) once classified;
+- (3) shall be presumed lethal unless the ETRB certifies that the system lacks weaponization potential; and
+- (4) Regions possessing systems reclassified as military equipment under this subsection shall have one hundred eighty days to divest, decommission, or submit to federal oversight.
+
+(h) **Enforcement.**
+
+- (1) **Federal Seizure.** The federal government may seize prohibited autonomous lethal systems in the possession of any sub-federal government upon judicial order or, in exigent circumstances, upon certification by the Secretary of Defense that immediate seizure is necessary to prevent imminent use;
+- (2) **Guard Federalization.** Possession of prohibited autonomous systems by a Regional Guard force constitutes grounds for emergency federalization under Section 2 of this Article;
+- (3) **Automatic Reclassification.** Possession of prohibited autonomous systems by a State Defense Force triggers the automatic reclassification provisions of Article XI, Section 13(d);
+- (4) **Personal Liability.** Officials who authorize the acquisition, possession, or deployment of prohibited autonomous systems are personally liable and subject to prosecution;
+- (5) **Whistleblower Protection.** Any person who reports the acquisition, possession, or development of prohibited autonomous systems by a sub-federal government is protected from retaliation under the whistleblower provisions of this Constitution; and
+- (6) **Compliance Monitoring.** The Department of Defense, in coordination with the Emerging Technology Review Board, shall conduct annual inspections of sub-federal armed forces to verify compliance with this Section, and shall report findings to Congress.
+
 ---
 
 ## Design Rationale
