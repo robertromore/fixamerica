@@ -1941,6 +1941,89 @@ Rendering a person functionally non-existent prior to final adjudication constit
 - (2) subject responsible officials to personal liability; and
 - (3) constitute grounds for the criminal penalties applicable to deprivation of rights under color of law.
 
+### Section 8 — Cognitive Liberty and Neural Privacy
+
+*Integrated from Gap 213 — establishes constitutional protection for cognitive liberty and neural privacy against brain-computer interface surveillance, compelled neural data access, and cognitive manipulation.*
+
+(a) **Right to Mental Integrity.** Every person within the jurisdiction of the United States possesses an inviolable right to mental integrity, encompassing:
+
+- (1) **Freedom from Neural Surveillance.** No government actor may monitor, record, decode, or otherwise access any person's neural activity, cognitive states, or mental processes without authorization under this Section;
+- (2) **Freedom from Cognitive Manipulation.** No government actor may use any device, substance, or technique to write to, alter, implant, suppress, or otherwise manipulate any person's thoughts, memories, emotions, or cognitive processes, except for medical treatment to which the person has given informed consent; and
+- (3) **Testimonial Privilege.** Neural data revealing a person's thoughts, beliefs, opinions, mental states, or cognitive processes is testimonial in character and subject to the protections of the Fifth Amendment. No person may be compelled to provide neural data that would be self-incriminating.
+
+(b) **Compelled Access Prohibition.** No government actor may compel any person to submit to neural monitoring, brain-computer interface interrogation, or cognitive state assessment, except:
+
+- (1) **Safety Exception.** When a court of competent jurisdiction determines, upon sworn testimony establishing probable cause, that a person poses an imminent danger to self or others, a judicial order may authorize a cognitive fitness assessment, subject to the following restrictions:
+    - (i) the assessment shall produce only a binary determination of fitness or unfitness for a specified purpose;
+    - (ii) all neural data acquired during the assessment shall be processed ephemerally and destroyed immediately upon rendering the fitness determination;
+    - (iii) neural data acquired under this exception shall be firewalled from law enforcement and may not be used, directly or derivatively, in any criminal investigation or prosecution;
+    - (iv) only devices certified by the Emerging Technology Review Board under subsection (i) may be used for assessments under this exception; and
+    - (v) the person subject to assessment retains the right to counsel and to an independent expert observer during any procedure conducted under this exception.
+
+(c) **Warrant Requirements for Neural Data Access.** Access to stored neural data or real-time neural monitoring for law enforcement purposes requires a super-warrant issued by a panel of three Article III judges (or three judges of the Regional equivalent), upon a showing that:
+
+- (1) there is probable cause to believe that a completed felony involving physical violence or imminent threat thereof has occurred;
+- (2) the neural data sought is directly relevant to the completed offense;
+- (3) all non-neural investigative methods have been exhausted or would be futile;
+- (4) the warrant describes with particularity the specific neural data sought, the time period covered, and the cognitive domains to be accessed;
+- (5) minimization procedures ensure that neural data outside the scope of the warrant is neither reviewed nor retained; and
+- (6) the warrant expires after thirty days and may be renewed only upon a fresh showing satisfying the requirements of this subsection.
+
+(d) **Inalienability in Commerce.** The rights established by this Section may not be waived, contracted away, or diminished by private agreement:
+
+- (1) Any contract, terms of service, employment agreement, or other instrument purporting to require a person to submit to neural monitoring, disclose neural data, or waive protections under this Section is unenforceable and void as against public policy;
+- (2) Any person who has disclosed neural data to a private entity retains the right to revoke access and require deletion at any time, and such revocation may not be treated as breach of contract;
+- (3) No employer, educational institution, landlord, insurer, or other private entity may draw adverse inference from a person's refusal to submit to neural monitoring or disclose neural data; and
+- (4) This subsection operates through contract unenforceability and adverse-inference prohibition rather than direct regulation of private conduct, preserving the public-private distinction while ensuring that market pressure cannot erode cognitive liberty.
+
+(e) **Evidentiary Rules.** In any proceeding before a federal or Regional court:
+
+- (1) **Thoughts and Beliefs Inadmissible.** Neural data revealing a person's thoughts, beliefs, opinions, political views, religious convictions, or subjective mental states is inadmissible, regardless of how obtained, and may not be used for any purpose including impeachment;
+- (2) **Motor Commands and Conduct.** Neural data reflecting motor commands, physical conduct, or volitional acts (as distinguished from thoughts about such acts) may be admitted only if obtained pursuant to a super-warrant satisfying subsection (c);
+- (3) **Defendant's Right to Introduce.** A criminal defendant may voluntarily introduce the defendant's own neural data as exculpatory evidence; and
+- (4) **Prosecution Rebuttal.** If a defendant introduces neural data under paragraph (3), the prosecution may seek access to the same dataset, limited to the same cognitive domain and time period, through the super-warrant process of subsection (c), and the court shall grant such access only to the extent necessary to provide fair rebuttal.
+
+(f) **Children and Incapacitated Persons.**
+
+- (1) No parent, guardian, school, or other entity may consent on behalf of a minor to neural monitoring or cognitive data collection, except for medical diagnosis and treatment by a licensed medical professional;
+- (2) No educational institution may require, incentivize, or condition any benefit upon a student's submission to neural monitoring or cognitive assessment devices;
+- (3) No employer may require, incentivize, or condition employment upon a person's submission to neural monitoring or cognitive assessment devices; and
+- (4) A guardian may consent to therapeutic neural intervention for an incapacitated person only upon order of a court of competent jurisdiction, which shall appoint independent counsel to represent the incapacitated person's interests.
+
+(g) **Cognitive Profiles from Biometric Proxies.** The protections of this Section extend to cognitive profiles derived from biometric proxy data — including but not limited to eye-tracking, pupillometry, facial micro-expression analysis, gait analysis, keystroke dynamics, and voice stress analysis — when such data is collected or processed with the purpose or functional effect of inferring cognitive states, emotional responses, attention, intent, truthfulness, or other mental processes. The constitutional analysis considers the inferential purpose, not merely the data collection method.
+
+(h) **Military Application.**
+
+- (1) This Section applies to all government actors, including military and intelligence agencies;
+- (2) Active-duty military personnel may voluntarily consent to neural enhancement or brain-computer interface augmentation for operational purposes, provided that:
+    - (i) consent is informed, specific, documented, and revocable;
+    - (ii) no adverse career consequence may result from refusal to consent;
+    - (iii) operational neural data collected during augmented service is subject to the minimization and purpose-limitation requirements of this Section; and
+    - (iv) upon separation from service, the service member has the right to de-augmentation and to deletion of all neural data collected during augmented service;
+- (3) Involuntary neural monitoring or cognitive manipulation of prisoners of war, detainees, or any person in government custody is prohibited without exception.
+
+(i) **Institutional Coordination.** The Emerging Technology Review Board established under Section 9 of Article II:
+
+- (1) shall classify devices and techniques capable of accessing, recording, or modifying neural activity;
+- (2) shall certify devices and protocols for use under the safety exception of subsection (b)(1);
+- (3) may not waive, reduce, or create exceptions to the rights established by this Section;
+- (4) shall maintain a public registry of classified neural access devices and certified assessment protocols; and
+- (5) shall review classifications and certifications at least triennially, or upon petition demonstrating material technological change.
+
+(j) **Presidential Fitness Exception.** Nothing in this Section limits assessments conducted under the Presidential Fitness and Incapacity provisions of Article II, Section 20 of this Constitution, provided that:
+
+- (1) any neural or cognitive data obtained in the course of a fitness assessment may not be used for any purpose beyond the fitness determination;
+- (2) such data may not be disclosed to law enforcement, intelligence agencies, or any entity other than the assessing body; and
+- (3) such data shall be destroyed upon completion of the fitness determination or the end of the President's term of office, whichever occurs first.
+
+(k) **Enforcement.**
+
+- (1) **Exclusionary Rule.** Neural data obtained in violation of this Section is inadmissible in any proceeding — criminal, civil, administrative, or military — and may not be used to develop leads, corroborate evidence, or impeach witnesses;
+- (2) **Damages.** Any person whose rights under this Section are violated may recover damages of not less than one thousand Federal Payment Units per violation, plus actual damages and reasonable attorney fees;
+- (3) **Personal Liability.** Government officials who authorize, conduct, or knowingly benefit from neural data collection in violation of this Section are personally liable and may not assert qualified immunity, sovereign immunity, or state secrets privilege as a defense;
+- (4) **Injunctive Relief.** Any person subject to ongoing or threatened violation of this Section may obtain injunctive relief, including emergency orders, from any court of competent jurisdiction; and
+- (5) **Criminal Penalty.** Willful violation of subsection (a)(2) (cognitive manipulation) constitutes a felony punishable by imprisonment and is classified as a deprivation of rights under color of law.
+
 ---
 
 ## Design Rationale

@@ -389,7 +389,8 @@ If adopted, this section would create targeted Senate involvement in safeguard l
 - (iv) purchase history and financial transaction records;
 - (v) biometric data (facial recognition, gait analysis, voice prints);
 - (vi) aggregated data profiles sufficient to reveal intimate life details;
-- (vii) any information that, individually or in combination, would reveal information protected from warrantless search.
+- (vii) neural and cognitive data, whether obtained directly from neural interfaces or inferred from biometric proxies as described in Article III, Section 8(g);
+- (viii) any information that, individually or in combination, would reveal information protected from warrantless search.
 
 (c) **Commercial Acquisition Treated as Search.** Government acquisition of covered information from commercial data brokers, advertisers, app developers, or other private entities:
 
@@ -617,7 +618,8 @@ This prohibition applies to criminal charges, civil penalties, professional disc
 - (iv) browsing history held by internet service providers or search engines;
 - (v) purchase records held by merchants, credit card companies, or e-commerce platforms;
 - (vi) health data held by pharmacies, insurance companies, fitness applications, or medical devices;
-- (vii) any data that, individually or in aggregate, reveals intimate details of the citizen's life.
+- (vii) neural and cognitive data, including data from brain-computer interfaces, neural monitoring devices, or biometric systems capable of inferring cognitive states as described in Article III, Section 8;
+- (viii) any data that, individually or in aggregate, reveals intimate details of the citizen's life.
 
 (e) **Subpoena Prohibition.** Administrative subpoenas, grand jury subpoenas, and national security letters may not be used to obtain data protected by this section. Only a judicial warrant, issued upon probable cause after adversarial hearing, suffices.
 

@@ -1364,7 +1364,57 @@ Add Article X, Section 12 — The Productivity Assessment:
 **Identified**: 2026-01-26
 **Category**: Emerging Technology
 **Criticality**: 🔴 **CRITICAL**
-**Status**: UNRESOLVED
+**Status**: ✅ RESOLVED
+
+**Resolution:** New constitutional text — Article III, Section 8 (Cognitive Liberty and Neural Privacy) in `02-design/constitution/02-powers-and-rights.md`, plus cross-reference amendments adding neural data to Article IV §7(b) (Acquisition Shield) and Article IV §10(d) (Digital Papers Protection) in `03-regional-governance.md`.
+
+**Overlap:** ~10-15% (VERY LOW) — existing provisions (Art IV §7 Acquisition Shield, Art IV §10 Digital Papers, Art III §7 Digital Habeas Corpus) address data *about* a person but none protect thoughts themselves or address brain-computer interfaces, neural monitoring, cognitive manipulation, or the evidentiary status of neural data.
+
+**Coverage by existing provisions:**
+
+| Existing Provision | Coverage | Remaining Gap |
+|---|---|---|
+| Art IV §7 (Acquisition Shield) | Government cannot buy data it would need warrant for | Does not address neural data specifically; no super-warrant standard for thought data |
+| Art IV §10 (Digital Papers) | Warrant requirement for third-party data | No heightened standard for neural data; no cognitive manipulation prohibition |
+| Art III §7 (Digital Habeas Corpus) | Identity protection, analog redundancy | Protects identity systems, not cognitive liberty |
+| Art II §7-A (Algorithmic Governance) | Transparency for algorithmic systems | Does not address neural monitoring or BCI classification |
+| Art II §9 (ETRB) | Technology classification | No device-specific neural classification duty |
+
+**Design decisions applied:**
+
+| Decision | Choice | Rationale |
+|----------|--------|-----------|
+| Placement | Art III §8 | Substantive rights belong in Art III alongside unwaivable core, citizenship, algorithmic review, digital identity |
+| Right scope | Read + write protection | Covers both surveillance (reading thoughts) and manipulation (writing to brain) |
+| Safety exception | Binary fit/unfit with data siloing | Allows imminent-danger assessment while preventing law enforcement access to neural content |
+| Warrant standard | Super-warrant (3-judge panel) | Higher bar than standard Art IV warrant; completed felonies with physical violence only |
+| Commerce | Inalienability via contract unenforceability | Preserves public-private distinction while preventing market erosion of cognitive liberty |
+| Evidentiary rules | Conduct/status distinction | Motor commands admissible via super-warrant; thoughts/beliefs inadmissible always |
+| Enforcement | 1,000 FPU per violation + personal liability | Aligns with FPU framework; removes qualified immunity |
+| Manipulation | Write-to-brain ban (subsection (a)(2)) | Absolute prohibition with medical treatment exception |
+| Testimonial privilege | Neural data is testimonial (Fifth Amendment) | Prevents compelled self-incrimination through neural access |
+| Private sector | Non-enforceability of contracts | Avoids direct regulation; contracts requiring neural monitoring are void as against public policy |
+| ETRB role | Classifies devices, certifies safety protocols | Cannot waive rights; institutional coordination with existing ETRB |
+| Military | Voluntary consent with de-augmentation right | Active duty may consent; no adverse career consequence for refusal |
+| Children | No surrogate consent for monitoring | Guardian consent valid only for medical treatment by licensed professionals |
+| Biometric proxies | Covered when used as functional equivalent | Eye-tracking, pupillometry, gait analysis, etc. protected when used to infer cognitive states |
+| Presidential fitness | Art II §20 overrides general rule | Data firewalled to fitness determination only |
+
+**Gaming vector coverage:**
+
+| Gaming Vector | How Addressed |
+|---|---|
+| G1 "Safety First" Pretext | §(b) prohibits compelled access; safety exception produces only binary fit/unfit, ephemeral, firewalled |
+| G2 "Voluntary" Coercion | §(d)(1) renders employment agreements requiring neural monitoring unenforceable; §(d)(3) prohibits adverse inference from refusal |
+| G3 "Metadata, Not Thoughts" Defense | §(g) extends protection to biometric proxies when used to infer cognitive states; inferential purpose controls |
+| G4 "Pre-Crime" Expansion | §(c)(1) limits warrants to completed felonies with physical violence; pre-crime prediction cannot justify access |
+| G5 Employer Mandate | §(f)(2)-(3) prohibits educational and employer mandates for neural monitoring |
+| G6 Consent Washing | §(d)(1) makes consent contracts void as against public policy regardless of "voluntary" framing |
+| G7 Third-Party Doctrine | §(a)(3) classifies neural data as testimonial (Fifth Amendment); Art IV §7 acquisition shield cross-referenced |
+| G8 Military Expansion | §(h)(1) applies Section to all government actors including military; voluntary consent with revocability and de-augmentation right |
+| G9 Child Consent | §(f)(1) bars surrogate consent for monitoring; only medical treatment exception |
+| G10 Infrastructure Denial | §(k)(4) provides injunctive relief including emergency orders |
+| G11 Judicial Erosion | §(i)(3) prevents ETRB from waiving rights; constitutional text controls |
 
 ### Problem Statement
 
@@ -1514,9 +1564,9 @@ Add Article III-RF, Section 12 — Cognitive Liberty Shield:
 **Dependencies**: Coordinates with data privacy framework (Gap 69)
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article III-RF, Section 12.
+**✅ RESOLVED.** Constitutional text added as Article III, Section 8 (Cognitive Liberty and Neural Privacy) with cross-reference amendments to Article IV §7(b) and §10(d).
 
-**Severity:** Critical | **Mitigability:** Requires Development
+**Severity:** Critical | **Mitigability:** ✅ Resolved
 
 ---
 
