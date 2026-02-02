@@ -5389,9 +5389,41 @@ Add to Article III-RF (Rights and Mobility), Section 8:
 > - (iii) punitive damages for willful violations.
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article III-RF, Section 8.
+**RESOLVED.** Art I §8(o) amended to include "forfeiture or reduction of vested or accrued benefits" in exit penalty prohibition. Art I §8(q)-(u) added (Benefit Portability): portability mandate with citizen choice (continue payment or actuarial transfer), nominal value preservation (no COLA/destination reductions), cash-out for in-kind benefits, 5-year graded vesting (20%/year, no cliff, no reset), anti-retention gaming (residency-differential ban for vested benefits, employer match portability, 60-day processing deadline with auto-approval and penalty interest, spousal/household independent portability, retroactive reclassification prohibition, remote verification mandate, service credit portability), scope covering public benefits + Regionally-regulated private plans with federal safe harbor, IFC actuarial methodology + ARB dispute resolution (60-day binding determination, continued payment during dispute), earned-benefit standard distinguishing portability from arbitrage (cross-reference §10(jj)), enforcement (private action with treble damages + fee-shifting, IFC compliance audits, AG injunctive authority with pattern-of-violation presumption, personal liability with removal for willful evasion). Placed in Art I §8 (Freedom of Movement) rather than proposed Art III-RF §8 — keeps all mobility protections consolidated. Institution: IFC (existing, Art X §20 Pension Actuarial Division) rather than proposed Federal Reserve Board. No de minimis exception.
 
-**Severity:** High | **Mitigability:** Requires Development
+| Proposed Element | Coverage |
+|---|---|
+| (a) Portability mandate — continue payment or transfer | Art I §8(q)(2) — citizen choice: maintain account or transfer actuarial value |
+| (b)(i) Forfeiture prohibition — continuous residency | Art I §8(o) (amended) — forfeiture of vested benefits in exit penalty definition |
+| (b)(ii) Forfeiture prohibition — destination reduction | Art I §8(q)(3) — nominal value preservation, no destination adjustments |
+| (b)(iii) Administrative barriers | Art I §8(r)(3) — 60-day deadline, auto-approval, penalty interest, continued payment |
+| (b)(iv) Loyalty bonuses | Art I §8(r)(1) — residency-differential ban for vested benefits (0%, not 10%) |
+| (c) Vesting schedule — 5-year cap | Art I §8(q)(1) — 5-year graded (20%/year), no cliff, no reset |
+| (d) Actuarial disputes — methodology | Art I §8(t)(1) — IFC Pension Actuarial Division (not Federal Reserve Board) |
+| (d) Actuarial disputes — resolution | Art I §8(t)(2) — ARB 60-day binding determination |
+| (d) Actuarial disputes — continued payment | Art I §8(t)(2)(C) — continued payment during dispute |
+| (e) Private pensions | Art I §8(s)(2) — Regionally-regulated private plans (mandated, subsidized, chartered, structured) |
+| (f) Enforcement — citizen suit | Art I §8(u)(1) — treble damages + fee-shifting + injunctive relief |
+| Gaming: Loyalty Bonus (G1) | Art I §8(r)(1) — vested benefit residency differentials prohibited |
+| Gaming: Administrative Barrier (G2) | Art I §8(r)(3) — 60-day deadline with auto-approval |
+| Gaming: Vesting Marathon (G3) | Art I §8(q)(1) — 5-year graded vesting, no reset |
+| Gaming: Destination Penalty (G4) | Art I §8(q)(3) — nominal value preservation |
+| Gaming: Employer Match Retention (G5) | Art I §8(r)(2) — employer contributions equally portable |
+| Gaming: Cost-of-Living Adjustment (G6) | Art I §8(q)(3)(A)-(C) — COLA/PPP/equivalency reductions banned |
+| Gaming: Successor Plan Gap (G7) | Art I §8(r)(3)(C) — continued payment during processing |
+| Gaming: Spousal Trap (G9) | Art I §8(r)(4) — independent spousal/dependent portability |
+| Gaming: Retiree Return Requirement (G10) | Art I §8(r)(6) — remote verification mandate |
+| Gaming: Retroactive Reclassification (G11) | Art I §8(r)(5) — presumptively void within 12 months of relocation filing |
+| Gaming: Private Plan Outsourcing (G12) | Art I §8(s)(2)(A)-(D) — mandated/subsidized/chartered/structured plans covered |
+| Gaming: Service Credit Freeze (G13) | Art I §8(r)(7) — service credits transfer at full value |
+| Gaming: Exit Tax Disguise (G14) | Art I §8(o) (amended) — covers financial penalties conditioned on departure |
+| Additional: IFC audit enforcement | Art I §8(u)(2) — portability compliance in annual pension audits |
+| Additional: AG pattern enforcement | Art I §8(u)(3) — 3 violations/24 months = presumption of systematic violation |
+| Additional: Personal liability | Art I §8(u)(4) — willful evasion = personal liability + removal |
+| Additional: No de minimis exception | Art I §8(s)(4) — anti-fragmentation: no threshold, no splitting |
+| Additional: Arbitrage distinction | Art I §8(t)(3) — earned-benefit standard, cross-reference §10(jj) |
+
+**Severity:** High | **Mitigability:** Resolved
 
 ---
 

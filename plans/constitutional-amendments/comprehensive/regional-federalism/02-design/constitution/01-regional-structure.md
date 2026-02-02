@@ -695,9 +695,102 @@ The Board shall coordinate water allocation, establish monitoring standards, and
 
 (n) **Preservation of Freedom of Movement.** Nothing in this section authorizes any restriction on the constitutional right of citizens to travel freely and establish residence in any Region. This section provides fiscal stabilization mechanisms only.
 
-(o) **Prohibition on Exit Penalties.** *Resolves Gap 203 — The "Indentured Student" (Brain Drain Tax).* No Region or State may impose any tax, fee, debt obligation, or financial penalty conditioned upon a person's decision to leave the jurisdiction or establish residence elsewhere. Any contract provision, including student loan forgiveness or tuition assistance, that imposes a financial penalty for relocation exceeding the actual principal and interest of the benefit received is void as an unconstitutional restriction on the freedom of movement.
+(o) **Prohibition on Exit Penalties.** *Resolves Gap 203 — The "Indentured Student" (Brain Drain Tax). Amended by Gap 181 — The "Benefit Serfdom" (Fiscal Berlin Wall).* No Region or State may impose any tax, fee, debt obligation, forfeiture or reduction of vested or accrued benefits, or financial penalty conditioned upon a person's decision to leave the jurisdiction or establish residence elsewhere. Any contract provision, including student loan forgiveness or tuition assistance, that imposes a financial penalty for relocation exceeding the actual principal and interest of the benefit received is void as an unconstitutional restriction on the freedom of movement.
 
 (p) **Catastrophic Displacement Escalation.** When displacement resulting from natural disaster, climate event, or environmental catastrophe exceeds the capacity of the Migration Surge Stabilization mechanisms in this section, the President may declare a Displacement Emergency under Article XVII-RF, Section 5, activating enhanced federal coordination authority, fiscal indemnification, and displaced citizen protections. The Migration Surge Stabilization mechanisms of this section continue to operate concurrently with any Displacement Emergency declaration.
+
+#### Benefit Portability
+
+*Resolves Gap 181 — The "Benefit Serfdom" (Fiscal Berlin Wall). Prevents Regions from using benefit forfeiture to nullify the Right to Travel through economic coercion.*
+
+(q) **Benefit Portability Mandate.** The right to travel includes the right to retain earned wealth. Any pension, health trust, educational account, deferred compensation arrangement, or other benefit accrued through contributions or service under the laws, regulations, or programs of a Region, State, or local government is the property of the beneficiary and shall be fully portable upon relocation:
+
+(1) **Vesting.** No public benefit plan or Regionally-regulated private benefit plan may require more than five (5) years of contributions or service for full vesting. Vesting must accrue continuously on a graded basis — at minimum, twenty percent (20%) per year of qualifying service — and may not vest solely upon reaching a specific date or completing an indivisible period. Departure from the jurisdiction may not reset, suspend, or reduce vesting progress.
+
+(2) **Portability Mechanism.** Upon relocation, the beneficiary may elect to:
+
+- (A) maintain the account or benefit in the originating jurisdiction with equal access to distributions, communications, and account management regardless of residence; or
+- (B) transfer the full actuarial value of the vested benefit to a qualified plan in the destination jurisdiction, a federally qualified retirement account, or a Federal Portability Account administered by the Independent Fiscal Council.
+
+The originating jurisdiction may not impose conditions, penalties, or differential terms based on the beneficiary's choice.
+
+(3) **Nominal Value Preservation.** The value of any benefit subject to this section shall be determined and transferred at its nominal accrued value. No jurisdiction may reduce, adjust, or recalculate a vested benefit based on:
+
+- (A) cost-of-living differentials between the originating and destination jurisdictions;
+- (B) tax rates, benefit levels, or fiscal conditions in the destination jurisdiction;
+- (C) any "destination adjustment," "purchasing power parity," or "regional equivalency" formula; or
+- (D) the beneficiary's reason for relocating.
+
+(4) **Cash-Out for In-Kind Benefits.** For benefits provided as services rather than monetary payments — including retiree healthcare access, subsidized housing, or institutional care — the originating jurisdiction must offer a cash-out option equal to the actuarial present value of the service, calculated using IFC-promulgated standards under Article X, Section 20. The beneficiary may use the cash-out value to obtain equivalent services in the destination jurisdiction.
+
+(5) **Partial Vesting.** A beneficiary who departs before full vesting retains all vested portions on a pro-rata basis. No minimum-vesting threshold may deny a partially vested beneficiary their accrued share.
+
+(r) **Anti-Retention Gaming.** *No jurisdiction may use benefit design to create de facto barriers to the exercise of the Right to Travel:*
+
+(1) **Residency-Differential Benefits.** No accrued or vested benefit may be conditioned on continued residency after it has vested. Supplemental payments, bonuses, or enhancements that increase the value of a vested benefit based on continued residency are prohibited. Residency-based incentives are permissible only for prospective, non-vested perquisites that do not affect the value of accrued benefits.
+
+(2) **Employer Contributions.** Both employee contributions and employer contributions (including matching contributions) to any benefit plan subject to this section are the property of the beneficiary upon vesting and are equally portable. No jurisdiction may permit forfeiture of employer-contributed portions upon relocation while preserving employee-contributed portions.
+
+(3) **Administrative Barriers.** Transfer requests must be processed within sixty (60) days of filing. Failure to process within this period results in:
+
+- (A) automatic deemed approval of the transfer request;
+- (B) interest accruing on the transfer value at the Federal Funds Rate plus five hundred (500) basis points from the date of filing; and
+- (C) the originating jurisdiction's obligation to continue full benefit payments to the beneficiary during any processing period.
+
+(4) **Spousal and Household Rights.** A spouse, domestic partner, or dependent's benefit rights are independently portable. No jurisdiction may:
+
+- (A) condition one person's benefits on another household member's continued residency;
+- (B) require both spouses to relocate for either to exercise portability; or
+- (C) reduce survivor or dependent benefits based on the primary beneficiary's relocation.
+
+(5) **Retroactive Reclassification Prohibited.** No jurisdiction may retroactively reclassify a beneficiary's plan membership, service category, or benefit tier after the beneficiary files notice of relocation or transfer. Any reclassification occurring within twelve (12) months of a relocation filing is presumptively void unless the jurisdiction demonstrates by clear and convincing evidence that the reclassification was initiated before any relocation decision.
+
+(6) **Remote Verification.** Any eligibility verification, recertification, or compliance requirement for portable benefits must be available through remote means. No jurisdiction may require in-person appearance within the originating jurisdiction as a condition of continued benefit receipt.
+
+(7) **Service Credit Portability.** Accrued service credits shall transfer at full value. No jurisdiction may freeze, reduce, or refuse to recognize service credits earned in the originating jurisdiction for purposes of benefit calculation in the destination jurisdiction's system.
+
+(s) **Scope and Application.**
+
+(1) **Public Benefits.** This section applies to all pension, retirement, health trust, educational savings, deferred compensation, and other accrued benefit programs operated directly by Regional, State, or local governments.
+
+(2) **Regionally-Regulated Private Plans.** This section extends to any private benefit plan that is:
+
+- (A) mandated by Regional or State law as a condition of employment;
+- (B) subsidized by Regional or State funds, tax credits, or matching contributions;
+- (C) operated under a charter, license, or regulatory framework established by the Region or State as a substitute for or supplement to public benefit programs; or
+- (D) designed or structured pursuant to Regional or State legislation that prescribes the plan's material terms, including vesting schedules, forfeiture provisions, or portability conditions.
+
+(3) **Safe Harbor.** Plans regulated exclusively under federal law, including plans governed by the Employee Retirement Income Security Act or its successor statute, are not subject to this section to the extent that federal portability requirements apply. This safe harbor does not extend to state-chartered or Region-chartered plans that adopt federal plan structures solely to claim exemption from this section.
+
+(4) **No De Minimis Exception.** This section applies regardless of the monetary value of the benefit. No jurisdiction may evade portability requirements by dividing a benefit program into multiple smaller programs, each below a threshold.
+
+(t) **Actuarial Procedures.**
+
+(1) **Valuation Methodology.** The Pension Actuarial Division of the Independent Fiscal Council shall promulgate standardized valuation methodologies for calculating the actuarial present value of benefits subject to transfer under this section, consistent with the actuarial standards established under Article X, Section 20.
+
+(2) **Dispute Resolution.** Where the originating and destination jurisdictions, or a beneficiary and a jurisdiction, dispute the actuarial value of a benefit:
+
+- (A) the dispute shall be submitted to the Allocation Review Board;
+- (B) the ARB shall render a binding determination within sixty (60) days using IFC-promulgated valuation methodology;
+- (C) the beneficiary shall continue receiving full benefits from the originating jurisdiction during the dispute period; and
+- (D) interest shall accrue on any underpayment at the Federal Funds Rate from the date of the transfer request.
+
+(3) **Portability as Distinct from Arbitrage.** Portability under this section preserves the value of benefits already earned through past contributions and service. It does not entitle a beneficiary to enhancements, higher benefit formulas, or improved terms available in the destination jurisdiction that the beneficiary has not earned through contributions or service in that jurisdiction. The benefit arbitrage prohibition under subsection (jj) of Section 10 of this Article applies to attempts to claim unearned benefits through strategic relocation.
+
+(u) **Enforcement.**
+
+(1) **Private Right of Action.** Any person whose benefit portability rights under this section are violated may bring suit in Federal District Court and recover:
+
+- (A) the full value of any forfeited, reduced, or improperly withheld benefits;
+- (B) treble damages for willful violations;
+- (C) reasonable attorney's fees and costs; and
+- (D) injunctive relief compelling compliance.
+
+(2) **IFC Compliance Audits.** The Independent Fiscal Council shall include portability compliance in its annual pension audits under Article X, Section 20. The IFC may refer findings of systemic non-compliance to the Attorney General.
+
+(3) **Attorney General Authority.** The Attorney General may seek injunctive relief in Federal District Court against any jurisdiction operating benefit programs in systematic violation of this section. A pattern of three (3) or more individual portability violations within any twenty-four (24) month period creates a rebuttable presumption of systematic violation.
+
+(4) **Personal Liability.** Officials who knowingly design, implement, or administer benefit programs with the purpose of evading the portability requirements of this section are subject to personal civil liability and removal from office under the same standards applicable to fiscal negligence under Article X, Section 10.
 
 ---
 
