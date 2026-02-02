@@ -5062,9 +5062,21 @@ Add to Article VI (Federal-Regional Relations), Section 4:
 > **(d) Representation.** Congress shall establish mechanisms ensuring tribal consultation in federal decisions affecting Regional governance where such decisions impact tribal interests.
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article VI, Section 4.
+✅ **RESOLVED** — Fully covered by existing provisions. Gap 178 is a subset of the already-resolved Gap 253 (Ghost Nations — Indigenous Sovereignty Erasure). No additional amendments required.
 
-**Severity:** High | **Mitigability:** Constitutional Language
+| Gap 178 Element | Existing Coverage | Provision |
+|---|---|---|
+| (a) Sovereignty preserved | Art XXIII §1(a)-(b), Art XX §3(a)-(c), (f) | Inherent sovereignty affirmed; nothing diminishes treaty rights |
+| (b)(i) No jurisdiction without consent | Art XXIII §2(b)(ii) | Regions may not exercise jurisdiction over tribal lands except as authorized by federal law with tribal consent |
+| (b)(ii) No tax/zone/regulate | Art XXIII §2(b)(iii)-(iv) | Regions may not impose taxes on tribal lands, regulate tribal governance or internal affairs |
+| (b)(iii) No interference with treaty rights | Art XXIII §2(b)(v), Art I §4(d) | Treaty-protected hunting, fishing, water rights explicitly protected |
+| (b)(iv) No benefit conditioning | Art XXIII §2(b) scope + §4(c) | Comprehensive prohibition; consent may not be coerced through threats to funding or services |
+| (c)(i) Federal enforcement across boundaries | Art XXIII §7(c) | Federal Government coordinates with Indigenous Nation and affected Regions |
+| (c)(ii) No Region may impede cross-boundary rights | Art XXIII §7(a)-(b) | Unified sovereignty; Regions may not partition tribal territory |
+| (c)(iii) Federal court dispute resolution | Art XXIII §5(a)-(c) | Standing to challenge; burden on Region; injunctive relief pending adjudication |
+| (d) Tribal consultation/representation | Art XX §3(d)-(e), Art XXIII §6 | Good-faith compacts; optional assembly participation; federal facilitation |
+
+**Severity:** High | **Mitigability:** Already Resolved (Gap 253)
 
 ---
 

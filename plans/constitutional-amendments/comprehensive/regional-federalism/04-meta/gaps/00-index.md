@@ -313,7 +313,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 172 | Trojan Horse infrastructure (foreign influence) | High | ✅ Resolved |
 | 176 | Lex Loci crisis (cross-border prosecution) | Critical | ✅ Resolved |
 | 177 | Capital siege (physical vulnerability) | Critical | ✅ Resolved |
-| 178 | Tribal preservation clause (sovereignty protection) | High | Requires Development |
+| 178 | Tribal preservation clause (sovereignty protection) | High | ✅ Resolved |
 | 179 | Shadow Confederation (military compacts) | High | Requires Development |
 | 180 | Extradition Standoff (sanctuary warfare) | High | Requires Development |
 | 181 | Benefit Serfdom (fiscal Berlin Wall) | High | Requires Development |
