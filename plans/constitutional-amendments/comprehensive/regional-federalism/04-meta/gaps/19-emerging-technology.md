@@ -1124,7 +1124,7 @@ Add Article I-RF, Section 10 — The Provenance Mandate:
 **Identified**: 2026-01-26
 **Category**: Emerging Technology
 **Criticality**: 🔴 **CRITICAL**
-**Status**: UNRESOLVED
+**Status**: ✅ RESOLVED
 
 ### Problem Statement
 
@@ -1284,9 +1284,78 @@ Add Article X, Section 12 — The Productivity Assessment:
 **Dependencies**: Coordinates with Fiscal Equalization framework (Article X)
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article X, Section 12.
+✅ **RESOLVED.** Integrated as Article X, Section 21 (Fiscal Adaptation to Non-Human Economic Output).
 
-**Severity:** Critical | **Mitigability:** Requires Development
+**Severity:** Critical | **Mitigability:** ✅ Resolved
+
+### Resolution Analysis (2026-02-01)
+
+**Placement:** Article X §21 in [04-fiscal-system.md](../../02-design/constitution/04-fiscal-system.md) — keeps fiscal provisions consolidated.
+
+**Key changes from original proposal:**
+
+| Original Proposal | Final Resolution | Rationale |
+|---|---|---|
+| Art X §12 | Art X §21 | §12 already occupied (Democratic Accountability) |
+| Named technologies (robots, AI) | "Non-human economic output" (tech-neutral) | Avoids definitional obsolescence |
+| Physical-location attribution | Market-based sourcing (consumption/destination) | Aligns with §3(r); avoids data-center arbitrage |
+| Detailed Labor Displacement Fund | Principle-based displacement mandate | Congress allocates by statute; avoids constitutional rigidity |
+| "Human Preference" | "Technological Neutrality" | Savings clause, not constitutional favoritism |
+| No border adjustment | Mandatory border adjustment | Prevents offshore arbitrage (G4) |
+| Immediate activation | Trigger-based (IFC certification) | Prevents premature taxation before measurement readiness |
+| No emergency mechanism | Fiscal capacity emergency + IFC declaration | Congressional 180-day deadline; auto-surcharge if Congress fails |
+
+**New provisions not in original:**
+
+| Provision | Purpose |
+|---|---|
+| Excise tax classification | Avoids Pollock-style direct-tax challenge |
+| ETRB classifies, IFC values | Division of institutional responsibility |
+| ETRB fiscal carve-out | Domain assignment doesn't limit federal fiscal authority |
+| Cross-reference §3(r), §11-A | Anti-arbitrage supplements, not duplicates, existing tools |
+| IFC duty in §5(c)(6) | Explicit measurement mandate |
+| Fiscal capacity definition updated | §3-A(h) now includes non-human economic output |
+
+**Cross-references added:**
+
+| Location | Change |
+|---|---|
+| Art X §3-A(h) | Fiscal capacity includes non-human economic output per §21 |
+| Art X §5(c)(6) | IFC duty to measure and classify non-human economic output |
+
+**Gaming vector coverage:**
+
+| Vector | Coverage |
+|---|---|
+| G1 (Definitional gaming) | Addressed: tech-neutral definition + ETRB classification |
+| G2 (Computational shell game) | Addressed: market-based sourcing (destination), not physical location |
+| G3 (Human-in-the-loop theater) | Partially addressed: "without proportional human labor input" — threshold left to IFC |
+| G4 (International arbitrage) | Addressed: mandatory border adjustment §(f) |
+| G5 (Constitutional challenge) | Addressed: explicit excise tax classification §(a) |
+| G6 (IP-production separation) | Addressed: IP disregard §(d)(2) + economic substance §(d)(1) |
+| G7 (Small operator exemption) | Statutory: left to congressional implementation |
+| G8 (Measurement gaming) | Addressed: IFC methodology subject to Art II §7-A transparency |
+| G9 (Temporal arbitrage) | Statutory: left to IFC measurement design |
+| G10 (Augmentation defense) | Partially addressed: "without proportional human labor input" — threshold left to IFC |
+
+**Design decisions:**
+
+| Decision | Choice |
+|---|---|
+| Placement | Art X §21 (fiscal architecture) |
+| Taxing power | Explicit excise (Pollock avoidance) |
+| Technology definition | "Non-human economic output" (neutral) |
+| Attribution | Market-based sourcing / destination |
+| Displacement support | Principle mandated, allocation statutory |
+| Anti-arbitrage | Supplements §3(r) and §11-A |
+| Framing | "Technological Neutrality" |
+| Rate floor | Congress sets; no hard constitutional number |
+| ETRB role | Classifies tech; doesn't control fiscal authority |
+| Activation | IFC-certified trigger thresholds |
+| Border adjustment | Mandatory |
+| Floor mechanism | IFC fiscal capacity emergency + 180-day congressional deadline |
+
+**Residual notes:** Open source taxation (D13) and energy proxy (D14) left to IFC methodology. Specific threshold numbers for activation left to statute. Anti-fragmentation rules for small operator exemption gaming (G7) left to congressional implementation.
 
 ---
 
