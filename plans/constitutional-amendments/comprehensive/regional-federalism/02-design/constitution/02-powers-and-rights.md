@@ -34,7 +34,8 @@ All powers not enumerated to the federal government herein are denied to the fed
 - (iii) Currency, monetary policy, and central banking;
 - (iv) Immigration and naturalization;
 - (v) Postal service and interstate telecommunications infrastructure;
-- (vi) Intellectual property (patents, copyrights, trademarks).
+- (vi) Intellectual property (patents, copyrights, trademarks);
+- (vii) Space and orbit — the regulation of orbital mechanics, space launch, extra-atmospheric activities, and celestial bodies.
 
 (2) **Exclusive Regional Domains.** The following domains are exclusively Regional, and no Federal or State law may operate within them except as specifically enumerated:
 
@@ -2050,6 +2051,22 @@ Allowing courts to review the Panel's medical judgments would transform incapaci
 ### Why a Dual Track for Temporary and Permanent Incapacity?
 
 A President recovering from surgery needs a rapid clearance mechanism (fourteen-day follow-up evaluations), while a President with progressive cognitive decline needs a permanent removal pathway (sixty-day threshold plus supermajority reaffirmation). Without the dual track, temporary incapacity would either be under-treated (no rapid return) or over-treated (premature permanent removal), and permanent incapacity would lack the elevated threshold that its finality demands. The sixty-day reclassification trigger provides a clear boundary between the two tracks.
+
+---
+
+### Section 22. Celestial and Orbital Sovereignty
+
+*Resolves Gap 210 — The "Orbital Rogue" (Space Sovereignty). Establishes exclusive federal jurisdiction over all extra-atmospheric activities, preventing Regions from acquiring orbital capabilities that could enable surveillance, military advantage, or information independence outside federal authority.*
+
+(a) **Federal Exclusivity.** The jurisdiction of the Federal Government is exclusive regarding all activities extending beyond the controlled airspace of the United States. No Region may claim sovereignty over orbital paths, celestial bodies, or the electromagnetic spectrum used for space communication.
+
+(b) **The Launch Monopoly.** While Regions and private entities may own and operate terrestrial spaceport infrastructure, the authority to license, approve, and command a launch into space is exclusively Federal. No object may leave the atmosphere without a specific Federal warrant.
+
+(c) **Prohibition on Regional Weaponization.** Regions are strictly prohibited from developing, deploying, or controlling orbital assets with kinetic, directed energy, or electronic warfare capabilities. Any Regional asset found in orbit with undeclared military capabilities is subject to immediate Federal seizure or neutralization.
+
+(d) **Treaty Compliance and Liability.** The Federal Government bears sole international liability for all space activities originating from the United States, pursuant to the Outer Space Treaty and international law. Therefore, Federal safety and liability standards preempt all Regional regulations regarding spaceflight.
+
+(e) **Common Benefit.** Resources derived from celestial bodies or orbital commerce shall be taxed and regulated federally, ensuring that the strategic benefits of space access accrue to the Union as a whole, not solely to the equatorial or coastal Regions hosting launch sites.
 
 ---
 

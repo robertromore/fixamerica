@@ -679,7 +679,7 @@ Add Article III-RF, Section 11 — Digital Habeas Corpus:
 **Identified**: 2026-01-26
 **Category**: Emerging Technology
 **Criticality**: 🔴 **CRITICAL**
-**Status**: UNRESOLVED
+**Status**: ✅ RESOLVED
 
 ### Problem Statement
 
@@ -835,9 +835,58 @@ Add Article XVI, Section 15 — Celestial Monopoly:
 **Dependencies**: Coordinates with existing Federal space agencies (NASA, Space Force, FAA-AST)
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article XVI, Section 15.
+**✅ RESOLVED** via new constitutional text — Art II §1(e)(1)(vii) (space enumeration) + Art II §22 (Celestial and Orbital Sovereignty).
 
-**Severity:** Critical | **Mitigability:** Requires Development
+**Severity:** Critical | **Mitigability:** Resolved
+
+### Resolution Analysis (2026-02-01)
+
+**Approach**: Two-part fix — enumerate space as an Exclusive Federal Domain and add a detailed regulatory section.
+
+**Overlap Assessment**: ~35-45% from existing provisions (ETRB procedural mechanism, national defense enumeration, treaty supremacy). Insufficient to close the gap because space is not enumerated and the ETRB's provisional jurisdiction has timing vulnerabilities. New constitutional text required.
+
+**Part 1 — Domain Enumeration (Art II §1(e)(1)(vii))**:
+
+| Attack Vector | Coverage |
+|---------------|----------|
+| "Space is not enumerated" | Directly closed — space and orbit now explicitly Exclusive Federal |
+| Residual authority default to Regions (Art II §3) | Overridden — enumeration removes ambiguity |
+| ETRB timing vulnerability | Eliminated — no provisional assignment needed; space is permanent federal domain |
+
+**Part 2 — Art II §22 (Celestial and Orbital Sovereignty)**:
+
+| Subsection | Coverage | Attack Vectors Addressed |
+|------------|----------|--------------------------|
+| (a) Federal Exclusivity | Plenary federal jurisdiction over all extra-atmospheric activities | Commercial Cover (G1), Agricultural/Scientific Pretext (G2) |
+| (b) The Launch Monopoly | Federal licensing for all launches; Regions may own spaceports but not authorize launches | Spaceport leverage, launch discrimination |
+| (c) Prohibition on Regional Weaponization | Hard prohibition on orbital weapons, space guards, foreign military space contracts | Debris Defense Militarization (G4), Regional Space Guard |
+| (d) Treaty Compliance and Liability | Federal preemption; Regional indemnification for international liability | Defense Cooperation Loophole (G3), treaty bypass |
+| (e) Common Benefit | Federal taxation of celestial resources; equalization distribution | Resource capture by spaceport Regions |
+
+**Gaming Vector Coverage**:
+
+| Gaming Vector | Mitigation |
+|---------------|------------|
+| G1: Commercial Cover | §22(a) covers all extra-atmospheric activities regardless of operator label |
+| G2: Agricultural/Scientific Pretext | §22(a)(2) and (5) cover observation and communication systems without purpose exception |
+| G3: Defense Cooperation Loophole | §22(c)(4) prohibits foreign military space contracts; §22(d) enforces treaty compliance |
+| G4: Debris Defense Militarization | §22(c)(1)-(2) prohibit orbital weapons and directed energy capability regardless of stated purpose |
+
+**Design Decisions**:
+
+| Decision | Choice | Rationale |
+|----------|--------|-----------|
+| Placement | Art II §1(e)(1)(vii) + Art II §22 | Cleaner than Art XVI; anchors power in Exclusive Federal definition |
+| Scope | Plenary extra-atmospheric jurisdiction | No dual-use exceptions that could be gamed |
+| Spaceport ownership | Regions may own, federal controls launch | Balances Regional infrastructure investment with federal authority |
+| Weaponization | Absolute prohibition with Art XII hook | Orbital weapons too dangerous for any exception |
+| Resources | Federal taxation with equalization distribution | Prevents spaceport-Region resource capture |
+
+**Residual Notes**:
+
+1. Commercial space companies operating under federal license remain under federal jurisdiction regardless of Regional incorporation — §22(a) is plenary.
+2. The ETRB (Art II §9) remains available for novel space-adjacent technologies not anticipated by §22 (e.g., space elevator, tethered orbital platforms).
+3. International coordination for debris mitigation requires statutory implementation under §22(d) framework.
 
 ---
 
