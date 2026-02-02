@@ -828,6 +828,14 @@ The Court shall apply consistent standards across receiverships, and precedent f
 - (iii) foreign state-owned enterprises in sensitive sectors;
 - (iv) political parties of adversary nations.
 
+(e-1) **Regional Official Financial Interest Prohibition.** *Resolves Gap 172 — Trojan Horse Infrastructure (Foreign Influence Through Regional Assets).* No Regional official exercising authority over infrastructure, procurement, or regulatory matters may:
+
+- (i) hold financial interests in entities owned or controlled by Prohibited Partners designated under subsection (e);
+- (ii) receive compensation, gifts, or benefits from foreign state-owned enterprises without prior federal approval;
+- (iii) accept employment or consulting arrangements with Prohibited Partner entities within five (5) years of leaving office.
+
+Violation constitutes grounds for removal from office and personal liability under subsection (f).
+
 (f) **Enforcement.**
 
 - (i) The Attorney General may seek injunctive relief against prohibited arrangements.

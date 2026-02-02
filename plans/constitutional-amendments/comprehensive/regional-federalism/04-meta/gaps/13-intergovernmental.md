@@ -4731,9 +4731,21 @@ Add to Article XVI (Foreign Relations), Section 10:
 > - (iii) must be modified or terminated if CFIUS identifies remediable concerns.
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article XVI, Section 10.
+✅ **RESOLVED via high overlap (~65%).** The One Voice Doctrine (Art VI §4, from Gap 266) and Foreign Regulatory Integration prohibition (Art I §5(f-l)) already cover the core attack vectors. Two minor amendments close remaining gaps:
 
-**Severity:** High | **Mitigability:** Requires Development
+- Art I §5(g)(4): Added port facilities and water treatment/distribution systems to enumerated infrastructure categories; added prohibition on granting foreign SOEs ownership/lease/operational control
+- Art VI §4(e-1): Added Regional Official Financial Interest Prohibition — no financial interests in Prohibited Partner entities, no foreign SOE compensation without federal approval, 5-year post-service employment bar
+
+| Proposal Element | Resolution | Coverage |
+|---|---|---|
+| CFIUS review | Art VI §4(d) State Department 30-day review (functionally equivalent) | ~65% |
+| Infrastructure sectors | Art I §5(g)(4) now enumerates energy, transport, comms, ports, water + foreign SOE ownership ban | ~90% (amended) |
+| Countries of Concern | Art VI §4(e) Prohibited Partners (sanctioned countries, SOEs in sensitive sectors) | ~70% |
+| Regional Emoluments | Art VI §4(e-1) financial interest prohibition + Art IX §3-5 anti-corruption | ~85% (amended) |
+| Remedies | Art VI §4(b) void ab initio + §4(f) AG enforcement + personal liability | ~80% |
+| Grandfather | Art VI §4(g) 1-year review of existing arrangements | ~85% |
+
+**Severity:** High | **Mitigability:** ✅ Resolved
 
 ---
 

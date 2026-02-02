@@ -278,7 +278,7 @@ No Fundamental Misalignment certification based on subsection (g)(3) shall issue
 - (1) enter into "technical cooperation agreements," "regulatory memoranda," "standards harmonization agreements," or similar arrangements with foreign governments, foreign governmental agencies, or foreign-controlled entities;
 - (2) adopt regulations specifically designed to align with foreign standards in a manner that creates incompatibility with other Regions or with federal policy;
 - (3) participate in foreign-led regulatory bodies, standard-setting organizations, or trade blocs in an official governmental capacity;
-- (4) commit to exclusive infrastructure interconnections with foreign systems (energy grids, transportation networks, communications systems) that would preclude domestic integration.
+- (4) commit to exclusive infrastructure interconnections with foreign systems (energy grids, transportation networks, communications systems, port facilities, water treatment or distribution systems) that would preclude domestic integration, or grant foreign state-owned or state-influenced entities ownership, lease, or operational control of such infrastructure.
 
 (h) **Functional Test for Foreign Integration.** A Regional regulatory action shall be deemed prohibited foreign integration if:
 
