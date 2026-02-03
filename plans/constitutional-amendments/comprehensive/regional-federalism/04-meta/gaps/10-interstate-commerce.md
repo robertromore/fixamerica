@@ -2330,9 +2330,33 @@ Add to Article XVI (Interstate Commerce and Infrastructure), Section 13:
 > **(f) Historical Note.** This section restores the pre-*Hammer v. Dagenhart* (1918) understanding of federal commerce power, as vindicated by *United States v. Darby* (1941), adapted to the Regional Federalism framework.
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article XVI, Section 13.
+**RESOLVED.** Integrated as Art II §4(h)-(k) (Constitutional Labor and Safety Minimums) in `02-design/constitution/02-powers-and-rights.md`. Placed in the Concurrent Authority Framework (Art II §4) rather than a standalone Art XVI §13, because labor standards are already a Structured Concurrent Domain (Art II §1(e)(3)(iii)), not Exclusive. Key design: constitutional minimums (forced labor, child labor under 16, IFC-determined subsistence wage, imminent hazard) that are permanent, non-waivable, not subject to sunset or variance; anti-circumvention with functional worker definition (economic reality test), universal territorial application, no waiver, supply chain accountability; social dumping prohibition with rebuttable presumption and congressional commerce authority; combination enforcement (federal backstop, private right of action, IFC annual monitoring). Congressional floors under §4(a) continue to operate above the constitutional minimums.
 
-**Severity:** Critical | **Mitigability:** Requires Development
+| Proposed Element | Resolution | Provision |
+|---|---|---|
+| (a) Federal Basic Standards (forced labor, child labor, subsistence wage, toxic hazard) | Covered + strengthened | Art II §4(h)(1)-(4): all four standards as constitutional minimums; child labor age raised to 16; prison labor for commercial advantage prohibited; subsistence floor by IFC; imminent hazard with right to refuse |
+| (b) Commerce-Based Authority | Covered (congressional authorization) | Art II §4(j)(2): Congress may prohibit goods produced in violation; not constitutionalized as automatic mechanism |
+| (c) Certification Requirement | Left to implementing legislation | Art II §4(j)(2) authorizes congressional action; specific certification process is statutory, not constitutional |
+| (d) Enforcement (seizure, penalties) | Covered + strengthened | Art II §4(k)(2)-(3): federal backstop inspections/penalties, private right of action for workers and competing businesses, attorney fees |
+| (e) Trans-shipment Prohibition | Covered implicitly | Art II §4(j)(2) covers "goods produced in violation" regardless of routing |
+| (f) Historical Note | Not included | Art XVIII §4 supersedes pre-ratification Commerce Clause doctrine; historical framing unnecessary |
+| G1: Special Economic Zone | Blocked | Art II §4(i)(1): no geographic exemptions from constitutional minimums |
+| G2: Independent Contractor Dodge | Blocked | Art II §4(i)(2): functional worker definition based on economic reality |
+| G3: Environmental Exemption | Blocked by existing provisions | Art I §11 (Environmental Border Protection) covers transboundary harm; cross-referenced in §4(h)(4) and §4(j)(3) |
+| G4: Youth Apprenticeship Loophole | Blocked | Art II §4(h)(2): prohibition applies regardless of "apprenticeship," "vocational training," or other designation |
+| G5: Variance Exploit | Blocked | Art II §4(k)(1): constitutional minimums not subject to variance under §4(e) |
+| G6: Sunset Trap | Blocked | Art II §4(k)(1): constitutional minimums not subject to sunset under §4(d) |
+| G7: Spillover Stall | Blocked | Art II §4(j)(1): rebuttable presumption of spillover; no need for lengthy certification |
+| G8: "Intra-Regional" Defense | Blocked | Art II §4(j)(1): presumption applies to Region maintaining sub-standard conditions regardless of commerce flows |
+| G9: Piece-Rate Evasion | Blocked | Art II §4(h)(3): subsistence floor based on actual compensation for hours worked |
+| G10: Prison Labor Arbitrage | Blocked | Art II §4(h)(1): prison labor for commercial competitive advantage prohibited; subsistence floor applies |
+| G11: Gig Economy Shield | Blocked | Art II §4(i)(2): economic reality test including algorithmic direction; "platform participant" label irrelevant |
+| G12: Cost-of-Living Justification | Addressed | Art II §4(h)(3): IFC determines Regional Subsistence Floor indexed to Regional cost of living |
+| G13: "Voluntary" Waiver (review) | Blocked | Art II §4(i)(3): rights inalienable; waiver void |
+| G14: "Student" Classification (review) | Blocked | Art II §4(i)(2): "student" label irrelevant under economic reality test |
+| Supply Chain Liability (review) | Covered | Art II §4(i)(4): entities with effective control share liability |
+
+**Severity:** Critical | **Mitigability:** ✅ Resolved
 
 ---
 

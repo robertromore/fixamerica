@@ -190,6 +190,38 @@ A rebuttable presumption of pretext arises where enforcement targets Regional po
 
 (g) **Non-Concurrent Domains.** Powers in Exclusive Federal Domains and Exclusive Regional Domains (as defined in Section 1(e)) shall be exclusive to the level to which they are assigned unless this Constitution explicitly authorizes shared jurisdiction.
 
+#### Constitutional Labor and Safety Minimums
+
+*Resolves Gap 185 — The "Race to the Bottom" (Deregulation Trap). Establishes permanent constitutional minimums for labor and workplace safety within the Structured Concurrent Domain framework, preventing Regions from competing through exploitative conditions while preserving Regional authority over standards above the floor.*
+
+(h) **Constitutional Labor Minimums.** Regardless of congressional action under subsection (a), the following standards are fundamental to the economic union and shall not be infringed by any Region:
+
+- (1) **Forced Labor.** No person shall be compelled to perform labor through physical coercion, debt bondage, confiscation of identity documents, or threat of penalty. Prison labor utilized for commercial competitive advantage in interstate commerce — including goods produced by incarcerated persons at compensation below the subsistence floor established in paragraph (3) — is prohibited.
+- (2) **Child Labor.** Commercial employment of persons under the age of sixteen (16) that interferes with compulsory education or endangers health, safety, or development is prohibited. This prohibition applies regardless of whether the arrangement is characterized as "apprenticeship," "vocational training," "internship," or any other designation.
+- (3) **Subsistence Wage.** Every worker shall receive compensation sufficient for basic subsistence. The Independent Fiscal Council shall determine and publish annually a Regional Subsistence Floor for each Region, indexed to Regional cost of living. No worker may receive compensation that, for the hours worked, falls below the applicable Regional Subsistence Floor.
+- (4) **Imminent Hazard.** Every worker has the right to refuse work that presents an imminent danger of death or serious physical harm without retaliation. Regions shall maintain workplace safety standards sufficient to prevent conditions of imminent danger. For transboundary environmental hazards arising from production, Article I, Section 11 (Environmental Border Protection) applies.
+
+(i) **Anti-Circumvention.** The standards of subsection (h) apply to all human labor performed for economic compensation within the territorial jurisdiction of a Region.
+
+- (1) **Universal Territorial Application.** No Region may exempt any geographic zone, special economic district, enterprise zone, or enclave from the standards of subsection (h).
+- (2) **Functional Worker Definition.** For purposes of this section, "worker" means any natural person who performs labor or services for economic compensation. Whether an individual is a "worker" shall be determined by the economic reality of the relationship — including economic dependence on the hiring entity, degree of control exercised (including through algorithmic direction or platform management), integration into the hiring entity's business operations, and absence of genuine entrepreneurial independence — regardless of labels such as "independent contractor," "partner," "platform participant," "apprentice," "student," or any other designation.
+- (3) **No Waiver.** Rights under subsection (h) are inalienable and may not be waived by contract, collective bargaining agreement, or any other instrument. A "voluntary" agreement to accept compensation below the Subsistence Floor or to work in conditions of imminent danger is void.
+- (4) **Supply Chain Accountability.** Entities exercising effective control over the conditions of work — including through supply chain management, subcontracting arrangements, franchise agreements, or algorithmic direction of work — share liability for violations of subsection (h) committed by entities under their effective control.
+
+(j) **Social Dumping Prohibition.** Economic competition based on labor conditions below the standards of subsection (h) constitutes cross-regional spillover for purposes of subsection (c).
+
+- (1) **Rebuttable Presumption.** A Region maintaining labor standards materially below the Constitutional Minimums of subsection (h) is rebuttably presumed to be externalizing costs to other Regions through the economic displacement of industries operating under lawful standards.
+- (2) **Commerce Authority.** Congress may prohibit the entry into interstate commerce of goods or services produced in violation of the standards of subsection (h). This authority is in addition to, and does not limit, the federal floor authority under subsection (a).
+- (3) **Cross-Reference.** For transboundary environmental harms arising from production processes, Article I, Section 11 provides comprehensive protection. This subsection addresses the labor dimension of interstate regulatory competition; Article I, Section 11 addresses the environmental dimension.
+
+(k) **Enforcement and Permanence.**
+
+- (1) **Permanence.** The standards of subsection (h) are permanent provisions of this Constitution. They are not subject to the sunset provisions of subsection (d), the variance provisions of subsection (e), or any other mechanism that would permit their reduction or suspension.
+- (2) **Federal Backstop.** Federal enforcement authority under subsection (b)(iii) applies when Regional enforcement of subsection (h) standards fails. The federal government may conduct inspections, issue citations, and impose penalties for violations of Constitutional Labor Minimums.
+- (3) **Private Right of Action.** Any worker aggrieved by a violation of subsection (h) may bring suit in federal court for compensatory damages, injunctive relief, and reasonable attorney fees. Any business in interstate commerce that suffers competitive harm from a competitor's violation of subsection (h) may bring suit in federal court for injunctive relief and actual damages.
+- (4) **IFC Monitoring.** The Independent Fiscal Council shall publish an annual Labor Standards Compliance Report assessing each Region's compliance with subsection (h) and with any congressional floors established under subsection (a). The report shall identify Regions with standards materially below national averages and assess the interstate competitive effects.
+- (5) **Relationship to Congressional Floors.** Congressional floors established under subsection (a) for labor standards and workplace safety operate above the Constitutional Minimums of subsection (h). The variance provisions of subsection (e), sunset provisions of subsection (d), and accountability labeling provisions of subsection (f) continue to apply to congressional floors. Constitutional Minimums are the permanent, non-waivable base layer; congressional floors are the adjustable standards above that base.
+
 ---
 
 ### Section 4-A. Dispute Reduction and Litigation Management
