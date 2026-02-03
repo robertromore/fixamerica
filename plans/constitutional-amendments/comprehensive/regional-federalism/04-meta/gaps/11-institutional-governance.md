@@ -2799,9 +2799,23 @@ Add to Article VIII-RF, Section 7 — The Great Sunset:
 **Dependencies**: Requires establishment of independent compliance cost agency; interacts with administrative law framework
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article VIII-RF, Section 7.
+**RESOLVED.** Integrated as Art II §24 (Regulatory Sunset and Review) in `02-design/constitution/02-powers-and-rights.md`.
 
-**Severity:** High | **Mitigability:** Requires Development
+| Subsection | Covers |
+|---|---|
+| §24(a) | Principle of impermanence: 10-year sunset for all regulations, guidance, and binding agency actions; statutory delegations also sunset |
+| §24(b) | Exemptions (constitutional provisions) + presumptive retention (rights-implementing regulations) |
+| §24(c) | Reauthorization: full legislative process, single-subject/agency/Title limitation, IFC certification, clean slate for judicial interpretations, 90-day public comment |
+| §24(d) | Regulatory Pay-Go: one-in-one-out by compliance cost; IFC certification; 3/5 supermajority waiver |
+| §24(e) | Staggered implementation: 10 subject-matter cohorts; highest-burden first; 12-year complete cycle |
+| §24(f) | Graduated expiration: first failure = 1-year mandatory review extension; second failure = void and unenforceable |
+| §24(g) | Compliance cost monitoring: CBO pre-enactment, IFC post-enactment, annual Regulatory Burden Report |
+| §24(h) | Anti-circumvention: guidance substitution, enforcement discretion shadow, incorporation by reference, delegation reset |
+| §24(i) | Regional application: constitutional floor for periodic regulatory review |
+| §24(j) | Coordination with §4, §18(i), Art IV §6(b), Art XI-RF §6(k), Art XVII-RF sunsets |
+| §24(k) | Enforcement: standing for regulated entities, 180-day emergency suspension, self-executing |
+
+**Severity:** High | **Mitigability:** ✅ Resolved
 
 ---
 

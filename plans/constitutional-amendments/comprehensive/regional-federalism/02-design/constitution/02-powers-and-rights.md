@@ -2274,6 +2274,88 @@ A President recovering from surgery needs a rapid clearance mechanism (fourteen-
 
 ---
 
+### Section 24. Regulatory Sunset and Review (The Impermanence Principle)
+
+*Integrates Gap 205 — Regulatory Sediment (Legislative Entropy).*
+
+(a) **The Principle of Impermanence.** No exercise of delegated regulatory authority shall have perpetual force. Every federal regulation, administrative rule, agency guidance document, interpretive letter, enforcement policy, and any other agency action that carries binding legal effect or practically compels compliance — regardless of its label or the process by which it was issued — shall expire ten (10) years after its effective date unless affirmatively reauthorized by Congress through legislative action. Statutory delegations of rulemaking authority shall likewise expire ten (10) years after enactment unless affirmatively renewed.
+
+(b) **Exemptions and Presumptive Retention.**
+
+(1) Provisions of this Constitution, including the constitutional minimums established in Section 4(k) of this Article, are not subject to the sunset established in this Section.
+
+(2) Regulations directly implementing the rights established in Article III-RF, Sections 1 through 8, are subject to presumptive retention: they survive the sunset date unless Congress affirmatively votes to expire them, reversing the default that applies to all other regulations.
+
+(3) Treaty obligations and international agreements ratified by the Senate are not subject to this Section, though regulations implementing such obligations are subject to sunset review.
+
+(c) **Reauthorization Process.**
+
+(1) Reauthorization shall follow the full legislative process: passage by both houses of Congress and presentment to the President.
+
+(2) Reauthorization legislation shall be limited to a single federal agency or a single Title of the United States Code. Omnibus reauthorization of regulations spanning multiple agencies or Titles is prohibited.
+
+(3) The Independent Fiscal Council shall certify, for each regulation proposed for reauthorization, the current annualized compliance cost, the demonstrated efficacy of the regulation, and whether the regulation's benefits justify its costs. Reauthorization without current IFC certification is void.
+
+(4) Upon reauthorization, prior judicial interpretations of the expired regulation do not bind interpretation of the reauthorized text. Congress may explicitly incorporate specific prior interpretations by reference in the reauthorization legislation; absent such incorporation, the reauthorized regulation receives fresh judicial construction under the de novo review standard of Article XIV-RF, Section 9.
+
+(5) A public comment period of not less than ninety (90) days shall precede any reauthorization vote.
+
+(d) **Regulatory Pay-Go.** For every dollar of annualized compliance cost imposed by a new regulation, an equivalent amount of existing regulatory compliance cost must be identified for elimination. The Independent Fiscal Council shall certify compliance with this requirement before any new regulation takes effect. Congress may by supermajority vote of three-fifths of each house waive this requirement for a specific regulation upon a finding of compelling necessity.
+
+(e) **Staggered Implementation.** Upon ratification of this Section:
+
+(1) within two (2) years, the Independent Fiscal Council, in consultation with the Congressional Budget Office, shall assign all existing federal regulations to ten (10) subject-matter cohorts;
+
+(2) beginning in the third year following ratification, one cohort shall reach its sunset date each year, with the highest-burden cohorts reviewed first;
+
+(3) by the twelfth year following ratification, all existing regulations shall have passed through one complete sunset cycle.
+
+(f) **Graduated Expiration.**
+
+(1) If Congress fails to reauthorize a regulation before its sunset date, the regulation receives an automatic one-year mandatory review extension. During this extension, the regulation remains enforceable, but both houses of Congress must schedule and conduct review proceedings.
+
+(2) If Congress fails to reauthorize the regulation before the expiration of the one-year extension, the regulation is void and unenforceable. No federal funds may be expended for its enforcement. Actions taken under the expired regulation after the extension period are without legal authority.
+
+(3) A regulation that expires under this subsection may be re-enacted through the normal legislative process at any time; expiration does not preclude future regulation of the same subject matter.
+
+(g) **Compliance Cost Monitoring.**
+
+(1) The Congressional Budget Office shall estimate the compliance cost of each new regulation before its adoption, consistent with Article IV, Section 3.
+
+(2) The Independent Fiscal Council shall monitor the actual compliance cost of all federal regulations on an ongoing basis and publish an annual Regulatory Burden Report disclosing the total annualized compliance cost, the cost of each cohort, the cost of each agency's regulatory portfolio, and the trend in aggregate regulatory burden.
+
+(3) No agency may calculate or certify the compliance cost of its own regulations for purposes of this Section.
+
+(h) **Anti-Circumvention.**
+
+(1) This Section applies to all agency actions with binding legal effect or practical compulsive force, regardless of whether denominated as a regulation, rule, guidance, policy statement, interpretive letter, frequently-asked-questions document, enforcement manual, or any other label.
+
+(2) An agency may not, following the expiration of a regulation, continue to enforce the substance of the expired regulation through enforcement discretion, prosecutorial policy, or any assertion of general statutory authority. Enforcement actions premised on expired regulatory authority are void.
+
+(3) Where a regulation incorporates by reference a privately-maintained standard, the regulatory incorporation expires with the regulation. The referenced standard has no independent federal legal force after the incorporating regulation expires.
+
+(4) Reauthorization of a vague statutory delegation of rulemaking authority does not restart the sunset clock for regulations previously promulgated under that delegation. The regulations themselves must be independently reauthorized.
+
+(i) **Regional Application.** Each Region shall establish a mechanism for the periodic review and sunset of Regional regulations. The design and timeline of such mechanisms are within Regional discretion, but each Region must demonstrate that its regulatory stock is subject to systematic periodic review. The Independent Fiscal Council shall include Regional regulatory burden data in its annual Regulatory Burden Report.
+
+(j) **Coordination with Existing Sunset Provisions.**
+
+(1) Where a regulation is subject to both this Section and the sunset provisions of Section 4 of this Article, the shorter sunset period governs.
+
+(2) The sunset for unpublished legal interpretations established in Section 18(i) of this Article operates independently and is not extended by this Section.
+
+(3) Sector-specific sunset provisions elsewhere in this Constitution (including Article IV, Section 6(b); Article XI-RF, Section 6(k); and Article XVII-RF) continue to operate independently; this Section provides a floor, not a ceiling, for regulatory review.
+
+(k) **Enforcement and Emergency Suspension.**
+
+(1) Any person subject to a regulation that has expired under this Section has standing to seek declaratory and injunctive relief in federal court.
+
+(2) The President may suspend the operation of this Section for specific regulations directly related to an ongoing armed conflict or declared national emergency for a period not exceeding one hundred eighty (180) days. Renewal of such suspension requires an affirmative vote of Congress.
+
+(3) This Section is self-executing and does not require implementing legislation, though Congress may enact legislation to further its purposes.
+
+---
+
 ## Related Documents
 
 - [Index](00-index.md) - Constitution overview
