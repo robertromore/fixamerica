@@ -339,7 +339,7 @@ Standing under this subsection shall not require demonstration of injury-in-fact
 
 (4) during transition, no Justice may be appointed with term exceeding 18 years.
 
-(g) **Regional Diversity Preserved.** The Regional Diversity requirement for Supreme Court composition (Article III-RF, Section 1) remains in effect. The 18-year term ensures each Region's seat rotates more frequently than under life tenure.
+(g) **Regional Diversity Preserved.** The Regional Diversity requirement for Supreme Court composition established in Section 5-A of this Article remains in effect. The 18-year term ensures each Region's seat rotates more frequently than under life tenure.
 
 (h) **Chief Justice.** The Chief Justice:
 
@@ -356,6 +356,108 @@ Standing under this subsection shall not require demonstration of injury-in-fact
 (2) an incapacitated Justice is deemed to have vacated the seat;
 
 (3) the incapacitated Justice assumes Senior Justice status with full benefits.
+
+---
+
+### Section 5-A. Supreme Court Regional Diversity (The Bench Geography Rule)
+
+*Integrates Gap 186 — Judicial Monoculture (Court Packing by Geography).*
+
+(a) **Regional Seat Allocation.** The Supreme Court shall comprise nine Justices allocated as follows:
+
+(1) one designated seat for each Region established under Article I, Section 2;
+
+(2) remaining seats are at-large seats, not assigned to any specific Region;
+
+(3) if the number of Regions exceeds seven, at-large seats are reduced accordingly; if the number of Regions exceeds nine, Congress may by law expand the Court to accommodate one seat per Region plus at least one at-large seat, provided total membership does not exceed eleven without further constitutional amendment.
+
+(b) **Regional Domicile Standard.** To qualify for a Regional seat, a nominee must:
+
+(1) have maintained continuous primary residence in the Region for at least five years immediately preceding nomination;
+
+(2) have engaged in the practice of law, judicial service, or legal scholarship within the Region for at least ten years in total;
+
+(3) be certified as meeting the domicile standard by the Judicial Nominating Commission established in subsection (d);
+
+(4) a nominee whose residence is nominal — maintained primarily to satisfy the domicile requirement rather than reflecting genuine community ties, professional engagement, and civic participation — does not meet this standard.
+
+(c) **Qualification Shortfall.** If the Judicial Nominating Commission certifies that a Region lacks a sufficient pool of qualified candidates:
+
+(1) the Commission shall first expand its search to include candidates who meet the ten-year professional practice requirement but have maintained continuous residence for at least three years;
+
+(2) if no qualified candidate is available under paragraph (1), the seat may be temporarily designated as an additional at-large seat for one term only, after which the Regional designation is restored;
+
+(3) temporary at-large designation under this subsection does not alter the seat's permanent Regional assignment.
+
+(d) **Judicial Nominating Commission.** A Judicial Nominating Commission is established for each Region:
+
+(1) each Commission shall comprise seven members:
+
+- (i) two members selected by the Regional Bar Association or its equivalent;
+
+- (ii) two members selected by the deans of accredited law schools within the Region;
+
+- (iii) two retired federal judges who last served within the Region;
+
+- (iv) one member selected by the Regional legislature;
+
+(2) a majority of each Commission's members must be persons who do not hold and have not held partisan political office within the preceding ten years;
+
+(3) Commission members shall serve staggered four-year terms and may not serve more than two consecutive terms;
+
+(4) no Commission member may simultaneously serve in any elected or appointed government position other than judicial office;
+
+(5) Commission operations, deliberations, and candidate evaluations shall be transparent to the public, subject only to narrow exceptions for candidate privacy during initial vetting.
+
+(e) **Nomination Process.** When a Regional seat vacancy arises:
+
+(1) the relevant Regional Judicial Nominating Commission shall, within 60 days of the vacancy, submit to the President a list of not fewer than three and not more than five qualified candidates certified as meeting the domicile standard;
+
+(2) the President shall select a nominee from the Commission's list within 30 days of receiving it;
+
+(3) the nomination and confirmation process established in Section 5(c) applies to the President's selection, with the confirmation period clock beginning upon the President's selection from the Commission's list;
+
+(4) if the Senate rejects three successive nominees from the Commission's list, the Commission shall submit a new list within 30 days; the President shall select within 15 days of the new list; upon a fourth rejection from the combined lists, the Commission's highest-ranked remaining candidate is deemed nominated and the confirmation process of Section 5(c), including the deemed confirmation provision of Article IV, Section 4-B, applies.
+
+(f) **At-Large Seats.** For at-large seats:
+
+(1) no two at-large Justices may be domiciled in the same Region at the time of their nomination;
+
+(2) the President nominates at-large candidates without a Commission list, but the nominee must be certified by the Commission of the nominee's Region of residence as meeting the professional qualifications established in subsection (b)(2);
+
+(3) among otherwise qualified at-large candidates, the President should give preference to candidates from Regions not currently represented among at-large Justices.
+
+(g-1) **Early Departure Replacement.** When a Justice departs before term completion:
+
+(1) the replacement shall be drawn from the same Region as the departing Justice, subject to the domicile standard of subsection (b);
+
+(2) the replacement serves the remainder of the departed Justice's term pursuant to Section 5(d);
+
+(3) if the departing Justice held an at-large seat, the replacement is not required to be from the same Region, but the at-large diversity requirement of subsection (f)(1) applies.
+
+(h) **Chief Justice Regional Rotation.** No Chief Justice designated under Section 5(h) shall be succeeded by a Chief Justice domiciled in the same Region as the departing Chief at the time of their respective designations.
+
+(i) **Coordination with Regional Courts.** The Judicial Nominating Commission structure established in this section may serve as a model for Regional court appointments under Article XIV-RF. Regions may adopt equivalent domicile and commission requirements for their Regional courts by Regional law.
+
+(j) **Transition.** Upon ratification of this section:
+
+(1) each sitting Justice shall be assigned to the Region of their primary domicile at the time of ratification;
+
+(2) if two or more sitting Justices share a Region, the most recently appointed Justice or Justices shall be designated as occupying at-large seats;
+
+(3) the Regional seat allocation and domicile standard apply in full to all nominations occurring after ratification;
+
+(4) transition assignments under this subsection do not affect a Justice's tenure, rights, or status under Section 5.
+
+(k) **Enforcement.**
+
+(1) A nomination that does not comply with this section is void and without legal effect.
+
+(2) Any member of the Senate, any State or Regional government, or any person whose rights are affected may bring an action in the Constitutional Court to enforce this section.
+
+(3) The Constitutional Court shall resolve challenges under this section within 14 days of filing.
+
+(4) This section is self-executing and does not require implementing legislation, though Congress may enact legislation to further its purposes.
 
 ---
 

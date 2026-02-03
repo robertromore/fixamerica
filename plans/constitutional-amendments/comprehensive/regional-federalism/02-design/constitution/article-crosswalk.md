@@ -88,6 +88,7 @@ These files contain ONLY the region-dependent provisions. They supplement the st
 | RF Supplement | Article Designation | Requires | File |
 |---------------|---------------------|----------|------|
 | Criminal Justice Reform | III-RF | RF Core Constitution | [09-judiciary.md](09-judiciary.md) |
+| Supreme Court Regional Diversity | III-RF §5-A | RF Core Constitution | [09-judiciary.md](09-judiciary.md) |
 | Regional Courts | XIV-RF | Judicial Reform Amendment | [09-judiciary.md](09-judiciary.md) |
 | Regional Guard Forces | XI-RF | Military Civilian Control Amendment | [10-armed-forces.md](10-armed-forces.md) |
 | Congressional Key Override Operations | XI-RF §2(m-q) | Military Civilian Control Amendment | [10-armed-forces.md](10-armed-forces.md) |
@@ -198,6 +199,7 @@ For region-dependent supplements, use the "-RF" designation:
 
 ```
 Article XIV-RF, Section 2 (Specialized Courts) — see 09-judiciary.md
+Article III-RF, Section 5-A (Supreme Court Regional Diversity) — see 09-judiciary.md
 Article III-RF, Section 6 (Trial Penalty Prohibition) — see 09-judiciary.md
 Article III-RF, Section 12 (Civilian Court Supremacy) — see 09-judiciary.md
 Article XIV-RF, Section 4 (Provisional Relief and Remedy Preservation) — see 09-judiciary.md

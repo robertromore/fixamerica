@@ -2670,9 +2670,25 @@ Add to Article III (The Judiciary), Section 2:
 > - (iii) future vacancies filled according to this section's requirements.
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article III, Section 2.
+**RESOLVED.** Integrated as Art III-RF §5-A (Supreme Court Regional Diversity) in `02-design/constitution/09-judiciary.md`.
 
-**Severity:** High | **Mitigability:** Requires Development
+| Subsection | Covers |
+|---|---|
+| §5-A(a) | Regional seat allocation (one per Region + at-large; ceiling of 11) |
+| §5-A(b) | Regional domicile standard (5yr residence + 10yr practice; nominal domicile prohibition) |
+| §5-A(c) | Qualification shortfall (expanded search + temporary at-large fallback) |
+| §5-A(d) | Judicial Nominating Commission (7 members per Region; majority non-political) |
+| §5-A(e) | Nomination process (commission list controls; anti-blockade after 3 rejections) |
+| §5-A(f) | At-large seats (no two from same Region; commission certification) |
+| §5-A(g-1) | Early departure replacement (same Region; at-large diversity preserved) |
+| §5-A(h) | Chief Justice regional rotation (no consecutive same-Region Chiefs) |
+| §5-A(i) | Coordination with Regional courts (Art XIV-RF model) |
+| §5-A(j) | Transition (assign by domicile; full mandate for future nominations) |
+| §5-A(k) | Enforcement (void nomination; 14-day resolution; self-executing) |
+
+Also updated §5(g) cross-reference from phantom "Article III-RF, Section 1" to "Section 5-A of this Article."
+
+**Severity:** High | **Mitigability:** ✅ Resolved
 
 ---
 
