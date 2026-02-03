@@ -60,7 +60,7 @@ These articles are part of the Regional Federal Constitution and require Regiona
 | **XVIII** | 1-5 | Supremacy, floors not ceilings, interpretive conventions, interpretive decoupling, presumption of subsidiarity | [06-supremacy.md](06-supremacy.md) |
 | **XIX** | 1-3 | Ratification, transition, activation | [06-supremacy.md](06-supremacy.md) |
 | **XX** | 1-3 | D.C., territories, tribal nations | [06-supremacy.md](06-supremacy.md) |
-| **XXI** | 1-6 | Congressional implementation, default rules, partial adoption safeguards, data continuity during transition, regulatory continuity | [07-implementation.md](07-implementation.md) |
+| **XXI** | 1-7 | Congressional implementation, default rules, partial adoption safeguards, data continuity during transition, regulatory continuity, regional institutional capacity development | [07-implementation.md](07-implementation.md) |
 | **XXII** | 1-6 | Definitions | [07-implementation.md](07-implementation.md) |
 | **XXIII** | 1-7 | Indigenous sovereignty preservation, treaty sovereignty | [06-supremacy.md](06-supremacy.md) |
 | **XXIV** | 1-7 | Union permanence, orderly alteration, secession prohibition | [06-supremacy.md](06-supremacy.md) |

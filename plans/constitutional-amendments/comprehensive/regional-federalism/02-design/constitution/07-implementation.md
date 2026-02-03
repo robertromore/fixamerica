@@ -252,6 +252,198 @@ These default rules exist to prevent deliberate nonimplementation from becoming 
 
 ---
 
+### Section 7. Regional Institutional Capacity Development
+
+*This section establishes a structured framework for building Regional institutional capacity during and after the transition from State-based governance, preventing early performance disparities from undermining the legitimacy of the constitutional system. See Gap 13.*
+
+#### Tiered Capacity Assessment
+
+(a) **Capacity Assessment Framework.** The Allocation Review Board, in consultation with the Independent Fiscal Council, shall assess each Region's institutional capacity according to a three-tier framework:
+
+(1) **Tier 1 — Foundational Capacity.** A Region achieves Foundational Capacity when it demonstrates the "minimum institutional capacity" defined in Article XXII, Section 6(b): functional executive, legislative, and judicial branches; ability to collect and disburse tax revenue; operational emergency services; an educational system meeting federal accreditation standards; and participation in inter-Regional data sharing systems;
+
+(2) **Tier 2 — Operational Capacity.** A Region achieves Operational Capacity when, in addition to Tier 1 requirements, it demonstrates: (A) the ability to independently administer all Exclusive Domain powers assigned to it under Article II, Section 1(e)(2), without reliance on federal bridge administration under Section 6(c) of this Article; (B) independent fiscal operations, including tax administration, budget execution, and debt management, certified by the IFC; (C) a functioning Regional judiciary with case management systems, adequate staffing, and compliance with constitutional deadlines; (D) regulatory agencies capable of enforcement within Regional Exclusive Domains; and (E) demonstrated capacity to engage in inter-Regional coordination, including participation in ARB and IFC proceedings and the ability to negotiate and administer intergovernmental agreements;
+
+(3) **Tier 3 — Full Capacity.** A Region achieves Full Capacity when, in addition to Tier 2 requirements, it demonstrates sustained performance over three (3) consecutive annual assessments in which: (A) no Minimum Institutional Capacity function has fallen below federal standards; (B) the Regional judiciary meets or exceeds constitutional case-processing deadlines; (C) Regional fiscal operations receive an unqualified audit opinion from the IFC; and (D) the Region has no outstanding ARB compliance orders related to deficiency in any function enumerated in Article XXII, Section 6(b).
+
+(b) **Assessment Schedule and Procedure.** The ARB shall:
+
+(1) conduct initial capacity assessments of all Regions within one (1) year of ratification;
+
+(2) conduct annual capacity assessments thereafter until all Regions achieve Tier 3;
+
+(3) publish assessment criteria, methodology, and data at least ninety (90) days before each assessment cycle;
+
+(4) provide each Region a draft assessment and sixty (60) days to respond before final publication;
+
+(5) use objective, quantified criteria to the maximum extent practicable. Assessment criteria shall be uniform across all Regions, and no Region shall be assessed against a standard not applied to all Regions;
+
+(6) before adopting or materially amending assessment criteria, provide sixty (60) days for public notice and comment. Regions, federal agencies, and any interested party may submit comments. The ARB shall publish a response to significant comments received;
+
+(7) establish an Assessment Review Panel consisting of three (3) independent experts in public administration — two (2) appointed by the ARB and one (1) appointed by the Chief Justice of the United States — for staggered four-year terms. A Region may petition the Panel for independent review of any final tier determination. The Panel shall issue a binding recommendation within ninety (90) days. Panel members may not be current or former employees of any Region, the ARB, or the IFC, and must have no financial interest in the outcome. The ARB shall publish and implement all Panel recommendations.
+
+#### Graduated Authority Transfer
+
+(c) **Constitutional Authority Distinguished from Operational Responsibility.** All Regions possess full constitutional authority within their enumerated powers from the date of ratification. This section governs the transfer of *operational responsibility* — the practical administration of governmental functions — from federal bridge agencies to Regional institutions. No provision of this section diminishes a Region's constitutional authority or legal standing.
+
+(d) **Transfer Schedule.** Operational responsibility shall transfer to each Region according to the following schedule:
+
+(1) **Upon ratification:** All Regions exercise Shared Domain powers alongside the federal government; federal bridge administration under Section 6(c) commences for Exclusive Domain enforcement;
+
+(2) **Upon Tier 1 certification:** The Region assumes direct operational responsibility for emergency services coordination, tax collection (with IFC technical support), and legislative and executive functions. The federal bridge continues for regulatory enforcement and judicial operations;
+
+(3) **Upon Tier 2 certification:** The Region assumes full operational responsibility for all Exclusive Domain functions. Federal bridge administration under Section 6(c) terminates. The Region independently manages fiscal operations, regulatory enforcement, and judicial administration;
+
+(4) **Upon Tier 3 certification:** The Region is fully autonomous. Annual ARB capacity assessments transition to the standard IFC annual certification under Article XXII, Section 6(b);
+
+(5) **Bridge-Override Clause.** Where the transfer schedule established by this subsection conflicts with the five-year limitation in Section 6(c) of this Article, this subsection shall control. Federal bridge administration for any individual functional domain may extend beyond five (5) years if the Region has not achieved Tier 2 certification for that domain, provided that: (A) no federal bridge administration for any single functional domain shall continue beyond seven (7) years from ratification, regardless of the Region's capacity tier; (B) if a Region has not achieved capacity for a domain by year seven, the ARB shall certify operational transfer and simultaneously implement enhanced monitoring and technical assistance under this section; (C) the seven-year outer limit is intended to prevent indefinite federal administration from substituting for Regional self-governance, even at the cost of reduced initial operational quality; (D) if the ARB certifies at the time of transfer under paragraph (B) that the Region cannot independently maintain courts, tax administration, or emergency services at a level sufficient to protect residents' constitutional rights, the ARB shall establish interim shared-services arrangements for those essential functions with adjacent Regions or the federal government until the Region achieves independent capacity or Congress enacts alternative measures under subsection (r). Shared-services costs shall be borne by the Region, with reimbursement available from the Capacity Development Program under subsection (f).
+
+(e) **Transfer Flexibility.** The ARB may certify Tier 2 capacity for individual functional domains before the Region achieves overall Tier 2 certification. A Region may assume operational responsibility for domains in which it has demonstrated capacity while federal bridge administration continues for other domains.
+
+#### Federal Capacity Development Program
+
+(f) **Establishment.** The Federal Government shall establish a Regional Capacity Development Program, administered by the ARB through a Capacity Development Secretariat, to provide mandatory institutional development support to all Regions during the transition period.
+
+(g) **Program Components.** The Program shall include:
+
+(1) **Institutional Design Assistance.** Teams of experienced public administrators, drawn from federal agencies, State governments, and, with consent, other Regions, shall be available to assist Regions in designing governmental structures, including judiciary design, tax administration systems, regulatory agency organization, and emergency management frameworks;
+
+(2) **Personnel Development.** The Program shall fund and coordinate: (A) training programs for Regional civil servants, judges, and administrators; (B) fellowships for Regional personnel to serve temporary rotations in federal agencies or high-capacity Regions; (C) recruitment assistance for Regions that lack a sufficient pool of qualified applicants for critical positions;
+
+(3) **Systems and Infrastructure.** The Program shall provide: (A) information technology systems for tax administration, case management, regulatory enforcement, and inter-Regional data sharing; (B) physical infrastructure grants for courthouses, administrative offices, and emergency operations centers where existing State facilities are insufficient for Regional operations; (C) model templates for Regional administrative codes, court rules, and regulatory procedures; (D) common data standards and interoperability protocols ensuring that systems deployed under this subsection are compatible across all Regions and with federal systems, consistent with the data continuity requirements of Section 5 of this Article;
+
+(4) **Fiscal Capacity Building.** The IFC shall provide: (A) technical assistance in tax system design, revenue forecasting, and budget development; (B) interim tax administration services where a Region cannot yet independently operate its own tax system; (C) capacity-building grants, distinct from equalization transfers under Article X, Section 3, to fund the development of fiscal infrastructure;
+
+(5) **Judicial Capacity.** Recognizing that a functioning judiciary is essential to constitutional governance and presents particular capacity challenges, the Program shall include: (A) accelerated judicial training programs developed in coordination with existing federal judicial education institutions; (B) temporary judicial borrowing arrangements under which federal judges or judges from other Regions may sit by designation on a Region's courts when the Region's own judiciary lacks sufficient personnel to hear cases within constitutional deadlines; (C) shared judicial services for low-volume specialized proceedings, including but not limited to environmental courts, commercial arbitration, and water disputes, to be administered by inter-Regional agreement or by the ARB where no agreement is reached; (D) judicial borrowing under this subsection shall not exceed five (5) years for any individual Region without ARB certification that the Region is making demonstrable progress toward independent judicial capacity. Regardless of ARB certification, judicial borrowing shall not continue beyond seven (7) years from ratification except by express congressional authorization.
+
+(h) **Priority Allocation.** The ARB shall allocate Program resources with priority to Regions furthest from Tier 2 certification. No Region shall be denied baseline Program access, but enhanced support shall be directed where institutional gaps are greatest.
+
+(i) **Funding.** The Capacity Development Program shall be funded from general federal revenues. Program costs shall not be charged against equalization transfers, Cyclical Stabilization Fund disbursements, or any other Article X fiscal mechanism. Congress shall appropriate funds sufficient to operate the Program; if Congress fails to appropriate adequate funds within one (1) year of ratification, the IFC may direct the release of funds from the federal general account at a level not exceeding 0.1% of national GDP annually, subject to the Anti-Obstruction provisions of Section 2(b-5). The following additional protections shall apply:
+
+(1) **Anti-Conditionality.** Federal appropriations for the Capacity Development Program shall not be conditioned on a Region's adoption or rejection of any substantive policy unrelated to institutional capacity development. Conditions that restrict program funds to capacity-building purposes, require reporting on fund usage, or impose performance benchmarks related to this section's tier framework are permissible. Disputes over whether a condition constitutes an impermissible policy condition under this paragraph shall be referred to the Allocation Review Board, which shall issue a determination within sixty (60) days. The ARB's determination shall be subject to judicial review;
+
+(2) **Aggregate Cap on Default Draws.** IFC default releases under this subsection shall not exceed a cumulative total of 0.5% of national GDP over any consecutive five-year period. If this cap proves insufficient, the IFC shall report to Congress with recommended appropriation levels;
+
+(3) **Fallback Termination.** The IFC's authority to direct default releases under this subsection terminates upon the sunset of the tiered capacity assessment framework under subsection (v).
+
+(j) **Duration.** The Capacity Development Program shall operate for a minimum of ten (10) years following ratification or until all Regions achieve Tier 2 certification, whichever is later, but in no event beyond fifteen (15) years following ratification. Congress may extend the Program by statute. Upon termination, any ongoing technical assistance commitments shall be honored for the remainder of the applicable assistance period. If the tiered capacity assessment framework sunsets under subsection (v) before the Program's minimum duration expires, Program allocations for the remainder of its term shall be guided by the IFC annual certification findings under Article XXII, Section 6(b), with priority to Regions identified as having capacity deficiencies in any certified function.
+
+#### Inter-Regional Technical Assistance
+
+(k) **Voluntary Peer Assistance.** Regions that have achieved Tier 2 or Tier 3 certification may enter into voluntary technical assistance agreements with lower-tier Regions. Such agreements may include:
+
+(1) secondment of experienced Regional personnel to assist with institutional development, subject to the following: (A) seconded personnel shall serve a minimum return-service period in the sending Region equal to the duration of the secondment, commencing upon the secondment's conclusion; (B) no Region shall simultaneously second more than five percent (5%) of its workforce in any single functional domain to other Regions; (C) the Capacity Development Secretariat shall track secondments to prevent aggregate personnel drain from any sending Region;
+
+(2) shared-services arrangements for functions where independent Regional capacity is not yet feasible (e.g., forensic laboratory services, specialized court expertise, environmental monitoring);
+
+(3) joint training programs and professional development exchanges.
+
+(l) **Facilitation.** The ARB shall maintain a Technical Assistance Clearinghouse publishing: (1) offers of assistance from higher-tier Regions; (2) requests for assistance from lower-tier Regions; and (3) model shared-services agreements. The ARB may recommend inter-Regional technical assistance partnerships but may not compel them.
+
+(m) **Cost Sharing.** The costs of voluntary peer technical assistance shall be shared as follows: (1) personnel costs of seconded employees shall be borne by the sending Region, with reimbursement available from the Capacity Development Program under subsection (f); (2) shared-services costs shall be allocated by agreement between the Regions; (3) the Capacity Development Program may subsidize up to fifty percent (50%) of shared-services costs during the first five (5) years of a shared-services agreement.
+
+#### Early Warning and Remediation
+
+(n) **Capacity Alert.** If the ARB determines during an annual assessment that a Region:
+
+(1) has not achieved Tier 1 certification within two (2) years of ratification; or
+
+(2) is not on track to achieve Tier 2 certification within seven (7) years of ratification, based on the rate of progress observed in consecutive assessments; or
+
+(3) has regressed from a previously achieved tier;
+
+the ARB shall issue a Capacity Alert for that Region.
+
+(o) **Alert Consequences.** A Capacity Alert triggers:
+
+(1) a detailed Capacity Remediation Assessment identifying the specific institutional deficiencies preventing tier advancement, published within sixty (60) days of the Alert;
+
+(2) enhanced Capacity Development Program support, including dedicated assistance teams and priority resource allocation;
+
+(3) quarterly progress reviews, published in summary form, replacing annual assessments for the duration of the Alert;
+
+(4) mandatory consultation between the Region's Governor and legislature and the ARB to develop a Capacity Remediation Plan within one hundred twenty (120) days. The Remediation Plan shall be developed collaboratively — the ARB provides institutional expertise and benchmarks; the Region retains authority over the plan's specific design and implementation.
+
+(p) **Remediation Plan.** A Capacity Remediation Plan shall:
+
+(1) identify specific, measurable benchmarks for achieving the next tier;
+
+(2) establish a timeline not exceeding three (3) years for achieving each benchmark;
+
+(3) specify the federal and inter-Regional assistance the Region will receive;
+
+(4) be published for public review and updated annually.
+
+(q) **Mandatory Enhanced Intervention.** If any Region has not achieved Tier 2 certification by the sixth (6th) year following ratification:
+
+(1) the Capacity Development Secretariat shall deploy a dedicated Institutional Development Team to that Region, consisting of specialists in each functional domain where capacity gaps remain;
+
+(2) the IFC shall conduct an emergency fiscal capacity assessment and provide supplementary fiscal assistance as necessary;
+
+(3) the ARB shall convene a Capacity Conference among the Region, the federal government, and willing peer Regions to identify and address remaining barriers;
+
+(4) this mandatory intervention supplements, and does not replace, any Capacity Alert or Remediation Plan in effect.
+
+(r) **Escalation.** If a Region under Capacity Alert fails to achieve Tier 1 within four (4) years of ratification, or Tier 2 within ten (10) years of ratification:
+
+(1) the ARB shall assess whether the failure constitutes or is approaching Political Institutional Failure under Article V, Section 5;
+
+(2) if the ARB determines the Region is approaching but has not reached Political Institutional Failure, it shall recommend to Congress targeted legislative interventions, which may include extended federal bridge administration under Section 6(c) as modified by subsection (d)(5), mandatory shared-services arrangements with adjacent Regions, or additional fiscal support;
+
+(3) the ARB may not itself impose governance changes on the Region. Interventions beyond enhanced technical assistance require Congressional action or, in the event of Political Institutional Failure, the receivership procedures of Article V, Section 5;
+
+(4) no Region may be placed in Political Institutional Failure receivership under Article V, Section 5 solely because it has not achieved Tier 2 capacity. Political Institutional Failure requires the specific conditions enumerated in Article V, Section 5(a).
+
+#### Anti-Stigma Protections
+
+(s) **Objective Assessment Standard.** Capacity assessments shall be based exclusively on objective, quantified criteria published in advance. The ARB shall not:
+
+(1) issue subjective assessments of Regional "culture," "attitude," or "willingness" to develop capacity;
+
+(2) compare Regions to one another in assessment publications. Each Region's assessment shall be published as an independent document evaluating that Region against the uniform criteria. Nothing in this subsection prevents fact-based reporting by media organizations, academic researchers, or legislative bodies, which may include inter-Regional comparisons in the exercise of public accountability;
+
+(3) characterize any Region as "failing," "deficient," "backward," or similar pejorative terms. Assessments shall use descriptive tier designations only.
+
+(t) **Narrative Responsibility.** During the first five (5) years following ratification:
+
+(1) the ARB and all federal agencies shall, in official communications regarding Regional capacity, emphasize the expected and planned nature of differential development timelines;
+
+(2) the President and federal officials shall not use capacity tier designations as grounds for questioning a Region's constitutional authority, legitimacy, or standing to participate in inter-Regional governance;
+
+(3) nothing in this subsection restricts the speech of individual officials in their personal capacity, legislative debate, or media commentary.
+
+(u) **Equal Standing.** Regardless of capacity tier, every Region retains:
+
+(1) full constitutional authority within its enumerated powers;
+
+(2) equal representation in the Senate under Article IV, Section 3;
+
+(3) equal standing to participate in ARB proceedings, IFC consultations, and inter-Regional compacts;
+
+(4) the right to challenge federal actions and to petition the Supreme Court;
+
+(5) authority over its own Regional constitution and governance structure.
+
+#### Sunset and Transition
+
+(v) **Sunset.** The tiered capacity assessment framework established by this section shall sunset upon the earliest of:
+
+(1) the date on which all Regions have achieved Tier 3 certification; or
+
+(2) fifteen (15) years following ratification, regardless of whether all Regions have achieved Tier 3.
+
+Upon sunset, all Regions shall be assessed exclusively under the annual IFC certification required by Article XXII, Section 6(b). If any Region has not achieved Tier 3 at sunset, the IFC shall provide enhanced monitoring for that Region, including annual assessments against Tier 2 and Tier 3 criteria, for a period of five (5) years following sunset or until the Region achieves Tier 3, whichever is earlier.
+
+(w) **Post-Sunset Monitoring.** After sunset, if the IFC determines during an annual certification that any Region has fallen below minimum institutional capacity as defined in Article XXII, Section 6(b):
+
+(1) the IFC shall notify the ARB, which may reinstate enhanced assessment procedures on a Region-specific basis;
+
+(2) reinstatement shall not trigger automatic application of the full tiered framework, but the ARB may recommend capacity-building interventions to Congress;
+
+(3) Political Institutional Failure procedures under Article V, Section 5 remain available as the ultimate backstop.
+
+---
+
 ## ARTICLE XXII - DEFINITIONS
 
 For purposes of this Constitution:

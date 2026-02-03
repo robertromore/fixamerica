@@ -34,7 +34,7 @@ Regions may begin with:
 Early performance disparities undermine legitimacy.
 
 **Status:**
-Mitigated over time; cannot be equalized instantly.
+RESOLVED. Article XXI, Section 7 (Regional Institutional Capacity Development) establishes a three-tier capacity framework (Foundational, Operational, Full Capacity), graduated authority transfer with 7-year hard bridge limit, Federal Capacity Development Program with anti-conditionality protections, judicial borrowing provisions, inter-Regional technical assistance with brain-drain safeguards, early warning and remediation ladder with mandatory Year 6 intervention, anti-stigma protections, and 15-year absolute sunset. See [gap-013-capacity-development.md](../../02-design/drafts/gap-013-capacity-development.md).
 
 ---
 
