@@ -65,17 +65,17 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 
 | Gap # | Description | Severity | Mitigation Status |
 |-------|-------------|----------|-------------------|
-| 5 | Indigenous sovereignty interface with regional authority | Medium | Requires Development |
-| 6 | Digital governance and platform regulation authority | Medium | Requires Development |
-| 7 | Artificial intelligence and algorithmic governance | Medium | Requires Development |
-| 8 | Climate adaptation authority during cross-regional emergencies | Medium | Partially Mitigated |
-| 16 | Cryptocurrency and decentralized finance regulation | Low | Requires Development |
-| 17 | Space resource rights and orbital governance | Low | Requires Development |
-| 18 | Genetic privacy and biotechnology regulation | Medium | Requires Development |
-| 19 | Neurotechnology and cognitive liberty protections | Medium | Requires Development |
-| 20 | Autonomous systems liability framework | Medium | Requires Development |
-| 21 | Virtual property and digital asset rights | Low | Requires Development |
-| 22 | Geoengineering decision authority | High | Requires Development |
+| 5 | Media and information power (narrative domination) | Medium | Partially Mitigated |
+| 6 | Political party evolution (machine/cartelization risk) | Medium | Accepted by Design |
+| 7 | Implementation act dependency and statutory capture | Medium | Partially Mitigated |
+| 8 | Rights-floor content and enforcement detail | Medium | Partially Mitigated |
+| 16 | Inter-regional cooperation mechanisms | Low | Partially Mitigated |
+| 17 | Inter-regional infrastructure coercion | Medium | ✅ Resolved |
+| 18 | Water rights and shared waterways | High | ✅ Resolved |
+| 19 | Freedom of movement between regions | High | ✅ Resolved |
+| 20 | Mutual recognition of legal status | Medium | ✅ Resolved |
+| 21 | Environmental border dumping | Medium | ✅ Resolved |
+| 22 | Cross-regional law enforcement cooperation | Medium | ✅ Resolved |
 
 ### Category IV: Long-Horizon Systemic Risks
 
@@ -109,17 +109,17 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 |-------|-------------|----------|-------------------|
 | 45 | Equalization formula gaming / administrative receivership | Medium | ✅ Resolved |
 | 52 | Tax base erosion through inter-regional competition | Medium | Partially Mitigated |
-| 61 | Unfunded mandate creep from federal requirements | High | Requires Development |
+| 61 | Macroeconomic policy mismatch (regional monetary asymmetry) | High | Requires Development |
 | 62 | Fiscal hollow-out via State-level tax strikes (Revenue Protection) | Medium | ✅ Resolved |
 | 72 | Equalization cliff sabotage (Inverted Default Incentive) | High | ✅ Resolved |
 | 80 | Revenue volatility from commodity-dependent regions | Medium | Partially Mitigated |
-| 93 | Pension liability portability across regions | Medium | Requires Development |
+| 93 | Race to the bottom (regional tax subsidy) | Medium | Requires Development |
 | 94 | Healthcare cost variation and cross-regional care | High | Partially Mitigated |
-| 107 | Infrastructure maintenance backlog inheritance | Medium | Requires Development |
+| 107 | Ghost residency and equalization formula gaming | Medium | Requires Development |
 | 110 | Property tax base divergence | Low | Requires Monitoring |
-| 112 | Municipal finance integration with regional systems | Medium | Requires Development |
+| 112 | Budgetary midnight (sequestration) | Medium | Requires Development |
 | 123 | Counter-cyclical fiscal capacity at regional level | Medium | Partially Mitigated |
-| 124 | Capital project coordination across regions | Medium | Requires Development |
+| 124 | Internal tax haven arbitrage | Medium | Requires Development |
 | 170 | Fiscal cliff hostage (weaponized shutdowns) | Critical | ✅ Resolved |
 | 193 | Tax haven parasite (fiscal cannibalism) | High | ✅ Resolved |
 | 194 | Dole loophole (spending power coercion) | Critical | ✅ Resolved |
@@ -134,17 +134,17 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 |-------|-------------|----------|-------------------|
 | 37 | Judicial appointment politicization at regional level | Medium | Partially Mitigated |
 | 48 | Regional electoral integrity vs. auto-certification (Certification Escrow) | Medium | ✅ Resolved |
-| 49 | Campaign finance regulation patchwork | Medium | Requires Development |
+| 49 | House majoritarianism and consensus floor problem | Medium | Requires Development |
 | 53 | Judicial review scope variation across regions | Medium | Accepted by Design |
 | 73 | Jurisdictional ping-pong between ARB and Supreme Court | Low | ✅ Resolved |
 | 81 | Pocket nullification via judicial recusal (Emergency Quorum Restoration) | High | ✅ Resolved |
 | 95 | Certification deadlock via Regional judiciary (Preemptive Federal Jurisdiction) | Medium | ✅ Resolved |
 | 101 | Prosecutorial discretion variation | Medium | Accepted by Design |
 | 108 | Jury pool diversity in smaller regions | Low | Requires Monitoring |
-| 117 | Alternative dispute resolution standardization | Low | Requires Development |
+| 117 | Voter exportation for national election manipulation | Medium | Requires Development |
 | 120 | Sentencing guideline variation | Medium | Requires Monitoring |
-| 121 | Parole and probation portability | Medium | Requires Development |
-| 130 | Election administration staffing and training | Medium | Requires Development |
+| 121 | Fact-hiding ARB loophole | Medium | Requires Development |
+| 130 | Audit-capacity freeze of National Election Court | Medium | Requires Development |
 | 145 | Coordinated judicial attack across jurisdictions | Medium | Partially Mitigated |
 | 158 | Strategic party expansion to manipulate recusals | Medium | ✅ Resolved |
 | 159 | Narrow standing to avoid Supreme Court transfer | Medium | ✅ Resolved |
@@ -188,11 +188,11 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 74 | Disaster mutual aid compact enforcement | Medium | Partially Mitigated |
 | 82 | Double-Key hostage-taking (collusion for inaction) | High | ✅ Resolved |
 | 86 | Border security coordination during emergencies | High | Partially Mitigated |
-| 88 | Communication system control during crises | Medium | Requires Development |
+| 88 | Two-key bypass via military officer corps purge | High | Requires Development |
 | 91 | Emergency supply chain coordination | Medium | Partially Mitigated |
-| 102 | Coast Guard and maritime emergency jurisdiction | Medium | Requires Development |
+| 102 | Emergency loophole for information warfare | Medium | Requires Development |
 | 113 | Evacuation authority across regional boundaries | High | Partially Mitigated |
-| 122 | Post-disaster reconstruction authority | Medium | Requires Development |
+| 122 | Two-key bypass via officer corps purge (duplicate of Gap 88) | Medium | Requires Development |
 | 167 | Lame duck sabotage (transition vulnerability) | High | ✅ Resolved |
 | 169 | Serial emergency loophole (infinite loop) | High | ✅ Resolved |
 | 190 | Tribunal trap (martial law limits) | Critical | ✅ Resolved |
@@ -209,17 +209,17 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 50 | Interstate commerce clause interpretation variation | Medium | Partially Mitigated |
 | 65 | Transportation network integration | Medium | Partially Mitigated |
 | 66 | Energy grid coordination and authority | High | Partially Mitigated |
-| 67 | Telecommunications infrastructure deployment | Medium | Requires Development |
-| 75 | Aviation authority and regional airports | Low | Requires Development |
+| 67 | Infrastructure ransom vector | Medium | Requires Development |
+| 75 | Interregional transit fee-gouging loophole | Medium | Requires Development |
 | 83 | Pipeline and hazardous material transport | Medium | Partially Mitigated |
-| 92 | Freight rail coordination | Medium | Requires Development |
-| 99 | Port authority and maritime commerce | Medium | Requires Development |
-| 104 | Autonomous vehicle regulation patchwork | Medium | Requires Development |
-| 109 | Broadband universal service obligations | Medium | Requires Development |
-| 116 | Electric vehicle charging infrastructure | Low | Requires Development |
-| 128 | Drone and urban air mobility regulation | Low | Requires Development |
-| 132 | Hyperloop and novel transport technology | Low | Requires Development |
-| 142 | Stealth amendment hazard | Medium | Requires Development |
+| 92 | Technical standards as de facto secession | Medium | Requires Development |
+| 99 | Tribal veto via infrastructure entrapment | Medium | Requires Development |
+| 104 | Predatory infrastructure licensing (labor chokepoints) | Medium | Requires Development |
+| 109 | Resource hoarding via regional environmental protection | Medium | Requires Development |
+| 116 | Administrative veto via technical standard-setting | Medium | Requires Development |
+| 128 | Mercenary proxy blockade | Medium | Requires Development |
+| 132 | Sovereignty dilution via foreign divestment | Medium | Requires Development |
+| 142 | Secondary boycott stigma barrier | Medium | Requires Development |
 | 185 | Race to the bottom (deregulation trap) | High | ✅ Resolved |
 | 200 | Smog drift (externalized pollution) | Critical | ✅ Resolved |
 
@@ -228,16 +228,16 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | Gap # | Description | Severity | Mitigation Status |
 |-------|-------------|----------|-------------------|
 | 54 | Administrative law variation and due process | Medium | Partially Mitigated |
-| 56 | Public records and transparency requirements | Low | Requires Development |
-| 70 | Lobbying regulation and ethics standards | Medium | Requires Development |
-| 79 | Whistleblower protection variation | Medium | Requires Development |
+| 56 | Zombie executive incentive (caretaker obstruction) | Medium | Requires Development |
+| 70 | Administrative attrition via civil service purge | Medium | Requires Development |
+| 79 | Executive caretaker perpetualism | Medium | Requires Development |
 | 87 | Civil service protection and political interference | Medium | Partially Mitigated |
 | 89 | Audit authority and oversight coordination | Medium | Partially Mitigated |
-| 90 | Ombudsman and citizen complaint mechanisms | Low | Requires Development |
+| 90 | Senate blue-slipping of constitutional officers | Medium | Requires Development |
 | 97 | Regulatory capture at regional level | Medium | Requires Monitoring |
-| 100 | Public-private partnership governance | Medium | Requires Development |
-| 106 | Interagency coordination mechanisms | Medium | Requires Development |
-| 118 | Public meeting and notice requirements | Low | Requires Development |
+| 100 | Hollow Region via legislative absence | Medium | Requires Development |
+| 106 | Senate quorum trap for federal emergency inaction | Medium | Requires Development |
+| 118 | Caretaker cabinet (constitutional shadow-government) | Medium | Requires Development |
 | 131 | Term limit variation and institutional knowledge | Low | Accepted by Design |
 | 168 | Acting official loophole (bypassing confirmation) | High | ✅ Resolved |
 | 171 | Impunity pardon (self-cleanse) | High | ✅ Resolved |
@@ -291,24 +291,24 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | Gap # | Description | Severity | Mitigation Status |
 |-------|-------------|----------|-------------------|
 | 25 | Cross-regional water rights during scarcity | High | Partially Mitigated |
-| 26 | Wildlife corridor governance across regional boundaries | Medium | Requires Development |
-| 27 | Refugee and asylum seeker distribution among regions | High | Requires Development |
-| 28 | Cultural heritage protection across regional boundaries | Low | Requires Development |
-| 31 | Regional currency or monetary experimentation authority | Low | Requires Development |
+| 26 | Digital/AI governance framework | Medium | Proposal Available |
+| 27 | Tribal-Regional relations | High | Proposal Available |
+| 28 | Nuclear facilities and hazardous materials governance | Medium | Proposal Available |
+| 31 | Criminal justice coordination beyond extradition | Medium | Proposal Available |
 | 57 | Compact enforcement and dispute resolution | Medium | Partially Mitigated |
-| 59 | Federal facility location disputes | Low | Requires Development |
-| 60 | Military base realignment regional impact | Medium | Requires Development |
+| 59 | State-Regional preemption deadlock (vertical supremacy vacuum) | Medium | Requires Development |
+| 60 | Para-diplomacy conflict (regional foreign engagement vacuum) | Medium | Requires Development |
 | 64 | Interstate pollution and externality resolution | High | Partially Mitigated |
 | 71 | Cross-regional law enforcement cooperation | Medium | Partially Mitigated |
 | 76 | Child custody and family law interstate recognition | Medium | Partially Mitigated |
 | 77 | Education curriculum coordination | Low | Accepted by Design |
 | 78 | Healthcare reciprocity and emergency treatment | Medium | Partially Mitigated |
 | 96 | Extradition and fugitive recovery | Medium | Partially Mitigated |
-| 111 | Social services portability | Medium | Requires Development |
+| 111 | Shadow stay via regional administrative law | Medium | Requires Development |
 | 114 | Insurance regulation coordination | Medium | Partially Mitigated |
 | 115 | Banking and financial services oversight | Medium | Partially Mitigated |
-| 125 | Research and development coordination | Low | Requires Development |
-| 126 | Higher education funding formula coordination | Medium | Requires Development |
+| 125 | Senate treaty blockade (minority veto) | Medium | Requires Development |
+| 126 | Census emergency and boundary sabotage | Medium | Requires Development |
 | 127 | Public health data sharing and disease surveillance | High | Partially Mitigated |
 | 172 | Trojan Horse infrastructure (foreign influence) | High | ✅ Resolved |
 | 176 | Lex Loci crisis (cross-border prosecution) | Critical | ✅ Resolved |
@@ -391,6 +391,7 @@ This analysis excludes:
 
 - **Accepted by Design**: Intentional tradeoff with understood costs
 - **Partially Mitigated**: Mechanisms exist but may be insufficient under stress
+- **Proposal Available**: Gap identified with implementing proposal developed but not yet integrated into constitutional text
 - **Requires Development**: Identified gap requiring additional constitutional or statutory attention
 - **Requires Monitoring**: Potential future risk requiring ongoing assessment
 
@@ -458,6 +459,6 @@ This gaps analysis should be reviewed and updated:
 - Following any significant intergovernmental compact affecting gap mitigation
 - When new technological or social developments create previously unidentified gaps
 
-**Last Updated**: 2026-02-01
-**Version**: 1.4
+**Last Updated**: 2026-02-02
+**Version**: 1.5
 **Status**: Living Document
