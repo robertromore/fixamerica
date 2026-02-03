@@ -209,8 +209,8 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 50 | Interstate commerce clause interpretation variation | Medium | Partially Mitigated |
 | 65 | Transportation network integration | Medium | Partially Mitigated |
 | 66 | Energy grid coordination and authority | High | Partially Mitigated |
-| 67 | Infrastructure ransom vector | Medium | Proposal Available |
-| 75 | Interregional transit fee-gouging loophole | Medium | Proposal Available |
+| 67 | Infrastructure ransom vector | Medium | ✅ Resolved |
+| 75 | Interregional transit fee-gouging loophole | Medium | ✅ Resolved |
 | 83 | Pipeline and hazardous material transport | Medium | Partially Mitigated |
 | 92 | Technical standards as de facto secession | Medium | Proposal Available |
 | 99 | Tribal veto via infrastructure entrapment | Medium | Proposal Available |

@@ -2,7 +2,9 @@
 
 **Note**: This changelog has been reorganized by date. See the `changelog/` directory for detailed entries:
 
-- [`changelog/2026-02-01.md`](changelog/2026-02-01.md) - Latest changes
+- [`changelog/2026-02-03.md`](changelog/2026-02-03.md) - Latest changes (triage fix + Gap 67/75 resolution)
+- [`changelog/2026-02-02.md`](changelog/2026-02-02.md) - Gap resolutions (199, 13, index triage)
+- [`changelog/2026-02-01.md`](changelog/2026-02-01.md) - Gap resolutions (220, 219, 216, etc.)
 - [`changelog/2026-01-31.md`](changelog/2026-01-31.md) - Gap resolutions and verifications
 - [`changelog/2026-01-30.md`](changelog/2026-01-30.md) - Gap reconciliation and integration
 - [`changelog/2026-01-28.md`](changelog/2026-01-28.md) - Gap resolutions and new gaps
@@ -10,6 +12,21 @@
 - [`changelog/2026-01-26.md`](changelog/2026-01-26.md) - Territorial integration incentives
 - [`changelog/2026-01-25.md`](changelog/2026-01-25.md) - Major integration work
 - [`changelog/2026-01-24.md`](changelog/2026-01-24.md) - Historical development
+
+## 2026-02-03: Gaps 67 + 75 — Infrastructure Ransom + Fee-Gouging Confirmed Resolved (Article I §6)
+
+Detailed comparison confirmed that Gap 67 (Infrastructure Ransom) and Gap 75 (Fee-Gouging Loophole) proposals were already fully integrated into Art I §6(d)-(z) per the 2026-01-25 integration map. Constitutional text matches or exceeds all 8 proposal parts (5 from Gap 67, 3 from Gap 75), with enhancements including treble damages, alternative route requirements, unified NITS, and aggregate fee limitation. Also: triage fix reclassified 30 gaps from Requires Development to Proposal Available after audit found all had detailed proposals in thematic files.
+
+### Files Modified
+
+- `04-meta/gaps/10-interstate-commerce.md` — Gap 67 and 75 status: PROPOSAL AVAILABLE to RESOLVED
+- `04-meta/gaps/00-index.md` — Gap 67 and 75 status updated; version 1.6 (triage fix)
+- `04-meta/02-identified-gaps.md` — Statistics: PA 27 to 25, Resolved 149 to 151
+- `04-meta/05-article-i-section-6-integration.md` — Status: Draft for Review to Integration Complete
+
+**Status:** RESOLVED | **Detail:** [changelog/2026-02-03.md](changelog/2026-02-03.md)
+
+---
 
 ## 2026-02-01: Gap 220 — Revolving Door Resolved (Article IX §3-A)
 

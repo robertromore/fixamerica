@@ -798,7 +798,17 @@ Article I, Section 6 prohibits "unreasonable conditioning" of access to transit/
 - **Gap 63 (Senate Paralysis):** Parallel transparency mechanism for adjudication absences
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article I, Section 6 and integration with Article XVII-RF (Emergency Authority). This five-part solution creates an Infrastructure Continuity Framework that triggers expedited federal review for closures exceeding 72 hours, monitors cumulative obstruction, regulates infrastructure rates, provides escalating remedies including federal operational takeover, and mandates real-time public transparency through the National Infrastructure Status Registry.
+**RESOLVED.** All five parts integrated into Article I, Section 6(d)-(t) in `02-design/constitution/01-regional-structure.md`. Integration consolidated Gaps 67 and 75 registries into a unified National Infrastructure Transparency System (NITS) per the integration map at `04-meta/05-article-i-section-6-integration.md`.
+
+| Proposal Part | Proposed Subsections | Integrated Location | Notes |
+|---|---|---|---|
+| Part 1: Emergency Shutdown Review | §6(d)-(f) | Art I §6(d)-(f) | Matches proposal; adds automatic referral for federal assumption on failure to file |
+| Part 2: Anti-Cumulative Obstruction | §6(g)-(i) | Art I §6(g)-(i) | Matches proposal; adds alternative route requirements at §6(h) |
+| Part 3: Rate Regulation | §6(j)-(l) | Art I §6(j)-(l) | Matches proposal; adds void provision for restriction-period rate increases |
+| Part 4: Remedies and Escalation | §6(m)-(p) | Art I §6(m)-(p) | Enhanced: treble damages for bad faith (§6(n)), personal liability for officials |
+| Part 5: NITS | §6(q)-(t) | Art I §6(q)-(t) | Consolidated with Gap 75 Fee Registry; adds fee data at §6(q)(5)-(6) and §6(t)(2)(6) |
+
+**Severity:** Medium | **Mitigability:** Resolved
 
 ---
 
@@ -966,7 +976,15 @@ Article I, Section 6 mandates "reasonable and non-discriminatory" infrastructure
 - **Gap 61 (Macroeconomic Mismatch):** Excessive fees worsen Regional economic divergence
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article I, Section 6. This three-part solution establishes a 110% cost-plus ceiling for inter-Regional transit fees with uniform accounting standards, grants ARB summary suspension authority with expedited timelines, and requires fee transparency through the National Infrastructure Fee Registry.
+**RESOLVED.** All three parts integrated into Article I, Section 6(u)-(z) in `02-design/constitution/01-regional-structure.md`. Fee Registry consolidated with Gap 67's Infrastructure Status Registry into unified National Infrastructure Transparency System (NITS) at §6(q)-(t) per integration map at `04-meta/05-article-i-section-6-integration.md`.
+
+| Proposal Part | Proposed Subsections | Integrated Location | Notes |
+|---|---|---|---|
+| Part 1: Cost-Plus Maximum | §6(u)-(w) | Art I §6(u)-(v) | 110% ceiling preserved; prohibited cost inclusions merged into aggregate limitation; ancillary fee aggregation at §6(v) |
+| Part 2: ARB Summary Authority | §6(x)-(z) | Art I §6(w) | Consolidated into single subsection with 5-clause structure; burden of proof + records access preserved |
+| Part 3: Anti-Retaliation & Transparency | §6(x)-(z) | Art I §6(x)-(z) | Non-retaliation, challenger protection, whistleblower all preserved; fee transparency integrated into NITS at §6(q)(5)-(6), §6(r)(1), §6(t)(2)(6) |
+
+**Severity:** Medium | **Mitigability:** Resolved
 
 ---
 
