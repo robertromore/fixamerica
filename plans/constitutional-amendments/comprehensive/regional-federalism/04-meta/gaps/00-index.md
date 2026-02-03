@@ -109,7 +109,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 |-------|-------------|----------|-------------------|
 | 45 | Equalization formula gaming / administrative receivership | Medium | ✅ Resolved |
 | 52 | Tax base erosion through inter-regional competition | Medium | Partially Mitigated |
-| 61 | Macroeconomic policy mismatch (regional monetary asymmetry) | High | Requires Development |
+| 61 | Macroeconomic policy mismatch (regional monetary asymmetry) | High | ✅ Resolved |
 | 62 | Fiscal hollow-out via State-level tax strikes (Revenue Protection) | Medium | ✅ Resolved |
 | 72 | Equalization cliff sabotage (Inverted Default Incentive) | High | ✅ Resolved |
 | 80 | Revenue volatility from commodity-dependent regions | Medium | Partially Mitigated |

@@ -706,13 +706,19 @@ If the IFC determines at any point during the assistance period that the Region 
 
 (3) **Target Reserve.** The Fund shall maintain a target reserve of 3% of national GDP, with contributions suspended when target is exceeded.
 
-(d) **Fund Disbursement.** Upon Asymmetric Shock designation:
+(d) **Disbursement Formula.** Stabilization transfers to Regions designated under subsection (b) shall be calculated as follows:
 
-(1) Automatic transfers commence within thirty (30) days;
+(1) **Unemployment Component.** A percentage, determined by the IFC within the range of forty (40) to sixty (60) percent, of the difference between the Region's unemployment rate and the national unemployment rate, multiplied by the Region's civilian labor force, multiplied by the Region's average annual wage as reported by the IFC. The IFC shall publish and justify the selected percentage at the time of each shock designation;
 
-(2) Transfer amounts are calculated by formula based on shock severity;
+(2) **Revenue Stabilization Component.** A percentage, determined by the IFC within the range of sixty (60) to eighty (80) percent, of the shortfall between actual Regional revenue and the Region's five-year rolling average revenue, adjusted for inflation using the consumer price index for the Region. The IFC shall reduce the Revenue Stabilization Component by an amount equal to the estimated revenue loss attributable to the unemployment increase already captured by the Unemployment Component, to prevent double recovery. Revenue collected in the twelve (12) months preceding shock designation shall not be reduced by administrative delay, deferred collection, or accelerated refunds for purposes of deepening the measured shortfall;
 
-(3) No Congressional appropriation or executive action is required.
+(3) **Infrastructure Maintenance Component.** A percentage, determined by the IFC within the range of eighty-five (85) to one hundred (100) percent, of baseline for critical infrastructure maintenance within the Region during the shock designation period. Baseline is the Region's average annual infrastructure maintenance expenditure over the preceding five (5) fiscal years, excluding any single-year expenditure increase that exceeds twice the Region's ten-year average annual infrastructure growth rate unless the IFC certifies that the increase resulted from documented infrastructure emergencies or capital projects approved prior to the onset of the shock;
+
+(4) **Automatic Commencement.** Transfers under this subsection shall commence within thirty (30) days of designation under subsection (b) and shall continue without interruption for the duration of the designation. No Congressional appropriation, executive order, or administrative action shall be required;
+
+(5) **Pro-Rata Scaling.** Pro-rata scaling shall apply only after the IFC has fully committed all available Cyclical Stabilization Fund balance and has authorized or sought authorization for Union Stability Bond issuance under subsection (g). The IFC may not apply scaling in lieu of accessing available bond authority. If, after exhausting the Fund balance and authorized bond proceeds, total formula outlays across all designated Regions still exceed available resources, the IFC shall apply a uniform pro-rata scaling factor to all disbursements, published contemporaneously with the scaling determination. No Region's scaled disbursement shall fall below sixty percent (60%) of the unadjusted formula amount. If the sixty percent floor cannot be maintained for all designated Regions, the IFC shall immediately certify an Imminent Liquidity Crisis under subsection (g)(6);
+
+(6) **Conservatorship Tolling.** A Region designated under subsection (b) shall not be subject to Financial Conservatorship under Section 7 or Administrative Receivership under Section 8 for fiscal deficits attributable to the Asymmetric Cyclical Shock, as certified by the IFC. Conservatorship and receivership triggers under Sections 7 and 8 shall be tolled for the duration of the shock designation. Upon termination of the designation, the Region shall have twenty-four (24) months to return to compliance with the fiscal thresholds of Sections 7 and 8. This tolling does not apply to fiscal deficits attributable to Regional policy choices unrelated to the shock. A Region or any creditor affected by the tolling determination may petition the ARB for expedited review of the IFC's certification within thirty (30) days. The ARB shall rule within sixty (60) days. Pending review, the tolling remains in effect. The ARB may affirm, modify, or reverse the IFC's attribution of deficits to shock versus Regional policy causes.
 
 #### Regional Countercyclical Tools
 
@@ -735,6 +741,194 @@ If the IFC determines at any point during the assistance period that the Region 
 (3) Implement Regional property transfer taxes to moderate housing speculation;
 
 (4) Establish Regional inflation stabilization reserves funded by surplus revenues.
+
+#### Federal Deficit Backstop
+
+(g) **Union Stability Bond Authority.** If the Cyclical Stabilization Fund balance falls below ten percent (10%) of the target reserve established under subsection (c)(3), or if the IFC certifies that projected stabilization outlays over the next twelve (12) months — based on current designations and historical disbursement rates — will exceed the current Fund balance:
+
+(1) The Federal Treasury shall issue Union Stability Bonds to fund continuing stabilization transfers under subsection (d);
+
+(2) Union Stability Bonds shall be general obligations of the United States, backed by the full faith and credit of the Union;
+
+(3) Bond proceeds shall be used exclusively for Cyclical Stabilization disbursements under this Section;
+
+(4) The IFC shall certify the fund shortfall before each bond issuance and shall publish the certification contemporaneously;
+
+(5) No single bond issuance shall exceed one percent (1%) of national GDP. If additional issuance is required, the IFC shall publish a supplemental certification at each increment;
+
+(6) **Accelerated Tranche Authority.** If the IFC and the Federal Reserve Board jointly certify an Imminent Liquidity Crisis — defined as projected fund exhaustion within sixty (60) days with designated Regions still requiring stabilization transfers — the one percent cap in paragraph (5) may be exceeded for a single issuance not to exceed three percent (3%) of national GDP. The joint certification shall be published immediately and reported to the relevant committees of Congress within twenty-four (24) hours.
+
+(h) **Recovery Surcharge.** Upon issuance of Union Stability Bonds:
+
+(1) The IFC shall calculate a Recovery Surcharge sufficient to retire all outstanding Union Stability Bonds within fifteen (15) years;
+
+(2) The Recovery Surcharge shall be implemented automatically twenty-four (24) months after both of the following conditions are met: (A) the national composite economic index has returned to within 0.5 standard deviations of its ten-year trend for four (4) consecutive quarters; and (B) no Region remains designated under subsection (b). If either condition ceases to be met during the twenty-four-month waiting period, the waiting period resets. If additional Union Stability Bonds are issued under subsection (g) during the twenty-four-month waiting period, the waiting period resets to twenty-four (24) months from the date of the most recent issuance;
+
+(3) The Surcharge shall be apportioned among all Regions according to the Fiscal Equalization capacity formula established under Section 3;
+
+(4) No Region shall be exempted from the Recovery Surcharge, regardless of whether it received stabilization transfers;
+
+(5) The IFC shall publish annual projections of bond retirement timelines and cumulative surcharge burdens by Region.
+
+(i) **Anti-Depletion Provision.** To prevent strategic exhaustion of the Cyclical Stabilization Fund:
+
+(1) Any Region that received stabilization transfers in the twenty-four (24) months preceding Union Stability Bond issuance shall have its future Stabilization Fund contributions increased by 0.1% of Regional GDP for ten (10) years following bond retirement;
+
+(2) This increase shall not apply if the IFC certifies that the Region's shock resulted from factors "substantially beyond Regional policy control," including global commodity price shifts, federal policy changes, natural disasters, or pandemics;
+
+(3) A Region subject to increased contributions under paragraph (1) that demonstrates sustained fiscal recovery — composite index within 1 standard deviation of the national mean for eight (8) consecutive quarters — may petition the IFC for reduction of the contribution increase. The IFC may reduce the increase by up to fifty percent (50%) but may not eliminate it entirely;
+
+(4) The IFC shall publish annually the total amount of increased contributions collected, by Region, and the projected retirement date for outstanding bonds.
+
+#### Inter-Regional Labor Mobility Credit
+
+(j) **Mobility Credit Trigger.** When a Region maintains a composite index below negative two (-2) standard deviations for four (4) consecutive quarters:
+
+(1) The IFC shall establish an Inter-Regional Mobility Credit program funded from the Cyclical Stabilization Fund;
+
+(2) The program shall remain active until the originating Region's composite index returns to within negative 1.5 (-1.5) standard deviations for two (2) consecutive quarters.
+
+(k) **Mobility Credit Benefits.** Eligible workers relocating from a Receding Region (composite index below -2 SD) to a Region whose composite index exceeds positive 1.5 (+1.5) standard deviations shall receive:
+
+(1) **Relocation Grant:** An amount equivalent to twenty-five percent (25%) of the National Median Annual Wage as most recently reported by the IFC, for documented moving expenses;
+
+(2) **Housing Transition Assistance:** Up to six (6) months of housing cost differential subsidy if the destination Region's median housing cost exceeds the origin Region's by more than twenty percent (20%);
+
+(3) **Credential Portability Assistance:** Expedited professional licensing reciprocity processing and fee coverage, consistent with the mutual recognition requirements of Article I, Section 9. Destination Region licensing authorities shall act within sixty (60) days of application;
+
+(4) **Family Transition Support:** An additional grant equivalent to ten percent (10%) of the National Median Annual Wage, for dependent education transition and spousal employment assistance.
+
+(l) **Mobility Credit Limitations.**
+
+(1) Credits shall be available only to workers who have been employed or actively seeking employment in the Receding Region for at least twelve (12) of the preceding twenty-four (24) months;
+
+(2) Workers who return to the originating Region within eighteen (18) months of receiving a Relocation Grant shall repay a pro-rated portion of the grant;
+
+(3) Total Mobility Credit expenditures shall not exceed fifteen percent (15%) of annual Cyclical Stabilization Fund disbursements, to prevent "hollowing out" of Receding Regions;
+
+(4) The IFC shall publish quarterly reports on Mobility Credit utilization, including numbers of workers relocated, originating and destination Regions, grant amounts, and return rates.
+
+---
+
+### Section 9-A. Regional Transition Endowment for Structural Economic Shifts
+
+*This section addresses permanent structural economic transitions — distinct from the cyclical shocks addressed in Section 9. The Transition Endowment operates as a third fund, separate from both the Fiscal Equalization Fund (Section 3) and the Cyclical Stabilization Fund (Section 9).*
+
+(a) **Establishment.** A Regional Transition Endowment shall be established, administered by the IFC, dedicated exclusively to addressing permanent structural economic shifts that render entire Regional economic sectors nonviable.
+
+(b) **Structural Collapse Trigger.** A Region may petition the IFC for Transition Endowment access upon demonstrating:
+
+(1) Loss of at least twenty-five percent (25%) of employment in a Primary Industrial Sector within a ten (10) year period. A "Primary Industrial Sector" is any sector comprising more than fifteen percent (15%) of Regional employment;
+
+(2) The loss results primarily from global economic shifts, technological change, or federal policy changes rather than Regional policy failures;
+
+(3) The IFC certifies that the sectoral decline is "Structural and Permanent" rather than cyclical, based on independent economic analysis published with the certification.
+
+(c) **Capitalization.**
+
+(1) Initial capitalization of 0.5% of national GDP, phased in over five (5) years from ratification;
+
+(2) Annual contributions of 0.1% of national GDP during non-crisis periods, defined as periods in which no Region is designated under Section 9(b);
+
+(3) Supplemental contributions from federal revenues derived from policies contributing to structural shifts. Where a federal policy change — including but not limited to carbon pricing, trade agreements, or technology regulation — is certified by the IFC as a proximate cause of structural sectoral decline, ten percent (10%) of federal revenue attributable to that policy shall be directed to the Transition Endowment for a period of ten (10) years;
+
+(4) Target reserve of 1.5% of national GDP, with annual contributions suspended when the target is reached.
+
+(d) **Ten-Year Transition Master Plan.** Upon Structural and Permanent certification, the affected Region shall develop a Transition Master Plan, subject to IFC approval, including:
+
+(1) **Workforce Retraining:** Programs aligned with emerging economic opportunities, including partnerships with Regional educational institutions and private employers;
+
+(2) **Infrastructure Realignment:** Capital investment in infrastructure supporting new economic sectors, including broadband, transportation, and energy systems;
+
+(3) **Educational Institution Adaptation:** Community college and university program development for transition sectors, with enrollment targets and completion benchmarks;
+
+(4) **Business Incubation:** Regional Development Bank capitalization for transition-sector entrepreneurship, with loan performance targets;
+
+(5) **Social Transition Support:** Enhanced social services during the adjustment period, including extended unemployment benefits, mental health services, and community stabilization programs.
+
+(e) **Governance.**
+
+(1) The IFC shall review and approve Transition Master Plans within one hundred eighty (180) days of submission. Failure to act within this period constitutes a constructive denial subject to judicial review;
+
+(2) Disbursements shall be tied to milestone achievement, with annual progress reviews and public reporting;
+
+(3) Regions may receive Transition Endowment support for a maximum of fifteen (15) years per structural shift;
+
+(4) **No Double Recovery.** A Region may not simultaneously receive Cyclical Stabilization transfers under Section 9 and Transition Endowment disbursements under this Section for the same economic sector. If a Region qualifies for both funds due to overlapping causes, the Transition Endowment disbursement shall be reduced by the amount of any Cyclical Stabilization transfers attributed to the same sector's decline. The IFC shall determine sectoral attribution of Cyclical Stabilization transfers using the methodology specified in its Disbursement Certification published under Section 9(d) at the time of each disbursement. If the Disbursement Certification does not specify sectoral attribution, the IFC shall allocate Cyclical Stabilization transfers proportionally based on the share of each sector in the Region's total employment decline during the designation period. A Region may receive both funds without offset if the cyclical shock and structural shift affect demonstrably different sectors, as certified by the IFC;
+
+(5) If a Region fails to meet milestones for three (3) consecutive annual reviews, the IFC may suspend disbursements pending plan revision. Suspension shall not exceed one hundred eighty (180) days; if no revised plan is approved, the Region may reapply with a new plan after twelve (12) months;
+
+(6) **Mandatory Plan Refresh.** If Transition Endowment support continues beyond ten (10) years, the Region shall submit an updated Transition Master Plan at year five (5) and year ten (10) of the support period. Updated plans are subject to IFC approval under paragraph (1). Failure to submit an updated plan within one hundred eighty (180) days of the refresh deadline constitutes grounds for suspension under paragraph (5). Milestones for continued disbursement shall be based on the most recently approved plan.
+
+(f) **Anti-Capture Provision.** Transition Master Plan expenditures may not be directed to:
+
+(1) Maintaining employment in the declining sector through direct subsidy, unless the IFC certifies that phased decline — rather than immediate cessation — is necessary to prevent community collapse;
+
+(2) Any enterprise that received more than twenty percent (20%) of its revenue from the declining sector in the five (5) years preceding the structural shift certification, unless the enterprise demonstrates a credible pivot to a transition sector;
+
+(3) Any enterprise in which a Regional elected official, or a member of such official's immediate family, holds a financial interest exceeding one percent (1%).
+
+---
+
+### Section 9-B. Federal Reserve Regional Divergence Consideration
+
+*This section establishes institutional mechanisms to address the monetary policy mismatch inherent in combining deep Regional fiscal autonomy with a single national currency, and to counter secessionist narratives arising from asymmetric economic conditions.*
+
+#### Regional Impact Assessment
+
+(a) **Regional Divergence Consideration.** The Federal Reserve, in conducting monetary policy, shall:
+
+(1) Publish quarterly Regional Impact Assessments analyzing the differential effects of current and proposed monetary policy across Regions;
+
+(2) When Regional economic divergence as measured by the IFC composite index under Section 9(a) exceeds two (2) standard deviations for any Region, provide written explanation of how monetary policy accounts for asymmetric conditions;
+
+(3) Coordinate with the IFC on timing of monetary policy changes relative to Cyclical Stabilization Fund disbursements under Section 9, to avoid pro-cyclical interaction.
+
+(b) **Regional Reserve Bank Consultation and Reporting.** Before major monetary policy decisions during periods of significant Regional divergence (any Region exceeding 1.5 SD from national mean):
+
+(1) The Federal Reserve Board shall consult with Federal Reserve Bank presidents from both high-growth and low-growth Regions;
+
+(2) Dissenting Regional perspectives shall be published in FOMC minutes;
+
+(3) The Chair of the Federal Reserve shall deliver an annual Regional Divergence Report to the ARB and the relevant committees of Congress, analyzing the regional distributional effects of monetary policy conducted during the preceding twelve (12) months. This report shall be published and made available to the public.
+
+#### Anti-Secession Narrative Institutional Tools
+
+(c) **Lifetime Transfer Accounting.** The IFC shall publish annually:
+
+(1) Cumulative stabilization and equalization transfers received and contributed by each Region over rolling thirty (30) year periods;
+
+(2) Net transfer position for each Region, showing historical periods as net contributor and net recipient;
+
+(3) Projection of expected future transfer flows based on demographic and economic trends, with methodology and assumptions disclosed.
+
+(d) **Counterfactual Analysis.** The IFC shall publish biennially:
+
+(1) Estimated Regional economic performance absent monetary union, using comparable independent economy benchmarks;
+
+(2) Calculated value of common market access, labor mobility, and capital flow benefits to each Region;
+
+(3) Estimated costs each Region would bear for independent currency management, trade barriers, and reduced capital access.
+
+(e) **Narrative Correction Authority.** When public discourse contains materially false claims about inter-Regional transfers:
+
+(1) The IFC may issue Economic Fact Sheets correcting specific misstatements with verifiable data;
+
+(2) The IFC shall maintain an Economic Transparency Portal, publicly accessible, on which all corrections, Lifetime Transfer Accounting reports, and Counterfactual Analyses are published. Regional governments may voluntarily repost IFC corrections through their own communications channels but shall not be compelled to do so;
+
+(3) IFC corrections shall be limited to verifiable economic data and shall not address policy preferences, political positions, or the desirability of any particular fiscal arrangement.
+
+(f) **Anti-Inflammatory Restriction.** The IFC shall not:
+
+(1) Characterize any Region as a "permanent burden," "chronic dependent," or similar pejorative designation;
+
+(2) Publish rankings that frame transfer receipt as Regional failure or moral deficiency;
+
+(3) Issue corrections that could reasonably be interpreted as taking sides in Regional political disputes;
+
+(4) Advocate for or against secession, boundary changes, or constitutional amendments;
+
+(5) **Comity Clause.** No Regional government shall, in official inter-governmental communications, characterize another Region as a "parasite," "permanent burden," or similar pejorative based on that Region's net transfer position. This restriction applies to official documents, testimony, and formal communications between Regional governments and does not restrict the speech of individual officials acting in their personal capacity, legislative debate, or media commentary.
 
 ---
 

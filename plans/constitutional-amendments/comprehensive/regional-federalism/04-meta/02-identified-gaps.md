@@ -55,13 +55,13 @@ The 235 identified gaps have been organized into the following categories:
 
 | Status | Count |
 |--------|-------|
-| Requires Development | 25 |
+| Requires Development | 24 |
 | Partially Mitigated | 39 |
 | Proposal Available | 4 |
 | Mitigated | 0 |
 | Accepted by Design | 13 |
 | Requires Monitoring | 7 |
-| Resolved | 147 |
+| Resolved | 148 |
 
 ---
 

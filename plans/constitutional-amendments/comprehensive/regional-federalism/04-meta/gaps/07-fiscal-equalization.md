@@ -627,7 +627,15 @@ Each fund has distinct triggers, purposes, and governance—preventing exhaustio
 | **Axiom 7 (Law Must Move Faster)** | Automatic triggers, pre-funded responses, hard timelines |
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article X, Section 7. This seven-part solution creates an Asymmetric Shock Stabilization Framework that separates cyclical stabilization from structural equalization, provides unlimited backstop with insurance-preserving Recovery Surcharge, gives Regions fiscal tools to compensate for monetary union constraints, facilitates efficient labor market adjustment while preventing Regional hollowing, addresses permanent structural shifts through dedicated Transition Endowment, and defeats secessionist narratives through Lifetime Transfer Accounting and Counterfactual Analysis.
+**RESOLVED.** Constitutional text integrated into Article X: §9(d) detailed disbursement formula (replacing simplified placeholder), §9(g)-(i) Federal Deficit Backstop (Union Stability Bonds, Recovery Surcharge, Anti-Depletion), §9(j)-(l) Inter-Regional Labor Mobility Credit, §9-A Regional Transition Endowment for Structural Economic Shifts, §9-B Federal Reserve Regional Divergence Consideration with anti-secession narrative tools. Three rounds of multi-LLM review (v1→v2→v3). See `02-design/drafts/gap-061-asymmetric-shock-completion.md` for full resolution history.
+
+| Constitutional Provision | Gap 61 Part Covered |
+|--------------------------|---------------------|
+| Art X §9(d)(1)-(6) | Parts 1-2: Detailed disbursement formula with IFC-set ranges, anti-double-count, pro-rata scaling, conservatorship tolling |
+| Art X §9(g)-(i) | Part 3: Union Stability Bonds, Recovery Surcharge with dual guard, Anti-Depletion |
+| Art X §9(j)-(l) | Part 5: Inter-Regional Labor Mobility Credit with median wage index |
+| Art X §9-A | Part 6: Regional Transition Endowment with 25% structural collapse trigger |
+| Art X §9-B | Part 7: Federal Reserve Regional Divergence Consideration, Lifetime Transfer Accounting, Counterfactual Analysis, Comity Clause |
 
 ---
 
