@@ -113,13 +113,13 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 62 | Fiscal hollow-out via State-level tax strikes (Revenue Protection) | Medium | ✅ Resolved |
 | 72 | Equalization cliff sabotage (Inverted Default Incentive) | High | ✅ Resolved |
 | 80 | Revenue volatility from commodity-dependent regions | Medium | Partially Mitigated |
-| 93 | Race to the bottom (regional tax subsidy) | Medium | Requires Development |
+| 93 | Race to the bottom (regional tax subsidy) | Medium | Proposal Available |
 | 94 | Healthcare cost variation and cross-regional care | High | Partially Mitigated |
-| 107 | Ghost residency and equalization formula gaming | Medium | Requires Development |
+| 107 | Ghost residency and equalization formula gaming | Medium | Proposal Available |
 | 110 | Property tax base divergence | Low | Requires Monitoring |
-| 112 | Budgetary midnight (sequestration) | Medium | Requires Development |
+| 112 | Budgetary midnight (sequestration) | Medium | Proposal Available |
 | 123 | Counter-cyclical fiscal capacity at regional level | Medium | Partially Mitigated |
-| 124 | Internal tax haven arbitrage | Medium | Requires Development |
+| 124 | Internal tax haven arbitrage | Medium | Proposal Available |
 | 170 | Fiscal cliff hostage (weaponized shutdowns) | Critical | ✅ Resolved |
 | 193 | Tax haven parasite (fiscal cannibalism) | High | ✅ Resolved |
 | 194 | Dole loophole (spending power coercion) | Critical | ✅ Resolved |
@@ -141,10 +141,10 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 95 | Certification deadlock via Regional judiciary (Preemptive Federal Jurisdiction) | Medium | ✅ Resolved |
 | 101 | Prosecutorial discretion variation | Medium | Accepted by Design |
 | 108 | Jury pool diversity in smaller regions | Low | Requires Monitoring |
-| 117 | Voter exportation for national election manipulation | Medium | Requires Development |
+| 117 | Voter exportation for national election manipulation | Medium | Proposal Available |
 | 120 | Sentencing guideline variation | Medium | Requires Monitoring |
-| 121 | Fact-hiding ARB loophole | Medium | Requires Development |
-| 130 | Audit-capacity freeze of National Election Court | Medium | Requires Development |
+| 121 | Fact-hiding ARB loophole | Medium | Proposal Available |
+| 130 | Audit-capacity freeze of National Election Court | Medium | Proposal Available |
 | 145 | Coordinated judicial attack across jurisdictions | Medium | Partially Mitigated |
 | 158 | Strategic party expansion to manipulate recusals | Medium | ✅ Resolved |
 | 159 | Narrow standing to avoid Supreme Court transfer | Medium | ✅ Resolved |
@@ -190,7 +190,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 86 | Border security coordination during emergencies | High | Partially Mitigated |
 | 88 | Two-key bypass via military officer corps purge | High | ✅ Resolved |
 | 91 | Emergency supply chain coordination | Medium | Partially Mitigated |
-| 102 | Emergency loophole for information warfare | Medium | Requires Development |
+| 102 | Emergency loophole for information warfare | Medium | Proposal Available |
 | 113 | Evacuation authority across regional boundaries | High | Partially Mitigated |
 | 122 | Two-key bypass via officer corps purge (duplicate of Gap 88) | Medium | ✅ Resolved |
 | 167 | Lame duck sabotage (transition vulnerability) | High | ✅ Resolved |
@@ -209,17 +209,17 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 50 | Interstate commerce clause interpretation variation | Medium | Partially Mitigated |
 | 65 | Transportation network integration | Medium | Partially Mitigated |
 | 66 | Energy grid coordination and authority | High | Partially Mitigated |
-| 67 | Infrastructure ransom vector | Medium | Requires Development |
-| 75 | Interregional transit fee-gouging loophole | Medium | Requires Development |
+| 67 | Infrastructure ransom vector | Medium | Proposal Available |
+| 75 | Interregional transit fee-gouging loophole | Medium | Proposal Available |
 | 83 | Pipeline and hazardous material transport | Medium | Partially Mitigated |
-| 92 | Technical standards as de facto secession | Medium | Requires Development |
-| 99 | Tribal veto via infrastructure entrapment | Medium | Requires Development |
-| 104 | Predatory infrastructure licensing (labor chokepoints) | Medium | Requires Development |
-| 109 | Resource hoarding via regional environmental protection | Medium | Requires Development |
-| 116 | Administrative veto via technical standard-setting | Medium | Requires Development |
-| 128 | Mercenary proxy blockade | Medium | Requires Development |
-| 132 | Sovereignty dilution via foreign divestment | Medium | Requires Development |
-| 142 | Secondary boycott stigma barrier | Medium | Requires Development |
+| 92 | Technical standards as de facto secession | Medium | Proposal Available |
+| 99 | Tribal veto via infrastructure entrapment | Medium | Proposal Available |
+| 104 | Predatory infrastructure licensing (labor chokepoints) | Medium | Proposal Available |
+| 109 | Resource hoarding via regional environmental protection | Medium | Proposal Available |
+| 116 | Administrative veto via technical standard-setting | Medium | Proposal Available |
+| 128 | Mercenary proxy blockade | Medium | Proposal Available |
+| 132 | Sovereignty dilution via foreign divestment | Medium | Proposal Available |
+| 142 | Secondary boycott stigma barrier | Medium | Proposal Available |
 | 185 | Race to the bottom (deregulation trap) | High | ✅ Resolved |
 | 200 | Smog drift (externalized pollution) | Critical | ✅ Resolved |
 
@@ -228,16 +228,16 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | Gap # | Description | Severity | Mitigation Status |
 |-------|-------------|----------|-------------------|
 | 54 | Administrative law variation and due process | Medium | Partially Mitigated |
-| 56 | Zombie executive incentive (caretaker obstruction) | Medium | Requires Development |
-| 70 | Administrative attrition via civil service purge | Medium | Requires Development |
-| 79 | Executive caretaker perpetualism | Medium | Requires Development |
+| 56 | Zombie executive incentive (caretaker obstruction) | Medium | Proposal Available |
+| 70 | Administrative attrition via civil service purge | Medium | Proposal Available |
+| 79 | Executive caretaker perpetualism | Medium | Proposal Available |
 | 87 | Civil service protection and political interference | Medium | Partially Mitigated |
 | 89 | Audit authority and oversight coordination | Medium | Partially Mitigated |
-| 90 | Senate blue-slipping of constitutional officers | Medium | Requires Development |
+| 90 | Senate blue-slipping of constitutional officers | Medium | Proposal Available |
 | 97 | Regulatory capture at regional level | Medium | Requires Monitoring |
-| 100 | Hollow Region via legislative absence | Medium | Requires Development |
-| 106 | Senate quorum trap for federal emergency inaction | Medium | Requires Development |
-| 118 | Caretaker cabinet (constitutional shadow-government) | Medium | Requires Development |
+| 100 | Hollow Region via legislative absence | Medium | Proposal Available |
+| 106 | Senate quorum trap for federal emergency inaction | Medium | Proposal Available |
+| 118 | Caretaker cabinet (constitutional shadow-government) | Medium | Proposal Available |
 | 131 | Term limit variation and institutional knowledge | Low | Accepted by Design |
 | 168 | Acting official loophole (bypassing confirmation) | High | ✅ Resolved |
 | 171 | Impunity pardon (self-cleanse) | High | ✅ Resolved |
@@ -296,19 +296,19 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 28 | Nuclear facilities and hazardous materials governance | Medium | Proposal Available |
 | 31 | Criminal justice coordination beyond extradition | Medium | Proposal Available |
 | 57 | Compact enforcement and dispute resolution | Medium | Partially Mitigated |
-| 59 | State-Regional preemption deadlock (vertical supremacy vacuum) | Medium | Requires Development |
-| 60 | Para-diplomacy conflict (regional foreign engagement vacuum) | Medium | Requires Development |
+| 59 | State-Regional preemption deadlock (vertical supremacy vacuum) | Medium | Proposal Available |
+| 60 | Para-diplomacy conflict (regional foreign engagement vacuum) | Medium | Proposal Available |
 | 64 | Interstate pollution and externality resolution | High | Partially Mitigated |
 | 71 | Cross-regional law enforcement cooperation | Medium | Partially Mitigated |
 | 76 | Child custody and family law interstate recognition | Medium | Partially Mitigated |
 | 77 | Education curriculum coordination | Low | Accepted by Design |
 | 78 | Healthcare reciprocity and emergency treatment | Medium | Partially Mitigated |
 | 96 | Extradition and fugitive recovery | Medium | Partially Mitigated |
-| 111 | Shadow stay via regional administrative law | Medium | Requires Development |
+| 111 | Shadow stay via regional administrative law | Medium | Proposal Available |
 | 114 | Insurance regulation coordination | Medium | Partially Mitigated |
 | 115 | Banking and financial services oversight | Medium | Partially Mitigated |
-| 125 | Senate treaty blockade (minority veto) | Medium | Requires Development |
-| 126 | Census emergency and boundary sabotage | Medium | Requires Development |
+| 125 | Senate treaty blockade (minority veto) | Medium | Proposal Available |
+| 126 | Census emergency and boundary sabotage | Medium | Proposal Available |
 | 127 | Public health data sharing and disease surveillance | High | Partially Mitigated |
 | 172 | Trojan Horse infrastructure (foreign influence) | High | ✅ Resolved |
 | 176 | Lex Loci crisis (cross-border prosecution) | Critical | ✅ Resolved |
@@ -459,6 +459,6 @@ This gaps analysis should be reviewed and updated:
 - Following any significant intergovernmental compact affecting gap mitigation
 - When new technological or social developments create previously unidentified gaps
 
-**Last Updated**: 2026-02-02
-**Version**: 1.5
+**Last Updated**: 2026-02-03
+**Version**: 1.6
 **Status**: Living Document
