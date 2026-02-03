@@ -364,6 +364,128 @@ Expedited certifications shall be completed within ten days.
 
 (4) If the petition is denied, the Region shall have one hundred eighty days to achieve full compliance with the National Floor.
 
+*Resolves Gap 49 — House Majoritarianism and Consensus Floor Problem. The following subsections complete the Equivalence Shield mechanism by adding determination timelines, renewal procedures, and anti-circumvention safeguards.*
+
+(d) **Board Determination Timeline.**
+
+(1) The Allocation Review Board shall issue a final determination on any Equivalence Petition within two hundred seventy (270) days of filing.
+
+(2) The Board shall publish a preliminary assessment within one hundred twenty (120) days, including:
+
+- (i) identification of the outcome metrics under subsection (b) to be applied;
+- (ii) the data sources and measurement methodology to be used;
+- (iii) any additional information required from the petitioning Region.
+
+(3) The petitioning Region shall have sixty (60) days from the preliminary assessment to submit supplemental evidence. If the Region fails to submit information identified as required under paragraph (2)(iii) within this period:
+
+- (i) the two hundred seventy (270) day determination deadline is tolled until the Region provides the required information;
+- (ii) the Board shall notify the Region that the deadline has been tolled and specify the outstanding information;
+- (iii) tolling under this paragraph does not affect the Region's provisional compliance status under subsection (c).
+
+(4) If the Board fails to issue a final determination within two hundred seventy (270) days (as adjusted by any tolling under paragraph (3) or extension under paragraph (6)):
+
+- (i) the petition shall be deemed provisionally approved;
+- (ii) provisional approval continues until the Board issues a final determination;
+- (iii) the Board shall issue a final determination within one hundred eighty (180) additional days of provisional approval; if the Board fails to do so, the petitioning Region or any party with standing under subsection (f)(7)(i) may seek a writ of mandamus in federal court to compel a determination within sixty (60) days of the court's order;
+- (iv) if no party seeks mandamus within ninety (90) days after expiration of the one hundred eighty (180) day period under clause (iii), provisional approval is suspended and the Region shall achieve compliance with the National Floor within one hundred eighty (180) days;
+- (v) a pattern of failing to meet the two hundred seventy (270) day deadline on three or more petitions within any twelve-month period triggers the staffing and capacity requirements of Section 5(d)(9)-(10), applied to equivalence determination staff.
+
+(5) **Expedited Determinations.** The Board shall complete determinations within ninety (90) days for:
+
+- (i) renewal petitions under subsection (e) where the Region's prior performance data demonstrates sustained equivalence;
+- (ii) petitions substantially similar to previously approved exemptions in other Regions;
+- (iii) petitions during the provisional compliance period of a National Floor's first year of implementation, where compliance costs are most acute.
+
+(6) **Good Cause Extension.** The Board may extend the two hundred seventy (270) day deadline by up to ninety (90) additional days upon a published finding that the petition presents novel policy questions, requires data collection not reasonably available within the standard timeline, or involves technical complexity warranting additional expert review. The Board may grant only one extension per petition.
+
+(7) **Non-Cooperation Consequences.** If the Board determines that a Region's failure to provide timely information or data under paragraph (3) was not justified by good cause:
+
+- (i) the Region shall not be eligible for expedited determinations under paragraph (5) for a period of three (3) years;
+- (ii) the Board may require the Region to post additional bond under subsection (c)(2) for any pending or future petitions;
+- (iii) the period of non-cooperation shall not count toward the determination deadline under paragraph (1).
+
+(e) **Renewal and Review.**
+
+(1) **Duration.** Equivalence Exemptions shall be valid for five (5) years from the date of final determination.
+
+(2) **Renewal.** A Region may petition for renewal no earlier than twelve (12) months and no later than six (6) months before expiration. The renewal petition shall include five years of outcome data demonstrating continued equivalent or superior outcomes. The Board shall apply the same "clear and convincing evidence" standard as for initial petitions.
+
+(3) **Continuous Monitoring.** During the exemption period:
+
+- (i) the Region shall submit annual outcome reports to the Board using the metrics established under subsection (b);
+- (ii) the Board shall publish an annual equivalence assessment comparing Regional outcomes to National Floor benchmarks;
+- (iii) annual reports and assessments shall be publicly available.
+
+(4) **Mid-Term Review.** If annual outcome data indicates that a Region's alternative policy has produced outcomes materially below National Floor standards for two (2) consecutive years:
+
+- (i) the Board shall initiate a formal mid-term review within sixty (60) days;
+- (ii) the Region shall have one hundred twenty (120) days to demonstrate remediation or explain the divergence;
+- (iii) if the Board finds continued material divergence without adequate justification, the exemption shall be revoked;
+- (iv) upon revocation, the Region shall have one hundred eighty (180) days to achieve full compliance with the National Floor under subsection (c)(4).
+
+(5) **Material Divergence Standard.** For purposes of this subsection:
+
+- (i) the Board shall specify a domain-appropriate divergence threshold for each outcome metric in the preliminary assessment under subsection (d)(2), within a range of no less than eighty-five percent (85%) and no more than ninety-five percent (95%) of the National Floor benchmark, and shall designate the polarity of each metric (whether higher or lower values represent superior outcomes);
+- (ii) in the absence of a Board-specified threshold, the default is ninety percent (90%);
+- (iii) "materially below" means outcomes that are worse than the applicable threshold in the direction designated under clause (i), as measured by the metrics established under subsection (b);
+- (iv) a Region may petition the Board to exclude a measurement period affected by exogenous causes (economic recession, natural disaster, pandemic, or other force majeure), subject to:
+    - (A) the Board shall certify or deny the exogenous cause claim within sixty (60) days of the petition; if the Board fails to act within sixty (60) days, the claim is deemed denied without prejudice to re-petition upon submission of additional evidence;
+    - (B) if certified, the affected measurement period is excluded from divergence calculations for up to two (2) consecutive annual reporting periods;
+    - (C) after two (2) years of certified exclusion, the Region must demonstrate remediation or the full divergence record applies regardless of continued exogenous conditions;
+    - (D) the Board's certification, including underlying data and analysis, shall be publicly available.
+
+(6) **Lapse and Transition.** If a Region fails to file a timely renewal petition:
+
+- (i) the exemption expires at the end of the five-year term;
+- (ii) the Region shall have one hundred eighty (180) days to achieve full compliance with the National Floor;
+- (iii) a late renewal petition filed within ninety (90) days of expiration may be accepted at the Board's discretion if the Region demonstrates good cause for the delay.
+
+(f) **Anti-Circumvention and Integrity.**
+
+(1) **No Race to Bottom.** This section does not authorize Regional policies that fail to achieve the substantive outcomes intended by National Floors. "Equivalence" requires equal or superior outcomes as measured by the metrics established under subsection (b), not mere formal compliance, lesser protections, or alternative definitions of the protected interest.
+
+(2) **Serial Refiling Prohibition.** A Region whose Equivalence Petition has been denied may not refile a petition addressing the same National Floor within twelve (12) months of denial unless:
+
+- (i) the Region's alternative policy has been materially redesigned; and
+- (ii) the Board certifies that the redesigned policy is sufficiently distinct to warrant de novo review.
+
+(3) **Provisional Abuse Prevention.** If a Region's Equivalence Petition is denied and the Region subsequently refiles within the one hundred eighty (180) day compliance period under subsection (c)(4):
+
+- (i) the Region may not implement the alternative policy on a provisional basis during the second petition;
+- (ii) the compliance clock under subsection (c)(4) continues to run during the second petition;
+- (iii) the Board may consolidate the second petition with compliance monitoring.
+
+(4) **Outcome Measurement Integrity.** Regions may not manipulate the timing, methodology, or data sources of outcome measurement to inflate equivalence claims:
+
+- (i) the Board shall specify measurement periods and data sources in the preliminary assessment under subsection (d)(2);
+- (ii) Regions shall provide access to raw data underlying outcome reports;
+- (iii) the Board may commission independent verification of Regional outcome data;
+- (iv) knowing submission of materially false outcome data constitutes fraud upon the Board and grounds for immediate exemption revocation plus five-year disqualification from filing new petitions.
+
+(5) **Exemption Stacking.** Where a Region holds or seeks multiple Equivalence Exemptions whose combined effect may produce outcomes below the aggregate intent of the applicable National Floors:
+
+- (i) the Board shall assess the cumulative impact of stacked exemptions at initial grant and at each renewal;
+- (ii) the Board may condition approval or renewal of any exemption on the Region demonstrating that cumulative outcomes remain equivalent;
+- (iii) this assessment does not apply to exemptions covering unrelated policy domains.
+
+(6) **Relationship to Constitutional Minimums.** Equivalence Exemptions may not be sought for:
+
+- (i) constitutional minimums established under Section 4(h) (labor and safety minimums), which are permanent and exempt from variance and sunset under Section 4(k)(1);
+- (ii) rights protections established under Article III-RF;
+- (iii) obligations under Article I (Regional structure, mutual recognition, migration).
+
+(7) **Enforcement.**
+
+- (i) **Standing.** The following persons may bring an action in federal court challenging a Region's failure to achieve equivalent outcomes under a granted exemption:
+    - (A) residents of the Region directly affected by the policy subject to the exemption;
+    - (B) regulated entities operating within the Region subject to obligations under the applicable National Floor;
+    - (C) other Regions that demonstrate direct harm from competitive disadvantage or spillover effects attributable to the exemption.
+- (ii) **Administrative Exhaustion.** Before filing suit, a plaintiff must first petition the Board to initiate a mid-term review under subsection (e)(4). The plaintiff may proceed to federal court only after the Board acts on the petition or fails to act within one hundred twenty (120) days.
+- (iii) **Remedies.** If the court finds the Region's alternative policy has not achieved equivalent outcomes, the court may:
+    - (A) order compliance with the National Floor within a specified period;
+    - (B) revoke the exemption prospectively;
+    - (C) award compensatory damages to residents who have standing under clause (i)(A); injunctive relief under subclauses (A) and (B) is available to all parties with standing under clause (i).
+
 ---
 
 ### Section 6-A. Infrastructure Prioritization Transparency

@@ -367,7 +367,7 @@ ARB Equivalence Determination (270 days)
 | **Axiom 7 (Law Must Move Faster)** | Provisional compliance prevents delay-as-domination |
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article II (Section 5(i)), Article III (Section 4), and Article IV (Section 5(h)). This three-part solution addresses House majoritarianism without recreating Senate obstruction.
+**RESOLVED.** Parts 1 and 3 previously integrated (Art II §5(c) and §5(d)(1)-(12)). Part 2 completed via Art II §6(d)-(f): Board Determination Timeline (270-day deadline with tolling, good-cause extension, mandamus fallback, provisional suspension backstop), Renewal and Review (5-year cycle, annual monitoring, mid-term review, domain-sensitive divergence thresholds with polarity designation, Board-certified exogenous cause exception), and Anti-Circumvention and Integrity (no race to bottom, serial refiling prohibition, provisional abuse prevention, outcome measurement integrity, exemption stacking assessment, constitutional minimum exclusion citing §4(k)(1), enforcement with enumerated standing and administrative exhaustion). Two rounds of external review (v1→v2→v3). See `02-design/drafts/gap-049-equivalence-completion.md`.
 
 ---
 

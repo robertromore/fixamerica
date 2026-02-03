@@ -134,7 +134,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 |-------|-------------|----------|-------------------|
 | 37 | Judicial appointment politicization at regional level | Medium | Partially Mitigated |
 | 48 | Regional electoral integrity vs. auto-certification (Certification Escrow) | Medium | ✅ Resolved |
-| 49 | House majoritarianism and consensus floor problem | Medium | Requires Development |
+| 49 | House majoritarianism and consensus floor problem | Medium | Resolved |
 | 53 | Judicial review scope variation across regions | Medium | Accepted by Design |
 | 73 | Jurisdictional ping-pong between ARB and Supreme Court | Low | ✅ Resolved |
 | 81 | Pocket nullification via judicial recusal (Emergency Quorum Restoration) | High | ✅ Resolved |
