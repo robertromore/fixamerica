@@ -154,7 +154,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 163 | Eight-Senator floor as denial-of-service target | Medium | ✅ Resolved |
 | 164 | Proxy party / beneficial interest loophole | High | ✅ Resolved |
 | 165 | Infinite recusal deadlock (jurisdictional black hole) | High | ✅ Resolved |
-| 166 | Stuffed pool attack (panel selection manipulation) | Medium | Requires Development |
+| 166 | Stuffed pool attack (panel selection manipulation) | Medium | ✅ Resolved |
 | 173 | National injunction paralysis (judicial overreach) | High | ✅ Resolved |
 | 175 | Precedent trap (interpretive regress) | Critical | ✅ Resolved |
 | 186 | Judicial monoculture (court packing by geography) | High | ✅ Resolved |

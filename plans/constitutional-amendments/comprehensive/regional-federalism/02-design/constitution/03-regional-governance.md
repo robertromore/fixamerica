@@ -74,12 +74,23 @@ The Senate shall not function as a routine legislative veto.
     - (3) Panel decisions are appealable to the Supreme Court on the same terms as full Senate decisions;
     - (4) If fewer than six eligible former Senators are available, the Panel may proceed with a minimum of four members;
     - (5) If a Special Senate Panel cannot be constituted, the dispute transfers to the Supreme Court for original jurisdiction.
+    - (6) **Eligibility Requirements.** To be eligible for selection to the Special Senate Panel under this subsection, a former Senator must have:
+        - (a) completed at least one full six-year term by election, or served at least four cumulative years if appointed to fill a vacancy;
+        - (b) departed office without having been removed by expulsion, impeachment, or recall;
+        - (c) not resigned while subject to formally adopted charges by the Senate Ethics Committee or a pending criminal indictment relating to official conduct;
+        - (d) not been censured by the Senate for conduct relating to integrity, honesty, or fitness for office, as distinguished from policy disagreements;
+        - (e) Disqualification under paragraph (c) terminates if the charges or indictment are subsequently dismissed or resolved without adverse finding;
+        - (f) A former Senator who resigned to accept another federal, Regional, or State office is not disqualified under paragraph (c) solely by reason of that resignation.
+    - (7) **Transition.** During the first twelve years following ratification of this Constitution, former members of the United States Senate who meet the criteria of paragraph (6)(a) through (d) shall be eligible for selection under this subsection, subject to the same party-Region exclusion of paragraph (1).
 - (g-2) **Anti-Engineering Provisions.**
     - (1) **Frivolous Party Addition.** If recusals would reduce participating Senators below eight, the presiding officer shall review whether any party was added primarily to force recusals rather than because of genuine legal necessity. Parties added without substantial justification shall be dismissed for recusal calculation purposes.
     - (2) **Transfer Quota.** No more than three disputes per calendar year may be transferred to the Supreme Court or Special Senate Panel under subsection (g)(3) at the initiation of the same party or coordinated parties. Additional disputes shall be held in abeyance pending resolution of transferred matters.
 - (g-3) **Tertiary Fallback for Exhausted Forums.**
     - (1) **Trigger.** If a dispute transferred to the Supreme Court under subsection (g-1)(5) cannot be heard because Supreme Court recusals prevent a quorum, the Chief Justice shall certify the dispute to a Circuit Resolution Panel.
-    - (2) **Panel Composition.** The Circuit Resolution Panel shall consist of the chief judges of five circuits, selected by lot from circuits whose territorial jurisdiction does not substantially overlap with any party Region. If fewer than five circuits are eligible, retired chief judges from ineligible circuits may be added by lot.
+    - (2) **Panel Composition.**
+        - (a) The Circuit Resolution Panel shall consist of the chief judges of five circuits, selected by lot from circuits whose territorial jurisdiction does not substantially overlap with any party Region. If fewer than five circuits are eligible, retired chief judges from ineligible circuits may be added by lot.
+        - (b) **Judicial Eligibility.** To be eligible for selection to the Circuit Resolution Panel, a chief judge or retired chief judge must have: (i) served at least ten years in an Article III judicial capacity; (ii) not resigned or retired while subject to formally adopted charges of judicial misconduct; and (iii) not been removed from office for cause. Disqualification under clause (ii) terminates if the charges are subsequently dismissed or resolved without adverse finding.
+        - (c) **Transition.** During the first twelve years following ratification of this Constitution, chief judges and retired chief judges of the United States Courts of Appeals who meet the criteria of paragraph (b) shall be eligible.
     - (3) **Authority.** The Circuit Resolution Panel shall have original jurisdiction over the certified dispute with the same authority as the Supreme Court. Its decision is final and not subject to further appeal.
     - (4) **Absolute Fallback.** If a Circuit Resolution Panel cannot be constituted, the dispute shall be resolved by binding arbitration before a panel of three arbitrators: one selected by each party and one selected by the American Arbitration Association from its roster of former federal judges. The arbitration award shall have the force of a Supreme Court judgment.
 - (h) **Anti-Bloc Voting Safeguards.**
@@ -88,11 +99,11 @@ The Senate shall not function as a routine legislative veto.
     - (3) The Chief Justice shall review Senate adjudication patterns annually and may certify "systematic regional bias" if statistical analysis demonstrates non-random voting patterns correlated with Regional identity rather than legal merit. Such certification triggers automatic Supreme Court review of pending and future disputes for two years.
 - (i) **Independent Adjudication Panel Option.** For disputes involving allegations of Regional discrimination or systematic bias:
     - (1) Any party may request adjudication by an Independent Panel instead of the full Senate;
-    - (2) The Panel shall consist of the Chief Justice (presiding), two retired federal appellate judges selected by lot, and two Senators selected by lot from non-party Regions;
+    - (2) The Panel shall consist of the Chief Justice (presiding), two retired federal appellate judges meeting the eligibility criteria of subsection (g-3)(2)(b) selected by lot, and two Senators selected by lot from non-party Regions;
     - (3) Panel decisions have the same force as Senate adjudication and are appealable under the same terms.
 - (i-1) **Randomization Protocol for Panel Selection.**
     - (1) **Selection Authority.** Senator selection by lot under subsection (i)(2) and former Senator selection under subsection (g-1)(1) shall be conducted by the Clerk of the Supreme Court, not by any Senate officer.
-    - (2) **Procedure.** The Clerk shall: (a) publicly announce the pool of eligible Senators or former Senators; (b) use a cryptographically verifiable random selection algorithm, with the seed derived from a publicly observable source announced at least 24 hours in advance; (c) conduct the selection in a recorded public proceeding; and (d) publish the algorithm, seed, and selection results within one hour.
+    - (2) **Procedure.** The Clerk shall: (a) publicly announce the pool of eligible Senators or former Senators after applying the eligibility requirements of subsection (g-1)(6) and, for judicial panels, subsection (g-3)(2)(b); (b) use a cryptographically verifiable random selection algorithm, with the seed derived from a publicly observable source announced at least 24 hours in advance; (c) conduct the selection in a recorded public proceeding; and (d) publish the algorithm, seed, and selection results within one hour.
     - (3) **Challenge.** Any party may challenge the selection within 48 hours by demonstrating procedural irregularity. The Chief Justice shall rule on challenges within 72 hours. A successful challenge requires new selection; it does not permit party-directed selection.
 - (j) **Anti-Strategic Filing.** To prevent deliberate overload of adjudication systems:
     - (1) No party may have more than three disputes pending before the Senate or Supreme Court simultaneously;

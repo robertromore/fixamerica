@@ -2366,9 +2366,23 @@ Add to Section 3(g-1) and (g-3):
 > **(g-3)(2)(b) Judicial Eligibility.** To be eligible for the Circuit Resolution Panel, a chief judge or retired chief judge must have served at least five years in an Article III judicial capacity and must not have been removed for cause or resigned while under investigation.
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article III-RF, Section 3(g-1)(6) and (g-3)(2)(b).
+**RESOLVED.** Constitutional amendment integrated into Article IV, Section 3(g-1)(6)-(7), (g-3)(2)(b)-(c), (i)(2), and (i-1)(2) in `02-design/constitution/03-regional-governance.md`.
 
-**Severity:** Medium | **Mitigability:** Requires Development
+| Subsection | Coverage |
+|---|---|
+| §3(g-1)(6)(a) | Minimum service: 6yr elected, 4yr appointed |
+| §3(g-1)(6)(b) | Clean departure: not removed by expulsion/impeachment/recall |
+| §3(g-1)(6)(c) | Not resigned under formal charges/indictment |
+| §3(g-1)(6)(d) | Integrity-based censure disqualification |
+| §3(g-1)(6)(e) | Restoration clause: cleared charges lift disqualification |
+| §3(g-1)(6)(f) | Resign-for-office carve-out |
+| §3(g-1)(7) | Transition: former U.S. Senators eligible 12yr post-ratification |
+| §3(g-3)(2)(b) | Judicial eligibility: 10yr Article III, clean departure, restoration |
+| §3(g-3)(2)(c) | Transition: former U.S. chief judges eligible 12yr post-ratification |
+| §3(i)(2) | Independent Adjudication Panel cross-reference to (g-3)(2)(b) |
+| §3(i-1)(2)(a) | Randomization protocol: post-filter pool announcement |
+
+**Severity:** Medium | **Mitigability:** Resolved
 
 ---
 
