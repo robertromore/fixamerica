@@ -633,30 +633,35 @@ Article XI-RF distinguishes between the Regional Guard (subject to Two-Key autho
 **Part 1: Scale and Capability Caps (Article XI-RF, Section 4(a-d))**
 
 > (a) **Personnel Cap.** State Defense Forces shall not exceed:
->   - (i) One-half of one percent (0.5%) of the State's population; OR
->   - (ii) Ten thousand (10,000) personnel, whichever is smaller;
->   - (iii) Personnel includes all full-time, part-time, and volunteer members.
+>
+> - (i) One-half of one percent (0.5%) of the State's population; OR
+> - (ii) Ten thousand (10,000) personnel, whichever is smaller;
+> - (iii) Personnel includes all full-time, part-time, and volunteer members.
 >
 > (b) **Prohibited Capabilities.** State Defense Forces are prohibited from possessing or operating:
->   - (i) Heavy weaponry (crew-served weapons, artillery, missiles);
->   - (ii) Armored combat vehicles;
->   - (iii) Combat aircraft or armed drones;
->   - (iv) Offensive cyber capabilities designed to disrupt, damage, or destroy systems;
->   - (v) Chemical, biological, radiological, or nuclear materials or delivery systems.
+>
+> - (i) Heavy weaponry (crew-served weapons, artillery, missiles);
+> - (ii) Armored combat vehicles;
+> - (iii) Combat aircraft or armed drones;
+> - (iv) Offensive cyber capabilities designed to disrupt, damage, or destroy systems;
+> - (v) Chemical, biological, radiological, or nuclear materials or delivery systems.
 >
 > (c) **Permitted Capabilities.** State Defense Forces may possess:
->   - (i) Personal firearms consistent with civilian ownership rights;
->   - (ii) Defensive equipment (body armor, helmets, shields);
->   - (iii) Transport vehicles (unarmed);
->   - (iv) Communications equipment;
->   - (v) Defensive cyber capabilities (monitoring, protection, not attack).
+>
+> - (i) Personal firearms consistent with civilian ownership rights;
+> - (ii) Defensive equipment (body armor, helmets, shields);
+> - (iii) Transport vehicles (unarmed);
+> - (iv) Communications equipment;
+> - (v) Defensive cyber capabilities (monitoring, protection, not attack).
 >
 > (d) **Equipment Stockpile Prohibition.** States may not maintain stockpiles of weapons or military equipment beyond what is assigned to authorized Defense Force personnel:
->   - (i) "Emergency reserves" of military equipment are prohibited;
->   - (ii) Equipment donations to State Defense Forces are subject to capability caps;
->   - (iii) Federal military surplus transfers to State Defense Forces are prohibited.
+>
+> - (i) "Emergency reserves" of military equipment are prohibited;
+> - (ii) Equipment donations to State Defense Forces are subject to capability caps;
+> - (iii) Federal military surplus transfers to State Defense Forces are prohibited.
 
 **Design Rationale:**
+
 - Hard personnel cap prevents "army-sized" forces
 - Capability prohibition covers modern warfare (cyber, heavy weapons)
 - Stockpile prohibition closes equipment hoarding vector
@@ -666,24 +671,28 @@ Article XI-RF distinguishes between the Regional Guard (subject to Two-Key autho
 **Part 2: Automatic Reclassification (Article XI-RF, Section 4(e-g))**
 
 > (e) **Automatic Reclassification Trigger.** Any State Defense Force that:
->   - (i) Exceeds the personnel cap by more than 10%;
->   - (ii) Possesses prohibited capabilities;
->   - (iii) Engages in activities constituting "independent combat roles";
->   - (iv) Coordinates with other State Defense Forces for combined operations exceeding 5,000 personnel;
->   - Is automatically reclassified as a "Regional Guard unit."
+>
+> - (i) Exceeds the personnel cap by more than 10%;
+> - (ii) Possesses prohibited capabilities;
+> - (iii) Engages in activities constituting "independent combat roles";
+> - (iv) Coordinates with other State Defense Forces for combined operations exceeding 5,000 personnel;
+> - Is automatically reclassified as a "Regional Guard unit."
 >
 > (f) **Consequences of Reclassification.** Upon reclassification:
->   - (i) The force becomes subject to all Article XI-RF Regional Guard constraints including Two-Key authorization;
->   - (ii) The State loses authority to command the force unilaterally;
->   - (iii) Federal government may federalize the force under Article XI-RF, Section 2;
->   - (iv) State officials who authorized violations are personally liable.
+>
+> - (i) The force becomes subject to all Article XI-RF Regional Guard constraints including Two-Key authorization;
+> - (ii) The State loses authority to command the force unilaterally;
+> - (iii) Federal government may federalize the force under Article XI-RF, Section 2;
+> - (iv) State officials who authorized violations are personally liable.
 >
 > (g) **ARB Reclassification Authority.** The ARB may issue a reclassification finding:
->   - (i) Upon petition by the federal government, any Region, or any State;
->   - (ii) After expedited review (30 days);
->   - (iii) Reclassification is effective immediately pending judicial review.
+>
+> - (i) Upon petition by the federal government, any Region, or any State;
+> - (ii) After expedited review (30 days);
+> - (iii) Reclassification is effective immediately pending judicial review.
 
 **Design Rationale:**
+
 - Automatic trigger removes discretion
 - Consequences are severe—loss of State control
 - ARB authority enables enforcement without military confrontation
@@ -693,23 +702,27 @@ Article XI-RF distinguishes between the Regional Guard (subject to Two-Key autho
 **Part 3: Cyber and Hybrid Warfare Clarification (Article XI-RF, Section 4(h-j))**
 
 > (h) **"Combat Role" Definition.** For purposes of State Defense Force limitations, "independent combat role" includes:
->   - (i) Armed confrontation with military, paramilitary, or law enforcement forces;
->   - (ii) Offensive cyber operations against government systems, critical infrastructure, or military targets;
->   - (iii) Information warfare operations designed to support kinetic military objectives;
->   - (iv) Any operation that would constitute an "act of war" if conducted by a foreign nation.
+>
+> - (i) Armed confrontation with military, paramilitary, or law enforcement forces;
+> - (ii) Offensive cyber operations against government systems, critical infrastructure, or military targets;
+> - (iii) Information warfare operations designed to support kinetic military objectives;
+> - (iv) Any operation that would constitute an "act of war" if conducted by a foreign nation.
 >
 > (i) **Hybrid Warfare Prohibition.** State Defense Forces may not:
->   - (i) Conduct or support psychological operations against other States or the federal government;
->   - (ii) Operate "troll farms," disinformation networks, or coordinated inauthentic behavior campaigns;
->   - (iii) Provide support to non-state actors engaged in combat against United States entities.
+>
+> - (i) Conduct or support psychological operations against other States or the federal government;
+> - (ii) Operate "troll farms," disinformation networks, or coordinated inauthentic behavior campaigns;
+> - (iii) Provide support to non-state actors engaged in combat against United States entities.
 >
 > (j) **Defensive Cyber Clarification.** Permitted "defensive cyber capabilities" are limited to:
->   - (i) Monitoring State government networks for intrusions;
->   - (ii) Protecting State critical infrastructure from cyber attack;
->   - (iii) Incident response and recovery;
->   - (iv) Defensive capabilities may not include "active defense" that involves counter-attacks.
+>
+> - (i) Monitoring State government networks for intrusions;
+> - (ii) Protecting State critical infrastructure from cyber attack;
+> - (iii) Incident response and recovery;
+> - (iv) Defensive capabilities may not include "active defense" that involves counter-attacks.
 
 **Design Rationale:**
+
 - Explicit cyber/hybrid definitions close modern warfare loopholes
 - "Act of war" test provides objective standard
 - Defensive-only cyber prevents "active defense" mission creep
@@ -719,23 +732,27 @@ Article XI-RF distinguishes between the Regional Guard (subject to Two-Key autho
 **Part 4: Coordination and Transparency (Article XI-RF, Section 4(k-m))**
 
 > (k) **Multi-State Coordination Limits.** State Defense Forces from different States may not:
->   - (i) Conduct joint exercises exceeding 1,000 combined personnel without ARB notification;
->   - (ii) Establish unified command structures;
->   - (iii) Share intelligence or targeting information;
->   - (iv) Coordinate operations through Regional government channels (which would make them de facto Regional Guard units).
+>
+> - (i) Conduct joint exercises exceeding 1,000 combined personnel without ARB notification;
+> - (ii) Establish unified command structures;
+> - (iii) Share intelligence or targeting information;
+> - (iv) Coordinate operations through Regional government channels (which would make them de facto Regional Guard units).
 >
 > (l) **Annual Reporting.** Each State with a Defense Force shall report annually to the ARB:
->   - (i) Total personnel (all categories);
->   - (ii) Equipment inventory;
->   - (iii) Training activities and exercises;
->   - (iv) Budget and funding sources.
+>
+> - (i) Total personnel (all categories);
+> - (ii) Equipment inventory;
+> - (iii) Training activities and exercises;
+> - (iv) Budget and funding sources.
 >
 > (m) **Public Registry.** The ARB shall maintain a public registry of all State Defense Forces including:
->   - (i) Current status (compliant, under review, reclassified);
->   - (ii) Summary of annual reports;
->   - (iii) History of any violations or reclassifications.
+>
+> - (i) Current status (compliant, under review, reclassified);
+> - (ii) Summary of annual reports;
+> - (iii) History of any violations or reclassifications.
 
 **Design Rationale:**
+
 - Coordination limits prevent "Shadow Regional Army"
 - Annual reporting enables monitoring
 - Public registry creates transparency and accountability
@@ -755,6 +772,7 @@ Article XI-RF distinguishes between the Regional Guard (subject to Two-Key autho
 | Annual Reporting | Monitoring capability | Axiom 8 (Transparency) |
 
 **Relationship to Other Gaps:**
+
 - **Gap 64 (Ghost Region Successor):** Two-Key Rule integrity
 - **Gap 68 (Succession Vacuum):** Military command during crisis
 
@@ -813,26 +831,31 @@ The "Two-Key Rule" (Article XI-RF, Section 2) requires both the President and a 
 **Part 1: Congressional Override Authority (Article XI-RF, Section 2(g-j))**
 
 > (g) **Congressional Key-Override.** Congress may authorize domestic armed force without Presidential or Governor approval when:
->   - (i) An armed insurrection or invasion threatens constitutional governance;
->   - (ii) The President has failed to request Two-Key authorization within seventy-two (72) hours of the threat;
->   - (iii) Or both keys have been requested and withheld for forty-eight (48) hours after request.
+>
+> - (i) An armed insurrection or invasion threatens constitutional governance;
+> - (ii) The President has failed to request Two-Key authorization within seventy-two (72) hours of the threat;
+> - (iii) Or both keys have been requested and withheld for forty-eight (48) hours after request.
 >
 > (h) **Override Vote Threshold.** Congressional Key-Override requires:
->   - (i) Declaration by four-fifths (4/5) of the House of Representatives;
->   - (ii) Concurrence by two-thirds (2/3) of the Senate;
->   - (iii) Both votes within forty-eight (48) hours of each other.
+>
+> - (i) Declaration by four-fifths (4/5) of the House of Representatives;
+> - (ii) Concurrence by two-thirds (2/3) of the Senate;
+> - (iii) Both votes within forty-eight (48) hours of each other.
 >
 > (i) **Override Authorization Scope.** Congressional Key-Override:
->   - (i) Authorizes domestic deployment for seventy-two (72) hours initially;
->   - (ii) May be extended by simple majority of both chambers for additional seventy-two (72) hour periods;
->   - (iii) Terminates automatically if either the President or Governor majority subsequently provides authorization.
+>
+> - (i) Authorizes domestic deployment for seventy-two (72) hours initially;
+> - (ii) May be extended by simple majority of both chambers for additional seventy-two (72) hour periods;
+> - (iii) Terminates automatically if either the President or Governor majority subsequently provides authorization.
 >
 > (j) **Command Authority During Override.** During Congressional Key-Override:
->   - (i) The Secretary of Defense exercises operational command;
->   - (ii) The President retains titular Commander-in-Chief status but may not countermand Congress-authorized operations;
->   - (iii) The National Guard remains under Governor control unless federalized by Congress.
+>
+> - (i) The Secretary of Defense exercises operational command;
+> - (ii) The President retains titular Commander-in-Chief status but may not countermand Congress-authorized operations;
+> - (iii) The National Guard remains under Governor control unless federalized by Congress.
 
 **Design Rationale:**
+
 - Congressional override provides third key for extreme circumstances
 - 4/5 House threshold ensures genuine emergency consensus
 - 72-hour initial authorization limits scope
@@ -843,21 +866,25 @@ The "Two-Key Rule" (Article XI-RF, Section 2) requires both the President and a 
 **Part 2: Independent Insurrection Certification (Article XI-RF, Section 2(k-m))**
 
 > (k) **Insurrection Certification Authority.** The following may independently certify that insurrection exists:
->   - (i) The Chief Justice of the Supreme Court;
->   - (ii) Any three (3) Regional Chief Judges acting jointly;
->   - (iii) The Joint Chiefs of Staff acting unanimously.
+>
+> - (i) The Chief Justice of the Supreme Court;
+> - (ii) Any three (3) Regional Chief Judges acting jointly;
+> - (iii) The Joint Chiefs of Staff acting unanimously.
 >
 > (l) **Certification Effect.** Upon independent certification:
->   - (i) The President shall request Two-Key authorization within twenty-four (24) hours or provide written justification for refusal;
->   - (ii) Refusal to request authorization after certification constitutes grounds for impeachment;
->   - (iii) Congressional Key-Override threshold reduces to two-thirds (2/3) House and simple majority Senate.
+>
+> - (i) The President shall request Two-Key authorization within twenty-four (24) hours or provide written justification for refusal;
+> - (ii) Refusal to request authorization after certification constitutes grounds for impeachment;
+> - (iii) Congressional Key-Override threshold reduces to two-thirds (2/3) House and simple majority Senate.
 >
 > (m) **Certification Standards.** Insurrection certification requires finding that:
->   - (i) Armed groups control territory within the United States;
->   - (ii) Civil law enforcement has proven insufficient;
->   - (iii) Constitutional governance is threatened if armed force is not deployed.
+>
+> - (i) Armed groups control territory within the United States;
+> - (ii) Civil law enforcement has proven insufficient;
+> - (iii) Constitutional governance is threatened if armed force is not deployed.
 
 **Design Rationale:**
+
 - Independent certification defeats definitional gaming
 - Judicial certification from neutral authority
 - Military certification ensures professional assessment
@@ -868,21 +895,25 @@ The "Two-Key Rule" (Article XI-RF, Section 2) requires both the President and a 
 **Part 3: Governor Majority Bypass (Article XI-RF, Section 2(n-p))**
 
 > (n) **Regional Governor Bypass.** If the President provides the first key but Governor majority withholds:
->   - (i) Any affected Region's Governor may provide individual consent for operations within that Region;
->   - (ii) The ARB may authorize operations upon petition from the affected State's government;
->   - (iii) Congress may authorize operations in specific Regions by simple majority.
+>
+> - (i) Any affected Region's Governor may provide individual consent for operations within that Region;
+> - (ii) The ARB may authorize operations upon petition from the affected State's government;
+> - (iii) Congress may authorize operations in specific Regions by simple majority.
 >
 > (o) **Affected Region Determination.** A Region is "affected" if:
->   - (i) The insurrection is occurring within its territory;
->   - (ii) The insurrection threatens to spread to its territory;
->   - (iii) The Region's infrastructure or population is directly threatened.
+>
+> - (i) The insurrection is occurring within its territory;
+> - (ii) The insurrection threatens to spread to its territory;
+> - (iii) The Region's infrastructure or population is directly threatened.
 >
 > (p) **Regional Scope Limitation.** Governor bypass authorization:
->   - (i) Applies only within the consenting or affected Regions;
->   - (ii) May not extend to non-affected Regions without their Governor's consent;
->   - (iii) Terminates when the threat to the specific Region ends.
+>
+> - (i) Applies only within the consenting or affected Regions;
+> - (ii) May not extend to non-affected Regions without their Governor's consent;
+> - (iii) Terminates when the threat to the specific Region ends.
 
 **Design Rationale:**
+
 - Individual Governor consent for affected Regions
 - ARB provides neutral authorization path
 - Congressional simple majority for regional operations
@@ -893,21 +924,25 @@ The "Two-Key Rule" (Article XI-RF, Section 2) requires both the President and a 
 **Part 4: Anti-Collusion Safeguards (Article XI-RF, Section 2(q-s))**
 
 > (q) **Collusion Prohibition.** The President and Regional Governors may not:
->   - (i) Agree to withhold authorization regardless of circumstances;
->   - (ii) Coordinate refusal to frustrate constitutional response to insurrection;
->   - (iii) Condition authorization on unrelated political demands.
+>
+> - (i) Agree to withhold authorization regardless of circumstances;
+> - (ii) Coordinate refusal to frustrate constitutional response to insurrection;
+> - (iii) Condition authorization on unrelated political demands.
 >
 > (r) **Accountability for Collusive Inaction.** If Two-Key authorization is withheld during certified insurrection:
->   - (i) The President and refusing Governors shall provide individual written justification within forty-eight (48) hours;
->   - (ii) Failure to provide justification constitutes grounds for impeachment (President) or recall (Governors);
->   - (iii) Justifications shall be published immediately and preserved in the public record.
+>
+> - (i) The President and refusing Governors shall provide individual written justification within forty-eight (48) hours;
+> - (ii) Failure to provide justification constitutes grounds for impeachment (President) or recall (Governors);
+> - (iii) Justifications shall be published immediately and preserved in the public record.
 >
 > (s) **Post-Incident Review.** After any insurrection requiring Congressional Key-Override:
->   - (i) The National Constitutional Court shall conduct mandatory review;
->   - (ii) The review shall determine whether key-holder refusals were justified;
->   - (iii) Findings of unjustified refusal may be used in subsequent impeachment or recall proceedings.
+>
+> - (i) The National Constitutional Court shall conduct mandatory review;
+> - (ii) The review shall determine whether key-holder refusals were justified;
+> - (iii) Findings of unjustified refusal may be used in subsequent impeachment or recall proceedings.
 
 **Design Rationale:**
+
 - Explicit collusion prohibition creates legal standard
 - Individual justification requirement prevents hiding behind collective action
 - Post-incident review ensures accountability
@@ -929,6 +964,7 @@ The "Two-Key Rule" (Article XI-RF, Section 2) requires both the President and a 
 | Post-Incident Review | Long-term accountability | Axiom 8 (Transparency) |
 
 **Relationship to Other Gaps:**
+
 - **Gap 44 (Federal Executive Overreach):** Two-Key prevents executive militarization; Gap 82 addresses key collusion
 - **Gap 68 (Succession Vacuum):** Continuity during collapse; Gap 82 addresses intentional inaction during crisis
 - **Gap 74 (Regional Guard Shadow Mobilization):** State Defense Forces; Gap 82 addresses federal response paralysis
@@ -992,27 +1028,32 @@ Article XII, Section 3 requires a "graduated de-escalation sequence" prioritizin
 **Part 1: Imminent Harm Bypass (Article XII-RF, Section 3(g-j))**
 
 > (g) **Imminent Harm Certification.** The de-escalation sequence may be bypassed if:
->   - (i) The Allocation Review Board certifies imminent harm; or
->   - (ii) The Supreme Court certifies imminent harm; or
->   - (iii) Both the President and a majority of Regional Governors certify imminent harm.
+>
+> - (i) The Allocation Review Board certifies imminent harm; or
+> - (ii) The Supreme Court certifies imminent harm; or
+> - (iii) Both the President and a majority of Regional Governors certify imminent harm.
 >
 > (h) **Imminent Harm Standards.** Certification requires finding that continued delay poses imminent threat to:
->   - (i) Life or physical safety of persons;
->   - (ii) National security or territorial integrity;
->   - (iii) The integrity of the National Common Market;
->   - (iv) Critical infrastructure necessary for public welfare.
+>
+> - (i) Life or physical safety of persons;
+> - (ii) National security or territorial integrity;
+> - (iii) The integrity of the National Common Market;
+> - (iv) Critical infrastructure necessary for public welfare.
 >
 > (i) **Expedited Certification.** Imminent harm certification:
->   - (i) Shall be issued within forty-eight (48) hours of request;
->   - (ii) May be issued ex parte if exigent circumstances require;
->   - (iii) Is not subject to appeal until after federal action concludes.
+>
+> - (i) Shall be issued within forty-eight (48) hours of request;
+> - (ii) May be issued ex parte if exigent circumstances require;
+> - (iii) Is not subject to appeal until after federal action concludes.
 >
 > (j) **Post-Bypass Review.** After action taken pursuant to bypass:
->   - (i) The ARB shall review whether bypass was justified within thirty (30) days;
->   - (ii) Unjustified bypass is grounds for impeachment of officials who authorized it;
->   - (iii) Justified bypass confirms the action was constitutionally sound.
+>
+> - (i) The ARB shall review whether bypass was justified within thirty (30) days;
+> - (ii) Unjustified bypass is grounds for impeachment of officials who authorized it;
+> - (iii) Justified bypass confirms the action was constitutionally sound.
 
 **Design Rationale:**
+
 - Multiple certification paths prevent single-point blockage
 - 48-hour expedited timeline defeats delay tactics
 - Ex parte authority enables emergency response
@@ -1023,23 +1064,27 @@ Article XII, Section 3 requires a "graduated de-escalation sequence" prioritizin
 **Part 2: De-Escalation Time Limits (Article XII-RF, Section 3(k-m))**
 
 > (k) **Stage Time Limits.** Each stage of the de-escalation sequence has maximum duration:
->   - (i) Initial notification and demand: seventy-two (72) hours;
->   - (ii) Administrative mediation: fourteen (14) days;
->   - (iii) Judicial review (trial level): thirty (30) days;
->   - (iv) Appellate review: fourteen (14) days per level;
->   - (v) Total de-escalation sequence: not to exceed ninety (90) days.
+>
+> - (i) Initial notification and demand: seventy-two (72) hours;
+> - (ii) Administrative mediation: fourteen (14) days;
+> - (iii) Judicial review (trial level): thirty (30) days;
+> - (iv) Appellate review: fourteen (14) days per level;
+> - (v) Total de-escalation sequence: not to exceed ninety (90) days.
 >
 > (l) **Automatic Escalation.** Upon expiration of any stage time limit:
->   - (i) The sequence advances automatically to the next stage;
->   - (ii) Pending motions or appeals are deemed denied;
->   - (iii) No extension may be granted except by unanimous consent of all parties.
+>
+> - (i) The sequence advances automatically to the next stage;
+> - (ii) Pending motions or appeals are deemed denied;
+> - (iii) No extension may be granted except by unanimous consent of all parties.
 >
 > (m) **Final Stage Consequence.** Upon expiration of the ninety (90) day total:
->   - (i) All judicial and administrative remedies are deemed exhausted;
->   - (ii) Military intervention authority activates automatically;
->   - (iii) The Two-Key requirement is satisfied by the exhaustion of alternatives.
+>
+> - (i) All judicial and administrative remedies are deemed exhausted;
+> - (ii) Military intervention authority activates automatically;
+> - (iii) The Two-Key requirement is satisfied by the exhaustion of alternatives.
 
 **Design Rationale:**
+
 - Hard time limits prevent indefinite delay
 - Automatic escalation removes discretion
 - 90-day total cap creates predictable timeline
@@ -1050,22 +1095,26 @@ Article XII, Section 3 requires a "graduated de-escalation sequence" prioritizin
 **Part 3: Bad Faith Participation Finding (Article XII-RF, Section 3(n-p))**
 
 > (n) **Bad Faith Indicators.** The following constitute evidence of bad faith participation in de-escalation:
->   - (i) Demands that exceed pre-crisis status quo by more than de minimis adjustments;
->   - (ii) Failure to attend scheduled mediation sessions without valid excuse;
->   - (iii) Continued physical consolidation of contested position during negotiations;
->   - (iv) Communication with foreign powers regarding disputed matter during mediation.
+>
+> - (i) Demands that exceed pre-crisis status quo by more than de minimis adjustments;
+> - (ii) Failure to attend scheduled mediation sessions without valid excuse;
+> - (iii) Continued physical consolidation of contested position during negotiations;
+> - (iv) Communication with foreign powers regarding disputed matter during mediation.
 >
 > (o) **Bad Faith Finding.** Upon finding of bad faith:
->   - (i) The de-escalation sequence terminates immediately;
->   - (ii) All pending time limits are deemed expired;
->   - (iii) The bad faith actor forfeits the right to further judicial review before federal action.
+>
+> - (i) The de-escalation sequence terminates immediately;
+> - (ii) All pending time limits are deemed expired;
+> - (iii) The bad faith actor forfeits the right to further judicial review before federal action.
 >
 > (p) **Bad Faith Authority.** Bad faith findings may be made by:
->   - (i) The ARB upon motion of any party or sua sponte;
->   - (ii) The mediator appointed to the dispute;
->   - (iii) The presiding judge at any stage of judicial review.
+>
+> - (i) The ARB upon motion of any party or sua sponte;
+> - (ii) The mediator appointed to the dispute;
+> - (iii) The presiding judge at any stage of judicial review.
 
 **Design Rationale:**
+
 - Explicit bad faith indicators create clear standard
 - Immediate termination defeats delay strategy
 - Forfeit of further review creates consequence
@@ -1076,21 +1125,25 @@ Article XII, Section 3 requires a "graduated de-escalation sequence" prioritizin
 **Part 4: Anti-Consolidation Measures (Article XII-RF, Section 3(q-s))**
 
 > (q) **Freeze Order.** Upon initiation of de-escalation sequence:
->   - (i) All parties must maintain positions as of the date of initiation;
->   - (ii) Physical fortification, troop movement, or asset seizure is prohibited;
->   - (iii) Violation of the freeze order constitutes bad faith.
+>
+> - (i) All parties must maintain positions as of the date of initiation;
+> - (ii) Physical fortification, troop movement, or asset seizure is prohibited;
+> - (iii) Violation of the freeze order constitutes bad faith.
 >
 > (r) **Foreign Contact Prohibition.** During de-escalation:
->   - (i) No party may seek foreign recognition, support, or intervention;
->   - (ii) No party may negotiate with foreign powers regarding the disputed matter;
->   - (iii) Violation of the foreign contact prohibition constitutes bad faith.
+>
+> - (i) No party may seek foreign recognition, support, or intervention;
+> - (ii) No party may negotiate with foreign powers regarding the disputed matter;
+> - (iii) Violation of the foreign contact prohibition constitutes bad faith.
 >
 > (s) **Asset Preservation.** Contested federal assets:
->   - (i) Shall be placed under neutral custodianship (U.S. Marshals or agreed third party);
->   - (ii) May not be damaged, sold, or transferred during de-escalation;
->   - (iii) Damage or transfer constitutes grounds for immediate federal intervention.
+>
+> - (i) Shall be placed under neutral custodianship (U.S. Marshals or agreed third party);
+> - (ii) May not be damaged, sold, or transferred during de-escalation;
+> - (iii) Damage or transfer constitutes grounds for immediate federal intervention.
 
 **Design Rationale:**
+
 - Freeze order prevents fait accompli
 - Foreign contact prohibition defeats internationalization
 - Neutral custodianship protects contested assets
@@ -1114,6 +1167,7 @@ Article XII, Section 3 requires a "graduated de-escalation sequence" prioritizin
 | Neutral Custodianship | Asset protection | Axiom 6 (Redundancy) |
 
 **Relationship to Other Gaps:**
+
 - **Gap 82 (Two-Key Collusion):** Both keys withhold; Gap 86 addresses procedural delay before keys needed
 - **Gap 68 (Succession Vacuum):** Crisis during collapse; Gap 86 addresses manufactured crisis through delay
 - **Gap 44 (Federal Executive Overreach):** Limits military use; Gap 86 ensures limits don't enable fait accompli
@@ -1172,27 +1226,32 @@ The Two-Key rule relies on military commanders refusing unlawful orders lacking 
 **Part 1: Officer Corps Independence Protections (Article XI-RF, Section 5(a-d))**
 
 > (a) **Prohibited Loyalty Requirements.** No military officer may be:
->   - (i) Required to pledge personal loyalty to any individual;
->   - (ii) Removed, reassigned, or disadvantaged for refusing an unlawful order;
->   - (iii) Required to express support for any political party, candidate, or policy position;
->   - (iv) Subjected to disciplinary action for lawful refusal under Section 2(d).
+>
+> - (i) Required to pledge personal loyalty to any individual;
+> - (ii) Removed, reassigned, or disadvantaged for refusing an unlawful order;
+> - (iii) Required to express support for any political party, candidate, or policy position;
+> - (iv) Subjected to disciplinary action for lawful refusal under Section 2(d).
 >
 > (b) **Protected Refusal.** An officer who refuses an order lacking Two-Key authorization:
->   - (i) Is presumed to have acted lawfully;
->   - (ii) May not be relieved of command pending investigation;
->   - (iii) May petition the ARB for immediate protected status determination.
+>
+> - (i) Is presumed to have acted lawfully;
+> - (ii) May not be relieved of command pending investigation;
+> - (iii) May petition the ARB for immediate protected status determination.
 >
 > (c) **Mass Removal Trigger.** If more than five (5) general officers are removed or reassigned within any sixty (60) day period:
->   - (i) The Senate Armed Services Committee shall conduct immediate review;
->   - (ii) No further removals may occur until review concludes;
->   - (iii) The review shall determine if removals constitute loyalty purge.
+>
+> - (i) The Senate Armed Services Committee shall conduct immediate review;
+> - (ii) No further removals may occur until review concludes;
+> - (iii) The review shall determine if removals constitute loyalty purge.
 >
 > (d) **Purge Finding Consequences.** Upon finding of loyalty purge:
->   - (i) All removed officers are reinstated pending individual review;
->   - (ii) The President's military appointment authority is suspended for six (6) months;
->   - (iii) Acting appointments require Senate confirmation.
+>
+> - (i) All removed officers are reinstated pending individual review;
+> - (ii) The President's military appointment authority is suspended for six (6) months;
+> - (iii) Acting appointments require Senate confirmation.
 
 **Design Rationale:**
+
 - Explicit loyalty prohibition creates clear legal standard
 - Protected refusal enables officers to follow law
 - Mass removal trigger catches coordinated purges
@@ -1203,27 +1262,32 @@ The Two-Key rule relies on military commanders refusing unlawful orders lacking 
 **Part 2: Regional Guard Counter-Key Authority (Article XI-RF, Section 5(e-h))**
 
 > (e) **Counter-Key Activation.** If Federal Armed Forces are deployed domestically without Two-Key authorization:
->   - (i) The deployment is constitutionally void;
->   - (ii) The affected Regional Governor(s) may activate the Regional Guard;
->   - (iii) The Regional Guard is authorized to prevent unauthorized federal military movement.
+>
+> - (i) The deployment is constitutionally void;
+> - (ii) The affected Regional Governor(s) may activate the Regional Guard;
+> - (iii) The Regional Guard is authorized to prevent unauthorized federal military movement.
 >
 > (f) **Counter-Key Authorization Scope.** Regional Guard operating under Counter-Key authority may:
->   - (i) Establish checkpoints and roadblocks to prevent unauthorized force movement;
->   - (ii) Secure Regional government facilities and critical infrastructure;
->   - (iii) Use proportional force to prevent seizure of Regional assets;
->   - (iv) Detain unauthorized federal personnel for transfer to civilian authorities.
+>
+> - (i) Establish checkpoints and roadblocks to prevent unauthorized force movement;
+> - (ii) Secure Regional government facilities and critical infrastructure;
+> - (iii) Use proportional force to prevent seizure of Regional assets;
+> - (iv) Detain unauthorized federal personnel for transfer to civilian authorities.
 >
 > (g) **Rules of Engagement.** Counter-Key operations:
->   - (i) Shall prioritize de-escalation and avoidance of casualties;
->   - (ii) May not initiate offensive operations against federal installations;
->   - (iii) Shall be documented in real-time with recordings transmitted to neutral custody.
+>
+> - (i) Shall prioritize de-escalation and avoidance of casualties;
+> - (ii) May not initiate offensive operations against federal installations;
+> - (iii) Shall be documented in real-time with recordings transmitted to neutral custody.
 >
 > (h) **Federal Personnel Status.** Federal military personnel operating under unauthorized orders:
->   - (i) Are not "enemy combatants" and retain full rights;
->   - (ii) May individually surrender to Regional Guard custody;
->   - (iii) Shall be treated as materially misled rather than criminally culpable (absent individual misconduct).
+>
+> - (i) Are not "enemy combatants" and retain full rights;
+> - (ii) May individually surrender to Regional Guard custody;
+> - (iii) Shall be treated as materially misled rather than criminally culpable (absent individual misconduct).
 
 **Design Rationale:**
+
 - Counter-Key authority enables physical check on illegal deployment
 - Proportional force authorization prevents both escalation and impotence
 - De-escalation priority minimizes risk of civil conflict
@@ -1234,21 +1298,25 @@ The Two-Key rule relies on military commanders refusing unlawful orders lacking 
 **Part 3: Command Accountability Framework (Article XI-RF, Section 5(i-k))**
 
 > (i) **Commander Accountability.** Any officer who executes a domestic deployment order lacking Two-Key authorization:
->   - (i) Is personally liable for all consequences of the deployment;
->   - (ii) May be court-martialed after restoration of constitutional order;
->   - (iii) May not claim "superior orders" defense for clearly unlawful deployment.
+>
+> - (i) Is personally liable for all consequences of the deployment;
+> - (ii) May be court-martialed after restoration of constitutional order;
+> - (iii) May not claim "superior orders" defense for clearly unlawful deployment.
 >
 > (j) **Post-Crisis Adjudication.** After resolution of any Counter-Key activation:
->   - (i) The ARB shall conduct mandatory review of authorization status;
->   - (ii) If deployment was unauthorized, the commander shall face mandatory court-martial;
->   - (iii) If deployment was authorized, Regional officials who activated Counter-Key shall face review.
+>
+> - (i) The ARB shall conduct mandatory review of authorization status;
+> - (ii) If deployment was unauthorized, the commander shall face mandatory court-martial;
+> - (iii) If deployment was authorized, Regional officials who activated Counter-Key shall face review.
 >
 > (k) **Pardon Limitation.** The President may not:
->   - (i) Pardon officers for violations of the Two-Key requirement;
->   - (ii) Pardon officers for unlawful domestic deployment;
->   - (iii) Such pardons are void and the prosecution may proceed.
+>
+> - (i) Pardon officers for violations of the Two-Key requirement;
+> - (ii) Pardon officers for unlawful domestic deployment;
+> - (iii) Such pardons are void and the prosecution may proceed.
 
 **Design Rationale:**
+
 - Personal commander accountability defeats "following orders" excuse
 - Mandatory post-crisis adjudication ensures accountability
 - Pardon limitation prevents self-dealing by the President who ordered the deployment
@@ -1259,21 +1327,25 @@ The Two-Key rule relies on military commanders refusing unlawful orders lacking 
 **Part 4: Institutional Safeguards (Article XI-RF, Section 5(l-n))**
 
 > (l) **Joint Chiefs Independence.** The Joint Chiefs of Staff:
->   - (i) May not be removed except for cause certified by two-thirds (2/3) of the Senate;
->   - (ii) Have duty to advise Congress directly if they believe unlawful orders have been issued;
->   - (iii) May publicly dissent from orders they believe violate the Two-Key requirement.
+>
+> - (i) May not be removed except for cause certified by two-thirds (2/3) of the Senate;
+> - (ii) Have duty to advise Congress directly if they believe unlawful orders have been issued;
+> - (iii) May publicly dissent from orders they believe violate the Two-Key requirement.
 >
 > (m) **Chain of Command Integrity.** No officer may be:
->   - (i) Inserted into the chain of command outside normal succession;
->   - (ii) Given "direct access" to troops bypassing the established chain;
->   - (iii) Authorized to issue orders to units not under their formal command.
+>
+> - (i) Inserted into the chain of command outside normal succession;
+> - (ii) Given "direct access" to troops bypassing the established chain;
+> - (iii) Authorized to issue orders to units not under their formal command.
 >
 > (n) **Congressional Notification.** Upon any domestic deployment of federal forces:
->   - (i) Congress shall be notified within six (6) hours;
->   - (ii) The notification shall include Two-Key authorization documentation;
->   - (iii) Lack of documentation triggers immediate Congressional investigation.
+>
+> - (i) Congress shall be notified within six (6) hours;
+> - (ii) The notification shall include Two-Key authorization documentation;
+> - (iii) Lack of documentation triggers immediate Congressional investigation.
 
 **Design Rationale:**
+
 - Joint Chiefs independence creates institutional resistance to purge
 - Public dissent authority enables warning to democracy
 - Chain of command integrity prevents parallel structures
@@ -1297,12 +1369,13 @@ The Two-Key rule relies on military commanders refusing unlawful orders lacking 
 | Congressional Notification | Oversight | Axiom 8 (Transparency) |
 
 **Relationship to Other Gaps:**
+
 - **Gap 44 (Federal Executive Overreach):** Limits on domestic force; Gap 88 ensures limits are enforceable
 - **Gap 74 (State Defense Force Shadow):** Regional paramilitary; Gap 88 authorizes legitimate Regional response
 - **Gap 82 (Two-Key Collusion):** Both keys collude; Gap 88 addresses one key acting alone
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article XI-RF, Section 5. This four-part solution protects officer independence with loyalty prohibition and mass removal trigger, establishes Counter-Key authority for Regional Guard to physically prevent unauthorized deployment, creates commander accountability with pardon limitation, and safeguards Joint Chiefs independence with Congressional notification requirement.
+**RESOLVED.** Integrated into Article XI, Section 15(i)-(k) (chain of command integrity, Court of Military Appeals review, cumulative mass removal threshold) and new Article XI, Section 16 (Counter-Deployment Operations Protocol) of the Military Civilian Control Amendment. The protocol provides: (a) formal definition of unauthorized deployment; (b) multi-path activation determination; (c) authorized counter-deployment actions with nuclear exclusion; (d) de-escalation rules of engagement; (e) federal personnel protections with O-6+ duty to inquire; (f) interim operational restrictions with position freeze; (g) expedited 6-hour congressional notification; (h) two-stage judicial review (72-hour preliminary + 14-day merits); (i) Special Civil-Military Review Tribunal for post-crisis adjudication; (j) frivolous activation penalties; (k) anti-gaming provisions against documentation fraud, selective compliance, court obstruction, and mission creep. Developed through two rounds of external review with convergence analysis.
 
 ---
 
@@ -1356,26 +1429,31 @@ Article XVII-RF allows Regional Governors to declare emergencies for matters wit
 **Part 1: Emergency Precedence Rules (Article XVII-RF, Section 3(a-d))**
 
 > (a) **Primary Incident Command.** When Federal and Regional emergencies overlap in the same geographic area:
->   - (i) The Allocation Review Board shall certify within forty-eight (48) hours which executive has "Primary Incident Command";
->   - (ii) Primary Incident Command is determined by the specific nature of the threat, not by which level declared first;
->   - (iii) The non-primary executive retains supporting authority but may not issue contradictory orders.
+>
+> - (i) The Allocation Review Board shall certify within forty-eight (48) hours which executive has "Primary Incident Command";
+> - (ii) Primary Incident Command is determined by the specific nature of the threat, not by which level declared first;
+> - (iii) The non-primary executive retains supporting authority but may not issue contradictory orders.
 >
 > (b) **Precedence Criteria.** Primary Incident Command shall be assigned based on:
->   - (i) Which level's enumerated powers most directly encompass the threat;
->   - (ii) Which level has superior operational capacity for the specific response;
->   - (iii) Whether the threat crosses Regional boundaries (favoring Federal) or is contained within one Region (favoring Regional).
+>
+> - (i) Which level's enumerated powers most directly encompass the threat;
+> - (ii) Which level has superior operational capacity for the specific response;
+> - (iii) Whether the threat crosses Regional boundaries (favoring Federal) or is contained within one Region (favoring Regional).
 >
 > (c) **Citizens' Compliance Clarity.** During overlapping emergencies:
->   - (i) Citizens must comply only with orders from the Primary Incident Commander;
->   - (ii) Orders from the non-primary executive that contradict Primary Incident Command are void;
->   - (iii) Good faith compliance with Primary Incident Command orders is a complete defense to any prosecution.
+>
+> - (i) Citizens must comply only with orders from the Primary Incident Commander;
+> - (ii) Orders from the non-primary executive that contradict Primary Incident Command are void;
+> - (iii) Good faith compliance with Primary Incident Command orders is a complete defense to any prosecution.
 >
 > (d) **Expedited ARB Determination.** Primary Incident Command determinations:
->   - (i) Are made within forty-eight (48) hours of conflict notification;
->   - (ii) Are immediately effective and may not be stayed pending appeal;
->   - (iii) May be appealed to the Supreme Court, which must rule within seven (7) days.
+>
+> - (i) Are made within forty-eight (48) hours of conflict notification;
+> - (ii) Are immediately effective and may not be stayed pending appeal;
+> - (iii) May be appealed to the Supreme Court, which must rule within seven (7) days.
 
 **Design Rationale:**
+
 - Primary Incident Command creates clear hierarchy
 - Criteria based on enumerated powers and capacity, not politics
 - Citizens' compliance clarity protects individuals
@@ -1386,26 +1464,31 @@ Article XVII-RF allows Regional Governors to declare emergencies for matters wit
 **Part 2: Emergency Duration Limitations (Article XVII-RF, Section 3(e-h))**
 
 > (e) **Initial Emergency Duration.** Emergency declarations:
->   - (i) Are effective for a maximum of sixty (60) days without legislative renewal;
->   - (ii) Regional emergencies require Regional Legislature renewal;
->   - (iii) Federal emergencies require Congressional renewal.
+>
+> - (i) Are effective for a maximum of sixty (60) days without legislative renewal;
+> - (ii) Regional emergencies require Regional Legislature renewal;
+> - (iii) Federal emergencies require Congressional renewal.
 >
 > (f) **Renewal Requirements.** Emergency renewal:
->   - (i) Requires majority vote of the relevant legislature;
->   - (ii) May extend the emergency for a maximum of sixty (60) additional days per renewal;
->   - (iii) Renewal must specify continued necessity based on current conditions.
+>
+> - (i) Requires majority vote of the relevant legislature;
+> - (ii) May extend the emergency for a maximum of sixty (60) additional days per renewal;
+> - (iii) Renewal must specify continued necessity based on current conditions.
 >
 > (g) **Absolute Duration Limit.** No emergency may continue for more than:
->   - (i) One hundred eighty (180) days without supermajority (2/3) legislative approval;
->   - (ii) Three hundred sixty-five (365) days without three-fourths (3/4) legislative approval;
->   - (iii) Seven hundred thirty (730) days regardless of legislative approval.
+>
+> - (i) One hundred eighty (180) days without supermajority (2/3) legislative approval;
+> - (ii) Three hundred sixty-five (365) days without three-fourths (3/4) legislative approval;
+> - (iii) Seven hundred thirty (730) days regardless of legislative approval.
 >
 > (h) **Emergency Stacking Prohibition.** Executives may not:
->   - (i) Declare multiple emergencies covering substantially similar circumstances;
->   - (ii) Use a new emergency declaration to extend powers from an expiring emergency;
->   - (iii) Aggregate emergency powers from multiple declarations beyond what a single emergency would authorize.
+>
+> - (i) Declare multiple emergencies covering substantially similar circumstances;
+> - (ii) Use a new emergency declaration to extend powers from an expiring emergency;
+> - (iii) Aggregate emergency powers from multiple declarations beyond what a single emergency would authorize.
 
 **Design Rationale:**
+
 - 60-day initial limit requires legislative check
 - Graduated renewal requirements increase scrutiny over time
 - 730-day absolute limit prevents true perpetual emergency
@@ -1416,22 +1499,26 @@ Article XVII-RF allows Regional Governors to declare emergencies for matters wit
 **Part 3: Emergency Power Scope Limitations (Article XVII-RF, Section 3(i-k))**
 
 > (i) **Enumerated Emergency Powers.** Emergency powers are limited to:
->   - (i) Actions directly necessary to address the declared emergency;
->   - (ii) Temporary measures that expire with the emergency;
->   - (iii) Powers within the declaring level's enumerated authority.
+>
+> - (i) Actions directly necessary to address the declared emergency;
+> - (ii) Temporary measures that expire with the emergency;
+> - (iii) Powers within the declaring level's enumerated authority.
 >
 > (j) **Prohibited Emergency Actions.** Emergency powers may not be used to:
->   - (i) Permanently alter property rights, regulatory structures, or governmental organization;
->   - (ii) Override constitutional rights except as specifically authorized by Article XV-RF;
->   - (iii) Preempt the enumerated powers of other governmental levels;
->   - (iv) Suspend elections, legislative sessions, or judicial proceedings.
+>
+> - (i) Permanently alter property rights, regulatory structures, or governmental organization;
+> - (ii) Override constitutional rights except as specifically authorized by Article XV-RF;
+> - (iii) Preempt the enumerated powers of other governmental levels;
+> - (iv) Suspend elections, legislative sessions, or judicial proceedings.
 >
 > (k) **Emergency Scope Review.** Any person affected by emergency measures may petition:
->   - (i) For ARB review of whether specific measures exceed emergency authority;
->   - (ii) For injunction against measures exceeding declared emergency scope;
->   - (iii) Petitions receive expedited review within fourteen (14) days.
+>
+> - (i) For ARB review of whether specific measures exceed emergency authority;
+> - (ii) For injunction against measures exceeding declared emergency scope;
+> - (iii) Petitions receive expedited review within fourteen (14) days.
 
 **Design Rationale:**
+
 - Enumerated powers limit constrains emergency scope
 - Prohibited actions close specific abuse vectors
 - Scope review enables individual challenge
@@ -1442,21 +1529,25 @@ Article XVII-RF allows Regional Governors to declare emergencies for matters wit
 **Part 4: Accountability and Termination (Article XVII-RF, Section 3(l-n))**
 
 > (l) **Emergency Termination Triggers.** An emergency automatically terminates when:
->   - (i) The declared threat has been resolved or no longer exists;
->   - (ii) The legislature votes to terminate by simple majority;
->   - (iii) The ARB finds the emergency declaration was pretextual.
+>
+> - (i) The declared threat has been resolved or no longer exists;
+> - (ii) The legislature votes to terminate by simple majority;
+> - (iii) The ARB finds the emergency declaration was pretextual.
 >
 > (m) **Pretextual Emergency Finding.** The ARB may find an emergency pretextual if:
->   - (i) The declared threat does not meet objective emergency criteria;
->   - (ii) Emergency powers are being used for purposes unrelated to the declared threat;
->   - (iii) The emergency is being maintained after the threat has clearly ended.
+>
+> - (i) The declared threat does not meet objective emergency criteria;
+> - (ii) Emergency powers are being used for purposes unrelated to the declared threat;
+> - (iii) The emergency is being maintained after the threat has clearly ended.
 >
 > (n) **Executive Accountability.** Executives who declare pretextual emergencies:
->   - (i) May be impeached for abuse of emergency powers;
->   - (ii) May be personally liable for damages caused by pretextual measures;
->   - (iii) Lose emergency declaration authority for the remainder of their term (subsequent emergencies require legislative declaration).
+>
+> - (i) May be impeached for abuse of emergency powers;
+> - (ii) May be personally liable for damages caused by pretextual measures;
+> - (iii) Lose emergency declaration authority for the remainder of their term (subsequent emergencies require legislative declaration).
 
 **Design Rationale:**
+
 - Multiple termination triggers prevent perpetuation
 - Pretextual finding authority enables oversight
 - Personal accountability deters abuse
@@ -1480,6 +1571,7 @@ Article XVII-RF allows Regional Governors to declare emergencies for matters wit
 | Personal Accountability | Deterrence | Axiom 1 (Assume Bad Faith) |
 
 **Relationship to Other Gaps:**
+
 - **Gap 45 (Emergency Power Abuse):** General emergency abuse; Gap 91 addresses multi-level emergency conflict
 - **Gap 79 (Caretaker Perpetualism):** Executive term extension; Gap 91 addresses emergency-based power extension
 - **Gap 84 (Referendum Hijacking):** Emergency affecting referendum; Gap 91 addresses emergency limitations generally
@@ -1538,28 +1630,33 @@ Article XVI (Cyber Defense) allows Federal government unified command against "n
 **Part 1: Domestic Cyber Operations Prohibition (Article XVI-RF, Section 4(a-d))**
 
 > (a) **Domestic Targeting Prohibition.** No cyber-defense operation may target:
->   - (i) Domestic communications of U.S. persons;
->   - (ii) Political organizations, campaigns, or parties;
->   - (iii) Press entities, journalists, or media organizations;
->   - (iv) Without a specific warrant meeting the requirements of Section 4(b).
+>
+> - (i) Domestic communications of U.S. persons;
+> - (ii) Political organizations, campaigns, or parties;
+> - (iii) Press entities, journalists, or media organizations;
+> - (iv) Without a specific warrant meeting the requirements of Section 4(b).
 >
 > (b) **Warrant Requirement.** Domestic cyber operations require:
->   - (i) A specific, time-limited warrant from the National Election Court;
->   - (ii) Finding by clear and convincing evidence that the target is a direct agent of a foreign military or intelligence service;
->   - (iii) "Direct agent" means receiving instructions and compensation, not merely sharing viewpoints;
->   - (iv) Warrants may not exceed thirty (30) days and require renewal with fresh evidence.
+>
+> - (i) A specific, time-limited warrant from the National Election Court;
+> - (ii) Finding by clear and convincing evidence that the target is a direct agent of a foreign military or intelligence service;
+> - (iii) "Direct agent" means receiving instructions and compensation, not merely sharing viewpoints;
+> - (iv) Warrants may not exceed thirty (30) days and require renewal with fresh evidence.
 >
 > (c) **Proxy Designation Limitations.** The executive may not:
->   - (i) Designate domestic organizations as "foreign proxies" without judicial finding;
->   - (ii) Use classified evidence to support proxy designation without in camera judicial review;
->   - (iii) Apply cyber operations to alleged proxies without warrant under Section 4(b).
+>
+> - (i) Designate domestic organizations as "foreign proxies" without judicial finding;
+> - (ii) Use classified evidence to support proxy designation without in camera judicial review;
+> - (iii) Apply cyber operations to alleged proxies without warrant under Section 4(b).
 >
 > (d) **Two-Key Extension to Cyber.** Cyber operations with domestic effect:
->   - (i) Are subject to the Two-Key authorization requirement of Article XI-RF;
->   - (ii) "Domestic effect" includes filtering, blocking, or monitoring U.S. person communications;
->   - (iii) Administrative labeling does not exempt operations from Two-Key requirement.
+>
+> - (i) Are subject to the Two-Key authorization requirement of Article XI-RF;
+> - (ii) "Domestic effect" includes filtering, blocking, or monitoring U.S. person communications;
+> - (iii) Administrative labeling does not exempt operations from Two-Key requirement.
 
 **Design Rationale:**
+
 - Explicit prohibition closes targeting loophole
 - Warrant requirement provides judicial check
 - "Direct agent" standard prevents broad labeling
@@ -1570,21 +1667,25 @@ Article XVI (Cyber Defense) allows Federal government unified command against "n
 **Part 2: Platform and Press Protection (Article XVI-RF, Section 4(e-g))**
 
 > (e) **Platform Seizure Prohibition.** The Federal government may not:
->   - (i) Seize, commandeer, or take operational control of communications platforms;
->   - (ii) Order platforms to filter, block, or remove content based on viewpoint;
->   - (iii) Condition platform operation on content moderation compliance.
+>
+> - (i) Seize, commandeer, or take operational control of communications platforms;
+> - (ii) Order platforms to filter, block, or remove content based on viewpoint;
+> - (iii) Condition platform operation on content moderation compliance.
 >
 > (f) **Press Freedom Floor.** Cyber defense operations:
->   - (i) May not target journalists or media organizations absent warrant showing direct foreign agent status;
->   - (ii) May not monitor journalist communications even incidentally without minimization procedures;
->   - (iii) May not use journalist protection as pretext for surveillance.
+>
+> - (i) May not target journalists or media organizations absent warrant showing direct foreign agent status;
+> - (ii) May not monitor journalist communications even incidentally without minimization procedures;
+> - (iii) May not use journalist protection as pretext for surveillance.
 >
 > (g) **Political Speech Protection.** During election periods (ninety (90) days before any federal election):
->   - (i) No new cyber operations may target domestic political communications;
->   - (ii) Existing operations require reauthorization by the National Election Court;
->   - (iii) Election Court shall presume against authorization absent imminent threat evidence.
+>
+> - (i) No new cyber operations may target domestic political communications;
+> - (ii) Existing operations require reauthorization by the National Election Court;
+> - (iii) Election Court shall presume against authorization absent imminent threat evidence.
 
 **Design Rationale:**
+
 - Platform protection prevents infrastructure seizure
 - Press freedom floor protects journalism
 - Election period protection prevents manipulation
@@ -1595,21 +1696,25 @@ Article XVI (Cyber Defense) allows Federal government unified command against "n
 **Part 3: Oversight and Accountability (Article XVI-RF, Section 4(h-j))**
 
 > (h) **Congressional Notification.** All domestic cyber operations:
->   - (i) Shall be reported to Congressional intelligence committees within twenty-four (24) hours;
->   - (ii) Reports shall include targeting criteria, legal authority, and minimization procedures;
->   - (iii) Failure to report is grounds for immediate operation termination.
+>
+> - (i) Shall be reported to Congressional intelligence committees within twenty-four (24) hours;
+> - (ii) Reports shall include targeting criteria, legal authority, and minimization procedures;
+> - (iii) Failure to report is grounds for immediate operation termination.
 >
 > (i) **Inspector General Review.** The Intelligence Community Inspector General:
->   - (i) Shall review all domestic cyber operations quarterly;
->   - (ii) Shall report violations to Congress and the National Election Court;
->   - (iii) Has authority to order immediate operation suspension pending review.
+>
+> - (i) Shall review all domestic cyber operations quarterly;
+> - (ii) Shall report violations to Congress and the National Election Court;
+> - (iii) Has authority to order immediate operation suspension pending review.
 >
 > (j) **Personal Accountability.** Officials who authorize domestic cyber operations violating this Section:
->   - (i) Are personally liable for civil damages to affected persons;
->   - (ii) May not claim qualified immunity for constitutional violations;
->   - (iii) May be prosecuted under federal civil rights statutes.
+>
+> - (i) Are personally liable for civil damages to affected persons;
+> - (ii) May not claim qualified immunity for constitutional violations;
+> - (iii) May be prosecuted under federal civil rights statutes.
 
 **Design Rationale:**
+
 - Congressional notification creates oversight
 - Inspector General review provides independent check
 - Personal accountability deters abuse
@@ -1631,6 +1736,7 @@ Article XVI (Cyber Defense) allows Federal government unified command against "n
 | Personal Accountability | Deterrence | Axiom 1 (Assume Bad Faith) |
 
 **Relationship to Other Gaps:**
+
 - **Gap 88 (Two-Key Bypass):** Military purge; Gap 102 addresses cyber bypass
 - **Gap 84 (Referendum Hijacking):** Information suppression; Gap 102 addresses cyber suppression
 - **Gap 44 (Federal Executive Overreach):** Executive power abuse; Gap 102 addresses cyber power abuse
@@ -1683,21 +1789,25 @@ Article XI-RF separates Regional Guard from federal control through the "Two-Key
 **Part 1: State and Local Command Exclusivity (Article XI-RF, Section 6(a-c))**
 
 > (a) **Enforcement Tier Exclusivity.** During federal emergencies:
->   - (i) State and local law enforcement remain under exclusive command of their respective State or local authorities;
->   - (ii) No federal agency may command, deputize, or redirect local police without Regional Governor consent;
->   - (iii) "Deputization" includes any arrangement giving local police federal enforcement authority.
+>
+> - (i) State and local law enforcement remain under exclusive command of their respective State or local authorities;
+> - (ii) No federal agency may command, deputize, or redirect local police without Regional Governor consent;
+> - (iii) "Deputization" includes any arrangement giving local police federal enforcement authority.
 >
 > (b) **Consent Requirement.** Federal use of local law enforcement requires:
->   - (i) Written consent of the Regional Governor;
->   - (ii) Written consent of the relevant State Governor;
->   - (iii) Consent may be revoked at any time.
+>
+> - (i) Written consent of the Regional Governor;
+> - (ii) Written consent of the relevant State Governor;
+> - (iii) Consent may be revoked at any time.
 >
 > (c) **Void Deputization.** Any federal attempt to command local police without required consents:
->   - (i) Is void and unenforceable;
->   - (ii) Local officers following void orders are not acting under federal authority;
->   - (iii) Local officers may refuse void orders without consequence.
+>
+> - (i) Is void and unenforceable;
+> - (ii) Local officers following void orders are not acting under federal authority;
+> - (iii) Local officers may refuse void orders without consequence.
 
 **Design Rationale:**
+
 - Command exclusivity prevents circumvention
 - Dual consent requirement creates multiple checks
 - Void provision removes legal effect
@@ -1708,21 +1818,25 @@ Article XI-RF separates Regional Guard from federal control through the "Two-Key
 **Part 2: Two-Key Extension to Deputization (Article XI-RF, Section 6(d-f))**
 
 > (d) **Two-Key Extension.** Large-scale deputization of local law enforcement:
->   - (i) Deputization exceeding one hundred (100) officers requires Two-Key authorization;
->   - (ii) Deputization for enforcement actions against Regional authorities requires Two-Key;
->   - (iii) This extends the Two-Key protection to all forms of federal domestic force.
+>
+> - (i) Deputization exceeding one hundred (100) officers requires Two-Key authorization;
+> - (ii) Deputization for enforcement actions against Regional authorities requires Two-Key;
+> - (iii) This extends the Two-Key protection to all forms of federal domestic force.
 >
 > (e) **Counter-Deputization Authority.** If federal deputization occurs without Two-Key:
->   - (i) The Regional Governor may order Regional law enforcement not to cooperate;
->   - (ii) The Regional Guard may secure Regional facilities against unauthorized federal agents;
->   - (iii) Deputized officers operating without authorization may be detained.
+>
+> - (i) The Regional Governor may order Regional law enforcement not to cooperate;
+> - (ii) The Regional Guard may secure Regional facilities against unauthorized federal agents;
+> - (iii) Deputized officers operating without authorization may be detained.
 >
 > (f) **De-Escalation Requirement.** Conflicts between deputized local police and Regional forces:
->   - (i) Shall be immediately referred to the ARB for mediation;
->   - (ii) Both sides shall maintain positions pending ARB determination;
->   - (iii) The ARB determination is binding on all parties.
+>
+> - (i) Shall be immediately referred to the ARB for mediation;
+> - (ii) Both sides shall maintain positions pending ARB determination;
+> - (iii) The ARB determination is binding on all parties.
 
 **Design Rationale:**
+
 - Two-Key extension closes deputization loophole
 - Counter-deputization authority enables defense
 - Detention authority provides enforcement
@@ -1742,6 +1856,7 @@ Article XI-RF separates Regional Guard from federal control through the "Two-Key
 | ARB Mediation | Escalation prevention | Axiom 7 (Law Moves Faster) |
 
 **Relationship to Other Gaps:**
+
 - **Gap 88 (Two-Key Bypass):** Military purge; Gap 113 addresses deputization bypass
 - **Gap 82 (Two-Key Collusion):** Both keys collude; Gap 113 addresses one-key circumvention
 - **Gap 74 (State Defense Force):** Paramilitary proxies; Gap 113 addresses police proxies
@@ -1789,40 +1904,44 @@ The "Two-Key" rule (Article XI-RF) requires both the President and a majority of
 **Part 1: Regional Guard Defensive Authorization (Article XI-RF, Section 2(f))**
 
 > (f) **Unauthorized Federal Deployment Response.**
->   - (i) If Federal Armed Forces are deployed domestically without valid Two-Key authorization, such deployment is constitutionally unauthorized;
->   - (ii) The affected Regional Guard is constitutionally commanded to prevent unauthorized federal forces from seizing Regional assets, critical infrastructure, or government facilities;
->   - (iii) Regional Guard action under this section is defensive and proportional, not offensive;
->   - (iv) This authorization is automatic upon ARB or any three Regional Governors' determination that deployment lacks Two-Key authorization.
+>
+> - (i) If Federal Armed Forces are deployed domestically without valid Two-Key authorization, such deployment is constitutionally unauthorized;
+> - (ii) The affected Regional Guard is constitutionally commanded to prevent unauthorized federal forces from seizing Regional assets, critical infrastructure, or government facilities;
+> - (iii) Regional Guard action under this section is defensive and proportional, not offensive;
+> - (iv) This authorization is automatic upon ARB or any three Regional Governors' determination that deployment lacks Two-Key authorization.
 
 ---
 
 **Part 2: Officer Constitutional Oath and Refusal Duty (Article XI-RF, Section 2(g))**
 
 > (g) **Officer Constitutional Duty.**
->   - (i) All commissioned officers of the United States Armed Forces swear primary allegiance to the Constitution, not to any individual;
->   - (ii) Officers have an affirmative duty to refuse orders for domestic deployment that lack Two-Key authorization;
->   - (iii) Refusal under this section is not insubordination and may not be punished;
->   - (iv) Officers who follow unauthorized deployment orders are personally liable and may not claim superior orders defense.
+>
+> - (i) All commissioned officers of the United States Armed Forces swear primary allegiance to the Constitution, not to any individual;
+> - (ii) Officers have an affirmative duty to refuse orders for domestic deployment that lack Two-Key authorization;
+> - (iii) Refusal under this section is not insubordination and may not be punished;
+> - (iv) Officers who follow unauthorized deployment orders are personally liable and may not claim superior orders defense.
 
 ---
 
 **Part 3: Officer Corps Independence Protections (Article XI-RF, Section 2(h))**
 
 > (h) **Officer Corps Independence.**
->   - (i) Mass removal of general officers (more than 10% in any 12-month period) requires Senate Armed Services Committee approval;
->   - (ii) Removal of officers for refusal to pledge personal loyalty to any individual is prohibited;
->   - (iii) Officers removed for constitutional refusal have expedited appeal to the Court of Military Appeals;
->   - (iv) Pattern of loyalty-based removals triggers automatic Inspector General investigation with Congressional reporting.
+>
+> - (i) Mass removal of general officers (more than 10% in any 12-month period) requires Senate Armed Services Committee approval;
+> - (ii) Removal of officers for refusal to pledge personal loyalty to any individual is prohibited;
+> - (iii) Officers removed for constitutional refusal have expedited appeal to the Court of Military Appeals;
+> - (iv) Pattern of loyalty-based removals triggers automatic Inspector General investigation with Congressional reporting.
 
 ---
 
 **Part 4: Rapid Constitutional Adjudication (Article XI-RF, Section 2(i))**
 
 > (i) **Emergency Deployment Review.**
->   - (i) Any Regional Governor may petition the Supreme Court for emergency review of federal deployment authorization;
->   - (ii) The Supreme Court shall rule within forty-eight (48) hours of petition;
->   - (iii) Pending Supreme Court ruling, deployed forces may secure but not seize facilities;
->   - (iv) Supreme Court finding of unauthorized deployment requires immediate withdrawal; failure to withdraw authorizes Regional Guard interdiction.
+>
+> - (i) Any Regional Governor may petition the Supreme Court for emergency review of federal deployment authorization;
+> - (ii) The Supreme Court shall rule within forty-eight (48) hours of petition;
+> - (iii) Pending Supreme Court ruling, deployed forces may secure but not seize facilities;
+> - (iv) Supreme Court finding of unauthorized deployment requires immediate withdrawal; failure to withdraw authorizes Regional Guard interdiction.
 
 ---
 
@@ -1838,12 +1957,13 @@ The "Two-Key" rule (Article XI-RF) requires both the President and a majority of
 | Personal Liability | Superior orders shield | Axiom 1 (Assume Bad Faith) |
 
 **Relationship to Other Gaps:**
+
 - **Gap 88 (Two-Key Bypass via Purge):** Officer purge; Gap 122 provides comprehensive framework
 - **Gap 113 (Emergency Pincer):** Deputization bypass; Gap 122 addresses military bypass
 - **Gap 102 (Cyber Loophole):** Non-military operations; Gap 122 addresses military operations
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article XI-RF, Section 2. This four-part solution authorizes Regional Guard defensive response to unauthorized deployment, establishes officer refusal duty with protection, requires Senate approval for mass officer removal, and creates 48-hour Supreme Court emergency review.
+**RESOLVED.** Duplicate of Gap 88. Both gaps resolved jointly through Article XI, Section 15(i)-(k) and new Section 16 (Counter-Deployment Operations Protocol). See Gap 88 for full resolution details.
 
 ---
 
@@ -1926,6 +2046,7 @@ Amend Article XVII-RF, Section 2 to add:
 | Immediate termination | Assembly regains control the moment it can act |
 
 **Relationship to Other Gaps:**
+
 - **Gap 24 (Public Health Emergency):** Disease response; Gap 151 addresses legislative incapacity during health emergencies
 - **Gap 33 (Multi-Attack Coordination):** Coordinated attacks; Gap 151 addresses institutional incapacity
 - **Gap 44 (Executive Enforcement Deadlock):** Executive defiance; Gap 151 addresses legislative unavailability
@@ -2115,12 +2236,14 @@ The proposal's "Substantial Similarity Bar" concept is incorporated into §12(a)
 The principle that civilians cannot be tried by military tribunals while civilian courts remain open derives from *Ex Parte Milligan* (1866)—a Supreme Court precedent. Gap 175 (Interpretive Decoupling) voids pre-ratification precedents that conflict with the new constitutional structure. A Governor or President seeking to bypass civilian due process could argue that *Milligan* is voided, and the Constitution provides no explicit prohibition on military tribunals for civilians.
 
 **The Constitutional Gap**:
+
 - No constitutional text explicitly prohibits military tribunals for civilians
 - *Ex Parte Milligan* is precedent, not text
 - Article I, Section 9 addresses habeas corpus suspension but not tribunal jurisdiction
 - Gap 175 creates argument that *Milligan* no longer applies
 
 **The Attack Vector**:
+
 1. Governor declares State of Emergency (e.g., civil unrest, disaster)
 2. Governor claims civilian courts are "too slow" or "compromised"
 3. Governor establishes Military Tribunal to try "looters" or "insurrectionists"
@@ -2204,23 +2327,27 @@ Add to Article III-RF, Section 9 — Civilian Court Supremacy:
 ### Design Rationale
 
 **Textual Codification of *Milligan***:
+
 - Converts precedent to constitutional text
 - Immune to Gap 175 interpretive decoupling
 - Explicit prohibition leaves no ambiguity
 
 **"Open and Functioning" Definition**:
+
 - Prevents bad-faith claims that courts are unavailable
 - Remote proceedings satisfy requirement
 - Alternative venues count as "open"
 - Only genuine court collapse triggers exception
 
 **Emergency Docket Alternative**:
+
 - Provides legitimate solution to emergency caseload
 - Expedited civilian proceedings address efficiency concerns
 - Preserves due process while enabling speed
 - Removes justification for military tribunals
 
 **Personal Liability**:
+
 - Officers cannot hide behind "following orders"
 - Void ab initio prevents legitimization of tribunal convictions
 - Criminal and civil liability deters participation
@@ -2247,6 +2374,7 @@ All three gaps convert protective jurisprudence into constitutional text, preser
 ### Risk Assessment
 
 **Without Fix**:
+
 - Military tribunals for civilians become constitutionally permissible
 - Governors can bypass jury trials during "emergencies"
 - Due process suspended through jurisdictional manipulation
@@ -2254,6 +2382,7 @@ All three gaps convert protective jurisprudence into constitutional text, preser
 - Civil War-era abuses can recur
 
 **With Fix**:
+
 - Civilian court supremacy is constitutional text, not precedent
 - Emergency powers cannot transfer jurisdiction to military
 - Clear "open and functioning" standard prevents pretextual closures
@@ -2288,6 +2417,7 @@ All three gaps convert protective jurisprudence into constitutional text, preser
 The Constitution permits federalization of the National Guard, placing state military forces under presidential command during emergencies. However, 22 states currently maintain "State Defense Forces" (SDFs)—military units that **cannot be federalized** under current law. Regional Federalism creates a pathway for Regions to build substantial military forces outside federal control.
 
 **The Constitutional Gap**:
+
 - Article I, Section 8 gives Congress power over "organizing, arming, and disciplining, the Militia"
 - National Guard federalization authority under 10 U.S.C. § 12406
 - State Defense Forces authorized under 32 U.S.C. § 109 but **exempt from federal call-up**
@@ -2295,6 +2425,7 @@ The Constitution permits federalization of the National Guard, placing state mil
 - Regional Federalism provides larger tax base and organizational capacity for SDF expansion
 
 **The Attack Vector**:
+
 1. Region establishes "Regional Defense Force" under state defense force statutes
 2. Regional Defense Force equipped with military vehicles, weapons, aircraft
 3. Federal government cannot federalize Regional Defense Force
@@ -2305,6 +2436,7 @@ The Constitution permits federalization of the National Guard, placing state mil
 8. Constitutional crisis escalates to armed confrontation
 
 **Historical Precedent**:
+
 - Confederate states used state militias against federal authority
 - State Defense Forces expanded significantly post-9/11
 - Some SDFs have thousands of members with military training
@@ -2406,28 +2538,33 @@ Add to Article II-RF, Section 12 — Total Force Federalization:
 ### Design Rationale
 
 **Total Force Federalization**:
+
 - Closes loophole permitting unfederalizable state forces
 - All organized military forces subject to federal call-up
 - Prevents Regions from building independent armies
 
 **Clear Definition**:
+
 - Prevents definitional evasion ("this is a disaster response team, not military")
 - Functional test based on organization, equipment, training
 - Captures any force capable of military operations regardless of name
 
 **Peacetime Caps**:
+
 - 2,500 personnel limit prevents army-building during peacetime
 - Equipment restrictions prevent acquisition of heavy weapons
 - Training restrictions focus on legitimate disaster response
 - Allows functional emergency response capability without military threat
 
 **Federal Oversight**:
+
 - Annual inspections verify compliance
 - Registry tracks all forces
 - Violations reported to Constitutional Court
 - Transparency prevents covert buildup
 
 **Private Militia Prohibition**:
+
 - Prevents legitimization of radical armed groups
 - No state sponsorship of unaccountable forces
 - Clear separation between official and unofficial armed organizations
@@ -2442,6 +2579,7 @@ Add to Article II-RF, Section 12 — Total Force Federalization:
 ### Risk Assessment
 
 **Without Fix**:
+
 - Regions can build substantial unfederalizable military forces
 - Armed standoffs between Regional and federal forces become possible
 - Private militias gain state sponsorship and legitimacy
@@ -2450,6 +2588,7 @@ Add to Article II-RF, Section 12 — Total Force Federalization:
 - Regional Federalism enables state-level military independence
 
 **With Fix**:
+
 - All organized military forces subject to federal authority
 - Peacetime caps prevent army-building
 - Federal oversight ensures compliance
@@ -2485,6 +2624,7 @@ Add to Article II-RF, Section 12 — Total Force Federalization:
 The Regional Federalism framework grants Regions "Exclusive Domain" over Public Health (Article II). Gap 24 addresses public health emergency *coordination*, but it does not address the fundamental problem: a Region can use its Exclusive Domain to **refuse** cooperation with pandemic response, turning its territory into a petri dish that infects the entire Union.
 
 **The Attack Vector**:
+
 1. A deadly, highly contagious pathogen emerges in a Region (e.g., new avian flu, novel coronavirus)
 2. The Regional Governor, fearing economic damage, refuses to implement lockdowns
 3. The Region invokes "Public Health Sovereignty" under its Exclusive Domain
@@ -2494,6 +2634,7 @@ The Regional Federalism framework grants Regions "Exclusive Domain" over Public 
 7. **The Exclusive Domain of one Region becomes a death sentence for the others**
 
 **The Speed Mismatch**:
+
 - Pandemic doubling time: 3-7 days
 - Constitutional Court adjudication: 30-90 days
 - **Biology moves faster than constitutional process**
@@ -2576,26 +2717,31 @@ Add to Article XVII, Section 8 — Bio-Security Supremacy:
 ### Design Rationale
 
 **Speed Imperative**:
+
 - Pandemic response requires speed; constitutional adjudication is slow
 - Federal plenary authority enables immediate coordinated response
 - Courts review after emergency, not during
 
 **Exclusive Domain Carve-Out**:
+
 - Communicable diseases are categorically different from other public health issues
 - Externality is inherent: one Region's outbreak affects all others
 - National security framing justifies federal supremacy
 
 **Data as Infrastructure**:
+
 - Pandemic response requires accurate data
 - Data denial is as dangerous as active obstruction
 - Personal liability prevents official stonewalling
 
 **Enforcement with Compensation**:
+
 - Federal authority includes enforcement mechanisms
 - But also includes compensation for economic harm
 - Addresses "economic necessity" defense by making compliance affordable
 
 **Sunset and Review**:
+
 - Emergency authority is temporary
 - Congressional oversight prevents indefinite emergency rule
 - Judicial review available, but not as real-time injunction
@@ -2612,6 +2758,7 @@ Add to Article XVII, Section 8 — Bio-Security Supremacy:
 ### Risk Assessment
 
 **Without Fix**:
+
 - Regions can refuse pandemic response cooperation
 - Virus spreads while constitutional disputes are adjudicated
 - One Region's "sovereignty" becomes other Regions' death toll
@@ -2619,6 +2766,7 @@ Add to Article XVII, Section 8 — Bio-Security Supremacy:
 - Federal system becomes liability rather than asset in pandemic response
 
 **With Fix**:
+
 - Coordinated national response enabled
 - Data denial and obstruction criminalized
 - Regional Exclusive Domain yields to federal authority for communicable diseases
@@ -2681,45 +2829,52 @@ The Constitution grants Congress alone the power to declare war, but Presidents 
 **Article I-RF, Section 13 — The War Funding Guillotine**
 
 > (a) **Authorization Requirement.** No funds may be obligated or expended for offensive military operations in a foreign country or against a foreign power without:
->   - (i) A formal declaration of war by Congress; or
->   - (ii) A specific statutory authorization for the use of military force that:
->       - (A) Names the countries, territories, or organizations against which force is authorized;
->       - (B) States the specific objectives to be achieved;
->       - (C) Contains a sunset date not more than two (2) years from enactment;
->       - (D) May not authorize force against any entity not in existence at time of enactment.
+>
+> - (i) A formal declaration of war by Congress; or
+> - (ii) A specific statutory authorization for the use of military force that:
+>     - (A) Names the countries, territories, or organizations against which force is authorized;
+>     - (B) States the specific objectives to be achieved;
+>     - (C) Contains a sunset date not more than two (2) years from enactment;
+>     - (D) May not authorize force against any entity not in existence at time of enactment.
 >
 > (b) **Automatic Rescission.** If, sixty (60) days after the initiation of offensive military operations:
->   - (i) Congress has not enacted a declaration of war or specific statutory authorization meeting the requirements of subsection (a)(ii);
->   - (ii) All funds obligated or expended for such operations shall be automatically rescinded;
->   - (iii) No new funds may be obligated for such operations;
->   - (iv) The Comptroller General shall certify non-compliance and notify the Treasury.
+>
+> - (i) Congress has not enacted a declaration of war or specific statutory authorization meeting the requirements of subsection (a)(ii);
+> - (ii) All funds obligated or expended for such operations shall be automatically rescinded;
+> - (iii) No new funds may be obligated for such operations;
+> - (iv) The Comptroller General shall certify non-compliance and notify the Treasury.
 >
 > (c) **Troop Withdrawal Funding.** Upon automatic rescission:
->   - (i) Funds necessary for safe withdrawal of forces shall remain available;
->   - (ii) Such withdrawal shall be completed within ninety (90) days;
->   - (iii) Force protection operations are authorized during withdrawal.
+>
+> - (i) Funds necessary for safe withdrawal of forces shall remain available;
+> - (ii) Such withdrawal shall be completed within ninety (90) days;
+> - (iii) Force protection operations are authorized during withdrawal.
 >
 > (d) **Emergency Exception.** The sixty-day period may be extended once by thirty (30) days upon:
->   - (i) Joint resolution of both Houses of Congress;
->   - (ii) Presidential certification of imminent threat to United States territory or forces;
->   - (iii) No further extensions permitted without full authorization.
+>
+> - (i) Joint resolution of both Houses of Congress;
+> - (ii) Presidential certification of imminent threat to United States territory or forces;
+> - (iii) No further extensions permitted without full authorization.
 >
 > (e) **Semantic Evasion Prohibition.** "Offensive military operations" shall include:
->   - (i) Any use of armed forces resulting in combat;
->   - (ii) Any sustained military operations against armed groups;
->   - (iii) Drone strikes, special operations, and cyber attacks causing physical destruction;
->   - (iv) Actions meeting the threshold of "armed conflict" under international humanitarian law;
->   - (v) Presidential determination that operations do not constitute "hostilities" or "war" shall not affect this Section.
+>
+> - (i) Any use of armed forces resulting in combat;
+> - (ii) Any sustained military operations against armed groups;
+> - (iii) Drone strikes, special operations, and cyber attacks causing physical destruction;
+> - (iv) Actions meeting the threshold of "armed conflict" under international humanitarian law;
+> - (v) Presidential determination that operations do not constitute "hostilities" or "war" shall not affect this Section.
 >
 > (f) **Legacy Authorization Sunset.** Any authorization for use of military force enacted prior to this Article's ratification:
->   - (i) Shall expire two (2) years after ratification unless renewed;
->   - (ii) Renewal shall meet all requirements of subsection (a)(ii);
->   - (iii) No operations may continue under prior authorization after expiration.
+>
+> - (i) Shall expire two (2) years after ratification unless renewed;
+> - (ii) Renewal shall meet all requirements of subsection (a)(ii);
+> - (iii) No operations may continue under prior authorization after expiration.
 >
 > (g) **Treaty Obligations.** Treaty obligations requiring military action:
->   - (i) Do not substitute for congressional authorization under this Section;
->   - (ii) Congress may enact prospective authorization for treaty-mandated responses;
->   - (iii) Article 5 responses under NATO or similar treaties require authorization within thirty (30) days.
+>
+> - (i) Do not substitute for congressional authorization under this Section;
+> - (ii) Congress may enact prospective authorization for treaty-mandated responses;
+> - (iii) Article 5 responses under NATO or similar treaties require authorization within thirty (30) days.
 >
 > (h) **Enforcement.** Any member of Congress shall have standing to enforce this Section through action for declaratory and injunctive relief in the United States District Court for the District of Columbia, with expedited appeal directly to the Supreme Court.
 
@@ -2882,6 +3037,7 @@ As of 2024, over 40 national emergencies remain active. The oldest dates to 1979
 >
 > **(b) Renewal Requirements**
 > No renewal shall extend an emergency for more than 180 days. Each renewal must:
+>
 > - (1) Specify the continuing threat that necessitates emergency powers;
 > - (2) Identify the specific powers being extended and their nexus to the threat;
 > - (3) Pass both chambers by recorded vote with a quorum present.
@@ -2897,6 +3053,7 @@ As of 2024, over 40 national emergencies remain active. The oldest dates to 1979
 >
 > **(f) Judicial Review**
 > Any citizen with standing may challenge the nexus between an emergency declaration and the powers invoked. Courts shall apply intermediate scrutiny, requiring the government to demonstrate that:
+>
 > - (1) The declared threat is genuine and ongoing;
 > - (2) The invoked powers are substantially related to addressing that threat;
 > - (3) Ordinary legislative processes are inadequate to the threat's timeline.
@@ -3058,63 +3215,63 @@ We placed strict limits on the Standing Army through the "Funding Guillotine" (G
 
 > **(a) Inherently Governmental Function.** The exercise of the following powers is an Inherently Governmental Function that may only be performed by sworn officers of the United Regions:
 >
->   - (1) combat operations, offensive military action, and armed conflict engagement;
->   - (2) detention, arrest, and imprisonment of persons;
->   - (3) interrogation of prisoners or detainees;
->   - (4) law enforcement requiring the use or threat of force;
->   - (5) intelligence operations involving coercion, violence, or surveillance of U.S. persons;
->   - (6) security operations requiring authority to use lethal force.
+> - (1) combat operations, offensive military action, and armed conflict engagement;
+> - (2) detention, arrest, and imprisonment of persons;
+> - (3) interrogation of prisoners or detainees;
+> - (4) law enforcement requiring the use or threat of force;
+> - (5) intelligence operations involving coercion, violence, or surveillance of U.S. persons;
+> - (6) security operations requiring authority to use lethal force.
 >
 > **(b) Private Military Contractor Prohibition.** The Federal Government, Regional Governments, and all agencies and instrumentalities thereof may not:
 >
->   - (1) employ private military contractors for combat, combat support, or security operations requiring lethal force authority;
->   - (2) fund, directly or indirectly, private military operations by U.S. or foreign entities;
->   - (3) grant immunity, indemnification, or legal protection to private military actors;
->   - (4) classify PMC contracts or expenditures to evade congressional oversight;
->   - (5) permit PMC personnel to operate under U.S. command or in conjunction with U.S. forces.
+> - (1) employ private military contractors for combat, combat support, or security operations requiring lethal force authority;
+> - (2) fund, directly or indirectly, private military operations by U.S. or foreign entities;
+> - (3) grant immunity, indemnification, or legal protection to private military actors;
+> - (4) classify PMC contracts or expenditures to evade congressional oversight;
+> - (5) permit PMC personnel to operate under U.S. command or in conjunction with U.S. forces.
 >
 > **(c) Limited Contractor Authorization.** Private contractors may provide:
 >
->   - (1) logistics, maintenance, and supply chain services;
->   - (2) training and education in non-combat settings;
->   - (3) technical expertise for weapons systems;
->   - (4) administrative and clerical support.
+> - (1) logistics, maintenance, and supply chain services;
+> - (2) training and education in non-combat settings;
+> - (3) technical expertise for weapons systems;
+> - (4) administrative and clerical support.
 >
 > Contractors providing such services may not carry weapons, exercise detention authority, or participate in combat operations.
 >
 > **(d) UCMJ Extension.** Any person performing security or military-adjacent functions under U.S. government contract is subject to:
 >
->   - (1) the Uniform Code of Military Justice;
->   - (2) prosecution for war crimes under federal law;
->   - (3) court-martial jurisdiction for offenses committed in conflict zones.
+> - (1) the Uniform Code of Military Justice;
+> - (2) prosecution for war crimes under federal law;
+> - (3) court-martial jurisdiction for offenses committed in conflict zones.
 >
 > **(e) Foreign Operations.** U.S. persons may not:
 >
->   - (1) serve in foreign private military organizations;
->   - (2) provide military training or services to foreign governments without State Department license;
->   - (3) participate in combat operations for any entity other than the United Regions armed forces.
+> - (1) serve in foreign private military organizations;
+> - (2) provide military training or services to foreign governments without State Department license;
+> - (3) participate in combat operations for any entity other than the United Regions armed forces.
 >
 > Violation strips U.S. citizenship and creates permanent ineligibility for any government employment or contract.
 >
 > **(f) Regional PMC Prohibition.** Regional and State governments may not:
 >
->   - (1) hire private military or armed security contractors;
->   - (2) authorize private entities to exercise law enforcement powers;
->   - (3) fund paramilitary organizations through grants, contracts, or tax benefits.
+> - (1) hire private military or armed security contractors;
+> - (2) authorize private entities to exercise law enforcement powers;
+> - (3) fund paramilitary organizations through grants, contracts, or tax benefits.
 >
 > **(g) Transparency.** All contracts for security services, military training, or defense-related functions:
 >
->   - (1) shall be reported to Congress within 30 days;
->   - (2) may not be classified solely to conceal their existence;
->   - (3) shall include total cost, personnel count, and authorized activities;
->   - (4) shall be publicly disclosed in unclassified summary form.
+> - (1) shall be reported to Congress within 30 days;
+> - (2) may not be classified solely to conceal their existence;
+> - (3) shall include total cost, personnel count, and authorized activities;
+> - (4) shall be publicly disclosed in unclassified summary form.
 >
 > **(h) Enforcement.** Violation of this section:
 >
->   - (1) renders any PMC contract void and unenforceable;
->   - (2) creates personal liability for officials authorizing prohibited contracts;
->   - (3) subjects violators to prosecution for illegal warfare;
->   - (4) authorizes Congress to terminate any covert action discovered to involve PMC combat operations.
+> - (1) renders any PMC contract void and unenforceable;
+> - (2) creates personal liability for officials authorizing prohibited contracts;
+> - (3) subjects violators to prosecution for illegal warfare;
+> - (4) authorizes Congress to terminate any covert action discovered to involve PMC combat operations.
 
 #### Design Rationale
 
@@ -3132,6 +3289,7 @@ We placed strict limits on the Standing Army through the "Funding Guillotine" (G
 **Why Absolute Prohibition?**
 
 The military monopoly of the state is foundational to constitutional order. Private armies:
+
 - Owe allegiance to paymasters, not Constitution
 - Operate outside military justice and chain of command
 - Create plausible deniability for government atrocities

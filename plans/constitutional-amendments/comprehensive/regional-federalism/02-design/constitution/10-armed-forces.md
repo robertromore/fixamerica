@@ -21,7 +21,8 @@ This article presumes adoption of the [Military Civilian Control Amendment](../s
 - infrastructure independence guarantees
 - state defense force limitations (personnel caps, prohibited capabilities)
 - congressional key override for two-key collusion
-- officer corps independence protections (loyalty prohibition, mass removal trigger, pardon limitation)
+- officer corps independence protections (loyalty prohibition, mass removal trigger, pardon limitation, chain of command integrity, cumulative removal threshold)
+- counter-deployment operations protocol (activation determination, authorized actions, rules of engagement, judicial review, post-crisis adjudication)
 
 If the Military Civilian Control Amendment is adopted alongside Regional Federalism:
 
@@ -31,6 +32,10 @@ If the Military Civilian Control Amendment is adopted alongside Regional Federal
 - State Defense Force limits (Section 13) apply to forces within constituent States, not Regional Guard
 - Congressional Key Override (Section 14) uses Regional Governors for certification and bypass
 - Counter-Deployment Authority (Section 15(e)) authorizes Regional Guard activation
+- Counter-Deployment Operations Protocol (Section 16) activation under subsection (b)(2) uses "three or more Regional Governors" rather than "majority of State Governors"
+- Counter-deployment forces are Regional Guard Forces under Article XI-RF, Section 1, supplemented by State National Guard units at State Governor request
+- Post-crisis adjudication under Section 16(i) is conducted by the Special Civil-Military Review Tribunal as specified in that subsection
+- The Allocation Review Board participates in activation determinations (Section 16(b)(1)), documentation verification (Section 16(k)(1)), and cumulative removal review confirmation (Section 15(k)(3))
 
 ---
 

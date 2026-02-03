@@ -188,11 +188,11 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 74 | Disaster mutual aid compact enforcement | Medium | Partially Mitigated |
 | 82 | Double-Key hostage-taking (collusion for inaction) | High | ✅ Resolved |
 | 86 | Border security coordination during emergencies | High | Partially Mitigated |
-| 88 | Two-key bypass via military officer corps purge | High | Requires Development |
+| 88 | Two-key bypass via military officer corps purge | High | ✅ Resolved |
 | 91 | Emergency supply chain coordination | Medium | Partially Mitigated |
 | 102 | Emergency loophole for information warfare | Medium | Requires Development |
 | 113 | Evacuation authority across regional boundaries | High | Partially Mitigated |
-| 122 | Two-key bypass via officer corps purge (duplicate of Gap 88) | Medium | Requires Development |
+| 122 | Two-key bypass via officer corps purge (duplicate of Gap 88) | Medium | ✅ Resolved |
 | 167 | Lame duck sabotage (transition vulnerability) | High | ✅ Resolved |
 | 169 | Serial emergency loophole (infinite loop) | High | ✅ Resolved |
 | 190 | Tribunal trap (martial law limits) | Critical | ✅ Resolved |
