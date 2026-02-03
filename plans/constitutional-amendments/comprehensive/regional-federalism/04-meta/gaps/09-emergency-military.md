@@ -1977,9 +1977,55 @@ Add to Article XI-RF (or applicable Regional executive provisions):
 > (4) **Applicability.** This section applies to any executive officer exercising gubernatorial powers, including Lieutenant Governors and Acting Governors.
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article XI-RF creating caretaker limitations during gubernatorial transitions.
+**RESOLVED.** Constitutional amendment added as Article V, Section 4-A (Regional Executive Transition Integrity) in `02-design/constitution/03-regional-governance.md`.
 
-**Severity:** High | **Mitigability:** Requires Development
+**Resolution (2026-02-02):**
+
+Comprehensive transition integrity provisions mirroring Art II §12 (Presidential Transition), adapted for Regional Governors. Placed in Art V §4-A rather than Art XI-RF as originally proposed, because the lame duck problem extends beyond Guard/emergency powers to contracts, appointments, clemency, records, and executive orders.
+
+| Proposed Element | Constitutional Coverage |
+|---|---|
+| Transition period defined | §4-A(a) — five triggers: election certification, non-re-election announcement, final 90 days, recall/impeachment, statistical certainty of loss |
+| Guard federalization refusal restricted | §4-A(b)(1) — requires Governor-Elect concurrence or 2/3 legislature |
+| Emergency declaration restricted | §4-A(b)(2) — new declarations and material expansions restricted |
+| Compact withdrawal restricted | §4-A(b)(3) — includes non-renewal as restricted conduct |
+| Senior official termination restricted | §4-A(b)(4) — covers termination AND appointment extending beyond term |
+| Contract lock-in restricted | §4-A(b)(5) — 10,000 FPU aggregate threshold OR >90 days past inauguration; aggregation of related transactions |
+| Clemency restricted | §4-A(b)(6) — mirrors Art II §12(b) for administration officials, family, donors, self |
+| Executive orders/regulations restricted | §4-A(b)(7) — prospective-effect orders and new regulations |
+| Duty of continuity | §4-A(c) — must maintain status quo for routine operations; willful inaction as violation |
+| Emergency exception | §4-A(d) — three-judge panel of Regional Supreme Court, 72-hour expiration |
+| Governor-Elect response | §4-A(e) — 48-hour deadline; silence triggers legislative path |
+| Records preservation | §4-A(f) — mandatory preservation; destruction is felony |
+| Transition cooperation | §4-A(g) — written summary, agency access, security transfer, personal meeting |
+| Anti-circumvention | §4-A(h) — delegation attribution, pre-transition retroactive review (60 days), contract aggregation |
+| Enforcement | §4-A(i) — void ab initio, standing for Governor-Elect/legislature/AG, criminal penalties 50-500 FPU, permanent disqualification, ratification option for incoming Governor |
+| Resignation handoff | §4-A(b) — "any person exercising gubernatorial powers" including Lt. Governor or successor during Transition Period |
+| Settlement payout | §4-A(b)(5) — settlements covered as "financial obligations" |
+
+**Gaming vectors addressed:**
+
+| Vector | Coverage |
+|---|---|
+| G1 Scorched Earth Emergency | §4-A(b)(2) restricts new declarations |
+| G2 Guard Refusal Crisis | §4-A(b)(1) restricts refusal |
+| G3 Contract Lock-In | §4-A(b)(5) threshold + aggregation |
+| G4 Personnel Purge | §4-A(b)(4) restricts termination and appointment |
+| G5 Policy Entrenchment | §4-A(b)(7) restricts prospective EOs/regulations |
+| G6 Pre-Certification Sprint | §4-A(a)(3) final-90-days trigger + §4-A(h)(2) retroactive review |
+| G7 Certification Delay | §4-A(a)(5) statistical certainty trigger |
+| G8 Governor-Elect Unavailability | §4-A(e) response deadline + legislative path + court petition |
+| G9 Allied Legislature | Two-thirds threshold in §4-A(b) |
+| G10 Contract Split | §4-A(b)(5) aggregation + §4-A(h)(3) anti-splitting |
+| G11 Non-Renewal Sabotage | §4-A(b)(3) non-renewal as restricted + §4-A(c) duty of continuity |
+| G12 Resignation Handoff | §4-A(b) "any person exercising gubernatorial powers" |
+| G13 Clemency Flood | §4-A(b)(6) clemency restrictions |
+| G14 Delegated Action | §4-A(h)(1) delegation attribution |
+| G15 Emergency Grandfathering | §4-A(b)(2) "materially expand" covers existing emergencies |
+| G16 Rulemaking Rush | §4-A(b)(7) regulation restriction |
+| G17 Settlement Payout | §4-A(b)(5) "settlements" covered |
+
+**Severity:** High | **Mitigability:** ✅ Resolved
 
 ---
 

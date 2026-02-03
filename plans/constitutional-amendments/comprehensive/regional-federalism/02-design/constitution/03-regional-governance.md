@@ -686,6 +686,74 @@ Each Region shall have a Regional Governor elected by the people of the Region. 
 
 ---
 
+### Section 4-A. Regional Executive Transition Integrity
+
+*Resolves Gap 167 — Lame Duck Sabotage (Transition Vulnerability). Mirrors Article II, Section 12 (Presidential Transition Integrity) for Regional Governors, preventing outgoing executives from abusing constitutional powers during the transition period.*
+
+(a) **Transition Period Defined.** The "Transition Period" shall commence upon the earliest of:
+
+- (1) The certification of a Regional gubernatorial election in which the incumbent Governor is not the winner;
+- (2) The incumbent Governor's public announcement that they will not seek re-election, if occurring after primary elections conclude;
+- (3) The Governor's term reaching its final ninety (90) days;
+- (4) The certification of a successful recall petition against the Governor or the Governor's impeachment by the Regional legislature; or
+- (5) A declaration by the Regional Election Board that the incumbent's loss is a statistical certainty, based on canvassed returns showing a margin exceeding one percent (1%) of votes cast.
+
+The Transition Period concludes upon the inauguration of the successor.
+
+(b) **Restricted Authority.** During the Transition Period, the Governor — and any person exercising gubernatorial powers, including a Lieutenant Governor, Acting Governor, or any successor who assumes office during the Transition Period — shall not, without the written concurrence of the Governor-Elect or a two-thirds vote of the Regional Legislature, take any of the following actions:
+
+- (1) Refuse a lawful federalization order for the Regional Guard under Article XI-RF, Section 2;
+- (2) Declare a new State of Emergency under Article XVII-RF, Section 1, or materially expand the scope or powers of an existing emergency declaration;
+- (3) Withdraw from, terminate, or fail to renew any interstate compact or intergovernmental agreement that would otherwise continue by its terms;
+- (4) Terminate, suspend, or appoint department heads, judges, independent officers, inspectors general, or any official whose term extends beyond the current gubernatorial term;
+- (5) Execute contracts, settlements, or financial obligations exceeding ten thousand (10,000) Federal Penalty Units in aggregate value, or any contract or obligation extending more than ninety (90) days beyond inauguration regardless of amount. Related transactions shall be aggregated for purposes of this threshold;
+- (6) Grant pardons, commutations, or reprieves to administration officials, family members within the third degree of consanguinity, persons under investigation for matters related to the Governor, political donors who contributed more than one hundred (100) FPU during the Governor's term, or the Governor themselves;
+- (7) Promulgate new regulations or issue executive orders with prospective effect beyond the current term, unless required by existing statutory deadline or genuine emergency under subsection (d).
+
+(c) **Duty of Continuity.** During the Transition Period, the Governor shall maintain the status quo ante regarding routine government operations, disaster response, and contractual obligations. Willful failure to renew routine contracts, respond to emergencies, or perform ministerial duties required by law — where such failure is designed to constrain the successor or create crisis — constitutes a violation of this section subject to the enforcement provisions of subsection (h).
+
+(d) **Emergency Exception.** The restrictions of subsection (b) may be suspended for a specific action if:
+
+- (1) The Governor certifies in writing that an imminent threat to public safety, Regional security, or critical infrastructure requires immediate action;
+- (2) A three-judge panel of the Regional Supreme Court, convened within twenty-four (24) hours, concurs that the certified threat is genuine and the proposed action is reasonably necessary; and
+- (3) The Governor-Elect and the presiding officer of the Regional Legislature are notified immediately upon certification.
+
+Emergency authorization under this subsection expires after seventy-two (72) hours unless ratified by the Governor-Elect or by a two-thirds vote of the Regional Legislature. Actions taken under emergency authorization remain subject to Article XVII-RF, Section 2 anti-ratcheting provisions for any continuation or renewal.
+
+(e) **Governor-Elect Response.** When the Governor requests written concurrence under subsection (b):
+
+- (1) The request shall be transmitted simultaneously to the Governor-Elect and the presiding officer of the Regional Legislature through authenticated channels established by the Regional Election Board;
+- (2) If the Governor-Elect does not respond within forty-eight (48) hours, the Governor may seek authorization through the two-thirds legislative vote alternative;
+- (3) If both the Governor-Elect and the Regional Legislature fail to act within an additional seventy-two (72) hours, the Governor may petition the three-judge panel of the Regional Supreme Court under subsection (d) procedures.
+
+(f) **Records Preservation.** During the Transition Period:
+
+- (1) All official records generated during the Governor's term, including digital communications, shall be preserved and transferred to the Regional Archives or equivalent institution designated by Regional law;
+- (2) The Governor and senior staff shall have no authority to destroy, delete, alter, or remove official records;
+- (3) Destruction or alteration of records during the Transition Period shall be a felony punishable under Regional and federal law.
+
+(g) **Transition Cooperation.** The outgoing Governor shall:
+
+- (1) Provide the Governor-Elect with a written summary of all ongoing emergencies, Guard deployments, interstate compact obligations, pending contracts, and material litigation within seven (7) days of the commencement of the Transition Period;
+- (2) Grant the Governor-Elect's transition team access to all Regional agency records, emergency plans, and Guard readiness reports;
+- (3) Ensure orderly transfer of emergency communications systems, security protocols, and codes of access;
+- (4) Personally meet with the Governor-Elect at least once before inauguration to discuss pending matters.
+
+(h) **Anti-Circumvention.**
+
+- (1) **Delegation.** Actions taken by subordinate officials or agencies at the direction of the Governor are attributable to the Governor for purposes of subsection (b). No official may execute a restricted action by claiming independent authority if the action was directed or encouraged by the Governor.
+- (2) **Pre-Transition Positioning.** The incoming Governor may petition the Regional Supreme Court to void any action taken within sixty (60) days before the commencement of the Transition Period if the court finds, by clear and convincing evidence, that the action was primarily designed to circumvent the restrictions of this section or to constrain the successor's policy options.
+- (3) **Aggregation.** For purposes of subsection (b)(5), contracts, obligations, and settlements that are related by subject matter, counterparty, or timing shall be aggregated. Division of a single transaction into multiple components to avoid the threshold constitutes a violation of this section.
+
+(i) **Enforcement.**
+
+- (1) **Void Ab Initio.** Any action taken in violation of subsection (b) is void from inception. No rights, obligations, or liabilities shall accrue from a void action.
+- (2) **Standing.** The Governor-Elect, any member of the Regional Legislature, and the Regional Attorney General shall have standing to seek immediate injunctive relief and declaratory judgment in Regional or federal court.
+- (3) **Criminal Penalties.** A Governor or other official who knowingly takes or facilitates an action in violation of this section shall be subject to criminal penalties of fifty (50) to five hundred (500) Federal Penalty Units and permanent disqualification from Regional and federal elected or appointed office.
+- (4) **Ratification.** Notwithstanding paragraph (1), the incoming Governor may, within sixty (60) days of inauguration, ratify an action that would otherwise be void under this section if the Governor determines the action serves the public interest. Ratification does not immunize the prior official from criminal liability under paragraph (3).
+
+---
+
 ### Section 5. Political Institutional Failure and Federal Receivership
 
 (a) **Political Institutional Failure Defined.** A Region is in "Political Institutional Failure" when:
