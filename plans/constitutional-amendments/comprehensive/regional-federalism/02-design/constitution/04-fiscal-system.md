@@ -350,6 +350,12 @@ Such pooling shall preserve each Region's sovereignty and independent governance
 
 (e) The Council shall operate with full budgetary independence and shall receive automatic appropriations equal to 0.01% of equalization transfers or $50 million (indexed to inflation), whichever is greater.
 
+(f) **Vacancy Filling.**
+
+- (1) Vacancies on the Independent Fiscal Council shall be filled by the original appointing authority within ninety (90) days of the vacancy. If the original appointing authority fails to act within ninety (90) days, the Chief Justice shall make a temporary appointment from among persons with demonstrated expertise in public finance, economics, or fiscal policy who have no current affiliation with any Regional government.
+- (2) Temporary appointments under this subsection are subject to the time limits and procedures established in Article IV, Section 4-C.
+- (3) If vacancies reduce the Council below a quorum of four members, the quorum emergency provisions of Article IV, Section 4-C(e)(4) shall apply.
+
 ---
 
 ### Section 6. Regional Debt Discipline

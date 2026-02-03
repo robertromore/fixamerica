@@ -239,7 +239,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 106 | Interagency coordination mechanisms | Medium | Requires Development |
 | 118 | Public meeting and notice requirements | Low | Requires Development |
 | 131 | Term limit variation and institutional knowledge | Low | Accepted by Design |
-| 168 | Acting official loophole (bypassing confirmation) | High | Requires Development |
+| 168 | Acting official loophole (bypassing confirmation) | High | ✅ Resolved |
 | 171 | Impunity pardon (self-cleanse) | High | ✅ Resolved |
 | 205 | Regulatory Sediment (legislative entropy) | High | Requires Development |
 | 217 | Terms of service trap (contractual feudalism) | Critical | ✅ Resolved |

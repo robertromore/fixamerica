@@ -2566,9 +2566,30 @@ Add to Article [relevant governance article]:
 > (6) **Definition.** "Constitutional powers" means powers specifically enumerated in this Constitution, including but not limited to: Guard federalization refusal, emergency declarations, equalization formula certification, treaty approval, and appointments to constitutional bodies.
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment establishing acting official limitations to prevent confirmation bypass.
+**RESOLVED.** Acting official limitations established in Article IV, Section 4-C (11 subsections) of `02-design/constitution/03-regional-governance.md`, fulfilling the Section 4-B(i) cross-reference. IFC vacancy-filling added as Article X, Section 5(f) in `02-design/constitution/04-fiscal-system.md`. Resolved through Multi-LLM Gap Resolution Protocol (2026-02-02).
 
-**Severity:** High | **Mitigability:** Requires Development
+**Coverage:**
+
+| Gaming Vector | Resolution |
+|---|---|
+| G1 "Permanent Temporary" | §4-C(b)(1) 120-day time limit from vacancy date |
+| G2 "Weaponized Vacancy" | §4-C(c)(1) mandatory 60-day nomination + §4-C(i) enforcement |
+| G3 "Partisan Operative" | §4-C(b)(1) time limit + §4-C(c) triggers §4-B confirmation |
+| G4 "Confirmation Theater" | §4-C(f)(1) vacancy-based clock; §4-B(h)(i) anti-gaming |
+| G5 "Shadow Governance" | §4-C(b)(1) applies to all acting officials; §4-C(e) quorum protection |
+| G6 "Revolving Door" | §4-C(f)(1) vacancy-based clock, explicit re-designation prohibition |
+| G7 "Quorum Kill" | §4-C(e)(1)-(4) mandatory replacement + quorum emergency |
+| G8 "Dual Hat" | §4-C(f)(3) dual-hat prohibition |
+| G9 "Delegation Dodge" | §4-C(f)(2) delegation prohibition + attribution |
+| G10 "Recess Game" | §4-B(g)(iii) pro forma sessions + §4-C(c) mandatory nomination |
+| G11 "Chief Justice Capture" | §4-C(e)(3) time limits on temporary appointments |
+| G12 "IFC Starvation" | §4-C(e) quorum protection + Art X §5(f) IFC vacancy-filling |
+| G13 "Emergency Extension" | §4-C(j) bounded 30-day exception, confirming body concurrence |
+| G14 "Regional Succession Shield" | §4-C(g) constitutional floor for Regional acting officials |
+| G15 "Recess Reset" | §4-B(g) coordination + §4-C(f)(1) vacancy-based clock |
+| G16 "First Assistant Trick" | §4-C(f)(4) functional coverage regardless of title |
+
+**Severity:** High | **Mitigability:** ✅ Resolved
 
 ---
 

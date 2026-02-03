@@ -235,13 +235,92 @@ If adopted, this section would create targeted Senate involvement in safeguard l
 - (ii) **Incomplete Submissions.** If a nomination is transmitted without the documentation required by law or Senate rules, the confirmation clock begins thirty (30) calendar days after the initial transmission or upon completion of documentation, whichever is earlier;
 - (iii) **Hearing Conclusion.** Committee hearings are deemed concluded upon: (A) a recorded committee vote to report or not report the nomination; (B) the expiration of the sixty-day committee deadline under subsection (c)(ii); or (C) a majority vote of the committee to conclude hearings.
 
-(i) **Coordination with Acting Official Limitations.** The provisions of this section complement, and shall be construed in coordination with, any limitations on acting officials established elsewhere in this Constitution.
+(i) **Coordination with Acting Official Limitations.** The provisions of this section complement, and shall be construed in coordination with, the limitations on acting officials established in Section 4-C of this Article.
 
 (j) **Implementing Legislation.** Congress shall enact legislation providing:
 
 - (i) Procedures for public transmission and timestamping of nominations;
 - (ii) Standards for documentation required with nominations;
 - (iii) Transition provisions for nominations pending at the time of ratification.
+
+---
+
+### Section 4-C. Acting Official Limitations
+
+*Addresses Gap 168: The Acting Official Loophole (Bypassing Confirmation). Establishes time limits, succession mechanisms, and anti-circumvention measures for officials serving in acting, interim, or temporary capacity. Fulfills the cross-reference in Section 4-B(i).*
+
+(a) **Scope and Definitions.**
+
+- (1) This section applies to any person exercising the powers of a constitutional office in an acting, interim, temporary, or designated capacity without having been confirmed by the Senate for that office, or without having been elected to that office, as applicable.
+- (2) "Constitutional powers" means any power whose exercise is required by or authorized by a specific provision of this Constitution, including but not limited to: command of Regional Guard forces (Article XI-RF, Section 2(d)); declaration of emergency (Article XVII-RF, Section 1); certification of equalization formulas (Article X, Section 5); resolution of power-allocation disputes (Article II, Section 7); and appointment of officers requiring confirmation.
+- (3) "Vacancy" means the date on which the office became vacant by reason of death, resignation, removal, expiration of term, incapacity, or any other cause.
+
+(b) **Time Limits on Acting Officials.**
+
+- (1) No person may exercise constitutional powers in an acting capacity for more than one hundred twenty (120) calendar days from the date of the vacancy, except as provided in subsection (j).
+- (2) **Tolling During Active Confirmation.** If a nomination for the vacant office has been transmitted to the Senate under Section 4-B, the one hundred twenty-day period shall be tolled for the duration of active confirmation proceedings. Tolling terminates upon: (a) Senate confirmation or rejection of the nominee; (b) withdrawal of the nomination; (c) expiration of the Section 4-B confirmation period without action; or (d) the nominee's failure to respond to committee questions beyond the tolling period established in Section 4-B(d)(ii).
+- (3) **Mandatory Disclosure.** All exercises of constitutional power by acting officials shall be publicly reported within twenty-four (24) hours in the Federal Register or equivalent official publication. Failure to report does not invalidate the action but constitutes a separate violation of this section.
+
+(c) **Mandatory Nomination.**
+
+- (1) The appointing authority shall transmit a nomination for the vacant office to the confirming body within sixty (60) calendar days of the vacancy.
+- (2) If no nomination has been transmitted within sixty (60) days, the acting official's authority to exercise constitutional powers shall be automatically suspended upon the expiration of the one hundred twenty-day period under subsection (b)(1), without tolling.
+- (3) Upon transmission of a nomination, the confirmation procedures of Section 4-B apply, including the ninety-day mandatory vote and deemed confirmation provisions.
+
+(d) **Succession and Fallback.**
+
+Upon expiration of the acting period under subsection (b) without a confirmed officer in place:
+
+- (1) **Succession.** The constitutional powers of the vacant office shall be exercised by the next person in the statutory line of succession who holds a position to which they were confirmed by the Senate or elected by the people, as applicable.
+- (2) **Panel Fallback.** If no confirmed or elected officer exists in the line of succession, the Chief Justice shall, within fourteen (14) days, convene a panel of three confirmed officers from other constitutional offices or, for Regional offices, from other Regions, to exercise the constitutional powers of the vacant office collectively until a confirmed officer assumes the position.
+- (3) **Suspension.** If neither succession nor a panel can be constituted within thirty (30) days of the acting period's expiration, the constitutional powers of the office shall be suspended until a confirmed officer assumes the position, except that powers necessary to protect life, safety, or constitutional rights in an emergency shall be exercised by the senior confirmed officer of the executive branch or, for Regional offices, of the Regional executive.
+
+(e) **Multi-Member Body Quorum Protection.**
+
+- (1) For constitutional bodies consisting of multiple members, including the Allocation Review Board (Article II, Section 7) and the Independent Fiscal Council (Article X, Section 5), the appointing authority shall fill any vacancy within ninety (90) days.
+- (2) If the appointing authority fails to act within ninety (90) days, the Chief Justice shall make a temporary appointment from among qualified professionals with relevant expertise. For the Allocation Review Board, appointments shall be drawn from retired appellate judges, consistent with Article II, Section 7(f). For the Independent Fiscal Council, appointments shall be drawn from persons with demonstrated expertise in public finance, economics, or fiscal policy who have no current affiliation with any Regional government.
+- (3) Temporary appointments under this subsection are subject to the time limits of subsection (b).
+- (4) **Quorum Emergency.** If vacancies reduce a constitutional body below the quorum necessary to exercise its constitutional functions, the remaining members and the Chief Justice shall fill emergency vacancies within thirty (30) days using the procedures of paragraph (2), notwithstanding any other appointment provision. A body reduced below quorum may take no action other than to facilitate the filling of vacancies.
+
+(f) **Anti-Circumvention.**
+
+- (1) **Revolving Door Prohibition.** The one hundred twenty-day period runs from the date of the vacancy, not from the date of the acting official's designation. Re-designating the same person, replacing one acting official with another, or any other procedural manipulation shall not restart, extend, or reset the period.
+- (2) **Delegation Prohibition.** An acting official may not delegate constitutional powers to any person who has not been confirmed or elected to a constitutional office. Delegated acts are attributed to the delegating acting official for purposes of the time limit.
+- (3) **Dual-Hat Prohibition.** A person who holds a confirmed position in one office and is designated as acting official of another office may exercise constitutional powers of the acting office only within the time limit of this section. The confirmed position does not extend or substitute for the time limit applicable to the acting designation.
+- (4) **Functional Coverage.** This section applies to any person exercising constitutional powers of a vacant office, regardless of title, designation, or the formal mechanism of appointment, including "first assistant" succession, interim designation, or delegation by the vacating officer.
+
+(g) **Regional Acting Officials.**
+
+- (1) **Constitutional Floor.** A Regional acting official — including an acting Governor serving under Regional succession law — may not exercise constitutional powers granted by this Constitution, including Guard refusal (Article XI-RF, Section 2(d)) and emergency declaration (Article XVII-RF, Section 1), beyond the time limit established in subsection (b)(1).
+- (2) Regional constitutions may establish time limits that are shorter than, but not longer than, those established in this section for exercise of constitutional powers granted by this Constitution.
+- (3) Regional constitutional powers not granted by this Constitution (powers arising solely from Regional constitutions) are governed by Regional law, but this section provides a non-waivable floor for any power enumerated in this Constitution.
+
+(h) **Temporary Judicial Officers.**
+
+- (1) Temporary judges appointed under Article IV, Section 5(d)(3) or any other provision of this Constitution shall serve for no more than one hundred eighty (180) calendar days unless confirmed through applicable judicial confirmation procedures.
+- (2) Temporary judges may exercise full judicial authority during the one hundred eighty-day period but may not be assigned to cases with expected duration beyond their authorized service period.
+- (3) Judicial confirmation procedures shall be governed by Article XIV-RF and applicable statute.
+
+(i) **Enforcement.**
+
+- (1) **Automatic Suspension.** Upon expiration of the time limit established in subsection (b), the acting official's authority to exercise constitutional powers is automatically suspended by operation of law. Actions taken in exercise of constitutional powers after the expiration are void ab initio.
+- (2) **Judicial Petition.** Any member of the confirming body, the Governor-Elect (for Regional offices), any State or Region affected by the acting official's exercise of constitutional powers, or any person with a concrete interest adversely affected by a constitutional power exercise may petition a federal court to: (a) declare that the time limit has expired and the acting official's constitutional authority has been suspended; (b) declare void any action taken after expiration; or (c) issue a mandatory order requiring the appointing authority to transmit a nomination.
+- (3) **Standing.** The confirming body as an institution, individual members of the confirming body, and any constitutional body whose functions are affected by the vacancy shall have standing to enforce this section.
+- (4) **Expedited Review.** Petitions under this subsection shall be heard on an expedited basis, with initial hearing within fourteen (14) days and final disposition within forty-five (45) days.
+
+(j) **Emergency Exception.**
+
+- (1) If a genuine emergency requiring the exercise of constitutional powers arises within thirty (30) days of the expiration of the acting period, and no confirmed officer or succession mechanism is available, the acting official may continue to exercise the specific constitutional powers necessary to address the emergency for up to thirty (30) additional calendar days.
+- (2) Extension under this subsection requires: (a) written certification by the acting official specifying the emergency and the constitutional powers to be exercised; (b) concurrence of the relevant confirming body by majority vote within seventy-two (72) hours of certification (failure to act within seventy-two hours constitutes denial); and (c) immediate notification to the Chief Justice, who may order expedited judicial review.
+- (3) The emergency extension applies only to the enumerated critical constitutional powers of Guard command and emergency declaration. Other constitutional powers may not be extended under this subsection.
+- (4) The emergency extension may not be renewed. Upon expiration, the succession and fallback provisions of subsection (d) apply without further delay.
+
+(k) **Coordination.**
+
+- (1) This section complements and shall be construed in coordination with the confirmation procedures of Section 4-B. Where a nomination is pending, the confirmation timeline of Section 4-B and the acting official timeline of this section operate concurrently, subject to tolling under subsection (b)(2).
+- (2) This section applies in addition to the restrictions of Article V, Section 4-A (Regional Executive Transition Integrity). Where both sections apply to the same person — including an acting Regional Governor during a transition period — the more restrictive provision governs.
+- (3) Acting officials who receive deemed confirmation under Section 4-B(e) hold full authority from the date of deemed confirmation, and the time limits of this section cease to apply.
+- (4) This section is self-executing and does not require implementing legislation. Congress may enact legislation to supplement but not diminish its protections.
 
 ---
 
