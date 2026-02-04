@@ -1782,7 +1782,15 @@ Article I, Section 9 requires "Mutual Recognition" of professional credentials b
 - **Gap 75 (Transit Fee-Gouging):** Economic barriers; Gap 104 addresses labor barriers
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article I-RF, Section 9. This three-part solution establishes automatic interstate infrastructure labor reciprocity with void discriminatory supplementary requirements, requires equal treatment with 20% local preference cap and certification portability, and provides ARB enforcement with federal funds consequences and worker remedies.
+**RESOLVED.** Integrated into Article I-RF, Section 9, subsections (bb)-(dd) (Infrastructure Labor Protection). Three subsections address the residual "Federal Funds Capture" gap not covered by existing §9(a)-(aa):
+
+| v3 Subsection | Content |
+|---------------|---------|
+| §9(bb) | Infrastructure Labor Reciprocity — Art II §4(m) critical infrastructure definition, infrastructure-specific credential recognition, National Infrastructure Worker Credential (DOT/DOL/DOE/FCC, optional), operational safety measures with OSHA exception and ARB certification for >4hr, 3-year minimum validity |
+| §9(cc) | Federal Project Labor Mobility — federal project access, 4-hour orientation cap with OSHA exception and off-site carve-out, 5% local preference cap with tribal carve-out (Art XX §3), zero residency evaluation weight with tax registration clarification, "Notwithstanding Art X §4" anti-coercion override, $10M monitoring threshold |
+| §9(dd) | Infrastructure Funds Enforcement — fund suspension/proportional repayment/direct federal admin with tribal preservation, treble damages (greater of $5K or 3x lost wages), DOJ authority with substantiated-complaint presumption |
+
+Pre-existing coverage: 3 of 4 gaming vectors (Regional Safety Certification, Expedited Local Track, Continuous Renewal) already closed by §9(g)-(u). Only Federal Funds Capture required new text. See [draft](../../drafts/gap-104-infrastructure-labor-reciprocity.md) for full analysis.
 
 ---
 

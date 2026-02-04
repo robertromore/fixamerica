@@ -2,7 +2,7 @@
 
 **Note**: This changelog has been reorganized by date. See the `changelog/` directory for detailed entries:
 
-- [`changelog/2026-02-03.md`](changelog/2026-02-03.md) - Latest changes (triage fix + Gap 67/75 resolution + Gap 128/132/142 resolution + Gap 92/116 resolution + Gap 99 resolution)
+- [`changelog/2026-02-03.md`](changelog/2026-02-03.md) - Latest changes (triage fix + Gap 67/75 resolution + Gap 128/132/142 resolution + Gap 92/116 resolution + Gap 99 resolution + Gap 104 resolution)
 - [`changelog/2026-02-02.md`](changelog/2026-02-02.md) - Gap resolutions (199, 13, index triage)
 - [`changelog/2026-02-01.md`](changelog/2026-02-01.md) - Gap resolutions (220, 219, 216, etc.)
 - [`changelog/2026-01-31.md`](changelog/2026-01-31.md) - Gap resolutions and verifications
@@ -12,6 +12,23 @@
 - [`changelog/2026-01-26.md`](changelog/2026-01-26.md) - Territorial integration incentives
 - [`changelog/2026-01-25.md`](changelog/2026-01-25.md) - Major integration work
 - [`changelog/2026-01-24.md`](changelog/2026-01-24.md) - Historical development
+
+## 2026-02-03: Gap 104 — Predatory Infrastructure Licensing Resolved (Article I §9)
+
+One interstate commerce gap resolved via multi-LLM protocol (v1 → 2 review rounds → v3 FINAL) through 3 new subsections (bb)-(dd) in Article I-RF, Section 9 (Mutual Recognition). Gap 104 (Predatory Infrastructure Licensing — Labor Chokepoints): pre-existing coverage analysis found 3/4 gaming vectors already closed by §9(a)-(aa); new text addresses residual Federal Funds Capture gap. §9(bb) infrastructure labor reciprocity with Art II §4(m) definition and National Infrastructure Worker Credential (DOT/DOL/DOE/FCC). §9(cc) federal project labor mobility with 5% local preference cap, zero residency evaluation weight, tribal carve-out, OSHA exceptions, anti-coercion override. §9(dd) infrastructure funds enforcement with proportional repayment, treble damages, DOJ authority. Key v3 refinements: ARB certification for >4hr safety measures, OSHA off-site carve-out, tax registration clarification, tribal preservation in direct federal admin, (cc)(1)/(cc)(2) cross-reference.
+
+### Files Modified
+
+- `02-design/constitution/01-regional-structure.md` — Art I §9 expanded: subsections (bb)-(dd)
+- `02-design/drafts/gap-104-infrastructure-labor-reciprocity.md` — Draft file (v3 FINAL)
+- `04-meta/gaps/10-interstate-commerce.md` — Gap 104: PROPOSAL AVAILABLE to RESOLVED
+- `04-meta/gaps/00-index.md` — Gap 104 status updated
+- `04-meta/02-identified-gaps.md` — Statistics: PA 19 to 18, Resolved 157 to 158
+- `02-design/constitution/article-crosswalk.md` — Art I entry expanded
+
+**Status:** RESOLVED | **Detail:** [changelog/2026-02-03.md](changelog/2026-02-03.md)
+
+---
 
 ## 2026-02-03: Gap 99 — Tribal Veto via Infrastructure Entrapment Resolved (Article XX §3)
 

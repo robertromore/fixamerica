@@ -1142,6 +1142,78 @@ The originating jurisdiction may not impose conditions, penalties, or differenti
 
 (5) Family status recognition follows the person, not the domicile. A person's family status is recognized in all Regions where any family member resides, works, travels, or receives services, regardless of which Region established the status.
 
+#### Infrastructure Labor Protection
+
+(bb) **Infrastructure Labor Reciprocity.**
+
+(1) In addition to the general credential recognition requirements of this Section, all credentials qualifying a worker for construction, operation, maintenance, inspection, or repair of critical infrastructure as defined in Article II, Section 4(m) shall be recognized across all Regions without infrastructure-specific supplementary requirements of any kind.
+
+(2) No Region may require any credential, certification, endorsement, orientation, safety course, or qualification for infrastructure work that is separate from or additional to the professional credentials recognized under subsections (c) through (u), unless the requirement:
+
+- (A) Has been certified by the Allocation Review Board under subsection (j) as Essential for Public Safety under subsection (h);
+
+- (B) Applies equally to Regional residents and out-of-Region workers in identical form, timeline, and cost;
+
+- (C) Does not require in-person attendance at a Regional facility, Regional residency, or Regional domicile. On-site safety briefings conducted at the project location are not "in-person attendance at a Regional facility" for purposes of this clause.
+
+(3) The Department of Transportation, acting in coordination with the Department of Labor, Department of Energy, Federal Communications Commission, and relevant federal safety agencies, shall establish National Infrastructure Worker Credentials for common infrastructure roles including but not limited to: heavy equipment operation, electrical systems, structural construction, pipeline operation, telecommunications infrastructure, energy grid operation, and transportation corridor maintenance.
+
+(4) A National Infrastructure Worker Credential is optional. Workers may hold it as an alternative to Regional credentials. A National Infrastructure Worker Credential shall be recognized in all Regions without supplementary requirements of any kind and without the ARB certification process of subsection (j).
+
+(5) Regions retain authority to establish operational safety measures for infrastructure work within their borders — including site-specific protocols, personal protective equipment requirements, and hazard-specific procedures — provided such measures:
+
+- (A) Apply equally to holders of Regional and National credentials;
+
+- (B) Do not constitute separate credentials, certifications, or endorsements;
+
+- (C) Meet the Essential for Public Safety standard of subsection (h) and have been certified by the Allocation Review Board under subsection (j) if they exceed four (4) hours of training or orientation, unless the specific hazard requires specialized training certified by the Occupational Safety and Health Administration.
+
+(6) Infrastructure credentials recognized under this Section, whether Regional or National, shall have a validity period of not less than three (3) years. A Region may not circumvent this requirement through rolling renewal schedules, mandatory refresher certifications, or periodic re-examinations at intervals of less than three (3) years, unless justified by documented changes in safety standards certified by the ARB under subsection (j).
+
+(cc) **Federal Project Labor Mobility.**
+
+(1) For any infrastructure project receiving federal funds in whole or in part, workers from any Region holding valid infrastructure credentials — whether Regional credentials recognized under this Section or National Infrastructure Worker Credentials under subsection (bb)(3) — may be employed without additional Regional certification, endorsement, orientation, or qualification of any kind, except as provided in paragraph (2).
+
+(2) No Region may impose project-specific safety orientations, site certifications, or local familiarization requirements on federally-funded infrastructure projects that:
+
+- (A) Exceed four (4) hours in duration, unless the specific hazard requires specialized training certified by the Occupational Safety and Health Administration;
+
+- (B) Are not equally required of Regional residents performing equivalent work on the same project;
+
+- (C) Must be completed at a Regional facility other than the project site itself, except that training at an accredited facility as required by the Occupational Safety and Health Administration is not subject to this limitation.
+
+(3) No Region may require, by law, regulation, contract condition, or administrative practice, that more than five percent (5%) of the workforce on a federally-funded infrastructure project consist of Regional residents or holders of Regional-specific credentials. This limitation does not apply to tribal employment preferences established under Article XX, Section 3, or applicable federal law, for projects located on tribal land.
+
+(4) Contractor selection criteria for federally-funded infrastructure projects may not include Regional residency, Regional credential holding, or Regional business registration as scored evaluation factors. This prohibition does not apply to lawful requirements for business registration for tax compliance purposes, provided such registration is a ministerial prerequisite available to all applicants without discretionary approval. Demonstrated experience in comparable infrastructure conditions is a permissible evaluation criterion regardless of the Region in which the experience was obtained.
+
+(5) Notwithstanding the Non-Coercion Standard of Article X, Section 4, compliance with this subsection is a condition of receiving federal infrastructure funds. The federal agency administering the funds shall:
+
+- (A) Monitor workforce composition on projects exceeding ten million dollars ($10,000,000);
+
+- (B) Investigate complaints of discriminatory hiring practices;
+
+- (C) Withhold remaining disbursements upon finding of non-compliance, pending corrective action.
+
+(dd) **Infrastructure Funds Enforcement.**
+
+(1) Notwithstanding the Non-Coercion Standard of Article X, Section 4, if the Allocation Review Board or a federal court finds that a Region has maintained discriminatory infrastructure certification requirements in violation of this Section:
+
+- (A) Federal infrastructure funds allocated to the Region may be suspended pending compliance;
+
+- (B) The Region shall repay the proportion of federal funds attributable to labor costs on positions filled through discriminatory practices, calculated from the date of first violation. Repayment shall not exceed the total labor cost share of affected projects;
+
+- (C) Future federal infrastructure projects within the non-compliant Region may be administered directly by the relevant federal agency, bypassing Regional procurement and labor requirements. Direct federal administration under this paragraph shall preserve tribal employment preferences established under Article XX, Section 3 for projects located on tribal land.
+
+(2) Workers denied employment on federally-funded infrastructure projects due to discriminatory Regional certification requirements may:
+
+- (A) Recover lost wages, consequential damages, and a penalty of not less than the greater of five thousand dollars ($5,000) or three times the worker's documented lost wages, from the Region;
+
+- (B) Obtain injunctive relief requiring immediate credential recognition and project access;
+
+- (C) Recover attorney fees and costs if they prevail.
+
+(3) The Department of Justice shall have authority to bring enforcement actions against Regions that systematically discriminate against out-of-Region infrastructure workers. A pattern of three (3) or more substantiated complaints as determined by the Allocation Review Board within twelve (12) months creates a rebuttable presumption of systematic discrimination.
+
 ---
 
 ### Section 10. Data Sovereignty and Critical Governance Data

@@ -214,7 +214,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 83 | Pipeline and hazardous material transport | Medium | Partially Mitigated |
 | 92 | Technical standards as de facto secession | Medium | ✅ Resolved |
 | 99 | Tribal veto via infrastructure entrapment | Medium | ✅ Resolved |
-| 104 | Predatory infrastructure licensing (labor chokepoints) | Medium | Proposal Available |
+| 104 | Predatory infrastructure licensing (labor chokepoints) | Medium | ✅ Resolved |
 | 109 | Resource hoarding via regional environmental protection | Medium | Proposal Available |
 | 116 | Administrative veto via technical standard-setting | Medium | ✅ Resolved |
 | 128 | Mercenary proxy blockade | Medium | ✅ Resolved |
