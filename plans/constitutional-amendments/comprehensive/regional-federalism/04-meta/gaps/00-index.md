@@ -237,7 +237,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 97 | Regulatory capture at regional level | Medium | Requires Monitoring |
 | 100 | Hollow Region via legislative absence | Medium | Proposal Available |
 | 106 | Senate quorum trap for federal emergency inaction | Medium | Proposal Available |
-| 118 | Caretaker cabinet (constitutional shadow-government) | Medium | Proposal Available |
+| 118 | Caretaker cabinet (constitutional shadow-government) | Medium | ✅ Resolved |
 | 131 | Term limit variation and institutional knowledge | Low | Accepted by Design |
 | 168 | Acting official loophole (bypassing confirmation) | High | ✅ Resolved |
 | 171 | Impunity pardon (self-cleanse) | High | ✅ Resolved |

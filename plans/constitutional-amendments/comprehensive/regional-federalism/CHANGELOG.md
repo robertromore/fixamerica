@@ -2,7 +2,7 @@
 
 **Note**: This changelog has been reorganized by date. See the `changelog/` directory for detailed entries:
 
-- [`changelog/2026-02-03.md`](changelog/2026-02-03.md) - Latest changes (triage fix + Gap 67/75 resolution + Gap 128/132/142 resolution + Gap 92/116 resolution + Gap 99 resolution + Gap 104 resolution + Gap 109 resolution + Gap 56 resolution + Gap 79 resolution)
+- [`changelog/2026-02-03.md`](changelog/2026-02-03.md) - Latest changes (triage fix + Gap 67/75 resolution + Gap 128/132/142 resolution + Gap 92/116 resolution + Gap 99 resolution + Gap 104 resolution + Gap 109 resolution + Gap 56 resolution + Gap 79 resolution + Gap 118 resolution)
 - [`changelog/2026-02-02.md`](changelog/2026-02-02.md) - Gap resolutions (199, 13, index triage)
 - [`changelog/2026-02-01.md`](changelog/2026-02-01.md) - Gap resolutions (220, 219, 216, etc.)
 - [`changelog/2026-01-31.md`](changelog/2026-01-31.md) - Gap resolutions and verifications
@@ -12,6 +12,20 @@
 - [`changelog/2026-01-26.md`](changelog/2026-01-26.md) - Territorial integration incentives
 - [`changelog/2026-01-25.md`](changelog/2026-01-25.md) - Major integration work
 - [`changelog/2026-01-24.md`](changelog/2026-01-24.md) - Historical development
+
+## 2026-02-03: Gap 118 — Caretaker Cabinet (Constitutional Shadow-Government) Resolved (Article VII §8)
+
+One institutional governance gap resolved via multi-LLM protocol (v1 → 2 review rounds → v3 FINAL) through modified §8(c)(1) + new subsection §8(l) in Article VII (Elections), Section 8 (Caretaker Governance). Gap 118 (Caretaker Cabinet / Constitutional Shadow-Government): all 14 gaming vectors closed. §8(c)(1) modified to apply appointment/removal freeze from Day 1. §8(l)(1) system-wide appointment freeze regardless of authority source + removal freeze with pre-existing cause + during-period misconduct exceptions + delegation prohibition + shadow staff prohibition with AW/acting/emergency carve-outs. §8(l)(2) vacancy management via statutory succession with seniority fallback. §8(l)(3) emergency vacancy via Supreme Court with narrowed scope + adjudicatory body carve-out (disqualification narrowed to (a)(1)/(a)(3)/(a)(5)) + oversight body quorum preservation from former members. §8(l)(4) void ab initio with default rescission + sovereign obligation back pay. §8(l)(5) pending nomination suspension. §8(l)(6) inducement prohibition with obstruction linkage. Completes caretaker cluster (Gaps 56, 79, 118).
+
+### Files Modified
+
+- `02-design/single-topic/election-reform.md` — Art VII §8 expanded: modified (c)(1) + new subsection (l)
+- `02-design/drafts/gap-118-caretaker-cabinet.md` — Draft file (v3 FINAL)
+- `04-meta/gaps/11-institutional-governance.md` — Gap 118: PROPOSAL AVAILABLE to RESOLVED
+- `04-meta/gaps/00-index.md` — Gap 118 status updated
+- `04-meta/02-identified-gaps.md` — Statistics: PA 15 to 14, Resolved 161 to 162
+
+**Status:** RESOLVED | **Detail:** [changelog/2026-02-03.md](changelog/2026-02-03.md)
 
 ## 2026-02-03: Gap 56 — Zombie Executive Incentive (Caretaker Obstruction) Resolved (Article VII §8)
 

@@ -223,7 +223,7 @@ This standalone constitutional amendment reforms the federal electoral system to
 
 (c) **Declining Authority Timeline.**
 
-(1) **Initial Period (Days 1-30).** The Caretaker Executive shall exercise full executive authority necessary for continuity of government operations.
+(1) **Initial Period (Days 1-30).** The Caretaker Executive shall exercise full executive authority necessary for continuity of government operations, except that the appointment and removal restrictions of subsection (l) apply from the commencement of Caretaker Governance.
 
 (2) **Reduced Authority (Days 31-60).** The Caretaker Executive may not:
 
@@ -479,6 +479,52 @@ This standalone constitutional amendment reforms the federal electoral system to
 - (ii) May not be stayed, enjoined, or suspended by any court pending judicial review;
 - (iii) Any challenge to the termination shall be decided by the National Election Court within seventy-two (72) hours;
 - (iv) The successor assumes authority immediately upon termination, regardless of any pending challenge.
+
+#### Appointment and Removal Freeze
+
+(l) **Appointment and Removal Freeze.**
+
+(1) **General Rule.** From the commencement of Caretaker Governance under this section and continuing through the conclusion of Temporary Executive Committee governance, if any:
+
+- (i) No permanent, acting, interim, or temporary appointment may be made to any position in the State/Regional executive branch, judiciary, or Constitutional Oversight Bodies, including but not limited to the Allocation Review Board, the Independent Fiscal Council, and the National Election Court, regardless of whether the appointment authority is vested in the Caretaker Executive, a department head, a board, a commission, or any other executive branch official;
+- (ii) No officer or employee holding any such position may be removed, suspended without pay, demoted, involuntarily reassigned, or involuntarily transferred, except through pre-existing disciplinary proceedings for cause that were initiated before the commencement of Caretaker Governance, or through an emergency removal petition to the State/Regional Supreme Court for misconduct discovered during Caretaker or Committee governance that poses an immediate threat to public safety, the integrity of the disputed election, or the security of government operations;
+- (iii) No appointment or removal authority may be delegated by the Caretaker Executive or Temporary Executive Committee to any person;
+- (iv) The Caretaker Executive and Temporary Executive Committee may not delegate executive authority, decision-making power, or grant access to non-public government records to any person not holding a lawfully appointed office or position of employment within the State/Regional government prior to the commencement of Caretaker Governance. This paragraph does not restrict access to non-public government records by the Apparent Winner or the Apparent Winner's authorized transition personnel exercising entitlements under subsection (j), by acting officials serving under paragraph (2), or by temporary appointees or designees authorized under paragraph (3).
+
+(2) **Vacancy Management.** Vacancies arising in positions covered by paragraph (1) during Caretaker or Committee governance:
+
+- (i) Shall be filled by the official next in the statutory or regulatory line of succession for that position;
+- (ii) Where no statutory succession exists, by the most senior career official in the same office or agency, determined by length of continuous service in that office or agency;
+- (iii) Acting officials serving under this paragraph have full operational authority to perform the duties of the vacant position, but may not issue directives, regulations, or policies with binding effect beyond the Caretaker or Committee governance period, and may not make subordinate appointments;
+- (iv) Acting service under this paragraph terminates upon the certified winner taking office or, if no winner is certified, upon the conclusion of Temporary Executive Committee governance.
+
+(3) **Emergency Vacancy.** If a vacancy in a position essential to the immediate protection of life, property, public order, or the conduct of the disputed election cannot be filled through the succession procedures of paragraph (2):
+
+- (i) The State/Regional Supreme Court may authorize a temporary appointment upon petition by the Caretaker Executive, the Temporary Executive Committee, or the presiding officer of the State/Regional legislature;
+- (ii) The appointee must meet all statutory qualifications for the position and may not be affiliated with any political party having a candidate in the disputed election;
+- (iii) The authorization shall specify the scope and duration of the temporary appointment, which shall not extend beyond the Caretaker or Committee governance period;
+- (iv) Any party to the disputed election may petition the National Election Court for review of the emergency appointment within seven (7) days;
+- (v) If the vacancy is on the National Election Court or a State/Regional court exercising jurisdiction under this section, and the vacancy impairs the body's ability to maintain a quorum or exercise jurisdiction under Sections 7 or 8, the Chief Justice of the court in which the vacancy occurs, or the Chief Justice of the next higher court if the vacancy is in the Chief Justice's own position, shall designate a temporary replacement from among active or senior-status judges of equivalent or higher courts who do not meet the criteria of subsection (a)(1), (a)(3), or (a)(5). Such designation is a judicial administrative act, does not constitute an appointment under paragraph (1), and terminates upon the conclusion of Caretaker and Committee governance;
+- (vi) If a Constitutional Oversight Body exercising functions relevant to the disputed election or to the enforcement of rights under this section or Section 7 loses a quorum during Caretaker or Committee governance, the presiding officer of that body may designate a temporary member from among former members of the same body who have completed their terms, subject to approval by the State/Regional Supreme Court. The designee must meet the statutory qualifications for membership and may not meet the criteria of subsection (a)(1), (a)(3), or (a)(5). Such designation does not constitute an appointment under paragraph (1) and terminates upon the conclusion of Caretaker and Committee governance.
+
+(4) **Void Acts.** Any appointment, removal, suspension, demotion, reassignment, or transfer in violation of this subsection:
+
+- (i) Is void ab initio and of no legal force or effect;
+- (ii) Any person appointed in violation of this subsection has no lawful authority, and any official act taken by that person is void unless affirmatively ratified by the certified winner by written instrument within thirty (30) days of taking office; failure to ratify within thirty (30) days constitutes rescission, and the act remains void ab initio;
+- (iii) Any officer or employee removed, suspended, demoted, reassigned, or transferred in violation of this subsection is deemed to have continued in their position without interruption, and shall be entitled to back pay and restoration of all benefits for the period of the violation; such payments constitute a sovereign obligation of the State or Region and shall be paid from the general treasury without requirement for further legislative appropriation;
+- (iv) A knowing violation of this subsection constitutes obstruction under subsection (f)(1).
+
+(5) **Pending Nominations.** Nominations for permanent positions submitted to the State/Regional legislature or any confirmation body before the commencement of Caretaker Governance:
+
+- (i) Are suspended for the duration of Caretaker and Committee governance;
+- (ii) The confirmation body may not hold hearings on, vote on, or act upon suspended nominations during the Caretaker or Committee governance period;
+- (iii) The certified winner may withdraw, resubmit, or allow suspended nominations to proceed upon taking office.
+
+(6) **Inducement Prohibition.** The Caretaker Executive, members of the Temporary Executive Committee, and their agents may not:
+
+- (i) Induce, incentivize, or pressure any officer or employee to resign, retire, or vacate a position, whether through promises of future appointment, financial incentive, threat of adverse action, or other means;
+- (ii) Create new positions, restructure existing positions, or reclassify positions for the purpose of circumventing the restrictions of this subsection;
+- (iii) A finding by the National Election Court that the Caretaker, Committee, or their agents violated this paragraph constitutes obstruction under subsection (f)(1).
 
 ### Section 9. Algorithmic Transparency
 
