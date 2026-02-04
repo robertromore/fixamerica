@@ -2,28 +2,31 @@
 
 ## Consolidated Infrastructure Authority Structure
 
-**Purpose:** This document reconciles Gap proposals affecting Article I, Section 6 (Infrastructure Rights) and creates a unified National Infrastructure Transparency System.
+**Purpose:** This document reconciles Gap proposals affecting Article I, Section 6 (Infrastructure Rights), maps all subsections to their source gaps, and documents the unified National Infrastructure Transparency System.
 
-**Date:** 2026-01-25 (created) | 2026-02-03 (verified)
-**Status:** Integration Complete — Gaps 67 and 75 confirmed resolved in Art I §6(d)-(z)
+**Date:** 2026-01-25 (created) | 2026-02-03 (verified + expanded)
+**Status:** Integration Complete — Gaps 67, 75, 128, 132, 142 confirmed resolved in Art I §6(d)-(ss)
 
 ---
 
 ## Overview
 
-Three gaps propose amendments to infrastructure authority with overlapping registry requirements:
+Six gaps propose amendments to infrastructure authority:
 
-| Gap | Topic | Proposed Subsections |
-|-----|-------|---------------------|
-| 67 | Infrastructure Ransom (closures, restrictions) | (d-f), (g-i), (j-l), (m-p), (q-t) |
-| 75 | Fee Gouging (excessive transit charges) | (u-w), (x-z), (aa-cc) |
-| 83 | Infrastructure Decay (passive neglect) | Article IX-RF, Section 8 (separate article) |
+| Gap | Topic | Integrated Subsections | Status |
+|-----|-------|----------------------|--------|
+| 67 | Infrastructure Ransom (closures, restrictions) | (d-f), (g-i), (j-l), (m-p), (q-t) | Resolved |
+| 75 | Fee Gouging (excessive transit charges) | (u-w), (x-z) | Resolved |
+| 83 | Infrastructure Decay (passive neglect) | (aa-hh) + Article IX-RF §8 | Under investigation |
+| 128 | Mercenary Proxy Blockade (privatized coercion) | (ii-kk) | Resolved |
+| 132 | Sovereignty Dilution via Foreign Divestment | (ll-oo) | Resolved |
+| 142 | Secondary Boycott Stigma Barrier | (pp-rr) | Resolved |
 
-**Key Integration Issue:** Gaps 67 and 75 each propose separate registries:
-- Gap 67: "National Infrastructure Status Registry" (subsection q-t)
-- Gap 75: "National Infrastructure Fee Registry" (subsection bb-cc)
+**Key Integration Issues Resolved:**
 
-**Resolution:** Consolidate into unified "National Infrastructure Transparency System"
+- Gaps 67 + 75: Separate registries consolidated into unified NITS at §6(q)-(t)
+- Gaps 128 + 132 + 142: Cross-references to existing §6 mechanisms (NITS, ARB, treble damages, federal operational assumption)
+- Former §6(hh) (implementation procedures) renumbered to §6(ss) to accommodate new subsections
 
 ---
 
@@ -175,6 +178,50 @@ Three gaps propose amendments to infrastructure authority with overlapping regis
 
 ---
 
+### Subsections (aa-hh): Infrastructure Maintenance Standards [Gap 83 — under investigation]
+
+Subsections (aa)-(hh) cover minimum maintenance standards, critical corridor designation, manufactured safety necessity doctrine, federal maintenance backstop, and private right of action for manufactured decay. These provisions substantially correspond to Gap 83 (Infrastructure Decay) proposals. Gap 83 resolution status requires separate investigation.
+
+---
+
+### Subsections (ii-kk): Proxy Blockade Prevention [Gap 128]
+
+> **(ii) Regional Attribution Rule.** Strict liability for private actor blockades with narrowed nexus (material support, contracts, delegated functions, special privileges); cumulative delay aggregation; ARB methodology delegation.
+
+> **(jj) Proxy Entity Designation.** ARB designation with constructive coordination clause; scoped attribution per designation order; split foreign proxy remedies — corridor-controlling proxies trigger §6(oo) emergency operation, non-corridor proxies trigger expedited §6(kk) injunction with doubled penalties. Automatic referral to §6(o) (with full procedural requirements) for 30-day non-compliance.
+
+> **(kk) Federal Injunction Authority.** DOJ enforcement; penalty scaled to greater of $10M or 3x damages; cross-references to §6(n) treble damages and §6(p) repeat offender.
+
+---
+
+### Subsections (ll-oo): Critical Infrastructure Ownership Protection [Gap 132]
+
+> **(ll) Divestment Approval.** Senate approval with tiered threshold (25% general / 10% SOE); retroactive review mandate with due process (formal notice, 90-day response, oral testimony); deemed-denied default.
+
+> **(mm) Treaty Subordination.** Domestic constitutional supremacy; takings reconciliation clause; explicit domestic due process preserved.
+
+> **(nn) Ownership Transparency.** Beneficial ownership disclosure; successor liability; NITS publication.
+
+> **(oo) Emergency Federal Operation.** Federal operation of foreign-owned infrastructure during compliance deadlock; cross-reference to §6(o) standards.
+
+---
+
+### Subsections (pp-rr): Informational Trade Barrier Prohibition [Gap 142]
+
+> **(pp) Political Labeling Prohibition.** Political, social, moral, and ideological characterization labels prohibited as mandatory labeling; characterization definition; per se violation for non-compliance; NITS reporting.
+
+> **(qq) Permissible Consumer Disclosures.** Objective federally-verified product metrics only; two-track ARB review (14-day emergency injunction + 60-day final determination); named verifying agencies (FDA, CPSC, EPA).
+
+> **(rr) Stigma Barrier Enforcement.** Penalty scaled to greater of $10M or 3x economic harm; rulemaking authority suspension for pattern violations; federally-verified product metrics requirement.
+
+---
+
+### Subsection (ss): Implementation Reference [Renumbered from (hh)]
+
+Implementation procedures for this section. Renumbered from (hh) to accommodate subsections (ii)-(rr).
+
+---
+
 ## Coordination with Article IX-RF, Section 8 (Gap 83)
 
 Gap 83 (Infrastructure Decay) proposes amendments to a **different Article** (Article IX-RF, Section 8) establishing the Critical Interstate Infrastructure Trust framework. This does not collide with Article I, Section 6 but should cross-reference it:
@@ -195,6 +242,17 @@ Gap 83 (Infrastructure Decay) proposes amendments to a **different Article** (Ar
 | Cost-Plus Ceiling | 75 | Section 6(u-v) | Unchanged, renumbered |
 | Summary Suspension | 75 | Section 6(w) | Unchanged, renumbered |
 | Anti-Retaliation | 75 | Section 6(x-z) | Expanded to include whistleblower |
+| Regional Attribution Rule | 128 | Section 6(ii) | New — strict liability for proxy blockades |
+| Proxy Entity Designation | 128 | Section 6(jj) | New — ARB designation with constructive coordination |
+| Federal Injunction Authority | 128 | Section 6(kk) | New — DOJ enforcement with scaled penalties |
+| Divestment Approval | 132 | Section 6(ll) | New — Senate approval with tiered thresholds |
+| Treaty Subordination | 132 | Section 6(mm) | New — domestic constitutional supremacy |
+| Ownership Transparency | 132 | Section 6(nn) | New — beneficial ownership + NITS publication |
+| Emergency Federal Operation | 132 | Section 6(oo) | New — federal operation during compliance deadlock |
+| Political Labeling Prohibition | 142 | Section 6(pp) | New — characterization labels prohibited |
+| Permissible Consumer Disclosures | 142 | Section 6(qq) | New — objective federally-verified metrics only |
+| Stigma Barrier Enforcement | 142 | Section 6(rr) | New — scaled penalties + authority suspension |
+| Implementation Procedures | — | Section 6(ss) | Renumbered from (hh) |
 
 ---
 
@@ -207,6 +265,7 @@ Gap 83 (Infrastructure Decay) proposes amendments to a **different Article** (Ar
 | Compliance Burden | Two reporting systems | One reporting portal |
 | Public Accessibility | Multiple sources to check | Single authoritative source |
 | Subsection Economy | 13 subsections across two gaps | 10 unified subsections |
+| Cross-Reference Coherence | New gaps (128/132/142) reference existing mechanisms independently | All cross-references point to same §6 subsections (NITS, ARB, treble damages, federal operation) |
 
 ---
 
@@ -222,5 +281,7 @@ Gap 83 (Infrastructure Decay) proposes amendments to a **different Article** (Ar
 
 | Date | Action | Author |
 |------|--------|--------|
-| 2026-01-25 | Initial integration map | Constitutional Design Audit |
+| 2026-01-25 | Initial integration map (Gaps 67, 75, 83) | Constitutional Design Audit |
+| 2026-02-03 | Verified Gaps 67+75 resolved; status updated | Constitutional Design Audit |
+| 2026-02-03 | Added Gaps 128, 132, 142 — subsections (ii)-(rr) + (hh)→(ss) renumbering | Multi-LLM Protocol |
 

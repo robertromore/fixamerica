@@ -2063,7 +2063,13 @@ While Article I, Section 6 prohibits Regions from using infrastructure to blocka
 - **Gap 104 (Predatory Licensing):** Licensing as restriction; Gap 128 addresses licensing of blockade proxies
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article I-RF, Section 6. This three-part solution establishes Regional attribution rule for private actor restrictions, creates proxy entity identification and designation process, and provides federal injunction authority with private action remedies.
+**RESOLVED.** Integrated into Article I-RF, Section 6, subsections (ii)-(kk). See [gap-128-132-142-art-i-s6-expansion.md](../../02-design/drafts/gap-128-132-142-art-i-s6-expansion.md).
+
+| Proposal Part | Integrated Location | Status |
+|---------------|-------------------|--------|
+| Part 1: Regional Attribution Rule | Art I §6(ii) | Full match + enhanced (narrowed nexus to material support/contracts/delegated functions/special privileges; cumulative delay aggregation; ARB methodology delegation) |
+| Part 2: Proxy Entity Designation | Art I §6(jj) | Full match + enhanced (constructive coordination clause for entities without formal ties; scoped attribution per designation order; split foreign proxy remedies by infrastructure type) |
+| Part 3: Federal Injunction Authority | Art I §6(kk) | Full match + enhanced (penalty scaled to greater of $10M or 3x damages; doubled penalties for foreign non-corridor proxies) |
 
 ---
 
@@ -2167,7 +2173,14 @@ Article I, Section 10 addresses environmental dumping but is silent on ownership
 - **Gap 99 (Tribal Veto):** Third-party infrastructure control; Gap 132 addresses foreign third-party control
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article I-RF, Section 6. This four-part solution requires Senate approval for foreign infrastructure divestment, establishes domestic constitutional supremacy over treaty claims, mandates beneficial ownership disclosure, and provides emergency federal operation authority.
+**RESOLVED.** Integrated into Article I-RF, Section 6, subsections (ll)-(oo). See [gap-128-132-142-art-i-s6-expansion.md](../../02-design/drafts/gap-128-132-142-art-i-s6-expansion.md).
+
+| Proposal Part | Integrated Location | Status |
+|---------------|-------------------|--------|
+| Part 1: Divestment Approval | Art I §6(ll) | Full match + enhanced (tiered threshold: 25% general / 10% SOE; retroactive review mandate with due process; deemed-denied default) |
+| Part 2: Treaty Subordination | Art I §6(mm) | Full match + enhanced (takings reconciliation clause; explicit domestic due process preserved) |
+| Part 3: Ownership Transparency | Art I §6(nn) | Full match + enhanced (successor liability clause; NITS publication) |
+| Part 4: Emergency Federal Operation | Art I §6(oo) | Full match + enhanced (cross-reference to retroactive review divestment; persistent non-compliance trigger) |
 
 ---
 
@@ -2260,7 +2273,13 @@ While Article I, Section 6 prohibits physical blockades, it is silent on "Consum
 - **Gap 92 (Technical Standards):** Technical barriers; Gap 142 addresses informational barriers
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article I-RF, Section 6. This three-part solution prohibits mandatory political/social characterization labels, limits permissible disclosures to objective federally-verified metrics, and provides enforcement with economic damages and authority suspension.
+**RESOLVED.** Integrated into Article I-RF, Section 6, subsections (pp)-(rr). See [gap-128-132-142-art-i-s6-expansion.md](../../02-design/drafts/gap-128-132-142-art-i-s6-expansion.md).
+
+| Proposal Part | Integrated Location | Status |
+|---------------|-------------------|--------|
+| Part 1: Political Labeling Prohibition | Art I §6(pp) | Full match + enhanced (characterization definition covering political/social/moral/ideological labels; per se violation for non-compliance; NITS reporting) |
+| Part 2: Permissible Consumer Disclosures | Art I §6(qq) | Full match + enhanced (two-track ARB review: 14-day emergency injunction + 60-day final determination; named verifying agencies: FDA, CPSC, EPA) |
+| Part 3: Stigma Barrier Enforcement | Art I §6(rr) | Full match + enhanced (penalty scaled to greater of $10M or 3x economic harm; rulemaking authority suspension for pattern violations; federally-verified product metrics requirement) |
 
 ---
 

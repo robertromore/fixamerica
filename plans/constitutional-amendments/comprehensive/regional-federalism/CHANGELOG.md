@@ -2,7 +2,7 @@
 
 **Note**: This changelog has been reorganized by date. See the `changelog/` directory for detailed entries:
 
-- [`changelog/2026-02-03.md`](changelog/2026-02-03.md) - Latest changes (triage fix + Gap 67/75 resolution)
+- [`changelog/2026-02-03.md`](changelog/2026-02-03.md) - Latest changes (triage fix + Gap 67/75 resolution + Gap 128/132/142 resolution)
 - [`changelog/2026-02-02.md`](changelog/2026-02-02.md) - Gap resolutions (199, 13, index triage)
 - [`changelog/2026-02-01.md`](changelog/2026-02-01.md) - Gap resolutions (220, 219, 216, etc.)
 - [`changelog/2026-01-31.md`](changelog/2026-01-31.md) - Gap resolutions and verifications
@@ -12,6 +12,22 @@
 - [`changelog/2026-01-26.md`](changelog/2026-01-26.md) - Territorial integration incentives
 - [`changelog/2026-01-25.md`](changelog/2026-01-25.md) - Major integration work
 - [`changelog/2026-01-24.md`](changelog/2026-01-24.md) - Historical development
+
+## 2026-02-03: Gaps 128 + 132 + 142 — Proxy Blockade + Foreign Divestment + Stigma Barrier Resolved (Article I §6)
+
+Three interstate commerce gaps resolved via multi-LLM protocol (v1 → 2 review rounds → v3 FINAL) through 10 new subsections (ii)-(rr) in Article I-RF, Section 6. Gap 128 (Mercenary Proxy Blockade): strict liability attribution + ARB proxy designation + federal injunction. Gap 132 (Foreign Divestment): Senate approval with tiered thresholds + treaty subordination + ownership transparency + emergency federal operation. Gap 142 (Stigma Barrier): political labeling prohibition + permissible disclosure limits + enforcement with authority suspension. Key v3 refinements: split foreign proxy remedies by corridor control, retroactive review due process, two-track ARB timeline, named verifying agencies.
+
+### Files Modified
+
+- `02-design/constitution/01-regional-structure.md` — Art I §6 expanded: subsections (ii)-(rr) + (hh)→(ss)
+- `02-design/drafts/gap-128-132-142-art-i-s6-expansion.md` — Draft file (v3 FINAL)
+- `04-meta/gaps/10-interstate-commerce.md` — Gaps 128, 132, 142: PROPOSAL AVAILABLE to RESOLVED
+- `04-meta/gaps/00-index.md` — Gaps 128, 132, 142 status updated
+- `04-meta/02-identified-gaps.md` — Statistics: PA 25 to 22, Resolved 151 to 154
+
+**Status:** RESOLVED | **Detail:** [changelog/2026-02-03.md](changelog/2026-02-03.md)
+
+---
 
 ## 2026-02-03: Gaps 67 + 75 — Infrastructure Ransom + Fee-Gouging Confirmed Resolved (Article I §6)
 

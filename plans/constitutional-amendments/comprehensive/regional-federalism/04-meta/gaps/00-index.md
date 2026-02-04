@@ -217,9 +217,9 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 104 | Predatory infrastructure licensing (labor chokepoints) | Medium | Proposal Available |
 | 109 | Resource hoarding via regional environmental protection | Medium | Proposal Available |
 | 116 | Administrative veto via technical standard-setting | Medium | Proposal Available |
-| 128 | Mercenary proxy blockade | Medium | Proposal Available |
-| 132 | Sovereignty dilution via foreign divestment | Medium | Proposal Available |
-| 142 | Secondary boycott stigma barrier | Medium | Proposal Available |
+| 128 | Mercenary proxy blockade | Medium | ✅ Resolved |
+| 132 | Sovereignty dilution via foreign divestment | Medium | ✅ Resolved |
+| 142 | Secondary boycott stigma barrier | Medium | ✅ Resolved |
 | 185 | Race to the bottom (deregulation trap) | High | ✅ Resolved |
 | 200 | Smog drift (externalized pollution) | Critical | ✅ Resolved |
 

@@ -587,7 +587,133 @@ No Fundamental Misalignment certification based on subsection (g)(3) shall issue
 - (2) treble damages upon proof of deliberate under-maintenance;
 - (3) attorney's fees and costs.
 
-(hh) Implementation procedures are established by statute. See the [National Common Market Access Act](../../proposals/03-economy-commerce/national-common-market-access-act.md) for the proposed implementing legislation.
+#### Proxy Blockade Prevention
+
+(ii) **Regional Attribution for Private Actor Restrictions.** Regions are responsible for the actions of private entities that have the effect of restricting inter-Regional transit or commerce:
+
+(1) Any entity that receives material financial support from a Region, operates under a contract or delegation of governmental functions from a Region, or holds special regulatory privileges beyond standard licensing granted by a Region, and whose conduct has the effect of restricting inter-Regional transit, shall be deemed to act on behalf of the Region for purposes of this Section;
+
+(2) "Effect of restricting" means any pattern of conduct that: (A) delays inter-Regional transit by an average of more than two hours per affected shipment over any thirty-day period; or (B) reduces inter-Regional commerce volume through an affected corridor by more than five percent relative to the same period in the prior year, after accounting for seasonal and economic variation; cumulative delays imposed at multiple checkpoints, inspection stations, or processing facilities along a single corridor shall be aggregated for purposes of this threshold;
+
+(3) Attribution under this subsection creates strict liability for the Region; the Region bears the burden of proving by clear and convincing evidence that the restriction resulted from factors genuinely beyond its influence or control;
+
+(4) The ARB shall publish attribution findings in the National Infrastructure Transparency System established under subsection (q);
+
+(5) The ARB, in coordination with the National Infrastructure Transparency System, shall establish and publish standardized methodology for measuring transit delays and commerce volume changes, including baseline calculations for new, expanding, and seasonal corridors, and shall update such methodology at least every five years.
+
+(jj) **Proxy Entity Designation.** The Allocation Review Board may designate any private entity as a "Regional Proxy" and attribute its conduct to the Region:
+
+(1) Designation requires a finding that: (A) the entity receives material financial support, contracted operations, delegated governmental functions, or special regulatory privileges from the Region; (B) the entity's actions have the effect of restricting inter-Regional commerce as defined in subsection (ii)(2); and (C) the Region has failed to take reasonable steps to prevent such restriction; (D) alternatively, the ARB may designate an entity as a Regional Proxy upon finding constructive coordination: evidence that the entity's restrictive conduct was undertaken in concert with, at the direction or encouragement of, or for the direct benefit of Regional officials or agencies, regardless of formal funding, contractual, or licensing ties;
+
+(2) Upon designation, the entity's actions within the specific corridor(s), infrastructure type(s), or activity class(es) identified in the designation order are attributed to the Region for purposes of enforcement under this Section, including the remedies and penalties of subsections (m) through (p); the ARB shall define the scope of attribution in each designation order;
+
+(3) Within thirty days of designation, the Region must either terminate the relationship giving rise to attribution or ensure the entity ceases all restrictive conduct within the scope of the designation; failure to comply within thirty days triggers automatic referral for initiation of federal enforcement proceedings under subsection (o), which shall proceed according to the certification and procedural requirements of that subsection;
+
+(4) A Region that receives three or more proxy designations within ten years is subject to repeat offender designation under subsection (p);
+
+(5) The ARB shall maintain a public registry of all proxy designations, including the basis for designation, the scope of attribution, the Region's response, and current status, published through the National Infrastructure Transparency System;
+
+(6) When a designated Regional Proxy is also a foreign entity as defined in subsection (ll)(2), the thirty-day cure period under paragraph (3) does not apply: (A) if the foreign proxy entity controls or operates Critical Inter-Regional Corridor infrastructure as designated under subsection (bb), the ARB may immediately invoke the emergency federal operation authority under subsection (oo) and, upon certification that non-compliance is persistent, the divestment remedy under subsection (oo)(3); (B) if the foreign proxy entity does not control or operate Critical Inter-Regional Corridor infrastructure, the Department of Justice may seek immediate injunctive relief under subsection (kk) without the pattern-of-conduct requirement of subsection (kk)(1), and civil penalties under subsection (kk)(2) shall be doubled.
+
+(kk) **Federal Injunction Authority Against Private Blockade.** The Department of Justice may seek injunctive relief against any private entity whose conduct has the effect of blockading inter-Regional commerce:
+
+(1) Injunctions may issue upon a showing that the entity has engaged in a pattern of restrictive conduct as defined in subsection (ii)(2), regardless of whether Regional attribution has been established;
+
+(2) Private actors who knowingly participate in coordinated schemes to restrict inter-Regional commerce are subject to federal civil penalties not to exceed the greater of ten million dollars or three times the documented economic damages caused by the restrictive conduct, per violation;
+
+(3) Any person or entity suffering economic harm from a private blockade may bring a private action for treble damages against both the proxy entity and any coordinating Region, consistent with the damages framework of subsections (m) and (n);
+
+(4) No immunity, whether sovereign, charitable, or otherwise, may shield a private entity from liability under this subsection when its conduct has the effect of restricting inter-Regional commerce.
+
+#### Critical Infrastructure Ownership Protection
+
+(ll) **Critical Infrastructure Divestment Approval.** No Region or constituent State may transfer ownership or operational control of infrastructure designated as "Critical Inter-Regional Corridor" under subsection (bb), or infrastructure otherwise designated "Shared Benefit Infrastructure" under federal statute, to any foreign entity:
+
+(1) Unless the transfer receives the advice and consent of the Federal Senate by a majority vote within ninety days of submission; if the Senate fails to act within ninety days, the transfer is deemed denied;
+
+(2) "Foreign entity" means any corporation, partnership, trust, fund, or government in which foreign persons, foreign governments, or entities controlled by foreign governments hold, directly or indirectly: (A) more than twenty-five percent of ownership interest, voting rights, or operational control; or (B) more than ten percent of ownership interest, voting rights, or operational control, if the foreign interest is held by or on behalf of a foreign government, state-owned enterprise, or entity in which a foreign government holds a controlling interest;
+
+(3) Senate review shall consider: (A) the impact on national security and defense logistics; (B) the impact on inter-Regional infrastructure interoperability and the enforceability of mandates under this Section; (C) whether the acquiring entity is subject to the jurisdiction or direction of a foreign government; and (D) the adequacy of domestic regulatory and enforcement mechanisms over the proposed foreign owner;
+
+(4) Transfers completed without Senate consent are void ab initio, and federal courts shall order disgorgement and restoration of prior ownership;
+
+(5) Any agreement or contract purporting to transfer Critical Inter-Regional Corridor infrastructure to a foreign entity, whether styled as a sale, lease, concession, management agreement, or otherwise, is subject to this subsection if the practical effect is transfer of operational control;
+
+(6) Ownership interests in Critical Inter-Regional Corridor infrastructure held by foreign entities at the time of ratification of this Section are subject to retroactive review: (A) the ARB shall identify and submit to the Senate a comprehensive inventory of all such interests within three years of ratification; (B) upon inclusion in the ARB inventory, each foreign entity shall receive formal notice and a ninety-day period to submit written materials to the Senate committee of jurisdiction, including evidence bearing on the criteria of paragraph (3); the Senate committee shall provide an opportunity for oral testimony upon request by the foreign entity; (C) the Senate shall review each identified interest under the criteria of paragraph (3) and vote to affirm or deny within one year of submission; (D) any interest not affirmatively approved by the Senate within the one-year review period is subject to mandatory divestment under subsection (oo)(3) and (4); (E) foreign entities subject to retroactive review shall cooperate with the ARB inventory process; failure to cooperate creates a rebuttable presumption that the interest was acquired for the purpose of shielding infrastructure from domestic constitutional enforcement.
+
+(mm) **Domestic Constitutional Supremacy Over Treaty Claims.** Constitutional requirements for inter-Regional infrastructure established under this Section are not subject to international override:
+
+(1) No treaty, bilateral investment agreement, international arbitration ruling, or investor-state dispute settlement mechanism may supersede, limit, or modify the requirements of this Section as applied to infrastructure within the territory of the United States;
+
+(2) Foreign owners of Critical Inter-Regional Corridor infrastructure consent, as a condition of ownership, to the exclusive jurisdiction of domestic courts for all disputes arising under this Constitution, and waive any right to invoke international arbitration for claims that federal infrastructure mandates constitute expropriation or unfair treatment;
+
+(3) Claims that federal safety, interoperability, or maintenance mandates under this Section constitute "expropriation," "indirect expropriation," or "measures tantamount to expropriation" under international law are not cognizable in any domestic or international forum, provided the mandate applies equally to domestic and foreign owners;
+
+(4) The United States shall not enter into any treaty or agreement that would permit international arbitration of disputes arising from the enforcement of this Section against infrastructure owners within the United States;
+
+(5) Nothing in this subsection or subsection (oo) eliminates the obligation of just compensation for the permanent physical taking of infrastructure assets. Emergency federal operation under subsection (oo) is a regulatory enforcement action, not a taking, and does not require compensation beyond the operational cost reimbursement specified in subsection (oo)(2)(B). Mandatory divestment under subsection (oo)(3) is compensated at fair market value as specified in subsection (oo)(4). Owners subject to emergency operation or mandatory divestment retain the right to a hearing before the ARB and judicial review in domestic courts, but may not invoke international arbitration.
+
+(nn) **Beneficial Ownership Disclosure for Critical Infrastructure.** All persons and entities holding ownership interests in Critical Inter-Regional Corridor infrastructure shall disclose beneficial ownership:
+
+(1) Complete beneficial ownership information, traced to natural persons or ultimate controlling entities, shall be filed with the Department of Commerce annually and updated within thirty days of any material change;
+
+(2) Shell corporations, trusts, nominees, and layered ownership structures must be traced through all intermediate entities to the natural person or government exercising ultimate control;
+
+(3) Failure to file or update beneficial ownership information creates a rebuttable presumption that the entity is a "foreign entity" as defined in subsection (ll)(2), triggering the divestment approval requirement;
+
+(4) Knowingly filing false or materially incomplete beneficial ownership information is a federal felony, and upon conviction, the court shall order mandatory divestment of the infrastructure interest;
+
+(5) Beneficial ownership filings shall be published in the National Infrastructure Transparency System established under subsection (q), with limited redaction of personal identifying information as Congress may provide by statute;
+
+(6) Successor owners are bound by all obligations, orders, and enforcement actions applicable to their predecessors; transfer of ownership does not extinguish, suspend, or reset any pending compliance proceeding, ARB order, or remedial obligation under this Section.
+
+(oo) **Emergency Federal Operation of Foreign-Owned Infrastructure.** When foreign-owned Critical Inter-Regional Corridor infrastructure fails to comply with mandates under this Section:
+
+(1) The ARB may certify that non-compliance by a foreign-owned infrastructure operator threatens the continuity of inter-Regional commerce, triggering emergency federal operation authority under subsection (o);
+
+(2) Emergency federal operation of foreign-owned infrastructure requires the same ARB certification and follows the same procedures as federal operational assumption under subsection (o), with the following additions: (A) the foreign owner's consent is not required; (B) compensation to the foreign owner during the period of emergency operation is limited to documented, audited operational costs, excluding lost profits, speculative damages, and opportunity costs; and (C) no treaty-based arbitration claim may arise from emergency operation conducted under this subsection;
+
+(3) If emergency operation continues for more than one year due to the foreign owner's persistent non-compliance, or if mandatory divestment is required under subsection (ll)(6)(D), the ARB may recommend mandatory divestment to the Federal Senate, which may order divestment by majority vote;
+
+(4) Compensation for mandatory divestment shall be fair market value as determined by domestic appraisal, not subject to international arbitration, and reduced by any damages or costs incurred by the federal government during emergency operation.
+
+#### Informational Trade Barrier Prohibition
+
+(pp) **Prohibition on Stigmatizing Regional Origin Labels.** No Region may mandate consumer disclosures on goods or services from other Regions that characterize the political, legal, regulatory, or social conditions of the originating Region:
+
+(1) "Characterization" includes any mandatory label, disclosure, point-of-sale notice, or advertising requirement that: (A) describes or evaluates the originating Region's policies, enforcement practices, regulatory standards, political orientation, or social values; (B) compares the originating Region's standards to the labeling Region's own standards; or (C) uses language designed to discourage purchase or use based on the originating Region's governance characteristics;
+
+(2) This prohibition applies to all mandatory disclosures including product labels, point-of-sale materials, advertising requirements, and digital platform disclosures required by Regional law;
+
+(3) Violations of this subsection constitute per se violations of subsection (a), and are subject to the full remedies and enforcement mechanisms of subsections (m) through (p);
+
+(4) Voluntary, private-sector labeling schemes are not subject to this prohibition unless a Region mandates participation, provides preferential treatment to participants — including tax incentives, procurement preferences, regulatory fast-tracking, or other official benefits — or penalizes non-participants.
+
+(qq) **Permissible Consumer Disclosures.** This Section does not prohibit legitimate, product-specific consumer safety disclosures:
+
+(1) Permissible mandatory disclosures are limited to: (A) ingredient lists and material composition; (B) nutritional information; (C) safety warnings based on objective, federally-verified product testing and standards; (D) geographic origin labeling limited to place of manufacture, with no evaluative language; and (E) disclosures required by federal statute or regulation;
+
+(2) Regions may not impose mandatory disclosure requirements for inter-Regional goods that are stricter than applicable federal standards unless the Region can demonstrate a product-specific safety justification, supported by clear and convincing evidence, that is distinct from any characterization of the originating Region's governance;
+
+(3) The ARB shall review contested labeling requirements upon petition by any affected Region, producer, or trade association. The ARB may grant emergency injunctive relief within fourteen days of petition if the petitioner demonstrates a prima facie case that the contested disclosure constitutes a characterization prohibited by subsection (pp). The ARB shall issue a final determination on the merits within sixty days of petition; if the ARB finds the disclosure requirement lacks product-specific safety justification, it shall permanently enjoin the requirement; if the ARB fails to issue a final determination within sixty days, the petitioner may seek injunctive relief directly in federal court;
+
+(4) The burden of proving that a contested disclosure is a permissible consumer safety measure, rather than a stigmatizing characterization, rests on the Region imposing the requirement.
+
+(rr) **Stigma Barrier Enforcement.** The ARB shall enforce the prohibition on informational trade barriers:
+
+(1) Any Region, producer, or trade association whose goods or services are subject to labeling requirements that may violate subsection (pp) may petition the ARB for review under subsection (qq)(3), including emergency injunctive relief;
+
+(2) Upon finding a violation, the ARB shall: (A) immediately enjoin the labeling requirement; (B) order the violating Region to remove all stigmatizing disclosures from commerce within thirty days; and (C) publish the finding and order in the National Infrastructure Transparency System;
+
+(3) The affected Region may recover full economic damages, including lost sales, reputational harm, and consequential damages, from the violating Region; treble damages are available upon a finding of bad faith under subsection (n);
+
+(4) A Region found to have imposed stigmatizing labels on three or more occasions within ten years is subject to: (A) suspension of its authority to impose mandatory consumer disclosure requirements on inter-Regional goods for five years, except for disclosures required by federal statute or regulation; (B) repeat offender designation under subsection (p) if the pattern constitutes a broader strategy of Non-Blockade violation; (C) during any suspension period, the ARB may authorize temporary emergency disclosures on a case-by-case basis if a public health or product safety hazard, verified by the relevant federal agency with product safety jurisdiction (including the Food and Drug Administration, Consumer Product Safety Commission, or Environmental Protection Agency), requires immediate consumer notification, provided such disclosures are limited to the specific hazard and duration of the emergency;
+
+(5) Labeling challenges and outcomes shall be published in the National Infrastructure Transparency System, including the text of the challenged disclosure, the ARB's analysis, and any damages awarded.
+
+#### Implementation Reference
+
+(ss) Implementation procedures are established by statute. See the [National Common Market Access Act](../../proposals/03-economy-commerce/national-common-market-access-act.md) for the proposed implementing legislation.
 
 ---
 
