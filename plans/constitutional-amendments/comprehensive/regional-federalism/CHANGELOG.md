@@ -2,7 +2,7 @@
 
 **Note**: This changelog has been reorganized by date. See the `changelog/` directory for detailed entries:
 
-- [`changelog/2026-02-03.md`](changelog/2026-02-03.md) - Latest changes (triage fix + Gap 67/75 resolution + Gap 128/132/142 resolution + Gap 92/116 resolution + Gap 99 resolution + Gap 104 resolution)
+- [`changelog/2026-02-03.md`](changelog/2026-02-03.md) - Latest changes (triage fix + Gap 67/75 resolution + Gap 128/132/142 resolution + Gap 92/116 resolution + Gap 99 resolution + Gap 104 resolution + Gap 109 resolution)
 - [`changelog/2026-02-02.md`](changelog/2026-02-02.md) - Gap resolutions (199, 13, index triage)
 - [`changelog/2026-02-01.md`](changelog/2026-02-01.md) - Gap resolutions (220, 219, 216, etc.)
 - [`changelog/2026-01-31.md`](changelog/2026-01-31.md) - Gap resolutions and verifications
@@ -12,6 +12,21 @@
 - [`changelog/2026-01-26.md`](changelog/2026-01-26.md) - Territorial integration incentives
 - [`changelog/2026-01-25.md`](changelog/2026-01-25.md) - Major integration work
 - [`changelog/2026-01-24.md`](changelog/2026-01-24.md) - Historical development
+
+## 2026-02-03: Gap 109 — Resource Hoarding via Regional Environmental Protection Resolved (Article I §11)
+
+One interstate commerce gap resolved via multi-LLM protocol (v1 → 2 review rounds → v3 FINAL) through 3 new subsections (k)-(m) in Article I-RF, Section 11 (Environmental Border Protection). Gap 109 (Resource Hoarding via Regional Environmental Protection): all 4 gaming vectors had residual risk; new text adds three-layer §11 completion — pretextual regulation prevention. §11(k) resource-restrictive environmental standard certification with multi-body WRCB/DOE+EPA/ARB certification, 4-part proportionality test, 90-day deemed-denial + mandamus, pretext finding + pattern presumption, 12-month assessment cap + interim conditions fallback, emergency environmental exception with 60-day safe harbor. §11(l) Shared National Resource designation with National Resource Doctrine trust, Exclusive Regional Domain deconfliction, ARB-bounded expansion. §11(m) emergency resource access with quantified transferring Region priority, emergency collision deconfliction, 21-day judicial review, anti-hoarding + treble damages, water deferral to §7/WRCB.
+
+### Files Modified
+
+- `02-design/constitution/01-regional-structure.md` — Art I §11 expanded: subsections (k)-(m)
+- `02-design/drafts/gap-109-resource-hoarding-environmental.md` — Draft file (v3 FINAL)
+- `04-meta/gaps/10-interstate-commerce.md` — Gap 109: PROPOSAL AVAILABLE to RESOLVED
+- `04-meta/gaps/00-index.md` — Gap 109 status updated
+- `04-meta/02-identified-gaps.md` — Statistics: PA 18 to 17, Resolved 158 to 159
+- `02-design/constitution/article-crosswalk.md` — Art I entry expanded
+
+**Status:** RESOLVED | **Detail:** [changelog/2026-02-03.md](changelog/2026-02-03.md)
 
 ## 2026-02-03: Gap 104 — Predatory Infrastructure Licensing Resolved (Article I §9)
 

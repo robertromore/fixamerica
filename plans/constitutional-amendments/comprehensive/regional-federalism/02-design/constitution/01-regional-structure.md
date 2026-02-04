@@ -1738,6 +1738,102 @@ is subject to federal prosecution and civil liability to affected communities.
 - (2) jurisdictions shall submit reduction plans within ninety days;
 - (3) failure to submit or implement plans authorizes EPA to impose allocations directly.
 
+#### Pretextual Resource Regulation Prevention
+
+(k) **Resource-Restrictive Environmental Standard Certification.**
+
+(1) An environmental standard is "resource-restrictive" if it has the purpose or effect of substantially limiting the extraction, processing, transfer, or interstate flow of a Shared National Resource designated under subsection (l), resulting in a material reduction in interstate availability of that resource.
+
+(2) Before enforcing a resource-restrictive environmental standard against interstate resource flows, a Region must obtain certification from the relevant coordination body — the Water Resources Coordination Board for water resources under Section 7, the Department of Energy in consultation with the Environmental Protection Agency for energy resources, or the Allocation Review Board for all other resources. Certification requires a finding that:
+
+- (A) The standard addresses a genuine, documented environmental threat specific to the Region;
+
+- (B) The environmental benefit of the standard outweighs the harm to equitable resource access by other Regions;
+
+- (C) Less restrictive alternatives cannot achieve the environmental objective;
+
+- (D) The standard does not exceed what is necessary to address the identified environmental threat.
+
+(3) The certifying body shall issue its determination within ninety (90) days. Failure to rule within ninety (90) days constitutes denial of certification. A Region whose certification is deemed denied by inaction may petition the National Constitutional Court for a writ of mandamus compelling the certifying body to issue a determination within thirty (30) additional days.
+
+(4) **Pretext Finding.** If the certifying body finds that a resource-restrictive standard is pretextual — adopted or maintained primarily for the purpose of resource hoarding, competitive advantage, or economic leverage rather than genuine environmental protection:
+
+- (A) The standard is void as applied to interstate resource flows;
+
+- (B) The Region may maintain the standard for intra-Regional purposes only;
+
+- (C) The Region shall compensate other Regions for economic losses incurred during the period the pretextual standard was enforced;
+
+- (D) A pattern of two (2) or more pretext findings within five (5) years creates a rebuttable presumption that subsequent resource-restrictive standards by that Region are pretextual.
+
+(5) **Assessment Timeline Limitation.** No environmental assessment, review, or study required as a precondition for approval of an interstate resource transfer may exceed twelve (12) months in duration. If the assessment is not completed within twelve (12) months, the transfer shall proceed under interim conditions established by the certifying body. If the certifying body fails to establish interim conditions within thirty (30) days of the assessment deadline, the transfer shall proceed under conditions most recently applicable to comparable transfers of the same resource, subject to mandamus under subsection (3). This limitation does not apply to assessments required by federal law.
+
+(6) **Emergency Environmental Exception.** A Region may enforce a resource-restrictive environmental standard without prior certification under subsection (2) when the Regional Governor certifies that an imminent environmental emergency — including but not limited to a toxic spill, pipeline rupture, aquifer contamination event, or ecological disaster — requires immediate restriction of resource flows to prevent irreversible environmental harm:
+
+- (A) The emergency standard may remain in effect for up to sixty (60) days without certification;
+
+- (B) Within seven (7) days of invoking this exception, the Region shall submit a certification application to the relevant coordination body under subsection (2);
+
+- (C) If the Region does not submit the certification application within seven (7) days, the emergency standard is automatically vacated;
+
+- (D) If certification is denied upon review, the emergency standard is vacated immediately upon denial, and the Region is not liable for damages incurred during the bona fide emergency period prior to denial;
+
+- (E) If the certification review is not completed within sixty (60) days, the certifying body may extend the emergency standard in thirty (30) day increments while the review proceeds, provided the environmental emergency persists. If the certifying body fails to act on the extension within the sixty-day period, the emergency standard remains in effect until the certification determination is issued, subject to mandamus under subsection (3).
+
+(l) **Shared National Resource Designation.**
+
+(1) In addition to interstate water resources designated under Section 7(a), the following are Shared National Resources subject to this subsection and the certification requirements of subsection (k):
+
+- (A) Energy resources crossing Regional boundaries, including petroleum, natural gas, renewable energy potential transmitted via interstate grid, and geothermal resources underlying multiple Regions;
+
+- (B) Mineral resources designated by the Department of the Interior, with concurrence of the Allocation Review Board, as having national strategic significance;
+
+- (C) Additional resources designated by the Allocation Review Board upon petition by any Region or by Congress, provided the resource has cross-Regional or interstate significance. The Board shall provide sixty (60) days' notice to affected Regions before finalizing any designation under this subparagraph.
+
+(2) **National Resource Doctrine.** Shared National Resources are held in trust for the benefit of all Americans. No Region may capture a Shared National Resource through regulatory action — including environmental, health, safety, or land use regulation — that has the purpose or effect of denying equitable access to other Regions. This Doctrine prohibits pretextual regulatory capture of shared resources; it does not reclassify environmental regulation from an Exclusive Regional Domain under Article II, Section 1(e), and does not diminish Regional authority over genuine environmental protection that satisfies the certification requirements of subsection (k).
+
+(3) **Environmental Authority Preservation.** Nothing in this subsection diminishes a Region's authority to:
+
+- (A) Protect environmental quality within its boundaries through standards that satisfy the certification requirements of subsection (k);
+
+- (B) Regulate resource extraction within its territory for genuine environmental purposes;
+
+- (C) Exceed federal environmental floors where the higher standard has primary environmental benefit as certified under subsection (k)(2).
+
+(4) **Cross-Reference.** Water resources remain subject to the specific provisions of Section 7, including equitable apportionment under Section 7(a), the Water Resources Coordination Board under Section 7(e), and the National Water Court under Section 7(f). The certification requirements of subsection (k) apply to water-related environmental standards that restrict interstate water flow, with the Water Resources Coordination Board serving as the certifying body.
+
+(m) **Emergency Resource Access.**
+
+(1) During a resource emergency — including drought, energy shortage, or critical mineral supply disruption — as declared by the President or certified by the relevant coordination body:
+
+- (A) Environmental standards that restrict interstate resource transfers are suspended to the extent necessary to address the emergency;
+
+- (B) Emergency resource transfers shall be compensated at fair market value;
+
+- (C) The transferring Region retains priority for its own population's baseline requirement for individual survival, sanitation, and critical infrastructure operation, as determined by applicable federal standards — no emergency transfer may reduce the transferring Region's resource availability below this baseline;
+
+- (D) Environmental standards are automatically restored when the emergency declaration expires;
+
+- (E) The suspension under subparagraph (A) does not override an emergency environmental restriction in effect under subsection (k)(6). When a declared resource emergency and an environmental emergency under subsection (k)(6) affect the same resource corridor, the certifying body shall determine whether the environmental restriction should be maintained, modified, or suspended, based on comparative assessment of irreversible harm. The environmental restriction shall be maintained unless the certifying body finds that the resource emergency poses greater risk of irreversible harm than the environmental emergency.
+
+(2) **Coordination Body Allocation.** When multiple Regions require emergency access to the same Shared National Resource:
+
+- (A) The relevant coordination body shall establish allocation among requesting Regions based on severity of need, population affected, and availability of alternatives;
+
+- (B) No Region may receive allocation below the minimum necessary for public health and safety;
+
+- (C) The allocating body's determination is subject to expedited review by the National Water Court for water resources or by the National Constitutional Court for all other resources. The reviewing court shall issue its determination within twenty-one (21) days of the challenge filing.
+
+(3) **Anti-Hoarding During Emergency.** During a declared resource emergency, a Region that maintains resource-restrictive environmental standards not certified under subsection (k):
+
+- (A) Is presumed to be engaged in resource hoarding;
+
+- (B) Shall have the uncertified standards suspended immediately by order of the certifying body;
+
+- (C) Is liable for treble damages to Regions harmed by the resource restriction during the emergency period.
+
+(4) **Water Emergency Coordination.** For resource emergencies involving water, the provisions of Section 7 — including the Water Resources Coordination Board under Section 7(e) and the National Water Court under Section 7(f) — govern emergency allocation and dispute resolution. This subsection supplements but does not override the water-specific framework of Section 7.
+
 ---
 
 ### Section 12. Cross-Jurisdictional Law Enforcement Cooperation

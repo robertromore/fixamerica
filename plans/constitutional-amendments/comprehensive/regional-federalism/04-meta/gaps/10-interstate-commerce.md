@@ -1948,7 +1948,21 @@ Article I, Section 10 allows Regions to establish "more protective [environmenta
 - **Gap 67 (Infrastructure Ransom):** Resource leverage; Gap 109 addresses environmental resource leverage
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article I-RF, Section 10. This three-part solution identifies Shared National Resources held in trust for all Americans, requires Transboundary Impact Certification for restrictive standards with pretext finding authority, and guarantees equitable resource access with coordination body allocation and emergency access provisions.
+**RESOLVED.** Three new subsections (k)-(m) added to Article I-RF, Section 11 (Environmental Border Protection) via multi-LLM protocol (v1 → 2 review rounds → v3 FINAL). Note: Proposal targeted §10 but §10 is Data Sovereignty; correct target is §11.
+
+| Proposal Part | Constitution Location | Status |
+|---------------|----------------------|--------|
+| Part 1(g): Shared National Resources designation | §11(l)(1) | Refined — water cross-referenced to §7(a); ARB concurrence for minerals; ARB designation criteria bounded |
+| Part 1(h): National Resource Doctrine | §11(l)(2)-(3) | Refined — trust doctrine + Exclusive Regional Domain deconfliction |
+| Part 1(i): Environmental Authority Preservation | §11(l)(3) | Retained |
+| Part 2(j): Transboundary Impact Assessment | §11(k)(1)-(3), (5) | Enhanced — multi-body certification (WRCB/DOE+EPA/ARB); deemed-denial + mandamus; interim conditions fallback |
+| Part 2(k): Certification Standards | §11(k)(2)(A)-(D) | Retained — 4-part proportionality test |
+| Part 2(l): Pretext Finding | §11(k)(4) | Enhanced — compensation + pattern presumption (2 in 5 years) |
+| Part 3(m): Resource Access Right | §11(l)(2) | Refined — National Resource Doctrine prohibition on regulatory capture |
+| Part 3(n): Resource Allocation Authority | §11(m)(2) | Retained — coordination body allocation; 21-day judicial review deadline |
+| Part 3(o): Emergency Resource Access | §11(m)(1), (3), (4) | Enhanced — anti-hoarding + treble damages; emergency collision deconfliction; water deferral to §7 |
+
+Draft file: `02-design/drafts/gap-109-resource-hoarding-environmental.md`
 
 ---
 
