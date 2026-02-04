@@ -1396,7 +1396,19 @@ Axiom 4 establishes "Floors, Not Ceilings," and Article I, Section 6 guarantees 
 - **Gap 67 (Infrastructure Ransom):** Infrastructure as leverage; Gap 92 addresses infrastructure as separation tool
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article IX-RF, Section 9. This four-part solution establishes Infrastructure Interoperability Mandate as constitutional requirement with material barrier standard, grants Federal Department of Commerce authority to set interoperability floors with pre-implementation review, enables ARB enforcement with federal implementation authority for non-compliance, and prohibits circumvention through rapid standard changes while protecting legitimate innovation.
+**RESOLVED.** Constitutional text integrated into Article II-RF, Section 4(l)-(s) (Critical Infrastructure Interoperability). Consolidated with Gap 116. Drafted via multi-LLM protocol: v1 → Round 1 review (2 reviewers, 10 findings) → v2 → Round 2 review (1 reviewer, 5 findings) → v3 (FINAL) → integration.
+
+| Proposal Part | Integrated Location | Status |
+|---------------|-------------------|--------|
+| Part 1: Interoperability Mandate (constitutional prohibition on material barriers) | Art II §4(l) | Full match |
+| Part 2: Critical Infrastructure Definition (6 categories + expandable) | Art II §4(m) | Full match + enhanced (NIST delegation) |
+| Part 3: Material Barrier Standard (5 objective tests with tiered thresholds) | Art II §4(n) | Full match + enhanced (tiered delay: 2hr physical, 5sec digital, NIST-calibrated energy, 30min telecom) |
+| Part 4: Federal Interoperability Floors (Commerce/NIST standard-setting) | Art II §4(o) | Full match + enhanced (interim standard precedence rule) |
+| Part 5: Regional Innovation + Pre-Implementation Certification | Art II §4(p)-(q) | Full match + enhanced (deemed approval with provisional status, interim injunction authority) |
+| Part 6: ARB Enforcement + Federal Implementation | Art II §4(r) | Full match + enhanced (repeat offender default + tie-breaker, 120-day consolidated clock) |
+| Part 7: Anti-Circumvention + Innovation Protection | Art II §4(s) | Full match + enhanced (cybersecurity patch exemption, vendor lock-in prohibition, data sovereignty deconfliction) |
+
+See [gap-092-116-infrastructure-interoperability.md](../../02-design/drafts/gap-092-116-infrastructure-interoperability.md).
 
 ---
 
@@ -1967,7 +1979,7 @@ Article II, Section 2 grants Regions exclusive authority over "energy generation
 - Both address the same gaming vector through complementary mechanisms
 
 **Status:**
-**PROPOSAL AVAILABLE.** Supplement to Gap 92 adding federal technical standard-setting authority with backward compatibility requirement and pre-implementation certification.
+**RESOLVED.** Consolidated with Gap 92 into Article II-RF, Section 4(l)-(s) (Critical Infrastructure Interoperability). Gap 116's backward compatibility requirement integrated at §4(p)(1); federal standard-setting authority at §4(o) (NIST); pre-implementation certification at §4(q). See [gap-092-116-infrastructure-interoperability.md](../../02-design/drafts/gap-092-116-infrastructure-interoperability.md).
 
 ---
 
