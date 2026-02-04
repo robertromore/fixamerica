@@ -477,6 +477,67 @@ Upon expiration of the acting period under subsection (b) without a confirmed of
 
 ---
 
+### Section 4-F. Treaty Ratification Accountability
+
+*Addresses Gap 125: The Senate Treaty Blockade (Minority Veto). Establishes mandatory consideration timelines, a population-weighted House override for treaties rejected by the Senate, pre-negotiation consultation requirements, and a Treaty Blockade finding for serial rejection.*
+
+**(a) Standard Ratification and Mandatory Consideration.**
+
+- (1) Except as provided in subsection (b), treaty ratification requires approval by two-thirds of seated Senators, by recorded roll-call vote.
+- (2) The President shall transmit any signed treaty to the Senate for ratification consideration, together with a certification that the treaty text is final and the administrative record complete. The Senate shall hold a recorded vote on ratification within one hundred twenty (120) days of such certification. If the President has not transmitted certification within one hundred eighty (180) days of treaty signature, the Senate Foreign Relations Committee, or its equivalent, may by majority vote deem the treaty certified for purposes of this paragraph, commencing the one hundred twenty (120) day period.
+- (3) If the Senate neither ratifies nor rejects the treaty by recorded vote within one hundred twenty (120) days, the treaty shall be deemed rejected for purposes of subsections (b) and (d). Deemed rejection does not constitute affirmative Senate action, and the treaty does not take effect unless the House override under subsection (b) is achieved.
+- (4) Each Senator voting to reject a treaty shall submit a written statement of reasons within fourteen (14) days, which shall be published in the official Senate record. Failure to submit a statement does not invalidate the vote, but the absence of a statement shall create a rebuttable presumption for purposes of subsection (d)(2) that the Senator's rejection lacked specific objection to the treaty text, negotiation process, or compliance mechanism. A Senator may rebut this presumption by providing a written statement to the Allocation Review Board during any Treaty Blockade investigation.
+
+**(b) House Proportional Override.**
+
+- (1) Following Senate rejection or deemed rejection under subsection (a), the President may transmit the rejected treaty to the House of Representatives for override consideration.
+- (2) The House may ratify a treaty rejected by the Senate upon the concurrence of:
+    - (i) two-thirds of the seated membership of the House of Representatives, by recorded roll-call vote. For purposes of this subsection, "seated membership" means Members who have been certified and are currently serving; vacant seats are excluded; and
+    - (ii) the affirmative votes of Representatives whose districts collectively contain at least sixty percent (60%) of the national population as determined by the official apportionment data from the most recent decennial census. The Clerk of the House shall certify population totals for override votes; vacant seats shall be excluded from the calculation. If a court of competent jurisdiction has ordered reapportionment based on revised population data subsequent to the most recent decennial census, the Clerk shall use the court-ordered apportionment figures for affected districts.
+- (3) The House shall hold a recorded vote within ninety (90) days of presidential transmission. If the House does not achieve the override threshold within ninety (90) days, the override process terminates and the treaty is not ratified.
+- (4) Following a House override vote that achieves the threshold of paragraph (2), the Senate may reconsider and ratify the treaty by the standard two-thirds vote within thirty (30) days. If the Senate ratifies on reconsideration, the treaty is ratified through standard Senate action and the House override is mooted. If the Senate does not ratify on reconsideration within thirty (30) days, the treaty shall be deemed ratified by House override.
+- (5) A treaty ratified by House override has the same force and effect as a treaty ratified by Senate vote under international law. However, a treaty ratified by House override shall be non-self-executing for purposes of domestic law and shall not create judicially enforceable rights or obligations within the United States absent implementing legislation enacted by Congress through the standard legislative process.
+- (6) The House override mechanism under this subsection may be invoked only once per treaty. If the House fails to achieve the override threshold, the President may resubmit the treaty to the Senate but may not invoke a second House override for the same treaty text.
+
+**(c) Pre-Negotiation Consultation.**
+
+- (1) The Senate Foreign Relations Committee, or its equivalent, shall receive regular briefings on treaties under active negotiation.
+- (2) The Committee may provide advisory input to the President's negotiators on potential ratification concerns. Advisory input does not bind the negotiators or the Senate's ratification decision.
+- (3) For treaties that would materially affect Regional interests — including trade, environmental regulation, border management, and defense basing — the President shall consult with affected Regional Governors before finalizing treaty text.
+- (4) Failure to consult under this subsection does not invalidate a treaty but may be raised as a factor in Senate debate.
+
+**(d) Treaty Blockade Finding.**
+
+- (1) The Allocation Review Board may investigate for "Treaty Blockade" if the Senate rejects or is deemed to have rejected under subsection (a)(3) three (3) or more consecutive treaties within any four (4) year period.
+- (2) "Treaty Blockade" means a pattern of serial treaty rejection in which the rejecting Senators' stated reasons fail to articulate specific objections to the treaty text, negotiation process, or compliance mechanism of each rejected treaty. The ARB shall consider:
+    - (i) whether the written rejection statements under subsection (a)(4) identify specific provisions, terms, or negotiation deficiencies in each treaty, or instead reflect generalized opposition unrelated to the content of the particular treaties rejected. A statement satisfies the specificity requirement of this clause if it identifies at least one specific provision, article, clause, or term of the treaty, or a specific aspect of the negotiation process or compliance mechanism, to which the Senator objects. General statements of opposition to the treaty's subject matter, policy area, or negotiating partner, without reference to specific treaty content, do not satisfy this standard;
+    - (ii) whether the same Senators or Regional delegations voted to reject each treaty regardless of subject matter;
+    - (iii) whether conditions were attached to ratification that are unrelated to the treaty's terms.
+- (3) The ARB shall adopt a Treaty Blockade finding by majority vote of its non-vacant members, provided that no fewer than three (3) members participate in the vote.
+- (4) Upon a Treaty Blockade finding:
+    - (i) the population threshold for House override under subsection (b)(2)(ii) is reduced from sixty percent (60%) to fifty-five percent (55%) for a period of two (2) years from the date of the finding;
+    - (ii) the House vote threshold under subsection (b)(2)(i) remains two-thirds of seated membership;
+    - (iii) the reduced threshold applies to all treaties submitted during the two-year period, not only to the treaties that triggered the finding.
+- (5) A Treaty Blockade finding is subject to expedited judicial review before the National Constitutional Court, limited to procedural regularity and whether the factual predicates of paragraphs (1) and (2) were facially satisfied. The Court shall render its decision within thirty (30) calendar days of the petition for review. Substantive review of whether the Senate's rejections constituted a blockade is not available under this paragraph.
+
+**(e) Transparency and Accountability.**
+
+- (1) The Senate shall publish, within thirty (30) days of each treaty vote:
+    - (i) the full text of the treaty as submitted;
+    - (ii) the recorded vote of each Senator;
+    - (iii) written statements of reasons from Senators voting to reject.
+- (2) The ARB shall maintain a public registry of treaty submissions, Senate votes, and outcomes, including deemed rejections, House override proceedings, and Treaty Blockade findings.
+
+**(f) Coordination.**
+
+- (1) This section does not modify the treaty withdrawal procedures of Article II, Section 19. Senate consent requirements for treaty withdrawal are independent of this section.
+- (2) The House override mechanism under subsection (b) applies only to treaty ratification. It does not extend to Senate confirmation of officers, participation in constitutional amendments, or adjudication of intergovernmental disputes.
+- (3) The quorum and Coordinated Absence protections of Section 4-E apply to treaty ratification votes under this section. The supermajority threshold for standard ratification under subsection (a)(1) shall be calculated from the total number of seated Senators in accordance with Section 4-E(d)(3).
+- (4) Treaties between the United States and Indigenous Nations, governed by Article XXIII (Indigenous Sovereignty Preservation), are not subject to the House override mechanism under subsection (b). The free, prior, and informed consent requirements of Article XXIII, Section 4 apply independently of this section.
+- (5) **Transition Freeze.** The House override mechanism under subsection (b) shall not be initiated or concluded during the Presidential Transition Period defined in Article II, Section 19(f). The procedural deadlines established in subsections (a)(2), (a)(3), (b)(3), (b)(4), and (d)(4)(i) are tolled during such period. The four-year lookback period in subsection (d)(1) is a calendar measurement that runs continuously and is not subject to tolling under this paragraph. Override proceedings pending at the commencement of the Transition Period are suspended and resume upon its conclusion. The Transition Freeze is not subject to waiver. Upon inauguration, the newly inaugurated President may re-certify any pending treaty under subsection (a)(2) to resume or initiate proceedings.
+
+---
+
 ### Section 5. Federal Lawmaking
 
 (a) Bills within enumerated federal powers may be introduced in the House of Representatives.

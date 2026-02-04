@@ -10,7 +10,7 @@
 
 ## Quick Navigation
 
-The 235 identified gaps have been organized into the following categories:
+The 236 identified gaps have been organized into the following categories:
 
 ### Foundational Categories (I-VI)
 
@@ -28,7 +28,7 @@ The 235 identified gaps have been organized into the following categories:
 | File | Theme | Key Gaps | Description |
 |------|-------|----------|-------------|
 | [07-fiscal-equalization.md](gaps/07-fiscal-equalization.md) | Fiscal | 45, 52, 61-62, 72, 80, 93-94, 107, 110, 112, 123-124, 133, 137-138, 147, 170, 193-195, 197, 202, 241 | Equalization, taxation, budgets |
-| [08-electoral-judicial.md](gaps/08-electoral-judicial.md) | Electoral/Judicial | 37, 48-49, 53, 73, 81, 95, 101, 108, 117, 120-121, 130, 145, 158-166, 173, 175, 186, 189, 196, 198, 237, 238, 243, 262, 273 | Elections, courts, appointments |
+| [08-electoral-judicial.md](gaps/08-electoral-judicial.md) | Electoral/Judicial | 37, 48-49, 53, 73, 81, 95, 101, 108, 117, 120-121, 130, 145, 158-166, 173, 175, 186, 189, 196, 198, 237, 238, 243, 262, 273, 276 | Elections, courts, appointments |
 | [09-emergency-military.md](gaps/09-emergency-military.md) | Emergency/Military | 23-24, 33, 44, 55, 74, 82, 86, 88, 91, 102, 113, 122, 167, 169, 190, 192, 206, 224, 227, 235 | Two-Key, Regional Guard, crises |
 | [10-interstate-commerce.md](gaps/10-interstate-commerce.md) | Commerce/Infrastructure | 35, 50, 65-67, 75, 83, 92, 99, 104, 109, 116, 128, 132, 142, 185, 200 | Trade, transit, blockades |
 | [11-institutional-governance.md](gaps/11-institutional-governance.md) | Institutional | 34, 38, 41, 54, 56, 70, 79, 87, 89-90, 97, 100, 106, 118, 131, 149, 168, 171, 205, 219-223, 228-234, 248, 250-252, 260-261, 268, 275 | ARB, oversight bodies, legislatures |
@@ -48,20 +48,20 @@ The 235 identified gaps have been organized into the following categories:
 | Severity | Count |
 |----------|-------|
 | Critical | 80 |
-| High | 52 |
+| High | 53 |
 | Medium | 75 |
 | Low | 27 |
-| **Total** | **235** |
+| **Total** | **236** |
 
 | Status | Count |
 |--------|-------|
-| Requires Development | 0 |
+| Requires Development | 1 |
 | Partially Mitigated | 39 |
-| Proposal Available | 12 |
+| Proposal Available | 11 |
 | Mitigated | 0 |
 | Accepted by Design | 13 |
 | Requires Monitoring | 7 |
-| Resolved | 164 |
+| Resolved | 165 |
 
 ---
 

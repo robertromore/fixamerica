@@ -2,7 +2,8 @@
 
 **Note**: This changelog has been reorganized by date. See the `changelog/` directory for detailed entries:
 
-- [`changelog/2026-02-03.md`](changelog/2026-02-03.md) - Latest changes (triage fix + Gap 67/75 resolution + Gap 128/132/142 resolution + Gap 92/116 resolution + Gap 99 resolution + Gap 104 resolution + Gap 109 resolution + Gap 56 resolution + Gap 79 resolution + Gap 118 resolution + Gap 90 resolution + Gap 106 resolution)
+- [`changelog/2026-02-04.md`](changelog/2026-02-04.md) - Latest changes (Gap 125 resolution)
+- [`changelog/2026-02-03.md`](changelog/2026-02-03.md) - Gap resolutions (67/75, 128/132/142, 92/116, 99, 104, 109, 56, 79, 118, 90, 106)
 - [`changelog/2026-02-02.md`](changelog/2026-02-02.md) - Gap resolutions (199, 13, index triage)
 - [`changelog/2026-02-01.md`](changelog/2026-02-01.md) - Gap resolutions (220, 219, 216, etc.)
 - [`changelog/2026-01-31.md`](changelog/2026-01-31.md) - Gap resolutions and verifications
@@ -12,6 +13,20 @@
 - [`changelog/2026-01-26.md`](changelog/2026-01-26.md) - Territorial integration incentives
 - [`changelog/2026-01-25.md`](changelog/2026-01-25.md) - Major integration work
 - [`changelog/2026-01-24.md`](changelog/2026-01-24.md) - Historical development
+
+## 2026-02-04: Gap 125 — Senate Treaty Blockade (Minority Veto) Resolved (Article IV §4-F)
+
+One intergovernmental gap resolved via multi-LLM protocol (v1 → 2 review rounds → v3 FINAL) through new Section 4-F (Treaty Ratification Accountability) in Article IV (Federal Governance Procedures), Section 4 (Senate Powers). Gap 125 (Senate Treaty Blockade): all 18 gaming vectors closed. §4-F(a) mandatory 120-day consideration timeline with presidential certification and Senate committee backstop at 180 days; deemed rejection for inaction. §4-F(b) House proportional override (2/3 seated membership + 60% population, non-self-executing for domestic law, one attempt per treaty, 30-day Senate reconsideration). §4-F(c) pre-negotiation consultation. §4-F(d) Treaty Blockade finding (3+ consecutive rejections within 4 years, bright-line specificity standard, reduced 55% population threshold for 2 years). §4-F(e) transparency. §4-F(f) coordination (treaty withdrawal independent, indigenous treaty exclusion, §4-E quorum protections apply, absolute Transition Freeze with continuous 4-year lookback).
+
+### Files Modified
+
+- `02-design/constitution/03-regional-governance.md` — Art IV §4-F added: 6 subsections (a)-(f)
+- `02-design/drafts/gap-125-senate-treaty-blockade.md` — Draft file (v3 FINAL)
+- `04-meta/gaps/13-intergovernmental.md` — Gap 125: PROPOSAL AVAILABLE to RESOLVED
+- `04-meta/gaps/00-index.md` — Gap 125 status updated
+- `04-meta/02-identified-gaps.md` — Statistics: PA 12 to 11, Resolved 164 to 165
+
+**Status:** RESOLVED | **Detail:** [changelog/2026-02-04.md](changelog/2026-02-04.md)
 
 ## 2026-02-03: Gap 106 — Senate Quorum Trap for Federal Emergency Inaction Resolved (Article IV §4-E)
 

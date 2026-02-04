@@ -30,7 +30,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | [05-transition.md](05-transition.md) | Category V: Implementation and Transition Risks | Gaps 12-13 |
 | [06-tradeoffs.md](06-tradeoffs.md) | Category VI: Tradeoffs Accepted by Design | Gaps 14-15, 29-30, 32, 43 |
 | [07-fiscal-equalization.md](07-fiscal-equalization.md) | Fiscal Architecture & Equalization | Gaps 45, 52, 61-62, 72, 80, 93-94, 107, 110, 112, 123-124, 133, 137-138, 147, 170, 193-195, 197, 202, 241 |
-| [08-electoral-judicial.md](08-electoral-judicial.md) | Electoral & Judicial Systems | Gaps 37, 48-49, 53, 73, 81, 95, 101, 108, 117, 120-121, 130, 145, 158-166, 173, 175, 186, 189, 196, 198, 237, 238, 243, 262, 273 |
+| [08-electoral-judicial.md](08-electoral-judicial.md) | Electoral & Judicial Systems | Gaps 37, 48-49, 53, 73, 81, 95, 101, 108, 117, 120-121, 130, 145, 158-166, 173, 175, 186, 189, 196, 198, 237, 238, 243, 262, 273, 276 |
 | [09-emergency-military.md](09-emergency-military.md) | Emergency Powers & Military | Gaps 23-24, 33, 44, 55, 74, 82, 86, 88, 91, 102, 113, 122, 167, 169, 190, 192, 206, 224, 227, 235 |
 | [10-interstate-commerce.md](10-interstate-commerce.md) | Interstate Commerce & Infrastructure | Gaps 35, 50, 65-67, 75, 83, 92, 99, 104, 109, 116, 128, 132, 142, 185, 200 |
 | [11-institutional-governance.md](11-institutional-governance.md) | Institutional Governance | Gaps 34, 38, 41, 54, 56, 70, 79, 87, 89-90, 97, 100, 106, 118, 131, 149, 168, 171, 205, 219-223, 228-234, 248, 250-252, 260-261, 268, 275 |
@@ -175,6 +175,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 272 | Judicial time-horizon mismatch (remedies after the fact / provisional relief) | High | ✅ Resolved |
 | 262 | Negative right loophole (missing right to vote / universal suffrage guarantee) | Critical | ✅ Resolved |
 | 273 | Paper standard (regional electoral standards without metrics) | High | ✅ Resolved |
+| 276 | Apparent Winner death/incapacity during transition (transition entitlement vacancy) | High | Requires Development |
 
 ### Emergency Powers & Military
 
@@ -307,7 +308,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 111 | Shadow stay via regional administrative law | Medium | Proposal Available |
 | 114 | Insurance regulation coordination | Medium | Partially Mitigated |
 | 115 | Banking and financial services oversight | Medium | Partially Mitigated |
-| 125 | Senate treaty blockade (minority veto) | Medium | Proposal Available |
+| 125 | Senate treaty blockade (minority veto) | Medium | ✅ Resolved |
 | 126 | Census emergency and boundary sabotage | Medium | Proposal Available |
 | 127 | Public health data sharing and disease surveillance | High | Partially Mitigated |
 | 172 | Trojan Horse infrastructure (foreign influence) | High | ✅ Resolved |
