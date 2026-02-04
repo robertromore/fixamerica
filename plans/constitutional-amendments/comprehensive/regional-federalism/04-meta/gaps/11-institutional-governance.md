@@ -2212,7 +2212,7 @@ While the House can pass ordinary legislation without the Senate, constitutional
 - **Gap 63 (Senate Adjudication Paralysis):** Senate dysfunction; Gap 106 addresses emergency oversight dysfunction
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article IV-RF, Section 5. This three-part solution defines functional quorum based on seated Senators with deliberate absence counted as present, requires emergency session attendance with Coordinated Absence finding authority, and guarantees emergency oversight through mandatory vote timelines with default termination upon persistent quorum failure.
+**RESOLVED.** Integrated as Article IV-RF, Section 4-E (Emergency Session Integrity and Quorum Protection) via multi-LLM review protocol (v1 → R1 → v2 → R2 → v3 FINAL). Eight subsections (a)-(h): general quorum definition for all non-adjudication functions, emergency session attendance duty with self-executing remote fallback and objective incapacity standard, Coordinated Absence finding (notwithstanding quorum, 1/3 minimum-presence floor, uncertified absences analyzed independently of certified incapacities), consequences (deemed present, abstaining, supermajority from total seated), emergency oversight vote guarantees (termination 72hr, deployment 48hr, Congressional Key Override 48hr, auto-scheduling by operation of law), default outcomes (30-day/3-vote emergency termination, 72-hour deployment disapproval, re-declaration hardening), transparency, and coordination with §4(g)/§4-B/Art XVII. All 16 gaming vectors closed. See `02-design/drafts/gap-106-senate-quorum-trap.md` for full draft with design decisions and gaming vector analysis.
 
 ---
 

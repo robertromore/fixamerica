@@ -400,6 +400,83 @@ Upon expiration of the acting period under subsection (b) without a confirmed of
 
 ---
 
+### Section 4-E. Emergency Session Integrity and Quorum Protection
+
+*Addresses Gap 106: The Senate Quorum Trap for Federal Emergency Inaction. Establishes attendance duties, quorum definitions, and default outcomes to prevent coordinated Senate absence from disabling constitutional oversight of emergency powers and domestic force deployment.*
+
+**(a) General Senate Quorum.**
+
+- (1) For all Senate functions other than adjudication under Section 4(g), quorum shall consist of a majority of Senators who have been certified and seated.
+- (2) Vacant seats — whether due to death, resignation, removal, expiration of term without a successor, or failure of a Region to elect or appoint Senators — shall not count against quorum calculation.
+- (3) A Senator who has been certified and seated but who is absent shall be counted toward the quorum denominator. Deliberate absence does not reduce the number of Senators from whom a majority must be calculated.
+
+**(b) Emergency Session Attendance Duty.**
+
+- (1) During any declared federal emergency under Article XVII, during any active domestic force deployment requiring Congressional oversight, or during any pending Congressional Key Override proceeding under Article XI, Section 14, all Senators shall attend sessions called for emergency oversight purposes unless physically incapacitated.
+- (2) Remote participation through secure, authenticated communication satisfies the attendance requirement. Congress shall provide by law for secure remote participation facilities. If such facilities have not been established by law, or are unavailable during an emergency, the Presiding Officer shall accept any commercially available secure communication method that permits visual identification and real-time participation.
+- (3) Absence from an emergency oversight session without certification of objective physical incapacity — specifically, hospitalization, strict medical isolation, or incapacity preventing both physical and remote participation — by a licensed physician constitutes a breach of constitutional duty. Any Senator may petition the National Constitutional Court for expedited review of such certifications within forty-eight (48) hours.
+- (4) A Senator who is absent without valid cause from three or more emergency oversight sessions within a single emergency period shall be referred to the Senate Ethics Committee and may be subject to censure.
+
+**(c) Coordinated Absence Finding.**
+
+- (1) The Senate Presiding Officer, or in the Presiding Officer's absence the most senior Senator present, may find "Coordinated Absence" when:
+    - (i) Senators from two or more Regions are simultaneously absent from an emergency oversight session without certification of physical incapacity meeting the standard of subsection (b)(3);
+    - (ii) the uncertified absences under paragraph (i), considered independently of any Senators who have provided valid incapacity certifications, prevent the Senate from achieving quorum; and
+    - (iii) the absences exhibit a pattern suggesting coordination to defeat constitutional oversight.
+- (2) A Coordinated Absence finding may be made by recorded vote of the Senators present, notwithstanding any quorum requirement. A majority of Senators present and voting shall suffice.
+- (3) The Coordinated Absence finding shall specify the names of absent Senators without valid incapacity certification, the session from which they are absent, and the constitutional function the absence prevents. Senators with valid incapacity certifications are excluded from the finding.
+- (4) No Coordinated Absence finding may be made unless at least one-third of seated Senators are present at the time of the finding.
+
+**(d) Consequences of Coordinated Absence Finding.**
+
+- (1) Upon a Coordinated Absence finding, absent Senators named in the finding shall be counted as present for quorum purposes.
+- (2) The emergency oversight vote shall proceed. Named absent Senators shall be recorded as abstaining, not as absent. Senators excluded from the finding due to valid incapacity certification are not counted as present and are not recorded as abstaining.
+- (3) For any vote requiring a simple majority, the threshold shall be a majority of Senators present and voting. For any vote requiring a supermajority threshold specified elsewhere in this Constitution — including but not limited to treaty ratification, constitutional amendment participation, and removal under Section 4-B(f) — the threshold shall be calculated from the total number of seated Senators, not from Senators present and voting.
+- (4) No emergency oversight vote under this subsection may proceed unless at least one-third of seated Senators are present, including in person and by remote participation. This minimum-presence requirement applies independently of the quorum established by the Coordinated Absence finding.
+- (5) A vote conducted under this subsection has the same legal force and effect as a vote conducted with all Senators present.
+- (6) The Coordinated Absence finding and the resulting vote shall be published in the official Senate record and transmitted to each Region's Governor and legislature within twenty-four (24) hours.
+- (7) A Senator affected by a Coordinated Absence finding may petition the National Constitutional Court for review after the emergency oversight vote has been conducted. The Court shall review only whether the finding was procedurally regular and whether the criteria of subsection (c)(1) were met. No petition shall stay, suspend, or invalidate the vote conducted under this subsection pending review.
+
+**(e) Emergency Oversight Vote Guarantees.**
+
+- (1) **Emergency Termination Vote.** During any declared federal emergency, the Senate shall hold a recorded vote on a joint resolution of termination:
+    - (i) within seventy-two (72) hours of the emergency declaration, or within seventy-two (72) hours of a request by any Senator or by the House of Representatives;
+    - (ii) at intervals of not more than thirty (30) days thereafter for the duration of the emergency;
+    - (iii) these votes may not be delayed, tabled, or prevented by procedural motions, scheduling actions, or adjournment.
+- (2) **Domestic Deployment Oversight Vote.** During any active domestic force deployment:
+    - (i) the Senate shall hold a recorded vote on disapproval within forty-eight (48) hours of the deployment or within forty-eight (48) hours of a request by any Senator or by the House;
+    - (ii) disapproval by majority vote of the Senate, combined with House action as required by law, shall terminate the deployment within seventy-two (72) hours;
+    - (iii) these votes may not be delayed, tabled, or prevented by procedural motions, scheduling actions, or adjournment.
+- (3) **Congressional Key Override Vote.** When the House has voted to activate the Congressional Key Override under Article XI, Section 14:
+    - (i) the Senate shall hold a recorded vote within forty-eight (48) hours;
+    - (ii) no procedural motion may delay the vote;
+    - (iii) the vote threshold is as specified in Article XI, Section 14(d).
+- (4) **Auto-Scheduling.** If a vote required by this subsection has not been scheduled by the Presiding Officer by the deadline specified herein, the vote shall be deemed scheduled by operation of law for noon on the next calendar day. No act of the Presiding Officer, Majority Leader, or any other Senator is required for the vote to occur at the deemed-scheduled time.
+
+**(f) Default Outcomes upon Persistent Quorum Failure.**
+
+- (1) **Emergency Termination Default.** If the Senate cannot hold the specific emergency termination vote required by subsection (e)(1) — whether due to quorum failure, failure to schedule, or adjournment before voting — for three (3) consecutive required vote occasions or for thirty (30) consecutive calendar days, whichever occurs first, the emergency shall be deemed terminated by operation of law. The holding of quorum for other legislative business does not reset this count.
+- (2) **Deployment Disapproval Default.** If the Senate cannot hold the specific deployment oversight vote required by subsection (e)(2) — whether due to quorum failure, failure to schedule, or adjournment before voting — within seventy-two (72) hours of the required vote, the deployment shall be deemed disapproved and shall terminate within seventy-two (72) hours.
+- (3) **Re-Declaration Limitation.** An emergency terminated under paragraph (1) or a deployment terminated under paragraph (2) may be re-declared or re-authorized by the President, but the same default rules apply to each subsequent declaration or deployment. No re-declaration or re-authorization resets the persistent quorum failure clock, regardless of any intervening period of quorum or legislative session, if the new declaration relies on substantially the same underlying facts or circumstances.
+- (4) **Interaction with Emergency Powers Reform.** The default termination provisions of this subsection operate in addition to, and do not replace, the auto-expiration provisions of Article XVII, Section 4(c). Where this subsection provides a shorter timeline to termination than Article XVII, this subsection controls.
+
+**(g) Transparency and Accountability.**
+
+- (1) The Senate shall publish, in real time to the extent practicable:
+    - (i) quorum status for all emergency oversight sessions;
+    - (ii) attendance records for all Senators during emergency periods, including reasons provided for any absences;
+    - (iii) the dates and outcomes of all Coordinated Absence findings.
+- (2) Within thirty (30) days of the termination of any federal emergency, the Senate shall publish a complete report of attendance, quorum status, and votes during the emergency period.
+- (3) The Comptroller General shall include Senate emergency session attendance and quorum data in the post-emergency audit required by Article XVII, Section 5(d).
+
+**(h) Coordination.**
+
+- (1) This section supplements the adjudication quorum provisions of Section 4(g), which continue to govern quorum for intergovernmental dispute adjudication. Where both this section and Section 4(g) could apply, the more specific provision governs.
+- (2) The attendance duty and quorum provisions of this section do not modify the confirmation procedures of Section 4-B, which provide independent protection against quorum manipulation through deemed confirmation.
+- (3) The emergency oversight vote guarantees of subsection (e) operate in coordination with, and do not replace, the Congressional oversight obligations established in Article XVII, Section 5 (Emergency Powers Reform). Where this section establishes shorter timelines for Senate action, this section controls for the Senate; the House shall act according to its own rules and any applicable provisions of Article XVII.
+
+---
+
 ### Section 5. Federal Lawmaking
 
 (a) Bills within enumerated federal powers may be introduced in the House of Representatives.
