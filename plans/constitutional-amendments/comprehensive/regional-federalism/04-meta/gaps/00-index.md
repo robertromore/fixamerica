@@ -213,7 +213,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 75 | Interregional transit fee-gouging loophole | Medium | ✅ Resolved |
 | 83 | Pipeline and hazardous material transport | Medium | Partially Mitigated |
 | 92 | Technical standards as de facto secession | Medium | ✅ Resolved |
-| 99 | Tribal veto via infrastructure entrapment | Medium | Proposal Available |
+| 99 | Tribal veto via infrastructure entrapment | Medium | ✅ Resolved |
 | 104 | Predatory infrastructure licensing (labor chokepoints) | Medium | Proposal Available |
 | 109 | Resource hoarding via regional environmental protection | Medium | Proposal Available |
 | 116 | Administrative veto via technical standard-setting | Medium | ✅ Resolved |

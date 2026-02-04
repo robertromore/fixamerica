@@ -201,6 +201,125 @@ Upon completion of the transition period:
 
 (f) Nothing in this Constitution diminishes any treaty rights, trust responsibilities, or obligations of the United States to Tribal Nations.
 
+#### National Interest Corridor Dispute Resolution
+
+*Resolves Gap 99 — Tribal Veto via Infrastructure Entrapment. Establishes a Sovereign Mediation Panel framework for resolving disputes when National Interest Corridors must cross tribal land, balancing tribal sovereignty protection with national infrastructure connectivity.*
+
+(g) **National Interest Corridor Designation.** A corridor may be designated as a "National Interest Corridor" only when all three of the following criteria are satisfied:
+
+- (1) The corridor serves critical interstate infrastructure connecting two or more Regions, including but not limited to electrical transmission, rail, pipeline, highway, or telecommunications infrastructure;
+- (2) No feasible alternative route exists that avoids tribal land, where "feasible" has the meaning defined in subsection (m)(2), as certified by the Department of Commerce acting through the National Institute of Standards and Technology; and
+- (3) The designation is approved by Joint Resolution of Congress, enacted with a three-fifths vote in the Senate, after receiving and considering the NIST feasibility certification and the views of the affected Tribal Nation(s).
+
+National Interest Corridor designation shall specify the infrastructure type, maximum physical footprint, estimated duration of the transit need, and environmental impact assessment. Designation may be revoked by the same procedure. Designation does not itself authorize construction; it establishes eligibility for the mediation process under subsections (h) through (n).
+
+(h) **Sovereign Mediation Requirement.** Where tribal consent under Section 3(c) is withheld for a designated National Interest Corridor:
+
+- (1) A Sovereign Mediation Panel shall be convened within thirty (30) days of a formal request by the affected Region, Tribal Nation, or Secretary of the Interior;
+- (2) The Panel shall consist of seven (7) members: two (2) selected by the affected Tribal Nation, two (2) by the affected Region, two (2) by the Secretary of the Interior (who shall select members with expertise in infrastructure mediation and tribal affairs), and one (1) neutral mediator who shall be a retired Article III federal judge drawn by lot from a roster maintained by the Chief Justice, excluding judges who served in courts located in the affected Region or any Region party to the dispute;
+- (3) Panel members shall have no financial interest in the corridor project, its alternatives, or any entity that would benefit from the corridor's construction or obstruction;
+- (4) The Panel shall have authority to fashion binding resolution subject to the procedures and limitations of subsections (h) through (t);
+- (5) **Multi-Tribal Corridors.** Where a National Interest Corridor crosses the lands of multiple Tribal Nations, a single Consolidated Sovereign Mediation Panel shall be convened. The Panel shall be expanded to include one (1) representative from each additional affected Tribal Nation, with one (1) additional Regional representative added for each additional Tribal representative to maintain balance, and one (1) additional neutral mediator added for every three (3) additional members. All vote thresholds in this Section shall be calculated proportionally to the expanded Panel size, rounded up. Each affected Tribal Nation retains independent standing to challenge the Panel's determinations.
+- (6) **Multi-Region Corridors.** Where a National Interest Corridor is sought by or directly benefits multiple Regions, the co-petitioning Regions shall jointly select the two (2) Regional representatives. Regions through whose territory the corridor would pass but who are not co-petitioners may petition the Panel for one (1) non-voting advisory seat with full participation rights in mediation proceedings but no vote on resolutions under subsections (l) through (n). Where multi-Region and multi-Tribal provisions apply simultaneously, subsection (h)(5) governs Panel expansion and vote thresholds.
+
+(i) **Mediation Timeline.** The Sovereign Mediation Panel:
+
+- (1) Shall complete mediation within one hundred eighty (180) days of convening;
+- (2) May extend once for ninety (90) additional days by unanimous consent of all members;
+- (3) Upon expiration of the mediation period without agreement, shall proceed to resolution under subsections (l) through (n);
+- (4) Shall publish a written report documenting all proposals offered by each party, counterproposals, reasons for rejection, and the Panel's assessment of the feasibility and reasonableness of each proposal;
+- (5) The mediation timeline under subsections (i)(1)-(2) shall be tolled during the pendency of any interlocutory appeal under subsection (r)(2).
+
+(j) **Mediation Scope.** The Panel may consider and recommend:
+
+- (1) Alternative corridor routes that avoid tribal land entirely;
+- (2) Corridor realignment to minimize the footprint crossing tribal land;
+- (3) Compensation packages for transit rights that preserve tribal jurisdiction;
+- (4) Mitigation measures addressing environmental, cultural, sacred site, and community concerns;
+- (5) Revenue-sharing arrangements for ongoing infrastructure operations;
+- (6) Tribal employment and contracting preferences for construction, maintenance, and operation;
+- (7) Infrastructure design modifications that reduce impact on tribal land use, including undergrounding, noise barriers, and visual screening.
+
+(k) **Good Faith Requirement.** All parties must participate in mediation in good faith:
+
+- (1) Refusal to participate, refusal to respond to proposals within thirty (30) days, or failure to designate Panel members within thirty (30) days constitutes bad faith;
+- (2) Demands for the base easement component of compensation exceeding three hundred percent (300%) of independently appraised fair market value create a rebuttable presumption of bad faith; for purposes of this subsection, the sovereignty premium under subsection (p)(2) and revenue share under subsection (p)(4) are excluded from the bad faith calculation;
+- (3) A finding of bad faith authorizes the Panel to proceed to resolution under subsections (l) through (n) without the bad-faith party's consent;
+- (4) Bad faith by a Region creates a presumption in favor of the Tribal Nation's most recent good-faith proposal;
+- (5) Bad faith by a Tribal Nation enables the resolution mechanisms of subsections (l) through (n) but does not authorize any outcome that would not otherwise be available under those subsections — the substantive protections of subsections (o) through (q) apply regardless of any bad faith finding.
+
+(l) **Negotiated Resolution.** If the Panel reaches agreement:
+
+- (1) The agreement is binding on all parties and enforceable in federal court;
+- (2) The agreement may include compensation, mitigation, revenue-sharing, employment preferences, route modification, design modification, or any other terms within the Panel's scope under subsection (j);
+- (3) Implementation is overseen by the Department of Interior in its capacity as trustee for the affected Tribal Nation;
+- (4) Either party may petition the Panel for modification if circumstances materially change, provided the modification does not diminish the Tribal Nation's compensation or sovereignty protections below the standards in subsections (o) and (p).
+
+(m) **Re-Routing Obligation.** If no agreement is reached, before any Constitutionally Authorized Transit Easement may be considered:
+
+- (1) The corridor shall be re-routed to avoid tribal land if a feasible alternative exists, even if more costly than the original route;
+- (2) "Feasible" means reasonably constructible within standard engineering practice using proven technology and without requiring experimental methods or extraordinary risk measures; cost alone does not defeat feasibility unless the alternative exceeds three hundred percent (300%) of the original route cost as certified by NIST;
+- (3) Re-routing costs, including all additional construction, engineering, environmental mitigation, and land acquisition costs, are borne entirely by the Region or entity seeking the corridor;
+- (4) Re-routing may not impose unreasonable burden on other Regions, other Tribal Nations, or private landowners; the Panel shall determine whether a burden is unreasonable based on quantified economic, environmental, and community impact assessments submitted by all affected parties;
+- (5) The Panel shall certify in writing whether re-routing is feasible under subsections (m)(1)-(4) before proceeding to subsection (n), and shall publish its certification and supporting analysis.
+
+(n) **Constitutionally Authorized Transit Easement.** If re-routing is certified as not feasible under subsection (m):
+
+- (1) The Panel may, by vote of five (5) of seven (7) members, including the affirmative vote of at least one neutral mediator, authorize a Constitutionally Authorized Transit Easement over tribal land; for Consolidated Panels under subsection (h)(5), the required vote is the proportional equivalent rounded up, including the affirmative vote of at least one neutral mediator;
+- (2) The transit easement authorizes only the specific infrastructure use designated in the National Interest Corridor designation and no other use;
+- (3) Compensation shall be determined by the Panel in accordance with subsection (p) and shall be paid in full before construction may commence;
+- (4) The transit easement does not transfer land ownership, fee simple title, general jurisdiction, or any authority beyond the specific infrastructure use authorized;
+- (5) The Tribal Nation retains full sovereignty over all activities on the easement land not directly related to the authorized infrastructure operation;
+- (6) The transit easement shall include a mandatory termination and reversion clause: when the infrastructure is decommissioned, the National Interest Corridor designation is revoked, or the authorized infrastructure use ceases for a continuous period exceeding five (5) years, all rights under the easement revert to the Tribal Nation, and the easement holder shall restore the land to its prior condition at its own expense within two (2) years of reversion.
+
+(o) **Tribal Jurisdiction Preservation.** Constitutionally Authorized Transit Easements under subsection (n):
+
+- (1) Do not transfer land ownership, fee simple title, or general jurisdiction to any party;
+- (2) Are limited to the specific infrastructure use authorized in the National Interest Corridor designation and the physical footprint specified therein;
+- (3) Include tribal participation in infrastructure governance, including but not limited to environmental monitoring, safety oversight, emergency response coordination, and representation on any operating board or authority for the corridor segment;
+- (4) Are subject to tribal law enforcement on the easement land for all matters not directly related to infrastructure operation;
+- (5) May not be expanded in scope, transferred to a different entity, or repurposed for a different infrastructure type without the Tribal Nation's consent or a new National Interest Corridor designation meeting all criteria of subsection (g);
+- (6) Shall comply with all applicable tribal environmental and cultural protection laws to the extent consistent with the authorized infrastructure operation.
+
+(p) **Compensation Standards.** Just compensation for Constitutionally Authorized Transit Easements shall include all of the following:
+
+- (1) Fair market value for the easement as determined by independent appraisal using methodologies agreed upon by the Panel or, absent agreement, the Uniform Standards of Professional Appraisal Practice, with the appraisal conducted by an appraiser mutually selected or, absent agreement, appointed by the neutral mediator;
+- (2) A sovereignty premium of not less than fifty percent (50%) and not more than two hundred percent (200%) of fair market value, as determined by the Panel based on the degree of impact on tribal sovereignty, land use, cultural values, and community cohesion;
+- (3) Full compensation for any environmental or cultural impacts, including costs of mitigation, monitoring, and restoration;
+- (4) Ongoing revenue share from infrastructure operation at a rate determined by the Panel, not less than the greater of two percent (2%) of gross revenue or ten percent (10%) of net operating income from the corridor segment crossing tribal land, adjusted for inflation annually; for infrastructure operated on a cost-of-service basis, as a public utility, or without direct revenue attributable to the corridor segment, the minimum revenue share shall be a fixed annual payment not less than two percent (2%) of the replacement cost of the infrastructure improvements on the easement land, as certified by NIST and adjusted for inflation annually; the Panel may further adjust any formula under this subsection provided the adjusted amount is not less than the applicable minimum floor;
+- (5) Tribal employment and contracting preferences for infrastructure construction, maintenance, and operation, consistent with tribal self-determination;
+- (6) All compensation shall be paid directly to the Tribal Nation's designated financial authority, not held in federal trust unless the Tribal Nation affirmatively requests trust management.
+
+(q) **Scope Limitation and Consent Preference.** Nothing in subsections (g) through (t):
+
+- (1) Diminishes the preference for negotiated consent under subsection (c) of this Section, which remains the primary and preferred method for authorizing infrastructure on tribal land;
+- (2) Authorizes any taking or easement of tribal land for purposes that do not satisfy all three criteria of subsection (g);
+- (3) Applies to infrastructure that is not the subject of a formal, current National Interest Corridor designation;
+- (4) Permits any authority other than a duly constituted Sovereign Mediation Panel to authorize Constitutionally Authorized Transit Easements over tribal land under this Section;
+- (5) Notwithstanding the general consent requirements of Article XXIII, Section 4(a) of this Constitution, a Constitutionally Authorized Transit Easement authorized under subsection (n) constitutes a limited, compensated, and procedurally safeguarded exception to the consent requirement for the specific infrastructure use designated — and for no other purpose; all other protections of Article XXIII remain in full force;
+- (6) Creates any precedent for federal, Regional, or State authority over tribal land outside the specific National Interest Corridor framework established by this Section.
+
+(r) **Foreign Influence Prohibition.** Tribal consent decisions regarding National Interest Corridors:
+
+- (1) May not be influenced by payments, incentives, loans, debt forgiveness, or other consideration from foreign governments, foreign state-owned enterprises, foreign non-governmental organizations, or entities receiving substantial funding from foreign sources or acting on behalf of or under the direction of foreign governments;
+- (2) A finding of foreign influence, established by clear and convincing evidence before the Panel or a federal court of competent jurisdiction, voids any consent or withholding-of-consent decision affected by such influence, and the Panel may proceed as though no decision had been made; a voiding determination is subject to immediate interlocutory appeal, which shall be decided within sixty (60) days of filing; the mediation timeline under subsection (i) is tolled during the pendency of such appeal;
+- (3) The Department of Interior, in coordination with the Department of Justice and the intelligence community, shall monitor for foreign influence in corridor disputes involving designated National Interest Corridors;
+- (4) Any person or entity that knowingly facilitates foreign influence in tribal consent decisions regarding National Interest Corridors is subject to criminal prosecution under applicable federal law.
+
+(s) **Inter-Regional Manipulation Prohibition.** Regions may not:
+
+- (1) Provide payments, subsidies, grants, or incentives to Tribal Nations to withhold consent for corridors primarily benefiting other Regions;
+- (2) Coordinate with Tribal Nations, directly or through intermediaries, to achieve infrastructure blockade effects that would be prohibited under Article I, Section 6 if conducted by the Region directly;
+- (3) Condition Regional benefits, compacts, services, or cooperation with a Tribal Nation on the Tribal Nation's consent or withholding of consent regarding another Region's corridor request;
+- (4) Such manipulation constitutes a violation of the Non-Blockade rules under Article I, Section 6, and is subject to the full remedies and penalties established therein, including treble damages under Section 6(n) and repeat offender designation under Section 6(p).
+
+(t) **Transparency Requirements.** In National Interest Corridor negotiations and mediation:
+
+- (1) All payments, agreements, or commitments between any party and a Tribal Nation exceeding one million dollars ($1,000,000) in value must be disclosed to the Panel and published in the National Infrastructure Transparency System established under Article I, Section 6(q); for purposes of this threshold, all payments from the same source or related sources to the same Tribal Nation within any twelve (12) month period shall be aggregated, and structuring payments to evade the disclosure threshold constitutes a per se violation;
+- (2) The source of funds for any party's negotiating positions, legal representation, expert witnesses, and lobbying activities must be disclosed to the Panel upon request;
+- (3) Failure to disclose information required under this subsection creates a rebuttable presumption of manipulation under subsection (r) or (s);
+- (4) The Panel may draw adverse inferences from non-disclosure in fashioning its resolution under subsections (l) through (n).
+
 ---
 
 ### Section 4. Territorial and District Integration Incentives

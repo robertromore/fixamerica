@@ -1608,7 +1608,25 @@ Article XX, Section 3 reaffirms that Regional authority does not extend to triba
 - **Gap 92 (Technical Secession):** Engineering barriers; Gap 99 addresses sovereignty-based barriers
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article XX-RF, Section 3. This four-part solution establishes Sovereign Mediation Panel with equal representation and 180-day timeline, provides re-routing at Regional expense or just compensation transit rights (capped at 150% fair market value) as resolution mechanisms, preserves tribal jurisdiction with comprehensive compensation standards, and prohibits foreign and inter-Regional manipulation with transparency requirements.
+**RESOLVED.** Constitutional amendments integrated into Article XX-RF, Section 3, subsections (g)-(t). Drafted via multi-LLM protocol: v1 → Round 1 review (2 reviewers, 11 findings) → v2 → Round 2 review (2 reviewers, 5 findings) → v3 (FINAL) → integration. See [draft file](../../02-design/drafts/gap-099-tribal-infrastructure-entrapment.md) for full convergence analysis.
+
+**Integration Mapping:**
+
+| Proposal Part | Integrated Location | Status |
+|---------------|-------------------|--------|
+| Part 1: NIC Definition (Joint Resolution + unified feasibility standard) | Art XX §3(g) | Full match + enhanced (⅗ Senate vote, NIST cross-reference to §3(m)(2) feasibility) |
+| Sovereign Mediation Panel (retired Art III judge, multi-tribal consolidated panel, multi-Region representation) | Art XX §3(h) | Full match + enhanced (Chief Justice roster, §3(h)(5) multi-tribal, §3(h)(6) multi-Region) |
+| Mediation Timeline (180 days + tolling) | Art XX §3(i) | Full match + enhanced (60-day expedited interlocutory appeal with tolling) |
+| Scope and Good Faith (300% base-FMV-only threshold, bad-faith asymmetry) | Art XX §3(j)-(k) | Full match |
+| Part 2: Negotiated Resolution | Art XX §3(l) | Full match |
+| Re-routing Obligation ("reasonably constructible," quantified burden assessment) | Art XX §3(m) | Full match + enhanced (panel quantified assessment for "unreasonable burden") |
+| Constitutionally Authorized Transit Easement (5/7 + neutral mediator, termination/reversion) | Art XX §3(n) | Full match |
+| Part 3: Tribal Jurisdiction Preservation | Art XX §3(o) | Full match |
+| Compensation (FMV + 50-200% sovereignty premium + dual-floor revenue share + employment preferences + direct payment) | Art XX §3(p) | Full match + enhanced (2% replacement cost default for non-revenue infrastructure) |
+| Scope Limitation with Art XXIII Deconfliction | Art XX §3(q) | Full match + enhanced (explicit "Notwithstanding Art XXIII §4(a)" clause) |
+| Part 4: Foreign Influence Prohibition (expanded to NGOs, clear-and-convincing, 60-day expedited appeal with tolling) | Art XX §3(r) | Full match + enhanced (interlocutory appeal tolling provision) |
+| Inter-Regional Manipulation (= Non-Blockade violation) | Art XX §3(s) | Full match |
+| Transparency (NITS, 12-month aggregation, anti-structuring) | Art XX §3(t) | Full match |
 
 ---
 

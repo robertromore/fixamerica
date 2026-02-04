@@ -2,7 +2,7 @@
 
 **Note**: This changelog has been reorganized by date. See the `changelog/` directory for detailed entries:
 
-- [`changelog/2026-02-03.md`](changelog/2026-02-03.md) - Latest changes (triage fix + Gap 67/75 resolution + Gap 128/132/142 resolution + Gap 92/116 resolution)
+- [`changelog/2026-02-03.md`](changelog/2026-02-03.md) - Latest changes (triage fix + Gap 67/75 resolution + Gap 128/132/142 resolution + Gap 92/116 resolution + Gap 99 resolution)
 - [`changelog/2026-02-02.md`](changelog/2026-02-02.md) - Gap resolutions (199, 13, index triage)
 - [`changelog/2026-02-01.md`](changelog/2026-02-01.md) - Gap resolutions (220, 219, 216, etc.)
 - [`changelog/2026-01-31.md`](changelog/2026-01-31.md) - Gap resolutions and verifications
@@ -12,6 +12,23 @@
 - [`changelog/2026-01-26.md`](changelog/2026-01-26.md) - Territorial integration incentives
 - [`changelog/2026-01-25.md`](changelog/2026-01-25.md) - Major integration work
 - [`changelog/2026-01-24.md`](changelog/2026-01-24.md) - Historical development
+
+## 2026-02-03: Gap 99 — Tribal Veto via Infrastructure Entrapment Resolved (Article XX §3)
+
+One interstate commerce gap resolved via multi-LLM protocol (v1 → 2 review rounds → v3 FINAL) through 14 new subsections (g)-(t) in Article XX-RF, Section 3 (Tribal Nations). Gap 99 (Tribal Veto via Infrastructure Entrapment): National Interest Corridor definition with Joint Resolution + Sovereign Mediation Panel with retired Art III judge + re-routing obligation with "reasonably constructible" standard + Constitutionally Authorized Transit Easement with 5/7 supermajority + tribal jurisdiction preservation + compensation with 50-200% sovereignty premium and dual-floor revenue share + explicit Art XXIII §4(a) deconfliction + foreign influence and inter-Regional manipulation prohibitions + NITS transparency. Key v3 refinements: unified feasibility cross-reference between §3(g)(2) and §3(m)(2), multi-Region corridor representation, interlocutory appeal tolling, 2% replacement cost non-revenue default.
+
+### Files Modified
+
+- `02-design/constitution/06-supremacy.md` — Art XX §3 expanded: subsections (g)-(t)
+- `02-design/drafts/gap-099-tribal-infrastructure-entrapment.md` — Draft file (v3 FINAL)
+- `04-meta/gaps/10-interstate-commerce.md` — Gap 99: PROPOSAL AVAILABLE to RESOLVED
+- `04-meta/gaps/00-index.md` — Gap 99 status updated
+- `04-meta/02-identified-gaps.md` — Statistics: PA 20 to 19, Resolved 156 to 157
+- `02-design/constitution/article-crosswalk.md` — Art XX entry expanded
+
+**Status:** RESOLVED | **Detail:** [changelog/2026-02-03.md](changelog/2026-02-03.md)
+
+---
 
 ## 2026-02-03: Gaps 92 + 116 — Technical Standards Interoperability Resolved (Article II §4)
 

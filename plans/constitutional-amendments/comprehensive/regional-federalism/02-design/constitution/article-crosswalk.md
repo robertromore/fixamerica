@@ -59,7 +59,7 @@ These articles are part of the Regional Federal Constitution and require Regiona
 | **XIII** | 1-10 | Amendment procedures, referendum immunity, popular ratification bypass, convention scope limitation, eternity clause | [05-safeguards.md](05-safeguards.md) |
 | **XVIII** | 1-5 | Supremacy, floors not ceilings, interpretive conventions, interpretive decoupling, presumption of subsidiarity | [06-supremacy.md](06-supremacy.md) |
 | **XIX** | 1-3 | Ratification, transition, activation | [06-supremacy.md](06-supremacy.md) |
-| **XX** | 1-3 | D.C., territories, tribal nations | [06-supremacy.md](06-supremacy.md) |
+| **XX** | 1-3 | D.C., territories, tribal nations (§3(g)-(t): National Interest Corridor dispute resolution — NIC definition, Sovereign Mediation Panel, re-routing obligation, Constitutionally Authorized Transit Easement, tribal jurisdiction preservation, compensation with sovereignty premium, Art XXIII deconfliction, foreign influence prohibition, NITS transparency) | [06-supremacy.md](06-supremacy.md) |
 | **XXI** | 1-7 | Congressional implementation, default rules, partial adoption safeguards, data continuity during transition, regulatory continuity, regional institutional capacity development | [07-implementation.md](07-implementation.md) |
 | **XXII** | 1-6 | Definitions | [07-implementation.md](07-implementation.md) |
 | **XXIII** | 1-7 | Indigenous sovereignty preservation, treaty sovereignty | [06-supremacy.md](06-supremacy.md) |
@@ -128,6 +128,7 @@ Article X, Section 5(f) (IFC Vacancy Filling: 90-day appointing authority deadli
 Article X, Section 19(i) (Unauthorized Military Operations Exclusion from Auto-CR)
 Article XXI, Section 4 (Partial Adoption Safeguards)
 Article XX, Section 1 (District of Columbia)
+Article XX, Section 3(g)-(t) (National Interest Corridor Dispute Resolution: NIC definition with Joint Resolution and ⅗ Senate vote, Sovereign Mediation Panel with retired Art III judge and multi-tribal/multi-Region representation, 180-day mediation timeline with tolling and 60-day expedited appeal, scope limitation and good faith standards with 300% base-FMV threshold, negotiated resolution preference, re-routing obligation with "reasonably constructible" standard and quantified burden assessment, Constitutionally Authorized Transit Easement with 5/7 supermajority and neutral mediator requirement, tribal jurisdiction preservation with law enforcement authority, compensation with FMV plus 50-200% sovereignty premium and dual-floor revenue share and 2% replacement cost non-revenue default, scope limitation with explicit "Notwithstanding Art XXIII §4(a)" clause, foreign influence prohibition with clear-and-convincing standard and 60-day expedited appeal with tolling, inter-Regional manipulation as Non-Blockade violation, NITS transparency with 12-month aggregation and anti-structuring)
 Article XXI, Section 5 (Data Continuity During Transition)
 Article XXIII (Indigenous Sovereignty Preservation)
 Article XXIV (Union Permanence)
