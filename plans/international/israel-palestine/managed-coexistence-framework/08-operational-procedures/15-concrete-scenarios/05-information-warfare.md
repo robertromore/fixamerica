@@ -6,7 +6,7 @@
 
 **Incident Type:** Dual-narrative attack on framework credibility
 
-**Status:** Final Draft
+**Status:** Draft
 
 ---
 
@@ -291,7 +291,7 @@ Framework continues with reduced Palestinian participation. Documentation contin
 | Factor | Assessment |
 |--------|------------|
 | **Participation viability** | If CMS enrollment drops below critical threshold |
-| **Party cooperation** | If both parties withdraw official cooperation |
+| **Party cooperation** | If Israel and both Palestinian authorities withdraw official cooperation |
 | **Guarantor support** | If guarantors reduce engagement |
 | **Framework function** | If verification and documentation cannot continue |
 

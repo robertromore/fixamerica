@@ -6,7 +6,7 @@
 
 **Incident Type:** Targeted killing of MCF-associated political figure
 
-**Status:** Final Draft
+**Status:** Draft
 
 ---
 

@@ -6,7 +6,7 @@
 
 **Objective:** Establish protocols for MCF institutional and operational continuity during severe economic shocks.
 
-**Status:** Final Draft
+**Status:** Draft
 
 ---
 
@@ -600,6 +600,97 @@ The following scenarios guide crisis planning and exercises:
 | **Resolution or adaptation** | 30+ days | If clearing restored: MVTP deactivation per protocol. If sustained: permanent USD/MVTP operations; guarantor escalation to sanctions |
 
 **Distinction from Scenario E:** Scenario E is a market/institutional failure requiring liquidity substitution. Scenario F is deliberate state-level interference requiring both operational adaptation (MVTP) and political response (guarantor enforcement). Documentation of the clearing denial feeds into spoiler response protocols as state-level economic warfare (see [Spoiler Response Section 2.2](../08-operational-procedures/04-spoiler-response.md)).
+
+**Scenario G: Tax Revenue Withholding**
+
+- Trigger: Israel withholds customs duties and VAT collected on behalf of the Palestinian Authority (approximately $188M/month at 2023 levels). This has been deployed repeatedly as political leverage and can be triggered without any formal crisis declaration.
+
+**Early Warning Indicators:**
+
+- Israeli political rhetoric targeting PA financial transfers
+- Partial withholding or delayed transfers (often precedes full withholding)
+- Escalation in political tensions that historically correlate with revenue withholding
+
+**Trigger:** Withheld revenue exceeds one calendar month's equivalent without security justification accepted by the guarantor coordination body.
+
+**Scenario G Response Sequence:**
+
+| Timeframe | Action |
+|-----------|--------|
+| **24 hours** | Guarantor coordination body convenes; formal documentation of withholding |
+| **72 hours** | Guarantor bridge funding activated from MCF emergency reserves |
+| **7 days** | Diplomatic escalation: guarantors engage Israel bilaterally on revenue release |
+| **30 days** | If unresolved: guarantor joint statement; formal violation documentation; compensation claim initiated |
+| **60 days** | If unresolved: enhanced guarantor financial support; assessment of impact on MCF operations; phase transition freeze in affected area |
+
+**MCF-Specific Impacts:**
+
+- CMS benefit delivery may be affected if PA co-funds MCF programs
+- SAZ operations in PA-administered areas face fiscal pressure
+- CMS holder confidence may decline if economic conditions deteriorate
+
+**Mitigation:** MCF operational budget is ring-fenced from PA fiscal accounts per [Funding Architecture](03-funding-architecture.md). Direct MCF operations are not dependent on PA revenue. However, indirect effects (PA salary delays, reduced public services) affect CMS holder welfare.
+
+---
+
+**Scenario H: Selective Border and Crossing Degradation**
+
+- Trigger: Israel increases inspection times, reduces checkpoint throughput, limits crossing operating hours, or selectively closes commercial crossings. These actions degrade MCF economic activity without triggering the ILS clearing denial scenario or constituting a formal closure.
+
+**Early Warning Indicators:**
+
+- Average crossing time increases >25% above 30-day rolling baseline
+- Commercial shipment volume drops >15% without corresponding demand change
+- New inspection procedures announced without security incident justification
+- Operating hours reduced at key crossings
+
+**Trigger:** Average commercial crossing time exceeds 200% of 90-day baseline for 14+ consecutive days at any major crossing, OR total commercial throughput drops below 70% of baseline for 21+ consecutive days.
+
+**Scenario H Response Sequence:**
+
+| Timeframe | Action |
+|-----------|--------|
+| **Immediate** | JSVC documents crossing conditions; baseline comparison published |
+| **7 days** | Guarantor engagement with Israeli authorities requesting explanation |
+| **14 days** | Jordan Corridor activation for diverted shipments where feasible |
+| **30 days** | If unresolved: guarantor direct procurement for critical supplies; formal documentation as economic coercion |
+| **60 days** | Sustained degradation factored into phase transition assessment |
+
+**Interaction with Labor Mobility:**
+
+- Crossing degradation directly impacts CMS Work Authorization holders' ability to reach employment
+- Transit time monitoring (per [Labor Mobility Section 2.7](../07-economic-architecture/02-labor-mobility.md)) feeds into this scenario's early warning system
+- PCC expansion may be accelerated as a response to crossing degradation
+
+---
+
+**Scenario I: Dual-Use Material Reclassification**
+
+- Trigger: Israel reclassifies construction materials (cement, steel, pipes) as dual-use, blocking SAZ construction and infrastructure projects without any overt economic "crisis." This is targeted obstruction rather than general economic coercion.
+
+**Early Warning Indicators:**
+
+- Israeli security announcements regarding construction material classification
+- Import permit delays for specific material categories
+- Pattern of permit approvals followed by last-minute blocks
+
+**Trigger:** Construction material import volume drops below 60% of project-required baseline for 30+ consecutive days without a specific, documented security incident justifying the reclassification.
+
+**Scenario I Response Sequence:**
+
+| Timeframe | Action |
+|-----------|--------|
+| **7 days** | Independent assessment of dual-use classification validity (guarantor-appointed technical panel) |
+| **14 days** | If classification not supported: guarantor engagement requesting reversal |
+| **30 days** | Jordan Corridor activation for alternative supply chain |
+| **45 days** | Guarantor direct procurement for critical infrastructure materials |
+| **60 days** | If pattern continues: formal documentation as obstruction; integration into phase transition assessment |
+
+**SAZ-Specific Impact:**
+
+- SAZ construction timelines delayed
+- Infrastructure coordination plans ([05-infrastructure-coordination.md](../07-economic-architecture/05-infrastructure-coordination.md)) require revision
+- Independent SAZ infrastructure provisions (off-grid power, independent water) prioritized to reduce dependency
 
 ### 8.2 Exercise Schedule
 

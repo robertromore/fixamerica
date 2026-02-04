@@ -4,7 +4,7 @@
 
 **Phase:** Phase 1 onwards (begins with CMS implementation)
 
-**Status:** Final Draft
+**Status:** Draft
 
 ---
 
@@ -915,5 +915,4 @@ When a central authority retaliates against local officials for SAZ advocacy:
 - [CMS Framework](01-cms-framework.md)
 - [JSVC Charter](../01-phase-0-institutions/02-jsvc-charter.md)
 - [Shock-Absorber Protocols](../01-phase-0-institutions/04-shock-absorber-protocols.md)
-- [Identified Gaps](../00b-identified-gaps.md) (LGBTQ+ populations gap)
 - [No Worse Off Guarantee](05-no-worse-off-guarantee.md)

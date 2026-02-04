@@ -4,7 +4,7 @@
 
 **Phase:** Phase 0 onwards (permanent institution)
 
-**Status:** Final Draft
+**Status:** Draft
 
 ---
 
@@ -12,7 +12,7 @@
 
 The Joint Security Verification Commission (JSVC) is the **permanent verification and deconfliction body** at the heart of MCF's security architecture. It provides procedural trust when interpersonal trust does not exist.
 
-The JSVC succeeds the UVB once both parties consent to joint verification mechanisms. Unlike the UVB, which operates unilaterally, the JSVC involves both parties in governance while maintaining operational independence. This joint structure increases legitimacy and enables deeper cooperation—but only becomes possible after the UVB has demonstrated the value of impartial verification.
+The JSVC succeeds the UVB once **Israel and the Palestinian Joint Delegation (Gaza + West Bank authorities)** consent to joint verification mechanisms. Unlike the UVB, which operates unilaterally, the JSVC involves party participation in governance while maintaining operational independence. This joint structure increases legitimacy and enables deeper cooperation—but only becomes possible after the UVB has demonstrated the value of impartial verification.
 
 ---
 
@@ -20,7 +20,7 @@ The JSVC succeeds the UVB once both parties consent to joint verification mechan
 
 The JSVC embodies a critical distinction:
 
-- **Governance is joint**: Both parties participate in oversight, policy, and leadership selection
+- **Governance is joint**: Israel and the Palestinian Joint Delegation participate in oversight, policy, and leadership selection
 - **Operations are independent**: Neither party controls investigations, findings, or reporting
 - **Findings are authoritative**: JSVC determinations are the official MCF record, though not legally binding on national courts
 
@@ -40,7 +40,7 @@ The JSVC is governed by a Commission of seven members:
 |----------|-----------|------|
 | Chair | Guarantor appointment (neutral national) | 4 years |
 | 2 Israeli Commissioners | Israeli government nomination, guarantor confirmation | 3 years |
-| 2 Palestinian Commissioners | Palestinian authority nomination, guarantor confirmation | 3 years |
+| 2 Palestinian Commissioners (Gaza + West Bank) | Gaza authority nomination (1), West Bank authority nomination (1), guarantor confirmation | 3 years |
 | 2 International Commissioners | Guarantor appointment (neutral nationals) | 4 years |
 
 **Commissioner Qualifications**
@@ -70,6 +70,10 @@ Once appointed, commissioners:
 - Are protected from removal except for cause
 - Receive compensation from JSVC (not party governments)
 
+**Palestinian Joint Delegation (PJD)**
+
+The two Palestinian commissioners form a **Palestinian Joint Delegation** representing Gaza and the West Bank as distinct operational entities. For security-sensitive decisions (see Section 3.1a), the PJD casts **one concurrence**; if the two commissioners do not agree, Palestinian concurrence is not met.
+
 ### 1.2 Leadership
 
 **Chair**
@@ -86,7 +90,7 @@ The Chair:
 
 Two Vice-Chairs are elected by the Commission:
 
-- One from party-nominated commissioners (rotating between parties)
+- One from party-nominated commissioners (rotating between Israeli delegation and Palestinian Joint Delegation; within the Palestinian rotation, Gaza and West Bank alternate)
 - One from international commissioners
 - Assume Chair duties in absence
 - Lead specific portfolios assigned by Chair
@@ -417,6 +421,21 @@ JSVC deconfliction is:
 | Incident findings (Tier 3-4) | 5 of 7 (all commissioners vote) |
 | Emergency actions | Chair + 2 commissioners (subject to full Commission review) |
 
+### 3.1a Party Concurrence Rule (Security-Sensitive Decisions)
+
+For decisions that **materially affect party security or access obligations**, concurrence is required in addition to the numerical threshold. This includes:
+
+- Access protocols that impose new obligations on party security forces
+- Deconfliction standards that constrain party operational discretion
+- PCC/SAZ security-designation policies with party-specific obligations
+- Any decision explicitly labeled “security-sensitive” by the Chair
+
+**Concurrence Standards**
+
+- **Israeli concurrence:** Both Israeli commissioners must vote yes
+- **Palestinian concurrence:** Both Palestinian commissioners must vote yes (PJD single concurrence)
+- If either concurrence is not met, the decision fails regardless of total vote count
+
 **Voting Procedures**
 
 - Each commissioner has one vote
@@ -551,7 +570,7 @@ JSVC **may**:
 
 **Liaison Structure**
 
-Each party designates:
+Each authority (Israel, Gaza, West Bank) designates:
 
 - Senior security liaison to JSVC
 - 24/7 operations liaison
@@ -801,6 +820,12 @@ The JSVC **certifies** whether predefined criteria have been met. It does not **
 
 Once JSVC certifies that criteria are met, transition triggers automatically unless a narrowly defined emergency override is invoked through a separate, higher-friction process.
 
+**Limited Jurisdictional Certification (SAZ Context):**
+
+Where SAZ vs. national jurisdiction is disputed, JSVC may **certify the appropriate forum by applying a pre-defined jurisdiction matrix** established in SAZ governance documents. This is a verification function (application of fixed rules), not discretionary adjudication. Appeals are limited to misapplication of the matrix and lie with the Guarantor Forum.
+
+Where confederal law requires independent monitoring (e.g., SAZ Justice Monitor), JSVC may **designate monitors from a Guarantor Forum–approved roster**. This is an administrative appointment function, not an adjudicative one.
+
 This design prevents:
 
 - Political bargaining inside the oversight body
@@ -820,7 +845,7 @@ The JSVC becomes a referee, not a gatekeeper.
 | **Incident frequency** | Tier 3-4 incidents | ≤ 2 per month (rolling avg) | 24 months |
 | **Escalation containment** | Contained within 48 hours | ≥ 80% | 24 months |
 | **Attribution rate** | Incidents attributed with confidence | ≥ 70% | 24 months |
-| **Attribution acceptance** | Findings accepted by both parties | ≥ 60% | 24 months |
+| **Attribution acceptance** | Findings accepted by Israel and the Palestinian Joint Delegation | ≥ 60% | 24 months |
 | **PCC functionality** | Corridors operational | ≥ 95% uptime | 12 months |
 | **Party cooperation** | JSVC requests honored | ≥ 80% | 18 months |
 | **Guarantor assessment** | Positive stability rating | All guarantors | Current |

@@ -6,7 +6,7 @@
 
 **Incident Type:** Major guarantor withdraws support mid-operation
 
-**Status:** Final Draft
+**Status:** Draft
 
 ---
 

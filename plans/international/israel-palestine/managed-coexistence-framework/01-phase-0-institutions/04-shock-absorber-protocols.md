@@ -4,7 +4,7 @@
 
 **Phase:** Phase 0 onwards
 
-**Status:** Final Draft
+**Status:** Draft
 
 ---
 
@@ -333,6 +333,76 @@ Mass casualties (5+ deaths or 50+ serious injuries), coordinated multi-site atta
 - Phase regression assessment required
 - Recovery plan with measurable milestones
 
+### 5.5 Tier 5: Sustained Military Operations
+
+**Activation Criteria:**
+
+- Any Tier 4 response reaches its maximum duration while the triggering conditions persist
+- OR a military operation renders MCF operational infrastructure physically inaccessible in an entire geographic zone for >7 consecutive days
+- OR JSVC/UVB evacuates all personnel from a geographic zone due to sustained hostilities
+
+**Tier 5 is not a failure state.** It is a planned operating mode that acknowledges the limits of procedural infrastructure during active war. MCF has been designed to survive war--not to pretend it can operate normally during one.
+
+**Core Preservation Mode:**
+
+When Tier 5 activates, the framework contracts to core preservation functions only:
+
+| Function | Status | Responsibility |
+|----------|--------|---------------|
+| CMS status database | Maintained (off-site backup) | MCF Secretariat (guarantor-hosted) |
+| CMS holder registry | Preserved and updated post-conflict | Data systems team |
+| Verification documentation | Continued where physically possible | UVB/JSVC (remote if necessary) |
+| Guarantor reporting | Continuous (hourly during active operations) | Guarantor liaison |
+| Humanitarian documentation | Continued (remote sensing, open source, witness) | Verification team |
+| PCC operations | Suspended in affected zone | Automatic |
+| Employment programs | Suspended in affected zone | Automatic |
+| Dispute resolution | Suspended in affected zone | Automatic |
+| Anti-intimidation | Active (protection measures, not documentation) | Anti-intimidation unit |
+
+**What Is NOT Suspended:**
+
+- CMS status itself (no holder loses status due to conflict)
+- Data preservation and backup operations
+- Guarantor engagement and diplomatic activity
+- Anti-intimidation protection for at-risk individuals
+- Planning for post-conflict reconstitution
+
+**Duration:**
+
+- No maximum duration cap (Tier 5 persists as long as conditions require)
+- Weekly review by guarantor coordination body
+- Monthly report to Confederal Council (or equivalent)
+- Tier 5 ends when Tier 4 or lower response becomes operationally feasible
+
+**Reconstitution Sequence:**
+
+When Tier 5 ends, institutional functions are restored in priority order:
+
+| Priority | Function | Target Timeline | Prerequisite |
+|----------|----------|----------------|-------------|
+| 1 | Verification access | 48 hours | Physical access to affected zone |
+| 2 | CMS holder welfare check | 7 days | Communication infrastructure |
+| 3 | Medical PCC corridors | 14 days | Route security assessment |
+| 4 | Employment program reactivation | 30 days | Employer facility assessment |
+| 5 | Full PCC network | 60 days | Infrastructure repair |
+| 6 | Dispute resolution | 90 days | Facility and personnel availability |
+
+**CMS Holder Service Reconstitution Guarantee:**
+
+- All CMS holders in the affected zone receive priority welfare assessment upon reconstitution
+- Employment protections (job preservation, salary continuity) apply retroactively for the first 90 days of Tier 5
+- Beyond 90 days, MCF documents employment losses for compensation claims
+- Arbitration access is restored with expedited processing for conflict-period grievances
+- No CMS holder may be penalized for inability to meet CMS obligations during Tier 5
+
+**Interaction with Phase Regression:**
+
+Tier 5 activation does not automatically trigger phase regression. However:
+
+- If Tier 5 persists for >180 days, regression assessment is initiated
+- If reconstitution reveals that Phase N conditions no longer exist (e.g., institutional infrastructure destroyed), regression proceeds per standard procedures
+- Geographic differentiation applies: Tier 5 in one zone does not affect phase status in unaffected zones
+
 ---
 
 ## 4. Proportionality Constraints
@@ -416,8 +486,11 @@ PCC restoration follows reverse severity—medical first, then water, then elect
 | Tier 2 | 7 days | Up to 14 days |
 | Tier 3 | 14 days | Up to 30 days |
 | Tier 4 | 30 days | Up to 60 days (guarantor approval)* |
+| Tier 5 | No cap | N/A (weekly guarantor review; ends when Tier 4 or lower is feasible)** |
 
 *Note: Tier 4 60-day extension applies to protocol duration and enhanced verification only. Individual measures remain subject to their own absolute caps per Section 4.1 (movement/employment/CMS processing: 30 days max; PCC closure: 7 days standard, up to 30 days with guarantor approval per PCC Protocols; medical PCCs: 0 days closure).
+
+**Note: Tier 5 activates when Tier 4 caps are exceeded while triggering conditions persist. See [Section 5.5](#55-tier-5-sustained-military-operations) for full activation criteria, core preservation mode, and reconstitution sequence.
 
 ### 5.2 Extension Criteria
 

@@ -6,7 +6,7 @@
 
 **Objective:** Detailed operational walkthroughs showing how MCF mechanisms respond to specific crisis scenarios.
 
-**Status:** Final Draft
+**Status:** Draft
 
 ---
 

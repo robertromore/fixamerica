@@ -4,7 +4,7 @@
 
 **Phase:** All Phases (compounding over time)
 
-**Status:** Final Draft
+**Status:** Draft
 
 ---
 
@@ -507,6 +507,45 @@ Distribution:
 | **Benefit utilization** | Similar rates across communities | Quarterly |
 | **Employment distribution** | Proportional to labor force | Monthly |
 | **SAZ residency** | Mixed communities per SAZ design | Annual |
+
+### Enrollment Asymmetry: Honest Assessment
+
+The incentive structure creates an inherent enrollment asymmetry between Israeli and Palestinian populations that the framework should acknowledge rather than obscure.
+
+**Why Asymmetry Is Expected:**
+
+- CMS benefits (employment access, credential recognition, banking, labor protections) substantially improve Palestinian economic access but largely duplicate what Israeli citizens already possess through their own system
+- For an Israeli, CMS enrollment means accepting obligations and potential social costs for benefits they substantially already have
+- The primary Israeli-side pull is employer demand for labor access, not individual benefit -- meaning Israeli firms may enroll while individual Israeli employees see less reason to
+
+**Revised Enrollment Targets:**
+
+Rather than targeting a population-proportional ratio from the outset, MCF targets phased enrollment:
+
+| Phase | Palestinian Target | Israeli Target | Ratio |
+|-------|-------------------|----------------|-------|
+| Phase 0 (Years 0-5) | 30,000 | 5,000 | 6:1 |
+| Phase 1 (Years 5-10) | 75,000 | 15,000 | 5:1 |
+| Phase 1 (Years 10-20) | 150,000 | 50,000 | 3:1 |
+| Phase 2 (Years 20+) | Population-proportional targets apply | | |
+
+These targets are realistic rather than aspirational. The ratio narrows over time as:
+
+- CMS institutional credibility increases
+- Israeli-specific incentives take effect
+- Network effects create social momentum
+- Compounding economic benefits become visible
+
+**Israel-Specific Incentives:**
+
+To address the asymmetry, MCF should develop incentives that address what Israeli citizens actually lack:
+
+- **Reserve duty credit:** CMS holders in good standing receive credit toward reserve military service obligations for time spent in CMS-registered cross-community employment or SAZ civic participation
+- **Tax benefits:** Deductions for cross-community employment and investment within MCF operational areas
+- **Employer liability protections:** Enhanced legal protections for Israeli employers who hire through CMS channels, reducing regulatory risk
+- **Academic credit:** Israeli university recognition of MCF civic education and cross-community engagement for academic programs
+
+These incentives require Israeli government cooperation, which may not be forthcoming initially. Where government cooperation is absent, MCF can still offer: international credential recognition, arbitration access for cross-border disputes, and networking within the MCF economic ecosystem.
 
 ### 8.3 Addressing Imbalances
 

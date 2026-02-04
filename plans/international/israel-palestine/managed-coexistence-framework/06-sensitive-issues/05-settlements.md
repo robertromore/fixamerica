@@ -4,7 +4,7 @@
 
 **Phase:** All Phases
 
-**Status:** Final Draft
+**Status:** Draft
 
 ---
 
@@ -276,6 +276,34 @@ Settlers are individuals who can participate in MCF based on personal conduct, n
 - Note expansion effects on civilian population
 - Account for expansion in operational planning
 - Preserve expansion as political question
+
+### Temporal Realism and Normalization Risk
+
+MCF operates on a 50-100 year timescale. During that period, if settlement expansion continues at historical rates, the physical landscape will change substantially. A framework that adapts to this expansion -- adjusting verification coverage, modifying access routes, accommodating new populations -- will be perceived as normalizing it, regardless of non-prejudice disclaimers. This perception is not unreasonable.
+
+**What the Framework Acknowledges:**
+
+- Operating alongside continued settlement expansion creates a credibility problem with the Palestinian population MCF needs to serve
+- Non-prejudice language does not resolve the perception problem; actions speak louder than disclaimers
+- A framework that absorbs the consequences of expansion without creating any cost for it provides an implicit subsidy to the expanding party
+
+**Phase 2 Expansion Threshold:**
+
+SAZ establishment in areas where net settlement construction (measured in housing units) has increased by more than 10% during MCF operation is paused until:
+
+- The expansion rate in the proposed SAZ area has stabilized (net new construction below 2% annual growth for 24 months), OR
+- Guarantor assessment concludes that SAZ establishment remains viable despite expansion, with documented reasoning
+
+This does not condition the entire framework on a settlement freeze -- which would ensure MCF never launches. It creates a specific, bounded cost for expansion in areas where MCF is building territorial governance, without prejudicing the underlying sovereignty question.
+
+**Guarantor Reporting Obligation:**
+
+Guarantors are required to publish an annual settlement expansion report covering:
+
+- Net new construction (housing units) within the MCF operational area
+- Geographic distribution of expansion relative to MCF infrastructure (PCCs, proposed SAZ sites)
+- Assessment of expansion impact on framework operational viability
+- This report is formally integrated into phase transition assessment
 
 ### 2. Why MCF Doesn't Address Expansion Directly
 

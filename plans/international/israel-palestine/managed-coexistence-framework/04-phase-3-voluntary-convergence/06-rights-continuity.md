@@ -6,7 +6,7 @@
 
 **Objective:** Ensure CRC protections carry forward to any end state without diminution.
 
-**Status:** Final Draft
+**Status:** Draft
 
 ---
 

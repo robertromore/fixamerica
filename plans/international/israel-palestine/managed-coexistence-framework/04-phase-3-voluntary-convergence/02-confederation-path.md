@@ -6,7 +6,7 @@
 
 **Objective:** Define the permanent confederation option where MCF institutions become fixtures alongside national governments.
 
-**Status:** Final Draft
+**Status:** Draft
 
 ---
 

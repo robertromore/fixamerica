@@ -4,7 +4,7 @@
 
 **Phase:** Phase 2 onwards
 
-**Status:** Final Draft
+**Status:** Draft
 
 ---
 
@@ -398,6 +398,15 @@ Guarantors commit to:
 - Treaty-level obligation
 - Not subject to political discretion on a case-by-case basis
 - Failure to respond triggers guarantor replacement procedures
+
+#### 1.1a Guarantor Withdrawal Contingency
+
+If guarantor capacity falls below minimum thresholds (withdrawal, suspension, or emergency evacuation), the **External Security Continuity Protocol** activates:
+
+- JSVC certifies the capacity shortfall within 72 hours
+- Remaining guarantors assume coverage or an emergency replacement is designated by the Guarantor Forum
+- If no guarantor coverage is available within 7 days, **Phase Regression is initiated automatically** for the affected SAZ(s)
+- During the regression window only, a **temporary external perimeter** by national forces may be authorized by the Confederal Council with JSVC monitoring: no internal patrols, no law enforcement authority, and a 30‑day limit (one renewal max)
 
 #### 1.2 Response Triggers
 

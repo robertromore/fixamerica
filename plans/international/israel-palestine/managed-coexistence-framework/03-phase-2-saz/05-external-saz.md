@@ -4,7 +4,7 @@
 
 **Phase:** Phase 1-2 transition
 
-**Status:** Final Draft
+**Status:** Draft
 
 ---
 
@@ -189,7 +189,7 @@ This human and institutional capital then deploys to internal SAZs.
 **Advantages:**
 - Large Palestinian population (experience with integration)
 - Geographic proximity
-- Existing relationship with both parties
+- Existing relationship with Israel and Palestinian authorities
 - Land availability
 - Arabic as common language
 
@@ -269,7 +269,7 @@ This human and institutional capital then deploys to internal SAZs.
 
 ### 2. CMS Holder Priority
 
-**CMS holders (Civic Membership System participants) prioritized:**
+**CMS holders (standard CMS and CMS-D per [CMS Framework Section 2.9](../02-phase-1-civic-membership/01-cms-framework.md#29-diaspora-eligibility)) prioritized:**
 - Already demonstrated MCF commitment
 - Vetted through CMS process
 - Familiar with framework
@@ -404,7 +404,7 @@ Entry/exit decisions are managed by a Joint Entry Committee with:
 **Initial Term:** 30 years
 
 **Renewal:**
-- Automatic renewal if both parties satisfied
+- Automatic renewal if Israel and the Palestinian Joint Delegation are satisfied
 - 5-year notice required for non-renewal
 - Transition period for orderly conclusion
 

@@ -6,7 +6,7 @@
 
 **Objective:** Define the dual-state option where two fully independent states maintain strong cooperation derived from MCF.
 
-**Status:** Final Draft
+**Status:** Draft
 
 ---
 

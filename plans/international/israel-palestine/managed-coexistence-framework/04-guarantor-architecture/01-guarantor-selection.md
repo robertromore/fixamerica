@@ -4,7 +4,7 @@
 
 **Phase:** All Phases
 
-**Status:** Final Draft
+**Status:** Draft
 
 ---
 
@@ -393,7 +393,7 @@ The following entities **cannot serve as guarantors**:
 
 | Stage | Activity | Authority | Duration |
 |-------|----------|-----------|----------|
-| 1 | Founding parties propose initial guarantor set | Israeli and Palestinian governments (joint proposal) | — |
+| 1 | Convening coalition proposes initial guarantor set | Lead convener(s), with parties invited to comment | — |
 | 2 | UN Secretary-General endorses proposed set | UN SG | 30 days |
 | 3 | Proposed guarantors confirm participation | Each proposed guarantor | 60 days |
 | 4 | Initial Guarantor Forum convenes | Confirmed guarantors | — |
@@ -401,10 +401,12 @@ The following entities **cannot serve as guarantors**:
 
 **Initial Selection Requirements:**
 
-- Both founding parties must jointly approve the initial guarantor set
+- The initial guarantor set is proposed by the convening coalition (see [Introduction: Launch Sequence](../00-introduction.md#preconditions-and-launch-sequence)) and presented to Israel and the Palestinian authorities (Gaza and West Bank) for comment. Party objections are documented and considered but do not constitute a veto over initial guarantor composition. This is consistent with the framework's design principle that Phase 0 operates without requiring mutual consent.
 - UN Secretary-General endorsement provides international legitimacy
 - Minimum composition requirements (Section "Minimum Guarantor Requirements") must be met
 - Once Initial Guarantor Forum convenes, it assumes authority for subsequent selections
+
+**Design Note:** Earlier versions of this document required joint party approval of the initial guarantor set, which created a bilateral consent dependency at launch -- contradicting the framework's core principle of beginning without mutual agreement. The revised process allows parties to raise objections (which carry weight and are documented) without granting either party a veto over who monitors the conflict.
 
 **Transition:** After Confederal Council is constituted (Phase 1), standard nomination and approval procedures apply for all new guarantor additions or changes.
 
@@ -501,7 +503,7 @@ The following entities **cannot serve as guarantors**:
 
 **Composition Target:**
 - No single political orientation dominates
-- States with relationships to both parties
+- States with relationships to Israel and the Palestinian authorities
 - Mix of political systems
 - Balance of security and development orientations
 

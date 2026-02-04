@@ -429,6 +429,20 @@ Regression can be:
 | **Legitimacy** | CMS system perceived as captured or illegitimate by one or both communities |
 | **Infrastructure** | Confederal courts non-functional; credential portability systems failed |
 
+**Quantitative Definitions:**
+
+- **"CMS holders systematically targeted"** is defined as: 3+ verified incidents targeting individuals because of CMS status within any 90-day period, OR a pattern of administrative actions against CMS holders that the JSVC determines constitutes systematic targeting.
+- **"Enrollment collapse below viability"** is defined as: active CMS holders fall below 60% of trailing 12-month average enrollment for 6+ consecutive months, OR net monthly enrollment turns negative for 4+ consecutive months.
+- **"CMS system perceived as captured or illegitimate"** is defined as: JSVC independence audit identifies 3+ material integrity violations in 12 months, OR annual participant satisfaction survey shows <40% confidence in CMS impartiality.
+
+**Compound Escalation Trigger:**
+
+If 3 or more Tier 3+ incidents (as classified by JSVC under [Shock-Absorber Protocols](../01-phase-0-institutions/04-shock-absorber-protocols.md)) occur within any 90-day period without any single event reaching the mass-casualty regression threshold (≥20 fatalities or ≥100 casualties), regression assessment is initiated automatically. This addresses the scenario where sustained lower-intensity violence degrades framework conditions without triggering individual event-based regression.
+
+**Disproportionate Impact Assessment:**
+
+Regression assessment must consider whether deterioration disproportionately affects one community. If CMS benefits are functioning normally for one population but materially degraded for the other (>30% access disparity sustained for 60+ days), this constitutes a regression trigger for the affected geographic zone even if aggregate framework-wide metrics remain above threshold. Geographic differentiation (Section 6) allows zone-specific regression without collapsing the entire framework.
+
 #### 4.3.2 What Regresses
 
 - New CMS enrollment suspended

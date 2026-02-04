@@ -12,7 +12,7 @@
 
 This directory contains detailed implementation documents for the Civic Membership Status (CMS) system and supporting institutions established during Phase 1. Phase 1 introduces **voluntary individual participation** while preserving existing sovereignty structures.
 
-Phase 1 does not require territorial change, national identity transformation, or mutual governmental agreement. It operates through individual opt-in choices protected by institutional safeguards.
+Phase 1 does not require territorial change, national identity transformation, or mutual governmental agreement **to begin**. It operates through individual opt-in choices protected by institutional safeguards, with an explicit **unilateral baseline** (CMS registration, civic education, anti-intimidation protections, and dispute resolution among consenting parties) and a **cooperative layer** where cross-boundary employment and movement benefits scale with negotiated permit and corridor arrangements.
 
 ---
 

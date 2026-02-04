@@ -4,7 +4,7 @@
 
 **Phase:** Phase 2 preparation
 
-**Status:** Final Draft
+**Status:** Draft
 
 ---
 
@@ -20,7 +20,7 @@ Site selection is among the most politically fraught decisions in the MCF framew
 
 ### 1. Voluntary Participation Primacy
 
-No SAZ can be established without demonstrated resident consent through referendum. This is not just pragmatic—it is foundational. MCF is built on voluntarism. Imposing an SAZ without majority support would:
+No SAZ can be established without demonstrated resident consent through plebiscite. This is not just pragmatic—it is foundational. MCF is built on voluntarism. Imposing an SAZ without majority support would:
 
 - Violate core MCF principles
 - Guarantee resistance and failure
@@ -163,12 +163,12 @@ It means: Reasonable ability to control access and maintain demilitarization.
 #### 2.3 Voluntary Participation Rates
 
 **Participation Must Be Genuinely Voluntary:**
-- Referendum or survey showing majority support
+- Plebiscite or survey showing majority support
 - Support from both communities present
 - Not coerced by economic or security pressure
 - Informed consent (understanding what SAZ means)
 
-**Minimum Thresholds (per [SAZ Legal Framework Section 2.6](01-saz-legal-framework.md#26-resident-consent-referendum)):**
+**Minimum Thresholds (per [SAZ Legal Framework Section 2.6](01-saz-legal-framework.md#26-resident-consent-plebiscite)):**
 
 | Threshold | Requirement |
 |-----------|-------------|
@@ -502,21 +502,23 @@ Local leaders and communities may face retaliation from central authorities for 
 
 - Confederal Council recommends
 - Guarantors certify feasibility
-- **Both parties (Israeli and Palestinian authorities) must consent** (per [SAZ Legal Framework Section 2.1-2.5](01-saz-legal-framework.md#21-establishment-options))
-- Local referendum confirms
+- **Party consent is required** (per [SAZ Legal Framework Section 2.1-2.5](01-saz-legal-framework.md#21-establishment-options))
+- Local plebiscite confirms
 - No single party can impose; equally, no SAZ can proceed without party consent
-- **Exception:** For community-initiated petitions where a central authority files a non-substantive objection, the Blocked-Petition Escalation pathway applies (see [SAZ Legal Framework Section 2.4](01-saz-legal-framework.md#24-community-petition-model)). Guarantor Forum determination may authorize referendum under guarantor facilitation, with Non-Interference Conditionality as the structural incentive.
+- **Exception:** For community-initiated petitions where a central authority files a non-substantive objection, the Blocked-Petition Escalation pathway applies (see [SAZ Legal Framework Section 2.4](01-saz-legal-framework.md#24-community-petition-model)). Guarantor Forum determination may authorize plebiscite under guarantor facilitation, with Non-Interference Conditionality as the structural incentive.
+
+**Party Consent (Definition):** Party consent means **Israel + the relevant Palestinian authority (Gaza or West Bank)**. If a decision materially implicates both Palestinian territories, consent is expressed through the **Palestinian Joint Delegation**.
 
 **Sequence (aligned with [SAZ Legal Framework Section 2.2](01-saz-legal-framework.md#22-bilateral-agreement-model)):**
 
 1. Confederal Council ranks sites
 2. Guarantors certify top choices
-3. **Party consent to proceed to referendum** (parties agree to allow referendum; not yet final commitment)
-4. Local referendum conducted
-5. If referendum passes: **Formal agreement signed** (bilateral agreement, unilateral acceptance, or guarantor-facilitated agreement per Legal Framework)
+3. **Party consent to proceed to plebiscite** (parties agree to allow plebiscite; not yet final commitment)
+4. Local plebiscite conducted
+5. If plebiscite passes: **Formal agreement signed** (bilateral agreement, unilateral acceptance, or guarantor-facilitated agreement per Legal Framework)
 6. First site with all approvals selected proceeds to implementation
 
-**Note:** Party consent at step 3 is conditional—parties agree to allow the referendum but are not bound until step 5 (post-referendum agreement). This matches Legal Framework Section 2.2 where resident consent (referendum) precedes formal agreement signing.
+**Note:** Party consent at step 3 is conditional—parties agree to allow the plebiscite but are not bound until step 5 (post-plebiscite agreement). This matches Legal Framework Section 2.2 where resident consent (plebiscite) precedes formal agreement signing.
 
 #### 3.2 Decision Criteria Weighting
 
@@ -541,9 +543,9 @@ Local leaders and communities may face retaliation from central authorities for 
 
 - Confederal Council approval (supermajority)
 - Guarantor certification (all principal guarantors)
-- **Party consent to proceed to referendum** (per [SAZ Legal Framework Section 2.1-2.5](01-saz-legal-framework.md#21-establishment-options))
-- Local referendum passes (thresholds per Legal Framework Section 2.6: 50% participation, 55% approval, 30% per-community)
-- **Formal party agreement signed** (post-referendum; completes establishment per Legal Framework Section 2.2 Step 4)
+- **Party consent to proceed to plebiscite** (per [SAZ Legal Framework Section 2.1-2.5](01-saz-legal-framework.md#21-establishment-options))
+- Local plebiscite passes (thresholds per Legal Framework Section 2.6: 50% participation, 55% approval, 30% per-community)
+- **Formal party agreement signed** (post-plebiscite; completes establishment per Legal Framework Section 2.2 Step 4)
 - No disqualifying veto
 
 #### 3.4 Appeal Procedures
@@ -574,13 +576,13 @@ Local leaders and communities may face retaliation from central authorities for 
 
 ### 2. Consent Mechanisms
 
-**Referendum:**
+**Plebiscite:**
 - Conducted by independent electoral authority
 - Monitored by international observers
 - Simple question: "Do you support establishment of an SAZ in [location]?"
 - Results binding
 
-**Referendum Conduct (per [SAZ Legal Framework Section 2.6](01-saz-legal-framework.md#26-resident-consent-referendum)):**
+**Plebiscite Conduct (per [SAZ Legal Framework Section 2.6](01-saz-legal-framework.md#26-resident-consent-plebiscite)):**
 
 - Minimum 60-day campaign period
 - Information campaign (balanced, factual, in Hebrew/Arabic/English)
@@ -648,12 +650,12 @@ Security transition is the highest-risk element and follows a phased approach:
 | Step | Action | Duration |
 |------|--------|----------|
 | 1 | SAZ security force trained and certified | Before transition begins |
-| 2 | Joint patrols: SAZ security + existing forces (IDF/PA) operate together | 30-60 days |
+| 2 | Joint patrols: SAZ security + existing forces (IDF + relevant Palestinian security forces) operate together | 30-60 days |
 | 3 | Lead transfer: SAZ security assumes primary responsibility; existing forces in support | 30-60 days |
 | 4 | Full SAZ security authority: existing forces withdraw to perimeter | Target: 30 days |
 | 5 | Perimeter withdrawal complete: SAZ security fully operational | Target: 30 days |
 
-**IDF/PA Withdrawal:** The terms of military/security withdrawal are negotiated as part of the SAZ establishment agreement (party consent at Section 5.3 step 5). The framework specifies the phased approach; exact timelines and modalities are agreement-specific.
+**IDF / Palestinian Security Withdrawal:** The terms of military/security withdrawal are negotiated as part of the SAZ establishment agreement (party consent at Section 5.3 step 5). The framework specifies the phased approach; exact timelines and modalities are agreement-specific.
 
 **Emergency Reversion:** If security conditions deteriorate during transition, the joint patrol phase may be extended or the transition paused. Transition pause does not constitute phase regression; it is an implementation adjustment.
 
@@ -763,7 +765,7 @@ Enhanced monitoring during the transition period:
 
 **Party Consent Requirement (per [SAZ Legal Framework Section 6.3](01-saz-legal-framework.md#63-boundary-modification)):**
 
-All boundary modifications require party (Israeli and Palestinian authority) consent. MCF bodies may recommend modifications but cannot authorize them without the consent requirements below.
+All boundary modifications require party consent (Israel + the relevant Palestinian authority). MCF bodies may recommend modifications but cannot authorize them without the consent requirements below.
 
 **Expansion:**
 
@@ -772,7 +774,7 @@ All boundary modifications require party (Israeli and Palestinian authority) con
 3. SAZ Council approval (supermajority)
 4. **Party consent: Both parties must consent (non-objection after 90-day notice period satisfies this requirement)**
 5. Guarantor certification
-6. Local referendum in expansion area (same thresholds as establishment: 50% participation, 55% approval, 30% per-community minimum)
+6. Local plebiscite in expansion area (same thresholds as establishment: 50% participation, 55% approval, 30% per-community minimum)
 7. Integration plan implementation
 
 **Contraction:**
@@ -781,12 +783,12 @@ All boundary modifications require party (Israeli and Palestinian authority) con
 2. Assessment by JSVC and guarantors
 3. **Party consent: Both parties must consent**
 4. Notification to affected residents
-5. Local referendum in contraction area (50% participation, simple majority approval)
+5. Local plebiscite in contraction area (50% participation, simple majority approval)
 6. Transition period (minimum 90 days)
 7. Orderly withdrawal of SAZ jurisdiction
 8. Status of area clarified (return to prior status or other)
 
-**Technical Adjustment Exception:** Minor corrections (<1% territory change) for survey errors or infrastructure access require party consent but no referendum.
+**Technical Adjustment Exception:** Minor corrections (<1% territory change) for survey errors or infrastructure access require party consent but no plebiscite.
 
 ### 3. Resident Protection During Modification
 

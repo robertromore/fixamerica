@@ -4,7 +4,7 @@
 
 **Phase:** All Phases
 
-**Status:** Final Draft
+**Status:** Draft
 
 ---
 
@@ -71,7 +71,7 @@ This rule is absolute and applies across all MCF dispute mechanisms.
 - Criminal penalties
 - Criminal procedural matters
 
-**Scope of Exclusion:** This exclusion applies to MCF *dispute resolution mechanisms* (Arbitration Courts, Review Panels, Institutional Dispute processes). It does not exclude criminal jurisdiction from SAZ courts, which have criminal jurisdiction for offenses within their territory where the maximum penalty is ≤10 years per [SAZ Governance](../02-phase-2-saz-development/02-saz-governance.md).
+**Scope of Exclusion:** This exclusion applies to MCF *dispute resolution mechanisms* (Arbitration Courts, Review Panels, Institutional Dispute processes). It does not exclude criminal jurisdiction from SAZ courts, which have criminal jurisdiction for offenses within their territory where the maximum penalty is ≤10 years per [SAZ Governance](../03-phase-2-saz/02-saz-governance.md).
 
 **Rationale:**
 - Dispute resolution bodies lack enforcement capacity for criminal law

@@ -895,7 +895,7 @@ The UVB verifies compliance after the fact.
 
 ### Phase B: Liaison Officers
 
-- Each side appoints liaison officers to the UVB
+- Israel, Gaza, and West Bank each appoint liaison officers to the UVB
 - Officers represent only their own side’s interests
 - No cross-recognition occurs
 
@@ -904,6 +904,7 @@ The UVB verifies compliance after the fact.
 - Shared evidence standards emerge
 - Joint incident reviews occur quietly
 - Common terminology stabilizes
+- Gaza and West Bank coordinate through a **Palestinian Joint Liaison** when a unified position is required, while remaining operationally distinct
 
 At this point, the JSVC exists **in function**, even if not acknowledged politically.
 
@@ -916,7 +917,7 @@ Formal naming and treaty recognition lag behind operational reality.
 ### Israeli Government Optics
 
 - Participation framed as protecting national infrastructure and preventing misinformation
-- No recognition of Palestinian authority required
+- No recognition of Gaza or West Bank authorities required
 - No constraint on broader military policy
 
 ### Palestinian Faction Optics
@@ -963,6 +964,64 @@ MCF neither confers nor denies sovereignty. It preserves political options while
 
 ---
 
+## Preconditions and Launch Sequence
+
+MCF's operational design is detailed, but a framework without a plausible path to existence is theoretical. This section identifies the enabling conditions and likely first-mover scenarios.
+
+### Enabling Conditions
+
+MCF does not require a peace agreement, but it does require a *launch environment* -- a combination of political conditions that makes initiation feasible. The most plausible enabling conditions include:
+
+**External Shock:** A sustained escalation that demonstrates the status quo's unsustainability to domestic opinion in Israel, the US, or both. Historical pattern: Oslo followed the First Intifada; the Disengagement followed the Second. MCF's modular, incremental design makes it deployable in post-crisis windows that do not support comprehensive negotiations.
+
+**US Policy Shift:** A US administration that conditions elements of the bilateral relationship on conflict management cooperation -- not requiring Israeli acceptance of MCF specifically, but creating costs for reflexive rejection of all institutional mechanisms. This shift need not be dramatic: even linking supplemental aid requests to verified compliance with existing humanitarian obligations creates political space.
+
+**Regional Realignment:** Normalization agreements (Abraham Accords model) that include conflict management conditions. Regional states with their own interests in stability -- particularly Jordan, Saudi Arabia, and the UAE -- may find MCF's institutional architecture useful for managing risks that normalization creates.
+
+**Guarantor Initiative:** A small coalition of credible third parties -- most plausibly Norway (Oslo precedent, institutional expertise), the EU (funding capacity, institutional credibility), or a Nordic-plus grouping -- takes the initiative to establish the UVB and initial infrastructure. This does not require party consent; it requires party non-obstruction and guarantor political will.
+
+No single enabling condition is sufficient. The realistic launch scenario combines at least two: most likely a post-crisis window combined with guarantor initiative and at minimum tacit US acquiescence.
+
+### First-Mover Identification
+
+MCF's entry mechanism -- the UVB -- requires a specific initiator. The framework's documents describe what the UVB does but not who creates it.
+
+**Most Plausible Conveners:**
+
+| Actor | Strengths | Limitations |
+|-------|-----------|-------------|
+| Norway | Oslo precedent, diplomatic credibility, track record | Limited leverage, small resource base |
+| EU (EEAS) | Institutional capacity, funding, existing programs | Slow decision-making, internal divisions on conflict |
+| Nordic-plus grouping | Combined credibility and resources | Coordination complexity |
+| UN Secretary-General | Legitimacy, mandate | US veto risk, institutional constraints |
+
+**Launch Sequence:**
+
+1. **Convening phase**: A lead convener (or small coalition) develops the UVB establishment plan, identifies initial personnel, and secures guaranteed funding for 3-5 years of UVB operations
+2. **Diplomatic preparation**: Convener engages Israel and the Palestinian authorities -- not seeking consent, but providing notification, explaining the mechanism, and offering participation. Engagement with the US to secure non-opposition (not endorsement)
+3. **Guarantor assembly**: Convener recruits the initial guarantor set. Per Section 6.5 below, the initial guarantor set is proposed by the convening coalition and presented to parties for comment, not jointly proposed by them
+4. **UVB deployment**: Physical deployment of UVB personnel and infrastructure, beginning with least sensitive areas (e.g., agricultural zones, water infrastructure) to demonstrate capability before expanding to more contested areas
+5. **Demonstration period**: 18-24 months of UVB operation building institutional credibility and demonstrating verification value to both populations and the international community
+
+### Honest Assessment of Israeli Non-Cooperation
+
+The most likely initial scenario is Israeli non-cooperation -- not active obstruction, but deliberate non-engagement combined with bureaucratic friction (delayed visas, restricted access, non-response to requests).
+
+MCF is designed for this scenario:
+
+- The UVB operates unilaterally and does not require Israeli participation
+- UVB verification creates a factual record regardless of party cooperation
+- Diplomatic costs of actively obstructing a neutral verification body are higher than the costs of ignoring it
+- The framework's value proposition to Israel -- reduced IDF burden, international legitimacy, predictable rules -- becomes more compelling as UVB demonstrates competence over time
+
+However, the framework cannot force Israeli cooperation. If Israel actively prevents UVB physical access (denying entry to personnel, blocking equipment, physically preventing site visits), the framework depends on guarantor diplomatic leverage to secure access. This is an acknowledged dependency: MCF begins without consent but cannot operate without non-obstruction. The entry strategy section above addresses mechanisms for managing this gap.
+
+### What This Section Does Not Claim
+
+This section does not claim MCF launch is imminent or likely under current conditions. It identifies the conditions under which launch becomes feasible and the actors who could initiate it. The framework is designed to be ready when the political window opens, not to create that window.
+
+---
+
 ## Geographic Differentiation: Gaza and the West Bank
 
 The Managed Coexistence Framework (MCF) does **not** assume identical operating conditions across Gaza and the West Bank, and Phase 0 institutions are deliberately designed to function **asymmetrically** across the two arenas. Treating them identically would be both unrealistic and destabilizing.
@@ -973,6 +1032,8 @@ Gaza and the West Bank differ fundamentally in governance, security control, ter
 - **West Bank:** Governed in part by the Palestinian Authority under the layered Area A/B/C structure, with extensive Israeli military presence and large settlement populations
 
 MCF explicitly adapts to these differences rather than forcing symmetry.
+
+**Representation Implication (Hybrid Model):** For joint security institutions (UVB liaison and JSVC governance), Gaza and the West Bank are treated as **distinct operational entities** but participate through a **Palestinian Joint Delegation** that casts a single concurrence on security-sensitive decisions. This preserves operational differentiation while avoiding “two‑against‑one” dynamics at the top level.
 
 ### Gaza: High-Intensity Containment Mode
 

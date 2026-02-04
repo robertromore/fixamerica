@@ -6,7 +6,7 @@
 
 **Objective:** Enable non-refugee diaspora populations to participate in, invest in, and support MCF without prejudicing refugee-specific claims or implying political normalization.
 
-**Status:** Final Draft
+**Status:** Draft
 
 ---
 
@@ -477,7 +477,7 @@ Diaspora-related disputes are handled through:
 
 ### MCF Documents
 - [Refugees and Diaspora (Sensitive Issues)](../06-sensitive-issues/04-refugees-diaspora.md)
-- [Civic Membership System](../02-phase-1-civic-membership/01-cms-design.md)
+- [Civic Membership System](../02-phase-1-civic-membership/01-cms-framework.md)
 - [Economic Integration Model](01-economic-integration.md)
 - [Commercial Courts](03-commercial-courts.md)
 - [Regional Economic Interface](06-regional-interface.md)

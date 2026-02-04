@@ -4,7 +4,7 @@
 
 **Phase:** All Phases
 
-**Status:** Final Draft
+**Status:** Draft
 
 ---
 
@@ -214,6 +214,7 @@ Immediate or near-immediate exit due to force majeure or extreme circumstances.
 - MCF emergency procedures activated
 - Temporary arrangements pending replacement
 - Priority successor recruitment
+- For SAZs, the External Security Continuity Protocol activates automatically (see [SAZ Security](../03-phase-2-saz/04-saz-security.md#11a-guarantor-withdrawal-contingency))
 
 ---
 

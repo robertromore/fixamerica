@@ -6,7 +6,7 @@
 
 **Incident Type:** Humanitarian crisis during security escalation
 
-**Status:** Final Draft
+**Status:** Draft
 
 ---
 

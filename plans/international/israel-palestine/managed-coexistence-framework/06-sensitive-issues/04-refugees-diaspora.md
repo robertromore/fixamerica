@@ -4,7 +4,7 @@
 
 **Phase:** All Phases
 
-**Status:** Final Draft
+**Status:** Draft
 
 ---
 
@@ -127,17 +127,17 @@ MCF avoids treating refugees as irrelevant (delegitimizing) and treating CMS as 
 
 ### 1. General Principle
 
-Palestinian refugees are **not categorically excluded** from CMS, but eligibility is **functionally constrained and phased**.
+Palestinian refugees are **not categorically excluded** from CMS. Eligible diaspora populations receive **CMS Diaspora Status (CMS-D)**, a distinct subtype with specific rights and limitations (see [CMS Framework Section 2.9](../02-phase-1-civic-membership/01-cms-framework.md#29-diaspora-eligibility)). Benefit access is **functionally constrained and phased**.
 
 ### 2. Initial Phase Eligibility
 
 **Phase 0-1:**
-- CMS eligibility follows standard criteria per [CMS Framework](../02-phase-1-civic-membership/01-cms-framework.md#21-basic-eligibility), including recognized diaspora populations
+- CMS-D eligibility follows criteria per [CMS Framework Section 2.9](../02-phase-1-civic-membership/01-cms-framework.md#29-diaspora-eligibility) for recognized diaspora populations
 - Benefit access is limited in early phases (non-residential benefits only)
 - Focus on stable populations for in-territory programs
 - Careful expansion of benefit scope
 
-**Eligibility Clarification:** Refugees who qualify as "recognized diaspora" under CMS Framework Section 2.8 are eligible for CMS from Phase 0. The limitation in Phase 0-1 applies to *benefit access* (non-residential benefits only), not to eligibility itself.
+**Eligibility Clarification:** Refugees who qualify as "recognized diaspora" under [CMS Framework Section 2.9](../02-phase-1-civic-membership/01-cms-framework.md#29-diaspora-eligibility) are eligible for CMS-D from Phase 0. The limitation in Phase 0-1 applies to *benefit access* (non-residential benefits only), not to eligibility itself.
 
 **Available Benefits (Phase 0-1):**
 - Professional credentialing participation
@@ -356,6 +356,35 @@ MCF conflict management success separate from refugee question resolution.
 
 **Honesty:**
 Clear communication about what MCF can and cannot provide.
+
+### Temporal Realism
+
+MCF operates on a 50-100 year timescale. This section addresses what "structured postponement" means over that duration.
+
+**What the Framework Acknowledges:**
+
+- "Structured postponement" over 100 years is, for practical purposes, permanent deferral for current claimants
+- The average age of 1948 Nakba survivors is now 80+. Within a single generation of MCF operation, there will be no living original claimants
+- CMS-D status preserves a legal claim but does not operationalize it
+- The Phase 3+ expansion conditioned on "parties' explicit request" depends on Israeli consent that has not been forthcoming in 75+ years of the conflict
+
+**What the Framework Preserves Despite This Reality:**
+
+- Legal claim continuity -- MCF explicitly refuses to extinguish or trade refugee claims
+- Generational transmission of documented status
+- Material benefits (credentialing, arbitration, training) that improve conditions during the deferral
+- Institutional infrastructure that could operationalize return mechanisms if political conditions ever permit
+
+**Intermediate Mechanisms:**
+
+To ensure "structured postponement" does not mean "structured neglect," MCF includes intermediate mechanisms that operate independently of the right of return question:
+
+- **Guarantor-funded host country improvement programs:** Direct investment in refugee camp infrastructure, education, and healthcare in Jordan, Lebanon, and elsewhere -- funded through the guarantor architecture, not conditioned on MCF participation
+- **Diaspora economic integration:** CMS-D benefits (credentialing, investment vehicles, institutional roles) that tangibly improve diaspora living standards during the deferral period
+- **Compensation documentation:** Systematic documentation of property losses and displacement claims, creating an evidentiary record that strengthens future compensation negotiations regardless of which political outcome prevails
+- **External SAZ participation:** Priority access for diaspora populations to External SAZ programs, providing a concrete institutional connection to the MCF framework
+
+These mechanisms do not substitute for the right of return. They ensure that the deferral period is used to build capacity and document claims rather than simply to wait.
 
 ---
 

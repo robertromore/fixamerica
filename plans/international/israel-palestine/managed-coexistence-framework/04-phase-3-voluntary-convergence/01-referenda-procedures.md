@@ -6,7 +6,7 @@
 
 **Objective:** Establish fair, transparent, and internationally observed referendum procedures for Phase 3 transitions.
 
-**Status:** Final Draft
+**Status:** Draft
 
 ---
 

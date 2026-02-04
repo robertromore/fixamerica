@@ -4,7 +4,7 @@
 
 **Phase:** Phase 0 (initial mechanism, transitions to JSVC)
 
-**Status:** Final Draft (Annexes pending implementation)
+**Status:** Draft
 
 ---
 
@@ -12,13 +12,17 @@
 
 The Unilateral Verification Body (UVB) serves as the **initial verification mechanism** before the Joint Security Verification Commission (JSVC) can be established. It is designed to begin operating **without requiring mutual agreement** between the parties.
 
-The UVB exists because MCF cannot wait for negotiated consent to establish credible verification. Traditional peace processes require both parties to agree on monitoring mechanisms before those mechanisms can operate—but that agreement is often the hardest part to achieve and the first casualty of renewed violence. The UVB inverts this logic: it builds verification credibility first, creating the conditions under which joint mechanisms become possible.
+The UVB exists because MCF cannot wait for negotiated consent to establish credible verification. Traditional peace processes require all conflict authorities to agree on monitoring mechanisms before those mechanisms can operate—but that agreement is often the hardest part to achieve and the first casualty of renewed violence. The UVB inverts this logic: it builds verification credibility first, creating the conditions under which joint mechanisms become possible.
+
+**Parties and Authorities (Operational Definition)**
+
+For UVB purposes, "parties" refers to the authorities controlling the relevant territory: **Israel**, **Gaza governing authority**, and **West Bank governing authority**. Gaza and the West Bank are treated as **distinct operational entities** for access, liaison, and reporting. Where joint Palestinian participation is required (e.g., JSVC formation), it is expressed through a **Palestinian Joint Delegation** composed of Gaza and West Bank authorities.
 
 ---
 
 ## Core Principle: Verification Before Agreement
 
-The UVB operates on the principle that **credible verification can precede political agreement**. By establishing factual baselines and demonstrating impartial documentation capacity, the UVB creates value that both parties can recognize even without endorsing the framework that provides it.
+The UVB operates on the principle that **credible verification can precede political agreement**. By establishing factual baselines and demonstrating impartial documentation capacity, the UVB creates value that all authorities can recognize even without endorsing the framework that provides it.
 
 ---
 
@@ -36,8 +40,8 @@ The UVB does not derive its authority from bilateral agreement between the confl
 
 **Unilateral Consent**
 
-- Either party may unilaterally consent to UVB operations within territory it controls
-- Consent from one party is sufficient for UVB to operate in that party's territory
+- Any authority may unilaterally consent to UVB operations within territory it controls
+- Consent from one authority is sufficient for UVB to operate in that authority's territory
 - Consent may be granted, modified, or withdrawn, but withdrawal does not invalidate findings made during the consent period
 
 **International Law Basis**
@@ -288,7 +292,7 @@ Pattern analysis findings are reported separately from incident documentation, w
 **Access Requests**
 
 - UVB may request access to any location within the mandate area
-- Requests are made to the party controlling the territory
+- Requests are made to the party controlling the territory (Israel, Gaza authority, or West Bank authority)
 - Standard response time: 24 hours for routine, 6 hours for urgent
 - Denial of access is documented and reported
 
@@ -310,7 +314,8 @@ Pattern analysis findings are reported separately from incident documentation, w
 
 **Formal Channels**
 
-- Each party designates a UVB liaison office
+- Each authority (Israel, Gaza, West Bank) designates a UVB liaison office
+- Gaza and West Bank may optionally coordinate through a **Joint Palestinian Liaison**, but separate channels are maintained
 - UVB provides advance notification of routine operations (except rapid response)
 - **Rapid response** is triggered by: mass casualty events (≥5 deaths), infrastructure attacks, or JSVC/guarantor urgent request; no advance notification required
 - Parties may submit information and requests through liaison
@@ -430,9 +435,11 @@ The UVB transitions to JSVC when the following conditions are met:
 **Sufficient Conditions (indicators of readiness)**
 
 - Parties regularly engaging with UVB findings (even if disputing them)
-- Access denial rate below 20% for both parties
+- Access denial rate below 20% for each authority
 - Both parties providing information to UVB voluntarily
 - No UVB personnel security incidents caused by parties in prior 6 months
+
+**Note:** If JSVC formation is not achieved, see [Section 6.5](#65-fallback-certification-authority) for fallback certification authority.
 
 ### 6.2 Transition Process
 
@@ -470,9 +477,9 @@ The UVB transitions to JSVC when the following conditions are met:
 
 **What Changes with JSVC**
 
-- Governance becomes joint (party participation in oversight)
+- Governance becomes joint (Israel + Palestinian Joint Delegation participation in oversight)
 - Staffing may include party nationals (with safeguards)
-- Mandate may expand based on party agreement
+- Mandate may expand based on Israel + Palestinian Joint Delegation agreement
 - Reporting may include additional party-specific channels
 
 **What Remains Constant**
@@ -490,7 +497,7 @@ The UVB → JSVC transition is an **institutional evolution**, distinct from but
 
 | Transition Type | What Changes | Trigger |
 |-----------------|--------------|---------|
-| **UVB → JSVC** | Governance structure, staffing, mandate scope | Party consent to joint mechanism |
+| **UVB → JSVC** | Governance structure, staffing, mandate scope | Israel + Palestinian Joint Delegation consent |
 | **Phase 0 → Phase 1** | MCF-wide expansion of programs and protections | JSVC certification of stability criteria |
 
 **Sequencing**
@@ -504,6 +511,33 @@ The UVB → JSVC transition is an **institutional evolution**, distinct from but
 Once JSVC is established, it assumes responsibility for certifying MCF phase transitions. This authority grows organically from UVB's core function: the body that measures stability is best positioned to certify when stability thresholds are met.
 
 See [JSVC Charter Section 8: Phase Transition Certification Authority](02-jsvc-charter.md#8-phase-transition-certification-authority) for detailed criteria and procedures.
+
+### 6.5 Fallback Certification Authority
+
+JSVC is the sole certification authority for phase transitions, but JSVC formation requires Israel + Palestinian Joint Delegation consent (Section 6.1). This creates a structural dependency: the framework is designed to begin without mutual consent (via UVB), but cannot advance past Phase 0 without it. If one party (or one Palestinian authority) declines to participate in JSVC formation indefinitely, the framework stalls regardless of conditions on the ground.
+
+To prevent permanent blockage, the UVB assumes **interim certification authority** for the Phase 0 to Phase 1 transition if JSVC formation has not occurred within 7 years of UVB achieving "sufficient conditions" (Section 6.1). This interim authority is subject to enhanced safeguards that compensate for the absence of bilateral participation.
+
+**Requirements for UVB Interim Certification**
+
+All of the following must be met before the UVB may exercise interim certification authority:
+
+- UVB has been operational for a minimum of 7 years total
+- UVB has met all "sufficient conditions" in Section 6.1 for a minimum of 24 consecutive months
+- All guarantors provide written assessment that conditions on the ground meet Phase 0 to Phase 1 criteria
+- An independent external review panel (appointed by guarantors, with no members who have served on UVB staff) confirms that UVB assessment methodology meets JSVC-equivalent standards
+- Israel and both Palestinian authorities have been formally invited to participate in JSVC formation and have either declined or failed to respond within 12 months of the most recent invitation
+
+**Limitations on UVB Interim Certification**
+
+- UVB interim certification covers the Phase 0 to Phase 1 transition only; it does not extend to subsequent phase transitions
+- JSVC formation remains the preferred path; formal invitation to Israel and both Palestinian authorities is renewed annually regardless of prior non-response
+- If JSVC is subsequently formed, certification authority transfers to JSVC immediately upon JSVC achieving operational status
+- UVB interim certification requires **unanimous guarantor concurrence**, a higher bar than the standard JSVC certification process (which operates by supermajority)
+
+**Rationale**
+
+This mechanism preserves the strong preference for joint JSVC certification while preventing a single party's non-cooperation from permanently blocking framework advancement. The enhanced guarantor oversight requirement—unanimity rather than majority—compensates for the absence of direct party participation in the certification body. The 7-year minimum and 24-month sustained compliance window ensure that interim certification is not invoked prematurely. The requirement that Israel and both Palestinian authorities have been invited and declined (or not responded) ensures that the fallback is used only when joint participation has been genuinely attempted and has failed.
 
 ---
 

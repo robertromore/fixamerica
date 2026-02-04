@@ -162,6 +162,25 @@ This is intentional: transitions that proceed without guarantor confidence lack 
 
 **Accountability:** A guarantor that withholds a Confidence Statement must publish its reasoning within 14 days. A pattern of unexplained negative assessments may trigger the guarantor coordination review process (see [Guarantor Coordination](../04-guarantor-architecture/04-guarantor-coordination.md)).
 
+**Supermajority Override Provision:**
+
+If all of the following conditions are met, a transition may proceed despite a single guarantor withholding its Confidence Statement:
+
+- All other guarantors (N-1 of N) provide positive Confidence Statements
+- The JSVC (or UVB under interim authority) certifies all quantitative criteria are met
+- The blocking guarantor's published reasoning has been reviewed by an independent panel appointed by the remaining guarantors
+- The independent panel concludes the withholding is not supported by the assessment criteria
+- A 90-day additional observation period has passed since the panel's conclusion
+
+Under these conditions:
+
+- The transition proceeds with the dissenting assessment recorded
+- The blocking guarantor retains the right to reduce its commitment level per [Guarantor Withdrawal](../04-guarantor-architecture/05-guarantor-withdrawal.md) procedures
+- The dissenting assessment is published alongside the transition certification
+- Enhanced monitoring is applied to the specific concerns raised by the dissenting guarantor
+
+**No override is available when two or more guarantors withhold Confidence Statements.** In that case, the transition is blocked until concerns are resolved.
+
 **Phase-specific confidence requirements:**
 
 | Transition | Confidence Standard |
@@ -218,8 +237,11 @@ The 0→1 transition signifies that the environment is **predictable and legible
 | Metric | Threshold | Duration |
 |--------|-----------|----------|
 | **JSVC operational continuity** | No major operational disruption | 18 months |
-| **Party cooperation** | Both parties respond to ≥ 80% of JSVC requests | 18 months |
+| **Verification access** | JSVC achieves verification access for ≥ 80% of requested sites (through party cooperation, guarantor facilitation, or alternative methods) | 18 months |
+| **Operational environment** | CMS holders in all geographic zones can access ≥ 80% of enrolled benefits within documented transit thresholds | 12 months |
 | **Guarantor confidence** | Positive stability rating from all guarantors (Confidence Statement per Section 2.4) | Current |
+
+**Metric Design Note:** These metrics measure *conditions achieved* rather than *party behavior*. If a party blocks direct JSVC access but guarantor-facilitated alternative methods achieve equivalent verification coverage, the metric is satisfied. If CMS benefits are formally available but physically inaccessible due to movement restrictions, the operational environment metric fails regardless of the cause. This prevents either party from unilaterally vetoing advancement through non-cooperation while ensuring the underlying conditions genuinely support transition.
 
 ### 3.3 Assessment Methodology
 
@@ -250,6 +272,17 @@ This prevents gaming through temporary compliance followed by relapse.
 | **Trend direction** | Improving trend weighted positively; deteriorating trend weighted negatively |
 | **Outlier events** | Single extreme events reviewed for systemic vs. isolated classification |
 | **Data gaps** | Gaps exceeding 30 days require period extension |
+
+#### 3.3.4 Operational Parity Assessment
+
+Phase transition assessment must include a disaggregated analysis of CMS benefit accessibility by community. The JSVC annual report must document:
+
+- Benefit access rates disaggregated by Israeli and Palestinian CMS holders
+- Average transit time to CMS benefit access points by geographic zone
+- Documented access barriers and their causes
+- Whether any benefit category shows >20% access disparity between communities
+
+If the disaggregated analysis shows persistent access disparity exceeding 20% between communities for any core benefit category over 12+ months, this constitutes a negative factor in transition assessment regardless of aggregate metric performance.
 
 ### 3.4 Geographic Differentiation
 

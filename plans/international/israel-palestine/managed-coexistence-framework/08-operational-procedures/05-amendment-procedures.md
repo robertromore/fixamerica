@@ -236,7 +236,7 @@ Month 4: Deliberation
 
 Month 5: Decision
 ├── JSVC Commission vote (5 of 7 required)
-├── Party concurrence (both parties)
+├── Party concurrence (Israel + Palestinian Joint Delegation)
 ├── Guarantor certification (majority)
 └── If all thresholds met, implementation planning
 

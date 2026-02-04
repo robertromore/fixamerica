@@ -6,7 +6,7 @@
 
 **Objective:** Ensure effective multilingual communication across all MCF institutions and operations.
 
-**Status:** Final Draft
+**Status:** Draft
 
 ---
 
@@ -443,7 +443,7 @@ MCF operates in three official languages with equal status:
 
 | Previous | Up | Next |
 |----------|-----|------|
-| [Personnel Standards](12-personnel-standards.md) | [Operational Procedures Overview](00-overview.md) | — |
+| [Personnel Standards](12-personnel-standards.md) | [Operational Procedures Overview](00-overview.md) | [Stress Testing](14-stress-testing.md) |
 
 ---
 

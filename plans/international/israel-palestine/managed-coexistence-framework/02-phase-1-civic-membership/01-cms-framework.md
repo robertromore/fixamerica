@@ -4,7 +4,7 @@
 
 **Phase:** Phase 1 onwards
 
-**Status:** Final Draft
+**Status:** Draft
 
 ---
 
@@ -81,7 +81,7 @@ CMS draws conceptually from:
 Any natural person who:
 
 - Is at least 18 years of age
-- Resides within the MCF operational area OR is a member of the recognized diaspora population
+- Resides within the MCF operational area OR is a member of the recognized diaspora population (see Section 2.9 for CMS-D diaspora status)
 - Has no disqualifying criminal history (defined below)
 - Is willing to complete eligibility requirements
 
@@ -124,8 +124,8 @@ Security vetting ensures that CMS holders do not pose a security threat within M
 
 Vetting covers:
 
-- Criminal history (both parties' records, international databases)
-- Security service records (both parties, with appropriate access agreements)
+- Criminal history (Israeli and relevant Palestinian authority records, international databases)
+- Security service records (Israeli and relevant Palestinian authority, with appropriate access agreements)
 - Open-source review (social media, public statements)
 - Reference verification (where applicable)
 
@@ -468,7 +468,7 @@ CMS holders may participate in MCF-facilitated employment:
 
 MCF employment programs operate within a negotiated work authorization framework:
 
-- Guarantors facilitate work permit arrangements with both parties as part of MCF establishment
+- Guarantors facilitate work permit arrangements with Israel and the relevant Palestinian authority as part of MCF establishment
 - MCF-registered employers receive streamlined permit processing for CMS employees
 - CMS credential serves as eligibility documentation for MCF employment permit applications
 - Permits are issued under national authority but processed through MCF employment program
@@ -639,6 +639,14 @@ CMS may be suspended (temporarily deactivated) for:
 3. Investigation completed within 60 days
 4. Resolution: reinstatement, continued suspension, or revocation
 
+**Suspension Time Limits and Appeal**
+
+- Standard suspension may not exceed **120 days** from the notice date
+- Extensions up to **180 days** require CMS Appeals Board approval with written justification; guarantor ombudsman notified
+- Holder may appeal a suspension after **30 days** or immediately upon any extension request
+- Appeals Board issues a decision within **14 days**
+- If time limits are missed without approved extension, suspension converts to **reinstatement with monitoring conditions**
+
 **Suspension Effects**
 
 - CMS benefits are inaccessible during suspension
@@ -717,6 +725,8 @@ CMS data may **not** be shared with:
 - Employers (beyond status verification)
 - Third parties without holder consent
 - Media or public
+
+**Permit Processing Data Protocol (Consent-Based):** If a CMS holder seeks an MCF-facilitated work permit, the holder signs a **scoped consent** allowing release of **minimal data** to the relevant national authority: identity verification, CMS validity status (active/suspended), employer name, job category, and Work Authorization validity dates. Vetting files, allegations, or source data are never shared. Consent is time-limited, revocable, and logged.
 
 **Imminent Threat Exception**: Actionable threat information may be shared with authorities to prevent imminent violence per Section 2.5 (Threat Reporting Protections). Reporter identity is never disclosed under this exception.
 

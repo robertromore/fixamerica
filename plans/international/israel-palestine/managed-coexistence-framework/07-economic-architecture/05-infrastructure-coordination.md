@@ -4,7 +4,7 @@
 
 **Phase:** All Phases
 
-**Status:** Final Draft
+**Status:** Draft
 
 ---
 
@@ -476,7 +476,7 @@ If the national grid provider (IEC or equivalent) does not provide a connection 
 3. MCF proceeds with independent power generation (already in place as default design)
 4. Pattern of connection refusals documented as systematic interference per spoiler response protocols
 
-**Rationale:** This inverts the monopoly vulnerability. The SAZ is self-sufficient by default. Grid connection is a convenience that reduces operating costs, not a chokepoint that determines viability. If IEC connects, both parties benefit from efficiency. If IEC refuses, the SAZ operates independently and the refusal is documented as obstruction.
+**Rationale:** This inverts the monopoly vulnerability. The SAZ is self-sufficient by default. Grid connection is a convenience that reduces operating costs, not a chokepoint that determines viability. If IEC connects, all affected parties benefit from efficiency. If IEC refuses, the SAZ operates independently and the refusal is documented as obstruction.
 
 ### 2. Natural Gas
 

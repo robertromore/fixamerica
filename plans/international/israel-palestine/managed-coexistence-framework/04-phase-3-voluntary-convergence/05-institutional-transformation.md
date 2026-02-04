@@ -6,7 +6,7 @@
 
 **Objective:** Define how MCF institutions evolve or sunset based on the chosen end state.
 
-**Status:** Final Draft
+**Status:** Draft
 
 ---
 

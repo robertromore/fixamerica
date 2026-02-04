@@ -4,7 +4,7 @@
 
 **Phase:** All Phases
 
-**Status:** Final Draft
+**Status:** Draft
 
 ---
 
@@ -359,7 +359,7 @@ Environmental cooperation does not prejudice environmental sovereignty claims or
 
 **Composition:**
 
-- Technical representatives from both parties
+- Technical representatives from Israel, Gaza, and West Bank authorities (or Palestinian Joint Delegation where a unified position is required)
 - MCF Secretariat support
 - Guarantor observer
 - International expert support

@@ -6,7 +6,7 @@
 
 **Objective:** Enable political integration only if repeatedly chosen by affected populations.
 
-**Status:** Final Draft
+**Status:** Draft
 
 ---
 

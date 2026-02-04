@@ -6,7 +6,7 @@
 
 **Objective:** Define the federation option where populations merge into a single federal state with shared sovereignty.
 
-**Status:** Final Draft
+**Status:** Draft
 
 ---
 

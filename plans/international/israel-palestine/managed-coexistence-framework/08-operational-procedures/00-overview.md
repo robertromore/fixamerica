@@ -113,19 +113,19 @@ Success is defined as **sustained stability and voluntary participation**, not a
 
 | Document | Status |
 |----------|--------|
-| 00-overview.md | Final Draft |
-| 01-risk-management.md | Final Draft |
-| 02-phase-transitions.md | Final Draft |
-| 03-phase-regression.md | Final Draft |
-| 04-spoiler-response.md | Final Draft |
-| 05-amendment-procedures.md | Final Draft |
-| 06-exit-conditions.md | Final Draft |
-| 07-communication-protocols.md | Final Draft |
-| 08-humanitarian-crisis-protocols.md | Final Draft |
-| 09-data-it-systems.md | Final Draft |
-| 10-vulnerable-populations.md | Final Draft |
-| 11-media-civil-society.md | Final Draft |
-| 12-personnel-standards.md | Final Draft |
-| 13-language-services.md | Final Draft |
-| 14-stress-testing.md | Final Draft |
-| 15-concrete-scenarios/ | Final Draft |
+| 00-overview.md | Draft |
+| 01-risk-management.md | Draft |
+| 02-phase-transitions.md | Draft |
+| 03-phase-regression.md | Draft |
+| 04-spoiler-response.md | Draft |
+| 05-amendment-procedures.md | Draft |
+| 06-exit-conditions.md | Draft |
+| 07-communication-protocols.md | Draft |
+| 08-humanitarian-crisis-protocols.md | Draft |
+| 09-data-it-systems.md | Draft |
+| 10-vulnerable-populations.md | Draft |
+| 11-media-civil-society.md | Draft |
+| 12-personnel-standards.md | Draft |
+| 13-language-services.md | Draft |
+| 14-stress-testing.md | Draft |
+| 15-concrete-scenarios/ | Draft |

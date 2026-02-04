@@ -4,7 +4,7 @@
 
 **Phase:** Phase 2 onwards
 
-**Status:** Final Draft
+**Status:** Draft
 
 ---
 
@@ -643,6 +643,8 @@ Non-residents may be plaintiffs or defendants in SAZ courts when the nexus requi
 
 Where defendant's national criminal law does not recognize the charged conduct as criminal, SAZ courts may not convict. The defendant cannot be prosecuted under a more punitive foreign penal code merely because the victim belongs to a different national community. Prosecution is by the SAZ Public Prosecutor (see Section 1.4 above).
 
+**Penalty Parity Rule:** Where both national legal systems criminalize the same conduct, SAZ courts apply the **lower maximum penalty** (and any lesser mandatory minimum) to avoid discriminatory outcomes. Sentencing must still satisfy CRC proportionality and due process standards.
+
 **Reserved to National Courts (regardless of penalty):**
 
 National security offenses (treason, espionage, and similar offenses against national governments) are reserved to national courts regardless of maximum penalty. See [SAZ Legal Framework Section 7.1](01-saz-legal-framework.md#71-saz-to-national-relationship).
@@ -656,7 +658,7 @@ Offenses occurring within SAZ that carry maximum penalties exceeding 10 years ar
 | Within SAZ | SAZ resident (Israeli-origin) | Israeli national court | Israeli criminal law |
 | Within SAZ | SAZ resident (Palestinian-origin) | Palestinian national court | Palestinian criminal law |
 | Within SAZ | Non-resident | Defendant's national court | Defendant's national law |
-| Within SAZ | Dual/disputed status | JSVC determines forum | Per JSVC determination |
+| Within SAZ | Dual/disputed status | JSVC certifies forum (per jurisdiction matrix) | Per JSVC certification |
 
 **Serious Offense Coordination:**
 
@@ -682,7 +684,7 @@ SAZ police do not release suspects to national custody without a Transfer Indict
 
 **SAZ Justice Monitor:**
 
-The JSVC appoints an SAZ Justice Monitor with legal standing to observe all national court proceedings arising from SAZ offenses:
+The JSVC appoints an SAZ Justice Monitor **from a Guarantor Forum–approved roster** with legal standing to observe all national court proceedings arising from SAZ offenses:
 
 - Attends all hearings; access to case files
 - Files amicus briefs on behalf of MCF
@@ -741,7 +743,7 @@ Prosecution failure does not authorize SAZ courts to retry the case (double jeop
 
 - SAZ courts have **primary jurisdiction** within SAZ boundaries for matters within SAZ competence
 - National courts retain reserved matters (citizenship, national security, >10 year offenses, etc.)
-- If jurisdiction is disputed, **JSVC determines the appropriate forum** (not plaintiff choice)
+- If jurisdiction is disputed, **JSVC certifies the appropriate forum by applying the pre-defined jurisdiction matrix** (not plaintiff choice)
 - Anti-suit injunctions prohibited
 - Once forum is determined, that determination is binding absent appeal to Guarantor Forum
 
@@ -749,12 +751,12 @@ Prosecution failure does not authorize SAZ courts to retry the case (double jeop
 
 | Dispute Type | Resolution Body | Appeal |
 |--------------|-----------------|--------|
-| SAZ vs national court jurisdiction | JSVC | Guarantor Forum |
+| SAZ vs national court jurisdiction | JSVC (certification) | Guarantor Forum |
 | Constitutional Floor interpretation | Confederal Court | None (final) |
 | Confederal law interpretation | Confederal Court | None (final) |
 | Inter-SAZ disputes | Confederal Court | None (final) |
 
-**Clarification:** JSVC determines which forum (SAZ or national) has jurisdiction over a specific case. Confederal Court interprets constitutional and confederal law but does not serve as a forum-assignment body for SAZ vs national court disputes.
+**Clarification:** JSVC **certifies** which forum (SAZ or national) has jurisdiction over a specific case by applying the pre-defined jurisdiction matrix. Confederal Court interprets constitutional and confederal law but does not serve as a forum-assignment body for SAZ vs national court disputes.
 
 ---
 

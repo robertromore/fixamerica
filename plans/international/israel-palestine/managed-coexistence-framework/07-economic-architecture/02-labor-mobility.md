@@ -4,7 +4,7 @@
 
 **Phase:** Phase 1 onwards
 
-**Status:** Final Draft
+**Status:** Draft
 
 ---
 
@@ -198,6 +198,50 @@ During Phase 1, certain sectors require additional procedures:
 | **Healthcare** | Credential verification via portability system | Patient safety |
 | **Education** | Credential verification via portability system | Quality assurance |
 | **Finance** | MCF banking compliance check | AML/CTF |
+
+### 2.7 Interaction with Existing Movement Regimes
+
+MCF Work Authorization operates alongside, not in replacement of, existing national movement control systems. This section addresses the operational reality that CMS holders in the West Bank and Gaza must navigate Israeli-controlled checkpoints, permits, and crossings that MCF does not control.
+
+**Operating Scenarios:**
+
+| Scenario | Description | MCF Role |
+|----------|-------------|----------|
+| **PCC available** | CMS holder transits through a Protected Civic Corridor | MCF controls access; national checkpoints bypassed |
+| **Mixed transit** | CMS holder uses national crossings with MCF authorization | MCF authorization supplements but does not replace national permits |
+| **No PCC available** | CMS holder relies entirely on national movement systems | MCF authorization adds credential value but does not guarantee physical access |
+
+**For PCC-available transit:**
+
+- Standard PCC processing times apply (15 minutes entry, 10 minutes exit)
+- No national permit required for PCC transit **where PCC designation includes a negotiated legal carve-out**; otherwise national permits still apply with expedited processing targets
+- PCC coverage expansion is a priority metric for Phase 0→1 transition
+
+**For mixed transit:**
+
+- MCF Work Authorization is a recognized employment credential that supports national permit applications
+- Guarantor-facilitated transit protocols: guarantors negotiate expedited processing at designated crossings for CMS Work Authorization holders
+- Target: CMS holders wait no longer than 150% of average crossing time for non-CMS travelers at the same checkpoint
+- Transit time monitoring is a JSVC reporting metric; sustained average transit times exceeding targets trigger guarantor engagement
+
+**For no-PCC-available transit:**
+
+- MCF Work Authorization provides employer confidence, legal protections, and arbitration access
+- MCF honestly acknowledges that authorization does not guarantee physical access in this scenario
+- MCF documents access denials and delays as part of its verification function
+- Documented access barriers feed into phase transition assessment (Operational Parity Assessment per [Phase Transitions](../08-operational-procedures/02-phase-transitions.md))
+
+**What This Section Acknowledges:**
+
+The existing Israeli-controlled permit system governs approximately 170,000 Palestinian workers' access to employment in Israel. MCF cannot abolish this system. What MCF can do:
+
+1. **Create alternatives** (PCC corridors that bypass checkpoints)
+2. **Negotiate improvements** (guarantor-facilitated expedited processing)
+3. **Document the gap** (systematic recording of access barriers)
+4. **Make the gap costly** (access disparity feeds into transition assessment)
+5. **Provide value regardless** (legal protections, arbitration, credential recognition operate even when physical access is constrained)
+
+The single most likely failure mode for labor mobility is a CMS holder with valid MCF Work Authorization who is denied passage at an Israeli checkpoint that MCF does not control. MCF's response is not to pretend this won't happen, but to minimize its frequency (through PCC expansion), document its occurrence (through verification), and create diplomatic costs (through guarantor engagement).
 
 ---
 

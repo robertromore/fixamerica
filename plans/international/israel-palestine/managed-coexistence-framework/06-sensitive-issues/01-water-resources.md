@@ -4,7 +4,7 @@
 
 **Phase:** All Phases
 
-**Status:** Final Draft
+**Status:** Draft
 
 ---
 
@@ -242,6 +242,44 @@ Gaza's water crisis is treated as a **containment priority**—an ongoing humani
 - Guarantor engagement if thresholds breached
 
 **Humanitarian Minimum Clarification:** Meeting humanitarian minimums uses emergency provisioning (e.g., trucked water, emergency desalination, guarantor-funded supplies) rather than reallocating existing allocations. This preserves the "existing allocations continue" principle while ensuring civilian survival needs are met during crises.
+
+### Humanitarian Floor Commitment
+
+MCF acknowledges the credibility problem of operating a framework that documents sub-WHO-minimum water allocation (Palestinian consumption at ~70-80 liters/day against a WHO minimum of 100 liters/day) without addressing it.
+
+**The Framework's Position:**
+
+- Water reallocation between sovereign claimants is a political question MCF does not adjudicate
+- However, ensuring that populations within the MCF operational area receive at minimum the WHO-recommended quantity is a humanitarian obligation the framework can address without prejudicing allocation disputes
+
+**Humanitarian Floor:**
+
+Within MCF operational areas (CMS-active zones and SAZs), MCF commits to ensuring no population receives less than the WHO minimum of 100 liters per capita per day.
+
+**Implementation:**
+
+- The difference between current supply and the WHO minimum is provided through MCF-funded infrastructure, not through reallocation of existing allocations
+- Methods: MCF-funded desalination facilities, rainwater harvesting, wastewater recycling, and water efficiency programs
+- Funding: Guarantor-funded infrastructure per [Funding Architecture](../04-guarantor-architecture/03-funding-architecture.md)
+- Timeline: Humanitarian floor achieved in initial SAZ areas within Phase 1; expanded to all CMS-active zones by Phase 2
+
+**What This Does Not Do:**
+
+- Does not redistribute existing water allocations between parties
+- Does not prejudice sovereignty claims over water resources
+- Does not resolve the underlying allocation disparity
+- Does not replace the need for a political water-sharing agreement
+
+**What This Does:**
+
+- Ensures MCF participants receive at minimum the internationally recognized humanitarian standard
+- Demonstrates that the framework provides tangible material improvement
+- Removes the credibility problem of documenting deprivation without action
+- Creates infrastructure that survives regardless of political outcome
+
+**Phase Transition Integration:**
+
+Achievement of the humanitarian water floor in CMS-active zones is a contributing factor in Phase 0-1 transition assessment. Sustained failure to meet the floor constitutes a negative factor regardless of other metric performance.
 
 ### 3. What MCF Does Not Resolve
 

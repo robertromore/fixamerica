@@ -4,7 +4,7 @@
 
 **Phase:** Phase 2 onwards
 
-**Status:** Final Draft
+**Status:** Draft
 
 ---
 
@@ -71,12 +71,12 @@ SAZ legal authority derives from:
 |--------|--------------|-------------|
 | **Party agreement** | Both parties consent to SAZ establishment (even if disagreeing on underlying sovereignty) | At least non-objection; bilateral agreement preferred |
 | **Guarantor endorsement** | International legitimacy and enforcement capacity | Formal guarantor endorsement required |
-| **Resident consent** | Democratic legitimacy from population | Referendum required for all establishment paths (see Section 2.6) |
+| **Resident consent** | Democratic legitimacy from population | Plebiscite required for all establishment paths (see Section 2.6) |
 | **MCF institutional framework** | Governance rules and oversight | Compliance with MCF standards |
 
 No single source is sufficient; SAZ legitimacy requires all four.
 
-**Resident Consent Requirement:** All SAZ establishment paths require demonstrated resident consent through referendum (Section 2.6). Party agreement or guarantor endorsement cannot substitute for resident consent. This requirement ensures that SAZs are not imposed on unwilling populations.
+**Resident Consent Requirement:** All SAZ establishment paths require demonstrated resident consent through plebiscite (Section 2.6). Party agreement or guarantor endorsement cannot substitute for resident consent. This requirement ensures that SAZs are not imposed on unwilling populations.
 
 ---
 
@@ -115,7 +115,7 @@ Step 2: Negotiation
 └── Transition procedures
 
 Step 3: Resident Consent (see Section 2.6)
-├── Referendum conducted in proposed SAZ territory
+├── Plebiscite conducted in proposed SAZ territory
 ├── Thresholds: 50% participation, 55% approval, 30% minimum in each community
 ├── If thresholds not met: process halts; may be re-attempted after 24 months
 └── If thresholds met: proceed to agreement
@@ -141,14 +141,14 @@ Step 5: Implementation
 |---------|----------|
 | **Offering party** | Designates territory willing to place under SAZ governance |
 | **Acceptance** | Other party accepts access for its population without conceding sovereignty |
-| **Resident consent** | Referendum required per Section 2.6 (same thresholds as bilateral model) |
+| **Resident consent** | Plebiscite required per Section 2.6 (same thresholds as bilateral model) |
 | **Governance** | MCF institutions exercise governance authority |
-| **Security** | Guarantors provide security; demilitarization from both parties |
+| **Security** | Guarantors provide security; demilitarization by Israel and the relevant Palestinian authority |
 | **Legal status** | Sovereignty dispute explicitly unresolved; administrative authority transferred |
 
 This model allows SAZ establishment without requiring agreement on sovereignty.
 
-**Resident Consent in Unilateral Model:** Even when one party offers territory unilaterally, residents must approve via referendum before SAZ establishment proceeds. Offering party's willingness does not substitute for resident consent.
+**Resident Consent in Unilateral Model:** Even when one party offers territory unilaterally, residents must approve via plebiscite before SAZ establishment proceeds. Offering party's willingness does not substitute for resident consent.
 
 ### 2.4 Community Petition Model
 
@@ -163,18 +163,18 @@ Requirements for community petition:
 | **Geographic coherence** | Proposed territory is contiguous and viable |
 | **Feasibility** | JSVC determines operational feasibility |
 | **Party non-objection** | Neither party actively blocks (silence = non-objection after 90 days) |
-| **Referendum confirmation** | Successful referendum per Section 2.6 required after petition |
+| **Plebiscite confirmation** | Successful plebiscite per Section 2.6 required after petition |
 
 **Per-Community Threshold Rationale:** The 30% per-community minimum prevents majoritarian capture where one community's supermajority support could impose SAZ status over another community's opposition. Both communities must demonstrate meaningful support.
 
-**Petition-to-Referendum Process:**
+**Petition-to-Plebiscite Process:**
 
 1. Petition submitted with verified signatures and community breakdown
 2. JSVC verifies thresholds and feasibility
 3. 90-day party objection period
-4. If no objection: referendum conducted per Section 2.6
+4. If no objection: plebiscite conducted per Section 2.6
 5. If active objection filed: blocked-petition escalation (see below)
-6. Referendum thresholds apply (50% participation, 55% approval, 30% per-community)
+6. Plebiscite thresholds apply (50% participation, 55% approval, 30% per-community)
 
 **Blocked-Petition Escalation (Active Objection):**
 
@@ -185,14 +185,14 @@ The 90-day silence rule provides a non-objection pathway. When a central authori
 | **Objection documentation** | Day 0 | Central authority files written objection with stated grounds |
 | **Grounds review** | 30 days | Guarantor Forum reviews whether objection is based on substantive grounds (security, feasibility, legal) or is a political block without substantive basis |
 | **Mediation** | 30-120 days | If grounds are contestable: Guarantor Forum mediates between central authority and petitioning community |
-| **Mediation outcome** | Day 120 | If mediation succeeds: proceed to referendum with agreed modifications. If mediation fails: Guarantor Forum issues determination |
+| **Mediation outcome** | Day 120 | If mediation succeeds: proceed to plebiscite with agreed modifications. If mediation fails: Guarantor Forum issues determination |
 
 **Guarantor Forum Determination:**
 
 If mediation fails, the Guarantor Forum determines whether the central authority's objection constitutes:
 
 1. **Substantive objection** (legitimate security, feasibility, or legal concern): Petition is paused. Community may address concerns and re-petition after 12 months.
-2. **Non-substantive blocking** (political veto without demonstrated security, feasibility, or legal basis): Guarantor Forum may authorize the referendum to proceed under guarantor facilitation (Section 2.1), with the central authority's objection documented but not dispositive.
+2. **Non-substantive blocking** (political veto without demonstrated security, feasibility, or legal basis): Guarantor Forum may authorize the plebiscite to proceed under guarantor facilitation (Section 2.1), with the central authority's objection documented but not dispositive.
 
 **Non-Interference Conditionality:**
 
@@ -233,11 +233,11 @@ Each SAZ establishment agreement must grant the SAZ governing authority the righ
 
 This authority implements the [Off-Grid Primary Design](../07-economic-architecture/05-infrastructure-coordination.md) and [Satellite-First Connectivity](../07-economic-architecture/05-infrastructure-coordination.md) standards at the legal-framework level, ensuring SAZs have explicit treaty-based authorization for operational independence.
 
-### 2.6 Resident Consent Referendum
+### 2.6 Resident Consent Plebiscite
 
-**Purpose:** All SAZ establishment paths require demonstrated resident consent through referendum. This section defines the referendum requirements that apply to bilateral (Section 2.2), unilateral (Section 2.3), and community petition (Section 2.4) establishment paths.
+**Purpose:** All SAZ establishment paths require demonstrated resident consent through plebiscite. This section defines the plebiscite requirements that apply to bilateral (Section 2.2), unilateral (Section 2.3), and community petition (Section 2.4) establishment paths.
 
-**Referendum Thresholds:**
+**Plebiscite Thresholds:**
 
 | Threshold | Requirement | Rationale |
 |-----------|-------------|-----------|
@@ -251,9 +251,9 @@ This authority implements the [Off-Grid Primary Design](../07-economic-architect
 
 - Adult residents (18+) who have resided in proposed SAZ territory for ≥12 months
 - Both Israeli and Palestinian residents eligible regardless of citizenship or legal status
-- CMS status not required for referendum eligibility
+- CMS status not required for plebiscite eligibility
 
-**Referendum Administration:**
+**Plebiscite Administration:**
 
 | Element | Requirement |
 |---------|-------------|
@@ -264,14 +264,14 @@ This authority implements the [Off-Grid Primary Design](../07-economic-architect
 | **Observers** | International election observers required |
 | **Certification** | Guarantor certification of fairness required before result is binding |
 
-**Failed Referendum:**
+**Failed Plebiscite:**
 
 - If any threshold is not met, SAZ establishment halts
-- Re-referendum permitted after 24-month cooling-off period
-- Modified proposals (different boundaries, terms) may be subject to new referendum
-- Parties may not proceed with SAZ establishment without successful referendum
+- Re-plebiscite permitted after 24-month cooling-off period
+- Modified proposals (different boundaries, terms) may be subject to new plebiscite
+- Parties may not proceed with SAZ establishment without successful plebiscite
 
-**Referendum Question Format:**
+**Plebiscite Question Format:**
 
 > "Do you approve the establishment of a Special Administrative Zone in [defined territory] under the terms specified in the [Establishment Agreement / Proposal], for an initial term of [X] years?"
 
@@ -333,7 +333,7 @@ To prevent manipulation, automatic extension applies when:
 
 - **Cumulative cap:** No more than 10 years of automatic extensions total, regardless of triggering conditions
 - **Guarantor review:** All automatic extensions require guarantor review and certification every 12 months
-- **Resident consultation:** Extensions beyond 2 years require resident consultation (not binding referendum, but documented input)
+- **Resident consultation:** Extensions beyond 2 years require resident consultation (not binding plebiscite, but documented input)
 - **Party notification:** Parties must be notified within 30 days of any automatic extension trigger
 
 **Mutual Consent Remains Primary:** Automatic extensions are **exceptional measures** to prevent manipulation and protect residents. They do not replace the mutual consent requirement for ordinary renewal. Once extension conditions resolve, parties must either achieve mutual consent for renewal or proceed to termination.
@@ -494,13 +494,15 @@ Step 4: Maintenance
 
 **Core Principle:** Boundary modifications affect territory and therefore implicate the sovereignty non-prejudice commitment (Section 4.1). All boundary modifications require party consent to preserve this commitment.
 
+**Party Consent (Definition):** Party consent means **Israel + the relevant Palestinian authority (Gaza or West Bank)**. If a modification materially implicates both Palestinian territories, consent is expressed through the **Palestinian Joint Delegation**.
+
 Boundaries may be modified through:
 
 | Mechanism | Requirements | Consent Required |
 |-----------|--------------|------------------|
-| **Mutual agreement** | Both parties agree to modification | Party consent: both parties; Resident consent: affected area referendum |
-| **Community petition** | Affected residents petition for modification | Party consent: both parties (non-objection after 90 days); Resident consent: affected area referendum |
-| **Technical adjustment** | Minor corrections to demarcation (e.g., survey errors, infrastructure access) | Party consent: both parties; No referendum if <1% territory change |
+| **Mutual agreement** | Israel and the relevant Palestinian authority agree to modification | Party consent: Israel + relevant Palestinian authority; Resident consent: affected area plebiscite |
+| **Community petition** | Affected residents petition for modification | Party consent: Israel + relevant Palestinian authority (non-objection after 90 days); Resident consent: affected area plebiscite |
+| **Technical adjustment** | Minor corrections to demarcation (e.g., survey errors, infrastructure access) | Party consent: Israel + relevant Palestinian authority; No plebiscite if <1% territory change |
 | **Dispute resolution** | Arbitration resolves boundary ambiguities within original agreement | Party participation required; binding only on ambiguities, not expansions |
 
 **Prohibited:** "Operational necessity" determinations by MCF cannot authorize boundary modifications without party consent. MCF may recommend modifications, but implementation requires the consent requirements above.
@@ -509,9 +511,9 @@ Boundaries may be modified through:
 
 | Modification Type | Resident Consent Requirement |
 |-------------------|------------------------------|
-| SAZ expansion (adding territory) | Referendum in territory to be added; same thresholds as establishment |
-| SAZ contraction (removing territory) | Referendum in territory to be removed; 50% participation, simple majority |
-| Technical adjustment (<1% territory) | No referendum required |
+| SAZ expansion (adding territory) | Plebiscite in territory to be added; same thresholds as establishment |
+| SAZ contraction (removing territory) | Plebiscite in territory to be removed; 50% participation, simple majority |
+| Technical adjustment (<1% territory) | No plebiscite required |
 
 **Non-Prejudice Protection:** Boundary modifications do not alter the underlying sovereignty status. Modified boundaries are subject to the same non-prejudice provisions as original boundaries (Section 4.1).
 

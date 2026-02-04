@@ -6,7 +6,7 @@
 
 **Objective:** Probe framework failure modes under adversarial conditions and define containment responses.
 
-**Status:** Final Draft
+**Status:** Draft
 
 ---
 
@@ -482,6 +482,86 @@ Moderates get terrorized into silence; participation becomes a death sentence.
 - **Automatic escalation:** Intimidation patterns trigger guarantor attention and potential phase regression
 - **Protection-first expansion:** No new areas until protection infrastructure exists
 - **Survivor support:** Documented support for those who face consequences for participation
+
+---
+
+## Stress Test 11: Sustained Military Campaign (90+ Days)
+
+### Scenario
+
+A major military operation in Gaza (comparable to 2014 or 2023-2024 scale) continues for 90+ days. MCF infrastructure in the affected zone is physically destroyed or inaccessible. CMS holders are displaced. PCC corridors are closed. JSVC personnel are evacuated. The operation exceeds every time-limited cap in the shock-absorber protocols.
+
+### What MCF Confronts
+
+- All Tier 4 duration caps expire while hostilities continue
+- PCC infrastructure is physically damaged or destroyed
+- CMS holders are displaced from registered addresses
+- Employers in the affected zone cease operations
+- Communication infrastructure is degraded or destroyed
+- JSVC cannot access the affected zone for verification
+- International attention is focused on the humanitarian crisis, not MCF procedures
+
+### MCF Response
+
+**Phase 1: Tier 5 Activation (Day 1-7)**
+
+- Tier 4 caps reached; Tier 5 activates automatically
+- MCF contracts to core preservation functions
+- CMS database backed up to guarantor-hosted off-site facility
+- JSVC shifts to remote documentation (satellite imagery, open-source intelligence, witness testimony)
+- Guarantor reporting shifts to continuous mode
+- Anti-intimidation unit activates protection protocols for at-risk CMS holders
+
+**Phase 2: Core Preservation (Day 7-90)**
+
+- CMS status maintained for all holders in affected zone
+- Remote verification documentation continues
+- Guarantor diplomatic engagement intensifies
+- Humanitarian documentation feeds into international accountability mechanisms
+- Employment protections clock runs (90-day retroactive guarantee)
+- MCF operations continue normally in unaffected zones (geographic differentiation)
+
+**Phase 3: Extended Preservation (Day 90+)**
+
+- 90-day employment retroactive guarantee expires; losses documented for compensation
+- Regression assessment initiated per Tier 5 interaction rules
+- Reconstitution planning begins (does not wait for cessation of hostilities)
+- Pre-positioned supplies and personnel identified for rapid reactivation
+- CMS holder welfare tracking continues through available channels
+
+**Phase 4: Reconstitution (Post-Cessation)**
+
+- Reconstitution sequence activated per priority order
+- Damage assessment of MCF infrastructure
+- CMS holder welfare checks
+- Expedited grievance processing for conflict-period claims
+- Phase status assessment: can current phase conditions be rebuilt, or has regression occurred?
+
+### What MCF Cannot Do
+
+- Prevent or shorten the military operation
+- Maintain normal operations in a war zone
+- Guarantee physical safety of CMS holders during active hostilities
+- Prevent infrastructure destruction
+- Force JSVC access during operations
+
+### What MCF Preserves
+
+- Institutional continuity (databases, records, legal standing)
+- CMS holder status and future claims
+- Documentation for accountability
+- Operations in unaffected zones
+- Framework for rapid reconstitution when conditions allow
+
+### Key Lesson
+
+MCF is designed to survive war, not to operate normally during one. The honest acknowledgment that procedural infrastructure becomes inoperable during sustained military operations--combined with a defined path back to operations afterward--is more credible than pretending the framework can function under bombardment. Credibility is maintained by having planned for this scenario, not by claiming immunity to it.
+
+### References
+
+- [Shock-Absorber Protocols: Tier 5](../01-phase-0-institutions/04-shock-absorber-protocols.md)
+- [Phase Regression](03-phase-regression.md)
+- [Stress Test 2: Israeli Military Operation](#stress-test-2-major-israeli-operation-causes-high-civilian-casualties) (comparison)
 
 ---
 

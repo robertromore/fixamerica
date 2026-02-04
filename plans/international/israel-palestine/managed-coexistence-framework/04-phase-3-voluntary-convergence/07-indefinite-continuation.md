@@ -6,7 +6,7 @@
 
 **Objective:** Define sustainable operations if MCF continues indefinitely without end-state transition.
 
-**Status:** Final Draft
+**Status:** Draft
 
 ---
 

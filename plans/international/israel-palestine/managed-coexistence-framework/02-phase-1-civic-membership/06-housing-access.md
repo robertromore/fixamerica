@@ -6,7 +6,7 @@
 
 **Objective:** Enable CMS holders to access housing across community boundaries while respecting property rights, demographic sensitivities, and non-prejudice principles.
 
-**Status:** Final Draft
+**Status:** Draft
 
 ---
 

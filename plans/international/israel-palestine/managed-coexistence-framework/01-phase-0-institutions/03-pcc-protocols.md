@@ -4,7 +4,7 @@
 
 **Phase:** Phase 0 onwards
 
-**Status:** Final Draft
+**Status:** Draft
 
 ---
 
@@ -85,6 +85,16 @@ A facility, conduit, or system may be designated as a PCC if it meets ALL of the
 - Party notification (consent not required)
 - Operational plan approved
 - Monitoring system in place
+
+**Non-Cooperation Fallback**
+
+PCC designation does not require party consent, but PCC operation still depends on access to existing infrastructure. If an operator or party refuses monitoring or access:
+
+- JSVC documents the obstruction and issues a public non-cooperation notice within 7 days
+- PCC shifts to **Provisional Status** with remote/third-party monitoring where feasible
+- Guarantor coordination engages within 14 days to restore access
+- Continued refusal beyond 30 days is treated as PCC obstruction under the Spoiler Response Protocols
+- PCC benefits may be narrowed to functions that can be verified without direct operator access
 
 ### 1.3 PCC Characteristics
 

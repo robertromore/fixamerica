@@ -169,7 +169,7 @@ In the diaspora engagement framework, add: "CMS-D is a formally defined subtype 
 
 **Severity:** Medium
 
-**Problem:** Phase 1 overview (line 15) says Phase 1 "does not require...mutual governmental agreement." CMS vetting (lines 127-128) covers "Security service records (both parties, with appropriate access agreements)" with no fallback described for non-cooperation. The CMS Vetting Unit makes "independent determinations" (line 143), but the document does not describe what happens when party records are unavailable.
+**Problem:** Phase 1 overview (line 15) says Phase 1 "does not require...mutual governmental agreement." CMS vetting (lines 127-128) covers "Security service records (Israeli and relevant Palestinian authority, with appropriate access agreements)" with no fallback described for non-cooperation. The CMS Vetting Unit makes "independent determinations" (line 143), but the document does not describe what happens when party records are unavailable.
 
 **Files:**
 
@@ -344,7 +344,7 @@ The external review overstated this by claiming the CRC "supersedes local law" g
 
 **Recommendation:** Two options:
 
-1. **Require enabling legislation:** Add explicit acknowledgment that CRC binding authority within SAZs requires enabling legislation from both parties as part of SAZ establishment consent. This is already implicitly required (party consent for SAZ includes legal framework), but should be stated explicitly.
+1. **Require enabling legislation:** Add explicit acknowledgment that CRC binding authority within SAZs requires enabling legislation from Israel and the relevant Palestinian authority (or Palestinian Joint Delegation if both territories are implicated) as part of SAZ establishment consent. This is already implicitly required (party consent for SAZ includes legal framework), but should be stated explicitly.
 2. **Restructure to advisory authority with practical supremacy:** Change "binding on national courts" to a model where CRC Review Panel opinions are authoritative within SAZ jurisdiction, national courts defer as a matter of comity (not binding authority), and guarantor enforcement provides the backstop if national courts override CRC protections. This avoids the constitutional confrontation while achieving the same practical result.
 
 Option 2 is more realistic. Option 1 may be technically cleaner but politically harder to achieve.

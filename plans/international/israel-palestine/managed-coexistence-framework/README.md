@@ -141,10 +141,15 @@ managed-coexistence-framework/
     ├── 14-stress-testing.md
     └── 15-concrete-scenarios/          # Detailed crisis walkthroughs
         ├── 00-overview.md
-        └── 01-rocket-barrage-hospital.md
+        ├── 01-rocket-barrage-hospital.md
+        ├── 02-settler-violence.md
+        ├── 03-gaza-blockade-tightening.md
+        ├── 04-assassination-moderate-leader.md
+        ├── 05-information-warfare.md
+        └── 06-guarantor-reversal.md
 ```
 
-**Total:** 75 documents across 10 directories
+**Total:** 80 documents across 10 directories
 
 ---
 

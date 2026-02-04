@@ -4,7 +4,7 @@
 
 **Phase:** Phase 2 onwards
 
-**Status:** Final Draft
+**Status:** Draft
 
 ---
 
@@ -264,7 +264,7 @@ SAZ-specific expansions:
 
 An SAZ may **never** reduce the CRC floor:
 
-- No SAZ legislation or referendum can override CRC
+- No SAZ legislation or plebiscite can override CRC
 - No emergency within SAZ suspends non-derogable rights
 - No SAZ governance restructuring eliminates CRC application
 
@@ -360,7 +360,7 @@ When CRC and national constitutional provisions conflict:
 3. National court review is limited to constitutional overlay (whether the CRC application also implicates national constitutional rights)
 4. CRC Review Panel interpretation of CRC provisions is authoritative within the jurisdiction of the SAZ and binding upon MCF institutions. National courts are requested to grant comity to Review Panel findings within the scope of SAZ operations. Where national courts decline comity and override CRC protections within SAZ territory, guarantor enforcement mechanisms provide the backstop (see [Guarantor Architecture](../04-guarantor-architecture/00-overview.md))
 
-**Legal Basis:** CRC authority within SAZs derives from the SAZ establishment agreements, which require enabling consent from both parties. SAZ establishment consent implicitly includes acceptance of the CRC legal framework. The specific form of enabling legislation or executive authorization is a matter for each party's domestic legal process, to be resolved during SAZ establishment negotiations.
+**Legal Basis:** CRC authority within SAZs derives from the SAZ establishment agreements, which require enabling consent from Israel and the relevant Palestinian authority (or the Palestinian Joint Delegation if both territories are implicated). SAZ establishment consent implicitly includes acceptance of the CRC legal framework. The specific form of enabling legislation or executive authorization is a matter for each party's domestic legal process, to be resolved during SAZ establishment negotiations.
 
 See [SAZ Legal Framework Section 7.5](01-saz-legal-framework.md#75-appellate-review-of-saz-court-decisions) for full appellate procedure.
 
