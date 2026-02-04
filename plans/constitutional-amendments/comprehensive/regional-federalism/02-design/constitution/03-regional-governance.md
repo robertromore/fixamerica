@@ -335,6 +335,71 @@ Upon expiration of the acting period under subsection (b) without a confirmed of
 
 ---
 
+### Section 4-D. Confirmation Integrity and Institutional Continuity
+
+*Addresses Gap 90: The Senate "Blue-Slipping" of Constitutional Officers. Establishes holdover authority, qualification standards, serial rejection anti-gaming, and confirmation obstruction detection to prevent depopulation of constitutional institutions through strategic confirmation blocking.*
+
+(a) **Holdover Authority.** Members of Constitutional Oversight Bodies established by this Constitution, including the Allocation Review Board and the Independent Fiscal Council:
+
+- (1) May continue to serve beyond the expiration of their term until a successor has been confirmed or deemed confirmed under Section 4-B, provided holdover service does not exceed one (1) year beyond term expiration;
+- (2) During holdover service, the member retains full authority to participate in deliberations, vote, and exercise all powers of the position;
+- (3) Holdover service counts toward quorum calculations as if the member's term had not expired;
+- (4) Holdover authority terminates upon the earlier of: (i) a successor taking office; (ii) the expiration of one year beyond term expiration; or (iii) the member's death, resignation, removal for cause, or incapacity;
+- (5) If holdover authority expires without a successor in place, the vacancy provisions of Section 4-C apply, including temporary appointment by the Chief Justice under Section 4-C(e)(2);
+- (6) When a vacancy exists or holdover service commences under this subsection, the appointing authority shall submit a nomination within thirty (30) calendar days. Failure to nominate within this period does not extend or terminate holdover authority but shall be publicly reported by the Clerk of the Senate and transmitted to each Regional legislature.
+
+(b) **Qualification Standards.** Nominees to Constitutional Oversight Bodies established by this Constitution:
+
+- (1) Must meet objective qualification criteria established by law for the specific position, which shall include minimum standards of professional experience, educational attainment, and demonstrated expertise relevant to the body's constitutional functions;
+- (2) Must not have a disqualifying conflict of interest, as defined by law, with the constitutional functions of the body to which they are nominated;
+- (3) Prior to committee hearings, a Constitutional Oversight Body other than the one to which the nominee is designated shall certify whether the nominee meets the objective qualification criteria established under paragraph (1). The certifying body shall be: for nominations to the Allocation Review Board, the National Election Court; for nominations to the National Election Court, the Allocation Review Board; and for other Constitutional Oversight Bodies, as designated by law or, absent statutory designation, the Allocation Review Board. The certifying body shall issue its certification within twenty-one (21) calendar days of the date of nomination. If the certifying body fails to act within twenty-one days or lacks a quorum to act, the nominee is deemed certified as meeting the qualification criteria. This certification is advisory and does not bind the Senate, but a Senate rejection of a certified-qualified nominee — including a nominee deemed certified under this paragraph — counts as an unreasoned rejection for purposes of subsection (c) unless the rejection statement under paragraph (4) identifies specific qualification deficiencies not addressed by or not considered in the certification;
+- (4) The Senate may reject a nominee for failure to meet qualification standards under paragraph (1), documented ethical violations, or disqualifying conflicts of interest under paragraph (2). The Senate's vote to reject shall be accompanied by a public written statement specifying the basis for rejection from among these categories;
+- (5) The written statement requirement under paragraph (4) is a transparency obligation. Failure to issue a written statement does not invalidate a rejection vote, but an unreasoned rejection counts toward the serial rejection threshold under subsection (c).
+
+(c) **Serial Rejection Anti-Gaming.** If the Senate rejects two or more consecutive nominees for the same position on a Constitutional Oversight Body:
+
+- (1) Upon the second consecutive rejection, the confirmation period under Section 4-B(b) for the next nominee for that position reduces from ninety (90) to sixty (60) calendar days;
+- (2) Upon the third consecutive rejection, the confirmation period for the next nominee for that position is forty-five (45) calendar days from the date of nomination. If the Senate does not vote to reject within this period, the nominee is deemed confirmed by operation of this subsection without reference to the timelines of Section 4-B(b). A rejection vote within the forty-five-day period is valid only if the rejection statement under subsection (b)(4) cites specific qualification deficiencies, documented ethical violations, or disqualifying conflicts of interest — a rejection without such specification is void;
+- (3) A rejection vote that fails to meet the requirements of paragraph (2) does not interrupt deemed confirmation under this subsection, and the nominee takes office on the forty-sixth (46th) calendar day;
+- (4) For purposes of this subsection, "consecutive rejections" means rejections of different nominees for the same position. Renomination of a previously rejected individual does not reset the consecutive rejection count;
+- (5) The consecutive rejection count resets upon: (i) a nominee being confirmed or deemed confirmed for the position; (ii) a change in the office of President or, for positions appointed by other authorities, a change in the appointing authority; or (iii) the commencement of a new Congress.
+
+(d) **Named Procedural Prohibitions.** In addition to the procedural protections established in Section 4-B(b)(iv) and (c)(iv):
+
+- (1) No Senate rule, tradition, custom, or practice — including "blue-slip" objections, "courtesy holds," anonymous holds, or any procedure by which a single Senator or group of Senators from the nominee's home Region may prevent or delay committee hearings — may be applied to delay, prevent, or condition committee hearings or floor votes on nominations to Constitutional Oversight Bodies or judicial positions created by this Constitution;
+- (2) Paragraph (1) does not restrict individual Senators from voting against a nominee or from publicly stating objections to a nominee. The prohibition applies to procedural mechanisms that prevent a vote from occurring, not to the exercise of voting rights;
+- (3) All votes to reject nominees to Constitutional Oversight Bodies or judicial positions created by this Constitution shall be by recorded roll-call vote. Voice votes, division votes, or any other voting method that does not produce a public record of each Senator's individual vote are not valid for rejection of such nominees;
+- (4) This subsection is self-executing. Any Senate rule inconsistent with this subsection is void ab initio as applied to nominations covered by this section.
+
+(e) **Confirmation Obstruction Finding.** The Allocation Review Board, or the National Election Court for nominations to its own membership, may find confirmation obstruction if:
+
+- (1) The Senate has rejected three or more consecutive qualified nominees for the same position and the rejection statements under subsection (b)(4) do not cite specific qualification deficiencies, documented ethical violations, or disqualifying conflicts of interest;
+- (2) Vacancies on a Constitutional Oversight Body have exceeded the body's quorum threshold for more than one hundred eighty (180) consecutive calendar days due to Senate inaction or serial rejection;
+- (3) A pattern of confirmation delay or rejection demonstrates that the purpose is to prevent the constitutional body from functioning rather than to exercise the Senate's legitimate qualitative check on nominees;
+- (4) The obstruction finding shall be adopted by a majority vote of the non-vacant members of the finding body, provided that no fewer than three (3) members participate in the vote. If the finding body has fewer than three non-vacant members, the Chief Justice of the National Constitutional Court may make the obstruction finding upon petition by any non-vacant member of the affected body, the President, or any Regional legislature. The finding shall be published in the Federal Register and transmitted to the President, the Senate, and the public;
+- (5) An obstruction finding under this subsection is subject to expedited judicial review before the National Constitutional Court, limited to procedural regularity — including whether the finding body met the quorum requirement of paragraph (4) and whether the factual predicates of paragraphs (1) through (3) were facially satisfied. The Court shall render its decision within thirty (30) calendar days of the petition for review. Substantive review of whether the Senate's rejections constituted obstruction is not available under this paragraph.
+
+(f) **Obstruction Consequences.** Upon a finding of confirmation obstruction under subsection (e):
+
+- (1) The confirmation period under Section 4-B(b) reduces to sixty (60) calendar days for all pending and future nominees to the affected body, until the body has reached full authorized membership or until two years have elapsed from the finding, whichever is earlier;
+- (2) The named procedural prohibitions of subsection (d) extend to all Senate proceedings related to nominations to the affected body, including committee scheduling, witness selection, and document production;
+- (3) The Senate may not invoke the removal safety valve of Section 4-B(f) against any nominee deemed confirmed during the obstruction period;
+- (4) The finding shall be transmitted to each Regional legislature whose Senators voted to reject the nominees identified in the obstruction finding, and shall be a matter of public record that may not be sealed, expunged, or classified.
+
+(g) **Regional Accountability.** When a confirmation obstruction finding under subsection (e) identifies Senators whose votes constituted the majority of rejection votes:
+
+- (1) The finding shall identify the Regions represented by those Senators;
+- (2) The identified Regions' delegations shall be publicly noted in the finding, and the finding shall be transmitted to each identified Region's legislature and chief executive;
+- (3) This subsection imposes no legal penalty on the identified Senators or Regions beyond disclosure. Regional electorates and legislatures may exercise their own accountability mechanisms.
+
+(h) **Coordination.** This section complements and shall be construed in coordination with:
+
+- (1) Section 4-B (Mandatory Confirmation Procedures) — the timelines established in this section modify the default timelines of Section 4-B where this section provides shorter deadlines. Where a specific provision of this Constitution establishes a confirmation timeline shorter than those in this section, that provision controls;
+- (2) Section 4-C (Acting Official Limitations) — holdover authority under subsection (a) does not extend or modify the time limits on acting officials under Section 4-C. Holdover and acting service are separate mechanisms: holdover applies to members whose terms have expired, while acting service applies to persons serving in an acting capacity for a vacant position;
+- (3) Article VII, Section 8(l) (Appointment and Removal Freeze) — during Caretaker Governance, the restrictions of Article VII, Section 8(l) apply in addition to this section. Holdover authority under subsection (a) continues during Caretaker Governance but does not permit new appointments or confirmations that are frozen under Section 8(l).
+
+---
+
 ### Section 5. Federal Lawmaking
 
 (a) Bills within enumerated federal powers may be introduced in the House of Representatives.

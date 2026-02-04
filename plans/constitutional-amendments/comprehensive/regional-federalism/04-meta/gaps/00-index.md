@@ -233,7 +233,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 79 | Executive caretaker perpetualism | Medium | ✅ Resolved |
 | 87 | Civil service protection and political interference | Medium | Partially Mitigated |
 | 89 | Audit authority and oversight coordination | Medium | Partially Mitigated |
-| 90 | Senate blue-slipping of constitutional officers | Medium | Proposal Available |
+| 90 | Senate blue-slipping of constitutional officers | Medium | ✅ Resolved |
 | 97 | Regulatory capture at regional level | Medium | Requires Monitoring |
 | 100 | Hollow Region via legislative absence | Medium | Proposal Available |
 | 106 | Senate quorum trap for federal emergency inaction | Medium | Proposal Available |

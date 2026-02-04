@@ -2,7 +2,7 @@
 
 **Note**: This changelog has been reorganized by date. See the `changelog/` directory for detailed entries:
 
-- [`changelog/2026-02-03.md`](changelog/2026-02-03.md) - Latest changes (triage fix + Gap 67/75 resolution + Gap 128/132/142 resolution + Gap 92/116 resolution + Gap 99 resolution + Gap 104 resolution + Gap 109 resolution + Gap 56 resolution + Gap 79 resolution + Gap 118 resolution)
+- [`changelog/2026-02-03.md`](changelog/2026-02-03.md) - Latest changes (triage fix + Gap 67/75 resolution + Gap 128/132/142 resolution + Gap 92/116 resolution + Gap 99 resolution + Gap 104 resolution + Gap 109 resolution + Gap 56 resolution + Gap 79 resolution + Gap 118 resolution + Gap 90 resolution)
 - [`changelog/2026-02-02.md`](changelog/2026-02-02.md) - Gap resolutions (199, 13, index triage)
 - [`changelog/2026-02-01.md`](changelog/2026-02-01.md) - Gap resolutions (220, 219, 216, etc.)
 - [`changelog/2026-01-31.md`](changelog/2026-01-31.md) - Gap resolutions and verifications
@@ -12,6 +12,20 @@
 - [`changelog/2026-01-26.md`](changelog/2026-01-26.md) - Territorial integration incentives
 - [`changelog/2026-01-25.md`](changelog/2026-01-25.md) - Major integration work
 - [`changelog/2026-01-24.md`](changelog/2026-01-24.md) - Historical development
+
+## 2026-02-03: Gap 90 — Senate Blue-Slipping of Constitutional Officers Resolved (Article IV §4-D)
+
+One institutional governance gap resolved via multi-LLM protocol (v1 → 2 review rounds → v3 FINAL) through new Section 4-D (Confirmation Integrity and Institutional Continuity) in Article IV (Federal Governance Procedures), Section 4 (Senate Powers). Gap 90 (Senate Blue-Slipping): all 12 gaming vectors closed. §4-D(a) 1-year holdover authority with 30-day nomination deadline. §4-D(b) statutory qualification standards with cross-body certification (ARB↔NEC, 21-day deadline, deemed-certified default, ARB as constitutional default certifier). §4-D(c) escalating serial rejection anti-gaming (2nd → 60 days, 3rd → self-contained 45-day deemed confirmation independent of §4-B timing). §4-D(d) named procedural prohibitions (blue-slip, courtesy holds, anonymous holds voided) + recorded roll-call vote requirement + self-executing. §4-D(e) obstruction finding by ARB/NEC (3-member minimum, Chief Justice backstop, expedited 30-day judicial review limited to procedural regularity). §4-D(f) obstruction consequences (60-day clock, safety valve suspension). §4-D(g) regional accountability (disclosure only). §4-D(h) coordination with §4-B, §4-C, Art VII §8(l).
+
+### Files Modified
+
+- `02-design/constitution/03-regional-governance.md` — Art IV §4-D added: 8 subsections (a)-(h)
+- `02-design/drafts/gap-090-senate-blue-slipping.md` — Draft file (v3 FINAL)
+- `04-meta/gaps/11-institutional-governance.md` — Gap 90: PROPOSAL AVAILABLE to RESOLVED
+- `04-meta/gaps/00-index.md` — Gap 90 status updated
+- `04-meta/02-identified-gaps.md` — Statistics: PA 14 to 13, Resolved 162 to 163
+
+**Status:** RESOLVED | **Detail:** [changelog/2026-02-03.md](changelog/2026-02-03.md)
 
 ## 2026-02-03: Gap 118 — Caretaker Cabinet (Constitutional Shadow-Government) Resolved (Article VII §8)
 
