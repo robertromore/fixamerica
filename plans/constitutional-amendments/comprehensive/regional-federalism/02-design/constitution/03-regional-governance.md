@@ -1149,6 +1149,58 @@ The Court shall apply consistent standards across receiverships, and precedent f
 
 ---
 
+### Section 6. Inter-Level Civil Service Mobility and Protection
+
+**(a) Service Credit Portability.**
+
+- (1) All years of public service at any level of government — federal, Regional, or State — shall count toward seniority, leave accrual, tenure eligibility, and retirement eligibility at every other level. Service credits shall transfer automatically upon inter-level appointment. Retirement eligibility credit shall operate through the pension portability mechanics of Article I, Section 8; this paragraph does not create pension obligations independent of that section. Tenure eligibility based on transferred service credits does not exempt the employee from any probationary evaluation or performance review required by the receiving level for newly appointed employees at equivalent grade.
+- (2) The Independent Fiscal Council shall publish and maintain equivalence tables for grade, rank, step, and seniority across federal, Regional, and State civil service systems. No level of government may impose grade or step reductions upon an employee transferring from another level who held an equivalent position as determined by the IFC equivalence tables.
+- (3) An employee transferring between levels shall not experience a gap in health, disability, or life insurance coverage exceeding thirty (30) calendar days. The receiving level shall provide interim coverage during any administrative processing period. The cost of interim coverage shall be borne by the receiving level.
+- (4) Non-pension service credits — including accrued leave, sabbatical eligibility, professional development entitlements, and tenure-clock credit — shall transfer on the same basis as pension credits under Article I, Section 8. Upon transfer, the originating level shall remit to the receiving level the actuarial value of all transferred non-pension service credits, as calculated by the Independent Fiscal Council. The IFC shall publish standard actuarial tables for this purpose.
+
+**(b) Inter-Level Transfer Rights.**
+
+- (1) No level of government may penalize, retaliate against, or impose adverse employment consequences upon an employee for applying to, accepting, or performing service at another level of government.
+- (2) An employee who transfers to another level of government shall have the right to return to the originating level within twenty-four (24) months with restored seniority, grade, and step. If no position at equivalent grade is immediately available, the originating level shall reinstate the employee in a supernumerary capacity at equivalent grade for up to twelve (12) months while a permanent position is identified. Simultaneous supernumerary positions at any single agency shall not exceed two percent (2%) of the agency's authorized permanent positions; employees whose return would exceed this cap shall be placed directly on a priority reemployment list. If no permanent position materializes within twelve (12) months, the employee shall be placed on a priority reemployment list with preference over external candidates at equivalent grade.
+- (3) No level of government may impose non-compete clauses, mandatory waiting periods, or "cooling off" periods that restrict inter-level employment mobility.
+- (4) No level of government may require, as a condition of employment or continued employment, any attestation, oath, or agreement — other than the constitutional oath of office — that would preclude the employee from simultaneously holding credentials for service at another level or from applying for positions at another level. This prohibition does not preclude role-specific conflict-of-interest restrictions for employees with active operational access to classified intelligence sources and methods, employees exercising judicial authority, or employees with active procurement contracting authority, provided that such restrictions are limited to the duration of the specific role assignment and do not extend to general inter-level mobility upon reassignment or departure from the role.
+
+**(c) Security Clearance Reciprocity.**
+
+- (1) Security clearances issued by one level of government shall be recognized at all other levels for access to information at the same or lower classification level, provided that the issuing level adjudicates clearances under standards no less stringent than the corresponding federal standard. A receiving agency may require supplemental briefing for program-specific access but may not require re-investigation or new adjudication based solely on the employee's level of government employment. Disputes regarding clearance-standard equivalence shall be resolved by the National Constitutional Court.
+- (2) No security clearance may be revoked, suspended, or downgraded based on the employee's current or prior level of government employment, or on the employee's application for or acceptance of a position at another level.
+- (3) Inter-level clearance transfer processing shall be completed within thirty (30) calendar days of the employee's transfer. If the receiving level has not completed processing within thirty (30) days, the employee shall be granted interim access at the previously cleared level pending completion, unless the receiving level has documented, specific, and articulable grounds to believe that granting access would pose an immediate risk to national security or the safety of intelligence sources and methods. In such cases, the receiving level shall file a sealed statement with the National Constitutional Court within five (5) business days, and the Court shall review the hold within fifteen (15) calendar days. If the Court does not sustain the hold within fifteen (15) days, interim access shall be granted automatically.
+- (4) Classified information sharing agreements between levels of government shall not impose conditions that restrict inter-level employment mobility. Any such condition is void and unenforceable.
+
+**(d) Anti-Poaching and Administrative Capacity Protection.**
+
+- (1) The Independent Fiscal Council shall publish annual salary and total compensation benchmarks for equivalent positions across federal, Regional, and State civil service systems.
+- (2) Targeted recruitment by one level of government of employees from another level's defined agency or functional area is presumptively an act of administrative warfare if, within any twelve (12) month period, the recruiting level extends formal written offers of employment to more than ten percent (10%) of the target agency's or functional area's career workforce, and the recruitment is concentrated rather than incidental. For purposes of this paragraph: "career workforce" means full-time, non-political-appointment employees who have completed probationary service; "concentrated" means that the offers are directed at employees within the same agency, bureau, division, or functional specialty rather than distributed across the target level's civil service generally; and "incidental" means resulting from routine, publicly posted vacancy announcements without targeted outreach to the specific agency or functional area.
+- (3) The Allocation Review Board may investigate and adopt an "Administrative Warfare" finding where one level of government engages in a coordinated pattern of actions — including but not limited to targeted recruitment, clearance manipulation, funding conditions that require personnel restructuring, or regulatory actions targeting another level's employees — intended to or having the effect of materially degrading another level's administrative capacity.
+- (4) The ARB shall adopt an Administrative Warfare finding by majority vote of its non-vacant members, provided that no fewer than three (3) members participate in the vote.
+- (5) Upon an Administrative Warfare finding:
+    - (i) the ARB shall order the offending level to cease the identified conduct;
+    - (ii) the offending level shall compensate the affected level for documented recruitment and training costs incurred to replace lost personnel, calculated by the IFC;
+    - (iii) officials who knowingly directed or authorized the coordinated campaign shall be personally liable for damages and subject to referral for disciplinary proceedings at their level; an official is not personally liable under this clause for routine, non-coordinated hiring decisions made in the ordinary course of filling vacancies;
+    - (iv) the finding shall be published and reported to the relevant legislatures.
+- (6) An Administrative Warfare finding is subject to expedited judicial review before the National Constitutional Court, limited to procedural regularity and whether the factual predicates of paragraphs (2) and (3) were satisfied. The Court shall render its decision within thirty (30) calendar days of the petition for review.
+
+**(e) Intergovernmental Personnel Exchange.**
+
+- (1) Congress shall establish by law a voluntary Intergovernmental Personnel Exchange Program enabling temporary details of career employees between federal, Regional, and State agencies. Exchange details shall not exceed three (3) years unless renewed by mutual agreement.
+- (2) An employee on inter-level exchange shall retain home-level benefits, seniority accrual, retirement contributions, and all protections of this section. The exchange employee shall be subject to the workplace rules and supervision of the host agency for operational purposes.
+- (3) Exchange service shall count toward career advancement, professional development requirements, and tenure at the home level on the same basis as home-level service.
+- (4) In a declared emergency under Article XVII or equivalent Regional/State authority, any level of government may request personnel assistance from other levels. Responding employees retain all protections of this section and shall not be deemed to have transferred for purposes of subsection (b)(2).
+
+**(f) Coordination.**
+
+- (1) This section supplements the merit system protections of Article II, Section 11. Where both sections apply to the same employee, the more protective provision governs.
+- (2) The pension and benefit portability provisions of Article I, Section 8 apply independently of this section. This section extends portability to non-pension service credits not covered by Article I, Section 8.
+- (3) The professional licensing protections of Article I, Sections 9 and 14 apply independently of this section. This section extends reciprocity to security clearances, which are not covered by Article I, Sections 9 or 14.
+- (4) No provision of this section shall be construed to override the political appointment ceiling of Article II, Section 11(b) at the federal level. Regional and State governments shall establish by their constitutions or by law a ceiling on political appointments that ensures a merit-protected career civil service. The maximum ratio of political appointments to total civilian government positions at each Regional or State level shall not exceed the ratio that Article II, Section 11(b) establishes at the federal level, as calculated by the Independent Fiscal Council based on the federal ceiling and total federal civilian workforce. Regions and States may structure their political appointments differently from the federal model provided they meet this minimum merit-protection floor.
+
+---
+
 ## ARTICLE VI - FOREIGN AFFAIRS AND REGIONAL LIMITATIONS
 
 ### Section 4. The One Voice Doctrine

@@ -2,7 +2,7 @@
 
 **Note**: This changelog has been reorganized by date. See the `changelog/` directory for detailed entries:
 
-- [`changelog/2026-02-04.md`](changelog/2026-02-04.md) - Latest changes (Gap 125 resolution)
+- [`changelog/2026-02-04.md`](changelog/2026-02-04.md) - Latest changes (Gap 125, Gap 70 resolutions)
 - [`changelog/2026-02-03.md`](changelog/2026-02-03.md) - Gap resolutions (67/75, 128/132/142, 92/116, 99, 104, 109, 56, 79, 118, 90, 106)
 - [`changelog/2026-02-02.md`](changelog/2026-02-02.md) - Gap resolutions (199, 13, index triage)
 - [`changelog/2026-02-01.md`](changelog/2026-02-01.md) - Gap resolutions (220, 219, 216, etc.)
@@ -25,6 +25,20 @@ One intergovernmental gap resolved via multi-LLM protocol (v1 → 2 review round
 - `04-meta/gaps/13-intergovernmental.md` — Gap 125: PROPOSAL AVAILABLE to RESOLVED
 - `04-meta/gaps/00-index.md` — Gap 125 status updated
 - `04-meta/02-identified-gaps.md` — Statistics: PA 12 to 11, Resolved 164 to 165
+
+**Status:** RESOLVED | **Detail:** [changelog/2026-02-04.md](changelog/2026-02-04.md)
+
+## 2026-02-04: Gap 70 — Administrative Attrition via Civil Service Purge Resolved (Article V §6)
+
+One institutional governance gap resolved via multi-LLM protocol (v1 → 2 review rounds → v3 FINAL) through new Section 6 (Inter-Level Civil Service Mobility and Protection) in Article V (Executive Branch). Gap 70 (Administrative Attrition): all 18 gaming vectors closed. Original four-part proposal narrowed to six subsections after pre-existing coverage analysis (Art I §8 pensions, Art I §9/§14 licensing, Art II §11 merit system). §6(a) service credit portability (IFC equivalence tables, actuarial liability transfer, local probation, retirement eligibility via Art I §8). §6(b) inter-level transfer rights (24-month return, 12-month supernumerary with 2% cap, no non-compete/loyalty tests, 3-role conflict-of-interest carve-out). §6(c) security clearance reciprocity (federal-standard floor, 30-day processing, NCC sealed security hold review, void mobility-restricting conditions). §6(d) anti-poaching (IFC benchmarks, 10% rebuttable presumption with defined terms, ARB Administrative Warfare finding with personal liability and mens rea). §6(e) intergovernmental personnel exchange (3-year details, emergency assistance). §6(f) coordination (supplements Art II §11, extends Art I §8/§9/§14, IFC-calculated merit-protection ratio).
+
+### Files Modified
+
+- `02-design/constitution/03-regional-governance.md` — Art V §6 added: 6 subsections (a)-(f)
+- `02-design/drafts/gap-070-administrative-attrition.md` — Draft file (v3 FINAL)
+- `04-meta/gaps/11-institutional-governance.md` — Gap 70: PROPOSAL AVAILABLE to RESOLVED
+- `04-meta/gaps/00-index.md` — Gap 70 status updated
+- `04-meta/02-identified-gaps.md` — Statistics: PA 11 to 10, Resolved 165 to 166
 
 **Status:** RESOLVED | **Detail:** [changelog/2026-02-04.md](changelog/2026-02-04.md)
 
