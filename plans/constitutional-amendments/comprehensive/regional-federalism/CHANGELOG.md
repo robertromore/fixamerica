@@ -2,7 +2,7 @@
 
 **Note**: This changelog has been reorganized by date. See the `changelog/` directory for detailed entries:
 
-- [`changelog/2026-02-03.md`](changelog/2026-02-03.md) - Latest changes (triage fix + Gap 67/75 resolution + Gap 128/132/142 resolution + Gap 92/116 resolution + Gap 99 resolution + Gap 104 resolution + Gap 109 resolution + Gap 56 resolution)
+- [`changelog/2026-02-03.md`](changelog/2026-02-03.md) - Latest changes (triage fix + Gap 67/75 resolution + Gap 128/132/142 resolution + Gap 92/116 resolution + Gap 99 resolution + Gap 104 resolution + Gap 109 resolution + Gap 56 resolution + Gap 79 resolution)
 - [`changelog/2026-02-02.md`](changelog/2026-02-02.md) - Gap resolutions (199, 13, index triage)
 - [`changelog/2026-02-01.md`](changelog/2026-02-01.md) - Gap resolutions (220, 219, 216, etc.)
 - [`changelog/2026-01-31.md`](changelog/2026-01-31.md) - Gap resolutions and verifications

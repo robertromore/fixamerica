@@ -1083,7 +1083,19 @@ Article 8.3 of the Elections document provides for "caretaker governments" to co
 - **Gap 68 (Succession Vacuum):** Emergency succession; Gap 79 addresses manufactured dispute succession
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to the Elections article, Section 8.3. This four-part solution establishes a hard 60-day caretaker termination with succession to non-candidate officials, penalizes manufactured disputes through sanctions and serial litigation findings, limits emergency powers during caretaker status, and creates criminal accountability for refusal to vacate.
+**RESOLVED.** Integrated into Article VII (Elections and Democratic Legitimacy), Section 8 (Caretaker Governance) via modified §8(c)(4)(v), new §8(f)(6), and new subsections §8(i)-(k). Drafted via multi-LLM protocol: v1 → Round 1 review (2 reviewers, 8 findings: 0 convergent, 1 complementary, 7 single-reviewer) → v2 → Round 2 review (2 reviewers, 4 findings: all surgical fixes) → v3 (FINAL) → integration.
+
+| Gaming Vector | Resolution |
+|---|---|
+| Termination extension via emergency/judicial/executive action | §8(c)(4)(v) — absolute non-extension clause |
+| Serial litigation to delay certification | §8(f)(6) — NEC consolidation with jurisdictional transfer, re-litigation as prima facie indicator, linked to obstruction |
+| Emergency powers abuse during caretaker period | §8(i) — legislative concurrence with 48-hour grace, court certification coordination, prohibited uses, 14-day duration with anti-re-declaration, Committee explicitly bound |
+| Investigation as certification obstruction | §8(i)(4) — investigations cannot affect deadlines, successor may terminate |
+| Transition sabotage | §8(j) — Apparent Winner designation with NEC sole arbiter, classified briefing equivalence, anti-impairment, access revocation on change |
+| Refusal to vacate | §8(k)(1) — high crime, immediate removal by State/Regional Supreme Court, permanent bar, felony |
+| Post-termination orders | §8(k)(2) — void ab initio |
+| Subordinate dual loyalty / parallel government | §8(k)(3) — priority hierarchy with Committee, safe harbor, penalty for continued compliance |
+| Judicial stay of termination | §8(k)(4) — self-executing, non-stayable, 72-hour NEC review |
 
 ---
 

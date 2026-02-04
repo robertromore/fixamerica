@@ -244,6 +244,7 @@ This standalone constitutional amendment reforms the federal electoral system to
 - (ii) Governance transfers to the Temporary Executive Committee established by subsection (e);
 - (iii) If a Failure of Choice has been declared under subsection (h)(3), a special election shall proceed under subsection (h)(4);
 - (iv) If no Failure of Choice has been declared, the National Election Court shall issue a default certification under subsection (h)(2) within seven (7) days.
+- (v) This termination date may not be extended, stayed, or modified by any authority, including emergency declaration, judicial order, or executive action.
 
 #### External Confirmation
 
@@ -339,6 +340,14 @@ This standalone constitutional amendment reforms the federal electoral system to
 - (ii) Shall be considered in any subsequent obstruction finding under paragraph (2);
 - (iii) May result in a requirement that future challenges by the same party in the same dispute receive pre-approval from the National Election Court before filing.
 
+(6) **Serial Litigation Finding.** If the National Election Court determines that election challenges by a candidate, political party, or their agents constitute a coordinated pattern designed to delay certification rather than pursue legitimate legal claims:
+
+- (i) All pending challenges in the same dispute shall be transferred to the National Election Court, including any matters pending before State or Regional courts or tribunals, but excluding matters already pending before the Supreme Court, and consolidated for decision within seven (7) days;
+- (ii) No further challenges by that party may be filed without pre-approval under paragraph (5)(iii);
+- (iii) The finding shall be a matter of public record and shall be considered in any future disputes involving the same parties;
+- (iv) A Serial Litigation finding constitutes obstruction for purposes of paragraph (2);
+- (v) The filing of claims relying on facts or legal theories substantially identical to those previously rejected by a court of competent jurisdiction in the same election dispute constitutes prima facie evidence of a coordinated pattern under this paragraph.
+
 #### Caretaker-Specific Resolution Timeline
 
 (g) **Accelerated Resolution During Caretaker Governance.**
@@ -398,6 +407,78 @@ This standalone constitutional amendment reforms the federal electoral system to
 - (i) The State/Regional legislature shall elect the executive by a two-thirds (2/3) vote of a joint session;
 - (ii) If no candidate receives two-thirds support within fourteen (14) days, the Temporary Executive Committee shall serve until a special election can be held during the next general election cycle; if the next general election is more than one (1) year from the date the Committee assumed authority under subsection (c)(4), a mandatory special election shall be held within one (1) year of that date;
 - (iii) This terminal fallback is final and not subject to further extension or modification.
+
+#### Caretaker and Committee Emergency Limitations
+
+(i) **Caretaker and Committee Emergency Limitations.**
+
+(1) **Legislative Concurrence Required.** During caretaker governance or Temporary Executive Committee governance under this section, emergency declarations by the Caretaker Executive or Temporary Executive Committee shall require the written concurrence of the presiding officer of the State/Regional legislature. Where the legislature has two chambers, concurrence of both presiding officers is required. This requirement is in addition to, and does not replace, any court certification requirement under subsection (c). Where both court certification and legislative concurrence are required, the forty-eight (48) hour exception under subparagraph (A) applies only to the legislative concurrence requirement.
+
+(A) **Immediate Response Exception.** The Caretaker Executive or Temporary Executive Committee may declare an emergency and exercise emergency powers for a period not to exceed forty-eight (48) hours without legislative concurrence, provided the declaration is immediately transmitted to the presiding officers of the State/Regional legislature. Continuation beyond forty-eight (48) hours requires written concurrence under this paragraph.
+
+(2) **Prohibited Emergency Uses.** Emergency powers exercised during caretaker or Temporary Executive Committee governance may not be used to:
+
+- (i) Affect election administration, counting, auditing, certification, or transition procedures;
+- (ii) Restrict the movement, assembly, or communication of candidates, election officials, or voters in connection with the disputed election or any special election;
+- (iii) Extend or modify the termination date under subsection (c)(4) or any deadline under subsection (g);
+- (iv) Authorize surveillance of or interference with transition activities under subsection (j).
+
+(3) **Emergency Duration.** Emergency declarations during caretaker or Temporary Executive Committee governance expire automatically after fourteen (14) days unless renewed with legislative concurrence under paragraph (1). No single emergency may be renewed more than twice during the caretaker or Committee governance period. A subsequent emergency declaration addressing substantially the same underlying event or circumstances as a prior declaration, regardless of whether the prior declaration has expired or been rescinded, counts as a renewal of that emergency for purposes of this paragraph.
+
+(4) **Investigation Limitation.** Investigations ordered by the Caretaker Executive or Temporary Executive Committee regarding the disputed election:
+
+- (i) Do not affect certification deadlines under this section or Section 7;
+- (ii) May not be used as a basis for withholding, delaying, or conditioning certification;
+- (iii) Continue under the successor if unresolved at the time of termination under subsection (c)(4) or expiration of Temporary Executive Committee authority under subsection (h)(5)(ii); provided that the successor may review and terminate any investigation initiated during the caretaker or Committee governance period.
+
+#### Transition Protection
+
+(j) **Transition Protection.**
+
+(1) **Apparent Winner Designation.** The candidate leading in the most recent official canvass or, if no canvass has been completed, the candidate identified by the National Election Court as the likely winner based on available returns, shall be designated the "Apparent Winner" for purposes of transition preparation. If conflicting canvasses are issued or the identity of the leading candidate is disputed, the National Election Court shall designate the Apparent Winner within twenty-four (24) hours. This designation does not prejudice the outcome of any pending certification dispute.
+
+(2) **Transition Entitlements.** Upon designation, the Apparent Winner shall be entitled to:
+
+- (i) Security briefings, including classified briefings at the same classification level, and protective detail equivalent to those provided to the Caretaker Executive;
+- (ii) Access to government transition facilities and office space;
+- (iii) Transition funding at the rate established by law for incoming executives;
+- (iv) Briefings from department and agency heads on ongoing operations and pending matters.
+
+(3) **Anti-Impairment.** The Caretaker Executive and Temporary Executive Committee may not:
+
+- (i) Impede, delay, or condition transition activities;
+- (ii) Withhold information relevant to the Apparent Winner's preparation for office;
+- (iii) Reassign, terminate, or discipline government employees for cooperating with transition activities;
+- (iv) Destroy, alter, or remove records that would be transferred to the successor upon taking office.
+
+(4) **Change of Apparent Winner.** If the identity of the Apparent Winner changes due to a recount, court order, or National Election Court determination, transition entitlements shall transfer to the newly designated Apparent Winner within twenty-four (24) hours. Upon transfer, the prior Apparent Winner's access to security briefings, classified materials, and government facilities under paragraph (2) shall terminate immediately. All classified materials in the prior Apparent Winner's possession shall be returned within twenty-four (24) hours.
+
+#### Accountability for Caretaker Abuse
+
+(k) **Accountability for Caretaker Abuse.**
+
+(1) **Refusal to Vacate.** A Caretaker Executive or member of the Temporary Executive Committee who refuses to vacate office or relinquish authority upon the termination or expiration of their authority under this section:
+
+- (i) Is guilty of a high crime against the constitutional order;
+- (ii) Shall be subject to immediate removal by the State/Regional Supreme Court upon petition by the Apparent Winner, the State/Regional legislature, or the National Election Court;
+- (iii) Shall be permanently barred from holding any office of profit or trust under the United States or any State or Region thereof;
+- (iv) Shall be subject to such criminal penalties as Congress shall provide by law, which shall include penalties classified as felonies.
+
+(2) **Void Orders.** Any order, directive, appointment, or official act issued by a Caretaker Executive or Temporary Executive Committee member after the termination or expiration of their authority under this section is void ab initio and of no legal force or effect.
+
+(3) **Subordinate Official Obligations.** Upon termination of Caretaker authority under subsection (c)(4), and thereafter:
+
+- (i) All subordinate officials shall take direction from the certified winner; if no winner has been certified, from the Temporary Executive Committee if it retains authority under subsection (e); if Committee authority has also expired, from the Apparent Winner pending certification; and if none is available, from the successor entity established under this section. During any period of Temporary Executive Committee governance, transition activities under subsection (j) shall be directed by the Apparent Winner;
+- (ii) Security services shall protect the successor and facilitate the transition of authority;
+- (iii) A subordinate official who knowingly continues to take direction from a person whose authority has terminated under this section is subject to removal and such penalties as Congress shall provide by law;
+- (iv) **Safe Harbor.** No civil or criminal penalty, administrative discipline, or employment retaliation may be imposed on any subordinate official for refusing a direction from a Caretaker Executive or Temporary Executive Committee member whose authority has terminated under this section, or for taking direction from the successor designated under paragraph (i).
+
+(4) **Non-Stayable Termination.** The termination of authority under subsection (c)(4) and the expiration of Temporary Executive Committee authority under subsection (h)(5)(ii):
+
+- (i) Are self-executing and require no judicial order or certification;
+- (ii) May not be stayed, enjoined, or suspended by any court pending judicial review;
+- (iii) Any challenge to the termination shall be decided by the National Election Court within seventy-two (72) hours;
+- (iv) The successor assumes authority immediately upon termination, regardless of any pending challenge.
 
 ### Section 9. Algorithmic Transparency
 
