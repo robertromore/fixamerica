@@ -666,7 +666,17 @@ This solution removes incentives to prolong deadlocks by making the caretaker pe
 | **Axiom 7 (Law Must Move Faster)** | 66-day hard deadline; accelerated timeline |
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article VII, Section 6. This five-part solution removes all incentives to prolong certification deadlocks by ensuring the caretaker period is uncomfortable for everyone, with declining authority, external confirmation requirements, bipartisan fallbacks, and NEC-audited defaults with Special Election provisions.
+**RESOLVED.** Integrated as Art VII §8(c)(4) modification + new §8(d)-(h) in `single-topic/election-reform.md`. Resolved through Multi-LLM Gap Resolution Protocol (2026-02-03). Draft file: `02-design/drafts/gap-056-zombie-executive-caretaker.md` (v3 FINAL).
+
+**Coverage:**
+
+| Gaming Vector | Resolution |
+|---|---|
+| Pathway 1: Incumbent Advantage ("Zombie Executive") | §8(a) disqualified caretaker rule (6 categories exclude incumbent/same-party/federal); §8(c) declining authority (Days 1-30/31-60/61-90); §8(c)(4) Day 91 automatic termination to committee |
+| Pathway 2: Federal Seizure | §8(a)(4) federal appointee exclusion; §8(f)(4) federal obstruction finding terminates federal executive/administrative involvement; §8(d)(3)(iii) circuit judge backstop with §8(a)(4)/(a)(6) override |
+| Legislative Capture | §8(e)(4) supermajority requirement when legislature controlled by affiliated party; §8(e)(6) anti-abuse provisions; §8(h)(5)(ii) 1-year maximum with mandatory special election |
+| Stop the Count | §8(f)(1)-(2) obstruction definition + NEC finding with heightened scrutiny; §8(f)(3) candidate disqualification; §8(g) accelerated 66-day timeline; §8(h)(1)-(2) NEC audit with "reliable and materially free" standard |
+| Judicial Veto | §8(a)(6) incumbent-appointed judge exclusion; §8(d) external confirmation by adjacent Governors; §8(g)(3)(iv) SC deadline miss → NEC audit default |
 
 ---
 

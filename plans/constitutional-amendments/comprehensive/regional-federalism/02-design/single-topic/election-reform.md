@@ -240,9 +240,164 @@ This standalone constitutional amendment reforms the federal electoral system to
 
 (4) **Automatic Termination (Day 91).** If no certification has occurred by Day 91:
 
-- (i) A special election shall be called;
-- (ii) The Caretaker shall continue with minimal authority until the special election concludes;
-- (iii) The special election winner takes office immediately upon certification.
+- (i) The Caretaker's authority terminates;
+- (ii) Governance transfers to the Temporary Executive Committee established by subsection (e);
+- (iii) If a Failure of Choice has been declared under subsection (h)(3), a special election shall proceed under subsection (h)(4);
+- (iv) If no Failure of Choice has been declared, the National Election Court shall issue a default certification under subsection (h)(2) within seven (7) days.
+
+#### External Confirmation
+
+(d) **External Confirmation of Caretaker.**
+
+(1) Any Caretaker selected under subsection (b)(1) through (b)(3) shall require confirmation by majority vote of the Governors of adjacent States or Regions. For purposes of this subsection, "adjacent" means sharing a land border or, for non-contiguous States or Regions, the two nearest by geographic center.
+
+(2) Adjacent Governors shall vote on confirmation within seventy-two (72) hours of the Caretaker selection. If a Governor fails to cast a vote within seventy-two hours, that Governor is deemed to have voted in favor of confirmation. If the adjacent Governors are evenly divided, the Governor with the longest continuous tenure in office shall cast the deciding vote; if two or more Governors share the longest continuous tenure, the oldest by age among them shall cast the deciding vote.
+
+(3) If confirmation is not obtained:
+
+- (i) The next person in the hierarchy established by subsection (b) shall be offered the position;
+- (ii) If the entire hierarchy is exhausted without confirmation, the adjacent Governors shall select the Caretaker directly by majority vote within forty-eight (48) hours;
+- (iii) Notwithstanding subsections (a)(4) and (a)(6), if the adjacent Governors fail to select a Caretaker within forty-eight hours, the Chief Judge of the United States Court of Appeals for the circuit encompassing the State or Region shall serve as Caretaker.
+
+(4) The confirmation vote shall be public and recorded. No Governor may condition a confirmation vote on policy commitments, personnel decisions, or other concessions from the Caretaker.
+
+#### Temporary Executive Committee
+
+(e) **Temporary Executive Committee.**
+
+(1) **Activation.** Upon termination of Caretaker authority under subsection (c)(4), executive functions shall be exercised by a Temporary Executive Committee until certification of an election winner or inauguration following a special election.
+
+(2) **Composition.** The Temporary Executive Committee shall consist of:
+
+- (i) The presiding officers of both chambers of the State/Regional legislature;
+- (ii) The minority leaders of both chambers of the State/Regional legislature;
+- (iii) The former Caretaker, in an advisory and non-voting capacity.
+
+(3) **Unicameral and Nonpartisan Legislatures.** Where the State/Regional legislature consists of a single chamber or does not organize by political party:
+
+- (i) In a unicameral legislature, the committee shall consist of the presiding officer, the deputy presiding officer, the minority leader, and one additional member selected by the minority caucus, with the former Caretaker in an advisory and non-voting capacity;
+- (ii) In a nonpartisan legislature with two chambers, the committee shall consist of the presiding officers of both chambers and the two members with the longest continuous service who are not from the same chamber or electoral district as either presiding officer, with the former Caretaker in an advisory and non-voting capacity;
+- (iii) If both conditions apply (unicameral and nonpartisan), the committee shall consist of the presiding officer and the three members with the longest continuous service who are not from the same electoral district as the presiding officer, with the former Caretaker in an advisory and non-voting capacity.
+
+(4) **Supermajority Requirement.** If the State/Regional legislature is controlled by a political party affiliated with any candidate in the disputed election:
+
+- (i) All executive actions by the Committee shall require a two-thirds (2/3) supermajority of voting members;
+- (ii) Any action receiving less than a two-thirds vote shall be void;
+- (iii) For purposes of this paragraph, "control" means a party holds the majority of seats in either chamber (or, in a unicameral legislature, the single chamber).
+
+(5) **Limited Authority.** The Temporary Executive Committee may only:
+
+- (i) Maintain essential government services as defined by standing appropriations;
+- (ii) Respond to genuine emergencies certified by the State/Regional Supreme Court;
+- (iii) Cooperate with certification resolution or special election preparation.
+
+(6) **Anti-Abuse Provisions.** The Temporary Executive Committee may not:
+
+- (i) Take any action designed to advantage any candidate in the disputed election or potential special election;
+- (ii) Modify election procedures, voter rolls, polling locations, or certification requirements;
+- (iii) Appoint officials with authority over the disputed election or special election;
+- (iv) Enter into contracts, grants, or agreements exceeding thirty (30) days in duration or one thousand (1,000) Federal Penalty Units in value, except for expenditures necessary for court-certified emergency response under paragraph (5)(ii) or special election administration under paragraph (5)(iii), which shall be publicly reported within seventy-two (72) hours.
+
+#### Anti-Obstruction Mechanisms
+
+(f) **Anti-Obstruction Mechanisms.**
+
+(1) **Obstruction Defined.** For purposes of this section, "obstruction" includes any action primarily intended to delay or prevent certification rather than resolve a legitimate dispute, including but not limited to:
+
+- (i) Filing legal challenges that lack a good-faith factual or legal basis;
+- (ii) Refusing to cooperate with audit, recount, or certification procedures;
+- (iii) Withholding evidence, data, or records necessary for certification;
+- (iv) Coordinating with the Caretaker or Temporary Executive Committee to extend the deadlock;
+- (v) Physical disruption or intimidation of counting, auditing, or certification processes;
+- (vi) Cyber attacks, unauthorized access, or interference with election systems;
+- (vii) Incitement to imminent lawless action intended to physically prevent or disrupt the counting, auditing, or certification of lawful ballots.
+
+(2) **Finding of Obstruction.** The National Election Court may find, by preponderance of the evidence, that a candidate, political party, or their agents engaged in obstruction. Upon such finding:
+
+- (i) The obstructing party shall be assessed all costs, including attorney fees, for all other parties to the dispute;
+- (ii) All pending and future legal challenges by the obstructing party in the same dispute shall be subject to a clear and convincing evidence standard;
+- (iii) If the obstruction is egregious, repeated, or outcome-determinative, the Court may certify the election for the non-obstructing candidate;
+- (iv) The finding shall be a matter of public record and may not be sealed or expunged;
+- (v) All pending matters brought by the obstructing party before the National Election Court, including matters arising under Section 7, shall be subject to heightened scrutiny, including rigorous enforcement of standing, timeliness, and factual basis requirements.
+
+(3) **Candidate Disqualification for Obstruction.** A candidate found by the National Election Court to have personally directed or authorized obstruction:
+
+- (i) In one certification proceeding: shall be ineligible to hold the contested office for four (4) years from the date of the finding;
+- (ii) In two or more certification proceedings: shall be permanently disqualified from holding State or Regional executive office;
+- (iii) Disqualification under this paragraph is separate from and in addition to penalties under Section 7(o).
+
+(4) **Federal Obstruction.** If the federal government or its agents are found by the National Election Court to have obstructed State or Regional certification:
+
+- (i) All federal executive and administrative involvement in the affected State or Region's governance shall terminate immediately, except that judicial functions of the National Election Court and Supreme Court, law enforcement referrals, and election-security functions under subsection (h)(4)(iv) shall continue;
+- (ii) The State or Region shall select its own Caretaker under subsection (b) without federal executive input;
+- (iii) The responsible federal officials shall be referred to the Department of Justice for investigation and prosecution;
+- (iv) The finding shall be reported to Congress for potential impeachment proceedings against responsible officials.
+
+(5) **Frivolous Challenge Deterrence.** Election challenges that are dismissed for lack of evidence, standing, or merit, or that are substantially similar to previously dismissed challenges:
+
+- (i) Shall result in an assessment of costs and attorney fees against the filing party;
+- (ii) Shall be considered in any subsequent obstruction finding under paragraph (2);
+- (iii) May result in a requirement that future challenges by the same party in the same dispute receive pre-approval from the National Election Court before filing.
+
+#### Caretaker-Specific Resolution Timeline
+
+(g) **Accelerated Resolution During Caretaker Governance.**
+
+(1) **Application.** Notwithstanding Section 7(k), when a certification dispute has triggered Caretaker Governance under this section, the following accelerated deadlines shall govern the dispute resolution timeline:
+
+| Stage | Deadline | Cumulative Days from Election Day |
+|---|---|---|
+| State/Regional certification or refusal | 21 days (per §7(a)) | 21 |
+| Challenge filing | 7 days after certification or refusal | 28 |
+| NEC evidentiary hearing | 14 days after challenge filing | 42 |
+| NEC ruling | 7 days after hearing | 49 |
+| Appeal to Supreme Court | 3 days after NEC ruling | 52 |
+| Supreme Court ruling | 14 days after appeal | 66 |
+
+(2) **Maximum Deadlock Period.** The total period from Election Day to final resolution of a certification dispute that has triggered Caretaker Governance shall not exceed sixty-six (66) days. If no judicial ruling has been issued by Day 66, the provisions of subsection (h) apply.
+
+(3) **Timeline Enforcement.** If any court or tribunal fails to meet a deadline specified in this subsection:
+
+- (i) The matter is automatically transferred to the next body in the hierarchy (from State/Regional court to NEC, or from NEC to Supreme Court);
+- (ii) The receiving body shall rule within seven (7) days of automatic transfer;
+- (iii) The deadline for the next stage begins from the date of automatic transfer, not from the missed deadline;
+- (iv) If the Supreme Court fails to meet its deadline under this subsection, the matter shall proceed directly to the NEC audit determination under subsection (h)(1).
+
+(4) **Coordination with Section 7.** The deadlines in this subsection do not modify the general certification provisions of Section 7 for elections that do not trigger Caretaker Governance. Where Section 7 deadlines are shorter than those specified here, the shorter deadline applies.
+
+#### NEC Audit Default and Special Election
+
+(h) **Default Resolution and Special Election.**
+
+(1) **NEC Audit Determination.** If no final judicial ruling has been issued by Day 66 from Election Day, the National Election Court shall determine, within seven (7) days:
+
+- (i) Whether the most recent completed count is reliable and materially free from obstruction, fraud, or systematic error;
+- (ii) The identity of the candidate with the most votes in the most recent reliable count.
+
+(2) **Default Certification.** If the National Election Court determines the count is reliable:
+
+- (i) The candidate with the most votes shall be certified;
+- (ii) This certification is final and not subject to further challenge, except for fraud discovered post-certification that is sufficient to change the outcome;
+- (iii) The certified candidate shall take office within seven (7) days of certification.
+
+(3) **Failure of Choice.** The National Election Court shall issue a "Failure of Choice" declaration if it determines that:
+
+- (i) The most recent count is unreliable due to obstruction, fraud, or systematic error affecting the integrity of the result; or
+- (ii) The margin between the leading candidates is smaller than the number of ballots that are unresolvable due to dispute, destruction, or tampering.
+
+(4) **Special Election.** Upon a Failure of Choice declaration:
+
+- (i) A special election shall be held within thirty (30) days of the declaration;
+- (ii) The Caretaker (or Temporary Executive Committee, if Caretaker authority has terminated) shall continue with minimal authority during the special election period;
+- (iii) The same candidates shall appear on the ballot unless a candidate voluntarily withdraws or has been disqualified under subsection (f)(3);
+- (iv) Enhanced election security measures, including federal observers, shall be implemented for the special election;
+- (v) Any party found to have caused the Failure of Choice through obstruction shall bear the costs of the special election.
+
+(5) **Terminal Fallback.** If the special election also results in a Failure of Choice:
+
+- (i) The State/Regional legislature shall elect the executive by a two-thirds (2/3) vote of a joint session;
+- (ii) If no candidate receives two-thirds support within fourteen (14) days, the Temporary Executive Committee shall serve until a special election can be held during the next general election cycle; if the next general election is more than one (1) year from the date the Committee assumed authority under subsection (c)(4), a mandatory special election shall be held within one (1) year of that date;
+- (iii) This terminal fallback is final and not subject to further extension or modification.
 
 ### Section 9. Algorithmic Transparency
 
