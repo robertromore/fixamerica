@@ -2,7 +2,7 @@
 
 **Note**: This changelog has been reorganized by date. See the `changelog/` directory for detailed entries:
 
-- [`changelog/2026-02-04.md`](changelog/2026-02-04.md) - Latest changes (Gap 125, Gap 70, Gap 121, Gap 102, Gap 117, Gap 111, Gap 112 resolutions)
+- [`changelog/2026-02-04.md`](changelog/2026-02-04.md) - Latest changes (Gap 125, Gap 70, Gap 121, Gap 102, Gap 117, Gap 111, Gap 112, Gap 27 resolutions)
 - [`changelog/2026-02-03.md`](changelog/2026-02-03.md) - Gap resolutions (67/75, 128/132/142, 92/116, 99, 104, 109, 56, 79, 118, 90, 106)
 - [`changelog/2026-02-02.md`](changelog/2026-02-02.md) - Gap resolutions (199, 13, index triage)
 - [`changelog/2026-02-01.md`](changelog/2026-02-01.md) - Gap resolutions (220, 219, 216, etc.)
@@ -13,6 +13,21 @@
 - [`changelog/2026-01-26.md`](changelog/2026-01-26.md) - Territorial integration incentives
 - [`changelog/2026-01-25.md`](changelog/2026-01-25.md) - Major integration work
 - [`changelog/2026-01-24.md`](changelog/2026-01-24.md) - Historical development
+
+## 2026-02-04: Gap 27 — Tribal-Regional Relations Resolved (Article XXIII §§8-12)
+
+One intergovernmental gap resolved via multi-LLM protocol (v1 → R1 review → v2 → R2 review → v3 FINAL) through new Sections 8-12 (Tribal-Regional Operational Framework) in Article XXIII (Indigenous Sovereignty Preservation). Gap 27 (Tribal-Regional Relations): 9 gaming vectors closed. §8 mandatory consultation with 60-day window, triggering actions, emergency exception, and voidability remedy. §9 off-reservation protections with adjacent-area heightened scrutiny (compelling public necessity + clear-and-convincing evidence + concurrent satisfaction with §8 + emergency exception with 72-hour notice). §10 coordination compact framework with anti-coercion, 2-year negotiation timeline, mediation, and federal default backstop. §11 DLRS opt-in only, successor agreement transfer with request-to-renegotiate mediation, gaming compact good-faith standard with automatic mediation trigger for non-response, federal program set-aside preservation. §12 IGC tribal seat with NCAI consultation and Regional/national fallback, ARB domain certification with NCC review.
+
+### Files Modified
+
+- `02-design/constitution/06-supremacy.md` — Art XXIII §§8-12 added: 5 sections
+- `02-design/drafts/gap-27-tribal-regional-relations.md` — Draft file (v3 FINAL)
+- `02-design/constitution/article-crosswalk.md` — §§8-12 entry added
+- `04-meta/gaps/13-intergovernmental.md` — Gap 27: PROPOSAL AVAILABLE to RESOLVED
+- `04-meta/gaps/00-index.md` — Gap 27 status updated
+- `04-meta/02-identified-gaps.md` — Statistics: PA 5 to 4, Resolved 171 to 172
+
+**Status:** RESOLVED | **Detail:** [changelog/2026-02-04.md](changelog/2026-02-04.md)
 
 ## 2026-02-04: Gap 112 — Budgetary Midnight / Sequestration Resolved (Article X §19(j)-(o))
 

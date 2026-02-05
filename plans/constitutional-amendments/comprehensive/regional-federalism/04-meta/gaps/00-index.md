@@ -293,7 +293,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 |-------|-------------|----------|-------------------|
 | 25 | Cross-regional water rights during scarcity | High | Partially Mitigated |
 | 26 | Digital/AI governance framework | Medium | Proposal Available |
-| 27 | Tribal-Regional relations | High | Proposal Available |
+| 27 | Tribal-Regional relations | High | Resolved |
 | 28 | Nuclear facilities and hazardous materials governance | Medium | Proposal Available |
 | 31 | Criminal justice coordination beyond extradition | Medium | Proposal Available |
 | 57 | Compact enforcement and dispute resolution | Medium | Partially Mitigated |

@@ -69,10 +69,11 @@ The constitution preserves federal trust responsibilities to tribal nations, but
 - Split tribal territories creating administrative complexity.
 - Erosion of tribal sovereignty through regional action.
 
-**Status:**
-Under-specified but **PROPOSAL AVAILABLE**. Federal-tribal relations are preserved but Regional-tribal relations are undefined.
+**Status:** **RESOLVED** via Article XXIII, Sections 8-12 (Tribal-Regional Operational Framework).
 
-See [Tribal-Regional Relations Framework](../../proposals/08-special-jurisdictions/tribal-regional-relations.md) for constitutional provisions, consultation requirements, and coordination mechanisms preserving tribal sovereignty.
+Mandatory consultation (§8), off-reservation protections with adjacent-area heightened scrutiny (§9), coordination compact framework with anti-coercion and mediation (§10), DLRS opt-in and transition provisions (§11), and IGC tribal representation with ARB certification and NCC review (§12). 9 gaming vectors closed. 18 design decisions. Drafted via multi-LLM protocol (v1 → R1 → v2 → R2 → v3 FINAL).
+
+See [draft](../../02-design/drafts/gap-27-tribal-regional-relations.md) for full analysis and [Tribal-Regional Relations Framework](../../proposals/08-special-jurisdictions/tribal-regional-relations.md) for original proposal.
 
 ---
 

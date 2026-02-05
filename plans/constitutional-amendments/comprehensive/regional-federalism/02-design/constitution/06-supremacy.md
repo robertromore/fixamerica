@@ -582,6 +582,148 @@ This mechanism ensures that:
 
 ---
 
+### Section 8. Mandatory Consultation
+
+*Resolves Gap 27 — Tribal-Regional Relations (operational framework). Adds mandatory consultation, off-reservation protections, compact negotiation standards, DLRS applicability, transition provisions, adjacent-impact safeguards, and IGC representation to complement the sovereignty protections in Sections 1-7.*
+
+(a) **Duty to Consult.** Before taking any action that may significantly affect tribal interests, Regional governments shall:
+
+- (1) identify Tribal Nations that may be affected;
+- (2) notify those Tribal Nations of the proposed action with sufficient detail to enable meaningful response;
+- (3) provide not less than sixty (60) days for tribal comment;
+- (4) meet with tribal representatives upon request at times and locations reasonably convenient for tribal participation;
+- (5) document consultation in writing and include the record in any administrative proceeding.
+
+(b) **Triggering Actions.** "Significantly affect tribal interests" includes actions that:
+
+- (1) affect tribal lands or waters, or areas adjacent thereto;
+- (2) affect treaty-protected resources including hunting, fishing, and gathering rights;
+- (3) affect tribal cultural resources, sacred sites, or ancestral remains;
+- (4) affect transportation or infrastructure providing access to tribal lands;
+- (5) affect environmental quality of areas where tribal members exercise treaty rights.
+
+(c) **Genuine Consideration.** Consultation requires good-faith consideration of tribal views. Regions need not obtain tribal consent except where required by other provisions, but shall provide written explanation when declining to adopt tribal recommendations.
+
+(d) **Emergency Exception.** In genuine emergencies requiring immediate action to protect public safety, Regions may act without prior consultation. Post-action consultation shall occur within thirty (30) days. If the Tribal Nation objects, the Region shall consider modifying or reversing the action.
+
+(e) **Failure to Consult.** Actions taken without required consultation:
+
+- (1) are voidable upon challenge by an affected Tribal Nation;
+- (2) may be enjoined pending completion of consultation;
+- (3) the Region bears all costs of delay resulting from its failure to consult.
+
+---
+
+### Section 9. Off-Reservation Protections
+
+(a) **Service Access.** Tribal members residing off-reservation within a Region are entitled to:
+
+- (1) Regional public services on the same terms as other residents;
+- (2) recognition of tribal identification for purposes of Regional services;
+- (3) non-discrimination based on tribal membership or affiliation.
+
+(b) **Prohibited Discrimination.** Regional law may not:
+
+- (1) discriminate against tribal members in employment, housing, or public accommodations;
+- (2) treat tribal governments less favorably than similarly situated governments in the same program or service context, excluding differences required by treaty obligations or sovereign-specific procedures;
+- (3) impose special burdens on businesses owned by tribal members or Tribal Nations operating off-reservation.
+
+(c) **Adjacent-Area Protections.**
+
+- (1) For purposes of this subsection, "material degradation" means a measurable decline in environmental quality — including air quality, water quality, soil integrity, or ecological function — as documented by federal, tribal, or independent environmental monitoring, that adversely affects tribal lands, treaty-protected resources, or areas where tribal members exercise treaty-protected rights;
+- (2) Before taking any action that would cause material degradation of areas adjacent to tribal lands, a Region shall provide the affected Tribal Nation with notice and a ninety (90) day consultation period; where the action also triggers Section 8 consultation, the Region may satisfy both requirements concurrently by designating the consultation as addressing both Section 8 and Section 9(c) obligations, provided the ninety (90) day period of this subsection governs;
+- (3) If the affected Tribal Nation objects, the Region may proceed only upon a federal court finding, by clear and convincing evidence, that: (i) the action serves a compelling public necessity; (ii) no feasible alternative exists that avoids or substantially reduces the adverse impact; and (iii) the Region has implemented all practicable mitigation measures;
+- (4) Regions may not materially impair access to tribal lands through adjacent Regional territory;
+- (5) Regions may not materially reduce water flow or water quality affecting tribal lands or treaty-protected fisheries;
+- (6) In genuine emergencies requiring immediate action to protect public safety, a Region may take actions that may cause material degradation of adjacent areas without prior compliance with subsections (c)(2) and (c)(3); the Region shall provide written notice to the affected Tribal Nation within seventy-two (72) hours and complete post-action consultation within thirty (30) days; upon tribal objection, the Region shall seek federal court review within sixty (60) days, during which the court may order restoration or mitigation.
+
+(d) **Enforcement.** Violations of this Section are actionable in federal court with the remedies of Section 5.
+
+---
+
+### Section 10. Coordination Compact Framework
+
+(a) **Mandatory Compacts.** Pursuant to Article XX, Section 3(d), Regions and Tribal Nations shall negotiate compacts addressing:
+
+- (1) shared services and infrastructure coordination;
+- (2) emergency response and mutual aid;
+- (3) law enforcement cooperation and jurisdictional boundaries;
+- (4) environmental monitoring and resource management.
+
+(b) **Anti-Coercion.** Regions may not:
+
+- (1) condition Regional services to tribal members on compact terms;
+- (2) withhold cooperation on one compact matter to gain leverage on another;
+- (3) threaten fiscal, regulatory, or administrative retaliation for tribal negotiating positions.
+
+(c) **Negotiation Timeline.**
+
+- (1) Initial compacts shall be negotiated within two (2) years of Regional activation;
+- (2) either party may request mediation through the Department of Interior after one (1) year;
+- (3) mediation shall conclude within one hundred eighty (180) days.
+
+(d) **Default Provisions.** If no compact is reached:
+
+- (1) existing agreements between predecessor States and the Tribal Nation remain in effect;
+- (2) the Region may not exercise any authority on tribal lands;
+- (3) federal agencies shall provide services and coordination functions until compact is reached.
+
+(e) **Compact Modification.** Compacts may be modified by mutual consent. Either party may request renegotiation after five (5) years.
+
+---
+
+### Section 11. DLRS and Transition
+
+(a) **DLRS Applicability.**
+
+- (1) Tribal Nations are not subject to Dual Legitimacy Rights Floor requirements except by consent through formal action of their governing body;
+- (2) consent may be revoked by the same process;
+- (3) partial consent (specific DLRS provisions only) is permitted;
+- (4) DLRS applicability has no effect on other aspects of the Tribal Nation's relationship with the United States or Regions.
+
+(b) **Successor Agreements.** Agreements between predecessor States and Tribal Nations:
+
+- (1) transfer to successor Regions upon Regional activation;
+- (2) remain in full force until modified by mutual consent or expiration;
+- (3) either party may request renegotiation within three (3) years of Regional activation; if the other party declines, the requesting party may invoke mediation under Section 10(c).
+
+(c) **Gaming Compacts.** Gaming compacts under the Indian Gaming Regulatory Act:
+
+- (1) transfer to successor Regions;
+- (2) Regions shall negotiate renewals in good faith;
+- (3) good-faith negotiation requires Regions to respond to tribal proposals within sixty (60) days, provide substantive counterproposals rather than blanket refusals, and refrain from conditioning renewal on concessions unrelated to gaming operations;
+- (4) if a Region fails to respond to a tribal gaming compact proposal within the sixty (60) day period of subsection (c)(3), the Tribal Nation may invoke mediation under Section 10(c); the Region's non-response creates a rebuttable presumption of bad faith in mediation proceedings.
+
+(d) **Federal Program Continuity.** When federal programs are block-granted to Regions:
+
+- (1) tribal set-asides shall be maintained at pre-transition levels, adjusted for population;
+- (2) Tribal Nations may elect direct federal funding where available;
+- (3) Regions may not impose conditions on tribal use of federal funds beyond those in federal law.
+
+---
+
+### Section 12. Intergovernmental Council Representation
+
+(a) **IGC Tribal Seat.** For any federal-Regional council, board, or commission established under this Constitution or by federal law whose policy domain directly and substantially affects tribal lands, resources, or treaty rights:
+
+- (1) at least one voting seat shall be reserved for a representative of Tribal Nations;
+- (2) the President shall appoint such representative in consultation with the National Congress of American Indians or successor organization representing federally recognized tribes; if no single representative organization is recognized, the President shall appoint from among candidates nominated by a majority of federally recognized Tribal Nations within the affected Region(s), or, for bodies of national scope, by a majority of all federally recognized Tribal Nations nationwide;
+- (3) the tribal representative shall have full participation rights including voting, committee membership, and access to information.
+
+(b) **Domain Determination.** The ARB shall certify which federal-Regional bodies "directly and substantially affect" tribal interests. This certification:
+
+- (1) shall be issued within ninety (90) days of a request by any Tribal Nation or the body in question;
+- (2) is binding absent clear error;
+- (3) shall be reconsidered if the body's jurisdiction materially changes;
+- (4) may be reviewed by the NCC upon petition by any Tribal Nation; review is limited to whether the ARB applied the correct legal standard and whether the certification is supported by substantial evidence.
+
+(c) **Non-Voting Observers.** Federal-Regional bodies not certified under subsection (b) shall nonetheless permit non-voting tribal observers when:
+
+- (1) a Tribal Nation demonstrates substantial interest in the body's proceedings;
+- (2) the observation does not compromise national security or law enforcement operations.
+
+---
+
 ## ARTICLE XXIV - UNION PERMANENCE AND ORDERLY ALTERATION
 
 *Resolves Gap 254 — Union Permanence. Eliminates secession ambiguity by combining a perpetual union declaration with a demanding consensual exit path.*
