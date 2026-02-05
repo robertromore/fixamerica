@@ -143,7 +143,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 108 | Jury pool diversity in smaller regions | Low | Requires Monitoring |
 | 117 | Voter exportation for national election manipulation | Medium | Proposal Available |
 | 120 | Sentencing guideline variation | Medium | Requires Monitoring |
-| 121 | Fact-hiding ARB loophole | Medium | Proposal Available |
+| 121 | Fact-hiding ARB loophole | Medium | ✅ Resolved |
 | 130 | Audit-capacity freeze of National Election Court | Medium | Proposal Available |
 | 145 | Coordinated judicial attack across jurisdictions | Medium | Partially Mitigated |
 | 158 | Strategic party expansion to manipulate recusals | Medium | ✅ Resolved |

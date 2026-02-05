@@ -2,7 +2,7 @@
 
 **Note**: This changelog has been reorganized by date. See the `changelog/` directory for detailed entries:
 
-- [`changelog/2026-02-04.md`](changelog/2026-02-04.md) - Latest changes (Gap 125, Gap 70 resolutions)
+- [`changelog/2026-02-04.md`](changelog/2026-02-04.md) - Latest changes (Gap 125, Gap 70, Gap 121 resolutions)
 - [`changelog/2026-02-03.md`](changelog/2026-02-03.md) - Gap resolutions (67/75, 128/132/142, 92/116, 99, 104, 109, 56, 79, 118, 90, 106)
 - [`changelog/2026-02-02.md`](changelog/2026-02-02.md) - Gap resolutions (199, 13, index triage)
 - [`changelog/2026-02-01.md`](changelog/2026-02-01.md) - Gap resolutions (220, 219, 216, etc.)
@@ -39,6 +39,20 @@ One institutional governance gap resolved via multi-LLM protocol (v1 → 2 revie
 - `04-meta/gaps/11-institutional-governance.md` — Gap 70: PROPOSAL AVAILABLE to RESOLVED
 - `04-meta/gaps/00-index.md` — Gap 70 status updated
 - `04-meta/02-identified-gaps.md` — Statistics: PA 11 to 10, Resolved 165 to 166
+
+**Status:** RESOLVED | **Detail:** [changelog/2026-02-04.md](changelog/2026-02-04.md)
+
+## 2026-02-04: Gap 121 — Fact-Hiding ARB Loophole Resolved (Article II §7-B)
+
+One electoral/judicial gap resolved via multi-LLM protocol (v1 → 2 review rounds → v3 FINAL) through new Section 7-B (Mixed Question Review Doctrine) in Article II (Allocation of Powers), Section 7 (Allocation Review Board). Gap 121 (Fact-Hiding ARB Loophole): all 13 gaming vectors closed. §7-B(a) law/fact boundary (three-category taxonomy: purely factual / mixed question / pure constitutional interpretation; 6 presumptive mixed-question categories, illustrative). §7-B(b) de novo review for mixed questions (SC independently determines characterization; factual finality applies only to purely factual). §7-B(c) mandatory identification (ARB labels each finding; substance-over-label rule; ARO characterization assessment). §7-B(d) characterization challenges (14-day window with 45-day outer limit; SC 30-day decision; does not consume one-appeal; anti-retaliation with JCB referral). §7-B(e) systematic mischaracterization (CPF at 3+ reclassifications; 12-month presumption; member recusal; recusal quorum protection via Chief Justice 7-day appointment from Judicial Conference standing list). §7-B(f) coordination (supplements §7(j)-(o); §7(m) exception for mixed questions with no-new-evidence rule; §7(r) tolling during challenges; Art XIV §9 alignment).
+
+### Files Modified
+
+- `02-design/constitution/02-powers-and-rights.md` — Art II §7-B added: 6 subsections (a)-(f)
+- `02-design/drafts/gap-121-fact-hiding-arb-loophole.md` — Draft file (v3 FINAL)
+- `04-meta/gaps/08-electoral-judicial.md` — Gap 121: PROPOSAL AVAILABLE to RESOLVED
+- `04-meta/gaps/00-index.md` — Gap 121 status updated
+- `04-meta/02-identified-gaps.md` — Statistics: PA 10 to 9, Resolved 166 to 167
 
 **Status:** RESOLVED | **Detail:** [changelog/2026-02-04.md](changelog/2026-02-04.md)
 

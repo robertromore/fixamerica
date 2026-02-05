@@ -1042,6 +1042,107 @@ An officeholder who formally declares non-alignment with any party shall not be 
 
 ---
 
+### Section 7-B. Mixed Question Review Doctrine
+
+*Resolves Gap 121 — The "Fact-Hiding" ARB Loophole.*
+
+#### Definitions and Scope
+
+(a) **Law/Fact Boundary.** For purposes of Section 7(j) and Section 7(k), and for all proceedings before the Allocation Review Board:
+
+(1) A "purely factual determination" is a finding that resolves an empirical question without determining the scope, existence, or boundary of a governmental power. Purely factual determinations include: population counts, geographic measurements, economic data, revenue calculations, statistical measurements, and similar empirical findings whose resolution does not depend on the meaning or reach of a constitutional provision.
+
+(2) A "mixed question of law and fact" is any determination in which the resolution of an empirical question is determinative of a constitutional boundary, power allocation, or the scope of governmental authority. A determination is "constitutionally determinative" if it directly establishes, denies, expands, or contracts a governmental power, or if the factual conclusion can only be reached by implicitly applying a legal standard to the facts.
+
+(3) The following categories of findings are presumptively mixed questions of law and fact:
+
+- (i) whether a Region possesses "administrative capacity" to exercise a contested power;
+- (ii) whether "historical practice" supports or negates a claimed governmental authority;
+- (iii) whether two governmental functions are "functionally equivalent" for allocation purposes;
+- (iv) whether spillover effects are "sufficient to trigger concurrent jurisdiction" under Article II, Section 3;
+- (v) whether a "regional interest" is "sufficiently distinct" to support exclusive Regional authority;
+- (vi) whether federal action constitutes a "legitimate exercise" of an enumerated power, where that determination depends on disputed empirical predicates regarding the action's effects, scope, or reach.
+
+(4) A "pure question of constitutional interpretation" is a question that turns entirely on the meaning, scope, or application of constitutional text without reference to disputed empirical facts.
+
+#### Standard of Review
+
+(b) **De Novo Review for Mixed Questions.** Notwithstanding Section 7(j)(3) and Section 7(k):
+
+(1) Mixed questions of law and fact shall be subject to de novo review by the Supreme Court upon appeal.
+
+(2) The Supreme Court shall independently determine whether a determination constitutes a purely factual determination, a mixed question, or a pure question of constitutional interpretation.
+
+(3) The prohibition on reweighing factual evidence in Section 7(j)(3) applies only to purely factual determinations as defined in subsection (a)(1). The Supreme Court may examine the factual components of a mixed question to the extent necessary to resolve the constitutional question embedded within it.
+
+(4) The finality of factual determinations under Section 7(k) applies only to purely factual determinations; mixed questions remain subject to appellate review regardless of their factual content.
+
+#### ARB Characterization Obligation
+
+(c) **Mandatory Identification.** In every determination:
+
+(1) The ARB shall explicitly identify each finding as either: (i) a purely factual determination, (ii) a mixed question of law and fact, or (iii) a pure question of constitutional interpretation.
+
+(2) For each finding identified as a purely factual determination, the ARB shall state in writing why the finding does not determine a constitutional boundary, power allocation, or scope of governmental authority.
+
+(3) Failure to identify the nature of a finding creates a rebuttable presumption that the finding is a mixed question of law and fact subject to de novo review under subsection (b).
+
+(4) The ARB may not embed constitutionally determinative conclusions within findings labeled as purely factual. A finding that is labeled "purely factual" but whose substance determines a constitutional boundary shall be treated as a mixed question regardless of its label.
+
+(5) The Adversarial Review Office, in its Adversarial Report under Section 7(u), shall include a specific assessment of whether each finding in the determination is properly characterized as to its law/fact nature.
+
+#### Challenge Procedure
+
+(d) **Characterization Challenges.**
+
+(1) Any party to an ARB proceeding may challenge the ARB's characterization of a finding within fourteen (14) days of the later of: (i) the determination's issuance, or (ii) the Adversarial Review Office's issuance of its Adversarial Report under Section 7(v); provided that the challenge window shall open no later than forty-five (45) days after the determination's issuance regardless of whether the ARO has issued its report.
+
+(2) Characterization challenges shall be filed directly with the Supreme Court and resolved on an expedited basis, with decision within thirty (30) days of filing.
+
+(3) If the Supreme Court determines that one or more findings were improperly characterized as "purely factual," all constitutionally determinative findings in the determination shall be subject to de novo review. The Supreme Court may review the entire determination to the extent that improperly characterized findings affected the outcome.
+
+(4) The Supreme Court, not the ARB, is the final arbiter of whether a finding is constitutionally determinative. The ARB's characterization of its own findings is entitled to no deference.
+
+(5) A characterization challenge under this subsection, whether successful or unsuccessful, does not constitute the "one appeal" under Section 7(o). All parties retain the right to appeal the merits of the determination on constitutional interpretation grounds regardless of the outcome of any characterization challenge.
+
+(6) No party that files or succeeds in a characterization challenge shall be subjected to adverse treatment by the ARB in any subsequent proceeding. The ARB may not consider a party's prior characterization challenges when making determinations, assigning priority, or exercising discretion. Alleged violations shall be referred to the Judicial Conduct Board and, if substantiated, constitute grounds for removal for cause under Section 7(e).
+
+#### Anti-Gaming Provisions
+
+(e) **Systematic Mischaracterization.**
+
+(1) A "Characterization Pattern Finding" is established when the Supreme Court reclassifies three (3) or more ARB findings from "purely factual" to "mixed question" within any rolling two-year period.
+
+(2) Upon a Characterization Pattern Finding, the Judicial Conduct Board and the Adversarial Review Office shall be notified. The ARO shall conduct an investigation into whether the pattern reflects systematic evasion of judicial review.
+
+(3) During the twelve (12) months following a Characterization Pattern Finding, all findings by the ARB that are challenged carry a rebuttable presumption of mixed-question status. The ARB bears the burden of demonstrating that a challenged finding is purely factual.
+
+(4) No member of the ARB who participated in a determination containing an improperly characterized finding may participate in the ARB's application of the Supreme Court's interpretation under Section 7(n)(3) for that determination.
+
+(5) An ARB member who engages in a deliberate pattern of mischaracterization, as determined by the Judicial Conduct Board, is subject to removal for cause under Section 7(e).
+
+(6) If recusals under subsection (e)(4) reduce the number of eligible ARB members below quorum for application of the Supreme Court's interpretation under Section 7(n)(3), the Chief Justice shall, within seven (7) days, appoint temporary members from among retired federal and state appellate judges who have never held partisan elected office. The Chief Justice shall select from a standing list maintained by the Judicial Conference for this purpose. Temporary members serve only for the specific application proceeding, have no authority over other ARB matters, and their appointment terminates automatically upon completion of the application.
+
+#### Coordination
+
+(f) **Relationship to Other Provisions.**
+
+(1) This section supplements Section 7(j) through (o). Where Section 7(j) and (k) reference "factual matters" or "factual evidence," those terms refer to purely factual determinations as defined in subsection (a)(1).
+
+(2) The No Factual Remand provision of Section 7(m) does not apply to mixed questions. When the Supreme Court determines that a finding is a mixed question and reverses the ARB's constitutional interpretation, the Court shall specify the correct interpretation under Section 7(n)(2), and the ARB shall apply it to the existing factual record under Section 7(n)(3). Where the existing factual record is insufficient to apply the correct interpretation due to the ARB's prior mischaracterization of one or more findings, the Supreme Court may direct the ARB to make additional purely factual findings limited to the matters necessary for application; this exception does not authorize general factual remand or reopening of the evidentiary record beyond what the mischaracterization made necessary. Additional findings directed under this provision shall be based solely on the existing evidentiary record — no new evidence may be introduced — and shall be completed within thirty (30) days of the Supreme Court's direction.
+
+(3) The Factual Finding Limitation of Section 7-A(g) applies independently. A finding may satisfy Section 7-A(g)'s transparency requirements while still constituting a mixed question subject to this section. The two provisions address distinct vulnerabilities: Section 7-A(g) ensures data and methodological transparency; this section ensures constitutional questions are not hidden within factual packaging.
+
+(4) The de novo review standard established by Section 7(aa)(2) for bias-tainted determinations is independent of and cumulative with the de novo review standard for mixed questions established by this section. A determination may be subject to de novo review under both provisions simultaneously.
+
+(5) The De Novo Review Mandate of Article XIV, Section 9 establishes the general principle that courts decide all questions of law de novo. This section applies that principle specifically to the ARB context, where the general mandate's preservation of "factual deference" (Article XIV, Section 9(c)) would otherwise leave the law/fact boundary undefined for power-allocation determinations.
+
+(6) Nothing in this section alters the Parallel Filing Prevention provisions of Section 7(p)-(q). Characterization challenges under subsection (d) are procedural motions within the appellate process, not parallel filings.
+
+(7) The expedited timeline of Section 7(r) is tolled during the pendency of a characterization challenge filed under subsection (d). The tolling period begins on the date the challenge is filed and ends on the date the Supreme Court issues its characterization decision. Upon resolution, the remaining time under Section 7(r) resumes. This tolling does not affect the thirty (30) day deadline for Supreme Court decision on the characterization challenge itself.
+
+---
+
 ### Section 8. National Security Operations Override
 
 (a) **Certification of National Security Necessity.** When Regional exclusive-domain regulations (including but not limited to labor standards, energy planning, environmental rules, or operational requirements) materially impede the operation of federal defense facilities, defense manufacturing, or critical national security infrastructure, the President may certify a "National Security Necessity."

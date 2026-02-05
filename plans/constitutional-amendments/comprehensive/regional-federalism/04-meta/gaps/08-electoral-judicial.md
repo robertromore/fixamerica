@@ -1800,7 +1800,7 @@ Article II, Section 5(f) provides that ARB decisions are "final on factual matte
 - **Gap 95 (Certification Deadlock):** Judicial bypass; Gap 121 addresses ARB bypass of Supreme Court
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article II-RF, Section 5. This three-part solution defines mixed questions of law and fact with de novo Supreme Court review, establishes constitutional determination standard preventing factual shield, and creates challenge procedure with expedited resolution.
+**RESOLVED.** Article II, Section 7-B (Mixed Question Review Doctrine) added with 6 subsections: (a) law/fact boundary with three-category taxonomy and 6 presumptive mixed-question categories; (b) de novo review for mixed questions; (c) mandatory identification with substance-over-label rule; (d) characterization challenges with 14-day window, 45-day outer limit, and anti-retaliation; (e) systematic mischaracterization with CPF trigger and recusal quorum protection; (f) coordination with §7(j)-(o), §7(m) exception, §7(r) tolling, and Art XIV §9 alignment.
 
 ---
 
@@ -4264,6 +4264,37 @@ Gap 198 proposes an Independent Redistricting Commission with partisan fairness 
 **Status:** ✅ **RESOLVED.** Constitutional text verified in Article I, Section 3-A (Regional Electoral Standards Enforcement). See `02-design/constitution/01-regional-structure.md`. Quantitative proportionality, competitiveness, and anti-domination standards with automatic remedies. Verified 2026-01-31.
 
 **Severity:** High | **Mitigability:** Manageable | **Resolved:** 2026-01-31
+
+---
+
+## Gap 276 — Apparent Winner Death or Incapacity During Transition
+
+**Description:**
+Article VII, Section 8(j) defines the "Apparent Winner" and grants transition entitlements (security briefings, transition funding, facility access) and operational authority (directing subordinate officials under §8(k)(3)(i)). However, the text does not address what happens if the Apparent Winner dies or becomes incapacitated during the caretaker/transition period. The "Change of Apparent Winner" clause (§8(j)(4)) only covers identity changes "due to a recount, court order, or National Election Court determination" — not death or incapacity.
+
+**Risk:**
+If the Apparent Winner is killed or incapacitated before certification:
+
+- Transition entitlements (§8(j)(2)) have no designated successor recipient
+- The chain of direction for subordinate officials (§8(k)(3)(i)) breaks, since it specifies the "Apparent Winner" as the authority between Committee expiration and certification
+- Security briefings and classified materials access (§8(j)(2)(i)) have no transfer mechanism
+- The National Election Court's designation process (§8(j)(1)) only addresses disputes over who is leading — not vacancy in the position itself
+- An adversary could exploit this ambiguity to extend caretaker authority or create a power vacuum during transition
+
+**Note:** The removal petition mechanism at §8(k)(1)(ii) is resilient to this vector, since the State/Regional legislature and National Election Court can independently petition. The self-executing termination at §8(k)(4) also operates regardless. The gap is specifically in the transition entitlements and subordinate-official direction provisions.
+
+**Affected Provisions:** Art VII §8(j)(1)-(4), §8(k)(3)(i)
+
+**Proposed Resolution Elements:**
+
+1. Define succession for the Apparent Winner designation (e.g., running mate, next candidate in ranked-choice order, party designation under state law)
+2. Add death/incapacity as a trigger for "Change of Apparent Winner" alongside recount and court order
+3. Specify custody and transfer of classified materials upon Apparent Winner vacancy
+4. Clarify subordinate official direction chain when Apparent Winner position is vacant pending redesignation
+
+**Status:** Requires Development.
+
+**Severity:** High | **Mitigability:** Manageable
 
 ---
 
