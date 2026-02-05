@@ -141,7 +141,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 95 | Certification deadlock via Regional judiciary (Preemptive Federal Jurisdiction) | Medium | ✅ Resolved |
 | 101 | Prosecutorial discretion variation | Medium | Accepted by Design |
 | 108 | Jury pool diversity in smaller regions | Low | Requires Monitoring |
-| 117 | Voter exportation for national election manipulation | Medium | Proposal Available |
+| 117 | Voter exportation for national election manipulation | Medium | ✅ Resolved |
 | 120 | Sentencing guideline variation | Medium | Requires Monitoring |
 | 121 | Fact-hiding ARB loophole | Medium | ✅ Resolved |
 | 130 | Audit-capacity freeze of National Election Court | Medium | Proposal Available |

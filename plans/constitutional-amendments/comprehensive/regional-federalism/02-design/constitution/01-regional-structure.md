@@ -918,6 +918,74 @@ The originating jurisdiction may not impose conditions, penalties, or differenti
 
 (4) **Personal Liability.** Officials who knowingly design, implement, or administer benefit programs with the purpose of evading the portability requirements of this section are subject to personal civil liability and removal from office under the same standards applicable to fiscal negligence under Article X, Section 10.
 
+#### Strategic Migration Prevention
+
+*Resolves Gap 117 — "Voter Exportation" for National Election Manipulation. Prevents organized, electorally-motivated relocation programs from colonizing smaller Regions' political voice while preserving legitimate economic development and the constitutional right to travel.*
+
+(v) **Strategic Migration Defined.** "Strategic Migration" means a program, subsidy, grant, or coordinated activity by or on behalf of a Region, Regional agency, or entity acting in concert with Regional officials that:
+
+- (1) provides financial incentives, housing assistance, relocation grants, or other material benefits to individuals relocating to another Region; AND
+- (2) is designed, targeted, or structured to affect electoral outcomes in the destination Region.
+
+Whether a program is "designed, targeted, or structured to affect electoral outcomes" shall be determined by the totality of circumstances, including but not limited to: geographic targeting of recipients toward electorally competitive Regions, timing relative to elections, coordination with political organizations, and the ratio of electoral impact to legitimate economic purpose. "Acting in concert with Regional officials" includes providing or receiving voter data, demographic targeting information, or electoral analysis to or from a Region or Regional agency in connection with a relocation program.
+
+(w) **Prohibited Subsidy Structures.** No Region, Regional agency, political subdivision thereof, or entity acting in concert with Regional officials shall:
+
+- (1) condition relocation benefits on a recipient's moving to a specific Region or set of Regions;
+- (2) target relocation subsidies toward electorally competitive Regions. A Region is "electorally competitive" if any election for United States Senator or Regional Governor held within that Region during the preceding three (3) election cycles produced a winning margin of less than ten (10) percentage points;
+- (3) coordinate relocation programs with political parties, political action committees, campaign organizations, or partisan advocacy groups, where Regional officials knew or reasonably should have known of the coordination;
+- (4) offer relocation benefits available exclusively or primarily to persons of a particular political affiliation or voting history;
+- (5) structure housing subsidies, remote work incentives, or economic development programs to create concentrated residential enclaves of relocated persons in electorally significant areas of a destination Region.
+
+(x) **Strategic Migration Finding.** The Allocation Review Board may issue a "Strategic Migration Finding" upon determining, by a preponderance of the evidence, that a program meets the definition in subsection (v). The ARB may initiate an investigation:
+
+- (1) upon petition by the destination Region's Governor, legislature, or Attorney General;
+- (2) upon petition by the National Election Court;
+- (3) upon referral from the Census Bureau when Migration Surge data under subsection (f) reveals patterns consistent with strategic targeting;
+- (4) upon its own motion when publicly available information suggests strategic migration activity.
+
+(y) **Consequences of Strategic Migration Finding.**
+
+- (1) The offending program shall be immediately suspended;
+- (2) benefits already disbursed to individual recipients shall not be reclaimed or subject to clawback — individuals who relocated in reliance on the program retain all rights of residence and political participation in their new Region;
+- (3) the originating Region shall be prohibited from establishing substantially similar programs for a period determined by the severity of the violation:
+    - (i) if the Finding is based primarily on procedural failures — including failure to file an Electoral Impact Assessment, inadequate disclosures, or failure to maintain required records — the prohibition period is three (3) years;
+    - (ii) if the Finding is based on deliberate electoral targeting — programs designed, structured, or operated with the purpose of affecting electoral outcomes in the destination Region — the prohibition period is ten (10) years;
+- (4) the originating Region shall reimburse the destination Region for documented service-expansion costs attributable to program-induced migration, with amounts determined by the IFC;
+- (5) officials who designed or authorized the program shall be subject to personal civil liability and disqualification from public office for five (5) years, upon a separate finding by the ARB, based on clear and convincing evidence, that such officials had actual knowledge of, or exhibited willful blindness to, the program's electoral purpose. "Willful blindness" means the official subjectively believed there was a high probability that the program was designed to affect electoral outcomes and took deliberate actions to avoid confirming that belief. Officials subject to liability under this paragraph shall have the right to notice, a hearing before the ARB, and representation by counsel prior to any finding of personal liability.
+
+(z) **Protected Movement.** Nothing in this section shall be construed to prohibit or restrict:
+
+- (1) general economic development programs that offer relocation assistance to all persons without geographic targeting of destination Regions;
+- (2) employer-sponsored relocation assistance for bona fide employment opportunities;
+- (3) educational institution recruitment, scholarships, or financial aid that include residency components;
+- (4) natural migration patterns resulting from economic conditions, housing markets, or quality-of-life factors;
+- (5) individual decisions to relocate for any reason, including political preference for a Region's governance;
+- (6) advocacy by any person or organization encouraging voluntary relocation, provided such advocacy is not coordinated with Regional subsidy programs meeting the definition in subsection (v);
+- (7) emergency resettlement programs operated under subsection (p) of this section, Article XVII-RF, Section 5, or any federal disaster relief authority, regardless of whether such programs direct individuals to specific Regions;
+- (8) inter-Regional workforce compacts approved by the legislatures of both the origin and destination Regions for the purpose of addressing labor shortages in specific industries or occupations, as certified by the Independent Fiscal Council based on labor market data.
+
+(aa) **Electoral Impact Assessment.** "Relocation-related benefits" means cash grants, housing subsidies, moving expense reimbursements, tax credits, and in-kind services provided to individuals in connection with establishing residence in another Region. Any Regional program providing relocation-related benefits exceeding ten million dollars ($10,000,000), adjusted annually for inflation using the Consumer Price Index for All Urban Consumers (CPI-U) from the date of ratification, to any single destination Region, or fifty million dollars ($50,000,000), similarly adjusted, in aggregate across all destinations, within any twenty-four (24) month period, shall:
+
+- (1) include an Electoral Impact Assessment prepared by the Region and submitted to the National Election Court;
+- (2) the Assessment shall analyze projected demographic effects on the destination Region's electorate, including changes to voter registration, partisan composition, and electoral competitiveness;
+- (3) the National Election Court shall review the Assessment within sixty (60) days and may refer the program to the ARB for investigation if the Assessment reveals electoral impact disproportionate to legitimate economic purpose;
+- (4) failure to submit a required Assessment is prima facie evidence of strategic migration intent.
+
+(bb) **Whistleblower Protection.** Persons who report suspected strategic migration programs to the ARB, the National Election Court, or law enforcement:
+
+- (1) are protected from retaliation by any Region, Regional agency, or entity associated with the reported program;
+- (2) may report anonymously;
+- (3) may receive awards of up to ten percent (10%) of total program expenditure, not exceeding five million dollars ($5,000,000), adjusted annually using the CPI-U from the date of ratification, payable from the originating Region's general revenue, as determined by the ARB;
+- (4) protections under this subsection are in addition to and not in substitution for any other whistleblower protections under this Constitution.
+
+(cc) **Coordination with Existing Provisions.**
+
+- (1) A Strategic Migration Finding under this section does not displace the Predatory Subsidy Prohibition under Article X, Section 3(i). A program may violate both provisions independently;
+- (2) Migration Surge Stabilization under subsections (f) through (n) of this section continues to operate regardless of whether a Strategic Migration Finding has been issued. The destination Region shall receive automatic fiscal stabilization irrespective of the migration's cause;
+- (3) the Exit Penalty Prohibition under subsection (o) is unaffected by this section. No person may be penalized for leaving a Region, regardless of whether their departure was subsidized by a strategic migration program;
+- (4) the National Election Court's jurisdiction under this section is limited to Electoral Impact Assessment review and referral. The ARB retains exclusive authority over Strategic Migration Findings.
+
 ---
 
 ### Section 9. Mutual Recognition

@@ -1608,7 +1608,7 @@ Article XX grants representation to DC and Territories with Regional assignment.
 - **Gap 98 (Credentialing Warfare):** Human capital extraction; Gap 117 addresses voter extraction
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article VII-RF, Section 5. This two-part solution enables ARB Strategic Migration finding with subsidy suspension, protects organic movement and legitimate economic development, and requires electoral impact assessment for large programs.
+**✅ RESOLVED.** Implemented as Article I, Section 8, subsections (v)-(cc) — "Strategic Migration Prevention" in [01-regional-structure.md](../../02-design/constitution/01-regional-structure.md). Draft: [gap-117-voter-exportation.md](../../02-design/drafts/gap-117-voter-exportation.md).
 
 ---
 
