@@ -402,6 +402,117 @@ No exception other than those enumerated in this subsection shall be implied, in
 
 (k) **Congressional Review.** Congress shall review all active inter-Regional security compacts every two (2) years. Any compact not affirmatively reauthorized by Congress shall automatically sunset. Annual reports on compact activity shall be submitted to the Armed Services Committees of both Houses.
 
+### Section 7. Cyber Operations with Domestic Effect
+
+*Resolves Gap 102 — The "Emergency Loophole" for Information Warfare.*
+
+#### Definitions and Scope
+
+(a) **Definitions.** For purposes of this Section and Article XVI:
+
+(1) A "cyber operation with domestic effect" is any government-directed action using digital means that monitors, intercepts, filters, blocks, degrades, disrupts, or otherwise affects the communications, data, or digital activity of persons within the territory of the United Regions. This definition applies regardless of whether the operation is denominated as "defensive," "administrative," "hygiene," "protective," or any other characterization.
+
+(2) "Domestic communications" means communications in which at least one party is a United States person located within the territory of the United Regions.
+
+(3) A "proxy designation" is any determination by the executive branch that a domestic organization, political entity, media organization, or individual is acting as an agent, proxy, or instrumentality of a foreign power or foreign intelligence service.
+
+#### Two-Key Extension
+
+(b) **Two-Key Authorization for Cyber Operations.** Notwithstanding Article XVI, Section 3(a)-(b) and Section 6:
+
+(1) Cyber operations with domestic effect are subject to the two-key authorization requirement of Section 2(g) of this Article. No cyber operation with domestic effect may proceed without two-key authorization, except as provided in subsections (b)(3) and (b)(4).
+
+(2) For purposes of two-key authorization, cyber operations with domestic effect shall be treated as equivalent to domestic deployment of armed forces. The "digital force equivalence" principle stated in the compatibility clause of this Article is hereby given operative constitutional force: cyber capabilities directed at domestic targets receive the same institutional checks as kinetic force.
+
+(3) **Warrant Exception.** A specific, individualized warrant issued by a court of competent jurisdiction, whose primary purpose is the criminal investigation of identified suspects, pursuant to Article XVI, Section 1(b), satisfies the two-key requirement for the specific target and period identified in the warrant, provided that the operation:
+
+- (i) is directed solely at specific devices, accounts, or servers identified in the warrant;
+- (ii) does not alter the configuration, availability, or integrity of platforms, networks, or services for users other than the named targets;
+- (iii) does not constitute strategic information warfare, mass influence operations, or platform-wide disruption.
+
+Warrants issued by the Foreign Intelligence Surveillance Court, or any warrant predicated on foreign intelligence authority rather than criminal investigation, do not satisfy the two-key requirement and must obtain two-key authorization independently. This exception does not apply to mass or bulk operations affecting persons beyond those identified in the warrant.
+
+(4) **Defensive Operations Carve-Out.** Emergency cyber operations under Article XVI, Section 6 that are purely defensive — limited to blocking incoming attacks against federal networks and critical infrastructure — are not "cyber operations with domestic effect" for purposes of this subsection, provided they do not monitor, intercept, or affect domestic communications. The Director of the Cybersecurity and Infrastructure Security Agency shall certify weekly during any ongoing defensive operation that the operation has not expanded into monitoring, interception, or collection of domestic communications. The CISA Director certification shall be transmitted to the congressional intelligence committees and made available to the National Constitutional Court. Failure to transmit a required weekly certification automatically suspends the defensive operation until the certification is received. An operation that commences as purely defensive but subsequently monitors, intercepts, or collects domestic communications becomes a cyber operation with domestic effect upon such expansion and must obtain two-key authorization before continuing.
+
+#### Foreign Proxy Designation Limitations
+
+(c) **Proxy Designation Limitations.**
+
+(1) The executive branch may not designate a domestic organization, political entity, media organization, or individual as an agent, proxy, or instrumentality of a foreign power except upon a judicial finding by the National Constitutional Court, based on clear and convincing evidence, that the target is a direct agent of a foreign military or intelligence service.
+
+(2) "Direct agent" means a person or entity that receives operational instructions and material compensation from a foreign government or foreign intelligence service for the purpose of advancing that government's policy objectives. The following do not constitute direct agency:
+
+- (i) sharing policy views or political positions aligned with those of a foreign government;
+- (ii) receiving, publishing, or distributing publicly available foreign media or information;
+- (iii) engaging in advocacy that happens to align with foreign government preferences;
+- (iv) receiving funding from foreign non-governmental sources for lawful purposes;
+- (v) maintaining communication with foreign journalists, academics, or civil society organizations.
+
+(3) The judicial finding shall identify the specific foreign power, the specific operational instructions received, and the specific material compensation provided. General allegations of "foreign influence" or "foreign alignment" do not satisfy this requirement.
+
+(4) Where national security requires classified submissions in support of a proxy designation, the National Constitutional Court shall appoint a cleared special advocate to represent the target's interests in reviewing the classified evidence. No proxy designation may be based solely on evidence that the target has had no opportunity to contest.
+
+(5) A proxy designation is valid for one hundred eighty (180) days and must be renewed with fresh evidence demonstrating continued direct agency. Each renewal is subject to the same judicial finding requirement. Lapsed designations may not be retroactively extended.
+
+(6) The executive branch may not apply cyber operations, surveillance authority, or foreign intelligence collection to any domestic target based on a proxy designation that has not been judicially validated under this subsection. Cyber operations conducted against a domestic target whose proxy designation has lapsed or been judicially invalidated are unlawful and subject to the remedies of Article XVI, Section 7(d).
+
+#### Platform and Communications Protection
+
+(d) **Platform and Communications Protection.**
+
+(1) No federal, Regional, or State government may seize, commandeer, or assume operational control of communications platforms, social media services, internet service providers, or telecommunications carriers, except:
+
+- (i) during a declared cyber emergency under Article XVI, Section 6, limited to the specific infrastructure under active attack;
+- (ii) for a period not exceeding seventy-two (72) hours after the attack ceases, as determined under clause (iv);
+- (iii) control must be returned to the operator immediately upon restoration of functionality;
+- (iv) the seventy-two-hour period begins on the earliest of: a cessation finding by the National Constitutional Court, expiration of the cyber emergency declaration, or voluntary executive certification that the attack has ceased. Any party may petition the National Constitutional Court for a cessation finding; the Court shall rule within forty-eight (48) hours of such petition.
+
+(2) No government may order, direct, or coerce a communications platform or internet service provider to:
+
+- (i) filter, block, or remove content based on political viewpoint, policy position, or criticism of government;
+- (ii) prioritize, suppress, or algorithmically disadvantage content based on its political character;
+- (iii) provide the government with the ability to directly modify, delete, or control content visible to users.
+
+(3) Government requests for content removal based on specific legal violations (fraud, incitement to imminent violence, child exploitation, disclosure of classified information) must be made through public legal process, published within thirty (30) days of the request, and subject to judicial review. The National Constitutional Court may authorize a temporary delay in publication, not exceeding an additional thirty (30) days, upon a sealed showing that immediate publication would compromise active intelligence sources or methods or endanger life. No government entity may issue blanket or categorical removal orders.
+
+(4) Communications platforms designated as critical infrastructure under Article XVI, Section 2(a)(4) retain all protections of this subsection. Critical infrastructure designation does not authorize government content control.
+
+(5) If government control of infrastructure is voluntarily relinquished under paragraph (1), no new seizure, commandeering, or operational control of the same or substantially similar infrastructure may be initiated for seventy-two (72) hours without prior authorization from the National Constitutional Court.
+
+#### Press and Political Speech Protection
+
+(e) **Press and Political Speech Protection.**
+
+(1) No cyber operation may target a journalist, media organization, or press entity absent a specific, individualized warrant meeting all requirements of Article XVI, Section 1(b), and additionally demonstrating:
+
+- (i) that the target is a direct agent of a foreign military or intelligence service as defined in subsection (c)(2) — not merely a recipient of foreign media, a publisher of foreign-sourced information, or a holder of views aligned with foreign positions;
+- (ii) that the cyber operation is the least restrictive means of addressing the specific threat identified.
+
+(2) Incidental collection of journalist communications during lawful cyber operations shall be subject to enhanced minimization procedures. Journalist communications identified during minimization shall be automatically purged within forty-eight (48) hours of identification unless the government obtains a retention warrant from the National Constitutional Court specifically authorizing retention of that journalist's communications. No journalist communications may be disseminated or used for any purpose prior to obtaining a retention warrant.
+
+(3) **Election Period Protection.** During the period beginning ninety (90) days before any federal or Regional election — including elections for Regional Governor, Regional Legislature, and federal offices elected from within a Region — and ending thirty (30) days after certification of results:
+
+- (i) no new cyber operation with domestic effect may be initiated without specific judicial authorization from the National Election Court, in addition to any other authorization required by this Section;
+- (ii) existing cyber operations with domestic effect must be reauthorized by the National Election Court, which shall presume against authorization absent clear and convincing evidence of imminent threat to electoral integrity or national security;
+- (iii) the National Election Court shall publish a public summary (with classified details redacted) of all cyber operations authorized or denied during the election period, within sixty (60) days after certification;
+- (iv) the National Election Court's jurisdiction under this subsection is limited to the authorization or prohibition of cyber operations with domestic effect and does not extend to the adjudication of election results, which remain subject to Regional and State law.
+
+#### Coordination
+
+(f) **Relationship to Other Provisions.**
+
+(1) This Section supplements Article XVI. Where Article XVI, Section 3(e) references "lawful warrant or foreign intelligence authorization," the authorization must comply with the proxy designation requirements of subsection (c) of this Section if the target is a domestic entity.
+
+(2) This Section supplements Article XVII-RF. A cyber emergency declared under Article XVI, Section 6 does not suspend the requirements of subsections (b) through (e). The emergency powers of Article XVI, Section 6(b) are limited to the defensive measures described in Article XVI, Section 6(b)(1)-(4) and do not authorize offensive cyber operations against domestic targets.
+
+(3) Except as provided in subsection (b)(3), the two-key authorization requirement of subsection (b) applies in addition to, and not in lieu of, the warrant requirements of Article XVI, Section 1(b) and Section 7(b). Where subsection (b)(3) does not apply, both two-key authorization and a warrant must be obtained.
+
+(4) The "administrative" characterization of a cyber operation does not exempt it from the requirements of this Section. Any operation meeting the definition of subsection (a)(1) is subject to this Section regardless of organizational assignment — military, intelligence, civilian agency, or contractor.
+
+(5) The autonomous lethal systems provisions of Section 5 apply independently. Cyber operations that direct autonomous systems to target persons or infrastructure within the United Regions are subject to both Section 5 and this Section.
+
+(6) Nothing in this Section restricts the authority of federal law enforcement agencies to conduct criminal investigations pursuant to individualized warrants issued by courts of competent jurisdiction under Article XVI, Section 1(b), provided such investigations target specific identified suspects and do not constitute bulk surveillance or mass monitoring of domestic communications. Routine criminal investigation of specific suspects is distinct from cyber defense operations directed at categories of persons, organizations, or communications.
+
 ---
 
 ## Design Rationale

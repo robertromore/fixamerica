@@ -2,7 +2,7 @@
 
 **Note**: This changelog has been reorganized by date. See the `changelog/` directory for detailed entries:
 
-- [`changelog/2026-02-04.md`](changelog/2026-02-04.md) - Latest changes (Gap 125, Gap 70, Gap 121 resolutions)
+- [`changelog/2026-02-04.md`](changelog/2026-02-04.md) - Latest changes (Gap 125, Gap 70, Gap 121, Gap 102 resolutions)
 - [`changelog/2026-02-03.md`](changelog/2026-02-03.md) - Gap resolutions (67/75, 128/132/142, 92/116, 99, 104, 109, 56, 79, 118, 90, 106)
 - [`changelog/2026-02-02.md`](changelog/2026-02-02.md) - Gap resolutions (199, 13, index triage)
 - [`changelog/2026-02-01.md`](changelog/2026-02-01.md) - Gap resolutions (220, 219, 216, etc.)
@@ -25,6 +25,20 @@ One intergovernmental gap resolved via multi-LLM protocol (v1 → 2 review round
 - `04-meta/gaps/13-intergovernmental.md` — Gap 125: PROPOSAL AVAILABLE to RESOLVED
 - `04-meta/gaps/00-index.md` — Gap 125 status updated
 - `04-meta/02-identified-gaps.md` — Statistics: PA 12 to 11, Resolved 164 to 165
+
+**Status:** RESOLVED | **Detail:** [changelog/2026-02-04.md](changelog/2026-02-04.md)
+
+## 2026-02-04: Gap 102 — Emergency Loophole for Information Warfare Resolved (Article XI-RF §7)
+
+One emergency/military gap resolved via multi-LLM protocol (v1 → 2 review rounds → v3 FINAL) through new Section 7 (Cyber Operations with Domestic Effect) in Article XI-RF (Armed Forces RF Supplement). Gap 102 (Emergency Loophole for Information Warfare): all 16 gaming vectors closed. §7(a) definitions (functional "cyber operation with domestic effect" regardless of characterization; "domestic communications"; "proxy designation"). §7(b) Two-Key extension to cyber operations with criminal warrant exception (primary-purpose test, named-target-only scale constraint, no platform effects, explicit info-warfare prohibition), CISA Director weekly certification with automatic suspension, and defensive operations carve-out with expansion trigger. §7(c) proxy designation limitations (NCC judicial finding, clear and convincing evidence, "direct agent" = instructions AND compensation, 5 exclusions, cleared special advocate, 180-day validity with fresh-evidence renewal). §7(d) platform protection (72-hour seizure limit with NCC cessation finding and 48-hour ruling deadline, content control prohibition, public legal process for removal with NCC-approved delay, anti-cycling rule). §7(e) press and election protection (journalist targeting requires direct-agent warrant + least restrictive means, 48-hour auto-purge, 90-day election period via NEC for federal/Regional elections with jurisdiction limitation). §7(f) coordination (supplements Art XVI, emergency doesn't suspend, cumulative authorization with (b)(3) exception, characterization irrelevant, autonomous systems independent, law enforcement carve-out).
+
+### Files Modified
+
+- `02-design/constitution/10-armed-forces.md` — Art XI-RF §7 added: 6 subsections (a)-(f)
+- `02-design/drafts/gap-102-emergency-info-warfare.md` — Draft file (v3 FINAL)
+- `04-meta/gaps/09-emergency-military.md` — Gap 102: PROPOSAL AVAILABLE to RESOLVED
+- `04-meta/gaps/00-index.md` — Gap 102 status updated
+- `04-meta/02-identified-gaps.md` — Statistics: PA 9 to 8, Resolved 167 to 168
 
 **Status:** RESOLVED | **Detail:** [changelog/2026-02-04.md](changelog/2026-02-04.md)
 
