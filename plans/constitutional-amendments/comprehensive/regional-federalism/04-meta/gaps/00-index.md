@@ -117,7 +117,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 94 | Healthcare cost variation and cross-regional care | High | Partially Mitigated |
 | 107 | Ghost residency and equalization formula gaming | Medium | Proposal Available |
 | 110 | Property tax base divergence | Low | Requires Monitoring |
-| 112 | Budgetary midnight (sequestration) | Medium | Proposal Available |
+| 112 | Budgetary midnight (sequestration) | Medium | ✅ Resolved |
 | 123 | Counter-cyclical fiscal capacity at regional level | Medium | Partially Mitigated |
 | 124 | Internal tax haven arbitrage | Medium | Proposal Available |
 | 170 | Fiscal cliff hostage (weaponized shutdowns) | Critical | ✅ Resolved |

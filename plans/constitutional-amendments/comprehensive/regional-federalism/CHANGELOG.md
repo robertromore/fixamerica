@@ -2,7 +2,7 @@
 
 **Note**: This changelog has been reorganized by date. See the `changelog/` directory for detailed entries:
 
-- [`changelog/2026-02-04.md`](changelog/2026-02-04.md) - Latest changes (Gap 125, Gap 70, Gap 121, Gap 102 resolutions)
+- [`changelog/2026-02-04.md`](changelog/2026-02-04.md) - Latest changes (Gap 125, Gap 70, Gap 121, Gap 102, Gap 117, Gap 111, Gap 112 resolutions)
 - [`changelog/2026-02-03.md`](changelog/2026-02-03.md) - Gap resolutions (67/75, 128/132/142, 92/116, 99, 104, 109, 56, 79, 118, 90, 106)
 - [`changelog/2026-02-02.md`](changelog/2026-02-02.md) - Gap resolutions (199, 13, index triage)
 - [`changelog/2026-02-01.md`](changelog/2026-02-01.md) - Gap resolutions (220, 219, 216, etc.)
@@ -13,6 +13,21 @@
 - [`changelog/2026-01-26.md`](changelog/2026-01-26.md) - Territorial integration incentives
 - [`changelog/2026-01-25.md`](changelog/2026-01-25.md) - Major integration work
 - [`changelog/2026-01-24.md`](changelog/2026-01-24.md) - Historical development
+
+## 2026-02-04: Gap 112 — Budgetary Midnight / Sequestration Resolved (Article X §19(j)-(o))
+
+One fiscal equalization gap resolved via multi-LLM protocol (v1 → R1 review → v2 → R2 confirmatory review → v3 FINAL) through new subsections (j)-(o) (Disbursement Protection and Withholding Remedy) in Article X (Fiscal System), Section 19 (Automatic Continuing Resolution). Gap 112 (Budgetary Midnight): all 12 gaming vectors closed. §19(j) mandatory disbursement schedule with 14-day/7-day hold limits, Treasury publication mandate, default monthly pro-rata for new programs, 95% compliance threshold, and 10-business-day judicial decision deadline. §19(k) six prohibited delay tactics with narrow statutory/court-order exception. §19(l) delay presumption with burden shift. §19(m) IFC independent disbursement authority with self-executing non-stayable orders and judicial-hold exception. §19(n) Regional offset authority limited to Region-paid obligations with IFC-supervised escrow and backup custodian. §19(o) enforcement with personal liability at preponderance standard, individual damages, and AG independent authority.
+
+### Files Modified
+
+- `02-design/constitution/04-fiscal-system.md` — Art X §19(j)-(o) added: 6 subsections
+- `02-design/drafts/gap-112-budgetary-midnight.md` — Draft file (v3 FINAL)
+- `02-design/constitution/article-crosswalk.md` — §19(j)-(o) entry added
+- `04-meta/gaps/07-fiscal-equalization.md` — Gap 112: PROPOSAL AVAILABLE to RESOLVED
+- `04-meta/gaps/00-index.md` — Gap 112 status updated
+- `04-meta/02-identified-gaps.md` — Statistics: PA 6 to 5, Resolved 170 to 171
+
+**Status:** RESOLVED | **Detail:** [changelog/2026-02-04.md](changelog/2026-02-04.md)
 
 ## 2026-02-04: Gap 125 — Senate Treaty Blockade (Minority Veto) Resolved (Article IV §4-F)
 

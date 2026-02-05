@@ -1570,6 +1570,60 @@ Congress may add functions to this list by two-thirds vote of both chambers, sub
 
 (i) **Unauthorized Military Operations Exclusion.** Automatic appropriations under this section shall not fund military operations for which authorization under Article XI, Section 2, has expired, been terminated, or was never granted. The Comptroller General shall identify and quarantine such expenditures within thirty days of the commencement of any automatic appropriation period. Funds necessary for the orderly withdrawal of forces under Article XI, Section 2(j), are not subject to this exclusion.
 
+*[Subsections (j)-(o) establish mandatory disbursement timelines, prohibit executive delay tactics during automatic appropriation periods, and provide layered remedies including IFC disbursement authority, Regional self-help offset, and personal liability. See Gap 112.]*
+
+(j) **Mandatory Disbursement Schedule.** Funds under automatic appropriation pursuant to this Section:
+
+- (1) shall be disbursed according to the prior fiscal year's disbursement schedule, adjusted proportionally to reflect the applicable rate under subsection (b) or the full-funding level under subsection (d), as appropriate. The Department of the Treasury shall publish each program's prior-year disbursement schedule within thirty (30) days of the commencement of any automatic appropriation period. For programs without a prior-year disbursement schedule — including programs first funded in the last-enacted appropriation — funds shall be disbursed in equal monthly installments on the first business day of each month;
+- (2) no administrative hold, review, audit, or other executive action may delay any scheduled disbursement by more than fourteen (14) calendar days from the date disbursement was due under the prior fiscal year's schedule or the default schedule under paragraph (1). For essential function appropriations under subsection (d), no administrative hold may delay disbursement by more than seven (7) calendar days;
+- (3) an administrative hold exceeding the applicable limit under paragraph (2) requires authorization from the Constitutional Court based on a finding, by clear and convincing evidence, of actual fraud or material misuse of previously disbursed funds by the recipient — pending audits, procedural concerns, documentation deficiencies, or incomplete review do not constitute sufficient grounds. The Constitutional Court shall rule on any hold request within ten (10) business days of filing. If the Court does not rule within ten (10) business days, the hold request lapses by operation of law and the funds shall be disbursed immediately;
+- (4) for purposes of this subsection, "disbursement" means the transfer of funds to the recipient's account, not the initiation of internal processing. Compliance is measured by the date funds are available to the recipient, not the date the disbursing agency begins processing;
+- (5) disbursement of less than ninety-five percent (95%) of the scheduled amount by the scheduled date constitutes a failure to disburse under this subsection, unless the shortfall is attributable to a valid judicial hold under paragraph (3).
+
+(k) **Prohibited Delay Tactics.** During any period of automatic appropriation under this Section, executive agencies and the Department of the Treasury may not:
+
+- (1) require documentation from any Region, agency, or other recipient that exceeds the documentation required for the corresponding disbursement in the prior fiscal year;
+- (2) impose compliance reviews, audits, certifications, or reporting requirements not applicable to the prior fiscal year's disbursements;
+- (3) apply disbursement processing standards, timelines, review procedures, or staffing levels that differ among Regions or among recipients of the same program, unless such differences existed in the prior fiscal year;
+- (4) reclassify expenditure categories, reallocate appropriation line items, or restructure disbursement accounts in a manner that delays fund release;
+- (5) require reauthorization of standing disbursement arrangements, intergovernmental transfer agreements, or direct-deposit instructions that were in effect during the prior fiscal year;
+- (6) delegate disbursement authority to a new office, agency, or intermediary not involved in disbursement during the prior fiscal year.
+
+Paragraphs (1) and (2) do not prohibit compliance with requirements imposed by statute enacted after the prior fiscal year or by court order, provided that such requirements do not delay disbursement beyond the limits established by subsection (j)(2). Executive agencies invoking this exception shall bear the burden of demonstrating that the new requirement is mandated by a specific statutory provision or court order, not by executive discretion, and shall implement it in a manner that does not exceed the hold periods established by this Section.
+
+(l) **Delay Presumption.** Administrative delay of any automatic appropriation disbursement exceeding fourteen (14) calendar days beyond the scheduled date:
+
+- (1) is presumptively a violation of this Section;
+- (2) shifts the burden of proof to the responsible executive agency to demonstrate, by clear and convincing evidence, that the delay is justified by actual fraud or material misuse;
+- (3) creates immediate remedy eligibility under subsections (m) and (n).
+
+(m) **Independent Disbursement Authority.** If any executive agency or the Department of the Treasury fails to disburse automatic appropriation funds within the fourteen (14) day limit established by subsection (j)(2):
+
+- (1) the Independent Fiscal Council shall, upon petition by any affected Region or upon its own initiative, order the Department of the Treasury to disburse the withheld funds within five (5) business days;
+- (2) an IFC disbursement order under this subsection is self-executing and may not be stayed, reversed, or modified by any executive officer, including the President;
+- (3) the IFC shall maintain standing contingency procedures for emergency disbursement, including verified electronic transfer capabilities, to ensure operational readiness;
+- (4) if the Department of the Treasury fails to comply with an IFC disbursement order within five (5) business days, any affected Region may petition the Constitutional Court for a mandatory injunction. The Court shall hear the petition within forty-eight (48) hours and shall issue the injunction unless the executive demonstrates actual fraud or material misuse by clear and convincing evidence;
+- (5) the IFC's authority under this subsection extends to all funds subject to automatic appropriation, including essential function appropriations under subsection (d) and monthly continuation adjustments under subsection (c);
+- (6) the IFC's authority under this subsection does not extend to funds subject to a valid judicial hold issued by the Constitutional Court under subsection (j)(3). The IFC may not order disbursement of funds that a court has specifically held pending a finding of actual fraud or material misuse. If the judicial hold subsequently lapses — including by operation of the ten (10) business day deadline under subsection (j)(3) — or is vacated, the IFC's authority over those funds is restored immediately.
+
+(n) **Regional Offset Authority.** If disbursement is delayed beyond thirty (30) calendar days notwithstanding the remedies under subsection (m):
+
+- (1) the affected Region may offset the delayed amount against the Region's next scheduled fiscal obligations to the federal government, limited to shared-revenue contributions, intergovernmental transfer payments, penalty assessments, and other fiscal obligations that the Region directly pays to the federal government. Offsets may not be applied against federal taxes collected directly from individuals or entities within the Region by the Internal Revenue Service or successor agency;
+- (2) offset funds shall be held in a segregated escrow account by the Region, established under IFC supervision, pending judicial resolution under subsection (o) or full federal disbursement, whichever occurs first. If the IFC is unable to supervise the escrow account due to institutional incapacity, the Constitutional Court shall designate an alternate escrow custodian from among the federal courts or an independent fiduciary approved by the Court;
+- (3) the offset amount may not exceed the documented amount of delayed federal disbursement, calculated using the prior year's schedule as the benchmark;
+- (4) offset authority terminates immediately upon full federal disbursement, and all escrowed funds shall be released to the federal government within ten (10) business days of disbursement completion;
+- (5) a Region's exercise of offset authority under this subsection is not a violation of Article XII (Secession and De-Escalation) or Article XXIV (Union Permanence and Orderly Alteration) and shall not be treated as an act of nullification or non-compliance with federal fiscal obligations. This subsection provides a constitutionally authorized self-help remedy operative only during documented executive failure to perform a mandatory disbursement obligation.
+
+(o) **Enforcement and Judicial Review.**
+
+- (1) Either party may seek expedited judicial review before the Constitutional Court:
+    - (i) of whether federal disbursement delay was justified under the actual-fraud-or-misuse standard;
+    - (ii) of whether any Regional offset under subsection (n) was proportional and properly calculated;
+    - (iii) review shall be completed within thirty (30) days of filing.
+- (2) Executive officials who direct, authorize, or knowingly maintain disbursement delay in violation of this Section are personally liable in civil actions brought by affected Regions. Personal liability requires proof by preponderance of the evidence that the official (i) held authority over the delayed disbursement, and (ii) acted with knowledge that the delay violated subsection (j) or continued the delay after receiving an IFC disbursement order under subsection (m).
+- (3) Affected individuals whose compensation, benefits, or program entitlements were delayed or terminated as a result of a disbursement delay that violated this Section may bring civil actions for damages against the responsible federal agency. Prevailing plaintiffs shall recover reasonable attorney fees and litigation costs.
+- (4) The Attorney General may bring enforcement actions under this subsection independently of any Regional petition. Enforcement actions by the Attorney General are not subject to the prior IFC petition requirement of subsection (m)(1).
+
 ---
 
 ### Section 20. Actuarial Honesty and Pension Discipline

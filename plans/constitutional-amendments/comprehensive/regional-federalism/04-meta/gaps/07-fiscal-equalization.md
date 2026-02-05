@@ -1961,7 +1961,7 @@ Article XXI, Section 2(d) provides "Automatic Fiscal Continuation" if Congress f
 - **Gap 94 (Emergency Debt):** Fiscal crisis; Gap 112 addresses manufactured fiscal crisis
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article XXI-RF, Section 2. This two-part solution establishes 14-day maximum disbursement delay with prior year schedule requirement, and authorizes Regional withholding of federal tax revenue as self-help remedy with proportionality limits and expedited review.
+**RESOLVED.** Integrated as Article X, Section 19(j)-(o) (Disbursement Protection and Withholding Remedy) in `02-design/constitution/04-fiscal-system.md`. Resolved via multi-LLM protocol (v1 → R1 review → v2 → R2 confirmatory review → v3 FINAL). Target renumbered from original Art XXI §2(e-j) to Art X §19(j)-(o). Six subsections: (j) mandatory disbursement schedule with 14-day/7-day hold limits, Treasury publication mandate, and default monthly pro-rata for new programs; (k) six prohibited delay tactics with narrow statutory/court-order exception; (l) delay presumption with burden shift; (m) IFC independent disbursement authority with self-executing orders and judicial-hold exception; (n) Regional offset authority limited to Region-paid obligations with IFC-supervised escrow and backup custodian; (o) enforcement with personal liability, individual damages, and AG independent authority.
 
 ---
 
