@@ -293,6 +293,57 @@ Courts shall resolve the constitutional question on the merits unless both parti
 
 Standing under this subsection shall not require demonstration of injury-in-fact beyond the alleged constitutional violation itself. A Region's interest in the constitutional allocation of powers is a sufficient sovereign interest to establish jurisdiction.
 
+### Section 6. Shadow Stay Prevention
+
+*Resolves Gap 111 — The "Shadow Stay" via Regional Administrative Law. Closes loopholes in Section 3's judicial stay protections by extending coverage to administrative-level obstruction, detecting rolling stay patterns, and providing systemic enforcement with citizen remedies.*
+
+(a) **Administrative Suspension Prohibition.** No Regional agency, administrative body, or executive officer may issue any administrative stay, interpretive guidance, implementation hold, enforcement moratorium, or other directive that has the effect of suspending, delaying, or materially narrowing the enforcement of a Federal Floor or Federal Framework within the Region. For purposes of this section:
+
+- (1) "materially narrowing" means interpreting a Federal Floor to apply to fewer persons, circumstances, or geographic areas than its terms require;
+- (2) an administrative action has the "effect of suspending" if Federal Floor enforcement within the Region falls below ninety percent (90%) of the higher of (i) the pre-action Regional enforcement rate, or (ii) the national average enforcement rate for the same Federal Floor as published by the relevant federal enforcement agency. The relevant federal enforcement agency shall publish annual enforcement data for each Federal Floor, including the methodology for calculating enforcement rates. If no enforcement data has been published within twelve (12) months following the Federal Floor's effective date, the national average enforcement rate shall be deemed to be one hundred percent (100%) for purposes of this subsection. For Federal Floors in effect for less than one (1) year, the relevant federal enforcement agency shall establish a provisional enforcement baseline within ninety (90) days of the Floor's effective date; if no provisional baseline is established, the baseline shall be one hundred percent (100%);
+- (3) this prohibition applies regardless of whether the administrative action is denominated as "guidance," "interpretation," "clarification," "implementation plan," "enforcement priority," or any other characterization.
+
+(b) **Rolling Stay Prohibition.** No Region may enact legislation, adopt regulations, or issue executive orders that create new procedural conflicts with a Federal Floor for the purpose of obtaining judicial stays after prior stays on the same Federal Floor have been vacated under Section 3 of this Article. Whether legislation was enacted "for the purpose of obtaining judicial stays" shall be determined by the totality of circumstances, including:
+
+- (1) temporal proximity between the vacatur of a prior stay and the enactment of the new legislation;
+- (2) whether the new legislation addresses the same Federal Floor previously subject to a stay;
+- (3) whether the "procedural conflict" in the new legislation is minor relative to the substantive policy enacted;
+- (4) whether the Region has engaged in a pattern of sequential stays on the same or related Federal Floors.
+
+Legislation creating a procedural conflict with a Federal Floor enacted within one hundred twenty (120) days of the vacatur of a prior stay on the same Federal Floor creates a rebuttable presumption of obstructive purpose. The Region may rebut this presumption by demonstrating, by clear and convincing evidence, that the legislation serves a substantial independent policy objective unrelated to the procedural conflict.
+
+(c) **Shadow Stay Finding.** The Allocation Review Board may issue a "Shadow Stay Finding" upon determining, by a preponderance of the evidence, that a Region has engaged in sustained obstruction of Federal Floor enforcement. Sustained obstruction exists if:
+
+- (1) a Federal Floor has been effectively non-enforced within the Region for more than sixty (60) cumulative days within any twelve (12) month period, through any combination of judicial stays, administrative suspensions, or legislative modifications;
+- (2) the Region has obtained two (2) or more sequential judicial stays on the same Federal Floor within twenty-four (24) months, where each stay was preceded by new legislation creating a fresh procedural conflict;
+- (3) a Regional agency has issued an administrative action meeting the criteria of subsection (a) and has failed to rescind it within thirty (30) days of notification by the relevant federal enforcement agency.
+
+The ARB may initiate an investigation upon petition by the Attorney General, by any citizen with standing under Section 5, or upon its own motion when publicly available enforcement data reveals patterns consistent with sustained obstruction.
+
+(d) **Consequences of Shadow Stay Finding.**
+
+- (1) Upon issuance of a Shadow Stay Finding, the ARB shall transmit the Finding to the National Constitutional Court. The NCC shall, within five (5) business days, review the Finding for procedural regularity and, if valid, vacate all pending judicial stays and administrative suspensions affecting the Federal Floor identified in the Finding. The NCC's review is limited to: (i) whether the ARB had jurisdiction over the Region and Federal Floor identified in the Finding, (ii) whether the ARB observed procedural regularity, including quorum, notice to the Region, and opportunity to respond, and (iii) whether the Finding identifies a specific Federal Floor. The NCC may not review the merits of the ARB's preponderance determination or the same-subject-matter classification under subsection (d)(2). If the NCC identifies a procedural defect, it shall return the Finding to the ARB for correction within ten (10) business days rather than deny vacatur;
+- (2) the Region shall be prohibited from obtaining new judicial stays on the same Federal Floor, and on any Federal Floor addressing the same subject matter, for a period of two (2) years from the date of the Finding. For purposes of this subsection, Federal Floors address the "same subject matter" if they share one or more of the following characteristics as determined by the ARB at the time of the Finding: (i) derivation from the same constitutional provision or implementing legislation, (ii) regulation of the same category of conduct, (iii) protection of the same class of persons, or (iv) administration by the same federal enforcement agency;
+- (3) during the prohibition period, the relevant federal enforcement agency may operate directly within the Region to enforce the Federal Floor, with costs borne by the Region;
+- (4) the Region shall reimburse the federal government for documented enforcement costs incurred during the period of non-enforcement;
+- (5) Regional officials who designed, directed, or coordinated the sustained obstruction are personally liable in civil actions brought by affected persons or by the Attorney General. Personal liability requires proof by clear and convincing evidence that the official (i) held decision-making authority over the obstructive action, (ii) acted with knowledge that the action would suspend or materially narrow Federal Floor enforcement, and (iii) continued the action after notice from a federal enforcement agency or the ARB. Officials found liable may be subject to disqualification from public office under the same standards applicable to other constitutional violations. Nothing in this subsection creates criminal liability; criminal referrals remain within the Attorney General's prosecutorial discretion.
+
+(e) **Citizen Enforcement and Damages.** In addition to the standing provided by Section 5 of this Article:
+
+- (1) any person who suffered concrete harm from the non-enforcement of a Federal Floor during a period of sustained obstruction may bring suit in federal court against the Region;
+- (2) recoverable damages include: lost wages, benefits, or entitlements attributable to non-enforcement; costs of alternative arrangements necessitated by non-enforcement; and consequential damages proximately caused by non-enforcement;
+- (3) prevailing plaintiffs shall recover reasonable attorney fees and litigation costs from the Region;
+- (4) class actions are authorized where the non-enforcement affected a class of similarly situated persons;
+- (5) the two-year prohibition period under subsection (d)(2) creates a rebuttable presumption that non-enforcement during the preceding period was caused by the Region's sustained obstruction.
+
+(f) **Coordination with Existing Provisions.**
+
+- (1) This Section supplements Section 3 of this Article. Section 3's requirements for judicial order transmission, NCC review, and anti-reliance protections continue to apply independently;
+- (2) the forty-eight (48) hour transmission requirement of Section 3(e) applies to administrative actions meeting the criteria of subsection (a) of this Section, in addition to judicial orders. Regional agencies issuing such actions shall transmit them to the National Constitutional Court within forty-eight (48) hours of the earliest of: (i) the date the administrative action is formally issued, (ii) the date the action is first implemented or applied, or (iii) the date the action first produces measurable impact on Federal Floor enforcement within the Region;
+- (3) the expedited review provisions of Section 4 apply to challenges brought under this Section;
+- (4) a Shadow Stay Finding does not require a prior finding of non-compliance under Section 3. The ARB may issue a Finding based on administrative obstruction alone, judicial obstruction alone, or any combination;
+- (5) nothing in this Section limits the authority of federal courts to vacate individual stays under Section 3(e) or to award remedies under Section 4(f). This Section provides additional, systemic enforcement mechanisms.
+
 ---
 
 ## ARTICLE III-RF - FEDERAL JUDICIAL REFORM PROVISIONS

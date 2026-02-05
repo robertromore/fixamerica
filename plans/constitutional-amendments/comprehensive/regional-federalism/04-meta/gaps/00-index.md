@@ -305,7 +305,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 77 | Education curriculum coordination | Low | Accepted by Design |
 | 78 | Healthcare reciprocity and emergency treatment | Medium | Partially Mitigated |
 | 96 | Extradition and fugitive recovery | Medium | Partially Mitigated |
-| 111 | Shadow stay via regional administrative law | Medium | Proposal Available |
+| 111 | Shadow stay via regional administrative law | Medium | ✅ Resolved |
 | 114 | Insurance regulation coordination | Medium | Partially Mitigated |
 | 115 | Banking and financial services oversight | Medium | Partially Mitigated |
 | 125 | Senate treaty blockade (minority veto) | Medium | ✅ Resolved |

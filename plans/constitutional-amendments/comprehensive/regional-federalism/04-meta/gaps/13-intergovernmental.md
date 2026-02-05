@@ -3133,7 +3133,7 @@ Article XIV-RF grants Regional courts jurisdiction over Regional law. A Region s
 - **Gap 78 (Rights Floor Arbitrage):** Standards gaming; Gap 111 addresses enforcement gaming
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article XIV-RF, Section 10. This two-part solution prohibits Regional stays on federal standards pending final Supreme Court judgment, and enables ARB Shadow Stay finding with immediate vacation and citizen enforcement.
+**RESOLVED.** Integrated as Article XIV-RF, Section 6 — Shadow Stay Prevention. See [draft](../../02-design/drafts/gap-111-shadow-stay.md) and [constitution](../../02-design/constitution/09-judiciary.md). Six subsections (a)-(f): Administrative Suspension Prohibition with 90% dual-baseline enforcement benchmark and publication mandate; Rolling Stay Prohibition with totality-of-circumstances test and 120-day rebuttable presumption; Shadow Stay Finding by ARB with 60-day/24-month triggers; Consequences including ARB-triggers-NCC vacatur, two-year same-subject prohibition, direct federal enforcement, and personal civil liability at clear-and-convincing standard; Citizen Enforcement with damages and class actions; Coordination with existing §3-§5. Proposal's original "Section 10" renumbered to Section 6 (Art XIV-RF internal numbering).
 
 ---
 
