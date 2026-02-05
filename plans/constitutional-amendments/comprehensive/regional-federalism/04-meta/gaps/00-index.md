@@ -309,7 +309,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 114 | Insurance regulation coordination | Medium | Partially Mitigated |
 | 115 | Banking and financial services oversight | Medium | Partially Mitigated |
 | 125 | Senate treaty blockade (minority veto) | Medium | ✅ Resolved |
-| 126 | Census emergency and boundary sabotage | Medium | Proposal Available |
+| 126 | Census emergency and boundary sabotage | Medium | ✅ Resolved |
 | 127 | Public health data sharing and disease surveillance | High | Partially Mitigated |
 | 172 | Trojan Horse infrastructure (foreign influence) | High | ✅ Resolved |
 | 176 | Lex Loci crisis (cross-border prosecution) | Critical | ✅ Resolved |

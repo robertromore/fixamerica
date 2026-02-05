@@ -3566,7 +3566,7 @@ Regional boundaries are revised decennially based on census data. A Region threa
 - **Gap 117 (Voter Exportation):** Population manipulation; Gap 126 addresses enumeration manipulation
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article XVIII-RF, Section 1. This four-part solution establishes census immunity from emergency powers with worker protection, authorizes alternative enumeration methods for obstructed counts, creates anti-sabotage provisions with burden shifting, and protects constitutional timeline integrity.
+**RESOLVED.** Integrated as Article XVII-RF, Section 6 (Census Immunity and Enumeration Protection). See [draft](../../02-design/drafts/gap-126-census-enumeration-protection.md).
 
 ---
 

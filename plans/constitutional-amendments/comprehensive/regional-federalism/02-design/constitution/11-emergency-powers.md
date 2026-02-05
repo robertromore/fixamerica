@@ -192,6 +192,82 @@ No displaced citizen shall be compelled to relocate to a specific Region. Alloca
 
 ---
 
+### Section 6. Census Immunity and Enumeration Protection
+
+*Resolves Gap 126 — "Census Emergency" and Boundary Sabotage. Establishes constitutional immunity for federal census operations from emergency power abuse, authorizes alternative enumeration when obstruction occurs, creates an enforcement framework with ARB investigation and burden-shifting, and protects the decennial boundary revision timeline from data manipulation.*
+
+(a) **Definitions.** For purposes of this Section:
+
+- (1) "Census period" means the constitutionally mandated decennial enumeration period, beginning on the date designated by the Director of the Census Bureau and continuing until the Director certifies completion, plus any extension authorized by Congress;
+- (2) "Census operations" means all activities conducted by or on behalf of the Census Bureau for purposes of enumeration, including door-to-door canvassing, mail collection, electronic data gathering, administrative records analysis, statistical estimation, and quality verification;
+- (3) "Census obstruction" means any act or omission by a governmental entity — federal, Regional, or State — that delays, prevents, undermines, or materially impedes census operations, including but not limited to:
+    - (A) emergency declarations that restrict census worker movement, access, or operations;
+    - (B) denial or unreasonable delay of access to public facilities, records, or infrastructure needed for enumeration;
+    - (C) data system shutdowns, transmission failures, or interoperability refusals not attributable to natural causes or genuine technical failure;
+    - (D) threats, intimidation, or harassment of census personnel by governmental agents or with governmental acquiescence;
+    - (E) imposition of licensing, credentialing, background check, or security requirements on census workers beyond those imposed by the Census Bureau itself;
+- (4) "Census response rate" means the percentage of housing units within a Region from which the Census Bureau has obtained a completed enumeration response — whether by self-response, field enumeration, or administrative records verification — as certified by the Director of the Census Bureau; the Director shall publish the methodology for calculating response rates no later than one (1) year before each decennial census.
+
+(b) **Census Immunity from Emergency Powers.**
+
+- (1) No emergency declaration — federal, Regional, or State — may be used to delay, obstruct, or modify federal census operations within the declaring jurisdiction;
+- (2) census workers shall have constitutional immunity from emergency restrictions imposed by any level of government during the census period; no governmental entity may detain, exclude, redirect, or impose conditions upon census workers engaged in lawful enumeration activities;
+- (3) the Census Bureau may conduct enumeration using any lawful method notwithstanding any emergency order, declaration, or restriction;
+- (4) governmental data systems that serve census operations shall remain operational during the census period; Regional and State governments shall maintain data transmission capacity to the Census Bureau and shall designate backup transmission methods in advance of each census period; a genuine cyber incident affecting census data systems — verified by a Census Bureau information security officer — shall not constitute census obstruction under subsection (a)(3)(C) provided the affected government activates designated backup transmission methods within twenty-four (24) hours; failure to activate backup methods within this period creates a rebuttable presumption of census obstruction;
+- (5) the immunity established by this subsection applies regardless of whether the underlying emergency declaration is legitimate; a genuine emergency does not authorize census obstruction as an incidental consequence;
+- (6) notwithstanding the foregoing, a federal official designated by the Director of the Census Bureau may temporarily restrict census operations within a specific geographic area when there is an imminent threat to the life or physical safety of census workers that cannot be mitigated by security measures:
+    - (A) the restriction shall be limited to the specific area of imminent threat and shall not exceed seventy-two (72) hours; a single renewal of seventy-two (72) hours may be authorized if the threat persists;
+    - (B) the Census Bureau shall be notified immediately and shall adjust enumeration schedules to compensate for any lost time;
+    - (C) only federal officials may invoke this provision; Regional, State, and local officials may request federal invocation but may not independently restrict census operations on safety grounds;
+    - (D) the Director shall conduct a post-action review within thirty (30) days; if the restriction was not justified by a genuine imminent threat, the restricting official's action constitutes census obstruction under subsection (a)(3);
+    - (E) if an imminent threat to life or physical safety persists beyond one hundred forty-four (144) hours (two full renewal cycles), the designated federal official may petition the NCC for an extended restriction; the NCC shall rule within forty-eight (48) hours; extensions under this clause may not exceed thirty (30) days each and are renewable only upon fresh NCC approval; the Census Bureau shall conduct alternative enumeration under subsection (c) in any area subject to an NCC-approved extended restriction.
+
+(c) **Alternative Enumeration Authority.**
+
+- (1) if a Region's census response rate falls below eighty percent (80%) of the national average response rate, the Census Bureau may employ administrative records, statistical sampling, and other scientifically validated methods to complete enumeration;
+- (2) alternative enumeration conducted under this subsection is valid for all constitutional purposes, including boundary revision under Article I, Section 4 and apportionment;
+- (3) a Region in which census obstruction has been found under subsection (e) may not challenge the methodology of alternative enumeration employed in response to that obstruction; this prohibition takes effect upon final determination — either expiration of the sixty-day NCC appeal period without appeal, or NCC affirmance of the obstruction finding under subsection (e)(6);
+- (4) the Director of the Census Bureau shall select alternative enumeration methods that maximize accuracy; the Director may not deliberately employ inferior methods to disadvantage any Region.
+
+(d) **Enumeration Timeline Integrity.**
+
+- (1) the constitutional census timeline shall not be extended due to Regional or State non-cooperation; boundary revisions under Article I, Section 4 proceed on schedule using the best data available at the constitutionally required deadline;
+- (2) Regions that achieve census response rates at or above ninety percent (90%) of the national average receive a presumption of data accuracy in any boundary dispute under Article I, Section 4;
+- (3) Regions with census response rates below eighty percent (80%) of the national average bear the burden of proving the accuracy of any population claims that diverge from Census Bureau estimates.
+
+(e) **Obstruction Finding and Enforcement.**
+
+- (1) the Allocation Review Board shall investigate potential census obstruction upon:
+    - (A) referral by the Director of the Census Bureau;
+    - (B) petition by any affected Tribal Nation, State, or Region;
+    - (C) its own initiative when a Region's census response rate falls below seventy percent (70%) of the national average as measured at a checkpoint date set by the Director of the Census Bureau, which shall be no earlier than sixty (60) days before the Director's scheduled certification of completion;
+- (2) the ARB shall complete its investigation and issue a written determination within ninety (90) days of initiation; if the investigated government fully cooperated with the investigation and the ARB fails to issue a determination within this period, a rebuttable presumption arises that no obstruction occurred; if the investigated government failed to produce records, respond to inquiries, or otherwise cooperate with the investigation, the ARB may extend the investigation by up to sixty (60) additional days, and the government's non-cooperation creates a rebuttable presumption that obstruction occurred; if the ARB fails to issue a determination within the extended period, subsection (e)(4)(A) and (B) apply automatically — boundary revision proceeds using Census Bureau data and the investigated government bears the burden of proving any data adjustment would be inappropriate;
+- (3) the standard of proof for an obstruction finding is preponderance of the evidence; the ARB may draw adverse inferences from a Region's failure to produce records or cooperate with investigation;
+- (4) upon a finding of census obstruction:
+    - (A) boundary revision under Article I, Section 4 shall proceed using the best available data as determined by the Census Bureau;
+    - (B) the obstructing government bears the burden of proving that any data adjustment would be inappropriate;
+    - (C) the obstruction finding triggers automatic review of the obstructing government's emergency declaration authority by the Regional Assembly for Regional-level obstruction, or by the State legislature for State-level obstruction;
+    - (D) officials who knowingly directed or authorized census obstruction may be referred by the ARB or Attorney General for federal criminal prosecution; the ARB shall refer cases involving willful obstruction to the Attorney General for consideration;
+- (5) a pattern of obstruction — defined as two or more obstruction findings within twenty (20) years — results in mandatory suspension of the obstructing government's authority to restrict census operations for the next two census cycles; during suspension, the Census Bureau operates within the jurisdiction without requiring governmental facilitation;
+- (6) obstruction findings may be appealed to the NCC within sixty (60) days; NCC review is limited to whether the ARB applied the correct legal standard and whether the finding is supported by substantial evidence; the NCC may not substitute its judgment for the ARB's factual determinations.
+
+(f) **Census Bureau Accountability.**
+
+- (1) the Census Bureau shall apply uniform enumeration standards and methods across all Regions; variation in methodology is permitted only when justified by genuine geographic, demographic, or logistical differences, not by political considerations;
+- (2) the Government Accountability Office shall audit Census Bureau operations in each decennial census and report to Congress on methodological uniformity, accuracy, and any evidence of political bias;
+- (3) census workers and Census Bureau employees shall have whistleblower protections; no federal, Regional, or State official may retaliate against a census worker who reports obstruction, political interference, or methodological irregularities;
+- (4) any Region may petition the ARB if it believes Census Bureau methods are being applied non-uniformly; the ARB shall investigate and, if it finds non-uniform application, may order corrective measures.
+
+(g) **Coordination with Other Provisions.**
+
+- (1) this Section supplements but does not replace the anti-ratcheting provisions of Section 2(e)-(h); an emergency declaration that constitutes census obstruction under this Section is independently reviewable regardless of whether it also violates Section 2;
+- (2) federal emergencies declared by the President are subject to census immunity under subsection (b)(1); Section 3(a) (federal emergencies supersede conflicting Regional emergencies) does not authorize the President to supersede census operations;
+- (3) the Boundary Review Commission established under Article I, Section 4 may request ARB investigation of census obstruction as part of any boundary revision proceeding;
+- (4) Tribal Nations conducting their own census or enumeration pursuant to federal law are not subject to this Section; this Section governs only governmental obstruction of federal census operations;
+- (5) the Director of the Census Bureau shall publish the decennial census operational schedule, including all key dates, at least two (2) years before census day; any deviation of more than sixty (60) days from the published schedule requires written justification to Congress, published in the Federal Register, and is subject to GAO review under subsection (f)(2).
+
+---
+
 ## Design Rationale
 
 ### Why Regional Emergency Authority?
@@ -232,6 +308,7 @@ This Regional Emergency Authority article adds:
 - Regional legislature reauthorization
 - Coordination rules between Regional and federal emergencies
 - Regional bio-security cooperation requirements (Section 4)
+- Census immunity and enumeration protection (Section 6)
 
 ---
 

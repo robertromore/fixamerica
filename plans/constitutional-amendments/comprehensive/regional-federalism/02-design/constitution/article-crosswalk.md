@@ -101,6 +101,7 @@ These files contain ONLY the region-dependent provisions. They supplement the st
 | Regional Emergency Powers | XVII-RF | Emergency Powers Reform Amendment | [11-emergency-powers.md](11-emergency-powers.md) |
 | Regional Bio-Security Cooperation | XVII-RF §4 | Emergency Powers Reform Amendment | [11-emergency-powers.md](11-emergency-powers.md) |
 | Catastrophic Displacement and Resettlement | XVII-RF §5 | Emergency Powers Reform Amendment | [11-emergency-powers.md](11-emergency-powers.md) |
+| Census Immunity and Enumeration Protection | XVII-RF §6 | Emergency Powers Reform Amendment | [11-emergency-powers.md](11-emergency-powers.md) |
 
 ---
 

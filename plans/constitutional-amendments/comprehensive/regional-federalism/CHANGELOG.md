@@ -2,7 +2,7 @@
 
 **Note**: This changelog has been reorganized by date. See the `changelog/` directory for detailed entries:
 
-- [`changelog/2026-02-04.md`](changelog/2026-02-04.md) - Latest changes (Gap 125, Gap 70, Gap 121, Gap 102, Gap 117, Gap 111, Gap 112, Gap 27 resolutions)
+- [`changelog/2026-02-04.md`](changelog/2026-02-04.md) - Latest changes (Gap 125, Gap 70, Gap 121, Gap 102, Gap 117, Gap 111, Gap 112, Gap 27, Gap 126 resolutions)
 - [`changelog/2026-02-03.md`](changelog/2026-02-03.md) - Gap resolutions (67/75, 128/132/142, 92/116, 99, 104, 109, 56, 79, 118, 90, 106)
 - [`changelog/2026-02-02.md`](changelog/2026-02-02.md) - Gap resolutions (199, 13, index triage)
 - [`changelog/2026-02-01.md`](changelog/2026-02-01.md) - Gap resolutions (220, 219, 216, etc.)
@@ -13,6 +13,21 @@
 - [`changelog/2026-01-26.md`](changelog/2026-01-26.md) - Territorial integration incentives
 - [`changelog/2026-01-25.md`](changelog/2026-01-25.md) - Major integration work
 - [`changelog/2026-01-24.md`](changelog/2026-01-24.md) - Historical development
+
+## 2026-02-04: Gap 126 — Census Emergency and Boundary Sabotage Resolved (Article XVII-RF §6)
+
+One intergovernmental gap resolved via multi-LLM protocol (v1 → R1 review → v2 → R2 review → v3 FINAL) through new Section 6 (Census Immunity and Enumeration Protection) in Article XVII-RF (Regional Emergency Authority). Gap 126 (Census Emergency and Boundary Sabotage): 11 gaming vectors (10 closed, 1 partially closed). §6(a) definitions including "census obstruction" (5 enumerated forms) and "census response rate" with methodology delegation. §6(b) census immunity from emergency powers at all government levels, worker immunity, data transmission mandate with cyber incident exception, federal-only safety restriction with 72-hour limit and NCC-approved prolonged hazard extension. §6(c) alternative enumeration at 80% relative threshold with challenge bar tied to final determination. §6(d) timeline integrity with cooperation-based burden shifting. §6(e) ARB obstruction finding with cooperation-dependent 90/150-day deadline, auto-trigger boundary consequences, pattern suspension, NCC appeal. §6(f) Census Bureau accountability with GAO audit and whistleblower protections. §6(g) coordination with anti-ratcheting, federal emergencies, BRC, tribal exemption, and census schedule advance publication.
+
+### Files Modified
+
+- `02-design/constitution/11-emergency-powers.md` — Art XVII-RF §6 added: 7 subsections
+- `02-design/drafts/gap-126-census-enumeration-protection.md` — Draft file (v3 FINAL)
+- `02-design/constitution/article-crosswalk.md` — §6 entry added
+- `04-meta/gaps/13-intergovernmental.md` — Gap 126: PA → Resolved
+- `04-meta/gaps/00-index.md` — Gap 126 status updated
+- `04-meta/02-identified-gaps.md` — Statistics: PA 4→3, Resolved 172→173
+
+**Status:** RESOLVED | **Detail:** [changelog/2026-02-04.md](changelog/2026-02-04.md)
 
 ## 2026-02-04: Gap 27 — Tribal-Regional Relations Resolved (Article XXIII §§8-12)
 
