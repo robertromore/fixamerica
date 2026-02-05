@@ -109,6 +109,96 @@ The structural form of Regional government (unicameral or bicameral legislature,
 
 ---
 
+### Section 3-B. Legislative Duty to Act
+
+*Resolves Gap 100 — Hollow Region via Legislative Absence. Establishes minimum legislative function requirements for Regional Legislatures, creates ARB-certified failure triggers with cure periods, authorizes constituent State assumption of failed coordination powers, and provides a narrow federal backstop for public safety emergencies arising from coordination collapse.*
+
+(a) **Definitions.** For purposes of this Section:
+
+- (1) "Coordination power" means any power assigned to Regions as exclusive Regional authority under Article II, Section 2, including inter-state infrastructure and transportation corridors, Regional labor standards, housing coordination, energy planning, public health coordination, environmental regulation, and Regional economic development;
+- (2) "Legislative cycle" means two consecutive calendar years beginning with the first year following a Regional general election;
+- (3) "Session failure" means the failure of a Regional Legislature to meet the minimum session requirements of subsection (b) in any calendar year;
+- (4) "Coordination failure" means the failure of a Regional Legislature to exercise a specific coordination power, as defined in subsection (c)(3), for two consecutive legislative cycles.
+
+(b) **Minimum Session Requirements.**
+
+- (1) Regional Legislatures shall convene in regular session for not less than ninety (90) calendar days in each calendar year;
+- (2) a quorum of the Regional Legislature shall be present for not less than sixty (60) of those days;
+- (3) calendar days under paragraphs (1) and (2) need not be consecutive;
+- (4) the Regional Legislature may satisfy the requirements of this subsection through a single regular session or multiple sessions within the calendar year;
+- (5) a session day is pro forma and shall not count toward the requirements of paragraphs (1) and (2) if: (A) the session lasts less than thirty (30) minutes; (B) no committee hearings, floor deliberations on pending legislation, or recorded votes occur during the session; or (C) the only actions taken are ceremonial proceedings, adjournment motions, or quorum calls; a session day that includes at least one committee hearing, floor debate on pending legislation, or recorded vote is not pro forma regardless of duration; qualification of a session day under this paragraph satisfies the session requirements of paragraphs (1) and (2) but does not alone establish exercise of a coordination power under subsection (c).
+
+(c) **Coordination Power Exercise.**
+
+- (1) within each legislative cycle, the Regional Legislature shall enact or reaffirm legislation addressing each coordination power under Article II, Section 2;
+- (2) for each enacted coordination law, the Regional Legislature shall appropriate funds sufficient to implement the law's requirements; an appropriation shall be deemed insufficient if it is less than fifty percent (50%) of the independently estimated cost of implementation, as determined by the Independent Fiscal Council using published cost estimation standards updated at least once per legislative cycle; the IFC shall issue a cost determination within one hundred twenty (120) days of a request by any party; if no IFC determination is available within this period, the Regional fiscal office estimate shall apply, provided that the ARB may, during certification proceedings under subsection (d), challenge a Regional fiscal office estimate it finds manifestly unreasonable by submitting the estimate to the IFC for expedited review; the ARB may not serve as cost estimator for coordination powers it may subsequently certify as failed;
+- (3) a coordination power is "exercised" within the meaning of this subsection only if the Regional Legislature has:
+    - (A) enacted or reaffirmed substantive legislation establishing standards, procedures, or requirements for that coordination domain; AND
+    - (B) appropriated funds meeting the threshold of paragraph (2);
+- (4) a floor vote that considers and rejects coordination legislation satisfies this subsection only if the legislature enacts alternative legislation addressing the same coordination domain within the same legislative cycle;
+- (5) delegation of coordination powers to a Regional agency satisfies this subsection provided the agency is funded and staffed at the level specified in paragraph (2);
+- (6) "reaffirmation" under paragraph (1) means a recorded floor vote, preceded by committee review of the existing coordination legislation's implementation and effectiveness, confirming the continued effect of that legislation; a deregulatory framework that establishes minimum standards, procedures, or requirements for a coordination domain — even if those standards are less prescriptive than prior legislation — constitutes substantive legislation under paragraph (3)(A) if it addresses the coordination domain and does not eliminate all regulation of that domain.
+
+(d) **Legislative Failure Certification.**
+
+- (1) the Allocation Review Board may certify "Regional Legislative Failure" upon documented finding that a Region has experienced:
+    - (A) session failure in two consecutive calendar years; OR
+    - (B) coordination failure with respect to one or more specific coordination powers;
+- (2) the ARB certification shall:
+    - (A) identify the specific failures with particularity;
+    - (B) for coordination failure, identify the specific coordination powers not exercised;
+    - (C) set forth the factual basis for the finding;
+    - (D) be adopted by majority vote of the ARB following opportunity for the Region to respond;
+- (3) following certification, the Region shall have one hundred eighty (180) days to cure the identified failures;
+- (4) the cure period requires substantive action — the Regional Legislature must both convene and enact legislation satisfying subsection (c) for the identified coordination powers; mere convening without legislative action does not constitute cure;
+- (5) if the Region cures the failure within the cure period, the ARB shall vacate the certification and no further action shall be taken;
+- (6) a Region may seek expedited judicial review of an ARB certification in the Constitutional Court within thirty (30) days of certification; the court shall apply a substantial evidence standard.
+
+(e) **State Assumption Authority.**
+
+- (1) upon ARB certification of Regional Legislative Failure and expiration of the cure period without cure:
+    - (A) the constituent State Legislatures within the Region may, by joint resolution approved by a majority of State Legislatures, exercise temporary Regional legislative authority;
+    - (B) State assumption authority is limited to the specific coordination powers identified in the ARB certification;
+    - (C) State assumption may not extend to amending the Regional constitution, exercising non-failed coordination powers, or modifying Regional electoral law;
+- (2) **Joint State Legislative Council.** When States assume Regional authority under this subsection:
+    - (A) a Joint State Legislative Council shall be formed with membership apportioned among the constituent States using the method of equal proportions (Huntington-Hill) based on each State's share of the Region's total population as measured by the most recent federal decennial census or intercensal estimate; each State shall have at least one (1) seat regardless of population; total Council membership shall not exceed fifty (50) members;
+    - (B) the Council shall exercise Regional legislative authority only for the assumed coordination powers;
+    - (C) the Council shall adopt its own procedural rules by majority vote;
+    - (D) legislation enacted by the Council has the same force as Regional legislation for the assumed coordination powers;
+- (3) **Restoration.** State assumption terminates when:
+    - (A) the Regional Legislature resumes function and enacts legislation satisfying subsection (c) for the previously failed coordination powers;
+    - (B) the ARB certifies restoration of Regional legislative function;
+    - (C) legislation enacted during State assumption remains in effect until superseded by subsequent Regional legislation;
+    - (D) the ARB shall act on a restoration request within ninety (90) days of the Regional Legislature's formal notification of resumed function; such notification shall include certified copies of enacted coordination legislation and appropriation records for the previously failed coordination powers; the ninety-day period begins only upon the ARB's acknowledgment of receipt of complete documentation; if the ARB fails to act within this period, restoration is presumed and State assumption terminates automatically upon expiration of the ninety-day period;
+- (4) **Anti-Restoration Gaming.** If a Regional Legislature triggers a second certification under subsection (d) within four (4) years of a restoration under paragraph (3):
+    - (A) the cure period under subsection (d)(3) is reduced to ninety (90) days;
+    - (B) a third or subsequent certification within the same eight-year period eliminates the cure period entirely, and State assumption authority activates immediately upon certification.
+
+(f) **Anti-Circumvention.**
+
+- (1) Regional Legislatures may not:
+    - (A) convene solely to satisfy session requirements while refusing substantive legislative action on coordination powers;
+    - (B) enact coordination legislation without appropriating funds meeting the threshold of subsection (c)(2);
+    - (C) delegate coordination powers to entities that lack the capacity, authority, or funding to exercise them;
+    - (D) repeal coordination legislation solely to prevent State assumption from taking effect;
+- (2) the ARB may, in its certification under subsection (d), consider patterns of evasion including:
+    - (A) repeated session convening and immediate adjournment;
+    - (B) token appropriations manifestly insufficient for implementation;
+    - (C) delegation to entities with no staff, budget, or legal authority;
+    - (D) enactment of legislation that purports to address a coordination domain but establishes no operative coordination mechanisms, standards, or requirements; such legislation may be deemed non-exercise of the coordination power under subsection (c)(3);
+- (3) Regional legislators who participate in coordinated refusal to exercise constitutionally mandated legislative duties may be recalled by their constituents under the recall procedures established by the Regional constitution; nothing in this paragraph creates a cause of action against individual legislators for their votes or legislative decisions.
+
+(g) **Federal Backstop.**
+
+- (1) if State assumption cannot be activated — because fewer than a majority of constituent State Legislatures approve the joint resolution — and coordination failure persists for an additional one hundred eighty (180) days beyond the cure period:
+    - (A) the ARB may authorize federal administrative agencies to perform essential coordination functions for the affected coordination powers;
+    - (B) federal exercise under this paragraph is limited to preventing imminent harm to public safety arising from coordination collapse;
+    - (C) federal exercise terminates immediately upon activation of State assumption or restoration of Regional legislative function;
+    - (D) federal agencies exercising authority under this paragraph shall apply the least restrictive measures necessary and shall defer to Regional administrative structures where they exist and are functional;
+- (2) federal exercise under this subsection is not a precedent for expanding federal authority into exclusive Regional domains under other circumstances; it operates only as an emergency gap-filler for certification-triggered coordination failure.
+
+---
+
 ### Section 4. Regional Boundary Revision
 
 (a) Regional boundaries may be revised without full constitutional amendment through a process requiring:

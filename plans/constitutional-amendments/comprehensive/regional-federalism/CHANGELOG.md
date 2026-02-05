@@ -2,7 +2,7 @@
 
 **Note**: This changelog has been reorganized by date. See the `changelog/` directory for detailed entries:
 
-- [`changelog/2026-02-04.md`](changelog/2026-02-04.md) - Latest changes (Gap 125, Gap 70, Gap 121, Gap 102, Gap 117, Gap 111, Gap 112, Gap 27, Gap 126 resolutions)
+- [`changelog/2026-02-04.md`](changelog/2026-02-04.md) - Latest changes (Gap 125, Gap 70, Gap 121, Gap 102, Gap 117, Gap 111, Gap 112, Gap 27, Gap 126, Gap 100 resolutions)
 - [`changelog/2026-02-03.md`](changelog/2026-02-03.md) - Gap resolutions (67/75, 128/132/142, 92/116, 99, 104, 109, 56, 79, 118, 90, 106)
 - [`changelog/2026-02-02.md`](changelog/2026-02-02.md) - Gap resolutions (199, 13, index triage)
 - [`changelog/2026-02-01.md`](changelog/2026-02-01.md) - Gap resolutions (220, 219, 216, etc.)
@@ -13,6 +13,21 @@
 - [`changelog/2026-01-26.md`](changelog/2026-01-26.md) - Territorial integration incentives
 - [`changelog/2026-01-25.md`](changelog/2026-01-25.md) - Major integration work
 - [`changelog/2026-01-24.md`](changelog/2026-01-24.md) - Historical development
+
+## 2026-02-04: Gap 100 — Hollow Region via Legislative Absence Resolved (Article I-RF §3-B)
+
+One institutional governance gap resolved via multi-LLM protocol (v1 → R1 review → v2 → R2 review → v3 FINAL) through new Section 3-B (Legislative Duty to Act) in Article I-RF (Regional Structure). Gap 100 (Hollow Region via Legislative Absence): 10 gaming vectors (7 closed, 3 open). §3-B(a) definitions including coordination power, legislative cycle, session failure, coordination failure. §3-B(b) minimum session requirements (90 calendar days, 60 quorum days) with objective pro forma exclusion criteria and session-day vs. coordination-exercise clarification. §3-B(c) coordination power exercise mandate with IFC cost estimation (120-day deadline, ARB challenge of unreasonable fallback estimates), 50% appropriation floor, reaffirmation definition (committee review + recorded vote), deregulatory framework allowance. §3-B(d) ARB legislative failure certification with 180-day cure period and judicial review. §3-B(e) State assumption authority via Joint State Legislative Council (Huntington-Hill apportionment, 50-member cap), restoration with cure evidence requirement, anti-restoration gaming (escalating consequences). §3-B(f) anti-circumvention including illusory regulation pattern. §3-B(g) narrow federal backstop limited to public safety.
+
+### Files Modified
+
+- `02-design/constitution/01-regional-structure.md` — Art I-RF §3-B added: 7 subsections
+- `02-design/drafts/gap-100-hollow-region-legislative-duty.md` — Draft file (v3 FINAL)
+- `02-design/constitution/article-crosswalk.md` — §3-B entry added
+- `04-meta/gaps/11-institutional-governance.md` — Gap 100: PA → Resolved
+- `04-meta/gaps/00-index.md` — Gap 100 status updated
+- `04-meta/02-identified-gaps.md` — Statistics: PA 3→2, Resolved 173→174
+
+**Status:** RESOLVED | **Detail:** [changelog/2026-02-04.md](changelog/2026-02-04.md)
 
 ## 2026-02-04: Gap 126 — Census Emergency and Boundary Sabotage Resolved (Article XVII-RF §6)
 

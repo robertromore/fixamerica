@@ -2049,7 +2049,7 @@ Article I, Section 3 requires Regions to adopt a constitution but does not expli
 - **Gap 63 (Senate Adjudication Paralysis):** Senate dysfunction; Gap 100 addresses Regional dysfunction
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article I-RF, Section 3. This three-part solution establishes minimum legislative session and coordination power exercise requirements with ARB failure certification, enables State Legislatures to assume Regional authority by joint resolution, and provides federal backstop for essential functions with anti-evasion safeguards.
+**✅ RESOLVED.** Constitutional text added as Article I-RF, Section 3-B (Legislative Duty to Act). Seven subsections: (a) definitions, (b) minimum session requirements (90d/60q), (c) coordination power exercise with IFC cost estimation and 50% appropriation floor, (d) ARB failure certification with 180-day cure, (e) State assumption authority via Joint State Legislative Council (Huntington-Hill apportionment) with restoration and anti-gaming, (f) anti-circumvention including illusory regulation, (g) narrow federal backstop for public safety. See [draft](../../02-design/drafts/gap-100-hollow-region-legislative-duty.md).
 
 ---
 
