@@ -1233,6 +1233,8 @@ The Court shall apply consistent standards across receiverships, and precedent f
 - (iv) tourism promotion not involving diplomatic representations;
 - (v) technical cooperation on non-sensitive matters with federal notification.
 
+For the structured engagement framework governing authorized Regional foreign engagement beyond these permitted activities, see Section 5 of this Article.
+
 (d) **Federal Notification and Review.**
 
 - (i) Before any Regional entity enters into any arrangement with a foreign government or government-connected entity, it shall notify the Department of State.
@@ -1266,6 +1268,221 @@ Violation constitutes grounds for removal from office and personal liability und
 - (i) all existing Regional arrangements with foreign entities shall be submitted to the Department of State for review;
 - (ii) arrangements found to conflict with this section shall be terminated;
 - (iii) failure to submit shall render existing arrangements void.
+
+### Section 5. Structured Para-Diplomacy Framework
+
+*Resolves Gap 60 — Para-Diplomacy Conflict (Regional Foreign Engagement Vacuum). Establishes structured framework for Regional foreign engagement while preserving federal foreign policy authority, preventing the Treaty Power from becoming a backdoor for domestic preemption, and ensuring subnational coordination does not fragment the National Common Market.*
+
+#### Part 1: Regional Foreign Engagement Authorization
+
+(a) **Authorized Regional Foreign Engagement.** In addition to activities permitted under Section 4(c) of this Article, Regions may engage directly with foreign governments and subnational entities for purposes of:
+
+- (i) Coordination on matters within Regional Exclusive Domains that have transboundary effects;
+- (ii) Implementation of existing federal treaties within the Region;
+- (iii) Information sharing and technical cooperation;
+- (iv) Emergency response coordination with adjacent foreign jurisdictions.
+
+(b) **Prohibited Regional Foreign Engagement.** The prohibitions of Section 4(a)-(b) of this Article and Article I, Section 5(f)-(h) apply to all Regional foreign engagement under this Section. In addition, Regions may not:
+
+- (i) Make commitments binding the United States or other Regions;
+- (ii) Engage in activities that would constitute recognition of foreign governments or territorial claims;
+- (iii) Receive foreign government funding or in-kind support except as permitted under subsection (t);
+- (iv) Establish permanent diplomatic missions or representations abroad.
+
+(c) **Notification Requirement.** In addition to the notification requirements of Section 4(d), Regions shall notify the Department of State within thirty (30) days of:
+
+- (i) Initiating substantive discussions with any foreign government or subnational entity under this Section;
+- (ii) Reaching any understanding, memorandum, or coordination agreement;
+- (iii) Receiving any proposal from a foreign entity for cooperation or coordination.
+
+(d) **Regional Foreign Engagement Coordinator.**
+
+- (i) The Department of State shall designate a Regional Foreign Engagement Coordinator for each Region.
+- (ii) The Coordinator's role shall be **facilitative**, not prohibitive:
+    - (A) Provide briefings on relevant federal foreign policy priorities;
+    - (B) Facilitate Regional participation in appropriate international forums;
+    - (C) Transmit Regional notifications to appropriate State Department offices;
+    - (D) Offer non-binding guidance on potential conflicts with federal policy.
+- (iii) **Limitations on Coordinator Authority.** The Coordinator may not:
+    - (A) Require prior approval for Regional foreign contacts under this Section;
+    - (B) Directly communicate with foreign officials to discourage engagement with a Region;
+    - (C) Withhold information from Regions based on policy disagreements;
+    - (D) Delay transmission of Regional notifications or requests.
+- (iv) **Exclusive Enforcement Authority.** Only the Allocation Review Board or the National Constitutional Court may issue binding determinations or orders regarding Regional foreign engagement under this Section.
+- (v) **Auto-Suspension for Coordinator Misconduct.** If the Allocation Review Board finds that a Coordinator has exceeded the facilitative role defined in subsections (d)(ii)-(iii), the Coordinator's authority under this Section is suspended by operation of law upon issuance of the finding. The Secretary of State shall reassign the Coordinator within thirty (30) days. The finding shall be reported to the committees of Congress having primary jurisdiction over foreign affairs.
+
+#### Part 2: Treaty Consultation with Parallel Threshold Requirement
+
+(e) **Mandatory Regional Consultation.** Before finalizing any treaty or executive agreement that would affect Regional Exclusive Domains, impose implementation obligations on Regions, or create standards interacting with Regional regulatory authority, the President shall provide affected Regions with:
+
+- (A) Draft text at least ninety (90) days before signature;
+- (B) Opportunity for written comment;
+- (C) At least one consultation meeting with Regional representatives.
+
+(f) **Regional Impact Statement.** Treaties submitted to the Senate shall include a Regional Impact Statement identifying domains affected, summarizing consultation comments, and estimating implementation costs.
+
+(g) **Parallel Threshold Requirement.**
+
+- (i) **Pre-Signature Certification.** Before signing any treaty containing provisions that, if enacted as domestic legislation, would require three-fifths (60%) majority of the House of Representatives under Article II, Section 5(c):
+    - (A) The Allocation Review Board shall certify within thirty (30) days whether the treaty triggers this requirement. If the Board fails to certify within thirty (30) days, the requirement is deemed triggered.
+    - (B) The President shall submit the treaty text to the House of Representatives;
+    - (C) The House shall vote on Provisional Approval of the Regional Domain provisions within sixty (60) days;
+    - (D) If the House approves by three-fifths (60%) majority, the President may proceed to signature;
+    - (E) If the House fails to act within sixty (60) days, Provisional Approval is deemed not granted. The President shall not sign unless the Regional Domain provisions are removed or modified.
+- (ii) **Final Ratification.** After signature, Senate ratification proceeds under existing procedures; House Provisional Approval converts to Final Approval upon Senate ratification.
+
+(h) **Emergency Exception.** In cases of urgent national security:
+
+- (i) The President may sign without Pre-Signature Certification if the President certifies in writing that grave harm would result from delay;
+- (ii) The House shall vote within thirty (30) days of signature;
+- (iii) If the House fails to approve, treaty provisions affecting Regional Exclusive Domains have no domestic legal effect;
+- (iv) The Emergency Exception may be invoked only once per Congress for any given subject matter.
+
+(i) **Anti-Circumvention.**
+
+- (i) The following constitute evidence of circumvention of the Parallel Threshold Requirement:
+    - (A) Negotiating treaty provisions substantively similar to domestic legislation that failed to achieve three-fifths (60%) House majority within the preceding five (5) years;
+    - (B) Characterizing domestic policy goals as "international commitments" without genuine foreign policy rationale;
+    - (C) Using executive agreements to achieve the domestic legal effect of treaty provisions that would trigger the Parallel Threshold Requirement.
+- (ii) **Executive Agreement Notification.** The President shall notify the Allocation Review Board and affected Regions within thirty (30) days of entering any executive agreement that affects Regional Exclusive Domains. Such executive agreements shall have no domestic effect within those Domains until the thirty-day notification period has expired. Any Region may petition the Board for a determination that the executive agreement triggers the Parallel Threshold Requirement.
+- (iii) **Cause of Action.** Any Region may bring an action before the National Constitutional Court alleging circumvention under this subsection. The burden of proof shifts to the federal government to demonstrate genuine foreign policy rationale once the Region establishes a prima facie case of circumvention.
+
+#### Part 3: Conflict Resolution
+
+(j) **Supersession.** Notwithstanding Section 4(d) of this Article, disputes arising under this Section shall be resolved exclusively through the procedures established in subsections (k) through (o). The procedures of Section 4(d)(ii)-(iii) do not apply to engagements authorized under this Section.
+
+(k) **Secretary of State Determination.** If the Department of State determines a Regional foreign engagement under this Section conflicts with federal foreign policy:
+
+- (i) The Secretary shall provide written notice specifying the conflict with particularity, identifying the specific federal treaty obligation, executive agreement, or diplomatic initiative affected;
+- (ii) The Region shall have sixty (60) days to modify, terminate, or dispute the finding by filing with the Allocation Review Board.
+
+(l) **Allocation Review Board Procedural Verification.** If the Region disputes the finding, the Board shall determine within sixty (60) days:
+
+- (i) Whether the Regional engagement directly contradicts a specific, identified federal treaty obligation;
+- (ii) Whether the Regional engagement creates binding commitments purporting to bind the United States;
+- (iii) Whether the Secretary's notice complies with the procedural requirements of subsection (k)(i).
+
+The Board shall NOT determine whether the engagement "materially impairs" foreign relations or the national interest.
+
+(m) **National Constitutional Court Determination.** If the Board finds a procedural conflict exists, OR if the Secretary claims "material impairment" beyond specific treaty violations:
+
+- (i) The matter shall proceed to the National Constitutional Court;
+- (ii) The Court shall determine whether the Regional engagement materially impairs the federal government's ability to conduct foreign relations;
+- (iii) The Court may receive classified materials and expert testimony through in camera review;
+- (iv) The Court's determination shall be final, subject to petition for rehearing under the Court's rules.
+
+(n) **Standard of Review.**
+
+- (i) **Board Standard (Procedural):** The Board shall find "procedural conflict" only if the engagement directly contradicts a specific treaty obligation OR creates binding commitments purporting to bind the United States;
+- (ii) **Court Standard (Material Impairment):** The Court shall find "material impairment" only if the engagement would substantially undermine an active federal diplomatic initiative, the impairment is concrete and demonstrable (not speculative), and the federal government has no reasonable alternative means to achieve its diplomatic objective.
+
+(o) **Protected Activities.** A Regional engagement under this Section does not constitute conflict or impairment merely because it:
+
+- (i) addresses the same subject matter as federal foreign policy;
+- (ii) is stricter than federal treaty obligations within the Region's Exclusive Domain;
+- (iii) involves communication with foreign entities on matters within Regional Exclusive Domains;
+- (iv) expresses policy preferences different from those of the federal executive.
+
+#### Part 4: National Security Exception
+
+(p) **Classified Negative-Key.** Notwithstanding the Coordinator limitations in subsection (d)(iii), if the Secretary of State certifies in writing that a specific Regional foreign engagement under this Section poses a "Specific and Identifiable National Security Threat":
+
+- (i) The Secretary shall provide a classified briefing to the Allocation Review Board within forty-eight (48) hours;
+- (ii) The Board may issue an immediate temporary stay on the engagement for up to thirty (30) days;
+- (iii) During the stay, the Region shall suspend the engagement pending resolution.
+
+(q) **"Specific and Identifiable" Standard.** The certification under subsection (p) requires:
+
+- (i) Intelligence indicating the foreign entity is controlled by or acting on behalf of a hostile foreign government or intelligence service;
+- (ii) Identified risk of transfer of sensitive technology, data, or infrastructure access;
+- (iii) The threat must be specific to the engagement in question, not a general characterization of the foreign nation.
+
+(r) **In Camera Judicial Review.** Within thirty (30) days of a temporary stay under subsection (p):
+
+- (i) The National Constitutional Court shall conduct in camera review with appropriate security clearances;
+- (ii) The Court may extend the stay for up to one hundred eighty (180) days if it finds the threat credible;
+- (iii) The Court may permanently enjoin the engagement if it finds the threat substantial and ongoing;
+- (iv) If the Court finds the certification unsupported, the stay is lifted and the engagement may proceed.
+
+(s) **Anti-Abuse Safeguards.**
+
+- (i) The Secretary of State must personally certify each invocation of subsection (p) (no delegation);
+- (ii) All invocations shall be reported to the committees of Congress having primary jurisdiction over intelligence matters (classified);
+- (iii) If the Court finds two certifications within three years unsupported, subsequent certifications shall require prior Court approval before a stay may issue;
+- (iv) False or pretextual certification is an impeachable offense.
+
+#### Part 5: Foreign Influence Safeguards
+
+(t) **Foreign Government Funding Prohibition.** The prohibitions of Section 4(e-1) of this Article apply to all Regional officials exercising authority under this Section. In addition, no Region shall accept from any foreign government or foreign-controlled entity:
+
+- (i) Direct funding for Regional government operations;
+- (ii) In-kind contributions exceeding one hundred thousand dollars ($100,000) in appraised market value per year, as determined under subsection (u);
+- (iii) Funding for infrastructure projects without federal review and approval;
+- (iv) Loans or credit facilities with terms more favorable than market rates.
+
+(u) **Independent Fiscal Council In-Kind Valuation.** All in-kind contributions from foreign entities to Regions shall be appraised by the Independent Fiscal Council using:
+
+- (i) Market-rate benchmarks for comparable goods or services;
+- (ii) Replacement cost methodology where market comparables are unavailable;
+- (iii) For data, software, or intellectual property: licensing fees for comparable commercial products;
+- (iv) **Presumption of High Value:** If the Council cannot determine market value, the contribution is presumed to exceed one hundred thousand dollars ($100,000) and requires federal approval;
+- (v) **Anti-Structuring:** Contributions divided to avoid the threshold established in subsection (t)(ii) shall be aggregated.
+
+(v) **Disclosure Requirements.** Regions exercising authority under this Section shall file annual reports with the Department of State and the Allocation Review Board disclosing all foreign government contacts, agreements, funding, and pending proposals.
+
+(w) **Counterintelligence Cooperation.** Regions shall cooperate with federal counterintelligence agencies regarding foreign government contacts made under this Section and shall report suspected foreign intelligence activities to the appropriate federal authorities.
+
+(x) **Foreign Capture Finding.**
+
+- (i) **Allocation Review Board Factual Findings.** The Board may find that a Region has engaged in a pattern of:
+    - (A) accepting undisclosed foreign funding in violation of subsection (t) or Section 4(e-1); or
+    - (B) refusing counterintelligence cooperation in violation of subsection (w).
+- (ii) **National Constitutional Court Political Determinations.** Upon referral by the Board or petition by the Attorney General, the National Constitutional Court may find that a Region has engaged in a pattern of:
+    - (A) coordinating with foreign governments against established federal foreign policy; or
+    - (B) Systemic Symbolic Contradiction as defined in subsection (y).
+- (iii) **Consequence.** Upon a finding under either subsection (x)(i) or (x)(ii), the Region's direct foreign engagement authority under this Section shall be suspended for up to five (5) years. During suspension, all foreign contacts shall be conducted through federal channels established under Section 4(d).
+
+(y) **Systemic Symbolic Contradiction.** Means a pattern of Regional acts that materially impair the federal government's unified diplomatic position during a declared foreign crisis. A "declared foreign crisis" requires Presidential declaration confirmed by a majority of both chambers of Congress within thirty (30) days. The pattern requires three or more of:
+
+- (i) official resolutions of the Regional legislature taking positions contrary to the declared federal diplomatic position;
+- (ii) gubernatorial statements or executive orders directing Regional agencies to act contrary to federal diplomatic objectives;
+- (iii) ceremonial or symbolic acts (flag-flying, official commemorations) aligned with a foreign adversary's position;
+- (iv) "technical cooperation" agreements with parties to the conflict;
+- (v) hosting official representatives of foreign factions adverse to the declared federal position.
+
+The Allocation Review Board may issue a "Cease and Desist" order for non-essential foreign engagement during the declared crisis pending the Court's determination.
+
+#### Part 6: Subnational Coordination
+
+(z) **Subnational Coordination Authorized.** Notwithstanding Article I, Section 5(f)-(h), Regions may coordinate directly with foreign subnational entities (provinces, states, prefectures, municipalities) without federal approval under Article I, Section 5(j) for:
+
+- (i) Technical standards harmonization within Regional Exclusive Domains, subject to subsection (bb);
+- (ii) Emergency response and disaster coordination;
+- (iii) Environmental monitoring and data sharing;
+- (iv) Cross-border infrastructure planning;
+- (v) Educational and cultural exchanges.
+
+(aa) **Subnational Coordination Limits.** Subnational coordination under subsection (z) shall not:
+
+- (i) Purport to bind the foreign national government;
+- (ii) Address matters reserved to the foreign national government under applicable international law;
+- (iii) Create trade preferences or tariff arrangements;
+- (iv) Include provisions that would violate federal law if applied domestically.
+
+(bb) **National Common Market Bridge.**
+
+- (i) **Compatibility Requirement.** Any technical standards harmonization agreement with a foreign subnational entity must:
+    - (A) Be compatible with applicable Federal Floors established under Article III;
+    - (B) Not create barriers to goods, services, or credentials from other Regions that meet Federal Floors;
+    - (C) Include a "National Common Market Bridge" provision demonstrating interoperability with national standards.
+- (ii) **Allocation Review Board Review.** Before a technical standards agreement under this subsection takes effect, the Region shall submit the agreement to the Board. The Board shall determine within sixty (60) days whether the agreement creates internal trade barriers. If so, the Region must modify the agreement or provide an equivalency pathway under subsection (bb)(iii).
+- (iii) **Equivalency Pathway.** Shall permit goods, services, and credentials meeting Federal Floors to access the Regional market via a reasonable process not exceeding ninety (90) days and five thousand dollars ($5,000) in fees. The process must be ministerial, not substantive — requiring only verification of compliance with Federal Floor standards, not independent Regional evaluation.
+
+(cc) **Model Subnational Coordination Agreements.** The Department of State shall publish Model Agreements for common coordination needs identified under subsection (z). Regions using Model Agreements are presumed compliant with the requirements of subsections (aa) and (bb).
+
+#### Jurisdiction and Filing Management
+
+(dd) **Allocation Review Board Jurisdiction.** The Allocation Review Board shall have jurisdiction over disputes arising under this Section, including treaty certification under subsection (g), procedural verification under subsection (l), Foreign Capture factual findings under subsection (x)(i), and National Common Market Bridge review under subsection (bb)(ii). Filings under this Section shall count toward the annual limits established by Article II, Section 4-A, and the Board's procedural rules under Section 4-A shall apply.
 
 ---
 

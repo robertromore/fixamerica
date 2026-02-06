@@ -363,7 +363,7 @@ No Fundamental Misalignment certification based on subsection (g)(3) shall issue
 
 (f) **Federal Exclusivity over Foreign Relations.** The federal government's exclusive authority over "foreign affairs and treaties" under Article II, Section 1 includes exclusive authority over regulatory alignments, standards harmonization, and economic integration agreements with foreign sovereign entities.
 
-(g) **Prohibited Regional Actions.** No Region or State may, without federal approval:
+(g) **Prohibited Regional Actions.** Except as authorized under Article VI, Section 5(z), no Region or State may, without federal approval:
 
 - (1) enter into "technical cooperation agreements," "regulatory memoranda," "standards harmonization agreements," or similar arrangements with foreign governments, foreign governmental agencies, or foreign-controlled entities;
 - (2) adopt regulations specifically designed to align with foreign standards in a manner that creates incompatibility with other Regions or with federal policy;

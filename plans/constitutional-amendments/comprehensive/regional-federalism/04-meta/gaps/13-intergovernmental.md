@@ -1139,7 +1139,41 @@ Regions need to coordinate internationally on matters within their domains:
 | **Axiom 7 (Law Must Move Faster)** | 30/60/90 day timelines; expedited review; 48-hour classified briefing |
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article I, Section 9. This six-part solution creates a structured para-diplomacy framework that enables Regional coordination with foreign entities while preserving federal foreign policy authority, preventing the Treaty Power from becoming a backdoor for domestic preemption, protecting against foreign influence and intelligence threats, and ensuring subnational coordination does not fragment the National Common Market.
+**RESOLVED.** Constitutional text added as Article VI, Section 5 (Structured Para-Diplomacy Framework) in `03-regional-governance.md`. Six-part solution with 30 subsections (a)-(dd): authorized engagement, treaty consultation with Parallel Threshold Requirement, conflict resolution with procedural/material split, classified negative-key national security exception, foreign influence safeguards with IFC in-kind valuation and Foreign Capture split (ARB factual / NCC political), subnational coordination with National Common Market Bridge. Cross-references added to Art VI §4(c) (forward reference) and Art I §5(g) (carve-out for subnational coordination). Drafted via multi-LLM protocol with 2 review rounds; convergence achieved in Round 2.
+
+**Design Decisions:**
+
+| ID | Decision | Choice | Rationale |
+|----|----------|--------|-----------|
+| D1 | Placement | Art VI §5 standalone | Adjacent to One Voice Doctrine; foreign affairs article |
+| D2 | Intelligence Committees | Generic language ("committees of Congress having primary jurisdiction over intelligence matters") | Survives committee restructuring; established constitutional pattern |
+| D3 | ARB Foreign Capture scope | Split: ARB factual (undisclosed funding, counterintelligence refusal); NCC political (coordinating against policy, Systemic Symbolic Contradiction) | Maintains procedural/material split |
+| D4 | NCC classified proceedings | "In camera review" language | Matches existing judicial practice; no new infrastructure needed |
+| D5 | Overlap handling | Cross-reference existing prohibitions in Art VI §4 and Art I §5(f-l) | Avoids duplication; respects existing architecture |
+| D6 | Coordinator model | Two-track: Art I §5(j) prohibitive for regulatory; Art VI §5(d) facilitative for diplomatic | Matches two risk profiles |
+| D7 | IFC valuation authority | Self-contained in Art VI §5(u) | Cleaner than amending Art X §5 for narrow extension |
+| D8 | Parallel Threshold scope | Only where domestic legislation needs 60% House | Precisely targets Treaty Power backdoor without overreach |
+| D9a | Art VI §4(d) conflict | Explicit supersession clause in §5(j) | Clean resolution; §4(d) for non-§5 engagements only |
+| D9b | Art I §5(g) conflict | Both-direction carve-out: §5(g) references §5(z); §5(z) says "Notwithstanding Art I §5(f)-(h)" | Bidirectional clarity |
+| D10 | Default on inaction | ARB inaction = deemed triggered; House inaction = deemed not approved | Conservative defaults on both sides |
+| D11 | Anti-circumvention enforcement | Cause of action with burden shift to federal government | Makes anti-circumvention legally operative |
+| D12 | Executive agreements | Notification + Region petition + no domestic effect until 30-day period expires | Closes executive agreement blind spot |
+| D13 | Coordinator enforcement | Auto-suspension by operation of law upon ARB finding | Self-executing; no discretionary enforcement gap |
+
+**Gaming Vectors Addressed:**
+
+| Vector | Mechanism | Subsection |
+|--------|-----------|------------|
+| Treaty Power Backdoor | Parallel Threshold: 60% House pre-signature vote | §5(g) |
+| Regulatory Arbitrage via Para-Diplomacy | National Common Market Bridge with equivalency pathway | §5(bb) |
+| Foreign Capture | Split finding (ARB factual + NCC political) with 5-year suspension | §5(x) |
+| Treaty Nullification via Divergence | Conflict resolution with procedural/material split | §5(j)-(o) |
+| Subnational Coordination Bypass | Explicit authorization with limits and Common Market Bridge | §5(z)-(cc) |
+| Coordinator Capture/Sabotage | Auto-suspension enforcement; facilitative-only mandate | §5(d)(v) |
+| Executive Agreement Backdoor | 30-day notification; no domestic effect until period expires; Region petition | §5(i)(ii) |
+| Classified Negative-Key Abuse | Personal certification; intelligence committee reporting; 2-strike rule; impeachment | §5(s) |
+| Anti-Circumvention Inertness | Cause of action with burden shift | §5(i)(iii) |
+| Model Agreement Monopoly | Presumption of compliance; non-exclusive (Regions may use non-Model agreements) | §5(cc) |
 
 ---
 
