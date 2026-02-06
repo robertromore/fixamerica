@@ -83,7 +83,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 |-------|-------------|----------|-------------------|
 | 9 | Demographic divergence leading to representational imbalances | Medium | Requires Monitoring |
 | 10 | Technological disruption of regional economic bases | Medium | Requires Monitoring |
-| 11 | Climate-induced population displacement across regions | High | Partially Mitigated |
+| 11 | Boundary revision politics and regional identity crystallization | High | Partially Mitigated |
 
 ### Category V: Implementation and Transition Risks
 
