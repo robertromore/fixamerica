@@ -144,7 +144,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 117 | Voter exportation for national election manipulation | Medium | ✅ Resolved |
 | 120 | Sentencing guideline variation | Medium | Requires Monitoring |
 | 121 | Fact-hiding ARB loophole | Medium | ✅ Resolved |
-| 130 | Audit-capacity freeze of National Election Court | Medium | Proposal Available |
+| 130 | Audit-capacity freeze of National Election Court (budget floor, permanent investigative staff, establishment mandate) | Medium | ✅ Resolved |
 | 145 | Coordinated judicial attack across jurisdictions | Medium | Partially Mitigated |
 | 158 | Strategic party expansion to manipulate recusals | Medium | ✅ Resolved |
 | 159 | Narrow standing to avoid Supreme Court transfer | Medium | ✅ Resolved |

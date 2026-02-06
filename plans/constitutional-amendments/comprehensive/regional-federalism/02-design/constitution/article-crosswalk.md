@@ -168,6 +168,7 @@ Article VII, Section 1(d) (Natural Person Franchise Exclusivity) — see single-
 Article VII, Section 7(m)-(o) (Certification Integrity: Ministerial Duty, Alternate Slate Prohibition, Subversion Penalties) — see single-topic/election-reform.md
 Article VII, Section 8(j)(5) (Apparent Winner Vacancy: Succession Cascade, Entitlement Transfer, Classified Materials Custody, Incapacity Determination, Restoration Window, Withdrawal) — see single-topic/election-reform.md
 Article VII, Section 10 (Independent Redistricting: IRC Mandate, Composition, Criteria, District Magnitude, Approval/Transparency, Judicial Review, Timing, Incarcerated Persons, Federal Backup) — see single-topic/election-reform.md
+Article VII, Section 11 (NEC Operational Independence: Budget Floor with election-year surge, Automatic Appropriation, Anti-Manipulation, Internal Allocation with panel approval and GAO adequacy review, Permanent Investigative Staff, GAO Fiscal Adequacy Certification, Competitive Compensation, Fund Carryover, Private Expert Authority, Permanent Investigative Authority, Mandamus Enforcement, NEC Establishment Mandate, Transition Provision with Emergency Election Panel, Savings Clause, Anti-Retaliation) — see single-topic/election-reform.md
 Article XIV (Judicial Reform) — see single-topic/judicial-reform.md
 Article XIV, Section 15 (Separation of Adjudication / ALJ Independence) — see single-topic/judicial-reform.md
 Article XIV, Section 16 (Injunctive Relief Scope and Anti-Forum Shopping) — see single-topic/judicial-reform.md

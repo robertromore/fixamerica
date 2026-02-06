@@ -49,7 +49,7 @@ When Regional Federalism is adopted, the Judicial Nominating Commissions (Sectio
 
 (a) The Allocation Review Board, established under Article II, shall resolve disputes regarding the allocation of powers among federal, Regional, and State governments.
 
-(b) A National Election Court may be established by Congress to hear election disputes that cross Regional boundaries or affect national elections.
+(b) A National Election Court shall be established by Congress to hear election disputes that cross Regional boundaries or affect national elections.
 
 (c) The National Water Court, established under Article I, Section 7, shall resolve interstate water disputes.
 

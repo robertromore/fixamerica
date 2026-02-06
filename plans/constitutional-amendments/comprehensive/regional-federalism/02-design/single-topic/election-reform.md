@@ -687,6 +687,86 @@ Mid-decade redistricting for partisan advantage is prohibited. Any redistricting
 
 ---
 
+### Section 11. National Election Court Operational Independence
+
+*Resolves Gap 130 — The "Audit-Capacity Freeze" of the National Election Court.*
+
+#### NEC Budget Floor
+
+(a) **Dedicated Operational Budget.** The National Election Court shall receive a dedicated operational budget, separate from judicial salaries, set as follows:
+
+(1) In any fiscal year that does not include a federal general election, the NEC operational budget shall be not less than 0.002% of federal revenue;
+
+(2) In any fiscal year that includes a federal general election, the NEC operational budget shall be not less than 0.005% of federal revenue;
+
+(3) For purposes of this section, a "federal general election year" means any year in which regularly scheduled general elections are held for the House of Representatives, the Senate, or the Presidency.
+
+(b) **Automatic Appropriation.** NEC operational funds under subsection (a) shall be:
+
+(1) automatically appropriated without annual congressional action;
+
+(2) adjusted annually for inflation using the Consumer Price Index;
+
+(3) disbursed to the NEC within thirty (30) days of the start of each fiscal year.
+
+(c) **Prohibition on Budgetary Manipulation.** No branch of the federal government may:
+
+(1) reduce NEC operational funding below the formula amount established in subsection (a);
+
+(2) impose conditions on the use of NEC operational funds;
+
+(3) transfer NEC operational funds to other purposes;
+
+(4) delay disbursement of NEC operational funds beyond the period specified in subsection (b)(3).
+
+(d) **Internal Fund Allocation.** The Chief Judge of the National Election Court shall propose the allocation of operational funds among the Court's divisions. The allocation shall be approved by a majority vote of the NEC judges. The Government Accountability Office shall review annual allocation plans for fiscal adequacy of investigative capacity, and may publish findings, but may not direct reallocations.
+
+#### Investigative Capacity
+
+(e) **Permanent Investigative Staff.** The NEC shall establish and maintain permanent investigative and audit divisions with staff sufficient to conduct simultaneous proceedings in all Regions. The NEC's investigative capacity shall include forensic accountants, election technology specialists, digital forensics analysts, and field investigators.
+
+(f) **GAO Adequacy Certification.** The Government Accountability Office shall annually certify whether the NEC's budget supports investigative and audit capacity adequate for the Court's mandatory functions under Sections 7, 8, and 10 of this Article. The GAO certification shall assess fiscal adequacy only; it shall not prescribe staffing levels, organizational structure, or operational methods. GAO findings shall be transmitted to Congress and published.
+
+(g) **Competitive Compensation.** Salary scales for NEC investigative and technical staff shall be competitive with comparable positions in federal law enforcement, as determined by the Office of Personnel Management. The NEC may establish recruitment and retention incentives necessary to maintain adequate technical expertise.
+
+(h) **Carryover of Unspent Funds.** Unspent NEC operational funds shall carry over to subsequent fiscal years and shall not revert to the Treasury. Carryover funds supplement, and do not reduce, the formula amount for the subsequent year.
+
+#### Emergency Investigative Authority
+
+(i) **Private Expert Authority.** During election dispute periods, defined as sixty (60) days before through thirty (30) days after the certification deadline for any federal general election, the NEC may engage private forensic experts, auditors, and technical specialists on emergency contracts without compliance with standard federal procurement requirements. Emergency contracts under this subsection shall be:
+
+(1) limited to the duration of the election dispute period plus any pending proceedings;
+
+(2) subject to post-engagement audit by the GAO;
+
+(3) publicly disclosed within thirty (30) days of contract execution.
+
+(j) **Permanent Investigative Authority.** The NEC's permanent investigative staff shall have authority to:
+
+(1) compel production of election records, voting system data, and certification documents from State, Regional, and federal election authorities;
+
+(2) conduct on-site inspections of election facilities and voting systems;
+
+(3) interview witnesses under oath;
+
+(4) engage in digital forensic analysis of election infrastructure.
+
+This authority exists at all times, not only during election dispute periods.
+
+#### Enforcement and Transition
+
+(k) **Mandamus Enforcement.** Any judge of the National Election Court may petition the Supreme Court for a writ of mandamus to compel disbursement of operational funds at or above the formula amount established in subsection (a). Such petitions shall be heard on an expedited basis. Mandamus under this subsection may compel disbursement at the constitutionally required floor; it may not be used to increase funding above the formula amount.
+
+(l) **NEC Establishment Mandate.** Article XIV-RF, Section 2(b) of this Constitution is hereby amended to provide that the National Election Court shall be established by Congress to hear election disputes that cross Regional boundaries or affect national elections.
+
+(m) **Transition Provision.** Until the National Election Court is established by statute following ratification of this Article, the Supreme Court shall designate an Emergency Election Panel of not fewer than three Article III judges to exercise the NEC's functions under Sections 7, 8, and 10 of this Article. The Emergency Election Panel shall have the same investigative authority and budget entitlement as the NEC under this section.
+
+(n) **Savings Clause.** If a Constitutional Oversight Fund or similar mechanism is established by this Constitution providing operational funding to the NEC, the NEC's operational budget under this section shall be reduced by the amount received from such fund, provided that total NEC operational funding shall not fall below the formula amount established in subsection (a).
+
+(o) **Anti-Retaliation.** Any legislative, executive, or administrative action taken for the purpose of reducing NEC operational capacity, altering NEC composition, or reassigning NEC functions in retaliation for an NEC ruling or determination is void. The NEC, any party to an election dispute, or any citizen with standing under Article XIV-RF, Section 5 may challenge such action in the Supreme Court on an expedited basis.
+
+---
+
 ## Implementation Notes
 
 This amendment requires implementing legislation including:
@@ -696,6 +776,7 @@ This amendment requires implementing legislation including:
 - [Independent Redistricting Commission Act](../../../proposals/02-elections-democracy/independent-redistricting-commission-act.md) (commission qualification standards, applicant pool procedures, conflict-of-interest rules, census data formatting, mapping software standards, timeline requirements)
 - Election Certification Integrity Act (certification subversion penalties, felony classifications, enforcement procedures)
 - Natural Person Franchise Protection Act (special district governance compliance standards, void election procedures, caretaker appointment rules)
+- National Election Court Establishment Act (court structure, initial staffing, budget procedures, investigative authority implementing regulations, transition from Emergency Election Panel)
 
 ---
 

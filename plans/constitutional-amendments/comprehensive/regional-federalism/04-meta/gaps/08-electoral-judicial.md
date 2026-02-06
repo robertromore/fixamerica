@@ -1893,7 +1893,27 @@ The National Election Court (NEC) is the final arbiter for election disputes. Wh
 - **Gap 44 (Referee Capture):** Institutional independence; Gap 130 addresses operational independence
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article XIV-RF, Section 5. This three-part solution establishes NEC budget floor as fixed percentage of federal revenue, requires GAO-certified staffing minimums with competitive salaries, and provides emergency investigative authority through agency requisition.
+**RESOLVED.** Article VII, Section 11 (NEC Operational Independence) added to `02-design/single-topic/election-reform.md`. Article XIV-RF §2(b) amended from "may" to "shall" in `02-design/constitution/09-judiciary.md`. Drafted via multi-LLM protocol with 2 external reviewers, 8 design questions resolved by human. Corrected placement from Art XIV-RF §5 (occupied) to Art VII §11. Corrected budget from 0.05% (~$2.5B, grossly miscalibrated) to 0.002%/0.005% election-year surge (~$100M/$250M). Eliminated executive-agency requisition (separation-of-powers risk) in favor of permanent NEC staff + private experts.
+
+Coverage map:
+
+| Gap Component | Constitutional Coverage |
+|---------------|----------------------|
+| Budget floor (skeleton court) | Art VII §11(a) — 0.002% base / 0.005% election-year surge |
+| Automatic appropriation | Art VII §11(b) — no annual congressional action, CPI adjustment |
+| Anti-manipulation | Art VII §11(c) — Congress may not reduce, condition, transfer, delay |
+| Internal allocation | Art VII §11(d) — Chief proposes / panel approves / GAO audits adequacy |
+| Permanent investigative staff | Art VII §11(e) — simultaneous proceedings in all Regions |
+| GAO fiscal adequacy certification | Art VII §11(f) — adequacy only, no operational prescription |
+| Competitive salaries (expertise drain) | Art VII §11(g) — pegged to federal law enforcement |
+| Fund carryover | Art VII §11(h) — no reversion to Treasury |
+| Emergency private experts | Art VII §11(i) — procurement bypass during dispute periods |
+| Permanent investigative authority | Art VII §11(j) — subpoena, inspection, interviews, forensics |
+| Mandamus enforcement | Art VII §11(k) — compel disbursement at/above floor |
+| NEC establishment mandate | Art VII §11(l) — "may" → "shall" (Art XIV-RF §2(b)) |
+| Transition provision | Art VII §11(m) — Emergency Election Panel of Art III judges |
+| Gap 87 interaction (savings) | Art VII §11(n) — prevents double-dipping if COF established |
+| Anti-retaliation | Art VII §11(o) — retaliatory actions void, expedited challenge |
 
 ---
 
