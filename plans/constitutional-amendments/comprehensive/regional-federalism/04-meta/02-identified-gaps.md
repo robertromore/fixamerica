@@ -61,7 +61,7 @@ The 236 identified gaps have been organized into the following categories:
 | Mitigated | 0 |
 | Accepted by Design | 13 |
 | Requires Monitoring | 7 |
-| Resolved | 183 |
+| Resolved | 185 |
 
 ---
 

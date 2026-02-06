@@ -119,7 +119,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 110 | Property tax base divergence | Low | Requires Monitoring |
 | 112 | Budgetary midnight (sequestration) | Medium | ✅ Resolved |
 | 123 | Counter-cyclical fiscal capacity at regional level | Medium | Partially Mitigated |
-| 124 | Internal tax haven arbitrage | Medium | Proposal Available |
+| 124 | Internal tax haven arbitrage (zero-tax magnet, subsidized poaching, effort-laundering, mobile factor floor) | Medium | ✅ Resolved |
 | 170 | Fiscal cliff hostage (weaponized shutdowns) | Critical | ✅ Resolved |
 | 193 | Tax haven parasite (fiscal cannibalism) | High | ✅ Resolved |
 | 194 | Dole loophole (spending power coercion) | Critical | ✅ Resolved |
@@ -294,7 +294,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 25 | Climate emergency coordination (water scarcity, carbon policy, climate migration, adaptation infrastructure) | High | ✅ Resolved |
 | 26 | Digital/AI governance framework (AI governance, algorithmic accountability, digital identity, emerging tech coordination) | Medium | ✅ Resolved |
 | 27 | Tribal-Regional relations | High | Resolved |
-| 28 | Nuclear facilities and hazardous materials governance | Medium | Proposal Available |
+| 28 | Nuclear facilities and hazardous materials governance (nuclear plant siting, hazmat transport, waste storage, cross-boundary emergency zones) | Medium | ✅ Resolved |
 | 31 | Criminal justice coordination beyond extradition | Medium | Proposal Available |
 | 57 | Compact enforcement and dispute resolution | Medium | Partially Mitigated |
 | 58 | Geographic defense penalty (defense burden asymmetry) | Medium | ✅ Resolved |
