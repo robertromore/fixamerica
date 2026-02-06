@@ -2119,7 +2119,7 @@ Authority resides at the lowest level capable of exercising it effectively, subj
 (b) Within their respective spheres:
 
 - Federal law enacted pursuant to enumerated federal powers is supreme over conflicting Regional, State, or local law.
-- Regional law enacted pursuant to enumerated Regional powers is supreme over conflicting State or local law within the Region.
+- Regional law enacted pursuant to enumerated Regional powers is supreme over conflicting State or local law within the Region. The enforcement mechanisms for this supremacy are provided in Article II, Section 25.
 - State law is supreme over conflicting local law within the State.
 
 (c) State Constitutions.
@@ -2669,6 +2669,164 @@ A President recovering from surgery needs a rapid clearance mechanism (fourteen-
 (2) The President may suspend the operation of this Section for specific regulations directly related to an ongoing armed conflict or declared national emergency for a period not exceeding one hundred eighty (180) days. Renewal of such suspension requires an affirmative vote of Congress.
 
 (3) This Section is self-executing and does not require implementing legislation, though Congress may enact legislation to further its purposes.
+
+---
+
+### Section 25. Regional-State Supremacy and Implementation
+
+*Resolves Gap 59 — The State-Regional Preemption Deadlock (Vertical Supremacy Vacuum).*
+
+(a) **Scope.** This Section operationalizes Article III, Section 3(b) for Regional-State relations. It applies to Regional laws enacted pursuant to Section 2 or within Regional Exclusive Domains (Section 1(e)(2)) and Structured Concurrent Domains (Section 1(e)(3)).
+
+(b) **Regional Supremacy Classification.** The Allocation Review Board shall classify Regional authority over State law, by domain or policy, into three tiers:
+
+- (1) **Full Preemption.** Regional law supersedes conflicting State or local law; the Region may implement directly under subsection (g).
+- (2) **Cooperative Implementation.** Regional law sets standards and timelines; States implement through approved plans under subsections (h) and (i).
+- (3) **Concurrent Authority.** Regional standards operate as floors; States may exceed them consistent with Article III, Section 1 and the National Common Market.
+
+(c) **Exclusive Federal Domains Not Subject.** The Exclusive Federal Domains enumerated in Section 1(e)(1) are not subject to classification under this Section.
+
+(d) **Regional Development Banking.** Regional authority over development banking is limited to:
+
+- (1) Regional Development Banks for infrastructure financing;
+- (2) intra-Regional credit unions and community development financial institutions;
+- (3) Regional bond issuance for capital projects denominated in national currency; and
+- (4) operation within federal banking regulatory frameworks; and
+- (5) compliance with the non-discrimination protections of Article III, Section 5 and applicable federal civil rights law. The IFC shall monitor and publish Regional Development Bank lending patterns annually.
+
+(e) **Default Classification.** Unless the ARB classifies a policy as Full Preemption under subsection (f), Regional Exclusive Domains shall be governed by Cooperative Implementation. Structured Concurrent Domains shall be treated as Concurrent Authority unless classified as Full Preemption under subsection (f).
+
+(f) **Classification Criteria (Full Preemption).** The ARB may classify a policy as Full Preemption only upon clear and convincing evidence that:
+
+- (1) the policy requires physical continuity across State boundaries;
+- (2) State-by-State variation would render the policy ineffective; and
+- (3) no reasonable implementation flexibility exists.
+
+(g) **Direct Implementation Authority (Full Preemption).** For policies classified as Full Preemption, the Region may:
+
+- (1) exercise eminent domain directly, subject to just compensation paid from Regional funds;
+- (2) issue permits and approvals that supersede conflicting State or local requirements;
+- (3) contract directly with private parties for construction and operation; and
+- (4) establish Regional administrative agencies with direct enforcement authority.
+
+(5) **Scope Limitation.** Eminent domain, permitting, and contracting authority under this subsection are limited to property and approvals reasonably necessary to implement the certified policy or project. Takings beyond the certified scope are void and subject to expedited judicial relief.
+
+(6) **Federal National Necessity Priority.** If a Regional Full Preemption project conflicts with a National Necessity project certified under Section 17, the federal project prevails. The Federal Government shall accommodate Regional concerns consistent with Section 17(d).
+
+(h) **Cooperative Implementation Mechanisms.** For policies classified as Cooperative Implementation:
+
+- (1) the Region shall establish performance standards and timelines;
+- (2) States shall submit implementation plans within one hundred eighty (180) days;
+- (3) the Region shall approve plans that reasonably achieve Regional objectives; and
+- (4) States retain discretion over methods, contractors, and local arrangements.
+
+(i) **Implementation Plan Dispute Resolution.** If the Region rejects a State implementation plan:
+
+- (1) the State may appeal to the ARB under Section 7, subject to the procedures and limits of Section 4-A;
+- (2) the ARB shall determine whether the Regional rejection was arbitrary or whether the State plan reasonably achieves Regional objectives;
+- (3) if the ARB finds the State plan adequate, the Region shall accept it; and
+- (4) if the ARB finds the State plan inadequate, the State shall submit a revised plan within ninety (90) days.
+
+(j) **Funding Allocation with Default Split.**
+
+- (1) **Default Split.** Unless otherwise determined, funding for Cooperative Implementation policies shall be allocated:
+    - (A) seventy percent (70%) from Regional funds;
+    - (B) thirty percent (30%) from State funds.
+- (2) **Deviation from Default.** Either party may petition the Independent Fiscal Council (IFC) for a different allocation by demonstrating Disproportionate Burden:
+    - (A) the petitioning party must show by clear and convincing evidence that the default split would impose costs substantially exceeding the benefits received; and
+    - (B) "substantially exceeding" means a benefit-to-cost ratio below 0.5 for the petitioning party. The IFC shall establish and publish the methodology for calculating benefit-to-cost ratios under this subsection, including time horizon, discount rate, and cost categories.
+- (3) **Implementation Pending Dispute.** If a funding allocation is disputed:
+    - (A) implementation shall proceed under the default 70/30 split;
+    - (B) the IFC shall issue a determination within one hundred eighty (180) days;
+    - (C) if the IFC determines a different allocation, the overpaying party shall be reimbursed from the underpaying party's next fiscal year allocation; and
+    - (D) no party may delay implementation pending funding dispute resolution.
+- (4) **Anti-Gaming Provision.** A party that petitions for deviation three (3) or more times within five (5) years without success:
+    - (A) shall bear the IFC's adjudication costs for subsequent petitions; and
+    - (B) shall face a rebuttable presumption that future petitions are dilatory.
+
+(k) **Administrative Non-Compliance.** If a State fails to submit an implementation plan or fails to implement an approved plan within required timelines:
+
+- (1) days 1-90 after deadline: the Region shall issue a formal non-compliance notice;
+- (2) days 91-180: the Region may withhold Regional funding for unrelated State projects within the same domain;
+- (3) days 181-365: the Region may assume direct implementation authority, with costs charged to the non-complying State; and
+- (4) day 366+: the ARB may reclassify the policy as Full Preemption for the non-complying State only.
+
+(l) **Local Government Obstruction.** If State law delegates implementation to local governments that refuse cooperation:
+
+- (1) the State remains responsible for achieving Regional objectives;
+- (2) the State may not claim local non-compliance as a defense;
+- (3) the Region may require the State to exercise State preemption over local governments; and
+- (4) persistent local obstruction shall be attributed to State non-compliance.
+
+Nothing in this subsection authorizes Regional preemption of local authority except as provided in subsection (g) for Full Preemption policies. For Cooperative Implementation and Concurrent Authority domains, the Local Autonomy Floor established in Article II-RF, Section 3 is preserved and Regional directives shall not override non-preemptible local powers enumerated therein.
+
+(m) **"Working On It" Defense Prohibited.** A State may not indefinitely delay implementation by claiming ongoing review:
+
+- (1) environmental reviews shall be completed within twenty-four (24) months;
+- (2) permitting decisions shall be issued within twelve (12) months of complete application;
+- (3) failure to meet these timelines constitutes constructive denial; and
+- (4) constructive denial triggers Regional direct implementation authority under subsection (g).
+
+(n) **Cost Recovery.** If the Region assumes direct implementation due to State non-compliance:
+
+- (1) the Region may recover all costs from the State's share of federal transfers and equalization payments under Article X;
+- (2) cost recovery shall include a fifteen percent (15%) administrative surcharge; and
+- (3) the Non-Coercion Standard of Article X, Section 4 is not a defense to cost recovery for non-compliance with lawful Regional directives under this Section.
+
+(o) **Waiver of State Sovereign Immunity.** No State may assert sovereign immunity in any action arising under this Section, including cost recovery actions certified by the ARB or IFC, enforcement of Regional directives within Regional Exclusive Domains, or collection of penalties and surcharges. This waiver is limited to actions under this Section, is self-executing, and requires no further State legislative action. Attempted reassertion of sovereign immunity for matters covered by this subsection constitutes an independent violation subject to the penalties in subsection (k).
+
+(p) **State Constitutional Challenge.** If a State claims that a Regional policy violates its State constitution:
+
+- (1) the State shall file the challenge with the National Constitutional Court within sixty (60) days of Regional policy adoption;
+- (2) the challenge shall specify the State constitutional provision allegedly violated; and
+- (3) implementation shall be stayed pending resolution only if the Court finds a substantial likelihood of success on the merits.
+
+State courts may not stay, enjoin, or suspend Regional policies on State constitutional grounds.
+
+(q) **Federal Review Standard.** The National Constitutional Court shall review State constitutional objections under the following standard:
+
+- (1) if the State constitutional provision predates Regional Federation ratification, the Court shall determine whether the provision was intended to limit Regional-type authority or only federal authority;
+- (2) if the State constitutional provision was ratified after Regional Federation ratification — regardless of proposal date — it shall be presumed an attempt to circumvent Regional authority and shall receive strict scrutiny; and
+- (3) State constitutional provisions adopted or amended specifically to block a Regional policy are void as to that policy.
+
+(r) **Anti-Manipulation Safeguard.** A State may not:
+
+- (1) amend its constitution to create obstacles to Regional authority after a Regional policy is proposed;
+- (2) interpret existing provisions in novel ways to block Regional policy; or
+- (3) delegate to local governments constitutional authority the State itself does not possess.
+
+(s) **State Implementation Discretion.** Even within Full Preemption domains, States retain:
+
+- (1) authority to exceed Regional standards where such exceedance does not materially impair Regional objectives or physical continuity, subject to common-market constraints;
+- (2) discretion over purely local aspects that do not affect Regional objectives; and
+- (3) the right to propose alternative implementation methods that achieve equivalent outcomes.
+
+(t) **Subsidiarity Review.** Any State may petition the ARB for a determination that a Regional policy:
+
+- (1) does not require Full Preemption classification;
+- (2) imposes implementation requirements beyond what Regional objectives require; or
+- (3) fails to provide adequate State implementation discretion.
+
+If the ARB agrees, it shall require the Region to modify the policy to preserve greater State discretion.
+
+(u) **Anti-Centralization Presumption.** In all classifications and reviews under this Section, the ARB shall apply a presumption in favor of State implementation discretion:
+
+- (1) Full Preemption shall be the exception, not the rule;
+- (2) Regions shall demonstrate necessity for each reduction in State discretion; and
+- (3) the burden of proof lies with the Region, not the State.
+
+(v) **Adversarial Fact-Finding Authority.** When adjudicating classification disputes or subsidiarity reviews under this Section, the ARB:
+
+- (1) shall not rely solely on data provided by the petitioning Region or responding State;
+- (2) may commission independent technical assessments from federal agencies, academic institutions, or qualified contractors;
+- (3) may subpoena records from any party or third party with relevant information;
+- (4) may conduct site inspections and independent measurements;
+- (5) shall require parties to certify under penalty of perjury that data is complete and accurate, disclose all data sources and methodologies, and provide underlying records upon request;
+- (6) shall draw adverse inferences against any party that provides materially misleading or incomplete data and shall require the offending party to bear the costs of independent fact-finding;
+- (7) for States, a finding of factual sabotage creates a rebuttable presumption in favor of Full Preemption; for Regions, a finding of factual sabotage creates an irrebuttable presumption against Full Preemption; and
+- (8) shall complete independent fact-finding within one hundred twenty (120) days. Failure to meet this deadline creates a presumption in favor of the existing classification.
+
+(w) **Filing Management and Anti-Flooding.** Disputes under this Section are domain boundary disputes for purposes of Section 4-A and are subject to its annual limits, consolidation authority, and frivolousness penalties. For purposes of Section 4-A(e), State filings count against the annual limit of the State's Region unless the ARB grants leave under Section 4-A(f). Adversarial Review Office procedures under Section 7(s)-(v) apply to determinations under this Section.
 
 ---
 

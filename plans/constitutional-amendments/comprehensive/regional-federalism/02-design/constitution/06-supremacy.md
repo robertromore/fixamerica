@@ -30,6 +30,8 @@ Rights and standards shall be construed as floors unless explicitly stated other
 
 (d) "Federal" refers to the national government of the United States.
 
+(e) "National Constitutional Court" means the Supreme Court of the United States when exercising constitutional review jurisdiction under this Constitution, including but not limited to summary review of stays and injunctions, State constitutional challenges, proxy designation determinations, and expedited override review.
+
 ---
 
 ### Section 4. Interpretive Decoupling
