@@ -338,6 +338,114 @@ No Fundamental Misalignment certification based on subsection (g)(3) shall issue
 
 ---
 
+### Section 4-A. Boundary Revision Governance
+
+*Resolves Gap 11 — Boundary Revision Politics and Regional Identity Crystallization.*
+
+#### Mandatory Periodic Review
+
+(a) **Decennial Review Mandate.** The Independent Boundary Review Commission shall conduct a comprehensive review of Regional boundaries not less than once every twenty (20) years following the official release of decennial census data. Congress may by statute provide for more frequent reviews but may not extend the review cycle beyond twenty years or eliminate mandatory periodic review.
+
+(b) **Census Data Provision.** The Census Bureau shall provide the Commission with demographic, economic, and geographic data necessary for boundary analysis within one hundred eighty (180) days of the official release of decennial census data. If the Census Bureau fails to provide data within this deadline:
+
+(1) any Commissioner may petition the Supreme Court for a writ of mandamus to compel provision of data on an expedited basis;
+
+(2) the Commission may proceed using provisional data from available federal statistical sources until complete census data is provided.
+
+#### Commission Independence Floor
+
+(c) **Multi-Source Appointments.** No single appointing authority may select a majority of Commission members. Congress shall by statute designate at least three distinct appointing authorities for Commission membership.
+
+(d) **Party Balance Cap.** No more than a simple majority minus one of Commission members may share the same party affiliation. For purposes of this section, "party affiliation" includes any of the following within the ten (10) years preceding appointment:
+
+(1) formal registration with a political party;
+
+(2) voting in a partisan primary election;
+
+(3) service as an officer, employee, or official of a political party or political committee;
+
+(4) employment by or compensated service to a political campaign;
+
+(5) contributions to any single political party, political committee, or candidate in excess of the amount specified by statute, which shall not exceed five thousand dollars ($5,000) per calendar year adjusted for inflation.
+
+Congress may by statute expand this definition but may not narrow it.
+
+(e) **Minimum Disqualification Period.** No person may serve on the Commission who has, within the ten (10) years preceding appointment:
+
+(1) held elected federal or State office;
+
+(2) served as an officer of a national or state political party;
+
+(3) been employed as a registered lobbyist;
+
+(4) been employed by a political campaign for federal or State office.
+
+Congress may by statute establish additional disqualification criteria.
+
+(f) **Removal Standard.** Commission members may be removed only for cause — malfeasance, incapacity, or neglect of duty — by a two-thirds vote of the Senate.
+
+(g) **Vacancy Auto-Fill.** If any appointing authority fails to fill a Commission vacancy within ninety (90) days, the seat shall be filled by lottery from a pool of retired federal judges maintained by the Administrative Office of the Courts, subject to the party balance cap in subsection (d) and the disqualification criteria in subsection (e). If the next eligible candidate drawn would violate the party balance cap, the next eligible candidate who would not shall be selected. The lottery shall be conducted by the Clerk of the Supreme Court.
+
+(h) **Interim Commission.** If Congress fails to establish the Commission by statute within two (2) years of ratification of this section, the Comptroller General shall convene an interim Commission of not fewer than nine (9) retired federal judges selected by lottery, with no more than two (2) from any single Region. The interim Commission shall serve until Congress establishes the permanent Commission and shall have all powers and duties of the permanent Commission under this section and Section 4.
+
+#### Commission Budget Floor
+
+(i) **Dedicated Operational Budget.** The Commission shall receive a dedicated operational budget set as follows:
+
+(1) In any fiscal year not within the review window defined in paragraph (2), the Commission's operational budget shall be not less than 0.0002% of federal revenue;
+
+(2) In any fiscal year falling within five (5) years of the official release of decennial census data, the Commission's operational budget shall be not less than 0.001% of federal revenue.
+
+(j) **Automatic Appropriation.** Commission operational funds under subsection (i) shall be automatically appropriated without annual congressional action and disbursed within thirty (30) days of the start of each fiscal year.
+
+(k) **Prohibition on Budgetary Manipulation.** No branch of the federal government may:
+
+(1) reduce Commission operational funding below the formula amount established in subsection (i);
+
+(2) impose conditions on the use of Commission operational funds;
+
+(3) transfer Commission operational funds to other purposes;
+
+(4) delay disbursement of Commission operational funds beyond the period specified in subsection (j).
+
+(l) **Carryover of Unspent Funds.** Unspent Commission operational funds shall carry over to subsequent fiscal years and shall not revert to the Treasury. Carryover funds supplement, and do not reduce, the formula amount for subsequent years.
+
+(m) **Budget Mandamus.** Any Commissioner may petition the Supreme Court for a writ of mandamus to compel disbursement of operational funds at or above the formula amount established in subsection (i). Such petitions shall be heard on an expedited basis. Mandamus under this subsection may compel disbursement at the constitutionally required floor; it may not be used to increase funding above the formula amount.
+
+#### Prohibited Criteria and Review Integrity
+
+(n) **Prohibited Criteria.** No boundary revision may be proposed, recommended, or approved based on:
+
+(1) partisan political advantage;
+
+(2) advantage to any racial or ethnic group;
+
+(3) punishment of any Region for its political positions, electoral outcomes, or policy choices.
+
+(o) **Criteria Update Limitation.** Any statutory or regulatory change to the criteria for boundary revision shall take effect only for the next review cycle following the change, not the current review cycle.
+
+#### Anti-Obstruction and Anti-Harassment
+
+(p) **Congressional Action Deadline.** Within eighteen (18) months of receiving Commission recommendations, Congress shall schedule a national referendum on any proposed boundary revision.
+
+(q) **Commission Bypass.** If Congress fails to schedule a referendum within the deadline established in subsection (p), the Commission may submit its recommendations directly to national referendum. The bypass authority under this subsection extends only to referendum scheduling; it does not waive the requirement of Regional legislature approval under Section 4(a).
+
+(r) **Cooling-Off Period.** No substantially similar boundary revision proposal may be submitted for referendum within four (4) years of a failed referendum on the prior proposal. A proposal is "substantially similar" if it would affect the same Regional boundaries and transfer the same or overlapping populations.
+
+(s) **Extended Election Blackout.** In addition to the restrictions in Section 4(d), no boundary revision may be proposed, voted upon, or take effect within one (1) year before or six (6) months after any federal general election for the House of Representatives or the Senate.
+
+#### Small Region Protection
+
+(t) **Region Dissolution Consent.** No Region may be dissolved, merged into another Region, or have its territory reduced by more than one-third without the approval of two-thirds of the legislature of the affected Region. This requirement is in addition to, and not in substitution for, the approval requirements of Section 4(a).
+
+#### Enforcement
+
+(u) **Anti-Retaliation.** Any legislative, executive, or administrative action initiating or proposing boundary revision for the purpose of punishing a Region for its political positions, electoral outcomes, or policy choices is void. Any Region, State, or citizen with standing under Article XIV-RF, Section 5 may challenge such action in the Supreme Court on an expedited basis.
+
+(v) **Savings Clause.** If a Constitutional Oversight Fund or similar mechanism is established by this Constitution providing operational funding to the Commission, the Commission's operational budget under subsection (i) shall be reduced by the amount received from such fund, provided that total Commission operational funding shall not fall below the formula amount established in subsection (i).
+
+---
+
 ### Section 5. Inter-Regional Cooperation
 
 (a) Two or more Regions may enter into agreements for cooperative action on any matter within their respective powers.

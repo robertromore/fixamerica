@@ -43,7 +43,7 @@ Regional boundaries are subject to periodic review ([Article I, Section 4](../..
 - "Winners and losers" narratives around map changes could undermine regional cooperation.
 
 **Status:**
-Mitigated by supermajority and popular referendum requirements; long-horizon risk that may intensify as regional identities mature. Implementation details including Commission composition, appointment procedures, and anti-manipulation provisions are in the [Regional Boundary Review and Revision Act](../../proposals/01-foundations/boundary-review-act.md).
+RESOLVED. Key anti-manipulation safeguards constitutionalized as [Article I, Section 4-A](../../02-design/constitution/01-regional-structure.md) (Boundary Revision Governance): mandatory 20-year review cycle tied to decennial census, Commission independence floor (multi-source appointments, party balance cap with 10-year affiliation definition, disqualification period, removal for cause, 90-day vacancy auto-fill, interim Commission trigger), budget floor with surge model (0.0002% base / 0.001% review-cycle surge with carryover), constitutionalized prohibited criteria (partisan advantage, racial advantage, retaliatory punishment), anti-obstruction mechanism (18-month congressional deadline with Commission bypass to direct referendum), 4-year cooling-off period, extended election blackout to all federal general elections, Region dissolution consent requirement, and anti-retaliation enforcement. Statutory detail remains in the [Regional Boundary Review and Revision Act](../../proposals/01-foundations/boundary-review-act.md); constitutional text sets floors Congress cannot lower. Residual sociological risk of identity hardening is inherent and not eliminable by constitutional text.
 
 ---
 
