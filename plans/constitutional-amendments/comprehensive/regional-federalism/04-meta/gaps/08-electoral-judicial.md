@@ -4292,9 +4292,62 @@ If the Apparent Winner is killed or incapacitated before certification:
 3. Specify custody and transfer of classified materials upon Apparent Winner vacancy
 4. Clarify subordinate official direction chain when Apparent Winner position is vacant pending redesignation
 
-**Status:** Requires Development.
+### Gaming Vectors (Post-Resolution)
 
-**Severity:** High | **Mitigability:** Manageable
+| # | Vector | Mechanism | Mitigation |
+|---|--------|-----------|------------|
+| G1 | Assassination incentive | Kill Apparent Winner to trigger succession to preferred candidate | Running-mate succession means ideologically aligned successor; reduced incentive |
+| G2 | Feigned incapacity | Apparent Winner feigns incapacity to hand off to running mate | Court-based determination with independent medical examiner; 14-day restoration window |
+| G3 | Caretaker seizes classified materials | Caretaker directs security services to seize rival's transition files | §8(j)(5)(C)(ii) requires NEC direction; Caretaker may not interfere |
+| G4 | Incapacity petition harassment | Opponent files repeated incapacity petitions to delegitimize | §8(j)(5)(F)(v) standalone sanctions: cost-shifting, pre-approval for repeat filers |
+| G5 | Restoration churn | Recovered Apparent Winner reclaims designation, disrupting successor's transition | 14-day restoration window; after expiration, successor designation is final |
+| G6 | Running mate collusion | Running mate conspires to incapacitate Apparent Winner to take over | Criminal law applies; Court-based medical determination prevents manufactured claims |
+| G7 | Ghost period for classified data | Between death and successor designation, materials are unsecured | §8(j)(5)(C)(ii) requires immediate securing upon vacancy, not upon successor designation |
+| G8 | Withdrawal gaming | Strategic withdrawal to freeze transition, then attempt rescission | 48-hour irrevocability window; rescission only before effectiveness |
+| G9 | Opponent receives transition via RCV | In RCV re-tabulation, ideological opponent becomes Apparent Winner | Running mate takes priority over RCV; RCV is fallback (ii) only |
+| G10 | Special election with dead candidate on ballot | Deceased candidate forced onto special election ballot | §8(h)(4)(iii) amended to exclude deceased/incapacitated; running mate substitutes |
+
+### Resolution
+
+**RESOLVED.** Integrated as Article VII, Section 8(j)(5) in `02-design/single-topic/election-reform.md`.
+
+Placement: §8(j)(5) within the existing Transition Protection subsection, as a natural extension of the "Change of Apparent Winner" provision at §8(j)(4). No placement correction needed (gap was status "Requires Development" with no prior placement proposal).
+
+**Core mechanism:** Four vacancy triggers (death, incapacity, withdrawal, disqualification). Succession cascade: (1) running mate, (2) RCV re-tabulation excluding vacated candidate (where RCV applies), (3) NEC designation from remaining candidates, (4) Failure of Choice triggering special election. Classified materials secured immediately by security services under NEC direction (Caretaker may not interfere). Interim subordinate official direction defaults to Temporary Executive Committee or standing directives. Incapacity determined by State/Regional Supreme Court with independent medical examiner; 14-day restoration window. Frivolous incapacity petition sanctions (cost-shifting, pre-approval for repeat filers). Withdrawal requires 48-hour irrevocable notice to NEC. Scope limited to State/Regional elections; federal Apparent Winner vacancy deferred to Article II.
+
+**Cross-references:** §8(h)(3) amended to add vacancy-triggered Failure of Choice (new clause (iii)). §8(h)(4)(iii) amended to exclude deceased/incapacitated candidates from special election ballot. §8(k)(3)(i) amended to insert vacancy successor in direction hierarchy. Article III-RF §4-A(j) added to clarify Apparent Winner does not confer Governor-Elect powers. Article crosswalk updated.
+
+### Design Decisions
+
+| Decision | Resolution | Rationale |
+|----------|------------|-----------|
+| D1: Succession order | Running mate first, RCV re-tabulation second | Respects ticket voters chose; RCV re-tabulation (not raw next-highest) consistent with Art VII §2 instant-runoff method |
+| D2: Party designation | Removed (Option C) | Prevents party-boss capture; NEC designation from remaining candidates serves same function with democratic legitimacy |
+| D3: Failure of Choice trigger | Amend §8(h)(3) to add vacancy clause (iii) | Reuses existing special election machinery; one-clause amendment |
+| D4: Restoration window | 14 days from incapacity determination or successor designation, whichever is earlier | Balances voter preference against transition stability; aligns with Art II §20(k)(1) follow-up timeline |
+| D5: Classified materials custodian | Security services under NEC direction; Caretaker may not interfere | NEC lacks physical capacity; security services execute but NEC directs, removing chain-of-command conflict |
+| D6: Incapacity petition deterrence | Standalone sanctions in §8(j)(5)(F)(v) | Distinct from certification obstruction under §8(f); mirrors §8(f)(5) structure (costs + pre-approval) |
+| D7: Scope | State/Regional only | Federal Apparent Winner vacancy better handled via Article II §20 integration |
+| D8: Withdrawal definition | Written notice to NEC, effective after 48 hours, irrevocable after effectiveness | Prevents withdrawal/return gaming; simple to administer |
+| Additional: §8(h)(4)(iii) | Amended to exclude deceased/incapacitated from special election ballot; running mate substitutes | Prevents contradiction with vacancy logic |
+| Additional: Art III-RF §4-A(j) | Apparent Winner does not confer Governor-Elect powers pre-certification | Prevents pre-certification designation from triggering transition restrictions |
+| Additional: Incapacity standard | Mirrors Art II §20(a)(1) verbatim: functional inability, observable capacity, not diagnosis alone | Prevents drift in standards between federal and State/Regional incapacity frameworks |
+
+### Cross-Gap Interaction
+
+| Related Gap | Interaction |
+|-------------|-------------|
+| Gap 189 | Certification Choke — ministerial certification duty unaffected; Apparent Winner vacancy does not delay certification |
+| Gap 229 | Mad King — Art II §20(a)(1) incapacity standard adopted verbatim for Apparent Winner incapacity; federal scope deferred |
+| Gap 234 | Scorched Earth — Art II §12 transition integrity unaffected; Regional equivalent at §4-A clarified via new subsection (j) |
+| Gap 167 | Lame Duck Sabotage — §4-A transition restrictions apply only post-certification; Apparent Winner has §8(j) entitlements only |
+| Gap 262 | Negative Right Loophole — party designation removed to respect voter preference; NEC designation constrained to remaining candidates |
+
+Resolved 2026-02-05.
+
+**Status:** **RESOLVED.** Integrated as Article VII, Section 8(j)(5) in `02-design/single-topic/election-reform.md`.
+
+**Severity:** High | **Mitigability:** Resolved
 
 ---
 

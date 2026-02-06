@@ -1045,6 +1045,12 @@ Emergency authorization under this subsection expires after seventy-two (72) hou
 - (3) **Criminal Penalties.** A Governor or other official who knowingly takes or facilitates an action in violation of this section shall be subject to criminal penalties of fifty (50) to five hundred (500) Federal Penalty Units and permanent disqualification from Regional and federal elected or appointed office.
 - (4) **Ratification.** Notwithstanding paragraph (1), the incoming Governor may, within sixty (60) days of inauguration, ratify an action that would otherwise be void under this section if the Governor determines the action serves the public interest. Ratification does not immunize the prior official from criminal liability under paragraph (3).
 
+(j) **Relationship to Apparent Winner Designation.**
+
+- (1) The designation of an "Apparent Winner" under Article VII, Section 8(j) during a certification dispute does not, by itself, constitute a "Governor-Elect" for purposes of this section. The Transition Period under subsection (a) is triggered by certification, not by the Apparent Winner designation.
+- (2) If a certification dispute has been resolved and the certified winner coincides with the Apparent Winner, the Governor-Elect assumes all powers and standing under this section upon certification, and the Apparent Winner designation merges into the Governor-Elect status.
+- (3) During any period in which an Apparent Winner has been designated but certification has not occurred, the Apparent Winner's entitlements are governed exclusively by Article VII, Section 8(j), and the Governor-Elect provisions of this section do not apply.
+
 ---
 
 ### Section 5. Political Institutional Failure and Federal Receivership

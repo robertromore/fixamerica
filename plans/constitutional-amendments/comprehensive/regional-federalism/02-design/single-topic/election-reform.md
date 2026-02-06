@@ -391,14 +391,15 @@ This standalone constitutional amendment reforms the federal electoral system to
 
 (3) **Failure of Choice.** The National Election Court shall issue a "Failure of Choice" declaration if it determines that:
 
-- (i) The most recent count is unreliable due to obstruction, fraud, or systematic error affecting the integrity of the result; or
-- (ii) The margin between the leading candidates is smaller than the number of ballots that are unresolvable due to dispute, destruction, or tampering.
+- (i) The most recent count is unreliable due to obstruction, fraud, or systematic error affecting the integrity of the result;
+- (ii) The margin between the leading candidates is smaller than the number of ballots that are unresolvable due to dispute, destruction, or tampering; or
+- (iii) The Apparent Winner designation is vacant and no successor can be designated under subsection (j)(5)(B)(i) through (iii).
 
 (4) **Special Election.** Upon a Failure of Choice declaration:
 
 - (i) A special election shall be held within thirty (30) days of the declaration;
 - (ii) The Caretaker (or Temporary Executive Committee, if Caretaker authority has terminated) shall continue with minimal authority during the special election period;
-- (iii) The same candidates shall appear on the ballot unless a candidate voluntarily withdraws or has been disqualified under subsection (f)(3);
+- (iii) The same candidates shall appear on the ballot unless a candidate has died, been determined incapacitated under subsection (j)(5)(F), voluntarily withdrawn, or been disqualified under subsection (f)(3). Where a candidate is excluded under this paragraph, that candidate's running mate, if any, shall appear on the ballot in the candidate's place;
 - (iv) Enhanced election security measures, including federal observers, shall be implemented for the special election;
 - (v) Any party found to have caused the Failure of Choice through obstruction shall bear the costs of the special election.
 
@@ -453,6 +454,53 @@ This standalone constitutional amendment reforms the federal electoral system to
 
 (4) **Change of Apparent Winner.** If the identity of the Apparent Winner changes due to a recount, court order, or National Election Court determination, transition entitlements shall transfer to the newly designated Apparent Winner within twenty-four (24) hours. Upon transfer, the prior Apparent Winner's access to security briefings, classified materials, and government facilities under paragraph (2) shall terminate immediately. All classified materials in the prior Apparent Winner's possession shall be returned within twenty-four (24) hours.
 
+(5) **Apparent Winner Vacancy.**
+
+(A) **Vacancy Defined.** The Apparent Winner designation is deemed vacant upon the occurrence of any of the following:
+
+- (i) Death of the Apparent Winner;
+- (ii) A determination of incapacity under subparagraph (F);
+- (iii) Withdrawal by the Apparent Winner under subparagraph (G); or
+- (iv) Disqualification of the Apparent Winner under subsection (f)(3).
+
+(B) **Successor Designation.** Upon vacancy of the Apparent Winner designation, the successor shall be designated in the following order:
+
+- (i) The Apparent Winner's running mate, as certified on the ballot, shall be designated the successor Apparent Winner;
+- (ii) If no running mate was certified on the ballot, or the running mate is also dead, incapacitated, withdrawn, or disqualified, and the election utilized ranked-choice voting, the National Election Court shall re-tabulate the most recent official canvass under the election's ranked-choice voting rules, excluding the vacated candidate, and the candidate who would prevail under that re-tabulation shall be designated the successor Apparent Winner;
+- (iii) If neither paragraph (i) nor paragraph (ii) produces a successor, the National Election Court shall designate the successor Apparent Winner from among the remaining candidates in the election, including candidates in nonpartisan elections. If only one candidate remains, that candidate shall be designated;
+- (iv) If no candidate remains eligible for designation under paragraphs (i) through (iii), the National Election Court shall declare an Apparent Winner Vacancy Failure, which shall be treated as a Failure of Choice under subsection (h)(3) for purposes of triggering the special election provisions of subsection (h)(4).
+
+(C) **Transfer of Entitlements.** Upon designation of a successor Apparent Winner under subparagraph (B):
+
+- (i) All transition entitlements under paragraph (2) shall transfer to the successor within twenty-four (24) hours;
+- (ii) All classified materials in the prior Apparent Winner's possession, or in the possession of the prior Apparent Winner's estate, agents, or transition personnel, shall be secured immediately upon vacancy by security services acting under the direction and oversight of the National Election Court. The Caretaker Executive and Temporary Executive Committee may not direct, supervise, or interfere with the securing of such materials. Transfer to the successor shall be completed within twenty-four (24) hours of successor designation;
+- (iii) The prior Apparent Winner's access to government facilities, security briefings, and classified information terminates immediately upon vacancy;
+- (iv) Transition personnel serving the prior Apparent Winner may continue to serve the successor at the successor's discretion.
+
+(D) **Interim Direction of Subordinate Officials.** During any period between the vacancy of an Apparent Winner designation and the designation of a successor under subparagraph (B):
+
+- (i) If the Temporary Executive Committee retains authority under subsection (e), subordinate officials shall take direction from the Committee;
+- (ii) If no Temporary Executive Committee exists or its authority has expired, subordinate officials shall maintain operations under the most recent lawful directives until a successor Apparent Winner is designated;
+- (iii) No person other than a successor designated under subparagraph (B) may claim the transition entitlements or subordinate-official direction authority of the Apparent Winner.
+
+(E) **Timing.** The National Election Court shall designate a successor under subparagraph (B) within seventy-two (72) hours of vacancy. If re-tabulation under subparagraph (B)(ii) cannot be completed within seventy-two (72) hours, the Court shall proceed to subparagraph (B)(iii).
+
+(F) **Incapacity Determination.**
+
+- (i) For purposes of this paragraph, "incapacity" means a functional inability to discharge the powers and duties of the office being sought, whether arising from physical illness, cognitive impairment, mental health crisis, or any other cause. Incapacity is determined by observable functional capacity, not by diagnosis alone.
+- (ii) Incapacity of the Apparent Winner may be determined by the State/Regional Supreme Court upon petition by the Apparent Winner's running mate, any other candidate in the election, the State/Regional legislature, or the National Election Court. The Caretaker Executive and members of the Temporary Executive Committee do not have standing to petition under this subparagraph.
+- (iii) The Court shall rule within seventy-two (72) hours of petition, based on medical evidence. The Court shall appoint an independent medical examiner if the Apparent Winner is unable or unwilling to submit to examination.
+- (iv) **Recovery and Restoration.** An Apparent Winner determined to be incapacitated may petition the State/Regional Supreme Court for restoration of the designation within fourteen (14) days of the incapacity determination or the designation of a successor, whichever is earlier. The Court shall rule within seventy-two (72) hours on the basis of current medical evidence. If restoration is granted, the restored Apparent Winner resumes all entitlements and authority under this subsection, and the successor's designation terminates. After the expiration of the fourteen-day window, no petition for restoration may be filed and the successor's designation is final. Restoration does not extend any deadline under this section.
+- (v) **Frivolous Petition Sanctions.** A petition for incapacity determination that the Court finds to lack a good-faith medical basis shall result in assessment of all costs, including attorney fees, against the petitioner. A petitioner who has filed two or more petitions found to lack good-faith medical basis in the same election dispute may not file further incapacity petitions without pre-approval from the National Election Court.
+
+(G) **Withdrawal.**
+
+- (i) An Apparent Winner may withdraw from the election by filing a written notice with the National Election Court.
+- (ii) Withdrawal becomes effective forty-eight (48) hours after filing, unless the Apparent Winner rescinds the notice in writing before the expiration of that period.
+- (iii) After the forty-eight-hour period, withdrawal is irrevocable.
+
+(H) **Scope.** This paragraph applies to State and Regional elections governed by this section. For federal presidential and vice-presidential elections, vacancy of a President-elect or Vice President-elect shall be governed by Article II and any applicable provisions of this Constitution relating to presidential succession.
+
 #### Accountability for Caretaker Abuse
 
 (k) **Accountability for Caretaker Abuse.**
@@ -468,7 +516,7 @@ This standalone constitutional amendment reforms the federal electoral system to
 
 (3) **Subordinate Official Obligations.** Upon termination of Caretaker authority under subsection (c)(4), and thereafter:
 
-- (i) All subordinate officials shall take direction from the certified winner; if no winner has been certified, from the Temporary Executive Committee if it retains authority under subsection (e); if Committee authority has also expired, from the Apparent Winner pending certification; and if none is available, from the successor entity established under this section. During any period of Temporary Executive Committee governance, transition activities under subsection (j) shall be directed by the Apparent Winner;
+- (i) All subordinate officials shall take direction from the certified winner; if no winner has been certified, from the Temporary Executive Committee if it retains authority under subsection (e); if Committee authority has also expired, from the Apparent Winner pending certification; if the Apparent Winner designation is vacant, from the successor Apparent Winner designated under subsection (j)(5)(B); and if no successor has been designated, subordinate officials shall maintain operations under the most recent lawful directives until a successor is designated or a special election winner takes office. During any period of Temporary Executive Committee governance, transition activities under subsection (j) shall be directed by the Apparent Winner or, if the Apparent Winner designation is vacant, by the successor designated under subsection (j)(5)(B);
 - (ii) Security services shall protect the successor and facilitate the transition of authority;
 - (iii) A subordinate official who knowingly continues to take direction from a person whose authority has terminated under this section is subject to removal and such penalties as Congress shall provide by law;
 - (iv) **Safe Harbor.** No civil or criminal penalty, administrative discipline, or employment retaliation may be imposed on any subordinate official for refusing a direction from a Caretaker Executive or Temporary Executive Committee member whose authority has terminated under this section, or for taking direction from the successor designated under paragraph (i).
