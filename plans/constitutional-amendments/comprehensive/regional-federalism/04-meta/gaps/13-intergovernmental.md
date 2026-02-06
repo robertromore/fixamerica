@@ -22,9 +22,20 @@ While [Article I, Section 10](../../02-design/constitution/00-index.md) addresse
 - Adaptation infrastructure (sea walls, fire management) crossing boundaries lacks governance.
 
 **Status:**
-Under-specified but **PROPOSAL AVAILABLE**. Environmental provisions provide foundation; coordination could be built through inter-regional cooperation mechanisms ([Article I, Section 5](../../02-design/constitution/00-index.md)) and federal enabling legislation. Long-horizon risk that intensifies over time.
+**RESOLVED.** All four components of the Climate Emergency Coordination gap are addressed by existing constitutional provisions, with remaining elements appropriately statutory under existing authority. The proposal itself confirms: "Constitutional amendment is not required; the framework uses existing constitutional authorities."
 
-See [Climate Emergency Coordination Framework](../../proposals/05-environment-infrastructure/climate-emergency-coordination.md) for voluntary carbon coordination, climate migration management, and adaptation infrastructure governance.
+Coverage map:
+
+- **Water scarcity allocation:** Art I §7 (Water Resources Coordination Board, National Water Court, equitable apportionment, tribal water rights preservation)
+- **Emergency resource access:** Art I §11(m) (presidential or coordination body declaration, anti-hoarding with treble damages, fair market compensation, transferring Region baseline priority, emergency collision deconfliction with §11(k)(6))
+- **Environmental coordination:** Art I §11(a)-(j) (transboundary harm prohibition, cumulative impact standard, shared ecosystem designation, ecosystem carrying capacity limits, proportional liability, mandatory remediation fund, preemptive intervention at 80% capacity)
+- **Climate migration:** Art I §8(f)-(m) (Migration Surge Stabilization with 3% trigger, automatic fiscal transfers, service capacity assistance, anti-degradation mandate, origin Region contribution, surge stabilization fund)
+- **Catastrophic displacement:** Art XVII-RF §5 (IFC-certified declaration, federal coordination authority, voluntary incentive-based allocation, right to return, Climate Displacement Reserve)
+- **Carbon policy coordination:** Art I §5 provides inter-regional cooperation compact authority (statutory)
+- **Adaptation infrastructure:** Art I §5A provides joint authority template (statutory)
+- **Resource-restrictive standards:** Art I §11(k) (certification requirement, 4-part proportionality test, pretext finding, assessment timeline limitation, emergency environmental exception)
+
+See [Climate Emergency Coordination Framework](../../proposals/05-environment-infrastructure/climate-emergency-coordination.md) for the statutory enabling legislation proposal.
 
 ---
 
