@@ -760,7 +760,7 @@ The Armed Forces Amendment establishes the Regional Guard as a primary domestic 
 | **Axiom 7 (Law Must Move Faster)** | Annual calculations; automatic readiness status; 72-hour timelines |
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article XI, Section 11. This five-part solution ensures that Regions with greater geographic defense burdens receive equitable cost-sharing while preserving Two-Key authorization, preventing both federal commandeering through Mutual Aid abuse and Regional infrastructure hostage-taking.
+**RESOLVED.** Integrated as Art XI-RF §8 (Defense Burden Equalization Framework) in [10-armed-forces.md](../../02-design/constitution/10-armed-forces.md). Six-part solution with 21 subsections (a)-(u): Defense Burden Assessment (DoD threat data, IFC fiscal calculation, ARB objectivity review), Defense Equalization Fund (IFC-managed, per-FPU disbursement, 150% cap), Minimum Readiness and Mutual Aid (separate defense/disaster tracks, 30-day governor window, congressional certification for extensions), Shared Benefit Infrastructure (tiered geographic scope, dual-track funding), Anti-Gaming (Triple Lock for Free Rider Penalty, 7-year lookback, field-verified exercises), and Coordination and Savings (National Necessity deconfliction, IFC data primacy, non-coercion bridge). All 12 design decisions resolved through multi-LLM convergence in 2 rounds. See briefing-gap-058.md and briefing-gap-058-r2.md.
 
 ---
 

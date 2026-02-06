@@ -40,7 +40,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | [16-information-barriers.md](16-information-barriers.md) | Information & Communication | Gap 155 |
 | [17-rights-enforcement.md](17-rights-enforcement.md) | Rights Enforcement | Gaps 156, 188, 217, 225-226, 231, 239, 244, 263-264, 270 |
 | [18-constitutional-adaptation.md](18-constitutional-adaptation.md) | Constitutional Process | Gaps 157, 187, 249 |
-| [13-intergovernmental.md](13-intergovernmental.md) | Intergovernmental Relations | Gaps 25-28, 31, 57, 59-60, 64, 71, 76-78, 96, 111, 114-115, 125-127, 134-136, 139-141, 143, 146, 148, 172, 176-184, 191, 199, 201, 203, 204, 240, 253-255, 265-267, 269, 271, 274 |
+| [13-intergovernmental.md](13-intergovernmental.md) | Intergovernmental Relations | Gaps 25-28, 31, 57-60, 64, 71, 76-78, 96, 111, 114-115, 125-127, 134-136, 139-141, 143, 146, 148, 172, 176-184, 191, 199, 201, 203, 204, 240, 253-255, 265-267, 269, 271, 274 |
 | [19-emerging-technology.md](19-emerging-technology.md) | Emerging Technology | Gaps 207-215 |
 
 ---
@@ -228,7 +228,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 
 | Gap # | Description | Severity | Mitigation Status |
 |-------|-------------|----------|-------------------|
-| 54 | Administrative law variation and due process | Medium | Partially Mitigated |
+| 54 | Administrative law variation and due process | Medium | ✅ Resolved |
 | 56 | Zombie executive incentive (caretaker obstruction) | Medium | ✅ Resolved |
 | 70 | Administrative attrition via civil service purge | Medium | ✅ Resolved |
 | 79 | Executive caretaker perpetualism | Medium | ✅ Resolved |
@@ -297,6 +297,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 28 | Nuclear facilities and hazardous materials governance | Medium | Proposal Available |
 | 31 | Criminal justice coordination beyond extradition | Medium | Proposal Available |
 | 57 | Compact enforcement and dispute resolution | Medium | Partially Mitigated |
+| 58 | Geographic defense penalty (defense burden asymmetry) | Medium | ✅ Resolved |
 | 59 | State-Regional preemption deadlock (vertical supremacy vacuum) | Medium | ✅ Resolved |
 | 60 | Para-diplomacy conflict (regional foreign engagement vacuum) | Medium | ✅ Resolved |
 | 64 | Interstate pollution and externality resolution | High | Partially Mitigated |

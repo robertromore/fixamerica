@@ -97,6 +97,8 @@ These files contain ONLY the region-dependent provisions. They supplement the st
 | Militia Affiliation Prohibition | XI-RF §4(f)(4) | Military Civilian Control Amendment | [10-armed-forces.md](10-armed-forces.md) |
 | Autonomous Lethal Systems and Force Equivalence | XI-RF §5 | Military Civilian Control Amendment | [10-armed-forces.md](10-armed-forces.md) |
 | Inter-Regional Military Confederation Prohibition | XI-RF §6 | Military Civilian Control Amendment | [10-armed-forces.md](10-armed-forces.md) |
+| Cyber Operations | XI-RF §7 | Military Civilian Control Amendment | [10-armed-forces.md](10-armed-forces.md) |
+| Defense Burden Equalization Framework | XI-RF §8 | Military Civilian Control Amendment | [10-armed-forces.md](10-armed-forces.md) |
 | Civilian Court Supremacy | III-RF §12 | RF Core Constitution | [09-judiciary.md](09-judiciary.md) |
 | Regional Emergency Powers | XVII-RF | Emergency Powers Reform Amendment | [11-emergency-powers.md](11-emergency-powers.md) |
 | Regional Bio-Security Cooperation | XVII-RF §4 | Emergency Powers Reform Amendment | [11-emergency-powers.md](11-emergency-powers.md) |
@@ -229,6 +231,8 @@ Article XI-RF, Section 4 (Monopoly on Force) — see 10-armed-forces.md
 Article XI-RF, Section 4(f)(4) (Militia Affiliation Prohibition) — see 10-armed-forces.md
 Article XI-RF, Section 5 (Autonomous Lethal Systems and Force Equivalence) — see 10-armed-forces.md
 Article XI-RF, Section 6 (Prohibition on Inter-Regional Military Confederations: unified command ban, mutual aid limits, anti-rotation aggregation, equipment pre-positioning restrictions, functional classification test, intelligence compact limits, foreign sub-national ban, joint procurement rules, compact registration/oversight, enforcement/removal, Congressional 2-year review) — see 10-armed-forces.md
+Article XI-RF, Section 7 (Cyber Operations) — see 10-armed-forces.md
+Article XI-RF, Section 8 (Defense Burden Equalization Framework: Defense Burden Assessment with DoD threat data/IFC fiscal calculation/ARB objectivity review, Defense Equalization Fund with IFC management/per-FPU disbursement/150% cap, Minimum Readiness and Mutual Aid with separate defense/disaster tracks/30-day governor window/congressional certification for extensions, Shared Benefit Infrastructure with tiered geographic scope/dual-track funding, Anti-Gaming with Triple Lock for Free Rider Penalty/7-year lookback/field-verified exercises, Coordination and Savings with National Necessity deconfliction/IFC data primacy/non-coercion bridge) — see 10-armed-forces.md
 Article XI, Section 13(a)(3), (b)(6), (d) (SDF autonomous system cross-references) — see single-topic/military-civilian-control.md
 Article XVII-RF, Section 4 (Regional Bio-Security Cooperation) — see 11-emergency-powers.md
 Article XVII-RF, Section 5 (Catastrophic Displacement and Resettlement: IFC-certified declaration, federal coordination authority with limited preemption, voluntary incentive-based allocation, fiscal neutrality guarantee, immediate voting transfer, 5-year credential portability, right to return, origin Region dissolution/Federal Trusteeship, 5-year sunset, Climate Displacement Reserve) — see 11-emergency-powers.md

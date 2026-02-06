@@ -38,7 +38,7 @@ The 236 identified gaps have been organized into the following categories:
 | [16-information-barriers.md](gaps/16-information-barriers.md) | Information Barriers | 155 | Digital customs borders, epistemic secession |
 | [17-rights-enforcement.md](gaps/17-rights-enforcement.md) | Rights Enforcement | 156, 188, 217, 225-226, 231, 239, 244, 263-264, 270 | Sovereign immunity, accountability |
 | [18-constitutional-adaptation.md](gaps/18-constitutional-adaptation.md) | Constitutional Process | 157, 187, 249 | Amendment rigidity, ossification trap |
-| [13-intergovernmental.md](gaps/13-intergovernmental.md) | Intergovernmental | 25-28, 31, 57, 59-60, 64, 71, 76-78, 96, 111, 114-115, 125-127, 134-136, 139-141, 143, 146, 148, 172, 176-184, 191, 199, 201, 203, 204, 240, 253-255, 265-267, 269, 271, 274 | Federal-Regional-State relations |
+| [13-intergovernmental.md](gaps/13-intergovernmental.md) | Intergovernmental | 25-28, 31, 57-60, 64, 71, 76-78, 96, 111, 114-115, 125-127, 134-136, 139-141, 143, 146, 148, 172, 176-184, 191, 199, 201, 203, 204, 240, 253-255, 265-267, 269, 271, 274 | Federal-Regional-State relations |
 | [19-emerging-technology.md](gaps/19-emerging-technology.md) | Emerging Technology | 207-215 | AI, quantum, biotech governance |
 
 ---
@@ -56,12 +56,12 @@ The 236 identified gaps have been organized into the following categories:
 | Status | Count |
 |--------|-------|
 | Requires Development | 0 |
-| Partially Mitigated | 39 |
+| Partially Mitigated | 37 |
 | Proposal Available | 0 |
 | Mitigated | 0 |
 | Accepted by Design | 13 |
 | Requires Monitoring | 7 |
-| Resolved | 177 |
+| Resolved | 179 |
 
 ---
 

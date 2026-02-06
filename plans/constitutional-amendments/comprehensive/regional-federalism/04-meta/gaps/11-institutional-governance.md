@@ -331,7 +331,7 @@ This solution moves from the "Neutral Expert" myth to an "Institutionalized Conf
 | **Axiom 5 (Make Losses Survivable)** | Regional veto provides escape valve; lottery provides reset |
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article II, Section 5 (ARB) with parallel provisions for IFC and other technocratic bodies. This five-part solution replaces the "Neutral Expert" assumption with "Institutionalized Conflict," ensuring that capture requires simultaneous control of multiple antagonistic actors—a practical impossibility under normal political conditions.
+**RESOLVED.** All five parts of the proposed Adversarial Governance framework are already integrated into Article II, Section 7 (Allocation Review Board): Part 1 Compositional Safeguards (§7(b)-(f)), Part 2 Adversarial Review Office (§7(s)-(v)), Part 3 Regional Override (§7(w)-(y)), Part 4 Systematic Bias Detection (§7(z)-(bb)), Part 5 Budgetary Independence (§7(cc)-(ee)), plus additional Anti-Consolidation Safeguards (§7(ff)-(ff-4)).
 
 ---
 
