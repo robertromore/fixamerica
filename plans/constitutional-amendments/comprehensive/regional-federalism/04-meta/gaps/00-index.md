@@ -118,7 +118,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 107 | Ghost residency and equalization formula gaming (183-day physical presence, minimum tax effort, phantom revenue, anti-haven, corporate apportionment by economic presence, IST population certification, forensic cross-verification) | Medium | ✅ Resolved |
 | 110 | Property tax base divergence | Low | Requires Monitoring |
 | 112 | Budgetary midnight (sequestration) | Medium | ✅ Resolved |
-| 123 | "Automatic Fiscal Continuation" as Hostage Tool | High | Proposal Available |
+| 123 | "Automatic Fiscal Continuation" as Hostage Tool | High | ✅ Resolved — Art X §19(p)-(r): Emergency Fiscal Adjustment Authority, Inflation Indexing for Continuation, Appropriation Floor for Government Functions |
 | 124 | Internal tax haven arbitrage (zero-tax magnet, subsidized poaching, effort-laundering, mobile factor floor) | Medium | ✅ Resolved |
 | 133 | "Strategic Incompetence" as a Federal Cost-Shift | Medium | Proposal Available |
 | 137 | "Financial Dumping" via Mutual Recognition | High | Proposal Available |

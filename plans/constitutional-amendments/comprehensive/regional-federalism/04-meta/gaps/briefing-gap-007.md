@@ -75,7 +75,7 @@ Article XXI §2 provides strong default rules if Congress *never enacts* these a
 |-----|-------------|--------|
 | Gap 87 (Fiscal Starvation of ARB/Independent Councils) | Overlapping — addresses institutional defunding specifically | Proposal Available |
 | Gap 12 (Constitutional Transition Vulnerability) | Related — path dependency from initial boundary decisions | Partially Mitigated |
-| Gap 123 (Automatic Fiscal Continuation as Hostage Tool) | Related — weaponized fiscal defaults | Proposal Available |
+| Gap 123 (Automatic Fiscal Continuation as Hostage Tool) | Related — weaponized fiscal defaults | Resolved — Art X §19(p)-(r) |
 
 ---
 

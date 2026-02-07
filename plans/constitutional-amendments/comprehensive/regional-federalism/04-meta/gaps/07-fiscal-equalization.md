@@ -2090,7 +2090,7 @@ Article XXI provides for Automatic Fiscal Continuation to prevent government shu
 - **Gap 94 (Emergency Debt):** Fiscal crisis; Gap 123 addresses fiscal strangulation
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article XXI-RF, Section 2. This three-part solution grants IFC emergency adjustment authority with Congressional override, implements automatic inflation indexing for continuation, and establishes essential function appropriation floor requiring supermajority to waive.
+**RESOLVED.** Art X §19(p)-(r) — Emergency Fiscal Adjustment Authority, Inflation Indexing for Continuation, Appropriation Floor for Government Functions. Three-part solution: (p) IFC emergency adjustment authority (20% cap, 5-of-7 supermajority, unconditional congressional override with Fiscal Continuity Resolution requirement, 180-day expiration, disbursement protection cross-reference); (q) CPI-U inflation indexing applied before 98% haircut with explicit incentive-preservation language; (r) 75% floor on compounding decline, constitutional oversight bodies as self-executing essential functions, 12-month Fiscal Adequacy Assessment. See briefing-gap-123.md.
 
 ---
 
