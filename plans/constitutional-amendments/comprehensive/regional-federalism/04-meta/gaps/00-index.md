@@ -136,7 +136,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 
 | Gap # | Description | Severity | Mitigation Status |
 |-------|-------------|----------|-------------------|
-| 37 | Judicial appointment politicization at regional level | Medium | Partially Mitigated |
+| 37 | Judicial appointment politicization at regional level | Medium | ✅ Resolved — Art XIV-RF §1-A: mandatory merit selection, non-renewable terms, independent conduct boards, budget protection, court-packing prevention, federal backstop via Full Faith and Credit suspension |
 | 48 | Regional electoral integrity vs. auto-certification (Certification Escrow) | Medium | ✅ Resolved |
 | 49 | House majoritarianism and consensus floor problem | Medium | Resolved |
 | 53 | Judicial review scope variation across regions | Medium | Accepted by Design |

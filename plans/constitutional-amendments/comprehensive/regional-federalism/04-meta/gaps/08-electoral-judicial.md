@@ -13,7 +13,7 @@ Courts have mandatory jurisdiction and deadlines, but judges are still appointed
 Sustained control of appointment processes over multiple cycles could install judges who interpret mandatory jurisdiction requirements minimally or find procedural workarounds.
 
 **Status:**
-Partially mitigated by ARB as alternative forum and by default rules if courts fail to act. However, systematic judicial appointment capture remains a residual risk requiring expanded hostile reinterpretation analysis.
+RESOLVED. Article XIV-RF, Section 1-A establishes mandatory Minimum Judicial Independence Standards for Regional Courts, including: merit selection via Judicial Nominating Commissions with divided appointing authorities and expanded partisan-activity exclusions (§1-A(a)); structured nomination list process with anti-serial-rejection mechanism (§1-A(b)); non-renewable term limits within defined ranges — 10-16 years (Regional Supreme Court), 8-14 years (appellate), 6-12 years (trial) — with mandatory staggering (§1-A(c)); independent Judicial Conduct Board with external member and two-thirds removal threshold (§1-A(d)); minimum qualifications (§1-A(e)); compensation and budget protection with prior-year-adjusted-for-inflation floor (§1-A(f)); ethics code developed by judiciary, not legislature (§1-A(g)); court-packing prevention with 4-year cooling-off and two-thirds requirement (§1-A(h)); 5-year transition with capacity-development extension (§1-A(i)); federal backstop via Full Faith and Credit suspension and mandatory Supreme Court appellate jurisdiction for non-compliant Regions (§1-A(j)). See [briefing-gap-037.md](briefing-gap-037.md) for full analysis.
 
 ---
 
