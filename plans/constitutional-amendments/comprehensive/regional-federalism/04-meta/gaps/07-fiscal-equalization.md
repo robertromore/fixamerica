@@ -107,7 +107,7 @@ The NBS creates a classic principal-agent misalignment:
 
 This generates a **Fiscal Blame Loop**:
 
-```
+```text
 Region expands services → Costs rise
      ↓
 Federal government imposes caps → Region claims "underfunding"
@@ -309,7 +309,25 @@ This solution converts the NBS from an open-ended entitlement into a performance
 | **Axiom 7 (Law Must Move Faster)** | Annual efficiency calculations; automatic funding adjustments |
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article X, Sections 3-B through 3-E. This four-part solution converts the National Benefits Spine from an open-ended entitlement into a performance-based partnership, breaking the Fiscal Blame Loop while preserving federal outcome floors and Regional administrative flexibility.
+✅ **RESOLVED.** All four parts integrated into Article X of `02-design/constitution/04-fiscal-system.md`:
+
+| Proposal Part | Constitutional Location | Coverage |
+|---|---|---|
+| Part 1: Co-Payment Requirement (§3-B) | Art X §3(a)-(b) | Full — tiered co-payment schedule, anti-gaming, IFC verification |
+| Part 2: Efficiency-Indexed Funding (§3-C) | Art X §3(c)-(e) | Full — PPP-adjusted cost-per-outcome, savings retention, performance improvement status |
+| Part 3: Anti-Creaming Protections (§3-D) | Art X §3-B | Full — stratified outcomes (age/disability/severity/geography), per-capita expenditure floor (80% national median), IFC methodology with judicial review, small-population strata methodology, small Region pooling, 30-month transition |
+| Part 4: Efficiency Standards Clarification (§3-E) | Art X §3-C | Full — efficiency standards not ceilings (Art III §1), Regional supplementation, PPP delivery-model adjustment, Non-Coercion Standard scope, outcome floor constraints (results-based, least-restrictive, 20% cost cap, ARB petition for disguised mandates) |
+
+Additional provisions beyond original proposal (incorporated from dual peer review):
+
+- **Program-Specific Performance Receivership** (§3(e)(4)(D)): Distinct from whole-Region Administrative Receivership under §8; scoped to individual program categories with escalation trigger
+- **Co-Payment Integrity** (§3(e)(5)): Expanded dedicated-transfer definition, forensic audit authority, fraud penalties
+- **Per-capita expenditure floor** (§3-B(b)): 80% of national median per stratum prevents cost-shifting disguised as efficiency
+- **IFC methodology judicial review** (§3-B(c)): Replaced ARB approval with judicial review under arbitrary-and-capricious standard to prevent politicization
+- **Small-population strata methodology** (§3-B(d)): Rolling 3-year aggregation, peer-region analysis, exclusion with reporting for strata <500
+- **Outcome floor constraints** (§3-C(f)): Results not enrollment, no single-policy mandates, least-restrictive approach, 20% cost cap, ARB petition for disguised policy mandates
+
+Verified 2026-02-06.
 
 ---
 

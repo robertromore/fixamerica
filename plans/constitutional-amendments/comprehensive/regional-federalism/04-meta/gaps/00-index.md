@@ -108,7 +108,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | Gap # | Description | Severity | Mitigation Status |
 |-------|-------------|----------|-------------------|
 | 45 | Equalization formula gaming / administrative receivership | Medium | ✅ Resolved |
-| 52 | Tax base erosion through inter-regional competition | Medium | Partially Mitigated |
+| 52 | The Moral Hazard of the National Benefits Spine (Fiscal Blame Loop) — NBS co-payment, efficiency-indexed funding, anti-creaming protections, efficiency standards clarification | Medium | ✅ Resolved |
 | 61 | Macroeconomic policy mismatch (regional monetary asymmetry) | High | ✅ Resolved |
 | 62 | Fiscal hollow-out via State-level tax strikes (Revenue Protection) | Medium | ✅ Resolved |
 | 72 | Equalization cliff sabotage (Inverted Default Incentive) | High | ✅ Resolved |

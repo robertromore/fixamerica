@@ -100,6 +100,30 @@ Automatic, formula-based equalization transfers shall ensure baseline governing 
 
 (3) **Underperforming Regions:** If a Region fails to achieve outcome floors regardless of spending, the Region enters Performance Improvement Status.
 
+(4) **Performance Improvement Status.** A Region in Performance Improvement Status under paragraph (3):
+
+(A) shall submit to enhanced IFC monitoring and technical assistance;
+
+(B) shall develop a corrective action plan within ninety (90) days identifying root causes and remediation steps;
+
+(C) shall achieve outcome floors within twenty-four (24) months;
+
+(D) if improvement is not achieved within the twenty-four (24) month period, the Region shall enter Program-Specific Performance Receivership for the affected program category. Under Program-Specific Performance Receivership, the IFC may: assume direct operational authority over the affected program; mandate minimum Regional budget allocations for the affected program; require program-specific revenue enhancements or expenditure reforms; and contract directly with service providers, bypassing Regional administration. Program-Specific Performance Receivership under this paragraph is distinct from Administrative Receivership under Section 8. A Region may be in Program-Specific Performance Receivership for one or more NBS categories while retaining fiscal autonomy in other domains. If a Region is in Program-Specific Performance Receivership for three or more NBS categories simultaneously, or if such receivership continues for more than four years, this shall constitute evidence of systemic incapacity for purposes of Section 8.
+
+(E) **Partial Savings Suspension.** A Region in Performance Improvement Status for a program category shall be ineligible to retain efficiency savings under paragraph (1) for that category, but may retain savings for other categories where outcome floors are met across all demographic strata under Section 3-B.
+
+(5) **Co-Payment Integrity.** Co-payments under subsection (a) must be paid from Regional general revenue. The following sources may not be used:
+
+(A) dedicated federal transfers, including any federal grant or transfer with conditions or reporting requirements specific to the program category, any federal funds received pursuant to federal law establishing National Benefits Spine programs, and any equalization transfer calculated under Section 3, Section 3-A, or Section 9;
+
+(B) pass-through of federal equalization funds;
+
+(C) borrowing against future federal allocations;
+
+(D) accounting maneuvers that shift other Regional expenses to federal categories.
+
+The Independent Fiscal Council shall verify co-payment compliance annually, conduct random forensic audits of at least twenty percent (20%) of Regional outcome claims annually including direct verification of service delivery, and may refer suspected violations to the Allocation Review Board. Regions found to have materially misrepresented outcome data shall forfeit all efficiency savings retained under paragraph (1) for the fiscal year in question, repay federal funding calculated on the basis of fraudulent data, and enter Performance Improvement Status for the affected program category.
+
 #### Subsidy-Neutrality Adjustment
 
 (f) **Subsidy-Neutrality Adjustment.** Equalization formulas shall account for Regional tax expenditures:
@@ -317,6 +341,100 @@ Such pooling shall preserve each Region's sovereignty and independent governance
 - (2) fiscal capacity below the median fiscal capacity of all Regions.
 
 (h) Fiscal capacity shall be measured by the Independent Fiscal Council using a formula that accounts for tax base (including non-human economic output as defined in Section 21), cost of living, and geographic factors. The formula shall be established by statute and reviewed every ten years.
+
+---
+
+### Section 3-B. Anti-Creaming Protections
+
+*[Resolves Gap 52 — National Benefits Spine Fiscal Blame Loop, Part 3. Prevents Regions from achieving favorable cost-per-outcome metrics by concentrating resources on easy-to-serve populations while neglecting the most vulnerable.]*
+
+(a) **Stratified Outcome Requirements.** Outcome floors for National Benefits Spine programs shall be measured across demographic strata, not merely in aggregate. A Region may not be deemed to have achieved outcome floors unless targets are met in each of the following categories:
+
+(1) Age cohorts: children (ages 0-17), working-age adults (ages 18-64), and seniors (ages 65 and older);
+
+(2) Disability status: persons with disabilities and persons without disabilities;
+
+(3) Severity of need: persons in deep poverty or acute need versus persons near threshold;
+
+(4) Geographic distribution: urban, suburban, and rural populations within the Region.
+
+(b) **Savings Release Contingent on Stratified Performance.** A Region may not retain efficiency savings under Section 3(e)(1) unless:
+
+(1) Outcome floors are met across all demographic strata under subsection (a); and
+
+(2) The Region demonstrates that per-capita expenditure for each stratum is not less than eighty percent (80%) of the national median per-capita expenditure for that stratum, adjusted for Regional Purchasing Power Parity under Section 3(d).
+
+(c) **IFC Methodology.** The Independent Fiscal Council shall develop and publish methodologies for measuring stratified outcomes, including:
+
+(1) standardized definitions for each demographic stratum, using the most granular demographic definitions for which statistically valid measurement is feasible and presuming inclusion of borderline populations in higher-need strata;
+
+(2) minimum sample sizes for statistical validity;
+
+(3) adjustment factors for Regions with atypical demographic compositions.
+
+Such methodologies shall be subject to notice-and-comment rulemaking and shall be reviewable in federal court under arbitrary and capricious standards. The IFC shall publish an annual report demonstrating that outcome stratification prevents concentration of resources on easy-to-serve populations. Methodologies shall be reviewed every five (5) years, and any Region may petition for review if systematic underperformance in a subpopulation is statistically demonstrated.
+
+(d) **Small Population Strata.** For demographic strata with fewer than five hundred (500) individuals in a Region:
+
+(1) The IFC shall use rolling three-year averages to achieve adequate sample sizes;
+
+(2) If three-year rolling data remains insufficient, the IFC shall use comparative peer analysis with demographically similar Regions;
+
+(3) If neither methodology under paragraphs (1) or (2) yields statistically valid measurement, the stratum shall be excluded from compliance requirements, but the Region shall report annually on service provision to that population and may not systematically deny services on the basis of the exclusion.
+
+(e) **Small Region Pooling.** Small Regions under Section 3-A may pool data across Regions for purposes of stratified outcome measurement under this Section, where individual Regional sample sizes are insufficient. Pooled Regions are collectively responsible for achieving outcome floors across shared strata.
+
+(f) **Transition Period.** Within thirty (30) months of ratification, the IFC shall develop and adopt final stratified outcome methodologies. During the transition period:
+
+(1) Efficiency indexing under Section 3(e) shall apply using aggregate outcome measures;
+
+(2) Regions shall collect and report outcome data disaggregated by age, disability status, and geography using standardized federal survey methodologies;
+
+(3) The IFC shall issue annual reports identifying Regions with statistically significant disparities in service delivery across demographic groups, which shall create a rebuttable presumption of creaming;
+
+(4) If the IFC fails to adopt final methodologies within thirty-six (36) months, Congress shall by joint resolution appoint an independent commission to complete the methodology development.
+
+---
+
+### Section 3-C. Efficiency Standards and the Non-Coercion Standard
+
+*[Resolves Gap 52 — National Benefits Spine Fiscal Blame Loop, Part 4. Clarifies the boundary between prohibited coercive conditions under Section 4 and permitted accountability standards for NBS programs.]*
+
+(a) **Efficiency Standards Are Not Ceilings.** Federal efficiency benchmarks, cost-per-outcome standards, and performance metrics established under Section 3 do not constitute "ceilings" prohibited by Article III, Section 1. Regions remain free to exceed federal outcome floors using Regional own-source revenue.
+
+(b) **Regional Supplementation.** Federal funding under Section 3(c) is calibrated to achieve outcome floors at median efficiency. A Region's choice to spend additional own-source revenue to exceed outcome floors is Regional fiscal responsibility, not a federal obligation.
+
+(c) **Purchasing Power and Delivery Model Adjustment.** The Regional Cost Index under Section 3(d) shall reflect not only differences in input prices (labor, real estate, materials) but also differences in service delivery costs arising from population density, geographic dispersion, climate, and other factors beyond Regional policy control. Efficiency comparisons shall be conducted within peer groups of Regions with similar demographic and geographic characteristics where feasible.
+
+(d) **Non-Coercion Standard Scope.** The Non-Coercion Standard under Section 4 does not prohibit:
+
+(1) outcome-based funding formulas that tie federal contributions to measurable results;
+
+(2) efficiency-indexed federal contributions that fund median cost-per-outcome;
+
+(3) co-payment requirements for shared programs under Section 3(a);
+
+(4) performance improvement requirements for Regions failing to meet outcome floors under Section 3(e)(3)-(4);
+
+(5) Program-Specific Performance Receivership for persistent underperformance under Section 3(e)(4)(D).
+
+(e) **Boundary Definition.** The distinction between prohibited coercive conditions and permitted accountability standards under Section 4 is:
+
+(1) **Prohibited (Coercive):** Conditioning funding on policy choices unrelated to the program's outcome objectives;
+
+(2) **Permitted (Accountability):** Conditioning funding on achieving the outcomes the funding is intended to produce, using the specific metrics and methodologies established under Section 3 and Section 3-B.
+
+(f) **Outcome Floor Constraints.** Outcome floors shall be specified in terms of measurable results (health status, educational attainment, housing stability, income security) rather than service utilization or programmatic enrollment. Outcome floors:
+
+(1) may not be set at levels that can be achieved only through a single policy architecture, thereby foreclosing Regional policy experimentation;
+
+(2) shall be set at the level achievable by the median-performing Region using the least-restrictive policy approach demonstrated to achieve the outcome in any peer jurisdiction;
+
+(3) may not require expenditure exceeding median PPP-adjusted cost-per-outcome by more than twenty percent (20%);
+
+(4) may not impose process requirements unrelated to outcome measurement or mandate specific delivery methods rather than measurable results.
+
+Any Region may petition the Allocation Review Board for review of an outcome floor specification on grounds that it constitutes a disguised policy mandate. The ARB shall apply de novo review and may adjust the outcome floor or exempt the Region if it demonstrates pursuit of a good-faith alternative approach that achieves comparable outcomes.
 
 ---
 
