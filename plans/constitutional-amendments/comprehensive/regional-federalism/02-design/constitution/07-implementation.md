@@ -92,6 +92,82 @@ are severable and may be struck by the ARB without invalidating the remainder.
 
 ---
 
+### Section 2-A. Implementation Act Integrity
+
+*Resolves Gap 7 — Implementation Act Dependency and Statutory Capture. This section exists to prevent statutory capture of the constitutional system's operational infrastructure. It extends anti-obstruction and poison pill protections to all three core implementation acts, establishes supermajority protection against statutory capture, constitutionalizes institutional independence floors, and creates an escalation mechanism for prolonged default operation. Where ambiguity exists, this section shall be construed to preserve the independence, adequacy, and operational integrity of the three core implementation acts and the institutions they establish.*
+
+(a) **Scope.** This section applies to the three implementation acts required by Section 1: the Allocation Framework Act, the Fiscal Equalization Act, and the Elections Implementation Act, and to any successor legislation that substantially replaces their functions. For purposes of this section, "successor legislation" includes any legislation, whether enacted as a single measure or cumulatively over time, that in aggregate substantially replaces or displaces the functions of an implementation act. The Allocation Review Board may petition the Supreme Court for a determination that a series of enactments constitutes cumulative displacement subject to the protections of this section.
+
+(b) **Universal Anti-Obstruction.** The expedited consideration procedures of Section 2(b-5) shall apply to all three implementation acts, not solely to Fiscal Equalization Acts. For purposes of this subsection, "germane" means directly related to the subject matter of the implementation act under consideration. For the Fiscal Equalization Act, the protections of this subsection supplement and do not narrow the protections of Section 2(b-5); where both apply, the provision affording greater protection shall control.
+
+(c) **Universal Poison Pill Prohibition.** The severability provisions of Section 2(b-6) shall apply to all three implementation acts. Provisions in any implementation act that address matters unrelated to that act's subject matter, would require supermajority approval under other constitutional provisions, or are designed to make the act unacceptable to affected Regions are severable and may be struck by the Allocation Review Board without invalidating the remainder. For the Fiscal Equalization Act, the protections of this subsection supplement and do not narrow the protections of Section 2(b-6); where both apply, the provision affording greater protection shall control.
+
+(d) **Supermajority Protection Against Statutory Capture.** Once enacted, an implementation act:
+
+- (1) May not be repealed in whole by less than a three-fifths vote of each chamber of Congress;
+- (2) May not be amended in a manner that materially weakens the protections, institutions, or operational framework established therein by less than a three-fifths vote of each chamber;
+- (3) May be amended to strengthen protections, correct technical errors, conform to other constitutional provisions, or improve operational effectiveness by simple majority; provided that any bill containing provisions that both strengthen and materially weaken the implementation act shall be treated as a material weakening amendment under paragraph (2) and shall require a three-fifths vote of each chamber;
+- (4) This supermajority requirement expires fifteen (15) years after the implementation act's initial enactment, after which the act may be amended or repealed by simple majority. Congress may re-enact the supermajority protection for one additional period not exceeding ten (10) years by a three-fifths vote. No further renewal of the supermajority protection period is permitted under this subsection; thereafter, the act may be amended or repealed by simple majority;
+- (5) The supermajority protection under paragraphs (1) and (2) does not apply during the first Congress seated after the implementation act's initial enactment. During this period, the act may be amended or repealed by simple majority. The fifteen-year protection period commences upon the seating of the second Congress following initial enactment;
+- (6) Amendments to an implementation act enacted during a lame-duck session (between a general election and the seating of the subsequent Congress) are subject to the three-fifths requirement under paragraph (2) regardless of whether they purport to strengthen the act. Simple-majority amendments enacted during a lame-duck session take effect ninety (90) days after enactment, during which period the incoming Congress may override them by simple majority;
+- (7) If an implementation act also qualifies as equivalent legislation under Section 4(c), the longer supermajority protection period shall apply. The protections are cumulative, not alternative.
+
+(e) **Material Weakening Defined.** For purposes of subsection (d)(2), "material weakening" includes but is not limited to:
+
+- (1) Reducing equalization transfer amounts, rates, or coverage below the levels established in the most recent enactment;
+- (2) Eliminating, defunding, or reducing the operational independence of any institution established by the implementation act;
+- (3) Removing anti-manipulation, anti-gaming, or enforcement provisions;
+- (4) Narrowing the scope of protected populations, jurisdictions, or functions;
+- (5) Transferring implementation authority from an independent body to a politically appointed one;
+- (6) For purposes of subsection (d)(3), "technical errors" means errors in cross-references, numbering, typographical errors, and conforming changes necessitated by renumbering or reorganization. A change that alters the substantive rights, obligations, institutional authorities, or funding levels established by the implementation act is not a technical correction regardless of how it is characterized.
+
+(f) **Material Weakening Determination.** Whether an amendment constitutes "material weakening" under subsection (d)(2):
+
+- (1) Shall be determined by the Allocation Review Board upon petition by any Region, any member of Congress, or the board of any institution established by the implementation act;
+- (2) The ARB shall issue its determination within sixty (60) days of petition;
+- (3) The ARB's determination is subject to judicial review by the Supreme Court on an expedited basis, with a decision due within one hundred twenty (120) days of petition for review. The Court shall review legal questions (whether the amendment constitutes material weakening under the constitutional definition in subsection (e)) de novo and factual findings for clear error;
+- (4) Legislation determined to constitute material weakening that was enacted by less than a three-fifths vote is void ab initio;
+- (5) If legislation is declared void under paragraph (4), the prior version of the implementation act is restored in full force. The ARB shall provide a reasonable transition period, not exceeding one hundred eighty (180) days, for affected institutions and parties to conform to the restored provisions. Contracts entered and personnel actions taken in good-faith reliance on the voided legislation shall be honored for the duration of the transition period.
+
+(g) **Appropriations Protection.** Appropriations for the administration of implementation acts and the institutions established thereunder:
+
+- (1) Shall not be conditioned on the adoption or rejection of any substantive policy unrelated to the act's subject matter;
+- (2) Shall not be reduced below the level necessary for the institution to perform its constitutionally and statutorily mandated functions, as certified by the Independent Fiscal Council;
+- (3) If Congress fails to appropriate adequate funds for any implementation institution for one (1) fiscal year, that institution's funding shall be treated as mandatory spending at the level of its most recent adequate appropriation, adjusted for inflation, until Congress enacts a superseding appropriation. During any period in which Congress has not appropriated adequate funds but the mandatory spending trigger under this paragraph has not yet activated, the institution may draw upon its prior-year unobligated balances and reserves. The IFC shall certify quarterly whether the institution's funding level permits it to perform its mandated functions; if the IFC certifies that it does not, the mandatory spending trigger under this paragraph activates immediately regardless of the one-year waiting period;
+- (4) Congress may not impose new mandated functions on an implementation institution without appropriating funds sufficient for the institution to perform those functions in addition to its existing mandates, as certified by the Independent Fiscal Council.
+
+(h) **Constitutional Independence Floor for Implementation Institutions.** Any institution established by an implementation act to exercise independent, quasi-judicial, regulatory, or administrative judgment (including but not limited to the Independent Fiscal Council, any allocation or boundary determination body, and any election administration body) shall have the following constitutional minimums that the implementing statute may supplement but not diminish:
+
+- (1) **Appointment diversity.** No single appointing authority (President, Speaker, Senate President Pro Tempore, or Chief Justice) may appoint a majority of members;
+- (2) **Removal only for cause.** Members may be removed only for incapacity, conviction of a felony, or serious misconduct — not for policy disagreements — by a two-thirds vote of the Senate;
+- (3) **Compensation protection.** Member compensation may not be reduced during their term of service;
+- (4) **Budgetary floor.** The institution shall receive mandatory appropriations at a level not less than the greater of: (A) the level certified as adequate by the institution's board and confirmed by the Government Accountability Office within sixty (60) days, with confirmation presumed if the GAO fails to act within that period; or (B) the prior year's appropriation adjusted by the Consumer Price Index. Congress may appropriate higher amounts;
+- (5) **Operational autonomy.** The institution shall set its own rules of procedure, hire its own staff, and control its own budget allocation within the total appropriated amount;
+- (6) **Anti-retaliation.** No federal official may retaliate against an implementation institution or its members for findings, recommendations, or certifications made in the exercise of their statutory duties;
+- (7) **Savings clause.** Where an institution's enabling constitutional provision establishes protections exceeding these minimums, the more protective provision controls. Nothing in this subsection diminishes protections established elsewhere in this Constitution.
+
+(h-1) **Institutional Creation Mandate.** Each implementation act shall designate or establish one or more independent institutions for the administration of its core functions. Delegation of an implementation act's primary administrative authority to politically appointed executive branch officials is prohibited. Congress may assign secondary or coordinating roles to executive branch agencies, but the institution exercising independent judgment over the act's core determinations must satisfy the independence requirements of subsection (h).
+
+(i) **Default Operation Escalation.** If Congress has not enacted any one of the three implementation acts within the deadlines specified in Section 2:
+
+- (1) The ARB shall include in each annual Partial Adoption Status Report under Section 4(d) a specific assessment of whether prolonged default operation is degrading constitutional system performance;
+- (2) If any implementation act remains unenacted ten (10) years after ratification, the ARB shall issue a formal Implementation Failure Finding, which shall be transmitted to the President, Congress, and all Regional Governors;
+- (3) An Implementation Failure Finding triggers mandatory congressional hearings within sixty (60) days and a privileged floor vote on a proposed implementation act within one hundred eighty (180) days;
+- (4) If Congress fails to act within one (1) year of an Implementation Failure Finding, the IFC and ARB shall jointly have authority to promulgate binding interim regulations to supplement the default rules of Section 2, subject to the following limitations: (A) interim regulations may not create new institutions or impose new taxes; (B) interim regulations expire two (2) years after promulgation unless Congress enacts superseding legislation; (C) interim regulations are subject to judicial review under an arbitrary-and-capricious standard, examining whether the regulation is within the scope authorized by this subsection, is rationally related to supplementing the default rules, and does not exceed the limitations of paragraph (A); (D) the IFC and ARB shall provide at least sixty (60) days for public notice and comment before promulgating interim regulations, and shall consult with all Regional Governors before promulgation of regulations that affect Regional powers or boundaries; (E) upon expiration of the two-year period, the system reverts to the default rules of Section 2; the IFC and ARB may re-promulgate interim regulations only after issuing a new Implementation Failure Finding; interim regulations may not contradict or diminish the default rules of Section 2 — they may only supplement them.
+
+(j) **Successor Legislation.** If Congress repeals an implementation act and enacts successor legislation:
+
+- (1) The successor legislation is subject to this section upon enactment;
+- (2) The supermajority protection period under subsection (d)(4) resets upon enactment of successor legislation;
+- (3) If the ARB determines that the successor legislation constitutes material weakening of the repealed act, the provisions of subsection (d) and (f) apply to the repeal itself, and the repeal is void unless enacted by three-fifths vote;
+- (4) If a repeal is voided under paragraph (3), any successor legislation enacted in the same legislative vehicle or as a companion measure is also void. Congress may re-enact the successor legislation as a standalone amendment to the restored act, subject to the provisions of subsection (d).
+
+(k) **Savings Clause.** Nothing in this section prevents Congress from enacting additional implementation legislation beyond the three required acts, but such additional legislation is not subject to the protections of this section unless Congress expressly designates it as an implementation act by three-fifths vote.
+
+(l) **Reversion to Defaults.** If an implementation act is repealed and no successor legislation is enacted simultaneously, the default rules of Section 2 shall immediately resume operation as though the implementation act had never been enacted. The ARB shall publish notice of the reversion within five (5) days.
+
+---
+
 ### Section 3. Purpose
 
 These default rules exist to prevent deliberate nonimplementation from becoming a method of constitutional sabotage. The Constitution shall operate even if Congress fails to act.

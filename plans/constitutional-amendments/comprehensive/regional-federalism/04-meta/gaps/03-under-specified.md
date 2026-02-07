@@ -28,8 +28,8 @@ The system does not deeply constitutionalize:
 Narrative domination without formal institutional capture.
 
 **Status:**
-Partially addressed by [Article XVI, Section 7](../../02-design/constitution/00-index.md) (foreign source disclosure requirements).
-Intentional under-specification for domestic speech to avoid overreach.
+Accepted by Design. Partially addressed by [Article XVI, Section 7](../../02-design/constitution/00-index.md) (foreign source disclosure requirements).
+Intentional under-specification for domestic speech to avoid overreach — constitutional regulation of media ownership, platform governance, or domestic disinformation deemed riskier than the gap itself.
 Foreign information operations subject to transparency requirements but not content control.
 
 See [Foreign Information Warfare Stress Test](../../03-analysis/06-foreign-information-warfare.md) for detailed analysis.
@@ -71,7 +71,7 @@ The constitutional system depends on three major implementation acts:
 - Many design assumptions depend on statutory detail not yet defined.
 
 **Status:**
-Partially mitigated by constitutional defaults and declining incentive rates; ongoing vigilance required to prevent statutory erosion of constitutional intent.
+RESOLVED. [Article XXI, Section 2-A](../../02-design/constitution/07-implementation.md) (Implementation Act Integrity) extends anti-obstruction and poison pill protections to all three implementation acts (previously Fiscal Equalization Act only), establishes 15-year supermajority protection against repeal or material weakening (with phase-in and one renewal), constitutionalizes institutional independence floors (appointment diversity, removal for cause, budgetary floor, operational autonomy), bars appropriations conditioning on unrelated policy, requires independent institutional designation for each act's core functions, and creates a default operation escalation mechanism (Implementation Failure Finding after 10 years, binding IFC/ARB interim regulations with 2-year sunset). Mixed-bill gaming, technical-correction abuse, lame-duck poison pills, successor-legislation capture, and cumulative piecemeal erosion all addressed with specific anti-gaming provisions. ARB determines material weakening with de novo Supreme Court review.
 
 ---
 
