@@ -171,6 +171,79 @@ Two-key authorization may not be waived, delegated to military officers, or sati
 - (3) Findings of unjustified refusal may be used as evidence in subsequent impeachment or recall proceedings.
 - (4) No review under this subsection may retroactively invalidate lawful military orders issued during the operational period.
 
+#### Key-Holder Continuity Framework
+
+*Resolves Gap 64 — The "Ghost Region" Successor Crisis. Prevents denominator manipulation, establishes automatic key-holder succession, bars federal recognition manipulation, and provides continuity protocols for mass incapacity scenarios.*
+
+(r) **Fixed Denominator.** For purposes of the Two-Key Rule under subsection (g):
+
+- (1) The denominator for "Majority of Regional Governors" shall be the total number of established Regions as determined under Article I-RF, Section 4, regardless of vacancies, disputes, or incapacities;
+- (2) As of ratification, the denominator is seven (7);
+- (3) The denominator changes only upon formal admission or dissolution of a Region pursuant to Article I-RF, Section 4.
+
+(s) **Majority Calculation.** "Majority" means more than half of the fixed denominator:
+
+- (1) Abstentions, vacancies, and incapacities count as non-approvals, not as reductions in the denominator;
+- (2) No military deployment may proceed without affirmative approval from the required number of key-holders;
+- (3) The Judicial Emergency Key under subsection (h)(3) is a temporary bridge authorization and does not count as a Governor key, does not reduce the fixed denominator, and automatically terminates unless affirmative Governor-key majority consent is obtained within seventy-two (72) hours.
+
+(t) **Key-Holder Succession.** If the Regional Governor is unable to exercise the Two-Key authority due to death, incapacity, vacancy, or dispute:
+
+- (1) **First Successor:** The Lieutenant Governor (or equivalent under Regional law);
+- (2) **Second Successor:** The presiding officer of the Regional Legislature;
+- (3) **Third Successor:** The Chief Justice of the Regional Supreme Court;
+- (4) Each Region's Continuity of Government plan under subsection (aa) may extend this chain to additional designated officials.
+
+(u) **Automatic Activation of Key-Holder Succession.** Succession under subsection (t) is automatic and immediate upon:
+
+- (1) Certified death of the Governor;
+- (2) Written certification of incapacity by the Regional Chief Justice and presiding legislative officer;
+- (3) Unreachability of the Governor for forty-eight (48) hours during a pending Two-Key authorization request, as certified by the presiding officer of the Regional Legislature;
+- (4) Any judicial stay or injunction preventing the Governor from exercising official duties.
+
+(v) **Disputed Succession.** If key-holder succession itself is disputed:
+
+- (1) The most senior undisputed successor in the chain, as determined by the most recent Regional certification of the succession order, exercises the key;
+- (2) If all successors are disputed, the key remains "locked" (non-approval) until resolution;
+- (3) A locked key counts against deployment under the Fixed Denominator Rule in subsection (r);
+- (4) Any party may petition the Supreme Court for expedited determination under subsection (x), which shall be rendered within seventy-two (72) hours.
+
+(w) **Federal Non-Recognition Irrelevant.** The Federal Executive's recognition or non-recognition of a Regional Governor or successor:
+
+- (1) Has no effect on that official's authority to exercise the Two-Key power;
+- (2) Is not a defense to unlawful military deployment without proper Governor keys;
+- (3) Does not alter the Fixed Denominator or succession order.
+
+(x) **Judicial Determination of Key-Holder Disputes.** Disputes regarding who holds valid key-holder authority:
+
+- (1) Shall be determined by the Supreme Court;
+- (2) Pending determination, the most recently undisputed key-holder (or their successor), as reflected in Regional certification records, retains authority;
+- (3) The Court shall issue expedited ruling within seventy-two (72) hours during active military deployment requests.
+
+(y) **Anti-Puppet Provisions.** For purposes of Two-Key authority under this section, a Governor or successor installed through:
+
+- (1) Federal military intervention without valid Two-Key approval;
+- (2) Coup, insurrection, or unconstitutional removal of predecessor;
+- (3) Election certified only by federal authorities over Regional objection;
+
+shall not be recognized as a valid key-holder. The predecessor or their valid successor retains key-holder authority until legitimate succession occurs. This subsection does not affect recognition of such officials for any purpose other than the Two-Key authority.
+
+(z) **Mass Incapacity Protocol.** If three (3) or more Regional Governors and their entire succession chains under subsection (t) are simultaneously incapacitated:
+
+- (1) The Supreme Court shall convene emergency session within twenty-four (24) hours;
+- (2) The Court may designate interim key-holders from among Regional officials not in the normal succession chain;
+- (3) Interim key-holders serve only until legitimate succession is restored;
+- (4) The designation of interim key-holders does not alter the Fixed Denominator under subsection (r).
+
+(aa) **Continuity of Government Integration.** Each Region shall maintain a Continuity of Government plan that:
+
+- (1) Extends the key-holder succession chain to at least five (5) designated officials;
+- (2) Ensures geographic dispersal of successors;
+- (3) Is filed with the Supreme Court and updated annually;
+- (4) Designates the Chief Justice of the Regional Supreme Court as successor of last resort if all designated successors are unavailable.
+
+(bb) **Nuclear/WMD Exception.** Notwithstanding the Two-Key Rule, the President retains sole authority for response to imminent nuclear attack on United Regions territory, consistent with Article XI, Section 3. This exception does not extend to any other military deployment, regardless of emergency characterization.
+
 ---
 
 ### Section 3. Integration with State National Guard

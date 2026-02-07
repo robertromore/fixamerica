@@ -300,7 +300,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 58 | Geographic defense penalty (defense burden asymmetry) | Medium | ✅ Resolved |
 | 59 | State-Regional preemption deadlock (vertical supremacy vacuum) | Medium | ✅ Resolved |
 | 60 | Para-diplomacy conflict (regional foreign engagement vacuum) | Medium | ✅ Resolved |
-| 64 | Interstate pollution and externality resolution | High | Partially Mitigated |
+| 64 | Ghost Region Successor Crisis (Two-Key denominator manipulation and key-holder succession) | High | ✅ Resolved |
 | 71 | Cross-regional law enforcement cooperation | Medium | Partially Mitigated |
 | 76 | Child custody and family law interstate recognition | Medium | Partially Mitigated |
 | 77 | Education curriculum coordination | Low | Accepted by Design |

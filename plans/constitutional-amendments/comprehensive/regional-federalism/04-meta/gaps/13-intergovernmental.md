@@ -1358,7 +1358,7 @@ Article XI-RF establishes the "Two-Key Rule" for domestic military deployment, r
 | Narrow Nuclear Exception | Genuine emergency need | Axiom 3 (Authority to Scale) |
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article XI-RF, Section 2. This four-part solution creates a Key-Holder Continuity Framework that fixes the denominator at total established Regions, establishes automatic succession, makes federal recognition irrelevant to key-holder authority, and provides continuity protocols for mass incapacity scenarios.
+**RESOLVED.** Key-Holder Continuity Framework adopted as Art XI-RF §2(r)-(bb). Incorporates all four parts with revisions from external LLM review: dynamic denominator reference to Art I-RF §4, Supreme Court (not Constitutional Court), unreachability standard replacing physical absence trigger, explicit Judicial Emergency Key / Fixed Denominator interaction clause §2(s)(3), anti-puppet scope limited to Two-Key purposes, and Art XI §3 cross-reference for nuclear exception. See `04-meta/gaps/briefing-gap-064.md` for full briefing and review history.
 
 ---
 
