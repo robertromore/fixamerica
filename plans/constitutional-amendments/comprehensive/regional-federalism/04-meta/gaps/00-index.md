@@ -211,7 +211,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 
 | Gap # | Description | Severity | Mitigation Status |
 |-------|-------------|----------|-------------------|
-| 35 | Private Infrastructure Dependencies | Medium | Partially Mitigated |
+| 35 | Private Infrastructure Dependencies — federal injunction against private blockade (§6(kk)), proxy attribution (§6(ii)-(jj)), cost-plus rate regulation (§6(k)-(v)), federal operational assumption (§6(o)), foreign ownership controls (§6(ll)-(oo)), NITS transparency (§6(q)-(t)), monopoly rents (Art IV §8(c)) | Medium | ✅ Resolved |
 | 50 | The "Safety Add-On" Protectionism Trap (regulatory labor barriers) | Medium | Proposal Available |
 | 65 | Regional "Credentialing Protectionism" | Medium | Proposal Available |
 | 66 | "Regulatory Dumping" via State-Level Deregulation (Remedial Supremacy) — substantial frustration standard, implied private enforcement with express opt-out, Regional court jurisdiction, federal court backstop, non-waivable protections with reasoned-basis requirement, anti-clawback, ARB review with exhaustion/frivolousness gating, domain-limited repeat offender escalation | High | ✅ Resolved |

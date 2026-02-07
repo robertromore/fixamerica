@@ -13,7 +13,7 @@ Critical infrastructure (internet backbone, pipelines, rail networks, electrical
 Private entities not bound by constitutional cooperation requirements could undermine regional coordination by refusing service, charging discriminatory rates, or leveraging monopoly positions.
 
 **Status:**
-Under-specified. Existing Commerce Clause authority likely covers most scenarios, but explicit provisions for eminent domain, public utility designation, or common carrier requirements for critical infrastructure may be needed.
+RESOLVED. The constitution provides comprehensive private infrastructure protections through Article I, Section 6: federal injunction authority against private blockade with treble damages and no immunity shield (§6(kk)); private actor attribution framework with strict liability and proxy designation (§6(ii)-(jj)); cost-plus-margin rate regulation at 110% of documented costs with ARB enforcement (§6(k)-(v)); federal operational assumption authority for non-compliant infrastructure (§6(o)); foreign ownership controls including Senate divestment approval, beneficial ownership disclosure, and emergency federal operation (§6(ll)-(oo)); and real-time National Infrastructure Transparency System (§6(q)-(t)). Additional coverage via Article IV, Section 8(c) (monopoly rents finding for geographic monopolies), Article II, Section 10(g) (emergency federal authority over utilities for Vital Federal Operations), and Article X, Section 7(d) (communications infrastructure protections). Remaining implementation details (operator certification, cybersecurity investment standards, antitrust coordination) are appropriately statutory.
 
 ---
 
