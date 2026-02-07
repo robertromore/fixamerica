@@ -562,7 +562,14 @@ Article II, Section 2 gives Regions power over environmental and labor standards
 - **Gap 62 (Fiscal Hollow-Out):** Parallel structure—fiscal vs. regulatory sabotage
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article III, Section 8. This four-part solution creates a Remedial Supremacy Framework that prevents State civil law from frustrating Regional standard enforcement, establishes Regional and federal court alternatives, prohibits waiver of non-waivable protections, and provides escalating consequences for systematic obstruction.
+**RESOLVED.** Constitutionalized as Article III, Section 9 (Remedial Supremacy) in `02-design/constitution/02-powers-and-rights.md`. Four-part framework:
+
+- **Part 1 — Remedial Supremacy Clause (§9(a)-(c)):** Bars State civil law that substantially frustrates Regional enforcement (individually or in aggregate), implied private right of enforcement with express opt-out, savings clause for traditional civil law doctrines
+- **Part 2 — Regional Enforcement Authority (§9(d)-(f)):** Independent Regional administrative enforcement, Regional court concurrent jurisdiction over private claims (Art IX), federal court backstop gated to ARB finding or State court refusal
+- **Part 3 — Anti-Waiver Provisions (§9(g)-(i)):** Non-waivable designation with reasoned-basis requirement, presumptive non-waivability for safety/wage/environmental/discrimination standards, arbitration limitations with operational disfavor criteria, anti-clawback protection
+- **Part 4 — Expedited Review and Remedies (§9(j)-(l)):** ARB review with 30/90-day timelines, private petition with exhaustion requirement and frivolousness filter, domain-limited repeat offender escalation (3-in-10-year threshold with graduated comprehensive override)
+
+Cross-references: Art III §3(b) (Regional supremacy), Art III §4 (Unwaivable Core), Art II §4(j) (social dumping), Art II §4(k)(3) (private right of action), Art II §25 (enforcement ladder), Art IX (Regional courts). Peer-reviewed by 2 external LLMs; 12 findings integrated (explicit opt-out mechanism, aggregate frustration standard, ARB deterrence benchmarks, operational disfavor criteria, proportionality guardrail, removal gating, non-waivable inflation guardrail, anti-clawback, exhaustion requirement, frivolousness filter, domain-limited escalation, graduated comprehensive override).
 
 ---
 

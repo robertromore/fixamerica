@@ -2441,6 +2441,103 @@ Rendering a person functionally non-existent prior to final adjudication constit
 
 ---
 
+### Section 9. Remedial Supremacy
+
+*Resolves Gap 66 — "Regulatory Dumping" via State-Level Deregulation. Prevents States from nullifying Regional standards by eliminating private enforcement mechanisms (tort liability, contract remedies, procedural court access).*
+
+#### Remedial Supremacy Clause
+
+(a) **Remedial Supremacy.** Where a Region establishes a standard pursuant to its enumerated powers under Article II, Section 2:
+
+- (1) States may not enact civil, procedural, or remedial laws that substantially frustrate private enforcement of that standard;
+- (2) Regional standards include an implied right of private enforcement unless the Region, by express statutory provision, designates enforcement as exclusively administrative;
+- (3) State civil law applies to Regional standard enforcement only to the extent it does not conflict with Regional policy, consistent with Article III, Section 3(b).
+
+(b) **Substantial Frustration Standard.** A State law "substantially frustrates" Regional enforcement if it, individually or in combination with other State laws:
+
+- (1) Eliminates or caps damages for violations of Regional standards below levels sufficient to deter violations, as assessed by reference to comparable Regional penalties or industry-specific enforcement benchmarks published by the ARB;
+- (2) Creates procedural barriers — including filing fees, mandatory waiting periods, or shortened statutes of limitations — that make enforcement impractical for typical claimants;
+- (3) Permits contractual waiver of Regional protections designated as non-waivable under subsection (g) or under Article III, Section 4;
+- (4) Establishes immunity for private conduct that violates Regional standards;
+- (5) Requires mandatory arbitration of Regional standard enforcement claims in forums that systematically disfavor claimants, as determined by reference to arbitrator selection procedures, repeat-player advantage data, or the forum's record of outcomes relative to judicial proceedings on comparable claims.
+
+(c) **Savings Clause.** Nothing in this section prevents States from:
+
+- (1) Providing additional remedies beyond those implied by Regional law;
+- (2) Establishing reasonable procedural requirements that apply equally to all claims and do not have a disparate impact on Regional standard enforcement;
+- (3) Maintaining traditional civil law doctrines — including comparative negligence, contributory negligence, and statutes of limitations — at levels that do not substantially frustrate Regional enforcement.
+
+#### Regional Enforcement Authority
+
+(d) **Direct Regional Enforcement.** Regions may establish administrative enforcement mechanisms for Regional standards that:
+
+- (1) Operate independently of State courts;
+- (2) Impose civil penalties, issue cease-and-desist orders, and require remediation;
+- (3) Are enforceable through Regional courts or, where necessary, federal courts;
+- (4) Impose penalties proportionate to the severity of the violation and the economic benefit derived from non-compliance; penalties that are punitive in purpose or effect rather than remedial or deterrent are subject to challenge under the Excessive Fines Clause.
+
+(e) **Regional Court Jurisdiction.** Regional courts established pursuant to Article IX shall have:
+
+- (1) Concurrent jurisdiction over private claims arising under Regional standards;
+- (2) Exclusive jurisdiction over Regional administrative enforcement appeals;
+- (3) Authority to apply Regional remedial law regardless of State civil law limitations.
+
+(f) **Federal Court Backstop.** If State courts refuse to enforce Regional standards, apply State law to frustrate Regional enforcement, or otherwise obstruct vindication of Regional standards:
+
+- (1) Claimants may remove to federal district court upon a showing that the State court has applied a law found by the ARB to substantially frustrate Regional enforcement under subsection (j), or that the State court has refused to apply Regional law or has dismissed a claim on State civil law grounds that conflict with subsection (a);
+- (2) Federal courts shall apply Regional law, including Regional remedial provisions;
+- (3) State procedural barriers deemed to substantially frustrate Regional standards under subsection (b) are preempted.
+
+#### Anti-Waiver Provisions
+
+(g) **Non-Waivable Regional Protections.** Regions may designate specific protections as "non-waivable," subject to a published finding that the non-waivable designation is necessary to prevent the standard from being effectively nullified through private contract:
+
+- (1) Non-waivable protections cannot be contractually waived, even with consideration;
+- (2) Purported waivers are void and unenforceable;
+- (3) Retaliation for refusing to sign a waiver is an independent violation;
+- (4) No person may be subjected to a civil claim, counterclaim, or contractual penalty for exercising rights under a non-waivable Regional protection or for filing a claim to enforce a Regional standard.
+
+(h) **Presumptive Non-Waivability.** The following Regional protections are presumptively non-waivable unless the Region explicitly provides otherwise:
+
+- (1) Workplace safety standards;
+- (2) Minimum wage and overtime requirements;
+- (3) Environmental exposure limits for workers and residents;
+- (4) Anti-discrimination protections.
+
+These presumptions supplement and do not diminish the inalienable rights protections of Article III, Section 4(a) or the social dumping prohibition of Article II, Section 4(j).
+
+(i) **Arbitration Limitations.** Mandatory pre-dispute arbitration agreements for claims arising under Regional standards:
+
+- (1) May not waive substantive Regional protections;
+- (2) May not require arbitration in a forum that systematically disfavors claimants, as determined by reference to arbitrator selection procedures, repeat-player advantage data, or the forum's record of outcomes relative to judicial proceedings on comparable claims;
+- (3) Must preserve access to Regional administrative enforcement regardless of arbitration;
+- (4) Are subject to the forced arbitration prohibitions of Article III, Section 4(b) where the underlying claim alleges violation of constitutional or civil rights.
+
+#### Expedited Review and Remedies
+
+(j) **ARB Review of State Civil Law.** Upon petition by a Region or by the IFC acting sua sponte, the ARB shall review whether State civil law substantially frustrates Regional enforcement:
+
+- (1) Preliminary determination within thirty (30) days;
+- (2) Final determination within ninety (90) days;
+- (3) State law found to substantially frustrate Regional enforcement is preempted as to Regional standard enforcement, subject to appeal to the Supreme Court.
+
+(k) **Private Right of Petition.** Individual claimants may petition the ARB if:
+
+- (1) State civil law prevented them from enforcing a Regional standard;
+- (2) They suffered concrete injury from the enforcement barrier;
+- (3) They have exhausted available Regional administrative remedies, or demonstrate that no Regional administrative remedy exists or that such remedies are inadequate to address the enforcement barrier;
+- (4) Upon finding of substantial frustration, the ARB may order the State to provide an alternative remedy or authorize federal court jurisdiction;
+- (5) The ARB may dismiss petitions that are frivolous, duplicative of pending proceedings, or that fail to demonstrate a plausible claim of substantial frustration, and may impose sanctions for repeated frivolous filings.
+
+(l) **Repeat Offender Escalation.** If a State is found to have enacted laws substantially frustrating Regional enforcement three (3) or more times within ten (10) years:
+
+- (1) State civil law affecting Regional standard enforcement within the same or related subject-matter domain is subject to Regional override;
+- (2) The Region may establish uniform remedial provisions applicable within that State for the affected domain;
+- (3) Override authority continues until the State demonstrates five (5) consecutive years of compliance in the affected domain, as certified by the ARB;
+- (4) If findings span three (3) or more unrelated subject-matter domains, the Region may seek ARB authorization for a comprehensive remedial override, which the ARB shall grant only upon a finding of systematic obstruction.
+
+---
+
 ## Design Rationale
 
 ### Why Structured Concurrency Rather Than Pure Non-Concurrency?

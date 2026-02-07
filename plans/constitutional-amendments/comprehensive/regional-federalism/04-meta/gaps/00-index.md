@@ -209,7 +209,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 |-------|-------------|----------|-------------------|
 | 50 | Interstate commerce clause interpretation variation | Medium | Partially Mitigated |
 | 65 | Transportation network integration | Medium | Partially Mitigated |
-| 66 | Energy grid coordination and authority | High | Partially Mitigated |
+| 66 | "Regulatory Dumping" via State-Level Deregulation (Remedial Supremacy) — substantial frustration standard, implied private enforcement with express opt-out, Regional court jurisdiction, federal court backstop, non-waivable protections with reasoned-basis requirement, anti-clawback, ARB review with exhaustion/frivolousness gating, domain-limited repeat offender escalation | High | ✅ Resolved |
 | 67 | Infrastructure ransom vector | Medium | ✅ Resolved |
 | 75 | Interregional transit fee-gouging loophole | Medium | ✅ Resolved |
 | 83 | Pipeline and hazardous material transport | Medium | Partially Mitigated |
