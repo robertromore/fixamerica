@@ -2022,7 +2022,7 @@ The system relies on "Expedited Review" (Article XIV) to resolve constitutional 
 - **Gap 73 (Jurisdictional Ping-Pong):** Forum gaming; Gap 145 addresses volume gaming
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article XIV-RF, Section 6. This four-part solution establishes mandatory consolidation authority for coordinated challenges, creates docket clogging finding with clear indicators, imposes standing suspension for vexatious jurisdictions, and preserves expedited timelines with surge capacity.
+**RESOLVED.** Article XIV-RF, Section 7 establishes comprehensive Docket Protection and Anti-Abuse Authority. The nine-part solution provides: (a) mandatory consolidation authority with indirect funding detection, (b) deadline tolling with external certification requirement and periodic renewal findings, (c) frivolous filing presumption with 24-month lookback, (d) coordinated docket clogging finding by ARB with clear and convincing evidence standard, (e) graduated consequences including 180-day standing suspension with carve-out for actions during suspension, pre-filing approval with early termination, cost shifting, and attorney sanctions, (f) emergency bypass for elections, public safety, emergency powers, judicial independence, and structural constitutional disputes, (g) surge capacity via Judicial Conference docket protection plan, (h) coordination with existing provisions, and (i) savings clause preserving individual access. Also resolves Gap 154 (30-Day Clock Exploit).
 
 ---
 
@@ -2119,7 +2119,7 @@ Amend Article XIV-RF (Judicial Branch) to add:
 - **Gap 145 (Coordinated Judicial Attack):** Multi-jurisdiction challenge; Gap 154 addresses coordinated filing
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendment to Article XIV-RF, Section 7. This solution establishes tolling authority, mandatory consolidation, objective frivolousness test, graduated sanctions, and no-default-approval rule.
+**RESOLVED.** Merged into Gap 145 resolution. Article XIV-RF, Section 7 (Docket Protection and Anti-Abuse Authority) addresses all 30-day clock exploit vectors through deadline tolling with external certification, no-default-approval rule, mandatory consolidation, frivolous filing presumption, and emergency bypass provisions.
 
 ---
 

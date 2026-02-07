@@ -426,6 +426,74 @@ The ARB may initiate an investigation upon petition by the Attorney General, by 
 
 ---
 
+### Section 7. Docket Protection and Anti-Abuse Authority
+
+*Resolves Gap 145 — Judicial Docket Clogging (Legal DoS) and Gap 154 — The "Good Faith Tolling Rule" (30-Day Clock Exploit). This section prevents weaponization of judicial access through coordinated mass filing, protects expedited review deadlines from volume-based manipulation, and preserves court capacity for legitimate constitutional disputes.*
+
+(a) **Mandatory Consolidation Authority.** The Supreme Court, Regional Supreme Courts, the Allocation Review Board, and all federal and Regional appellate courts may consolidate challenges into Omnibus Proceedings:
+
+- (1) Consolidation may occur sua sponte or upon motion by any party; consent of all parties is not required;
+- (2) Challenges are subject to consolidation if they: (A) arise from the same federal action, policy, or constitutional provision; (B) assert substantially similar claims or raise substantially similar legal questions; (C) are filed within the same ninety (90) day period; or (D) are funded, organized, or coordinated by common parties, as determined by common counsel, shared litigation funding sources (including indirect funding through intermediary organizations, grants from governmental entities, or fiscal sponsorship arrangements), or coordinated filing patterns. The court shall make a written finding that consolidation serves the efficient administration of justice before ordering an Omnibus Proceeding;
+- (3) Omnibus rulings bind all consolidated parties and all similarly situated non-parties who had notice and opportunity to intervene in the Omnibus Proceeding. The court shall provide at least thirty (30) days' notice to potentially affected non-parties before an Omnibus ruling issues, during which non-parties may intervene or submit briefing on materially distinguishing facts;
+- (4) A party bound by an Omnibus ruling may seek individual relief only upon demonstration of materially distinguishing facts not addressed in the Omnibus Proceeding.
+
+(b) **Deadline Tolling Authority.** For any constitutional provision requiring judicial decision within a specified time period:
+
+- (1) The reviewing court may toll the deadline upon certification by the Judicial Conference or the Allocation Review Board that the court's docket has been overwhelmed by repetitive, substantially similar, or coordinated filings. A court may not self-certify tolling based on its own internal backlog absent an external docket-clogging event;
+- (2) Tolling extends the deadline by a period equal to the time required to resolve the docket-clogging filings, but in no event more than ninety (90) days. If tolling exceeds thirty (30) days, the court shall issue written findings at each thirty-day interval demonstrating continued necessity;
+- (3) Tolling does not affect cases already assigned to the Expedited Review Track under Section 4(b) prior to the docket-clogging event, unless the court makes a specific finding that even expedited cases cannot be heard;
+- (4) **No Default Approval.** Expiration of an expedited deadline due to docket clogging shall not constitute approval, ratification, or validation of the challenged action. The status quo ante shall be preserved pending resolution.
+
+(c) **Frivolous Filing Presumption.** A filing is presumptively frivolous if:
+
+- (1) It raises issues substantially identical to a case decided adversely to the filing party, or to a party asserting substantially identical claims, within the preceding twenty-four (24) months;
+- (2) The petitioner may rebut the presumption by demonstrating materially changed circumstances or intervening changes in law;
+- (3) Presumptively frivolous filings may be dismissed summarily without oral argument;
+- (4) Dismissal under this subsection does not bar future filing on the same issue if material circumstances change.
+
+(d) **Coordinated Docket Clogging Finding.** The Allocation Review Board may find that a jurisdiction is engaged in "Coordinated Docket Clogging":
+
+- (1) "Coordinated Docket Clogging" means a pattern of litigation designed to overwhelm judicial capacity rather than obtain legitimate relief;
+- (2) Indicators include: (A) filing volume disproportionate to actual grievances; (B) rapid filing and voluntary dismissal cycles; (C) common funding sources across nominally independent filings; (D) explicit coordination communications; (E) filing surges timed to coincide with expedited-review deadlines on unrelated matters;
+- (3) A finding requires clear and convincing evidence;
+- (4) The ARB may initiate investigation upon petition by the Attorney General, by any party whose expedited review has been delayed by docket clogging, by the Judicial Conference, or upon its own motion.
+
+(e) **Consequences of Docket Clogging Finding.**
+
+- (1) **Standing Suspension.** Jurisdictions found to be engaged in Coordinated Docket Clogging shall have their standing to file new challenges against federal actions suspended for one hundred eighty (180) days. During suspension: (A) the jurisdiction may not file new suits challenging federal actions that predated the suspension; (B) pending suits from the suspended jurisdiction are stayed; (C) suspension does not affect private parties' independent standing or the jurisdiction's ability to defend against suits brought against it; (D) the jurisdiction retains standing to challenge federal actions initiated or materially altered *during* the suspension period, to prevent the suspension from creating an immunity window for federal overreach;
+- (2) **Pre-Filing Approval.** Following expiration of the suspension period, the jurisdiction shall be required to obtain pre-filing approval from the relevant court for constitutional challenges for a period of two (2) years. The court shall grant approval unless the proposed filing is presumptively frivolous under subsection (c). If no filings by the jurisdiction are found frivolous during the first twelve (12) months of the pre-filing approval period, the jurisdiction may petition for early termination;
+- (3) **Cost Shifting.** The jurisdiction shall reimburse the federal government and opposing parties for documented litigation costs attributable to the coordinated filing campaign;
+- (4) **Attorney Sanctions.** Attorneys who knowingly participate in coordinated docket clogging are subject to sanctions including costs, fees, and referral to bar disciplinary proceedings.
+
+(f) **Emergency Bypass.** If expedited review is sought regarding an imminent threat to public safety, constitutional order, or election integrity:
+
+- (1) Such cases shall receive absolute priority and may not be delayed by tolling under subsection (b) or displaced by Omnibus Proceedings under subsection (a);
+- (2) The court shall designate emergency cases within forty-eight (48) hours of filing;
+- (3) Emergency designation is subject to review but carries a presumption of validity;
+- (4) Categories qualifying for emergency bypass include: (A) challenges to ongoing elections or certification processes; (B) threats to physical safety or public health; (C) challenges to emergency powers exercised under Article XVII; (D) challenges to judicial independence or court-packing under Section 1-A(h); (E) structural constitutional disputes involving separation of powers, federalism boundary allocation, or the integrity of constitutional oversight bodies.
+
+(g) **Surge Capacity.** The Judicial Conference shall maintain a docket protection plan:
+
+- (1) Including designation of reserve judges who may be temporarily assigned to courts experiencing coordinated filing attacks;
+- (2) Authorizing temporary expansion of court capacity through visiting judges from other circuits or Regions;
+- (3) Establishing protocols for inter-court coordination when coordinated filings target multiple jurisdictions simultaneously;
+- (4) Publishing annual assessments of docket vulnerability and capacity adequacy.
+
+(h) **Coordination with Existing Provisions.**
+
+- (1) The anti-delay sanctions of Section 4(g) continue to apply to individual cases independently of this section;
+- (2) The Shadow Stay Prevention mechanisms of Section 6 address administrative obstruction independently; this section addresses judicial-docket obstruction;
+- (3) The broad standing provisions of Section 5 are not narrowed by this section; this section provides tools to manage the volume that broad standing may generate;
+- (4) Nothing in this section limits the inherent authority of courts to manage their dockets or to sanction frivolous litigation under applicable rules of procedure.
+
+(i) **Savings Clause.**
+
+- (1) This section does not limit the right of any person to file a legitimate constitutional challenge, regardless of how many other challenges have been filed on related matters;
+- (2) A person whose filing is consolidated into an Omnibus Proceeding retains the right to present materially distinguishing arguments;
+- (3) Standing suspension under subsection (e)(1) applies only to the jurisdiction as a governmental entity, not to individual citizens or private organizations within that jurisdiction.
+
+---
+
 ## ARTICLE III-RF - FEDERAL JUDICIAL REFORM PROVISIONS
 
 *The following sections supplement the Federal Judiciary under Regional Federalism. They address structural reforms to the Supreme Court and federal courts that interact with the Regional court system established in Article XIV-RF above.*

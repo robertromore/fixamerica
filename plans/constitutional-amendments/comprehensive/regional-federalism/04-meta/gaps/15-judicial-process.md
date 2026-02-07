@@ -3,7 +3,7 @@
 **Identified**: 2026-01-26  
 **Category**: Judicial Process  
 **Criticality**: 🔴 HIGH  
-**Status**: UNRESOLVED
+**Status**: RESOLVED — Merged into Gap 145 resolution. Article XIV-RF, Section 7 (Docket Protection and Anti-Abuse Authority) addresses all 30-day clock exploit vectors.
 
 ## Problem Statement
 

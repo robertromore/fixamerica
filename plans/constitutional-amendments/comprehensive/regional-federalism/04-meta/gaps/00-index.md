@@ -149,7 +149,8 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 120 | Sentencing guideline variation | Medium | Requires Monitoring |
 | 121 | Fact-hiding ARB loophole | Medium | ✅ Resolved |
 | 130 | Audit-capacity freeze of National Election Court (budget floor, permanent investigative staff, establishment mandate) | Medium | ✅ Resolved |
-| 145 | The "Judicial Docket Clogging" Attack (Legal DoS) | Medium | Partially Mitigated |
+| 145 | The "Judicial Docket Clogging" Attack (Legal DoS) | Medium | ✅ Resolved — Art XIV-RF §7: mandatory consolidation, deadline tolling, frivolous filing presumption, docket clogging finding with standing suspension, emergency bypass, surge capacity |
+| 154 | The "Good Faith Tolling Rule" (30-Day Clock Exploit) | High | ✅ Resolved — merged into Gap 145 resolution (Art XIV-RF §7) |
 | 158 | Strategic party expansion to manipulate recusals | Medium | ✅ Resolved |
 | 159 | Narrow standing to avoid Supreme Court transfer | Medium | ✅ Resolved |
 | 160 | Independent Panel lot manipulation | Medium | ✅ Resolved |
