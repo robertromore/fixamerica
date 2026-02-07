@@ -57,9 +57,18 @@ COVID-19 revealed critical gaps in multi-jurisdictional disease response. The co
 - Inconsistent public health messaging creates confusion.
 
 **Status:**
-Under-specified but **PROPOSAL AVAILABLE**. Emergency powers framework exists but public health emergencies may require faster, more coordinated response than multi-key authorization permits.
+RESOLVED. All four gap elements are comprehensively covered by the Bio-Security Emergency Escalation framework (Art XVII §11) and the Regional Bio-Security Cooperation supplement (Art XVII-RF §4), which together provide a stronger and more detailed framework than the original proposal.
 
-See [Public Health Emergency Coordination Framework](../../proposals/06-security-justice/public-health-emergency-coordination.md) for specialized emergency pathway, coordination council, and supply/data coordination mechanisms.
+| Gap Element | Constitutional Coverage |
+|---|---|
+| Multi-regional disease outbreak coordination | Art XVII §11(b) (temporary override of concurrent authority — federal coordination supersedes Regional law) + Art XVII-RF §4(a) (Governor cooperation duty, designated Regional Public Health Liaisons) + Art XVII §11(d) (enforcement cascade: notice → fiscal → direct implementation → judicial → military) |
+| Medical supply chain coordination | Art XVII §3(b)(3) (allocation and distribution of medical supplies as enumerated public health emergency power) |
+| Health data sharing protocols | Art XVII §11(c) (mandatory 24-hour data sharing: case counts, testing, hospitalization rates, genomic sequencing, mortality) + Art XVII-RF §4(b) (Regional data infrastructure: real-time transmission, standardized reporting, genomic sequencing capacity, inter-Regional interoperability) |
+| Quarantine / movement restriction authorities | Art XVII §3(b)(1) (quarantine and isolation measures) + Art I §8(d) (quarantine exception to right of travel) + Art XVII §11(b) (federal requirements supersede conflicting Regional law) + Art XVII-RF §4(d) (explicit federal supersession of Regional concurrent authority during Bio-Security Emergency) |
+
+Additional constitutional safeguards: Art XVII §11(e) (90-day auto-expiration with anti-abuse provisions), Art XVII §11(f) (72-hour expedited judicial review), Art XVII-RF §4(c) (Regional Guard for bio-security under civilian authority), Art XVII-RF §4(e) (post-emergency restoration of concurrent authority). Remaining proposal elements (PHCC standing body, emergency fund, stockpile requirements, reimbursement procedures) are statutory implementation details appropriate for enabling legislation, not constitutional gaps.
+
+See [Public Health Emergency Coordination Framework](../../proposals/06-security-justice/public-health-emergency-coordination.md) for the original proposal (now superseded by constitutional text).
 
 ---
 

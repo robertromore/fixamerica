@@ -341,9 +341,7 @@ COVID-19 revealed critical gaps in multi-jurisdictional disease response. The co
 - Inconsistent public health messaging creates confusion.
 
 **Status:**
-Under-specified but **PROPOSAL AVAILABLE**. Emergency powers framework exists but public health emergencies may require faster, more coordinated response than multi-key authorization permits.
-
-See [Public Health Emergency Coordination Framework](../../proposals/06-security-justice/public-health-emergency-coordination.md) for specialized emergency pathway, coordination council, and supply/data coordination mechanisms.
+RESOLVED. All four elements covered by Art XVII §11 (Bio-Security Emergency Escalation: federal override, mandatory 24-hour data sharing, enforcement cascade, 90-day auto-expiration) + Art XVII-RF §4 (Regional Bio-Security Cooperation: Governor duty, data infrastructure, Guard constraints, federal supersession) + Art XVII §3(b) (enumerated public health emergency powers including quarantine and supply allocation) + Art I §8(d) (quarantine exception to right of travel). See primary entry in [09-emergency-military.md](09-emergency-military.md).
 
 ---
 
