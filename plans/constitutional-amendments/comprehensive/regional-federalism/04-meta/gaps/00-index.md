@@ -113,7 +113,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 62 | Fiscal hollow-out via State-level tax strikes (Revenue Protection) | Medium | ✅ Resolved |
 | 72 | Equalization cliff sabotage (Inverted Default Incentive) | High | ✅ Resolved |
 | 80 | Revenue volatility from commodity-dependent regions | Medium | Partially Mitigated |
-| 93 | Race to the bottom (regional tax subsidy) | Medium | Proposal Available |
+| 93 | Race to the bottom (regional tax subsidy) — predatory subsidy enforcement: relocation disclosure, ARB predation petition, 3-year equalization deduction, ceiling escrow/redistribution, whistleblower expansion | Medium | ✅ Resolved |
 | 94 | Healthcare cost variation and cross-regional care | High | Partially Mitigated |
 | 107 | Ghost residency and equalization formula gaming | Medium | Proposal Available |
 | 110 | Property tax base divergence | Low | Requires Monitoring |

@@ -216,6 +216,64 @@ using a formula established by Interstate Compact. Nominal headquarters location
 
 *[See Gap 193.]*
 
+#### Predatory Subsidy Enforcement
+
+*Resolves Gap 93 — The "Race to the Bottom" Regional Tax/Subsidy Competition.*
+
+(t) **Relocation Subsidy Disclosure.**
+
+(1) When a firm relocates between Regions, and cumulative subsidies provided to that firm by the receiving Region or any governmental subdivision thereof exceed a materiality threshold established by the Independent Fiscal Council — which threshold shall not be less than ten million dollars ($10,000,000) or one-hundredth of one percent (0.01%) of Regional GDP, whichever is less — the receiving Region shall disclose to the IFC all subsidies, tax expenditures, and non-tax incentives provided to that firm within sixty (60) days of the relocation event.
+
+(2) For purposes of this subsection:
+
+- (A) "Relocation" means the transfer of more than thirty percent (30%) of a firm's operational capacity or workforce between Regions within any thirty-six (36) month period, regardless of corporate restructuring, subsidiary formation, or change in entity name or structure;
+
+- (B) "Subsidy" includes tax expenditures, direct financial assistance, in-kind infrastructure provided at below-market value, land grants at below-market value, targeted workforce training grants not available to all firms within the same sector, and regulatory waivers conferring quantifiable financial benefit;
+
+- (C) Subsidies provided by any local government, municipality, county, or other governmental subdivision within a Region shall be attributed to the Region for purposes of disclosure under this subsection, the ceiling under subsection (k), and predation analysis under subsection (u).
+
+(3) Failure to disclose subsidies as required by this subsection creates a rebuttable presumption that the undisclosed subsidies are predatory under subsection (i).
+
+(u) **Predation Petition and Investigation.**
+
+(1) Any Region that has lost a significant employer to another Region's subsidies, or the Independent Fiscal Council acting on its own initiative upon detecting a pattern of predatory subsidy activity, may petition the Allocation Review Board for a predation finding under subsection (i).
+
+(2) Upon receipt of a petition, the IFC shall conduct an investigation and prepare a factual report, including:
+
+- (A) the subsidies provided and their relationship to the relocation;
+- (B) whether the subsidies are conditioned on relocation under subsection (j);
+- (C) whether the subsidies exceed the firm's capital investment in the receiving Region;
+- (D) whether the subsidies are part of a documented bidding war pattern.
+
+(3) The IFC shall transmit its report to the ARB within one hundred twenty (120) days. The ARB shall conduct an expedited hearing and issue a determination within ninety (90) days of receiving the report.
+
+(4) Subsidies exceeding the relocating firm's capital investment in the receiving Region are presumptively predatory. This presumption is rebuttable by clear and convincing evidence that the subsidies serve a legitimate economic development purpose unrelated to the firm's departure from another Region.
+
+(v) **Predation Finding Consequences.**
+
+(1) Upon an ARB finding of predatory subsidy under subsection (u), the predating Region's equalization eligibility shall be reduced by the amount of the predatory subsidy for a period of three (3) years from the date of the finding.
+
+(2) The predating Region shall compensate the losing Region for documented transition costs, including unemployment expenditures, tax base losses, and infrastructure stranding costs, as determined by the IFC.
+
+(3) The equalization deduction under paragraph (1) is in addition to any subsidy-neutrality adjustment applied under subsection (f), but the total annual deduction from a Region's equalization eligibility arising from a single predation finding — including both the subsidy-neutrality adjustment and the penalty deduction — shall not exceed two hundred percent (200%) of the predatory subsidy's annualized value.
+
+(4) No provision of this subsection requires repayment by the firm receiving the predatory subsidy. Congress may by statute establish clawback procedures applicable to firms participating in predatory subsidy schemes.
+
+(w) **Subsidy Ceiling Enforcement.**
+
+(1) If a Region exceeds the subsidy ceiling established by subsection (k), the excess amount shall be placed in an escrow fund administered by the Independent Fiscal Council.
+
+(2) The IFC shall redistribute escrowed funds to Regions that meet the minimum tax effort requirements under subsection (l), in proportion to their compliance with the equalization framework.
+
+(3) New subsidy programs by the exceeding Region are prohibited until the Region demonstrates compliance with subsection (k) for two (2) consecutive fiscal years.
+
+(4) If a Region exceeds the ceiling during a certified economic emergency, the IFC may grant a temporary exception not exceeding two (2) fiscal years. The IFC is the sole certifying authority for economic emergencies under this paragraph; no other federal, Regional, or State official may certify an economic emergency for purposes of this subsection. Emergency certification requires a finding that:
+
+- (A) the Region faces an economic contraction exceeding five percent (5%) of Regional GDP within a single fiscal year, or a natural disaster causing documented economic disruption; and
+- (B) the excess subsidies are directly related to emergency economic stabilization and are not available only to relocating firms.
+
+(5) Escrow and redistribution under this subsection constitutes the equalization adjustment for ceiling violations; no separate equalization deduction is imposed in addition to the escrowed amount for the same excess.
+
 ---
 
 ### Section 3-A. Small Region Support
@@ -1388,7 +1446,7 @@ Regional statistics that have not been IST-certified may not be used for federal
 
 (4) manipulates administrative data to distort certified statistics;
 
-(5) retaliates against IST personnel or whistleblowers
+(5) retaliates against IST personnel, whistleblowers, or any person reporting suspected violations of this Article — including predatory subsidy activity, equalization manipulation, subsidy ceiling violations, or tax effort misrepresentation
 
 commits a High Crime punishable by imprisonment of 5-20 years and permanent disqualification from public office.
 
