@@ -1187,6 +1187,78 @@ The IFC fiscal intervention authorities established in this Article proceed in e
 
 (3) Failure to comply results in automatic transfer from the offending level to affected States.
 
+#### Conditional Grant Limitations
+
+*Resolves Gap 80 (Parts 2-4) — Selective "Nullification by Underfunding." Prevents Regional fiscal leverage over States through conditional grants, establishes vertical fiscal coordination, and ensures State fiscal autonomy. Part 1 (Tax Base Preservation) is subsections (a)-(d) above.*
+
+(e) **Unconditional Block Grant Requirement.** When Regions provide funding to States for State-reserved functions:
+
+- (1) at least seventy percent (70%) shall be unconditional block grants;
+- (2) conditions on the remaining thirty percent (30%) must be germane: directly and substantially related to the funded function, consistent with the germaneness standard of Section 4(a)(1);
+- (3) conditions may not require States to adopt policies beyond the specific funded activity;
+- (4) the seventy percent minimum may be temporarily reduced to not less than fifty percent (50%) upon certification by the IFC that an emergency directly affecting the funded function requires enhanced coordination, for a period not exceeding two (2) years, renewable once upon recertification.
+
+(f) **Prohibited Grant Conditions.** Regional grants to States may not be conditioned on:
+
+- (1) State positions on matters outside the funded function, applying the Exclusive Domain framework of Section 4(d) to Regional-State relations;
+- (2) State electoral or political practices;
+- (3) State cooperation with Regional policies in domains unrelated to the funded function;
+- (4) waiver of State regulatory authority in unrelated areas, including de facto preemption through interoperability requirements, regulatory harmonization mandates, or other mechanisms that render independent State policy impracticable.
+
+(g) **Grant Dependency Alert.** If State reliance on Regional grants exceeds forty percent (40%) of the State budget for any single reserved function, as measured annually by the IFC:
+
+- (1) the IFC shall publish a "Fiscal Dependency Alert" identifying the affected function and State;
+- (2) the Alert shall analyze whether dependency results from Regional tax base crowding under subsection (d);
+- (3) the ARB may order remedial measures including compensating transfers or tax base reallocation recommendations subject to judicial confirmation under subsection (n).
+
+(h) **Infrastructure Independence.** Critical State infrastructure funding (roads, bridges, utilities):
+
+- (1) may not be conditioned on unrelated policy compliance;
+- (2) may not be threatened or reduced as leverage in policy disputes;
+- (3) infrastructure funding disputes are subject to expedited ARB review with interim relief order within thirty (30) days and final determination within ninety (90) days.
+
+#### Vertical Fiscal Coordination
+
+(i) **Fiscal Subsidiarity Subcommittee.** The Independent Fiscal Council shall maintain a standing Fiscal Subsidiarity Subcommittee consisting of:
+
+- (1) the Chair of the Independent Fiscal Council;
+- (2) Federal Treasury representatives designated by the Secretary of the Treasury;
+- (3) Regional finance officers designated by each Regional Governor;
+- (4) State government representatives from each Region, selected by the State governments within that Region.
+
+(j) **Annual Fiscal Capacity Review.** The Subcommittee shall conduct annually:
+
+- (1) assessment of combined tax burden by Region and State;
+- (2) identification of tax base conflicts or crowding;
+- (3) recommendations for reallocation to preserve fiscal subsidiarity under subsection (a).
+
+(k) **Dispute Resolution.** Fiscal capacity disputes between governmental levels:
+
+- (1) shall be referred to the IFC for technical analysis and Fiscal Impairment Certification;
+- (2) if the IFC certifies that a State's fiscal capacity has been impaired below the Minimum State Tax Capacity, the certification shall trigger automatic compensating transfers from the offending level consistent with subsection (d);
+- (3) any party may appeal the IFC's certification or transfer determination to the ARB for binding review, and from the ARB to the Supreme Court.
+
+#### State Fiscal Autonomy
+
+(l) **State Tax Innovation.** States retain authority to:
+
+- (1) develop innovative tax instruments within their reserved powers;
+- (2) experiment with tax structures not used by Federal or Regional levels;
+- (3) Federal and Regional levels may not preempt State tax innovation absent compelling necessity demonstrated by clear and convincing evidence before the ARB, provided that such innovation does not constitute tax exportation prohibited by Section 11-A.
+
+(m) **Revenue Sharing Floor.** If vertical coordination under subsections (i)-(k) fails to preserve State fiscal capacity:
+
+- (1) States are entitled to a minimum share of combined Federal-Regional-State revenues sufficient to fund the Minimum State Tax Capacity under subsection (c);
+- (2) the minimum share shall be calculated annually by the IFC;
+- (3) revenue sharing under this subsection is automatic and not subject to conditions;
+- (4) to qualify for revenue sharing under this subsection, a State must demonstrate minimum tax effort of at least seventy-five percent (75%) of the national average State tax effort as certified by the IFC. A State that deliberately undertaxes to trigger revenue sharing forfeits eligibility until tax effort is restored.
+
+(n) **Judicial Enforcement.** States may petition the Supreme Court:
+
+- (1) for declaration that Federal-Regional taxation violates fiscal subsidiarity under subsection (a);
+- (2) for injunction against tax increases that would reduce State access below the Minimum State Tax Capacity;
+- (3) for order compelling revenue sharing under subsection (m) to restore fiscal subsidiarity.
+
 ---
 
 ### Section 11-A. Prohibition on Predatory Tax Exportation

@@ -1181,7 +1181,27 @@ Article X prohibits "unfunded mandates" and ensures each level has "independent 
 - **Gap 72 (Equalization Cliff):** Inter-Regional equity; Gap 80 addresses intra-Regional vertical equity
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article X, Section 9. This four-part solution establishes fiscal subsidiarity as a constitutional principle with IFC certification, limits conditional grants and prohibits cross-domain policy leverage, creates a Vertical Tax Coordination Council for proactive management, and ensures State fiscal autonomy through automatic revenue sharing and judicial enforcement.
+✅ **RESOLVED.** All four parts integrated into Article X, Section 11 of `02-design/constitution/04-fiscal-system.md`:
+
+| Proposal Part | Constitutional Location | Coverage |
+|---|---|---|
+| Part 1: Tax Base Preservation (§9(a-d)) | Art X §11(a)-(d) | Full — fiscal subsidiarity principle, IFC tax burden certification, tax capacity floor, crowding-out prohibition with automatic transfers |
+| Part 2: Conditional Grant Limitations (§9(e-h)) | Art X §11(e)-(h) | Full — 70% unconditional block grants (with IFC-certified emergency reduction to 50% for 2 years), §4(d) germaneness alignment, prohibited conditions including de facto preemption, grant dependency alert (40% per function), infrastructure independence with 30-day interim relief |
+| Part 3: Vertical Fiscal Coordination (§9(i-k)) | Art X §11(i)-(k) | Full — IFC Fiscal Subsidiarity Subcommittee (not standalone body per reviewer), annual fiscal capacity review, dispute resolution via Fiscal Impairment Certification with automatic compensating transfers (ARB tax-rate authority removed per reviewer) |
+| Part 4: State Fiscal Autonomy (§9(l-n)) | Art X §11(l)-(n) | Full — State tax innovation with §11-A cross-reference, revenue sharing floor with 75% minimum tax-effort condition (moral hazard fix per reviewer), Supreme Court judicial enforcement |
+
+Key peer review findings incorporated:
+
+- ARB tax-rate adjustment authority replaced with Fiscal Impairment Certification + automatic compensating transfers (both reviewers)
+- VTCC reconstituted as IFC Fiscal Subsidiarity Subcommittee (both reviewers)
+- Revenue sharing floor indexed to 75% minimum tax effort (both reviewers)
+- §11(f) aligned with §4(d) Exclusive Domain germaneness framework (both reviewers)
+- 70% block grant minimum with narrow IFC-certified emergency exception (Reviewer 1)
+- De facto preemption via interoperability requirements added to prohibited conditions (Reviewer 2)
+- State tax innovation cross-referenced against §11-A horizontal tax exportation (Reviewer 2)
+- 30-day interim relief for infrastructure funding disputes (Reviewer 1)
+
+Verified 2026-02-06.
 
 ---
 
