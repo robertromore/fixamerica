@@ -1193,7 +1193,16 @@ Article XII, Section 3 requires a "graduated de-escalation sequence" prioritizin
 - **Gap 44 (Federal Executive Overreach):** Limits military use; Gap 86 ensures limits don't enable fait accompli
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article XII-RF, Section 3. This four-part solution creates Imminent Harm Bypass with 48-hour certification, establishes hard time limits totaling 90 days maximum, enables Bad Faith Finding with immediate sequence termination, and imposes Freeze Order with foreign contact prohibition and neutral custodianship.
+**RESOLVED.** All four components of the Escalation Trigger Protocol are already integrated into Art XII §3(a)-(m):
+
+| Proposal Component | Proposed At | Integrated At | Match |
+|---|---|---|---|
+| Imminent Harm Bypass | §3(g)-(j) | §3(a)-(d) | Full — ARB/Supreme Court/Two-Key certification, 48hr expedited, ex parte authority, post-bypass review |
+| Stage Time Limits | §3(k)-(m) | §3(e)-(g) | Full — 72hr/14d/30d/14d stages, 90-day cap, automatic escalation, auto Two-Key satisfaction |
+| Bad Faith Finding | §3(n)-(p) | §3(h)-(j) | Substantial — same indicators, immediate termination, forfeit of review; constitution adds consequences (costs, estoppel, personal liability) |
+| Anti-Consolidation | §3(q)-(s) | §3(k)-(m) | Full — freeze order, foreign contact prohibition, neutral custodianship with U.S. Marshals |
+
+Index correction: 00-index.md previously listed Gap 86 as "Border security coordination during emergencies" — actual gap is "De-Escalation as a Stall for Insurrection."
 
 ---
 

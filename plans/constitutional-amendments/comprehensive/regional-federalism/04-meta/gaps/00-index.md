@@ -188,7 +188,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 55 | Cyber-kinetic force ambiguity (digital coercion loophole) | High | ✅ Resolved |
 | 74 | Disaster mutual aid compact enforcement | Medium | Partially Mitigated |
 | 82 | Double-Key hostage-taking (collusion for inaction) | High | ✅ Resolved |
-| 86 | Border security coordination during emergencies | High | Partially Mitigated |
+| 86 | De-Escalation as a Stall for Insurrection (exploiting graduated de-escalation to delay military intervention, bad faith mediation, procedural cascade, foreign fait accompli) | High | ✅ Resolved |
 | 88 | Two-key bypass via military officer corps purge | High | ✅ Resolved |
 | 91 | Emergency supply chain coordination | Medium | Partially Mitigated |
 | 102 | Emergency loophole for information warfare | Medium | ✅ Resolved |
