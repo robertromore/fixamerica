@@ -51,7 +51,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 
 | Gap # | Description | Severity | Mitigation Status |
 |-------|-------------|----------|-------------------|
-| 1 | Constitutional amendment process may be too rigid for unforeseen challenges | Medium | Partially Mitigated |
+| 1 | Civic culture and democratic norms — system cannot manufacture democratic commitment, truthfulness, or nonviolence; managed through time-buying and visibility, not prevention | High | Requires Monitoring |
 | 2 | Fundamental tension between regional autonomy and national coherence cannot be fully resolved | Low | Accepted by Design |
 
 ### Category II: High-Risk but Low-Probability Scenarios
