@@ -68,7 +68,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 5 | Media and information power (narrative domination) | Medium | Partially Mitigated |
 | 6 | Political party evolution (machine/cartelization risk) | Medium | Accepted by Design |
 | 7 | Implementation act dependency and statutory capture | Medium | Partially Mitigated |
-| 8 | Rights-floor content and enforcement detail | Medium | Partially Mitigated |
+| 8 | Rights-floor content and enforcement detail (Dual-Legitimacy Rights-Floor Statute) | Medium | Proposal Available |
 | 16 | Inter-regional cooperation mechanisms | Low | Partially Mitigated |
 | 17 | Inter-regional infrastructure coercion | Medium | ✅ Resolved |
 | 18 | Water rights and shared waterways | High | ✅ Resolved |
@@ -89,7 +89,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 
 | Gap # | Description | Severity | Mitigation Status |
 |-------|-------------|----------|-------------------|
-| 12 | Path dependency from initial regional boundary decisions | Medium | Partially Mitigated |
+| 12 | Constitutional Transition Vulnerability (path dependency from initial boundary decisions) | Medium | Partially Mitigated |
 | 13 | Institutional capacity gaps in newly formed regional governments | High | ✅ Resolved |
 
 ### Category VI: Tradeoffs Accepted by Design
@@ -118,8 +118,12 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 107 | Ghost residency and equalization formula gaming (183-day physical presence, minimum tax effort, phantom revenue, anti-haven, corporate apportionment by economic presence, IST population certification, forensic cross-verification) | Medium | ✅ Resolved |
 | 110 | Property tax base divergence | Low | Requires Monitoring |
 | 112 | Budgetary midnight (sequestration) | Medium | ✅ Resolved |
-| 123 | Counter-cyclical fiscal capacity at regional level | Medium | Partially Mitigated |
+| 123 | "Automatic Fiscal Continuation" as Hostage Tool | High | Proposal Available |
 | 124 | Internal tax haven arbitrage (zero-tax magnet, subsidized poaching, effort-laundering, mobile factor floor) | Medium | ✅ Resolved |
+| 133 | "Strategic Incompetence" as a Federal Cost-Shift | Medium | Proposal Available |
+| 137 | "Financial Dumping" via Mutual Recognition | High | Proposal Available |
+| 138 | The "Double-Taxation" Border Blockade | Medium | Proposal Available |
+| 147 | "Financial Contagion" as Coercive Leverage | High | Proposal Available |
 | 170 | Fiscal cliff hostage (weaponized shutdowns) | Critical | ✅ Resolved |
 | 193 | Tax haven parasite (fiscal cannibalism) | High | ✅ Resolved |
 | 194 | Dole loophole (spending power coercion) | Critical | ✅ Resolved |
@@ -145,7 +149,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 120 | Sentencing guideline variation | Medium | Requires Monitoring |
 | 121 | Fact-hiding ARB loophole | Medium | ✅ Resolved |
 | 130 | Audit-capacity freeze of National Election Court (budget floor, permanent investigative staff, establishment mandate) | Medium | ✅ Resolved |
-| 145 | Coordinated judicial attack across jurisdictions | Medium | Partially Mitigated |
+| 145 | The "Judicial Docket Clogging" Attack (Legal DoS) | Medium | Partially Mitigated |
 | 158 | Strategic party expansion to manipulate recusals | Medium | ✅ Resolved |
 | 159 | Narrow standing to avoid Supreme Court transfer | Medium | ✅ Resolved |
 | 160 | Independent Panel lot manipulation | Medium | ✅ Resolved |
@@ -186,11 +190,11 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 33 | Multi-vector attack coordination (Coordinated Threat Response) | High | ✅ Resolved |
 | 44 | Executive enforcement deadlock (Judicial Key Override) | Critical | ✅ Resolved |
 | 55 | Cyber-kinetic force ambiguity (digital coercion loophole) | High | ✅ Resolved |
-| 74 | Disaster mutual aid compact enforcement | Medium | Partially Mitigated |
+| 74 | Regional Guard "Shadow Mobilization" via State Defense Forces | Medium | Proposal Available |
 | 82 | Double-Key hostage-taking (collusion for inaction) | High | ✅ Resolved |
 | 86 | De-Escalation as a Stall for Insurrection (exploiting graduated de-escalation to delay military intervention, bad faith mediation, procedural cascade, foreign fait accompli) | High | ✅ Resolved |
 | 88 | Two-key bypass via military officer corps purge | High | ✅ Resolved |
-| 91 | Emergency supply chain coordination | Medium | Partially Mitigated |
+| 91 | The "Emergency Nesting" Power Grab | Medium | Proposal Available |
 | 102 | Emergency loophole for information warfare | Medium | ✅ Resolved |
 | 113 | "Emergency Pincer" via Local Law Enforcement (Two-Key bypass through mass deputization) — command exclusivity, dual consent, Two-Key extension, counter-deputization, Temporary Marshal cap, functional classification trigger | High | ✅ Resolved |
 | 122 | Two-key bypass via officer corps purge (duplicate of Gap 88) | Medium | ✅ Resolved |
@@ -207,12 +211,13 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 
 | Gap # | Description | Severity | Mitigation Status |
 |-------|-------------|----------|-------------------|
-| 50 | Interstate commerce clause interpretation variation | Medium | Partially Mitigated |
-| 65 | Transportation network integration | Medium | Partially Mitigated |
+| 35 | Private Infrastructure Dependencies | Medium | Partially Mitigated |
+| 50 | The "Safety Add-On" Protectionism Trap (regulatory labor barriers) | Medium | Proposal Available |
+| 65 | Regional "Credentialing Protectionism" | Medium | Proposal Available |
 | 66 | "Regulatory Dumping" via State-Level Deregulation (Remedial Supremacy) — substantial frustration standard, implied private enforcement with express opt-out, Regional court jurisdiction, federal court backstop, non-waivable protections with reasoned-basis requirement, anti-clawback, ARB review with exhaustion/frivolousness gating, domain-limited repeat offender escalation | High | ✅ Resolved |
 | 67 | Infrastructure ransom vector | Medium | ✅ Resolved |
 | 75 | Interregional transit fee-gouging loophole | Medium | ✅ Resolved |
-| 83 | Pipeline and hazardous material transport | Medium | Partially Mitigated |
+| 83 | "Infrastructure Decay" as Regional Coercion | Medium | Proposal Available |
 | 92 | Technical standards as de facto secession | Medium | ✅ Resolved |
 | 99 | Tribal veto via infrastructure entrapment | Medium | ✅ Resolved |
 | 104 | Predatory infrastructure licensing (labor chokepoints) | Medium | ✅ Resolved |
@@ -232,8 +237,8 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 56 | Zombie executive incentive (caretaker obstruction) | Medium | ✅ Resolved |
 | 70 | Administrative attrition via civil service purge | Medium | ✅ Resolved |
 | 79 | Executive caretaker perpetualism | Medium | ✅ Resolved |
-| 87 | Civil service protection and political interference | Medium | Partially Mitigated |
-| 89 | Audit authority and oversight coordination | Medium | Partially Mitigated |
+| 87 | "Fiscal Starvation" of the ARB and Independent Councils | Medium | Proposal Available |
+| 89 | The "Super-Regional" Legislative Cartel | Medium | Proposal Available |
 | 90 | Senate blue-slipping of constitutional officers | Medium | ✅ Resolved |
 | 97 | Regulatory capture at regional level | Medium | Requires Monitoring |
 | 100 | Hollow Region via legislative absence | Medium | ✅ Resolved |
@@ -296,22 +301,31 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 27 | Tribal-Regional relations | High | Resolved |
 | 28 | Nuclear facilities and hazardous materials governance (nuclear plant siting, hazmat transport, waste storage, cross-boundary emergency zones) | Medium | ✅ Resolved |
 | 31 | Criminal justice coordination beyond extradition (sentence portability, records, sex offender registry, parole transfer) | Medium | ✅ Resolved |
-| 57 | Compact enforcement and dispute resolution | Medium | Partially Mitigated |
+| 57 | The Boundary Petrification Paradox (Regional Boundary Rigidity) | Medium | Proposal Available |
 | 58 | Geographic defense penalty (defense burden asymmetry) | Medium | ✅ Resolved |
 | 59 | State-Regional preemption deadlock (vertical supremacy vacuum) | Medium | ✅ Resolved |
 | 60 | Para-diplomacy conflict (regional foreign engagement vacuum) | Medium | ✅ Resolved |
 | 64 | Ghost Region Successor Crisis (Two-Key denominator manipulation and key-holder succession) | High | ✅ Resolved |
-| 71 | Cross-regional law enforcement cooperation | Medium | Partially Mitigated |
-| 76 | Child custody and family law interstate recognition | Medium | Partially Mitigated |
+| 71 | Regional Legislative Hostage-Taking of Senate Representation | Medium | Proposal Available |
+| 76 | Strategic "Subregional" Gerrymandering of Regional Constitutions | Medium | Proposal Available |
 | 77 | Education curriculum coordination | Low | Accepted by Design |
-| 78 | Healthcare reciprocity and emergency treatment | Medium | Partially Mitigated |
-| 96 | Extradition and fugitive recovery | Medium | Partially Mitigated |
+| 78 | Asymmetric "Rights Floor" Regulatory Arbitrage | Medium | Proposal Available |
+| 96 | The "Local Hollowing Out" via Regional Preemption | Medium | Proposal Available |
 | 111 | Shadow stay via regional administrative law | Medium | ✅ Resolved |
-| 114 | Insurance regulation coordination | Medium | Partially Mitigated |
-| 115 | Banking and financial services oversight | Medium | Partially Mitigated |
+| 114 | Technocratic "Rulemaking" as Constitutional Amendment | Medium | Proposal Available |
+| 115 | The "Judicial Dead Zone" of Tribal-Regional Disputes | Medium | Proposal Available |
 | 125 | Senate treaty blockade (minority veto) | Medium | ✅ Resolved |
 | 126 | Census emergency and boundary sabotage | Medium | ✅ Resolved |
 | 127 | "Holdover Senate" Veto after Boundary Revision (automatic seat vacation, interim appointments, transition quorum, holdover prohibition) | High | ✅ Resolved |
+| 134 | The "Metro-Balkanization" Loophole | High | Proposal Available |
+| 135 | Regional "Licensing" of Federal Operations | High | Proposal Available |
+| 136 | Personal Coercion of Federal Officers via Regional Licensing | High | Proposal Available |
+| 139 | State-Level "Abolition" of Cooperating Sub-units | High | Proposal Available |
+| 140 | The "Resident Alien" Apportionment Divergence | Medium | Proposal Available |
+| 141 | The "Professional Ethics" Pincer (Private Sector Cooperation) | High | Proposal Available |
+| 143 | The "Utility Siege" of Federal Assets | High | Proposal Available |
+| 146 | The "Administrative Exhaustion" Veto | High | Proposal Available |
+| 148 | The "Sub-State Secession" Legal Vacuum | Medium | Proposal Available |
 | 172 | Trojan Horse infrastructure (foreign influence) | High | ✅ Resolved |
 | 176 | Lex Loci crisis (cross-border prosecution) | Critical | ✅ Resolved |
 | 177 | Capital siege (physical vulnerability) | Critical | ✅ Resolved |

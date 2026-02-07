@@ -10,7 +10,7 @@
 
 ## Quick Navigation
 
-The 236 identified gaps have been organized into the following categories:
+The 252 identified gaps have been organized into the following categories:
 
 ### Foundational Categories (I-VI)
 
@@ -48,20 +48,20 @@ The 236 identified gaps have been organized into the following categories:
 | Severity | Count |
 |----------|-------|
 | Critical | 80 |
-| High | 53 |
-| Medium | 75 |
+| High | 64 |
+| Medium | 78 |
 | Low | 27 |
-| **Total** | **236** |
+| **Total** | **252** |
 
 | Status | Count |
 |--------|-------|
 | Requires Development | 0 |
-| Partially Mitigated | 23 |
-| Proposal Available | 0 |
+| Partially Mitigated | 7 |
+| Proposal Available | 29 |
 | Mitigated | 0 |
-| Accepted by Design | 13 |
-| Requires Monitoring | 8 |
-| Resolved | 198 |
+| Accepted by Design | 12 |
+| Requires Monitoring | 7 |
+| Resolved | 197 |
 
 ---
 
