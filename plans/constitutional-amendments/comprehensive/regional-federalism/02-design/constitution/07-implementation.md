@@ -520,6 +520,82 @@ Upon sunset, all Regions shall be assessed exclusively under the annual IFC cert
 
 ---
 
+### Section 8. Transition-Period Boundary Adaptability
+
+*Resolves Gap 12 — Constitutional Transition Vulnerability. This section prevents initial boundary decisions from creating irreversible path dependency during the transition period by requiring boundary-adaptive statutory design and limiting boundary-dependent commitments.*
+
+#### Boundary-Adaptive Statutory Design
+
+(a) **Boundary-Adaptive Statutory Design.** Each implementation act required by Section 1 shall include automatic adjustment mechanisms ensuring that:
+
+(1) equalization formulas, allocation criteria, and funding mechanisms reference "the Regions as constituted at the time of application" rather than specific Regional compositions established in Schedule A of Article I;
+
+(2) institutional structures can accommodate boundary changes without requiring new legislation — where a boundary change alters Regional membership, the implementation act's provisions shall apply to the reconstituted Regions without interruption;
+
+(3) data collection, reporting, and certification systems are designed to operate at the State level as well as the Regional level, permitting recalculation upon boundary revision;
+
+(4) no implementation act may define eligibility for equalization transfers, fiscal allocations, or institutional representation by reference to specific States within a specific Region, except as necessary for transition-period calculations under Section 7;
+
+(5) the Independent Fiscal Council shall review each implementation act's boundary adaptability within one (1) year of enactment and publish an assessment of whether the act's formulas and parameters would produce materially different outcomes under plausible alternative boundary configurations. If the IFC identifies material boundary dependency, it shall recommend specific amendments to Congress;
+
+(6) compliance with this subsection shall not constitute grounds for extending the congressional enactment deadlines established in Section 1 and Section 2. The boundary-adaptive design requirement may be satisfied by formulas that reference Regional composition dynamically and does not require Congress to anticipate or model specific boundary changes;
+
+(7) federal agencies administering Transitional Regional Law under Section 6(c) shall organize their bridge administration at the State level, not the Regional level, to the maximum extent practicable, ensuring that administrative reorganization following boundary revision does not require restructuring federal bridge operations.
+
+#### Fiscal Succession Protocol
+
+(b) **Fiscal Succession Protocol.** For financial obligations of Regions, including bonds, pension commitments, and contractual liabilities, each implementation act shall establish a fiscal succession protocol specifying how obligations are apportioned between reconstituted Regions following a boundary revision.
+
+#### Anti-Lock-In for Inter-Regional Agreements
+
+(c) **Anti-Lock-In for Inter-Regional Agreements.** During the first ten (10) years following ratification:
+
+(1) inter-Regional agreements under Article I, Section 5 that exceed ten (10) years in duration shall include a boundary-revision adjustment clause specifying how the agreement adapts if a participating Region's boundaries change;
+
+(2) an inter-Regional agreement that lacks such a clause is voidable upon boundary revision by any affected Region;
+
+(3) this requirement does not apply to agreements of ten (10) years or shorter duration, or to agreements exclusively between States within a single Region.
+
+#### Institutional Investment Notice
+
+(d) **Institutional Investment Notice.** During the first ten (10) years following ratification, any Regional capital investment exceeding the greater of one percent (1%) of the Region's annual budget or fifty million dollars ($50,000,000) adjusted for inflation that is location-dependent and would be materially affected by boundary revision shall be accompanied by a published Boundary Sensitivity Assessment:
+
+(1) prepared by the Region and filed with the ARB;
+
+(2) identifying how the investment would be affected if the Region's boundaries changed under Article I, Section 4;
+
+(3) specifying any adaptation measures the Region has planned.
+
+This requirement is informational only — it does not restrict Regional investment decisions, but ensures that boundary-dependent commitments are made with awareness and transparency. The ARB shall not rank, compare, or aggregate Boundary Sensitivity Assessments across Regions. No federal official shall characterize a Region's investment decisions as evidence of boundary instability.
+
+#### Capacity Investment Safe Harbor
+
+(e) **Capacity Investment Safe Harbor.** Institutional investments made pursuant to the Capacity Development Program under Section 7 shall not be characterized as path dependency effects for purposes of the accelerated review under Article I, Section 4-A(b-1)(5). Where boundary revision would affect capacity investments, the Commission shall identify transition mechanisms for preserving the value of such investments (including transfer of facilities to successor Regions, shared-services agreements, and inter-Regional facility sharing) rather than treating investments as barriers to revision or as reasons to avoid revision. No Region shall be disadvantaged in capacity assessment under Section 7 for making investments that would be affected by potential boundary revision, provided such investments are consistent with the Region's capacity development objectives.
+
+#### Capacity Tier Adjustment for Boundary Changes
+
+(f) **Capacity Tier Adjustment for Boundary Changes.**
+
+(1) If a State transfer under Article I, Section 4(f)-(r) or Section 4-A(b-2), or a boundary revision under Article I, Section 4 and Section 4-A, results in a Region falling below a previously achieved capacity tier, the ARB shall: (A) recalculate capacity baselines for the reconstituted Region; (B) provide a grace period of not less than one (1) year before applying tier regression consequences under Section 7(n); (C) make supplementary Capacity Development Program resources available to the affected Region.
+
+(2) If boundary revision under Article I, Section 4-A(b-1) takes effect during the Capacity Development Program's operational period under Section 7(j), the Program's duration for affected Regions shall be extended by the lesser of three (3) years or the time remaining until all affected Regions achieve Tier 2 certification.
+
+#### Savings Clause
+
+(g) **Savings Clause.** Nothing in this section:
+
+(1) restricts the constitutional authority of Regions to make investment, policy, or institutional decisions within their enumerated powers;
+
+(2) creates a private right of action based on failure to comply with this section, except that any Region, State, or the ARB may petition for a declaratory judgment regarding compliance;
+
+(3) extends beyond the first ten (10) years following ratification, except for subsection (a), which applies permanently to implementation acts, and subsection (b), which applies whenever boundary revision occurs;
+
+(4) diminishes the protections established in Section 2-A (Implementation Act Integrity). A challenge to an implementation act's compliance with subsection (a) shall not result in invalidation of any provision of the act. The sole remedy for non-compliance with subsection (a) shall be a declaratory judgment requiring Congress to amend the non-compliant provision within two (2) years, during which the existing provision remains in full force;
+
+(5) an amendment to an implementation act that modifies a boundary-adaptive provision required by subsection (a) shall not be deemed "material weakening" under Section 2-A(e) if the amendment substitutes an alternative boundary-adaptive mechanism that satisfies the requirements of subsection (a).
+
+---
+
 ## ARTICLE XXII - DEFINITIONS
 
 For purposes of this Constitution:

@@ -89,7 +89,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 
 | Gap # | Description | Severity | Mitigation Status |
 |-------|-------------|----------|-------------------|
-| 12 | Constitutional Transition Vulnerability (path dependency from initial boundary decisions) | Medium | Partially Mitigated |
+| 12 | Constitutional Transition Vulnerability (path dependency from initial boundary decisions) — accelerated initial boundary review within 7 years, transition-period State Transfer facilitation, boundary-adaptive statutory design mandate, IFC boundary-adaptability review, fiscal succession protocol, capacity investment safe harbor, anti-entrenchment directive | Medium | ✅ Resolved |
 | 13 | Institutional capacity gaps in newly formed regional governments | High | ✅ Resolved |
 
 ### Category VI: Tradeoffs Accepted by Design

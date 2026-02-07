@@ -352,6 +352,42 @@ No Fundamental Misalignment certification based on subsection (g)(3) shall issue
 
 (2) the Commission may proceed using provisional data from available federal statistical sources until complete census data is provided.
 
+#### Accelerated Initial Review
+
+(b-1) **Accelerated Initial Review.** Notwithstanding the twenty-year cycle established in subsection (a), the Commission shall commence the first boundary review within seven (7) years of ratification. The accelerated review conducted under this subsection satisfies the first review requirement of subsection (a); the next review under the cycle established by subsection (a) or by statute shall be scheduled from the date of the accelerated review's completion, not from the date of ratification. This accelerated review:
+
+(1) shall use the first decennial census data available after ratification, supplemented by interim data from the Census Bureau, Bureau of Economic Analysis, and Bureau of Labor Statistics;
+
+(2) shall apply the same criteria, procedures, and approval requirements as any other boundary review under Section 4 and this section;
+
+(3) shall explicitly evaluate whether the initial boundaries established in Schedule A remain consistent with current geographic, economic, and demographic conditions;
+
+(4) may recommend no changes if the Commission determines that initial boundaries remain appropriate — the accelerated review is a mandatory evaluation, not a mandatory revision;
+
+(5) shall include a specific assessment of transition-period effects, including statutory boundary-dependence in implementation acts and demographic and economic trends since ratification;
+
+(6) if the first post-ratification decennial census has not been completed before the commencement of the accelerated review, the Commission shall accord dispositive weight to decennial census data over interim data when decennial data becomes available during the review. The Commission may issue preliminary findings based on interim data but shall not issue final recommendations until either: (A) decennial census data is available, or (B) three (3) years have elapsed since the commencement of the accelerated review, whichever occurs first;
+
+(7) the accelerated review may not commence until the Commission has been constituted for at least two (2) years. If Congress delays Commission establishment beyond year five (5), the interim Commission convened under subsection (h) shall conduct the review. During the accelerated review period, the Commission's budget shall be calculated under subsection (i)(2) (review-window rate) regardless of whether the review coincides with decennial census data release;
+
+(8) Commission deliberations, data gathering, analysis, and recommendation development may proceed during the election blackout periods established in Section 4(d) and subsection (s). Only the public proposal of boundary revisions, the scheduling of referenda, and the effectuation of approved revisions are subject to the blackout;
+
+(9) the Commission shall not accord incumbent Regional officeholders greater standing than any citizen in the accelerated review process. Elected officials may submit testimony on the same basis as other interested parties.
+
+#### Transition-Period State Transfer Facilitation
+
+(b-2) **Transition-Period State Transfer Facilitation.** During the first ten (10) years following ratification:
+
+(1) the three-year waiting period for Unilateral Departure under Section 4(h) is reduced to two (2) years, with the ARB verification of continued Fundamental Misalignment occurring at Year 1 rather than Year 2;
+
+(2) the ARB shall resolve transfer disputes within sixty (60) days rather than the ninety (90) days specified in Section 4(l);
+
+(3) States that petition for transfer within five (5) years of ratification may rely on pre-ratification economic and demographic data to establish Fundamental Misalignment, provided such data is no more than three (3) years old at the time of petition;
+
+(4) for purposes of Section 4(m), the accelerated initial review under subsection (b-1) constitutes a "decennial review," and State Transfers approved under Section 4(f)-(h), as modified by this subsection, are not subject to the irrevocability provision of Section 4(m). This subsection modifies only the waiting period established in Section 4(h) and the dispute resolution timeline established in Section 4(l). It does not modify the Policy Continuity Rule of Section 4(i), the Anti-Arbitrage Certification of Section 4(j), or any other substantive provision of Section 4;
+
+(5) if three (3) or more States from a single Region file Unilateral Departure petitions within the same twelve (12) month period during the first five (5) years following ratification, the ARB shall assess whether the petitions reflect coordinated action that is functionally equivalent to a boundary revision. If so, the petitions shall be consolidated and assessed under the boundary-revision criteria of Section 4-A, not the individual State Transfer mechanism.
+
 #### Commission Independence Floor
 
 (c) **Multi-Source Appointments.** No single appointing authority may select a majority of Commission members. Congress shall by statute designate at least three distinct appointing authorities for Commission membership.
@@ -3194,7 +3230,9 @@ Idaho, Montana, Wyoming
 
 (c) Tribal lands within State boundaries remain under tribal and federal jurisdiction as provided in Article XX, Section 3.
 
-(d) These initial boundaries are based on geographic, economic, and demographic considerations as of ratification. Future boundary revisions shall follow the process established in Article I, Section 4.
+(d) These initial boundaries are based on geographic, economic, and demographic considerations as of ratification. They are explicitly provisional pending the first mandatory boundary review under Article I, Section 4-A(b-1). Future boundary revisions shall follow the process established in Article I, Section 4.
+
+(d-1) **Anti-Entrenchment Directive.** Initial boundary assignments under this Schedule do not create vested rights to a specific Regional composition, nor do institutional investments made after ratification constitute an independently cognizable constitutional interest in maintaining existing boundaries. This directive does not prohibit parties from presenting evidence regarding the costs of boundary revision, institutional disruption, or community interests as factors in the Commission's analysis under Section 4-A. This subsection is an interpretive directive applicable in proceedings arising under Section 4 and Section 4-A; it does not create a freestanding cause of action and may not be invoked except as a defense to claims that boundary revision violates vested interests.
 
 (e) Population and Fiscal Capacity Considerations.
 

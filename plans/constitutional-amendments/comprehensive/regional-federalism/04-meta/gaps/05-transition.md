@@ -17,7 +17,7 @@ The transition from the current constitution to this system:
 Destabilization during adoption phase.
 
 **Status:**
-Outside scope of stable-state design; requires separate transition protocol.
+RESOLVED. Article I, Section 4-A(b-1) and (b-2) (Accelerated Initial Review and Transition-Period State Transfer Facilitation) and Article XXI, Section 8 (Transition-Period Boundary Adaptability) establish: accelerated initial boundary review within 7 years (conditioned on Commission maturity, with census-data safeguard), reduced State Transfer waiting period (2 years) with coordinated-transfer consolidation, boundary-adaptive statutory design mandate for implementation acts (permanent), IFC boundary-adaptability review, fiscal succession protocol, anti-lock-in for inter-Regional agreements, Boundary Sensitivity Assessment with anti-stigma protections, capacity investment safe harbor, capacity tier adjustment for boundary changes, and anti-entrenchment directive in Schedule A(d-1). See [briefing-gap-012.md](briefing-gap-012.md).
 
 ---
 
