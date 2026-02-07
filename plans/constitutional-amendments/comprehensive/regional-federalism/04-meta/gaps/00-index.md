@@ -318,7 +318,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 125 | Senate treaty blockade (minority veto) | Medium | ✅ Resolved |
 | 126 | Census emergency and boundary sabotage | Medium | ✅ Resolved |
 | 127 | "Holdover Senate" Veto after Boundary Revision (automatic seat vacation, interim appointments, transition quorum, holdover prohibition) | High | ✅ Resolved |
-| 134 | The "Metro-Balkanization" Loophole | High | Proposal Available |
+| 134 | The "Metro-Balkanization" Loophole | High | ✅ Resolved — Art I-RF §3-A(c)(4)-(5) and §3-A(i). Population deviation limit (15%), anti-entrenchment clause, democratic compliance with Senate seating consequences. [Briefing](briefing-gap-134.md) |
 | 135 | Regional "Licensing" of Federal Operations | High | Proposal Available |
 | 136 | Personal Coercion of Federal Officers via Regional Licensing | High | Proposal Available |
 | 139 | State-Level "Abolition" of Cooperating Sub-units | High | Proposal Available |

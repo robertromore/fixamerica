@@ -3520,7 +3520,7 @@ Article I, Section 3 requires Regional constitutions to protect against "dominat
 - **Gap 49 (House Majoritarianism):** Federal representation; Gap 134 addresses Regional representation feeding Federal
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article I-RF, Section 3. This three-part solution establishes 15% population deviation limit for Regional legislative chambers, requires ARB certification with automatic receivership for non-compliance, and conditions Federal Senate seating on Regional democratic compliance.
+**RESOLVED — Art I-RF §3-A(c)(4)-(5) and §3-A(i).** Population deviation limit (15%) for all Regional legislative chambers including geographic chambers authorized under §3-A(c)(3). Anti-entrenchment clause requiring population-based ratification for representation-affecting amendments. Democratic Compliance and Federal Consequences framework with ARB certification, 180-day cure period, Special Redistricting Master, Senate voting suspension for persistent non-compliance, quorum safeguard, and expedited judicial review. See [Briefing](briefing-gap-134.md).
 
 ---
 
