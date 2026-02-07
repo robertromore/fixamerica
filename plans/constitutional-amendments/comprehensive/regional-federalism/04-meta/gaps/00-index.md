@@ -192,7 +192,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 88 | Two-key bypass via military officer corps purge | High | ✅ Resolved |
 | 91 | Emergency supply chain coordination | Medium | Partially Mitigated |
 | 102 | Emergency loophole for information warfare | Medium | ✅ Resolved |
-| 113 | Evacuation authority across regional boundaries | High | Partially Mitigated |
+| 113 | "Emergency Pincer" via Local Law Enforcement (Two-Key bypass through mass deputization) — command exclusivity, dual consent, Two-Key extension, counter-deputization, Temporary Marshal cap, functional classification trigger | High | ✅ Resolved |
 | 122 | Two-key bypass via officer corps purge (duplicate of Gap 88) | Medium | ✅ Resolved |
 | 167 | Lame duck sabotage (transition vulnerability) | High | ✅ Resolved |
 | 169 | Serial emergency loophole (infinite loop) | High | ✅ Resolved |

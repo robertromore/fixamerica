@@ -1891,7 +1891,26 @@ Article XI-RF separates Regional Guard from federal control through the "Two-Key
 - **Gap 74 (State Defense Force):** Paramilitary proxies; Gap 113 addresses police proxies
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article XI-RF, Section 6. This two-part solution establishes State and local command exclusivity with dual consent requirement for deputization, extends Two-Key to large-scale deputization with Counter-Deputization authority and ARB mediation for conflicts.
+RESOLVED. Constitutional text integrated as Art XI-RF §6-A (Law Enforcement Command Exclusivity) in `02-design/constitution/10-armed-forces.md`.
+
+Coverage map:
+
+| Proposal Component | Integrated At | Key Peer Review Revisions |
+|---|---|---|
+| Part 1: Command Exclusivity (§6(a-c)) | §6-A(a)-(c) | Narrowed federal agency exception to permanent full-time personnel; 72-hour consent revocation wind-down (R1) |
+| Part 2: Two-Key Extension (§6(d-f)) | §6-A(d)-(f) | Hybrid threshold: greater of 100 or 1/100k population (R1); judicial-gated detention replacing direct detention (both); §6(d) functional classification cross-reference (R1); Art XII §3 de-escalation cross-reference (R1) |
+| Exceptions | §6-A(g)-(h) | Temporary Marshal cap: 25 Special Deputies triggers Two-Key (R2); 180-day MOU look-back for task forces with non-expansion + ARB notice (both); functional classification trigger via §6(d)/§1(c) |
+
+Key peer review findings incorporated:
+
+- Detention authority requires judicial order or ARB Emergency Order + 24hr judicial ratification; containment/redirection only without order (both reviewers)
+- Temporary Marshal loophole closed: §2(j) limited to permanent Marshals, 25+ Special Deputies = Two-Key (R2)
+- Hybrid population-scaled threshold replaces fixed 100 (R1)
+- 72-hour consent revocation wind-down prevents operational chaos (R1)
+- 180-day MOU look-back with non-expansion clause prevents task force gaming (R2)
+- Aggregate counting across all employing jurisdictions prevents "Sheriff's Posse" bypass (R2)
+- Art XII §3 cross-reference prevents parallel mediation regimes (R1)
+- §6(d) functional classification cross-reference reduces litigation ambiguity (R1)
 
 ---
 

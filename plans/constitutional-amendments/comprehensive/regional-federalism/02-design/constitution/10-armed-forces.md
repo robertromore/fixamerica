@@ -477,6 +477,65 @@ No exception other than those enumerated in this subsection shall be implied, in
 
 (k) **Congressional Review.** Congress shall review all active inter-Regional security compacts every two (2) years. Any compact not affirmatively reauthorized by Congress shall automatically sunset. Annual reports on compact activity shall be submitted to the Armed Services Committees of both Houses.
 
+### Section 6-A. Law Enforcement Command Exclusivity
+
+*Resolves Gap 113 — "Emergency Pincer" via Local Law Enforcement. Prevents Two-Key circumvention through mass deputization of State and local police.*
+
+#### Enforcement Tier Exclusivity
+
+(a) **State and Local Command Exclusivity.** State and local law enforcement officers remain under the exclusive operational command of their respective State or local authorities:
+
+- (1) No federal agency, officer, or designee may command, direct, deputize, or operationally redirect State or local law enforcement officers without consent as required under subsection (b);
+- (2) "Deputization" includes any arrangement, designation, commission, or agreement that confers federal enforcement authority upon a State or local law enforcement officer or directs such officer to carry out federal enforcement objectives, regardless of whether characterized as voluntary, cooperative, or emergency;
+- (3) This subsection does not restrict federal law enforcement agencies from exercising their own statutory authorities with their own permanent, full-time personnel within any Region.
+
+(b) **Consent Requirement for Deputization.** Federal deputization or operational direction of State or local law enforcement requires:
+
+- (1) Written consent of the Regional Governor of the Region in which the deputized officers will operate;
+- (2) Written consent of the Governor of the State employing the officers;
+- (3) Either Governor may revoke consent with seventy-two (72) hours' notice to the deputizing federal authority, during which period an orderly operational wind-down shall occur, unless the ARB orders immediate cessation;
+- (4) Consent shall specify the purpose, geographic scope, and duration of the deputization, which may not exceed ninety (90) days without renewal of consent.
+
+(c) **Void Deputization.** Any federal deputization or operational direction of State or local law enforcement without the consents required under subsection (b):
+
+- (1) Is void and confers no federal authority upon the affected officers;
+- (2) Orders issued under void deputization are unenforceable, and no State or local officer may be disciplined, terminated, or prosecuted for refusing to comply;
+- (3) Actions taken by officers under void deputization are not actions under color of federal law and receive no federal immunity;
+- (4) Federal officials who knowingly issue or maintain void deputization orders are subject to the personal liability provisions of Article XI, Section 7(d).
+
+#### Two-Key Extension
+
+(d) **Two-Key Authorization for Mass Deputization.** Deputization of State or local law enforcement is subject to Two-Key authorization under Section 2(g) when:
+
+- (1) The aggregate number of deputized officers operating within a single Region, regardless of employing jurisdiction or deputizing arrangement, exceeds the greater of one hundred (100) or one (1) per one hundred thousand (100,000) of the Region's population;
+- (2) The deputized officers are directed to take enforcement actions against Regional or State government officials, institutions, or facilities;
+- (3) The deputization is functionally equivalent to military deployment as measured by the criteria of Section 6(d) of this Article, including scale, coordination, equipment, or coercive effect.
+
+(e) **Counter-Deputization Authority.** If federal deputization proceeds without required consent or Two-Key authorization:
+
+- (1) The Regional Governor may issue a Non-Cooperation Order directing all State and local law enforcement within the Region to refuse cooperation with the unauthorized deputization;
+- (2) The Regional Guard may establish defensive perimeters around Regional government facilities, infrastructure, and official records to prevent unauthorized entry by officers operating under void deputization;
+- (3) The Regional Governor or any affected State Governor may petition the ARB for immediate injunctive relief, which shall be determined within forty-eight (48) hours;
+- (4) Detention of officers operating under void deputization requires a judicial order or an ARB Emergency Order with expedited judicial ratification within twenty-four (24) hours; absent such order, Regional forces may employ only containment and redirection measures.
+
+(f) **De-Escalation and Mediation.** Conflicts between federally deputized and Regional or State law enforcement:
+
+- (1) Shall be immediately referred to the ARB for emergency mediation, consistent with the de-escalation framework of Article XII, Section 3;
+- (2) Pending ARB determination, all parties shall maintain current positions and refrain from offensive operations;
+- (3) The ARB determination is binding on all parties, subject to appeal to the Supreme Court;
+- (4) Failure to comply with a de-escalation order constitutes contempt enforceable under Article II, Section 7.
+
+#### Exceptions and Coordination
+
+(g) **Preserved Federal Authority.** This Section does not restrict:
+
+- (1) Federal law enforcement agencies operating under their own statutory authority with their own permanent, full-time personnel;
+- (2) Constitutional compliance enforcement under Section 2(j) of this Article by permanent, full-time employees of the United States Marshals Service; designation of more than twenty-five (25) Special or Temporary Deputy United States Marshals for operations within a single Region is subject to Two-Key authorization under subsection (d);
+- (3) Federal extradition enforcement under Article I, Section 12(r)-(w);
+- (4) Joint task forces in which State or local officers voluntarily participate, provided: (i) the memorandum of understanding governing the task force has been in effect for not less than one hundred eighty (180) days prior to the events giving rise to the deputization; (ii) participation does not expand in personnel or mission scope during the event beyond the terms of the pre-existing agreement; (iii) the ARB receives notice within forty-eight (48) hours of any task force activation during a declared emergency; and (iv) the participating officers' operational chain of command remains with their employing agency.
+
+(h) **Functional Classification Trigger.** If a body of deputized State or local law enforcement officers meets the functional classification criteria of Section 6(d), such force shall be classified and regulated as a Regional Guard Force under Section 1(c), including subjection to all Two-Key requirements, civilian control requirements, and prohibited use restrictions of this Article and Article XI.
+
 ### Section 7. Cyber Operations with Domestic Effect
 
 *Resolves Gap 102 — The "Emergency Loophole" for Information Warfare.*
