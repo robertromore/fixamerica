@@ -136,9 +136,9 @@ If adopted, the DLRS mechanism would be incorporated into the Regional Federal C
 - Potential for wealthy Regions to dominate cooperative arrangements.
 
 **Status:**
-Mitigated by constitutional framework ([Article I, Section 5](../../02-design/constitution/00-index.md)) establishing basic requirements (governance structure, cost-sharing, dispute resolution, withdrawal procedures). Detailed implementation left to participating Regions and enabling legislation.
+Accepted by Design. The constitution provides extensive inter-Regional cooperation infrastructure across 13+ provisions: Art I §5 (core cooperation framework with governance, cost-sharing, dispute resolution, withdrawal), Art I §6 (transit rights and non-blockade), Art I §7 (Water Resources Coordination Board), Art I §8 (freedom of movement), Art I §9 (mutual recognition and credential portability), Art I §§10-11 (environmental coordination and shared resources), Art I §12 (law enforcement cooperation), Schedule A(f) (small Region cooperation requirements), Art X §3 (fiscal equalization enabling cooperation), Art XXI §7(k)-(m) (inter-Regional technical assistance with brain-drain safeguards), and Art XX §3(d) (tribal-Regional mandatory compacts).
 
-This gap is low severity because voluntary cooperation supplements rather than replaces the primary constitutional architecture, and is highly mitigable through statutory frameworks and inter-regional practice.
+The remaining implementation details (governance structures for multi-regional institutions, fiscal arrangements for shared programs, accountability mechanisms for joint bodies) are appropriately delegated to legislation and inter-Regional practice. This is proper federalism — the constitution provides the framework and constraints while leaving operational details to the political process. Voluntary cooperation supplements rather than replaces the primary constitutional architecture.
 
 ---
 

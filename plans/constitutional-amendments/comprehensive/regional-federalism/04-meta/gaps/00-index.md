@@ -69,7 +69,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 6 | Political party evolution (machine/cartelization risk) | Medium | Accepted by Design |
 | 7 | Implementation act dependency and statutory capture (universal anti-obstruction, poison pill prohibition, 15-year supermajority protection with phase-in, institutional independence floor, appropriations protection, default escalation, anti-gaming provisions) | Medium | ✅ Resolved |
 | 8 | Rights-floor content and enforcement detail (Dual-Legitimacy Rights-Floor Statute) | Medium | Proposal Available |
-| 16 | Inter-regional cooperation mechanisms | Low | Partially Mitigated |
+| 16 | Inter-regional cooperation mechanisms — extensive framework across Art I §§5-12, Schedule A(f), Art X §3, Art XXI §7(k)-(m), Art XX §3(d); remaining implementation details appropriately delegated to legislation and inter-Regional practice | Low | Accepted by Design |
 | 17 | Inter-regional infrastructure coercion | Medium | ✅ Resolved |
 | 18 | Water rights and shared waterways | High | ✅ Resolved |
 | 19 | Freedom of movement between regions | High | ✅ Resolved |
