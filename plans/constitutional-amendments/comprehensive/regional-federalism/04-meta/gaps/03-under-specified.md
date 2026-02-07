@@ -509,10 +509,9 @@ See [Contested Domains Guidance](../../proposals/01-foundations/contested-domain
 - Sex offenders disappearing by moving across regional lines.
 - Parole violations difficult to enforce across boundaries.
 
-**Status:**
-Partially addressed with **PROPOSAL AVAILABLE**. Extradition and mutual legal assistance provide foundation, but detailed coordination requires implementation legislation.
+**Status:** **RESOLVED** — Already Integrated. The proposal file itself confirms "No constitutional amendment required." Constitutional framework provides: Art I §12(a) cooperation mandate, §12(f) no sanctuary, §12(h) witness compulsion, §12(i) anti-evasion, §12(k) ARB mediation, §12(r)-(w) federal extradition enforcement, Art I §9 Full Faith and Credit, Art I §13 compact authority, Art IV §8-9 conviction prerequisite and extradition shield. Remaining coordination is appropriately statutory.
 
-See [Criminal Justice Coordination Framework](../../proposals/06-security-justice/criminal-justice-coordination.md) for criminal records coordination, sentence/supervision transfer, sex offender registry coordination, and victim notification provisions.
+See [Criminal Justice Coordination Framework](../../proposals/06-security-justice/criminal-justice-coordination.md) for implementing legislation.
 
 ---
 

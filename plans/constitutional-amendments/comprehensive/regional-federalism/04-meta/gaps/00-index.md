@@ -295,7 +295,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 26 | Digital/AI governance framework (AI governance, algorithmic accountability, digital identity, emerging tech coordination) | Medium | ✅ Resolved |
 | 27 | Tribal-Regional relations | High | Resolved |
 | 28 | Nuclear facilities and hazardous materials governance (nuclear plant siting, hazmat transport, waste storage, cross-boundary emergency zones) | Medium | ✅ Resolved |
-| 31 | Criminal justice coordination beyond extradition | Medium | Proposal Available |
+| 31 | Criminal justice coordination beyond extradition (sentence portability, records, sex offender registry, parole transfer) | Medium | ✅ Resolved |
 | 57 | Compact enforcement and dispute resolution | Medium | Partially Mitigated |
 | 58 | Geographic defense penalty (defense burden asymmetry) | Medium | ✅ Resolved |
 | 59 | State-Regional preemption deadlock (vertical supremacy vacuum) | Medium | ✅ Resolved |

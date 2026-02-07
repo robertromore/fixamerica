@@ -125,10 +125,17 @@ RESOLVED. All four gap components are addressed by existing constitutional provi
 - Sex offenders disappearing by moving across regional lines.
 - Parole violations difficult to enforce across boundaries.
 
-**Status:**
-Partially addressed with **PROPOSAL AVAILABLE**. Extradition and mutual legal assistance provide foundation, but detailed coordination requires implementation legislation.
+**Status:** **RESOLVED** — Already Integrated. The proposal file itself confirms "No constitutional amendment required." All four gap components are covered by existing constitutional provisions or are appropriately statutory:
 
-See [Criminal Justice Coordination Framework](../../proposals/06-security-justice/criminal-justice-coordination.md) for criminal records coordination, sentence/supervision transfer, sex offender registry coordination, and victim notification provisions.
+| Gap Component | Constitutional Coverage |
+|---------------|----------------------|
+| Sentence portability | Art I §12(a) (cooperation mandate), §12(i) (anti-evasion — no Region may adopt procedures that create safe harbor), Art I §9 (Full Faith and Credit — judgments, records, proceedings) |
+| Criminal records portability | Art I §9 (Full Faith and Credit for judicial proceedings and records), Art I §12(h) (witness compulsion across boundaries) |
+| Sex offender registry coordination | Art I §12(a) (cooperation mandate), §12(f) (no sanctuary — may not shield persons from lawful proceedings), §12(r)-(w) (federal extradition enforcement with escalating remedies) |
+| Parole/probation supervision | Art I §12(a) (cooperation mandate), §12(i) (anti-evasion), §12(k) (ARB mediation for disputes), Art I §13 (compact authority for implementation agreements) |
+| Institutional enforcement | Art I §12(r)-(w) (federal enforcement escalation: notice → judicial order → federal marshals → contempt → receivership), Art IV §8-9 (conviction prerequisite and extradition shield) |
+
+Remaining coordination details (database formats, interstate transfer agreements, registry protocols) are appropriately statutory. See [Criminal Justice Coordination Framework](../../proposals/06-security-justice/criminal-justice-coordination.md) for implementing legislation.
 
 ---
 
