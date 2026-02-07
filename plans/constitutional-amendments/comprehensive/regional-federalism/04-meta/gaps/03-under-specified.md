@@ -317,10 +317,9 @@ Article XI (Armed Forces amendment) establishes divided military command between
 - Lack of uniform training or accountability standards creates variation in professionalism.
 - Guards used against peaceful protests or political opposition.
 
-**Status:**
-Under-specified but **PROPOSAL AVAILABLE**. Federal forces have multi-key authorization requirements, but Regional Guard accountability relies on regional constitutions and political norms.
+**Status:** **RESOLVED** — Already Integrated. The standalone Military Civilian Control Amendment (Art XI §§4-5, 7) provides all constitutional-level protections: prohibited uses (§4(a)(1)-(8)), duty to refuse (§5), transparency/IG (§7), cause of action with no qualified immunity (§7(d)). Art XI-RF §§1-3 add Governor command, force classification, and registry/inspections. Compatibility Clause applies all provisions to Regional Guard Forces. Remaining details (training, regional IG, use-of-force policies) are appropriately statutory.
 
-See [Regional Guard Force Accountability Proposal](../../proposals/06-security-justice/regional-guard-accountability.md) for constitutional floor provisions establishing civilian oversight, prohibited uses, accountability mechanisms, and training standards.
+See [Regional Guard Force Accountability Proposal](../../proposals/06-security-justice/regional-guard-accountability.md) for implementing legislation.
 
 ---
 

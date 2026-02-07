@@ -21,10 +21,21 @@ Article XI (Armed Forces amendment) establishes divided military command between
 - Lack of uniform training or accountability standards creates variation in professionalism.
 - Guards used against peaceful protests or political opposition.
 
-**Status:**
-Under-specified but **PROPOSAL AVAILABLE**. Federal forces have multi-key authorization requirements, but Regional Guard accountability relies on regional constitutions and political norms.
+**Status:** **RESOLVED** — Already Integrated. The standalone Military Civilian Control Amendment (Art XI) provides all constitutional-level protections via the Compatibility Clause, which applies these provisions to Regional Guard Forces when adopted alongside Regional Federalism:
 
-See [Regional Guard Force Accountability Proposal](../../proposals/06-security-justice/regional-guard-accountability.md) for constitutional floor provisions establishing civilian oversight, prohibited uses, accountability mechanisms, and training standards.
+| Gap Component | Constitutional Coverage |
+|---------------|----------------------|
+| Civilian control floor | Art XI-RF §1(b) (Governor command), §1(c) (force classification), Compatibility Clause (civilian supremacy) |
+| Prohibited uses (suppress protest, election interference, surveillance, immigration) | Art XI §4(a)(1)-(8) — covers all four proposed prohibitions |
+| Duty to refuse unlawful orders | Art XI §5(a)-(e) — comprehensive, with expedited procedures |
+| Accountability / no qualified immunity | Art XI §7(d) — stronger than proposal: NO qualified immunity for violations + cause of action for damages |
+| Independent investigations | Art XI §7(c) (DoD IG) + Art XI-RF §3 (registry, annual inspections, compliance certification) |
+| Transparency / reporting | Art XI §7(a)-(b) (48-hour deployment reporting with detailed content) |
+| No secret detention | Art XI §4(a)(5) (detention only via Act of Congress + judicial review) |
+| Inter-Regional mutual aid | Art XI-RF §6 + §8(j) (standing defense mutual aid compact) |
+| Enforcement / standing / damages | Art XI §7(d) (cause of action, no qualified immunity) |
+
+Remaining implementation details (annual training, regional IG, use-of-force policies) are appropriately statutory. See [Regional Guard Force Accountability Proposal](../../proposals/06-security-justice/regional-guard-accountability.md) for implementing legislation.
 
 ---
 
