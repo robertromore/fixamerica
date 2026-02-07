@@ -114,7 +114,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 72 | Equalization cliff sabotage (Inverted Default Incentive) | High | ✅ Resolved |
 | 80 | Revenue volatility from commodity-dependent regions | Medium | Partially Mitigated |
 | 93 | Race to the bottom (regional tax subsidy) — predatory subsidy enforcement: relocation disclosure, ARB predation petition, 3-year equalization deduction, ceiling escrow/redistribution, whistleblower expansion | Medium | ✅ Resolved |
-| 94 | Healthcare cost variation and cross-regional care | High | Partially Mitigated |
+| 94 | Emergency debt issuance and fiscal sovereignty (regional debt ceilings, perpetual emergency borrowing, Too Big to Fail extortion, intergenerational debt protection) | High | ✅ Resolved |
 | 107 | Ghost residency and equalization formula gaming (183-day physical presence, minimum tax effort, phantom revenue, anti-haven, corporate apportionment by economic presence, IST population certification, forensic cross-verification) | Medium | ✅ Resolved |
 | 110 | Property tax base divergence | Low | Requires Monitoring |
 | 112 | Budgetary midnight (sequestration) | Medium | ✅ Resolved |

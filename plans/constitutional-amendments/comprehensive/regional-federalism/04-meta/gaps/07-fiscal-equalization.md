@@ -1563,7 +1563,7 @@ The design ensures each level has "independent taxing authority" but is silent o
 - **Gap 91 (Emergency Nesting):** Emergency power abuse; Gap 94 addresses emergency debt abuse
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article X-RF, Section 5. This four-part solution establishes Regional debt ceilings (15% GDP standard, 25% absolute) with IFC emergency authorization, creates graduated debt sustainability monitoring with warning thresholds, commits to federal no-bailout rule with structured bankruptcy and corridor protection, and protects future generations through debt service ceiling and maturity requirements.
+**RESOLVED.** All four components already integrated into Art X §6(a)-(n) plus supporting provisions §6(o)-(p) (off-balance-sheet controls), §7(b) (conservatorship), §8 (receivership). Constitutional text matches or exceeds proposal: debt ceilings §6(a)-(d) (15% GDP standard, 25% absolute with IFC authorization), graduated monitoring §6(e)-(g) (75/90/95% warning thresholds), market disclosure §6(h), federal no-bailout §6(i) (expanded with exceptions for stabilization/liquidity), structured bankruptcy §6(j) (expanded with creditor voting and pension priority), corridor protection §6(k), debt service ceiling §6(l) (15% revenue), intergenerational protection §6(m)-(n) (IFC equity assessment, 20-year maturity).
 
 ---
 
