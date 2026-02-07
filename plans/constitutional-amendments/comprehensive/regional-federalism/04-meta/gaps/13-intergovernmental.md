@@ -3427,7 +3427,7 @@ The framework is silent on the status of Senators during Regional Boundary Revis
 - **Gap 126 (Census Emergency):** Boundary revision gaming; Gap 127 addresses post-revision gaming
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article IV-RF, Section 3. This four-part solution establishes automatic seat vacation upon boundary revision, enables immediate new Regional representation through interim appointments, creates transition quorum rules, and prohibits holdover claims with enforcement mechanisms.
+**RESOLVED.** Resolved as part of the Gap 11 (Boundary Revision Ossification) resolution cycle. Holdover Senate provisions integrated into the boundary revision governance framework. Per briefing-gap-011.md: "Gap 127 (Holdover Senate after boundary revision) | High | RESOLVED | Consequential — ensures boundary changes take effect in Senate." Four-part solution (automatic seat vacation, interim appointments, transition quorum, holdover prohibition) constitutionalized.
 
 ---
 

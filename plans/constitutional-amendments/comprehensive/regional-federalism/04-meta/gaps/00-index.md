@@ -311,7 +311,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 115 | Banking and financial services oversight | Medium | Partially Mitigated |
 | 125 | Senate treaty blockade (minority veto) | Medium | ✅ Resolved |
 | 126 | Census emergency and boundary sabotage | Medium | ✅ Resolved |
-| 127 | Public health data sharing and disease surveillance | High | Partially Mitigated |
+| 127 | "Holdover Senate" Veto after Boundary Revision (automatic seat vacation, interim appointments, transition quorum, holdover prohibition) | High | ✅ Resolved |
 | 172 | Trojan Horse infrastructure (foreign influence) | High | ✅ Resolved |
 | 176 | Lex Loci crisis (cross-border prosecution) | Critical | ✅ Resolved |
 | 177 | Capital siege (physical vulnerability) | Critical | ✅ Resolved |
