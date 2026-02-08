@@ -3616,7 +3616,7 @@ Article I, Section 9 grants Regions authority over professional licensing and "r
 - **Gap 85 (Regional Safe-Haven):** Enforcement avoidance; Gap 135 addresses administrative enforcement barriers
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article II-RF, Section 1. This three-part solution establishes federal credential supremacy over Regional licensing, creates ARB obstruction identification with immediate suspension, and imposes facilitation duty on Regions with civil rights liability for obstruction.
+**RESOLVED.** Implemented as Art II §1(f) — Federal Enforcement Operational Immunity. Six-part solution: (1) Credential Supremacy with ancillary services coverage; (2) ARB Obstruction Identification with disjunctive test and immediate suspension (14-day appeal); (3) Non-Obstruction Duty with three-part neutrality test for generally applicable codes; (4) Pattern Obstruction escalation (2 in 5 years); (5) Limitations preserving criminal law, tort liability, and §14 independence; (6) Mutual Recognition interaction clause. See [briefing](briefing-gap-135.md).
 
 ---
 
@@ -3718,7 +3718,7 @@ While Article I, Section 9 (Mutual Recognition) and Gap 135 (Federal Enforcement
 - **Gap 85 (Regional Safe-Haven):** Enforcement resistance; Gap 136 addresses officer intimidation
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article I-RF, Section 11. This three-part solution establishes professional immunity for constitutional service covering all credentials, defines protected actions to include all federal duties, and provides immediate injunctive relief with federal preemption for pattern abuse.
+**RESOLVED.** Implemented as Art I-RF §14(a)-(c) — Professional Credential Protection (Federal Officers). Three-part solution: (a) Professional Immunity for Constitutional Service covering all credentials; (b) Protected Actions definition including all federal duties; (c) Immediate Injunctive Relief with federal preemption for pattern abuse. Note: originally proposed as §11; integrated at §14 during constitutional text consolidation.
 
 ---
 
@@ -3991,7 +3991,7 @@ While Gap 136 protects federal officers from license retaliation, Regions could 
 - **Gap 119 (Information Sequestration):** Access blocking; Gap 141 addresses cooperation blocking
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article I-RF, Section 11. This three-part solution extends cooperation immunity to private professionals, prohibits retaliation with treble damages and federal preemption, and establishes affirmative cooperation duty superseding Regional ethics rules.
+**RESOLVED.** Implemented as Art I-RF §14(d)-(f) — Private Sector Cooperation Immunity. Three-part solution: (d) Cooperation Immunity extending protection to private professionals; (e) Anti-Retaliation with treble damages and federal preemption; (f) Affirmative Cooperation Duty superseding Regional ethics rules. Note: originally proposed as §11; integrated at §14 during constitutional text consolidation.
 
 ---
 

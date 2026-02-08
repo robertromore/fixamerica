@@ -319,11 +319,11 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 126 | Census emergency and boundary sabotage | Medium | ✅ Resolved |
 | 127 | "Holdover Senate" Veto after Boundary Revision (automatic seat vacation, interim appointments, transition quorum, holdover prohibition) | High | ✅ Resolved |
 | 134 | The "Metro-Balkanization" Loophole | High | ✅ Resolved — Art I-RF §3-A(c)(4)-(5) and §3-A(i). Population deviation limit (15%), anti-entrenchment clause, democratic compliance with Senate seating consequences. [Briefing](briefing-gap-134.md) |
-| 135 | Regional "Licensing" of Federal Operations | High | Proposal Available |
-| 136 | Personal Coercion of Federal Officers via Regional Licensing | High | Proposal Available |
+| 135 | Regional "Licensing" of Federal Operations | High | ✅ Resolved — Art II §1(f). Federal Enforcement Operational Immunity: credential supremacy, ARB obstruction identification, non-obstruction duty, pattern obstruction escalation. [Briefing](briefing-gap-135.md) |
+| 136 | Personal Coercion of Federal Officers via Regional Licensing | High | ✅ Resolved — Art I-RF §14(a)-(c). Professional Credential Protection: immunity for federal officers' personal professional licenses from Regional retaliation |
 | 139 | State-Level "Abolition" of Cooperating Sub-units | High | Proposal Available |
 | 140 | The "Resident Alien" Apportionment Divergence | Medium | Proposal Available |
-| 141 | The "Professional Ethics" Pincer (Private Sector Cooperation) | High | Proposal Available |
+| 141 | The "Professional Ethics" Pincer (Private Sector Cooperation) | High | ✅ Resolved — Art I-RF §14(d)-(f). Private Sector Cooperation Immunity: protects private professionals cooperating with federal oversight from Regional licensing retaliation |
 | 143 | The "Utility Siege" of Federal Assets | High | Proposal Available |
 | 146 | The "Administrative Exhaustion" Veto | High | Proposal Available |
 | 148 | The "Sub-State Secession" Legal Vacuum | Medium | Proposal Available |
