@@ -121,7 +121,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 123 | "Automatic Fiscal Continuation" as Hostage Tool | High | ✅ Resolved — Art X §19(p)-(r): Emergency Fiscal Adjustment Authority, Inflation Indexing for Continuation, Appropriation Floor for Government Functions |
 | 124 | Internal tax haven arbitrage (zero-tax magnet, subsidized poaching, effort-laundering, mobile factor floor) | Medium | ✅ Resolved |
 | 133 | "Strategic Incompetence" as a Federal Cost-Shift | Medium | Proposal Available |
-| 137 | "Financial Dumping" via Mutual Recognition | High | Proposal Available |
+| 137 | "Financial Dumping" via Mutual Recognition | High | Resolved |
 | 138 | The "Double-Taxation" Border Blockade | Medium | Proposal Available |
 | 147 | "Financial Contagion" as Coercive Leverage | High | Proposal Available |
 | 170 | Fiscal cliff hostage (weaponized shutdowns) | Critical | ✅ Resolved |

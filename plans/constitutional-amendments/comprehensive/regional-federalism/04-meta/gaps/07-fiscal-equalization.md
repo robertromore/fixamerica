@@ -2385,7 +2385,7 @@ Article I, Section 9 requires Regions to recognize business registrations and le
 - **Gap 129 (Data Poisoning):** Audit manipulation; Gap 137 addresses financial data integrity
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article X-RF, Section 6. This three-part solution establishes IFC solvency certification as prerequisite for mutual recognition of financial instruments, sets asset quality floors for interstate recognition, and creates automatic contagion firewall upon systemic risk events.
+**RESOLVED.** Implemented as Art X-RF §6(u)-(w) — Financial Instrument Recognition and Contagion Prevention — establishing proactive solvency certification with mid-cycle triggers, constitutionally mandated asset quality floors with anti-repackaging and private conduit vehicle piercing, and automatic contagion firewalls with tiered stress-testing. Additional explicit carve-out added as Art I-RF §9(ee) — Financial Instrument Carve-Out. See [briefing-gap-137.md](briefing-gap-137.md).
 
 ---
 

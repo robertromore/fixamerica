@@ -1530,6 +1530,12 @@ Whether a program is "designed, targeted, or structured to affect electoral outc
 
 (3) The Department of Justice shall have authority to bring enforcement actions against Regions that systematically discriminate against out-of-Region infrastructure workers. A pattern of three (3) or more substantiated complaints as determined by the Allocation Review Board within twelve (12) months creates a rebuttable presumption of systematic discrimination.
 
+#### Financial Instrument Carve-Out
+
+*[Resolves Gap 137 — "Financial Dumping" via Mutual Recognition.]*
+
+(ee) **Financial Instrument Carve-Out.** Interstate recognition of financial instruments — including bonds, notes, certificates, and any obligation issued by or guaranteed by a Regional government, Regional Development Bank, or Regional instrumentality — is governed exclusively by Article X-RF, Section 6, subsections (u) through (w), and is not subject to the general mutual recognition requirements of this Section. No financial instrument may claim recognition under subsection (b) or any other provision of this Section as an alternative to compliance with the solvency certification and asset quality requirements of Article X-RF, Section 6. This carve-out does not affect the recognition of general business registrations, corporate registrations, or property titles under subsection (b), except insofar as such registrations are used as a vehicle for obtaining interstate recognition of financial instruments that would otherwise be subject to Article X-RF, Section 6(u)-(w).
+
 ---
 
 ### Section 10. Data Sovereignty and Critical Governance Data
