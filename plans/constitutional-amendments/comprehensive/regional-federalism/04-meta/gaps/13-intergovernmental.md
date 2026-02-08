@@ -4109,7 +4109,7 @@ Federal property (military bases, research facilities, national parks) exists wi
 - **Gap 128 (Mercenary Proxy):** Private actor obstruction; Gap 143 addresses utility company obstruction
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article II-RF, Section 8. This three-part solution establishes federal utility priority equal to emergency services, authorizes federal self-provision upon obstruction finding, and creates utility siege determination with criminal accountability.
+**RESOLVED.** Art II-RF §10(n)-(p). Emergency Utility Priority and Self-Provision: emergency-services parity (quantity, quality, circuit integrity), imminent grid stability exception, 30-day duration cap with ARB recertification, federal self-provision authority (water/power/waste/telecom with NRC and federal safety gates), Utility Siege finding with category-specific emergency-power suspension, interim ARB orders, and escalating consequences. See [briefing](briefing-gap-143.md).
 
 ---
 

@@ -324,7 +324,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 139 | State-Level "Abolition" of Cooperating Sub-units | High | ✅ Resolved — Art II-RF §3-B. Sub-Unit Cooperation Protection: interim protection on notice delivery, ministerial registration with scope review, prohibited State actions with suspension-as-applied remedy, legitimate restructuring with but-for test and binding successor commitment, State Bad Faith Finding with escalating consequences, deregistration procedure, transition provision. Satisfies §4(l) Local Autonomy Floor reference. [Briefing](briefing-gap-139.md) |
 | 140 | The "Resident Alien" Apportionment Divergence | Medium | Proposal Available |
 | 141 | The "Professional Ethics" Pincer (Private Sector Cooperation) | High | ✅ Resolved — Art I-RF §14(d)-(f). Private Sector Cooperation Immunity: protects private professionals cooperating with federal oversight from Regional licensing retaliation |
-| 143 | The "Utility Siege" of Federal Assets | High | Proposal Available |
+| 143 | The "Utility Siege" of Federal Assets | High | ✅ Resolved — Art II-RF §10(n)-(p). Emergency Utility Priority and Self-Provision: emergency-services parity with quality/quantity/circuit integrity, imminent grid stability exception, 30-day duration cap with ARB recertification, federal self-provision authority (water/power/waste/telecom with NRC/federal safety gates), Utility Siege finding with category-specific suspension and interim ARB orders. [Briefing](briefing-gap-143.md) |
 | 146 | The "Administrative Exhaustion" Veto | High | Proposal Available |
 | 148 | The "Sub-State Secession" Legal Vacuum | Medium | Proposal Available |
 | 172 | Trojan Horse infrastructure (foreign influence) | High | ✅ Resolved |
