@@ -4225,7 +4225,7 @@ Article I, Section 9 requires mutual recognition and cooperation, but the framew
 - **Gap 83 (Infrastructure Decay):** Passive obstruction; Gap 146 addresses active delay tactics
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article I-RF, Section 9. This four-part solution establishes hard deadlines with constructive approval default, prohibits circumvention tactics, and creates escalating consequences for pattern delay behavior.
+**RESOLVED.** Constitutional amendments added as Art I-RF §9(ff)-(ii) — Administrative Shotclock Framework. Four-tier deadlines (120/180/270/365 days) with objective project-characteristic definitions, constructive approval on expiration, good-faith progress exception, Emergency Safety Stay, deadline notice, conclusivity, exclusive jurisdiction, applicant good faith. Deadline Integrity with 8 prohibited circumvention tactics, concurrent processing transparency, requirements lock, safety data exception, novel regulatory question resolution, pretextual denial, pattern administrative obstruction with multi-path thresholds, cross-category and concerted obstruction aggregation. Delay Challenge with expedited review, Provisional Approval, escalating consequences through federal agency permitting transfer with ARB oversight, judicial review, voluntary Regional expansion. See [briefing-gap-146.md](../gaps/briefing-gap-146.md).
 
 ---
 
