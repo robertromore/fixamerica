@@ -2594,7 +2594,7 @@ Article X allows Regions to borrow and maintain Regional Development Banks to fu
 - **Gap 137 (Financial Dumping):** Financial contagion; Gap 147 addresses intentional contagion
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article X-RF, Section 8. This four-part solution establishes mandatory fiscal limits, automatic conservatorship upon breach, prohibits coercive leverage tactics, and creates orderly resolution authority without unlimited bailouts.
+**RESOLVED.** Art X-RF §7(c)(5)-(12) and §6(w)(7): Intentional Fiscal Coercion Framework expanding existing anti-extortion provisions with operational finding process, evidentiary indicators, coordinated coercion prohibition, market manipulation surveillance, remedy proportionality, due process protections, counter-cyclical safe harbor, personal accountability, and integration with §6(u)-(w) financial monitoring.
 
 ---
 

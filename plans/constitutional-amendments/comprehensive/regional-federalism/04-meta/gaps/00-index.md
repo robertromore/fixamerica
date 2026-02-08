@@ -123,7 +123,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 133 | "Strategic Incompetence" as a Federal Cost-Shift | Medium | Proposal Available |
 | 137 | "Financial Dumping" via Mutual Recognition | High | Resolved |
 | 138 | The "Double-Taxation" Border Blockade | Medium | Proposal Available |
-| 147 | "Financial Contagion" as Coercive Leverage | High | Proposal Available |
+| 147 | "Financial Contagion" as Coercive Leverage | High | Resolved |
 | 170 | Fiscal cliff hostage (weaponized shutdowns) | Critical | ✅ Resolved |
 | 193 | Tax haven parasite (fiscal cannibalism) | High | ✅ Resolved |
 | 194 | Dole loophole (spending power coercion) | Critical | ✅ Resolved |
