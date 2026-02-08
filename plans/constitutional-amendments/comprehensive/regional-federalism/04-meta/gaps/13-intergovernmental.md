@@ -3815,7 +3815,7 @@ Article II, Section 3 reserves "local government law" to the States, and Gap 96 
 - **Gap 99 (Tribal Veto):** Third-party project obstruction; Gap 139 addresses State-level project obstruction
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article II-RF, Section 3. This three-part solution establishes unit continuity protection triggered by ARB registration, prohibits State dissolution and charter revocation during Regional projects, and imposes successor liability with State Bad Faith finding for pattern abuse.
+**RESOLVED.** Article II-RF, Section 3-B (Sub-Unit Cooperation Protection). Four-part solution: (a) Project Continuity Protection with interim protection on notice delivery, 14-day notice period, ministerial ARB registration with scope review, and anti-retaliation 90-day lookback; (b) Prohibited State Actions with five-part disjunctive test including parallel authority prohibition, "suspended as applied" remedy, legitimate restructuring with objective "but-for" criteria and binding successor commitment; (c) Successor Liability with capacity assurance, State Bad Faith Finding (2 in 5 years or 2+ projects impacted) with escalating consequences including Full Preemption reclassification for second finding, deregistration procedure with cure period and State-causation attribution, and interaction clause satisfying §4(l)'s "Local Autonomy Floor" reference; (d) Transition provision for pre-ratification agreements. See [briefing](briefing-gap-139.md).
 
 ---
 
