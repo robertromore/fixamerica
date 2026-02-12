@@ -57,7 +57,7 @@ Common citation errors to avoid:
 - Articles VII, XIV, XV, XVI, XVII are **standalone amendments** in `single-topic/`, not in this directory
 - Article II, Section 5 establishes the ARB (not Article XIV)
 - Article I, Section 7 establishes the Water Court (not Article XIV)
-- DLRS is a **proposal** (proposed Article III, Section 4), not yet in the Constitution
+- DLRS is **Article III, Section 10** (Dual-Legitimacy Rights-Floor Statute)
 
 ---
 

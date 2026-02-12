@@ -94,25 +94,20 @@ Actual floor definitions require implementation legislation and judicial interpr
 - Political conflict over floor content may replicate current nationalized battles.
 
 **Status:**
-**PROPOSAL AVAILABLE.** The Dual-Legitimacy Rights-Floor Statute (DLRS) mechanism has been developed as a proposed sub-constitutional process for establishing rights floors. See the [DLRS Proposal](../../proposals/01-foundations/dual-legitimacy-rights-floor-statute.md) for the full mechanism, which would:
+**RESOLVED.** The Dual-Legitimacy Rights-Floor Statute (DLRS) mechanism has been incorporated into the Regional Federal Constitution as **Article III, Section 10** (subsections (a)-(jj)), with a surgical amendment to **Article II, Section 3-A(a)(iii)** recognizing DLRS-established rights as enumerated. Key features:
 
-- Require dual consent (national popular referendum + two-thirds of Regions)
-- Limit floor-setting to five enumerated domains (voting, due process, anti-discrimination, labor, public integrity)
-- Establish a ratchet mechanism (floors can be raised by DLRS but lowered only by constitutional amendment)
-- Provide clear floor/ceiling distinction criteria to prevent scope creep
-- Include comprehensive procedural safeguards covering:
-    - Regional ratification duty with abstention-neutral rules
-    - Emergency non-suspension
-    - DLRS conflicts resolution
-    - Pre-ratification review limitations
-    - IEC transparency requirements
-    - Ballot language and referendum administration
-    - Minority rights protection
-    - Treaty obligations consistency
+- Dual consent (national popular referendum + two-thirds of Regions) for establishing or raising floors
+- Five enumerated domains (voting, due process, anti-discrimination, labor, public integrity); expansion requires constitutional amendment
+- Two-tier ratchet: raise by standard dual consent; lower only by elevated dual consent (60% referendum + 3/4 Regions); ordinary legislation cannot touch floors
+- Sunset limitations: substantive floors cannot sunset; sunsets permitted only for funding, administrative bodies, and pilot programs
+- Effective compliance standard: functional implementation, not merely formal legal conformity
+- Mandatory appropriation for DLRS administration and enforcement, cross-referenced to Art XXI §2-A
+- ARB determines substantial similarity for cooling-off period with de novo judicial review
+- Tribal provisions harmonized with Art XXIII §11 (partial consent, same consent/revocation process)
 
-If adopted, the DLRS mechanism would be incorporated into the Regional Federal Constitution as Article III, Section 4. The proposal includes model floor examples and hostile reinterpretation stress testing.
+See the [DLRS Proposal](../../proposals/01-foundations/dual-legitimacy-rights-floor-statute.md) for implementing guidance, model floor examples, and hostile reinterpretation stress testing. See [briefing-gap-008.md](../../04-meta/gaps/briefing-gap-008.md) for the full resolution analysis.
 
-**Residual risk:** Even if adopted, DLRS process may still generate political conflict, and the five enumerated domains do not cover all areas where floor content is contested (e.g., bodily autonomy, gun rights). Expansion of domains would require constitutional amendment.
+**Residual risk:** DLRS process may still generate political conflict, and the five enumerated domains do not cover all areas where floor content is contested (e.g., bodily autonomy, gun rights). Expansion of domains requires constitutional amendment.
 
 ---
 
