@@ -213,8 +213,8 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | Gap # | Description | Severity | Mitigation Status |
 |-------|-------------|----------|-------------------|
 | 35 | Private Infrastructure Dependencies — federal injunction against private blockade (§6(kk)), proxy attribution (§6(ii)-(jj)), cost-plus rate regulation (§6(k)-(v)), federal operational assumption (§6(o)), foreign ownership controls (§6(ll)-(oo)), NITS transparency (§6(q)-(t)), monopoly rents (Art IV §8(c)) | Medium | ✅ Resolved |
-| 50 | The "Safety Add-On" Protectionism Trap (regulatory labor barriers) | Medium | Proposal Available |
-| 65 | Regional "Credentialing Protectionism" | Medium | Proposal Available |
+| 50 | The "Safety Add-On" Protectionism Trap (regulatory labor barriers) — Divergence Declaration Framework (jj), Market Entry Disparity Standard with RPPP adjustment (kk), Coordinated Barrier Prohibition with population-weighted triggers (ll), Annual Benchmark Publication with mid-year challenge and graduated escalation (mm), all at Art I-RF §9(jj)-(mm) | Medium | ✅ Resolved |
+| 65 | Regional "Credentialing Protectionism" — substantially resolved by existing Art I §9(g)-(u) credential protections; residual elements (national credential floor, portability fund) deferred to legislation; non-credential barriers addressed by Gap 50 resolution at §9(jj)-(mm) | Medium | ✅ Resolved |
 | 66 | "Regulatory Dumping" via State-Level Deregulation (Remedial Supremacy) — substantial frustration standard, implied private enforcement with express opt-out, Regional court jurisdiction, federal court backstop, non-waivable protections with reasoned-basis requirement, anti-clawback, ARB review with exhaustion/frivolousness gating, domain-limited repeat offender escalation | High | ✅ Resolved |
 | 67 | Infrastructure ransom vector | Medium | ✅ Resolved |
 | 75 | Interregional transit fee-gouging loophole | Medium | ✅ Resolved |

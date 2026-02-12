@@ -204,7 +204,7 @@ For coordinated adoption (3+ Regions, 24 months):
 | **Axiom 7 (Law Must Move Faster)** | Automatic decertification; no waiting for ARB proceedings |
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article III, Sections 3(f) through 3(i). This four-part solution preserves legitimate safety regulation while preventing soft protectionism through regulatory complexity.
+**RESOLVED.** Constitutional amendments adopted at Article I-RF, Section 9(jj)-(mm) — "Labor Market Mobility Protection." Four-part solution: (jj) Divergence Declaration Framework with legislative approval, bridge pathway caps indexed to Regional median wage, 5-year sunset, cumulative limits, sub-Regional accountability, and emergency-declaration prohibition; (kk) Market Entry Disparity Standard with 20% RPPP-adjusted threshold, Validated National Floor for Critical Shortage occupations, ARB Decertification Notices, private right of action, and cumulative total-cost cap; (ll) Coordinated Barrier Prohibition with population-weighted triggers and safe harbors for federal standards; (mm) Annual Benchmark Publication with mid-year challenge mechanism and graduated data-concealment escalation. Subsections (j)-(k) explicitly subordinated as components of the Divergence Declaration process. See [briefing-gap-050.md](briefing-gap-050.md) for full analysis.
 
 ---
 
@@ -382,7 +382,7 @@ Article I, Section 9 mandates mutual recognition of professional credentials but
 | Federal Credential Floor | Race to protectionism | Axiom 4 (Floors Not Ceilings) |
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article I, Section 9. This four-part solution creates a Credential Mobility Protection Framework that replaces "demonstrably exceed" with "Essential for Public Safety," requires ARB pre-approval for supplementary requirements, prohibits facially neutral discrimination, and establishes federal credential floors with IFC monitoring.
+**SUBSTANTIALLY RESOLVED.** Gap 65's four-part proposal is largely adopted in the existing constitution at Art I §9(g)-(u): (1) Rebuttable Presumption of Competency (§9(g)); (2) Essential for Public Safety standard replacing "demonstrably exceed" (§9(h)); (3) ARB pre-approval with 90-day deemed-non-certified rule (§9(j)-(k)); (4) Facially neutral discrimination strict scrutiny (§9(m)). Residual elements: national credential floor standard (Part 4(m)) deferred to legislative action; IFC mobility reporting addressed by §9(mm) (Gap 50 resolution); Credential Portability Fund not adopted. Non-credential labor mobility barriers addressed by the comprehensive Labor Market Mobility Protection framework at §9(jj)-(mm) (Gap 50 resolution). See [briefing-gap-050.md](briefing-gap-050.md).
 
 ---
 
