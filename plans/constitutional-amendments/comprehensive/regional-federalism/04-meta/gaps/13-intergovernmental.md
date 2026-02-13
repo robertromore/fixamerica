@@ -2132,7 +2132,57 @@ Article III establishes that federal standards are "floors, not ceilings," preve
 - **Gap 67/75 (Infrastructure):** Physical infrastructure access; Gap 78 addresses regulatory market access
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article III, Section 9. This three-part solution establishes a Market Interoperability Test requiring Regional standards to maintain compatibility, grants ARB authority to review and harmonize standards, and creates equivalency presumptions with adaptation pathways to preserve the National Common Market.
+**RESOLVED.** Integrated into Article II, Section 4(t)-(x) in `02-powers-and-rights.md` (NOT Art III §9 as originally proposed — §9 is occupied by Remedial Supremacy/Gap 66). ~80-85% overlap with existing provisions: Art II §4(l)-(s) covers Critical Infrastructure interoperability; Art I §9 + §9(jj)-(mm) cover professional credentials; Art I §11(k)-(m) covers pretextual resource regulation. Genuinely additive elements (~15-20%): non-infrastructure product/service/environmental standards interoperability, equivalency presumption for products, credential-as-market-access-barrier provision, Art I §11(c) functional incompatibility clarification, harmonization authority for non-infrastructure, Non-Infrastructure Standards Registry.
+
+**Design Decisions:**
+
+| ID | Decision | Choice | Rationale |
+|----|----------|--------|-----------|
+| D1 | Placement | Art II §4(t)-(x) after §4(s) | Keeps all interoperability together; extends §4(l)-(s) framework |
+| D2 | Scope | Product, service, environmental only | Credentials excluded (Art I §9); infrastructure excluded (§4(l)-(s)) |
+| D3 | Certification body | NIST coordination + domain agencies + ARB disputes | Consistent with existing NIST/ARB institutional split |
+| D4 | Interoperability standard | Material barrier (§4(n) pattern) with adapted thresholds | Quantified thresholds; consistent framework; avoids proposal's arbitrary $5K cap |
+| D5 | Pre-implementation review | Hybrid: mandatory for material-barrier-threshold; notice-only otherwise | Catches serious barriers without bureaucratic overload |
+| D6 | Harmonization | Domain agencies convene + ARB backstop | Subject-matter expertise + deadline enforcement |
+| D7 | Cumulative barrier | Extend §4(n)(5) 36-month pattern | Addresses "compounding standards creep" gaming vector |
+| D8 | Relationship to §4(l)-(s) | Cross-reference supplement | Clear §4(m) boundary; infrastructure provisions control for infrastructure |
+
+**Placement Correction:** Original proposal targeted Art III §9(a)-(l). Art III §9 is OCCUPIED by Remedial Supremacy (Gap 66). Art III is "Rights Floors and Subsidiarity" — wrong topical home. Corrected to Art II §4(t)-(x), extending the existing infrastructure interoperability framework.
+
+**Gaming Vectors Addressed:**
+
+| Vector | Resolution |
+|--------|-----------|
+| "Clean Air Converter Lock-In" (catalytic converter technology mandate) | §4(t)(4) anti-circumvention + §4(u)(1) material barrier |
+| "Organic Plus" product fragmentation | §4(t)(3) equivalency presumption |
+| "Building Code Balkanization" (unique material requirements) | §4(t)(1) scope includes building codes + §4(u)(2) 5% cost threshold |
+| "Insurance Compatibility Wall" (in-Region insurer mandate) | §4(t)(4) prohibits requiring in-Region-only providers |
+| "Testing and Certification Monopoly" (single lab with backlog) | §4(u)(4) functional monopoly/90-day queue provision |
+| "Compounding Standards Creep" (incremental 6-month additions) | §4(u)(5) 36-month cumulative pattern |
+| "Environmental Excellence as Trade Barrier" (genuine + protectionist) | §4(t)(6) clarifies Art I §11(c) + §4(v) certification |
+| "Digital Service Fragmentation" (application-layer standards) | §4(t)(1) scope includes application-layer standards |
+
+**Key Corrections from Overlap Analysis:**
+
+| Proposal Element | Correction |
+|------------------|-----------|
+| Art III §9(a)-(l) placement | Art II §4(t)-(x) — §9 occupied, wrong topical home |
+| 60-day ARB review (Part 2(f)) | 90-day domain-agency certification (consistent with §4(q)) |
+| $5,000 adaptation cap (Part 3(j)(ii)) | Material barrier 5% cost threshold (relative, not fixed) |
+| ARB as reviewing body (Part 2(e)) | Domain agencies certify, NIST coordinates, ARB enforces |
+| 90-day automatic approval (Part 2(g)(iii)) | 60-day deemed certification with 180-day provisional review |
+| No anti-circumvention | §4(s)(1) extended + additional product-specific prohibitions |
+| No cumulative provision | §4(n)(5) 36-month pattern extended |
+
+**Elements NOT Duplicated (already covered):**
+
+- Infrastructure interoperability mandate — Art II §4(l)-(s) with material barrier standard, NIST certification, enforcement, anti-circumvention
+- Professional credential recognition — Art I §9(g)-(o) with presumption of competency and automatic recognition
+- Divergence Declaration and market entry disparity — Art I §9(jj)-(mm) with RPPP-adjusted thresholds
+- Pretextual resource regulation — Art I §11(k)-(m) with 4-part proportionality test
+- Right of transit enforcement — Art I §6 with treble damages and repeat offender
+
+[Briefing](../briefing-gap-078.md)
 
 ---
 
