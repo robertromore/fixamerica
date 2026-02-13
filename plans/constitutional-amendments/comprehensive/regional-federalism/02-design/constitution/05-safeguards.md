@@ -598,6 +598,50 @@ Claims of inherent sovereignty or extra-constitutional authority are void and wi
 
 ---
 
+### Section 11. Amendment Ratification Independence
+
+*[This section prevents pre-committed ratification coordination that would undermine the independent deliberative judgment required by the amendment process. See Gap 89.]*
+
+(a) **Independent Ratification.** Regional ratification of constitutional amendments under Section 2, and Regional ratification triggering the bypass pathway under Section 8:
+
+(1) must occur through independent Regional legislative processes;
+
+(2) may not be pre-committed through inter-Regional agreement, compact, or any instrument described in Article I, Section 5.
+
+(b) **Prohibited Ratification Mechanisms.** The following constitute prohibited ratification coordination:
+
+(1) legislative enactments that trigger ratification automatically based on the ratification action of another Region;
+
+(2) binding legal agreements between Regions to ratify or reject a specific amendment or category of amendments;
+
+(3) delegation of ratification authority to any joint Regional body or inter-Regional institution; and
+
+(4) conditioning inter-Regional benefits, fiscal transfers, or cooperation agreements on ratification votes.
+
+(c) **Coordination Finding.** If the Allocation Review Board finds prohibited ratification coordination, it shall petition the Constitutional Court for confirmation. Upon confirmation:
+
+(1) ratifications by coordinating Regions are void;
+
+(2) the amendment fails regardless of ratification count; and
+
+(3) the amendment may be resubmitted for ratification after coordination ceases and a period of at least six (6) months has elapsed.
+
+(d) **Safe Harbor.** The following do not constitute prohibited ratification coordination:
+
+(1) public statements of support or opposition by Regional officials;
+
+(2) sharing of analysis, legal opinions, or policy assessments among Regions;
+
+(3) simultaneous consideration occurring without pre-agreement;
+
+(4) political party platforms expressing support for or opposition to specific amendments; and
+
+(5) informal communications among Regional officials that do not create binding legal obligations.
+
+(e) **Application to Section 8 Bypass.** The prohibitions of this section apply to Regional ratification under Section 8 (Popular Ratification Bypass) with equal force. Pre-committed ratification by four (4) or more Regions intended to trigger the bypass pathway constitutes prohibited coordination under subsection (b)(2).
+
+---
+
 ## Design Rationale
 
 ### Why Prohibit Secession?

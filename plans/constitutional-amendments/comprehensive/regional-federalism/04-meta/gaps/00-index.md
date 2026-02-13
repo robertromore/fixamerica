@@ -239,7 +239,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 70 | Administrative attrition via civil service purge | Medium | ✅ Resolved |
 | 79 | Executive caretaker perpetualism | Medium | ✅ Resolved |
 | 87 | "Fiscal Starvation" of the ARB and Independent Councils | Medium | ✅ Resolved |
-| 89 | The "Super-Regional" Legislative Cartel | Medium | Proposal Available |
+| 89 | The "Super-Regional" Legislative Cartel — Anti-cartel limitations on inter-Regional cooperation (Art I §5(m)-(y): notwithstanding §5(c) anti-cartel clause with functional binding-policy test, three-Region limit with graduated House approval, anti-aggregation for bilateral webs, proxy attribution with safe harbor, two-indicator cartel investigation with ARB + Constitutional Court finding, de facto cartel injunctive relief, diversity principle enforcement, minority Region coercion protection) + amendment ratification independence (Art XIII §11: trigger law prohibition, binding agreement prohibition, §8 bypass coverage) | Medium | ✅ Resolved |
 | 90 | Senate blue-slipping of constitutional officers | Medium | ✅ Resolved |
 | 97 | Regulatory capture at regional level | Medium | Requires Monitoring |
 | 100 | Hollow Region via legislative absence | Medium | ✅ Resolved |

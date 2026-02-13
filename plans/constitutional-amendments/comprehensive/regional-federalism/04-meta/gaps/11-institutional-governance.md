@@ -1538,7 +1538,64 @@ Article I, Section 5 allows Regions to enter into cooperative agreements and est
 - **Gap 72 (Equalization Cliff):** Fiscal leverage; Gap 89 addresses cartel fiscal leverage
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article I-RF, Section 5 and Article XXII-RF, Section 3. This four-part solution establishes Anti-Cartel Clause limiting multi-Region agreements to three Regions without House approval, prohibits pre-committed ratification coordination with ARB enforcement, creates cartel detection and dissolution authority, and enforces the Diversity Principle with minority Region protections.
+**RESOLVED (2026-02-12).** Constitutional amendments integrated via multi-LLM protocol into Article I, Section 5(m)-(y) in `01-regional-structure.md` and Article XIII, Section 11 in `05-safeguards.md`.
+
+**Placement corrections:**
+
+| Original Target | Corrected Target | Reason |
+|---|---|---|
+| Art I-RF §5(g-j) | Art I §5(m)-(y) | "I-RF" is misnomer (Art I is RF Core); §5(g)-(l) occupied by Foreign Regulatory Integration |
+| Art XXII-RF §3(g-j) | Art XIII §11 | Art XXII is Definitions; amendment process is Art XIII |
+
+**Overlap analysis:** ~5-10% — lowest-overlap gap encountered. Nearly all proposed elements are genuinely additive. Existing Art I §5(a)-(e) is broadly permissive; §5(f)-(l) addresses foreign alignment only; no domestic anti-cartel mechanisms existed.
+
+**Design decisions (11 total):**
+
+| ID | Decision | Choice | Rationale |
+|----|----------|--------|-----------|
+| D1 | Reconcile with §5(c) | Both — amend §5(c) + "Notwithstanding" | Belt and suspenders; avoids textual ambiguity |
+| D2 | Numeric threshold | Fixed at 3 | 4 = majority in 7-Region system; catch cartel before majority status |
+| D3 | Senate voting indicator | Exclude entirely | Coordinated voting is core democratic function; replaced with financial transfer + admin control indicators |
+| D4 | ARB cartel finding | ARB + Constitutional Court confirmation | ARB investigates; Court legitimates dissolution |
+| D5 | Amendment anti-coordination | Narrow to pre-commitments/trigger laws | Political coordination is free speech; legal pre-commitment removes deliberative agency |
+| D6 | Diversity in eternity clause | Enforceable but amendable | Eternity clauses reserved for fundamental democratic rights |
+| D7 | Bilateral aggregation | Functional anti-aggregation test | "Smurfing" defense; aggregate bilateral webs if collectively equivalent to prohibited multi-Region agreement |
+| D8 | Private proxy defense | Attribution + safe harbor | >50% funding = Regional agency; safe harbor for Uniform Law Commission and independent standards |
+| D9 | De facto cartel remedies | Injunctive relief | Enjoin enforcement of harmonized regulations; order cessation of coordinating conduct |
+| D10 | Model legislation safe harbor | Named organizations + functional test | Protect UCC and similar uniform laws; exclude cross-Regional enforcement or conditional benefits |
+| D11 | §5(b) interaction | Explicit "in addition to" clause | House approval thresholds supplement, don't replace, existing federal approval requirements |
+
+**Key corrections from review:**
+
+| Issue | Original | Corrected |
+|-------|----------|-----------|
+| Placement | Art I-RF §5(g-j), Art XXII-RF §3(g-j) | Art I §5(m)-(y), Art XIII §11 |
+| Article designation | "I-RF" / "XXII-RF" | Art I (RF Core) / Art XIII |
+| Region count framing | "four-Region federated structure" | 7 Regions (Art I §4(y)(i)); 4-Region cartel cannot control amendments |
+| Senate voting indicator | Included | Excluded — threatens legitimate coalition politics |
+| Model legislation indicator | Overbroad | Narrowed: requires cross-Regional enforcement or conditional benefits |
+| Cartel indicators | Any single indicator triggers investigation | Two-or-more required; no single-indicator sufficiency |
+| Cartel finding authority | ARB-only | ARB + Constitutional Court confirmation |
+| Amendment anti-coordination | Broad (includes 60-day deliberation requirement) | Narrowed to trigger laws, binding agreements, joint-body delegation, benefit-conditioning |
+| §8 bypass | Not addressed | Explicitly covered in Art XIII §11(e) |
+| De facto cartel | Remedies assumed formal arrangement | Injunctive relief for informal coordination |
+| Model legislation safe harbor | Federal model legislation only | Expanded to named uniform law organizations + functional test |
+| §5(b) interaction | Implicit | Explicit "in addition to" clause |
+| ARB jurisdiction | Assumed | Explicit jurisdiction grant in §5(y) |
+| §5(c) reconciliation | Not addressed | Both amended §5(c) with cross-reference AND "Notwithstanding" in new subsections |
+
+**Post-overlap gaming vectors addressed:**
+
+1. "Technical Standards" escape hatch → §5(o) prohibits policy harmonization/regulatory coordination beyond stated scope
+2. Sequential bilateral aggregation → §5(q) anti-aggregation functional test
+3. Private-sector coordination proxy → §5(r) proxy attribution with 50% funding test and rebuttable presumption
+4. "Voluntary" convergence defense → §5(s) requires two-or-more indicators; §5(u) safe harbor for independent deliberation
+5. De facto cartel without formal agreement → §5(t)(3) injunctive relief for informal coordination
+6. Amendment pre-commitment via trigger laws → Art XIII §11(b)(1) explicitly prohibits trigger laws
+7. §8 bypass gaming → Art XIII §11(e) explicitly applies to bypass pathway
+8. Soft-power advisory bodies → §5(m) functional test: routinely-adopted recommendations = binding policy authority
+
+**Briefing:** See [briefing-gap-089.md](briefing-gap-089.md).
 
 ---
 

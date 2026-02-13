@@ -601,7 +601,7 @@ The ARB may delegate preparation of the Continuity Agreement to the IFC for fisc
 - create binding obligations on non-participating Regions,
 - or conflict with federal law enacted pursuant to enumerated powers.
 
-(c) Regions may establish joint institutions, shared programs, cooperative purchasing arrangements, and coordinated policy frameworks.
+(c) Regions may establish joint institutions, shared programs, cooperative purchasing arrangements, and coordinated policy frameworks, subject to subsection (m).
 
 (d) Inter-Regional agreements shall specify:
 
@@ -657,6 +657,115 @@ The ARB may delegate preparation of the Continuity Agreement to the IFC for fisc
 - (1) declare the finding and transmit it to Congress;
 - (2) suspend the Region's authority to regulate in the affected domain pending Congressional action;
 - (3) Congress shall hold hearings within sixty (60) days and may ratify, modify, or reject the suspension.
+
+#### Anti-Cartel Limitations on Inter-Regional Cooperation
+
+*Integrated from Gap 89 — closes the legislative cartel loophole by limiting multi-Region agreements, prohibiting shadow legislatures and cartel harmonization, establishing detection and dissolution authority with judicial confirmation, and protecting minority Regions from coordinated economic coercion.*
+
+(m) **Anti-Cartel Clause.** Notwithstanding Section 5(c), inter-Regional cooperation agreements may not:
+
+- (1) establish permanent bodies with authority to enact binding policy on member Regions;
+- (2) create harmonized regulatory regimes encompassing more than three (3) Regions that impose cross-Regional enforcement mechanisms or condition market access on regulatory conformity, without Federal House authorization under subsection (n);
+- (3) require member Regions to adopt identical legislation on matters within Regional discretion; or
+- (4) condition membership benefits on policy conformity beyond the agreement's stated scope.
+
+For purposes of this subsection, a "permanent body with authority to enact binding policy" means any entity that exercises legislative, regulatory, or quasi-legislative power over member Regions, including any entity whose policy recommendations or directives are given binding effect by operation of law in member Regions. An entity that issues non-binding recommendations does not fall within this prohibition unless its recommendations are routinely adopted without material modification by member Regions, in which case the entity shall be treated as exercising binding policy authority.
+
+(n) **Three-Region Limit.** Inter-Regional cooperation agreements:
+
+- (1) may include up to three (3) Regions without additional approval beyond the requirements of subsection (b);
+- (2) agreements including four (4) or more Regions require Federal House of Representatives authorization by simple majority;
+- (3) agreements including five (5) or more Regions require two-thirds (2/3) House authorization;
+- (4) agreements including all Regions require three-fourths (3/4) House authorization.
+
+The requirements of this subsection are in addition to, and do not supersede, the federal approval requirements of subsection (b). An agreement that triggers both subsection (b) and this subsection must satisfy both.
+
+(o) **Permitted Cooperation Scope.** Multi-Region agreements exceeding three (3) Regions are permitted without House authorization under subsection (n) for:
+
+- (1) physical infrastructure crossing Regional boundaries, including roads, bridges, and pipelines;
+- (2) emergency response coordination and mutual aid not involving armed forces subject to Article XI;
+- (3) environmental protection of shared watersheds, airsheds, or ecosystems; and
+- (4) technical standards for equipment interoperability.
+
+Agreements under this subsection may not include policy harmonization, legislative commitments, or regulatory coordination beyond the specific infrastructure, emergency, environmental, or technical scope stated in the agreement.
+
+(p) **Prohibited Agreement Content.** Inter-Regional agreements, regardless of the number of participating Regions, may not include:
+
+- (1) commitments to enact specific legislation within each member Region;
+- (2) delegation of Regional legislative authority to any joint body;
+- (3) provisions conditioning trade, transit, or fiscal relations on non-member Regions; or
+- (4) pre-commitments regarding constitutional amendment ratification under Article XIII.
+
+(q) **Anti-Aggregation.** Bilateral or trilateral agreements between overlapping groups of Regions shall be aggregated for purposes of subsection (n) if:
+
+- (1) the agreements collectively involve four (4) or more Regions and address the same or substantially related subject matter;
+- (2) the agreements were executed within a twelve (12) month period or contain cross-references, coordination mechanisms, or complementary provisions indicating a common design; or
+- (3) the practical effect of the agreements taken together is equivalent to a single multi-Region agreement that would require House authorization under subsection (n).
+
+Upon aggregation, the combined arrangement is subject to the approval requirements applicable to the total number of participating Regions.
+
+(r) **Proxy Attribution.**
+
+- (1) Any non-governmental entity that receives more than fifty percent (50%) of its annual funding from Regional governments, or that operates under the direction of officials of two (2) or more Regional governments, shall be treated as a joint Regional institution for purposes of this section.
+- (2) When model legislation developed by a non-governmental entity is adopted without material modification by four (4) or more Regions within twelve (12) months, a rebuttable presumption arises that the entity is functioning as a joint Regional institution. The Regions may rebut this presumption by demonstrating that the entity operates independently of Regional government direction and funding.
+- (3) **Safe Harbor.** This subsection does not apply to: (A) uniform laws developed by recognized national non-partisan uniform law organizations; (B) model legislation adopted through independent Regional legislative deliberation without cross-Regional enforcement mechanisms, conditional benefits, or coordination agreements; or (C) standards developed by independent professional or scientific organizations without Regional government direction.
+
+(s) **Cartel Indicators.** The Allocation Review Board may investigate potential cartel formation upon finding two or more of the following indicators:
+
+- (1) four (4) or more Regions adopting substantially identical legislation on the same subject within six (6) months, where the legislation includes cross-Regional enforcement mechanisms or conditional benefits;
+- (2) joint Regional bodies or entities attributed to Regions under subsection (r) issuing directives or model legislation adopted by member Regions;
+- (3) conditioning of inter-Regional economic benefits, fiscal transfers, or cooperation agreements on policy conformity by non-member Regions;
+- (4) substantial financial transfers between Regions conditioned on legislative alignment; or
+- (5) joint funding or administrative control of entities that effectively function as multi-Regional regulatory bodies.
+
+No single indicator shall be sufficient basis for a cartel finding under subsection (t).
+
+(t) **Cartel Finding and Dissolution.**
+
+- (1) Upon investigation, the ARB may issue a preliminary cartel finding and petition the Constitutional Court for confirmation. The Constitutional Court shall review the finding within sixty (60) days.
+- (2) Upon confirmation by the Constitutional Court that an inter-Regional arrangement constitutes a legislative cartel:
+    - (A) the arrangement is declared unconstitutional and void;
+    - (B) member Regions shall dissolve any joint body within ninety (90) days;
+    - (C) harmonized legislation may remain in effect in each Region independently but is no longer binding on member Regions as a condition of the arrangement; and
+    - (D) future agreements among the same Regions receive enhanced scrutiny for a period of ten (10) years.
+- (3) **De Facto Cartel.** Where a cartel operates without a formal agreement or joint body, the Constitutional Court may:
+    - (A) enjoin enforcement of harmonized regulations found to result from coordinated cartel conduct until the Regions demonstrate independent adoption or obtain House authorization under subsection (n);
+    - (B) order cessation of coordinating conduct, including conditional fiscal transfers, shared administrative arrangements, and proxy coordination through entities described in subsection (r); and
+    - (C) impose enhanced scrutiny on future legislative convergence among the same Regions.
+
+(u) **Non-Cartel Presumption.** The following do not create a cartel presumption and may not serve as the basis for investigation under subsection (s):
+
+- (1) adoption of federal model legislation by multiple Regions;
+- (2) adoption of uniform laws developed by recognized national non-partisan uniform law organizations, including the Uniform Law Commission;
+- (3) similar responses to common problems without coordination, where each Region's legislative process demonstrates independent deliberation;
+- (4) model legislation adopted through independent Regional deliberation without cross-Regional enforcement mechanisms or conditional benefits; and
+- (5) bilateral agreements that do not aggregate into larger structures under subsection (q).
+
+(v) **Diversity Principle Enforcement.** The constitutional commitment to Regional policy diversity:
+
+- (1) is an enforceable structural principle, not merely aspirational;
+- (2) may be invoked by any Region, the federal government, or the ARB to challenge arrangements that defeat the structural benefits of federalism; and
+- (3) requires preservation of meaningful policy variation across Regions, recognizing that legitimate convergence through independent deliberation is not a violation.
+
+(w) **Minority Region Protection.** Regions not party to multi-Region agreements:
+
+- (1) may not be subjected to intentional coordinated economic coercion or conditioning of trade, transit, or fiscal benefits on joining the agreement or adopting conforming policies;
+- (2) may not be disadvantaged in access to federal programs, equalization transfers, or national common market participation as a consequence of non-participation; and
+- (3) retain full policy autonomy regardless of the preferences of participating Regions.
+
+Normal economic competition and market effects resulting from independent Regional policy choices do not constitute prohibited coercion under this subsection.
+
+(x) **Federal House Override.** The Federal House of Representatives may:
+
+- (1) authorize specific multi-Region agreements exceeding the limits of subsection (n);
+- (2) impose conditions on such authorization to preserve policy diversity and protect minority Regions; and
+- (3) revoke authorization upon finding that conditions have been violated or that the agreement has evolved into a legislative cartel.
+
+(y) **ARB Jurisdiction.** The Allocation Review Board's jurisdiction under Article II, Section 7(g) extends to investigations, findings, and petitions under subsections (s) and (t) of this section. For purposes of cartel investigation, the ARB may:
+
+- (1) issue subpoenas for documents related to inter-Regional agreements, coordination arrangements, and financial transfers between Regions;
+- (2) require Regions to disclose agreements, compacts, and cooperative arrangements within thirty (30) days of execution; and
+- (3) initiate investigations sua sponte upon identifying two or more cartel indicators under subsection (s).
 
 ---
 
