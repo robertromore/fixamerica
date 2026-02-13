@@ -35,6 +35,40 @@ The House shall be elected by the People according to population and shall initi
 
 (e) **Transitional Exception.** Senators representing the District of Columbia and United States territories prior to Regional assignment serve as at-large members pursuant to Article XX, Sections 1(b) and 2(b). At-large Senators have full voting rights for five (5) years following ratification; thereafter, voting rights are subject to the Integration Timeline provisions of Article XX, Section 4. Upon Regional assignment, the Integration Bonus provisions of Article XX, Section 4 apply, and such Senators join the assigned Region's delegation.
 
+#### Senate Continuity and Selection Integrity
+
+(f) **Selection Timeline.** Each Region shall select its Senators within:
+
+- (1) Ninety (90) days of a vacancy occurring;
+- (2) Sixty (60) days of the Region's admission to the Union or the creation of the Region via division under Article I, Section 4-A(w) or merger under Article I, Section 4(a);
+- (3) Thirty (30) days of the invalidation of a prior selection by the National Election Court.
+
+(g) **Holdover Senators.** If the Regional Legislature fails to select Senators within the timeline specified in subsection (f):
+
+- (1) The previous incumbents shall remain seated as "Holdover Senators" with full voting rights;
+- (2) If no previous incumbent exists or the incumbent declines service, the most recent candidates receiving more than twenty-five percent (25%) support in any Regional selection process shall be seated in order of vote share;
+- (3) Holdover status continues until a successor is lawfully selected, but shall not exceed six (6) months. Upon expiration of the six-month period, the seat becomes vacant and subject to the Gubernatorial Default under subsection (h).
+
+(h) **Gubernatorial Default.** Notwithstanding subsection (d), if a vacancy persists after the expiration of the Holdover period under subsection (g), or if no Holdover Senator is available:
+
+- (1) The Regional Governor shall appoint temporary Senators within fifteen (15) days;
+- (2) Temporary Senators serve with full voting rights;
+- (3) Temporary appointments expire upon legislative selection of a successor or one (1) year from appointment, whichever is sooner. If no successor is selected within one year, the National Election Court shall schedule a special election for the seat, to be conducted under rules established by the National Election Court.
+
+(i) **Anti-Gaming Provisions.**
+
+- (1) **Impossible Criteria.** Selection criteria established by Regional law that would disqualify all potential candidates, or that no person has met in the previous twenty (20) years, are void as applied. Upon certification of impossibility by the National Election Court, the timeline under subsection (f) shall be deemed expired and the Holdover and Gubernatorial Default provisions of subsections (g) and (h) shall immediately apply.
+- (2) **Recall Limitation.** Elected Senators may not be subject to recall proceedings within twelve (12) months of selection or more than twice per term. Recall initiated within thirty (30) days of a Senate vote on a matter in which the recalling Region had a direct interest creates a rebuttable presumption of bad faith obstruction. Temporary or Holdover Senators may be recalled by the Regional Legislature at any time, provided a successor is simultaneously selected. Recall procedures shall be as established by the Regional constitution; this subsection does not create a right of recall where none exists under Regional law.
+- (3) **Selection Certification.** The National Election Court shall certify all Senator selections within thirty (30) days. Certification confirms the selection followed lawful procedure. Certified selections may not be challenged collaterally in other proceedings. If the National Election Court rejects a selection, the Region shall have thirty (30) days to cure the defect; if the defect is not cured, the selection is invalidated and the timeline under subsection (f)(3) begins. No more than two (2) rejection-cure cycles may occur for the same vacancy before the Gubernatorial Default under subsection (h) applies.
+
+(j) **Representation Waiver.** A Region that voluntarily fails to seat Senators waives its right to representation in the Senate for the duration of the vacancy.
+
+- (1) The Region is bound by Senate adjudications, treaty ratifications, and constitutional amendment votes as if fully represented;
+- (2) The Region may not claim denial of due process or lack of consent for actions taken by the Senate during the period of self-inflicted absence;
+- (3) The quorum and voting provisions of Section 4-E apply to any period of vacancy resulting from such failure.
+
+(k) **Interim Allocation Coordination.** The default mechanisms of this section apply to vacancies arising in Regions created under Article I, Section 4-A(w) (Regional Division), subject to the interim allocation rules of Article I, Section 4-A(gg) and Section 4-A(hh).
+
 ---
 
 ### Section 4. Senate Powers

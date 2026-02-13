@@ -1548,11 +1548,58 @@ Article IV, Section 3 states that "Each Region shall select Senators according t
 
 **Relationship to Other Gaps:**
 
-- **Gap 63 (Senate Adjudication Paralysis):** Complementary quorum protections
-- **Gap 56 (Zombie Executive):** Parallel continuity concerns
+- **Gap 57 (Boundary Petrification Paradox):** Interim Senate allocation (Art I §4-A(gg)-(hh)); §3(k) cross-references for post-division vacancy defaults
+- **Gap 106 (Senate Quorum Trap):** §4-E quorum protections; §3(j)(3) cross-references §4-E rather than duplicating
+- **Gap 90 (Blue-Slipping of Constitutional Officers):** Holdover authority concept (§4-D); extended to Senators with 6-month cap
+- **Gap 222 (Confirmation Blockade):** "Silence = consent" pattern (§4-B); same design principle for selection defaults
+- **Gap 56 (Zombie Executive):** Parallel continuity concerns for executive branch
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article IV, Section 3. This three-part solution creates a Senate Continuity Framework that establishes selection timelines with cascading defaults, prohibits gaming through impossible criteria or recall carousels, and protects Senate legitimacy through waiver doctrine and quorum exclusion.
+**RESOLVED.** Integrated as Article IV, Section 3(f)-(k) in `03-regional-governance.md`.
+
+**Placement Correction:** Original proposal targeted §3(d)-(l); corrected to §3(f)-(k) because §3(d) (direct popular election) and §3(e) (Transitional Exception) are occupied.
+
+| Decision | Question | Choice | Rationale |
+|----------|----------|--------|-----------|
+| D1 | Placement | Extend §3 with (f)-(k) | Keeps all Senate selection rules unified |
+| D2 | Default cascade | Holdover → Governor | Prioritizes previous democratic mandate; 6-month holdover cap prevents zombie Senators |
+| D3 | Recall scope | Tiered | Elected: 12-month grace, max twice/term. Temp/holdover: recallable anytime with simultaneous successor |
+| D4 | Quorum provisions | Cross-reference §4-E | Avoids duplication with Gap 106's comprehensive quorum protections |
+| D5 | Certification body | NEC | Purpose-built election tribunal; jurisdiction granted in §3(i)(3) |
+| D6 | Gap 57 interaction | Explicit cross-reference | §3(k) applies defaults to post-division vacancies via §4-A(gg) |
+| D7 | Popular vote tension | "Notwithstanding §3(d)" override + special election | Governor appointment temporary (1 year max); NEC special election backstop preserves democratic principle |
+
+**Gaming Vectors Addressed:**
+
+| # | Vector | Mechanism |
+|---|--------|-----------|
+| 1 | Empty Chair Protest | §3(j): Representation Waiver binds Region to Senate actions |
+| 2 | Impossible Criteria | §3(i)(1): NEC voids criteria; Holdover/Governor defaults trigger |
+| 3 | Perpetual Deadlock | §3(g): 6-month holdover; §3(h): Governor appoints; NEC special election |
+| 4 | Recall Carousel | §3(i)(2): 12-month grace; twice per term; bad-faith presumption |
+| 5 | Zombie Senator | §3(g)(3): 6-month holdover cap |
+| 6 | Governor-Legislature Collusion | §3(h)(3): NEC special election after 1-year Governor term |
+| 7 | Post-Division Vacuum | §3(g)(2): Candidate fallback; §3(h): Governor; §3(k): explicit application |
+| 8 | Certification Shopping | §3(i)(3): 2-cycle cap on rejection-cure; then Governor default |
+| 9 | Weaponized Recall | §3(i)(2): Bad-faith presumption for post-vote recalls |
+| 10 | Quorum Denominator Gaming | §3(j)(3): Cross-references §4-E (vacancies excluded from denominator) |
+
+**Key Corrections from Review:**
+
+| Issue | Original | Corrected |
+|-------|----------|-----------|
+| Placement | §3(d)-(l) | §3(f)-(k) (d-e occupied) |
+| Default cascade | Governor → Holdover | Holdover → Governor (preserves democratic legitimacy) |
+| Quorum provisions | Duplicative §3(m)-(n) | Deleted; cross-reference to §4-E |
+| Certification body | NCC (Supreme Court) | NEC (purpose-built election tribunal) |
+| §3(d) tension | Not addressed | "Notwithstanding §3(d)" override with special election backstop |
+| Holdover duration | Unlimited | 6-month cap |
+| Recall scope | Uniform for all | Tiered: elected vs. temporary/holdover |
+| Certification shopping | No limit on cycles | 2-cycle cap; then Governor default |
+
+See [briefing-gap-071.md](briefing-gap-071.md) for the full multi-LLM review briefing.
+
+Resolved 2026-02-12.
 
 ---
 
