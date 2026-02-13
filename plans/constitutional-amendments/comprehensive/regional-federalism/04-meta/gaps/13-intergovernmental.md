@@ -1777,7 +1777,28 @@ Article I, Section 3 requires Regional constitutions to protect against "dominat
 - **Gap 63 (Senate Paralysis):** Legitimacy of Senate requires democratically legitimate Regions
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article I, Section 3. This four-part solution establishes a 15% population deviation limit for Regional legislatures, requires popular vote for Regional Governors, protects initiative and amendment access from geographic barriers, and conditions Senator seating on Regional constitution certification.
+**RESOLVED.** After multi-LLM review with overlap analysis, ~70-80% of the original proposal was found to already be covered by Gap 134's resolution (§3-A(c)(4)-(5) and §3-A(i)). The genuinely additive ~20-30% was integrated as follows:
+
+| Design Decision | Choice | Placement |
+|----------------|--------|-----------|
+| D1: Gubernatorial standard placement | A: Amend Art V §4 | Art V §4(a)-(d) in `03-regional-governance.md` |
+| D2: Gubernatorial election method | A: Direct popular vote only | Art V §4(a)-(b) |
+| D3: Majority mechanism | C: Region's choice of RCV or runoff | Art V §4(c) |
+| D4: Initiative access | C: Conditional (if Region provides initiatives, standards apply) | Art I §3-A(j) in `01-regional-structure.md` |
+| D5: Amendment access scope | A: Expand to ALL amendments | Art I §3-A(c)(7) |
+| D6: Weighted committees | C: Extend deviation limit to committees with gatekeeping power | Art I §3-A(c)(6) |
+| D7: Bicameral second chamber | B: Keep existing 15% for all chambers | No change (preserve §3-A(c)(4)) |
+| D8: Enforcement | A: Cross-reference §3-A enforcement | Art V §4(d) |
+
+**Elements NOT duplicated (already covered by Gap 134):** 15% population deviation limit (§3-A(c)(4)), anti-entrenchment for electoral amendments (§3-A(c)(5)), ARB certification (§3-A(i)(1)), 180-day cure period (§3-A(i)(2)), Special Redistricting Master (§3-A(i)(2)(B)), Senate voting suspension (§3-A(i)(3)).
+
+**Proposal elements rejected:** 25% bicameral second chamber deviation (would weaken existing 15%); separate enforcement body (existing §3-A(d)-(i) is more developed); 90-day certification (existing 60-day is faster); weighted voting explicit prohibition (redundant with 15% deviation limit).
+
+**Gaming vectors addressed:** County-weighted gubernatorial electoral college (§4(b)(1)); parliamentary evasion (§4(b)(2)); indirect selection (§4(b)(3)-(4)); plurality governor (§4(c)); committee gatekeeping veto (§3-A(c)(6)); non-electoral amendment lock-in (§3-A(c)(7)); initiative desert (§3-A(j)).
+
+See [briefing-gap-076.md](briefing-gap-076.md) for the full multi-LLM review briefing.
+
+Resolved 2026-02-12.
 
 ---
 

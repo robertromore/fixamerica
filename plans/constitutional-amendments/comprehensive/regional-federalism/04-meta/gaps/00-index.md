@@ -308,7 +308,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 60 | Para-diplomacy conflict (regional foreign engagement vacuum) | Medium | ✅ Resolved |
 | 64 | Ghost Region Successor Crisis (Two-Key denominator manipulation and key-holder succession) | High | ✅ Resolved |
 | 71 | Regional Legislative Hostage-Taking of Senate Representation — Senate Continuity Framework with selection timeline (90/60/30-day), holdover Senators (6-month cap), gubernatorial default (notwithstanding §3(d), 1-year with NEC special election), anti-gaming (impossible criteria void, tiered recall, NEC certification with 2-cycle cap), representation waiver, interim allocation coordination | Medium | ✅ Resolved |
-| 76 | Strategic "Subregional" Gerrymandering of Regional Constitutions | Medium | Proposal Available |
+| 76 | Strategic "Subregional" Gerrymandering of Regional Constitutions — Gubernatorial popular election floor (Art V §4(a)-(d): direct popular vote, prohibited selection methods, majority requirement via runoff or RCV), committee gatekeeping deviation limit (§3-A(c)(6)), universal amendment access (§3-A(c)(7)), initiative access floor (§3-A(j)); ~70-80% already covered by Gap 134 resolution | Medium | ✅ Resolved |
 | 77 | Education curriculum coordination | Low | Accepted by Design |
 | 78 | Asymmetric "Rights Floor" Regulatory Arbitrage | Medium | Proposal Available |
 | 96 | The "Local Hollowing Out" via Regional Preemption | Medium | Proposal Available |

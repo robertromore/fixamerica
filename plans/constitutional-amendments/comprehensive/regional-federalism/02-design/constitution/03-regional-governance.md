@@ -1009,7 +1009,22 @@ Each Region shall establish a republican form of government with separate legisl
 
 ### Section 4. Regional Executive
 
-Each Region shall have a Regional Governor elected by the people of the Region. The method of election and term of office shall be established by Regional constitution, provided terms do not exceed six years.
+(a) **Popular Election Required.** Each Region shall have a Regional Governor elected by direct popular vote of the people of the Region. The Regional Governor shall be the candidate who receives the most votes in the Regional gubernatorial election, subject to subsection (c). The term of office shall be established by Regional constitution, provided terms do not exceed six years.
+
+(b) **Prohibited Selection Methods.** *[Resolves Gap 76 — Strategic "Subregional" Gerrymandering of Regional Constitutions.]* No Region may select its Governor by:
+
+- (1) a county-weighted or geographic-unit-weighted electoral college, electoral vote system, or any analogous mechanism under which the winner is determined by aggregating geographic-unit-level results rather than individual votes;
+- (2) legislative appointment, legislative confirmation vote, or any system in which the legislature selects the Governor, whether styled as "parliamentary," "indirect," or otherwise;
+- (3) popular ratification of a legislatively selected nominee, unless the ratification ballot includes at least one additional candidate who qualified independently of legislative selection;
+- (4) any other method under which a candidate who received fewer individual votes than another candidate may be declared the winner due to the geographic distribution of votes.
+
+(c) **Majority Requirement.** *[Resolves Gap 76.]* If no candidate for Regional Governor receives a majority of votes cast:
+
+- (1) the Region shall resolve the election by either (A) a runoff election between the two candidates who received the most votes, to be held within twenty-one (21) days of the initial election; or (B) ranked-choice voting or an equivalent instant-runoff system, consistent with any applicable requirements of Article I, Section 16;
+- (2) the Regional constitution shall specify which method applies; if the Regional constitution is silent, a runoff election under paragraph (1)(A) shall be conducted;
+- (3) the candidate who receives the most votes in the runoff, or the final-round winner under ranked-choice voting, shall be declared the winner.
+
+(d) **Compliance.** *[Resolves Gap 76.]* Compliance with this Section shall be reviewed as part of the Regional Electoral Compliance Review under Article I, Section 3-A(d)-(f). A Regional constitution that establishes a gubernatorial selection method prohibited by subsection (b) shall be subject to the remediation and enforcement procedures of Section 3-A(f) and (i).
 
 ---
 
