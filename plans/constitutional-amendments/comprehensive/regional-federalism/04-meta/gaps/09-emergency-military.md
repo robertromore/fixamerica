@@ -797,7 +797,61 @@ Article XI-RF distinguishes between the Regional Guard (subject to Two-Key autho
 - **Gap 68 (Succession Vacuum):** Military command during crisis
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article XI-RF, Section 4. This four-part solution limits State Defense Forces to 0.5% of population with prohibited heavy/cyber/offensive capabilities, creates automatic reclassification as Regional Guard units upon violation, clarifies "combat role" to include cyber and hybrid warfare, and requires annual reporting with public registry.
+**RESOLVED.** (2026-02-12) Original 13-subsection proposal had ~90-95% overlap with existing Art XI §13(a)-(e), Art XI-RF §§3(h), 4(d), 5, 6, 7. Resolution narrowed to 5 genuinely additive elements split across two locations:
+
+- **Art XI §13(f)-(g)** (standalone, `military-civilian-control.md`): Personal liability with hybrid standard (strict for numeric caps, knowledge for capability/combat) + Constitutional Court petition authority with prima facie evidence + SecDef emergency suspension extending §5(h)(1) pattern
+- **Art XI-RF §9(a)-(c)** (RF supplement, `10-armed-forces.md`): Constructive possession with 72-hour functional test extending §5(e) to conventional weapons + federal surplus recall + non-kinetic information warfare prohibition with SDF-personnel scope + defensive cyber scope with active-defense/external-network prohibition
+
+**Overlap Analysis (~90-95%):**
+
+| Proposal Element | Existing Coverage | Location | Overlap % |
+|---|---|---|---|
+| Personnel Cap | Identical | Art XI §13(a) | 100% |
+| Prohibited Capabilities | Identical plus autonomous systems | Art XI §13(b) | 100% |
+| Combat Role Definition | Identical 4-part definition | Art XI §13(c) | 100% |
+| Automatic Reclassification | Identical | Art XI §13(d) | 95% |
+| Multi-State Coordination | Nearly identical | Art XI §13(e) | 95% |
+| Annual Reporting/Registry | Covered by DoD, not ARB | Art XI-RF §3(h) | 85% |
+| Equipment Stockpile Prohibition | Partial — no constructive possession for conventional weapons | Art XI §13(b), Art XI-RF §5(e) | 50% |
+| Hybrid Warfare Prohibition | "Kinetic objectives" qualifier creates gap for pure info warfare | Art XI §13(c)(3) | 40% |
+| Defensive Cyber Scope | No SDF-specific positive definition | Art XI-RF §7(b)(4) | 30% |
+| Petition Authority | No SDF petition mechanism (exists for confederations at §6(j)(4)) | — | 20% |
+| Personal Liability for SDF | Not in §13 (exists for autonomous systems §5(h)(4), PMCs §4(h)(2)) | — | 0% |
+
+**Design Decisions (8 total):**
+
+| ID | Decision | Choice | Rationale |
+|----|----------|--------|-----------|
+| D1 | Placement | Split: §13(f)-(g) standalone, §9(a)-(c) RF | RF cross-references (§5(e), §7(a)(1)) belong in RF supplement; core liability/petition in standalone |
+| D2 | Constructive possession scope | Functional test (72-hour) | "State ownership" trivially evaded; functional test captures power reality |
+| D3 | Info warfare scope | SDF + State-funded proxies using SDF personnel | Narrower than all State ops (speech risk) but broader than SDF-only (moonlighting vector) |
+| D4 | Personal liability standard | Hybrid: strict for caps, knowledge for capability | Personnel caps are math; capability classification involves judgment |
+| D5 | Petition threshold | Prima facie evidence, no loser-pays | Loser-pays chills small-State petitions; prima facie filters baseless claims |
+| D6 | Emergency constraint | SecDef certification extending §5(h)(1) | Aligns with existing exigent-circumstance pattern; avoids unilateral Presidential power |
+| D7 | Federal surplus | Perpetual recall right | Surplus is privilege; recall for violation is non-violent enforcement |
+| D8 | Inspection duplication | Cross-reference §3(h) | Single inspection standard avoids ambiguity |
+
+**Key Corrections from Review:**
+
+| Issue | Original | Corrected |
+|-------|----------|-----------|
+| Placement | Art XI-RF §4(a-m) (§4 occupied by Monopoly on Force) | Split: Art XI §13(f)-(g) + Art XI-RF §9(a)-(c) |
+| Overlap estimate | ~0% implied | ~90-95% with existing Art XI §13, Art XI-RF §§3(h), 4(d), 5, 6, 7 |
+| Reporting institution | ARB | DoD (per existing §3(h)); petition to Constitutional Court |
+| Private proxy coverage | Not addressed | Already covered by Art XI-RF §4(f)(3)-(4) (paramilitary funding/auxiliary ban) |
+| Scope | 13 subsections, 4 parts | 5 genuinely additive elements across 2 files |
+| Emergency enforcement | None | SecDef suspension extending §5(h)(1) exigent-circumstance pattern |
+
+**Post-Overlap Gaming Vectors:**
+
+1. Shell-entity equipment stockpile — addressed by 72-hour functional test in §9(a)(1)
+2. "Personal capacity" info warfare — addressed by anti-gaming presumption in §9(b) closing paragraph
+3. Weaponized reclassification petitions — mitigated by prima facie evidence threshold in §13(g)(1)
+4. Slow-walk reclassification — mitigated by SecDef emergency suspension in §13(g)(4)
+5. Threat-hunting mission creep — addressed by explicit external-network prohibition in §9(c)
+6. Surplus laundering via Guard — addressed by perpetual federal recall in §9(a)(3)
+
+**Briefing:** See [briefing-gap-074.md](briefing-gap-074.md) for full multi-LLM review protocol briefing with 10 gaming vectors, 7 design questions, and 4 verification questions.
 
 ---
 

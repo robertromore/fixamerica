@@ -191,7 +191,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 33 | Multi-vector attack coordination (Coordinated Threat Response) | High | ✅ Resolved |
 | 44 | Executive enforcement deadlock (Judicial Key Override) | Critical | ✅ Resolved |
 | 55 | Cyber-kinetic force ambiguity (digital coercion loophole) | High | ✅ Resolved |
-| 74 | Regional Guard "Shadow Mobilization" via State Defense Forces | Medium | Proposal Available |
+| 74 | Regional Guard "Shadow Mobilization" via State Defense Forces — SDF Supplementary Limitations with split placement (Art XI §13(f)-(g) personal liability with hybrid strict/knowledge standard and Constitutional Court petition with prima facie evidence and SecDef emergency suspension; Art XI-RF §9(a)-(c) constructive possession with 72-hour functional test, non-kinetic info warfare prohibition with SDF-personnel scope, defensive cyber scope with active-defense/external-network ban) | Medium | ✅ Resolved |
 | 82 | Double-Key hostage-taking (collusion for inaction) | High | ✅ Resolved |
 | 86 | De-Escalation as a Stall for Insurrection (exploiting graduated de-escalation to delay military intervention, bad faith mediation, procedural cascade, foreign fait accompli) | High | ✅ Resolved |
 | 88 | Two-key bypass via military officer corps purge | High | ✅ Resolved |

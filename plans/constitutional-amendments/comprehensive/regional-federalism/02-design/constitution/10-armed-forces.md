@@ -843,6 +843,36 @@ Shared Benefit Infrastructure designation challenges under clause (iii) and mutu
 
 ---
 
+### Section 9. State Defense Force Supplementary Limitations
+
+*Resolves Gap 74 — Regional Guard "Shadow Mobilization" via State Defense Forces. Supplements Article XI, Section 13 with constructive possession doctrine for conventional weapons, non-kinetic information warfare prohibition, and defensive cyber scope definition.*
+
+(a) **Constructive Possession of Military Equipment.** The prohibitions of Article XI, Section 13(b) extend to any weapons, vehicles, equipment, or materiel subject to the effective control or direction of a State government, regardless of whether such items are formally assigned to a State Defense Force:
+
+- (1) For purposes of this subsection, "effective control or direction" means any arrangement under which a State official could legally or practically direct, commandeer, or distribute weapons, vehicles, equipment, or materiel to State Defense Force personnel, volunteers, or any other persons within seventy-two (72) hours;
+- (2) State-owned or State-funded weapons, vehicles, equipment, or materiel stored, maintained, or stockpiled for potential distribution are treated as possessed by the State Defense Force for purposes of Article XI, Section 13(b);
+- (3) Federal military surplus transfers to State governments shall not include items that would be prohibited under Article XI, Section 13(b) if possessed by a State Defense Force, unless the transferred items are assigned exclusively to federally supervised National Guard units. All federal military surplus transfers remain subject to perpetual federal right of inspection and immediate recall without compensation if the transferred items are found in the possession of an unauthorized entity or in violation of Article XI, Section 13 or this Section;
+- (4) This subsection incorporates and extends the constructive control principles of Section 5(e) of this Article to conventional weapons and military equipment.
+
+(b) **Non-Kinetic Information Warfare Prohibition.** State Defense Forces, and any entity or contractor operating under their direction, funding, or using State Defense Force personnel, may not conduct, sponsor, or provide personnel for:
+
+- (1) psychological operations, disinformation campaigns, or coordinated inauthentic behavior targeting other States, Regions, federal institutions, or the general public, regardless of whether such operations support kinetic military objectives;
+- (2) troll farms, bot networks, or coordinated social media manipulation campaigns;
+- (3) providing personnel, infrastructure, or technical support to non-state actors engaged in information warfare against United States entities.
+
+For purposes of this subsection, "information warfare" includes operations conducted through digital means, traditional media, or any combination thereof, designed to manipulate public opinion, undermine institutional legitimacy, or destabilize governance. This subsection does not restrict the individual speech rights of State Defense Force members acting in their personal capacity; however, coordinated campaigns organized or directed by State officials using State Defense Force personnel acting under ostensible personal capacity are presumed to violate this subsection.
+
+(c) **Defensive Cyber Scope.** Permitted "defensive cyber capabilities" for State Defense Forces under Article XI, Section 13 are limited to:
+
+- (1) monitoring State government networks for intrusions;
+- (2) protecting State critical infrastructure from cyber attack;
+- (3) incident response and recovery operations; and
+- (4) cooperation with federal agencies on cyber defense coordination.
+
+Defensive cyber capabilities may not include "active defense" operations involving counter-attacks, offensive intrusion into external networks, persistent access to networks not owned or operated by the State regardless of defensive intent, or any operation that would constitute a "cyber operation with domestic effect" under Section 7(a)(1) of this Article. State Defense Force defensive cyber operations are subject to the inspection and reporting requirements of Section 3(h) of this Article.
+
+---
+
 ## Design Rationale
 
 ### Why Regional Guard Forces?

@@ -419,6 +419,24 @@ for the sole and specific purpose of enforcing that particular Supreme Court ord
 
 (e) **Multi-State Coordination Limits.** State Defense Forces from different States may not conduct joint exercises exceeding one thousand combined personnel without federal notification, establish unified command structures, or coordinate operations that would constitute de facto military force.
 
+(f) **Personal Liability for State Defense Force Violations.**
+
+(1) Any State official who authorizes, directs, or permits a State Defense Force to exceed the personnel cap of subsection (a) is strictly liable regardless of knowledge or intent. For purposes of strict liability under this paragraph, personnel counts shall be determined using the counting methodology of subsection (a) and, where applicable, the force equivalence ratios published under Article XI-RF, Section 5(c).
+
+(2) Any State official who knowingly or recklessly authorizes, directs, or permits a State Defense Force to possess prohibited capabilities under subsection (b) or engage in independent combat roles under subsection (c) is personally liable and subject to removal from office, prosecution under federal law, and permanent disqualification from holding any federal, Regional, or State office.
+
+(3) This subsection supplements and does not displace the personal liability provisions of Article XI-RF, Section 4(h)(2), Section 5(h)(4), and Section 6(j)(2).
+
+(g) **Petition Authority for Reclassification.**
+
+(1) The federal government, any Region, any State, or the Department of Defense may petition the Constitutional Court for a declaration that a State Defense Force has triggered automatic reclassification under subsection (d). The petitioner must present prima facie evidence of violation.
+
+(2) The Court shall conduct an expedited review within thirty (30) days. A reclassification finding is effective immediately pending further judicial review.
+
+(3) During the pendency of a reclassification petition, the State Defense Force shall be subject to federal inspection and monitoring under the Subnational Force Registry established by Article XI-RF, Section 3(h). Refusal to submit to inspection constitutes prima facie evidence of violation.
+
+(4) Upon prima facie showing that a State Defense Force possesses prohibited capabilities under subsection (b) or is engaged in independent combat roles under subsection (c), the Secretary of Defense may certify that temporary operational suspension of the force is necessary to prevent imminent threat to constitutional order. Such certification is effective immediately pending the Court's ruling under paragraph (2). This paragraph incorporates and extends the exigent-circumstance authority of Article XI-RF, Section 5(h)(1) to conventional force violations.
+
 ### Section 14. Congressional Key Override
 
 (a) **Override Authority.** Congress may authorize domestic armed force without Presidential or Governor approval when:
