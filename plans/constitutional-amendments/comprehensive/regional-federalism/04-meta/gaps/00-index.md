@@ -238,7 +238,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 56 | Zombie executive incentive (caretaker obstruction) | Medium | ✅ Resolved |
 | 70 | Administrative attrition via civil service purge | Medium | ✅ Resolved |
 | 79 | Executive caretaker perpetualism | Medium | ✅ Resolved |
-| 87 | "Fiscal Starvation" of the ARB and Independent Councils | Medium | Proposal Available |
+| 87 | "Fiscal Starvation" of the ARB and Independent Councils | Medium | ✅ Resolved |
 | 89 | The "Super-Regional" Legislative Cartel | Medium | Proposal Available |
 | 90 | Senate blue-slipping of constitutional officers | Medium | ✅ Resolved |
 | 97 | Regulatory capture at regional level | Medium | Requires Monitoring |

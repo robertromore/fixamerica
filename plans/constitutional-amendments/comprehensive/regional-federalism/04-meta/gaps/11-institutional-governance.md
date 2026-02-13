@@ -1295,7 +1295,44 @@ Article X, Section 4 protects the Independent Fiscal Council's budget, but no si
 - **Gap 63 (Senate Adjudication Paralysis):** Senate dysfunction; Gap 87 ensures alternative arbiter survives
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article XXI-RF, Section 2. This four-part solution extends Automatic Fiscal Continuation to all Constitutional Oversight Bodies with dedicated 0.1% fund, prohibits appropriation riders with automatic severability, guarantees personnel and operational independence, and maintains accountability through public reporting and GAO audit.
+**RESOLVED** via Article XXI, Section 9(a)-(f) (07-implementation.md). [Briefing: briefing-gap-087.md](briefing-gap-087.md).
+
+**Overlap Analysis (~85-90%):** The original four-part proposal had massive overlap with provisions added by previously resolved gaps. ARB budget (Art II §7-A(cc)-(ee)), IFC budget (Art X §5(e)), Commission budget (Art I §4-A(i)-(m)), NEC budget (Art VII §11), and implementation institution protections (Art XXI §2-A(g)-(h)) collectively covered automatic appropriations, budget floors, anti-manipulation, mandamus enforcement, operational autonomy, anti-retaliation, and removal protections. Resolution narrowed to ~10-15% genuinely additive content.
+
+**Key Corrections:**
+
+| Issue | Original | Corrected |
+|-------|----------|-----------|
+| Placement | Art XXI-RF §2(e)-(q) | Art XXI §9(a)-(f) (§2(e) occupied) |
+| "National Electoral Commission" | Wrong institution name | National Election Court (NEC) per Art VII §7(b) |
+| "Judicial Conduct Board" | Listed as federal body | Regional body (Art XIV-RF §5); removed from scope |
+| "Federal Infrastructure Coordinator" | Listed as body | Does not exist; removed from scope |
+| NEC budget floor | Proposed new §9(d) | Already exists in Art VII §11; cross-referenced in §9(f)(4) |
+| §2-A(g)(1) "unrelated policy" | Assumed sufficient for docket protection | Expenditure conditions explicitly allowed by Art IV §5-A(a)(3); §9(b) closes this loophole |
+| Overlap | ~0% assumed in original proposal | ~85-90% with existing provisions |
+
+**Design Decisions:**
+
+| ID | Decision | Choice | Rationale |
+|----|----------|--------|-----------|
+| D1 | Scope definition | Functional + named inclusions | Functional catches future bodies; named list provides certainty for ARB, IFC, Commission, NEC |
+| D2 | Placement | Art XXI §9 | §2(e) occupied; §2-A through §8 occupied; §9 next available |
+| D3 | NEC budget floor | Remove; cross-reference Art VII §11 | NEC already has comprehensive budget protections in election-reform.md §11 |
+| D4 | Docket condition vehicle | "No appropriation, authorization, or continuing resolution" | Narrow enough to avoid blocking legitimate jurisdiction-defining statutes |
+| D5 | Severability mechanism | Self-executing + 30-day mandatory judicial confirmation | Balances speed with legitimacy; extends Art XXI §2-A(c) pattern |
+| D6 | Interference reporting | Mandatory with safe harbor | Safe harbor prevents chilling legitimate congressional oversight |
+| D7 | GAO audit | Include with case-decision exclusion | Alignment clause coordinates with §2-A(h)(4) and Art VII §11(f) |
+
+**Gaming Vectors Addressed:**
+
+| Vector | Mechanism | Status |
+|--------|-----------|--------|
+| Ruling retaliation (zero budget) | Existing Art II §7-A(cc)-(ee), Art X §5(e), etc. | Covered by prior resolutions |
+| Slow starvation (annual reduction) | Existing §2-A(g)(2)-(3), body-specific floors | Covered by prior resolutions |
+| Case-specific rider ("no funds for X cases") | §9(b)(1)-(4) — prohibits conditioning on outcomes, case categories, dismissal requirements, pre-decisional disclosure | NEW — closes "related policy" loophole in §2-A(g)(1) and expenditure-condition loophole in Art IV §5-A(a)(3) |
+| Soft interference (informal pressure) | §9(d) — mandatory annual interference reporting with safe harbor | NEW |
+| Audit overreach (GAO scrutinizing decisions) | §9(e)(2) — explicit case-decision exclusion with no access to deliberative materials | NEW |
+| Executive capture (co-location, admin services) | §9(d)(3) — reporting requirement for co-location/admin service mandates | NEW (reporting only; operational autonomy covered by §2-A(h)(5)) |
 
 ---
 

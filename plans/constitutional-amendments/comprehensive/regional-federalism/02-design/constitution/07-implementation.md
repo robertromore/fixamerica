@@ -596,6 +596,54 @@ This requirement is informational only — it does not restrict Regional investm
 
 ---
 
+### Section 9. Constitutional Oversight Body Docket Independence and Transparency
+
+(a) **Scope.** This section applies to any body established by this Constitution to exercise independent quasi-judicial, regulatory, or arbitral authority over disputes between levels of government or over the integrity of constitutional processes, including but not limited to:
+
+- (1) the Allocation Review Board (Article II, Section 5);
+- (2) the Independent Fiscal Council (Article X, Section 5);
+- (3) the Independent Boundary Review Commission (Article I, Section 4-A);
+- (4) the National Election Court (Article VII, Section 7(b)).
+
+Where a body's enabling constitutional provision, a standalone constitutional amendment, or Section 2-A of this article establishes protections exceeding those of this section, the more protective provision controls.
+
+(b) **Prohibited Docket Conditions.** No appropriation, authorization, or continuing resolution may:
+
+- (1) condition funding of a body subject to this section on the outcome of any pending or future adjudication, certification, or determination;
+- (2) prohibit the use of funds for any category of cases, disputes, or certifications within the body's constitutional jurisdiction;
+- (3) require the dismissal, stay, or deprioritization of pending matters as a condition of funding;
+- (4) impose reporting requirements that would require pre-decisional disclosure of case analysis, deliberative materials, or draft determinations to any branch of government or any legislative committee.
+
+(c) **Severability and Enforcement.** Any legislative provision violating subsection (b) is severed by operation of law. The affected body shall disregard the severed provision immediately; disregard has full legal effect pending judicial confirmation. Within thirty (30) days of invoking this subsection, the affected body shall petition the Supreme Court for a declaratory judgment confirming severance. The Court shall render its decision within sixty (60) days of petition. If the body fails to petition within thirty (30) days, any party with standing may file the petition. The remainder of the enactment from which a provision is severed retains full force.
+
+(d) **Interference Transparency.** Each body subject to this section shall include in its annual report:
+
+- (1) any communication from a member of Congress, an executive official, or their staff that directly or indirectly seeks to influence the outcome of a pending adjudication, certification, or determination, with the date, source, and substance of the communication;
+- (2) any legislative proposal, introduced or circulated in draft form, that would condition, reduce, or restrict the body's funding in connection with specific cases or categories of cases;
+- (3) any attempt to require co-location with executive branch agencies, mandatory use of executive branch administrative services, or other arrangements that would compromise operational independence.
+
+Reports under this subsection are public records and shall be transmitted simultaneously to Congress, all Regional Governors, and the Supreme Court. The following are excluded from the reporting requirement and may not serve as the basis for an inference of improper interference: (i) routine administrative oversight of budget execution and procurement; (ii) legislative hearings concerning the body's operations, caseload, or budget that do not address pending matters; (iii) classified communications transmitted through channels established by law for national security matters.
+
+(e) **Fiscal Accountability.** The Government Accountability Office shall audit each body subject to this section annually. Such audits:
+
+- (1) shall examine financial management, procurement, personnel costs, and operational efficiency;
+- (2) shall not examine, evaluate, or second-guess the substance of adjudications, certifications, determinations, or other exercises of the body's constitutional judgment; the GAO shall not have access to deliberative materials, case files, or draft determinations;
+- (3) shall be published and transmitted to Congress within one hundred eighty (180) days of each fiscal year's close.
+
+This subsection supplements and does not displace the GAO's role under Section 2-A(h)(4) of this article or under Article VII, Section 11(f). Where an audit under this subsection and an audit under another provision cover the same body and fiscal year, the GAO may combine them into a single report.
+
+(f) **Savings Clause.** Nothing in this section diminishes, displaces, or supersedes:
+
+- (1) the ARB budget protections established in Article II, Section 7-A(cc)-(ee);
+- (2) the IFC budget protections established in Article X, Section 5(e);
+- (3) the Independent Boundary Review Commission budget protections established in Article I, Section 4-A(i)-(m);
+- (4) the National Election Court operational independence protections established in Article VII, Section 11;
+- (5) the implementation institution protections established in Section 2-A(g)-(h) of this article.
+
+Where this section and another provision protect the same body, the protections are cumulative and the more protective provision controls.
+
+---
+
 ## ARTICLE XXII - DEFINITIONS
 
 For purposes of this Constitution:
