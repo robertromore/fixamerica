@@ -302,7 +302,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 27 | Tribal-Regional relations | High | Resolved |
 | 28 | Nuclear facilities and hazardous materials governance (nuclear plant siting, hazmat transport, waste storage, cross-boundary emergency zones) | Medium | ✅ Resolved |
 | 31 | Criminal justice coordination beyond extradition (sentence portability, records, sex offender registry, parole transfer) | Medium | ✅ Resolved |
-| 57 | The Boundary Petrification Paradox (Regional Boundary Rigidity) | Medium | Proposal Available |
+| 57 | The Boundary Petrification Paradox (Regional Boundary Rigidity) — Regional division with Art XXIV carve-out, anti-proliferation safeguards (partisan balance, numerosity limits, per-Region frequency limit), Terminal Equity Buyout with declining obstruction discount, transfer coordination (Continuity Agreements, good-faith standard, Dual Coordination Period), interim Senate allocation | Medium | ✅ Resolved |
 | 58 | Geographic defense penalty (defense burden asymmetry) | Medium | ✅ Resolved |
 | 59 | State-Regional preemption deadlock (vertical supremacy vacuum) | Medium | ✅ Resolved |
 | 60 | Para-diplomacy conflict (regional foreign engagement vacuum) | Medium | ✅ Resolved |
@@ -476,6 +476,6 @@ This gaps analysis should be reviewed and updated:
 - Following any significant intergovernmental compact affecting gap mitigation
 - When new technological or social developments create previously unidentified gaps
 
-**Last Updated**: 2026-02-05
+**Last Updated**: 2026-02-12
 **Version**: 1.7
 **Status**: Living Document

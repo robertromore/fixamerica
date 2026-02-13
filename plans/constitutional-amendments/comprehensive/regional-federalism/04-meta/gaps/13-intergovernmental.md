@@ -462,7 +462,50 @@ Over decades, economic and demographic shifts will change regional identities. I
 | **Axiom 7 (Law Must Move Faster)** | Objective ARB triggers; decennial review cycle; defined timelines |
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article III, Section 6. This six-part solution balances boundary stability against necessary adaptation, prevents both petrification and opportunistic region-shopping, and ensures states are neither trapped in misaligned Regions nor able to escape fiscal responsibility.
+**RESOLVED.** Integrated as Article I, Section 4-A(w)-(ii) in `01-regional-structure.md`, with amendments to Article XXIV, Section 3(c) in `06-supremacy.md` and Article IV, Section 3(c) in `03-regional-governance.md`. [Briefing](briefing-gap-057.md)
+
+**Placement Correction:** Original proposal targeted Article III, Section 6(a)-(t). Article III, Section 6 is "Right to Human Review of Algorithmic Determinations" (Gap 208). Corrected to Article I, Section 4-A(w)-(ii), extending the existing Boundary Revision Governance framework.
+
+**Design Decisions:**
+
+| Decision | Choice | Rationale |
+|----------|--------|-----------|
+| D1: Division vs. Art XXIV §3(b)(iii) | Option A — Amend Art XXIV with carve-out | Cannot bypass constitutional amendment requirement with sub-constitutional procedure; carve-out makes §4-A(w) the sole division path below full amendment bar |
+| D2: Merger procedure | Option C — No bespoke merger procedure | Mergers use existing §4(a) boundary revision process (Commission + 2/3 legislatures + national referendum); avoids conflicts with Schedule A(f)(3) and §4-A(t) |
+| D3: Senate Seat Constraint | Option A+ — Delayed allocation with Art IV transitional exception | Preserves equal-per-Region representation long-term; sharing mechanism neutralizes short-term partisan incentive; Art IV §3(c) amended to accommodate |
+| D4: Terminal Equity Buyout | Option A + 4b — Condition of transfer, not substitute for Fundamental Misalignment | Buyout overrides fiscal-impact vetoes only; does not waive §4(g), §4(j), or §4(i); bilateral transfers can waive by consent |
+| D5: Numerosity limits | Option D — Ratification -1/+2 with emergency override | Adapts to actual starting count; catastrophic dissolution override prevents Art XVII-RF §5(g) deadlock |
+| D6: Frequency limit | Option A — Per-Region 20-year limit on divisions only | Nationwide too restrictive; anti-circumvention clause treats coordinated transfers >1/3 population as functional division |
+| D7: Dual Coordination Period | Option A — Final 1 year, ARB may extend 6 months | Operationally realistic while addressing continuity risk |
+| D8: Partisan Balance Constraint metric | Option B — 10-year rolling average of all federal elections | Reduces timing games; harmonizes with §4-A(n) anti-partisan-advantage rule |
+
+**Gaming Vectors Addressed:**
+
+| Vector | Mechanism |
+|--------|-----------|
+| Anchor State Hostage | Terminal Equity Buyout with declining buyout for obstruction; Contested Transfer to Supreme Court |
+| Swing State Auction | Anti-Arbitrage Certification (existing §4(j)); Policy Continuity Rule (existing §4(i)) |
+| Salami Tactics | Anti-circumvention clause deems coordinated transfers >1/3 population as functional division |
+| Senate Proliferation | Division requires 2/3 Congress; interim seat sharing delays full allocation; per-Region 20-year frequency limit |
+| Hollow Region Death Spiral | Buyout provides exit path; declining buyout penalizes obstruction; Systematic Transfer Obstruction finding |
+| Buffer State Coordination Gap | Continuity Agreements; good-faith standard with waiting-period suspension; Dual Coordination Period |
+| Weaponized Merger | Mergers require full §4(a) process (Commission + 2/3 legislatures + national referendum) |
+| Partisan Division | 10-year rolling average partisan balance constraint; §4-A(n) prohibited criteria |
+| Reconstruction Fund Capture | IFC audit and oversight; 5-year lock on general operating expenses; IFC disbursement suspension |
+| Frequency Limit Circumvention | Anti-circumvention clause for coordinated transfers |
+
+**Overlap Analysis:** ~60-65% of original proposal already existed in Art I §4(f)-(r) (State Transfer), §4-A(a)-(v) (Boundary Revision Governance), and Art XXI §8 (Transition-Period Boundary Adaptability). Resolution focused on genuinely additive elements: division procedure, anti-proliferation safeguards, Terminal Equity Buyout, and transfer coordination obligations.
+
+**Key Corrections from Review:**
+
+- Art X §2 reference ("minimum fiscal capacity threshold") corrected to Art X §3-A(f) fiscal capacity standards
+- "Equalization dependency" defined inline (>50% of total governmental revenue from federal equalization transfers per IFC report)
+- Buyout reframed from alternative-to-misalignment to condition-of-transfer
+- Merger procedure removed in favor of existing §4(a) process
+- Election blackout cross-references added
+- Partisan metric changed from single-election snapshot to 10-year rolling average
+
+Resolved 2026-02-12.
 
 ---
 

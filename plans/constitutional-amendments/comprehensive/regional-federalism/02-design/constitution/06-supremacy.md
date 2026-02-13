@@ -766,6 +766,8 @@ This mechanism ensures that:
 - (iii) restructuring of the Region into multiple Regions;
 - (iv) other fundamental alterations of Regional status.
 
+(c) Notwithstanding subsection (b)(iii), a Region may divide into two Regions pursuant to the procedures established in Article I, Section 4-A(w). Division into three or more Regions remains subject to the requirements of this section.
+
 ---
 
 ### Section 4. Process Requirements

@@ -494,6 +494,101 @@ Congress may by statute establish additional disqualification criteria.
 
 (v) **Savings Clause.** If a Constitutional Oversight Fund or similar mechanism is established by this Constitution providing operational funding to the Commission, the Commission's operational budget under subsection (i) shall be reduced by the amount received from such fund, provided that total Commission operational funding shall not fall below the formula amount established in subsection (i).
 
+#### Regional Division and Anti-Proliferation Safeguards
+
+(w) **Regional Division.** Notwithstanding Article XXIV, Section 3(b)(iii), a Region may divide into two Regions upon satisfaction of all of the following:
+
+- (i) approval by two-thirds (2/3) of the Regional legislature;
+- (ii) majority approval in referenda held separately in each proposed new Region;
+- (iii) approval by two-thirds (2/3) of each chamber of Congress;
+- (iv) ARB certification that each resulting Region meets the fiscal capacity standards established by statute under Article X, Section 3-A(f);
+- (v) compliance with the election blackout restrictions in Section 4(d) and subsection (s) of this section.
+
+Division into three or more Regions requires Constitutional Amendment under Article XXIV, Section 3.
+
+(x) **Partisan Balance Constraint.** No division under subsection (w) shall be approved if:
+
+- (i) the resulting Regions would have a partisan differential of greater than fifteen percent (15%), averaged across all federal elections held within the preceding ten (10) years; AND
+- (ii) the undivided Region had a partisan differential of less than ten percent (10%) under the same measurement.
+
+For purposes of this subsection, "partisan differential" means the absolute difference between the two-party vote shares, calculated using results of all federal general elections (presidential, Senate, and House) within the measurement period, weighted equally by election.
+
+(y) **Numerosity and Frequency Limits.**
+
+- (i) The total number of Regions shall not fall below one fewer than the number of Regions established upon ratification, nor exceed two more than the number of Regions established upon ratification, without constitutional amendment.
+- (ii) No Region may divide more than once in any twenty (20) year period. The twenty-year period begins on the effective date of the division.
+- (iii) Coordinated State transfers under Section 4(f)-(h) that, within any five (5) year period, cumulatively transfer States comprising more than one-third of a Region's population shall be deemed a functional division for purposes of the frequency limit in paragraph (ii), unless the transfers are approved through the boundary revision process under Section 4(a).
+
+(z) **Emergency Override.** If a catastrophic event renders a Region permanently uninhabitable or triggers dissolution under Article XVII-RF, Section 5(g), the numerosity floor in subsection (y)(i) shall be suspended for the duration of the dissolution proceedings and for five (5) years thereafter, during which Congress may authorize boundary revisions that would otherwise breach the floor.
+
+#### Terminal Equity Buyout
+
+(aa) **Fiscal Impact Assessment.** Before any State transfer under Section 4(f)-(h), the IFC shall certify whether the departure would:
+
+- (i) reduce the origin Region's fiscal capacity, as measured under Article X, Section 3-A(f), by more than ten percent (10%); OR
+- (ii) increase the origin Region's reliance on federal equalization transfers under Article X, Section 3 to more than fifty percent (50%) of the origin Region's total governmental revenue as reported in the IFC's most recent annual fiscal status report under Article X, Section 5(c)(5).
+
+(bb) **Terminal Equity Buyout.** If the IFC certifies an adverse fiscal impact under subsection (aa), the transferring State shall pay a Terminal Equity Buyout to the origin Region as a condition of transfer. Payment of the buyout satisfies the fiscal-impact objection but does not waive the requirements of Section 4(g) (Fundamental Misalignment), Section 4(j) (Anti-Arbitrage Certification), or Section 4(i) (Policy Continuity Rule).
+
+- (i) **Calculation.** The buyout amount shall be determined by the IFC using a methodology established by statute, which shall account for the transferring State's share of the origin Region's equalization receipts and the projected fiscal adjustment period. Congress shall establish minimum and maximum buyout amounts, expressed as a range of annual equalization contributions, to prevent trivialization or punitive assessment. Until Congress establishes the methodology, the buyout shall equal five (5) years of the transferring State's projected equalization contribution as calculated by the IFC.
+- (ii) **Payment.** The buyout may be paid as a lump sum or in equal annual installments over five (5) years, with interest at the Federal Funds Rate.
+- (iii) **Declining Buyout for Obstruction.** If the origin Region has rejected three (3) or more transfer requests from any State or States within the preceding ten (10) years without good-faith fiscal or governance rationale as determined by the ARB, the buyout shall be reduced by twenty percent (20%) per such rejection, to a minimum of two (2) years of projected equalization contribution. For purposes of this paragraph, a "rejection" includes denial of consent for a Bilateral Agreement under Section 4(f), but does not include a denial based on ARB-certified fiscal impact or anti-arbitrage grounds.
+- (iv) **Expedited Buyout.** If the ARB certifies that the origin Region has engaged in Systematic Transfer Obstruction — defined as a pattern of blocking transfers without good-faith fiscal or governance rationale — the departing State may pay a buyout equal to one (1) year of projected equalization contribution.
+- (v) **Bilateral Waiver.** No buyout is required for a Bilateral Agreement under Section 4(f) where both the origin and destination Regions consent to waive the buyout.
+
+(cc) **Reconstruction Fund.** Terminal Equity Buyout payments shall be deposited in an origin-Region Reconstruction Fund:
+
+- (i) to be used exclusively for fiscal stabilization, infrastructure investment, workforce development, and economic transition in the origin Region;
+- (ii) subject to IFC audit and annual reporting;
+- (iii) not available for general Regional operating expenses for five (5) years following deposit;
+- (iv) administered by the origin Region's fiscal authority under IFC oversight; the IFC may suspend disbursements if it finds misuse.
+
+#### Transfer Coordination Obligations
+
+(dd) **Continuity Agreements.** Within ninety (90) days of a State initiating transfer proceedings under Section 4(f)-(h), the ARB shall certify the minimum coordination obligations the State must maintain with its origin Region during the transfer waiting period, including:
+
+- (i) infrastructure maintenance commitments;
+- (ii) environmental compliance obligations;
+- (iii) emergency response participation;
+- (iv) fiscal obligations, including any equalization contributions due through the transfer effective date.
+
+The ARB may delegate preparation of the Continuity Agreement to the IFC for fiscal obligations and to the relevant federal agencies for infrastructure and environmental matters. The Continuity Agreement shall be published and transmitted to both the origin and destination Regions.
+
+(ee) **Good Faith Standard.** A transitioning State shall participate in origin-Region coordination mechanisms in good faith, as if the transfer were not pending:
+
+- (i) failure to meet Continuity Agreement obligations, as determined by the ARB, shall suspend the transfer waiting period for any period of non-compliance;
+- (ii) the ARB may extend the waiting period by up to two (2) years for persistent non-compliance;
+- (iii) the ARB may declare forfeiture of the transfer application for egregious or willful non-compliance, subject to expedited appeal to the Supreme Court within thirty (30) days.
+
+(ff) **Dual Coordination Period.** During the final one (1) year of any transfer waiting period:
+
+- (i) the transferring State shall participate in coordination mechanisms of both the origin and destination Regions;
+- (ii) the destination Region may not impose new obligations on the transferring State without origin Region consent;
+- (iii) upon transfer completion, the destination Region assumes proportional responsibility for any infrastructure commitments made during the Dual Coordination Period that benefit the transferring State;
+- (iv) the ARB may extend the Dual Coordination Period by up to six (6) additional months if it determines that specific continuity risks require additional handoff time.
+
+#### Senate Allocation Following Division or Merger
+
+(gg) **Interim Senate Allocation.** Notwithstanding Article IV, Section 3(b) and (c), upon a division under subsection (w):
+
+- (i) the resulting Regions shall share the original Region's three (3) Senate seats until the effective date of the first decennial reapportionment following the division;
+- (ii) each resulting Region shall elect one (1) Senator; the third seat shall alternate between the resulting Regions on a two-year cycle, with the first allocation determined by lot conducted by the Clerk of the Supreme Court;
+- (iii) upon the first reapportionment following the division, each Region shall receive its full three-Senator allocation under Article IV, Section 3(b);
+- (iv) Senators serving at the time of division shall complete their terms representing the Region of their residence; vacancies arising during the interim period shall be filled by the Region in which the vacancy occurs.
+
+(hh) **Merger Senate Adjustment.** Upon a merger approved under the boundary revision process of Section 4(a):
+
+- (i) the merged Region shall be represented by three (3) Senators under Article IV, Section 3(b);
+- (ii) Senators serving at the time of merger shall complete their terms; if the merged Region would temporarily have more than three Senators, no new Senators shall be elected until attrition reduces the delegation to three or fewer;
+- (iii) the total membership of the Senate shall be recalculated under Article IV, Section 3(c) upon the effective date of the merger.
+
+(ii) **Savings Clause.** Nothing in subsections (w) through (hh) shall be construed to:
+
+- (i) modify the boundary revision process under Section 4(a) or the Commission's authority under this section, except as expressly provided in subsection (w);
+- (ii) create a right to division independent of the requirements in subsection (w);
+- (iii) affect the State Transfer mechanism under Section 4(f)-(r), except as expressly provided in subsections (aa)-(ff);
+- (iv) waive the election blackout restrictions in Section 4(d) and subsection (s), which apply to all proceedings under subsections (w) through (hh).
+
 ---
 
 ### Section 5. Inter-Regional Cooperation

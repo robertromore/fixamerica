@@ -29,7 +29,7 @@ The House shall be elected by the People according to population and shall initi
 
 (b) Each Region shall be represented by three Senators, elected at-large within the Region by ranked-choice voting for staggered six-year terms.
 
-(c) The total membership of the Senate shall be three times the number of Regions, plus any at-large members serving under subsection (d).
+(c) The total membership of the Senate shall be three times the number of Regions, plus any at-large members serving under subsection (d), subject to the interim allocation provisions of Article I, Section 4-A(gg) following a Regional division and Section 4-A(hh) following a Regional merger.
 
 (d) Each Region shall select Senators according to Regional law, provided such law provides for direct popular election.
 
