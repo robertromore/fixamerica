@@ -218,7 +218,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 66 | "Regulatory Dumping" via State-Level Deregulation (Remedial Supremacy) — substantial frustration standard, implied private enforcement with express opt-out, Regional court jurisdiction, federal court backstop, non-waivable protections with reasoned-basis requirement, anti-clawback, ARB review with exhaustion/frivolousness gating, domain-limited repeat offender escalation | High | ✅ Resolved |
 | 67 | Infrastructure ransom vector | Medium | ✅ Resolved |
 | 75 | Interregional transit fee-gouging loophole | Medium | ✅ Resolved |
-| 83 | "Infrastructure Decay" as Regional Coercion | Medium | Proposal Available |
+| 83 | "Infrastructure Decay" as Regional Coercion — RESOLVED via Art I §6(hh): Regional Infrastructure Trust (2% minimum, independent board, no-raid), annual independent inspection, critical-safety 30-day fast track supplementing §6(ff), cost recovery cascade (Trust → transfers → Equalization) with 150% cap and basic services floor, Infrastructure Coercion finding distinct from §6(dd) manufactured safety necessity, sub-closure degradation standard, federal facility and Legacy Burden Factor interaction clauses | Medium | ✅ Resolved |
 | 92 | Technical standards as de facto secession | Medium | ✅ Resolved |
 | 99 | Tribal veto via infrastructure entrapment | Medium | ✅ Resolved |
 | 104 | Predatory infrastructure licensing (labor chokepoints) | Medium | ✅ Resolved |

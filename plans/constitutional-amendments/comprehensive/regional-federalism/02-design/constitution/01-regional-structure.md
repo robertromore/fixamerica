@@ -1051,6 +1051,64 @@ Normal economic competition and market effects resulting from independent Region
 - (2) treble damages upon proof of deliberate under-maintenance;
 - (3) attorney's fees and costs.
 
+#### Regional Infrastructure Trust and Enhanced CII Enforcement
+
+(hh) **Regional Infrastructure Trust and Enhanced CII Enforcement.** In addition to the maintenance obligations established in subsections (aa) through (gg), the following provisions establish structural safeguards against passive infrastructure neglect as a coercive tool:
+
+(1) **Trust Mandate.** Each Region shall establish a Regional Infrastructure Trust Fund, dedicated exclusively to the maintenance, repair, and capital improvement of Critical Inter-Regional Corridors designated under subsection (bb). The Trust Fund shall be funded by dedicated revenue streams not subject to annual appropriation discretion.
+
+(2) **Minimum Funding.** Each Region shall commit to its Infrastructure Trust Fund not less than two percent (2%) of Regional tax revenue annually. The Independent Fiscal Council shall review the adequacy of this floor every five years and may recommend adjustment to Congress.
+
+(3) **Trust Independence.**
+
+- (A) Each Infrastructure Trust Fund shall be governed by an independent board with members serving staggered terms of not less than six (6) years;
+- (B) Trust Fund revenues and assets may not be diverted, redirected, or encumbered for non-infrastructure purposes;
+- (C) The Trust Fund shall publish quarterly reports on fund status, expenditures, and planned maintenance activities through the National Infrastructure Transparency System established under subsection (q).
+
+(4) **Annual Independent Inspection.** Critical Inter-Regional Corridors shall be inspected annually by engineers independent of the maintaining jurisdiction and certified by the Allocation Review Board. Inspection results shall be:
+
+- (A) published in the National Infrastructure Transparency System within thirty (30) days of completion;
+- (B) provided to all affected Regions within forty-eight (48) hours of completion;
+- (C) used as the basis for deficiency determinations under paragraph (5).
+
+(5) **Critical-Safety Deficiency Acceleration.** In addition to the cure periods established under subsection (ff):
+
+- (A) Critical safety deficiencies that pose imminent risk of structural failure or loss of life shall be cured within thirty (30) days, or the jurisdiction shall implement a federal-approved temporary closure with alternative routing;
+- (B) If not cured within thirty (30) days, federal repair authority under subsection (ff)(2) activates immediately without further cure period;
+- (C) Minor deficiencies that do not materially impair safety or capacity may be cured within three hundred sixty-five (365) days.
+
+(6) **Cost Recovery Cascade.** When the federal government undertakes maintenance under subsection (ff)(2), costs shall be recovered in the following order:
+
+- (A) First, from the Region's Infrastructure Trust Fund;
+- (B) Second, from the Region's federal highway and infrastructure allocations under subsection (ff)(2);
+- (C) Third, if allocations under subparagraph (B) are insufficient, from the Region's Fiscal Equalization allocation under Article X.
+
+(7) **Cost Recovery Limitations.** Cost recovery under paragraph (6) shall not:
+
+- (A) exceed one hundred fifty percent (150%) of the reasonable cost of repair as certified by the Department of Transportation;
+- (B) reduce the Region's Fiscal Equalization allocation below levels necessary for basic services as certified by the Independent Fiscal Council;
+- (C) create a fiscal emergency that itself prevents future infrastructure maintenance.
+
+(8) **Infrastructure Coercion Finding.** The Allocation Review Board may find Infrastructure Coercion, distinct from Manufactured Safety Necessity under subsection (dd), if:
+
+- (A) a pattern of selective maintenance exists — the Region maintains infrastructure serving its own residents at materially higher standards than Critical Inter-Regional Corridors serving primarily interstate traffic;
+- (B) the Region has conditioned infrastructure maintenance or repair on policy concessions from affected Regions;
+- (C) the Region has diverted Infrastructure Trust Fund resources to non-CII purposes while CII deficiencies exist; or
+- (D) the Region has adequate resources for CII maintenance but has systematically prioritized non-CII spending.
+
+(9) **Coercion Remedies.** Upon a finding of Infrastructure Coercion:
+
+- (A) the Region shall cure all identified CII deficiencies within ninety (90) days;
+- (B) the Region's Infrastructure Trust Fund shall be placed under federal administration by the Allocation Review Board for a period of two (2) years;
+- (C) the Region shall compensate affected Regions for documented economic losses resulting from the coercive neglect;
+- (D) a second finding of Infrastructure Coercion within ten (10) years shall result in the Region's designation as a repeat offender under subsection (p), with all attendant consequences.
+
+(10) **Sub-Closure Degradation Standard.** The maintenance obligation under subsection (aa)(1) to maintain infrastructure "at designed capacity" includes maintaining service quality, load capacity, and operational efficiency. A jurisdiction may not avoid enforcement by maintaining infrastructure above closure threshold but below efficient operational standards. For purposes of subsections (dd) through (ff), degradation that reduces effective capacity below eighty percent (80%) of design specifications — including through weight restrictions, speed reductions, or lane closures — shall be treated as a deficiency subject to cure and federal repair authority.
+
+(11) **Interaction with Federal Facility Provisions.** Where Critical Inter-Regional Corridor infrastructure also serves a Vital Federal Operation protected under Article II, Section 10, the more protective standard applies. Federal repair authority under this subsection and under Article II, Section 10(i)(4) may be exercised concurrently.
+
+(12) **Interaction with Legacy Burden Factor.** A Region may not simultaneously claim Legacy Burden Factor credit under Article X, Section 4(b-1) for deferred maintenance and resist Infrastructure Trust Fund obligations under this subsection for the same infrastructure. Upon establishment of the Infrastructure Trust Fund, deferred-maintenance legacy claims for Critical Inter-Regional Corridor infrastructure shall transition to Trust Fund responsibility within five (5) years.
+
 #### Proxy Blockade Prevention
 
 (ii) **Regional Attribution for Private Actor Restrictions.** Regions are responsible for the actions of private entities that have the effect of restricting inter-Regional transit or commerce:

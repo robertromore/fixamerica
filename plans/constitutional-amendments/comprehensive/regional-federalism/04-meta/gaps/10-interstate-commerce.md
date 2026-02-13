@@ -1200,7 +1200,62 @@ Gap 67 addresses active Infrastructure Ransom—Region explicitly threatening co
 - **Gap 80 (Nullification by Underfunding):** Fiscal squeeze; Gap 83 addresses infrastructure-specific squeeze
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article IX-RF, Section 8. This four-part solution creates Critical Interstate Infrastructure designation with mandatory Regional Infrastructure Trusts, establishes federal maintenance standards with independent inspection, enables automatic federal repair authority with cost recovery from Regional transfers, and prohibits infrastructure coercion with ARB enforcement and federal receivership remedy.
+**RESOLVED** via Art I §6(hh) in `01-regional-structure.md`.
+
+**Overlap Analysis:** ~55-65% overlap with existing Art I §6(aa)-(gg) (Gap 67 Minimum Maintenance Standards resolution). Initial estimate of ~32% was corrected upward after identifying §6(aa) maintenance obligation, §6(bb) Critical Inter-Regional Corridors designation (nearly identical to CII), §6(cc) maintenance reporting, §6(dd) manufactured safety necessity, §6(ee) burden of proof for decay closures, §6(ff) federal maintenance backstop, and §6(gg) private right of action.
+
+**Placement Correction:** Proposal targeted "Article IX-RF, Section 8(a)-(o)." WRONG — Art IX is Lobbying and Anti-Corruption (standalone); "Art IX-RF" doesn't exist. Corrected to Art I §6(hh), extending the Minimum Maintenance Standards framework.
+
+**Design Decisions:**
+
+| Decision | Choice | Rationale |
+|----------|--------|-----------|
+| D1: Placement | Art I §6(hh) | Keeps all infrastructure maintenance/decay provisions together in Minimum Maintenance Standards framework |
+| D2: Trust structure | Full trust — independent board, dedicated revenue, 2% minimum, no-raid | Main innovation preventing "fiscal constraints" excuse at structural level |
+| D3: Minimum funding | 2% of Regional tax revenue with IFC 5-year review | Simple, enforceable floor; IFC may recommend adjustment |
+| D4: Inspection regime | Annual inspection by ARB-certified independent engineers | Leverages existing ARB framework; avoids new federal inspection bureaucracy |
+| D5: Deficiency timeline | 30-day critical fast track + 365-day minor allowance supplementing §6(ff) | Supplements rather than replaces existing 180-day cure; faster for critical, more lenient for minor |
+| D6: Cost recovery | Cascade (Trust → transfers → Equalization) with 150% cap and basic services floor | Strengthens §6(ff)(2) without replacing it; adds IFC fiscal safeguard |
+| D7: Coercion finding | Distinct finding for selective neglect patterns, separate from §6(dd) | Covers sub-closure degradation and selective maintenance not captured by manufactured safety necessity |
+| D8: Role mapping | ARB for designation/enforcement, DOT for technical certification, IFC for fiscal | Consistent with existing §6 framework; no "Federal Infrastructure Coordinator" (doesn't exist) |
+
+**Gaming Vectors Addressed:**
+
+| Vector | Mechanism |
+|--------|-----------|
+| "Benign Neglect" (fiscal constraints excuse) | Trust mandate with 2% floor eliminates funding discretion; §6(hh)(1)-(3) |
+| "Selective Maintenance" | Infrastructure Coercion finding with pattern analysis; §6(hh)(8)(A) |
+| "Fiscal Hardship" Shield | Trust independence prevents political diversion; §6(hh)(3)(B) |
+| "Deferred Maintenance Cascade" | Annual inspection catches early; critical-safety 30-day fast track; §6(hh)(4)-(5) |
+| "Sub-Closure Degradation" | Explicit 80% capacity standard; §6(hh)(10) |
+| "Maintenance Fund Raid" | No-raid rule + quarterly NITS reporting; §6(hh)(3)(B)-(C) |
+| "Cost Recovery Void" | Cascade to Equalization; §6(hh)(6)(C) |
+| Conditioned repair as coercion | Explicit prohibition; §6(hh)(8)(B) |
+
+**Key Corrections from Proposal:**
+
+| Proposal Element | Correction | Reason |
+|------------------|------------|--------|
+| "Art IX-RF §8" placement | Art I §6(hh) | Art IX-RF doesn't exist; §6 is correct home |
+| "Federal Infrastructure Coordinator" | ARB + DOT + IFC | Role doesn't exist; functions mapped to existing bodies |
+| "National Infrastructure Status Registry" | NITS (already exists at §6(q)) | No redundant registry |
+| CII designation | Cross-reference §6(bb) Critical Inter-Regional Corridors | Nearly identical concept; no duplication |
+| Federal maintenance standards | Cross-reference §6(aa) | Already covered |
+| Manufactured safety necessity | Cross-reference §6(dd)-(ee) | Already covered; new coercion finding supplements |
+| Federal repair authority | Cross-reference §6(ff) | Already covered; new provisions supplement |
+| Private right of action | Cross-reference §6(gg) | Already covered |
+
+**Elements NOT Duplicated (from existing §6(aa)-(gg)):**
+
+- §6(aa): General maintenance obligation (maintain at designed capacity, regular inspections, adequate funding)
+- §6(bb): Critical Inter-Regional Corridors designation and scope
+- §6(cc): Maintenance reporting (annual reports, <80% capacity alerts, 5-year plans)
+- §6(dd): Manufactured Safety Necessity Doctrine
+- §6(ee): Burden of proof for decay-based closures
+- §6(ff): Federal Maintenance Backstop (180-day cure, federal maintenance, cost recovery, mandatory assumption)
+- §6(gg): Private right of action for manufactured decay
+
+**Briefing:** [briefing-gap-083.md](briefing-gap-083.md)
 
 ---
 
