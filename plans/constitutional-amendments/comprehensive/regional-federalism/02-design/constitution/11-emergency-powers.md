@@ -74,13 +74,67 @@ The Emergency Powers Reform Amendment works with either the existing federal/sta
 
 ---
 
-### Section 3. Coordination with Federal Emergency Powers
+### Section 3. Federal-Regional Emergency De-Confliction
 
-(a) Federal emergencies supersede conflicting Regional emergencies within the geographic scope of the federal declaration.
+*Resolves Gap 91 — "Emergency Nesting" Power Grab. Replaces the original three-subsection coordination provision with a comprehensive de-confliction framework addressing overlapping federal-Regional emergencies, competency-based authority assignment, prohibited Regional emergency actions, ARB emergency scope review, pretextual emergency findings, and executive accountability.*
 
-(b) Regional Governors may request federal emergency assistance. Such requests do not require Regional emergency declaration.
+(a) **Primary Incident Command.** When federal and Regional emergency declarations overlap in subject matter or geographic scope:
 
-(c) Regional Guard Forces may be deployed under Regional emergency authority without federal approval, subject to the limitations in Article XI-RF.
+- (1) the level of government possessing enumerated constitutional authority over the primary subject matter of the emergency shall exercise Primary Incident Command;
+- (2) when both levels possess concurrent or ambiguous authority, the Arbitration and Review Board shall assign Primary Incident Command within forty-eight (48) hours of notification based on:
+    - (A) proximity of authority — which level is constitutionally closer to the affected population and subject matter;
+    - (B) operational capacity — which level possesses the resources, expertise, and infrastructure to respond effectively;
+    - (C) subject-matter competency — which level has established programs, trained personnel, and institutional knowledge relevant to the emergency;
+    - (D) scope of impact — whether the emergency is confined to one Region or affects multiple Regions or the nation;
+- (3) the level not designated as Primary Incident Command shall provide support and coordination as directed by the Primary Incident Command authority, unless doing so would violate that level's constitutional obligations;
+- (4) the ARB determination under paragraph (2) is immediately effective upon issuance and may not be stayed pending appeal; appeal lies to the Supreme Court, which shall rule within seven (7) days.
+
+(b) **Federal Supremacy Preservation.** Notwithstanding subsection (a):
+
+- (1) for emergencies involving exclusively enumerated federal powers under Article XVII, Section 3 — including national security, federal monetary and banking authority, and immigration — federal authority is Primary Incident Command by operation of law without ARB determination;
+- (2) during Bio-Security Emergencies declared under Article XVII, Section 11, or Section 4 of this article, federal authority supersedes absolutely and this Section's competency-based assignment does not apply;
+- (3) nothing in this Section diminishes the federal government's authority to exercise its enumerated emergency powers within any Region.
+
+(c) **Citizens' Compliance Clarity.** During overlapping emergencies:
+
+- (1) citizens shall comply with orders issued by the Primary Incident Command authority; where Primary Incident Command has not yet been determined, citizens shall comply with the most restrictive order applicable to their situation;
+- (2) good faith compliance with Primary Incident Command orders, or with the most restrictive applicable order prior to determination, is a complete defense to any prosecution, civil action, or administrative penalty arising from non-compliance with a conflicting order from the other level;
+- (3) no person may be penalized for following conflicting emergency orders when Primary Incident Command has not been determined and the conflicting orders cannot be simultaneously obeyed.
+
+(d) **Regional Requests for Federal Assistance.** Regional Governors may request federal emergency assistance regardless of whether a federal emergency has been declared. Such requests do not require a Regional emergency declaration. The federal government shall respond within seventy-two (72) hours with either assistance or a written explanation of the basis for denial.
+
+(e) **National Guard Coordination.** National Guard deployment during overlapping emergencies shall be directed by the Primary Incident Command authority. Regional Guard Forces may be deployed under Regional emergency authority without federal approval, subject to the limitations in Article XI-RF. Federalization of a Region's National Guard requires compliance with applicable federal law and does not alter Primary Incident Command assignment for non-military emergency response.
+
+(f) **Prohibited Regional Emergency Actions.** In addition to the prohibitions established by Article XVII, Section 8(c), Regional emergency powers may not be used to:
+
+- (1) permanently alter property rights, regulatory structures, or governmental organization — emergency measures are temporary by definition and expire upon termination of the emergency;
+- (2) preempt, suspend, or impair the enumerated powers of other governmental levels, including federal agencies operating within the Region and sub-Regional units performing delegated functions;
+- (3) suspend, postpone, or cancel elections, legislative sessions, or judicial proceedings, except that the time and place of elections may be modified when physical conditions at designated polling locations make voting impossible, provided that voting access is maintained through alternative means within the same election period;
+- (4) impose restrictions on interstate movement of persons or goods beyond those authorized by the specific emergency category and approved by the Primary Incident Command authority.
+
+(g) **ARB Emergency Scope Review.** Any person affected by Regional emergency measures may petition the Arbitration and Review Board for review of whether specific measures exceed the scope of the declared emergency:
+
+- (1) the ARB shall issue a determination within fourteen (14) days of the petition;
+- (2) if the ARB finds that measures exceed declared emergency scope, those measures are void and the Region shall cease enforcement within forty-eight (48) hours;
+- (3) ARB scope review under this subsection is concurrent with, and does not preclude, judicial review under Article XVII, Section 6;
+- (4) the ARB may initiate scope review on its own motion when it has reasonable grounds to believe Regional emergency measures exceed declared scope.
+
+(h) **Pretextual Emergency Finding.** The Arbitration and Review Board may find a Regional emergency declaration pretextual upon petition by any affected person, by the federal government, or on its own motion:
+
+- (1) an emergency declaration is pretextual if:
+    - (A) the declared threat does not meet the objective criteria for the declared emergency category as established in Article XVII, Section 2;
+    - (B) emergency powers are being used for purposes materially unrelated to the declared threat; or
+    - (C) the emergency is being maintained after the conditions giving rise to it have clearly ended and normal governance is feasible;
+- (2) upon a finding of pretext, the emergency terminates immediately; all emergency measures cease within forty-eight (48) hours; and the restoration requirements of Article XVII, Section 7 apply;
+- (3) the Regional Governor or official who declared or maintained the pretextual emergency loses emergency declaration authority for the remainder of their current term; subsequent emergencies within the Region require declaration by the Regional Legislature by majority vote;
+- (4) a pretextual emergency finding is subject to immediate judicial review; the reviewing court shall apply de novo review and may reverse the ARB finding only upon clear and convincing evidence that the emergency was genuine.
+
+(i) **Interaction with Existing Protections.** This Section supplements and does not replace:
+
+- (1) the Regional anti-ratcheting provisions of Section 2(e)-(h), which continue to govern sequential and cumulative emergency duration at the Regional level;
+- (2) the federal duration limitations of Article XVII, Section 4, including the absolute two-year limit;
+- (3) the Serial Emergency Prevention provisions of Article XVII, Section 12, which govern sequential federal declarations;
+- (4) all rights protections established by Article XVII, Section 8.
 
 ---
 
@@ -110,7 +164,7 @@ Failure to maintain such capacity does not excuse non-compliance with data-shari
 - (3) under the operational direction of civilian public health authorities, not military command;
 - (4) for logistical support, facility security, and distribution operations — not for enforcement of public health orders against individual civilians.
 
-(d) **Federal Supersession.** During a Bio-Security Emergency, Article XVII, Section 11(b) supersedes Regional concurrent authority over communicable disease response. Section 3(a) of this article (federal emergencies supersede conflicting Regional emergencies) applies with full force to Bio-Security Emergencies.
+(d) **Federal Supersession.** During a Bio-Security Emergency, Article XVII, Section 11(b) supersedes Regional concurrent authority over communicable disease response. Section 3(b)(2) of this article (absolute federal supremacy during Bio-Security Emergencies) applies with full force.
 
 (e) **Post-Emergency Restoration.** Upon termination of a Bio-Security Emergency:
 

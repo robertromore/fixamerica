@@ -1660,7 +1660,58 @@ Article XVII-RF allows Regional Governors to declare emergencies for matters wit
 - **Gap 84 (Referendum Hijacking):** Emergency affecting referendum; Gap 91 addresses emergency limitations generally
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article XVII-RF, Section 3. This four-part solution establishes Primary Incident Command with 48-hour ARB determination for overlapping emergencies, limits emergency duration to 60-day renewable periods with 730-day absolute cap, prohibits emergency stacking and scope creep with ARB review, and creates pretextual emergency finding with personal executive accountability.
+**RESOLVED.** Art XVII-RF §3 expanded from 3-line coordination provision to comprehensive Federal-Regional Emergency De-Confliction framework (§3(a)-(i)).
+
+**Overlap Assessment:** ~55-65%. Duration limitations (Part 2) were ~95% redundant with existing Art XVII-RF §2(a)-(h) and Art XVII §4(e)-(f); stacking prohibition ~90% redundant with §2(e)-(h); existing anti-ratcheting framework was in several cases STRONGER than proposal. Genuinely additive: Primary Incident Command procedures, Citizens' Compliance Clarity, Regional prohibited actions list, ARB scope review, pretextual emergency finding with loss of declaration authority.
+
+**Design Decisions:**
+
+| Question | Decision | Rationale |
+|----------|----------|-----------|
+| D1: Placement | A: Expand §3 | Right topical home; subsumes original supersession rule into nuanced framework |
+| D2: Supersession principle | C: Federal supremacy for enumerated federal powers; competency-based for concurrent/ambiguous | Preserves federal authority where constitutionally mandated; adds nuance for genuinely concurrent matters |
+| D3: Duration provisions | B: Omit | Existing §2(a)-(h) + Art XVII §4(e) are more comprehensive and in several cases stronger (30-day vs 60-day renewals, cooling-off periods, cumulative tracking) |
+| D4: Prohibited actions | D: Add to §3, cross-reference §8(c) | Regional-specific list (permanent changes, preemption, elections) complements federal list (torture, discrimination) |
+| D5: ARB scope review | C: Concurrent with judicial review | Different forums serve different purposes; no preclusion |
+| D6: Pretextual finding | C: ARB finding subject to judicial review | ARB more accessible and faster; courts provide due process |
+| D7: Executive accountability | C: Loss of declaration authority only | Impeachment and personal liability already available; loss of authority is genuinely new deterrent |
+| D8: Bio-Security carve-out | A: Explicit exclusion | Pandemic speed incompatible with competency-based assessment; Art XVII §11 / §4 require absolute federal supremacy |
+
+**Placement Correction:** Proposal targeted Art XVII-RF §3(a)-(n) — partially correct section but wrong to duplicate existing duration/stacking provisions. Resolved by expanding §3 from 3 subsections to 9 subsections (a)-(i), incorporating only genuinely additive elements.
+
+**Gaming Vectors Addressed:**
+
+| Vector | Resolution |
+|--------|------------|
+| Overlapping authority confusion | §3(a) Primary Incident Command with 48-hour ARB determination |
+| Federal emergency pre-emption of Regional matters | §3(a)(2) competency-based assessment for concurrent powers |
+| Citizens caught between conflicting orders | §3(c) Citizens' Compliance Clarity — most restrictive + good faith defense |
+| Emergency scope creep | §3(f) prohibited Regional emergency actions + §3(g) ARB 14-day scope review |
+| Pretextual emergency | §3(h) ARB pretextual finding with automatic termination |
+| Perpetual emergency via nesting | Existing §2(e)-(h) anti-ratcheting (not duplicated) |
+| Emergency structural changes | §3(f)(1) permanent alterations prohibited |
+| Emergency election manipulation | §3(f)(3) elections/sessions/proceedings cannot be suspended |
+
+**Key Corrections from Proposal:**
+
+| Proposal Element | Correction | Reason |
+|------------------|------------|--------|
+| 60-day initial period (Part 2(e)) | Omitted | Existing 30-day Regional reauthorization is stronger check |
+| 730-day absolute cap (Part 2(g)) | Omitted | Identical to existing 2-year limit in Art XVII §4(e) |
+| Stacking prohibition (Part 2(h)) | Omitted | Existing §2(e)-(h) more comprehensive (cooling-off, cumulative tracking) |
+| ARB as sole reviewer (Part 3(k)) | Made concurrent with courts | Judicial review under Art XVII §6 preserved |
+| Full executive consequences (Part 4(n)) | Limited to loss of declaration authority | Impeachment/liability already available |
+| No Bio-Security exception | Added §3(b)(2) explicit carve-out | Art XVII §11 / §4 mandate federal supremacy during pandemics |
+
+**Elements NOT Duplicated (Already in Constitution):**
+
+- Duration limits: Art XVII-RF §2(a)-(d) + Art XVII §4(a)-(e)
+- Anti-ratcheting: Art XVII-RF §2(e)-(h) + Art XVII §12
+- Serial emergency prevention: Art XVII §12(a)-(d)
+- Restoration mandate: Art XVII §7
+- Rights protections: Art XVII §8(c)
+- Prohibition on emergency expansion: Art XVII §10(a)-(e)
+- Nexus re-demonstration: Art XVII §4(f)
 
 ---
 
