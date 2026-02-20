@@ -2478,7 +2478,7 @@ While Article I, Section 8 guarantees "Freedom of Movement" and Gap 40 identifie
 - **Gap 65 (Credentialing Protectionism):** Professional mobility; Gap 138 addresses fiscal mobility barriers
 
 **Status:**
-**PROPOSAL AVAILABLE.** Recommend constitutional amendments to Article X-RF, Section 7. This three-part solution establishes automatic dollar-for-dollar tax credits as default rule, creates IFC arbitration for tax disputes with equalization enforcement, and encourages bilateral treaties while capping effective rates.
+**RESOLVED** via Article X, Section 22 (Protection of Cross-Regional Labor Mobility). Source-first taxation with mandatory dollar-for-dollar credit and residence-region top-up. Functional covered-tax definition catches label gaming. IFC exclusive technical arbitration with graduated 3-stage enforcement (30-day cure, 150% equalization adjustment, ARB intervention with personal liability). Bilateral treaty framework with rate cap. Consolidates and supersedes former Art I §10(hh)-(ii). Conforming amendments: Art I §10(hh) forward reference, §10(jj)→§10(ii) renumbered with §8(t)(3) cross-reference updated, Art X §14(b) phantom court fixed, §5(c)(7) IFC duty added, §4(i)(4) non-coercion savings added. Resolved via multi-LLM protocol with 2 review rounds.
 
 ---
 

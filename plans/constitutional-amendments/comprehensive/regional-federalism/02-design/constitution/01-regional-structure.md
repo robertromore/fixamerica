@@ -1423,7 +1423,7 @@ The originating jurisdiction may not impose conditions, penalties, or differenti
 - (C) the beneficiary shall continue receiving full benefits from the originating jurisdiction during the dispute period; and
 - (D) interest shall accrue on any underpayment at the Federal Funds Rate from the date of the transfer request.
 
-(3) **Portability as Distinct from Arbitrage.** Portability under this section preserves the value of benefits already earned through past contributions and service. It does not entitle a beneficiary to enhancements, higher benefit formulas, or improved terms available in the destination jurisdiction that the beneficiary has not earned through contributions or service in that jurisdiction. The benefit arbitrage prohibition under subsection (jj) of Section 10 of this Article applies to attempts to claim unearned benefits through strategic relocation.
+(3) **Portability as Distinct from Arbitrage.** Portability under this section preserves the value of benefits already earned through past contributions and service. It does not entitle a beneficiary to enhancements, higher benefit formulas, or improved terms available in the destination jurisdiction that the beneficiary has not earned through contributions or service in that jurisdiction. The benefit arbitrage prohibition under subsection (ii) of Section 10 of this Article applies to attempts to claim unearned benefits through strategic relocation.
 
 (u) **Enforcement.**
 
@@ -2377,20 +2377,9 @@ Whether a program is "designed, targeted, or structured to affect electoral outc
 - (2) no Region may offer tax residency status to individuals who do not meet the physical presence or primary dwelling requirements;
 - (3) shell residencies, nominal addresses, or residency-for-purchase arrangements shall be void for tax purposes.
 
-(hh) **Economic Nexus for Services.** A person who is tax-resident in one Region but performs substantial remote work for employers or clients located in another Region shall:
+(hh) **Cross-Regional Taxation.** For protection against double taxation of cross-Regional workers, including source-first taxation, mandatory reciprocal credits, income apportionment, and dispute resolution, see Article X, Section 22.
 
-- (1) owe income tax to their Region of tax residency on all income;
-- (2) be entitled to a credit against their home Region tax for any withholding or income tax paid to the work-source Region, up to the amount of home Region tax on that income; and
-- (3) not be subject to double taxation through cumulative Regional income taxes exceeding the higher of the two Regions' rates.
-
-(ii) **Apportionment for Multi-Regional Activity.** The Inter-Regional Fiscal Court shall promulgate uniform rules for apportioning income among Regions when an individual:
-
-- (1) maintains genuine residences in multiple Regions;
-- (2) earns income from sources in multiple Regions; or
-- (3) operates a business with substantial activities in multiple Regions.
-These rules shall prevent both double taxation and tax avoidance through artificial arrangements.
-
-(jj) **Regional Benefit Arbitrage.** No person may claim public benefits, subsidies, or services from a Region in which they are not tax-resident except:
+(ii) **Regional Benefit Arbitrage.** No person may claim public benefits, subsidies, or services from a Region in which they are not tax-resident except:
 
 - (1) emergency services available to all persons regardless of residency;
 - (2) services explicitly extended to non-residents by Regional law;

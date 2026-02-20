@@ -122,7 +122,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 124 | Internal tax haven arbitrage (zero-tax magnet, subsidized poaching, effort-laundering, mobile factor floor) | Medium | ✅ Resolved |
 | 133 | "Strategic Incompetence" as a Federal Cost-Shift | Medium | Proposal Available |
 | 137 | "Financial Dumping" via Mutual Recognition | High | Resolved |
-| 138 | The "Double-Taxation" Border Blockade | Medium | Proposal Available |
+| 138 | The "Double-Taxation" Border Blockade | Medium | ✅ Resolved — Art X §22: source-first taxation, mandatory credit, IFC arbitration, graduated enforcement |
 | 147 | "Financial Contagion" as Coercive Leverage | High | Resolved |
 | 170 | Fiscal cliff hostage (weaponized shutdowns) | Critical | ✅ Resolved |
 | 193 | Tax haven parasite (fiscal cannibalism) | High | ✅ Resolved |
@@ -195,7 +195,7 @@ This gaps analysis serves as a living document for ongoing constitutional refine
 | 82 | Double-Key hostage-taking (collusion for inaction) | High | ✅ Resolved |
 | 86 | De-Escalation as a Stall for Insurrection (exploiting graduated de-escalation to delay military intervention, bad faith mediation, procedural cascade, foreign fait accompli) | High | ✅ Resolved |
 | 88 | Two-key bypass via military officer corps purge | High | ✅ Resolved |
-| 91 | The "Emergency Nesting" Power Grab | Medium | Proposal Available |
+| 91 | The "Emergency Nesting" Power Grab — Primary Incident Command (competency-based, 48-hour ARB), Citizens' Compliance Clarity, prohibited Regional emergency actions, ARB scope review (14-day), pretextual emergency finding with loss of declaration authority; duration/stacking provisions omitted (existing §2(e)-(h) stronger) | Medium | ✅ Resolved |
 | 102 | Emergency loophole for information warfare | Medium | ✅ Resolved |
 | 113 | "Emergency Pincer" via Local Law Enforcement (Two-Key bypass through mass deputization) — command exclusivity, dual consent, Two-Key extension, counter-deputization, Temporary Marshal cap, functional classification trigger | High | ✅ Resolved |
 | 122 | Two-key bypass via officer corps purge (duplicate of Gap 88) | Medium | ✅ Resolved |
