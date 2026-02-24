@@ -2,7 +2,7 @@
 
 ## Systemic Analysis
 
-The caregiving workforce crisis is not a market failure or an accident of policy—it is the predictable outcome of deliberate choices embedded in law, economics, and culture. Understanding these root causes reveals why incremental reforms have failed and what fundamental changes are necessary.
+The caregiving workforce crisis is not an accident of policy or a temporary market imbalance; it is the predictable outcome of choices embedded in law, economics, and culture. Understanding these root causes explains why incremental reforms have repeatedly failed and why more fundamental changes are required.
 
 ## Structural Causes
 
@@ -12,11 +12,11 @@ The caregiving workforce crisis is not a market failure or an accident of policy
 |--------|-----------|
 | **Gendered labor** | Care historically unpaid "women's work" |
 | **Racial stratification** | Care work assigned to marginalized groups |
-| **Invisibility** | Work performed in private settings, not seen |
-| **Skill non-recognition** | Emotional, relational skills not valued |
-| **Market logic** | Care doesn't produce measurable "output" |
+| **Invisibility** | Work performed in private settings, not publicly observed |
+| **Skill non-recognition** | Emotional and relational skills not valued |
+| **Market logic** | Care does not produce easily measurable output |
 
-This section reflects a common framing that care is treated as a natural female/maternal activity and is not compensated accordingly.
+Care work has long been treated as a natural extension of family or maternal responsibility rather than as skilled labor, contributing to persistent undervaluation and weak compensation norms.
 
 ### Labor Law Architecture
 
@@ -25,34 +25,34 @@ This section reflects a common framing that care is treated as a natural female/
 | **1938 FLSA exclusion** | Domestic workers outside labor protections |
 | **1974 companionship exemption** | Home care workers denied overtime |
 | **Agricultural worker pattern** | Racialized occupations excluded |
-| **Independent contractor status** | Benefits, protections avoided |
+| **Independent contractor status** | Benefits and protections avoided |
 | **Anti-union provisions** | Collective bargaining limited |
 
-The legal framework includes exclusions that leave care workers outside standard protections.
+This legal architecture created partial and delayed inclusion, leaving many care workers outside standard labor protections for decades.
 
 ### Public Financing Structure
 
 | Constraint | Effect |
 |------------|--------|
 | **Medicaid as primary payer** | State budget politics drive wages |
-| **Cost containment priority** | Squeeze labor costs first |
-| **Fee-for-service payment** | No incentive for quality/retention |
+| **Cost containment priority** | Labor costs targeted first |
+| **Fee-for-service payment** | No incentive for retention or continuity |
 | **State rate-setting** | Political limits on increases |
-| **No federal wage floor** | Race to the bottom |
+| **No federal wage floor** | Downward competitive pressure |
 
-Medicaid's structure is commonly cited as exerting downward pressure on wages.
+Because Medicaid dominates long-term services and supports financing, reimbursement rates function as a ceiling on wages rather than a neutral payment mechanism.
 
 ### Market Failure
 
 | Failure | Description |
 |---------|-------------|
 | **Monopsony** | Few large employers dominate local markets |
-| **Information asymmetry** | Consumers can't evaluate quality |
-| **Externalities** | Social costs of low wages not captured |
+| **Information asymmetry** | Consumers cannot evaluate care quality |
+| **Externalities** | Social costs of low wages not priced in |
 | **Non-transferability** | Skills not recognized across settings |
-| **Segmented labor market** | Care work segregated from general labor market |
+| **Segmented labor market** | Care work isolated from general labor market |
 
-Standard market mechanisms are described as weak in care labor markets.
+Together, these conditions meet standard economic definitions of market failure, particularly monopsony power and the externalization of social costs. Under these conditions, competitive labor market assumptions do not hold.
 
 ## Institutional Causes
 
@@ -60,12 +60,12 @@ Standard market mechanisms are described as weak in care labor markets.
 
 | Level | Approach | Problem |
 |-------|----------|---------|
-| **Federal** | Medicare conditions, some Medicaid rules | Limited scope |
-| **State** | Medicaid programs, licensing | 50 different systems |
-| **Local** | Some wage ordinances | Uneven coverage |
+| **Federal** | Medicare conditions, limited Medicaid rules | Narrow scope |
+| **State** | Medicaid programs, licensing | 50 separate systems |
+| **Local** | Select wage ordinances | Uneven coverage |
 | **Private** | Employer policies | Wide variation |
 
-The table summarizes a fragmented regulatory approach without a single national framework.
+The absence of a coherent national framework produces regulatory fragmentation and inconsistent workforce standards.
 
 ### Training System Failures
 
@@ -73,73 +73,71 @@ The table summarizes a fragmented regulatory approach without a single national 
 |---------|-------------|
 | **Inadequate hours** | 75-hour federal minimum unchanged since 1987 |
 | **Variable quality** | No national curriculum standards |
-| **No career pathway** | Training doesn't lead anywhere |
+| **No career pathway** | Training does not enable advancement |
 | **Employer bears cost** | Disincentive to invest |
-| **Portability limits** | Credentials don't transfer |
+| **Portability limits** | Credentials do not transfer |
 
-Training requirements are described as minimal, inconsistent, and disconnected from advancement.
+Training expansion alone cannot resolve workforce shortages without parallel improvements in compensation, job quality, and advancement opportunities.
 
 ### Provider Industry Structure
 
 | Characteristic | Effect on Wages |
 |----------------|-----------------|
-| **For-profit dominance** | Profit extracted before wages |
+| **For-profit dominance** | Profit extraction or surplus preservation before wages |
 | **Private equity ownership** | Financial engineering prioritized |
-| **Fragmented market** | Many small agencies can't raise wages |
-| **Low margins** | Claim inability to pay more |
-| **High administrative costs** | Money spent on overhead |
+| **Fragmented market** | Small agencies lack pricing power |
+| **Low margins** | Claimed inability to raise wages |
+| **High administrative costs** | Resources diverted from labor |
 
-Provider industry structure is described as diverting resources from worker compensation.
+Provider structure shapes wage outcomes across both for-profit and nonprofit settings, with labor costs frequently treated as the primary adjustment variable.
 
 ### Immigration Policy
 
 | Constraint | Impact |
 |------------|--------|
-| **No care worker visa** | No legal pathway for workers |
-| **Enforcement fear** | Undocumented workers exploitable |
-| **Credential non-recognition** | Foreign training not counted |
+| **No care worker visa** | No dedicated legal pathway |
+| **Enforcement fear** | Undocumented workers vulnerable |
+| **Credential non-recognition** | Foreign training discounted |
 | **Citizenship requirements** | Barriers to some programs |
 | **Deportation threat** | Suppresses wage demands |
 
-Immigration policy is described as relying on immigrant workers while leaving them vulnerable.
+Immigration policy does not cause low wages, but it shapes who bears the consequences of a low-wage system and how easily workers can assert bargaining power within it.
 
 ## Political Economy
 
-### Who Benefits from Status Quo
+These structural and institutional conditions persist because they generate predictable economic and political incentives, even as costs are widely dispersed.
+
+### Who Benefits from the Status Quo
+
+The current system persists not because of coordinated intent, but because it aligns with the incentives of several powerful actors.
 
 | Beneficiary | How |
 |-------------|-----|
-| **Nursing home owners** | Low wages = higher margins |
+| **Nursing home owners** | Low wages support margins |
 | **Private equity** | Profit extraction from care |
-| **State budgets** | Lower Medicaid costs |
+| **State budgets** | Lower Medicaid expenditures |
 | **Consumers (short-term)** | Lower out-of-pocket costs |
-| **Employers in competing sectors** | Access to labor pool |
-
-The table lists groups described as benefiting from low wages.
+| **Competing employers** | Expanded low-wage labor pool |
 
 ### Who Loses
 
 | Group | Loss |
 |-------|------|
-| **Care workers** | Poverty wages, no advancement |
-| **Care recipients** | Quality problems, turnover |
-| **Family caregivers** | Must fill gaps left by workforce shortage |
-| **Taxpayers** | Workers rely on public benefits |
-| **Healthcare system** | Preventable hospitalizations |
-
-The table lists groups described as bearing the costs.
+| **Care workers** | Poverty wages, instability |
+| **Care recipients** | Turnover, unmet needs |
+| **Family caregivers** | Substitution for formal care |
+| **Taxpayers** | Public benefit reliance |
+| **Healthcare system** | Preventable utilization |
 
 ### Political Dynamics
 
 | Dynamic | Effect |
 |---------|--------|
-| **Worker disorganization** | Low union density limits power |
-| **Industry lobbying** | Opposes wage mandates |
-| **Fiscal conservatism** | Resists Medicaid spending |
-| **Anti-tax sentiment** | Blocks revenue for wages |
-| **Electoral politics** | Seniors vote; care workers don't |
-
-The table summarizes political dynamics associated with low wages.
+| **Worker disorganization** | Low union density limits leverage |
+| **Industry lobbying** | Resistance to wage mandates |
+| **Fiscal conservatism** | Medicaid spending constrained |
+| **Anti-tax sentiment** | Revenue resistance |
+| **Electoral politics** | Workers lack voting bloc power |
 
 ## Causal Diagram
 
