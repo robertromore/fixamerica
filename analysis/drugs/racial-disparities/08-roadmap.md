@@ -53,6 +53,14 @@ Eliminating racial disparities in drug enforcement requires a sequenced strategy
 - Drug Conviction Collateral Consequences Relief Act (repeal SNAP/TANF ban, student aid restriction)
 - Smart on Crime Codification Act (statutory charging guidelines for federal drug cases)
 
+### Political Strategy for Phase 1
+
+Phase 1 reforms are selected for their demonstrated bipartisan viability:
+
+- The EQUAL Act passed the House 361-66 in 2021, with support from both parties. Senate passage requires overcoming the filibuster or securing 60 votes. The Koch network, ACLU, and faith-based organizations (Prison Fellowship, National Association of Evangelicals) have all endorsed crack/powder equalization, providing political cover for Republican senators.
+- Collateral consequence reforms have bipartisan appeal because they reduce government barriers to employment and self-sufficiency -- core conservative values. The FAFSA Simplification Act (2021) already partially addressed student aid restrictions, establishing precedent.
+- Data collection mandates can be framed as transparency and accountability measures consistent with limited-government principles. The Police Executive Research Forum (PERF), a moderate law enforcement organization, has endorsed voluntary data collection as a best practice.
+
 ### Expected Outcomes
 
 Phase 1 achieves the most immediately impactful and bipartisan reforms: the crack/powder disparity is eliminated (reducing the single largest source of racially disparate federal drug sentencing), data infrastructure is established for tracking future progress, and collateral consequences that perpetuate disadvantage for millions of people with drug convictions are removed. Approximately 2,000-3,000 federal inmates receive reduced sentences under EQUAL Act retroactivity, saving $90-135 million annually in incarceration costs.
@@ -87,6 +95,14 @@ Phase 1 achieves the most immediately impactful and bipartisan reforms: the crac
 - Drug War Community Reinvestment Act ($10 billion over 10 years)
 - Prosecutorial Integrity Act
 
+### Political Strategy for Phase 2
+
+Phase 2 reforms are more politically challenging and require the momentum built in Phase 1:
+
+- Cannabis legalization has majority public support (70% in Gallup polling, 2023) but faces institutional resistance in the Senate, particularly regarding equity provisions. Building on state-level legalization victories and the cannabis industry's growing lobbying power ($10.1 million in 2022 cycle contributions) is essential.
+- The Prosecutorial Integrity Act faces the strongest opposition from the organized prosecutor lobby (NDAA). Building the case through Phase 1 data -- which will document prosecutorial disparities for the first time at scale -- is a precondition for overcoming opposition.
+- Community reinvestment can be modeled on existing place-based federal programs (Promise Neighborhoods, Choice Neighborhoods) that have bipartisan support, reducing political novelty.
+
 ### Expected Outcomes
 
 Phase 2 achieves the structural reforms that address the root causes of disparity: cannabis legalization eliminates the single largest category of racially disparate drug arrests; data transparency makes enforcement disparities visible at all levels of government; the community reinvestment fund begins directing resources to areas most harmed by the War on Drugs; and prosecutorial accountability mechanisms constrain the discretionary decisions that amplify arrest disparities into sentencing disparities. Millions of Americans have cannabis records expunged, removing barriers to employment, housing, and civic participation.
@@ -116,6 +132,27 @@ Phase 2 achieves the structural reforms that address the root causes of disparit
 ### Expected Outcomes
 
 Phase 3 institutionalizes the reforms of Phases 1 and 2, embedding enforcement equity into the permanent infrastructure of U.S. drug policy. Pretextual stop bans reduce the pipeline of racially disparate drug encounters at the earliest stage. Full state-level expungement removes barriers for millions. Community reinvestment produces measurable improvement in targeted neighborhoods. The comprehensive evaluation provides the evidence base for the next decade of reform.
+
+## State-Level Parallel Track
+
+Federal reform is necessary but insufficient. Because approximately 85% of drug arrests and prosecutions occur at the state and local level, a parallel state-level strategy is essential.
+
+### Priority State Actions
+
+| State Action | Target States | Timeline | Mechanism |
+|-------------|---------------|----------|-----------|
+| Cannabis legalization with equity provisions | Remaining prohibition states (focus on Southern and Midwestern states with ballot initiative processes) | Years 1-5 | Ballot initiatives; state legislation |
+| Mandatory stop/search data collection by race | All 50 states (currently ~15 states mandate comprehensive data) | Years 1-5 | State legislation; federal funding conditions |
+| Pretextual stop restrictions | States with documented racial disparities (Virginia model) | Years 3-7 | State legislation following Virginia 2021 model |
+| Automatic expungement for cannabis convictions | All legalization states | Years 1-5 | State legislation; Clean Slate laws |
+| Prosecutorial data transparency | All states | Years 3-10 | State legislation; elected prosecutor commitments |
+| Drug court equity audits | All states with drug court programs | Years 2-5 | State judicial administration requirements |
+
+### State Strategy Considerations
+
+- **Ballot initiative states**: In the 26 states that allow citizen-initiated ballot measures, drug policy reform can bypass legislative resistance. Cannabis legalization has passed via ballot initiative in multiple conservative-leaning states (Montana, South Dakota, Missouri), demonstrating cross-ideological appeal.
+- **Southern states**: The highest Black-white drug arrest disparities are concentrated in Southern states with limited ballot initiative options. Reform in these states requires coalition-building with conservative criminal justice reform allies (Right on Crime, Koch network, faith communities) and progressive prosecutors.
+- **Local action**: Cities and counties can deprioritize marijuana enforcement, establish civilian oversight of drug enforcement, and fund diversion programs even in states without legislative reform. Local action creates demonstration effects that build the case for state-level change.
 
 ---
 
@@ -204,6 +241,25 @@ Phase 3 institutionalizes the reforms of Phases 1 and 2, embedding enforcement e
 - National drug enforcement data system: Cloud-based platform integrating data from 18,000+ law enforcement agencies (modeled on NIBRS architecture)
 - Automated record expungement system: Integration with federal court records, FBI criminal history records, and state databases
 - Community reinvestment grant management platform: Standard federal grants management system
+
+## Accountability and Course Correction
+
+### Annual Progress Reports
+
+The DOJ Office of Enforcement Equity publishes an annual report measuring progress against all milestones in the Success Metrics table above. The report is presented to Congress and made publicly available. If any milestone target is not met, the report must include an explanation and a corrective action plan.
+
+### Independent Review Triggers
+
+If the Black-to-white drug arrest disparity ratio does not decline by at least 0.2 points per year (from the 3.73:1 baseline), the National Academies of Sciences is commissioned to conduct an independent review of implementation effectiveness and recommend course corrections. Similarly, if cannabis equity ownership targets are not on track by year 5, an independent review of equity program design is triggered.
+
+### Political Resilience Design
+
+The roadmap is designed to survive political reversals by embedding core requirements in statute rather than executive orders. Key resilience features:
+
+- Data collection requirements are tied to federal funding streams that are politically difficult to eliminate (Byrne JAG, COPS)
+- Community reinvestment is authorized through multi-year appropriations with mandatory spending provisions
+- The DOJ Office of Enforcement Equity is structurally embedded in the department with civil service protections for staff
+- Automatic expungement, once processing systems are built and records cleared, cannot be practically reversed
 
 ---
 

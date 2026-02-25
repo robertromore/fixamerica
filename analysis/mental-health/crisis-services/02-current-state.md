@@ -38,6 +38,16 @@ The 988 Suicide & Crisis Lifeline launched on July 16, 2022, replacing the previ
 
 *Sources: SAMHSA 988 Dashboard, 2024; Vibrant Emotional Health Annual Reports, 2022-2024*
 
+### Specialized Sub-Networks
+
+The 988 Lifeline includes several specialized routing pathways designed to serve populations with distinct needs:
+
+- **Veterans Crisis Line (Press 1)**: Handled over 700,000 contacts in 2023 (VA, 2024). Staffed by VA-employed counselors with veteran-specific training. Consistently achieves >90% answer rates, outperforming the general 988 network. Includes a dedicated chat option and text support (838255)
+- **Spanish-Language Line (Press 2)**: Available nationwide, but capacity constraints lead to longer wait times (average 2 minutes vs. 42 seconds for English). Only 12% of 988 centers have bilingual staff (Vibrant Emotional Health, 2024)
+- **LGBTQI+ Youth Line**: Launched in 2023 as a specialized sub-network routing to centers with LGBTQI+-affirming training. Handles approximately 150,000 contacts annually. LGBTQI+ youth are four times more likely to attempt suicide than their peers (Trevor Project, 2023)
+- **Deaf and Hard-of-Hearing Access**: Available through video relay service, but adoption remains low. Fewer than 20 centers have American Sign Language (ASL)-capable counselors (NAD, 2024)
+- **Tribal Communities**: Limited dedicated infrastructure; some reservations lack reliable phone and broadband service needed to reach 988. The Indian Health Service and SAMHSA are piloting tribal-specific routing in 8 states (IHS, 2024)
+
 ### Network Infrastructure
 
 The 988 network operates through approximately 200 local and regional crisis centers across all 50 states and U.S. territories. These centers are coordinated by Vibrant Emotional Health (the network administrator under contract with SAMHSA) and follow a routing structure that directs calls to the geographically nearest center first, with overflow to backup centers.
@@ -119,6 +129,28 @@ Section 9813 of the American Rescue Plan Act (2021) offered states an enhanced 8
 
 *Source: Kaiser Family Foundation Medicaid Tracker, 2024*
 
+### Mobile Crisis Team Outcomes
+
+Where mobile crisis teams operate, outcomes consistently outperform police-only and ED-based crisis responses:
+
+| Outcome Measure | Mobile Crisis Team | Police-Only Response | ED-Only Response |
+|---|---|---|---|
+| Arrest rate | 5-10% | 15-20% | N/A |
+| ED transport rate | 20-35% | 60-80% | 100% |
+| Hospital admission rate | 15-25% | 35-50% | 40-60% |
+| Client satisfaction | 80-90% | 40-55% | 35-50% |
+| 30-day re-contact rate | 20-30% | 40-55% | 45-60% |
+| Average cost per encounter | $350-$500 | $800-$1,200 | $2,264/day |
+
+*Sources: Balfour et al., *Psychiatric Services*, 2022; Georgia DBHDD, 2022; SAMHSA, 2020*
+
+### State Mobile Crisis Program Profiles
+
+- **Oregon**: Launched statewide mobile crisis in 2023 under Medicaid benefit. 36 teams cover all 36 counties. Average response time: 55 minutes statewide. Uses a mix of clinician-led and peer-led teams with telehealth support for rural areas (Oregon Health Authority, 2024)
+- **Colorado**: Integrated mobile crisis with 988 dispatch in 2022. The Colorado Crisis System (operated by Rocky Mountain Crisis Partners) dispatches mobile teams directly from the 988 call center. Average response time in Denver metro: 35 minutes (Colorado BHA, 2024)
+- **Massachusetts**: Community Behavioral Health Centers operate mobile crisis across the state. Enhanced Medicaid rates (effective 2023) increased team availability. Pediatric mobile crisis teams serve children under 18 with specialized protocols (Massachusetts DMH, 2024)
+- **Georgia**: Operates 25 mobile crisis teams statewide through community service boards. Average response time: 45 minutes in metro Atlanta, 90+ minutes in rural south Georgia. The longest-running comprehensive state mobile crisis program in the country (Georgia DBHDD, 2022)
+
 ---
 
 ## Crisis Stabilization Capacity
@@ -150,6 +182,27 @@ Crisis stabilization capacity varies enormously across states:
 
 *Source: Treatment Advocacy Center, Psychiatric Bed Supply Report, 2023*
 
+### Crisis Facility Models in Practice
+
+**Crisis Receiving Centers**: Open 24/7, accept walk-ins and referrals without appointments or insurance verification. Individuals may stay up to 23 hours and 59 minutes for assessment, stabilization, and discharge planning. Arizona's crisis receiving centers (operated by RI International) serve as the national model, resolving approximately 60% of contacts without inpatient admission and maintaining an average length of stay of 14 hours (RI International, 2023).
+
+**Crisis Stabilization Units (CSUs)**: Short-term residential facilities (typically 1-3 day stays) providing 24-hour psychiatric nursing, medication management, and therapeutic support. Georgia operates 11 CSUs statewide with a combined capacity of approximately 400 beds, achieving a 70% diversion rate from inpatient hospitalization (Georgia DBHDD, 2022). Colorado's CSUs average a 2.3-day length of stay with a 78% diversion rate (Colorado BHA, 2024).
+
+**Living Room Model**: Peer-staffed, home-like environments designed as welcoming alternatives to clinical settings. The Living Room model, pioneered in Maricopa County, Arizona, in 2012, uses trained peer specialists as the primary staff, with clinical backup available on call. Research shows 89% of Living Room visitors report satisfaction and 65% avoid ED visits entirely (Ostrow & Cibulski, *Psychiatric Services*, 2015).
+
+**23-Hour Observation Beds**: Typically hospital-affiliated beds designed for brief psychiatric observation and stabilization. Reimbursable under most insurance plans as outpatient observation rather than inpatient admission. Growing in popularity as hospitals seek to reduce inpatient boarding pressure, but capacity remains limited (approximately 3,400 beds nationally).
+
+### IMD Exclusion Impact on Crisis Capacity
+
+The Medicaid Institutions for Mental Diseases (IMD) exclusion (42 U.S.C. Section 1396d(a)(B)) continues to create a significant barrier to crisis facility development. Facilities with more than 16 beds that serve primarily psychiatric patients are classified as IMDs, making them ineligible for federal Medicaid payment for patients ages 21-64.
+
+| IMD Exclusion Effect | Consequence |
+|---|---|
+| Caps facility size at 16 beds | Prevents economies of scale; increases per-bed operating costs |
+| Discourages new construction | Investors and states avoid building facilities that may lose Medicaid eligibility |
+| Creates geographic gaps | Small facilities are not financially viable in low-density areas |
+| Exempts brief stays under 15 days | CMS "in lieu of services" waivers allow some exceptions, but adoption is limited to 12 states (CMS, 2024) |
+
 ---
 
 ## Emergency Department Boarding
@@ -173,6 +226,21 @@ When crisis stabilization and inpatient psychiatric beds are unavailable, people
 - **Staff safety**: 70% of ED nurses report being physically assaulted by a patient, with psychiatric patients representing a disproportionate share (Emergency Nurses Association, 2023)
 - **Patient harm**: ED environments -- bright lights, noise, physical restraints -- can worsen psychiatric symptoms and increase agitation
 - **Cost**: Psychiatric ED boarding costs hospitals an estimated $5.4 billion annually in unreimbursed care and lost revenue (AHA, 2023)
+- **Pediatric crisis**: Children and adolescents face the worst boarding outcomes. The average pediatric psychiatric ED wait exceeds 8 hours, and some children wait 3-5 days in EDs without receiving specialized psychiatric care (American Academy of Pediatrics, 2023). Between 2019 and 2022, pediatric mental health ED visits increased 31% nationally (AHRQ, 2023)
+- **Racial disparities**: Black patients are 40% more likely to be physically restrained during psychiatric ED visits and wait 20% longer for psychiatric evaluation than white patients presenting with similar symptoms (Schnitzer et al., *Annals of Emergency Medicine*, 2023)
+
+### State-Level ED Boarding Data
+
+| State | Average Psychiatric ED Wait | Notable Policy |
+|---|---|---|
+| North Carolina | 34 hours (worst in nation) | NC DHHS crisis system expansion launched 2023 |
+| Massachusetts | 18 hours | "Section 12" involuntary hold reforms under review |
+| New York | 14 hours | B-HEARD program reducing volume in select precincts |
+| Washington | 12 hours | Trueblood consent decree requiring system improvements |
+| Georgia | 4 hours | Comprehensive CSU network diverts ED volume |
+| Arizona | 3 hours | Crisis receiving centers provide walk-in alternative |
+
+*Sources: State mental health authority reports, 2023-2024; NASMHPD, 2024*
 
 ---
 
@@ -218,6 +286,27 @@ A growing number of communities have launched civilian-led alternatives to polic
 | Right Care | Dallas, TX | Clinician + paramedic | ~11,000 | 96% resolved without arrest |
 
 *Sources: Program annual reports, 2023-2024; Westat Evaluation Reports*
+
+### Co-Responder Models
+
+Co-responder programs pair a mental health clinician with a law enforcement officer to jointly respond to behavioral health crisis calls. This model differs from fully civilian alternatives in that police remain on scene, but the clinician leads the clinical assessment and de-escalation.
+
+| Program | Location | Model | Key Outcome |
+|---|---|---|---|
+| Crisis Co-Response | Los Angeles County, CA | Sheriff deputy + DMH clinician | 70% reduction in use of force on co-responded calls |
+| Behavioral Health Unit | Portland, OR | Officer + crisis counselor | 60% diversion from jail/ED |
+| CIT Co-Response | Houston, TX | CIT officer + LCSW | 85% resolved without arrest |
+| Mobile Integrated Health | Tucson, AZ | Officer + paramedic + social worker | 50% reduction in repeat 911 calls |
+
+*Sources: Police Executive Research Forum, 2023; program reports, 2024*
+
+### 911 Dispatch and Behavioral Health Call Triage
+
+A growing number of 911 centers are implementing behavioral health call triage protocols to identify calls that can be safely diverted to civilian crisis teams or co-responders rather than dispatching police-only units. The International Academies of Emergency Dispatch (IAED) published a validated behavioral health dispatch protocol in 2022.
+
+- **Current adoption**: Approximately 8% of the nation's 6,000+ 911 centers have behavioral health triage protocols (APCO International, 2024)
+- **Key barrier**: Most 911 computer-aided dispatch (CAD) systems lack behavioral health call codes, making it difficult to identify and route mental health calls separately from general disturbance calls
+- **Model jurisdictions**: Hennepin County, MN; Maricopa County, AZ; Denver, CO; Portland, OR; and Austin, TX have implemented behavioral health dispatch protocols with early results showing 20-40% diversion of eligible calls from police-only response (SAMHSA, 2024)
 
 ---
 
@@ -300,6 +389,24 @@ The Emergency Medical Treatment and Labor Act (42 U.S.C. Section 1395dd) require
 - **Fentanyl and polysubstance crises**: Overlapping mental health and substance use crises require dual-trained crisis workers
 - **Children and adolescents**: Pediatric mental health crisis volume has surged, but few crisis services are designed for youth populations
 - **Veteran-specific needs**: Veterans Crisis Line (dial 988, press 1) handles over 700,000 contacts annually (VA, 2024), but coordination between VA and community crisis services remains inconsistent
+- **Homelessness intersection**: Approximately 35-40% of people experiencing unsheltered homelessness have a serious mental illness (HUD, 2023). Encampment-based crisis encounters require different protocols than residential or workplace crises, and few mobile crisis teams have specialized training for street outreach
+- **988 data infrastructure**: SAMHSA launched a 988 performance dashboard in 2023, but data granularity remains limited. Real-time bed tracking -- which would allow 988 counselors and mobile teams to identify available crisis stabilization beds -- exists in only 6 states as of 2024 (NASMHPD, 2024). Without bed tracking, crisis workers spend significant time making phone calls to locate open beds, delaying care
+
+## Insurance Coverage Landscape
+
+Coverage of crisis services varies dramatically by payer type:
+
+| Payer | Mobile Crisis Coverage | Crisis Stabilization Coverage | 988 Contact Coverage | Key Issue |
+|---|---|---|---|---|
+| Medicaid (expansion states) | Covered in 28 states (ARP Section 9813) | Covered with variations | Not directly billable | IMD exclusion limits facility size |
+| Medicaid (non-expansion) | Limited | Limited | Not directly billable | 10 million uninsured adults in gap |
+| Medicare | Not a covered benefit category | Covered as outpatient observation | Not directly billable | No mobile crisis reimbursement code |
+| Commercial insurance | Rarely covered; no standard billing codes | Covered variably | Not directly billable | Parity Act does not explicitly mandate crisis coverage |
+| Uninsured | Grant-funded only | Grant-funded or charity care | Free via 988 | 27 million uninsured Americans |
+
+*Sources: Kaiser Family Foundation, 2024; CMS, 2024; NAMI, 2024*
+
+The absence of standardized billing codes for mobile crisis intervention under Medicare and commercial insurance remains a significant structural barrier. CMS issued a proposed rule in 2024 to create a new Medicaid benefit category for crisis services, but final rulemaking is pending.
 
 ---
 

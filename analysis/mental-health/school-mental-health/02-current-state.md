@@ -98,10 +98,12 @@ The school mental health workforce remains well below recommended levels across 
 
 ### Workforce Challenges
 
-- **Compensation Gap**: School psychologists earn a median of $84,940 compared to $106,510 for clinical psychologists in non-school settings, a 25% gap (BLS, 2024)
-- **Diversity Deficit**: 86% of school psychologists are white, while 54% of public school students are students of color (NASP, 2023; NCES, 2024)
-- **Training Bottleneck**: Only ~2,700 new school psychologists graduate annually, while retirement and turnover remove ~3,100 per year (NASP, 2023)
-- **Role Overload**: ASCA reports that 72% of school counselors spend more than 20% of their time on non-counseling duties such as test coordination, scheduling, and administrative tasks (ASCA, 2024)
+- **Compensation Gap**: School psychologists earn a median of $84,940 compared to $106,510 for clinical psychologists in non-school settings, a 25% gap (BLS, 2024). School counselors earn a median of $61,710, substantially below the $78,000 median for licensed professional counselors in community mental health (BLS, 2024). School social workers earn a median of $55,350 compared to $64,120 for clinical social workers in healthcare settings (BLS, 2024)
+- **Diversity Deficit**: 86% of school psychologists are white, while 54% of public school students are students of color (NASP, 2023; NCES, 2024). School counselors are somewhat more diverse (74% white), but still significantly mismatched with the student population (ASCA, 2024). Research demonstrates that racial concordance between providers and youth clients improves engagement, retention, and outcomes (Cabral & Smith, 2011)
+- **Training Bottleneck**: Only ~2,700 new school psychologists graduate annually, while retirement and turnover remove ~3,100 per year, resulting in a net negative pipeline (NASP, 2023). Specialist-level school psychology programs require three years of graduate study plus a year-long internship, creating a minimum four-year lag between funding decisions and workforce impact. NASP's 2023 Workforce Study found that 56% of training programs report more demand for graduates than they can supply
+- **Role Overload**: ASCA reports that 72% of school counselors spend more than 20% of their time on non-counseling duties such as test coordination, scheduling, and administrative tasks (ASCA, 2024). A 2023 study found that in schools without dedicated test coordinators, counselors spent an average of 40 work days per year on testing administration (Carey & Dimmitt, 2023). This effectively reduces the available counseling workforce by the equivalent of ~25,000 full-time positions
+- **Retirement Wave**: Approximately 25% of school psychologists -- roughly 11,000 practitioners -- are eligible to retire by 2028, threatening to substantially worsen already critical shortage levels (NASP, 2023)
+- **Burnout and Secondary Trauma**: A 2023 RAND Corporation survey found that 58% of school mental health professionals cited compensation as the primary reason for considering leaving school-based practice, but 47% also cited emotional exhaustion from escalating student needs without adequate staffing or clinical support. School mental health professionals report higher burnout rates than peers in community mental health settings (RAND, 2023)
 
 ---
 
@@ -160,15 +162,68 @@ MTSS provides a framework for organizing school mental health services into thre
 | SBHCs in Title I schools | 58% | School-Based Health Alliance, 2023 |
 | Average SBHC mental health visits per year | ~12,500 per center | SBHA National Census, 2022 |
 
+### Social-Emotional Learning (SEL) Programs
+
+SEL programs represent the most widely implemented form of Tier 1 universal prevention in U.S. schools, though they have become politically contested since 2021.
+
+| Metric | Value | Source |
+|---|---|---|
+| States with SEL standards in K-12 curricula | 27 + D.C. | CASEL, 2024 |
+| States with mental health education requirements | 23 | MHA, 2024 |
+| Most widely used elementary SEL curriculum | Second Step (Committee for Children) -- implemented in ~30,000 schools | Committee for Children, 2024 |
+| Most widely used secondary SEL curriculum | RULER (Yale Center for Emotional Intelligence) -- implemented in ~3,500 schools | Yale CEI, 2024 |
+| States that have enacted restrictions on SEL | 4 (as of 2024) | Education Week, 2024 |
+| States that have introduced anti-SEL legislation | 14 (as of 2024) | Education Week, 2024 |
+| Evidence base for SEL effectiveness | 213 studies; 270,000 students; 11 percentile point academic improvement | Durlak et al., 2011 |
+
+### Positive Behavioral Interventions and Supports (PBIS)
+
+PBIS is the most widely implemented behavioral framework in U.S. schools, providing a structured system for teaching and reinforcing expected behaviors. While distinct from clinical mental health services, PBIS serves as a Tier 1 foundation that reduces behavioral problems and creates the conditions for effective mental health service delivery.
+
+| Metric | Value | Source |
+|---|---|---|
+| Schools implementing PBIS nationally | ~27,000 | PBIS.org Technical Assistance Center, 2024 |
+| States with statewide PBIS initiatives | 49 | PBIS.org, 2024 |
+| Reduction in office discipline referrals (Missouri model) | 35% | Missouri Dept. of Education, 2023 |
+| Reduction in suspensions (Missouri model) | 25% | Missouri Dept. of Education, 2023 |
+
+### Telemental Health in Schools
+
+School-based telemental health has expanded dramatically since the COVID-19 pandemic, particularly as a strategy to address geographic access barriers in rural areas.
+
+| Metric | Value | Source |
+|---|---|---|
+| Schools using telemental health (2024) | 35% (up from 12% pre-pandemic) | NCES, 2024 |
+| Rural schools using telemental health | 46% | NCES, 2024 |
+| Suburban schools using telemental health | 29% | NCES, 2024 |
+| Urban schools using telemental health | 38% | NCES, 2024 |
+| Common platforms | Hazel Health, Talkiatry, BetterHelp for Educators, district-contracted providers | Various, 2024 |
+
+Telemental health in schools faces several ongoing challenges: inconsistent state licensure requirements for providers serving students across state lines, lack of private space in school buildings for confidential video sessions, technology infrastructure gaps in rural schools, and questions about therapeutic effectiveness for younger students who may struggle with the video format (Comer & Myers, 2022).
+
 ### Threat Assessment Programs
 
-Following the Parkland Commission recommendations and BSCA provisions, behavioral threat assessment teams have expanded significantly.
+Following the Parkland Commission recommendations and BSCA provisions, behavioral threat assessment teams have expanded significantly. The dominant model is the Comprehensive School Threat Assessment Guidelines (CSTAG) developed by Dewey Cornell at the University of Virginia, which emphasizes a problem-solving rather than punitive approach.
 
 | Metric | Value | Source |
 |---|---|---|
 | States requiring or recommending threat assessment teams | 38 states (2024) | Everytown for Gun Safety, 2024 |
 | Schools with formal threat assessment teams | ~64% of secondary schools | NCES School Survey on Safety, 2024 |
 | BSCA-funded threat assessment training programs | 42 state programs | DOJ/DOE Joint Report, 2024 |
+| Schools implementing CSTAG model specifically | ~8,000 | University of Virginia, 2024 |
+| False positive rate in threat assessments | Majority of assessed students do not pose genuine threats; ~95% of cases resolved through support services | Cornell, 2020 |
+
+### Trauma-Informed Schools
+
+The trauma-informed schools movement recognizes that adverse childhood experiences (ACEs) and community violence exposure significantly affect student behavior, learning, and mental health. Trauma-informed approaches shift the school response from "What is wrong with you?" to "What happened to you?"
+
+| Metric | Value | Source |
+|---|---|---|
+| Children who have experienced at least 1 ACE | 45% | NSCH, 2023 |
+| Children in poverty with 2+ ACEs | 2.5x the rate of non-poor children | NSCH, 2023 |
+| States with trauma-informed schools initiatives | 35 | NCTSN, 2024 |
+| Schools implementing formal trauma-informed frameworks | ~22% | NCES, 2024 |
+| Evidence for trauma-informed practices | Reduced suspensions, improved attendance, decreased teacher turnover in implementing schools | Dorado et al., 2016; Overstreet & Chafouleas, 2016 |
 
 ---
 
@@ -226,6 +281,21 @@ States differ widely in their school mental health requirements:
 
 *Source: Mental Health America, "State of Mental Health in America: Youth" (2024); CASEL State Scan (2024)*
 
+### State Funding Variation
+
+State investment in school mental health varies enormously, reflecting different political priorities and fiscal capacities.
+
+| State | Dedicated School Mental Health Funding (Annual) | Notable Policies | Source |
+|---|---|---|---|
+| New York | $250 million (2024 budget) | Community schools expansion, mental health clinics in schools | NY State Budget, 2024 |
+| California | $4.7 billion (multi-year, 2021-2026) | Children and Youth Behavioral Health Initiative; community school grants | CA Dept. of Finance, 2024 |
+| Colorado | $37 million/year | School Health Professionals Grant Program; statewide MTSS framework | CO Dept. of Education, 2024 |
+| Texas | $100 million (2023 biennium) | TEA mental health grant program; threat assessment mandates | TX Legislature, 2023 |
+| Florida | $140 million/year | Marjory Stoneman Douglas Act mandates; mental health allocation per student | FL Dept. of Education, 2024 |
+| Mississippi | $0 (no dedicated state funding) | No school counselor ratio mandate; no mental health education requirement | MHA State Scan, 2024 |
+
+The range is stark: California's multi-year $4.7 billion investment in children's behavioral health includes hundreds of millions specifically for school-based services, while several states in the South and Mountain West have no dedicated school mental health funding streams beyond federal pass-through dollars.
+
 ---
 
 ## Recent Trends
@@ -266,7 +336,41 @@ The expiration of ESSER funds in September 2024 created immediate staffing press
 
 ### Climate Anxiety and Eco-Distress
 
-Research from the American Psychological Association (2023) identified climate anxiety as an emerging mental health concern among K-12 students, with 45% of young people (ages 16-25) reporting that climate change negatively affects their daily functioning and feelings about the future (Hickman et al., 2021; replicated in U.S. samples, APA 2023).
+Research from the American Psychological Association (2023) identified climate anxiety as an emerging mental health concern among K-12 students, with 45% of young people (ages 16-25) reporting that climate change negatively affects their daily functioning and feelings about the future (Hickman et al., 2021; replicated in U.S. samples, APA 2023). Schools in disaster-prone regions face compounding effects: students who have directly experienced climate-related disasters (wildfires, hurricanes, flooding) show elevated PTSD and anxiety symptoms for years afterward (APA, 2023).
+
+### Youth Substance Use and Co-Occurring Disorders
+
+The intersection of mental health and substance use presents growing challenges for school-based systems. Adolescent vaping, cannabis use (particularly in states with legal adult-use markets), and fentanyl exposure complicate school mental health service delivery. The 2023 NSDUH found that 13.5% of adolescents aged 12-17 had a substance use disorder or mental health condition, and 3.7% had co-occurring disorders. Yet school mental health professionals report limited training in addressing co-occurring substance use and mental health needs (SAMHSA, 2024).
+
+### School Absenteeism and Mental Health
+
+Chronic absenteeism (missing 10% or more of school days) has emerged as a significant post-pandemic challenge closely linked to mental health. In the 2022-2023 school year, 26% of students were chronically absent, nearly double the pre-pandemic rate of 14.7% (Attendance Works, 2024). Students with mental health conditions are 2.3 times more likely to be chronically absent (NCES, 2024). The link is bidirectional: mental health problems cause absenteeism, and absenteeism worsens mental health by disrupting social connections, academic engagement, and access to school-based supports.
+
+### Sextortion and Online Exploitation
+
+The FBI reported a 300% increase in sextortion cases targeting minors between 2021 and 2023, with schools increasingly serving as the first point of identification and intervention when victims experience psychological distress (FBI, 2024). School counselors report feeling underprepared to address this emerging threat, which intersects with cyberbullying, social media safety, and mandated reporting obligations.
+
+---
+
+## Medicaid in Schools: Current Status
+
+The 2023 CMS final rule expanding Medicaid school-based services reimbursement represents the most significant sustainable funding development in school mental health. Key changes and current implementation status:
+
+| Element | Pre-2023 Rule | Post-2023 Rule | Implementation Status |
+|---|---|---|---|
+| Eligible students | Only students with IEPs/IFSPs | All Medicaid-eligible students | States must submit plan amendments |
+| Free care policy | Many states restricted billing for free services | Removed free care barrier | Approximately 30 states have updated policies (CMS, 2025) |
+| Parental consent | Required for each service | One-time annual consent allowed | States implementing variably |
+| Eligible providers | Restrictive definitions | Expanded to include school counselors, social workers | State-specific licensure rules apply |
+| Estimated new annual revenue | ~$5.6 billion baseline | $7-8 billion potential | Dependent on state plan amendments and district capacity |
+
+**State Implementation Progress (as of January 2025)**:
+
+- **States with updated Medicaid plan amendments**: ~30 (CMS, 2025)
+- **States in process**: ~12
+- **States that have not begun**: ~8 (primarily states that did not expand Medicaid under the ACA)
+- **Districts actively billing under expanded authority**: ~4,200 (est.)
+- **Average annual Medicaid revenue per billing district**: ~$380,000 (National Health Law Program, 2024)
 
 ---
 

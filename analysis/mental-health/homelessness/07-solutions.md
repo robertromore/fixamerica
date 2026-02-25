@@ -29,6 +29,7 @@ The current crisis results from the failure to build community-based alternative
 **Evidence Base**: PSH is the most rigorously studied intervention for chronically homeless individuals with serious mental illness. The original Housing First randomized controlled trial by Tsemberis et al. (2004) demonstrated 80-88% housing retention at 12 months versus 47% for treatment-first programs. Culhane et al. (2002) documented net public savings of $16,282 per person per year in New York City. Studies in Denver (Colorado Coalition for the Homeless, 2019), Charlotte (Moore et al., 2006), and Los Angeles (Economic Roundtable, 2018) confirm annual savings of $30,000-$50,000 per person through reduced emergency room, hospital, and jail utilization.
 
 **Implementation**:
+
 1. Congress authorizes and appropriates a 10-year Permanent Supportive Housing Trust Fund
 2. HUD administers competitive grants to state housing finance agencies and local housing authorities
 3. Projects must meet Housing First fidelity standards (no sobriety or treatment preconditions)
@@ -50,6 +51,7 @@ The current crisis results from the failure to build community-based alternative
 **Evidence Base**: A 2023 national evaluation by Mathematica found that CCBHCs reduced emergency department visits by 18.5% and inpatient psychiatric hospitalizations by 9.2% in their first two years. CCBHCs served 2.1 million people in their first year of expanded operations (National Council for Mental Wellbeing, 2023). The CCBHC model addresses the Medicaid reimbursement gaps that have historically prevented community mental health centers from funding outreach, crisis services, and wrap-around supports for homeless populations.
 
 **Implementation**:
+
 1. Congress passes the CCBHC Nondiscrimination and Parity Act to make CCBHC certification available in all states
 2. CMS establishes the PPS reimbursement rate for all CCBHCs
 3. States apply for CCBHC certification for existing community mental health centers
@@ -71,6 +73,7 @@ The current crisis results from the failure to build community-based alternative
 **Evidence Base**: ACT is the most rigorously studied community mental health intervention, with more than 25 randomized controlled trials demonstrating its effectiveness. ACT reduces psychiatric hospitalization by 20-40%, increases housing stability, improves medication adherence, and reduces substance use among people with severe mental illness (Bond et al., *Psychiatric Services*, 2001). The Treatment Advocacy Center reports that only 10% of people with SMI currently have access to ACT.
 
 **Implementation**:
+
 1. SAMHSA establishes a dedicated ACT expansion grant program
 2. Medicaid covers ACT as a reimbursable service in all states (currently inconsistent)
 3. ACT teams are co-located with or linked to permanent supportive housing programs
@@ -91,6 +94,7 @@ The current crisis results from the failure to build community-based alternative
 **Evidence Base**: Studies consistently show that institutional discharge is a primary pathway into homelessness for people with mental illness. A 2019 California study found that 15% of people discharged from psychiatric hospitals became homeless within 30 days (RAND Corporation, 2019). The VA's transition care management program reduced 30-day readmissions among veterans by 23% through structured discharge planning (VA, 2022). The Frequent Users Systems Engagement (FUSE) model, developed by the Corporation for Supportive Housing, targets people cycling between homelessness, hospitals, and jails, achieving 86% housing retention (CSH, 2020).
 
 **Implementation**:
+
 1. CMS issues a Condition of Participation requiring psychiatric and medical facilities to confirm post-discharge housing for patients with SMI
 2. Bureau of Justice Assistance makes discharge planning a condition for federal jail/prison grants
 3. States require 72-hour minimum discharge planning period for involuntary psychiatric holds
@@ -111,6 +115,7 @@ The current crisis results from the failure to build community-based alternative
 **Evidence Base**: The National Health Service Corps loan repayment program has demonstrated effectiveness in placing health care providers in underserved areas, with 82% retention after the service obligation ends (HRSA, 2022). Peer support specialists -- people with lived experience of mental illness and/or homelessness -- have been shown to improve engagement, reduce hospitalizations, and enhance housing retention in multiple studies (Chinman et al., *Psychiatric Services*, 2014).
 
 **Implementation**:
+
 1. Congress expands NHSC loan repayment to include homeless services positions (psychiatrists, psychologists, social workers, counselors)
 2. SAMHSA funds state peer specialist certification and training programs
 3. HHS establishes a Homeless Services Workforce Grant program providing salary supplements of $10,000-$15,000 annually for frontline workers
@@ -131,6 +136,7 @@ The current crisis results from the failure to build community-based alternative
 **Evidence Base**: California's Medi-Cal "Community Supports" waiver (CalAIM) began covering housing navigation, tenancy support, and housing deposits in 2022, reaching approximately 40,000 individuals in its first year (DHCS, 2023). Oregon's Medicaid housing services reduced homelessness among participants by 31% over 12 months (Oregon Health Authority, 2021). CMS has signaled support for housing-related services through Section 1115 waivers and the 2023 Medicaid and CHIP final access rule.
 
 **Implementation**:
+
 1. CMS issues a State Plan Amendment template for housing-related services
 2. States adopt the template and train Medicaid managed care organizations on billing
 3. CCBHCs and Health Care for the Homeless centers serve as primary providers
@@ -151,6 +157,7 @@ The current crisis results from the failure to build community-based alternative
 **Evidence Base**: The CAHOOTS program in Eugene, Oregon -- which dispatches mental health workers and medics instead of police to behavioral health calls -- has operated since 1989, handling approximately 24,000 calls annually with a less-than-1% rate requiring police backup (White Bird Clinic, 2023). The program saves an estimated $8.5 million annually in avoided law enforcement costs. Denver's Support Team Assisted Response (STAR) pilot showed similar results. Crisis stabilization units reduce psychiatric emergency room visits by 50-70% in communities that implement them (SAMHSA, 2023).
 
 **Implementation**:
+
 1. Full funding of 988 infrastructure including call centers, mobile crisis teams, and crisis stabilization centers
 2. Medicaid covers mobile crisis services as a mandatory benefit (CMS proposed this in 2023)
 3. States establish crisis receiving centers with psychiatric evaluation capacity and short-term stabilization beds
@@ -176,6 +183,14 @@ The current crisis results from the failure to build community-based alternative
 
 **Applicability to U.S.**: Finland's success demonstrates that Housing First can work as a national strategy, not just individual programs. Key differences include Finland's universal health care system, smaller population, and greater political consensus on housing as a right. The U.S. would need to adapt the model to its fragmented federal system, larger scale, and market-based housing economy. The HUD-VASH model for veterans provides a domestic parallel.
 
+### Japan: Mental Health and Housing Integration
+
+**Description**: Japan's mental health reform beginning in 2004 shifted from a heavily institutionalized system (the highest psychiatric bed rate in the OECD at ~269 per 100,000 population) toward community-based care. The "Vision for Reform of Mental Health and Welfare" plan integrated housing support with community mental health services, establishing group homes and supported apartments linked to community mental health centers.
+
+**Results**: Between 2004 and 2020, the number of long-stay psychiatric patients declined by approximately 20%, and the average length of psychiatric hospitalization fell from 330 days to approximately 265 days (OECD Health Statistics, 2023). Japan's approach demonstrates the importance of building community infrastructure before reducing institutional capacity.
+
+**Applicability to U.S.**: Japan's experience illustrates both the potential and the difficulty of deinstitutionalization done correctly. Japan's reform was slower and more deliberate than the U.S. approach, with community alternatives built in advance of institutional closure. The lesson for the U.S. is that the sequence matters: community capacity must precede institutional reduction.
+
 ### Australia: Doorway Program
 
 **Description**: Australia's Doorway program (formerly "Journey to Social Inclusion") provides intensive, long-term support (3 years) to chronically homeless individuals, combining housing with employment assistance, social inclusion activities, health care coordination, and life skills development.
@@ -200,6 +215,13 @@ The current crisis results from the failure to build community-based alternative
 
 Houston reduced total homelessness from approximately 8,500 in 2011 to approximately 3,100 in 2023 -- a 63% decline -- through a coordinated system that combined Housing First principles with intensive outreach, landlord engagement, and a unified data system. The Coalition for the Homeless led a community-wide "system redesign" that emphasized permanent housing placements over shelter expansion. Houston housed more than 25,000 people during this period (Coalition for the Homeless of Houston/Harris County, 2023).
 
+Key elements of Houston's success include:
+
+- **Centralized landlord engagement**: A dedicated team of housing locators recruited and maintained relationships with more than 1,100 landlords, providing risk mitigation funds and rapid repair services to overcome landlord reluctance
+- **By-name list**: Every person experiencing chronic homelessness was tracked by name in a real-time data system, enabling targeted outreach and immediate housing matching when units became available
+- **Cross-sector leadership**: Business leaders, county officials, the mayor's office, and nonprofit agencies participated in a shared governance structure with clear accountability metrics
+- **Lower housing costs**: Houston's relatively affordable housing market (compared to coastal cities) made it possible to leverage existing rental stock rather than relying solely on new construction
+
 ### HUD-VASH: Veteran Homelessness Reduction of 55.3%
 
 The HUD-VASH program demonstrates that the Housing First + intensive services model can work at national scale. Since 2008, approximately 110,000 vouchers have been allocated, and veteran homelessness has declined 55.3% from its 2010 peak. More than 80 communities and 3 states have achieved "functional zero" for veteran homelessness through the Built for Zero campaign (Community Solutions, 2023).
@@ -207,6 +229,28 @@ The HUD-VASH program demonstrates that the Housing First + intensive services mo
 ### FUSE (Frequent Users Systems Engagement)
 
 The Corporation for Supportive Housing's FUSE model identifies people who cycle most frequently between homelessness, emergency rooms, psychiatric hospitals, and jails, and connects them directly to permanent supportive housing. Evaluations in New York, Connecticut, and California showed 86% housing retention and reductions of 40-60% in emergency service utilization (CSH, 2020).
+
+### CAHOOTS (Eugene, Oregon): Crisis Response Without Police
+
+The Crisis Assistance Helping Out On The Streets (CAHOOTS) program, operated by the White Bird Clinic in Eugene, Oregon since 1989, dispatches two-person teams (a medic and a crisis worker) to behavioral health calls instead of police. CAHOOTS handles approximately 24,000 calls annually -- roughly 20% of the Eugene Police Department's call volume. Key outcomes include:
+
+- Less than 1% of CAHOOTS calls require police backup
+- Estimated $8.5 million annually in avoided law enforcement costs
+- Zero use-of-force incidents since the program's inception
+- High engagement rates with chronically homeless individuals who distrust police
+
+The CAHOOTS model has been replicated or adapted in more than 20 cities, including Denver (STAR program), San Francisco (Street Crisis Response Team), Portland (Portland Street Response), and Olympia, Washington. Each adaptation has shown similar patterns: high diversion rates from police, reduced use of force, and improved connection to mental health services for homeless individuals.
+
+### Collaborative Courts: Mental Health Courts and AOT
+
+Mental health courts -- specialized courts that divert defendants with mental illness from incarceration to supervised treatment -- operate in approximately 450 jurisdictions across the United States (Council of State Governments Justice Center, 2023). Outcomes data show that mental health court participants experience:
+
+- 20-25% reduction in recidivism compared to traditional processing (SAMHSA, 2022)
+- Significant improvements in housing stability when courts are linked to PSH
+- Higher rates of treatment engagement and medication adherence
+- Reduced jail days (average 40-60% reduction in time incarcerated)
+
+Assisted outpatient treatment (AOT) programs, exemplified by New York's Kendra's Law, provide court-ordered community-based treatment for individuals who meet specific criteria (history of non-compliance leading to hospitalization or dangerousness). The Duke University evaluation of Kendra's Law (2009) found 77% reduction in psychiatric hospitalization, 83% reduction in arrest, and 74% reduction in incarceration among AOT recipients. However, AOT remains controversial among civil liberties advocates, and its effectiveness depends on the availability of community treatment resources -- court orders are meaningless without services to comply with.
 
 ---
 
@@ -240,10 +284,12 @@ The Corporation for Supportive Housing's FUSE model identifies people who cycle 
 
 Addressing mental illness and homelessness effectively requires parallel reforms in adjacent policy areas:
 
-- **Affordable housing expansion**: Increase the supply of affordable housing for extremely low-income renters through expanded Low-Income Housing Tax Credits, Housing Trust Fund appropriations, and zoning reform to permit higher-density development
-- **SSI/SSDI reform**: Increase Supplemental Security Income benefits (currently $943/month in 2024) to at least the federal poverty level, and streamline disability determination for people with SMI who are homeless
-- **Criminal justice reform**: Expand pretrial diversion programs, mental health courts, and jail-based discharge planning to break the arrest-release-street cycle
-- **Substance use treatment**: Ensure access to medication-assisted treatment (buprenorphine, methadone, naltrexone) for all homeless individuals with opioid use disorder, and expand harm reduction services including supervised consumption sites
+- **Affordable housing expansion**: Increase the supply of affordable housing for extremely low-income renters through expanded Low-Income Housing Tax Credits, Housing Trust Fund appropriations, and zoning reform to permit higher-density development. The National Low Income Housing Coalition estimates that closing the 7.3-million-unit affordable housing gap would require $100+ billion in capital investment over a decade.
+- **SSI/SSDI reform**: Increase Supplemental Security Income benefits (currently $943/month in 2024) to at least the federal poverty level, and streamline disability determination for people with SMI who are homeless. The current SSI benefit is approximately 75% of the federal poverty level -- the only federal means-tested program that by design leaves recipients in poverty. Raising SSI to the poverty level would cost an estimated $30 billion annually but would have a direct impact on housing affordability for people with disabilities.
+- **Criminal justice reform**: Expand pretrial diversion programs, mental health courts, and jail-based discharge planning to break the arrest-release-street cycle. The Stepping Up Initiative, a national campaign to reduce the number of people with mental illness in jails, has enrolled more than 500 counties since 2015.
+- **Substance use treatment**: Ensure access to medication-assisted treatment (buprenorphine, methadone, naltrexone) for all homeless individuals with opioid use disorder, and expand harm reduction services including supervised consumption sites. The SAMHSA Opioid-Response Grant program and the State Opioid Response grants have expanded access but have not reached the majority of homeless individuals with opioid use disorder.
+- **Medicaid expansion in remaining states**: Ten states have not expanded Medicaid under the Affordable Care Act as of 2024. In these states, many homeless individuals with mental illness remain uninsured and unable to access treatment. Medicaid expansion is associated with improved access to mental health services and reduced uncompensated care costs (Sommers et al., *New England Journal of Medicine*, 2017).
+- **Telehealth and digital mental health**: Expand telehealth capacity for psychiatric consultations in supportive housing, shelters, and outreach settings. The COVID-19 pandemic demonstrated that telehealth can extend psychiatric access to underserved populations, though barriers remain for people without stable internet access or private space.
 
 ---
 

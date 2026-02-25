@@ -72,17 +72,19 @@ Racial disparities in drug enforcement result from the compounding interaction o
 
 ### Solution 4: Cannabis Legalization with Comprehensive Equity Provisions
 
-**Description**: Enact federal cannabis legalization with mandatory social equity components: (1) automatic federal expungement of cannabis-related convictions, (2) reinvestment of a portion of cannabis tax revenue in communities most harmed by prohibition, (3) licensing preferences for individuals from disproportionately impacted areas, and (4) low-interest loans and technical assistance for equity applicants.
+**Description**: Enact federal cannabis legalization with mandatory social equity components: (1) automatic federal expungement of cannabis-related convictions, (2) reinvestment of a portion of cannabis tax revenue in communities most harmed by prohibition, (3) licensing preferences for individuals from disproportionately impacted areas, (4) low-interest loans and technical assistance for equity applicants, and (5) caps on license concentration to prevent corporate consolidation that squeezes out equity applicants.
 
-**Evidence Base**: As of 2024, 24 states have legalized recreational cannabis, generating $33.6 billion in annual revenue (MJBizDaily, 2024), but Black Americans own only 2-4% of cannabis businesses despite constituting ~37% of marijuana arrest targets historically. States with equity programs (Illinois, New York, New Jersey) have demonstrated both the potential and the challenges of incorporating equity into market design. Illinois expunged approximately 800,000 cannabis records (2023).
+**Evidence Base**: As of 2024, 24 states have legalized recreational cannabis, generating $33.6 billion in annual revenue (MJBizDaily, 2024), but Black Americans own only 2-4% of cannabis businesses despite constituting ~37% of marijuana arrest targets historically. States with equity programs (Illinois, New York, New Jersey) have demonstrated both the potential and the challenges of incorporating equity into market design. Illinois expunged approximately 800,000 cannabis records (2023). New York's program reserved 50% of initial licenses for social equity applicants and established a $200 million community reinvestment fund, though implementation has faced legal challenges and delays.
 
-**Implementation**: Congress passes the Cannabis Administration and Opportunity Act (or equivalent). DOJ oversees automatic federal record expungement within 24 months. SBA administers equity loan programs. State equity programs receive federal matching grants.
+**Implementation**: Congress passes the Cannabis Administration and Opportunity Act (or equivalent). DOJ oversees automatic federal record expungement within 24 months. SBA administers equity loan programs. State equity programs receive federal matching grants. A federal Cannabis Equity Commission monitors implementation and reports annually on ownership demographics and community reinvestment outcomes.
 
-**Cost/Resources**: Federal expungement costs estimated at $100-200 million for processing. Community reinvestment funded through cannabis excise tax revenue (projected $5-8 billion annually at full federal legalization).
+**Cost/Resources**: Federal expungement costs estimated at $100-200 million for processing. Community reinvestment funded through cannabis excise tax revenue (projected $5-8 billion annually at full federal legalization). SBA equity loan program capitalized at $500 million.
 
 **Timeline**: Legislation in year 1-2; expungement processing in years 2-3; equity programs operational by year 3.
 
-**Challenges**: Senate support for legalization remains uncertain; tension between equity goals and free-market principles; legal challenges to geographic-based licensing preferences; competition from established multi-state operators.
+**Challenges**: Senate support for legalization remains uncertain; tension between equity goals and free-market principles; legal challenges to geographic-based licensing preferences after *Students for Fair Admissions* (2023); competition from established multi-state operators with superior access to capital; the SAFE Banking Act, if passed separately, could benefit existing operators without equity provisions.
+
+**Lessons from State Programs**: California's experience demonstrates the dangers of legalization without adequate equity provisions: local equity programs in Oakland, Los Angeles, and San Francisco have struggled to help equity licensees compete against well-capitalized corporations, and the illicit market continues to thrive partly because regulatory costs are prohibitive for small operators. Illinois and New York offer more promising models but face their own implementation challenges, including litigation by non-equity applicants and slow agency rollout.
 
 **Impact Metrics**: Number of records expunged; percentage of cannabis licenses held by equity applicants; community reinvestment dollars deployed to disproportionately impacted areas; change in Black/Hispanic ownership share of cannabis industry.
 
@@ -164,13 +166,69 @@ Racial disparities in drug enforcement result from the compounding interaction o
 
 ---
 
+### Solution 8: Equalize Treatment Access Across Racial Groups
+
+**Description**: Address racial disparities in substance use treatment by (1) expanding medication-assisted treatment (MAT) provider capacity in communities of color, (2) eliminating regulatory barriers that channel Black patients to methadone (clinic-based, daily supervised dosing) while white patients receive buprenorphine (office-based, take-home prescribing), (3) integrating substance use screening and treatment referrals into primary care settings in underserved communities, and (4) funding culturally competent treatment programs.
+
+**Evidence Base**: Black patients are 35% less likely to receive buprenorphine for opioid use disorder than white patients (Lagisetty et al., *JAMA Network Open*, 2019). Treatment facilities in majority-Black neighborhoods are 25% less likely to offer MAT than those in majority-white neighborhoods (*Health Affairs*, 2022). The two-tier treatment system -- methadone for Black patients, buprenorphine for white patients -- replicates racial segregation in healthcare (Hansen et al., *Social Science & Medicine*, 2013).
+
+**Implementation**: Congress funds $500 million for MAT provider recruitment in underserved communities. SAMHSA issues guidance requiring equal access to buprenorphine and methadone across treatment settings. DEA finalizes rulemaking to expand methadone dispensing to community pharmacies (proposed 2024). CMS adjusts Medicaid reimbursement rates to incentivize MAT provision in underserved areas.
+
+**Cost/Resources**: $500 million for provider recruitment and technical assistance; $100 million annually for Medicaid reimbursement adjustments; minimal cost for regulatory changes.
+
+**Timeline**: Regulatory changes in year 1; provider recruitment in years 1-3; measurable access equalization by year 5.
+
+**Challenges**: DEA resistance to pharmacy-based methadone dispensing; provider reluctance to practice in underserved areas; stigma surrounding MAT in some communities; competing priorities in community health centers.
+
+**Impact Metrics**: Reduction in racial gap in MAT receipt; number of new MAT providers in disproportionately impacted areas; treatment retention rates by race; overdose death rate equalization.
+
+---
+
 ## Pilot Programs and Demonstrations
 
-- **Law Enforcement Assisted Diversion (LEAD) -- Seattle, WA**: Launched in 2011, LEAD allows officers to divert individuals engaged in low-level drug offenses to community-based social services rather than arresting them. A 2017 evaluation found that LEAD participants were 58% less likely to be rearrested than a control group. LEAD has expanded to over 60 jurisdictions nationwide.
+- **Law Enforcement Assisted Diversion (LEAD) -- Seattle, WA**: Launched in 2011, LEAD allows officers to divert individuals engaged in low-level drug offenses to community-based social services rather than arresting them. A 2017 evaluation found that LEAD participants were 58% less likely to be rearrested than a control group. LEAD has expanded to over 60 jurisdictions nationwide. Critically, LEAD reduced racial disparities in drug enforcement outcomes because it diverted precisely the low-level drug offenders who would otherwise have been arrested -- disproportionately people of color.
 
-- **Philadelphia District Attorney's Office -- Charging Reform**: DA Larry Krasner (elected 2017) implemented policies declining prosecution for marijuana possession and reducing mandatory minimum charges for drug offenses. Philadelphia's drug incarceration rate declined 30% between 2017 and 2022 without a corresponding increase in drug-related crime (Philadelphia DAO, 2023).
+- **Philadelphia District Attorney's Office -- Charging Reform**: DA Larry Krasner (elected 2017) implemented policies declining prosecution for marijuana possession and reducing mandatory minimum charges for drug offenses. Philadelphia's drug incarceration rate declined 30% between 2017 and 2022 without a corresponding increase in drug-related crime (Philadelphia DAO, 2023). Krasner's office also began publishing charging data by race, establishing a transparency precedent.
 
 - **Illinois Cannabis Social Equity Program**: Illinois's Cannabis Regulation and Tax Act (2019) reserved 20% of initial licenses for social equity applicants and established a $30 million community reinvestment fund. While implementation has been slow and contested, the program represents the most comprehensive state-level effort to integrate equity into cannabis legalization.
+
+- **Virginia Pretextual Stop Reform (2021)**: Virginia became the first state to legislatively restrict pretextual stops, prohibiting officers from stopping vehicles solely for minor equipment violations (broken taillights, tinted windows). Early data from the Virginia State Police showed a 25% reduction in minor traffic stops in majority-Black jurisdictions following implementation (Virginia Department of Criminal Justice Services, 2023). This provides a state-level model for federal reforms.
+
+- **Durham, NC -- Community Safety Department**: Durham established a non-police community safety department that responds to calls involving substance use, mental health crises, and homelessness without armed law enforcement. The program, launched in 2021, has diverted hundreds of low-level drug-related calls from police response, reducing arrest disparities while maintaining public safety outcomes.
+
+- **Connecticut Data-Driven Policing Reform**: Following passage of the Alvin W. Penn Racial Profiling Prohibition Act (2013), Connecticut required all police departments to collect and report traffic stop data by race. The resulting data revealed significant disparities in stops, searches, and consent searches. Multiple departments subsequently revised their enforcement practices, and the statewide Black-to-white search disparity ratio declined from 2.8:1 to 2.0:1 between 2014 and 2020 (CT Racial Profiling Prohibition Project, 2021).
+
+### Solution 9: Reform Drug-Free Zone Laws
+
+**Description**: Eliminate or fundamentally restructure drug-free zone sentencing enhancements that function as geography-based racial penalties. Options include: (1) reduce zone radius from 1,000 feet to 100-200 feet to ensure the enhancement targets activity that actually affects the protected institution; (2) require proof that the offense was connected to the protected institution (e.g., selling to students near a school); or (3) eliminate the enhancement entirely and rely on base offense penalties.
+
+**Evidence Base**: A 2005 New Jersey Commission study found that 96% of people imprisoned under the state's drug-free school zone law were Black or Hispanic, because urban schools are closer together than suburban schools, making virtually all urban drug offenses eligible for enhancement. New Jersey reformed its drug-free zone law in 2010, reducing the enhanced penalty zone from 1,000 feet to 200 feet around schools and requiring evidence that the offense involved distribution to a minor. The reform reduced the racial disparity in zone enhancement application by 60% (New Jersey Courts, 2015).
+
+**Implementation**: State legislatures amend drug-free zone statutes to adopt the New Jersey model (reduced radius plus nexus requirement). Congress conditions federal drug-free zone funding on adoption of reformed standards.
+
+**Cost/Resources**: Minimal cost; potential savings from reduced incarceration under zone enhancements.
+
+**Timeline**: State-level adoption in years 1-3; federal funding conditions in years 2-4.
+
+**Challenges**: Political framing as "weakening protections for children"; opposition from prosecutors who use zone enhancements as plea bargaining leverage.
+
+**Impact Metrics**: Reduction in racial disparity in zone enhancement application; number of states adopting reformed standards.
+
+### Solution 10: Restore Voting Rights for People with Drug Convictions
+
+**Description**: Enact automatic restoration of voting rights for all individuals with criminal convictions upon release from incarceration, and support state-level efforts to extend voting rights to incarcerated individuals. Eliminating felon disenfranchisement is both a direct equity remedy (restoring civic participation to people harmed by disparate enforcement) and a structural reform (ensuring that affected communities can influence the drug policies that target them).
+
+**Evidence Base**: An estimated 4.6 million Americans are disenfranchised due to felony convictions, with 1 in 16 Black adults affected (vs. 1 in 59 non-Black adults). States that have restored voting rights -- including Florida (Amendment 4, 2018, partially implemented), Virginia (executive action), and California (Proposition 17, 2020) -- have not experienced any negative public safety consequences. Research by Uggen and Manza (*American Sociological Review*, 2002) found that disenfranchisement reduces civic engagement beyond voting, contributing to the political marginalization of affected communities.
+
+**Implementation**: Congress enacts the Democracy Restoration Act, automatically restoring federal voting rights for people with felony convictions upon release from incarceration. State legislatures adopt parallel provisions for state elections.
+
+**Cost/Resources**: Minimal administrative cost for voter registration integration.
+
+**Timeline**: Federal legislation in year 1-2; state adoption in years 2-5.
+
+**Challenges**: Opposition from states that view disenfranchisement as a legitimate consequence of criminal behavior; Supreme Court federalism concerns about congressional authority over state election administration.
+
+**Impact Metrics**: Number of voting rights restored; change in voter registration and turnout among formerly incarcerated individuals; change in political representation in communities with high conviction rates.
 
 ## Sequencing and Prioritization
 
@@ -194,13 +252,20 @@ Racial disparities in drug enforcement result from the compounding interaction o
 - Achieve full implementation of automatic expungement for eligible drug convictions across all states
 - Reach measurable reduction in Black-to-white drug arrest disparity ratio from 3.73:1 to below 1.5:1
 - Community reinvestment fund achieving measurable improvements in employment, health, and education in target areas
+- Reform drug-free zone laws nationwide through federal funding conditions
+- Restore voting rights for all people with drug convictions upon release from incarceration
+- Equalize MAT access across racial groups, eliminating the two-tier treatment system
+- Achieve Black/Hispanic cannabis ownership share of at least 30% of licensed operators
 
 ## Complementary Policies
 
 - **Policing reform**: Restrictions on qualified immunity, federal pattern-and-practice investigations, community oversight boards (see [Policing](../../justice/policing/07-solutions.md))
 - **Sentencing reform**: Broader mandatory minimum reform beyond crack/powder (see [Drug Sentencing](../drug-sentencing/07-solutions.md))
 - **Treatment access**: Expanded medication-assisted treatment, parity enforcement (see [Drug Treatment](../drug-treatment/07-solutions.md))
-- **Voting rights restoration**: Automatic restoration of voting rights upon release (see [Voting Rights](../../political/voting-rights/07-solutions.md))
+- **Voting rights restoration**: Automatic restoration of voting rights upon release, which is essential for ensuring that communities affected by drug enforcement can participate in shaping the policies that target them (see [Voting Rights](../../political/voting-rights/07-solutions.md))
+- **Public defense funding**: Adequate funding for public defender offices to ensure that drug defendants receive effective representation regardless of race or income (see [Courts](../../justice/courts/07-solutions.md))
+- **Housing policy**: Reform of public housing "one-strike" policies and expansion of fair housing enforcement (see [Housing](../../housing/07-solutions.md))
+- **Harm reduction**: Syringe services programs, naloxone distribution, supervised consumption sites, and drug checking services, with targeted outreach to communities of color where overdose rates are rising fastest (see [Harm Reduction](../harm-reduction/07-solutions.md))
 
 ---
 

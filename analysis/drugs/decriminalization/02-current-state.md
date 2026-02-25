@@ -41,8 +41,12 @@ Enforcement of drug possession laws continues to reflect profound racial dispari
 | Black share of drug possession arrests | ~27% | FBI UCR, 2023 |
 | Black share of U.S. population | ~13.6% | Census Bureau, 2023 |
 | Hispanic drug arrest overrepresentation | 1.4x population share | Sentencing Project, 2023 |
+| Native American drug arrest rate | 2.1x white rate | DOJ, 2023 |
 | Past-month illicit drug use (white) | 14.6% | SAMHSA NSDUH, 2024 |
 | Past-month illicit drug use (Black) | 15.4% | SAMHSA NSDUH, 2024 |
+| Past-month illicit drug use (Hispanic) | 13.1% | SAMHSA NSDUH, 2024 |
+
+These disparities persist even in jurisdictions that have decriminalized cannabis. In Massachusetts, which decriminalized cannabis in 2008 and legalized in 2016, Black residents were still 3.3 times more likely than white residents to be arrested for cannabis-related offenses in 2019 (ACLU of Massachusetts, 2020). The disparity reflects not only enforcement targeting but also the downstream effects of policing patterns: communities subjected to higher police presence experience more drug encounters regardless of actual drug use rates.
 
 ### Consequences of Drug Possession Convictions
 
@@ -161,7 +165,9 @@ Portugal provides the most studied and comprehensive model. Key outcomes after 2
 4. CDT can impose sanctions (community service, fines, travel restrictions) but emphasizes voluntary treatment referral
 5. Trafficking and dealing remain criminal offenses
 
-### Czech Republic
+### Czech Republic (2010 to Present)
+
+The Czech Republic provides the clearest model of substance-specific threshold-based decriminalization.
 
 | Indicator | Value | Source |
 |---|---|---|
@@ -169,8 +175,72 @@ Portugal provides the most studied and comprehensive model. Key outcomes after 2
 | Threshold system | Substance-specific quantity limits | Government Order No. 467/2009 |
 | Cannabis threshold | 10 grams (dried) or 5 plants | Gov. Order 467/2009 |
 | Cocaine threshold | 1 gram | Gov. Order 467/2009 |
+| Methamphetamine threshold | 2 grams | Gov. Order 467/2009 |
+| Heroin threshold | 1.5 grams | Gov. Order 467/2009 |
+| MDMA threshold | 4 tablets | Gov. Order 467/2009 |
+| LSD threshold | 5 doses (blotter) | Gov. Order 467/2009 |
+| Psilocybin mushrooms threshold | 40 grams (fresh) | Gov. Order 467/2009 |
 | Penalty for below-threshold possession | Misdemeanor, max fine CZK 15,000 (~$650) | Czech Drug Policy Act |
 | Drug use rate trend | Stable; cannabis use slightly above EU average | EMCDDA, 2023 |
+| Drug-related deaths (2022) | ~50 (5.0 per million, vs. EU avg 22.2 per million) | EMCDDA, 2023 |
+| HIV among PWID (2022) | <2% prevalence | EMCDDA, 2023 |
+
+**Key Design Features:**
+
+1. Thresholds are set by Government Order, allowing administrative adjustment without legislative action
+2. Below-threshold possession is processed as a misdemeanor by administrative authorities, not criminal courts
+3. Above-threshold possession triggers criminal investigation for potential distribution charges
+4. Penalties for below-threshold possession are fines only; no incarceration for personal quantities
+5. The system has been in operation for 14 years without requiring significant revision
+
+### The Netherlands: Tolerance Policy
+
+The Netherlands operates a distinctive model of de facto decriminalization through its *gedoogbeleid* (tolerance policy) for cannabis, in effect since 1976.
+
+| Indicator | Value | Source |
+|---|---|---|
+| Cannabis policy | Sale tolerated through licensed "coffee shops"; personal possession of <5g tolerated | Opium Act, as applied |
+| Number of coffee shops | ~565 (2023) | Netherlands Ministry of Justice, 2023 |
+| Hard drug policy | Possession of small quantities discouraged but often not prosecuted; trafficking remains criminal | Dutch Public Prosecution Service guidelines |
+| Drug-related deaths (2022) | 252 (14.5 per million) | EMCDDA, 2023 |
+| Cannabis use rate (adult, past year) | 22.6% | EMCDDA, 2023 |
+| Heroin-assisted treatment | Available since 1998 for treatment-resistant patients | Dutch Health Council |
+
+**Limitations of the Dutch Model:** The Netherlands' "back door" problem illustrates a key tension in decriminalization without legalization -- coffee shops can sell cannabis legally, but their supply chain remains criminal. This paradox has generated organized crime involvement in cannabis cultivation and has led the Netherlands to pilot a "closed chain" supply experiment in 10 municipalities beginning in 2023.
+
+### Additional International Models
+
+| Country | Year | Scope | Mechanism | Outcomes | Source |
+|---|---|---|---|---|---|
+| Uruguay | 1974 | All drugs, personal quantities | Judicial discretion; judge determines if quantity is for personal use | Stable drug use; low incarceration | UNODC, 2023 |
+| Colombia | 1994 | All drugs, personal dose (*dosis personal*) | Constitutional Court ruling; 20g cannabis, 1g cocaine | No increase in use; enforcement varies by locality | Colombian Constitutional Court, *Sentencia C-221/94* |
+| Mexico | 2009 | All drugs, personal quantities | Federal statute with substance-specific thresholds | Limited enforcement of decriminalization; cartel violence overshadows policy | Mexican Federal Health Law |
+| Germany | 2024 | Cannabis | Federal legalization with personal possession limits (25g public, 50g private) | Too recent to evaluate | German Cannabis Act (KCanG), 2024 |
+| Australia | Varies by state | Cannabis (most states); all drugs (ACT, 2023) | Civil penalty notices; diversion programs | Stable use; reduced criminal records | AIHW, 2023 |
+
+## Public Opinion Trends
+
+Public attitudes toward drug decriminalization have shifted significantly over the past decade, though support varies by framing, drug type, and demographic group.
+
+| Poll Finding | Year | Value | Source |
+|---|---|---|---|
+| Support ending arrest for drug possession | 2024 | 66% | Pew Research, 2024 |
+| Support ending arrest for drug possession | 2014 | 52% | Pew Research, 2014 |
+| Favor treatment over prosecution for drug use | 2023 | 71% | Gallup, 2023 |
+| Favor treatment over prosecution for drug use | 2018 | 64% | Gallup, 2018 |
+| Support decriminalizing cannabis | 2024 | 74% | Gallup, 2024 |
+| Support decriminalizing "hard drugs" (heroin, meth) | 2024 | 39% | Pew Research, 2024 |
+| Believe the War on Drugs has failed | 2023 | 62% | ACLU/YouGov, 2023 |
+| Believe drug addiction is a disease, not a moral failing | 2024 | 67% | AP-NORC, 2024 |
+
+**Demographic Variation:**
+
+- **Age**: Support for decriminalization is highest among adults 18-29 (73%) and lowest among those 65+ (51%) (Pew Research, 2024)
+- **Race**: Black Americans (72%) and Hispanic Americans (68%) are more likely to support decriminalization than white Americans (63%) (Pew Research, 2024)
+- **Party**: Democrats (78%) are significantly more supportive than Republicans (49%), though Republican support has grown from 34% in 2014 (Pew Research, 2024)
+- **Geography**: Urban residents are more supportive (70%) than rural residents (55%) (AP-NORC, 2024)
+
+The critical gap in public opinion is between general support for decriminalization as a concept and support for specific implementation. When surveys name specific substances -- heroin, methamphetamine, fentanyl -- support drops 20-30 percentage points. This "substance specificity" gap is one of the primary political challenges for comprehensive decriminalization advocates.
 
 ## Key Indicators Summary
 
@@ -206,6 +276,24 @@ States employ a wide range of approaches to drug possession penalties:
 | Misdemeanor (all drugs) | Most states | Up to 1 year jail, fine | NCSL, 2024 |
 | Felony (any amount, some substances) | TX (>1g cocaine), FL, AZ | 2-10+ years prison | State statutes |
 | Defelonization (reduced from felony to misdemeanor) | CA (Prop 47, 2014), OK, UT | Misdemeanor up to 1 year | NCSL, 2024 |
+| Drug court diversion | 44 states + D.C. | Charges dismissed upon treatment completion | NADCP, 2024 |
+
+The variation is extreme. In Louisiana, a second offense for possession of any Schedule I drug (including cannabis, prior to 2024 reclassification) could result in up to 5 years imprisonment. In Connecticut, possession of less than half an ounce of cannabis results in a $150 fine with no criminal record. A person driving from Connecticut to Louisiana with a small quantity of cannabis crosses a boundary from civil infraction to potential felony.
+
+### Drug Courts
+
+Drug courts occupy a unique position in the decriminalization debate, operating as a hybrid between criminal justice and treatment systems.
+
+| Metric | Value | Source |
+|---|---|---|
+| Number of drug courts in the U.S. | ~3,800 | NADCP, 2024 |
+| Annual participants | ~150,000 | NADCP, 2024 |
+| Average completion rate | 50-75% | National Drug Court Institute, 2023 |
+| Recidivism reduction (vs. standard prosecution) | 8-14 percentage points | NDCI meta-analysis, 2023 |
+| Average cost per participant | $5,000-$7,000 | NDCI, 2023 |
+| Average cost of prosecution and incarceration (comparison) | $20,000-$50,000 | Vera Institute, 2023 |
+
+Drug court proponents argue these courts demonstrate that the criminal justice system can effectively connect people to treatment through the leverage of pending charges. Decriminalization advocates counter that drug courts serve a highly selected population, that the coercion mechanism is ethically problematic, and that comparable outcomes can be achieved through voluntary treatment when it is accessible. The debate between these positions is central to the politics of decriminalization.
 
 ## Recent Trends
 
@@ -235,6 +323,22 @@ The fentanyl crisis has shifted public discourse. Drug overdose deaths surged fr
 ### Post-Oregon Backlash
 
 Oregon's 2024 recriminalization sent a signal that has affected decriminalization efforts nationally. No state legislature introduced a comprehensive drug decriminalization bill in 2024, and several municipal non-enforcement policies have been scaled back. Reform advocates are recalibrating, emphasizing the need for treatment infrastructure to precede or accompany decriminalization rather than follow it.
+
+The political fallout has been compounded by a broader "tough on crime" shift in several major cities. In San Francisco, voters recalled District Attorney Chesa Boudin in 2022 and passed Proposition E (expanding police surveillance powers) in March 2024. Los Angeles voters replaced reform DA George Gascon with former federal prosecutor Nathan Hochman in November 2024. These developments are not solely about drug policy, but they reflect a political environment less receptive to reducing enforcement.
+
+### Deflection Programs as a Middle Path
+
+A growing number of law enforcement agencies are adopting "deflection" or "pre-arrest diversion" programs that redirect individuals to treatment at the point of police contact, without formal arrest or citation.
+
+| Program | Location | Year Started | Model | Participants Served |
+|---|---|---|---|---|
+| PAARI Network | 600+ departments nationwide | 2015 | Self-referral and officer-initiated | 20,000+ |
+| LEAD (Law Enforcement Assisted Diversion) | Seattle, WA (now in 80+ cities) | 2011 | Officer-initiated case management | 5,000+ (Seattle alone) |
+| Gloucester Angel Program | Gloucester, MA | 2015 | Self-referral through police station | 4,000+ |
+| Madison CARES | Madison, WI | 2017 | Officer-initiated active outreach | 2,000+ |
+| Quick Response Teams | 200+ communities in OH, WV, PA | 2016 | Post-overdose follow-up within 72 hours | 15,000+ |
+
+These programs represent a politically feasible middle ground that maintains law enforcement involvement while shifting the response from arrest to treatment. They have generated bipartisan support because they allow police to be seen as part of the solution rather than being sidelined. However, deflection programs reach only a fraction of the people arrested for drug possession and depend on individual officer discretion, which introduces potential for disparate application.
 
 ### Supreme Court and Homelessness
 

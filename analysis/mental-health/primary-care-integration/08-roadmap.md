@@ -30,6 +30,8 @@ The roadmap is organized into three phases that progressively expand the reach a
 
 The strategy prioritizes equity by targeting safety-net settings (FQHCs, rural clinics, tribal facilities) in the earliest phases, ensuring that populations with the greatest need receive integration infrastructure first. Each phase includes specific metrics, legislative requirements, and contingency plans to maintain accountability and adaptability.
 
+The roadmap also recognizes that integration must span the full age spectrum. Pediatric behavioral health integration, enabled by MCPAP-style psychiatric access programs and the HRSA Pediatric Mental Health Care Access program, is incorporated alongside adult CoCM expansion. Substance use disorder integration, made feasible by the 2023 X-waiver elimination and 2024 42 CFR Part 2 alignment, is included as a parallel track within the same infrastructure.
+
 ---
 
 ## Phase 1: Foundation (Years 1-2)
@@ -41,6 +43,7 @@ The strategy prioritizes equity by targeting safety-net settings (FQHCs, rural c
 - Initiate EHR behavioral health integration standards through ONC rulemaking
 - Expand psychiatric access programs and Project ECHO hubs to all 50 states
 - Begin FQHC integration mandate with targeted capacity funding
+- Establish the National Behavioral Health Integration Commission within HHS
 
 ### Key Actions
 
@@ -54,16 +57,18 @@ The strategy prioritizes equity by targeting safety-net settings (FQHCs, rural c
 | HRSA awards grants for 30 new Project ECHO behavioral health hubs | HRSA | Months 6-18 | $50 million in Year 1 grants | 30 hubs operational within 18 months |
 | HRSA issues FQHC integration mandate proposed rule (Section 330 update) | HRSA | Months 12-18 | Rulemaking staff; NACHC consultation | Proposed rule published |
 | CMS establishes enhanced FMAP (10 percentage points) for Medicaid carve-in states | CMS/Congress | Months 1-12 | Included in federal legislation | Enhanced FMAP available to qualifying states |
+| HHS establishes National Behavioral Health Integration Commission | HHS Secretary | Months 3-9 | Executive authority; interagency coordination | Commission charter published; members appointed |
+| SAMHSA-HRSA CIHS launches technical assistance program for state Medicaid CoCM implementation | SAMHSA/HRSA | Months 6-12 | $20 million TA program | TA available to all 50 state Medicaid agencies |
 
 ### Legislative Requirements
 
-- **Primary Care Behavioral Health Integration Act**: Comprehensive legislation mandating Medicaid CoCM coverage, authorizing the BHCM Corps, providing FQHC integration funding ($3 billion over 5 years), and establishing enhanced FMAP for carve-in states
+- **Primary Care Behavioral Health Integration Act**: Comprehensive legislation mandating Medicaid CoCM coverage, authorizing the BHCM Corps, providing FQHC integration funding ($3 billion over 5 years), establishing enhanced FMAP for carve-in states, and creating the National Behavioral Health Integration Commission
 - **Supplemental appropriation**: $500 million in immediate funding for psychiatric access program expansion and Project ECHO hubs
 - **ONC authorization update**: Explicit Congressional direction to include behavioral health integration in EHR certification criteria (may be included in main bill or separate 21st Century Cures Act amendment)
 
 ### Expected Outcomes
 
-By the end of Year 2, the legislative and regulatory foundation for national integration will be in place. All state Medicaid programs will be required to cover CoCM codes (with implementation deadlines staggered through Year 3). The BHCM Corps will have established accreditation standards and enrolled its first training cohort. Thirty new psychiatric access programs and 30 new Project ECHO hubs will be operational. The FQHC integration mandate will have been proposed with a compliance timeline. Five to ten states will have initiated Medicaid behavioral health carve-in transitions in response to the enhanced FMAP incentive.
+By the end of Year 2, the legislative and regulatory foundation for national integration will be in place. All state Medicaid programs will be required to cover CoCM codes (with implementation deadlines staggered through Year 3). The BHCM Corps will have established accreditation standards and enrolled its first training cohort of approximately 1,000 candidates. Thirty new psychiatric access programs and 30 new Project ECHO hubs will be operational. The FQHC integration mandate will have been proposed with a compliance timeline. Five to ten states will have initiated Medicaid behavioral health carve-in transitions in response to the enhanced FMAP incentive. The National Behavioral Health Integration Commission will have published its first annual progress report.
 
 ---
 
@@ -77,6 +82,7 @@ By the end of Year 2, the legislative and regulatory foundation for national int
 - Complete FQHC integration mandate for large health centers (Level 5-6 compliance)
 - Enforce EHR behavioral health integration certification standards
 - Transition 20+ states from behavioral health carve-out to carve-in Medicaid models
+- Establish integration quality measures in Medicare, Medicaid, and commercial quality programs
 
 ### Key Actions
 
@@ -91,16 +97,19 @@ By the end of Year 2, the legislative and regulatory foundation for national int
 | CMS makes MCP (Making Care Primary) behavioral health track available nationally | CMMI | Year 3-4 | CMS Innovation Center authority | 10,000+ practices in MCP BH track |
 | ACGME updates primary care residency requirements to include CoCM training | ACGME | Year 3-5 | Curriculum development grants ($80 million/year) | Standards published; compliance timeline set |
 | 20 states complete Medicaid behavioral health carve-in transition | State Medicaid agencies | Years 3-5 | Enhanced FMAP; SAMHSA-HRSA CIHS TA | 20 states carved in |
+| SAMHSA publishes initial behavioral health integration quality measures | SAMHSA/CMS | Year 4-5 | Quality measure development; NQF endorsement process | Measures available for adoption in quality programs |
+| Deploy BHCM Corps cohort 2 (3,000 additional BHCMs) | HRSA | Years 4-5 | $300 million/year | 5,000 cumulative BHCMs in practice |
 
 ### Legislative Requirements
 
 - **Reauthorization and adjustment**: Midpoint review of BHCM Corps funding and psychiatric access programs; potential supplemental appropriation if demand exceeds initial estimates
 - **ACGME accreditation directive**: Congressional encouragement (non-binding) or HRSA conditioning of GME funding on integration training standards
 - **Parity enforcement strengthening**: Amendment to MHPAEA requiring reporting on integrated care access as part of parity compliance
+- **SUD integration expansion**: Supplemental funding for primary care practices to integrate buprenorphine prescribing and SUD care management into existing CoCM infrastructure
 
 ### Expected Outcomes
 
-By the end of Year 5, the infrastructure for national integration will be substantially built. All state Medicaid programs will reimburse CoCM codes. Five thousand certified BHCMs will be practicing in integrated settings, with the majority in underserved areas. Every state will have both adult and child psychiatric access programs providing same-day teleconsultation to primary care providers. Eighty percent of large FQHCs will have achieved full integration (Level 5-6). Major EHR vendors will have completed or begun implementing behavioral health integration features. Twenty or more states will have transitioned to behavioral health carve-in Medicaid models. CoCM billing will have expanded from fewer than 3% of primary care practices to an estimated 20-25%.
+By the end of Year 5, the infrastructure for national integration will be substantially built. All state Medicaid programs will reimburse CoCM codes. Five thousand certified BHCMs will be practicing in integrated settings, with the majority in underserved areas. Every state will have both adult and child psychiatric access programs providing same-day teleconsultation to primary care providers. Eighty percent of large FQHCs will have achieved full integration (Level 5-6). Major EHR vendors will have completed or begun implementing behavioral health integration features. Twenty or more states will have transitioned to behavioral health carve-in Medicaid models. CoCM billing will have expanded from fewer than 3% of primary care practices to an estimated 20-25%. Initial behavioral health integration quality measures will be available for adoption in Medicare, Medicaid, and commercial quality programs.
 
 ---
 
@@ -114,6 +123,7 @@ By the end of Year 5, the infrastructure for national integration will be substa
 - Transition federal funding from start-up grants to sustainable payment models
 - Embed behavioral health integration as a core competency for all primary care graduates
 - Achieve measurable reductions in national depression and anxiety treatment gaps
+- Establish integration as the default standard of primary care, not an optional add-on
 
 ### Key Actions
 
@@ -128,10 +138,11 @@ By the end of Year 5, the infrastructure for national integration will be substa
 | CMS transitions CoCM payment to permanent, inflation-adjusted schedule | CMS | Year 8-10 | Rulemaking | Permanent CoCM rates indexed to Medicare Economic Index |
 | SAMHSA publishes national behavioral health integration quality measures | SAMHSA/CMS | Year 6-8 | Quality measure development | Measures adopted by CMS, NCQA, HEDIS |
 | National evaluation of integration impact on treatment gap, costs, and outcomes | AHRQ | Year 8-10 | $25 million evaluation contract | Published national evaluation report |
+| Expand integration mandate to include SUD treatment in all CoCM-billing practices | CMS/SAMHSA | Year 6-8 | SUD-specific training modules; BHCM cross-training | 50%+ of CoCM practices offering integrated SUD treatment |
 
 ### Expected Outcomes
 
-By Year 10, behavioral health integration will be the standard of primary care in the United States. Over 60% of primary care practices will deliver Level 4-6 integrated care. A self-sustaining BHCM training pipeline will produce 2,000+ new care managers annually, supported by NHSC-style loan repayment rather than time-limited grants. All FQHCs will be fully integrated. EHR systems will universally support registry-based, team-based behavioral health workflows. The national treatment gap for depression and anxiety will have narrowed from approximately 57% untreated to under 35%, representing tens of millions of additional Americans receiving evidence-based behavioral health care in primary care settings. National health expenditure data will begin to demonstrate reductions in behavioral health-related emergency department use, hospitalization, and disability claims attributable to upstream primary care intervention.
+By Year 10, behavioral health integration will be the standard of primary care in the United States. Over 60% of primary care practices will deliver Level 4-6 integrated care. A self-sustaining BHCM training pipeline will produce 2,000+ new care managers annually, supported by NHSC-style loan repayment rather than time-limited grants. All FQHCs will be fully integrated. EHR systems will universally support registry-based, team-based behavioral health workflows. The national treatment gap for depression and anxiety will have narrowed from approximately 57% untreated to under 35%, representing tens of millions of additional Americans receiving evidence-based behavioral health care in primary care settings. National health expenditure data will begin to demonstrate reductions in behavioral health-related emergency department use, hospitalization, and disability claims attributable to upstream primary care intervention. Behavioral health integration quality measures will be embedded in Medicare, Medicaid, and commercial quality reporting programs, creating permanent accountability for maintaining integration standards.
 
 ---
 
@@ -147,16 +158,20 @@ By Year 10, behavioral health integration will be the standard of primary care i
 | Depression treatment gap | Ongoing | % of adults with depression receiving treatment | ~43% treated (2022) | 48% | 55% | 65% |
 | Screening rates | Ongoing | % of primary care visits with behavioral health screening | 25-40% (private); 65% (FQHC) | 50% (all settings) | 70% | 85% |
 | Project ECHO hubs | Year 5 | Number of behavioral health ECHO hubs | ~30 (BH-focused, 2024) | 60 | 100 | 100 (sustained) |
+| Medicaid carve-in states | Year 8 | States with carved-in behavioral health | ~20 states (2024) | 25 states | 30 states | 40+ states |
+| Residency training | Year 8 | % of primary care residencies with CoCM training | 34% (2022) | 50% | 70% | 100% |
 
 ## Governance and Oversight
 
-A National Behavioral Health Integration Commission, established within HHS, will oversee implementation of the roadmap. The commission will include representatives from CMS, HRSA, SAMHSA, ONC, AHRQ, and external members drawn from primary care, behavioral health, patient advocacy, health systems, and state Medicaid agencies. The commission will:
+A National Behavioral Health Integration Commission, established within HHS, will oversee implementation of the roadmap. The commission will include representatives from CMS, HRSA, SAMHSA, ONC, AHRQ, and external members drawn from primary care, behavioral health, patient advocacy, health systems, state Medicaid agencies, and tribal health programs. The commission will:
 
 - Publish annual progress reports on all milestones and metrics
 - Conduct midpoint review (Year 5) with authority to recommend legislative adjustments
 - Coordinate across federal agencies to prevent duplication and ensure alignment
 - Advise Congress on reauthorization and funding adjustments
 - Facilitate state-level implementation support through SAMHSA-HRSA CIHS
+- Monitor equity metrics to ensure integration reaches underserved populations proportionately
+- Convene an annual National Behavioral Health Integration Summit bringing together federal, state, provider, payer, and patient stakeholders
 
 Accountability mechanisms include:
 
@@ -164,6 +179,7 @@ Accountability mechanisms include:
 - **GAO evaluation at Years 3, 5, and 10**: Independent assessment of program effectiveness and cost-efficiency
 - **AHRQ-funded national evaluation**: Comprehensive research study of integration impact on outcomes, costs, and disparities (contracted at Year 6, published at Year 10)
 - **State-level reporting**: Medicaid agencies must report CoCM utilization, behavioral health access metrics, and integration quality indicators annually as a condition of enhanced FMAP
+- **Quality measure accountability**: Integration quality measures (screening rates, follow-up rates, depression remission rates) embedded in Medicare MIPS, Medicaid managed care quality withholds, and commercial HEDIS measures
 
 ---
 
@@ -175,7 +191,7 @@ Accountability mechanisms include:
 
 **Impact**: High
 
-**Mitigation Strategy**: Design a modular legislative approach that allows individual components (Medicaid CoCM mandate, BHCM Corps, FQHC integration funding) to advance as separate bills or riders if comprehensive legislation stalls. Build bipartisan coalition early by emphasizing the evidence base, cost savings, and rural access benefits that appeal across party lines.
+**Mitigation Strategy**: Design a modular legislative approach that allows individual components (Medicaid CoCM mandate, BHCM Corps, FQHC integration funding) to advance as separate bills or riders if comprehensive legislation stalls. Build bipartisan coalition early by emphasizing the evidence base, cost savings, and rural access benefits that appeal across party lines. Engage veterans organizations and employer groups as cross-partisan advocates.
 
 **Contingency Plan**: If legislation stalls, pursue administrative actions available without new legislation: CMS rulemaking to encourage CoCM through existing authority (CMMI models, Medicare physician fee schedule updates), HRSA reallocation of existing workforce funds to BHCM training, and ONC regulatory action under 21st Century Cures Act. These actions would be less comprehensive but could sustain momentum.
 
@@ -185,9 +201,9 @@ Accountability mechanisms include:
 
 **Impact**: High
 
-**Mitigation Strategy**: Invest heavily in training pipeline from Year 1, with accelerated 12-18 month certification pathways for experienced social workers and nurses who can transition to BHCM roles. Leverage telehealth to enable BHCMs and psychiatric consultants to serve multiple practices remotely, reducing the total headcount needed. Expand scope-of-practice to allow more professionals to serve in care manager and prescriber roles.
+**Mitigation Strategy**: Invest heavily in training pipeline from Year 1, with accelerated 12-18 month certification pathways for experienced social workers and nurses who can transition to BHCM roles. Leverage telehealth to enable BHCMs and psychiatric consultants to serve multiple practices remotely, reducing the total headcount needed. Expand scope-of-practice to allow more professionals to serve in care manager and prescriber roles. Include certified peer support specialists in the integration workforce for non-clinical support functions.
 
-**Contingency Plan**: If BHCM supply falls short of targets, prioritize deployment to FQHCs and MHPSAs. Increase reliance on telehealth-enabled consultation models (Project ECHO, psychiatric access programs) to provide specialist support to practices without on-site BHCMs. Provide bridge funding for shared BHCM positions that serve multiple small practices.
+**Contingency Plan**: If BHCM supply falls short of targets, prioritize deployment to FQHCs and MHPSAs. Increase reliance on telehealth-enabled consultation models (Project ECHO, psychiatric access programs) to provide specialist support to practices without on-site BHCMs. Provide bridge funding for shared BHCM positions that serve multiple small practices through a "hub-and-spoke" staffing model.
 
 ### Risk 3: State Resistance to Medicaid CoCM Mandate
 
@@ -195,7 +211,7 @@ Accountability mechanisms include:
 
 **Impact**: Medium
 
-**Mitigation Strategy**: Structure the federal mandate with enhanced FMAP support (90/10 federal match for CoCM services in Years 1-3, transitioning to standard match), reducing the fiscal burden on states. Provide SAMHSA-HRSA CIHS technical assistance for State Plan Amendment development. Highlight early-adopter state data (e.g., Washington State) showing CoCM cost-effectiveness.
+**Mitigation Strategy**: Structure the federal mandate with enhanced FMAP support (90/10 federal match for CoCM services in Years 1-3, transitioning to standard match), reducing the fiscal burden on states. Provide SAMHSA-HRSA CIHS technical assistance for State Plan Amendment development. Highlight early-adopter state data (e.g., Washington State 3.5x adoption increase) showing CoCM cost-effectiveness.
 
 **Contingency Plan**: If states delay compliance, CMS can use existing Medicaid authority to condition managed care contract approval on CoCM coverage, achieving coverage through managed care organizations even if state fee-for-service programs are slower to adopt.
 
@@ -205,7 +221,7 @@ Accountability mechanisms include:
 
 **Impact**: Medium
 
-**Mitigation Strategy**: Engage EHR vendors early in the rulemaking process. Provide a 24-month compliance timeline with phased requirements (basic screening templates first, full registry functionality second). Offer ONC technical assistance grants to smaller vendors. Frame requirements as enhancing product competitiveness in the value-based care market.
+**Mitigation Strategy**: Engage EHR vendors early in the rulemaking process. Provide a 24-month compliance timeline with phased requirements (basic screening templates first, full registry functionality second). Offer ONC technical assistance grants to smaller vendors ($25 million over 3 years). Frame requirements as enhancing product competitiveness in the value-based care market.
 
 **Contingency Plan**: If major vendors delay, promote open-source registry add-on tools (such as those developed by the AIMS Center) that can integrate with existing EHR platforms via FHIR APIs, bypassing vendor dependence for core CoCM functionality.
 
@@ -215,9 +231,19 @@ Accountability mechanisms include:
 
 **Impact**: High
 
-**Mitigation Strategy**: Build integration into permanent programmatic structures (FQHC Section 330 requirements, Medicare fee schedule, ACGME accreditation standards) that are resistant to single-year appropriations changes. Emphasize bipartisan benefits: rural access, veteran care, cost savings. Cultivate support from health system CEOs and governors of both parties.
+**Mitigation Strategy**: Build integration into permanent programmatic structures (FQHC Section 330 requirements, Medicare fee schedule, ACGME accreditation standards) that are resistant to single-year appropriations changes. Emphasize bipartisan benefits: rural access, veteran care, cost savings. Cultivate support from health system CEOs and governors of both parties. Embed integration quality measures in existing quality programs (MIPS, HEDIS) that are difficult to reverse administratively.
 
 **Contingency Plan**: If federal commitment weakens, pivot to state-level implementation. States with carved-in Medicaid, existing psychiatric access programs, and state-funded BHCM training can sustain integration independently. The 50-state strategy ensures that progress is distributed and difficult to fully reverse.
+
+### Risk 6: Integration Mandates Produce Checkbox Compliance Rather Than Clinical Transformation
+
+**Likelihood**: Medium
+
+**Impact**: Medium
+
+**Mitigation Strategy**: Tie funding and compliance to clinical outcome metrics (depression remission rates, screening follow-up rates), not just structural indicators (having a care manager on staff). Require measurement-based care with registry reporting as a condition of CoCM billing. Fund SAMHSA-HRSA CIHS to provide ongoing quality improvement technical assistance, not just implementation support. Learn from the IAPT model's emphasis on session-by-session outcome reporting and public transparency.
+
+**Contingency Plan**: If outcome metrics reveal that nominally integrated practices are not achieving clinical improvement, the National Behavioral Health Integration Commission can recommend corrective action, including enhanced TA, modified payment incentives, or conditional compliance extensions.
 
 ---
 
@@ -239,11 +265,12 @@ Accountability mechanisms include:
 - **Psychiatric access program staff**: Estimated 500-750 consulting psychiatrists and administrative support across 50 state programs
 - **Project ECHO hub staff**: Approximately 800-1,000 specialists and coordinators across 100 hubs
 - **FQHC workforce expansion**: Estimated 15,000-20,000 new behavioral health FTEs across the national FQHC network (funded through integration grants and sustainable CoCM billing revenue)
+- **National Behavioral Health Integration Commission**: 15-20 commissioners plus 25-30 staff for coordination, reporting, and evaluation
 
 ### Infrastructure
 
 - **Technology**: EHR upgrades across approximately 200,000 primary care practices; estimated 18-24 months for major vendor compliance. BHCM training programs require telehealth-capable clinical sites and simulation facilities.
-- **Telehealth**: Psychiatric access programs and Project ECHO hubs require HIPAA-compliant video conferencing, scheduling, and case management platforms. Rural broadband remains a prerequisite in underserved areas (addressed by Infrastructure Investment and Jobs Act, 2021).
+- **Telehealth**: Psychiatric access programs and Project ECHO hubs require HIPAA-compliant video conferencing, scheduling, and case management platforms. Rural broadband remains a prerequisite in underserved areas (addressed by Infrastructure Investment and Jobs Act, 2021, $65 billion allocation).
 - **Training facilities**: 200+ accredited BHCM training programs at schools of social work, nursing, and counseling, with integrated clinical practicum sites at FQHCs and primary care practices.
 - **Quality measurement**: National behavioral health integration quality reporting system requiring data infrastructure at CMS, state Medicaid agencies, and practice level.
 

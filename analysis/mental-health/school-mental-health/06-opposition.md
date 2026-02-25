@@ -21,8 +21,10 @@ Proposals to expand school-based mental health services face resistance from tho
 
 - **Conservative**: Opposes federal expansion of school mental health as an intrusion into local education control and family authority; supports parental rights in mental health decisions; skeptical of SEL curricula; favors faith-based and community-based alternatives over government programs
 - **Libertarian**: Opposes taxpayer-funded school mental health expansion as outside the proper role of government; favors private mental health services, school choice, and parental decision-making; objects to screening programs as surveillance
-- **Constitutionalist**: Questions federal authority over school mental health under the Tenth Amendment; argues education and mental health are reserved to the states; opposes federal mandates attached to IDEA and ESSA funding
-- **Religious Right**: Concerns that school mental health programs will promote values contrary to religious teachings, particularly regarding sexuality and gender identity; opposes confidential services for minors without parental notification; supports parental authority as primary
+- **Constitutionalist**: Questions federal authority over school mental health under the Tenth Amendment; argues education and mental health are reserved to the states; opposes federal mandates attached to IDEA and ESSA funding; favors state-only approaches to school mental health investment
+- **Religious Right**: Concerns that school mental health programs will promote values contrary to religious teachings, particularly regarding sexuality and gender identity; opposes confidential services for minors without parental notification; supports parental authority as primary; views secular mental health frameworks as potentially conflicting with faith-based approaches to wellbeing
+- **Fiscal Conservative (distinct from ideological)**: Does not necessarily oppose school mental health services conceptually but objects to the cost of meeting recommended staffing ratios (estimated $15-20 billion annually in additional salaries); favors efficiency measures, private-sector solutions, and cost-neutral approaches like Medicaid billing optimization over new appropriations
+- **Anti-Government / Populist Right**: Views school mental health expansion as part of a broader government effort to control family life and undermine parental authority; skeptical of expert-driven policy recommendations; amplifies concerns about screening data being used by government agencies
 
 ---
 
@@ -89,6 +91,44 @@ Proposals to expand school-based mental health services face resistance from tho
 **Rebuttal**: A phased approach using multiple funding mechanisms (Medicaid billing optimization, Title IV-A formula increases, BSCA reauthorization, state matching grants) can spread costs across federal, state, and insurance sources. Full implementation need not occur in a single budget year; a 10-year workforce buildout is both more realistic and more financially manageable.
 
 ---
+
+### Argument 7: Telemental Health Is Inferior to In-Person Care
+
+**Claim**: "Telemental health in schools is a poor substitute for in-person therapy. Children, especially younger children, need face-to-face interaction with mental health professionals. Expanding telehealth is a cost-cutting measure that provides inferior care."
+
+**Evidence Cited**: Clinical literature showing reduced nonverbal communication cues in video sessions; concerns about therapeutic alliance formation with young children; technology access disparities.
+
+**Reality**: The evidence on telemental health effectiveness with children and adolescents is more nuanced than this argument suggests. A meta-analysis by Batastini et al. (2021) found that telemental health outcomes for adolescents were comparable to in-person care for common conditions including anxiety and depression. However, effectiveness varies by age (less evidence for children under 10), condition severity (less effective for acute crisis), and therapeutic modality. For rural schools where the alternative is no service at all, telemental health provides access that would otherwise not exist.
+
+**Rebuttal**: Telemental health should supplement, not replace, in-person services. The 46% adoption rate in rural schools (compared to 38% urban) reflects its role as an access solution for underserved communities. Policy should invest in both in-person workforce expansion and telemental health infrastructure, rather than treating them as competing approaches.
+
+### Argument 8: School Mental Health Creates Dependency
+
+**Claim**: "Providing mental health services in schools creates a culture of dependency and fragility. Children need to develop resilience, not be told they have mental health conditions. Over-diagnosis and over-treatment are turning normal childhood challenges into psychiatric conditions."
+
+**Evidence Cited**: Rising rates of youth mental health diagnoses and psychotropic medication use; concerns about "concept creep" in diagnostic categories; cultural commentary on "coddling" and reduced resilience.
+
+**Reality**: The concern about over-diagnosis has some empirical support. The percentage of children on psychotropic medication has increased from 7.5% in 2019 to 8.9% in 2023, and false-positive rates for universal screening tools range from 15-30% (Dowdy et al., 2023). However, the far larger problem remains under-identification and under-treatment: the majority of children with diagnosable mental health conditions receive no treatment at all. The National Survey of Children's Health (2023) found that 60% of youth with major depression did not receive any mental health treatment. The framing of school mental health as creating "dependency" ignores the overwhelming evidence of unmet need.
+
+**Rebuttal**: Evidence-based school mental health programs emphasize building skills, resilience, and coping strategies -- the opposite of dependency. SEL programs teach self-management and self-awareness. Mental Health First Aid equips students to help themselves and others. The goal is early identification and skill-building, not over-medicalization.
+
+## State-Level Opposition Case Studies
+
+### Florida: SEL Restrictions (2022-2023)
+
+In 2022, the Florida Department of Education rejected 54 math textbooks for containing "prohibited topics" including SEL content, bringing national attention to the state's aggressive stance against SEL in schools. Governor DeSantis characterized SEL as a vehicle for "indoctrination." However, Florida simultaneously maintained its $140 million annual investment in school mental health services through the Marjory Stoneman Douglas Act, illustrating the political distinction between opposing "SEL" while supporting "school safety mental health."
+
+### Oklahoma: ESSER Fund Mental Health Controversies (2023-2024)
+
+Oklahoma's Superintendent of Public Instruction Ryan Walters directed districts to limit the use of ESSER funds for mental health purposes that he characterized as "radical social programs." This created confusion among districts that had planned to use ESSER for mental health staffing, contributing to lower mental health hiring rates in Oklahoma compared to neighboring states. The case illustrates how executive authority at the state level can undermine federal funding intentions.
+
+### Virginia: Parental Rights in School Mental Health (2023)
+
+Virginia's 2023 Model Policies on the Privacy, Dignity, and Respect of All Students required schools to notify parents before providing any mental health services and before accommodating a student's gender identity change. Mental health professionals and LGBTQ+ advocacy organizations argued that mandatory parental notification for gender identity could endanger students in unsupportive households. The policy became a flashpoint in the 2023 Virginia legislative elections.
+
+### Ohio: Anti-Screening Legislation (2024)
+
+Ohio introduced legislation in 2024 that would prohibit universal mental health screening in public schools without explicit, opt-in parental consent for each screening episode. Proponents cited parental rights and privacy concerns; opponents argued that opt-in requirements would reduce screening participation by 40-60%, disproportionately excluding the highest-risk students. The bill reflected a growing legislative trend in conservative states to restrict school-based mental health identification.
 
 ## Historical Patterns of Opposition
 

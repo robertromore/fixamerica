@@ -136,6 +136,54 @@ Under this proposal, the federal beer excise would increase from $18.00 to appro
 
 **Impact Metrics**: Alcohol outlet density in target communities; alcohol-related violence rates; community health indicators; license applications processed with community input.
 
+### Solution 8: Implement State-Level Minimum Unit Pricing
+
+**Description**: Encourage states to adopt minimum unit pricing (MUP) policies that set a floor price per unit of alcohol (e.g., per standard drink). MUP targets the cheapest, highest-strength products disproportionately consumed by the heaviest drinkers and those most at risk of alcohol-related harm, while having minimal effect on moderate drinkers who already pay above the minimum price.
+
+**Evidence Base**: Scotland's implementation of MUP at 50 pence per unit in 2018 produced a 13% reduction in alcohol-attributable deaths over three years and a 3% reduction in population-level consumption, with the largest reductions among the heaviest drinkers (Public Health Scotland, 2023). Ireland adopted similar legislation in 2022 with positive early results. The WHO recommends MUP as a complement to excise taxation because it targets the cheapest, most harmful products that heavy drinkers disproportionately consume.
+
+**Implementation**: State-level legislation authorized under the Twenty-first Amendment. Federal technical assistance through SAMHSA. Model legislation drafted by the Alcohol Policy Information System (APIS). The federal government could incentivize adoption through SAMHSA block grant preferences for states with MUP.
+
+**Cost/Resources**: No government cost (price floor implemented by retailers). Industry compliance monitoring requires modest state regulatory investment (~$1-3 million per state).
+
+**Timeline**: Model legislation development Year 1; first state adoptions Years 2-4; 10 states by Year 8.
+
+**Challenges**: Industry opposition framing MUP as price-fixing; possible Commerce Clause challenges for interstate products; political difficulty of explicitly raising alcohol prices.
+
+**Impact Metrics**: State adoption; per capita consumption in adopting states; alcohol-attributable deaths in adopting vs. non-adopting states; price of cheapest available products.
+
+### Solution 9: Establish Federal Office of Alcohol Policy
+
+**Description**: Create a federal Office of Alcohol Policy (OAP) within the Department of Health and Human Services, charged with coordinating the currently fragmented federal alcohol policy apparatus. The OAP would integrate taxation policy (TTB), traffic safety (NHTSA), advertising oversight (FTC), treatment (SAMHSA), and research (NIAAA) into a coherent national strategy, and publish an annual National Alcohol Policy Report to Congress.
+
+**Evidence Base**: Drug policy has the Office of National Drug Control Policy (ONDCP). Tobacco has FDA's Center for Tobacco Products. There is no comparable coordinating entity for alcohol. The absence of a central authority means no federal entity is responsible for developing a comprehensive alcohol harm reduction strategy, and agencies with conflicting mandates (e.g., TTB's revenue-collection focus vs. NIAAA's public health focus) operate in silos.
+
+**Implementation**: Requires Congressional legislation establishing the OAP, defining its mandate, and authorizing its budget. The OAP director would be Senate-confirmed and report to the HHS Secretary. Staff would be drawn from existing agencies and new hires.
+
+**Cost/Resources**: Estimated $30 million annual budget; 150 FTEs. Cost would be offset by improved policy coordination and reduced duplication across agencies.
+
+**Timeline**: Legislation Year 3-5; office established Year 5-6; first National Alcohol Policy Report Year 6.
+
+**Challenges**: Interagency turf conflicts; industry opposition to coordinated regulation; political difficulty of creating new federal offices; risk of regulatory capture if not properly insulated from industry influence.
+
+**Impact Metrics**: Office established and operational; annual reports published; interagency coordination measurably improved; policy recommendations implemented.
+
+### Solution 10: Modernize the Three-Tier System
+
+**Description**: Reform the post-Prohibition three-tier distribution system to reduce its function as a barrier to market entry and consumer choice while preserving its core purpose of preventing tied-house arrangements. Key reforms include: expanding direct-to-consumer shipping rights for small producers in all 50 states; allowing on-site sales at craft breweries, wineries, and distilleries without mandatory distributor relationships; creating an exemption for producers below a defined volume threshold (e.g., 15,000 barrels for beer, 5,000 cases for wine and spirits); and modernizing state licensing to accommodate e-commerce and home delivery.
+
+**Evidence Base**: The three-tier system was designed in the 1930s to address specific post-Prohibition market failures (tied houses, vertical integration by large breweries). Today, the distribution tier has consolidated into a powerful oligopoly that exercises market power over both producers and retailers. Small craft producers in many states cannot sell directly to consumers without going through a distributor, even for on-site sales, creating significant barriers to market entry and innovation (Brewers Association, 2024).
+
+**Implementation**: State-level legislation (the Twenty-first Amendment makes this primarily a state matter). Federal model legislation and technical assistance. Coalition with craft producer associations.
+
+**Cost/Resources**: Minimal government cost. Benefits to small producers and consumers offset by reduced distributor revenue.
+
+**Timeline**: Model legislation Year 1; state adoptions rolling; 25+ states with reformed three-tier provisions by Year 5.
+
+**Challenges**: Powerful distributor lobby (NBWA is among the top 20 PAC contributors); distributors employ tens of thousands of workers; concern that weakening three-tier system could enable return of tied houses by large corporations.
+
+**Impact Metrics**: States adopting reform; number of craft producers with direct-to-consumer access; market entry rates for small producers; consumer choice and price metrics.
+
 ---
 
 ## International Models
@@ -164,13 +212,33 @@ Under this proposal, the federal beer excise would increase from $18.00 to appro
 
 **Applicability to U.S.**: The U.S. Dietary Guidelines for Americans (2020-2025) recommend no more than 2 drinks per day for men and 1 for women -- far more permissive than the Canadian guideline. Updating U.S. guidelines to reflect current evidence would support labeling reform and clinical practice changes.
 
+### Ireland: Public Health (Alcohol) Act (2018)
+
+**Description**: Ireland enacted comprehensive alcohol legislation including: minimum unit pricing (implemented January 2022); mandatory health labeling on all alcohol products including cancer warnings, caloric content, and a link to health services; restrictions on advertising and sponsorship; and structural separation of alcohol from other products in retail settings.
+
+**Results**: Ireland's law represents the most comprehensive alcohol reform legislation enacted by any country. The labeling requirements (phased in from 2026) make Ireland the first country to mandate cancer warnings on alcohol products. Early results show increased public awareness of alcohol-related health risks.
+
+**Applicability to U.S.**: Ireland's comprehensive approach demonstrates that ambitious alcohol reform is politically achievable in a country with deeply embedded drinking culture. Individual components -- particularly minimum unit pricing and health labeling -- could be adopted at the state level under the Twenty-first Amendment.
+
+### France: Loi Evin (1991)
+
+**Description**: France's Loi Evin restricts alcohol advertising to factual product information (origin, composition, alcohol content) and prohibits lifestyle imagery, celebrity endorsement, and any association of alcohol with social success, sexual attractiveness, or sporting achievement. All advertising must carry a health warning.
+
+**Results**: French per capita consumption declined from 17.6 liters of pure alcohol in 1990 to 11.2 liters in 2020 (OECD, 2023). While multiple factors contributed, the Loi Evin is credited with significantly reducing youth exposure to aspirational alcohol marketing.
+
+**Applicability to U.S.**: Direct adoption of Loi Evin-style content restrictions would face significant First Amendment challenges in the U.S. However, the Loi Evin demonstrates that comprehensive advertising regulation does not destroy the alcohol industry -- France remains one of the world's largest wine producers. Elements that could survive U.S. constitutional scrutiny include mandatory health disclosures in advertising (under *Zauderer*) and time/manner/place restrictions on digital advertising targeting minors.
+
 ---
 
 ## Pilot Programs and Demonstrations
 
-- **Utah 0.05% BAC (2018-present)**: The most important U.S. pilot for lower BAC limits. The 19.8% reduction in alcohol-related fatal crashes without a surge in arrests demonstrates feasibility and effectiveness.
+- **Utah 0.05% BAC (2018-present)**: The most important U.S. pilot for lower BAC limits. The 19.8% reduction in alcohol-related fatal crashes without a surge in arrests demonstrates feasibility and effectiveness. Importantly, Utah's hospitality industry did not experience the economic downturn predicted by opponents -- restaurant and bar revenue continued to grow after adoption.
 - **SBIRT in Primary Care (VA system, 2004-present)**: The Veterans Health Administration integrated SBIRT into routine primary care in 2004. Studies show 20-30% reductions in risky drinking among screened veterans (Bradley et al., *Annals of Internal Medicine*, 2007).
 - **Philadelphia Nuisance Bar Task Force (2007-present)**: Targeted enforcement and license revocation for high-problem alcohol outlets reduced violent crime in surrounding blocks by 14% (Roman et al., *Criminology & Public Policy*, 2009).
+- **Alaska excise tax increase (2002)**: Alaska increased its alcohol excise tax by $1.00 per gallon of beer, $2.50 per gallon of wine, and $12.80 per gallon of spirits. Studies found a 29% reduction in alcohol-related disease mortality in the five years following the increase (Wagenaar et al., *American Journal of Public Health*, 2009).
+- **Scotland Minimum Unit Pricing (2018-present)**: Scotland's MUP at 50 pence per unit provides the most rigorous evidence for minimum pricing. Public Health Scotland's 2023 evaluation documented a 13% reduction in alcohol-attributable deaths, 3% reduction in overall consumption, and largest reductions among the heaviest drinkers. Moderate drinkers were minimally affected.
+- **Northern Territory, Australia warning label trial (2018-2020)**: A randomized controlled trial applying graphic health warnings (including cancer risk information) to alcohol products in select stores found 8-10% reduction in purchasing of labeled products (Zhao et al., *Addiction*, 2020). This provides experimental evidence supporting the effectiveness of warning labels for alcohol, complementing the observational evidence from tobacco.
+- **HALT Act vehicle technology (2021-present)**: The Infrastructure Investment and Jobs Act, Section 24220, requires NHTSA to develop a rule mandating passive alcohol detection technology in new vehicles. Several companies (including Senseair/Asahi Kasei and TruTouch Technologies) are developing breath-based and touch-based sensors that can detect driver impairment without requiring active participation. This technology could prevent an estimated 9,400 alcohol-impaired driving deaths annually (NHTSA estimate).
 
 ## Sequencing and Prioritization
 
@@ -198,9 +266,12 @@ Under this proposal, the federal beer excise would increase from $18.00 to appro
 ## Complementary Policies
 
 - **Treatment integration with primary care**: Alcohol screening and brief intervention should be standard in all primary care settings (see [Drug Treatment](../drug-treatment/07-solutions.md))
-- **Cannabis policy coherence**: As cannabis legalization proceeds, alcohol and cannabis should be regulated under a coherent framework that accounts for substitution effects and combined-use risks
+- **Cannabis policy coherence**: As cannabis legalization proceeds, alcohol and cannabis should be regulated under a coherent framework that accounts for substitution effects and combined-use risks. Research suggests modest alcohol-cannabis substitution in legalization states (Baggio et al., *Journal of Health Economics*, 2023)
 - **Mental health parity**: Alcohol use disorder treatment depends on broader mental health parity enforcement (see [Mental Health Policy](../../mental-health/07-solutions.md))
-- **Traffic safety technology**: Advanced driver assistance systems and eventually autonomous vehicles will complement DUI enforcement (see [Infrastructure](../../infrastructure/07-solutions.md))
+- **Traffic safety technology**: Advanced driver assistance systems (ADAS) and the HALT Act requirement for passive alcohol detection systems in new vehicles (Infrastructure Investment and Jobs Act, 2021, Section 24220) will complement DUI enforcement within the next decade
+- **Workplace wellness programs**: Expanding Employee Assistance Programs (EAPs) to include proactive alcohol screening, brief intervention, and treatment referral can reach the large population of employed adults with AUD who do not access treatment through traditional channels
+- **Medicaid expansion**: States that expanded Medicaid under the ACA saw significant increases in AUD treatment utilization. Continued expansion in the remaining 10 non-expansion states would provide coverage for an estimated 1.5 million additional adults with AUD (KFF, 2024)
+- **Tribal sovereignty and IHS reform**: Addressing alcohol-related harm in Native American communities requires culturally appropriate approaches developed in partnership with tribal governments, expanded IHS treatment funding, and respect for tribal authority over alcohol regulation on reservation lands
 
 ---
 

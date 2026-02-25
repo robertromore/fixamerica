@@ -16,11 +16,34 @@ This section provides a curated list of key research, government reports, legal 
 - Mitchell, Jennifer M., et al. "MDMA-Assisted Therapy for Severe PTSD: A Randomized, Double-Blind, Placebo-Controlled Phase 3 Study." *Nature Medicine* 27 (2021): 1025-1033. <https://doi.org/10.1038/s41591-021-01336-3>
 - Volkow, Nora D., et al. "Effects of Cannabis Legalization on Cannabis Use Disorders and Cannabis Use Among Adults and Adolescents." *JAMA Psychiatry* 79.1 (2022): 26-32.
 
+### Psychedelic Research
+
+- Griffiths, Roland R., et al. "Psilocybin Produces Substantial and Sustained Decreases in Depression and Anxiety in Patients with Life-Threatening Cancer." *Journal of Psychopharmacology* 30.12 (2016): 1181-1197. <https://doi.org/10.1177/0269881116675513>
+- Goodwin, Guy M., et al. "Single-Dose Psilocybin for a Treatment-Resistant Episode of Major Depression." *New England Journal of Medicine* 387.18 (2022): 1637-1648. <https://doi.org/10.1056/NEJMoa2206443>
+- Johnson, Matthew W., et al. "Pilot Study of the 5-HT2AR Agonist Psilocybin in the Treatment of Tobacco Addiction." *Journal of Psychopharmacology* 28.11 (2014): 983-992.
+- Davis, Alan K., et al. "Effects of Psilocybin-Assisted Therapy on Major Depressive Disorder: A Randomized Clinical Trial." *JAMA Psychiatry* 78.5 (2021): 481-489.
+- Mithoefer, Michael C., et al. "3,4-Methylenedioxymethamphetamine (MDMA)-Assisted Psychotherapy for Post-Traumatic Stress Disorder in Military Veterans, Firefighters, and Police Officers." *Journal of Psychopharmacology* 32.2 (2018): 167-177.
+
+### Drug Policy and Law
+
+- Csete, Joanne, et al. "Public Health and International Drug Policy." *The Lancet* 387.10026 (2016): 1427-1480. <https://doi.org/10.1016/S0140-6736(16)00619-X> - Lancet Commission report calling for fundamental drug policy reform.
+- Werb, Dan, et al. "The Temporal Relationship Between Drug Supply Indicators: An Audit of International Government Surveillance Systems." *BMJ Open* 3.9 (2013): e003077. - Evidence that drug enforcement has not reduced supply.
+- Kleiman, Mark A.R. "Toward a Drug Policy Worthy of a Great Nation." *Stanford Law and Policy Review* 28.2 (2017): 263-288.
+
+### Cannabis Research
+
+- Walsh, Zach, et al. "Medical Cannabis and Mental Health: A Guided Systematic Review." *Clinical Psychology Review* 51 (2017): 15-29.
+- Boehnke, Kevin F., et al. "Qualifying Conditions of Medical Cannabis License Holders in the United States." *Health Affairs* 38.2 (2019): 295-302.
+- Smart, Rosanna, and Rosalie Liccardo Pacula. "Early Evidence of the Impact of Cannabis Legalization on Cannabis Use, Cannabis Use Disorder, and the Use of Other Substances." *Drug and Alcohol Dependence* 227 (2021): 108934.
+
 ### Working Papers and White Papers
 
 - Hudak, John. "The Farm Bill, Hemp Legalization, and the Status of CBD: An Explainer." Brookings Institution. 2018. <https://www.brookings.edu/articles/the-farm-bill-hemp-legalization-and-the-status-of-cbd-an-explainer/>
 - Hudak, John. "The DEA's Scheduling of Marijuana: A History of Politics Trumping Science." Brookings Institution. 2022. <https://www.brookings.edu/articles/the-deas-scheduling-of-marijuana/>
 - Pardo, Bryce, et al. "The Future of Fentanyl and Other Synthetic Opioids." RAND Corporation. 2019. <https://www.rand.org/pubs/research_reports/RR3117.html>
+- Fischer, Benedikt, et al. "Effectiveness of Secondary Prevention and Treatment Interventions for Crack-Cocaine Abuse: A Comprehensive Narrative Overview of English-Language Studies." *International Journal of Drug Policy* 26.4 (2015): 352-363.
+- Global Commission on Drug Policy. "War on Drugs: Report of the Global Commission on Drug Policy." 2011. <https://www.globalcommissionondrugs.org/>
+- Transform Drug Policy Foundation. "How to Regulate Cannabis: A Practical Guide." 2nd ed. 2016. <https://transformdrugs.org/publications/how-to-regulate-cannabis>
 
 ---
 
@@ -61,6 +84,11 @@ This section provides a curated list of key research, government reports, legal 
 - Musto, David F. *The American Disease: Origins of Narcotic Control*. 3rd ed. Oxford University Press, 1999. - Definitive history of American drug regulation from the 19th century through the CSA.
 - Siff, Stephen. *Acid Hype: American News Media and the Psychedelic Experience*. University of Illinois Press, 2015. - Media's role in shaping public perception of psychedelics and influencing scheduling decisions.
 - Baum, Dan. *Smoke and Mirrors: The War on Drugs and the Politics of Failure*. Back Bay Books, 1997. - Investigative account of the political origins of the War on Drugs.
+- Nutt, David. *Drugs Without the Hot Air: Making Sense of Legal and Illegal Drugs*. 2nd ed. UIT Cambridge, 2020. - Accessible guide to evidence-based drug classification by the UK's leading drug harm researcher.
+- Lee, Martin A. *Smoke Signals: A Social History of Marijuana -- Medical, Recreational, and Scientific*. Scribner, 2012. - Comprehensive history of cannabis from ancient use through modern legalization efforts.
+- Shroder, Tom. *Acid Test: LSD, Ecstasy, and the Power to Heal*. Blue Rider Press, 2014. - History of MDMA and LSD research, from early therapeutic use through Schedule I and the modern renaissance.
+- Sloman, Larry. *Reefer Madness: A History of Marijuana*. St. Martin's Griffin, 1998. - History of cannabis prohibition in America from Anslinger through the War on Drugs.
+- Marez, Curtis. *Drug Wars: The Political Economy of Narcotics*. University of Minnesota Press, 2004. - Analysis of the economic and racial dynamics driving drug prohibition.
 
 ---
 
@@ -123,6 +151,29 @@ This section provides a curated list of key research, government reports, legal 
 - *Marijuana Moment*. Daily cannabis policy coverage including federal scheduling developments. <https://www.marijuanamoment.net/>
 - *STAT News*. Psychedelic therapy and FDA regulatory coverage. <https://www.statnews.com/>
 - *Filter Magazine*. Drug policy, harm reduction, and scheduling reform. <https://filtermag.org/>
+- *MJBizDaily*. Cannabis industry business news and market data. <https://mjbizdaily.com/>
+- *Psychedelic Alpha*. Industry and research coverage of psychedelic medicines. <https://psychedelicalpha.com/>
+- *The Intercept*. Investigative journalism on drug policy, enforcement, and racial justice. <https://theintercept.com/>
+
+### Documentaries and Media
+
+- *The War on Drugs* (PBS Frontline, multiple episodes). Comprehensive documentary series on the history and impact of U.S. drug policy.
+- *13th* (Netflix, 2016). Ava DuVernay's documentary on racial dimensions of mass incarceration, including drug scheduling enforcement.
+- *The Business of Drugs* (Netflix, 2020). Six-part series examining the economics of drug markets including the role of scheduling and prohibition.
+- *Fantastic Fungi* (2019). Documentary on psilocybin mushrooms including therapeutic research and scheduling barriers.
+
+---
+
+## Podcasts
+
+| Podcast | Host/Org | Focus | Website |
+|---------|----------|-------|---------|
+| Psychoactive | Drug Policy Alliance | Drug policy analysis and scheduling reform | <https://drugpolicy.org/psychoactive/> |
+| MAPS Podcast | MAPS | Psychedelic research, therapy, and scheduling barriers | <https://maps.org/news/podcast/> |
+| Cannabis Economy | Seth Adler | Business and policy perspectives on cannabis | <https://www.canneconomy.com/> |
+| The Drug Science Podcast | Drug Science / David Nutt | Evidence-based analysis of drug harm and policy | <https://drugscience.org.uk/podcast/> |
+| Psychedelics Today | Joe and Kyle | Psychedelic research, therapy, and policy | <https://psychedelicstoday.com/podcast/> |
+| Weed + Grub | Various | Cannabis policy intersection with food, agriculture, and culture | Various platforms |
 
 ---
 
@@ -133,6 +184,9 @@ This section provides a curated list of key research, government reports, legal 
 - European Monitoring Centre for Drugs and Drug Addiction. "European Drug Report 2024." <https://www.emcdda.europa.eu/publications/european-drug-report_en>
 - Health Canada. "Cannabis in Canada: 2023 National Cannabis Survey." <https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis.html>
 - Australian Government Therapeutic Goods Administration. "Access to Medicinal Cannabis and Other Therapeutic Goods." <https://www.tga.gov.au/products/medicines/medicinal-cannabis>
+- Transform Drug Policy Foundation. "Drug Policy Guide." 3rd ed. 2021. <https://transformdrugs.org/publications/drug-policy-guide> - Comprehensive global guide to evidence-based drug policy reform.
+- Global Drug Policy Observatory, Swansea University. "Situation Analyses." <https://www.swansea.ac.uk/gdpo/> - Academic analysis of international drug policy developments.
+- International Drug Policy Consortium. "Taking Stock: A Decade of Drug Policy." 2018. <https://idpc.net/> - Assessment of global drug policy progress since the 2009 Political Declaration.
 
 ---
 
@@ -150,13 +204,34 @@ This section provides a curated list of key research, government reports, legal 
 ### Statutory References
 
 - 21 U.S.C. Sections 801-904 (Controlled Substances Act) - Federal scheduling framework.
-- 21 U.S.C. Section 811 - Scheduling authority and procedures.
+- 21 U.S.C. Section 811 - Scheduling authority and procedures, including emergency scheduling (811(h)) and HHS binding authority (811(b)).
 - 21 U.S.C. Section 812 - Schedule definitions and initial substance placements.
 - 21 U.S.C. Section 813 - Federal Analogue Act.
 - 21 U.S.C. Section 823 - Registration requirements for researchers and practitioners.
+- 21 U.S.C. Section 841 - Prohibited acts (manufacturing, distributing, dispensing); penalty provisions tied to scheduling.
+- 21 U.S.C. Section 844 - Simple possession penalties.
+- 21 U.S.C. Section 856 - "Crack house" statute (relevant to supervised consumption site debates).
 - 26 U.S.C. Section 280E - Prohibition on business deductions for Schedule I/II substance traffickers.
 - 21 C.F.R. Part 1301 - DEA registration requirements.
 - 21 C.F.R. Part 1308 - Schedules of controlled substances.
+- 21 C.F.R. Section 1308.43 - Petition procedures for rescheduling.
+- P.L. 91-513 (Comprehensive Drug Abuse Prevention and Control Act of 1970) - Enacted the CSA.
+- P.L. 98-473 (Comprehensive Crime Control Act of 1984) - Granted DEA emergency scheduling authority.
+- P.L. 99-570 (Anti-Drug Abuse Act of 1986) - Established mandatory minimums; Federal Analogue Act.
+- P.L. 115-334 (Agriculture Improvement Act of 2018) - Descheduled hemp.
+- P.L. 115-271 (SUPPORT Act of 2018) - Expanded SUD treatment; modified some scheduling processes.
+
+### Pending Legislation (as of 2024)
+
+| Bill | Chamber | Sponsor(s) | Purpose |
+|------|---------|-----------|---------|
+| MORE Act (Marijuana Opportunity Reinvestment and Expungement Act) | House | Nadler (D-NY) | Deschedule cannabis; automatic expungement; social equity |
+| Cannabis Administration and Opportunity Act (CAOA) | Senate | Schumer (D-NY), Booker (D-NJ), Wyden (D-OR) | Comprehensive cannabis descheduling and regulation |
+| SAFE Banking Act | Both chambers | Various bipartisan | Banking access for state-legal cannabis businesses |
+| SAFE Research Act | Senate | Various bipartisan | Remove Schedule I research barriers |
+| STATES Act | Both chambers | Bipartisan | Protect state cannabis programs from federal interference |
+| Right to Try for Psychedelics Act | Senate | Various | Expand psychedelic access for terminal patients |
+| HALT Fentanyl Act | Both chambers | Various | Permanently schedule fentanyl-related substances as a class |
 
 ---
 

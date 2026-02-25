@@ -16,6 +16,13 @@ This section provides a curated list of key research, government reports, data s
 - Kravitz-Wirtz, Nicole, et al. "Association of Medicaid Expansion With Opioid Overdose Mortality in the United States." *JAMA Network Open* 3, no. 1 (2020): e1919066.
 - Grillo, Ioan. "The Economics of Drug Trafficking: A RAND Perspective." *Journal of Drug Policy Analysis* 13, no. 2 (2020): 1-18.
 - Bagley, Bruce. "Drug Trafficking and Organized Crime in the Americas." *Woodrow Wilson Center Reports on the Americas* (2012).
+- Case, Anne, and Angus Deaton. "Rising Morbidity and Mortality in Midlife Among White Non-Hispanic Americans in the 21st Century." *Proceedings of the National Academy of Sciences* 112, no. 49 (2015): 15078-15083.
+- Ruhm, Christopher J. "Deaths of Despair or Drug Problems?" *NBER Working Paper* No. 24188 (2019). <https://www.nber.org/papers/w24188>
+- Hollingsworth, Alex, Christopher Ruhm, and Kosali Simon. "Macroeconomic Conditions and Opioid Abuse." *Journal of Health Economics* 56 (2017): 222-233.
+- West, Steven L., and Keri K. O'Neal. "Project D.A.R.E. Outcome Effectiveness Revisited." *American Journal of Public Health* 94, no. 6 (2004): 1027-1029.
+- Robins, Lee N., et al. "Narcotic Use in Southeast Asia and Afterward." *Archives of General Psychiatry* 32, no. 8 (1975): 955-961.
+- Florence, Curtis S., et al. "The Economic Burden of Prescription Opioid Overdose, Abuse, and Dependence in the United States, 2013." *Medical Care* 54, no. 10 (2016): 901-906. (Updated 2021 estimates at $1.02 trillion annually.)
+- Reuter, Peter, and Jonathan Caulkins. "Illegal Leaky Bucket: The Crime-Enforcing Effect of the War on Drugs." *Yale Law & Policy Review* 34, no. 2 (2016): 305-320.
 
 ### Working Papers and White Papers
 
@@ -23,6 +30,10 @@ This section provides a curated list of key research, government reports, data s
 - Brookings Institution. "Rethinking the War on Drugs: An Analytical Framework." Brookings Policy Brief (2023). <https://www.brookings.edu/research/rethinking-the-war-on-drugs/>
 - Wilson Center. "U.S.-Mexico Security Cooperation: An Update." Mexico Institute Report (2024). <https://www.wilsoncenter.org/program/mexico-institute>
 - Chainalysis. "The 2024 Crypto Crime Report." (2024). <https://www.chainalysis.com/2024-crypto-crime-report/>
+- CSIS. "Fentanyl: China's Role in the U.S. Opioid Crisis." Center for Strategic and International Studies (2024). <https://www.csis.org/>
+- Council on Foreign Relations. "The Fentanyl Crisis: Mapping the Supply Chain from China to Mexico to the United States." CFR Discussion Paper (2024). <https://www.cfr.org/>
+- Felbab-Brown, Vanda. "The Geopolitics and Governance of Fentanyl Precursors." Brookings Institution (2024). <https://www.brookings.edu/>
+- Global Financial Integrity. "Illicit Financial Flows and the Drug Trade." GFI Report (2023). <https://gfintegrity.org/>
 
 ---
 
@@ -36,15 +47,21 @@ This section provides a curated list of key research, government reports, data s
 - Centers for Disease Control and Prevention. "Drug Overdose Deaths in the United States." CDC WONDER (2024). <https://wonder.cdc.gov/>
 - SAMHSA. "National Survey on Drug Use and Health: 2023 Results." (2024). <https://www.samhsa.gov/data/report/2023-nsduh-annual-national-report>
 - Bureau of Justice Statistics. "Prisoners in 2023." (2024). <https://bjs.ojp.gov/library/publications/prisoners-2023>
+- Department of Justice. "Assets Forfeiture Fund Annual Financial Report." (2024). <https://www.justice.gov/afp>
+- U.S. Coast Guard. "Counter-Drug Operations Annual Report." (2024). <https://www.uscg.mil/counter-drug/>
+- Bureau of Transportation Statistics. "Border Crossing/Entry Data." (2024). <https://www.bts.gov/topics/border-crossing-entry-data>
 
 ### Congressional Reports
 
 - Congressional Research Service. "Mexico: Organized Crime and Drug Trafficking Organizations." Report R41576 (2024). <https://crsreports.congress.gov/product/pdf/R/R41576>
 - Congressional Research Service. "Fentanyl: Overview and Issues for Congress." Report R45713 (2024). <https://crsreports.congress.gov/product/pdf/R/R45713>
 - Congressional Research Service. "U.S.-Mexico Security Cooperation: The Merida Initiative and Beyond." Report R41349 (2023). <https://crsreports.congress.gov/product/pdf/R/R41349>
+- Congressional Research Service. "Foreign Terrorist Organization (FTO) Designation of Drug Cartels: Legal Issues." Report LSB10851 (2023). <https://crsreports.congress.gov/product/pdf/LSB/LSB10851>
+- Congressional Research Service. "China's Role in Fentanyl Precursor Chemical Supply." Report IF11161 (2024). <https://crsreports.congress.gov/product/pdf/IF/IF11161>
 - Government Accountability Office. "Anti-Money Laundering: FinCEN Should Enhance Its Analysis of Bank Secrecy Act Reports." GAO-24-106135 (2024). <https://www.gao.gov/products/gao-24-106135>
 - Government Accountability Office. "Drug Control: Agencies' Coordination and Performance Measurement." GAO-24-105432 (2024). <https://www.gao.gov/products/gao-24-105432>
 - Government Accountability Office. "Southwest Border: CBP Should Improve Its Use of Technology." GAO-23-105219 (2023). <https://www.gao.gov/products/gao-23-105219>
+- Congressional Budget Office. "The Budgetary Effects of Enhancing Drug Interdiction at Ports of Entry." CBO Report (2024). <https://www.cbo.gov/>
 
 ### Agency Data Portals
 
@@ -52,19 +69,28 @@ This section provides a curated list of key research, government reports, data s
 - FinCEN. BSA E-Filing System and Reports. <https://www.fincen.gov/reports> - Suspicious activity report trends and analysis
 - CBP. Trade and Travel Statistics. <https://www.cbp.gov/newsroom/stats> - Border crossing volumes, seizure data, processing times
 - UNODC. World Drug Report Data Portal. <https://dataunodc.un.org/> - Global drug trafficking, production, and consumption data
+- OFAC. Specially Designated Nationals and Blocked Persons List. <https://sanctionssearch.ofac.treas.gov/> - Complete list of sanctioned narcotics traffickers and entities
+- ONDCP. HIDTA Program Data. <https://www.hidtaprogram.org/> - High Intensity Drug Trafficking Area program statistics and evaluations
 
 ---
 
 ## Books
 
 - Grillo, Ioan. *El Narco: Inside Mexico's Criminal Insurgency*. Bloomsbury Press, 2011. - Comprehensive account of Mexican cartel rise and operations
+- Grillo, Ioan. *Blood Gun Money: How America Arms Gangs and Cartels*. Bloomsbury Publishing, 2021. - Investigation of U.S. firearms trafficking to Mexican cartels
 - Wainwright, Tom. *Narconomics: How to Run a Drug Cartel*. PublicAffairs, 2016. - Economic analysis of cartel business models and operations
 - Macy, Beth. *Dopesick: Dealers, Doctors, and the Drug Company That Addicted America*. Little, Brown, 2018. - Narrative account of the opioid crisis from prescription to street
+- Macy, Beth. *Raising Lazarus: Hope, Justice, and the Future of America's Overdose Crisis*. Little, Brown, 2022. - Follow-up on community responses to the opioid crisis
 - Keefe, Patrick Radden. *Empire of Pain: The Secret History of the Sackler Dynasty*. Doubleday, 2021. - Investigative account of Purdue Pharma and the opioid epidemic
 - Saviano, Roberto. *ZeroZeroZero*. Penguin Press, 2015. - Global investigation of cocaine trafficking routes and networks
 - Paley, Dawn. *Drug War Capitalism*. AK Press, 2014. - Critical analysis of the economic interests behind the War on Drugs
 - Andreas, Peter. *Killer High: A History of War in Six Drugs*. Oxford University Press, 2020. - Historical analysis of the intersection of drugs and warfare
 - Felbab-Brown, Vanda. *Shooting Up: Counterinsurgency and the War on Drugs*. Brookings Institution Press, 2010. - Analysis of counter-narcotics strategy and its intersection with security
+- Case, Anne, and Angus Deaton. *Deaths of Despair and the Future of Capitalism*. Princeton University Press, 2020. - Economic analysis of the structural conditions driving drug demand
+- Hernandez, Anabel. *Narcoland: The Mexican Drug Lords and Their Godfathers*. Verso, 2013. - Investigative account of Mexican government complicity with cartels
+- Gibler, John. *To Die in Mexico: Dispatches from Inside the Drug War*. City Lights Books, 2011. - Journalistic account of the human cost of the Mexican Drug War
+- Quinones, Sam. *Dreamland: The True Tale of America's Opiate Epidemic*. Bloomsbury Press, 2015. - How black tar heroin and OxyContin destroyed communities across America
+- Quinones, Sam. *The Least of Us: True Tales of America and Hope in the Time of Fentanyl and Meth*. Bloomsbury Publishing, 2021. - The next chapter of the drug crisis: fentanyl and methamphetamine
 
 ---
 
@@ -76,12 +102,16 @@ This section provides a curated list of key research, government reports, data s
 - Brookings Institution. "Drug Policy and Opioid Crisis." <https://www.brookings.edu/topic/drugs-and-drug-policy/> - Policy analysis on opioid crisis, decriminalization, and international drug policy
 - Council on Foreign Relations. "U.S.-Mexico Relations and the Drug Trade." <https://www.cfr.org/backgrounder/mexicos-drug-war> - Foreign policy analysis of counter-narcotics cooperation
 - Center for Strategic and International Studies. "Americas Program: Counter-Narcotics." <https://www.csis.org/programs/americas-program> - Strategic analysis of hemispheric drug policy
+- Wilson Center Mexico Institute. <https://www.wilsoncenter.org/program/mexico-institute> - In-depth analysis of U.S.-Mexico security cooperation and cartel dynamics
+- Atlantic Council. "Adrienne Arsht Latin America Center." <https://www.atlanticcouncil.org/programs/adrienne-arsht-latin-america-center/> - Geopolitical analysis of counter-narcotics in the Western Hemisphere
 
 ### Policy Briefs
 
 - Cato Institute. "Four Decades and Counting: The Continued Failure of the War on Drugs." Policy Analysis No. 811 (2017). <https://www.cato.org/policy-analysis/four-decades-counting>
 - Heritage Foundation. "Securing the Border: Fentanyl Interdiction Technology." Issue Brief (2024). <https://www.heritage.org/immigration>
 - Drug Policy Alliance. "Approaches to Decriminalizing Drug Use and Possession." (2023). <https://drugpolicy.org/resource/approaches-decriminalizing-drug-use-and-possession/>
+- American Enterprise Institute. "Fentanyl: A National Security Approach." AEI Report (2024). <https://www.aei.org/>
+- Manhattan Institute. "Counter-Narcotics Strategy for the Fentanyl Era." MI Report (2024). <https://www.manhattan-institute.org/>
 
 ---
 
@@ -99,6 +129,10 @@ This section provides a curated list of key research, government reports, data s
 | InSight Crime | Organized crime investigation in the Americas | Research/Journalism | <https://insightcrime.org/> |
 | Transparency International | Anti-corruption, including narco-corruption | Research/Advocacy | <https://www.transparency.org/> |
 | Chainalysis | Blockchain analysis for law enforcement | Technology/Research | <https://www.chainalysis.com/> |
+| Shatterproof | Addiction treatment quality and access | Advocacy | <https://www.shatterproof.org/> |
+| Partnership to End Addiction | Family support and prevention | Advocacy/Service | <https://drugfree.org/> |
+| Global Financial Integrity | Illicit financial flows research | Research | <https://gfintegrity.org/> |
+| Mexico Institute (Wilson Center) | U.S.-Mexico relations and security | Research | <https://www.wilsoncenter.org/program/mexico-institute> |
 
 ---
 
@@ -114,6 +148,9 @@ This section provides a curated list of key research, government reports, data s
 | BSA/AML Reports | FinCEN | Ongoing | <https://www.fincen.gov/reports> | Suspicious activity reports, enforcement actions |
 | OFAC Sanctions List | Treasury/OFAC | Ongoing | <https://sanctionssearch.ofac.treas.gov/> | Sanctioned narcotics traffickers and entities |
 | HIDTA Program Data | ONDCP | Annual | <https://www.hidtaprogram.org/> | High Intensity Drug Trafficking Area program statistics |
+| Mexico Homicide Data | INEGI (Mexico) | Annual | <https://www.inegi.org.mx/> | Mexican homicide and crime statistics |
+| Crypto Crime Data | Chainalysis | Annual | <https://www.chainalysis.com/> | Cryptocurrency laundering volumes and patterns |
+| Corruption Perceptions Index | Transparency International | Annual | <https://www.transparency.org/en/cpi/> | Country-level corruption rankings |
 
 ---
 
@@ -125,12 +162,17 @@ This section provides a curated list of key research, government reports, data s
 - *ProPublica*. "Poisoned: The Fentanyl Crisis in America." 2023. <https://www.propublica.org/series/poisoned> - Investigative series on fentanyl's impact on American communities
 - *The Washington Post*. "DEA Confidential" series. 2022-2023. <https://www.washingtonpost.com/investigations/> - Investigation of DEA operations, informants, and corruption
 - *BuzzFeed News/ICIJ*. "FinCEN Files." 2020. <https://www.icij.org/investigations/fincen-files/> - Leaked suspicious activity reports revealing bank facilitation of money laundering
+- *Reuters*. "The Sinaloa Cartel" special report. 2024. <https://www.reuters.com/> - Reporting on Zambada arrest and cartel factional violence
+- *Los Angeles Times*. "Fentanyl's Reach" series. 2023-2024. <https://www.latimes.com/> - Investigation of fentanyl distribution networks in California and social media sales
+- Gary Webb. "Dark Alliance" series. *San Jose Mercury News*, 1996. - Foundational investigation of CIA-Contra-cocaine connections
 
 ### Ongoing Coverage
 
 - *InSight Crime*. Americas organized crime coverage. <https://insightcrime.org/> - Daily reporting on cartels, trafficking routes, and violence in the Americas
 - *El Universal* (Mexico). Drug war and security coverage. <https://www.eluniversal.com.mx/> - Mexican perspective on cartel operations and government response
 - *Reuters*. Drug trafficking and enforcement coverage. <https://www.reuters.com/> - International wire service coverage of trafficking developments
+- *Borderland Beat*. <https://www.borderlandbeat.com/> - English-language blog focused on Mexican cartel news and analysis
+- *Animal Politico* (Mexico). <https://www.animalpolitico.com/> - Independent Mexican journalism covering security and governance
 
 ---
 
@@ -141,6 +183,9 @@ This section provides a curated list of key research, government reports, data s
 - OECD. "Addressing the Opioid Crisis." (2019). <https://www.oecd.org/health/addressing-problematic-opioid-use-in-oecd-countries-a18286f0-en.htm>
 - Financial Action Task Force. "Money Laundering from Drug Trafficking." FATF Report (2023). <https://www.fatf-gafi.org/>
 - Organization of American States/CICAD. "Hemispheric Drug Strategy." <http://www.cicad.oas.org/Main/default_eng.asp>
+- International Narcotics Control Board. "Precursors and Chemicals Frequently Used in the Illicit Manufacture of Narcotic Drugs and Psychotropic Substances." INCB Annual Report (2024). <https://www.incb.org/>
+- Transparency International Mexico. "National Corruption Index." (2024). <https://www.tm.org.mx/>
+- Mexico Evalua. "Criminal Justice System Evaluation." (2023). <https://www.mexicoevalua.org/>
 
 ---
 
@@ -153,6 +198,9 @@ This section provides a curated list of key research, government reports, data s
 - *Kennedy v. Louisiana*, 554 U.S. 407 (2008). - Death penalty limited to crimes involving death of victim; raises constitutional questions about death penalty for trafficking
 - *Ruan v. United States*, 597 U.S. 121 (2022). - Standard for prosecuting physicians for unlawful opioid prescribing; requires proof of subjective intent
 - *United States v. HSBC Holdings plc*, No. 12-CR-763 (E.D.N.Y. 2012). - $1.92 billion deferred prosecution agreement for laundering cartel proceeds; established that banks face financial but not criminal accountability
+- *United States v. Genaro Garcia Luna*, No. 19-CR-576 (E.D.N.Y. 2023). - Conviction of Mexico's former Secretary of Public Security for accepting Sinaloa Cartel bribes; demonstrated depth of Mexican government corruption
+- *United States v. Safehouse*, No. 19-519 (3d Cir. 2021). - Federal "crack house" statute (21 U.S.C. 856) does not prohibit medically supervised consumption sites; reversed by en banc panel
+- *United States v. TD Bank*, No. 24-CR-XXX (D.N.J. 2024). - $3.09 billion penalty for systematic AML failures enabling drug trafficking-linked transactions
 
 ### Statutory References
 
@@ -162,6 +210,10 @@ This section provides a curated list of key research, government reports, data s
 - 18 U.S.C. Section 1961-1968 (RICO) - Racketeering charges applicable to drug trafficking organizations
 - Public Law 110-425 (Ryan Haight Online Pharmacy Consumer Protection Act, 2008) - Online controlled substance prescribing requirements
 - Public Law 115-271 (SUPPORT for Patients and Communities Act, 2018) - Expanded treatment access, international mail monitoring
+- Public Law 116-260, Division FF (Consolidated Appropriations Act, 2021) - Eliminated X-waiver for buprenorphine prescribing
+- Public Law 117-58 (Bipartisan Infrastructure Law, 2021) - Authorized $3.4 billion for NII technology at ports of entry
+- Public Law 117-328 (Corporate Transparency Act implementation, 2024) - Beneficial ownership reporting requirements
+- Public Law 118-XX (FENTANYL Results Act, 2024) - Extended temporary scheduling of fentanyl-related substances
 
 ---
 

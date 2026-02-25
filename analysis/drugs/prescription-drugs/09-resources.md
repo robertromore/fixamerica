@@ -18,6 +18,18 @@ This section provides a curated list of key research, government reports, data s
 - Nuckols, T. K., et al. "The Effectiveness of Computerized Order Entry at Reducing Preventable Adverse Drug Events and Medication Errors in Hospital Settings: A Systematic Review and Meta-analysis." *Annals of Internal Medicine* 160, no. 4 (2014): 271-280.
 - Lin, L. A., et al. "Impact of the Opioid Safety Initiative on Opioid-Related Prescribing in Veterans." *JAMA Internal Medicine* 177, no. 12 (2017): 1838-1845.
 
+### Additional Peer-Reviewed Studies
+
+- Haffajee, R. L., Mello, M. M., Zhang, F., et al. "Four States with Robust Prescription Drug Monitoring Programs Reduced Opioid Dosages." *Health Affairs* 37, no. 6 (2018): 964-974.
+- Kim, S. J., Choo, E. K., McConnell, K. J., et al. "Impact of Prescription Drug Monitoring Program-Mandated Use Laws on Prescriber Behavior." *Health Affairs* 38, no. 7 (2019): 1169-1177.
+- Kennedy-Hendricks, A., et al. "Opioid Overdose Deaths and Florida's Crackdown on Pill Mills." *American Journal of Public Health* 106, no. 2 (2016): 291-297.
+- McCoy, M. S., et al. "Conflicts of Interest for Patient-Advocacy Organizations." *New England Journal of Medicine* 376, no. 9 (2017): 880-885.
+- McCoy, M. S., et al. "National Survey of Health Advocacy Organizations' Financial Relationships with Industry." *JAMA Internal Medicine* 180, no. 4 (2020): 555-562.
+- Pham-Kanter, G., et al. "Association of Industry Payments to Physicians with Prescribing of Brand-Name Statins." *JAMA Internal Medicine* 178, no. 11 (2018): 1505-1508.
+- Piller, C. "Is FDA's Revolving Door Open Too Wide?" *Science* 361, no. 6397 (2018): 21.
+- Rasmussen, N. *On Speed: The Many Lives of Amphetamine*. New York University Press, 2008.
+- Berndt, E. R., Mortimer, R., Bhattacharjya, A., et al. "Authorized Generic Drugs, Price Competition, and Consumers' Welfare." *Health Affairs* 26, no. 3 (2007): 790-799.
+
 ### Working Papers and White Papers
 
 - RAND Corporation. "International Prescription Drug Price Comparisons: Current Empirical Estimates and Comparisons with Previous Studies." Working Paper RR-2956-ASPEC. 2024.
@@ -60,6 +72,48 @@ This section provides a curated list of key research, government reports, data s
 - Posner, G. *Pharma: Greed, Lies, and the Poisoning of America*. Avid Reader Press, 2020. - Analysis of pharmaceutical industry business practices and regulatory failures
 - Lexchin, J. *Private Profits versus Public Policy: The Pharmaceutical Industry and the Canadian State*. University of Toronto Press, 2016. - Comparative analysis of Canadian pharmaceutical regulation
 - Goldacre, B. *Bad Pharma: How Drug Companies Mislead Doctors and Harm Patients*. Faber & Faber, 2012. - Analysis of pharmaceutical industry influence on clinical evidence and prescribing
+- McGreal, C. *American Overdose: The Opioid Tragedy in Three Acts*. PublicAffairs, 2018. - Journalist's account of the opioid crisis focusing on the roles of industry, regulators, and communities
+- Quinones, S. *Dreamland: The True Tale of America's Opiate Epidemic*. Bloomsbury Press, 2015. - Pulitzer Prize finalist account tracing the intersection of prescription opioid marketing and Mexican heroin trafficking
+- Lembke, A. *Drug Dealer, MD: How Doctors Were Duped, Patients Got Hooked, and Why It's So Hard to Stop*. Johns Hopkins University Press, 2016. - Addiction psychiatrist's analysis of how the medical system was co-opted by pharmaceutical interests
+- Angell, M. *The Truth About the Drug Companies: How They Deceive Us and What to Do About It*. Random House, 2004. - Former *New England Journal of Medicine* editor's analysis of pharmaceutical industry pricing and marketing practices
+
+---
+
+## PDMP Resources
+
+### Technical and Training Resources
+
+| Resource | Provider | Description | URL |
+|----------|----------|-------------|-----|
+| PDMP Training and Technical Assistance Center | Brandeis University/SAMHSA | Training, best practices, state PDMP profiles, and research | <https://www.pdmpassist.org/> |
+| PMPInterConnect Dashboard | NABP | Interstate data sharing statistics and participation status | <https://nabp.pharmacy/initiatives/pmp-interconnect/> |
+| PDMP Implementation Guide | CDC | Evidence-based guidance for state PDMP improvement | <https://www.cdc.gov/drugoverdose/pdmp/> |
+| State PDMP Mandate Tracker | PDMP TTAC | Current mandate requirements for all 50 states | <https://www.pdmpassist.org/> |
+| EHR Integration Toolkit | ONC | Technical resources for PDMP-EHR integration | <https://www.healthit.gov/> |
+
+---
+
+## Drug Take-Back and Disposal Resources
+
+| Resource | Provider | Description | URL |
+|----------|----------|-------------|-----|
+| DEA Drug Take Back Day | DEA | Semiannual collection events; locator for authorized collection sites | <https://www.dea.gov/takebackday> |
+| DEA Authorized Collection Site Locator | DEA | Year-round collection site finder | <https://apps2.deadiversion.usdoj.gov/pubdispsearch/spring/main?execution=e1s1> |
+| FDA Drug Disposal Guide | FDA | Consumer guidance on safe medication disposal | <https://www.fda.gov/drugs/safe-disposal-medicines/disposal-unused-medicines-what-you-should-know> |
+| DisposeRx | DisposeRx Inc. | Chemical deactivation product for home medication disposal | <https://disposerx.com/> |
+| Deterra Drug Deactivation System | Verde Environmental Technologies | Home-use deactivation pouch product | <https://deterrasystem.com/> |
+
+---
+
+## Prescriber Education Resources
+
+| Resource | Provider | Description | URL |
+|----------|----------|-------------|-----|
+| CDC Clinical Practice Guideline for Prescribing Opioids (2022) | CDC | Updated prescribing guidelines replacing 2016 version | <https://www.cdc.gov/mmwr/volumes/71/rr/rr7103a1.htm> |
+| Providers Clinical Support System (PCSS) | SAMHSA/AAAP | Free CME on evidence-based opioid prescribing and addiction treatment | <https://pcssnow.org/> |
+| SCOPE of Pain Training | Boston University | Continuing education on safe opioid prescribing | <https://www.scopeofpain.org/> |
+| Federation of State Medical Boards (FSMB) | FSMB | State CME requirements tracker; prescribing guidelines | <https://www.fsmb.org/> |
+| DEA Practitioner Resources | DEA | Controlled substance prescribing requirements and compliance guidance | <https://www.deadiversion.usdoj.gov/> |
 
 ---
 
@@ -133,6 +187,19 @@ This section provides a curated list of key research, government reports, data s
 - World Health Organization. "WHO Model List of Essential Medicines." <https://www.who.int/medicines/publications/essentialmedicines/en/> - International standard for essential medication access
 - PMPRB (Patented Medicine Prices Review Board, Canada). "Annual Report." <https://www.canada.ca/en/patented-medicine-prices-review.html> - Canadian drug price regulation methodology and outcomes
 - NICE (National Institute for Health and Care Excellence, UK). "Technology Appraisals." <https://www.nice.org.uk/> - UK health technology assessment methodology and drug value determinations
+- German Federal Joint Committee (G-BA). "AMNOG Assessment Reports." <https://www.g-ba.de/english/> - German pharmaceutical market restructuring act implementation
+- European Medicines Agency. "Biosimilar Reports." <https://www.ema.europa.eu/> - European biosimilar adoption data and regulatory framework
+
+---
+
+## Opioid Litigation Resources
+
+| Resource | Description | URL |
+|----------|-------------|-----|
+| Johns Hopkins Opioid Litigation Tracker | Academic tracking of opioid lawsuit outcomes and settlement terms | <https://opioidlitigation.com/> |
+| KFF Opioid Settlement Tracker | State-by-state tracking of opioid settlement fund allocation | <https://www.kff.org/> |
+| Christine Minhee Opioid Settlement Tracker | Independent tracker of settlement fund spending and accountability | <https://www.opioidsettlementtracker.com/> |
+| National Academy for State Health Policy (NASHP) | State drug pricing and PBM legislation tracker | <https://www.nashp.org/> |
 
 ---
 
@@ -153,6 +220,23 @@ This section provides a curated list of key research, government reports, data s
 - Public Law 117-169 -- Inflation Reduction Act of 2022, Title XI (drug pricing provisions)
 - Public Law 115-271 -- SUPPORT for Patients and Communities Act of 2018
 - 21 U.S.C. Section 384 -- Importation of prescription drugs (Section 804 of FD&C Act)
+- Public Law 111-273 -- Secure and Responsible Drug Disposal Act of 2010 (authorized pharmacy-based drug collection)
+- Public Law 110-425 -- Ryan Haight Online Pharmacy Consumer Protection Act of 2008 (telehealth prescribing requirements)
+- 21 U.S.C. Section 856 -- Maintaining drug-involved premises (relevant to SCS legal analysis)
+
+---
+
+## Data Tools and Interactive Resources
+
+| Tool | Provider | Description | URL |
+|------|----------|-------------|-----|
+| GoodRx Drug Price Comparison | GoodRx | Consumer tool for comparing prescription drug prices across pharmacies | <https://www.goodrx.com/> |
+| RxSaver Price Comparison | RxSaver | Alternative drug pricing comparison tool | <https://www.rxsaver.com/> |
+| Medicare Plan Finder Drug Coverage | CMS | Search Medicare Part D plan coverage for specific drugs | <https://www.medicare.gov/plan-compare/> |
+| Drug Shortage Database | FDA | Current drug shortage information and estimated resolution dates | <https://www.accessdata.fda.gov/scripts/drugshortages/> |
+| Drugs@FDA | FDA | Searchable database of all FDA-approved drug products | <https://www.accessdata.fda.gov/scripts/cder/daf/> |
+| DEA Diversion Control Division | DEA | Registration, quota, and scheduling information | <https://www.deadiversion.usdoj.gov/> |
+| State Drug Take-Back Locator | DEA | Find authorized drug collection sites by ZIP code | <https://apps2.deadiversion.usdoj.gov/pubdispsearch/> |
 
 ---
 

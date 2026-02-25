@@ -38,6 +38,10 @@ The CCBHC model provides the structural vehicle for community mental health tran
 
 **Impact Metrics**: Number of operational CCBHCs; geographic coverage (% of population within 30 minutes); average wait times; ED visit rates; jail booking rates; homelessness rates among clients.
 
+**State Case Study -- Missouri**: Missouri was one of the original eight CCBHC demonstration states and has become a national model for implementation. The state certified all 25 of its Community Mental Health Centers as CCBHCs, achieving statewide coverage. Results include a 17% increase in individuals served, an 85% increase in crisis service utilization, and a measurable reduction in hospital readmissions. Missouri's success is attributed to strong executive branch support from both Republican and Democratic governors, a pre-existing robust community mental health infrastructure, and effective collaboration between the Missouri Department of Mental Health and the state Medicaid agency (Missouri DMH, 2022).
+
+**State Case Study -- Oklahoma**: Oklahoma, another original demonstration state with a Republican governor, demonstrated that the CCBHC model transcends partisan divisions. The state's CCBHCs reduced psychiatric emergency department visits by 48% and increased same-day access to care from 0% to 82% of certified clinics. Oklahoma leveraged CCBHC funding to expand services to tribal communities and rural areas that had previously lacked community mental health access (Oklahoma DMHSAS, 2023).
+
 ### Solution 2: Assertive Community Treatment (ACT) Scaling
 
 **Description**: Expand Assertive Community Treatment teams from an estimated 800 teams nationally to 3,000+ teams, serving approximately 300,000 individuals with serious mental illness. ACT teams provide intensive, multidisciplinary community-based treatment including medication management, housing support, employment assistance, and crisis intervention, with staff-to-client ratios of approximately 1:10. ACT is the most evidence-based model for serving individuals with the most severe and persistent mental illness in community settings.
@@ -51,6 +55,10 @@ The CCBHC model provides the structural vehicle for community mental health tran
 **Timeline**: Years 1-2: authorization and fidelity standards; Years 2-5: expansion to 1,800 teams; Years 5-8: expansion to 3,000 teams.
 
 **Challenges**: Recruiting psychiatrists and nurses for ACT teams in rural areas; maintaining fidelity as programs scale; ensuring Medicaid reimbursement covers true costs.
+
+**ACT Team Composition and Fidelity**: A high-fidelity ACT team typically includes a team leader, psychiatrist (minimum 0.5 FTE), nurse, substance abuse specialist, vocational specialist, peer support specialist, and 2-4 case managers. The Dartmouth Assertive Community Treatment Scale (DACTS) measures fidelity across 28 items. Research consistently shows that higher fidelity teams produce better outcomes (McHugo et al., 2007). Fidelity monitoring is essential as programs scale to prevent "ACT in name only" -- programs that use the ACT label without meeting the staffing, caseload, and service delivery standards that produce the evidence base.
+
+**State Case Study -- Wisconsin (ACT Origin)**: Wisconsin, where ACT was developed at Mendota Mental Health Institute by Stein and Test in 1972, operates approximately 45 high-fidelity ACT teams. The state's ACT program has demonstrated sustained reductions in hospitalization of 40% and improvements in housing stability of 50% over decades of operation. Wisconsin's success is attributed to strong state-level fidelity monitoring, Medicaid reimbursement that covers actual ACT costs, and a culture of evidence-based practice in the state's mental health system (Wisconsin DHS, 2023).
 
 **Impact Metrics**: Number of ACT teams; clients served; hospitalization rates; housing stability; employment rates; criminal justice contacts.
 
@@ -70,6 +78,19 @@ The CCBHC model provides the structural vehicle for community mental health tran
 
 **Impact Metrics**: Number of providers in HPSAs; HPSA designation count; CMHC/CCBHC vacancy rates; turnover rates; provider diversity metrics.
 
+**Workforce Diversity**: The community mental health workforce does not reflect the populations it serves. Addressing diversity is essential to reducing treatment disparities:
+
+| Provider Type | % Black | % Hispanic | % AI/AN | General Population Reference |
+|---|---|---|---|---|
+| Psychiatrists | 6% | 6% | <1% | 13.6% Black, 19.1% Hispanic |
+| Psychologists | 4% | 7% | <1% | U.S. Census, 2022 |
+| Social workers (clinical) | 12% | 10% | 1% | BLS, 2023 |
+| Peer support specialists | 28% | 15% | 3% | SAMHSA, 2023 |
+
+Source: APA, 2023; NASW, 2023; BLS, 2023
+
+Peer support specialists are the most racially diverse provider category in community mental health, making peer workforce expansion a dual equity strategy -- improving both access and representation.
+
 ### Solution 4: Crisis Continuum Development
 
 **Description**: Build a complete crisis continuum linked to the 988 Suicide & Crisis Lifeline in every community: (1) 988 call/text/chat center, (2) mobile crisis team, and (3) crisis stabilization facility. This "Someone to Call, Someone to Respond, A Place to Go" model ensures that individuals in mental health crisis receive appropriate community-based care rather than defaulting to emergency departments or law enforcement.
@@ -85,6 +106,10 @@ The CCBHC model provides the structural vehicle for community mental health tran
 **Challenges**: Workforce for 24/7 crisis teams; facility siting (NIMBY opposition); coordination between 988, 911, and mobile teams.
 
 **Impact Metrics**: 988 answer rate (target: 95%+); average response time for mobile crisis; ED psychiatric boarding hours; law enforcement mental health call volume.
+
+**The CAHOOTS Model**: The Crisis Assistance Helping Out On The Streets (CAHOOTS) program in Eugene, Oregon, operated by the White Bird Clinic since 1989, provides a proven model for non-police crisis response. CAHOOTS teams (a crisis worker and a medic) respond to behavioral health 911 calls, handling approximately 24,000 calls per year -- roughly 20% of Eugene's total 911 volume. The program diverts 3-8% of calls that would otherwise require police response and saves the city of Eugene an estimated $8.5 million annually in avoided police response costs (White Bird Clinic, 2023). The CAHOOTS model has been replicated in Denver (STAR program), Portland (Portland Street Response), Olympia (Crisis Response Unit), and over 20 other cities.
+
+**Co-Responder Models**: Some communities use co-responder models that pair a mental health clinician with a law enforcement officer for behavioral health calls, rather than deploying clinician-only teams. Co-responder models may be more feasible in communities where independent clinician teams face resistance from law enforcement or public safety concerns, and they have shown positive results in reducing use of force and increasing treatment linkage. The Crisis Intervention Team (CIT) model, which trains officers to respond to mental health calls without a clinician partner, represents the most basic level of crisis response reform and has been adopted by over 2,700 law enforcement agencies (CIT International, 2023).
 
 ### Solution 5: Integrated Primary Care-Behavioral Health
 
@@ -134,6 +159,24 @@ The CCBHC model provides the structural vehicle for community mental health tran
 
 **Impact Metrics**: Homeless count among individuals with SMI; housing retention rates; days housed per year.
 
+**State Case Study -- New York Supported Housing**: New York State operates the largest permanent supportive housing program for individuals with mental illness in the country, with approximately 50,000 units. The NY/NY Agreement series (1990, 2005, 2015) between New York City and New York State demonstrated that permanent supportive housing reduces shelter use by 87%, reduces hospitalizations by 60%, and reduces incarceration by 74% (NYS OMH, 2020). The program costs approximately $22,000 per person per year, compared to approximately $168,000 per person per year for shelter plus emergency services without housing (Corporation for Supportive Housing, 2023).
+
+### Solution 8: Peer Support Workforce Expansion
+
+**Description**: Expand the peer support specialist workforce from an estimated 18,000 currently working in community mental health settings to 50,000+ within 10 years. Peer support specialists -- individuals with lived experience of mental illness or substance use disorders who are trained and certified to support others in recovery -- represent the most scalable and cost-effective workforce expansion strategy in community mental health. Peer support has been shown to improve treatment engagement, reduce hospitalizations, and enhance recovery outcomes while providing meaningful employment to individuals in recovery.
+
+**Evidence Base**: A 2023 systematic review of 30 studies found that peer support services reduced psychiatric hospitalization by 18-32%, improved treatment engagement by 25-40%, and enhanced self-management skills and social functioning (Chinman et al., 2014; updated meta-analysis through 2023). Peer support is recognized as a Medicaid-reimbursable service in 49 states, though reimbursement rates and certification requirements vary widely.
+
+**Implementation**: (1) Establish national peer support specialist certification standards through SAMHSA; (2) Require all CCBHCs to employ peer support specialists as core team members; (3) Increase Medicaid peer support reimbursement rates to $25-$35 per hour (currently $12-$22 in most states); (4) Fund peer specialist training programs at community colleges and through CMHC-based apprenticeships; (5) Create career ladders allowing peer specialists to advance into supervisory, training, and administrative roles.
+
+**Cost/Resources**: $200 million annually for training programs; $500 million annually for enhanced Medicaid reimbursement; $50 million annually for certification infrastructure. Total: approximately $750 million annually.
+
+**Timeline**: Years 1-2: national certification standards and enhanced reimbursement; Years 2-5: training pipeline expansion; Years 5-10: full integration in all CCBHCs.
+
+**Challenges**: Varying state certification requirements; stigma within clinical teams; risk of exploitation (low pay, high emotional demands); maintaining peer identity while professionalizing the role.
+
+**Impact Metrics**: Number of certified peer support specialists; retention rates; client engagement rates; hospitalization rates for peer-supported clients.
+
 ---
 
 ## International Models
@@ -162,6 +205,20 @@ The CCBHC model provides the structural vehicle for community mental health tran
 
 **Applicability to U.S.**: The IAPT model's emphasis on standardized outcome measurement and stepped care (matching treatment intensity to severity) could be adapted within the CCBHC framework. However, the UK's single-payer system simplifies implementation.
 
+### Canada: Assertive Community Treatment Integration
+
+**Description**: Canadian provinces, particularly Ontario, have integrated ACT as a core component of provincial mental health systems. Ontario operates approximately 100 ACT teams serving over 7,000 individuals with serious mental illness, with centralized fidelity monitoring and provincial funding standards.
+
+**Results**: Ontario's ACT program has demonstrated sustained reductions in hospitalization of 50% and improvements in housing stability of 60% over 20 years of operation. The provincial funding model ensures that ACT teams receive adequate per-client funding regardless of local economic conditions (Ontario Ministry of Health, 2022).
+
+**Applicability to U.S.**: Ontario's centralized ACT management approach offers a model for state-level ACT coordination. The U.S. could adapt this model through SAMHSA-supported state ACT coordinating centers that provide fidelity monitoring, training, and technical assistance.
+
+### New Zealand: Open Dialogue
+
+**Description**: New Zealand has piloted the Open Dialogue approach to first-episode psychosis, originally developed in Western Lapland, Finland. Open Dialogue emphasizes immediate response (within 24 hours of contact), family involvement, continuity of care, and dialogue-based treatment planning. In the Finnish model, 80% of first-episode psychosis patients returned to work or school within two years, and antipsychotic medication use was reduced to 35% (Seikkula et al., 2006).
+
+**Applicability to U.S.**: Open Dialogue principles could be integrated into CCBHC early intervention programs, particularly for first-episode psychosis. Several U.S. pilot programs have launched, including at McLean Hospital (Massachusetts) and the Parachute NYC program in New York City, though evidence in the U.S. context remains preliminary.
+
 ---
 
 ## Pilot Programs and Demonstrations
@@ -170,6 +227,9 @@ The CCBHC model provides the structural vehicle for community mental health tran
 - **NYC CCBHC Early Adopter**: New York City CCBHCs reduced average wait times from 41 days to 7 days and increased same-day intake by 65% (NYC Department of Health and Mental Hygiene, 2023).
 - **Trieste, Italy Global Model**: Trieste's community mental health system has been designated a WHO Collaborating Centre and serves as a global demonstration site for fully community-based care. Psychiatric bed use is among the lowest in the developed world.
 - **SAMHSA ACT Evidence Base**: Over 30 years of ACT implementation across multiple states with consistent outcomes: 37% reduction in hospitalization, 44% improvement in housing stability (SAMHSA NREPP).
+- **Georgia Crisis System**: Georgia's statewide crisis system, managed through the Georgia Crisis and Access Line, demonstrates the "Someone to Call, Someone to Respond, A Place to Go" model at scale. The system diverts 65% of behavioral health emergencies from emergency departments and achieves crisis stabilization for 70% of individuals within 24 hours without hospitalization. Georgia's six crisis stabilization units provide an alternative to emergency department psychiatric boarding (NASMHPD, 2022).
+- **Maricopa County (Arizona) Crisis System**: Maricopa County operates one of the most comprehensive county-level crisis systems in the country, diverting 80% of behavioral health emergencies from hospitals and jails. The system includes a 24/7 crisis line, 10 mobile crisis teams, a crisis stabilization center, and a psychiatric urgent care center. The system saved an estimated $37 million annually in avoided ED and jail costs (Crisis Now model evaluation, 2022).
+- **Coordinated Specialty Care for First Episode Psychosis (CSC-FEP)**: NIMH's RAISE (Recovery After an Initial Schizophrenia Episode) research demonstrated that coordinated specialty care -- combining medication management, individual therapy, family education, and supported employment -- significantly improves outcomes for young people experiencing their first episode of psychosis. SAMHSA's MHBG set-aside now requires states to allocate 10% of block grant funds to first-episode psychosis programs. As of 2024, approximately 350 CSC-FEP programs operate in all 50 states (NIMH, 2024).
 
 ## Sequencing and Prioritization
 
@@ -194,6 +254,23 @@ The CCBHC model provides the structural vehicle for community mental health tran
 - Eliminate mental health HPSA designations
 - Achieve full crisis continuum in all communities
 - Eliminate chronic homelessness among individuals with SMI through Housing First integration
+
+## Solution Cost-Benefit Summary
+
+| Solution | Annual Cost (at Scale) | Estimated Annual Savings | Net Cost (Savings) | Benefit-Cost Ratio |
+|---|---|---|---|---|
+| National CCBHC Implementation | $9 billion (additional Medicaid) | $12-18 billion (ED, jail, homeless) | ($3-9 billion) net savings | 1.3-2.0:1 |
+| ACT Scaling (3,000 teams) | $3.6 billion | $4.5-6.0 billion (hospitalization, jail) | ($0.9-2.4 billion) net savings | 1.3-1.7:1 |
+| Workforce Investment | $2.5 billion | Indirect (enables other solutions) | Cost center; enables savings | N/A |
+| Crisis Continuum | $1.8 billion + $500M capital | $2.5-3.5 billion (ED, law enforcement) | ($0.2-1.2 billion) net savings | 1.1-1.7:1 |
+| Integrated Primary Care-BH | $1 billion | $1.5-2.0 billion (reduced mortality, ED) | ($0.5-1.0 billion) net savings | 1.5-2.0:1 |
+| Technology Modernization | $500 million (ongoing) | Indirect (enables other solutions) | Cost center; enables savings | N/A |
+| Housing First Integration | $3.7 billion | $5-7 billion (shelter, ED, jail, hospital) | ($1.3-3.3 billion) net savings | 1.4-1.9:1 |
+| Peer Support Expansion | $750 million | $1-1.5 billion (hospitalization, engagement) | ($250-750 million) net savings | 1.3-2.0:1 |
+
+Source: National Council for Mental Wellbeing, 2023; SAMHSA estimates; Corporation for Supportive Housing, 2023; author calculations
+
+The combined investment of approximately $22-23 billion annually at full scale would generate an estimated $27-38 billion in avoided costs across healthcare, criminal justice, housing, and productivity systems -- producing net system-wide savings of $5-15 billion annually while transforming outcomes for tens of millions of Americans.
 
 ## Complementary Policies
 

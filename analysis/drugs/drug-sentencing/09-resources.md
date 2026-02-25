@@ -8,18 +8,25 @@ This section provides a curated list of key research, reports, and data sources 
 
 ### Peer-Reviewed Studies
 
-- Starr, Sonja B., and M. Marit Rehavi. "Mandatory Sentencing and Racial Disparity: Assessing the Role of Prosecutors." *Yale Law Journal* 123 (2013): 2-80. <https://www.yalelawjournal.org/article/mandatory-sentencing-and-racial-disparity-assessing-the-role-of-prosecutors>
-- Yang, Crystal S. "Free at Last? Judicial Discretion and Racial Disparities in Federal Sentencing." *Journal of Legal Studies* 44, no. 1 (2015): 75-111. <https://doi.org/10.1086/680989>
-- Rehavi, M. Marit, and Sonja B. Starr. "Racial Disparity in Federal Criminal Sentences." *Journal of Political Economy* 122, no. 6 (2014): 1320-1354. <https://doi.org/10.1086/677255>
-- Sevigny, Eric L., and Jonathan P. Caulkins. "Kingpins or Mules: An Analysis of Drug Offenders Incarcerated in Federal and State Prisons." *Criminology and Public Policy* 3, no. 3 (2004): 401-434.
-- Tonry, Michael. "The Social, Psychological, and Political Causes of Racial Disparities in the American Criminal Justice System." *Crime and Justice* 39, no. 1 (2010): 273-312.
-- Mitchell, Ojmarrh. "A Meta-Analysis of Race and Sentencing Research: Explaining the Inconsistencies." *Journal of Quantitative Criminology* 21, no. 4 (2005): 439-466.
+- Starr, Sonja B., and M. Marit Rehavi. "Mandatory Sentencing and Racial Disparity: Assessing the Role of Prosecutors." *Yale Law Journal* 123 (2013): 2-80. <https://www.yalelawjournal.org/article/mandatory-sentencing-and-racial-disparity-assessing-the-role-of-prosecutors> -- Demonstrates that prosecutors' initial charging decisions are the primary driver of racial disparities in federal drug sentencing.
+- Yang, Crystal S. "Free at Last? Judicial Discretion and Racial Disparities in Federal Sentencing." *Journal of Legal Studies* 44, no. 1 (2015): 75-111. <https://doi.org/10.1086/680989> -- Finds that expanded judicial discretion after *Booker* reduced racial disparities in some districts but increased them in others, depending on local judicial culture.
+- Rehavi, M. Marit, and Sonja B. Starr. "Racial Disparity in Federal Criminal Sentences." *Journal of Political Economy* 122, no. 6 (2014): 1320-1354. <https://doi.org/10.1086/677255> -- Quantifies the racial gap in federal sentences after controlling for arrest offense, criminal history, and other legally relevant factors.
+- Sevigny, Eric L., and Jonathan P. Caulkins. "Kingpins or Mules: An Analysis of Drug Offenders Incarcerated in Federal and State Prisons." *Criminology and Public Policy* 3, no. 3 (2004): 401-434. -- Finds that most incarcerated drug offenders are low-level participants, not the "kingpins" that mandatory minimums were ostensibly designed to target.
+- Tonry, Michael. "The Social, Psychological, and Political Causes of Racial Disparities in the American Criminal Justice System." *Crime and Justice* 39, no. 1 (2010): 273-312. -- Comprehensive analysis of how racial disparities are produced and sustained across the criminal justice system.
+- Mitchell, Ojmarrh. "A Meta-Analysis of Race and Sentencing Research: Explaining the Inconsistencies." *Journal of Quantitative Criminology* 21, no. 4 (2005): 439-466. -- Meta-analysis confirming that race has a statistically significant effect on sentencing outcomes across studies.
+- Collins, Susan E., et al. "Seattle's Law Enforcement Assisted Diversion (LEAD): Program Effects on Recidivism Outcomes." *Crime and Delinquency* 63, no. 4 (2017): 429-445. -- Evaluates LEAD diversion outcomes, finding 58% reduction in rearrest for participants.
+- Pfaff, John F. "The Micro and Macro Causes of Prison Growth." *Georgia State University Law Review* 28, no. 4 (2012): 1237-1272. -- Argues that prosecutorial charging behavior, not just mandatory minimums, is the primary driver of prison growth.
+- Kuziemko, Ilyana. "How Should Inmates Be Released from Prison? An Assessment of Parole Versus Fixed-Sentence Regimes." *Quarterly Journal of Economics* 128, no. 1 (2013): 371-424. -- Finds that parole-eligible inmates exhibit better behavior and lower recidivism than those serving fixed sentences.
+- Nagin, Daniel S. "Deterrence in the Twenty-First Century." *Crime and Justice* 42, no. 1 (2013): 199-263. -- Comprehensive review of deterrence research confirming that certainty of punishment deters but severity does not.
 
 ### Working Papers and White Papers
 
-- Brennan Center for Justice. "What Caused the Crime Decline?" 2015. <https://www.brennancenter.org/our-work/research-reports/what-caused-crime-decline>
-- RAND Corporation. "Mandatory Minimum Drug Sentences: Throwing Away the Key or the Taxpayers' Money?" 1997. <https://www.rand.org/pubs/research_briefs/RB6003.html>
-- Caulkins, Jonathan P., et al. "How Goes the 'War on Drugs'?" RAND Drug Policy Research Center. 2005.
+- Brennan Center for Justice. "What Caused the Crime Decline?" 2015. <https://www.brennancenter.org/our-work/research-reports/what-caused-crime-decline> -- Finds that incarceration accounts for 0-5% of the post-1990 crime decline, with no significant deterrent effect from mandatory minimums.
+- RAND Corporation. "Mandatory Minimum Drug Sentences: Throwing Away the Key or the Taxpayers' Money?" 1997. <https://www.rand.org/pubs/research_briefs/RB6003.html> -- Landmark cost-effectiveness study finding treatment 7x more cost-effective than enforcement and 10x more than interdiction.
+- Caulkins, Jonathan P., et al. "How Goes the 'War on Drugs'?" RAND Drug Policy Research Center. 2005. -- Assessment of drug policy effectiveness across supply-side and demand-side interventions.
+- National Research Council. "The Growth of Incarceration in the United States: Exploring Causes and Consequences." 2014. -- The most comprehensive governmental review of mass incarceration's causes, consequences, and policy implications.
+- National Institute of Justice. "Five Things About Deterrence." 2016. <https://nij.ojp.gov/topics/articles/five-things-about-deterrence> -- Summary of deterrence research concluding that certainty of punishment is far more effective than severity.
+- Pew Charitable Trusts. "Federal Drug Sentencing Laws Bring High Cost, Low Return." 2015. <https://www.pewtrusts.org/en/research-and-analysis/issue-briefs/2015/08/federal-drug-sentencing-laws-bring-high-cost-low-return> -- Analysis of the fiscal costs and limited public safety returns of federal mandatory minimum drug sentences.
 
 ---
 
@@ -40,7 +47,10 @@ This section provides a curated list of key research, reports, and data sources 
 - Congressional Research Service. "Federal Mandatory Minimum Sentencing: The 18 U.S.C. 924(c) 'Stacking' Problem." Report R45075 (2018). <https://crsreports.congress.gov/product/pdf/R/R45075>
 - Congressional Research Service. "The First Step Act of 2018: An Overview." Report R45558 (2019). <https://crsreports.congress.gov/product/pdf/R/R45558>
 - Congressional Research Service. "Federal Sentencing Guidelines: Overview and Selected Issues." Report R46503 (2021). <https://crsreports.congress.gov/product/pdf/R/R46503>
+- Congressional Research Service. "The EQUAL Act: Eliminating the Crack-Powder Cocaine Sentencing Disparity." Report R47086 (2022). <https://crsreports.congress.gov/> - Analysis of the EQUAL Act's provisions and legislative history
 - Government Accountability Office. "Bureau of Prisons: Improved Planning Would Help BOP Evaluate and Manage its Reentry and Recidivism Reduction Efforts." GAO-22-104796 (2022). <https://www.gao.gov/products/gao-22-104796>
+- DOJ Office of the Inspector General. "Review of the Federal Bureau of Prisons' Compassionate Release Program." 2013, updated 2020. <https://oig.justice.gov/> - Documented systemic failures in BOP compassionate release processing
+- DOJ Office of the Inspector General. "The Impact of an Aging Inmate Population on the Federal Bureau of Prisons." 2015. <https://oig.justice.gov/> - Analysis of healthcare costs and policy implications of elderly drug offenders
 
 ### Agency Data Portals
 
@@ -59,6 +69,14 @@ This section provides a curated list of key research, reports, and data sources 
 - Pfaff, John F. *Locked In: The True Causes of Mass Incarceration and How to Achieve Real Reform*. Basic Books, 2017. - Argues that prosecutorial power, not just mandatory minimums, drives mass incarceration
 - Clear, Todd R. *Imprisoning Communities: How Mass Incarceration Makes Disadvantaged Neighborhoods Worse*. Oxford University Press, 2007. - Evidence on how incarceration destabilizes communities
 - Murakawa, Naomi. *The First Civil Right: How Liberals Built Prison America*. Oxford University Press, 2014. - Historical analysis of bipartisan construction of punitive criminal justice
+- Forman, James Jr. *Locking Up Our Own: Crime and Punishment in Black America*. Farrar, Straus and Giroux, 2017. - Pulitzer Prize-winning analysis of how Black communities' own responses to drug crime contributed to mass incarceration, complicating simple narratives
+- Hinton, Elizabeth. *From the War on Poverty to the War on Crime: The Making of Mass Incarceration in America*. Harvard University Press, 2016. - Historical analysis tracing the punitive turn in American policy from the Johnson to Reagan administrations
+- Gottschalk, Marie. *Caught: The Prison State and the Lockdown of American Politics*. Princeton University Press, 2015. - Analysis of the political dynamics that sustain mass incarceration and the limitations of current reform strategies
+- Loury, Glenn C. *Race, Incarceration, and American Values*. MIT Press, 2008. - Economic and moral analysis of the racial dimensions of American incarceration policy
+- Simon, Jonathan. *Mass Incarceration on Trial: A Remarkable Court Decision and the Future of Prisons in America*. The New Press, 2014. - Analysis of *Brown v. Plata* (2011) and its implications for prison conditions and sentencing reform
+- Hari, Johann. *Chasing the Scream: The First and Last Days of the War on Drugs*. Bloomsbury, 2015. - Accessible narrative history of the War on Drugs from its origins to modern reform efforts
+- Baum, Dan. *Smoke and Mirrors: The War on Drugs and the Politics of Failure*. Little, Brown, 1996. - Investigative account of the political construction of the War on Drugs from Nixon through Clinton
+- Drug Policy Alliance. *Drug War Statistics*. Updated annually. <https://drugpolicy.org/> - Compilation of key statistics on drug enforcement, sentencing, and reform
 
 ---
 
@@ -74,9 +92,12 @@ This section provides a curated list of key research, reports, and data sources 
 
 ### Policy Briefs
 
-- American Law Institute. "Model Penal Code: Sentencing." 2017. <https://www.ali.org/projects/show/sentencing/> - Comprehensive sentencing reform framework
-- Council on Criminal Justice. "Mandatory Minimum Penalties for Drug Offenses in the Federal Criminal Justice System." 2021. <https://counciloncj.org/>
+- American Law Institute. "Model Penal Code: Sentencing." 2017. <https://www.ali.org/projects/show/sentencing/> - Comprehensive sentencing reform framework recommended by the nation's leading legal scholarship organization
+- Council on Criminal Justice. "Mandatory Minimum Penalties for Drug Offenses in the Federal Criminal Justice System." 2021. <https://counciloncj.org/> - Analysis of mandatory minimum effectiveness and reform options
 - Right on Crime. "Statement of Principles." <https://rightoncrime.com/statement-of-principles/> - Conservative case for criminal justice reform including sentencing
+- Institute for Justice. "Policing for Profit: The Abuse of Civil Asset Forfeiture." 2020. <https://ij.org/report/policing-for-profit-3/> - Analysis of civil asset forfeiture in drug enforcement
+- Health in Justice Action Lab. "Drug-Induced Homicide Laws." Northeastern University, 2023. <https://www.healthinjustice.org/> - Research on the impact and targeting of drug-induced homicide prosecutions
+- Pew Charitable Trusts. "35 States Reform Criminal Justice Policies Through Justice Reinvestment." 2020. <https://www.pewtrusts.org/> - Overview of state-level sentencing reform through the Justice Reinvestment Initiative
 
 ---
 
@@ -94,6 +115,12 @@ This section provides a curated list of key research, reports, and data sources 
 | National Association of Drug Court Professionals | Drug court expansion and improvement | Professional/Advocacy | <https://www.nadcp.org/> |
 | Justice Roundtable | Broad criminal justice reform coalition | Coalition/Advocacy | <https://www.justiceroundtable.org/> |
 | Cut50 | Bipartisan initiative to reduce incarceration | Advocacy | <https://www.cut50.org/> |
+| REFORM Alliance | Criminal justice reform focused on probation and parole | Advocacy | <https://reformalliance.com/> |
+| Equal Justice Initiative | Criminal justice reform, racial justice | Advocacy/Litigation | <https://eji.org/> |
+| Fair and Just Prosecution | Network of reform-minded elected prosecutors | Professional/Advocacy | <https://fairandjustprosecution.org/> |
+| Law Enforcement Leaders to Reduce Crime and Incarceration | Former law enforcement supporting reform | Advocacy | <https://lawenforcementleaders.org/> |
+| JustLeadershipUSA | Formerly incarcerated-led reform advocacy | Advocacy | <https://jlusa.org/> |
+| National Reentry Resource Center | Reentry resources and technical assistance | Resource Center | <https://nationalreentryresourcecenter.org/> |
 
 ---
 
@@ -133,6 +160,49 @@ This section provides a curated list of key research, reports, and data sources 
 - European Monitoring Centre for Drugs and Drug Addiction (EMCDDA). "European Drug Report." Annual. <https://www.emcdda.europa.eu/> - Comparative data on drug policy approaches in Europe
 - Transform Drug Policy Foundation. "Drug Decriminalisation in Portugal: Setting the Record Straight." 2021. <https://transformdrugs.org/> - Analysis of Portugal's decriminalisation outcomes
 - Penal Reform International. "Global Prison Trends." Annual. <https://www.penalreform.org/> - International comparative data on imprisonment
+- UK Sentencing Council. "Drug Offences: Definitive Guideline." 2021. <https://www.sentencingcouncil.org.uk/offences/crown-court/item/drug-offences-definitive-guideline/> - Role-based sentencing guidelines for drug offenses in England and Wales; model for U.S. guideline reform
+- Canadian Centre on Substance Use and Addiction. "Drug Treatment Courts." <https://www.ccsa.ca/> - Analysis of Canadian drug treatment court outcomes and implementation lessons
+- World Prison Brief. "World Prison Population List." Updated regularly. <https://www.prisonstudies.org/> - Comparative incarceration rates across nations, with detailed country profiles
+- International Drug Policy Consortium. "Taking Stock: A Decade of Drug Policy." 2018. <https://idpc.net/> - Global assessment of drug policy approaches and outcomes across sentencing regimes
+
+---
+
+## Documentaries and Film
+
+- *13th* (2016, dir. Ava DuVernay) - Examines the intersection of race, justice, and mass incarceration, including the role of drug sentencing
+- *The House I Live In* (2012, dir. Eugene Jarecki) - Comprehensive documentary on the War on Drugs, featuring perspectives from law enforcement, judges, inmates, and families
+- *Time: The Kalief Browder Story* (2017, Jay-Z, Harvey Weinstein) - Documents the case of Kalief Browder, held at Rikers Island for three years without trial on drug-related charges
+- *Crack: Cocaine, Corruption & Conspiracy* (2021, Netflix) - Explores the crack epidemic and the political decisions that shaped the sentencing response
+- *Heroin(e)* (2017, Netflix) - Short documentary following first responders and a judge in Huntington, West Virginia, illustrating the human dimensions of the drug crisis and the role of drug courts
+- *Time* (2020, dir. Garrett Bradley) - Documents the 20-year campaign of a woman working to free her husband from a 60-year sentence for a first-time drug robbery
+- *The Trade* (2018-2019, Showtime) - Multi-season series examining the drug trade from multiple perspectives, including the impact of sentencing on families
+
+---
+
+## Podcasts and Audio
+
+- **Ear Hustle**: Stories from inside San Quentin State Prison, including perspectives from people serving drug sentences - <https://www.earhustlesq.com/>
+- **Justice in America**: Hosted by the Appeal; covers sentencing, prosecution, and reform in depth - <https://theappeal.org/topics/justice-in-america/>
+- **Decarceration Nation**: Stories and analysis on criminal justice reform, including sentencing policy - <https://decarcerationnation.com/>
+- **Wrongful Conviction with Jason Flom**: Explores cases of excessive and unjust sentences, including drug cases - <https://www.wrongfulconvictionpodcast.com/>
+- **Undisclosed**: True crime podcast that frequently examines drug sentencing issues and prosecutorial misconduct - <https://undisclosed-podcast.com/>
+- **More Perfect** (WNYC): Supreme Court history podcast with episodes covering sentencing and drug policy decisions - <https://www.wnycstudios.org/podcasts/radiolabmoreperfect>
+- **Reentry Stories** (National Reentry Resource Center): Podcast featuring interviews with formerly incarcerated individuals, including those affected by drug sentencing - <https://nationalreentryresourcecenter.org/>
+- **The Breakdown with Shaun King**: Coverage of criminal justice reform including sentencing policy developments
+
+---
+
+## Toolkits and Practical Guides
+
+- FAMM. "Sentencing Reform Advocacy Toolkit." <https://famm.org/our-work/> - Practical guide for citizen advocates working on sentencing reform at federal and state levels
+- Vera Institute. "Justice Reinvestment Initiative: State Assessment Reports." <https://www.vera.org/> - State-by-state analyses of sentencing practices and reform opportunities
+- National Conference of State Legislatures. "Criminal Justice Bill Tracking Database." <https://www.ncsl.org/> - Searchable database of pending state sentencing reform legislation
+- USSC. "Primer on Federal Sentencing." <https://www.ussc.gov/education/primers> - Overview of how federal sentencing works, designed for general audiences
+- Federal Public Defenders. "First Step Act Practice Guide." Available through federal defender offices - Practical guide for attorneys representing clients seeking resentencing under the First Step Act
+- National Inventory of Collateral Consequences of Conviction (NICCC). <https://niccc.nationalreentryresourcecenter.org/> - Searchable database of collateral consequences of criminal convictions by state and offense type
+- Council of State Governments Justice Center. "Justice Reinvestment Initiative." <https://csgjusticecenter.org/projects/justice-reinvestment/> - Technical assistance and implementation resources for state-level sentencing reform
+- LEAD National Support Bureau. "LEAD Implementation Resources." <https://www.leadbureau.org/> - Technical assistance for jurisdictions implementing Law Enforcement Assisted Diversion programs
+- National Association of Criminal Defense Lawyers. "The Trial Penalty: The Sixth Amendment Right to Trial on the Verge of Extinction and How to Save It." 2018. <https://www.nacdl.org/trialpenalty/> - Comprehensive analysis of plea coercion dynamics in drug cases, documenting the 64% average sentence increase for exercising the right to trial
 
 ---
 
@@ -140,20 +210,36 @@ This section provides a curated list of key research, reports, and data sources 
 
 ### Case Law
 
-- *United States v. Booker*, 543 U.S. 220 (2005) - Made federal sentencing guidelines advisory; restored judicial discretion
-- *Kimbrough v. United States*, 552 U.S. 85 (2007) - Authorized judges to vary from crack cocaine guidelines based on policy disagreement with the crack-powder disparity
-- *Dorsey v. United States*, 567 U.S. 260 (2012) - Fair Sentencing Act's reduced crack penalties apply to defendants sentenced after its enactment regardless of when the offense occurred
-- *Alleyne v. United States*, 570 U.S. 99 (2013) - Facts that increase mandatory minimum must be submitted to jury and found beyond a reasonable doubt
-- *Concepcion v. United States*, 597 U.S. 481 (2022) - Courts considering First Step Act resentencing may consider intervening changes in law and fact
+- *United States v. Booker*, 543 U.S. 220 (2005) - Made federal sentencing guidelines advisory; restored judicial discretion. The most structurally significant sentencing decision since the guidelines' creation.
+- *Kimbrough v. United States*, 552 U.S. 85 (2007) - Authorized judges to vary from crack cocaine guidelines based on policy disagreement with the crack-powder disparity. Established that judges may disagree with the policy behind a guideline.
+- *Spears v. United States*, 555 U.S. 261 (2009) - Held that district courts may categorically reject the crack-powder ratio and apply a 1-to-1 ratio in individual cases, reinforcing post-*Booker* discretion.
+- *Dorsey v. United States*, 567 U.S. 260 (2012) - Fair Sentencing Act's reduced crack penalties apply to defendants sentenced after its enactment regardless of when the offense occurred. Applied a presumption of congressional intent for equal treatment.
+- *Alleyne v. United States*, 570 U.S. 99 (2013) - Facts that increase mandatory minimum must be submitted to jury and found beyond a reasonable doubt. Extended *Apprendi* principles to mandatory minimum determinations.
+- *Pepper v. United States*, 562 U.S. 476 (2011) - Courts resentencing after successful appeal may consider post-sentencing rehabilitation, including evidence of drug treatment completion and behavioral change.
+- *Concepcion v. United States*, 597 U.S. 481 (2022) - Courts considering First Step Act resentencing may consider intervening changes in law and fact, including USSC guideline amendments and the defendant's post-sentencing conduct.
+- *Terry v. United States*, 593 U.S. 486 (2021) - Narrowed the scope of the First Step Act's retroactive crack provisions, holding that defendants convicted of low-level crack offenses not covered by the Fair Sentencing Act's threshold changes cannot obtain resentencing under Section 404.
+
+### Selected State Case Law
+
+- *People v. Superior Court (Romero)*, 13 Cal. 4th 497 (1996) - California Supreme Court held that trial courts retain discretion to dismiss prior "strike" convictions, providing a check on three-strikes severity.
+- *Solem v. Helm*, 463 U.S. 277 (1983) - U.S. Supreme Court held that a life sentence without parole for a seventh nonviolent felony (including drug possession) violated the Eighth Amendment's proportionality requirement. This decision established a proportionality analysis for noncapital sentences.
+- *Harmelin v. Michigan*, 501 U.S. 957 (1991) - Upheld a mandatory life sentence without parole for possession of 672 grams of cocaine, significantly narrowing *Solem*'s proportionality analysis. The plurality held that the Eighth Amendment contains no proportionality guarantee for noncapital sentences, though Justice Kennedy's concurrence preserved a "narrow proportionality principle."
 
 ### Statutory References
 
 - 21 U.S.C. Section 841 - Federal drug trafficking penalties and mandatory minimums
 - 21 U.S.C. Section 844 - Federal drug possession penalties
+- 21 U.S.C. Section 851 - Information for enhanced penalties based on prior drug felony convictions
+- 18 U.S.C. Section 924(c) - Mandatory consecutive sentences for firearms during drug trafficking
 - 18 U.S.C. Section 3553 - Sentencing factors, substantial assistance, safety valve
+- 18 U.S.C. Section 3553(e) - Substantial assistance departure authority
+- 18 U.S.C. Section 3553(f) - Safety valve provisions
 - 18 U.S.C. Section 3582(c)(1)(A) - Compassionate release provisions
 - P.L. 115-391 (First Step Act of 2018) - Comprehensive federal sentencing reform
 - P.L. 111-220 (Fair Sentencing Act of 2010) - Crack-powder ratio reduction
+- P.L. 98-473 (Sentencing Reform Act of 1984) - Created U.S. Sentencing Commission and federal sentencing guidelines
+- P.L. 99-570 (Anti-Drug Abuse Act of 1986) - Established mandatory minimums and 100-to-1 crack-powder ratio
+- P.L. 100-690 (Anti-Drug Abuse Act of 1988) - Created mandatory minimum for crack possession; established ONDCP
 
 ---
 

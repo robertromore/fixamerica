@@ -16,11 +16,21 @@ This section provides a curated list of key research, government reports, legal 
 - Laqueur, H., Zwald, M., & Brantingham, P.J. "Effects of Reclassifying Drug Possession from a Felony to a Misdemeanor in California." *JAMA Internal Medicine* 180, no. 6 (2020): 884-889. <https://doi.org/10.1001/jamainternmed.2020.1394> - Evaluation of California Proposition 47's impact on drug possession cases.
 - Collins, S.E., et al. "Seattle's Law Enforcement Assisted Diversion (LEAD): Program Effects on Criminal Justice and Legal System Utilization and Costs." *Journal of Experimental Criminology* 13 (2017): 145-164. <https://doi.org/10.1007/s11292-017-9278-7> - Evaluation of the LEAD deflection model.
 
+### Systematic Reviews and Meta-Analyses
+
+- Stevens, A., et al. "The Effects of Drug Decriminalization: A Systematic Review." *The Lancet Public Health* 5, no. 11 (2020): e620-e630. <https://doi.org/10.1016/S2468-2667(20)30228-9> - Reviewed 22 studies across multiple countries; found no significant increase in drug use associated with decriminalization. This is the most frequently cited systematic review in decriminalization debates.
+- National Research Council. "The Growth of Incarceration in the United States: Exploring Causes and Consequences." National Academies Press (2014). - Comprehensive review finding that severity of punishment has little deterrent effect on drug offenses; certainty of consequences matters more.
+- Werb, D., et al. "The Effectiveness of Compulsory Drug Treatment: A Systematic Review." *International Journal of Drug Policy* 28 (2016): 1-9. - Found that compulsory treatment (criminal justice-mandated) produced comparable or inferior outcomes to voluntary treatment when treatment was accessible.
+- Vuolo, M. "National-Level Drug Policy and Young People's Illicit Drug Use: A Multilevel Analysis of the European Union." *Drug and Alcohol Dependence* 131, no. 1-2 (2013): 149-156. - Found that more punitive national drug policies were not associated with lower youth drug use rates across EU countries.
+
 ### Working Papers and White Papers
 
 - Drug Policy Alliance. "It's Time for the U.S. to Decriminalize Drug Use and Possession." 2017. <https://drugpolicy.org/resource/its-time-us-decriminalize-drug-use-and-possession> - Policy brief arguing for comprehensive decriminalization.
+- Drug Policy Alliance. "From Punishment to Public Health: A Case for Drug Decriminalization in New York State." 2021. <https://drugpolicy.org/resource/case-for-drug-decriminalization-in-new-york> - State-specific decriminalization analysis with economic modeling.
 - RAND Corporation. "How Should Marijuana Be Legalized?" 2015. <https://www.rand.org/pubs/research_briefs/RB9825.html> - Analysis of regulatory design options.
 - Caulkins, J.P., et al. "Considering Marijuana Legalization: Insights for Vermont and Other Jurisdictions." RAND Corporation RR-864-RC (2015). <https://www.rand.org/pubs/research_reports/RR864.html>
+- Pew Charitable Trusts. "More Imprisonment Does Not Reduce State Drug Problems." 2018. <https://www.pewtrusts.org/en/research-and-analysis/issue-briefs/2018/03/more-imprisonment-does-not-reduce-state-drug-problems> - Analysis of 50-state data finding no correlation between imprisonment rates and drug use, arrest, or overdose rates.
+- Council of Economic Advisers. "The Underestimated Cost of the Opioid Crisis." 2017, updated 2022. - Estimated total economic cost of the opioid crisis at $500+ billion annually, including lost productivity, healthcare costs, and criminal justice expenditures.
 
 ---
 
@@ -49,13 +59,18 @@ This section provides a curated list of key research, government reports, legal 
 
 ## Books
 
-- Alexander, M. *The New Jim Crow: Mass Incarceration in the Age of Colorblindness*. The New Press, 2010. - Foundational text on racial disparities in drug enforcement.
-- Hari, J. *Chasing the Scream: The First and Last Days of the War on Drugs*. Bloomsbury, 2015. - Journalistic account of drug war history and reform movements worldwide.
-- Hart, C. *Drug Use for Grown-Ups: Chasing Liberty in the Land of Fear*. Penguin Press, 2021. - Neuroscientist's argument for decriminalization based on personal autonomy and scientific evidence.
-- Courtwright, D.T. *Dark Paradise: A History of Opiate Addiction in America*. Harvard University Press, 2001. - Historical analysis of opiate use and regulation in the United States.
-- Baum, D. *Smoke and Mirrors: The War on Drugs and the Politics of Failure*. Little, Brown, 1996. - Political history of the War on Drugs.
-- Maia, S. *Drug Decriminalization in Portugal: Setting the Record Straight*. Open Society Foundations, 2011. - Detailed analysis of Portuguese implementation and outcomes.
-- Provine, D.M. *Unequal Under Law: Race in the War on Drugs*. University of Chicago Press, 2007. - Academic analysis of racial dimensions of drug enforcement.
+- Alexander, M. *The New Jim Crow: Mass Incarceration in the Age of Colorblindness*. The New Press, 2010. - Foundational text on racial disparities in drug enforcement; argues the War on Drugs functions as a system of racial control.
+- Hari, J. *Chasing the Scream: The First and Last Days of the War on Drugs*. Bloomsbury, 2015. - Journalistic account of drug war history and reform movements worldwide, including Portugal's decriminalization.
+- Hart, C. *Drug Use for Grown-Ups: Chasing Liberty in the Land of Fear*. Penguin Press, 2021. - Columbia University neuroscientist's argument for decriminalization based on personal autonomy, scientific evidence, and his own drug use.
+- Courtwright, D.T. *Dark Paradise: A History of Opiate Addiction in America*. Harvard University Press, 2001. - Historical analysis of opiate use and regulation in the United States from the 19th century forward.
+- Baum, D. *Smoke and Mirrors: The War on Drugs and the Politics of Failure*. Little, Brown, 1996. - Political history of the War on Drugs from Nixon through Clinton.
+- Maia, S. *Drug Decriminalization in Portugal: Setting the Record Straight*. Open Society Foundations, 2011. - Detailed analysis of Portuguese implementation and outcomes from within the Portuguese system.
+- Provine, D.M. *Unequal Under Law: Race in the War on Drugs*. University of Chicago Press, 2007. - Academic analysis of racial dimensions of drug enforcement from Harrison Act through the 2000s.
+- Case, A., & Deaton, A. *Deaths of Despair and the Future of Capitalism*. Princeton University Press, 2020. - Analysis of rising mortality from drugs, alcohol, and suicide in communities experiencing economic decline; provides the socioeconomic context for drug policy reform.
+- Szalavitz, M. *Undoing Drugs: The Untold Story of Harm Reduction and the Future of Everything*. Hachette, 2021. - History of the harm reduction movement in the United States and internationally.
+- Kleiman, M.A.R. *When Brute Force Fails: How to Have Less Crime and Less Punishment*. Princeton University Press, 2009. - Analysis of alternatives to mass incarceration including swift-certain-fair approaches to drug enforcement.
+- King, R.S. *The Drug Hang-Up: America's Fifty-Year Folly*. Charles C Thomas, 1972. - Early comprehensive critique of drug prohibition, written during the first wave of reform.
+- Domoslawski, A. *Drug Policy in Portugal: The Benefits of Decriminalizing Drug Use*. Open Society Foundations, 2011. - Independent assessment of Portugal's decriminalization by a Polish journalist.
 
 ---
 
@@ -127,13 +142,55 @@ This section provides a curated list of key research, government reports, legal 
 
 ## International Sources
 
-- European Monitoring Centre for Drugs and Drug Addiction (EMCDDA). "European Drug Report." Annual. <https://www.emcdda.europa.eu> - Comprehensive European drug data including Portugal outcomes.
-- SICAD (Portuguese General-Directorate for Intervention on Addictive Behaviours and Dependencies). Annual reports. <https://www.sicad.pt> - Official Portuguese government data on decriminalization outcomes.
-- Global Commission on Drug Policy. "Reports and Recommendations." Various years. <https://www.globalcommissionondrugs.org> - International commission reports advocating for decriminalization.
-- Transform Drug Policy Foundation. "Drug Decriminalisation in Practice." 2021. <https://transformdrugs.org> - Comparative analysis of decriminalization implementation globally.
-- OECD. "Addressing Problematic Opioid Use in OECD Countries." 2019. <https://www.oecd.org/health/addressing-problematic-opioid-use-in-oecd-countries-a18286f0-en.htm> - Cross-country analysis of opioid policy.
+- European Monitoring Centre for Drugs and Drug Addiction (EMCDDA). "European Drug Report." Annual. <https://www.emcdda.europa.eu> - Comprehensive European drug data including Portugal outcomes. The most authoritative international source on drug policy evidence.
+- SICAD (Portuguese General-Directorate for Intervention on Addictive Behaviours and Dependencies). Annual reports. <https://www.sicad.pt> - Official Portuguese government data on decriminalization outcomes, including Dissuasion Commission statistics, treatment enrollment, and drug use prevalence.
+- Global Commission on Drug Policy. "Reports and Recommendations." Various years. <https://www.globalcommissionondrugs.org> - International commission reports advocating for decriminalization; commissioners include former presidents and prime ministers of multiple countries.
+- Transform Drug Policy Foundation. "Drug Decriminalisation in Practice." 2021. <https://transformdrugs.org> - Comparative analysis of decriminalization implementation in 30+ countries globally.
+- OECD. "Addressing Problematic Opioid Use in OECD Countries." 2019. <https://www.oecd.org/health/addressing-problematic-opioid-use-in-oecd-countries-a18286f0-en.htm> - Cross-country analysis of opioid policy across developed nations.
+- World Health Organization. "Consolidated Guidelines on HIV, Viral Hepatitis, and STI Prevention, Diagnosis, Treatment and Care for Key Populations." 2022. <https://www.who.int> - WHO guidelines recommending decriminalization of drug use and possession as a public health measure.
+- United Nations Office on Drugs and Crime (UNODC). "World Drug Report." Annual. <https://www.unodc.org/wdr> - Global drug data including supply, demand, and policy comparisons.
+- International Network of Drug Consumption Rooms. Country-specific data and guidelines. <https://www.drugconsumptionrooms-research.net> - Research and data on supervised consumption sites worldwide.
+- Australian Institute of Health and Welfare. "National Drug Strategy Household Survey." Biennial. <https://www.aihw.gov.au/reports/illicit-use-of-drugs/national-drug-strategy-household-survey> - Australian drug use data, including outcomes in decriminalized jurisdictions.
+
+## Documentaries and Film
+
+- *The House I Live In* (2012). Dir. Eugene Jarecki. - Emmy-winning documentary examining the War on Drugs through personal stories and policy analysis.
+- *13th* (2016). Dir. Ava DuVernay. - Netflix documentary on the intersection of race, justice, and mass incarceration, including drug policy.
+- *Fix: The Story of an Addicted City* (2022). - Documentary on drug decriminalization in Vancouver and the supervised consumption site debate.
+- *Crack: Cocaine, Corruption and Conspiracy* (2021). Dir. Stanley Nelson. Netflix. - Documentary on the crack epidemic and its racial politics.
 
 ---
+
+## Polling and Public Opinion Sources
+
+| Source | Description | URL |
+|--------|-------------|-----|
+| Pew Research Center | Drug policy attitudes; treatment vs. prosecution preferences; annual surveys | <https://www.pewresearch.org/topic/drug-policy/> |
+| Gallup | Drug legalization and decriminalization polling; annual tracking | <https://news.gallup.com/poll/1657/illegal-drugs.aspx> |
+| AP-NORC Center for Public Affairs Research | Drug policy polling including demographic breakdowns | <https://apnorc.org> |
+| ACLU/YouGov | War on Drugs failure perceptions; racial equity attitudes | <https://www.aclu.org/issues/drug-law-reform> |
+| Data for Progress | Progressive polling on drug policy reform | <https://www.dataforprogress.org> |
+
+## State Law Databases
+
+| Resource | Description | URL |
+|----------|-------------|-----|
+| NCSL Drug Policy Database | State-by-state drug possession penalty data; updated regularly | <https://www.ncsl.org/research/civil-and-criminal-justice/drug-possession-penalties.aspx> |
+| NORML State Laws | Cannabis-specific legal status by state; includes decriminalization status | <https://norml.org/laws> |
+| LawAtlas | Policy surveillance data on drug paraphernalia, Good Samaritan, and naloxone access laws | <https://lawatlas.org> |
+| Collateral Consequences Resource Center | National inventory of collateral consequences of drug convictions by state | <https://ccresourcecenter.org> |
+| National Inventory of Collateral Consequences of Conviction (NICCC) | ABA database of 40,000+ legal consequences triggered by conviction | <https://niccc.nationalreentryresourcecenter.org> |
+
+## Oregon Measure 110 Resources
+
+Given the significance of Oregon's decriminalization experiment and reversal to national policy debates, the following resources provide comprehensive coverage:
+
+- Oregon Health Authority. "Measure 110 Implementation Reports." 2021-2024. <https://www.oregon.gov/oha/hsd/amh/pages/measure110.aspx> - Official state reports on treatment funding, BHRN deployment, and health assessment hotline data.
+- Oregon Audits Division. "Measure 110 Performance Audit." 2023. - Independent audit documenting implementation delays, funding distribution problems, and service gaps.
+- *The Oregonian / OregonLive*. "Measure 110 Investigation." 2022-2024. <https://www.oregonlive.com/measure-110/> - Comprehensive investigative coverage of implementation and reversal.
+- *The New York Times*. "The Oregon Experiment." December 2023. <https://www.nytimes.com/interactive/2023/12/29/us/oregon-drug-decriminalization.html> - Long-form investigation of Measure 110 outcomes.
+- Oregon Criminal Justice Commission. "Measure 110 Data Dashboard." - Citation data, treatment referral data, and outcome tracking.
+- Drug Policy Alliance. "Lessons from Oregon's Measure 110." 2024. - Reform organization's analysis of what went wrong and how to design better.
 
 ## Legal Resources
 
@@ -155,6 +212,38 @@ This section provides a curated list of key research, government reports, legal 
 - Oregon Measure 110 (2020) / Oregon HB 4002 (2024) - State decriminalization and recriminalization
 - Portugal Law 30/2000 - Portuguese drug decriminalization statute
 - Czech Republic Government Order No. 467/2009 - Substance-specific possession thresholds
+- Washington SB 5536 (2023) - New misdemeanor possession statute following *State v. Blake*
+- British Columbia CDSA Exemption (Health Canada, 2023) - Federal exemption for decriminalization pilot
+- Australian Capital Territory Drugs of Dependence (Personal Use) Amendment Act 2022 - Decriminalization legislation
+
+### Model Legislation and Policy Templates
+
+- Drug Policy Alliance. "Model Drug Decriminalization Act." 2021. - Template state legislation for comprehensive decriminalization with civil citation system.
+- ACLU. "Model State Marijuana Decriminalization Bill." 2018. - Cannabis-specific model legislation with racial equity provisions.
+- Uniform Law Commission. Various model acts relevant to criminal justice and public health. <https://www.uniformlaws.org>
+- National Conference of State Legislatures. "Drug Policy Overview." - Legislative tracking and analysis for state-level drug policy changes. <https://www.ncsl.org/research/civil-and-criminal-justice/drug-policy-overview.aspx>
+
+## Academic Centers and Research Programs
+
+| Institution | Center/Program | Focus | URL |
+|------------|---------------|-------|-----|
+| Johns Hopkins University | Center for Drug Safety and Effectiveness | Drug policy research, psychedelic research, drug checking | <https://www.jhsph.edu> |
+| Columbia University | Drug Use Epidemiology Group | Drug use patterns, policy evaluation, Carl Hart's lab | <https://www.columbia.edu> |
+| Stanford University | Stanford Network on Addiction Policy | Interdisciplinary drug policy research | <https://law.stanford.edu> |
+| RAND Corporation | Drug Policy Research Center | Drug policy modeling, cost-benefit analysis | <https://www.rand.org/well-being/justice-policy/centers/dprc.html> |
+| University of Washington | Addictions, Drug & Alcohol Institute | LEAD evaluation, treatment research | <https://adai.uw.edu> |
+| Brandeis University | Heller School / Prescription Drug Monitoring | PDMP research, opioid policy | <https://www.pdmpassist.org> |
+| NYU Langone | Center for Opioid Epidemiology and Policy | Overdose epidemiology, naloxone research | <https://med.nyu.edu> |
+| RTI International | Substance Use and Mental Health Program | SAMHSA contract research, treatment evaluation | <https://www.rti.org> |
+
+---
+
+## Podcasts and Audio Resources
+
+- *The Drug War* (podcast). The Appeal and The Marshall Project. - Ongoing series examining drug policy through personal stories and data analysis.
+- *Drugs and Stuff* (podcast). Drug Policy Alliance. <https://drugpolicy.org/drugsandstuff> - Interviews with researchers, advocates, and policymakers on drug reform issues.
+- *Crackdown* (podcast). British Columbia, Canada. <https://crackdownpod.com> - Produced by and for people who use drugs, offering perspectives rarely heard in mainstream drug policy discussions.
+- *Radiolab: The War We Don't See*. WNYC Studios. - Episode examining the origins and consequences of drug prohibition in the United States.
 
 ---
 

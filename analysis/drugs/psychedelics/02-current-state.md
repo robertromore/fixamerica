@@ -246,6 +246,67 @@ Conventional psychiatric treatments fail a substantial share of patients:
 
 ---
 
+## Ketamine Clinic Industry
+
+### Current Landscape
+
+Ketamine -- a Schedule III dissociative anesthetic approved by the FDA for anesthesia in 1970 -- has become the de facto first legal psychedelic-type therapy in the United States through off-label prescribing for depression. The ketamine clinic industry provides important lessons and cautionary precedents for the emerging psychedelic therapy sector.
+
+| Metric | Value | Source |
+|---|---|---|
+| Ketamine clinics operating in the U.S. | ~800 | American Society of Ketamine Physicians, 2024 |
+| FDA-approved ketamine product for depression | Esketamine (Spravato), approved 2019 | FDA, 2019 |
+| Spravato (esketamine) annual sales | ~$900 million (2023) | Johnson & Johnson annual report, 2024 |
+| Cost per ketamine IV infusion | $400-$800 | Industry surveys, 2024 |
+| Cost per Spravato treatment session | $600-$900 (covered by some insurance) | CMS pricing data, 2024 |
+| Typical treatment course | 6 infusions over 2-3 weeks (IV); twice weekly for 4 weeks (Spravato) | Clinical guidelines |
+| Telehealth ketamine prescribing companies | 10+ (including Mindbloom, Nue Life) | Industry reports, 2024 |
+
+### Regulatory Gaps and Safety Concerns
+
+The ketamine clinic industry has exposed significant regulatory gaps that are directly relevant to psychedelic therapy policy:
+
+- **No standardized therapy protocols**: IV ketamine infusion clinics operate without FDA-mandated therapy guidelines. Some clinics provide integration therapy; many do not. Treatment quality varies enormously.
+- **At-home unsupervised use**: Telehealth companies have prescribed compounded ketamine lozenges and nasal sprays for at-home use without in-person supervision, leading to reports of adverse events including the death of actor Matthew Perry in October 2023 from acute ketamine effects
+- **DEA enforcement actions**: In 2024, the DEA began investigating telehealth ketamine prescribing practices, and several states tightened regulations on at-home ketamine prescriptions
+- **No mandatory adverse event reporting**: Unlike FDA-approved clinical trials, off-label ketamine clinics have no mandatory adverse event reporting system, making it impossible to assess the true safety profile of the industry
+- **Insurance coverage inconsistency**: IV ketamine infusions are generally not covered by insurance (off-label use); Spravato is covered by some plans but requires administration in a certified healthcare facility under REMS
+
+### Lessons for Psychedelic Policy
+
+The ketamine experience demonstrates several principles that should inform psychedelic therapy regulation:
+
+1. **Demand exists**: Patients are willing to pay significant out-of-pocket costs for novel psychoactive therapies, confirming the unmet need
+2. **Off-label prescribing creates regulatory gaps**: Without proactive federal regulation, market forces will create access channels that prioritize revenue over safety
+3. **Therapy context matters**: The clinical evidence for ketamine and psychedelics is strongest when substances are administered with psychological support, but market incentives favor cheaper, less supervised delivery
+4. **Standardization is essential**: The wide variation in ketamine clinic quality argues for mandatory training standards, therapy protocols, and adverse event reporting for psychedelic therapy
+
+---
+
+## Congressional and Federal Legislative Activity
+
+### Current Federal Legislation
+
+Several bills have been introduced in Congress related to psychedelic therapy and research:
+
+| Bill | Sponsor | Status (2024) | Key Provisions |
+|---|---|---|---|
+| Breakthrough Therapies Act | Sen. Cory Booker (D-NJ) / Sen. Rand Paul (R-KY) | Introduced 2023; committee | Require expedited DEA scheduling review for substances with FDA Breakthrough Therapy designation |
+| Right to Try Clarification Act (psychedelics) | Rep. Dan Crenshaw (R-TX) | Introduced 2023; committee | Clarify that federal Right to Try Act applies to psychedelic therapies with FDA Breakthrough designation |
+| Psychedelic Therapy Research Act | Bipartisan sponsors | Introduced 2024; committee | Appropriate funding for VA and NIH psychedelic research |
+| MDMA Therapy Access Act | Sen. Ted Cruz (R-TX) / Sen. Kirsten Gillibrand (D-NY) | Introduced 2024; committee | Expand access to MDMA-assisted therapy for veterans through VA |
+| Strategic Prevention of Overdoses and Expanding Research (SPORES) Act | Various sponsors | Committee review | Include psychedelic research in broader drug research funding |
+
+### Bipartisan Dynamics
+
+Psychedelic policy reform has attracted unusual bipartisan support, driven primarily by the veteran constituency:
+
+- **Conservative support**: Sen. Rand Paul (R-KY), Sen. Ted Cruz (R-TX), and Rep. Dan Crenshaw (R-TX) have co-sponsored psychedelic research or access bills, framing reform around veteran care, medical innovation, and limited government
+- **Progressive support**: Sen. Cory Booker (D-NJ), Sen. Kirsten Gillibrand (D-NY), and Rep. Alexandria Ocasio-Cortez (D-NY) have supported research funding and decriminalization measures
+- **American Legion**: The nation's largest veterans organization passed Resolution 11 in 2022 calling on Congress to remove barriers to psychedelic research for veterans
+
+---
+
 ## Emerging Challenges
 
 ### Market and Investment Dynamics
@@ -260,14 +321,36 @@ As public awareness of psychedelic therapy has grown, so has unregulated use:
 - **Retreat tourism**: Americans travel to Jamaica, Costa Rica, Peru, and Mexico for psychedelic experiences with varying quality and safety standards
 - **Self-medication**: Growing numbers of individuals microdose or use psychedelics without clinical guidance, with limited safety data on long-term effects
 
+### Workforce and Training Gaps
+
+The psychedelic therapy workforce is critically insufficient for scaled access:
+
+- **Oregon facilitators**: Approximately 300 licensed psilocybin facilitators have completed Oregon's 120-160 hour training program, serving the entire state
+- **No national certification**: No federal or nationally recognized certification standard exists for psychedelic therapists
+- **Training pipeline**: Only a handful of institutions offer psychedelic therapy training (California Institute of Integral Studies, Naropa University, MAPS training program). Most programs are not accredited by mainstream medical or psychological accreditation bodies
+- **Existing clinician interest**: Surveys indicate that 60-70% of mental health professionals want to learn about psychedelic therapy, but fewer than 5% have received any formal training (Psychedelic Science Survey, APA, 2023)
+- **Diversity gap**: The psychedelic therapy training pipeline is predominantly white and urban, mirroring existing mental health workforce disparities
+
+### Patent and Intellectual Property Landscape
+
+Patent controversies are shaping the structure of the emerging psychedelic therapy industry:
+
+- **Compass Pathways patents**: Compass Pathways (backed by Peter Thiel) has filed extensive patents on psilocybin therapy protocols, including patents on room furniture, music playlists, and hand-holding during sessions. Critics argue these patents on fundamental therapeutic elements could create monopoly pricing and block competitors
+- **Freedom to Operate**: Usona Institute operates on a public benefit model and has not pursued patents on psilocybin itself (a naturally occurring compound), but its delivery methods may be subject to others' patent claims
+- **Patent challenges**: Organizations including Porta Sophia and the Microdose Institute have filed patent challenges (inter partes review petitions) against psychedelic therapy patents, arguing they cover obvious or previously known methods
+- **Policy implications**: The patent landscape will significantly influence the cost and accessibility of psychedelic therapy. Broad patents could enable monopoly pricing; weak patent protection could reduce investment in clinical development
+
 ### Safety Considerations
 
 While psychedelics have a favorable physiological safety profile (low toxicity, no established lethal dose for psilocybin or LSD), psychological risks require careful management:
 
-- **Adverse psychological reactions**: Anxiety, paranoia, psychotic episodes (rare but documented, especially in individuals with personal or family history of psychotic disorders)
-- **Therapist misconduct**: Reports of sexual abuse and boundary violations in underground and clinical psychedelic therapy settings
-- **Cardiac risk (MDMA)**: MDMA carries cardiovascular risks including tachycardia and hypertension, particularly for individuals with pre-existing cardiac conditions
-- **Serotonin syndrome**: Risk with MDMA when combined with SSRIs, MAOIs, or other serotonergic drugs
+- **Adverse psychological reactions**: Anxiety, paranoia, psychotic episodes (rare but documented, especially in individuals with personal or family history of psychotic disorders). The incidence of serious adverse psychological events in modern clinical trials is approximately 1-3% (Schlag et al., *Psychopharmacology*, 2022)
+- **Hallucinogen persisting perception disorder (HPPD)**: A rare condition involving persistent visual disturbances after psychedelic use. Estimated prevalence is 1-5% of psychedelic users, though methodological challenges make precise estimates difficult (Halpern and Pope, *Drug and Alcohol Dependence*, 2003)
+- **Therapist misconduct**: Reports of sexual abuse and boundary violations in underground and clinical psychedelic therapy settings. A 2023 investigation by *New York Magazine* documented multiple cases of sexual abuse by underground psychedelic therapists, and the MAPS MDMA trials were the subject of allegations about inadequate responses to therapist boundary violations
+- **Cardiac risk (MDMA)**: MDMA carries cardiovascular risks including tachycardia and hypertension, particularly for individuals with pre-existing cardiac conditions. Clinical trials exclude participants with significant cardiovascular disease
+- **Serotonin syndrome**: Risk with MDMA when combined with SSRIs, MAOIs, or other serotonergic drugs. Clinical protocols require participants to taper off SSRIs before MDMA sessions, creating a clinically vulnerable window
+- **Contraindicated populations**: Individuals with personal or family history of psychotic disorders (schizophrenia, schizoaffective disorder, bipolar I) are excluded from clinical trials and should not receive psychedelic therapy. This represents a significant subpopulation that will not benefit from these treatments
+- **Retraumatization risk**: MDMA-assisted therapy for PTSD involves revisiting traumatic memories in an altered state. Without skilled therapeutic guidance, there is a risk of retraumatization rather than resolution
 
 ---
 

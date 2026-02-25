@@ -13,6 +13,8 @@ Youth drug prevention requires a multi-faceted approach that aims to replace the
 - **Universal access with targeted intensity**: All youth receive universal prevention; those at elevated risk receive additional targeted services
 - **Continuous adaptation**: Prevention systems must have mechanisms to respond to emerging threats (new substances, new delivery systems, new social media dynamics) within months, not years
 - **Integration**: Prevention must be integrated with mental health services, family support, and community development rather than operating as a standalone activity
+- **Equity**: Prevention resources must be distributed based on need, with targeted investment in populations with the highest rates of substance use and the least access to evidence-based programming
+- **Accountability**: Prevention funding must be tied to measurable outcomes, with regular independent evaluation and public reporting
 
 ### Theory of Change
 
@@ -66,7 +68,7 @@ If the federal government establishes meaningful evidence standards for preventi
 
 **Timeline**: Standards development in Year 1; first cohort of trainees in Year 2; target of 10,000 additional Certified Prevention Specialists by Year 5.
 
-**Challenges**: State-level variation in certification; competition with other health workforce priorities; recruitment challenges in rural and underserved areas.
+**Challenges**: State-level variation in certification; competition with other health workforce priorities; recruitment challenges in rural and underserved areas; salary competitiveness (prevention specialists earn significantly less than comparable health and education professionals).
 
 **Impact Metrics**: Number of Certified Prevention Specialists nationally; implementation fidelity scores for funded programs; prevention specialist-to-youth ratios by state.
 
@@ -92,7 +94,7 @@ If the federal government establishes meaningful evidence standards for preventi
 
 **Evidence Base**: The CRAFFT screening tool has been validated for adolescent populations with sensitivity of 76% and specificity of 94% for identifying substance use problems (Knight et al., 2002; updated validation, 2023). SBIRT in adult primary care settings has demonstrated reductions in alcohol and drug use of 20-30% (SAMHSA, 2023). The American Academy of Pediatrics recommends universal substance use screening for adolescents at well-child visits beginning at age 12, but compliance rates are below 50% (AAP, 2023).
 
-**Implementation**: CMS would issue guidance requiring Medicaid/CHIP coverage of adolescent SBIRT. HRSA would provide training and technical assistance to pediatric practices and Federally Qualified Health Centers. The Department of Education would fund school-based health centers to implement SBIRT protocols.
+**Implementation**: CMS would issue guidance requiring Medicaid/CHIP coverage of adolescent SBIRT. HRSA would provide training and technical assistance to pediatric practices and Federally Qualified Health Centers. The Department of Education would fund school-based health centers to implement SBIRT protocols. Electronic health record (EHR) systems would integrate CRAFFT screening prompts into well-child visit workflows to increase provider compliance.
 
 **Cost/Resources**: $75 million annually for training, technical assistance, and school-based implementation; SBIRT reimbursement at $28-68 per encounter (existing Medicaid billing codes).
 
@@ -134,6 +136,22 @@ If the federal government establishes meaningful evidence standards for preventi
 
 **Impact Metrics**: Student fentanyl risk knowledge (pre/post assessment); naloxone availability in schools; adolescent overdose death rates.
 
+### Solution 8: Integrated Prevention and Mental Health Services
+
+**Description**: Integrate substance use prevention with school-based mental health services, recognizing the strong co-occurrence of mental health problems and substance use risk in adolescents. This includes: (1) training school counselors and psychologists in both mental health and substance use screening and intervention; (2) adopting prevention curricula that address both domains simultaneously; (3) establishing Behavioral Health Teams in schools that coordinate prevention, screening, early intervention, and referral; (4) expanding school-based mental health clinicians from the current average of 1:385 to the recommended 1:250 ratio.
+
+**Evidence Base**: CDC YRBS data (2023) shows that 43% of high school students report persistent feelings of sadness or hopelessness, and research consistently demonstrates that depression and anxiety are among the strongest predictors of adolescent substance use initiation (SAMHSA, 2023). Prevention programs that address both mental health and substance use (such as the PAX Good Behavior Game, which reduces both behavioral problems and later substance use) produce broader effects than substance-specific programs alone. The National Research Council (2009) recommended integrating prevention across behavioral domains rather than addressing each separately.
+
+**Implementation**: Department of Education would fund school-based Behavioral Health Teams through Title IV-A and a new dedicated appropriation. SAMHSA would develop integrated prevention-mental health training modules. HRSA would expand the Behavioral Health Workforce Education and Training program to include school-based prevention specialists.
+
+**Cost/Resources**: $250 million annually for school-based mental health-prevention integration; included within the broader prevention funding increase.
+
+**Timeline**: Training development in Year 1; pilot implementation in Year 2; scaling to 50% of schools by Year 5.
+
+**Challenges**: School counselor caseload ratios; competing mental health and academic priorities; workforce shortages in both mental health and prevention; coordination across school and community services.
+
+**Impact Metrics**: School counselor caseload ratios; adolescent mental health screening rates; co-occurring mental health and substance use early identification rates; referral-to-service conversion rates.
+
 ---
 
 ## International Models
@@ -162,6 +180,14 @@ If the federal government establishes meaningful evidence standards for preventi
 
 **Applicability to U.S.**: The Dutch model demonstrates that pragmatic, non-moralistic prevention can be effective -- countering the argument that only abstinence-based messaging works. The integration of substance prevention with broader health education is a model for U.S. school-based prevention. However, cultural differences in attitudes toward adolescent risk-taking limit direct transferability of messaging approaches.
 
+### Canada: School-Based Prevention Standards
+
+**Description**: Several Canadian provinces, particularly British Columbia and Ontario, have implemented evidence-based prevention standards for school-based programming. British Columbia's School-Based Prevention Standards require that funded programs meet criteria established by the Canadian Centre on Substance Use and Addiction (CCSA). The Canadian Standards for Youth Drug Prevention provide a national framework for evidence-based program selection.
+
+**Results**: Canadian adolescent substance use rates are generally comparable to or lower than U.S. rates, with notable success in reducing youth cigarette smoking to under 3% (Health Canada, 2023).
+
+**Applicability to U.S.**: Canada's provincial model of evidence-based prevention standards within a federal system is directly relevant to U.S. state-level reform efforts. The CCSA's approach to culturally adapted prevention for Indigenous populations provides a model for addressing similar needs in U.S. Native American communities.
+
 ---
 
 ## Pilot Programs and Demonstrations
@@ -170,6 +196,8 @@ If the federal government establishes meaningful evidence standards for preventi
 - **PROSPER (Iowa/Pennsylvania)**: The PROSPER delivery system, developed at Penn State and Iowa State, uses university Extension partnerships to deliver both school-based and family-based evidence-based programs in rural communities. Trials show 10-20% reductions in substance use initiation sustained over 6.5 years (Spoth et al., 2017).
 - **Colorado Prevention Funding Model**: Colorado dedicates $10 million annually from cannabis tax revenue to youth prevention, providing a sustainable state-level funding model. Early results show increased implementation of evidence-based programs in funded communities.
 - **Good Behavior Game (Baltimore)**: The most striking prevention evidence comes from a randomized trial of the Good Behavior Game delivered in first-grade classrooms in Baltimore public schools. Follow-up at ages 19-21 showed nearly 50% reductions in drug and alcohol abuse disorders among the intervention group (Kellam et al., 2008).
+- **FDA "Real Cost" Campaign**: The FDA's mass media campaign targeting youth tobacco and vaping prevented an estimated 350,000-590,000 young people from initiating smoking (FDA, 2022). The campaign demonstrates that well-designed digital and media prevention efforts can produce measurable population-level effects.
+- **Planet Youth Pilots (International)**: Over 35 communities outside Iceland have begun implementing the Planet Youth model, including communities in Ireland, Lithuania, Chile, and Mexico. Early results from these diverse contexts will inform U.S. adaptability assessment.
 
 ## Sequencing and Prioritization
 
@@ -179,6 +207,7 @@ If the federal government establishes meaningful evidence standards for preventi
 - Deploy fentanyl awareness education modules to all middle and high schools
 - Expand naloxone availability in school nurse offices nationwide
 - Launch FDA enforcement action against social media marketing of vaping products to minors
+- Issue CMS guidance on Medicaid/CHIP coverage of adolescent SBIRT
 
 ### Medium-term Reforms (2-5 years)
 
@@ -186,6 +215,7 @@ If the federal government establishes meaningful evidence standards for preventi
 - Triple federal prevention appropriations to $1.5 billion annually
 - Build out prevention workforce with 10,000 additional Certified Prevention Specialists
 - Expand Drug-Free Communities program from ~700 to 2,000 coalitions
+- Integrate substance use prevention with school-based mental health services
 
 ### Long-term Transformation (5-10 years)
 
@@ -193,6 +223,7 @@ If the federal government establishes meaningful evidence standards for preventi
 - Establish universal adolescent SBIRT in pediatric and school-based health settings
 - Adapt and scale community-wide Planet Youth-style prevention models in 500+ communities
 - Develop and validate digital prevention interventions for social media platforms
+- Establish continuous quality improvement and rapid response infrastructure for emerging substance threats
 
 ## Complementary Policies
 
@@ -200,6 +231,7 @@ If the federal government establishes meaningful evidence standards for preventi
 - **Tobacco and nicotine regulation**: FDA regulation of vaping products, including flavor restrictions, marketing enforcement, and product standards, is essential for reducing adolescent nicotine initiation. See [Tobacco/Nicotine: Solutions](../tobacco-nicotine/07-solutions.md).
 - **Social media regulation**: Platform accountability for facilitating drug sales to minors and exposing youth to substance marketing requires legislative action beyond prevention-specific policy. See [Technology: Overview](../../technology/01-overview.md).
 - **Poverty and community investment**: Addressing the social determinants that increase substance use risk -- poverty, housing instability, community violence -- requires investment beyond the prevention system. See [Social: Overview](../../social/01-overview.md).
+- **Juvenile justice reform**: Youth in the juvenile justice system have the highest rates of substance use disorders. Prevention must be integrated into diversion and re-entry programs. See [Justice: Juvenile Justice](../../justice/juvenile-justice/01-overview.md).
 
 ---
 

@@ -43,10 +43,21 @@ Citizen engagement is essential to reforming the serious mental illness system. 
 
 ### Build Coalitions
 
-- Connect family advocacy groups (NAMI affiliates) with law enforcement leaders (police chiefs, sheriffs) who see the consequences of untreated SMI daily. This family-law enforcement coalition is the most politically powerful force for SMI reform.
-- Partner with local housing organizations, homeless service providers, and faith communities to advocate for permanent supportive housing in your area.
-- Engage local business associations and chambers of commerce, framing SMI treatment as a public safety and economic development issue.
-- Coordinate with reentry programs at local jails and prisons to support people with SMI transitioning out of incarceration.
+- Connect family advocacy groups (NAMI affiliates) with law enforcement leaders (police chiefs, sheriffs) who see the consequences of untreated SMI daily. This family-law enforcement coalition is the most politically powerful force for SMI reform. When a parent and a sheriff testify together before a state legislature, the combination of personal anguish and professional authority is compelling to legislators across the political spectrum.
+- Partner with local housing organizations, homeless service providers, and faith communities to advocate for permanent supportive housing in your area. Research from the Furman Center at NYU (2022) shows that supportive housing does not reduce neighboring property values -- share this data proactively with community members concerned about proposed developments.
+- Engage local business associations and chambers of commerce, framing SMI treatment as a public safety and economic development issue. Downtown business districts in cities like San Francisco, Portland, Seattle, and Los Angeles have experienced significant economic impacts from visible homelessness linked to untreated SMI, creating business community interest in treatment solutions.
+- Coordinate with reentry programs at local jails and prisons to support people with SMI transitioning out of incarceration. Contact your county sheriff's office to ask whether they have a mental health transition program and what community organizations are involved.
+- Engage local hospital administrators and emergency department directors. ED physicians are among the strongest advocates for psychiatric reform because they experience the consequences of the bed shortage daily. Ask your local hospital to share data on ED psychiatric boarding hours (many are required to report this to state agencies).
+
+### Advocate at the Local Government Level
+
+Local governments make critical decisions that directly affect people with SMI:
+
+- **Zoning**: Attend city council and planning commission meetings when supportive housing or mental health facility proposals are on the agenda. Provide testimony supporting these developments and countering NIMBYist arguments with research.
+- **911/988 Integration**: Advocate with your city or county government for co-located 911 and 988 dispatch or for routing mental health calls directly to crisis teams rather than police. Several cities (Denver, Portland, Austin) have implemented alternative dispatch models that can serve as examples.
+- **County Jail Mental Health**: Attend county board of supervisors meetings and ask for data on the number of people with SMI in the county jail, the cost of their incarceration, and what diversion programs exist. Many counties have no data on these questions, and requesting it forces attention to the issue.
+- **Community Mental Health Center Funding**: Many community mental health centers receive county funding. Attend budget hearings and advocate for increased local mental health funding, citing the cost-effectiveness data showing that treatment saves money in emergency and criminal justice services.
+- **Continuum of Care Governance**: HUD's Continuum of Care (CoC) boards allocate federal homelessness funding locally. These boards are open to community members, and participation allows you to advocate for prioritizing people with SMI in housing allocation decisions.
 
 ---
 
@@ -64,7 +75,7 @@ Citizen engagement is essential to reforming the serious mental illness system. 
 
 **What to Say -- Template Email**:
 
-```
+```text
 Subject: Invest in Treatment for Serious Mental Illness
 
 Dear [Representative/Senator] [Last Name],
@@ -100,7 +111,7 @@ Sincerely,
 
 **What to Say -- Phone Call Script**:
 
-```
+```text
 "Hello, my name is [Name] and I'm a constituent from [City]. I'm calling to
 urge [Representative/Senator] [Last Name] to support full funding for the
 988 crisis system and expansion of community behavioral health clinics for
@@ -128,12 +139,26 @@ Current or proposed legislation to support:
 3. "What is your position on reforming the Medicaid IMD exclusion to allow treatment in psychiatric facilities with more than 16 beds?"
 4. "Do you support expanding Certified Community Behavioral Health Clinics (CCBHCs) as a permanent Medicaid benefit?"
 5. "How will you address the psychiatric workforce shortage -- 60% of U.S. counties have no practicing psychiatrist?"
+6. "Do you support Medicaid re-entry coverage so that people with SMI leaving jail or prison have insurance and a treatment appointment on day one?"
+7. "What is your position on expanding coordinated specialty care for first-episode psychosis? Currently only 6% of eligible young people receive this evidence-based early intervention."
 
 **Voting Considerations**:
 
-- Look for candidates who distinguish between "mental health" broadly and "serious mental illness" specifically -- SMI policy requires different solutions than general mental wellness
+- Look for candidates who distinguish between "mental health" broadly and "serious mental illness" specifically -- SMI policy requires different solutions than general mental wellness. When a candidate says "we need more mental health resources," ask what they mean for people with schizophrenia who cannot recognize their illness.
 - Identify candidates who serve on key committees: Senate HELP Committee, House Energy and Commerce Committee, and Appropriations subcommittees for Labor-HHS-Education
 - Support candidates who acknowledge the role of anosognosia and the need for involuntary treatment pathways alongside voluntary services
+- Evaluate candidates' records on Medicaid: expansion, reimbursement rates, managed care oversight, and willingness to challenge the IMD exclusion
+- Check whether candidates have personal connections to SMI (family members, professional experience) -- historically, the most effective champions for SMI legislation have been those with direct experience, such as Representative Tim Murphy (R-PA, psychologist) and Senator Gordon Smith (R-OR, whose son died by suicide)
+
+### State Legislative Priorities
+
+Mental health policy is heavily shaped at the state level. Key state legislative priorities to advocate for:
+
+- **Civil commitment reform**: Advocate for adding a "need for treatment" or "gravely disabled" standard alongside the "imminent danger" standard for civil commitment. Only 7 states currently include criteria that allow intervention before a person reaches crisis (TAC, 2024). This reform allows earlier intervention for people who are deteriorating but have not yet become dangerous.
+- **AOT implementation funding**: If your state has an AOT law (47 states do), advocate for the state legislature to appropriate dedicated funding for AOT services. An AOT law without funded services is an empty mandate.
+- **Medicaid reimbursement increases**: Advocate for state Medicaid agencies to increase reimbursement rates for psychiatric services to at least 80% of Medicare rates. Low Medicaid reimbursement is the single largest driver of psychiatrist non-participation in public insurance.
+- **State mental health budget increases**: Advocate for increased per capita state mental health spending, particularly in the 10 states spending below $80 per capita (NASMHPD, 2023). Use the comparison data to show where your state ranks nationally.
+- **Clozapine access programs**: Advocate for state-level clozapine support programs, including point-of-care testing at community mental health centers, telepsychiatry consultation for prescribers, and clozapine prescriber training requirements in residency programs.
 
 ---
 
@@ -145,7 +170,10 @@ Current or proposed legislation to support:
 - **For Attorneys**: Volunteer with legal aid organizations representing people in civil commitment and AOT proceedings. Advocate for due process protections and access to counsel in your state's mental health courts.
 - **For Educators**: Learn to recognize early signs of psychosis in students (typically emerges ages 16-25). Develop referral pathways to local first-episode psychosis programs (CSC teams). Advocate for school-based mental health services.
 - **For Employers**: Implement supportive employment programs for people with SMI. The Individual Placement and Support (IPS) model achieves 50-60% competitive employment rates for people with schizophrenia.
-- **For Researchers**: Prioritize implementation science -- how to translate evidence-based practices into routine clinical settings. Study racial and ethnic disparities in SMI diagnosis and treatment. Evaluate state-level variation in AOT implementation and outcomes.
+- **For Researchers**: Prioritize implementation science -- how to translate evidence-based practices into routine clinical settings. Study racial and ethnic disparities in SMI diagnosis and treatment. Evaluate state-level variation in AOT implementation and outcomes. Conduct cost-effectiveness analyses that translate clinical outcomes into fiscal impact data that resonates with legislators and budget offices.
+- **For Journalists**: Investigate the local dimensions of the SMI crisis in your community. Request data from your county jail on the number of inmates receiving psychiatric medication, from your local hospitals on ED psychiatric boarding hours, and from your city's homelessness continuum on the SMI rate among people experiencing chronic homelessness. These local data points make the national crisis tangible and actionable.
+- **For Faith Leaders**: Educate your congregation about serious mental illness, emphasizing that SMI is a medical condition, not a spiritual failing. Offer your facilities for NAMI support group meetings. Partner with local mental health providers to create referral pathways for congregants in crisis. The Faith-Based Mental Health Initiative, operated by NAMI FaithNet, provides training and resources for religious leaders.
+- **For City Council Members and County Supervisors**: Request a presentation from your local community mental health center director on the state of SMI services in your jurisdiction. Ask for data on unmet need, waitlists, and outcomes. Advocate for local zoning policies that facilitate supportive housing development. Support 911/988 integration in your jurisdiction's dispatch system.
 
 ---
 
@@ -187,6 +215,15 @@ Current or proposed legislation to support:
 - **Madness and Medicine**: Exploration of psychiatric treatment, history, and policy debate -- available on major podcast platforms
 - **STAT News -- Mental Health Coverage**: Leading health news outlet with dedicated mental health reporting -- <https://www.statnews.com/category/mental-health/>
 
+### Annual Events and Advocacy Days
+
+- **Mental Health Awareness Month (May)**: The most visible advocacy window of the year. Coordinate local events, write op-eds, and contact elected officials during this month for maximum impact.
+- **Schizophrenia Awareness Day (May 24)**: Focused awareness day for the diagnosis most closely associated with SMI policy challenges. TAC and NAMI both organize events.
+- **National Day Without Stigma (October)**: Organized by NAMI, this event focuses on reducing stigma through storytelling and community engagement.
+- **NAMI Congressional Hill Day (typically March)**: Annual event where NAMI members from across the country travel to Washington, D.C., to meet with their members of Congress. Participation is open to all NAMI members.
+- **988 Anniversary (July 16)**: The anniversary of the 988 Lifeline launch provides an annual opportunity to assess progress and advocate for sustained funding.
+- **World Mental Health Day (October 10)**: International observance that provides a hook for media coverage and advocacy events.
+
 ---
 
 ## Advocacy Toolkit
@@ -210,6 +247,18 @@ When discussing serious mental illness policy with others, emphasize:
 | "We closed the asylums, so the problem is solved" | State psychiatric hospitals went from 559,000 patients (1955) to 37,000 (2016). The community care that was supposed to replace them was never built at scale. | Treatment Advocacy Center, 2020 |
 | "Mental health treatment is too expensive" | The cost of NOT treating SMI -- emergency rooms, jails, shelters, lost productivity -- exceeds $200 billion annually. Treatment is the cost-effective option. | SAMHSA, 2023; Insel, 2022 |
 | "Assisted outpatient treatment is forced medication" | AOT is a court-ordered treatment plan, not forced injection. Non-compliance typically leads to evaluation, not jail. AOT includes due process protections including judicial hearings and legal representation. | Swartz et al., 2022 |
+| "Clozapine is too dangerous to prescribe" | Clozapine reduces all-cause mortality by 26% and suicide by ~80% compared to other antipsychotics. The risk of agranulocytosis (1-2%) is managed through blood monitoring. Far more lives are lost to untreated psychosis than to clozapine side effects. | Tiihonen et al., *Lancet*, 2009; Meltzer et al., 2003 |
+| "Housing First means giving people homes without accountability" | Housing First provides housing without requiring sobriety or treatment compliance as preconditions, but it actively offers support services. The model achieves 85% housing retention rates because stable housing enables treatment engagement, not the reverse. | Tsemberis, *Housing First*, 2010 |
+
+### How to Have Productive Conversations About SMI
+
+When discussing serious mental illness with skeptical friends, family, or community members:
+
+1. **Start with common ground**: Most people agree that jailing people for being sick is wrong. Begin there and work forward to solutions.
+2. **Use specific numbers, not abstractions**: "383,000 people with serious mental illness are in our jails right now -- that is 10 times the number in psychiatric hospitals" is more powerful than "mental health funding is inadequate."
+3. **Distinguish SMI from general mental health**: Many people's mental model of "mental illness" is anxiety or mild depression. Explain that schizophrenia involves losing contact with reality, that anosognosia means the person cannot recognize they are sick, and that these conditions require medical intervention -- not just self-care.
+4. **Acknowledge legitimate concerns**: When someone raises fears about violence or coercion, acknowledge that these concerns have historical basis while providing the data showing that treatment (not punishment) reduces both violence and coercion.
+5. **Connect it to what people care about**: For conservatives, emphasize public safety and fiscal responsibility. For progressives, emphasize racial equity, housing, and the failure of the current system to protect vulnerable people. For libertarians, emphasize that the current system costs more and produces worse outcomes than market-oriented alternatives like voucher-based housing and insurance portability.
 
 ---
 

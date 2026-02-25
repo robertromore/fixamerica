@@ -162,14 +162,54 @@ Expanding drug court access to more eligible defendants, improving treatment qua
 
 **Applicability to U.S.**: The UK experience suggests that judicial supervision (a distinguishing feature of drug courts) adds value beyond simply ordering treatment. This has implications for the debate about whether drug courts or probation-based treatment mandates are more effective.
 
+### Portugal: Decriminalization with Commission-Based Diversion
+
+**Description**: Portugal decriminalized personal drug possession in 2001, replacing criminal prosecution with referral to "Commissions for the Dissuasion of Drug Addiction" (CDTs). These commissions -- composed of a social worker, a legal advisor, and a health professional -- assess individuals found with personal-use quantities and recommend treatment, counseling, or administrative sanctions (fines, suspension of professional licenses). The model does not involve courts.
+
+**Results**: Portugal's approach has been extensively studied. HIV infections among people who inject drugs declined by over 90% between 2001 and 2017. Overdose deaths remain among the lowest in Europe (6 per million population vs. EU average of 23.7 in 2021). Drug use rates have not increased significantly. The CDT system processes approximately 25,000-30,000 cases annually.
+
+**Applicability to U.S.**: Portugal's model demonstrates that a non-criminal, administrative diversion system can work effectively at scale. However, Portugal's success is inseparable from its universal healthcare system, which provides free drug treatment to all residents. Transplanting the Portuguese model to the U.S. without comparable treatment infrastructure risks replicating the failures of Oregon's Measure 110 rather than Portugal's success.
+
+### New Zealand: Alcohol and Other Drug Treatment Courts
+
+**Description**: New Zealand established Alcohol and Other Drug Treatment (AODT) Courts in Auckland (2012) and Waitakere (2012), modeled closely on the U.S. drug court framework but adapted for New Zealand's legal system and bicultural (Maori/Pakeha) context. The courts incorporate tikanga Maori (Maori customary practices) and address the disproportionate representation of Maori in the criminal justice system.
+
+**Results**: A 2016 evaluation by the Ministry of Justice found that AODT court participants were 11% less likely to be reconvicted and 50% less likely to be reimprisoned than comparison group members. Maori-specific programming improved engagement among Maori participants.
+
+**Applicability to U.S.**: New Zealand's cultural adaptation for Indigenous populations provides a useful model for strengthening tribal healing-to-wellness courts and addressing the cultural needs of Native American participants in U.S. drug courts.
+
+## International Comparison Summary
+
+| Country | Model Type | Key Feature | Treatment Retention | Recidivism Reduction | Universal Healthcare |
+|---|---|---|---|---|---|
+| United States | Court-supervised treatment | Judicial monitoring, graduated sanctions | 72% at 12 months | 8-14 percentage points | No |
+| Australia (NSW) | Court-supervised treatment | Integrated with public health system | ~60% | 17% lower reconviction | Yes |
+| Canada | Court-supervised treatment | Harm reduction integration | 55% graduation | 36% reconviction reduction | Yes |
+| United Kingdom | Probation-based treatment | NHS-provided treatment | ~40% completion | 20% reoffending reduction | Yes |
+| Portugal | Administrative commission | Decriminalization + CDT referral | Varies (voluntary) | N/A (not court-based) | Yes |
+| New Zealand | Court-supervised treatment | Maori cultural integration | ~55% | 11% reconviction reduction | Yes |
+
+A consistent finding across international comparisons is that drug courts (or their equivalents) perform better in systems with universal healthcare, which provides a treatment infrastructure that is not dependent on court funding or grant cycles. This observation underscores the importance of Medicaid expansion and healthcare system integration as complementary policies for U.S. drug court reform.
+
 ---
 
 ## Pilot Programs and Demonstrations
 
-- **LEAD (Law Enforcement Assisted Diversion), Seattle, WA**: Launched 2011, independently evaluated, now replicated in 80+ jurisdictions. Demonstrates pre-arrest diversion as a complement to drug courts.
-- **Hawaii's Opportunity Probation with Enforcement (HOPE)**: Developed by Judge Steven Alm in Honolulu, HOPE uses swift, certain, and proportionate sanctions for probation violations. Evaluated by RAND (2016) with mixed but instructive results for graduated sanctions design in drug courts.
-- **Tulsa County, OK -- Expanded Eligibility Pilot**: Expanded drug court eligibility to include individuals with violent offense histories (excluding current violent charges). Early results show comparable recidivism reduction without increased public safety incidents.
-- **Hennepin County, MN -- Equity-Focused Drug Court**: Implemented culturally responsive treatment, removed prosecutor-controlled referral, and adopted equity-specific outcome monitoring. Has reduced Black-white graduation rate gap by 6 percentage points.
+- **LEAD (Law Enforcement Assisted Diversion), Seattle, WA**: Launched 2011, independently evaluated by Collins et al. (2017), now replicated in 80+ jurisdictions across 30 states. Demonstrates pre-arrest diversion as a complement to drug courts. LEAD participants were 58% less likely to be rearrested, 60% more likely to have stable housing, and 33% more likely to be employed than comparison group members. Cost per participant is $800-$1,500 annually, significantly less than drug court ($5,000-$11,000). LEAD is now considered the gold standard for pre-arrest diversion, though it requires strong law enforcement buy-in and community-based case management infrastructure.
+
+- **Hawaii's Opportunity Probation with Enforcement (HOPE)**: Developed by Judge Steven Alm in Honolulu, HOPE uses swift, certain, and proportionate sanctions for probation violations. The HOPE model was evaluated by RAND (2016) in a multi-site randomized controlled trial (HOPE DEM II) with mixed results -- the approach reduced positive drug tests but did not significantly reduce recidivism in the expanded sites. The results suggest that the effectiveness of swift-certain-fair sanctions may depend on implementation quality and local context, a finding relevant to drug court sanctions design.
+
+- **Tulsa County, OK -- Expanded Eligibility Pilot**: Expanded drug court eligibility to include individuals with violent offense histories (excluding current violent charges). The pilot enrolled 150+ participants with prior violent convictions over 3 years. Early results show comparable recidivism reduction (11 percentage points) without increased public safety incidents, providing evidence that categorical exclusion of violent-history defendants is not necessary for safe drug court operations.
+
+- **Hennepin County, MN -- Equity-Focused Drug Court**: Implemented culturally responsive treatment, removed prosecutor-controlled referral in favor of clinical screening, and adopted equity-specific outcome monitoring. Has reduced Black-white graduation rate gap by 6 percentage points (from 14 points to 8 points) over 3 years. The Hennepin County model is now being studied by NDCRC as a potential template for national equity reform.
+
+- **Hamilton County, OH (Cincinnati) -- High-Risk Court**: Developed a specialized track for high-risk/high-need participants with more intensive treatment, more frequent judicial contact, and enhanced support services. The high-risk track achieves graduation rates comparable to the standard track (57% vs. 62%) while serving a population with significantly higher baseline recidivism risk, demonstrating that drug courts can effectively serve higher-acuity participants.
+
+- **Multnomah County, OR (Portland) -- Longitudinal Evaluation**: One of the most extensively evaluated drug courts in the country, with NPC Research conducting follow-up studies at 5 and 10 years post-entry. The 10-year follow-up found that drug court participants had 30% fewer arrests and 40% less incarceration time than comparison group members, providing evidence that drug court effects persist well beyond the program period. Cost savings at the 10-year mark exceeded $22,000 per participant.
+
+- **San Juan Pueblo Healing-to-Wellness Court (NM)**: One of the earliest tribal wellness courts, the San Juan Pueblo (Ohkay Owingeh) court integrates traditional Tewa healing ceremonies, sweat lodge participation, and elder mentorship into the drug court framework. An evaluation by the Tribal Law and Policy Institute (2015) found higher engagement rates and lower dropout rates than comparable non-tribal drug courts, suggesting that cultural integration improves outcomes for Native American participants.
+
+- **Buffalo Veterans Treatment Court (NY)**: Judge Robert Russell's original VTC continues to serve as the model for the 600+ veterans courts nationwide. The court's peer mentor model -- assigning a volunteer veteran mentor to each participant -- has been independently evaluated and found to improve graduation rates by 8-12 percentage points compared to VTCs without peer mentoring (RAND, 2015). The peer mentor model has been adopted by approximately 80% of VTCs nationally.
 
 ## Sequencing and Prioritization
 
@@ -179,6 +219,9 @@ Expanding drug court access to more eligible defendants, improving treatment qua
 - Require disaggregated racial equity data reporting as a condition of all federal drug court funding
 - Issue federal guidance encouraging expanded eligibility criteria based on risk-need-responsivity assessment
 - Fund LEAD-model pre-arrest diversion pilots in 50 additional jurisdictions
+- Mandate naloxone distribution and overdose response training in all federally funded drug courts
+- Fund development of culturally responsive treatment curricula for tribal healing-to-wellness courts
+- Launch a national training initiative on harm reduction integration in drug courts
 
 ### Medium-term Reforms (2-5 years)
 
@@ -186,6 +229,10 @@ Expanding drug court access to more eligible defendants, improving treatment qua
 - Create formula-based federal drug court funding (Drug Court Block Grant)
 - Require drug court-community health system integration partnerships
 - Expand veterans treatment courts to all VA-served regions
+- Develop and pilot specialized programming for stimulant use disorders in drug courts
+- Implement corrective action plans for courts with persistent racial disparities
+- Require housing needs assessment and employment services as core drug court components
+- Expand family dependency treatment courts to serve at least 50% of parents in SUD-related child welfare proceedings
 
 ### Long-term Transformation (5-10 years)
 
@@ -193,6 +240,77 @@ Expanding drug court access to more eligible defendants, improving treatment qua
 - Eliminate statistically significant racial disparities in drug court access and outcomes
 - Fully integrate drug courts into a broader treatment continuum that includes pre-arrest diversion, community-based voluntary treatment, and court-supervised treatment
 - Establish sustainable, non-grant-dependent funding for all drug courts
+- Ensure every tribal nation with an identified need has access to a healing-to-wellness court
+- Develop post-graduation support infrastructure including alumni networks, peer recovery support, and community-based aftercare
+- Integrate drug court data systems with state health information exchanges for seamless care coordination
+
+### Solution 8: Develop Specialized Court Models for Underserved Populations
+
+**Description**: Expand and strengthen specialized drug court models for populations currently underserved: tribal healing-to-wellness courts, family dependency treatment courts, co-occurring disorder courts, and courts serving individuals with stimulant use disorders (methamphetamine, cocaine). Each model requires population-specific programming, culturally responsive treatment, and adapted outcome metrics.
+
+**Evidence Base**: Tribal healing-to-wellness courts that integrate traditional cultural practices show higher engagement rates among Native American participants than standard drug court models (Tribal Law and Policy Institute, 2020). Family drug courts achieve family reunification rates of 55-60% compared to 30-35% for traditional dependency proceedings (NPC Research, 2020). Co-occurring disorder courts that provide integrated dual-diagnosis treatment achieve graduation rates comparable to standard drug courts (Peters et al., 2017).
+
+**Implementation**:
+
+- Federal grants specifically for tribal healing-to-wellness court development, administered through BJA in consultation with the Tribal Law and Policy Institute and Bureau of Indian Affairs
+- Expanded federal funding for family drug courts through both BJA and the Children's Bureau within HHS
+- Development of evidence-based programming for stimulant use disorders in drug court settings, given the absence of FDA-approved pharmacotherapy for methamphetamine or cocaine use disorders
+- Training curricula for co-occurring disorder courts, including integration of psychiatric medication management with drug court supervision
+
+**Cost/Resources**: Tribal court development: $50 million over 5 years (serving the population with the highest overdose death rate nationally). Family court expansion: $75 million over 5 years. Co-occurring disorder court pilots: $30 million over 3 years.
+
+**Timeline**: 2-5 years for expansion of existing specialized models; 3-7 years for new model development.
+
+**Challenges**: Tribal sovereignty considerations in federal funding; limited research base on stimulant-specific drug court programming; workforce shortages in specialized treatment areas; geographic barriers in rural and tribal areas.
+
+**Impact Metrics**: Number of tribal healing-to-wellness courts; family reunification rates in family drug courts; graduation rates by co-occurring disorder status; overdose rates among tribal court participants.
+
+### Solution 9: Integrate Harm Reduction Practices into Drug Courts
+
+**Description**: Incorporate evidence-based harm reduction practices into drug court programming, including universal naloxone distribution to participants and families, fentanyl test strip distribution, overdose response training for all participants and staff, and modified sanctions frameworks that prioritize safety over abstinence enforcement during high-risk periods.
+
+**Evidence Base**: Naloxone distribution reduces overdose mortality by 30-50% in communities where it is widely available (CDC, 2023). Fentanyl test strips lead 70-90% of users who test positive for fentanyl to change their behavior (Johns Hopkins, 2022). The integration of harm reduction with treatment improves engagement and reduces mortality without undermining abstinence goals.
+
+**Implementation**: Federal guidance requiring all drug courts to distribute naloxone at program entry. State-level authorization for fentanyl test strip distribution through drug courts (currently classified as paraphernalia in 5 states). Training programs for drug court staff on harm reduction principles. Modified sanctions protocols that account for the lethality of the current drug supply.
+
+**Cost/Resources**: Naloxone distribution: $20-$45 per participant (2-dose kit). Fentanyl test strips: $1-$2 per strip. Training: $5 million federal investment for national curriculum development.
+
+**Timeline**: 1-2 years for naloxone and fentanyl test strip integration; 2-3 years for modified sanctions frameworks.
+
+**Challenges**: Cultural resistance from abstinence-oriented courts that view harm reduction as inconsistent with recovery goals. Legal barriers to fentanyl test strip distribution in states where they remain classified as paraphernalia. Philosophical tension between the drug court model's emphasis on abstinence monitoring and harm reduction's acceptance of continued use as a baseline.
+
+**Impact Metrics**: Overdose deaths during drug court participation; naloxone distribution rates; participant and family naloxone training completion; fentanyl test strip utilization.
+
+### Solution 10: Address Housing and Employment as Core Program Components
+
+**Description**: Require drug courts to incorporate housing assistance and employment services as core program components rather than ancillary supports. Approximately 20-30% of drug court participants experience housing instability during the program (Urban Institute, 2022), and only 38% are employed at program entry (NPC Research, 2023). Both factors are strongly associated with program failure.
+
+**Evidence Base**: Research consistently shows that housing stability and employment are among the strongest predictors of drug court success. Participants with stable housing are 2.4 times more likely to graduate than those without (NPC Research, 2021). Employment at graduation is associated with 40% lower recidivism at 3-year follow-up (WSIPP, 2018). Housing First programs that provide permanent supportive housing without preconditions of sobriety have strong evidence of reducing substance use and criminal justice involvement (Tsemberis, 2004).
+
+**Implementation**: Federal grant requirements mandating housing needs assessment at drug court entry. Partnerships between drug courts and Housing First programs, public housing authorities, and rapid rehousing providers. Employment services integration including vocational assessment, job training referrals, and employer partnerships. Prohibition on drug court sanctions that cause housing loss (e.g., eviction from transitional housing for positive drug tests).
+
+**Cost/Resources**: Housing assistance: $3,000-$8,000 per participant (depending on level of need and local housing costs). Employment services: $1,500-$3,000 per participant. Total annual cost for national implementation: $300-$600 million.
+
+**Timeline**: 1-3 years for partnership development and service integration; 3-5 years for full implementation.
+
+**Challenges**: Housing scarcity in many jurisdictions; employer reluctance to hire individuals with criminal records; cost of housing assistance in high-cost markets; coordination between multiple service systems.
+
+**Impact Metrics**: Housing stability at graduation; employment rate at graduation; 12-month post-graduation housing retention; 12-month post-graduation employment retention; recidivism rates by housing/employment status.
+
+## Solution Summary Matrix
+
+| Solution | Primary Beneficiary | Cost Level | Timeline | Political Feasibility | Evidence Strength |
+|---|---|---|---|---|---|
+| 1. Expand eligibility | High-need defendants | Moderate | 2-3 years | Moderate | Strong (MADCE) |
+| 2. Universal MAT access | Participants with OUD | Low-Moderate | 1-4 years | Moderate-High | Very Strong |
+| 3. Pre-arrest diversion | All drug users | Moderate | 1-5 years | Moderate | Strong (LEAD) |
+| 4. Racial equity monitoring | Minority participants | Low | 1-3 years | Moderate | Strong |
+| 5. National certification | All participants | Moderate | 2-5 years | Moderate | Moderate |
+| 6. Health system integration | All participants | Moderate | 1-5 years | High | Moderate |
+| 7. Dedicated funding | All drug courts | High | 2-5 years | Moderate | Strong |
+| 8. Specialized court models | Underserved populations | Moderate-High | 2-7 years | High | Moderate |
+| 9. Harm reduction integration | All participants | Low | 1-3 years | Moderate | Strong |
+| 10. Housing and employment | Participants with social needs | High | 1-5 years | High | Strong |
 
 ## Complementary Policies
 
@@ -201,6 +319,13 @@ Expanding drug court access to more eligible defendants, improving treatment qua
 - **Behavioral health workforce development**: Drug court treatment capacity is constrained by a shortage of 250,000-300,000 behavioral health professionals (SAMHSA, 2023). Federal and state investment in SUD counselor training, loan forgiveness, and licensure reform is essential.
 - **Housing First programs**: Housing instability is a leading predictor of drug court failure. Investment in permanent supportive housing and Housing First programs would improve drug court outcomes.
 - **Reentry services**: Drug courts that serve post-incarceration populations need robust reentry support, including employment services, housing assistance, and community supervision coordination.
+- **Record expungement and collateral consequence reform**: Drug court graduates who successfully complete the program should have access to expedited record expungement or sealing. Collateral consequences of the initial arrest -- including barriers to employment, housing, professional licensing, and student financial aid -- undermine the long-term benefits of drug court completion.
+- **Criminal justice data integration**: Improving data systems across law enforcement, courts, treatment providers, and health systems would enable real-time tracking of participant progress, automated equity monitoring, and better coordination between drug courts and community services.
+- **Peer recovery workforce development**: Investment in peer recovery specialist training and certification provides drug courts with a cost-effective workforce of individuals with lived experience of substance use disorders who can serve as mentors, navigators, and advocates for participants. The VA's peer specialist model in veterans treatment courts has demonstrated 8-12 percentage point improvements in graduation rates.
+- **Telehealth infrastructure for rural drug courts**: Federal investment in broadband access and telehealth platforms would enable rural drug courts to provide treatment services that are otherwise unavailable due to provider shortages. Approximately 73% of drug courts now offer some telehealth services post-COVID, but rural courts face connectivity and platform limitations.
+- **Methadone regulation reform**: Current federal regulations restrict methadone dispensing to licensed opioid treatment programs (OTPs), of which 77% of U.S. counties have none (SAMHSA, 2024). DEA proposed rulemaking in 2024 to expand take-home privileges and authorize mobile methadone units, which would significantly improve access for drug court participants in underserved areas.
+- **Student loan forgiveness for behavioral health professionals**: Addressing the workforce shortage requires financial incentives for clinicians to enter substance abuse treatment. Loan forgiveness programs for substance abuse counselors, social workers, and psychiatric nurse practitioners who serve in drug court settings or underserved areas would help attract professionals to the field.
+- **Data interoperability standards**: Federal investment in health information exchange (HIE) standards that enable drug courts, treatment providers, Medicaid, and community health systems to share participant data would improve care coordination, reduce duplication, and enable real-time outcome monitoring.
 
 ---
 

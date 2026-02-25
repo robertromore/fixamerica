@@ -16,11 +16,23 @@ The mental health crisis services landscape is shaped by the interactions of sev
 
 ### Secondary Stakeholders
 
-- **People experiencing homelessness**: Approximately 35-40% of people experiencing homelessness have a serious mental illness (HUD, 2023). Homelessness both precipitates and complicates crisis response
-- **People involved in the criminal justice system**: An estimated 2 million jail bookings per year involve people with serious mental illness (Treatment Advocacy Center, 2022). Better crisis services would divert many from incarceration
-- **Racial and ethnic minorities**: Black Americans are 2.5 times more likely to be killed by police during mental health encounters (Saleh et al., *JAMA Network Open*, 2021). Language barriers, cultural differences, and systemic racism affect crisis service access and quality for Hispanic, Asian, Indigenous, and Black communities
-- **Rural populations**: 65% of non-metropolitan counties have no psychiatrist (HRSA, 2023), leaving rural residents with limited or no crisis services beyond law enforcement and distant emergency departments
-- **Veterans**: Over 700,000 contacts annually to Veterans Crisis Line (VA, 2024), with veteran suicide rates 72% higher than non-veteran adults (VA National Suicide Prevention Report, 2023)
+- **People experiencing homelessness**: Approximately 35-40% of people experiencing homelessness have a serious mental illness (HUD, 2023). Homelessness both precipitates and complicates crisis response. In 2023, an estimated 653,000 people experienced homelessness on a single night, and behavioral health crises in encampments represent one of the most challenging crisis response scenarios
+- **People involved in the criminal justice system**: An estimated 2 million jail bookings per year involve people with serious mental illness (Treatment Advocacy Center, 2022). Better crisis services would divert many from incarceration. The three largest de facto psychiatric facilities in the United States are the Los Angeles County Jail, Cook County Jail (Chicago), and Rikers Island (New York)
+- **Racial and ethnic minorities**: Black Americans are 2.5 times more likely to be killed by police during mental health encounters (Saleh et al., *JAMA Network Open*, 2021). Language barriers, cultural differences, and systemic racism affect crisis service access and quality for Hispanic, Asian, Indigenous, and Black communities. American Indian/Alaska Native populations have the highest suicide rate of any racial/ethnic group (CDC, 2023)
+- **Rural populations**: 65% of non-metropolitan counties have no psychiatrist (HRSA, 2023), leaving rural residents with limited or no crisis services beyond law enforcement and distant emergency departments. Average distance to the nearest crisis stabilization unit exceeds 60 miles in frontier areas
+- **Veterans**: Over 700,000 contacts annually to Veterans Crisis Line (VA, 2024), with veteran suicide rates 72% higher than non-veteran adults (VA National Suicide Prevention Report, 2023). Post-9/11 veterans face elevated risk due to traumatic brain injury and moral injury
+- **LGBTQI+ individuals**: LGBTQI+ youth are four times more likely to attempt suicide than their heterosexual peers (Trevor Project, 2023). Transgender and nonbinary youth face even higher risk, with 52% reporting suicidal ideation in the past year. Access to affirming crisis services -- counselors trained in LGBTQI+ issues -- remains limited outside major metropolitan areas
+- **Older adults**: Adults ages 65+ have the highest suicide completion rate of any age group, driven by social isolation, chronic pain, loss of autonomy, and access to firearms. Yet crisis services are rarely designed with geriatric needs in mind, and Medicare does not cover mobile crisis intervention (CDC, 2023; CMS, 2024)
+
+### Crisis Workers as Stakeholders
+
+The workforce that staffs crisis services has its own set of interests and concerns:
+
+- **Compensation**: Crisis counselors earn $37,000-$45,000 annually, significantly below comparable clinical roles (BLS, 2023). Inadequate pay drives turnover and recruitment challenges
+- **Safety**: Crisis workers face occupational risks including verbal threats, physical assault, and secondary traumatic stress. Few states have enacted specific workplace safety protections for crisis responders
+- **Professional development**: Career advancement pathways in crisis services are limited compared to hospital or private practice settings
+- **Peer specialists**: Individuals with lived experience of mental health conditions who serve as crisis responders face unique challenges including scope-of-practice restrictions, lower pay than licensed colleagues, and potential re-traumatization from crisis work
+- **Burnout and mental health**: Crisis workers experience rates of burnout, anxiety, and depression significantly above the general population. A 2023 survey found that 62% of crisis counselors reported symptoms of secondary traumatic stress (National Council, 2023)
 
 ## Who Has Power
 
@@ -51,6 +63,17 @@ The mental health crisis services landscape is shaped by the interactions of sev
 - **American Psychiatric Association (APA)**: Professional organization for psychiatrists. Influences clinical standards, training requirements, and insurance coverage policies for psychiatric crisis care
 - **International Association of Chiefs of Police (IACP)**: Represents 31,000 police leaders. Has endorsed alternative response models and CIT expansion, providing law enforcement credibility to reform efforts
 - **Treatment Advocacy Center**: Focuses on policies affecting people with serious mental illness, including crisis intervention and involuntary treatment laws. Publishes influential reports on psychiatric bed supply and criminalization
+- **Bazelon Center for Mental Health Law**: The leading legal advocacy organization for mental health civil rights. Opposes expansion of involuntary treatment and advocates for community-based crisis alternatives grounded in civil liberties principles. Has litigated landmark cases including *Olmstead v. L.C.* and challenges to inadequate crisis services under the ADA
+- **American Foundation for Suicide Prevention (AFSP)**: Leading suicide prevention research and advocacy organization. Supported the 988 designation and advocates for crisis services as a key pillar of the national suicide prevention strategy. Mobilizes 200,000+ walkers annually through Out of the Darkness events
+- **National Emergency Number Association (NENA) and APCO International**: The two primary professional organizations for 911 dispatch. Their engagement is critical for 988-to-911 integration, as 911 call centers must modify technology, training, and protocols to enable behavioral health call triage
+
+### Private Sector Stakeholders
+
+- **Telehealth companies**: Companies like Talkspace, BetterHelp, and Crisis Text Line have expanded digital crisis access but face questions about clinical quality, liability, and integration with local crisis systems. Crisis Text Line processed over 6 million text conversations since 2013 (Crisis Text Line, 2024)
+- **Hospital systems**: Large health systems (HCA Healthcare, CommonSpirit, Kaiser Permanente) operate emergency departments that bear the brunt of psychiatric boarding. They have financial interest in crisis alternatives that reduce ED overcrowding, but also face revenue implications if crisis diversion reduces ED volume
+- **Insurance companies**: UnitedHealth Group, Anthem, Cigna, and Aetna set reimbursement rates and coverage policies that determine the financial viability of crisis services. The insurance industry has been slow to create billing codes and adequate rates for mobile crisis and crisis stabilization
+- **Technology vendors**: Companies developing crisis dispatch software, electronic health records for crisis settings, and real-time bed tracking systems are emerging stakeholders. The crisis technology market is estimated at $500 million and growing (Behavioral Health Business, 2024)
+- **Pharmaceutical companies**: Manufacturers of psychiatric medications used in crisis settings (antipsychotics, benzodiazepines, ketamine for treatment-resistant depression) have indirect financial interest in how crisis encounters are managed. Companies like Janssen (esketamine/Spravato) have sought crisis service integration for rapid-acting treatments
 
 ## Stakeholder Interests and Alignment
 
@@ -84,6 +107,38 @@ A relatively small but influential set of institutional relationships shapes cri
 
 These five actor types form a policy network where decisions by any one entity ripple through the system.
 
+## Stakeholder Mapping by Position
+
+### Strong Supporters of Crisis System Expansion
+
+| Stakeholder | Primary Motivation | Key Demand |
+|---|---|---|
+| NAMI | Family advocacy; suicide prevention | Permanent 988 funding; mobile crisis expansion |
+| ACEP | Reduce ED boarding burden | Crisis stabilization alternatives to ED |
+| National Council for Mental Wellbeing | Provider sustainability; service expansion | Adequate Medicaid reimbursement rates |
+| AFSP | Suicide prevention | Sustained 988 investment; follow-up protocols |
+| State mental health authorities (progressive states) | System improvement | Permanent enhanced FMAP; workforce investment |
+| Peer support organizations | Expanded role for people with lived experience | Peer specialist certification and integration |
+
+### Conditional or Mixed Supporters
+
+| Stakeholder | Condition for Support | Primary Concern |
+|---|---|---|
+| Law enforcement (leadership) | Civilian response supplements, not replaces, police | Officer safety; liability during transition |
+| Hospital associations | Crisis alternatives reduce boarding without losing revenue | Financial impact of patient diversion |
+| Insurance industry | Coverage mandates are cost-neutral | Premium increases; new mandated benefits |
+| Fiscal conservatives | Crisis services demonstrate cost savings | Net new government spending |
+| State legislatures (moderate) | Federal funding bears majority of cost | Unfunded mandates; state budget impact |
+
+### Opponents or Skeptics
+
+| Stakeholder | Primary Objection | Alternative Position |
+|---|---|---|
+| Some police unions | Alternative response reduces officer roles | Prefer co-response over civilian-only models |
+| Anti-government activists | 988 as potential surveillance tool | Voluntary, private-sector crisis options |
+| Some disability rights groups | Expanded involuntary holds violate civil liberties | Voluntary-only crisis services |
+| Fiscal hawks | Crisis system costs too much | Status quo or minimal investment |
+
 ## Influence Mechanisms
 
 How stakeholders exert influence on policy:
@@ -94,6 +149,35 @@ How stakeholders exert influence on policy:
 - **Public Advocacy**: NAMI's annual "CureStigma" campaign reaches millions. The #988 social media campaign generated significant public awareness during the 2022 launch. Family members testifying before state legislatures have been among the most effective advocates for crisis funding
 - **Expertise and Information**: Organizations like NASMHPD, RI International, and the Crisis Now team control the technical knowledge base for crisis system design. Their recommendations shape both federal guidelines and state implementation plans
 - **Data and Research**: SAMHSA's 988 Dashboard, CDC's suicide statistics, and state-level crisis data provide the evidence base that shapes legislative arguments. Control of data collection methodologies and reporting standards gives federal agencies and research organizations outsized influence on how the crisis system is evaluated
+- **Litigation**: Legal advocacy organizations like the Bazelon Center use federal litigation under the ADA and *Olmstead v. L.C.* to compel states to expand community crisis services. Consent decrees (such as the Trueblood consent decree in Washington State) have forced systemic changes in crisis response and competency restoration systems. Litigation is a slow but powerful tool for structural reform
+- **Media**: Investigative journalism has historically been a catalyst for crisis services reform. KFF Health News, ProPublica, and major newspapers have published influential investigations of 988 implementation challenges, ED boarding conditions, and fatal police encounters during mental health crises. Media coverage shapes public opinion and creates political pressure for action
+
+## Power Dynamics and Asymmetries
+
+### Whose Voice Is Missing
+
+Several critically important groups are underrepresented in crisis policy decisions:
+
+- **People with lived experience of crisis**: While peer specialists are increasingly included in service delivery, people who have experienced mental health crises remain underrepresented on advisory boards, legislative testimony panels, and policy design teams. Their perspectives on what works and what harms are essential but often filtered through professional intermediaries
+- **Family members who have lost loved ones**: Families who have lost someone to suicide, fatal police encounters, or preventable deaths during crisis care gaps possess unique moral authority but often lack the organizational infrastructure to sustain policy engagement beyond initial testimony
+- **Frontline crisis workers**: The crisis counselors, peer specialists, and mobile team clinicians who deliver crisis services daily are rarely consulted on policy design. Their operational knowledge of what works and what fails in practice is underutilized in legislative and regulatory processes
+- **Incarcerated individuals with mental illness**: The estimated 2 million people booked into jails annually with serious mental illness are effectively voiceless in crisis policy, despite being among the most directly affected by system failures
+- **Communities of color**: Black, Hispanic, Indigenous, and Asian communities experience disproportionate harms from inadequate crisis services but have limited representation in the predominantly white mental health advocacy establishment
+
+### Power Balance Assessment
+
+| Stakeholder Category | Resources | Access to Decision-Makers | Evidence Base | Overall Power |
+|---|---|---|---|---|
+| Hospital and insurance industry | Very High | Very High | Moderate | Very High |
+| Federal agencies (SAMHSA, CMS) | High | Very High | High | High |
+| State mental health authorities | Medium-High | High | Medium | Medium-High |
+| Mental health advocacy (NAMI, MHA) | Medium | Medium-High | Medium | Medium |
+| Law enforcement | Medium-High | High | Low-Medium | Medium-High |
+| Crisis providers (community orgs) | Low-Medium | Low-Medium | Medium | Low-Medium |
+| People with lived experience | Very Low | Low | High (experiential) | Low |
+| Crisis workforce | Low | Low | Medium | Low |
+
+The fundamental power asymmetry in crisis policy is that the stakeholders with the most resources and access (hospitals, insurers, law enforcement) have financial interests that may conflict with building a community-based crisis system, while the stakeholders most affected by system failures (people in crisis, their families, crisis workers) have the least power to shape policy.
 
 ---
 

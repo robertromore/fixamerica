@@ -45,6 +45,24 @@ Community mental health reform depends on sustained public engagement. The CCBHC
 - Engage local business leaders through organizations like the National Alliance of Healthcare Purchaser Coalitions or your local Chamber of Commerce. Employers lose an estimated $225 billion annually from untreated mental illness (NAMI, 2023); the business case for community mental health investment is strong.
 - Reach out to faith communities, which often serve as informal mental health support networks and can be powerful allies for reducing stigma and increasing funding
 
+### Engage in CCBHC Governance
+
+- If your community has a CCBHC, attend its community advisory board meetings. CCBHCs are required to include consumer and family member input in governance (SAMHSA CCBHC Certification Criteria, 2023). Your participation helps ensure services meet community needs.
+- If your community does not have a CCBHC, advocate with your state mental health authority for certification of your local community mental health center. Contact your State Mental Health Authority director (find contact information through NASMHPD at <https://www.nasmhpd.org/content/state-profiles>) to ask about the state's CCBHC adoption timeline.
+- Volunteer with your local community mental health center or CCBHC. Many centers need volunteers for reception, transportation assistance, event planning, and peer mentor programs. Contact your nearest center through SAMHSA's Behavioral Health Services Locator (<https://findtreatment.samhsa.gov/>).
+
+### Counter NIMBY Opposition
+
+- If a community mental health facility is proposed in your neighborhood, attend zoning hearings and speak in support. NIMBY opposition is most effective when unopposed; even a few supportive voices can shift the outcome.
+- Use data to counter misconceptions: CCBHC clients have *lower* arrest rates than the general population (40% reduction in jail bookings); property value studies consistently show no negative impact from community mental health facilities; and 1 in 5 adults has a mental health condition -- these are your neighbors, not outsiders.
+- Connect with local disability rights organizations, housing advocates, and faith communities to build a coalition of support for facility siting decisions.
+
+### Support Workforce Pipeline
+
+- If you are a student considering a career in mental health, explore positions in community mental health settings. The National Health Service Corps offers up to $50,000 in student loan repayment for behavioral health providers who work in underserved areas for a minimum of two years (<https://nhsc.hrsa.gov/>).
+- If you are a current mental health professional in private practice, consider providing pro bono consultation hours to your local CMHC or CCBHC, particularly for specialized services like child psychiatry, forensic assessment, or trauma therapy.
+- Support state legislation that expands scope of practice for psychiatric nurse practitioners and psychologists, enabling these providers to work to the full extent of their training in community settings.
+
 ---
 
 ## Political Actions
@@ -60,7 +78,7 @@ Community mental health reform depends on sustained public engagement. The CCBHC
 
 **What to Say -- Template Email**:
 
-```
+```text
 Subject: Support Full Funding for Community Mental Health and CCBHC Expansion
 
 Dear [Representative/Senator] [Last Name],
@@ -93,7 +111,7 @@ Sincerely,
 
 **What to Say -- Phone Call Script**:
 
-```
+```text
 "Hello, my name is [Name] and I'm a constituent from [City]. I'm calling to
 urge [Representative/Senator] [Last Name] to support full funding for
 community mental health services and CCBHC expansion. The CCBHC model has
@@ -127,6 +145,37 @@ Current and proposed legislation to support:
 - Identify candidates who serve on or seek seats on committees with jurisdiction over mental health: Senate HELP Committee, Senate Finance Committee, House Energy & Commerce Committee, House Appropriations Subcommittee on Labor, HHS, and Education
 - Review candidates' positions on behavioral health parity enforcement, which ensures private insurance covers mental health equitably with physical health
 
+### State-Level Advocacy
+
+State governments make critical decisions that determine community mental health access. Key state-level actions to advocate for:
+
+| State Decision | Why It Matters | Who to Contact |
+|---|---|---|
+| CCBHC Medicaid State Plan Amendment adoption | Enables sustainable CCBHC funding through federal matching | Governor, state Medicaid director, state mental health authority |
+| Medicaid behavioral health reimbursement rates | Determines whether community providers can retain staff and offer services | State Medicaid agency, state legislature health committees |
+| Medicaid expansion (in non-expansion states) | 3.7 million additional adults gained behavioral health coverage through expansion | Governor, state legislature |
+| Peer support specialist certification and reimbursement | Expands workforce and recovery-oriented services | State licensing board, state mental health authority |
+| Scope of practice for psychiatric NPs and psychologists | Addresses workforce shortages in underserved areas | State licensing board, state legislature |
+| State mental health authority budget | Determines state-funded services beyond Medicaid | Governor, state legislature appropriations committees |
+| 988 crisis infrastructure funding | Many states must supplement federal 988 funding with state resources | Governor, state legislature, public utilities commission (for telecom fees) |
+
+**Finding Your State's Decision Makers**: The National Association of State Mental Health Program Directors (NASMHPD) maintains a directory of state mental health commissioners at <https://www.nasmhpd.org/content/state-profiles>. Your state Medicaid agency contact information is available at <https://www.medicaid.gov/state-overviews/index.html>.
+
+### Local Government Advocacy
+
+Local governments (cities, counties) fund crisis services, homeless services, and in some states, community mental health directly. Key local actions:
+
+- Advocate for your city or county to fund mobile crisis teams as an alternative to police response for mental health calls. Model programs in Eugene, OR (CAHOOTS), Denver, CO (STAR), and Olympia, WA (Crisis Response Unit) have demonstrated that non-police crisis teams can safely respond to behavioral health emergencies at lower cost.
+- Support local funding for Crisis Intervention Team (CIT) training for law enforcement officers. CIT programs cost approximately $2,500-$5,000 per officer to implement but reduce use of force during mental health calls by 28% and increase diversion to treatment by 40% (CIT International, 2023).
+- Attend county jail board meetings to advocate for mental health screening and diversion programs. Many counties now operate jail diversion programs that connect individuals with mental illness to community treatment instead of incarceration.
+
+### Engage Media and Public Awareness
+
+- When local media covers mental health-related incidents (homelessness, crisis events, jail overcrowding), write letters to the editor or opinion pieces that connect the incident to systemic community mental health underfunding. Use the data in this analysis to contextualize individual events as system failures.
+- Invite local journalists to tour your community mental health center (with appropriate permissions) to see services in action. Positive media coverage of community mental health services counters stigma and builds public support for investment.
+- Share the 988 Suicide & Crisis Lifeline number through community channels -- social media, bulletin boards, faith community announcements, school newsletters. Awareness of 988 directly saves lives and reduces the burden on 911 and emergency departments.
+- If you have lived experience with mental illness or are a family member of someone who does, consider sharing your story with local media, advocacy organizations, or legislative offices. Personal narratives are among the most powerful advocacy tools; research shows that personal contact with individuals who have experienced mental illness is the single most effective stigma reduction strategy (Corrigan et al., 2012).
+
 ---
 
 ## Professional Actions
@@ -135,7 +184,10 @@ Current and proposed legislation to support:
 - **For Primary Care Providers**: Implement the Collaborative Care Model (CoCM) in your practice to integrate behavioral health screening, care management, and psychiatric consultation. CoCM codes (99492-99494) are reimbursable by Medicare and many Medicaid programs. Training is available through the AIMS Center at the University of Washington (<https://aims.uw.edu/>).
 - **For Law Enforcement**: Support Crisis Intervention Team (CIT) training for your department. CIT-trained officers resolve mental health calls more safely and divert individuals from jail to treatment. Training models are available through CIT International (<https://www.citinternational.org/>).
 - **For Educators**: Advocate for school-based mental health services through Project AWARE and related SAMHSA programs. Early identification and intervention for youth mental health conditions prevents escalation and reduces the burden on community mental health centers.
-- **For Employers**: Implement employee mental health programs and advocate for adequate behavioral health benefits in your company's insurance plan. Support workplace mental health awareness through organizations like One Mind at Work (<https://onemindatwork.org/>).
+- **For Employers**: Implement employee mental health programs and advocate for adequate behavioral health benefits in your company's insurance plan. Support workplace mental health awareness through organizations like One Mind at Work (<https://onemindatwork.org/>). Review your company's insurance plan for mental health parity compliance -- if employees report difficulty accessing in-network behavioral health providers, file a parity complaint with your state insurance commissioner and the Department of Labor (for employer-sponsored plans).
+- **For Researchers and Academics**: Conduct and publish research on community mental health outcomes, CCBHC effectiveness, workforce interventions, and equity in access. Prioritize community-engaged research that involves individuals with lived experience as co-investigators, not just research subjects. The CCBHC model generates rich data for health services research; collaborate with local CCBHCs to analyze their quality measure data.
+- **For Journalists**: Cover community mental health as a systems issue, not just a collection of individual stories. Report on CCBHC outcomes, workforce shortages, state funding variation, and the cross-system costs of untreated mental illness (ED visits, incarceration, homelessness). Avoid framing mental illness primarily through the lens of violence; people with mental illness are 10 times more likely to be victims than perpetrators. Data sources include SAMHSA's NSDUH, the National Council's CCBHC Impact Report, and Mental Health America's state rankings.
+- **For Peer Support Specialists**: Advocate for adequate certification standards and Medicaid reimbursement rates for peer services in your state. Join the National Association of Peer Supporters (<https://www.peersupportworks.org/>) to connect with peer advocacy networks. If your state does not yet have peer specialist certification, work with your state mental health authority to develop certification standards.
 
 ---
 
@@ -197,6 +249,32 @@ When discussing community mental health with others, emphasize:
 | "We can't afford to expand mental health services" | The cost of untreated mental illness ($280 billion annually) far exceeds the cost of community mental health investment (~$9 billion additional annual federal spending for national CCBHC implementation). | Insel, 2008 adjusted; National Council, 2023 |
 | "Mental health is a personal responsibility, not a government one" | Serious mental illness is a brain-based medical condition. Medicaid covers 40% of adults with SMI. The market cannot profitably serve the most complex populations -- that is why community mental health centers exist. | SAMHSA NSDUH, 2022; KFF, 2023 |
 | "Telehealth apps can replace community mental health centers" | Telehealth serves mild-to-moderate conditions in commercially insured populations. It cannot provide crisis services, ACT teams, case management, housing support, or psychiatric rehabilitation for individuals with SMI. | National Council, 2023 |
+
+## Annual Advocacy Calendar
+
+Timing advocacy efforts to align with policy windows increases effectiveness:
+
+| Month(s) | Advocacy Opportunity | Action |
+|---|---|---|
+| January-February | President's budget proposal released | Review behavioral health funding requests; contact appropriations committee members |
+| February-March | State legislative sessions begin (most states) | Advocate for state mental health budget, CCBHC SPA adoption, Medicaid expansion |
+| March | Brain Awareness Week | Host community education events on mental illness and community treatment |
+| April | SAMHSA MHBG applications due from states | Review your state's MHBG application for priorities and service gaps |
+| May | Mental Health Awareness Month | Amplify community mental health messages; host stigma reduction events |
+| May-June | House/Senate appropriations subcommittee markups | Contact members of Labor-HHS-Education appropriations subcommittee |
+| July | 988 Lifeline anniversary (July 16) | Assess local 988/crisis infrastructure; advocate for gaps |
+| September | Suicide Prevention Awareness Month; MHPAEA final rules typically published | Connect crisis services advocacy with parity enforcement |
+| September-October | National NAMI Convention; National Council Hill Day | Participate in advocacy events; schedule meetings with congressional offices |
+| November-December | Year-end omnibus spending bills | Critical window for community mental health appropriations |
+
+## Measuring Your Impact
+
+To sustain long-term advocacy engagement, track the impact of your efforts:
+
+- **Track legislative responses**: Keep a record of responses from elected officials to your letters, emails, and calls. Note whether they take a position on CCBHC funding, 988 infrastructure, or workforce investment.
+- **Monitor state adoption**: Check whether your state has adopted the CCBHC Medicaid State Plan Amendment. The National Council for Mental Wellbeing publishes state-by-state CCBHC adoption status. If your state has not adopted, this becomes your primary state-level advocacy target.
+- **Document local changes**: Note whether your local community mental health center achieves CCBHC certification, whether mobile crisis teams are deployed in your community, and whether 988 calls are answered reliably. These concrete, observable changes are the downstream results of the policy advocacy described in this section.
+- **Build relationships**: Effective advocacy is relational, not transactional. Develop ongoing relationships with legislative staff, state mental health authority officials, and local community mental health center leadership. Advocates who are known and trusted have more influence than those who contact officials only during crises.
 
 ---
 

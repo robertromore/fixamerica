@@ -28,6 +28,18 @@ Mental health crisis services affect every community in America. Whether you hav
 - Practice speaking openly about mental health to reduce stigma in your family, workplace, and community
 - If you have a family member with a mental health condition, develop a crisis plan together that includes preferred crisis contacts, medications, triggers, and de-escalation strategies
 - Learn lethal means safety counseling: how to reduce access to firearms and other lethal means for people at risk of suicide. The Means Matter campaign at Harvard T.H. Chan School of Public Health provides guidance at <https://www.hsph.harvard.edu/means-matter/>
+- Consider volunteering as a 988 crisis counselor. Many local crisis centers recruit and train community volunteers, with training programs typically lasting 50-80 hours. Contact your local 988 center through <https://www.samhsa.gov/find-help/988> to inquire about volunteer opportunities
+- If you have lived experience of mental health crisis, consider pursuing peer specialist certification. Peer specialists with personal recovery experience are among the most effective crisis responders. Your state mental health authority website lists certification requirements and training programs
+
+### If You or Someone You Know Is in Crisis
+
+- **Call or text 988** for the Suicide & Crisis Lifeline (24/7, free, confidential)
+- **Text HOME to 741741** for the Crisis Text Line
+- **Veterans**: Call 988, press 1 for the Veterans Crisis Line
+- **LGBTQI+ youth**: Call the Trevor Project at 1-866-488-7386 or text START to 678-678
+- **Go to your nearest emergency department** if there is immediate danger
+- **Ask about mobile crisis teams**: When you call 988 or your local crisis line, ask whether a mobile crisis team can respond in person. Not all areas have mobile teams, but availability is growing
+- **Know your state's involuntary hold laws**: If a loved one is in imminent danger and refuses help, know the criteria and process for initiating an involuntary psychiatric hold in your state. The Treatment Advocacy Center maintains a state-by-state database at <https://www.treatmentadvocacycenter.org/browse-by-state>
 
 ### Use Your Voice
 
@@ -47,6 +59,9 @@ Mental health crisis services affect every community in America. Whether you hav
 - Partner with your local emergency department to understand the psychiatric boarding problem in your community. Ask for data on average psychiatric wait times and advocate for crisis alternatives
 - If your community does not have a civilian alternative response program, organize a citizen task force to research models like CAHOOTS, STAR, and B-HEARD and present recommendations to city leaders
 - Host a community screening of documentaries about crisis response reform (such as "Ernie & Joe: Crisis Cops" or "The Definition of Insanity") followed by discussion
+- Start or join a local 988 awareness campaign. Many communities have low awareness that 988 exists -- a 2023 survey found that only 57% of Americans had heard of 988 (NAMI, 2023). Organize information tables at community events, farmers markets, libraries, and houses of worship to spread awareness
+- Request a presentation from your local mobile crisis team (if one exists) or your county behavioral health department at a community organization meeting (PTA, civic club, faith group). Ask them to describe what services are available and what gaps exist
+- Participate in public comment periods when your city or county considers police budgets, emergency services contracts, or behavioral health funding. Data on local mental health call volumes, ED boarding times, and crisis service gaps makes public comment more persuasive
 
 ### Build Coalitions
 
@@ -54,6 +69,18 @@ Mental health crisis services affect every community in America. Whether you hav
 - Build bridges between NAMI chapters, hospital systems, community behavioral health providers, and local government to create a unified voice for crisis services investment
 - Engage faith communities in mental health crisis awareness. Many congregations serve as informal crisis supports but lack training and connection to professional resources. Offer to coordinate Mental Health First Aid training through houses of worship
 - Work with local chambers of commerce to frame crisis services as an economic issue -- employers lose productivity when employees or their family members cannot access timely crisis care, and businesses near unsheltered populations benefit from effective crisis response
+- Partner with local emergency medicine professionals. Emergency physicians and ED nurses experience the psychiatric boarding crisis daily and are often eager to advocate for alternatives. The local chapter of the American College of Emergency Physicians can connect you with willing spokespeople
+- Engage school districts. School counselors and administrators deal with student mental health crises regularly and can be powerful advocates for youth crisis services, school-based crisis teams, and 988 awareness in schools
+- Connect with the local Veterans Affairs medical center or Vet Center. Veteran suicide prevention is a unifying issue that crosses political lines. Joint advocacy between mental health groups and veteran organizations amplifies both causes
+
+### Neighborhood-Level Crisis Preparedness
+
+Communities can take proactive steps to prepare for mental health crises before they occur:
+
+- **Create a community crisis resource card**: A simple printed card listing 988, the local crisis hotline, mobile crisis team number, nearest crisis stabilization unit, and nearest ED with psychiatric services. Distribute through community organizations, businesses, and houses of worship
+- **Organize a neighborhood Mental Health First Aid training**: Many organizations will host a free or low-cost 8-hour MHFA training for groups of 15-30 people. Over 3 million Americans have been certified, but coverage remains uneven (MHFA, 2024)
+- **Designate crisis-aware neighbors**: In the same way some neighborhoods designate "safe houses" for children, communities can identify neighbors who have completed crisis response training and are willing to serve as informal first contacts during a mental health emergency
+- **Business preparedness**: Encourage local businesses -- especially those that serve vulnerable populations (shelters, food banks, libraries, transit stations) -- to train staff in crisis recognition and develop protocols for calling 988 or the mobile crisis team rather than police for behavioral health situations
 
 ---
 
@@ -141,6 +168,24 @@ Current and proposed legislation to support:
 - Evaluate candidates' mental health platforms for specificity -- vague support for "mental health" is common, but support for concrete crisis system investments (988, mobile teams, crisis stabilization) is more meaningful
 - Key committees: Senate Health, Education, Labor and Pensions (HELP); Senate Finance; House Energy and Commerce; House Appropriations Labor-HHS Subcommittee
 
+### State and Local Political Engagement
+
+Federal legislation is critical, but many crisis services decisions are made at the state and local level:
+
+**State-Level Priorities**:
+
+- **988 telecom fee**: If your state has not enacted a 988 telecom fee, contact your state legislators. As of 2024, only 9 states have enacted fees; the remaining 41 states and DC represent an advocacy opportunity. The National Academy for State Health Policy (NASHP) provides model legislation at <https://www.nashp.org>
+- **Medicaid mobile crisis benefit**: If your state has not applied for the enhanced Medicaid FMAP for mobile crisis services under ARP Section 9813, contact your governor's office and state Medicaid agency. As of 2024, 22 states plus DC have not applied
+- **State crisis system funding**: Many states allocate little or no general fund revenue to crisis services. Advocate for a dedicated line item in your state's behavioral health budget for crisis call centers, mobile teams, and stabilization facilities
+- **Involuntary hold reform**: If your state's involuntary psychiatric hold procedures are outdated, overly coercive, or insufficiently protective of civil liberties, advocate for reform through your state legislature
+
+**Local-Level Priorities**:
+
+- **911 dispatch reform**: Advocate for your local 911 center to adopt behavioral health call triage protocols, enabling mental health calls to be routed to crisis teams rather than police-only response
+- **Civilian alternative response**: If your city does not have a civilian crisis response program, advocate for a pilot program. SAMHSA and DOJ offer startup grants for communities interested in launching CAHOOTS-style programs
+- **County crisis funding**: In many states, county behavioral health departments fund crisis services. Attend county board meetings during budget season to advocate for crisis investment
+- **Hospital accountability**: If your local hospital has long psychiatric boarding times, ask your city council or county board to require public reporting of ED psychiatric wait times
+
 ---
 
 ## Professional Actions
@@ -151,6 +196,10 @@ Current and proposed legislation to support:
 - **Employers**: Include 988 information in employee assistance program (EAP) materials. Train managers in Mental Health First Aid. Advocate for health insurance plans that cover crisis services without prior authorization or copays
 - **Mental health professionals**: Consider crisis services roles, where demand is greatest. Support peer specialist certification programs. Participate in mobile crisis team development in your community
 - **Social workers**: Support and mentor peer specialists entering the crisis workforce. Advocate for Medicaid rates that adequately compensate crisis service providers. Participate in crisis system planning at the state and local level
+- **911 dispatchers**: Advocate for behavioral health call triage training in your dispatch center. The International Academies of Emergency Dispatch (IAED) offers validated behavioral health dispatch protocols. Support technology upgrades that enable call routing to 988 and mobile crisis teams
+- **Faith leaders**: Many people in crisis turn to clergy before calling 988 or 911. Learn Mental Health First Aid, develop a referral relationship with your local crisis team, and offer your congregation as a venue for crisis awareness events. Faith-based organizations can also serve as host sites for peer support groups and post-crisis recovery programming
+- **Journalists**: When covering mental health crises, include 988 as a resource in every story. Follow the recommendations in the Reporting on Suicide guidelines (<https://reportingonsuicide.org>) to avoid contagion effects. Investigate local crisis system performance using public records requests for 988 answer rates, mobile crisis response times, and ED boarding data
+- **Researchers and academics**: Prioritize crisis services evaluation research. Rigorous outcome studies of mobile crisis teams, crisis stabilization units, and civilian alternative response programs are needed to build the evidence base for federal and state investment. Partner with local crisis programs for data access and evaluation design
 
 ---
 
@@ -175,7 +224,9 @@ Current and proposed legislation to support:
 - **NAMI Advocate**: Monthly policy updates on mental health legislation, including 988 and crisis services -- <https://www.nami.org/Advocacy/Policy-Priorities>
 - **SAMHSA News**: Federal agency updates on 988, crisis services grants, and behavioral health policy -- <https://www.samhsa.gov/newsroom>
 - **Behavioral Health Business**: Industry news on crisis services, providers, and policy developments -- <https://bhbusiness.com>
+- **KFF Health News**: In-depth investigative reporting on 988 implementation and crisis services challenges -- <https://kffhealthnews.org>
 - **STAT Morning Rounds**: Daily health news including mental health policy -- <https://www.statnews.com/signup/morning-rounds/>
+- **National Academy for State Health Policy (NASHP) 988 Tracker**: State-by-state updates on 988 financing and crisis system legislation -- <https://www.nashp.org>
 
 ### Social Media Accounts to Follow
 
@@ -213,6 +264,22 @@ When discussing mental health crisis services with others, emphasize:
 | "Sending unarmed crisis teams is reckless" | CAHOOTS has operated since 1989 with <1% police backup rate; Denver STAR had zero arrests in 3 years | CAHOOTS, 2023; Denver DPH, 2024 |
 | "We can't afford to build crisis services" | Every $1 invested in mobile crisis saves $2.16 in avoided ED, hospital, and jail costs | RAND, 2022 |
 | "Mental health crises are a personal/family matter, not a public responsibility" | 49,449 Americans died by suicide in 2022; many had no family support or needed clinical intervention beyond what informal networks provide | CDC WISQARS, 2023 |
+| "988 is just another government bureaucracy" | 988 is operated by ~200 local non-profit crisis centers, not a federal bureaucracy; federal funding supports local organizations already rooted in their communities | SAMHSA, 2024 |
+| "Police officers are trained to handle mental health calls" | Only 15% of officers have completed 40-hour CIT training; CIT reduces arrests by 5-10% but does not significantly reduce use of force in crisis encounters | CIT International, 2024; Rogers et al., 2022 |
+
+### Preparing for Key Advocacy Moments
+
+Crisis services advocacy is most effective when it aligns with specific political and media moments:
+
+| Moment | Timing | Advocacy Action |
+|---|---|---|
+| Federal budget season | February-September | Contact Congress to support 988 and SAMHSA crisis services appropriations |
+| State legislative sessions | January-May (most states) | Advocate for 988 telecom fees, Medicaid mobile crisis benefits, state crisis funding |
+| Suicide Prevention Month | September | Media outreach, community events, legislative visits focused on 988 and crisis services |
+| Mental Health Awareness Month | May | Public education on 988 availability and community crisis resources |
+| 988 anniversary (July 16) | July | Media coverage opportunities; assess year-over-year progress |
+| After a high-profile crisis incident | Any time | Connect the incident to systemic crisis services gaps; offer solutions, not just grief |
+| Local budget hearings | Varies by jurisdiction | Testify for crisis services funding in city/county budgets |
 
 ---
 

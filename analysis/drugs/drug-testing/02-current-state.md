@@ -144,6 +144,73 @@ As of 2024, 15 states have enacted laws requiring drug testing or screening as a
 - States spent an average of $200-$7,000+ per positive result identified.
 - The Florida program (enacted 2011) was struck down by the 11th Circuit Court of Appeals in *Lebron v. Secretary, Florida Department of Children and Families*, 710 F.3d 1202 (11th Cir. 2013), which held that suspicionless testing of TANF applicants violated the Fourth Amendment.
 
+### Expansion of Welfare Testing Proposals
+
+Beyond TANF, several states have proposed or enacted drug testing requirements for other public benefit programs:
+
+- **Unemployment Insurance**: At least 8 states have enacted laws requiring drug testing or screening for unemployment insurance applicants, authorized by the Middle Class Tax Relief and Job Creation Act of 2012 (P.L. 112-96). Most apply only to occupations for which the employer conducts testing or where the applicant was terminated for drug-related misconduct.
+- **SNAP (Food Stamps)**: Although federal law does not authorize states to impose drug testing on SNAP recipients, several state legislatures have proposed such measures. No state has successfully implemented SNAP drug testing as of 2024.
+- **Public Housing**: Some local housing authorities include drug testing provisions in lease agreements, and federal law (42 U.S.C. Section 13661) permits public housing agencies to deny admission to individuals with drug-related criminal activity. The legal status of mandatory testing for housing eligibility remains largely untested.
+
+### Constitutional Framework for Welfare Testing
+
+The constitutional landscape for welfare drug testing is shaped primarily by two circuit court decisions:
+
+- ***Marchwinski v. Howard***, 309 F.3d 330 (6th Cir. 2002): Struck down Michigan's program of suspicionless drug testing for all welfare recipients, holding that the Fourth Amendment requires individualized suspicion before government can compel bodily fluid analysis.
+- ***Lebron v. Secretary, FL DCF***, 710 F.3d 1202 (11th Cir. 2013): Struck down Florida's suspicionless testing of all TANF applicants, finding that the state failed to demonstrate a "special need" sufficient to justify warrantless searches. The court noted that TANF applicants are not a population with inherently reduced privacy expectations.
+
+States that continue to operate welfare testing programs generally use a suspicion-based screening model -- administering a written questionnaire and requiring testing only when responses indicate possible drug use -- to avoid the constitutional defects identified in *Marchwinski* and *Lebron*.
+
+---
+
+## Student and Athlete Drug Testing
+
+### Public School Testing Programs
+
+Following the Supreme Court's decisions in *Vernonia School District 47J v. Acton*, 515 U.S. 646 (1995) and *Board of Education v. Earls*, 536 U.S. 822 (2002), public schools may conduct random drug testing of students participating in extracurricular activities without violating the Fourth Amendment.
+
+| Metric | Value | Source |
+|---|---|---|
+| School districts with testing programs | ~2,000-3,000 (estimated) | ONDCP/Institute of Education Sciences, 2022 |
+| Students in schools with testing programs | ~5-6 million | ONDCP estimates |
+| Average positivity rate (school programs) | 3-5% | School reporting data (varies widely) |
+| ONDCP grant funding for school testing (2002-2008) | $10-15 million/year | ONDCP budget documents |
+| Current federal funding for school testing | <$1 million/year | ONDCP, 2024 |
+
+**Effectiveness Evidence**: A 2012 study by the Institute of Education Sciences (IES) found "no significant differences in self-reported substance use" between students in schools with random testing and those without. The study concluded that random student drug testing did not deter drug use, though it may have shifted students toward substances not included in testing panels.
+
+### Collegiate and Professional Athletics Testing
+
+| Organization | Testing Panel | Sanctions | Annual Tests |
+|---|---|---|---|
+| NCAA | Cannabis, stimulants, anabolic agents, narcotics, peptide hormones, diuretics | Loss of eligibility (1 year for PEDs; half-season for cannabis) | ~15,000 |
+| NFL | Cannabis (raised threshold to 150 ng/mL in 2020), PEDs, masking agents | Suspension (4+ games for PEDs; fine/counseling for cannabis) | ~10,000 |
+| MLB | Cannabis removed from testing panel (2020); PEDs, stimulants | Suspension (80 games for first PED violation) | ~8,000 |
+| NBA | Cannabis testing suspended (2020); PEDs, diuretics | Suspension for PEDs; no cannabis penalties | ~5,000 |
+| NHL | Cannabis not tested; PEDs, masking agents | Suspension for PEDs | ~3,000 |
+
+The trend in professional sports is clearly toward elimination of cannabis testing. Major League Baseball removed cannabis from its banned substance list in 2020. The NBA suspended cannabis testing during the COVID-19 bubble and has not reinstated it. The NFL raised its THC threshold from 35 ng/mL to 150 ng/mL and shifted from suspensions to counseling for positive cannabis results.
+
+---
+
+## Criminal Justice Drug Testing
+
+### Scope and Scale
+
+Drug testing is a near-universal condition of community supervision (probation, parole, and pretrial release) in the American criminal justice system.
+
+| Category | Estimated Number Subject to Testing | Testing Frequency |
+|---|---|---|
+| Probationers | ~3.0 million | Monthly to weekly |
+| Parolees | ~800,000 | Weekly to biweekly |
+| Pretrial detainees (released on conditions) | ~500,000-700,000 | Variable (judge-determined) |
+| Drug court participants | ~150,000 | 2-3 times per week |
+| Total supervised population subject to testing | ~4.5-5.0 million | Varies |
+
+Source: Bureau of Justice Statistics, 2023; National Drug Court Institute, 2024
+
+**Consequences of Positive Results**: A positive drug test while on community supervision can trigger graduated sanctions ranging from increased testing frequency and mandatory treatment to revocation of supervision and reincarceration. In many jurisdictions, a single positive cannabis test can lead to jail time for individuals on probation, even in states where cannabis is legal for recreational use. Federal supervised release conditions routinely include drug testing with zero tolerance for positive results, regardless of state cannabis laws (U.S.S.G. Section 5D1.3(d)(4)).
+
 ---
 
 ## Drug Checking and Fentanyl Test Strips
@@ -278,11 +345,29 @@ Drug testing practices vary significantly by region, driven by state cannabis la
 
 ## Emerging Challenges
 
-- **Impairment Detection Gap**: No widely validated, commercially available test exists that reliably measures current cannabis impairment in real time. Breath-based THC detection (e.g., Hound Labs) is in development but has not been adopted at scale.
-- **Polysubstance Adulteration**: The illicit drug supply increasingly contains xylazine, nitazenes, and novel synthetic opioids that are not detected by standard fentanyl test strips, requiring more sophisticated drug checking technology.
-- **Oral Fluid Testing Expansion**: SAMHSA's 2024 approval of oral fluid testing for federal programs is expected to shift the market, but oral fluid tests detect more recent use, which may increase positivity rates and create new legal challenges.
-- **AI and Impairment Technology**: Several companies are developing AI-based cognitive impairment detection systems, raising questions about privacy, accuracy, and worker consent.
-- **CBD and Hemp Cross-Reactivity**: The growth of the legal CBD and hemp market has created a category of workers who may test positive for THC from legal hemp-derived products containing trace amounts of THC (below 0.3% concentration but potentially cumulative).
+### Impairment Detection Gap
+
+No widely validated, commercially available test exists that reliably measures current cannabis impairment in real time. Breath-based THC detection (e.g., Hound Labs) is in development but has not been adopted at scale. The Hound Labs device claims to detect THC in breath within a 2-3 hour window, which more closely approximates the period of acute impairment, but peer-reviewed validation at federal regulatory standards has not been completed. Cognitive impairment testing platforms (DRUID, AlertMeter, Impairment Science) measure reaction time, balance, and decision-making, but face the challenge of establishing baseline measurements and accounting for individual variation.
+
+### Polysubstance Adulteration
+
+The illicit drug supply increasingly contains xylazine (detected in 36% of San Francisco drug samples in 2023), nitazenes, novel synthetic opioids, and novel benzodiazepines that are not detected by standard fentanyl test strips, requiring more sophisticated drug checking technology. The emergence of xylazine -- a veterinary tranquilizer with no FDA-approved human use -- in the drug supply poses particular challenges because naloxone does not reverse xylazine effects, and standard immunoassay panels do not test for it.
+
+### Oral Fluid Testing Expansion
+
+SAMHSA's 2024 approval of oral fluid testing for federal programs is expected to shift the market significantly. Oral fluid tests detect more recent use (24-48 hours for cannabis vs. 1-30 days for urine), which may increase positivity rates for substances used within the detection window while decreasing them for substances used further in the past. European countries (Belgium, Norway, Australia) have used oral fluid testing extensively for roadside drug detection, and their experience suggests higher detection rates for recent use but better correlation with actual impairment. The transition will require retooling of collection infrastructure and laboratory certification processes.
+
+### AI and Impairment Technology
+
+Several companies are developing AI-based cognitive impairment detection systems that use eye tracking, reaction time measurement, gait analysis, and pupillometry to assess fitness for duty. These systems raise questions about privacy, accuracy, worker consent, algorithmic bias, and the appropriate regulatory framework for workplace deployment. The FDA has not issued guidance on whether such systems would be regulated as medical devices.
+
+### CBD and Hemp Cross-Reactivity
+
+The growth of the legal CBD and hemp market (projected at $22 billion by 2025, per Brightfield Group) has created a category of workers who may test positive for THC from legal hemp-derived products containing trace amounts of THC (below 0.3% concentration by dry weight but potentially cumulative with regular use). Full-spectrum CBD products may contain sufficient THC to trigger a positive immunoassay result, particularly at the 50 ng/mL screening cutoff. The DOT has explicitly stated that CBD product use is not an acceptable medical explanation for a positive THC test (DOT/ODAPC guidance, 2020).
+
+### Military and Federal Employee Testing
+
+The federal employee drug testing program, established by Executive Order 12564 (1986), continues to test for cannabis in all positions designated as "Testing Designated Positions" (TDPs), even as state legalization proceeds. The Department of Defense maintains the largest single-employer testing program, with approximately 2.1 million active-duty and civilian personnel subject to testing. In 2024, the Department of Defense reaffirmed its zero-tolerance cannabis policy, noting that federal law supersedes state legalization for all military and civilian DOD employees.
 
 ---
 

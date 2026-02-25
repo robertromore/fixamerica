@@ -277,13 +277,80 @@ Biosimilars -- the biological drug equivalent of generics -- offer significant s
 
 The first Humira biosimilars launched in the U.S. in January 2023 after AbbVie settled with biosimilar manufacturers in patent litigation, with most settlements delaying entry until 2023 despite the drug's key patents having expired years earlier. One year after biosimilar launch, Humira biosimilars captured only approximately 14% of the U.S. market, compared to 80%+ market share achieved by biosimilars in Europe within 3 years. Analysts cite PBM formulary decisions, rebate structures that favor the reference product, and physician hesitancy as factors slowing U.S. adoption.
 
+### Rebate Walls and Biosimilar Barriers
+
+A central barrier to biosimilar adoption is the "rebate wall" -- a practice in which reference biologic manufacturers offer PBMs and insurers large rebates (often 50-70% of list price) contingent on maintaining the reference product as the preferred or exclusive formulary option, effectively blocking biosimilar access. This practice means that even when a biosimilar is priced 30-40% below the reference product's list price, the net cost to the plan after rebates may be lower for the reference product, disincentivizing formulary inclusion of the biosimilar.
+
+| Rebate Wall Element | Description | Impact on Biosimilar Access |
+|---|---|---|
+| Exclusive formulary rebates | Manufacturer offers higher rebate if biosimilars excluded | Biosimilar blocked from formulary |
+| Volume-based rebate tiers | Rebate increases with market share maintained | Financial penalty for switching to biosimilar |
+| Bundled rebates | Rebates across multiple products tied to biosimilar exclusion | Cross-product leverage against biosimilar entry |
+| Contracting duration | Multi-year rebate contracts lock in reference product | Delays biosimilar adoption even after launch |
+
+Source: FTC Interim Report on PBMs, 2024; Biosimilars Council (AAM), 2024
+
+---
+
+## Alternative Pharmacy Models
+
+### Mark Cuban Cost Plus Drugs
+
+Mark Cuban Cost Plus Drugs Company, launched in January 2022, operates on a transparent cost-plus pricing model that exposes the magnitude of traditional pharmacy supply chain markups. The model charges manufacturer cost plus a 15% margin, a $5 pharmacist dispensing fee, and $5 shipping for mail-order prescriptions.
+
+| Metric | Value (2024) | Source |
+|---|---|---|
+| Medications offered | 2,500+ generic drugs | Cost Plus Drugs, 2024 |
+| Average savings vs. traditional pharmacy | 50-90% per prescription | GoodRx/Cost Plus comparison, 2024 |
+| Annual prescriptions filled | 3+ million (est.) | Cost Plus Drugs investor reports, 2024 |
+| Dallas manufacturing facility | 22,000 sq. ft.; produces select generics in-house | Cost Plus Drugs, 2024 |
+| Physical pharmacy locations | Expanding (partnership model) | Cost Plus Drugs, 2024 |
+
+**Examples of Price Differences**:
+
+| Drug | Traditional Pharmacy Price | Cost Plus Price | Savings |
+|---|---|---|---|
+| Imatinib (generic Gleevec, 400mg, 30 tablets) | $2,502 | $17.10 | 99% |
+| Albendazole (200mg, 2 tablets) | $398 | $8.85 | 98% |
+| Metformin ER (500mg, 90 tablets) | $35 | $4.80 | 86% |
+| Finasteride (1mg, 90 tablets) | $65 | $5.40 | 92% |
+
+Source: Cost Plus Drugs pricing, 2024; GoodRx price comparisons
+
+The Cost Plus model has generated bipartisan legislative interest. Several states have explored requiring Medicaid programs and state employee health plans to use cost-plus pricing for generic drugs. The model's primary limitation is that it covers only generic drugs -- the brand-name drugs that drive the majority of drug spending remain outside its scope.
+
+---
+
+## Generic Drug Shortages
+
+### Current Shortage Landscape
+
+The U.S. experienced a record 323 active drug shortages in the first quarter of 2024, the highest level since the American Society of Health-System Pharmacists (ASHP) began tracking in 2001. Shortages disproportionately affect older, low-cost generic drugs essential for hospital and emergency care.
+
+| Metric | Value | Source |
+|---|---|---|
+| Active drug shortages (Q1 2024) | 323 | ASHP Drug Shortage Statistics, 2024 |
+| Average shortage duration | 18 months | ASHP, 2024 |
+| Shortages lasting > 3 years | 15% of all shortages | FDA Drug Shortage Database, 2024 |
+| Most-shorted categories | Injectable oncology, antibiotics, anesthetics, ADHD medications | ASHP, 2024 |
+| Manufacturers exiting generic market (2018-2023) | 12 major exits | FDA, 2024 |
+| Adderall shortage (amphetamine salts) | Began October 2022; ongoing through 2024 | FDA Drug Shortage Database |
+| Chemotherapy drug shortages (cisplatin, carboplatin) | Critical shortages in 2023; partial resolution 2024 | ASHP/NCCN, 2024 |
+
+### Root Causes of Shortages
+
+- **Race-to-the-bottom pricing**: Generic drug competition has driven prices so low that manufacturers cannot sustain quality production. The average price per generic prescription fell from $0.48 to $0.24 between 2012 and 2022 (IQVIA, 2023).
+- **Manufacturing quality failures**: The FDA issued 80+ warning letters to generic manufacturing facilities in 2023, with quality problems at Intas Pharmaceuticals (India) contributing directly to the chemotherapy shortage.
+- **Supply chain concentration**: For many generic drugs, only 1-3 manufacturers remain, creating single points of failure. An estimated 60% of generic drug active pharmaceutical ingredients (APIs) are manufactured in India and China (FDA, 2023).
+- **Insufficient economic incentives**: Group purchasing organizations (GPOs) and PBMs pressure generic manufacturers on price with no mechanism to ensure manufacturing sustainability or quality investment.
+
 ---
 
 ## Recent Trends
 
 ### Emerging Cost Drivers
 
-- **GLP-1 receptor agonists**: Ozempic, Wegovy, Mounjaro, and Zepbound for diabetes and obesity are projected to cost U.S. payers $100+ billion annually by 2030. Wegovy lists at $1,349/month in the U.S. vs. $140/month in Denmark (where manufacturer Novo Nordisk is based). CBO estimates that covering GLP-1s for Medicare obesity would cost $35 billion over 10 years.
+- **GLP-1 receptor agonists**: Ozempic, Wegovy, Mounjaro, and Zepbound for diabetes and obesity are projected to cost U.S. payers $100+ billion annually by 2030. Wegovy lists at $1,349/month in the U.S. vs. $140/month in Denmark (where manufacturer Novo Nordisk is based). CBO estimates that covering GLP-1s for Medicare obesity would cost $35 billion over 10 years. As of 2024, Medicare does not cover GLP-1s for weight loss (only for diabetes), and most state Medicaid programs have restricted coverage. The Treat and Reduce Obesity Act, which would authorize Medicare coverage, faces fiscal concerns. Novo Nordisk reported $35 billion in global GLP-1 revenue in 2023, with the U.S. accounting for approximately 70% of sales. Manufacturing costs for semaglutide are estimated at $5-$40 per month (Yale/King's College London study, 2024).
 - **Cell and gene therapies**: One-time treatments with list prices of $1-$3.5 million per patient (e.g., Hemgenix at $3.5 million for hemophilia B, Casgevy at $2.2 million for sickle cell disease). An estimated 50+ cell and gene therapies are expected by 2030.
 - **Oncology drugs**: Average annual cost of a cancer drug regimen exceeds $200,000 as of 2024, up from $50,000 in 2010.
 
@@ -301,14 +368,35 @@ As of 2024, at least 37 states have enacted some form of drug pricing legislatio
 
 Source: NCSL, 2024; National Academy for State Health Policy, 2024
 
+### Prescription Drug Affordability Boards (PDABs) in Detail
+
+| State | Year Established | Authority Level | Status (2024) |
+|---|---|---|---|
+| Maryland | 2019 | Review and recommend; upper payment limit authority (added 2023) | Reviewing first drugs for UPL setting |
+| Colorado | 2021 | Set upper payment limits for state-regulated plans | First UPL reviews initiated 2024 |
+| Oregon | 2023 | Review affordability; recommend UPLs | Board appointed; rulemaking underway |
+| Washington | 2022 | Affordability reviews; public reporting | First reviews completed 2024 |
+| Minnesota | 2023 | Advisory reviews; recommend action | Board appointed 2024 |
+| Maine | 2023 | Review and public reporting | Initial implementation |
+| New Hampshire | 2024 | Review pricing; recommend reforms | Newly established |
+| Nevada | 2024 | Review diabetes drug pricing | Focused scope |
+| Ohio | 2024 | PBM transparency and drug price review | Newly established |
+
+Source: National Academy for State Health Policy, 2024
+
+PDABs represent the most significant state-level innovation in drug pricing policy. Colorado's board has the broadest authority, with the power to set upper payment limits that cap what state-regulated health plans, Medicaid, and state employee plans pay for selected drugs. However, PDABs face legal challenges from the pharmaceutical industry, which argues that state price-setting is preempted by federal patent law and the Medicare/Medicaid frameworks.
+
 ---
 
 ## Emerging Challenges
 
-- **Legal challenges to IRA**: The pharmaceutical industry has filed at least nine lawsuits challenging the IRA's Medicare negotiation authority, arguing it violates the Fifth Amendment (takings), First Amendment (compelled speech), and Eighth Amendment (excessive fines). Federal courts have so far rejected these challenges, but cases remain pending.
-- **Drug shortages**: The U.S. experienced a record 323 active drug shortages in early 2024, driven by manufacturing quality problems, low generic drug prices that discourage production, and supply chain fragility. Shortages disproportionately affect older, low-cost generic drugs.
-- **Interchangeability debates**: As biosimilars enter the market, debates over automatic substitution at the pharmacy level, physician prescribing habits, and patient trust continue to slow adoption.
-- **International trade implications**: U.S. trade agreements have historically included provisions strengthening pharmaceutical patent protections abroad, which other countries argue raises their drug costs while benefiting U.S. manufacturers.
+- **Legal challenges to IRA**: The pharmaceutical industry has filed at least nine lawsuits challenging the IRA's Medicare negotiation authority, arguing it violates the Fifth Amendment (takings), First Amendment (compelled speech), and Eighth Amendment (excessive fines). Federal courts have so far rejected these challenges, but cases remain pending in various appellate courts.
+- **Drug shortages**: The U.S. experienced a record 323 active drug shortages in early 2024, driven by manufacturing quality problems, low generic drug prices that discourage production, and supply chain fragility. Shortages disproportionately affect older, low-cost generic drugs essential for cancer treatment, surgery, and emergency care.
+- **Interchangeability debates**: As biosimilars enter the market, debates over automatic substitution at the pharmacy level, physician prescribing habits, and patient trust continue to slow adoption. Only 4 states have enacted automatic biosimilar substitution laws as of 2024.
+- **International trade implications**: U.S. trade agreements have historically included provisions strengthening pharmaceutical patent protections abroad, which other countries argue raises their drug costs while benefiting U.S. manufacturers. The USMCA (2020) extended biologic data protection in Canada to 10 years.
+- **Compounding pharmacy controversy**: With the FDA's drug shortage list including semaglutide (Ozempic/Wegovy), compounding pharmacies began producing semaglutide at $100-$200 per month, far below the $900-$1,350 list price. Novo Nordisk has challenged compounders' authority, raising questions about the boundary between legitimate compounding and unauthorized manufacturing.
+- **340B program litigation**: Manufacturers including Eli Lilly, AstraZeneca, Sanofi, and Novo Nordisk have restricted 340B discounts at contract pharmacies, arguing the program has expanded beyond its statutory intent. Multiple federal court rulings have produced conflicting results, and HRSA enforcement actions have been challenged. The program's future scope remains uncertain.
+- **Copay accumulator expansion**: An increasing number of commercial insurers and PBMs have adopted copay accumulator adjustment programs that prevent manufacturer copay assistance from counting toward patient deductibles and out-of-pocket maximums. An estimated 20% of commercially insured patients on specialty drugs are affected, facing effective cost increases of $2,000-$10,000 per year (IQVIA, 2024).
 
 ---
 

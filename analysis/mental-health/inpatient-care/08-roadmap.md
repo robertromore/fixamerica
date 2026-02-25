@@ -32,6 +32,17 @@ The strategy is grounded in a recognition that the psychiatric bed crisis is fun
 
 The theory of change assumes that removing financial barriers will enable organic market growth in psychiatric beds (as occurred with general hospital beds after the Hill-Burton Act), while targeted federal investments address areas where the market alone will not produce adequate capacity -- particularly state psychiatric hospitals, rural and underserved communities, and the psychiatric workforce pipeline.
 
+### Political Strategy for Sequencing
+
+The roadmap's phasing reflects political reality as well as operational logic. Phase 1 actions are designed to build evidence and political support for Phase 2 legislation:
+
+- **IMD waiver expansion** (Phase 1) produces data showing that Medicaid coverage of psychiatric inpatient care reduces ED boarding and total costs, creating the evidence base for **full IMD repeal** (Phase 2)
+- **Pilot bed registry deployment** (Phase 1) demonstrates reduced boarding times in pilot states, building congressional support for **national deployment** (Phase 2)
+- **Initial workforce investments** (Phase 1) begin producing providers who will be available to staff facilities funded by **infrastructure grants** (Phase 2)
+- **Crisis stabilization grants** (Phase 1) demonstrate diversion from EDs, supporting the case for **expanded CSU funding** (Phase 2-3)
+
+This "evidence-then-legislation" sequencing is modeled on successful health policy reforms including the ACA's state innovation waivers and the Children's Health Insurance Program (CHIP), which used state demonstrations to build support for federal legislation.
+
 ---
 
 ## Phase 1: Foundation Building (Years 1-2)
@@ -43,6 +54,7 @@ The theory of change assumes that removing financial barriers will enable organi
 - Issue strengthened MHPAEA enforcement guidance for inpatient psychiatric care
 - Begin first round of crisis stabilization unit grants
 - Initiate psychiatric workforce pipeline programs
+- Establish interagency coordination and data collection infrastructure
 
 ### Key Actions
 
@@ -55,6 +67,8 @@ The theory of change assumes that removing financial barriers will enable organi
 | Fund 200 new psychiatric residency positions through Medicare GME expansion | CMS/HRSA | Months 6-18 | $200 million/year | 200 new residency slots filled by Year 2 |
 | Launch psychiatric workforce loan repayment program (first cohort of 500 providers) | HRSA | Months 6-12 | $50 million/year | 500 providers enrolled by Month 12 |
 | Establish interagency task force on psychiatric bed capacity (HHS, DOJ, VA, HUD) | White House | Month 1 | Executive order; no new appropriation | Task force operational by Month 3 |
+| Initiate pediatric psychiatric bed assessment and needs analysis | SAMHSA/AHRQ | Months 3-12 | $5 million | Needs assessment published by Month 12 |
+| Launch discharge planning quality initiative with CMS pilot | CMS | Months 6-18 | $10 million | Pilot in 50 hospitals by Month 18 |
 
 ### Legislative Requirements
 
@@ -64,7 +78,7 @@ The theory of change assumes that removing financial barriers will enable organi
 
 ### Expected Outcomes
 
-By the end of Phase 1, all 50 states should have active IMD waivers enabling Medicaid reimbursement for short-term stays in psychiatric facilities of any size. The national bed registry should be operational in 5 pilot states, demonstrating reduced ED boarding times. The first 50 crisis stabilization units should be under construction or operational, and 200 new psychiatric residency positions should be filled. MHPAEA enforcement guidance should be producing measurable increases in authorized psychiatric inpatient stays by commercial insurers.
+By the end of Phase 1, all 50 states should have active IMD waivers enabling Medicaid reimbursement for short-term stays in psychiatric facilities of any size. The national bed registry should be operational in 5 pilot states, demonstrating reduced ED boarding times. The first 50 crisis stabilization units should be under construction or operational, and 200 new psychiatric residency positions should be filled. MHPAEA enforcement guidance should be producing measurable increases in authorized psychiatric inpatient stays by commercial insurers. The pediatric needs assessment should provide the data foundation for dedicated pediatric bed investments in Phase 2.
 
 ---
 
@@ -78,6 +92,7 @@ By the end of Phase 1, all 50 states should have active IMD waivers enabling Med
 - Achieve 500+ operational crisis stabilization units
 - Fund 1,000 total new psychiatric residency positions
 - Begin state psychiatric hospital modernization program
+- Launch dedicated pediatric psychiatric bed expansion initiative
 
 ### Key Actions
 
@@ -90,6 +105,8 @@ By the end of Phase 1, all 50 states should have active IMD waivers enabling Med
 | Fund cumulative 1,000 new psychiatric residency positions | CMS/HRSA | Years 3-5 | $500 million/year | 1,000 total new residency positions filled |
 | Begin state psychiatric hospital modernization grants | SAMHSA | Year 4 | $300 million/year ($3 billion over 10 years) | First 20 modernization projects funded by Year 5 |
 | Establish national inpatient psychiatric quality reporting program | CMS | Year 3-4 | $25 million for development; existing CMS quality infrastructure | Quality measures publicly reported by Year 4 |
+| Launch Pediatric Psychiatric Bed Expansion grants | SAMHSA/HRSA | Year 3 | $500 million over 3 years | 1,000 new pediatric beds funded by Year 5 |
+| Implement national discharge planning standards as condition of Medicaid participation | CMS | Year 4 | Regulatory authority; $10 million for technical assistance | Standards effective by Year 4 |
 
 ### Legislative Requirements
 
@@ -97,10 +114,11 @@ By the end of Phase 1, all 50 states should have active IMD waivers enabling Med
 - Federal Psychiatric Infrastructure Investment Act authorizing $5 billion over 5 years
 - State Psychiatric Hospital Modernization Act authorizing $3 billion over 10 years (65% federal / 35% state match)
 - Psychiatric Workforce Development Act expanding Medicare GME to 1,000 positions and authorizing $2.5 billion for workforce programs
+- Pediatric Psychiatric Bed Expansion Act authorizing $500 million for dedicated pediatric capacity
 
 ### Expected Outcomes
 
-By the end of Phase 2, the IMD exclusion should be fully repealed, removing the central financial distortion from the psychiatric care market. The first new psychiatric facilities funded through the Infrastructure Investment Program should be under construction or completed. The national bed registry should be reducing ED boarding times in all 50 states. At least 500 crisis stabilization units should be operational, diverting an estimated 300,000+ annual ED presentations. The psychiatric workforce pipeline should be expanding with 1,000 new residency positions and thousands of providers in loan repayment programs. National psychiatric bed capacity should be increasing toward 20 beds per 100,000 population (from 11.7 in 2024).
+By the end of Phase 2, the IMD exclusion should be fully repealed, removing the central financial distortion from the psychiatric care market. The first new psychiatric facilities funded through the Infrastructure Investment Program should be under construction or completed. The national bed registry should be reducing ED boarding times in all 50 states. At least 500 crisis stabilization units should be operational, diverting an estimated 300,000+ annual ED presentations. The psychiatric workforce pipeline should be expanding with 1,000 new residency positions and thousands of providers in loan repayment programs. National psychiatric bed capacity should be increasing toward 20 beds per 100,000 population (from 11.7 in 2024). At least 1,000 new pediatric psychiatric beds should be funded or under construction.
 
 ---
 
@@ -113,6 +131,7 @@ By the end of Phase 2, the IMD exclusion should be fully repealed, removing the 
 - Eliminate psychiatric ED boarding exceeding 2 hours
 - Reduce 30-day readmission rate from 19.3% to below 12%
 - Achieve psychiatric workforce density sufficient to staff all available beds
+- Establish value-based payment models that reward quality outcomes rather than volume
 
 ### Key Actions
 
@@ -124,10 +143,12 @@ By the end of Phase 2, the IMD exclusion should be fully repealed, removing the 
 | Conduct comprehensive 5-year evaluation of IMD repeal impact | GAO/CMS | Year 8 | $10 million evaluation contract | Evaluation report published by Year 8 |
 | Achieve target workforce density: 20+ psychiatrists per 100,000 | HRSA | Year 10 | Ongoing workforce programs | Measurable increase in psychiatrist density |
 | Implement value-based payment models for psychiatric inpatient care | CMS | Years 8-10 | $50 million for model development | Value-based models operational by Year 10 |
+| Establish regional psychiatric care networks in all states | SAMHSA/States | Years 6-10 | Technical assistance; Medicaid waiver support | All states with regional care networks by Year 10 |
+| Launch second-generation quality improvement program based on Phase 2 data | CMS | Year 7 | $25 million | Updated quality benchmarks published Year 7 |
 
 ### Expected Outcomes
 
-By Year 10, the United States should have a functional, adequately funded inpatient psychiatric care system with at least 30 beds per 100,000 population (approaching the 40-60 range recommended by the Treatment Advocacy Center). Emergency department psychiatric boarding should be eliminated as a systemic problem, with no patient waiting more than 2 hours for placement. The 30-day readmission rate should be below 12%, reflecting adequate lengths of stay and effective discharge planning. The psychiatric workforce should be sufficient to staff available beds without chronic vacancies. State psychiatric hospitals should be modernized, safe facilities meeting current accreditation standards.
+By Year 10, the United States should have a functional, adequately funded inpatient psychiatric care system with at least 30 beds per 100,000 population (approaching the 40-60 range recommended by the Treatment Advocacy Center). Emergency department psychiatric boarding should be eliminated as a systemic problem, with no patient waiting more than 2 hours for placement. The 30-day readmission rate should be below 12%, reflecting adequate lengths of stay and effective discharge planning. The psychiatric workforce should be sufficient to staff available beds without chronic vacancies. State psychiatric hospitals should be modernized, safe facilities meeting current accreditation standards. Value-based payment models should be incentivizing quality outcomes rather than volume, creating a sustainable financial model for the long term.
 
 ---
 
@@ -143,17 +164,21 @@ By Year 10, the United States should have a functional, adequately funded inpati
 | State hospital modernization | Year 10 | Facilities meeting current standards | ~40% | 45% | 55% | 90%+ |
 | National bed registry | Year 3 | States with operational registry | 5 (pilot) | 50 | 50 | 50 |
 | IMD waiver/repeal | Year 3 | States with Medicaid IMD coverage | 12 (waiver) | All (repeal) | All | All |
+| 7-day follow-up rate | Year 10 | Patients with outpatient visit within 7 days of discharge | 62% | 70% | 80% | 90%+ |
+| Pediatric psychiatric beds | Year 10 | Dedicated pediatric beds nationwide | ~5,000 | 5,500 | 6,500 | 8,000+ |
+| Psychiatric nursing vacancy | Year 10 | National vacancy rate | >20% | 18% | 15% | <10% |
 
 ## Governance and Oversight
 
 Implementation governance requires clear accountability across federal agencies and levels of government:
 
-- **Interagency Task Force**: The White House-led interagency task force (established in Phase 1) provides overall coordination, with quarterly progress reports to the President and Congress. Members include HHS (lead), DOJ, VA, HUD, DOL, and OMB.
-- **SAMHSA**: Lead agency for infrastructure grants, CSU grants, bed registry operations, and state technical assistance. Annual reports to Congress on bed capacity, CSU operations, and grant outcomes.
-- **CMS**: Lead agency for Medicaid implementation (IMD repeal), quality reporting, parity enforcement, and value-based payment models. Quarterly data releases on psychiatric utilization and spending.
-- **HRSA**: Lead agency for workforce programs, loan repayment, and residency position tracking. Annual workforce reports to Congress.
-- **GAO**: Independent 5-year comprehensive evaluation (Year 8) and annual performance audits of major programs.
-- **State Mental Health Authorities**: State-level coordination of bed expansion, facility modernization, and crisis system deployment. Annual reporting to SAMHSA as condition of federal funding.
+- **Interagency Task Force**: The White House-led interagency task force (established in Phase 1) provides overall coordination, with quarterly progress reports to the President and Congress. Members include HHS (lead), DOJ, VA, HUD, DOL, and OMB. The task force is chaired by the HHS Assistant Secretary for Mental Health and Substance Use and reports to the Domestic Policy Council.
+- **SAMHSA**: Lead agency for infrastructure grants, CSU grants, bed registry operations, and state technical assistance. Annual reports to Congress on bed capacity, CSU operations, and grant outcomes. SAMHSA's Center for Mental Health Services (CMHS) would manage the infrastructure and modernization grant programs.
+- **CMS**: Lead agency for Medicaid implementation (IMD repeal), quality reporting, parity enforcement, and value-based payment models. Quarterly data releases on psychiatric utilization and spending. CMS's Center for Medicaid and CHIP Services (CMCS) would manage IMD repeal implementation and waiver oversight.
+- **HRSA**: Lead agency for workforce programs, loan repayment, and residency position tracking. Annual workforce reports to Congress. HRSA's Bureau of Health Workforce would coordinate the psychiatric workforce pipeline programs.
+- **GAO**: Independent 5-year comprehensive evaluation (Year 8) and annual performance audits of major programs. GAO would assess whether federal investments are producing measurable improvements in bed capacity, boarding times, and patient outcomes.
+- **State Mental Health Authorities**: State-level coordination of bed expansion, facility modernization, and crisis system deployment. Annual reporting to SAMHSA as condition of federal funding. Each SMHA would designate a psychiatric infrastructure coordinator responsible for managing federal grants and reporting.
+- **Independent Quality Oversight Board**: A new federal advisory board, modeled on the Medicare Payment Advisory Commission (MedPAC), would advise Congress on psychiatric care quality, capacity adequacy, and reimbursement levels. The board would include clinicians, patients, family members, state officials, and researchers.
 
 ## Risk Mitigation
 
@@ -163,7 +188,7 @@ Implementation governance requires clear accountability across federal agencies 
 
 **Impact**: High -- without IMD repeal, the central financial barrier remains, and capacity expansion depends entirely on state and private investment.
 
-**Mitigation Strategy**: Phase 1 executive actions (IMD waiver expansion, MHPAEA enforcement) provide partial relief without legislation. Build bipartisan support through CBO scoring that includes offsets (reduced ED boarding, reduced incarceration costs). Frame IMD repeal as completing the work of the 21st Century Cures Act.
+**Mitigation Strategy**: Phase 1 executive actions (IMD waiver expansion, MHPAEA enforcement) provide partial relief without legislation. Build bipartisan support through CBO scoring that includes offsets (reduced ED boarding, reduced incarceration costs). Frame IMD repeal as completing the work of the 21st Century Cures Act. Target key committee members with data from their home states on ED boarding times and bed shortages.
 
 **Contingency Plan**: If full repeal fails, pursue incremental legislation: extend waiver stay limits to 90 days, create permanent IMD waiver authority (eliminating need for individual state applications), and expand the existing exception for patients under age 21 and over age 65.
 
@@ -175,7 +200,7 @@ Implementation governance requires clear accountability across federal agencies 
 
 **Mitigation Strategy**: Begin workforce pipeline investments in Phase 1 (before major construction begins). Use multiple pathways simultaneously: residency expansion, loan repayment, international recruitment, scope of practice expansion. Target 4-year lead time between workforce investment and facility completion.
 
-**Contingency Plan**: Implement emergency visa pathways for international psychiatrists. Deploy telepsychiatry to extend specialist coverage to new facilities during staffing ramp-up. Expand psychiatric nurse practitioner and physician assistant scope of practice to reduce reliance on psychiatrists.
+**Contingency Plan**: Implement emergency visa pathways for international psychiatrists. Deploy telepsychiatry to extend specialist coverage to new facilities during staffing ramp-up. Expand psychiatric nurse practitioner and physician assistant scope of practice to reduce reliance on psychiatrists. Partner with the Department of Defense to create military-to-civilian psychiatric workforce transition programs.
 
 ### Risk 3: NIMBY Opposition to Facility Siting
 
@@ -185,7 +210,7 @@ Implementation governance requires clear accountability across federal agencies 
 
 **Mitigation Strategy**: Require community engagement as a condition of federal grants. Provide technical assistance to grantees on community relations. Offer additional federal funding to communities that host facilities (similar to payments in lieu of taxes). Design facilities to modern architectural standards that integrate with surrounding communities.
 
-**Contingency Plan**: Include federal preemption of local zoning restrictions for federally funded psychiatric facilities, modeled on the Religious Land Use and Institutionalized Persons Act (RLUIPA). Identify alternative sites on federal or state-owned land.
+**Contingency Plan**: Include federal preemption of local zoning restrictions for federally funded psychiatric facilities, modeled on the Religious Land Use and Institutionalized Persons Act (RLUIPA). Identify alternative sites on federal or state-owned land. Prioritize facility expansion on existing hospital campuses where zoning is already established.
 
 ### Risk 4: Cost Overruns on Construction Projects
 
@@ -193,9 +218,9 @@ Implementation governance requires clear accountability across federal agencies 
 
 **Impact**: Medium -- reduces the number of facilities that can be built within the authorized budget.
 
-**Mitigation Strategy**: Require cost estimates and contingency budgets in all grant applications. Establish construction cost benchmarks based on recent comparable projects. Use design-build contracting to control costs. Require 10% contingency reserves.
+**Mitigation Strategy**: Require cost estimates and contingency budgets in all grant applications. Establish construction cost benchmarks based on recent comparable projects. Use design-build contracting to control costs. Require 10% contingency reserves. Develop standardized facility designs that can be adapted to local conditions, reducing per-project design costs.
 
-**Contingency Plan**: Redirect funding from higher-cost projects to lower-cost renovation and expansion projects. Prioritize bed additions to existing facilities over new construction when cost-effective.
+**Contingency Plan**: Redirect funding from higher-cost projects to lower-cost renovation and expansion projects. Prioritize bed additions to existing facilities over new construction when cost-effective. Partner with state and local governments to leverage additional funding sources (state bonds, community development block grants).
 
 ### Risk 5: Quality Failures in Expanded System
 
@@ -203,9 +228,19 @@ Implementation governance requires clear accountability across federal agencies 
 
 **Impact**: High -- patient harm or institutional abuse would undermine public support and validate opposition arguments.
 
-**Mitigation Strategy**: Establish national quality standards as a condition of all federal funding (Phase 1). Require Joint Commission or equivalent accreditation. Implement public reporting of quality measures. Create independent inspection and enforcement mechanisms. Mandate trauma-informed care training for all staff.
+**Mitigation Strategy**: Establish national quality standards as a condition of all federal funding (Phase 1). Require Joint Commission or equivalent accreditation. Implement public reporting of quality measures. Create independent inspection and enforcement mechanisms. Mandate trauma-informed care training for all staff. Require independent patient advocates at all federally funded facilities.
 
-**Contingency Plan**: Immediate suspension of federal funding for facilities that fail quality inspections. Emergency transfer protocols for patients in substandard facilities. Public reporting of violations.
+**Contingency Plan**: Immediate suspension of federal funding for facilities that fail quality inspections. Emergency transfer protocols for patients in substandard facilities. Public reporting of violations. Automatic DOJ investigation of facilities with repeated quality failures.
+
+### Risk 6: Political Reversal After Change in Administration
+
+**Likelihood**: Medium
+
+**Impact**: Medium-High -- new administration could slow or reverse executive actions, though legislation is more durable.
+
+**Mitigation Strategy**: Prioritize legislative action (which is harder to reverse) over executive action for the most consequential reforms. Build bipartisan support so that reforms are not identified with a single party. Ensure that Phase 1 executive actions produce visible, measurable benefits in as many congressional districts as possible before the next election cycle.
+
+**Contingency Plan**: Structure grants as multi-year awards with legal protections against mid-term cancellation. Build state-level coalitions that would resist federal rollback. Ensure that bed registry and CSU programs become integrated into state systems such that discontinuation would impose visible costs on state governments.
 
 ## Resource Requirements
 
@@ -214,11 +249,11 @@ Implementation governance requires clear accountability across federal agencies 
 | Phase | Estimated Annual Federal Cost | Funding Source | Notes |
 |-------|-------------------------------|----------------|-------|
 | Phase 1 (Years 1-2) | $3.5-4.5 billion/year | Appropriations (CSU grants, workforce, bed registry); existing CMS authority (IMD waivers) | IMD waiver costs: $2-3B; new programs: $1.5B |
-| Phase 2 (Years 3-5) | $12-17 billion/year | IMD repeal ($10-15B); infrastructure grants ($1B); modernization ($300M); workforce ($500M) | IMD repeal is the largest cost |
+| Phase 2 (Years 3-5) | $12-17 billion/year | IMD repeal ($10-15B); infrastructure grants ($1B); modernization ($300M); workforce ($500M); pediatric ($167M) | IMD repeal is the largest cost |
 | Phase 3 (Years 6-10) | $12-16 billion/year | Ongoing IMD coverage ($10-15B); remaining construction ($500M-1B); modernization ($300M) | Costs stabilize as one-time investments complete |
 | **Total (10 years)** | **$110-150 billion** | | **Includes $100-150B for ongoing IMD Medicaid coverage** |
 
-The 10-year total is dominated by the ongoing Medicaid cost of IMD repeal ($10-15 billion annually). However, CBO projections do not currently include offsets from reduced emergency department boarding (estimated at $4-8 billion annually), reduced incarceration of individuals with serious mental illness (estimated $5-10 billion annually in state and local corrections costs), and reduced homelessness service costs. When these offsets are considered, the net federal cost is substantially lower.
+The 10-year total is dominated by the ongoing Medicaid cost of IMD repeal ($10-15 billion annually). However, CBO projections do not currently include offsets from reduced emergency department boarding (estimated at $4-8 billion annually), reduced incarceration of individuals with serious mental illness (estimated $5-10 billion annually in state and local corrections costs), and reduced homelessness service costs. When these offsets are considered, the net federal cost is substantially lower. MACPAC has recommended that CBO develop improved scoring methodology for psychiatric care reforms that accounts for cross-system savings.
 
 ### Personnel
 
@@ -231,6 +266,7 @@ The 10-year total is dominated by the ongoing Medicaid cost of IMD repeal ($10-1
 - **National Bed Registry**: Cloud-based technology platform with real-time data feeds from all psychiatric facilities. Estimated $50 million development cost plus $15-20 million annual operations.
 - **Construction**: An estimated 300-500 facility construction or major renovation projects over 10 years, including new psychiatric hospitals, hospital unit expansions, and crisis stabilization units.
 - **State hospital modernization**: An estimated 50-100 state psychiatric hospital renovation projects, many involving replacement of buildings dating to the mid-20th century.
+- **Telepsychiatry infrastructure**: Broadband and telehealth technology deployment to enable remote psychiatric consultation at inpatient facilities in underserved areas, extending specialist coverage to facilities that cannot recruit full-time psychiatrists.
 
 ---
 

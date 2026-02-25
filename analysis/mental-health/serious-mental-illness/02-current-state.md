@@ -106,6 +106,22 @@ Anosognosia -- impaired awareness of one's own illness -- is a neurological symp
 | Bipolar disorder | 40% (during manic episodes) | 2x more likely to stop medication | Amador, 2022 |
 | Severe depression | 15-25% | Moderate impact | Gilleen et al., 2022 |
 
+Neuroimaging studies have identified structural and functional abnormalities in the frontal and parietal lobes of people with anosognosia, confirming that it is a brain-based deficit rather than a psychological defense mechanism (Gerretsen et al., *Brain*, 2014). People with anosognosia are 3.5 times more likely to be hospitalized and 4 times more likely to be arrested compared to people with SMI who retain illness awareness (Amador, 2022). This population represents the core challenge for any voluntary-only treatment system: they do not believe they are ill and therefore will not seek or accept treatment on their own. Assisted outpatient treatment, discussed in detail in the solutions section, is the primary evidence-based mechanism for engaging this population.
+
+### Forensic Populations
+
+People with SMI who become involved in the criminal justice system face compounding barriers to treatment:
+
+| Metric | Value | Source |
+|---|---|---|
+| People found incompetent to stand trial (IST) annually | ~60,000 | Torrey et al., TAC, 2023 |
+| Average wait time for forensic hospital bed (IST) | 3-6 months (many states) | TAC, 2023 |
+| States under court order for IST wait times | 9 states | TAC, 2024 |
+| Recidivism rate for people with SMI released from prison without treatment | 60-80% within 2 years | CSG Justice Center, 2023 |
+| Annual cost per inmate with SMI | $50,000-75,000 | Vera Institute, 2023 |
+
+The incompetent-to-stand-trial (IST) crisis represents one of the most acute failures of the current system. In states such as Washington, California, and Oregon, people found IST wait months in jail -- often in solitary confinement -- for a forensic hospital bed. Washington State was held in contempt of court repeatedly for failing to provide timely competency restoration services (Trueblood v. DSHS, 2015-present). California allocates over $400 million annually to forensic mental health services, yet IST wait times regularly exceed 100 days (California Department of State Hospitals, 2023).
+
 ## Psychiatric Bed Capacity
 
 ### National Bed Counts
@@ -279,12 +295,40 @@ Over the past 5-10 years, several trends have shaped the SMI landscape:
 - **Workforce Crisis**: The psychiatric workforce continues to age and shrink relative to demand, with 60% of U.S. counties having no practicing psychiatrist (APA, 2023).
 - **LAI and Clozapine Advocacy**: Growing clinical and policy advocacy for expanding use of long-acting injectable antipsychotics and clozapine, though utilization rates remain far below evidence-based benchmarks.
 
+## State Variation
+
+The quality and availability of SMI services vary enormously by state, driven by differences in Medicaid generosity, state mental health budgets, civil commitment standards, and AOT implementation.
+
+### State Performance Indicators
+
+| State | SMI Ranking (MHA, 2024) | Beds per 100K | Per Capita MH Spending | AOT Law | Medicaid Expansion |
+|---|---|---|---|---|---|
+| Massachusetts | 1 (best) | 16.2 | $285 | No AOT law | Yes |
+| Connecticut | 3 | 14.8 | $267 | No AOT law | Yes |
+| New York | 8 | 17.1 | $312 | Yes (Kendra's Law) | Yes |
+| Oregon | 15 | 8.3 | $195 | Yes | Yes |
+| Texas | 41 | 5.9 | $73 | Yes (limited) | No |
+| Mississippi | 47 | 29.0 | $67 | Yes | Yes (2024) |
+| Alabama | 49 | 8.1 | $55 | Yes | No |
+| Idaho | 50 (worst) | 6.2 | $48 | Yes | Yes |
+
+Mental Health America's annual "State of Mental Health in America" report ranks states on a composite of prevalence, access, and insurance indicators. States in the bottom tier consistently share characteristics: low Medicaid reimbursement rates, limited AOT implementation even where laws exist, few psychiatric beds, and rural geographies with no practicing psychiatrists. The gap between the highest-performing and lowest-performing states produces fundamentally different experiences for people with SMI depending on where they live.
+
+### Notable State Models
+
+- **New York (Kendra's Law)**: The most extensively studied AOT program in the country, with 25 years of outcome data. New York's AOT program serves approximately 3,500 people at any given time and has demonstrated sustained reductions in hospitalization, arrest, and homelessness (NYS OMH, 2023).
+- **Arizona (Arnold v. Sarn)**: A landmark consent decree (1981, modified 2014) required Maricopa County to build a comprehensive community mental health system. The resulting system includes assertive community treatment, supported housing, and crisis services that have become a national model, though implementation has been uneven.
+- **Georgia (Crisis System)**: Georgia has built one of the most comprehensive crisis continuums in the country, featuring 24/7 call centers, mobile crisis teams, and crisis stabilization units in every region. The system reduced state hospital admissions by 25% and ED psychiatric visits by 40% (Georgia DBHDD, 2023).
+- **Colorado (Crisis Services)**: Colorado's statewide crisis system, operated by WellPower and other regional providers, features a centralized crisis line, walk-in crisis centers, and mobile response teams. The system diverts approximately 70% of crisis contacts from emergency departments and law enforcement (Colorado BHA, 2023).
+
 ## Emerging Challenges
 
-- **Post-COVID Mental Health Surge**: The COVID-19 pandemic exacerbated SMI, with SAMHSA reporting increases in psychological distress, delayed treatment, and disrupted medication access across all demographics.
-- **Fentanyl and Co-Occurring SUD**: The fentanyl crisis disproportionately affects people with SMI, who have substance use disorder comorbidity rates of 26.2%. Overdose death rates among people with SMI are 8-10 times the general population rate (CDC, 2023).
-- **Housing Market Pressures**: Rising rents and declining affordable housing stock threaten the stability of people with SMI, with supportive housing waitlists exceeding 2-5 years in many metropolitan areas.
+- **Post-COVID Mental Health Surge**: The COVID-19 pandemic exacerbated SMI, with SAMHSA reporting increases in psychological distress, delayed treatment, and disrupted medication access across all demographics. Telehealth adoption accelerated dramatically during the pandemic, but people with the most severe SMI -- particularly those experiencing psychosis, homelessness, or cognitive impairment -- were least able to access virtual care.
+- **Fentanyl and Co-Occurring SUD**: The fentanyl crisis disproportionately affects people with SMI, who have substance use disorder comorbidity rates of 26.2%. Overdose death rates among people with SMI are 8-10 times the general population rate (CDC, 2023). Methamphetamine-induced psychosis has emerged as a growing clinical challenge, particularly in western states, complicating differential diagnosis and treatment planning.
+- **Housing Market Pressures**: Rising rents and declining affordable housing stock threaten the stability of people with SMI, with supportive housing waitlists exceeding 2-5 years in many metropolitan areas. The national deficit of affordable housing units for extremely low-income renters exceeds 7 million units (National Low Income Housing Coalition, 2024), and people with SMI on disability income are among the most cost-burdened renters in the country.
 - **Artificial Intelligence in Diagnosis**: Emerging AI tools for early psychosis detection and treatment monitoring present both opportunities for earlier intervention and risks of misdiagnosis, algorithmic bias, and privacy violations.
+- **Workforce Retirement Wave**: With the average psychiatrist age at 55, the field faces a significant retirement wave over the next decade. An estimated 30% of currently practicing psychiatrists will retire by 2035, and training pipeline expansion remains insufficient to replace them (APA, 2023).
+- **State Hospital Infrastructure Decay**: Many remaining state psychiatric hospitals operate in facilities built in the 19th or early 20th century, with deferred maintenance costs in the billions. Several states face the choice of investing hundreds of millions in renovation or closing facilities that serve forensic and long-stay populations with no alternative placement.
 
 ---
 

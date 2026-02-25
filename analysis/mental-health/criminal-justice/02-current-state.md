@@ -45,6 +45,20 @@ The scale of mental illness in the criminal justice system is staggering and has
 | Federal prisons | ~158,300 | ~39,600 | ~14,200 | Bureau of Justice Statistics, 2023 |
 | **Total incarcerated** | **~1,863,400** | **~717,100** | **~278,000** | |
 
+### Gender Disparities
+
+Women in the criminal justice system have significantly higher rates of mental illness than men, yet gender-responsive treatment remains scarce.
+
+| Metric | Women | Men | Source |
+|---|---|---|---|
+| Any mental health condition (jails) | 66% | 35% | Bureau of Justice Statistics, 2023 |
+| Serious mental illness (jails) | 26% | 14% | Bureau of Justice Statistics, 2023 |
+| Trauma/PTSD history | 77% | 38% | National Institute of Justice, 2022 |
+| Prior sexual or physical abuse | 82% | 27% | Bureau of Justice Statistics, 2023 |
+| Receiving mental health treatment in jail | 25% | 18% | NCCHC, 2023 |
+
+Women are also more likely to be primary caregivers of minor children, meaning that their incarceration for mental health-related offenses disrupts families across generations. An estimated 80% of women in jails are mothers, and 60% have children under age 18 (Sentencing Project, 2023).
+
 ### Co-Occurring Conditions
 
 Mental illness in the criminal justice population rarely occurs in isolation.
@@ -56,6 +70,10 @@ Mental illness in the criminal justice population rarely occurs in isolation.
 | Traumatic brain injury | 25-87% (varies by study) | Journal of Head Trauma Rehabilitation, 2021 |
 | Intellectual/developmental disability | 10-15% | The Arc, 2022 |
 | Homelessness (prior 12 months) | 30% of jail inmates with SMI | Treatment Advocacy Center, 2023 |
+| Chronic pain conditions | 41% | NCCHC, 2023 |
+| HIV/Hepatitis C | 15% (3x general population rate) | CDC, 2023 |
+
+The triple diagnosis of mental illness, substance use disorder, and trauma is the modal presentation among incarcerated people with behavioral health conditions. A 2023 National Institute of Justice study found that 48% of incarcerated people with mental health conditions met criteria for all three conditions simultaneously, yet fewer than 5% of correctional facilities offer integrated treatment addressing all three (NIJ, 2023).
 
 ## Crisis Response Systems
 
@@ -204,6 +222,36 @@ Competency evaluations and restoration represent one of the fastest-growing cris
 | Self-harm rate in solitary vs. general population | 6.9x higher | JAMA Psychiatry, 2022 |
 | Suicide rate in solitary vs. general population | 6-12x higher (varies by study) | WHO/UNODC, 2022 |
 
+### Suicide in Correctional Settings
+
+Suicide is the leading cause of death in local jails and a significant cause of death in state prisons. People with mental illness in custody are at dramatically elevated risk.
+
+| Metric | Value | Source |
+|---|---|---|
+| Jail suicide rate (per 100,000) | 49 | Bureau of Justice Statistics, 2023 |
+| General population suicide rate (per 100,000) | 14.0 | CDC, 2023 |
+| Prison suicide rate (per 100,000) | 24 | Bureau of Justice Statistics, 2023 |
+| Percentage of jail suicides occurring within first 72 hours | 23% | National Institute of Corrections, 2022 |
+| Percentage of jail suicides in restrictive housing | 27% | Hayes, 2022 |
+| Jails with suicide prevention programs meeting national standards | ~35% | NCCHC, 2023 |
+| Average annual jail deaths by suicide | ~350 | Bureau of Justice Statistics, 2023 |
+
+Lindsay Hayes, a leading researcher on correctional suicide, has identified consistent risk factors: mental illness, substance withdrawal, single-cell housing, recent bad news (legal setback, family crisis), and the initial hours and days of confinement. Despite decades of research on prevention, suicide rates in jails have increased 13% since 2010 (Bureau of Justice Statistics, 2023).
+
+### Psychotropic Medication Management
+
+The prescription and management of psychiatric medications in correctional settings present unique challenges.
+
+| Issue | Detail | Source |
+|---|---|---|
+| Formulary restrictions | 62% of jails use restricted formularies that exclude newer psychiatric medications | NCCHC, 2023 |
+| Medication continuity at booking | Only 34% of jails continue pre-arrest psychiatric medications within 24 hours of booking | Stepping Up Initiative, 2024 |
+| Forced medication (non-competency) | Permitted in 44 states under varying legal standards | Treatment Advocacy Center, 2023 |
+| Medication-assisted treatment for co-occurring OUD | Available in only 30% of jails (up from 11% in 2019) | National Sheriff's Association, 2024 |
+| Average cost of psychiatric medications per inmate per year | $3,200 | National Commission on Correctional Health Care, 2023 |
+
+The abrupt discontinuation of psychiatric medication at booking -- common in facilities without rapid intake screening -- can trigger psychiatric emergencies, including acute psychosis, seizures, and suicidal behavior. A 2022 study in *Psychiatric Services* found that medication discontinuation at jail booking was associated with a 3.2-fold increase in self-harm incidents within the first 14 days of incarceration.
+
 ### Key Legal Standards
 
 | Standard | Year | Requirement |
@@ -241,6 +289,22 @@ The Centers for Medicare & Medicaid Services (CMS) issued a final rule in 2023 a
 | Estimated federal savings (10-year projection) | $3.5 billion | CBO preliminary estimate, 2024 |
 | Services covered in pre-release period | Case management, medication, care coordination | CMS final rule, 2023 |
 
+## Racial and Ethnic Disparities
+
+### Disparities in Arrest and Diversion
+
+| Metric | White | Black | Hispanic | Source |
+|---|---|---|---|---|
+| Arrest rate per 100,000 (mental health-related) | 420 | 1,008 | 580 | Vera Institute, 2023 |
+| Likelihood of mental health court referral (relative) | 1.0 (baseline) | 0.70 | 0.82 | Redlich et al., 2022 |
+| Likelihood of CIT response vs. standard police response | 1.0 (baseline) | 0.65 | 0.78 | Watson et al., 2021 |
+| Pretrial diversion rate (defendants with SMI) | 28% | 16% | 21% | CSG Justice Center, 2023 |
+| Solitary confinement placement rate (people with SMI) | 1.0 (baseline) | 1.8x | 1.3x | Vera Institute, 2024 |
+
+A 2023 study in the *American Journal of Psychiatry* found that Black individuals with serious mental illness were 2.6 times more likely to be arrested and 40% less likely to be diverted to treatment than white individuals with comparable diagnoses, charges, and criminal histories. The study controlled for offense type, severity, and clinical presentation, isolating the effect of race on disposition decisions.
+
+The disparities compound at each stage: Black and Hispanic individuals are less likely to have private insurance that facilitates rapid psychiatric evaluation, less likely to have family advocates present at booking, less likely to be identified through mental health screening (due to cultural differences in symptom presentation and implicit bias among screeners), and less likely to be placed in mental health court programs. The result is that communities of color bear a disproportionate burden of the criminalization of mental illness.
+
 ## Geographic Variation
 
 ### State-Level Disparities
@@ -252,6 +316,20 @@ The Centers for Medicare & Medicaid Services (CMS) issued a final rule in 2023 a
 | Jail screening rates | Colorado (90%+), Connecticut (85%+) | Mississippi, Alabama (< 25%) | Stepping Up Initiative, 2024 |
 | Psychiatric bed availability | Mississippi (40/100K), D.C. (50/100K) | Arizona (5.4/100K), Iowa (6/100K) | Treatment Advocacy Center, 2022 |
 | 988 answer rates | Alaska (97%), Vermont (96%) | Mississippi (62%), Georgia (68%) | SAMHSA, 2024 |
+
+### Urban-Rural Divide
+
+The crisis plays out differently in urban and rural settings. Urban jails tend to have larger populations of people with mental illness in absolute numbers, but rural jails often have higher proportions and fewer resources.
+
+| Metric | Urban Jails | Rural Jails | Source |
+|---|---|---|---|
+| Percentage of inmates with SMI | 15% | 21% | Stepping Up Initiative, 2024 |
+| Access to on-site mental health staff | 72% | 28% | NCCHC, 2023 |
+| Average distance to nearest crisis stabilization center | 8 miles | 85 miles | NASMHPD, 2023 |
+| Availability of co-responder programs | 35% of urban departments | 3% of rural departments | PERF, 2023 |
+| Telepsychiatry available | 45% | 18% | NCCHC, 2023 |
+
+Rural areas face a compound disadvantage: fewer psychiatric beds, longer distances to crisis services, fewer mental health professionals, and law enforcement agencies too small to sustain CIT programs. A 2023 Rural Health Research Center study found that rural counties with populations under 25,000 had zero community mental health providers accepting Medicaid referrals from the justice system in 34% of cases.
 
 ## Recent Trends
 

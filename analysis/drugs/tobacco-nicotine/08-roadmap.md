@@ -26,6 +26,15 @@ The roadmap for comprehensive tobacco and nicotine reform follows a three-phase 
 
 Each phase builds on the preceding one: early enforcement and cessation actions reduce youth initiation and support current smokers, creating a more favorable political environment for the structural reforms that follow.
 
+### Equity Principles Throughout Implementation
+
+Every phase of implementation must be guided by equity principles:
+
+- **Prioritize populations with the highest smoking rates**: Low-income communities, American Indian/Alaska Native populations, LGBTQ+ communities, people with behavioral health conditions, and Black Americans affected by menthol targeting
+- **Design enforcement to avoid racially disparate outcomes**: Target supply chain (manufacturers, distributors, retailers), not individual consumers; include explicit statutory exemptions for individual possession
+- **Direct cessation investment to underserved communities**: Ensure that expanded cessation services reach rural areas, tribal communities, behavioral health settings, and low-income neighborhoods
+- **Monitor equity outcomes**: Track smoking prevalence changes by race, income, geography, and health status to ensure that all populations benefit from policy reforms
+
 ---
 
 ## Phase 1: Foundation and Enforcement (Years 1-2)
@@ -37,6 +46,7 @@ Each phase builds on the preceding one: early enforcement and cessation actions 
 - Increase the federal cigarette excise tax and establish inflation indexing
 - Expand cessation coverage and fund state quitline enhancement
 - Strengthen Tobacco 21 enforcement nationwide
+- Implement graphic health warnings on cigarette packages
 
 ### Key Actions
 
@@ -46,19 +56,30 @@ Each phase builds on the preceding one: early enforcement and cessation actions 
 | Launch illicit market enforcement task force | FDA, ATF, CBP | Months 3-12 | $50M first-year allocation; interagency coordination | Task force operational; seizure data |
 | Enforce PMTA requirements against top 20 unauthorized disposable e-cigarette brands | FDA/CTP | Months 1-18 | Enhanced CTP enforcement staff ($30M) | Warning letters, injunctions, import alerts issued |
 | Enact federal tobacco tax increase ($1.01 to $3.00/pack) | Congress | Months 1-18 | Legislative action; CBO scoring | Legislation signed |
+| Establish federal e-cigarette excise tax | Congress | Months 1-18 | Included in tax reform legislation | Tax implemented |
 | Issue CMS guidance requiring comprehensive Medicaid cessation coverage | CMS | Months 3-12 | Existing regulatory authority | Guidance issued; state compliance monitoring |
 | Fund quitline enhancement and digital cessation programs | SAMHSA/CDC | Months 6-18 | $200M supplemental appropriation | Quitline call volume; digital program enrollment |
 | National Tobacco 21 compliance check program | FDA/CTP | Months 1-24 | $20M annual allocation | Retailer compliance rate >90% |
+| Finalize graphic health warning rule and defend litigation | FDA/CTP | Months 1-18 | Legal defense resources | Final rule published; litigation defense prepared |
+| Launch community-based menthol ban education campaign | CDC/FDA | Months 1-12 | $30M first-year allocation | Campaign reach in target communities |
 
 ### Legislative Requirements
 
 - Federal cigarette excise tax increase and inflation indexing (Congressional action)
+- Federal e-cigarette excise tax establishment (Congressional action)
 - Supplemental appropriation for cessation infrastructure and enforcement ($300M)
 - Codification of menthol ban enforcement provisions (individual possession exemption)
 
 ### Expected Outcomes
 
 Phase 1 should achieve: finalization of the menthol rule (the most significant single tobacco regulatory action since the Tobacco Control Act); measurable reduction in unauthorized e-cigarette availability; increased quit attempts among menthol smokers; higher cessation treatment utilization; and >90% Tobacco 21 retailer compliance. Expected 500,000+ additional quit attempts in the first year of menthol ban implementation.
+
+### Equity Milestones (Phase 1)
+
+- Cessation support campaigns specifically targeting Black menthol smokers launched before or concurrent with menthol ban implementation
+- Medicaid cessation coverage expanded to all seven FDA-approved medications plus counseling in all 50 states
+- No individual consumer penalties in menthol ban enforcement framework
+- Community education in American Indian/Alaska Native communities distinguishing between commercial tobacco regulation and traditional ceremonial tobacco use
 
 ---
 
@@ -83,16 +104,26 @@ Phase 1 should achieve: finalization of the menthol rule (the most significant s
 | Finalize and implement graphic health warnings | FDA/CTP | Year 3-4 | Rule finalization (currently in litigation) | Warnings appearing on cigarette packs |
 | Establish modified risk product review pathway with clear standards | FDA/CTP | Year 3 | Rulemaking; additional CTP staff ($100M) | Published standards; reduced review timelines |
 | Increase annual tobacco prevention/cessation funding to $3.3B (CDC-recommended) | Congress/States | Years 3-5 | Annual appropriations | Funding reaches recommended level |
+| Enact federal smoke-free workplace legislation | Congress | Year 3-4 | Legislative action | 100% of indoor workers covered by smoke-free protections |
+| Fund tobacco control in tribal communities | IHS/SAMHSA | Years 3-5 | $50M annual targeted funding | Dedicated tribal tobacco control programs in all IHS regions |
 
 ### Legislative Requirements
 
 - Federal Tobacco Retail Licensing Act
+- Federal Smoke-Free Workplace Act
 - Appropriations to reach CDC-recommended cessation/prevention funding levels
 - Possible legislation strengthening FDA authority against litigation challenges to PMTA process
 
 ### Expected Outcomes
 
 Phase 2 should achieve: a proposed or finalized nicotine reduction standard (the most consequential tobacco regulatory action in history); establishment of a retail licensing infrastructure that provides enforcement mechanisms for all tobacco regulations; graphic health warnings on cigarette packages; and a doubling of cessation treatment utilization. Adult smoking prevalence projected to decline to 7-8% by end of Phase 2.
+
+### Equity Milestones (Phase 2)
+
+- Tobacco retail density reduced by at least 25% in the most over-saturated neighborhoods (low-income communities, communities of color)
+- Targeted cessation programs operational in 100% of VA facilities, IHS service areas, and state behavioral health systems
+- Smoking prevalence gap between lowest and highest income groups reduced by at least 25%
+- Community health workers trained and deployed in underserved areas to provide cessation support
 
 ---
 
@@ -115,10 +146,18 @@ Phase 2 should achieve: a proposed or finalized nicotine reduction standard (the
 | Evaluate generational smoking ban (UK model) | Congress/FDA | Years 7-10 | Policy analysis; public consultation | Evaluation report; legislative proposal if warranted |
 | Comprehensive post-market surveillance of novel nicotine products | FDA/CTP | Years 6-10 | $100M annual surveillance budget | Long-term health outcome data for authorized products |
 | Establish permanent tobacco research and surveillance infrastructure | NIH/FDA/CDC | Years 6-10 | $500M annual research budget | Continuous evidence base for policy refinement |
+| Transition assistance for tobacco-growing communities | USDA/EDA | Years 6-10 | $500M over 5 years | Crop conversion, job retraining, economic development |
 
 ### Expected Outcomes
 
-Phase 3 should achieve: adult smoking prevalence below 5% (the widely used "tobacco endgame" threshold); dramatic reductions in smoking-attributable mortality beginning to manifest in cancer, cardiovascular disease, and respiratory disease statistics; a coherent nicotine product regulatory framework that permits less harmful alternatives under strict controls; and a tobacco retail environment that no longer normalizes combustible tobacco use. The U.S. would join New Zealand, the UK, and Scandinavia as a global leader in tobacco endgame policy.
+Phase 3 should achieve: adult smoking prevalence below 5% (the widely used "tobacco endgame" threshold); dramatic reductions in smoking-attributable mortality beginning to manifest in cancer, cardiovascular disease, and respiratory disease statistics; a coherent nicotine product regulatory framework that permits less harmful alternatives under strict controls; and a tobacco retail environment that no longer normalizes combustible tobacco use. The U.S. would join the UK and Scandinavia as a global leader in tobacco endgame policy.
+
+### Equity Milestones (Phase 3)
+
+- Adult smoking prevalence below 5% in all major demographic groups, not just the national average
+- Elimination of the menthol cigarette market and associated racial health disparities
+- Universal cessation access regardless of insurance status, income, or geographic location
+- Tobacco retail density equalized across neighborhood income levels
 
 ---
 
@@ -133,6 +172,8 @@ Phase 3 should achieve: adult smoking prevalence below 5% (the widely used "toba
 | Federal prevention/cessation funding | Year 5 | Annual appropriation | $745M (FY2024) | $1.5B | $3.3B | $3.3B (sustained) |
 | Unauthorized e-cigarette products | Year 3 | % of market unauthorized | >80% (est. 2024) | <40% | <20% | <5% |
 | Tobacco retail outlets | Year 10 | Number of licensed retailers | ~300,000+ (est.) | 280,000 | 230,000 | <150,000 |
+| Smoke-free law coverage | Year 5 | % of U.S. workers covered | ~58% (2024) | 75% | 100% | 100% (sustained) |
+| Black adult smoking prevalence | Year 10 | % Black adults who smoke | ~12.2% (2023) | 9.5% | 7.5% | <5.0% |
 
 ## Governance and Oversight
 
@@ -142,7 +183,9 @@ Phase 3 should achieve: adult smoking prevalence below 5% (the widely used "toba
 
 **Independent evaluation**: GAO should conduct biennial evaluations of the tobacco control program's effectiveness, cost-efficiency, and equity outcomes. An external scientific advisory committee (modeled on the Tobacco Products Scientific Advisory Committee, or TPSAC) should provide ongoing guidance on product standards and regulatory priorities.
 
-**State coordination**: A federal-state tobacco control coordination body should be established to share best practices, harmonize enforcement, and monitor illicit market indicators.
+**State coordination**: A federal-state tobacco control coordination body should be established to share best practices, harmonize enforcement, and monitor illicit market indicators. This body should include representatives from state health departments, state attorneys general, and local tobacco control programs.
+
+**Community accountability**: An advisory committee including representatives from disproportionately affected communities (Black Americans, American Indian/Alaska Native populations, LGBTQ+ communities, people with behavioral health conditions, low-income populations) should review enforcement data and equity outcomes on a semi-annual basis and make recommendations to the Tobacco Endgame Coordinator.
 
 ## Risk Mitigation
 
@@ -152,7 +195,7 @@ Phase 3 should achieve: adult smoking prevalence below 5% (the widely used "toba
 
 **Impact**: High
 
-**Mitigation Strategy**: Build an extensive administrative record during rulemaking; engage with constitutional law scholars to develop robust legal defenses; conduct multiple rounds of public input to strengthen the rule's procedural foundation. Prepare for multi-circuit litigation and potential Supreme Court review.
+**Mitigation Strategy**: Build an extensive administrative record during rulemaking; engage with constitutional law scholars to develop robust legal defenses; conduct multiple rounds of public input to strengthen the rule's procedural foundation. Prepare for multi-circuit litigation and potential Supreme Court review. Anticipate major questions doctrine challenges by developing a detailed statutory authority analysis.
 
 **Contingency Plan**: If the nicotine reduction standard is enjoined, accelerate alternative strategies (menthol ban, tax increases, cessation expansion) that achieve incremental reductions while the legal process unfolds.
 
@@ -174,7 +217,7 @@ Phase 3 should achieve: adult smoking prevalence below 5% (the widely used "toba
 
 **Mitigation Strategy**: Advance regulations to final rule stage as quickly as possible; Congressional codification of key policies (menthol ban, tax reform, Tobacco 21 enforcement) provides more durable protection than executive action alone. Build bipartisan support by emphasizing youth protection and fiscal responsibility.
 
-**Contingency Plan**: State-level advocacy to maintain and advance tobacco control policies regardless of federal action. Support for states to adopt California/Massachusetts-style comprehensive programs.
+**Contingency Plan**: State-level advocacy to maintain and advance tobacco control policies regardless of federal action. Support for states to adopt California/Massachusetts-style comprehensive programs. Encourage state-level menthol bans and flavor restrictions in states where political conditions are favorable.
 
 ### Risk 4: Novel Nicotine Products Create New Public Health Challenges
 
@@ -185,6 +228,26 @@ Phase 3 should achieve: adult smoking prevalence below 5% (the widely used "toba
 **Mitigation Strategy**: Maintain robust post-market surveillance of all authorized nicotine products. Fund longitudinal research on health effects. Preserve FDA authority to modify or revoke marketing authorizations based on new evidence. Monitor youth use patterns continuously through annual NYTS data.
 
 **Contingency Plan**: If new products show unexpected health risks or youth uptake, FDA can issue emergency enforcement actions and modify marketing authorizations under existing authority.
+
+### Risk 5: Cessation Infrastructure Fails to Scale
+
+**Likelihood**: Medium
+
+**Impact**: Medium
+
+**Mitigation Strategy**: Phase cessation expansion to match implementation of tobacco control policies. Train additional tobacco treatment specialists before menthol ban and nicotine reduction standard take effect. Invest in digital cessation tools (text messaging, apps, telehealth) that can scale rapidly. Ensure adequate supply of cessation medications (particularly varenicline).
+
+**Contingency Plan**: Deploy emergency cessation resources in areas where smoking rate changes are most rapid. Leverage existing healthcare infrastructure (FQHCs, VA, IHS) for cessation delivery.
+
+### Risk 6: State Revenue Shortfalls Undermine Political Support
+
+**Likelihood**: Medium
+
+**Impact**: Medium
+
+**Mitigation Strategy**: Phase tobacco tax increases to provide transition time. Develop alternative revenue sources for states dependent on tobacco revenue. Demonstrate that reduced smoking generates long-term fiscal benefits through lower Medicaid and healthcare costs. Provide federal transition assistance to states most dependent on tobacco revenue.
+
+**Contingency Plan**: Negotiate revenue-sharing agreements that hold states harmless during the transition period. Use securitized MSA bond restructuring to reduce state fiscal exposure.
 
 ## Resource Requirements
 
@@ -203,6 +266,50 @@ Phase 3 should achieve: adult smoking prevalence below 5% (the widely used "toba
 - CDC Office on Smoking and Health: Increase staffing to support enhanced surveillance, prevention campaign management, and state coordination
 - State-level: Fund an additional 500+ state tobacco control staff through federal grants
 - Cessation workforce: Train an additional 10,000 certified tobacco treatment specialists over 10 years
+- Tribal tobacco control: Fund at least one dedicated tobacco control coordinator in each IHS area office
+
+## State-Level Implementation Priorities
+
+While the federal roadmap drives transformative policy, state action remains critical for comprehensive tobacco control. States should pursue:
+
+### Tier 1 States (no comprehensive smoke-free law, low tobacco taxes, minimal prevention funding)
+
+Priority actions for states like Mississippi, Alabama, Kentucky, West Virginia, and others with the weakest tobacco control environments:
+
+- Enact comprehensive smoke-free workplace and restaurant/bar laws
+- Increase state cigarette excise tax by at least $1.00 per pack
+- Allocate at least 50% of CDC-recommended levels for tobacco prevention and cessation
+- Remove Medicaid cessation coverage barriers (prior authorization, visit limits)
+- Repeal state pre-emption laws that block local tobacco control action
+
+### Tier 2 States (moderate tobacco control, room for improvement)
+
+Priority actions for states with some protections but significant gaps:
+
+- Enact comprehensive flavored tobacco product bans (following California/Massachusetts model)
+- Establish or strengthen tobacco retail licensing with compliance requirements
+- Increase tobacco taxes to above-average levels and index to inflation
+- Expand cessation coverage to comprehensive levels under all state programs
+- Reduce tobacco retail density in over-saturated neighborhoods
+
+### Tier 3 States (strong tobacco control, leading edge)
+
+Priority actions for states already at the forefront:
+
+- Implement tobacco retail density reduction through licensing and zoning
+- Fund tobacco prevention and cessation at or above CDC-recommended levels
+- Serve as models and provide technical assistance to other states
+- Pursue innovative policies (e.g., generational sales bans, tobacco-free pharmacy policies)
+- Share data and lessons learned through interstate coordination
+
+## Economic Transition Planning
+
+The transition away from combustible tobacco will affect communities economically dependent on the tobacco industry. A responsible roadmap must include transition assistance:
+
+- **Tobacco-growing communities**: Crop conversion assistance through USDA programs; economic diversification grants; workforce retraining for farmers and agricultural workers
+- **Retail transition**: Small business transition grants for convenience stores that lose tobacco revenue; support for diversification into other product categories
+- **Manufacturing regions**: Economic development initiatives in regions where tobacco manufacturing is a major employer (e.g., Richmond, Virginia; Winston-Salem, North Carolina)
+- **Tax revenue replacement**: State-level planning for alternative revenue sources as tobacco consumption declines; phased tax increases that maintain revenue during the transition period
 
 ### Infrastructure
 
@@ -210,6 +317,8 @@ Phase 3 should achieve: adult smoking prevalence below 5% (the widely used "toba
 - National tobacco product surveillance system integrating retail sales data, enforcement data, and health outcome data
 - Digital cessation platform accessible nationwide via web and mobile
 - Illicit market monitoring system coordinating FDA, ATF, CBP, and state enforcement agencies
+- Federal tobacco retail licensing database integrated with state systems
+- Real-time point-of-sale data collection system for monitoring compliance with flavor restrictions, pricing, and age verification
 
 ---
 

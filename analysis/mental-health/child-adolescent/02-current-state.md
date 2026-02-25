@@ -65,9 +65,37 @@ Black children aged 5-12 now die by suicide at nearly twice the rate of white ch
 | Substance use disorder | 12-17 | 1.6 million (6.3%) | SAMHSA NSDUH, 2022 |
 | Eating disorders (lifetime) | Adolescents | 2.7% | NIMH, 2023 |
 
+### Early Childhood Mental Health (Ages 0-5)
+
+Early childhood mental health has received far less attention than adolescent mental health, yet emerging evidence demonstrates that social-emotional and behavioral problems begin well before school entry.
+
+| Metric | Value | Source |
+|---|---|---|
+| Children aged 0-5 with social-emotional problems affecting functioning | 9.5-14.2% | Briggs-Gowan et al., 2001; Zero to Three, 2023 |
+| Preschool expulsion rate (per 1,000 enrolled) | 6.67 (3x the K-12 rate) | Gilliam, 2005 |
+| Children aged 2-5 prescribed psychotropic medication | Estimated 1-2% | Olfson et al., 2022 |
+| Endorsed infant and early childhood mental health clinicians nationally | Fewer than 3,000 | Alliance for the Advancement of Infant Mental Health, 2023 |
+| States with early childhood mental health consultation programs | 48 | SAMHSA, 2023 |
+
+Preschool expulsion--the removal of young children from childcare and early education programs for behavioral reasons--occurs at a rate of 6.67 per 1,000 enrolled children, more than three times the K-12 expulsion rate (Gilliam, 2005). Black boys are expelled at rates 4.7 times higher than white boys at the preschool level, establishing disparities before formal schooling begins. Early childhood mental health consultation (ECMHC), in which a mental health professional supports childcare providers in addressing children's behavioral and emotional needs, has demonstrated significant reductions in expulsion rates and improvements in teacher-child interactions (Gilliam et al., 2016).
+
+### Eating Disorders
+
+Eating disorders among children and adolescents have increased significantly, with emergency department visits for eating disorders among adolescents doubling during the pandemic.
+
+| Condition | Prevalence | Trend | Source |
+|---|---|---|---|
+| Anorexia nervosa (lifetime, adolescents) | 0.3% | Stable to increasing | NIMH, 2023 |
+| Bulimia nervosa (lifetime, adolescents) | 0.9% | Increasing | NIMH, 2023 |
+| Binge eating disorder (lifetime, adolescents) | 1.6% | Increasing | NIMH, 2023 |
+| ED visits for eating disorders, ages 12-17 (2020) | Up 100% vs. 2018 | Sharp pandemic increase | CDC MMWR, 2022 |
+| Median age of onset, anorexia nervosa | 12-13 years | Decreasing over time | APA, 2023 |
+
+Eating disorders carry the highest mortality rate of any psychiatric condition, with anorexia nervosa having a standardized mortality ratio of 5.9 (Arcelus et al., 2011). Treatment access is severely limited: only 20-30% of adolescents with eating disorders receive specialized treatment (NEDA, 2023), and specialized pediatric eating disorder programs are concentrated in major metropolitan areas.
+
 ### Overall Burden
 
-An estimated 49.5% of adolescents have experienced a mental health disorder by age 18, based on the National Comorbidity Survey Replication-Adolescent Supplement (NCS-A, Merikangas et al., 2010). More recently, the CDC's National Survey of Children's Health found that in 2022, 21.8% of children aged 3-17 had a current mental, emotional, developmental, or behavioral condition (CDC NSCH, 2022).
+An estimated 49.5% of adolescents have experienced a mental health disorder by age 18, based on the National Comorbidity Survey Replication-Adolescent Supplement (NCS-A, Merikangas et al., 2010). More recently, the CDC's National Survey of Children's Health found that in 2022, 21.8% of children aged 3-17 had a current mental, emotional, developmental, or behavioral condition (CDC NSCH, 2022). Comorbidity is the rule rather than the exception: among adolescents with a mental health disorder, approximately 40% meet criteria for two or more conditions simultaneously (Merikangas et al., 2010). The most common comorbidity patterns include anxiety with depression, ADHD with conduct disorder, and trauma-related disorders with substance use.
 
 ---
 
@@ -165,6 +193,40 @@ Schools are the primary point of contact for children's mental health services, 
 ### Bipartisan Safer Communities Act Impact
 
 The Bipartisan Safer Communities Act (Public Law 117-159, 2022) appropriated $1.7 billion over 5 years for youth mental health, including $1 billion for school-based mental health services through the Stronger Connections Grant Program. As of mid-2024, all 50 states had received initial allocations, but disbursement to individual schools remained uneven.
+
+### Evidence-Based Treatments: Availability and Access
+
+The evidence base for youth mental health treatment is robust, but access to evidence-based interventions remains limited.
+
+| Treatment | Condition | Evidence Level | Availability |
+|---|---|---|---|
+| Cognitive-Behavioral Therapy (CBT) | Depression, anxiety | Strong (100+ RCTs) | Limited; estimated 30-40% of therapists are trained |
+| Trauma-Focused CBT (TF-CBT) | PTSD, trauma | Strong (20+ RCTs) | Limited; approximately 15,000 trained clinicians nationally |
+| Dialectical Behavior Therapy for Adolescents (DBT-A) | Suicidality, self-harm, emotion dysregulation | Strong | Very limited; specialized training required |
+| Parent-Child Interaction Therapy (PCIT) | Disruptive behavior, ages 2-7 | Strong | Limited; approximately 5,000 trained clinicians |
+| Multisystemic Therapy (MST) | Serious behavioral problems, juvenile justice-involved youth | Strong | Limited to licensed MST sites |
+| Applied Behavior Analysis (ABA) | Autism spectrum disorder | Strong | Growing but insufficient; long wait lists |
+| Medication (SSRIs) | Depression, anxiety | Moderate-Strong | More available than therapy; raises medication-first concerns |
+| Family-Based Treatment (FBT) | Eating disorders | Strong | Very limited; concentrated in academic centers |
+
+The gap between what research has proven effective and what children actually receive is substantial. A 2017 study found that fewer than 40% of community-based youth mental health clinicians used evidence-based practices as their primary treatment approach (Garland et al., 2017). Training in evidence-based youth treatments is not universally required in graduate programs, and ongoing fidelity monitoring is rare outside of research settings.
+
+---
+
+## Juvenile Justice Intersection
+
+Youth in the juvenile justice system have among the highest rates of mental health disorders of any population.
+
+| Metric | Value | Source |
+|---|---|---|
+| Youth in juvenile detention with at least one mental health disorder | 65-70% | OJJDP, 2022 |
+| Youth in detention with two or more disorders | 60% | Teplin et al., 2002; updated estimates |
+| Youth in detention meeting criteria for substance use disorder | 50% | OJJDP, 2022 |
+| Youth in detention who received mental health treatment prior to arrest | Fewer than 33% | Models for Change, 2022 |
+| Juvenile arrests annually | ~424,300 (2021) | OJJDP, 2023 |
+| Youth held in residential placement | ~25,014 (2021) | OJJDP, 2023 |
+
+Many justice-involved youth have histories of untreated mental health conditions, trauma exposure, and unmet service needs. An estimated 70% of youth in detention have experienced at least one traumatic event, and 30% meet criteria for PTSD (Ford et al., 2007). The juvenile justice system effectively functions as a de facto mental health system for youth who could not access community-based treatment--at far greater cost and with far worse outcomes than early community intervention would have produced.
 
 ---
 
@@ -299,13 +361,55 @@ The pandemic catalyzed rapid expansion of telehealth for pediatric mental health
 
 ---
 
+## Transition-Age Youth (18-25)
+
+Young adults aged 18-25 represent a uniquely vulnerable population that falls between the child and adult mental health systems.
+
+| Metric | Value | Source |
+|---|---|---|
+| Prevalence of any mental illness, ages 18-25 | 33.7% | SAMHSA NSDUH, 2022 |
+| Prevalence of serious mental illness, ages 18-25 | 11.4% | SAMHSA NSDUH, 2022 |
+| Treatment rate for any mental illness, ages 18-25 | 51.4% | SAMHSA NSDUH, 2022 |
+| Former foster youth with mental health disorder by age 21 | 54% | Courtney et al., 2011 |
+| College students reporting anxiety affecting academics | 37% | ACHA-NCHA, 2023 |
+| College students reporting depression affecting academics | 27% | ACHA-NCHA, 2023 |
+
+The transition from pediatric to adult mental health services creates a structural gap. Medicaid's EPSDT benefit covers all medically necessary services for enrollees under 21, but at age 21, coverage shifts to the far less comprehensive adult Medicaid benefit package. For youth aging out of foster care, the Chafee program and extended foster care (available in 36 states through age 21) provide some transitional support, but mental health continuity remains poor. An estimated 50-75% of youth receiving children's mental health services disengage during the transition to adult services (Davis, 2003; SAMHSA, 2023).
+
+College mental health has emerged as a particular area of concern. University counseling centers report that demand for services has increased 30-40% over the past decade while staffing has not kept pace (CCMH Annual Report, 2023). The average wait time for an initial counseling appointment at a university counseling center is 2-3 weeks, with some institutions reporting waits of 6-8 weeks during peak demand periods.
+
+---
+
+## State-Level Variation
+
+Children's mental health systems vary enormously across states, creating geographic disparities in access and outcomes.
+
+| State Category | Examples | Per-Child Mental Health Spending | Key Features |
+|---|---|---|---|
+| High-investment states | Connecticut, Massachusetts, Vermont | $150-250+ per child | Comprehensive school-based services; statewide psychiatric consultation models; Medicaid expansion |
+| Moderate-investment states | Colorado, Oregon, Minnesota | $80-150 per child | Growing school-based programs; telehealth initiatives; state mental health parity laws |
+| Low-investment states | Mississippi, Arkansas, Alabama | Under $50 per child | Limited school-based services; no state parity requirements beyond federal law; severe workforce shortages |
+
+Notable state-level innovations include:
+
+- **Massachusetts MCPAP**: The Massachusetts Child Psychiatry Access Program provides same-day psychiatric consultation to any pediatrician in the state, reaching over 60,000 children since 2005. The model has been replicated in 40+ states under various names
+- **Connecticut**: First state to enact baby bonds legislation (2021); comprehensive school-based health center network; strong EPSDT implementation
+- **Colorado**: Universal screening mandate for depression and suicide risk at annual well-child visits; state-funded school mental health grants; crisis services for youth
+- **California**: Invested $4.7 billion through the Children and Youth Behavioral Health Initiative (2022), the largest single state investment in children's mental health in U.S. history
+- **Georgia**: Statewide behavioral health crisis system with mobile crisis teams and crisis stabilization units reduced psychiatric hospitalizations by 40% and ED boarding by 60%
+
+---
+
 ## Emerging Challenges
 
 - **Fentanyl and youth substance use**: While overall adolescent substance use has declined, fentanyl contamination of illicit drugs has driven a sharp increase in adolescent overdose deaths--up 109% from 2019 to 2021 (CDC WONDER, 2023)
 - **Climate anxiety**: Surveys find that 45% of young people aged 16-25 report that climate change feelings negatively affect their daily functioning (Lancet Planetary Health, 2021)
 - **AI and digital manipulation**: Emerging AI technologies pose new risks for youth including deepfakes, AI-generated harassment, and conversational AI that may give harmful health advice
 - **Post-pandemic learning loss and disengagement**: Chronic absenteeism rates doubled during the pandemic and remain elevated, compounding mental health challenges with academic and social disconnection
-- **Workforce burnout**: Mental health professionals report high rates of burnout and secondary traumatic stress, threatening the stability of the existing workforce even as expansion is needed
+- **Workforce burnout**: Mental health professionals report high rates of burnout and secondary traumatic stress, threatening the stability of the existing workforce even as expansion is needed. A 2023 APA survey found that 46% of psychologists reported burnout, with those serving children and adolescents reporting among the highest rates
+- **Gun violence exposure**: An estimated 3 million U.S. children witness gun violence each year, and 7 million children live in households with unsecured firearms (Everytown for Gun Safety, 2023). Firearm access is the leading method of youth suicide completion, and school shootings create widespread trauma in affected communities
+- **Housing instability and homelessness**: An estimated 1.3 million public school students experienced homelessness during the 2021-2022 school year (Department of Education, 2023). Homeless youth experience rates of mental health conditions 2-4 times higher than housed peers
+- **Immigration-related trauma**: An estimated 5.1 million children in the United States have at least one undocumented parent, living with chronic fear of family separation (Migration Policy Institute, 2023). Unaccompanied minors and children separated at the border face elevated rates of PTSD, depression, and anxiety
 
 ---
 

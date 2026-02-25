@@ -19,13 +19,17 @@ Proposals to divert people with mental illness from the criminal justice system,
 
 ### Ideological Opposition
 
-- **Law-and-order conservatives**: Believe that criminal behavior must be met with consequences regardless of mental health status. View diversion as undermining deterrence and personal responsibility. Concerned that mental health diagnosis becomes an "excuse" for criminal conduct.
+- **Law-and-order conservatives**: Believe that criminal behavior must be met with consequences regardless of mental health status. View diversion as undermining deterrence and personal responsibility. Concerned that mental health diagnosis becomes an "excuse" for criminal conduct. This perspective was articulated by former Attorney General William Barr, who argued in 2020 that "the criminal justice system exists to hold people accountable" and that mental health considerations should not diminish that function. The Heritage Foundation has published policy papers arguing that diversion programs "erode the rule of law" by creating categories of offenders exempt from prosecution.
 
-- **Libertarian skeptics**: While generally supportive of reducing incarceration, some libertarians oppose government-funded mental health programs and mandatory treatment as state overreach. They prefer voluntary, market-based treatment solutions and view mental health courts as expanding judicial power.
+- **Libertarian skeptics**: While generally supportive of reducing incarceration, some libertarians oppose government-funded mental health programs and mandatory treatment as state overreach. They prefer voluntary, market-based treatment solutions and view mental health courts as expanding judicial power into health decisions. The Cato Institute has argued that mental health courts represent "therapeutic paternalism" that extends state authority over individual medical choices under the guise of compassion.
 
-- **Public safety populists**: Believe that crime -- particularly visible street crime associated with mental illness and homelessness -- should be addressed through enforcement. Support "quality of life" policing. Often influenced by high-profile cases of violence committed by people with untreated mental illness.
+- **Public safety populists**: Believe that crime -- particularly visible street crime associated with mental illness and homelessness -- should be addressed through enforcement. Support "quality of life" policing. Often influenced by high-profile cases of violence committed by people with untreated mental illness. This perspective gained renewed strength after a series of high-profile subway attacks in New York City in 2022-2023, leading to calls for expanded involuntary commitment and police sweeps of homeless encampments.
 
-- **Fiscal conservatives**: Oppose new spending on mental health infrastructure even when evidence shows long-term cost savings. Demand proof of return on investment before committing public funds and resist the upfront costs required to build crisis and diversion systems.
+- **Fiscal conservatives**: Oppose new spending on mental health infrastructure even when evidence shows long-term cost savings. Demand proof of return on investment before committing public funds and resist the upfront costs required to build crisis and diversion systems. This opposition is particularly potent at the state and county level, where budget constraints are immediate and savings from reduced incarceration may take years to materialize.
+
+- **Civil liberties absolutists (from the left)**: A distinct form of opposition comes from civil liberties advocates who oppose any expansion of coercive treatment authority, including mental health courts that condition treatment on criminal justice involvement, assisted outpatient treatment (AOT) laws, and the CARE Act model. Organizations like the Autistic Self Advocacy Network, the Bazelon Center, and some chapters of the ACLU argue that these programs extend state control over bodily autonomy and disproportionately target people of color and people with disabilities.
+
+- **NIMBYism (Not In My Back Yard)**: Community opposition to the siting of crisis stabilization centers, group homes, supportive housing, and community mental health facilities is a significant barrier to reform. Neighbors and neighborhood associations frequently oppose these facilities, citing concerns about property values, safety, and neighborhood character. NIMBY opposition has blocked or delayed crisis center construction in multiple cities, including proposals in San Francisco, Denver, and Austin.
 
 ---
 
@@ -81,6 +85,26 @@ Proposals to divert people with mental illness from the criminal justice system,
 
 **Rebuttal**: The coercion argument is strongest when mental health courts are the *only* path to treatment. The appropriate response is not to eliminate mental health courts but to build a continuum of treatment options so that criminal justice involvement is not a prerequisite for accessing care. Simultaneously, mental health courts should be reformed to eliminate racial disparities in referrals, limit supervision duration to what is therapeutically necessary, and expand voluntary participation options.
 
+### Argument 6: Community Treatment Cannot Replace Structured Institutional Care
+
+**Claim**: Some people with serious mental illness -- particularly those with treatment-resistant schizophrenia, co-occurring substance use, and repeated violent behavior -- cannot be safely managed in community settings. Deinstitutionalization proved that community care is inadequate for the most severely ill. Closing psychiatric beds without rebuilding them is irresponsible, and diversion programs that place dangerous individuals in community settings put the public at risk.
+
+**Evidence Cited**: Opponents point to the original failure of deinstitutionalization, where state hospital closures without adequate community alternatives led to the current crisis. They cite data showing that 20-25% of defendants referred to competency restoration in community settings fail to achieve restoration (compared to 20-30% in inpatient settings), and that some community restoration programs have experienced serious incidents, including assaults and absconding.
+
+**Reality**: The argument contains an element of truth. Community-based care is not appropriate for all individuals at all times. A subset of people with severe, treatment-resistant mental illness requires longer-term structured care. The error is in concluding that this subset's needs should define the system for everyone. An estimated 70-80% of people with mental illness in the criminal justice system could be safely managed in community settings with adequate treatment, housing, and support (SAMHSA, 2023). The appropriate response is a continuum of care that includes community treatment, crisis stabilization, short-term inpatient care, and longer-term residential treatment -- not a binary choice between community and incarceration.
+
+**Rebuttal**: The existence of a small population requiring institutional care does not justify incarcerating 2 million people with mental illness annually. Building a comprehensive continuum of care -- with community treatment as the default and institutional care available for those who need it -- addresses both the need for community alternatives and the reality that some individuals require more structured settings. The reform agenda does not call for eliminating institutional care; it calls for eliminating the use of jails and prisons as substitutes for it.
+
+### Argument 7: Assisted Outpatient Treatment Is Coercive and Discriminatory
+
+**Claim**: Assisted outpatient treatment (AOT) laws, which allow courts to order people with serious mental illness to comply with outpatient treatment plans or face involuntary hospitalization, are coercive, racially discriminatory, and a violation of bodily autonomy. AOT is mental health's equivalent of stop-and-frisk: a tool of social control disproportionately applied to Black and brown communities.
+
+**Evidence Cited**: Data from New York's Kendra's Law (the most-studied AOT program) shows that Black individuals make up 34% of AOT recipients but only 17% of New York State's population (New York Lawyers for the Public Interest, 2022). Critics argue that AOT programs are used to manage poverty and homelessness rather than genuinely treat mental illness, and that the threat of forced hospitalization coerces compliance rather than fostering genuine therapeutic engagement.
+
+**Reality**: The racial disparity data in AOT programs is real and concerning. The New York data shows significant overrepresentation of Black individuals in the AOT system. However, outcome data from randomized controlled trials of AOT (most notably the Duke University study of North Carolina's AOT program) shows that people receiving AOT have significantly fewer hospitalizations, fewer arrests, and fewer episodes of violence compared to controls. The question is whether the benefits of improved outcomes justify the coercion involved, and whether racial disparities can be addressed through procedural reforms rather than elimination of the tool.
+
+**Rebuttal**: AOT programs should be reformed to eliminate racial disparities in referral and implementation. This requires standardized clinical criteria for AOT eligibility, mandatory racial impact reviews, and public reporting of demographic data. However, eliminating AOT entirely would remove a tool that, when properly implemented, reduces hospitalization, arrest, and violence among the most severely ill individuals. The appropriate response is to fix the equity problems in AOT programs, not to abandon a clinically effective intervention because of implementation failures.
+
 ---
 
 ## Historical Patterns of Opposition
@@ -116,6 +140,29 @@ This pattern played out after the Virginia Tech shooting (2007), the Sandy Hook 
 - **Tiered response models**: Design alternative response systems with clear protocols for escalation, so that critics cannot claim civilians are being sent into dangerous situations. Maintain a police response option for calls involving weapons, active violence, or imminent threats.
 - **Include accountability mechanisms**: Build monitoring, reporting, and graduated sanctions into diversion programs so that they cannot be characterized as "free passes." Mental health courts and diversion programs that demonstrate accountability are harder to attack politically.
 - **Start with non-controversial populations**: Pilot diversion programs with populations that generate the least opposition (misdemeanor defendants, veterans, juveniles) and expand eligibility as programs demonstrate safety and effectiveness.
+
+### Evidence-Based Responses
+
+Effective reformers prepare evidence-based responses to predictable opposition arguments. The following table maps common opposition claims to the strongest evidence-based responses:
+
+| Opposition Claim | Best Evidence-Based Response | Source |
+|---|---|---|
+| "Diversion is a revolving door" | MHC participants have 20% lower recidivism than traditionally prosecuted controls | RAND, 2022 |
+| "People with mental illness are dangerous" | People with MI commit 3-5% of violent acts; are 10x more likely to be victims | NIMH, 2022 |
+| "We can't afford community treatment" | Community treatment costs $8K-$15K/year vs. $40K-$60K/year for jail | SAMHSA, 2023 |
+| "Civilian crisis teams are unsafe" | CAHOOTS: 30+ years, 24K calls/year, <1% require police, zero team member deaths | White Bird, 2023 |
+| "MH is an excuse for crime" | MHC imposes structured accountability: treatment plans, judicial oversight, sanctions | SAMHSA, 2023 |
+| "Community care failed during deinstitutionalization" | Community care was never funded; the failure was fiscal, not clinical | Treatment Advocacy Center, 2022 |
+| "AOT is discriminatory" | AOT reduces hospitalization and arrest; racial disparities require procedural reform | Duke RCT, 2022 |
+
+### NIMBY Counter-Strategies
+
+Opposition to siting crisis stabilization centers, supportive housing, and community mental health facilities requires specific strategies:
+
+- **Community benefit agreements**: Negotiate agreements with neighborhoods that include building design standards, landscaping, 24/7 staffing commitments, good neighbor policies, and community liaison positions.
+- **Data from existing facilities**: Present safety and property value data from jurisdictions where crisis centers already operate. A 2023 Urban Institute study found that crisis stabilization centers had no measurable impact on property values within a 0.5-mile radius and were associated with reduced 911 calls in surrounding neighborhoods.
+- **Engage neighbors early**: Involve neighborhood associations in facility planning from the beginning, rather than presenting finished plans for approval. Early engagement reduces opposition and builds community ownership.
+- **Locate facilities near services**: Siting crisis centers near hospitals, social service agencies, and public transit reduces opposition by placing them in institutional rather than residential contexts.
 
 ---
 

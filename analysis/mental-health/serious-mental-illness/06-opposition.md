@@ -19,11 +19,12 @@ Proposals to reform the SMI treatment system -- particularly those involving exp
 
 ### Ideological Opposition
 
-- **Civil Libertarian**: Opposes any expansion of involuntary treatment as a violation of bodily autonomy and due process. Views AOT and involuntary commitment as state coercion that disproportionately affects marginalized communities.
-- **Fiscal Conservative**: Opposes the $10-20 billion in additional annual federal spending that comprehensive SMI reform would require. Argues that mental health is primarily a state responsibility and that federal expansion creates dependency.
-- **Anti-Psychiatry / Psychiatric Survivor**: Rejects the biomedical model of mental illness, opposes psychiatric medication (especially involuntary medication), and advocates for peer-led, non-medical alternatives. Views diagnosis itself as a form of social control.
-- **Libertarian**: Opposes government involvement in medical decisions on principle, including civil commitment, mandatory medication, and publicly funded treatment programs. Favors private charity and voluntary treatment only.
-- **States' Rights**: Opposes federal mandates that override state mental health law, including federally mandated AOT standards, national commitment criteria, or IMD exclusion repeal conditions.
+- **Civil Libertarian**: Opposes any expansion of involuntary treatment as a violation of bodily autonomy and due process. Views AOT and involuntary commitment as state coercion that disproportionately affects marginalized communities. The Bazelon Center for Mental Health Law has published extensively on this position, arguing that the solution to untreated SMI is more voluntary services, not more coercive authority. Civil libertarians point to the historical record of institutional abuse as evidence that expanded state power over people with mental illness will inevitably be misused.
+- **Fiscal Conservative**: Opposes the $10-20 billion in additional annual federal spending that comprehensive SMI reform would require. Argues that mental health is primarily a state responsibility and that federal expansion creates dependency. Organizations like Americans for Tax Reform and the Heritage Foundation have opposed major new mental health spending programs, though some fiscal conservatives have supported crisis system investment when presented with cost-offset data showing that treatment is cheaper than incarceration and emergency services.
+- **Anti-Psychiatry / Psychiatric Survivor**: Rejects the biomedical model of mental illness, opposes psychiatric medication (especially involuntary medication), and advocates for peer-led, non-medical alternatives. Views diagnosis itself as a form of social control. Organizations like MindFreedom International and the Mad in America Foundation argue that what psychiatry calls "schizophrenia" is a response to trauma, social marginalization, and oppression rather than a brain disease. While these organizations are small relative to mainstream advocacy groups, they have outsized influence in academic and progressive circles and provide intellectual ammunition for civil liberties organizations opposing involuntary treatment.
+- **Libertarian**: Opposes government involvement in medical decisions on principle, including civil commitment, mandatory medication, and publicly funded treatment programs. Favors private charity and voluntary treatment only. The Cato Institute and Reason Foundation have published critiques of both AOT expansion and increased public mental health spending, arguing that market-based solutions and voluntary organizations should provide treatment.
+- **States' Rights**: Opposes federal mandates that override state mental health law, including federally mandated AOT standards, national commitment criteria, or IMD exclusion repeal conditions. This position is particularly strong among governors and state legislators who view mental health policy as a state prerogative and resist conditioning federal funding on specific program designs.
+- **Hospital Industry (partial)**: While the American Hospital Association supports crisis system reform, individual hospitals have mixed incentives regarding psychiatric capacity. Hospital administrators may resist converting profitable medical/surgical beds to less-profitable psychiatric beds, even as they advocate publicly for addressing ED boarding. Rural hospital administrators face particular tensions, as maintaining any psychiatric capacity in a small hospital is financially unsustainable under current reimbursement rates.
 
 ---
 
@@ -81,16 +82,46 @@ Proposals to reform the SMI treatment system -- particularly those involving exp
 
 ---
 
+### Argument 6: AOT Programs Are Underfunded and Become Coercive Without Services
+
+**Claim**: In practice, AOT programs frequently issue court orders for treatment without ensuring that adequate treatment services exist. The result is a system that monitors and penalizes people for non-compliance without providing the services needed for compliance.
+
+**Evidence Cited**: Reports from several states showing that AOT caseloads exceed available treatment slots; cases where people received AOT orders but were placed on waitlists for assertive community treatment or supportive housing; documentation of AOT orders that relied primarily on medication compliance monitoring without providing comprehensive support services.
+
+**Reality**: This critique has significant empirical support. In states where AOT is implemented without commensurate funding for services, the program can function as a monitoring system rather than a treatment system. New York's Kendra's Law, which includes a statutory entitlement to services for people on AOT orders, produces the best outcomes because the court order triggers access to treatment -- not merely an obligation to comply with treatment that does not exist.
+
+**Rebuttal**: The solution is not to eliminate AOT but to pair AOT orders with mandatory service provision. Legislation should require that no AOT order be issued unless treatment services are available and funded, creating what some advocates call "AOT with teeth" -- where the "teeth" are services, not punishment.
+
+### Argument 7: Clozapine REMS Reform Poses Unacceptable Safety Risks
+
+**Claim**: Reducing the monitoring requirements for clozapine (the FDA-mandated Clozapine Risk Evaluation and Mitigation Strategy) risks agranulocytosis-related deaths. The current monitoring schedule exists for patient safety and should not be weakened to address utilization statistics.
+
+**Evidence Cited**: Clozapine's 1-2% risk of agranulocytosis, a potentially fatal condition involving severe neutropenia; historical cases of clozapine-related deaths that prompted the original monitoring requirements; FDA safety mandate.
+
+**Reality**: The current monitoring schedule -- weekly blood draws for the first 6 months, biweekly for months 7-12, and monthly thereafter -- was established in the 1990s based on the first generation of clozapine REMS data. Updated analysis of over 300,000 patient-years of clozapine use shows that the risk of severe neutropenia declines substantially after 18 months of treatment, and that many countries (UK, Australia, New Zealand) use less frequent monitoring schedules with comparable safety outcomes (Inada et al., *CNS Drugs*, 2022). The FDA's 2015 revision of the REMS program already loosened some requirements, and further evidence supports extending monitoring intervals for stable patients.
+
+**Rebuttal**: Reform advocates are not proposing elimination of monitoring but rather evidence-based adjustment -- specifically, bimonthly monitoring (every 8 weeks) after 12-18 months of stable therapy, with point-of-care testing options that eliminate the need for venipuncture at a laboratory. The current system's excessive monitoring burden directly contributes to the drug being underused, resulting in far more preventable deaths from suicide and untreated psychosis than would result from a modest monitoring reduction.
+
 ## Historical Patterns of Opposition
 
 Opposition to SMI reform has been remarkably consistent across decades:
 
-- **1960s-1970s**: Opposition to deinstitutionalization came from state hospital employee unions and rural communities dependent on hospital employment. Opposition to community mental health centers came from fiscal conservatives and NIMBYists.
-- **1980s-1990s**: Opposition to increased mental health funding came from the Reagan administration and fiscal conservatives. Opposition to AOT came from civil liberties organizations alarmed by potential for coercion.
-- **2000s-2010s**: Opposition to parity enforcement came from the insurance industry. Opposition to IMD exclusion reform came from community advocates who feared re-institutionalization.
-- **2020s**: The same fault lines persist, with added dimensions of racial equity concerns and post-COVID fiscal constraints.
+- **1960s-1970s**: Opposition to deinstitutionalization came from state hospital employee unions (AFSCME and other public-sector unions representing tens of thousands of hospital workers) and rural communities dependent on hospital employment. The closure of a state hospital could devastate a small town's economy, creating political resistance that was economic rather than philosophical. Opposition to community mental health centers came from fiscal conservatives and NIMBYists who did not want treatment facilities in their neighborhoods.
+- **1980s-1990s**: Opposition to increased mental health funding came from the Reagan administration and fiscal conservatives. The Reagan-era Mental Health Systems Act repeal (OBRA 1981) remains the single most consequential act of opposition in the history of U.S. SMI policy. Opposition to AOT came from civil liberties organizations alarmed by potential for coercion, building on the legal rights revolution of the 1970s.
+- **2000s-2010s**: Opposition to parity enforcement came from the insurance industry, which spent over $50 million lobbying against the Mental Health Parity and Addiction Equity Act of 2008 and subsequently worked to minimize its implementation. Opposition to IMD exclusion reform came from community advocates who feared re-institutionalization, creating an unusual alliance between civil liberties progressives and fiscal conservatives.
+- **2020s**: The same fault lines persist, with added dimensions of racial equity concerns (opponents of AOT expansion emphasize documented racial disparities in involuntary treatment) and post-COVID fiscal constraints (record federal deficits reduce appetite for new spending programs). The California CARE Act debate illustrated the ongoing tension: progressive disability rights organizations opposed the law alongside conservative fiscal hawks, while law enforcement, family advocates, and moderate Democrats supported it.
 
-The fundamental pattern is that opposition is usually strongest from those who fear what reform might become (institutional abuse, fiscal overreach, racial targeting) rather than from those defending the clearly broken status quo.
+The fundamental pattern is that opposition is usually strongest from those who fear what reform might become (institutional abuse, fiscal overreach, racial targeting) rather than from those defending the clearly broken status quo. The status quo has no organized defenders, but the forces resisting change are sufficient to prevent reform in the absence of sustained political pressure.
+
+## The Overton Window: What Has Changed
+
+Despite persistent opposition, the range of politically acceptable positions on SMI reform has shifted significantly:
+
+- **AOT**: Once considered radical, AOT is now law in 47 states and has bipartisan support. The debate has shifted from "whether AOT" to "how to implement AOT with adequate services and equity."
+- **IMD exclusion**: Once considered untouchable, the IMD exclusion has been waived for substance use disorder in 40+ states, establishing a precedent for SMI. CMS has signaled openness to SMI-specific waivers.
+- **Clozapine**: Once considered too dangerous for widespread use, clozapine's evidence base is now broadly accepted. The debate has shifted from "whether clozapine" to "how to increase clozapine prescribing safely."
+- **Crisis services**: The 988 system enjoys near-universal political support, and the concept of mobile crisis teams as an alternative to law enforcement response has gained bipartisan traction.
+- **Spending**: The total amount of proposed annual federal investment ($10-20 billion) remains contested, but individual components (988, CCBHCs, workforce) have secured bipartisan appropriations support.
 
 ## Counter-Strategies
 
@@ -108,9 +139,18 @@ The fundamental pattern is that opposition is usually strongest from those who f
 
 ### Policy Design Strategies
 
-- **Include sunset clauses and evaluation requirements**: Addressing concerns about overreach by building in mandatory evaluations and reauthorization requirements.
-- **Pair involuntary treatment expansion with voluntary treatment investment**: For every dollar spent on AOT, invest multiple dollars in voluntary services, supportive housing, and peer support. This addresses the legitimate concern that expanding coercive tools without expanding voluntary alternatives is wrong.
+- **Include sunset clauses and evaluation requirements**: Addressing concerns about overreach by building in mandatory evaluations and reauthorization requirements. New York's Kendra's Law includes a sunset provision requiring legislative reauthorization, which has forced periodic review of the program's effectiveness and equity.
+- **Pair involuntary treatment expansion with voluntary treatment investment**: For every dollar spent on AOT, invest multiple dollars in voluntary services, supportive housing, and peer support. This addresses the legitimate concern that expanding coercive tools without expanding voluntary alternatives is wrong. A minimum ratio of 3:1 (voluntary to involuntary spending) has been proposed by several advocacy organizations.
 - **Condition IMD exclusion reform on community investment**: Require states that receive IMD exclusion waivers to simultaneously increase spending on community-based services, preventing states from simply rebuilding hospitals at the expense of community care.
+- **Embed racial equity provisions in all legislation**: Include mandatory disaggregated outcome reporting by race, ethnicity, and gender; require community advisory boards with representation from affected communities; fund cultural competency training for all treatment providers; and establish an independent ombudsman to investigate disparate treatment complaints.
+- **Create accountability mechanisms with consequences**: Past reforms have failed because they lacked enforcement. New legislation should include performance benchmarks with consequences for non-compliance -- such as redirecting funding from underperforming states to those meeting targets, or triggering corrective action plans when racial disparities exceed specified thresholds.
+
+### Engagement Strategies for Specific Opposition Groups
+
+- **For civil liberties organizations**: Invite them to participate in legislative drafting, not just comment on finished proposals. Many of the Bazelon Center's concerns about AOT are legitimate and can be addressed through robust due process protections. Treating opponents as potential partners rather than adversaries increases the chance of durable legislation.
+- **For fiscal conservatives**: Present SMI reform as a cost-shifting problem, not a spending problem. The federal government and states are already spending over $300 billion annually on the consequences of untreated SMI; the question is whether to spend that money on crisis response or on prevention and treatment. Frame CCBHC expansion and AOT as investments that generate returns through reduced incarceration and hospitalization.
+- **For the anti-psychiatry movement**: Acknowledge the legitimate concerns about overmedication, side effects, and the history of institutional abuse. Include peer-led services, shared decision-making provisions, and non-pharmacological treatment options in all reform proposals. Do not dismiss the lived experience of people who have been harmed by the psychiatric system.
+- **For the hospital industry**: Demonstrate that investing in psychiatric capacity and crisis services reduces the ED boarding problem that hospital administrators universally acknowledge as costly and disruptive. Frame IMD exclusion reform as enabling hospitals to be reimbursed for psychiatric care they are currently providing at a loss.
 
 ---
 

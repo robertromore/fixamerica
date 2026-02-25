@@ -183,11 +183,13 @@ The current SMI system fails because it is fragmented, underfunded, and designed
 
 ## Pilot Programs and Demonstrations
 
-- **SAMHSA CCBHC Demonstration (2017-present)**: 540+ sites across 10 states showing reduced ED visits (60%), jail bookings (41%), and homelessness (62%)
-- **NIMH RAISE-ETP (2014)**: Demonstrated that coordinated specialty care for first-episode psychosis significantly outperformed usual care across 34 community clinics in 21 states
-- **New York Kendra's Law AOT (1999-present)**: 25 years of data showing dramatic reductions in hospitalization, arrest, and homelessness among AOT participants
-- **CAHOOTS (Eugene, OR, 1989-present)**: Mobile crisis teams responding to 5-8% of 911 calls, demonstrating that many mental health crises can be resolved without law enforcement
-- **Pathways to Housing (New York, 1992-present)**: The original Housing First PSH program, achieving 85% housing retention rates and improved health outcomes for chronically homeless people with SMI
+- **SAMHSA CCBHC Demonstration (2017-present)**: 540+ sites across 10 states showing reduced ED visits (60%), jail bookings (41%), and homelessness (62%). The Prospective Payment System (PPS) model used by CCBHCs is the single most important structural reform in the model -- it pays the actual cost of care rather than underfunded fee-for-service rates, enabling clinics to hire adequate staff, offer competitive salaries, and provide the full range of services needed by people with SMI.
+- **NIMH RAISE-ETP (2014)**: Demonstrated that coordinated specialty care for first-episode psychosis significantly outperformed usual care across 34 community clinics in 21 states. The RAISE model includes low-dose antipsychotic medication, cognitive behavioral therapy for psychosis (CBTp), family psychoeducation, supported employment/education, and case management -- delivered by a multidisciplinary team. Participants had significantly greater improvement in symptoms, quality of life, and vocational functioning at 2-year follow-up (Kane et al., *American Journal of Psychiatry*, 2016).
+- **New York Kendra's Law AOT (1999-present)**: 25 years of data showing dramatic reductions in hospitalization (77%), arrest (83%), and homelessness (74%) among AOT participants. New York's program is the gold standard because it includes a statutory entitlement to services: the court order creates an obligation for the treatment system to provide services, not merely for the individual to comply.
+- **CAHOOTS (Eugene, OR, 1989-present)**: Mobile crisis teams operated by White Bird Clinic responding to 5-8% of 911 calls, demonstrating that many mental health crises can be resolved without law enforcement. CAHOOTS teams consist of a medic (nurse or EMT) and a crisis worker, operating 24/7. The program costs approximately $2.1 million annually and saves an estimated $8.5 million in police response, emergency department visits, and jail bookings (White Bird Clinic, 2023).
+- **Pathways to Housing (New York, 1992-present)**: The original Housing First PSH program, founded by Sam Tsemberis, achieving 85% housing retention rates and improved health outcomes for chronically homeless people with SMI. The model's key innovation was separating housing from treatment: housing is provided without conditions, and treatment services are offered but not required. This approach addresses the most immediate need (shelter) and creates a stable platform for treatment engagement.
+- **Miami-Dade Criminal Mental Health Project (2000-present)**: Judge Steve Leifman's nationally recognized jail diversion program has diverted thousands of people with SMI from the Miami-Dade County Jail to community treatment. The program combines pre-booking diversion (CIT-trained officers), post-booking diversion (mental health court), and a newly constructed crisis stabilization and treatment facility. Recidivism rates for program participants are 75% lower than for people with SMI processed through the traditional criminal justice system (SAMHSA, 2023).
+- **OnTrackNY (New York, 2013-present)**: An adaptation of the RAISE model implemented across 22 sites in New York State, serving over 2,000 people with first-episode psychosis. OnTrackNY has demonstrated that the CSC model can be implemented at scale within an existing state mental health system, with outcomes comparable to the original research trial. The program has reduced the duration of untreated psychosis from 74 weeks (national average) to approximately 20 weeks in covered areas.
 
 ## Sequencing and Prioritization
 
@@ -215,12 +217,46 @@ The current SMI system fails because it is fragmented, underfunded, and designed
 - Reduce incarceration of people with SMI by 50%
 - Close the mortality gap by 5 years through integrated physical-behavioral health care
 
+### Solution 9: Psychiatric Workforce Expansion Initiative
+
+**Description**: Address the psychiatric workforce crisis through a multi-pronged strategy: expand psychiatric residency training slots, create incentive programs for mental health professionals in underserved areas, reform scope-of-practice laws to allow nurse practitioners and physician assistants to prescribe complex psychiatric medications (including clozapine and LAIs) under collaborative agreements, and build a peer specialist workforce of 100,000. Invest in telepsychiatry infrastructure to extend existing workforce reach to rural and underserved areas.
+
+**Evidence Base**: HRSA designates 7,114 mental health professional shortage areas encompassing 166 million Americans, and filling these shortages would require approximately 6,900 additional psychiatrists (HRSA, 2024). Telepsychiatry has been shown to produce outcomes equivalent to in-person psychiatric care for most conditions, including medication management for schizophrenia (Hubley et al., *Telemedicine and e-Health*, 2016). States that have expanded nurse practitioner scope of practice (including independent prescribing) have not experienced adverse outcome differences (Stanik-Hutt et al., *Medical Care Research and Review*, 2013). The CCBHC PPS reimbursement model, which pays the actual cost of care, has enabled CCBHC sites to increase provider salaries by 15% and improve recruitment (National Council, 2023).
+
+**Implementation**: Increase GME funding for 1,000 new psychiatric residency slots over 5 years. Expand the National Health Service Corps loan forgiveness program to cover 5,000 mental health clinicians annually. Pass federal legislation encouraging states to allow nurse practitioners to prescribe all psychiatric medications, including clozapine, under collaborative practice agreements. Fund state peer specialist certification programs and require Medicaid reimbursement for peer services in all states.
+
+**Cost/Resources**: Estimated $1.5-2 billion annually. GME expansion: $700 million; NHSC expansion: $300 million; telepsychiatry infrastructure: $200 million; peer specialist programs: $200-300 million; scope-of-practice incentives: $100 million.
+
+**Timeline**: GME funding increase within 1 year; first new residents begin training in Year 3; scope-of-practice reforms in 15+ states within 3 years; 100,000 peer specialists within 10 years.
+
+**Challenges**: Medical associations may oppose scope-of-practice expansion. Residency expansion requires teaching hospital capacity. Peer specialist reimbursement rates must be sufficient to sustain a career. Telepsychiatry requires broadband access that some rural areas still lack.
+
+**Impact Metrics**: Psychiatrists per 100,000 in shortage areas, mental health professional vacancy rates at community mental health centers, number of certified peer specialists, percentage of telehealth-delivered psychiatric encounters.
+
+### Solution 10: Medicaid Re-Entry Coverage and Criminal Justice Diversion
+
+**Description**: Ensure that every person with SMI leaving incarceration has Medicaid coverage and a treatment appointment before release, and expand pre-booking and post-booking jail diversion programs to every jurisdiction with a population over 50,000. Implement forensic assertive community treatment (FACT) teams in every county with a population over 100,000 to serve people with SMI who cycle through the criminal justice system.
+
+**Evidence Base**: The CMS "Reentry" Section 1115 demonstration, approved for California, Montana, Washington, and other states beginning in 2023-2024, allows Medicaid coverage to begin 90 days before release from incarceration. Early data from Washington State's Trueblood settlement implementation shows that pre-release Medicaid enrollment combined with community-based competency restoration reduced state hospital forensic admissions by 30% (Washington DSHS, 2023). Forensic ACT teams have demonstrated 30-60% reductions in jail days and 50% reductions in hospitalization for participants (Cuddeback et al., 2023). Mental health courts reduce recidivism by approximately 20% compared to traditional adjudication (SAMHSA, 2023).
+
+**Implementation**: CMS extends the Reentry Section 1115 waiver opportunity to all states. Congress mandates that states suspend rather than terminate Medicaid during short-term incarceration (under 1 year). SAMHSA provides grants for FACT teams in counties over 100,000 population. DOJ provides grants for mental health court expansion to all judicial districts.
+
+**Cost/Resources**: Estimated $2-3 billion annually. Medicaid pre-release coverage: $1-1.5 billion; FACT teams: $500 million; mental health court expansion: $300 million; jail diversion programs: $200 million. Offset by $3-5 billion in reduced incarceration and re-hospitalization costs.
+
+**Timeline**: CMS waiver expansion within 1 year; FACT teams in all counties >100,000 within 5 years; mental health courts in all judicial districts within 7 years.
+
+**Challenges**: State correctional systems must cooperate with Medicaid enrollment processes. FACT teams require specialized forensic mental health training. Mental health courts work best for misdemeanors; expanding to felony-level offenses raises public safety concerns.
+
+**Impact Metrics**: Recidivism rate for people with SMI released from jail/prison, Medicaid enrollment rate at release, time from release to first psychiatric appointment, FACT team caseload coverage.
+
 ## Complementary Policies
 
-- **Medicaid expansion in remaining non-expansion states**: Approximately 2.2 million adults in the Medicaid coverage gap have no affordable coverage option, including many with SMI
-- **Criminal justice reform**: Reducing mandatory minimums, expanding mental health courts, and improving re-entry services for people with SMI leaving incarceration
-- **Affordable housing**: Broader housing affordability policies benefit people with SMI who do not need supportive services but cannot afford market-rate housing
-- **Workforce development**: Expanding psychiatric residency slots, loan forgiveness for mental health professionals in underserved areas, and scope-of-practice reform to allow nurse practitioners and psychologists broader prescribing authority
+- **Medicaid expansion in remaining non-expansion states**: Approximately 2.2 million adults in the Medicaid coverage gap have no affordable coverage option, including many with SMI. In non-expansion states, adults with SMI who do not qualify for disability benefits may have no insurance at all, leaving community mental health centers as the sole safety net.
+- **Criminal justice reform**: Reducing mandatory minimums, expanding mental health courts, and improving re-entry services for people with SMI leaving incarceration. States that have reformed drug sentencing laws (e.g., Oregon's Measure 110, now partially revised) have demonstrated that decriminalization can redirect funds toward treatment, though implementation challenges are significant.
+- **Affordable housing**: Broader housing affordability policies benefit people with SMI who do not need supportive services but cannot afford market-rate housing. The national shortage of 7 million affordable rental homes for extremely low-income households directly affects people with SMI living on SSI ($914/month maximum federal benefit in 2024), for whom market-rate housing is unaffordable in virtually every U.S. county.
+- **Workforce development**: Expanding psychiatric residency slots, loan forgiveness for mental health professionals in underserved areas, and scope-of-practice reform to allow nurse practitioners and psychologists broader prescribing authority.
+- **Physical health integration**: Integrating primary care into mental health settings (or vice versa) is essential for addressing the 10-25 year mortality gap. The CCBHC model includes primary care screening, but full integration -- where people with SMI receive medical care in the same setting as psychiatric care -- requires expanded facility capacity and cross-trained staff. The Collaborative Care Model (CoCM), developed by Wayne Katon at the University of Washington, has demonstrated improved outcomes for depression in primary care settings and is being adapted for SMI populations.
+- **HIPAA clarification**: Federal legislation or HHS guidance clarifying that HIPAA permits (but does not require) clinicians to share treatment information with identified family caregivers when the patient lacks capacity to consent due to anosognosia. The current HIPAA framework allows information sharing in more circumstances than many clinicians believe, but provider fear of penalties leads to over-restrictive interpretation.
 
 ---
 

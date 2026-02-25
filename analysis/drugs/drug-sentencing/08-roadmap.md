@@ -52,6 +52,16 @@ Drug sentencing reform requires a phased strategy that sequences politically ach
 - Compassionate Release Expansion Act (amendment to 18 U.S.C. Section 3582(c)(1)(A))
 - Appropriations for federal defender training and USSC data pilot
 
+### Coalition Building Actions
+
+| Action | Description | Timeline | Responsible Parties |
+|---|---|---|---|
+| Re-engage First Step Act coalition | Convene the bipartisan coalition that produced the First Step Act to identify next achievable reform | Months 1-3 | Senate Judiciary Committee leadership; FAMM; Right on Crime |
+| State reform showcase events | Organize congressional briefings featuring governors and legislators from states that have successfully reformed drug sentencing | Months 3-6 | Vera Institute; National Governors Association; Justice Reinvestment Initiative |
+| Prosecutorial reform champions | Identify and recruit sitting U.S. Attorneys and elected DAs who support reform; amplify their voices | Months 1-12 | Fair and Just Prosecution; DOJ leadership |
+| Victim and family advocacy | Center personal stories of individuals and families affected by disproportionate drug sentences in all legislative advocacy | Ongoing | FAMM; Cut50; JustLeadershipUSA |
+| Conservative outreach | Engage evangelical and fiscal conservative networks on redemption and cost arguments | Months 1-12 | Prison Fellowship; Americans for Prosperity; R Street Institute |
+
 ### Expected Outcomes
 
 Phase 1 eliminates the most visible and indefensible disparity in federal drug sentencing (crack-powder), demonstrates continued bipartisan capacity for reform, and initiates the technical groundwork for comprehensive guideline revision. Estimated 3,000-5,000 individuals resentenced or released. Annual savings: $150-250 million.
@@ -82,6 +92,18 @@ Phase 1 eliminates the most visible and indefensible disparity in federal drug s
 
 - Drug Sentencing Reform and Equity Act (comprehensive legislation eliminating mandatory minimums, creating resentencing right, establishing Equity Office)
 - FY2028-2030 appropriations for drug court expansion, Equity Office, resentencing processing
+
+### State-Level Parallel Actions (Phase 2)
+
+Phase 2 must include a robust state-level component, since approximately 85% of drug incarcerations occur in state systems:
+
+| Action | Target States | Resources | Expected Outcome |
+|---|---|---|---|
+| Model mandatory minimum reform legislation | 15 states that have not yet reformed drug mandatory minimums | DOJ model legislation; Vera Institute technical assistance | 8-10 states enact reforms by Year 5 |
+| Justice Reinvestment Initiative expansion | States with highest drug incarceration rates (LA, AL, MS, FL, TX) | $100 million in DOJ/Pew grants | Data-driven reform plans adopted in 5+ states |
+| Drug court expansion grants | States with less than 50% drug court coverage | $200 million in Byrne JAG grants designated for drug courts | Drug court access in 80% of state counties |
+| Racial impact statement requirements | All 50 states (model legislation) | USSC/DOJ technical assistance | 15+ states adopt racial impact analysis for sentencing legislation |
+| Collateral consequences reform | States retaining drug-conviction barriers to housing, employment, benefits | Model Clean Slate legislation | 10+ states enact automatic expungement or records sealing |
 
 ### Expected Outcomes
 
@@ -127,13 +149,37 @@ Phase 3 completes the transformation to a drug sentencing system that is proport
 | Drug court availability | Ongoing | % of federal districts | ~60% | 75% | 100% | 100% |
 | Annual savings from reduced incarceration | Ongoing | Dollars | $0 (baseline) | $300 million | $700 million | $1.2 billion |
 
+## Political Strategy and Sequencing Logic
+
+The sequencing of this roadmap is designed to maximize political sustainability by demonstrating results before requesting larger reforms:
+
+### Why This Sequence Works
+
+1. **Phase 1 builds credibility**: The EQUAL Act and compassionate release expansion are the most politically defensible reforms -- the crack-powder disparity is scientifically indefensible, and elderly inmates have extremely low recidivism. Success in Phase 1 creates a track record that supports Phase 2's more ambitious proposals.
+
+2. **Phase 2 leverages Phase 1 outcomes**: By the time Phase 2 legislation is introduced (Year 3), Phase 1 resentencings will have generated 1-2 years of recidivism data showing low reoffense rates. This data neutralizes the primary opposition argument ("reducing sentences threatens public safety") with real-world evidence.
+
+3. **Phase 3 institutionalizes change**: By establishing permanent review mechanisms, the Equity Office, and automatic review cycles, Phase 3 makes reform resistant to political reversal. Unlike DOJ policy changes (which can be reversed by a new Attorney General), statutory and institutional changes require affirmative Congressional action to undo.
+
+### Political Windows and Timing
+
+Drug sentencing reform is sensitive to the political cycle. Historical patterns suggest:
+
+- **First two years of a new Congress**: Most productive period for legislation; bipartisan coalitions are strongest before campaign-season dynamics set in
+- **Post-election periods**: Lame-duck sessions have been productive for criminal justice reform (the First Step Act passed during the 2018 lame-duck session)
+- **State legislative sessions**: Most active January-June; state-level reforms should be coordinated with this calendar
+- **Crisis moments**: Fentanyl overdose spikes or high-profile sentencing cases create media attention that can be channeled toward reform if advocates are prepared with policy proposals and data
+
 ## Governance and Oversight
 
-- **U.S. Sentencing Commission**: Primary body for guidelines revision, data collection, racial impact assessment, and ongoing policy evaluation
-- **Senate and House Judiciary Committees**: Legislative oversight; annual hearings on reform implementation
-- **DOJ Office of the Inspector General**: Audits of BOP implementation of compassionate release, resentencing, and reentry programs
+Effective governance requires multiple oversight bodies with distinct roles:
+
+- **U.S. Sentencing Commission**: Primary body for guidelines revision, data collection, racial impact assessment, and ongoing policy evaluation. Must maintain full quorum to ensure continuous guideline-setting authority.
+- **Senate and House Judiciary Committees**: Legislative oversight; annual hearings on reform implementation progress against milestones defined in this roadmap
+- **DOJ Office of the Inspector General**: Audits of BOP implementation of compassionate release, resentencing, and reentry programs. Semi-annual reporting required on implementation backlogs.
 - **Government Accountability Office**: Independent evaluation of reform costs, savings, and public safety outcomes (commissioned reports at Years 3, 5, and 10)
-- **Federal Sentencing Equity Office** (new): Biennial racial equity reports; real-time monitoring of sentencing patterns; recommendations for guideline adjustments
+- **Federal Sentencing Equity Office** (new): Biennial racial equity reports; real-time monitoring of sentencing patterns; recommendations for guideline adjustments. Reports directly to the USSC Chair with public publication.
+- **Community Advisory Boards**: In each federal judicial district, advisory boards including formerly incarcerated individuals, family members, treatment providers, and community representatives provide input on reform implementation
 
 ## Risk Mitigation
 
@@ -145,7 +191,9 @@ Phase 3 completes the transformation to a drug sentencing system that is proport
 
 **Mitigation Strategy**: Include rigorous risk assessment in resentencing process. Require post-release supervision for all resentenced individuals during initial 12-month period. Collect and publish recidivism data proactively to demonstrate overall safety record. Ensure reentry support (housing, treatment, employment) to minimize recidivism risk.
 
-**Contingency Plan**: Prepare data-driven response showing overall recidivism rates; deploy bipartisan champions to counter narrative; emphasize that risk assessment excluded high-risk individuals.
+**Contingency Plan**: Prepare data-driven response showing overall recidivism rates; deploy bipartisan champions to counter narrative; emphasize that risk assessment excluded high-risk individuals. Have rapid-response communications plan ready with pre-drafted op-eds from reform champions, fact sheets on overall outcomes, and law enforcement voices for reform.
+
+**Historical Precedent**: Similar political risks materialized during the 1988 presidential campaign (Willie Horton) and have constrained reform efforts for decades. The First Step Act's successful weathering of individual cases of recidivism demonstrates that proactive data and bipartisan support can mitigate this risk.
 
 ### Risk 2: Political Reversal Under Future Administration
 
@@ -196,10 +244,52 @@ Phase 3 completes the transformation to a drug sentencing system that is proport
 
 ### Infrastructure
 
-- Resentencing case management systems (federal courts IT upgrade)
-- Drug court management and outcome tracking systems
-- Treatment capacity expansion (aligned with SAMHSA planning)
-- Reentry services network development (housing, employment, healthcare partnerships)
+- **Resentencing case management systems**:
+    - Federal courts IT upgrade across all 94 federal districts
+    - Estimated cost: $25 million for development and deployment
+    - Must integrate with BOP records, federal defender case management, and USSC data systems
+    - Standardized petition forms and electronic filing to reduce processing time
+
+- **Drug court management and outcome tracking systems**:
+    - Standardized case management software with outcome tracking
+    - Integration across state and federal courts
+    - Estimated cost: $40 million for development and deployment
+    - Must track treatment referrals, completion rates, recidivism, and cost savings
+
+- **Treatment capacity expansion** (aligned with SAMHSA planning):
+    - Workforce development: training 25,000+ additional substance abuse counselors and MAT prescribers
+    - Facility construction or renovation, particularly in rural areas
+    - Telehealth infrastructure for underserved communities
+    - Hub-and-spoke treatment models connecting rural providers to urban specialists
+    - Estimated cost: included in Phase 2-3 HHS appropriations
+
+- **Reentry services network development**:
+    - Coordinated reentry services in every federal judicial district
+    - Transitional housing partnerships
+    - Employment programs including employer incentive programs (tax credits, bonding)
+    - Medicaid enrollment assistance (pre-release enrollment in expansion states)
+    - Community mentoring through peer support networks
+    - Estimated cost: included in Phase 2-3 DOJ appropriations
+
+## Lessons from Implementation Failures
+
+Effective implementation requires learning from past failures:
+
+### Lesson 1: Oregon Measure 110 (2020-2024)
+
+Oregon's drug decriminalization measure failed not because decriminalization is inherently flawed but because treatment infrastructure was not built before or alongside the policy change. Of the $300 million in marijuana tax revenue designated for treatment, less than $40 million had been distributed in the first two years. The $100 citation meant to encourage treatment referrals had a compliance rate under 1%. The lesson for federal sentencing reform: **treatment capacity must precede or accompany diversion expansion**, not follow it.
+
+### Lesson 2: First Step Act Earned Time Credits
+
+The BOP was slow to implement the First Step Act's earned time credits provisions, taking over two years to develop the risk assessment tool (PATTERN) and establish recidivism-reduction programming. Many eligible inmates waited years for credits they were legally entitled to receive. The lesson: **reform legislation must include implementation deadlines, reporting requirements, and enforcement mechanisms** for administering agencies.
+
+### Lesson 3: Smart on Crime Reversal (2017)
+
+Attorney General Eric Holder's Smart on Crime policy (2013) reduced mandatory minimum application rates and contributed to declining average drug sentences. Attorney General Jeff Sessions reversed this policy in May 2017, directing prosecutors to charge the most serious readily provable offense. This reversal demonstrated that DOJ-level policy changes are inherently fragile. The lesson: **key reforms must be codified in statute, not left to executive discretion**.
+
+### Lesson 4: Compassionate Release Administrative Barriers
+
+The First Step Act allowed inmates to petition courts directly for compassionate release after exhausting administrative remedies (30-day waiting period). However, the BOP's administrative review process remained slow and opaque, and many inmates lacked legal representation to navigate the court petition process. The lesson: **procedural barriers must be minimized**, and legal representation must be funded for all resentencing and release proceedings.
 
 ---
 

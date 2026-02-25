@@ -24,6 +24,18 @@ sources:
 
 This roadmap implements a three-phase counter-trafficking reform strategy that builds progressively from technology modernization and institutional capacity building to demand reduction investment and international partnership reform. Each phase establishes the preconditions for the next, creating compounding pressure on trafficking organizations through simultaneous supply disruption, financial degradation, and demand shrinkage. The strategy recognizes that enforcement alone cannot defeat trafficking and that demand reduction is essential to sustainable progress.
 
+### Strategic Priorities by Domain
+
+| Domain | Priority | Rationale |
+|--------|----------|-----------|
+| Border technology (NII) | Highest | Most achievable near-term improvement in interdiction rates |
+| Financial disruption (AML reform) | High | Targets the profit motive that drives trafficking |
+| Demand reduction (treatment) | High | Most cost-effective strategy per RAND research |
+| Precursor chemical diplomacy | High | Addresses the supply chain at its most vulnerable point |
+| International partnership reform | Medium | Essential but requires longer diplomatic timelines |
+| Dark web/digital enforcement | Medium | Growing but still a small share of total trafficking |
+| Next-generation synthetic preparedness | Medium | Proactive investment against future threats |
+
 ---
 
 ## Phase 1: Technology Modernization and Institutional Strengthening (Years 1-2)
@@ -35,6 +47,7 @@ This roadmap implements a three-phase counter-trafficking reform strategy that b
 - Establish U.S.-China Counter-Narcotics Working Group
 - Create DOJ digital trafficking task force
 - Remove remaining barriers to medication-assisted treatment prescribing
+- Establish novel synthetic drug early warning network
 
 ### Key Actions
 
@@ -46,6 +59,8 @@ This roadmap implements a three-phase counter-trafficking reform strategy that b
 | Establish U.S.-China Counter-Narcotics Working Group | State Department/ONDCP | Months 1-6 | $50 million diplomatic program | Quarterly senior-level meetings; precursor watchlist agreed |
 | Create 500-person DOJ digital trafficking task force | DOJ/FBI/DEA | Months 1-12 | $300 million annually | Task force operational; first dark web takedown operations |
 | Eliminate X-waiver equivalents and MAT prescribing barriers | HHS/SAMHSA/DEA | Months 1-6 | Regulatory action (minimal cost) | All licensed physicians can prescribe buprenorphine |
+| Establish DEA/CDC/NIDA early warning network for novel synthetics | DEA/CDC/NIDA | Months 1-12 | $100 million first year | Network detecting and reporting novel compounds in <72 hours |
+| Launch targeted enforcement against Chinese money broker networks | Treasury/DEA/HSI | Months 6-18 | $150 million annually | First major prosecutions of Chinese money laundering networks |
 
 ### Legislative Requirements
 
@@ -53,10 +68,17 @@ This roadmap implements a three-phase counter-trafficking reform strategy that b
 - FY2026 appropriation for FinCEN expansion ($300 million)
 - Authorization for DOJ digital trafficking task force ($300 million)
 - SAMHSA block grant expansion authorization ($2 billion increase)
+- Novel synthetic drug class scheduling authority (pre-scheduling of chemical families)
 
 ### Expected Outcomes
 
 By the end of Phase 1, the U.S. will have significantly increased its technological capacity to interdict fentanyl at ports of entry, strengthened its ability to detect and disrupt money laundering, established diplomatic frameworks for precursor chemical cooperation with China, and removed regulatory barriers to treatment access. These are necessary preconditions for the more ambitious reforms in Phases 2 and 3.
+
+### Phase 1 Decision Points
+
+- **Month 6**: Evaluate NII procurement progress; if behind schedule, accelerate through emergency acquisition authority
+- **Month 12**: Assess U.S.-China Working Group results; if limited cooperation, prepare unilateral sanctions package
+- **Month 18**: Review digital task force operations; adjust staffing and technology based on initial results
 
 ---
 
@@ -69,6 +91,7 @@ By the end of Phase 1, the U.S. will have significantly increased its technologi
 - Modernize U.S.-Mexico security partnership toward institutional capacity building
 - Implement comprehensive cryptocurrency and real estate AML regulations
 - Expand treatment capacity by 500 new community health centers
+- Deploy drug checking services in 200+ communities
 
 ### Key Actions
 
@@ -81,6 +104,8 @@ By the end of Phase 1, the U.S. will have significantly increased its technologi
 | Mandate cash real estate purchase reporting | FinCEN | Months 24-30 | $100 million FinCEN expansion | Transactions >$300,000 reported nationwide |
 | Fund 500 new community health centers in high-overdose areas | HHS/HRSA | Months 24-60 | $5 billion over 3 years | 500 centers operational; 2 million new patients served |
 | Expand OFAC narcotics designations to 500+/year | Treasury/OFAC | Months 24-48 | $200 million additional OFAC capacity | 500+ designations annually; $5 billion assets frozen |
+| Deploy FTIR drug checking at 200+ harm reduction sites | SAMHSA/CDC | Months 24-48 | $200 million for equipment and training | Real-time drug supply surveillance in 200 communities |
+| Expand MAT in all federal correctional facilities | BOP/DOJ | Months 24-48 | $500 million annually | 100% of federal inmates with OUD offered MAT |
 
 ### Legislative Requirements
 
@@ -89,10 +114,17 @@ By the end of Phase 1, the U.S. will have significantly increased its technologi
 - Real estate transparency legislation
 - SAMHSA block grant reauthorization at increased levels
 - U.S.-Mexico partnership authorization legislation
+- Federal drug checking legalization and funding authorization
 
 ### Expected Outcomes
 
 By the end of Phase 2, all ports of entry will have NII scanning capability, dramatically increasing fentanyl interdiction rates. The drug control budget will be evenly balanced between supply and demand reduction. The U.S.-Mexico security partnership will focus on institutional capacity building rather than military equipment. Comprehensive AML regulations will cover cryptocurrency, real estate, and beneficial ownership. Treatment capacity will have expanded significantly, particularly in underserved areas.
+
+### Phase 2 Decision Points
+
+- **Month 30**: Evaluate NII deployment impact on interdiction rates; if below targets, increase AI-assisted analysis investment
+- **Month 36**: Assess U.S.-Mexico partnership reform progress; if Mexican cooperation is limited, redirect resources to financial enforcement and demand reduction
+- **Month 48**: Review treatment capacity expansion; if workforce shortages persist, expand loan forgiveness and training pipeline programs
 
 ---
 
@@ -105,6 +137,7 @@ By the end of Phase 2, all ports of entry will have NII scanning capability, dra
 - Reduce overdose deaths by 50% from 2023 baseline (target: below 54,000/year)
 - Achieve measurable reduction in cartel revenues and Mexican drug violence
 - Establish sustainable international counter-narcotics cooperation frameworks
+- Build preparedness infrastructure for post-fentanyl synthetic threats
 
 ### Key Actions
 
@@ -115,10 +148,12 @@ By the end of Phase 2, all ports of entry will have NII scanning capability, dra
 | Establish overdose prevention centers in 50 highest-overdose cities | HHS/SAMHSA | Years 6-8 | $500 million annually | 50 OPCs operational; measurable overdose reduction |
 | Build Mexican judicial system capacity | State/USAID | Years 6-10 | $1 billion total | Mexican conviction rate >15% (from <5%) |
 | Implement AI-driven precursor chemical monitoring system | DEA/Treasury/China | Years 6-8 | $500 million | Real-time tracking of precursor shipments |
+| Develop and deploy broad-spectrum overdose reversal agents | NIDA/FDA | Years 6-10 | $500 million research investment | FDA-approved reversal agent effective against nitazenes and non-opioid synthetics |
+| Institutionalize multilateral precursor monitoring through INCB | State/DEA | Years 6-10 | $200 million diplomatic programs | International monitoring framework covering 90%+ of global precursor production |
 
 ### Expected Outcomes
 
-By the end of Phase 3, the United States will have fundamentally rebalanced its counter-trafficking approach from enforcement-dominant to demand-reduction-dominant. Overdose deaths will have been reduced by at least 50%, treatment access will be broadly available, and cartel revenues will have been meaningfully degraded through combined financial disruption and demand reduction. International partnerships will be institutionalized and sustainable.
+By the end of Phase 3, the United States will have fundamentally rebalanced its counter-trafficking approach from enforcement-dominant to demand-reduction-dominant. Overdose deaths will have been reduced by at least 50%, treatment access will be broadly available, and cartel revenues will have been meaningfully degraded through combined financial disruption and demand reduction. International partnerships will be institutionalized and sustainable. The country will have proactive preparedness systems for novel synthetic drug threats.
 
 ---
 
@@ -134,6 +169,8 @@ By the end of Phase 3, the United States will have fundamentally rebalanced its 
 | OFAC narcotics designations | Annual | Designations per year | 173 (2023) | 300 | 500 | 500+ |
 | NII port coverage | Ongoing | % of ports with NII | ~20% | 50% | 100% | 100% (maintained) |
 | Cartel revenue estimate | Annual | Estimated annual U.S. drug revenue | $12-15 billion | $11-13 billion | $9-11 billion | $7-9 billion |
+| Drug checking sites | Annual | Communities with FTIR services | <20 | 50 | 200 | 300+ |
+| Novel synthetic early warning | Ongoing | Time from detection to response | Months-years | <30 days | <14 days | <7 days |
 
 ## Governance and Oversight
 
@@ -142,6 +179,8 @@ By the end of Phase 3, the United States will have fundamentally rebalanced its 
 - **GAO audits**: Annual GAO evaluation of counter-trafficking program effectiveness, including outcome-based assessment (not just input metrics)
 - **Independent evaluation**: RAND Corporation or equivalent independent research organization contracted to conduct 5-year and 10-year comprehensive evaluations
 - **Interagency task force**: ONDCP-chaired interagency task force meets monthly to coordinate implementation across DEA, CBP, Treasury, State, DOJ, and HHS
+- **Public dashboard**: Create a publicly accessible counter-trafficking performance dashboard reporting key metrics (overdose deaths, interdiction rates, treatment gap, budget allocation) updated quarterly to enable citizen oversight and accountability
+- **Sunset clauses**: All new programs include 5-year reauthorization requirements with mandatory outcome-based evaluations; programs failing to demonstrate measurable impact on target metrics face automatic funding reductions
 
 ## Risk Mitigation
 
@@ -163,7 +202,7 @@ By the end of Phase 3, the United States will have fundamentally rebalanced its 
 
 **Mitigation Strategy**: Compartmentalize counter-narcotics cooperation from broader geopolitical disputes. Build redundant supply chain monitoring through partner intelligence services (Australia, UK, Canada). Develop technical capacity to detect precursor shipments without Chinese cooperation.
 
-**Contingency Plan**: If Chinese cooperation collapses, shift to unilateral sanctions against Chinese chemical companies, enhanced precursor detection at Mexican ports, and accelerated demand reduction to reduce the market for fentanyl.
+**Contingency Plan**: If Chinese cooperation collapses, shift to unilateral sanctions against Chinese chemical companies, enhanced precursor detection at Mexican ports, and accelerated demand reduction to reduce the market for fentanyl. Expand diplomatic engagement with India to prevent it from becoming an alternative precursor source.
 
 ### Risk 3: Cartel Adaptation to Financial Disruption
 
@@ -171,7 +210,7 @@ By the end of Phase 3, the United States will have fundamentally rebalanced its 
 
 **Impact**: Medium
 
-**Mitigation Strategy**: Diversify financial disruption methods to cover cryptocurrency, trade-based laundering, real estate, and traditional banking simultaneously. Build adaptive analytical capacity that can identify new laundering methods as they emerge.
+**Mitigation Strategy**: Diversify financial disruption methods to cover cryptocurrency, trade-based laundering, real estate, Chinese money broker networks, and traditional banking simultaneously. Build adaptive analytical capacity that can identify new laundering methods as they emerge.
 
 **Contingency Plan**: If cartels shift to methods not covered by current regulations, expedite regulatory updates through existing rulemaking authority rather than waiting for new legislation.
 
@@ -195,22 +234,32 @@ By the end of Phase 3, the United States will have fundamentally rebalanced its 
 
 **Contingency Plan**: If dark web markets grow beyond enforcement capacity, focus resources on disrupting the most dangerous products (fentanyl, nitazenes) while accepting that lower-risk substances will circulate.
 
+### Risk 6: Novel Synthetic Drugs Outpace Response Capacity
+
+**Likelihood**: Medium-High
+
+**Impact**: High
+
+**Mitigation Strategy**: The early warning network and pre-scheduling authority established in Phase 1 provide the framework for rapid response. Drug checking services in 200+ communities provide real-time surveillance of the drug supply. NIDA-funded research on broad-spectrum reversal agents provides a medical safety net.
+
+**Contingency Plan**: If a novel synthetic compound (e.g., nitazene) produces a mortality spike before systems are fully deployed, invoke emergency scheduling authority, surge naloxone distribution, and accelerate drug checking deployment in affected areas.
+
 ## Resource Requirements
 
 ### Funding
 
 | Phase | Estimated Cost | Funding Source | Notes |
 |-------|----------------|----------------|-------|
-| Phase 1 (Yrs 1-2) | $8-10 billion total | New appropriations + reallocation | NII procurement ($2B), FinCEN ($600M), digital task force ($600M), treatment expansion ($4B) |
-| Phase 2 (Yrs 3-5) | $15-20 billion total | Rebalanced drug budget + new appropriations | NII completion ($3B), treatment ($7B), AML ($1B), international ($4.5B) |
-| Phase 3 (Yrs 6-10) | $25-35 billion total | Sustained demand reduction investment | Treatment at scale ($15B), OPCs ($2.5B), corrections MAT ($5B), international ($5B) |
+| Phase 1 (Yrs 1-2) | $8-10 billion total | New appropriations + reallocation | NII procurement ($2B), FinCEN ($600M), digital task force ($600M), treatment expansion ($4B), early warning ($200M) |
+| Phase 2 (Yrs 3-5) | $15-20 billion total | Rebalanced drug budget + new appropriations | NII completion ($3B), treatment ($7B), AML ($1B), international ($4.5B), drug checking ($200M) |
+| Phase 3 (Yrs 6-10) | $25-35 billion total | Sustained demand reduction investment | Treatment at scale ($15B), OPCs ($2.5B), corrections MAT ($5B), international ($5B), research ($2.5B) |
 | **Total (10 years)** | **$48-65 billion** | | Represents ~10-15% increase over current 10-year baseline spending |
 
 ### Personnel
 
-- **Phase 1**: 500 new CBP officers, 600 new FinCEN analysts, 500 DOJ digital task force staff, expanded SAMHSA workforce
-- **Phase 2**: 1,000 additional CBP officers, 2,000+ community health center staff, 200 Treasury/OFAC analysts, State Department/USAID Mexico program staff
-- **Phase 3**: Continued health center staffing, corrections-based treatment workforce, international program staff
+- **Phase 1**: 500 new CBP officers, 600 new FinCEN analysts, 500 DOJ digital task force staff, expanded SAMHSA workforce, 100 early warning network scientists and analysts
+- **Phase 2**: 1,000 additional CBP officers, 2,000+ community health center staff, 200 Treasury/OFAC analysts, State Department/USAID Mexico program staff, 500 drug checking service personnel
+- **Phase 3**: Continued health center staffing, corrections-based treatment workforce, international program staff, research scientists for novel reversal agent development
 
 ### Infrastructure
 
@@ -218,6 +267,8 @@ By the end of Phase 3, the United States will have fundamentally rebalanced its 
 - **FinCEN technology**: Real-time transaction monitoring system, beneficial ownership database, blockchain analytics platform
 - **Treatment infrastructure**: 500 new community health centers, 50 overdose prevention centers, expanded MAT capacity in all federal and state correctional facilities
 - **Digital infrastructure**: Dark web monitoring platforms, AI-assisted content detection systems, encrypted communication analysis tools
+- **Drug checking network**: 200+ FTIR spectroscopy devices deployed at harm reduction sites, centralized data collection and analysis platform
+- **Early warning network**: Laboratory network across 10+ sentinel sites for real-time identification of novel synthetic compounds
 
 ---
 

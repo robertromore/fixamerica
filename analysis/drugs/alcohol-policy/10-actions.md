@@ -19,6 +19,16 @@ Alcohol-related harm is one of the most preventable public health crises in the 
 - If you or someone you know has concerns about alcohol use, contact SAMHSA's National Helpline at 1-800-662-4357 (free, confidential, 24/7)
 - Model responsible attitudes toward alcohol with young people in your family and community; discuss the evidence on alcohol and health openly
 - If you are a healthcare provider, integrate SBIRT (Screening, Brief Intervention, and Referral to Treatment) into your practice
+- Familiarize yourself with the 2023 Canadian Low-Risk Drinking Guidelines (maximum 2 drinks per week for low risk) as a reference point for personal risk assessment, recognizing that U.S. guidelines (up to 2 per day for men, 1 for women) are significantly more permissive than current scientific evidence supports
+- If you are a parent, be aware that the average age of first drink in the U.S. is 14.1 years (SAMHSA, 2024) and that early initiation is one of the strongest predictors of later alcohol use disorder. Evidence-based prevention conversations start early and are ongoing, not one-time events
+- Track your own alcohol consumption using a drink-tracking app or journal. Research shows that self-monitoring reduces consumption by increasing awareness of actual intake, which most people underestimate (Kaner et al., *Cochrane Review*, 2018)
+
+### Support Others
+
+- If someone you know is struggling with alcohol use, avoid judgment and offer information about treatment options. Stigma is the primary barrier to treatment-seeking for the 27.3 million Americans with untreated AUD (SAMHSA, 2024)
+- Learn about Al-Anon (<https://al-anon.org>) and other family support programs that help people affected by a loved one's drinking
+- If you witness someone planning to drive after drinking, intervene. Offer a ride, call a taxi, or take the keys. One-third of all traffic deaths involve alcohol-impaired driving (NHTSA, 2023)
+- Be an ally to people in recovery by creating social environments where not drinking is normal and not questioned. Normalize non-alcoholic beverages at social events and professional gatherings
 
 ### Use Your Voice
 
@@ -43,6 +53,16 @@ Alcohol-related harm is one of the most preventable public health crises in the 
 - Connect alcohol policy reform with broader public health coalitions working on substance use, traffic safety, domestic violence, and cancer prevention. The alcohol-cancer link is a powerful bridge to cancer advocacy organizations.
 - Engage faith communities, which have historical roots in temperance advocacy and current interest in family well-being, addiction recovery, and youth protection
 - Reach out to law enforcement and first responder organizations that see the consequences of alcohol misuse daily -- they can be powerful allies for DUI reform and treatment funding
+- Partner with school boards and parent-teacher organizations to strengthen alcohol prevention education and monitor alcohol advertising near schools
+- Connect with domestic violence organizations, given that alcohol is involved in approximately 55% of domestic violence incidents (BJS, 2021)
+- Engage with local business organizations that bear the costs of alcohol misuse through employee absenteeism, workplace injuries, and healthcare costs -- the economic argument for reform can resonate with business leaders
+
+### Monitor Your Community
+
+- **Track outlet density**: Use NIAAA's Alcohol Policy Information System (APIS) and local licensing data to map alcohol outlets in your community. Compare density in low-income neighborhoods to affluent areas. Document disparities and present findings to local government.
+- **Monitor advertising compliance**: Document alcohol advertisements near schools, playgrounds, and youth-oriented venues. Report violations to the FTC and relevant state alcohol control board. Take screenshots of digital advertising that targets minors on social media platforms.
+- **Attend licensing hearings**: Most liquor license applications require public hearings. Attend and testify about the community impact of additional outlets, particularly in areas that are already saturated. Bring data on outlet density and health outcomes.
+- **Support local prevention**: Many communities have Drug-Free Community coalitions funded by SAMHSA. These coalitions need volunteers, board members, and advocates. Find your local coalition through CADCA at <https://www.cadca.org/about-us/our-coalition-members>.
 
 ---
 
@@ -59,7 +79,7 @@ Alcohol-related harm is one of the most preventable public health crises in the 
 
 **What to Say -- Template Email**:
 
-```
+```text
 Subject: Support Evidence-Based Alcohol Policy Reform
 
 Dear [Representative/Senator] [Last Name],
@@ -83,7 +103,7 @@ Sincerely,
 
 **What to Say -- Phone Call Script**:
 
-```
+```text
 "Hello, my name is [Name] and I'm a constituent from [City]. I'm calling about alcohol policy reform. Alcohol kills 178,000 Americans a year, and federal excise taxes haven't been raised since 1991. I'd like the [Representative/Senator] to support indexing alcohol taxes to inflation and updating health warning labels. Can you please note my position?"
 ```
 
@@ -95,6 +115,19 @@ Current or proposed legislation to support:
 - **0.05% BAC Standard**: Support any bill conditioning highway safety funding on state adoption of 0.05% BAC limits, modeled on the National Minimum Drinking Age Act approach
 - **Health Warning Label Modernization**: Support TTB rulemaking or Congressional legislation to update the 1988 warning labels to include cancer risk information
 - **MHPAEA Enforcement**: Support appropriations for HHS enforcement of mental health parity for alcohol treatment
+- **Ignition Interlock for All Act**: Support federal legislation conditioning highway safety funding on state adoption of all-offender ignition interlock requirements (34 states already comply; 16 remaining)
+- **HALT Act Implementation**: Support timely implementation of the HALT Act (Infrastructure Investment and Jobs Act, Section 24220), which requires NHTSA to develop a rule mandating passive alcohol detection technology in new vehicles
+- **SAMHSA Reauthorization**: Support expanded funding for SAMHSA alcohol treatment block grants and the Harm Reduction Grant Program during reauthorization
+
+### State-Level Legislation
+
+State legislatures have enormous power over alcohol policy under the Twenty-first Amendment. Priority state-level actions include:
+
+- **0.05% BAC adoption**: Contact your state legislators to support lowering the DUI threshold from 0.08% to 0.05%. Utah's experience shows this saves lives without the predicted negative consequences. Template language: "Utah reduced alcohol-related fatal crashes by 19.8% after adopting 0.05% BAC. I urge you to support the same standard in our state."
+- **State excise tax increases**: Many state excise taxes are among the lowest in the nation and have not been adjusted in decades. Advocate for increases with inflation indexing. Revenue can be earmarked for treatment and prevention.
+- **Outlet density regulation**: Support local option laws that give communities control over the number and location of alcohol outlets. Advocate for community impact assessments before new licenses are granted.
+- **Happy hour restrictions**: Support bans on deeply discounted drink specials, below-cost sales, and unlimited drink promotions that incentivize rapid and excessive consumption. Currently only 10 states restrict happy hour practices.
+- **Sunday sales evaluation**: When Sunday sales liberalization is proposed, advocate for evidence-based evaluation rather than blanket deregulation. Research shows that each additional hour of alcohol availability is associated with increased alcohol-related harms (Hahn et al., 2010).
 
 ### Electoral Engagement
 
@@ -114,11 +147,43 @@ Current or proposed legislation to support:
 
 ## Professional Actions
 
-- **For Healthcare Providers**: Integrate alcohol screening (AUDIT-C or CAGE) into routine clinical practice. Prescribe naltrexone or acamprosate for patients with AUD. Report barriers to treatment parity to your state insurance commissioner.
-- **For Educators**: Implement evidence-based prevention curricula (not D.A.R.E.) in schools. Resources available from NIAAA: <https://www.niaaa.nih.gov/publications/brochures-and-fact-sheets/make-difference-talk-child-about-alcohol>
-- **For Public Health Professionals**: Advocate for alcohol-specific surveillance and intervention funding within your agency. Include alcohol in comprehensive community health assessments.
-- **For Lawyers**: Support pro bono representation of DUI victims seeking civil remedies. Monitor and challenge self-regulatory practices that fail to protect the public.
-- **For Journalists**: Cover alcohol as a policy issue, not just an individual behavior issue. Report on industry lobbying, tax erosion, and the treatment gap alongside DUI incidents and alcohol-related deaths.
+### For Healthcare Providers
+
+- Integrate alcohol screening (AUDIT-C or CAGE) into routine clinical practice for all adult patients. The USPSTF recommends screening for unhealthy alcohol use in primary care settings and providing brief behavioral counseling interventions (Grade B recommendation, 2018).
+- Prescribe naltrexone or acamprosate for patients with AUD. These FDA-approved medications reduce heavy drinking by 25% and are underutilized -- fewer than 1.5% of AUD patients receive medication (SAMHSA, 2024).
+- Report barriers to treatment parity to your state insurance commissioner. If insurers are denying AUD treatment claims or imposing restrictions not applied to comparable medical conditions, they may be violating the Mental Health Parity and Addiction Equity Act.
+- Talk to patients about the alcohol-cancer link. The 2025 Surgeon General advisory provides clinical guidance for these conversations. Many patients are unaware that alcohol is a Group 1 carcinogen.
+- For OB/GYN providers: Screen all patients of reproductive age for alcohol use. Provide clear guidance that no amount of alcohol is safe during pregnancy.
+
+### For Educators
+
+- Implement evidence-based prevention curricula (not D.A.R.E., which has been shown to be ineffective) in schools. Evidence-supported programs include LifeSkills Training, Project Northland, and PROSPER. Resources available from NIAAA: <https://www.niaaa.nih.gov/publications/brochures-and-fact-sheets/make-difference-talk-child-about-alcohol>
+- Monitor and report alcohol advertising near schools and at school-sponsored events. Document industry presence at sporting events attended by minors.
+- Integrate alcohol education into health, science, and social studies curricula across grade levels rather than treating it as a one-time assembly topic.
+
+### For Public Health Professionals
+
+- Advocate for alcohol-specific surveillance and intervention funding within your agency. Include alcohol in comprehensive community health assessments.
+- Conduct local outlet density assessments and present findings to local government. Advocate for evidence-based zoning and licensing practices.
+- Build relationships with local media to ensure that alcohol is covered as a public health and policy issue, not just a crime or lifestyle story.
+
+### For Lawyers and Legal Professionals
+
+- Support pro bono representation of DUI victims seeking civil remedies. Dram shop laws (which hold alcohol servers liable for serving visibly intoxicated patrons) vary by state and are often underutilized.
+- Monitor and challenge self-regulatory advertising practices that fail to protect the public, particularly in digital media where age-gating is easily circumvented.
+- File complaints with state attorneys general when industry marketing practices target minors or violate state consumer protection statutes.
+
+### For Journalists
+
+- Cover alcohol as a policy issue, not just an individual behavior issue. Report on industry lobbying, tax erosion, and the treatment gap alongside DUI incidents and alcohol-related deaths.
+- Investigate local alcohol outlet density patterns and their relationship to community health outcomes. Map industry campaign contributions to state legislators who sit on relevant committees.
+- When covering alcohol-related deaths, provide context: 178,000 Americans die annually from alcohol, making it the third leading preventable cause of death. Avoid framing that implies individual moral failure rather than systemic policy failure.
+
+### For Researchers
+
+- Prioritize policy-relevant research questions: What are the effects of state-level tax changes? How does outlet density affect specific health outcomes? What digital advertising restrictions are most effective at reducing youth exposure?
+- Refuse or disclose alcohol industry funding. The 2018 NIAAA MACH trial scandal demonstrated that industry funding compromises research integrity. Follow NIH and WHO guidelines on industry engagement.
+- Translate research findings into accessible policy briefs and op-eds that reach policymakers and the public, not just academic audiences.
 
 ---
 
@@ -156,6 +221,16 @@ Current or proposed legislation to support:
 - **Recovery Happy Hour**: Personal stories and policy discussion on alcohol and addiction - <https://www.recoveryhappyhour.com>
 - **The Huberman Lab Podcast, Ep. "What Alcohol Does to Your Body, Brain & Health"**: Evidence-based health review - <https://www.hubermanlab.com>
 - **STAT News Addiction Coverage**: Ongoing journalism on substance use policy - <https://www.statnews.com/category/addiction/>
+- **Take a Break from Drinking**: Podcast focused on understanding and changing relationship with alcohol - evidence-informed approach
+- **This Naked Mind Podcast**: Popular podcast exploring the science of alcohol and habit change - <https://thisnakedmind.com>
+
+### Key Reports to Read
+
+- **Surgeon General's Advisory on Alcohol and Cancer** (January 2025): The most significant federal statement on alcohol and health in decades. Read the full advisory and share it widely.
+- **WHO Global Status Report on Alcohol and Health** (2024): Comprehensive international data and policy analysis.
+- **National Academies: Getting to Zero Alcohol-Impaired Driving Fatalities** (2018): Landmark consensus report recommending 0.05% BAC and advanced vehicle technology.
+- **MADD Annual Report to the Nation**: State-by-state grading of DUI laws and enforcement.
+- **FTC Self-Regulation in the Alcohol Industry** (2022): Federal review documenting the failure of industry self-regulation in digital advertising.
 
 ---
 
@@ -180,6 +255,18 @@ When discussing alcohol policy with others, emphasize:
 | "Raising taxes just hurts responsible drinkers" | Tax increases disproportionately reduce heavy drinking; the top 20% of drinkers consume 85% of all alcohol sold | Cook, *Paying the Tab*, 2007; Wagenaar et al., 2009 |
 | "Self-regulation of advertising works fine" | FTC found 23-29% of digital alcohol ads reach underage audiences under self-regulation; no enforceable penalties exist | FTC, 2022 |
 | "DUI is already heavily enforced" | DUI arrests have declined 30% since 2010 while fatalities have increased 14%; enforcement resources are inadequate | FBI UCR, 2023; NHTSA FARS, 2023 |
+| "Alcohol is less harmful than marijuana" | Alcohol causes approximately 178,000 deaths annually; cannabis causes approximately zero direct overdose deaths. Alcohol is classified as a Group 1 carcinogen; cannabis is not. | CDC, 2024; WHO/IARC |
+| "The industry regulates itself responsibly" | Industry "responsibility" campaigns are more effective at improving brand image than reducing harm; companies spend $7.7B on marketing vs. ~$250M on responsibility programs | Smith et al., *Addiction*, 2019; FTC, 2022 |
+
+### Framing the Issue
+
+When advocating for alcohol policy reform, framing matters. Research on science communication suggests the following approaches are most effective:
+
+- **Avoid the Prohibition frame**: Never use language that can be associated with banning alcohol. Instead, frame reforms as modernization, evidence-based regulation, consumer protection, or public health investment. Every other dangerous legal product is regulated without anyone calling it prohibition.
+- **Lead with the death toll comparison**: "Alcohol kills more Americans than opioids" is a powerful reframing because it challenges the assumption that alcohol is relatively harmless and highlights the disproportionate policy response to opioids.
+- **Use the cost frame for fiscal audiences**: "Excessive drinking costs taxpayers $100 billion a year" and "the alcohol industry externalizes $249 billion in annual social costs" are compelling arguments for audiences that prioritize fiscal responsibility.
+- **Personalize with stories**: Statistics create context; stories create action. Connect with MADD victim advocates, FASD family members, and people in recovery who are willing to share their experiences publicly.
+- **Emphasize international evidence**: "Over 100 countries have already adopted 0.05% BAC limits" and "Scotland reduced alcohol deaths by 13% with minimum pricing" demonstrate that these policies are tested, effective, and mainstream -- not radical or experimental.
 
 ---
 

@@ -10,6 +10,16 @@ Despite these staggering numbers, the United States lacks a fully coordinated na
 
 The central challenge of suicide prevention lies in its complexity: suicide results from an interaction of psychiatric illness, substance use, social isolation, economic distress, access to lethal means, and cultural factors. No single intervention can address all pathways. Effective strategy requires a coordinated public health approach that operates at the individual, community, healthcare system, and societal levels simultaneously, integrating crisis response with upstream prevention and postvention support.
 
+## Why Suicide Prevention Matters Now
+
+The United States is at an inflection point in suicide prevention. Three converging developments create both urgency and opportunity:
+
+1. **The 988 infrastructure investment**: The launch of the 988 Suicide and Crisis Lifeline in 2022 represents the most significant crisis services reform in decades, but its success depends on sustainable funding and full operationalization that are not yet secured.
+2. **Rising rates in previously lower-risk populations**: While overall rates have risen 36% since 2000, the increases among Black youth (up 36% since 2018), Hispanic populations (up 18%), and adolescent girls (ED visits for suspected suicide attempts up 51% during the pandemic) signal that the crisis is broadening beyond historically high-risk groups.
+3. **The post-pandemic mental health crisis**: COVID-19 exacerbated social isolation, economic instability, and substance use -- three of the primary upstream drivers of suicide -- while simultaneously straining the mental health workforce and crisis services infrastructure.
+
+The policy decisions made in the next 3-5 years -- on 988 funding, means restriction, healthcare integration, and workforce development -- will determine whether the United States begins to reverse its upward suicide trajectory or continues to diverge from peer nations.
+
 ## Scope
 
 This analysis covers the key aspects of suicide prevention policy:
@@ -36,6 +46,10 @@ This analysis covers the key aspects of suicide prevention policy:
 | 988 Lifeline calls, texts, and chats received | 5.5 million (first full year) | SAMHSA 988 Performance Dashboard, 2023 |
 | Federal suicide prevention funding (SAMHSA) | ~$1.1 billion (FY2024) | SAMHSA Congressional Budget Justification, FY2024 |
 
+## Suicide Prevention vs. Peer Nations
+
+The United States is an outlier among wealthy democracies in both its suicide rate and the primary method used. While U.S. mental health prevalence and economic conditions are broadly comparable to those in other OECD nations, the American suicide rate (14.3 per 100,000) exceeds the OECD average (~11 per 100,000) by approximately 30%. The distinguishing factor is access to firearms: no other high-income nation has a comparable rate of household firearm ownership (44%), and firearm suicide accounts for 54.7% of all U.S. suicide deaths -- a proportion unmatched anywhere in the developed world. This makes means restriction the single most important differentiating policy lever available.
+
 ## Core Tensions and Tradeoffs
 
 - **Individual Liberty vs. Public Health**: Means restriction -- particularly firearm-related interventions such as waiting periods, secure storage mandates, and extreme risk protection orders -- pits Second Amendment rights and personal autonomy against the demonstrated effectiveness of reducing access to lethal means during acute crisis periods
@@ -51,6 +65,9 @@ This analysis covers the key aspects of suicide prevention policy:
 2. What politically viable approaches to lethal means restriction can reduce the 55% of suicides committed with firearms without triggering insurmountable opposition from gun rights advocates?
 3. How should limited federal resources be allocated between universal prevention infrastructure and targeted programs for the highest-risk populations?
 4. What governance and financing structures are needed to sustain the 988 Lifeline and associated mobile crisis teams beyond initial launch funding?
+5. How can the healthcare system close the lethal gap in care transitions -- the period immediately following psychiatric discharge or emergency department visits -- where suicide risk is 100 to 200 times the general population rate?
+6. What role should technology companies play in preventing youth suicide, given the evidence linking algorithmic amplification of self-harm content to increased risk among adolescents?
+7. How can culturally grounded prevention programs be scaled for American Indian/Alaska Native communities and other populations where standard clinical models have limited effectiveness?
 
 ## Vision of Success
 
@@ -61,6 +78,20 @@ A successful suicide prevention system in the 21st century would feature:
 - **Integrated Healthcare**: Every primary care, emergency department, and behavioral health encounter includes validated screening, safety planning, lethal means counseling, and warm handoff to follow-up care as standard practice
 - **Means Safety Culture**: Secure firearm storage is the social norm, bridge barriers protect high-lethality sites, and medication packaging reduces impulsive overdose -- achieved through cultural change, incentives, and targeted regulation rather than confiscation
 - **Equity Across Populations**: Suicide rates among veterans, American Indian/Alaska Native communities, LGBTQ+ youth, and rural populations are reduced to parity with national averages through culturally tailored, adequately funded programs
+- **Closed Care Transitions**: No person leaves a psychiatric inpatient unit, emergency department, or crisis stabilization center without a completed safety plan, confirmed follow-up appointment within 7 days, and at least one caring contact within 48 hours
+- **Sustained Federal Commitment**: A permanent interagency Office of Suicide Prevention coordinates strategy across SAMHSA, VA, DoD, CDC, IHS, and HRSA, with dedicated annual funding indexed to the economic burden of suicide
+- **Data-Driven Improvement**: Real-time surveillance enables rapid identification of emerging clusters and trends, with community response protocols that can be activated within 72 hours
+
+## Related Topics
+
+This analysis intersects with several other policy domains:
+
+- [Mental Health: Overview](../01-overview.md) -- Broader mental health system context
+- [Veterans: Mental Health](../../veterans/mental-health/01-overview.md) -- Veteran-specific suicide prevention
+- [Drugs: Overview](../../drugs/01-overview.md) -- Substance use and suicide co-occurrence
+- [Healthcare: Overview](../../healthcare/01-overview.md) -- Healthcare access and insurance coverage barriers
+- [Housing: Overview](../../housing/01-overview.md) -- Housing instability as an upstream suicide risk factor
+- [Justice: Policing](../../justice/policing/01-overview.md) -- Crisis response and law enforcement encounters with suicidal individuals
 
 ---
 

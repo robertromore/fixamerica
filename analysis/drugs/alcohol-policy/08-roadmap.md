@@ -145,6 +145,53 @@ By Year 10: all 50 states at 0.05% BAC, reducing DUI fatalities below 8,000 annu
 
 **Evaluation**: NIAAA and GAO will conduct independent evaluations at Year 3, Year 5, and Year 10, with findings reported to Congress and the public.
 
+### Accountability Mechanisms
+
+- **Annual Scorecard**: The Alcohol Policy Task Force will publish an annual National Alcohol Policy Scorecard ranking all 50 states across 15 key policy dimensions (excise tax rates, BAC limits, IID requirements, outlet density controls, advertising regulation, treatment access, etc.), modeled on MADD's existing state-by-state DUI grading system
+- **Congressional Reporting**: Task Force officials will testify before the Senate Health, Education, Labor, and Pensions (HELP) Committee and the House Energy and Commerce Committee at least annually
+- **Public Dashboard**: Real-time, publicly accessible data dashboard tracking key metrics (alcohol-attributable deaths, DUI fatalities, AUD treatment rates, excise revenue, state policy adoption) at the national and state level
+- **Independent Advisory Board**: A 15-member advisory board including public health experts, addiction medicine specialists, law enforcement representatives, industry representatives, and community advocates will review progress and recommend adjustments
+
+## Coalition Building Strategy
+
+### Phase 1 Coalition (Quick Wins)
+
+The Phase 1 coalition leverages existing organizational infrastructure and proven advocacy models:
+
+| Coalition Partner | Role | Incentive |
+|---|---|---|
+| MADD | Lead advocacy for ignition interlocks; public mobilization | Extends core mission; builds on 40 years of success |
+| American Medical Association | Clinical endorsement of SBIRT and treatment expansion | Aligns with public health mandate |
+| Insurance industry (selective) | Support MHPAEA enforcement | Reduces long-term claims costs |
+| Law enforcement organizations | Support DUI enforcement tools | Reduces officer risk; improves enforcement effectiveness |
+| Cancer advocacy groups | Support health warning labels | Alcohol-cancer link provides new advocacy front |
+| Surgeon General's office | Lead public education campaign | Builds on 2025 advisory |
+
+### Phase 2 Coalition (Structural Reform)
+
+Phase 2 requires a broader coalition that can sustain political pressure against determined industry opposition:
+
+| Coalition Partner | Role | Incentive |
+|---|---|---|
+| Fiscal hawks/deficit reduction advocates | Support excise tax increase as revenue measure | $8-12 billion in new annual revenue |
+| Craft producers (breweries, wineries, distilleries) | Support three-tier reform; split from large industry | Direct-to-consumer access; reduced distributor dependence |
+| State attorneys general | Lead multi-state action on advertising and labeling | Consumer protection authority; public visibility |
+| Academic and research community | Provide evidence base; testify before Congress | Research funding; impact translation |
+| Faith communities | Support treatment access and family protection | Moral authority; grassroots mobilization capacity |
+| Workplace safety organizations | Support employer-based interventions | $80 billion annual productivity cost creates business case |
+
+### Phase 3 Coalition (Institutional Transformation)
+
+Phase 3 requires sustained bipartisan support for institutional creation and long-term investment:
+
+| Coalition Partner | Role | Incentive |
+|---|---|---|
+| Government reform organizations | Support Office of Alcohol Policy creation | Institutional rationalization |
+| International partners (WHO, OECD) | Provide models and external pressure | Global alcohol harm reduction alignment |
+| Recovery community | Lead destigmatization and treatment advocacy | Treatment access; public voice for recovery |
+| Technology sector | Support advanced DUI prevention technology | Market opportunity (HALT Act compliance) |
+| Local government associations | Support outlet density and zoning reform | Community health and safety improvements |
+
 ## Risk Mitigation
 
 ### Risk 1: Industry Legal Challenge to Advertising Regulations
@@ -187,6 +234,26 @@ By Year 10: all 50 states at 0.05% BAC, reducing DUI fatalities below 8,000 annu
 
 **Contingency Plan**: Prioritize medication-assisted treatment (naltrexone, acamprosate) which requires less intensive clinical support than psychosocial interventions, enabling faster capacity expansion.
 
+### Risk 5: Industry Captures the Office of Alcohol Policy
+
+**Likelihood**: Medium
+
+**Impact**: High
+
+**Mitigation Strategy**: Prohibit OAP employees from holding industry positions for 5 years before and after service (cooling-off period). Require financial disclosure of all industry ties. Mandate that the OAP advisory board include a majority of public health representatives. Establish an independent Inspector General function.
+
+**Contingency Plan**: If capture occurs, statutory sunset provisions (10-year reauthorization) provide a mechanism for Congressional review and restructuring.
+
+### Risk 6: Political Backlash from "Nanny State" Framing
+
+**Likelihood**: High
+
+**Impact**: Medium
+
+**Mitigation Strategy**: Frame all interventions around consumer information (labeling), fairness (tax equity), safety (DUI enforcement), and treatment access (healthcare) rather than prohibition or restriction. Emphasize that the U.S. already regulates tobacco, firearms, automobiles, and pharmaceuticals without anyone calling it prohibition. Deploy bipartisan messengers -- fiscal conservatives for tax reform, libertarians for three-tier deregulation, veterans' groups for treatment access.
+
+**Contingency Plan**: If political backlash stalls federal action, redirect effort to state-level reforms where political conditions are more favorable. The Twenty-first Amendment provides a strong constitutional basis for state action.
+
 ## Resource Requirements
 
 ### Funding
@@ -211,6 +278,32 @@ By Year 10: all 50 states at 0.05% BAC, reducing DUI fatalities below 8,000 annu
 - FTC digital advertising monitoring platform ($20 million)
 - SAMHSA treatment grant management system expansion ($10 million)
 - State ignition interlock monitoring systems (state-funded, ~$200 million nationally)
+- NHTSA HALT Act vehicle technology testing and certification facilities ($50 million)
+- National Alcohol Policy Dashboard (real-time public data tracking, $5 million)
+
+## Comparison to Historical Reform Timelines
+
+Understanding the pace of previous alcohol policy reforms provides realistic expectations:
+
+| Reform | Introduction | Full Implementation | Duration |
+|---|---|---|---|
+| MLDA 21 | 1984 (federal law) | 1988 (all states compliant) | 4 years |
+| 0.08% BAC standard | 1998 (first federal incentive) | 2004 (all states compliant) | 6 years |
+| Ignition interlocks (all-offender) | 2006 (MADD campaign launch) | 2024 (34 of 50 states) | 18+ years (ongoing) |
+| Alcohol warning labels | 1988 (enacted) | 1989 (on all products) | 1 year (implementation) |
+| Tobacco broadcast advertising ban | 1969 (proposed) | 1971 (enacted and effective) | 2 years |
+| Tobacco warning labels (graphic) | 2009 (authorized by TCA) | 2024 (final rule after litigation) | 15 years |
+
+The MLDA 21 and 0.08% BAC timelines demonstrate that federal incentive legislation can achieve relatively rapid state adoption when the political coalition is strong. The ignition interlock experience shows that voluntary state-by-state adoption without strong federal incentives is much slower. The tobacco graphic warning label experience demonstrates that industry litigation can delay implementation for over a decade.
+
+These precedents suggest the following realistic expectations:
+
+- **Ignition interlocks (all 50 states)**: 3-5 years with federal incentive legislation
+- **0.05% BAC (all 50 states)**: 5-8 years with federal incentive legislation
+- **Health warning labels**: 3-5 years (including rulemaking and litigation)
+- **Excise tax increase**: 1-2 years (if political conditions align; otherwise indefinite)
+- **Office of Alcohol Policy**: 3-5 years (legislation and establishment)
+- **AUD treatment rate at 25%**: 8-10 years (workforce development and infrastructure buildout)
 
 ---
 

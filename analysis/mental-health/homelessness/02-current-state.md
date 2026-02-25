@@ -61,6 +61,23 @@ Co-occurring mental illness and substance use disorder (dual diagnosis) is the n
 | SMI + PTSD | ~30-35% | National Health Care for the Homeless Council, 2022 |
 | SMI + chronic physical health condition | ~60% | HCH Clinician's Network, 2023 |
 
+### Specific Diagnoses Among Homeless Populations
+
+Research on specific diagnostic prevalence among homeless populations, drawn from studies using structured clinical interviews rather than self-report, provides a more detailed picture:
+
+| Diagnosis | Prevalence Among Homeless Adults | General Population Rate | Source |
+|---|---|---|---|
+| Schizophrenia spectrum disorders | 10-15% | 0.5-1.0% | Fazel et al., *PLOS Medicine*, 2008 |
+| Major depressive disorder | 20-30% | 8.4% | SAMHSA NSDUH, 2023 |
+| Bipolar disorder | 10-15% | 2.8% | Fazel et al., 2008 |
+| Post-traumatic stress disorder | 30-40% | 6.8% | National HCH Council, 2022 |
+| Alcohol use disorder | 30-40% | 10.5% | SAMHSA NSDUH, 2023 |
+| Drug use disorder | 25-35% | 7.7% | SAMHSA NSDUH, 2023 |
+| Traumatic brain injury (lifetime) | 40-50% | 8.5% | Hwang et al., 2022 |
+| Personality disorders | 20-30% | 9.1% | Fazel et al., 2008 |
+
+The prevalence of psychotic disorders (schizophrenia, schizoaffective disorder) among chronically unsheltered individuals is particularly elevated, estimated at 15-20% in studies using clinician-administered assessments (Folsom et al., *American Journal of Psychiatry*, 2005). These individuals are the hardest to engage in voluntary services and the most likely to experience prolonged street homelessness.
+
 ### Demographic Breakdown
 
 | Demographic | Share of Homeless Pop. | SMI Rate Within Group | Source |
@@ -68,10 +85,22 @@ Co-occurring mental illness and substance use disorder (dual diagnosis) is the n
 | Black/African American | 37% of total (6x overrepresented) | ~28% | HUD AHAR, 2024 |
 | White | 33% of total | ~26% | HUD AHAR, 2024 |
 | Hispanic/Latino | 23% of total | ~20% | HUD AHAR, 2024 |
+| Native American/Alaska Native | 3% of total (4x overrepresented) | ~30% | HUD AHAR, 2024 |
 | Veterans | 5.4% of total | ~30% | HUD/VA, 2023 |
 | Women (unaccompanied) | 29% of individuals | ~35% | HUD AHAR, 2024 |
+| Transgender/gender non-conforming | ~3% of individuals | ~40% | Williams Institute, 2023 |
 | Transition-age youth (18-24) | 6% of total | ~25% | Chapin Hall, 2023 |
 | Over age 55 | Growing share (~20%) | ~30% | HUD AHAR, 2024 |
+
+### Racial and Ethnic Disparities
+
+Racial disparities in homelessness are stark and reflect compounded structural inequalities. Black Americans are approximately 6 times more likely to experience homelessness than white Americans, a disparity rooted in centuries of housing discrimination, wealth extraction, and differential access to mental health treatment (National Alliance to End Homelessness, 2024). Native American and Alaska Native individuals are approximately 4 times overrepresented in the homeless population relative to their share of the general population.
+
+These disparities extend into service access and outcomes:
+
+- **Black homeless individuals** are less likely to receive mental health treatment while homeless (34% vs. 42% for white homeless individuals) and more likely to be incarcerated for the same behaviors (SAMHSA, 2023)
+- **Hispanic/Latino individuals** face language barriers in accessing services; only 38% of CoC-funded programs offer Spanish-language services (HUD, 2023)
+- **Native American/Alaska Native individuals** are overrepresented in unsheltered homelessness, particularly in urban areas far from reservation-based services (HUD AHAR, 2024)
 
 ## Federal Programs and Funding
 
@@ -134,7 +163,7 @@ Permanent supportive housing (PSH) combines affordable housing with voluntary su
 | Estimated PSH units needed to end chronic homelessness | ~300,000+ | National Alliance to End Homelessness, 2023 |
 | Current gap (units needed beyond existing) | ~150,000+ | National Alliance to End Homelessness, 2023 |
 | Average annual cost per PSH unit | $20,000-$25,000 | Corporation for Supportive Housing, 2023 |
-| Average cost to build new PSH unit | $250,000-$400,000 | varies by market | Urban Institute, 2023 |
+| Average cost to build new PSH unit | $250,000-$400,000 (varies by market) | Urban Institute, 2023 |
 | Emergency room/jail costs avoided per PSH participant | $30,000-$50,000/year | Culhane et al., various studies |
 
 ### Shelter Capacity
@@ -145,6 +174,21 @@ Permanent supportive housing (PSH) combines affordable housing with voluntary su
 | Overflow/seasonal beds | ~72,000 | HUD, 2023 |
 | Shelter utilization rate (winter) | >95% in most urban CoCs | HUD, 2023 |
 | Cities reporting shelter at capacity | >80% of major cities | U.S. Conference of Mayors, 2023 |
+
+Shelter systems present particular challenges for people with serious mental illness. Many individuals with SMI avoid congregate shelters due to sensory overload, interpersonal conflict, theft, and the difficulty of maintaining medication regimens in chaotic environments. A 2022 survey by the National Health Care for the Homeless Council found that 42% of unsheltered individuals with SMI had previously used shelters but stopped, citing safety concerns, rules conflicts, and inability to accommodate their symptoms. This finding underscores the importance of non-congregate alternatives -- including permanent supportive housing, safe havens, and low-barrier shelters -- for the population most resistant to traditional shelter.
+
+### Coordinated Entry Systems
+
+HUD requires all CoCs to operate coordinated entry systems that assess and prioritize people experiencing homelessness for available housing resources. These systems use standardized assessment tools -- most commonly the Vulnerability Index-Service Prioritization Decision Assistance Tool (VI-SPDAT) -- to triage individuals by acuity level.
+
+| Metric | Value | Source |
+|---|---|---|
+| CoCs operating coordinated entry | ~400 (all) | HUD, 2023 |
+| Most common assessment tool | VI-SPDAT (used by ~70% of CoCs) | OrgCode/HUD, 2023 |
+| Average wait time for PSH (high-acuity) | 6-24 months (varies widely) | NAEH, 2023 |
+| Average wait time for rapid re-housing | 1-6 months | NAEH, 2023 |
+
+Recent criticism of the VI-SPDAT has focused on potential racial bias in scoring algorithms, leading some CoCs (including Los Angeles and Seattle) to develop alternative assessment tools. In 2023, the VI-SPDAT's creator, OrgCode Consulting, recommended sunsetting the tool, acknowledging that it was never designed for rationing scarce housing resources (OrgCode, 2023).
 
 ## Legal Landscape
 
@@ -211,6 +255,34 @@ Homelessness and mental illness services vary dramatically by region, driven by 
 | National average (2023) | ~11 per 100,000 | Treatment Advocacy Center, 2023 |
 | 1955 peak | ~340 per 100,000 | Treatment Advocacy Center, 2023 |
 
+## Encampment Conditions and Health Outcomes
+
+### Health and Mortality
+
+Unsheltered homelessness among people with mental illness produces devastating health outcomes. Research consistently demonstrates that homelessness accelerates physical decline, with unsheltered individuals experiencing rates of chronic disease, infectious disease, and premature death far exceeding both sheltered homeless and housed populations.
+
+| Health Metric | Unsheltered Homeless | Sheltered Homeless | General Population | Source |
+|---|---|---|---|---|
+| Average life expectancy | ~50 years | ~55 years | ~77 years | O'Connell, 2005; updated estimates |
+| All-cause mortality rate | 3-4x higher | 2-3x higher | Baseline | National HCH Council, 2023 |
+| Overdose death rate | 16x higher | 8x higher | Baseline | CDC WONDER, 2023 |
+| Hypothermia deaths (annual) | ~700 | <50 | Negligible | National Coalition for the Homeless, 2023 |
+| Heat-related deaths (annual, rising) | ~400+ | <50 | ~1,700 total | CDC, 2023; Maricopa County, 2024 |
+| Hepatitis C prevalence | ~30% | ~20% | 1.0% | HCH Clinician's Network, 2023 |
+| HIV prevalence | ~3-5% | ~2-3% | 0.3% | CDC, 2023 |
+
+### Encampment Scale and Characteristics
+
+Large-scale encampments -- defined as sites with 25 or more individuals -- have become a defining feature of homelessness in the western United States. The largest encampments present concentrated mental health crises, with prevalence of psychotic symptoms, open substance use, and minimal service penetration.
+
+| City | Estimated Encampment Population (2023) | Largest Site Size | Key Mental Health Challenge | Source |
+|---|---|---|---|---|
+| Los Angeles | ~46,000 unsheltered | Skid Row (~4,000) | Scale and density overwhelm outreach | LAHSA, 2023 |
+| Phoenix | ~3,400 unsheltered | "The Zone" (~800-1,000, cleared 2023) | Extreme heat mortality | Maricopa County, 2024 |
+| Portland | ~3,000 unsheltered | Multiple distributed sites | Fentanyl-related psychosis | Multnomah County, 2023 |
+| San Francisco | ~4,400 unsheltered | Tenderloin (~2,000) | Co-occurring disorders; conservatorship debates | SF DPH, 2023 |
+| Seattle | ~8,000 unsheltered | Multiple distributed sites | Fentanyl and methamphetamine crisis | King County, 2023 |
+
 ## Recent Trends
 
 ### Rising Unsheltered Homelessness (2018-2023)
@@ -245,7 +317,39 @@ While Medicaid is the primary funder of mental health services for homeless indi
 
 ### Climate-Driven Vulnerability
 
-Extreme heat, cold, and natural disasters disproportionately affect unsheltered individuals with mental illness. Heat-related deaths among homeless populations have increased significantly in cities like Phoenix (where 645 heat-associated deaths were recorded in 2023, many among unsheltered individuals; Maricopa County, 2024).
+Extreme heat, cold, and natural disasters disproportionately affect unsheltered individuals with mental illness. Heat-related deaths among homeless populations have increased significantly in cities like Phoenix (where 645 heat-associated deaths were recorded in 2023, many among unsheltered individuals; Maricopa County, 2024). In Portland, Oregon, the June 2021 heat dome killed at least 69 people, with homeless individuals disproportionately represented among the dead (Oregon Medical Examiner, 2021). Wildfire smoke, flooding, and extreme cold events pose similar risks. People with SMI who are unsheltered are less likely to heed weather warnings, access cooling or warming centers, or self-evacuate during emergencies.
+
+### Methamphetamine-Induced Psychosis
+
+The surge in methamphetamine availability and potency since 2018 has created a distinct clinical challenge in homeless populations. Methamphetamine-induced psychosis -- characterized by paranoia, hallucinations, and agitation that can persist for weeks or months after cessation of use -- is increasingly difficult to distinguish from primary psychotic disorders in street settings. Emergency departments in western states report a 200-300% increase in methamphetamine-related psychosis presentations since 2017 (RAND Corporation, 2022). This trend complicates diagnosis, treatment planning, and engagement by outreach teams, as individuals experiencing stimulant psychosis require different interventions than those with schizophrenia.
+
+### 988 Implementation Progress
+
+The 988 Suicide and Crisis Lifeline, which launched nationally in July 2022, represents the most significant investment in crisis response infrastructure in decades. However, implementation has been uneven:
+
+| Metric | Value | Target | Source |
+|---|---|---|---|
+| National answer rate (2023) | ~70% | 95%+ | SAMHSA, 2023 |
+| Calls answered within 20 seconds | ~55% | 80%+ | SAMHSA, 2023 |
+| States with mobile crisis teams linked to 988 | ~20 | 50 | SAMHSA, 2023 |
+| States with crisis stabilization centers linked to 988 | ~15 | 50 | SAMHSA, 2023 |
+| Annual calls/texts/chats to 988 | ~5 million | Growing | SAMHSA, 2023 |
+
+For homeless individuals with mental illness, 988's effectiveness depends on the availability of mobile crisis teams that can respond in the field -- a capability that most communities have not yet built.
+
+### Housing Market Deterioration
+
+The post-pandemic housing market has significantly worsened the landscape for homeless individuals with mental illness seeking housing:
+
+| Metric | 2019 | 2023 | Change | Source |
+|---|---|---|---|---|
+| National median rent | $1,078/mo | $1,372/mo | +27% | Census ACS, 2024 |
+| Fair Market Rent (1-BR, national avg.) | $1,005/mo | $1,208/mo | +20% | HUD FMR, 2024 |
+| Rental vacancy rate | 6.4% | 6.6% | Flat | Census, 2024 |
+| SSI benefit (monthly, individual) | $771 | $943 | +22% (below rent inflation) | SSA, 2024 |
+| Affordable units per 100 ELI renter households | 37 | 33 | -11% | NLIHC, 2024 |
+
+The gap between SSI income ($943/month) and the cost of even the most modest housing means that a person with SMI relying solely on disability income cannot afford market-rate housing anywhere in the United States. This structural impossibility makes permanent supportive housing with rental subsidies the only viable housing pathway for most chronically homeless individuals with mental illness.
 
 ---
 

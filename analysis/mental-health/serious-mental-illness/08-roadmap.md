@@ -212,6 +212,59 @@ Effective implementation requires clear accountability:
 
 **Contingency Plan**: Redirect funding from chronically underperforming states to high-performing states or direct federal implementation in areas with persistent failure.
 
+### Risk 6: Legal Challenges to AOT Expansion
+
+**Likelihood**: Medium
+
+**Impact**: Medium-High
+
+**Mitigation Strategy**: Ensure that all AOT legislation includes robust due process protections that would withstand constitutional challenge: judicial hearings before a neutral judge, right to counsel (appointed if the individual cannot afford an attorney), clear and convincing evidentiary standard, periodic review (every 6 months), appeal rights, and limitations on the types of treatment that can be ordered. Model legislation after New York's Kendra's Law, which has survived multiple constitutional challenges over 25 years.
+
+**Contingency Plan**: If federal AOT incentive legislation is struck down, support state-level AOT implementation through SAMHSA grants to fund services behind existing state court orders, bypassing the need for new federal authority.
+
+### Risk 7: Pharmaceutical Industry Resistance to Clozapine Promotion
+
+**Likelihood**: Low-Medium
+
+**Impact**: Low-Medium
+
+**Mitigation Strategy**: Frame clozapine promotion as additive to the LAI market rather than competitive. Many patients who improve on clozapine would otherwise require LAIs plus emergency services, so clozapine access may actually reduce total costs while maintaining or growing the LAI market for appropriate candidates. Engage pharmaceutical company medical affairs divisions as partners in clozapine education.
+
+**Contingency Plan**: If industry opposition materializes, leverage FDA authority to reform the REMS independently of industry support, and use SAMHSA grant funding to create clozapine support infrastructure that bypasses pharmaceutical company marketing channels.
+
+## Political Strategy
+
+### Coalition Building
+
+The most viable political coalition for comprehensive SMI reform unites four groups that do not typically work together:
+
+1. **Families of people with SMI** (represented by NAMI): Motivated by personal experience, politically active in both parties, credible witnesses at hearings
+2. **Law enforcement** (represented by major city police chiefs and county sheriffs): Motivated by the operational burden of responding to mental health crises, politically influential with conservative legislators
+3. **Emergency medicine physicians** (represented by ACEP): Motivated by ED boarding crisis, credible clinical voices
+4. **Fiscal moderates in both parties**: Motivated by cost-effectiveness data showing that treatment is cheaper than incarceration and emergency response
+
+This coalition was instrumental in passing both the 21st Century Cures Act (2016) and the Bipartisan Safer Communities Act (2022), and it represents the most politically realistic pathway for the larger reforms proposed in this roadmap.
+
+### Key Congressional Champions
+
+Successful SMI legislation has historically required bipartisan leadership. Key committee positions include:
+
+- **Senate HELP Committee**: Jurisdiction over SAMHSA authorization and mental health policy
+- **Senate Finance Committee**: Jurisdiction over Medicaid (including IMD exclusion) and Medicare
+- **House Energy and Commerce Committee**: Jurisdiction over health policy, including SAMHSA and CMS
+- **Appropriations subcommittees (Labor-HHS-Education)**: Control over annual mental health funding levels
+
+Champions who can bridge partisan divides -- as Representative Tim Murphy (R-PA) and Senator Chris Murphy (D-CT) did for the 21st Century Cures Act -- are essential. Identifying and cultivating such champions is a prerequisite for Phase 2 legislative action.
+
+### State-Level Strategy
+
+Because many critical SMI policies are implemented at the state level (civil commitment standards, AOT implementation, Medicaid plan design, state hospital operations), a state-level strategy must complement federal reform:
+
+- **Priority 1 States**: Connecticut, Maryland, and Massachusetts (the three states without AOT laws) -- advocate for AOT legislation with funded services
+- **Priority 2 States**: States with AOT laws but minimal implementation (e.g., California pre-CARE Act, many southern states) -- advocate for funded AOT programs
+- **Priority 3 States**: States with low per capita mental health spending (Idaho, Alabama, Mississippi) -- advocate for state budget increases tied to federal matching
+- **Priority 4 States**: Non-Medicaid-expansion states (10 remaining) -- advocate for expansion to cover adults with SMI in the coverage gap
+
 ## Resource Requirements
 
 ### Funding

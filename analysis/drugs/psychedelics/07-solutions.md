@@ -125,7 +125,39 @@ Federal psychedelic reform is most likely to succeed through a sequenced strateg
 
 **Impact Metrics**: Number of certified practitioners; geographic distribution; demographic diversity of practitioner workforce; patient-to-practitioner ratio by state; adverse event rates by practitioner certification level.
 
-### Solution 7: Decriminalize Personal Possession of Psychedelic Plants and Fungi
+### Solution 7: Regulate the Ketamine Clinic Industry
+
+**Description**: Establish federal standards for the existing ketamine clinic industry (approximately 800 clinics) that would serve as a template for broader psychedelic therapy regulation. Standards should include mandatory therapist training requirements, patient screening protocols, adverse event reporting, restrictions on at-home unsupervised prescribing, and facility safety standards.
+
+**Evidence Base**: The ketamine clinic industry has demonstrated both the demand for psychoactive-assisted therapy and the risks of inadequate regulation. The death of Matthew Perry in October 2023 from acute ketamine effects, reports of adverse events from at-home compounded ketamine use, and wide variation in clinical standards across the ~800 operating clinics illustrate the need for proactive federal regulation. The FDA's 2019 REMS for esketamine (Spravato) provides a partial model, but it applies only to the branded product, not to off-label IV ketamine infusions.
+
+**Implementation**: FDA and DEA should issue joint guidance on ketamine clinic standards. CMS should develop billing codes for ketamine-assisted therapy that incentivize in-person supervised administration over unsupervised at-home use. States should adopt licensing requirements for ketamine clinics modeled on the forthcoming psychedelic therapy certification standards.
+
+**Cost/Resources**: Minimal direct federal cost. Primarily regulatory development and enforcement.
+
+**Timeline**: 1-2 years for guidance development; 3-5 years for full implementation.
+
+**Challenges**: Resistance from existing clinics operating without standardized protocols. Telehealth companies opposing restrictions on at-home prescribing. State-by-state variation in clinic licensing.
+
+**Impact Metrics**: Number of ketamine clinics meeting federal standards; adverse event reporting rates; reduction in unsupervised at-home ketamine use; patient satisfaction and outcome measures.
+
+### Solution 8: Establish a Federal Compassionate Use Pathway for Psychedelics
+
+**Description**: Create a streamlined federal compassionate use (expanded access) pathway specifically for psychedelic-assisted therapy, modeled on Switzerland's Sonderbewilligung system. Individual physicians would apply to the FDA for authorization to administer psychedelic therapy to specific patients who have exhausted conventional treatment options and are not eligible for clinical trials.
+
+**Evidence Base**: The FDA's existing expanded access program (21 CFR 312.310) permits individual patient access to investigational drugs. However, the application process is cumbersome for Schedule I substances, requiring both FDA authorization and DEA licensing. Switzerland's compassionate use pathway has successfully served hundreds of patients with psychedelic-assisted therapy. Canada's Section 56 exemptions under the Controlled Drugs and Substances Act have provided individual patients with access to psilocybin therapy.
+
+**Implementation**: FDA should issue guidance streamlining expanded access applications for psychedelic therapies with Breakthrough Therapy designation. DEA should create an expedited research registration pathway for physicians administering psychedelics under compassionate use. A standardized application form and review process (30-day review target) should be established.
+
+**Cost/Resources**: Minimal direct cost. Administrative streamlining of existing programs.
+
+**Timeline**: 6-12 months for FDA guidance and DEA process reforms.
+
+**Challenges**: DEA resistance to expedited licensing. Volume of applications if pathway is successful. Quality control for individual physician administration.
+
+**Impact Metrics**: Number of compassionate use applications filed; approval rate; time from application to authorization; patient outcomes.
+
+### Solution 9: Decriminalize Personal Possession of Psychedelic Plants and Fungi
 
 **Description**: Remove criminal penalties for personal possession and cultivation of naturally occurring psychedelic plants and fungi (psilocybin mushrooms, DMT-containing plants, mescaline-containing cacti excluding peyote) for adults aged 21 and over. Decriminalization would not create a commercial market or permit sales, but would end criminal prosecution for personal use.
 
@@ -140,6 +172,22 @@ Federal psychedelic reform is most likely to succeed through a sequenced strateg
 **Challenges**: Political opposition from "tough on drugs" constituencies. Concerns about unregulated use without clinical oversight. Distinguishing personal use from distribution.
 
 **Impact Metrics**: Psychedelic-related arrests per year; emergency department visits; youth use rates; public opinion polling.
+
+### Solution 10: Establish a National Psychedelic Adverse Event Reporting System
+
+**Description**: Create a mandatory adverse event reporting system for all legal psychedelic therapy (FDA-approved, state-regulated, and compassionate use), modeled on the FDA's Adverse Event Reporting System (FAERS) and the VA's Patient Safety Reporting System. All licensed practitioners, service centers, and clinical trial sites would be required to report adverse events within 72 hours.
+
+**Evidence Base**: Oregon's psilocybin program currently lacks a mandatory adverse event reporting system. The ketamine clinic industry has no centralized reporting. Without systematic data collection, it is impossible to assess the true safety profile of psychedelic therapy at scale. The FDA's REMS framework for esketamine (Spravato) includes adverse event reporting requirements that could serve as a model.
+
+**Implementation**: HHS should establish a national reporting system accessible to all practitioners. Reporting should be mandatory for serious adverse events (psychiatric hospitalization, medical emergency, death) and encouraged for all adverse events. Data should be published in de-identified form to inform safety protocols and regulatory decisions.
+
+**Cost/Resources**: $10 million over 5 years for system development, maintenance, and data analysis.
+
+**Timeline**: 1-2 years for system development; ongoing operation.
+
+**Challenges**: Underreporting by practitioners concerned about legal or reputational consequences. Defining reporting thresholds. Coordinating across federal and state programs.
+
+**Impact Metrics**: Reporting compliance rate; adverse event rates per 1,000 sessions; time from event to report; types and severity of reported events.
 
 ---
 
@@ -177,13 +225,38 @@ Federal psychedelic reform is most likely to succeed through a sequenced strateg
 
 **Applicability to U.S.**: Australia's experience confirms that rescheduling alone is insufficient -- it must be accompanied by insurance coverage, workforce development, and affordability measures to achieve meaningful access.
 
+### Canada: Special Access Programme and Section 56 Exemptions
+
+**Description**: Health Canada has used two legal mechanisms to provide access to psychedelic therapy: the Special Access Programme (SAP) for physician-requested access to restricted drugs, and Section 56 exemptions under the Controlled Drugs and Substances Act for individual patients. In 2022, the SAP was expanded to include psilocybin and MDMA.
+
+**Results**: Several dozen Canadian patients have received legal psilocybin therapy through these pathways, primarily for end-of-life distress. The process is administratively burdensome but has established a legal framework for individual patient access. Canadian psilocybin therapy companies (Numinus, Cybin) are conducting clinical trials and building treatment infrastructure.
+
+**Applicability to U.S.**: Canada's model demonstrates that compassionate use pathways can provide meaningful patient access before full regulatory approval. The FDA's expanded access program could be adapted similarly if DEA licensing barriers are reduced.
+
+### Brazil: Legal Ayahuasca Since 1992
+
+**Description**: Brazil legalized ayahuasca for religious use in 1992, with the National Drug Policy Council (CONAD) formally authorizing its use in religious ceremonies. Brazil has more than 30 years of experience with regulated psychedelic access.
+
+**Results**: Brazil's ayahuasca churches (UDV, Santo Daime) have operated legally for over three decades with minimal public health problems. Research on long-term ayahuasca users in Brazil has found no significant adverse cognitive or psychological effects (Bouso et al., *PLOS ONE*, 2012). The Brazilian model demonstrates that regulated psychedelic access is sustainable over decades.
+
+**Applicability to U.S.**: Brazil's experience provides the longest modern dataset on regulated psychedelic access and demonstrates that concerns about widespread harm from legal psychedelic use are not supported by multi-decade evidence. However, Brazil's model is limited to religious ceremonial use and does not address therapeutic or personal use access.
+
 ---
 
 ## Pilot Programs and Demonstrations
 
-- **Oregon Psilocybin Services**: The first U.S. regulated psilocybin therapy program (2023-present). Generating real-world data on safety, efficacy, access patterns, and regulatory challenges. Approximately 10,000 sessions completed through 2024.
-- **VA Psychedelic Research**: The VA is funding clinical trials of MDMA and psilocybin for veterans with PTSD at multiple medical centers. These studies will generate evidence specific to the veteran population and inform VA coverage decisions.
-- **Right-to-Try psychedelic access**: Some advocates have sought to use the federal Right to Try Act (2018) to access psychedelic therapies outside of clinical trials. Legal viability is uncertain but the concept could serve as a pilot for compassionate access.
+### Existing Programs
+
+- **Oregon Psilocybin Services**: The first U.S. regulated psilocybin therapy program (2023-present). Generating real-world data on safety, efficacy, access patterns, and regulatory challenges. Approximately 10,000 sessions completed through 2024. Key data being collected includes: session outcomes, adverse event rates, demographic profiles of clients, facilitator training adequacy, and local opt-out patterns. Oregon's experience will inform Colorado's implementation and future state programs.
+- **VA Psychedelic Research**: The VA is funding clinical trials of MDMA and psilocybin for veterans with PTSD at multiple medical centers. Texas allocated $2.8 million (2021, renewed 2023) specifically for MDMA and psilocybin research for veterans. VA Secretary Denis McDonough expressed openness to psychedelic research in 2022 testimony. These studies will generate evidence specific to the veteran population and inform VA coverage decisions.
+- **Right-to-Try psychedelic access**: Some advocates have sought to use the federal Right to Try Act (2018) to access psychedelic therapies outside of clinical trials. The Right to Try Act applies to drugs that have completed Phase 1 trials and are in active development. Legal viability for psychedelics is uncertain but the concept could serve as a pilot for compassionate access.
+- **Colorado Natural Medicine Health Act implementation**: Colorado's Proposition 122 (2022) is being implemented in phases. Decriminalization took effect in 2023; regulated "healing centers" are expected to be operational by 2026. Colorado's framework is broader than Oregon's (covering psilocybin, DMT, ibogaine, and mescaline excluding peyote) and includes personal cultivation provisions for psilocybin mushrooms.
+
+### Proposed Pilot Programs
+
+- **Federally Funded Community Psychedelic Therapy Demonstration**: SAMHSA should fund 10-15 community-based psychedelic therapy pilot programs in underserved areas, testing sliding-scale pricing, group therapy models, and community health center delivery. Estimated cost: $25 million over 3 years.
+- **First Responder PTSD Pilot**: The Department of Justice should fund a pilot program providing MDMA-assisted therapy for police officers, firefighters, and EMTs with treatment-resistant PTSD. First responders experience PTSD at rates comparable to military veterans but lack VA-equivalent research infrastructure.
+- **Rural Telehealth Integration Pilot**: Test models for integrating psychedelic therapy preparation and integration sessions via telehealth with in-person dosing sessions at regional centers, addressing geographic access barriers in rural areas.
 
 ## Sequencing and Prioritization
 
@@ -210,6 +283,35 @@ Federal psychedelic reform is most likely to succeed through a sequenced strateg
 - Establish international framework for psychedelic therapy research cooperation
 - Implement comprehensive indigenous protections including benefit-sharing
 
+## Cost-Benefit Analysis
+
+### Estimated Costs of Reform
+
+| Reform Component | Estimated Cost (10-year) | Funding Source |
+|-----------------|-------------------------|----------------|
+| Federal research funding expansion | $200 million | Congressional appropriation |
+| DEA research licensing reform | $10 million | DEA administrative budget |
+| Therapist training and certification | $30 million | HHS/HRSA |
+| Insurance coverage implementation | $500M-$1B annually (when at scale) | Insurance premiums; offset by reduced treatment costs |
+| Indigenous protections and conservation | $20 million | DOI/BIA appropriation |
+| Adverse event reporting system | $10 million | HHS/FDA |
+| Community-based pilot programs | $25 million | SAMHSA |
+| Ketamine clinic regulation | $5 million | FDA/DEA administrative |
+| **Total federal investment** | **~$300 million** (excluding insurance) | |
+
+### Estimated Benefits of Reform
+
+| Benefit Category | Estimated Value | Methodology |
+|-----------------|----------------|-------------|
+| Reduced treatment-resistant depression costs | $5-10 billion annually | 8.9M TRD patients x $17,000 excess cost per patient x estimated treatment success rate |
+| Reduced veteran PTSD costs | $2-4 billion annually | 1.7M veterans x VA treatment costs x estimated improvement |
+| Reduced disability claims | $1-3 billion annually | Depression and PTSD disability costs x estimated improvement |
+| Reduced lost productivity | $5-15 billion annually | Share of $210B annual employer mental illness costs |
+| Reduced incarceration costs | $100-500 million annually | Psychedelic-related arrests and incarcerations x average cost per prisoner |
+| **Total estimated annual benefit** | **$13-32 billion** | Conservative range |
+
+The cost-benefit ratio is heavily favorable: estimated federal investment of $300 million over 10 years against annual benefits of $13-32 billion once reforms are fully implemented.
+
 ## Complementary Policies
 
 Psychedelic therapy reform should be paired with:
@@ -218,6 +320,8 @@ Psychedelic therapy reform should be paired with:
 - **Drug scheduling reform**: Establishing an independent scientific advisory process for all scheduling decisions, not just psychedelics (see [Drug Scheduling](../drug-scheduling/07-solutions.md))
 - **Harm reduction expansion**: Scaling evidence-based harm reduction for all substances (see [Harm Reduction](../harm-reduction/07-solutions.md))
 - **Veterans' mental health**: Expanding VA mental health services and research capacity (see [Veterans](../../veterans/07-solutions.md))
+- **Criminal justice reform**: Addressing the broader consequences of drug criminalization, including disproportionate enforcement against communities of color (see [Justice](../../justice/07-solutions.md))
+- **Healthcare access**: Expanding health insurance coverage and reducing barriers to mental health treatment, particularly in underserved communities (see [Healthcare](../../healthcare/07-solutions.md))
 
 ---
 

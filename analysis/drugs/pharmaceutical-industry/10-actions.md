@@ -11,7 +11,10 @@ Pharmaceutical industry reform affects every American who takes prescription med
 - Subscribe to *STAT News* daily briefing for pharmaceutical industry and FDA coverage (<https://www.statnews.com/signup/>)
 - Follow Kaiser Family Foundation (KFF) Health Tracking Polls for public opinion data on drug pricing (<https://www.kff.org/>)
 - Read the FTC's PBM investigation reports as they are released (<https://www.ftc.gov/reports>)
-- Check Open Payments (<https://openpaymentsdata.cms.gov/>) to see what pharmaceutical companies pay your physicians
+- Check Open Payments (<https://openpaymentsdata.cms.gov/>) to see what pharmaceutical companies pay your physicians -- search by physician name to see total payments, payment categories, and paying companies
+- Monitor ClinicalTrials.gov (<https://clinicaltrials.gov/>) for transparency on drug trial results
+- Review AARP's annual Rx Price Watch reports for data on branded and generic drug price trends
+- Follow the Institute for Clinical and Economic Review (ICER) for independent drug cost-effectiveness assessments (<https://icer.org/>)
 
 ### Reduce Your Personal Drug Costs
 
@@ -45,6 +48,23 @@ Pharmaceutical industry reform affects every American who takes prescription med
 - Connect drug pricing advocacy with employer groups, as rising pharmaceutical costs drive insurance premium increases for businesses and workers
 - Work with senior citizen organizations (AARP chapters, senior centers) on Medicare drug pricing and Part D benefit issues
 - Engage faith communities, which have been active in opioid accountability and pharmaceutical industry ethics
+- Connect with veteran service organizations, as the VA's drug negotiation model demonstrates that government negotiation produces lower prices without reducing access
+- Partner with academic medical center faculty who are working to reduce industry conflicts of interest in medical education and research
+
+### Engage with Opioid Settlement Funds
+
+The more than $50 billion in opioid litigation settlements represents an unprecedented opportunity to direct resources toward evidence-based treatment and prevention -- but only if communities actively engage in the allocation process:
+
+- **Monitor your state's settlement fund allocation**: Most states have established advisory committees or legislative oversight for opioid settlement funds. Attend public hearings and submit comments on allocation priorities
+- **Advocate for evidence-based spending**: Settlement funds should prioritize medication-assisted treatment (MAT), naloxone distribution, syringe services programs, and prevention education. Oppose diversion of funds to general budgets or law enforcement uses not supported by evidence
+- **Support transparency**: Advocate for public reporting of how settlement funds are spent and what outcomes they produce. Organizations like Johns Hopkins Bloomberg School of Public Health track settlement fund allocation
+- **Connect settlement advocacy with broader reform**: Settlement funds address the consequences of pharmaceutical industry misconduct; systemic reform addresses the causes. Both are necessary
+
+### Support Independent Pharmacies
+
+- Use independent pharmacies when possible; they provide personalized care and are being driven out of business by PBM practices
+- Advocate for state PBM reform legislation that ensures fair reimbursement for independent pharmacies
+- Support the National Community Pharmacists Association (NCPA) advocacy for fair PBM reimbursement and prohibitions on pharmacy steering
 
 ---
 
@@ -61,7 +81,7 @@ Pharmaceutical industry reform affects every American who takes prescription med
 
 **What to Say - Template Email**:
 
-```
+```text
 Subject: Support Drug Pricing Reform and PBM Transparency
 
 Dear [Representative/Senator] [Last Name],
@@ -84,7 +104,7 @@ Sincerely,
 
 **What to Say - Phone Call Script**:
 
-```
+```text
 "Hello, my name is [Name] and I'm a constituent from [City]. I'm calling about prescription drug pricing. I'd like the [Representative/Senator] to support expanding Medicare drug price negotiation and requiring PBM transparency. Americans pay the highest drug prices in the world, and pharmaceutical companies spend more on lobbying than any other industry. Can you please note my position?"
 ```
 
@@ -95,7 +115,23 @@ Current or proposed legislation to support:
 - **Inflation Reduction Act expansion**: Bills to remove numerical limits on Medicare drug negotiation and extend authority to commercial insurance -- contact Senate Finance and House Energy & Commerce committee members
 - **PBM transparency legislation**: Bipartisan bills requiring PBM fiduciary duty and rebate pass-through -- contact your Senators and Representative directly
 - **STOP Evergreening Act**: Legislation to limit pharmaceutical patent manipulation -- contact Senate and House Judiciary committee members
+- **FDA Independence Act**: Legislation to transition FDA drug review funding from industry user fees to Congressional appropriations -- contact Senate HELP and House Energy & Commerce committee members
+- **Clinical Trial Transparency enforcement**: Bills to enforce existing results reporting requirements with automated penalties -- contact Senate HELP and House Energy & Commerce committee members
+- **Bayh-Dole reform**: Legislation to establish reasonable pricing conditions on federally funded inventions -- contact Senate Judiciary and HELP committee members
 - **State-level PBM reform**: 25+ states have enacted PBM transparency laws; check your state legislature for pending bills
+
+### State-Level Political Actions
+
+State-level reforms can proceed faster than federal legislation and create momentum for national change:
+
+| State Action | What to Advocate For | Who to Contact |
+|---|---|---|
+| PBM transparency and licensing | Require PBMs to disclose rebates, spread pricing, and pharmacy steering practices | State insurance commissioner; state legislators on health/insurance committees |
+| Drug price transparency | Require manufacturers to report and justify price increases above inflation | State attorney general; state legislators on health committees |
+| Prescription drug affordability boards | Establish state-level bodies to review and set upper payment limits on expensive drugs | Governor's office; state health department |
+| Opioid settlement fund oversight | Ensure settlement funds are directed to evidence-based treatment and prevention | State opioid settlement advisory committee; state legislators |
+| State generic drug labeling | Support state programs (like California's CalRx) to produce essential generics at reduced cost | Governor's office; state health department |
+| Anti-pay-for-delay legislation | Enact state antitrust provisions targeting pharmaceutical patent settlements | State attorney general; state legislators on judiciary committees |
 
 ### Electoral Engagement
 
@@ -116,10 +152,50 @@ Current or proposed legislation to support:
 
 ## Professional Actions
 
-- **For Healthcare Professionals**: Check your Open Payments profile and consider reducing pharmaceutical industry financial relationships; advocate through your professional society for evidence-based prescribing guidelines independent of industry influence; report drug shortages and safety concerns to the FDA
-- **For Employers/HR Professionals**: Audit your organization's PBM contracts for transparency; consider joining employer coalitions advocating for PBM reform; evaluate Cost Plus or Civica Rx alternatives for employee pharmacy benefits
-- **For Researchers**: Support open-access publication of clinical trial data; advocate for NIH funding increases; participate in FDA advisory committees; report undisclosed conflicts of interest in published research
-- **For Legal Professionals**: Support pharmaceutical whistleblowers; participate in opioid settlement fund oversight; pro bono representation for patients denied coverage for medically necessary drugs
+### For Healthcare Professionals
+
+- Check your Open Payments profile (<https://openpaymentsdata.cms.gov/>) and evaluate whether industry financial relationships may be influencing your prescribing
+- Advocate through your professional society (AMA, specialty societies) for evidence-based prescribing guidelines developed by conflict-free panels
+- When prescribing, consider generic alternatives and discuss cost with patients; use tools like GoodRx or the AHRQ Effective Health Care Program to compare drug effectiveness
+- Report drug shortages, safety concerns, and adverse events to the FDA MedWatch system (<https://www.fda.gov/safety/medwatch-fda-safety-information-and-adverse-event-reporting-program>)
+- Decline pharmaceutical sales representative visits and industry-sponsored meals, or at minimum, be aware of how these interactions may influence your prescribing patterns
+- Support your institution's efforts to develop conflict-of-interest policies for continuing medical education
+- If you witness off-label promotion or other pharmaceutical fraud, consider reporting through the DOJ's False Claims Act whistleblower provisions, which provide financial awards of 15-30% of recovered funds
+
+### For Employers and HR Professionals
+
+- Audit your organization's PBM contracts for spread pricing, rebate retention, and pharmacy steering provisions
+- Request full transparency on rebate pass-through rates and formulary construction methodology from your PBM
+- Consider joining employer coalitions advocating for PBM reform, such as the National Business Group on Health or the Purchaser Business Group on Health
+- Evaluate alternative pharmacy benefit models: Cost Plus Drug Company, Civica Rx partnerships, or direct manufacturer contracting
+- Include pharmaceutical cost transparency as a component of benefits communication to employees
+- Support employee assistance programs that help workers navigate drug cost challenges, including manufacturer assistance programs and state pharmaceutical assistance programs
+
+### For Researchers and Academics
+
+- Support open-access publication of clinical trial data, including negative and null results
+- Advocate for NIH funding increases and for the exercise of march-in rights under the Bayh-Dole Act when publicly funded inventions are not available at reasonable prices
+- Apply to serve on FDA advisory committees; independent expert voices are critical to counterbalancing industry influence
+- Report undisclosed conflicts of interest in published research to journal editors and institutional review boards
+- Support the AllTrials initiative and other efforts to ensure full disclosure of all clinical trial results
+- When serving on clinical guideline committees, disclose all industry relationships and advocate for conflict-free guideline development processes
+
+### For Legal Professionals
+
+- Support pharmaceutical whistleblowers through pro bono representation or referral to specialized qui tam attorneys
+- Participate in opioid settlement fund oversight committees in your state
+- Provide pro bono representation for patients denied coverage for medically necessary drugs
+- Support legislative efforts to strengthen pharmaceutical executive criminal liability
+- Monitor pharmaceutical industry litigation against the IRA and other reform measures; file amicus briefs supporting reform provisions
+- Engage with state attorney general offices on pharmaceutical antitrust and consumer protection enforcement
+
+### For Journalists and Media Professionals
+
+- Report on pharmaceutical industry practices using Open Payments data, OpenSecrets lobbying data, and ClinicalTrials.gov results
+- Investigate PBM pricing practices and their impact on independent pharmacies and patient costs in your coverage area
+- Follow opioid settlement fund allocation in your state and report on how funds are being spent
+- Examine the revolving door between government agencies and the pharmaceutical industry at the state and federal level
+- Report on DTC pharmaceutical advertising practices and their impact on prescribing patterns
 
 ---
 
@@ -133,6 +209,9 @@ Current or proposed legislation to support:
 | Knowledge Ecology International | Access to medicines, patent policy | Donate; engage with policy analysis | <https://www.keionline.org/> |
 | AARP | Drug pricing, Medicare benefits | Join; participate in advocacy campaigns | <https://www.aarp.org/> |
 | National Community Pharmacists Association | Independent pharmacy viability, PBM reform | Support independent pharmacies; advocate for state PBM legislation | <https://ncpa.org/> |
+| Institute for Clinical and Economic Review (ICER) | Independent drug cost-effectiveness assessments | Engage with reports; support evidence-based pricing | <https://icer.org/> |
+| AllTrials Campaign | Clinical trial transparency | Sign petition; advocate for results reporting | <https://www.alltrials.net/> |
+| Civica Rx | Nonprofit generic drug manufacturing | Support through your health system; advocate for expansion | <https://www.civicainc.org/> |
 
 ---
 
@@ -172,6 +251,9 @@ When discussing pharmaceutical reform with others, emphasize:
 2. **Taxpayer-Funded Innovation**: NIH-funded research contributed to every one of the 210 drugs approved from 2010-2016. Taxpayers fund the basic research; corporations reap the profits
 3. **Marketing Over Research**: The industry spends $29.9 billion annually on U.S. marketing and promotion while claiming high prices are needed for innovation (JAMA, 2023)
 4. **Bipartisan Support**: Drug pricing reform has 80-90% public support across party lines -- this is not a partisan issue (KFF, 2023)
+5. **The Opioid Accountability Gap**: The Sackler family extracted $10-12 billion from Purdue Pharma and no family member has faced criminal prosecution, despite internal documents showing personal direction of deceptive marketing
+6. **The Revolving Door**: 9 of 15 recent FDA commissioners joined pharmaceutical company boards; over 60% of PhRMA lobbyists are former government officials
+7. **The PBM Problem**: Three companies control 80% of the prescription drug intermediary market, operating with minimal transparency while generating $500 billion in combined revenue
 
 ### Common Misconceptions to Counter
 
@@ -182,6 +264,29 @@ When discussing pharmaceutical reform with others, emphasize:
 | "The free market sets drug prices" | Pharmaceutical pricing involves government-granted patent monopolies, taxpayer-funded research, and opaque PBM intermediaries -- it is not a free market | Multiple sources |
 | "PBMs lower drug costs" | FTC found PBMs' vertically integrated model creates "perverse incentives" that may not serve patients | FTC Interim Report, 2024 |
 | "The opioid crisis was caused by individual bad choices" | Internal documents from Purdue Pharma and other companies demonstrate systematic, corporate-directed deception about addiction risks | DOJ, 2020; Keefe, *Empire of Pain*, 2021 |
+| "Reforming Bayh-Dole would kill innovation" | Countries with stronger public return provisions maintain thriving pharmaceutical sectors; march-in rights have never been exercised | Bayh-Dole Act history; international comparisons |
+| "The Sunshine Act harms doctor-industry collaboration" | If relationships are beneficial, they can withstand transparency; payments are associated with biased prescribing | DeJong et al., *JAMA Internal Medicine*, 2016 |
+
+### Responding to Industry Talking Points
+
+When pharmaceutical industry representatives or their allies make arguments against reform, effective responses include:
+
+- **"Innovation will suffer"** -- Respond: "NIH-funded research contributed to every drug approved from 2010-2016. The industry spends more on buybacks and dividends than R&D. Countries with price regulation have thriving pharmaceutical sectors."
+- **"Drug development costs $2.6 billion"** -- Respond: "That number includes $1.2 billion in 'opportunity cost of capital' -- theoretical money, not actual spending. A 2020 JAMA study found median actual costs of $985 million. And taxpayers fund much of the basic research."
+- **"PBMs save money"** -- Respond: "The FTC found PBMs have 'perverse incentives' that may not serve patients. If PBMs really save money, they should welcome transparency."
+- **"Price negotiation is a government takeover"** -- Respond: "The VA has negotiated drug prices for decades. Medicare negotiation was blocked for 19 years by pharmaceutical lobbying. Even the IRA's limited negotiation only covers 10 drugs."
+
+### Effective Advocacy Calendar
+
+| Month | Key Events | Recommended Actions |
+|-------|-----------|---------------------|
+| January | Annual branded drug price increases; new Congress begins | Contact legislators about pricing reform; publicize price increase data |
+| March-April | Congressional budget season; FDA user fee reauthorization cycle | Advocate for FDA funding independence; submit testimony |
+| May-June | State legislative sessions active in most states | Support state PBM reform and drug pricing transparency bills |
+| July | Mid-year branded drug price increases | Publicize price increase data; contact legislators |
+| August | Congressional recess (district meetings) | Attend town halls; raise drug pricing directly with legislators |
+| September-October | Open enrollment for Medicare Part D and ACA plans | Help community members evaluate drug coverage options |
+| November-December | Appropriations season; lame duck session | Push for inclusion of pharmaceutical reform in spending bills |
 
 ---
 

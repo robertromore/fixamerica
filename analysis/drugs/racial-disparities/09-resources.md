@@ -25,6 +25,12 @@ This section provides a curated list of key research, government reports, legal 
 
 - Rehavi, M. Marit, and Sonja B. Starr. "Racial Disparity in Federal Criminal Sentences." *Journal of Political Economy* 122, no. 6 (2014): 1320-1354. - Found that Black defendants receive 10% longer sentences than comparable white defendants in federal cases, largely driven by mandatory minimum charging decisions.
 - Doleac, Jennifer. "The Effects of DNA Databases on Crime." *American Economic Journal: Applied Economics* 9, no. 1 (2017): 165-201. - Research on the effects of criminal justice policy on crime and communities.
+- Western, Bruce, and Becky Pettit. "Incarceration and Social Inequality." *Daedalus* 139, no. 3 (2010): 8-19. - Documented how mass incarceration has become a major stratifying institution, concentrating disadvantage among young Black men with low education.
+- Grogger, Jeffrey, and Greg Ridgeway. "Testing for Racial Profiling in Traffic Stops from Behind a Veil of Darkness." *Journal of the American Statistical Association* 101, no. 475 (2006): 878-887. - Developed the "veil of darkness" methodology for detecting racial profiling in traffic stops.
+- Lagisetty, Pooja A., et al. "Buprenorphine Treatment Divide by Race/Ethnicity and Payment." *JAMA Psychiatry* 76, no. 9 (2019): 979-981. - Documented that Black patients are significantly less likely to receive buprenorphine for opioid use disorder.
+- Hansen, Helena, et al. "Buprenorphine and Methadone Treatment for Opioid Dependence by Income, Ethnicity and Race of Neighborhoods in New York City." *Drug and Alcohol Dependence* 164 (2016): 14-21. - Documented the two-tier treatment system along racial and geographic lines.
+- Pager, Devah. "The Mark of a Criminal Record." *American Journal of Sociology* 108, no. 5 (2003): 937-975. - Landmark audit study showing criminal records reduce callbacks for white applicants by 50% and by an additional 15% for Black applicants.
+- Crutchfield, Robert D., and Gregory A. Weeks. "The Effects of Mass Incarceration on Communities of Color." *Issues in Science and Technology* 32, no. 1 (2015). - Documented neighborhood-level effects of concentrated incarceration.
 
 ---
 
@@ -57,14 +63,19 @@ This section provides a curated list of key research, government reports, legal 
 
 ## Books
 
-- Alexander, Michelle. *The New Jim Crow: Mass Incarceration in the Age of Colorblindness*. The New Press, 2010. - The most influential book on racial disparities in the criminal justice system.
+- Alexander, Michelle. *The New Jim Crow: Mass Incarceration in the Age of Colorblindness*. The New Press, 2010. - The most influential book on racial disparities in the criminal justice system. Argues that the War on Drugs created a new racial caste system through ostensibly race-neutral mechanisms.
 - Baum, Dan. *Smoke and Mirrors: The War on Drugs and the Politics of Failure*. Little, Brown and Company, 1996. - History of the War on Drugs from Nixon through Clinton, including the Ehrlichman revelation.
-- Clear, Todd R. *Imprisoning Communities*. Oxford University Press, 2007. - How mass incarceration damages the communities it claims to protect.
-- Forman, James Jr. *Locking Up Our Own: Crime and Punishment in Black America*. Farrar, Straus and Giroux, 2017. - Pulitzer Prize-winning examination of how Black leaders' support for tough-on-crime policies contributed to mass incarceration.
+- Clear, Todd R. *Imprisoning Communities*. Oxford University Press, 2007. - How mass incarceration damages the communities it claims to protect through "coercive mobility."
+- Forman, James Jr. *Locking Up Our Own: Crime and Punishment in Black America*. Farrar, Straus and Giroux, 2017. - Pulitzer Prize-winning examination of how Black leaders' support for tough-on-crime policies contributed to mass incarceration. Provides essential nuance to the narrative by documenting Black political agency within a system of constrained choices.
+- Fortner, Michael Javen. *Black Silent Majority: The Rockefeller Drug Laws and the Politics of Punishment*. Harvard University Press, 2015. - Documents Black community support for punitive drug laws during the crack epidemic, complicating narratives of purely top-down racial targeting.
+- Hari, Johann. *Chasing the Scream: The First and Last Days of the War on Drugs*. Bloomsbury Publishing, 2015. - Narrative history of drug prohibition from its origins, including the targeting of Billie Holiday and the racial motivations of Harry Anslinger.
 - Hinton, Elizabeth. *From the War on Poverty to the War on Crime: The Making of Mass Incarceration in America*. Harvard University Press, 2016. - Documents the policy decisions that built the carceral state.
 - Mauer, Marc. *Race to Incarcerate*. The New Press, 2006. - Analysis of the political forces driving mass incarceration and its racial dimensions.
+- Pager, Devah. *Marked: Race, Crime, and Finding Work in an Era of Mass Incarceration*. University of Chicago Press, 2007. - Audit study research on how criminal records interact with race in the labor market.
+- Pfaff, John F. *Locked In: The True Causes of Mass Incarceration and How to Achieve Real Reform*. Basic Books, 2017. - Argues that prosecutorial discretion, not mandatory minimums or the War on Drugs alone, is the primary driver of mass incarceration. Essential for understanding why sentencing reform alone is insufficient.
 - Provine, Doris Marie. *Unequal Under Law: Race in the War on Drugs*. University of Chicago Press, 2007. - Examination of how drug laws have been shaped by racial politics.
 - Tonry, Michael. *Malign Neglect: Race, Crime, and Punishment in America*. Oxford University Press, 1995. - Early and influential documentation of racial disparities in drug enforcement.
+- Tyler, Tom R. *Why People Obey the Law*. Princeton University Press, 2006. - Foundational work on procedural justice and legitimacy, demonstrating that perceived fairness in enforcement determines community cooperation with law enforcement.
 
 ---
 
@@ -84,6 +95,11 @@ This section provides a curated list of key research, government reports, legal 
 - Brookings Institution. "A Better Path Forward for Criminal Justice: Prisoner Reentry." 2020. <https://www.brookings.edu/articles/a-better-path-forward-for-criminal-justice-prisoner-reentry/>
 - RAND Corporation. "How Goes the War on Drugs? An Assessment of U.S. Drug Problems and Policy." 2005. <https://www.rand.org/pubs/occasional_papers/OP121.html> - Foundational analysis showing treatment is 7x more cost-effective than law enforcement.
 - Vera Institute of Justice. "Racial Disparities in the Criminal Justice System: Eight Steps to Help State Legislators Address It." 2019. <https://www.vera.org/publications/for-the-record-prison-paradox-incarceration-not-safer>
+- National Research Council. "The Growth of Incarceration in the United States: Exploring Causes and Consequences." National Academies Press, 2014. <https://nap.nationalacademies.org/catalog/18613> - Comprehensive consensus report finding that incarceration has reached unsustainable levels with diminishing returns for public safety.
+- Marijuana Policy Project. "Social Equity in Cannabis Legalization: A State-by-State Comparison." 2024. <https://www.mpp.org/issues/legalization/social-equity/> - Comparison of equity provisions across legalization states.
+- Center for American Progress. "Ending the War on Drugs: By the Numbers." 2018. <https://www.americanprogress.org> - Cost-benefit analysis of drug enforcement reform.
+- Reflective Democracy Campaign. "Justice for All? A Report on Prosecutor Diversity in the United States." 2020. <https://wholeads.us/research/justice-for-all/> - Found that 95% of elected prosecutors are white.
+- National Conference of State Legislatures. "Automatic Expungement and Record Sealing Laws." 2024. <https://www.ncsl.org> - Comprehensive overview of Clean Slate laws across states.
 
 ---
 
@@ -101,6 +117,11 @@ This section provides a curated list of key research, government reports, legal 
 | Families Against Mandatory Minimums (FAMM) | Sentencing reform, mandatory minimum repeal | Advocacy | <https://famm.org> |
 | Equal Justice Initiative | Racial justice, death penalty reform, reentry | Legal / Advocacy | <https://eji.org> |
 | National Organization for the Reform of Marijuana Laws (NORML) | Cannabis legalization, social equity, expungement | Advocacy | <https://norml.org> |
+| JustLeadershipUSA | Advocacy led by formerly incarcerated individuals | Advocacy | <https://jlusa.org> |
+| National Expungement Project | Record clearing and expungement clinics | Legal / Advocacy | <https://www.myrecordcleared.org> |
+| Police Executive Research Forum (PERF) | Evidence-based policing reform | Research / Professional | <https://www.policeforum.org> |
+| Brennan Center for Justice | Criminal justice reform, voting rights, democracy | Research / Legal / Advocacy | <https://www.brennancenter.org> |
+| Center for American Progress | Drug policy reform, racial equity research | Research / Policy | <https://www.americanprogress.org> |
 
 ---
 
@@ -132,6 +153,8 @@ This section provides a curated list of key research, government reports, legal 
 - *The Marshall Project*. Criminal justice coverage. <https://www.themarshallproject.org> - Daily reporting on criminal justice reform, racial disparities, and incarceration.
 - *The Appeal*. Criminal justice reform journalism. <https://theappeal.org> - Focus on prosecutorial reform, policing, and drug policy.
 - *Filter Magazine*. Drug policy and harm reduction. <https://filtermag.org> - Specialized coverage of drug policy with attention to racial equity.
+- *MJBizDaily (Marijuana Business Daily)*. Cannabis industry and policy. <https://mjbizdaily.com> - Industry-focused coverage including equity program tracking and ownership demographics.
+- *Bolts (formerly The Appeal: Political Report)*. Criminal justice elections coverage. <https://boltsmag.org> - Tracks prosecutor, judicial, and sheriff elections relevant to drug enforcement reform.
 
 ---
 
@@ -160,10 +183,29 @@ This section provides a curated list of key research, government reports, legal 
 
 - Controlled Substances Act, 21 U.S.C. Sections 801-971 - Federal drug scheduling and penalty framework.
 - Anti-Drug Abuse Act of 1986, P.L. 99-570 - Established the 100:1 crack/powder cocaine sentencing disparity.
+- Anti-Drug Abuse Act of 1988, P.L. 100-690 - Created "drug czar" office, public housing "one-strike" policy, and federal death penalty for drug kingpins.
+- Violent Crime Control and Law Enforcement Act of 1994, P.L. 103-322 - $9.7 billion for prisons, "three strikes," 100,000 new police officers.
 - Fair Sentencing Act of 2010, P.L. 111-220 - Reduced the crack/powder ratio from 100:1 to 18:1.
-- First Step Act of 2018, P.L. 115-391 - Made the Fair Sentencing Act retroactive; reformed mandatory minimums.
+- First Step Act of 2018, P.L. 115-391 - Made the Fair Sentencing Act retroactive; reformed mandatory minimums; expanded safety valve.
+- FAFSA Simplification Act (within Consolidated Appropriations Act, 2021, P.L. 116-260) - Partially repealed drug conviction barrier to federal student aid.
 - 42 U.S.C. Section 14141 (now 34 U.S.C. Section 12601) - Authorizes DOJ pattern-and-practice investigations of law enforcement agencies.
 - 26 U.S.C. Section 280E - Prohibits cannabis businesses from deducting ordinary business expenses on federal taxes.
+- Illinois Cannabis Regulation and Tax Act, P.A. 101-0027 (2019) - Model state cannabis legalization with social equity provisions.
+
+## Multimedia Resources
+
+### Documentaries
+
+- *13th* (2016, dir. Ava DuVernay) - Documentary exploring the intersection of race, mass incarceration, and the Thirteenth Amendment. Available on Netflix.
+- *The House I Live In* (2012, dir. Eugene Jarecki) - Documentary examining the War on Drugs and its impact on communities of color. Winner of the Sundance Grand Jury Prize.
+- *Grass Is Greener* (2019, dir. Fab 5 Freddy) - Documentary exploring the racial history of marijuana prohibition and enforcement disparities.
+
+### Podcasts
+
+- *Ear Hustle* - Stories from inside San Quentin, including drug offense experiences. <https://www.earhustlesq.com>
+- *Justice in America* - The Appeal's podcast on the criminal justice system. <https://theappeal.org/topics/justice-in-america/>
+- *Caught* - WNYC podcast examining the collateral consequences of drug convictions on individuals and families.
+- *Intercepted* - The Intercept's podcast frequently covers drug policy and racial justice. <https://theintercept.com/podcasts/>
 
 ---
 

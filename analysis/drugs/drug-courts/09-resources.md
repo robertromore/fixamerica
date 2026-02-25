@@ -32,6 +32,24 @@ This section provides a curated list of key research, government reports, legal 
 
 - Ho, T., Carey, S. M., & Malsch, A. M. "Racial and Gender Disparities in Drug Court Completion and Outcomes." *NPC Research* Working Paper. 2018. - Documented racial and gender disparities across multiple drug court sites.
 
+- Sevigny, E. L., Fuleihan, B. K., & Ferdik, F. V. "Do Drug Courts Reduce the Use of Incarceration? A Meta-Analysis." *Journal of Criminal Justice* 41, no. 6 (2013): 416-425. - Analysis of drug court impact on incarceration rates; documented creaming effects.
+
+- Peters, R. H., Wexler, H. K., & Lurigio, A. J. "Co-Occurring Substance Use and Mental Disorders in the Criminal Justice System: A New Frontier of Clinical Practice and Research." *Psychiatric Rehabilitation Journal* 38, no. 1 (2015): 1-6. - Research on integrated treatment for co-occurring disorders in criminal justice settings.
+
+- Worcel, S. D., Furrer, C. J., Green, B. L., Burrus, S. W. M., & Finigan, M. W. "Effects of Family Treatment Drug Courts on Substance Abuse and Child Welfare Outcomes." *Child Abuse Review* 17, no. 6 (2008): 427-443. - Key evidence for family drug court effectiveness in improving child welfare outcomes.
+
+- Parhar, K. K., Wormith, J. S., Derkzen, D. M., & Beauregard, A. M. "Offender Coercion in Treatment: A Meta-Analysis of Effectiveness." *Criminal Justice and Behavior* 35, no. 9 (2008): 1109-1135. - Meta-analysis finding that mandated treatment reduces recidivism; relevant to coerced treatment debate.
+
+### Specialized Court Research
+
+- Tribal Law and Policy Institute. "Tribal Healing to Wellness Courts: The Key Components." 2003; updated 2014. <https://www.tribal-institute.org/> - Foundational framework for tribal wellness courts adapted from NADCP Ten Key Components.
+
+- Justice for Vets. "Ten Key Components of Veterans Treatment Courts." 2017. <https://justiceforvets.org/> - Adaptation of drug court key components for the veterans treatment court model.
+
+- Baldwin, J. M. "Investigating the Programmatic Attack: A National Survey of Veterans Treatment Courts." *Journal of Criminal Law and Criminology* 105, no. 3 (2015): 705-752. - First comprehensive national survey of veterans treatment court characteristics and operations.
+
+- Green, B. L., Furrer, C., Worcel, S., Burrus, S., & Finigan, M. W. "How Effective Are Family Treatment Drug Courts? Outcomes from a Four-Site National Study." *Child Maltreatment* 12, no. 1 (2007): 43-59. - Multi-site evaluation of family drug courts demonstrating improved treatment completion and child welfare outcomes.
+
 ---
 
 ## Government Reports and Data
@@ -74,6 +92,12 @@ This section provides a curated list of key research, government reports, legal 
 
 - Boldt, R. C. "Rehabilitative Punishment and the Drug Treatment Court Movement." *Washington University Law Quarterly* 76 (1998): 1206-1306. - Early legal scholarship examining the constitutional and ethical issues raised by drug courts.
 
+- Wexler, D. B. & Winick, B. J. *Law in a Therapeutic Key: Developments in Therapeutic Jurisprudence*. Carolina Academic Press, 1996. - Foundational collection on therapeutic jurisprudence, the theoretical framework underlying drug courts.
+
+- Burns, S. L. & Peyrot, M. "Tough Love: Nurturing and Coercing Responsibility and Recovery in California Drug Courts." *Social Problems* 50, no. 3 (2003): 416-438. - Ethnographic study of drug court culture and the interplay of care and control.
+
+- Berman, G. & Feinblatt, J. *Good Courts: The Case for Problem-Solving Justice*. New Press, 2005. - Broader examination of problem-solving courts including drug courts; published by the Center for Court Innovation.
+
 ---
 
 ## Think Tank Analysis
@@ -112,6 +136,12 @@ This section provides a curated list of key research, government reports, legal 
 | Treatment Research Institute (TRI) | Research on substance abuse treatment in criminal justice settings | Research | <https://www.tresearch.org/> |
 | NPC Research | Drug court evaluation and cost-benefit analysis | Research | <https://npcresearch.com/> |
 | Justice Policy Institute | Criminal justice reform research and advocacy | Research / Advocacy | <https://justicepolicy.org/> |
+| Right on Crime | Conservative criminal justice reform advocacy | Advocacy | <https://rightoncrime.com/> |
+| Tribal Law and Policy Institute | Tribal wellness court development and cultural adaptation | Technical assistance / Research | <https://www.tribal-institute.org/> |
+| Justice for Vets (NADCP) | Veterans treatment court expansion and standards | Advocacy / Technical assistance | <https://justiceforvets.org/> |
+| National Council of Juvenile and Family Court Judges (NCJFCJ) | Family and juvenile drug court guidance and training | Professional association | <https://www.ncjfcj.org/> |
+| Center for Court Innovation | Problem-solving court research and model development | Research / Innovation | <https://www.courtinnovation.org/> |
+| Vera Institute of Justice | Criminal justice reform research including diversion alternatives | Research / Advocacy | <https://www.vera.org/> |
 
 ---
 
@@ -158,6 +188,33 @@ This section provides a curated list of key research, government reports, legal 
 
 - Department of Justice Canada. "Drug Treatment Court Funding Program Evaluation." 2015. <https://www.justice.gc.ca/> - Evaluation of Canadian drug treatment courts showing 36% reconviction reduction.
 
+- International Association of Drug Treatment Courts. "Drug Treatment Courts: An International Framework." 2019. - Comparative analysis of drug court models worldwide with recommendations for adaptation.
+
+---
+
+## Training and Professional Development Resources
+
+### NADCP/NDCI Training Programs
+
+| Training Program | Target Audience | Duration | Frequency |
+|---|---|---|---|
+| NADCP Annual Training Conference | All drug court professionals | 4 days | Annual (May/June) |
+| Drug Court Planning Initiative (DCPI) | New drug court teams | 3 days | Multiple times annually |
+| Drug Court Judicial Leadership Initiative | Drug court judges | 2 days | Quarterly |
+| Equity and Inclusion Training | All drug court professionals | 1-2 days | Available on request |
+| MAT Implementation Training | Judges, coordinators, treatment providers | 1 day | Available on request |
+| Peer Mentoring Training (VTC) | Veteran mentors | 2 days | Quarterly |
+
+*Source: NADCP/NDCI Training Calendar, 2024*
+
+### Online Resources and Training Platforms
+
+- **NDCI Online Training**: <https://www.ndci.org/training/> - Self-paced online courses for drug court professionals covering best practices, MAT, equity, and specialized court models
+- **BJA Training and Technical Assistance**: <https://bja.ojp.gov/> - Federal technical assistance for drug court grantees including webinars, resource guides, and on-site consultation
+- **SAMHSA Evidence-Based Practices Resource Center**: <https://www.samhsa.gov/ebp-resource-center> - Treatment intervention guides and implementation resources applicable to drug court settings
+- **Tribal Law and Policy Institute Training**: <https://www.tribal-institute.org/> - Specialized training for tribal healing-to-wellness court development including cultural adaptation guidance
+- **Justice for Vets Training**: <https://justiceforvets.org/> - Veterans treatment court-specific training including peer mentor certification
+
 ---
 
 ## Legal Resources
@@ -178,6 +235,16 @@ This section provides a curated list of key research, government reports, legal 
 - Pub. L. 114-198, Comprehensive Addiction and Recovery Act (CARA), 2016 - Expanded drug court authority, authorized MAT in drug courts
 - Pub. L. 115-271, SUPPORT for Patients and Communities Act, 2018 - Required MAT access in federally funded drug courts
 - 21 U.S.C. 801 et seq. - Controlled Substances Act (the federal scheduling system that drug courts operate within)
+- Pub. L. 117-328, STRONG Veterans Act, 2022 - Expanded veterans treatment court eligibility and increased federal funding
+- Pub. L. 110-199, Second Chance Act, 2008 - Authorized reentry drug courts and expanded grant eligibility
+- 42 U.S.C. 629 et seq. - Title IV-B of the Social Security Act (authorizes family preservation and support services relevant to family drug courts)
+
+### NADCP Standards and Guidelines
+
+- National Association of Drug Court Professionals. "Defining Drug Courts: The Key Components." 1997. <https://www.nadcp.org/> - Original Ten Key Components framework.
+- National Association of Drug Court Professionals. "Adult Drug Court Best Practice Standards, Volume I." 2013. <https://www.nadcp.org/standards/> - Evidence-based standards covering target population, historically disadvantaged groups, role of the judge, incentives and sanctions, substance abuse treatment, and complementary services.
+- National Association of Drug Court Professionals. "Adult Drug Court Best Practice Standards, Volume II." 2018. <https://www.nadcp.org/standards/> - Standards covering drug testing, multidisciplinary team, census and caseload, monitoring and evaluation, and medication-assisted treatment.
+- American Bar Association. "Standards on Treatment Courts." 2019. <https://www.americanbar.org/> - Standards addressing defense counsel ethics, due process protections, and participant rights in treatment courts.
 
 ---
 

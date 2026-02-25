@@ -18,11 +18,23 @@ This section provides a curated list of key research, government reports, invest
 - McCoy, M.S., Carniol, M., Chockley, K., et al. "Conflicts of Interest for Patient-Advocacy Organizations." *New England Journal of Medicine* 376 (2017): 880-885.
 - Topol, E.J. "Failing the Public Health -- Rofecoxib, Merck, and the FDA." *New England Journal of Medicine* 351.17 (2004): 1707-1709.
 
+- Sharma, M., Vadhariya, A., Johnson, M.L., et al. "Association Between Industry Payments to Physicians and Drug Prescribing: An Observational Study Using Open Payments and Medicare Part D Data." *JAMA Network Open* 3.12 (2020): e2029634.
+- Anderson, M.L., Chiswell, K., Peterson, E.D., et al. "Compliance with Results Reporting at ClinicalTrials.gov." *New England Journal of Medicine* 372 (2015): 1031-1039.
+- Piller, C. "Is FDA's Revolving Door Open Too Wide?" *Science* 361.6397 (2018): 21.
+- Lexchin, J. "Those Who Have the Gold Make the Evidence: How the Pharmaceutical Industry Biases the Outcomes of Clinical Trials of Medications." *Science and Engineering Ethics* 18.2 (2012): 247-261.
+- Avorn, J. "Paying for Drug Approvals -- Who's Using Whom?" *New England Journal of Medicine* 356.17 (2007): 1697-1700.
+- Rome, B.N., Lee, C.C., Kesselheim, A.S. "Market Exclusivity Length for Drugs with New Generic or Biosimilar Competition, 2012-2018." *Clinical Pharmacology & Therapeutics* 107.5 (2020): 1012-1018.
+- Feldman, R. "May Your Drug Price Be Evergreen." *Journal of Law and the Biosciences* 5.3 (2018): 590-647.
+- Brennan, T.A., Rothman, D.J., Blank, L., et al. "Health Industry Practices That Create Conflicts of Interest: A Policy Proposal for Academic Medical Centers." *JAMA* 295.4 (2006): 429-433.
+
 ### Working Papers and White Papers
 
 - Mulcahy, A.W., Schwam, D., Edenfield, N. "Comparing Prescription Drug Prices in the United States to Other Countries." RAND Corporation Research Report RR-2956-ASPEC. 2021. <https://www.rand.org/pubs/research_reports/RR2956.html>
 - I-MAK. "Overpatented, Overpriced: How Excessive Pharmaceutical Patenting Is Extending Monopolies and Driving Up Drug Prices." 2023. <https://www.i-mak.org/overpatented-overpriced/>
 - Sarpatwari, A., DiBello, J., Gagne, J.J., Kesselheim, A.S. "Pay-for-Delay Agreements: Updated Review of the Literature." Working Paper. Harvard Program on Regulation, Therapeutics, and Law. 2022.
+- Kesselheim, A.S., Avorn, J., Sarpatwari, A. "The High Cost of Prescription Drugs in the United States: Origins and Prospects for Reform." *JAMA* 316.8 (2016): 858-871.
+- National Academies of Sciences, Engineering, and Medicine. *Making Medicines Affordable: A National Imperative*. National Academies Press, 2018. <https://doi.org/10.17226/24946>
+- Wouters, O.J., McKee, M., Luyten, J. "Estimated Research and Development Investment Needed to Bring a New Medicine to Market, 2009-2018." *JAMA* 323.9 (2020): 844-853.
 
 ---
 
@@ -59,6 +71,20 @@ This section provides a curated list of key research, government reports, invest
 - Angell, Marcia. *The Truth About the Drug Companies: How They Deceive Us and What to Do About It*. Random House, 2005. - Former *NEJM* editor's critique of industry practices
 - Goldacre, Ben. *Bad Pharma: How Drug Companies Mislead Doctors and Harm Patients*. Faber & Faber, 2012. - Analysis of clinical trial bias, marketing practices, and regulatory capture
 - Sackler, Nan Goldin, et al. *All the Beauty and the Bloodshed*. Film documentary. 2022. - Documentary on the Sackler family and opioid accountability activism
+- Mahar, Maggie. *Money-Driven Medicine: The Real Reason Health Care Costs So Much*. Harper, 2006. - Examination of financial incentives driving healthcare including pharmaceutical costs
+- Avorn, Jerry. *Powerful Medicines: The Benefits, Risks, and Costs of Prescription Drugs*. Vintage Books, 2005. - Harvard physician's analysis of pharmaceutical industry practices and their impact on prescribing
+- Emanuel, Ezekiel J. *Reinventing American Health Care: How the Affordable Care Act Will Improve Our Terribly Complex, Blatantly Unjust, Outrageously Expensive, Grossly Inefficient, Error Prone System*. PublicAffairs, 2014. - Includes substantial analysis of pharmaceutical pricing within the broader healthcare system
+- Lembke, Anna. *Drug Dealer, MD: How Doctors Were Duped, Patients Got Hooked, and Why It's So Hard to Stop*. Johns Hopkins University Press, 2016. - Physician's account of pharmaceutical industry's role in overprescribing
+
+---
+
+## Documentaries and Film
+
+- *Dopesick* (Hulu miniseries, 2021) - Dramatization of the Purdue Pharma/Sackler story based on Beth Macy's book
+- *All the Beauty and the Bloodshed* (Documentary, 2022) - Nan Goldin's campaign against the Sackler family; Academy Award nominee
+- *The Crime of the Century* (HBO Documentary, 2021) - Alex Gibney's investigation of the pharmaceutical industry's role in the opioid epidemic
+- *Pharma Bro* (Documentary, 2021) - Profile of Martin Shkreli and pharmaceutical price gouging
+- *The Bleeding Edge* (Netflix Documentary, 2018) - FDA medical device regulation failures (relevant to pharmaceutical regulatory capture themes)
 
 ---
 
@@ -76,6 +102,10 @@ This section provides a curated list of key research, government reports, invest
 - Center for American Progress. "Confronting Pharmaceutical Industry Consolidation and Abuse." 2023. <https://www.americanprogress.org/>
 - American Enterprise Institute. "Drug Pricing: What Do We Know?" 2023. <https://www.aei.org/>
 - Niskanen Center. "Patent Reform for Pharmaceutical Innovation." 2022. <https://www.niskanencenter.org/>
+- Urban Institute. "Options for Reducing Prescription Drug Spending." 2023. <https://www.urban.org/>
+- Harvard Program on Regulation, Therapeutics, and Law (PORTAL). Multiple analyses of drug pricing, patent policy, and regulatory reform. <https://www.bwhpiis.org/our-team/portal>
+- Yale Collaboration for Regulatory Rigor, Integrity, and Transparency (Yale CRIT). FDA reform and drug safety research. <https://medicine.yale.edu/core/>
+- Institute for Clinical and Economic Review (ICER). Drug cost-effectiveness assessments. <https://icer.org/> - Independent U.S.-based cost-effectiveness body; produces value assessments used by some insurers and PBMs
 
 ---
 
@@ -106,6 +136,11 @@ This section provides a curated list of key research, government reports, invest
 | Open Payments | CMS | Annual | <https://openpaymentsdata.cms.gov/> | Industry payments to physicians |
 | OpenSecrets Lobbying Data | OpenSecrets | Quarterly | <https://www.opensecrets.org/> | Lobbying expenditures and campaign contributions by industry |
 | GoodRx Drug Pricing Research | GoodRx | Monthly/Quarterly | <https://www.goodrx.com/healthcare-access/drug-cost-and-savings> | Retail drug price trends and analysis |
+| ClinicalTrials.gov | NIH/NLM | Continuous | <https://clinicaltrials.gov/> | Registry and results database for clinical trials |
+| AARP Rx Price Watch Reports | AARP | Annual | <https://www.aarp.org/health/drugs-supplements/> | Annual tracking of brand-name and generic drug price changes |
+| Drug Channels Blog and Data | Drug Channels Institute | Weekly | <https://www.drugchannels.net/> | Industry analysis of pharmaceutical distribution and PBM practices |
+| PhRMA Annual Report | PhRMA | Annual | <https://www.phrma.org/> | Industry self-reported R&D spending and economic impact (note: industry source) |
+| SEC EDGAR Filings | SEC | Continuous | <https://www.sec.gov/edgar/> | Pharmaceutical company financial disclosures, executive compensation, lobbying-related disclosures |
 
 ---
 
@@ -119,10 +154,20 @@ This section provides a curated list of key research, government reports, invest
 - Reuters. "The Opioid Files." 2019-2024. <https://www.reuters.com/investigates/> - Ongoing investigation into opioid industry practices
 - Washington Post. "The Opioid Files." 2019-2024. <https://www.washingtonpost.com/graphics/investigations/dea-pain-pill-database/> - Analysis of DEA pharmaceutical distribution data
 
+### Additional Investigative Reports
+
+- Los Angeles Times. "OxyContin Made by Purdue Pharma." Investigation series, 2016-2019. - Detailed reporting on Purdue Pharma marketing practices and internal communications
+- Charleston Gazette-Mail. "Drug Firms Poured 780M Painkillers into WV Amid Rise of Overdoses." Eric Eyre, 2016. - Pulitzer Prize-winning reporting on pharmaceutical distribution to small West Virginia communities
+- New York Times. "The Drug Industry's Triumph Over the DEA." 2022. - Reporting on how industry lobbying weakened DEA enforcement authority
+- Financial Times. "Big Pharma's Blockbuster Price Rises." Multiple reports, 2020-2024. - International perspective on U.S. pharmaceutical pricing practices
+- Bloomberg Law. Opioid Litigation Tracker. Ongoing. - Comprehensive tracking of opioid settlements and distribution
+
 ### Ongoing Coverage
 
 - *STAT News*. Daily pharmaceutical industry coverage. <https://www.statnews.com/> - Industry's most-read news source; covers FDA, drug pricing, biotech, clinical trials
 - *Kaiser Health News (KHN)*. "Bill of the Month" series. <https://khn.org/news/tag/bill-of-the-month/> - Patient stories of medical billing including drug costs
+- *Endpoints News*. Daily biotech and pharmaceutical newsletter. <https://endpts.com/> - Industry-focused coverage of drug development and regulatory decisions
+- *BioPharma Dive*. Daily pharmaceutical business coverage. <https://www.biopharmadive.com/> - Industry business news including mergers, pricing, and regulatory developments
 
 ---
 
@@ -132,6 +177,19 @@ This section provides a curated list of key research, government reports, invest
 - World Health Organization. "WHO Essential Medicines List." Updated biennially. <https://www.who.int/groups/expert-committee-on-selection-and-use-of-essential-medicines>
 - National Institute for Health and Care Excellence (NICE). Technology Appraisal Guidance. <https://www.nice.org.uk/about/what-we-do/our-programmes/nice-guidance/nice-technology-appraisal-guidance>
 - Patented Medicine Prices Review Board (Canada). Annual Reports. <https://www.canada.ca/en/patented-medicine-prices-review.html>
+- Institute for Quality and Efficiency in Healthcare (IQWiG, Germany). Drug Assessment Reports. <https://www.iqwig.de/en/>
+- Pharmaceutical Benefits Advisory Committee (PBAC, Australia). Public Summary Documents. <https://www.pbs.gov.au/info/industry/listing/participants/pbac>
+- European Medicines Agency (EMA). Assessment Reports. <https://www.ema.europa.eu/>
+
+---
+
+## Congressional Testimony and Hearing Records
+
+- Senate Finance Committee. "Drug Pricing in America: A Prescription for Change." Hearing series, 2019-2024. Multiple hearings on pharmaceutical pricing, PBM practices, and IRA implementation
+- House Oversight Committee. "Drug Pricing Investigation." 2019-2021. Subpoenaed internal documents from 12 major pharmaceutical companies revealing pricing strategies, R&D allocations, and executive compensation
+- Senate HELP Committee. "The Cost of Prescription Drugs." 2019-2024. Hearings on FDA reform, patent policy, and drug pricing transparency
+- House Energy and Commerce Committee. "Investigation of FDA's Accelerated Approval of Aduhelm." 2021-2022. Documented irregularities in FDA-Biogen interactions during aducanumab review
+- Senate Judiciary Committee. "Competition in the Pharmaceutical Industry." 2023-2024. Hearings on patent reform, pay-for-delay settlements, and PBM antitrust concerns
 
 ---
 
@@ -144,12 +202,42 @@ This section provides a curated list of key research, government reports, invest
 - *New York v. Actavis PLC*, 787 F.3d 638 (2d Cir. 2015). - "Product hopping" can constitute anticompetitive conduct
 - *Sorrell v. IMS Health Inc.*, 564 U.S. 552 (2011). - First Amendment limits on pharmaceutical data mining restrictions
 
+### Additional Case Law
+
+- *Bristol-Myers Squibb Co. v. Shalala*, 91 F.3d 1126 (D.C. Cir. 1996). - Orange Book listing disputes and FDA authority
+- *Mylan Pharmaceuticals, Inc. v. Warner Chilcott PLC*, 838 F.3d 421 (3d Cir. 2016). - Product hopping as anticompetitive conduct
+- *United States ex rel. Franklin v. Parke-Davis*, No. 96-11651 (D. Mass. 2004). - Landmark off-label promotion whistleblower case (Neurontin)
+- *Caronia v. United States*, 703 F.3d 149 (2d Cir. 2012). - First Amendment limits on off-label promotion restrictions
+
 ### Statutory References
 
 - 21 U.S.C. 301 et seq. - Federal Food, Drug, and Cosmetic Act (FDA authority)
 - 35 U.S.C. 101-376 - Patent Act (intellectual property framework)
+- 35 U.S.C. 200-212 - Bayh-Dole Act (patent rights in federally funded inventions)
+- 42 U.S.C. 1320a-7h - Physician Payments Sunshine Act (Open Payments)
 - 42 U.S.C. 1395w-111 et seq. - Medicare Part D (prescription drug benefit)
+- 42 U.S.C. 1395w-111(i) - Non-interference clause (prohibiting Medicare price negotiation prior to IRA)
 - Public Law 117-169 (Inflation Reduction Act of 2022) - Medicare drug negotiation authority
+- 42 U.S.C. 282(j) - Clinical trial registration and results reporting requirements (FDAAA Section 801)
+
+---
+
+## Key Terms Glossary
+
+| Term | Definition |
+|------|-----------|
+| ANDA (Abbreviated New Drug Application) | FDA application pathway for generic drug approval |
+| Biosimilar | A biologic product highly similar to an already-approved biologic (reference product) |
+| DTC (Direct-to-Consumer) Advertising | Marketing of prescription drugs directly to patients through broadcast, print, and digital media |
+| Evergreening | Strategies to extend patent protection through minor modifications to existing drugs |
+| KOL (Key Opinion Leader) | Influential physician cultivated by pharmaceutical companies to promote products |
+| March-In Rights | Government authority under Bayh-Dole to require licensing of federally funded inventions |
+| NME (New Molecular Entity) | A drug containing an active moiety not previously approved by the FDA |
+| Orange Book | FDA publication listing approved drug products and their patent/exclusivity information |
+| Pay-for-Delay | Settlement in which a brand manufacturer pays a generic company to delay market entry |
+| PBM (Pharmacy Benefit Manager) | Intermediary managing prescription drug benefits for health insurers |
+| PDUFA (Prescription Drug User Fee Act) | Law authorizing FDA to collect fees from pharmaceutical companies for drug review |
+| Spread Pricing | PBM practice of charging plans more than they reimburse pharmacies for the same drug |
 
 ---
 

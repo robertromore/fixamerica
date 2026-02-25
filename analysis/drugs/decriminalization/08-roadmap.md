@@ -134,13 +134,37 @@ By the end of Year 10: every American seeking SUD treatment able to access evide
 | Deflection programs | Cumulative | Law enforcement agencies participating | ~600 (PAARI) | 1,500 | 3,000 | 5,000+ |
 | Harm reduction coverage | Ongoing | Naloxone kits distributed annually | ~9 million | 15 million | 20 million | 25 million |
 
+## Political Strategy by Phase
+
+### Phase 1 Political Strategy
+
+- **Coalition**: Build the broadest possible coalition by focusing on treatment investment and deflection programs, which have bipartisan support. Avoid using the word "decriminalization" in Phase 1 legislation.
+- **Messaging**: "We are building the system that ends overdose deaths and connects people to treatment." Emphasize cost savings ($47B/year on drug incarceration vs. $4-7 ROI from treatment).
+- **Key allies**: Treatment providers, SAMHSA, fiscal conservatives (Right on Crime), law enforcement (PAARI, LEAP), opioid-affected families.
+- **Key risks**: Opposition may frame treatment investment as "soft on drugs" preamble to decriminalization. Counter by emphasizing public safety benefits of deflection programs.
+
+### Phase 2 Political Strategy
+
+- **Coalition**: Add racial justice organizations, libertarian groups, and reform prosecutors to the Phase 1 coalition. Present Phase 1 outcome data as evidence.
+- **Messaging**: "Treatment works. Deflection works. Now let's take the next step and replace arrest with health accountability nationwide."
+- **Key allies**: Phase 1 allies plus ACLU, NAACP, Cato Institute, reform DAs, state health departments with Phase 1 success data.
+- **Key risks**: Oregon backlash narrative will be invoked. Counter with Phase 1 outcome data demonstrating that well-implemented systems produce positive results.
+
+### Phase 3 Political Strategy
+
+- **Coalition**: Broadest coalition, supported by 5-10 years of positive outcome data from Phases 1 and 2.
+- **Messaging**: "This system has proven itself. Overdose deaths are down. Treatment enrollment is up. Racial disparities are declining. Let's finish the job."
+- **Key allies**: Full coalition plus mainstream institutions (AMA, ABA, APA) and general public.
+- **Key risks**: Complacency; political attention shifting to other issues. Maintain data reporting and public communication.
+
 ## Governance and Oversight
 
-- **ONDCP Coordination**: The Office of National Drug Control Policy would coordinate implementation across DOJ, HHS, SAMHSA, DEA, and state agencies, publishing annual implementation reports
-- **Congressional Oversight**: Semi-annual reports to the Senate Judiciary Committee and House Judiciary Committee, with GAO audits every two years
-- **Independent Evaluation**: A permanent Drug Policy Evaluation Office (created in Phase 3) would conduct ongoing, independent assessment of decriminalization outcomes using randomized and quasi-experimental designs
-- **State-Level Accountability**: States receiving treatment infrastructure grants would be required to submit annual reports on treatment capacity, wait times, enrollment, and outcomes, with funding adjustments based on performance
-- **Racial Equity Monitoring**: All civil citation systems would be required to collect and publicly report data on citations by race, ethnicity, geography, and income, with mandatory corrective action plans if disparities exceed defined thresholds
+- **ONDCP Coordination**: The Office of National Drug Control Policy would coordinate implementation across DOJ, HHS, SAMHSA, DEA, and state agencies, publishing annual implementation reports. ONDCP would establish a dedicated Decriminalization Implementation Office with authority to convene interagency meetings and resolve coordination disputes.
+- **Congressional Oversight**: Semi-annual reports to the Senate Judiciary Committee and House Judiciary Committee, with GAO audits every two years. Congressional authorization would include a mandatory 5-year reauthorization provision, ensuring that Congress must affirmatively act to continue the program based on outcome data.
+- **Independent Evaluation**: A permanent Drug Policy Evaluation Office (created in Phase 3) would conduct ongoing, independent assessment of decriminalization outcomes using randomized and quasi-experimental designs. The office would be structured like the Congressional Budget Office -- nonpartisan, independently staffed, and required to publish findings publicly.
+- **State-Level Accountability**: States receiving treatment infrastructure grants would be required to submit annual reports on treatment capacity, wait times, enrollment, and outcomes, with funding adjustments based on performance. States that fail to meet treatment capacity benchmarks would not be eligible for Phase 2 decriminalization activation until benchmarks are met.
+- **Racial Equity Monitoring**: All civil citation systems would be required to collect and publicly report data on citations by race, ethnicity, geography, and income, with mandatory corrective action plans if disparities exceed defined thresholds. An annual racial equity audit would be conducted by an independent body.
+- **Community Advisory Boards**: Each participating state would be required to establish a community advisory board with representation from people with lived experience of SUD, communities of color, treatment providers, harm reduction workers, and law enforcement. These boards would provide input on implementation design and review outcome data.
 
 ## Risk Mitigation
 
@@ -194,6 +218,26 @@ By the end of Year 10: every American seeking SUD treatment able to access evide
 
 **Contingency Plan**: If legal challenges arise, DOJ provides amicus support for decriminalization provisions. Seek expedited Supreme Court review if circuit split develops.
 
+### Risk 6: Workforce Shortages Delay Treatment Expansion
+
+**Likelihood**: High
+
+**Impact**: Medium-High
+
+**Mitigation Strategy**: Front-load workforce development in Phase 1. Expand loan forgiveness programs for addiction counselors and social workers. Lower educational barriers for peer support specialist certification. Partner with community colleges and HBCUs for accelerated training programs. Use telehealth to extend the reach of existing providers to underserved areas.
+
+**Contingency Plan**: If workforce shortages persist, expand the scope of practice for peer support specialists and community health workers to perform initial health assessments, reserving licensed counselors for complex cases and treatment planning.
+
+### Risk 7: Data System Failures Undermine Accountability
+
+**Likelihood**: Medium
+
+**Impact**: Medium
+
+**Mitigation Strategy**: Invest in data infrastructure from Phase 1. Use existing SAMHSA TEDS, CDC WONDER, and FBI UCR data systems as foundations. Require states to adopt standardized data collection protocols as a condition of receiving treatment infrastructure grants. Publish data publicly in real time through the national drug policy dashboard.
+
+**Contingency Plan**: If state data reporting is inconsistent, commission independent data collection through NIDA research contracts. Use sentinel surveillance sites in participating states to provide reliable outcome estimates.
+
 ## Resource Requirements
 
 ### Funding
@@ -219,6 +263,26 @@ By the end of Year 10: every American seeking SUD treatment able to access evide
 - **Health assessment sites**: 1,000+ locations nationwide for civil citation health screenings, co-located with community health centers where possible.
 - **Data systems**: National decriminalization data dashboard; inter-agency data sharing infrastructure; state reporting systems.
 - **Training programs**: Addiction medicine fellowships; social work training expansions; law enforcement deflection training curriculum.
+
+## Contingency Planning: Scenarios
+
+### Scenario A: Full Congressional Support (Best Case)
+
+All phases proceed as planned. Treatment Infrastructure Expansion Act passes with bipartisan support in Year 1. Federal decriminalization enacted in Year 3. By Year 10, treatment on demand is achieved nationwide and drug possession arrests fall below 100,000 annually.
+
+### Scenario B: Partial Federal Action, State-Led Reform
+
+Congress passes treatment infrastructure legislation but fails to pass federal decriminalization. States adopt the model decriminalization act individually, creating a patchwork of decriminalized and criminalized states. By Year 10, 25+ states have decriminalized, and federal legislation follows as a codification of the majority position.
+
+### Scenario C: Federal Gridlock, Local Innovation
+
+Congress fails to act on either treatment expansion or decriminalization. Reform proceeds through state ballot measures, prosecutorial discretion, and local deflection programs. Progress is slower and less uniform, but incremental change continues. Federal action comes in Year 8-10 as the accumulated evidence from state and local programs becomes politically compelling.
+
+### Scenario D: Backlash (Worst Case)
+
+A high-profile incident (overdose death of a child, mass casualty event at an open-air drug market) triggers a political backlash that reverses Phase 1 progress. Treatment funding is cut; deflection programs are defunded; enforcement is expanded. In this scenario, reform organizations focus on preserving treatment infrastructure, documenting outcomes, and waiting for the next political opening -- following the historical pattern in which reform advances during crises and regroups during backlash periods.
+
+Each scenario requires a different resource allocation and communication strategy. The roadmap is designed to be robust across scenarios B-D while optimizing for Scenario A.
 
 ---
 

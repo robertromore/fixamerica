@@ -63,6 +63,19 @@ The theory of change is that early wins -- particularly scope-of-practice reform
 - **Telehealth Modernization Act**: Codify pandemic-era behavioral health telehealth flexibilities
 - **Full Practice Authority for PMHNPs**: Amend Title XVIII of the Social Security Act to eliminate physician supervision requirements for psychiatric NPs under Medicare
 
+### Executive Actions (No Legislation Required)
+
+Several Phase 1 actions can be implemented through executive authority without waiting for Congressional action:
+
+| Action | Authority | Timeline |
+|--------|-----------|----------|
+| Direct CMS to review and publish a behavioral health reimbursement adequacy report | HHS Secretary | Months 1-6 |
+| Expand NHSC site eligibility to include school-based health centers | HRSA administrative action | Months 1-6 |
+| Issue CMS guidance strengthening network adequacy standards for behavioral health under Medicare Advantage | CMS | Months 3-12 |
+| Direct SAMHSA to develop national peer specialist certification standards | SAMHSA administrative action | Months 1-18 |
+| Expand BHWET program priorities to emphasize integrated care training | HRSA administrative action | Months 1-12 |
+| Issue executive order establishing the Behavioral Health Workforce Interagency Council | Presidential action | Month 1 |
+
 ### Expected Outcomes
 
 By the end of Phase 1:
@@ -71,6 +84,7 @@ By the end of Phase 1:
 - NHSC behavioral health placements will increase from ~6,800 to ~15,000-20,000, with higher retention incentives
 - All 50 states will reimburse peer specialist services through Medicaid
 - Telehealth will be permanently available for behavioral health, extending geographic reach
+- The Behavioral Health Workforce Interagency Council will be operational, providing the coordination mechanism that GAO has identified as currently missing
 - Planning for Phase 2 structural reforms will be complete
 
 ---
@@ -108,17 +122,31 @@ By the end of Phase 1:
 - **Behavioral Health Provider Sustainability Act**: Authorize $300 million annual burnout reduction program and establish staffing standards for federally funded programs
 - **Interstate Licensing Compact Incentive Act**: Provide $100 million in grants to incentivize state adoption of PSYPACT and the Counseling Compact
 
+### Reimbursement Reform in Phase 2
+
+Phase 2 includes a critical reimbursement component:
+
+| Action | Lead Actor | Timeline | Resources Needed | Success Metric |
+|--------|-----------|----------|------------------|----------------|
+| Establish Medicaid behavioral health reimbursement floor at 100% of Medicare | Congress (Medicaid amendment) | Year 3 | $3-5 billion/year in additional federal matching | All state Medicaid programs at or above floor |
+| Increase Medicare behavioral health reimbursement to achieve RVU parity | CMS / Congress | Years 3-5 | $1-2 billion/year | Out-of-network utilization rates decline; Medicaid acceptance increases |
+| Expand Conrad 30 program to 50 waivers/state with 10 for behavioral health | Congress | Year 3 | $15 million administration | Additional J-1 psychiatrists placed in HPSAs |
+| Fund community-based clinical training infrastructure | HRSA | Years 3-5 | $250 million/year | Community training sites expanded; trainee placements increased |
+
 ### Expected Outcomes
 
 By the end of Phase 2:
 
 - 5,000 new psychiatry-relevant residency slots allocated, with first residents in training
 - All states participating in the CCBHC model with cost-based reimbursement, producing 15-25% salary increases for community behavioral health staff
+- Medicaid behavioral health reimbursement at or above 100% of Medicare in all states
+- Psychiatrists accepting new Medicaid patients increasing from 35.7% toward 55%
 - Workforce Diversity Pipeline supporting 5,000+ students from underrepresented backgrounds
 - Burnout rates in community behavioral health settings declining toward 30% (from 40-60%)
 - Turnover in CCBHCs stabilized at 18-22% (vs. 30-40% in traditional CMHCs)
 - Five-year NHSC retention rate increasing from 55% toward 70% through Career NHSC track
 - All 50 states participating in PSYPACT and Counseling Compact
+- Community-based clinical training sites funded in every state
 
 ---
 
@@ -192,6 +220,19 @@ The implementation roadmap spans multiple federal agencies (HRSA, SAMHSA, CMS, D
 - States receiving enhanced CCBHC matching funds must report annually on staffing levels, compensation, turnover, and patient access metrics
 - HRSA conditions NHSC expansion funding on state participation in interstate licensing compacts
 - SAMHSA conditions block grant funding on state adoption of peer specialist certification and Medicaid reimbursement
+- States must submit annual workforce supply reports to HRSA using standardized metrics, enabling national tracking of progress and identification of persistent shortage areas
+- Enhanced federal Medicaid matching for behavioral health is conditional on states meeting the reimbursement floor and participating in interstate licensing compacts
+
+### Accountability Triggers
+
+The roadmap includes automatic accountability triggers that compel action if milestones are missed:
+
+| Trigger Condition | Automatic Response |
+|-------------------|-------------------|
+| Mental Health HPSA count does not decrease by 10% in any 2-year period | HRSA convenes emergency workforce review; Congress receives mandatory report with corrective recommendations |
+| Clinician burnout rate exceeds 50% in any region for 2 consecutive years | SAMHSA redirects 10% of block grant funding to burnout reduction in affected region |
+| NHSC 5-year retention rate falls below 50% | HRSA reviews and adjusts retention incentive structure within 6 months |
+| Any state Medicaid behavioral health rate falls below 80% of Medicare for 2 consecutive years | CMS withholds enhanced matching funds until compliance is restored |
 
 ---
 
@@ -246,6 +287,26 @@ The implementation roadmap spans multiple federal agencies (HRSA, SAMHSA, CMS, D
 **Mitigation Strategy**: Begin pipeline investments at the undergraduate level to shorten time to impact. Fund bridge programs that accelerate entry into graduate training for underrepresented students. Invest simultaneously in faculty diversity, since diverse faculty are the most effective recruiters and mentors for diverse students.
 
 **Contingency Plan**: Supplement pipeline programs with aggressive recruitment of internationally trained behavioral health professionals, particularly from countries with training programs compatible with U.S. licensing. Expand the J-1 visa waiver program for behavioral health professionals committing to HPSA service.
+
+### Risk 6: Telehealth Flexibilities Expire Before Permanent Authorization
+
+**Likelihood**: Medium
+
+**Impact**: High
+
+**Mitigation Strategy**: Pursue permanent telehealth authorization for behavioral health as a standalone bill or amendment to must-pass legislation (annual appropriations, NDAA). The broad bipartisan support for behavioral health telehealth, combined with the political popularity of the 988 system, creates strong legislative conditions.
+
+**Contingency Plan**: If permanent authorization stalls, use HRSA administrative authority to maximize telehealth within the NHSC and CCBHC programs, and support state-level telehealth legislation in states with the most acute shortages.
+
+### Risk 7: Economic Downturn Reduces Political Appetite for New Spending
+
+**Likelihood**: Medium
+
+**Impact**: High
+
+**Mitigation Strategy**: Emphasize the economic return on workforce investment: every $1 invested in behavioral health workforce produces an estimated $4-7 in economic value through reduced disability, incarceration, emergency care, and lost productivity (Lancet Commission, 2024). Position workforce investment as economic stimulus rather than social spending.
+
+**Contingency Plan**: Prioritize reforms with minimal direct federal cost (scope-of-practice modernization, licensing compacts, telehealth permanence) while maintaining advocacy for larger investments. Use CCBHC and NHSC data to demonstrate cost-effectiveness.
 
 ---
 

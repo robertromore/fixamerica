@@ -64,6 +64,15 @@ This roadmap assumes bipartisan legislative action building on the Bipartisan Sa
 
 Phase 1 establishes the financial and regulatory framework for national CCBHC implementation. By the end of Year 2, all 50 states will have either adopted the CCBHC Medicaid State Plan Amendment or initiated planning. The 988 crisis system will achieve reliable nationwide operation. The workforce pipeline will begin producing additional providers for underserved areas, though the full impact of loan repayment expansion takes 3-5 years to materialize. Early-adopting CCBHCs will demonstrate outcomes consistent with the demonstration program: reduced ED visits, reduced jail bookings, and reduced wait times.
 
+### Phase 1 Critical Dependencies
+
+| Dependency | Risk if Not Met | Mitigation |
+|---|---|---|
+| Congressional enactment of enhanced FMAP | Slower state adoption; continued geographic gaps | Build bipartisan coalition using CCBHC demonstration data; attach to must-pass legislation |
+| CMS actuarial capacity for PPS rate-setting | Inadequate rates undermine clinic viability | Fund CMS actuarial staff expansion; provide state technical assistance |
+| State political will for SPA adoption | Non-adopting states leave populations underserved | Target governors and Medicaid directors in persuadable states; leverage bipartisan success stories |
+| Workforce availability for new CCBHC services | Clinics cannot provide required services | Simultaneous NHSC expansion; telehealth integration for psychiatry |
+
 ---
 
 ## Phase 2: Scaling and Integration (Years 3-5)
@@ -99,6 +108,18 @@ Phase 1 establishes the financial and regulatory framework for national CCBHC im
 
 Phase 2 achieves critical mass in CCBHC coverage, with 1,500+ clinics ensuring that most Americans are within reasonable distance of comprehensive community behavioral health services. ACT teams serve a significantly larger share of the SMI population. Primary care-behavioral health integration becomes the norm rather than the exception. Housing stability improves for individuals with SMI through structured partnerships between community mental health and housing providers. The crisis continuum operates in most communities, reducing reliance on emergency departments and law enforcement for mental health emergencies.
 
+### Phase 2 Equity Focus
+
+Phase 2 implementation must prioritize equity to prevent the historical pattern of community mental health expansion that benefits primarily white, urban, and insured populations while leaving minority, rural, and uninsured communities behind.
+
+| Equity Target | Action | Metric |
+|---|---|---|
+| Racial/ethnic disparities in treatment rates | Require CCBHCs to report treatment rates by race/ethnicity; fund culturally and linguistically competent workforce | Narrow white-Black treatment gap from 18.5 pp to <10 pp |
+| Rural access gaps | Prioritize CCBHC certification and ACT team deployment in rural mental health HPSAs | Reduce rural wait times from 48 days to <15 days |
+| Tribal community access | Fund CCBHC certification for tribal behavioral health organizations; expand IHS behavioral health budget | CCBHC services available in all IHS service areas |
+| LGBTQ+ competency | Require CCBHC staff training in LGBTQ+ mental health; fund affirming services | 50%+ of CCBHCs with designated LGBTQ+ competency |
+| Language access | Require interpretation services in all CCBHCs; fund bilingual provider recruitment | Language-concordant care available in all CCBHCs serving communities with >5% LEP population |
+
 ---
 
 ## Phase 3: Universal Access and Sustainability (Years 6-10)
@@ -126,6 +147,20 @@ Phase 2 achieves critical mass in CCBHC coverage, with 1,500+ clinics ensuring t
 ### Expected Outcomes
 
 Phase 3 completes the community mental health transformation that deinstitutionalization promised but never delivered. Every American lives within 30 minutes of a CCBHC or equivalent facility. Individuals with serious mental illness have access to ACT teams, crisis services, housing, and recovery supports. The workforce crisis has been resolved through sustained investment. Payment models reward outcomes, creating durable incentives for quality and innovation. The United States has, for the first time, a community mental health infrastructure commensurate with the burden of mental illness.
+
+### Phase 3 Value-Based Payment Transition
+
+The transition from Prospective Payment System to value-based supplements represents the final evolution of community mental health financing:
+
+| Payment Element | Phase 1-2 (PPS) | Phase 3 (PPS + Value-Based) |
+|---|---|---|
+| Base payment | Prospective cost-based rate | Prospective cost-based rate (maintained) |
+| Quality incentive | None | 5-10% bonus for meeting quality thresholds |
+| Outcome bonus | None | Up to 5% bonus for improved client outcomes |
+| Shared savings | None | Share in cross-system savings (ED, jail, housing) |
+| Penalty | None | Gradual reduction in quality bonus for non-reporting |
+
+The value-based overlay is designed to reward outcomes without creating the perverse incentives that have plagued value-based payment in other healthcare settings (e.g., cherry-picking healthier patients, gaming quality measures). The PPS base rate is maintained to ensure financial stability; value-based supplements are additive, not substitutive.
 
 ---
 
@@ -194,9 +229,19 @@ Phase 3 completes the community mental health transformation that deinstitutiona
 
 **Mitigation Strategy**: Annual public reporting on community mental health outcomes maintains visibility. Bipartisan coalition building ensures that reform does not depend on single-party support. Criminal justice and law enforcement allies provide cross-ideological advocacy.
 
-**Contingency Plan**: Build mandatory reporting and automatic funding adjustments into authorizing legislation to reduce dependence on annual appropriations decisions.
+**Contingency Plan**: Build mandatory reporting and automatic funding adjustments into authorizing legislation to reduce dependence on annual appropriations decisions. Establish community mental health as a "must-fund" priority through Medicaid entitlement mechanisms (PPS) rather than discretionary appropriations that are subject to annual political negotiation.
 
-### Risk 5: Cross-System Savings Not Captured
+### Risk 5: Equity Gaps Persist Despite System Expansion
+
+**Likelihood**: High
+
+**Impact**: High
+
+**Mitigation Strategy**: Require all CCBHCs to report access and outcome data disaggregated by race, ethnicity, language, and geography. Fund culturally and linguistically competent workforce recruitment. Prioritize CCBHC certification in underserved communities of color, tribal service areas, and rural regions.
+
+**Contingency Plan**: If racial/ethnic treatment gaps do not narrow by Year 3, implement targeted equity grants for CCBHCs serving communities with the largest disparities. Mandate community advisory boards with demographic representation matching the service area population.
+
+### Risk 6: Cross-System Savings Not Captured
 
 **Likelihood**: High
 
@@ -228,6 +273,24 @@ Phase 3 completes the community mental health transformation that deinstitutiona
 - **Technology**: Certified EHR systems for 2,000+ CCBHCs; Health Information Exchange connectivity between CCBHCs, hospitals, primary care, and criminal justice systems; broadband infrastructure for rural telehealth
 - **Facilities**: Crisis stabilization facilities in all communities; CCBHC facility construction and renovation where needed; supported housing units linked to CCBHC services
 - **Data Systems**: National community mental health outcomes dashboard; standardized quality measurement and reporting infrastructure; cross-system data matching for outcome tracking
+
+## Comparison to Historical Precedents
+
+### Lessons from FQHC Expansion
+
+The CCBHC expansion roadmap draws parallels to the successful scaling of Federally Qualified Health Centers (FQHCs), which grew from approximately 600 in 1990 to over 1,375 today, serving 30+ million patients annually. Key lessons from FQHC expansion:
+
+| FQHC Lesson | Application to CCBHC Roadmap |
+|---|---|
+| Section 330 grant funding provided stable federal support | CCBHC PPS + SAMHSA grants provide analogous dual-stream funding |
+| Cost-based reimbursement (FQHC PPS) ensured financial viability | CCBHC PPS modeled on FQHC payment methodology |
+| HRSA-managed technical assistance network supported growth | SAMHSA/National Council TA network serves similar function for CCBHCs |
+| FQHC Look-Alike designation allowed expansion beyond grant limits | CCBHC certification without grant funding (via Medicaid SPA only) serves similar function |
+| Bipartisan political support sustained funding across administrations | CCBHC bipartisan track record (Stabenow-Blunt; Bipartisan Safer Communities Act) provides analogous durability |
+
+### Risks of the HITECH Parallel
+
+The proposed Community Behavioral Health Technology fund is modeled on the HITECH Act of 2009. HITECH successfully drove EHR adoption from 12% to 86% in hospitals and physician practices. However, HITECH also produced unintended consequences: vendor consolidation, usability problems, and clinician burden from documentation requirements. The CCBHC technology roadmap must learn from these pitfalls by requiring user-centered EHR design, ensuring interoperability standards, and avoiding documentation requirements that detract from clinical care.
 
 ---
 

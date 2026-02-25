@@ -23,6 +23,10 @@ The landscape of suicide prevention is shaped by the interactions of federal age
 - **School communities**: Teachers, counselors, and students affected by youth suicidal behavior; 3,000+ school-age suicides annually
 - **Employers and coworkers**: Workplace suicide and suicidal behavior affects productivity, morale, and organizational health; estimated $510 billion annual economic cost (CDC, 2022)
 - **First responders**: Police, firefighters, and EMS workers who respond to suicide scenes face elevated trauma exposure and personal suicide risk; law enforcement suicide rate is estimated at 17 per 100,000 (Blue H.E.L.P., 2023)
+- **Healthcare providers**: Clinicians who lose patients to suicide experience significant psychological distress; an estimated 50% of psychiatrists and 20% of psychologists lose at least one patient to suicide during their careers (Chemtob et al., *Professional Psychology*, 1988; updated estimates suggest higher rates). Provider grief and liability fears influence clinical practice patterns.
+- **Faith communities**: Religious leaders and congregations serve as de facto first points of contact for individuals in distress in many communities, particularly in rural and underserved areas. An estimated 25% of Americans seeking help for emotional problems approach a clergy member first (Wang et al., *Archives of General Psychiatry*, 2003).
+- **Tribal communities**: Beyond individual AI/AN families, entire tribal nations experience collective grief from elevated suicide rates that destabilize communities, overwhelm tribal health systems, and threaten cultural continuity. Suicide clusters in tribal communities can affect entire generations.
+- **Incarcerated populations and their families**: Individuals in jails and prisons face suicide rates 3-5 times the general population, and their families face the compounded trauma of loss occurring within a custodial setting where they had no ability to intervene.
 
 ## Who Has Power
 
@@ -55,6 +59,10 @@ The landscape of suicide prevention is shaped by the interactions of federal age
 - **Media organizations**: News outlets, entertainment companies, and social media platforms shape public understanding through coverage decisions and content moderation; adherence to safe messaging guidelines varies widely
 - **Academic researchers**: Suicidology researchers at institutions including Columbia, Harvard, and the University of Colorado produce the evidence base for policy but often face long timelines between publication and implementation
 - **Technology companies (Meta, Google, TikTok)**: Control algorithms and content moderation policies affecting exposure to self-harm content for millions of young users; face growing regulatory scrutiny
+- **Insurance industry**: Health insurance companies and pharmacy benefit managers shape access to mental health treatment through network adequacy, prior authorization requirements, and reimbursement rates; their compliance (or non-compliance) with the Mental Health Parity and Addiction Equity Act determines whether patients can access care
+- **Pharmaceutical industry**: Manufacturers of antidepressants, antipsychotics, and other psychiatric medications influence treatment patterns through marketing, pricing, and research funding; the FDA's 2004 black box warning on antidepressants for youth remains controversial for its impact on prescribing patterns and help-seeking
+- **State attorneys general**: Increasingly active in enforcing mental health parity laws, investigating social media companies' impact on youth mental health, and defending ERPO statutes against legal challenges
+- **Veteran service organizations (VSOs)**: Organizations such as the American Legion, Veterans of Foreign Wars (VFW), and Iraq and Afghanistan Veterans of America (IAVA) serve as both service providers and powerful legislative advocates. The American Legion alone has approximately 1.6 million members and maintains the largest network of veteran service officers assisting with VA claims and benefits navigation
 
 ## Stakeholder Interests and Alignment
 
@@ -75,6 +83,24 @@ The landscape of suicide prevention is shaped by the interactions of federal age
 - **Privacy advocates vs. screening proponents**: Expanded suicide screening in healthcare generates data that could be used for insurance discrimination, firearms background checks, or employment decisions; privacy concerns deter help-seeking among some at-risk groups
 - **State sovereignty advocates vs. federal standards**: Some states resist federal mandates for 988 funding, ERPO implementation, or screening requirements, preferring local control even when it results in uneven access
 - **Media freedom advocates vs. safe messaging proponents**: First Amendment protections limit the ability to regulate how media covers suicide, creating tension between preventing contagion and preserving press freedom
+- **Healthcare cost containment vs. comprehensive coverage**: Insurers seek to minimize behavioral health costs through narrow networks and prior authorization; providers and patients advocate for parity enforcement and expanded access
+- **Law enforcement vs. mental health crisis response**: Police departments have traditionally responded to mental health crises, including suicidal behavior, but are often poorly equipped for this role; the 988/mobile crisis team model redirects crisis response to mental health professionals, which some law enforcement agencies welcome and others resist as encroachment on their jurisdictional authority
+
+### Congressional Committee Jurisdiction
+
+Suicide prevention policy is fragmented across multiple Congressional committees, reflecting the cross-cutting nature of the issue:
+
+| Committee | Jurisdiction | Key Actors |
+|---|---|---|
+| Senate HELP Committee | SAMHSA authorization, mental health policy, workforce | Chair and Ranking Member |
+| House Energy and Commerce | SAMHSA, CDC, CMS, FTC rulemaking, 988 infrastructure | Health and Commerce Subcommittees |
+| Senate/House Appropriations (Labor-HHS) | Annual funding for SAMHSA, CDC, HRSA, NIH | Subcommittee Chairs |
+| Senate/House Veterans Affairs | VA suicide prevention programs, Veterans Crisis Line | Full committee jurisdiction |
+| Senate/House Armed Services | DoD suicide prevention, military transition | Personnel Subcommittees |
+| Senate/House Judiciary | ERPO legislation, firearm policy, constitutional issues | Firearms-related jurisdiction |
+| Senate/House Indian Affairs | IHS funding, tribal mental health programs | Full committee jurisdiction |
+
+This jurisdictional fragmentation means that no single committee has oversight of the complete suicide prevention portfolio. Legislation often requires coordination across committees, creating procedural obstacles to comprehensive reform.
 
 ### The Prevention Infrastructure Triangle
 
@@ -90,6 +116,34 @@ The power structure in suicide prevention creates a triangle of interdependence:
 
 Each level depends on the others: federal agencies set standards and provide funding; states enact legislation and distribute resources; local providers deliver services. Failure at any level undermines the entire system. The current breakdown occurs primarily at the state level, where funding mechanisms for 988 remain voluntary and inconsistent, and at the local level, where workforce shortages prevent reliable service delivery.
 
+## Key Organizational Profiles
+
+### American Foundation for Suicide Prevention (AFSP)
+
+- **Founded**: 1987
+- **Annual Budget**: ~$40 million (2023)
+- **Research Funding**: ~$6 million annually (largest private funder of suicide prevention research)
+- **Advocacy Network**: Active in all 50 states; Over 500,000 participants in Out of the Darkness walks annually
+- **Key Programs**: Research grants, Out of the Darkness community and campus walks, Field Advocacy Network, Interactive Screening Program for workplaces and colleges, Gun Shop Project (with NSSF)
+- **Policy Priorities**: 988 funding, federal ERPO legislation, mental health parity enforcement, school-based prevention
+
+### Vibrant Emotional Health
+
+- **Role**: Administers the 988 Suicide and Crisis Lifeline under SAMHSA contract
+- **Network**: Coordinates over 200 local crisis centers nationwide
+- **Key Functions**: Call routing and backup, quality standards, training, data collection and reporting
+- **Annual 988 Contact Volume**: 5.5 million (first full year)
+- **Challenges**: Managing rapid growth in contact volume while improving answer rates and reducing wait times across a heterogeneous network of local centers
+
+### The Trevor Project
+
+- **Founded**: 1998
+- **Focus**: LGBTQ+ youth crisis intervention and suicide prevention
+- **24/7 Services**: TrevorLifeline, TrevorText, TrevorChat
+- **Annual Contacts**: Over 300,000 crisis contacts (2023)
+- **Research**: Conducts the largest annual survey of LGBTQ+ youth mental health (34,000+ respondents in 2023)
+- **Advocacy**: Active in state legislatures opposing anti-LGBTQ+ legislation and supporting affirming school environments
+
 ## Influence Mechanisms
 
 How stakeholders exert influence on suicide prevention policy:
@@ -99,6 +153,44 @@ How stakeholders exert influence on suicide prevention policy:
 - **Grassroots Advocacy**: AFSP's Out of the Darkness walks engage over 500,000 participants annually and generate constituent contacts with every member of Congress. NAMI's 600+ affiliates provide local advocacy infrastructure. The Trevor Project mobilizes youth advocates through social media campaigns reaching millions.
 - **Public Advocacy**: Celebrity disclosures of mental health struggles (e.g., athletes, entertainers) have measurably increased crisis line volume and reduced stigma. Media campaigns such as the "Seize the Awkward" initiative (funded by AFSP, Ad Council, and JED Foundation) target young adults.
 - **Expertise and Data**: Academic researchers and federal agencies control the evidence base. Publication of annual reports (VA Suicide Prevention Report, CDC WISQARS data) drives media coverage and shapes policy debates. The Means Matter project at Harvard has been particularly influential in educating policymakers about firearm suicide prevention.
+- **Litigation**: The Second Amendment Foundation and other gun rights organizations challenge ERPO laws, waiting periods, and storage requirements through constitutional litigation. Conversely, gun violence prevention organizations (Giffords, Everytown) file amicus briefs defending these policies and initiate legal actions to enforce mental health parity. State attorneys general have increasingly used consumer protection authority to investigate social media companies' impact on youth mental health.
+
+## Stakeholder Mapping: Power vs. Interest
+
+```text
+HIGH POWER, HIGH INTEREST:
+  - U.S. Congress (funding, legislation)
+  - SAMHSA (988 operations, grants)
+  - VA (veteran suicide prevention)
+  - NRA/gun rights organizations (opposing means restriction)
+
+HIGH POWER, LOWER INTEREST:
+  - CMS/Medicare/Medicaid (indirect via reimbursement)
+  - Insurance companies (parity compliance)
+  - Technology companies (content moderation)
+
+LOWER POWER, HIGH INTEREST:
+  - AFSP (advocacy, research)
+  - Suicide loss survivors (personal stake)
+  - Attempt survivors (personal stake)
+  - The Trevor Project (LGBTQ+ youth)
+  - Crisis center workers (direct service)
+
+LOWER POWER, LOWER INTEREST:
+  - General public (until personally affected)
+  - Employers (until workplace incident)
+```
+
+The core dynamic in suicide prevention politics is that the stakeholders with the highest personal interest (loss survivors, attempt survivors, crisis workers) have less institutional power than those with competing interests (gun rights organizations, insurance companies). Effective advocacy requires translating personal experience into organized political power, a process that AFSP, NAMI, and the Trevor Project have increasingly mastered.
+
+## Emerging Stakeholders
+
+Several stakeholder groups have gained influence in recent years:
+
+- **Artificial Intelligence and Health Technology Companies**: Companies developing predictive suicide risk algorithms (e.g., the VA's REACH VET system, Epic's suicide risk flag) are becoming powerful players in determining how healthcare systems identify and respond to at-risk patients. Their algorithms influence clinical workflow, resource allocation, and patient experience, yet face limited oversight.
+- **Social Media Platform Trust and Safety Teams**: The employees and contractors responsible for content moderation at Meta, TikTok, YouTube, and other platforms make daily decisions affecting exposure to self-harm content for millions of users. Their internal policies, often opaque to outside scrutiny, have measurable effects on youth mental health.
+- **State 988 Administrators**: As states implement 988 infrastructure, a new class of state-level administrators has emerged with significant influence over crisis services design, funding allocation, and quality standards. These officials shape the crisis response experience for millions of Americans.
+- **Peer Support Specialists**: The growing professionalization of peer support -- individuals with lived experience of mental health crises who provide structured support to others -- has created a new stakeholder group advocating for expanded scope of practice, certification standards, and reimbursement parity.
 
 ---
 

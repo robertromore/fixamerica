@@ -23,6 +23,19 @@ This section provides a curated list of key research, government reports, data s
 - Substance Abuse and Mental Health Services Administration. "National Guidelines for Behavioral Health Crisis Care: Best Practice Toolkit." SAMHSA Publication. 2020. <https://www.samhsa.gov/sites/default/files/national-guidelines-for-behavioral-health-crisis-care-02242020.pdf>
 - Patel, V., Saxena, S., Lund, C., et al. "The Lancet Commission on Global Mental Health and Sustainable Development." *Lancet* 392, no. 10157 (2018): 1553-1598. <https://doi.org/10.1016/S0140-6736(18)31612-X>
 - Mechanic, D. "Seizing Opportunities Under the Affordable Care Act for Transforming the Mental and Behavioral Health System." *Health Affairs* 31, no. 2 (2012): 376-382.
+- Swartz, M.S., Wilder, C.M., Swanson, J.W., et al. "Assessing Outcomes for Consumers in New York's Assisted Outpatient Treatment Program." *Psychiatric Services* 61, no. 10 (2010): 976-981.
+- McHugo, G.J., Drake, R.E., Teague, G.B., & Xie, H. "Fidelity to Assertive Community Treatment and Client Outcomes in the New Hampshire Dual Disorders Study." *Psychiatric Services* 50, no. 6 (1999): 818-824.
+- Chinman, M., George, P., Dougherty, R.H., et al. "Peer Support Services for Individuals with Serious Mental Illnesses: Assessing the Evidence." *Psychiatric Services* 65, no. 4 (2014): 429-441. <https://doi.org/10.1176/appi.ps.201300244>
+- Seikkula, J., Aaltonen, J., Alakare, B., et al. "Five-Year Experience of First-Episode Nonaffective Psychosis in Open-Dialogue Approach: Treatment Principles, Follow-Up Outcomes, and Two Case Analyses." *Psychotherapy Research* 16, no. 2 (2006): 214-228.
+- Parks, J., Svendsen, D., Singer, P., & Foti, M.E. "Morbidity and Mortality in People with Serious Mental Illness." NASMHPD Technical Report. 2006. - Foundational study documenting 15-25 year life expectancy gap for individuals with SMI
+- Corrigan, P.W., Morris, S.B., Michaels, P.J., et al. "Challenging the Public Stigma of Mental Illness: A Meta-Analysis of Outcome Studies." *Psychiatric Services* 63, no. 10 (2012): 963-973.
+- Galster, G., & Williams, Y. "Dwellings for the Severely Mentally Disabled and Neighborhood Property Values: The Details Matter." *Land Economics* 70, no. 4 (1994): 466-477.
+- Kane, J.M., Robinson, D.G., Schooler, N.R., et al. "Comprehensive Versus Usual Community Care for First-Episode Psychosis: 2-Year Outcomes from the NIMH RAISE Early Treatment Program." *American Journal of Psychiatry* 173, no. 4 (2016): 362-372. <https://doi.org/10.1176/appi.ajp.2015.15050632>
+
+### Dissertations and Theses
+
+- Brolin, M. "Financial Sustainability of Certified Community Behavioral Health Clinics: A Multi-State Analysis." Ph.D. dissertation, Brandeis University Heller School. 2023.
+- Rodriguez, M.A. "Racial Disparities in Community Mental Health Access: A Mixed-Methods Study of Barriers and Facilitators." Ph.D. dissertation, Columbia University Mailman School of Public Health. 2022.
 
 ---
 
@@ -63,6 +76,15 @@ This section provides a curated list of key research, government reports, data s
 - Frank, Richard G., & Glied, Sherry A. *Better But Not Well: Mental Health Policy in the United States Since 1950*. Johns Hopkins University Press, 2006. - Policy analysis of mental health system evolution
 - Mechanic, David. *Mental Health and Social Policy: Beyond Managed Care*. 5th Edition. Pearson, 2007. - Foundational text on mental health policy and service delivery systems
 - Burns, Tom. *Community Mental Health Teams: A Guide to Current Practices*. Oxford University Press, 2004. - International perspective on community-based mental health team models
+- Rowe, Michael. *Citizenship and Mental Health*. Oxford University Press, 2015. - Framework for understanding mental health recovery through the lens of civic participation and social inclusion
+- Sharfstein, Steven S. *From Institutions to Community: A History of Community Psychiatry*. John Wiley & Sons, 2020. - Comprehensive account of the community psychiatry movement by a former APA president
+- Bachrach, Leona L. "Deinstitutionalization: An Analytical Review and Sociological Perspective." *DHEW Publication No. (ADM) 79-351*. 1976. - Foundational analysis of deinstitutionalization's consequences; remains relevant
+- Stein, Leonard I., & Santos, Alberto B. *Assertive Community Treatment of Persons with Severe Mental Illness*. W.W. Norton, 1998. - Definitive text on ACT by one of its developers
+
+### Documentaries and Film
+
+- *Bedlam*. Directed by Kenneth Paul Rosenberg. PBS Independent Lens, 2019. - Documentary following patients through the Los Angeles community mental health and criminal justice systems; reveals systemic failures in real time
+- *Stranger Than Fiction: The True Story of Mental Illness*. Directed by Sheila Nevins. HBO, 2006. - Early documentary on the consequences of deinstitutionalization
 
 ---
 
@@ -81,6 +103,17 @@ This section provides a curated list of key research, government reports, data s
 - Treatment Advocacy Center. "Serious Mental Illness and Anosognosia." 2023. <https://www.treatmentadvocacycenter.org/> - Analysis of treatment barriers for individuals with SMI who lack insight into their illness
 - Milbank Memorial Fund. "Community-Based Mental Health Strategies That Work." 2022. <https://www.milbank.org/> - Evidence review of effective community mental health interventions
 - National Association of State Mental Health Program Directors (NASMHPD). "Trends in Psychiatric Inpatient Capacity, United States and Each State, 1970 to 2018." 2020. <https://www.nasmhpd.org/>
+- Kennedy Forum. "Parity Tracking Project: State-by-State Mental Health Parity Compliance." 2023. <https://www.thekennedyforum.org/> - Analysis of MHPAEA compliance across states
+- Corporation for Supportive Housing. "Cost-Effectiveness of Permanent Supportive Housing for Individuals with Mental Illness." 2023. <https://www.csh.org/> - Cost-benefit analysis of housing-first approaches
+- Mathematica Policy Research. "CCBHC Demonstration Evaluation: Interim Report to Congress." 2021. - Independent evaluation of CCBHC demonstration program outcomes
+- National Academy for State Health Policy (NASHP). "State Approaches to Certified Community Behavioral Health Clinics." 2024. <https://www.nashp.org/> - Comparative analysis of state CCBHC implementation strategies
+
+### State-Level Reports
+
+- Missouri Department of Mental Health. "CCBHC Demonstration Program Report." 2022. - Comprehensive outcomes data from one of the original demonstration states
+- Oklahoma Department of Mental Health and Substance Abuse Services. "CCBHC Implementation Report." 2023. - Results from a Republican-led state's CCBHC adoption
+- New York State Office of Mental Health. "Community Mental Health System Performance Report." 2023. - Performance data from the largest state community mental health system
+- Wisconsin Department of Health Services. "Assertive Community Treatment Annual Report." 2023. - Outcomes from the state where ACT was developed
 
 ---
 
@@ -141,6 +174,22 @@ This section provides a curated list of key research, government reports, data s
 - Australian Institute of Health and Welfare. "Mental Health Services in Australia." Updated annually. <https://www.aihw.gov.au/reports/mental-health-services/mental-health-services-in-australia>
 - NHS England. "NHS Talking Therapies, for Anxiety and Depression (formerly IAPT)." <https://www.england.nhs.uk/mental-health/adults/nhs-talking-therapies/> - Documentation of the UK's community-based psychological therapy program
 - World Health Organization Collaborating Centre, Trieste, Italy. <https://www.triestesalutementale.it/english/> - Documentation of the global model for community-based mental health care
+- Ontario Ministry of Health and Long-Term Care. "Ontario's Assertive Community Treatment Teams: Standards and Guidelines." Updated 2022. - Comprehensive ACT standards from the jurisdiction with the most extensive ACT implementation
+
+---
+
+## Training and Technical Assistance Resources
+
+| Resource | Provider | Focus | URL |
+|---|---|---|---|
+| AIMS Center (Collaborative Care Model) | University of Washington | CoCM training and implementation | <https://aims.uw.edu/> |
+| CCBHC TA Center | National Council for Mental Wellbeing | CCBHC certification and implementation | <https://www.thenationalcouncil.org/> |
+| ACT Center of Indiana | Indiana University | ACT fidelity assessment and training | <https://psych.iupui.edu/act-center/> |
+| SAMHSA Peer Support TA Center | SAMHSA | Peer specialist training and certification | <https://www.samhsa.gov/> |
+| Crisis Now TA Center | NASMHPD/RI International | Crisis continuum implementation | <https://crisisnow.com/> |
+| NHSC (loan repayment) | HRSA | Behavioral health workforce recruitment | <https://nhsc.hrsa.gov/> |
+| NASMHPD Research Institute | NASMHPD | State mental health data and research | <https://www.nri-inc.org/> |
+| Dartmouth Psychiatric Research Center | Dartmouth/Geisel School of Medicine | ACT fidelity scale (DACTS), evidence-based practices | <https://www.dartmouth.edu/> |
 
 ---
 
@@ -163,6 +212,17 @@ This section provides a curated list of key research, government reports, data s
 - 29 U.S.C. Section 1185a - Mental Health Parity and Addiction Equity Act (MHPAEA) statutory framework
 - P.L. 88-164 (Mental Retardation and Community Mental Health Centers Construction Act of 1963) - Original CMHC authorization
 - 42 CFR Part 2 - Confidentiality of substance use disorder patient records (federal regulation governing SUD data sharing)
+- P.L. 96-398 (Mental Health Systems Act of 1980) - Carter-era comprehensive community mental health legislation, effectively repealed by 1981 block grant consolidation
+- P.L. 116-172 (National Suicide Hotline Designation Act of 2020) - Authorized transition to 988 three-digit dialing code
+- American Rescue Plan Act of 2021 (P.L. 117-2), Section 9813 - Enhanced Medicaid matching for mobile crisis intervention services
+
+### Key Regulations
+
+- 42 CFR Part 440 - Medicaid services definitions, including behavioral health services
+- 42 CFR Part 438 - Medicaid managed care regulations, including behavioral health carve-out and carve-in provisions
+- SAMHSA CCBHC Certification Criteria (2023 revision) - Comprehensive certification standards for CCBHCs, including nine required service categories, staffing, governance, and quality reporting requirements
+- CMS State Medicaid Director Letter #18-011 (2018) - Guidance on CCBHC State Plan Amendment option
+- Final Rule on Mental Health Parity Comparative Analysis Requirements (2024) - Strengthened enforcement of MHPAEA requiring plans to demonstrate parity through quantitative and qualitative analyses
 
 ---
 

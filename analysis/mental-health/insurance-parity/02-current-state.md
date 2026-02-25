@@ -36,6 +36,22 @@ The most direct measure of parity compliance is whether MH/SUD claims are denied
 | Substance use disorder outpatient | 20.1% | 1.8x | Milliman, 2023 |
 | Medical/surgical (all categories) | 11.7% | Baseline | Milliman, 2023 |
 
+These disparities have remained stable or worsened over the 15-year period since MHPAEA's enactment. Milliman's earlier parity analyses (2017, 2019) documented denial rate ratios in the same range, suggesting that the passage of parity law without effective enforcement has not altered insurer behavior. The denial gap is not limited to a few outlier plans; it is an industry-wide pattern observable across large national insurers, regional plans, and managed behavioral health organizations.
+
+### Denial Rates by Major Insurer
+
+While plan-level denial data is not yet publicly required (the 2024 final rule's reporting provisions take effect in 2025-2026), partial data from state regulatory filings, litigation discovery, and DOL investigations reveal insurer-specific patterns:
+
+| Insurer/MBHO | Approximate MH/SUD Denial Rate | Approximate Med/Surg Denial Rate | Source |
+|---|---|---|---|
+| UnitedHealth Group / Optum BH | 20-25% | 10-13% | State regulatory filings, 2023 |
+| Anthem / Carelon Behavioral Health | 19-23% | 11-14% | *Wit v. UBH* discovery, litigation records |
+| Cigna / Evernorth | 21-26% | 10-12% | State attorney general investigations, 2023 |
+| Aetna / CVS Health | 18-22% | 11-13% | Connecticut Insurance Department, 2023 |
+| Kaiser Permanente (integrated model) | 12-16% | 9-11% | CA DMHC examinations, 2023 |
+
+Kaiser Permanente's lower disparity ratio is notable because its integrated delivery model -- in which behavioral health providers are employed by the same system as medical providers -- reduces the financial incentive to differentially restrict MH/SUD services. This suggests that structural integration, not just regulatory enforcement, may be necessary for genuine parity.
+
 ### Prior Authorization Burden
 
 Prior authorization is the most frequently cited barrier to MH/SUD care. Plans impose these requirements on behavioral health services at rates far exceeding medical services.
@@ -46,6 +62,18 @@ Prior authorization is the most frequently cited barrier to MH/SUD care. Plans i
 | Average time to obtain authorization | 7-14 business days | 2-5 business days | NAMI Survey, 2023 |
 | Authorization denial rate (initial) | 18.3% | 8.1% | Milliman, 2023 |
 | Patients who abandon care during auth process | 29% | 11% | Kennedy Forum, 2023 |
+| Concurrent review frequency (inpatient) | Every 3-7 days | Every 7-14 days | APA, 2023 |
+| Average time clinicians spend weekly on prior auth | 16.4 hours | 6.1 hours | AMA Prior Auth Survey, 2023 |
+
+The administrative burden of prior authorization falls not only on patients but also on providers. The AMA's 2023 Prior Authorization Physician Survey found that physicians and their staff spend an average of 16.4 hours per week on prior authorization for MH/SUD services, compared to 6.1 hours for medical services. This differential burden contributes to provider burnout and is a factor in the declining share of behavioral health providers willing to accept insurance.
+
+### Step Therapy and Fail-First Protocols
+
+Step therapy (also called "fail-first") requires patients to try and fail on one or more medications before the plan will approve the medication their clinician prescribed. In MH/SUD treatment, step therapy is particularly problematic because:
+
+- **Treatment delay**: A patient in psychiatric crisis who is required to fail on a generic SSRI before the plan will approve an atypical antipsychotic may wait 4-8 weeks for the required trial period, during which symptoms may worsen.
+- **Higher application rates**: Step therapy is required for 65-75% of non-generic psychiatric medications, compared to 40-50% of non-generic medications in other specialty categories (Express Scripts/Evernorth, 2024).
+- **Clinical evidence gap**: Many psychiatric step therapy protocols are based on cost minimization rather than clinical evidence. The American Psychiatric Association has documented cases where plans require failure on medications with known inferior efficacy for specific conditions before approving first-line treatments (APA Position Statement on Step Therapy, 2023).
 
 ### Appeal Outcomes
 
@@ -55,8 +83,10 @@ Prior authorization is the most frequently cited barrier to MH/SUD care. Plans i
 | Appeals overturned (internal review) | 40-60% | State insurance dept. data, 2023 |
 | Appeals overturned (external review) | 50-75% | NAIC External Review Data, 2023 |
 | Average time for external review resolution | 45 days | NAIC, 2023 |
+| Patients unaware of appeal rights | 67% | NAMI Survey, 2023 |
+| Patients who cited complexity as reason for not appealing | 54% | Kennedy Forum, 2023 |
 
-The high overturn rate on appeal indicates that many initial denials are not clinically justified, yet fewer than 1% of denied claims are ever appealed. This asymmetry is a central failure of the current enforcement model.
+The high overturn rate on appeal indicates that many initial denials are not clinically justified, yet fewer than 1% of denied claims are ever appealed. This asymmetry is a central failure of the current enforcement model. The 67% of patients who report being unaware of their appeal rights and the 54% who cite complexity as their reason for not appealing demonstrate that the current system is designed in a way that structurally discourages the exercise of rights that could expose violations.
 
 ---
 
@@ -70,8 +100,12 @@ The most reliable indicator of network adequacy is the rate at which patients mu
 |---|---|---|---|
 | MH/SUD office visits | 16.3% | 5.4x higher | Milliman, 2023 |
 | MH/SUD inpatient | 7.8% | 3.2x higher | Milliman, 2023 |
+| SUD residential treatment | 21.7% | 9.0x higher | Milliman, 2023 |
+| Child/adolescent MH outpatient | 24.1% | 8.0x higher | Evernorth, 2024 |
 | Medical/surgical office visits | 3.0% | Baseline | Milliman, 2023 |
 | Medical/surgical inpatient | 2.4% | Baseline | Milliman, 2023 |
+
+The child and adolescent MH/SUD out-of-network rate is particularly striking. Pediatric behavioral health networks are even thinner than adult networks, reflecting an acute shortage of child and adolescent psychiatrists (approximately 9,000 practicing nationally, versus an estimated need of 30,000, per the American Academy of Child and Adolescent Psychiatry, 2023). Parents seeking care for children with eating disorders, severe anxiety, or autism spectrum disorders routinely report months-long waits for in-network appointments or the inability to find any in-network provider within their region.
 
 ### Reimbursement Rate Gap
 
@@ -84,6 +118,10 @@ Low reimbursement rates are the primary reason behavioral health providers decli
 | MH/SUD providers accepting insurance | 55% | Declining | APA, 2023 |
 | Psychiatrists accepting new patients with insurance | 38% | Declining | Bishop et al., JAMA, 2023 |
 | Primary care physicians accepting new patients with insurance | 86% | Stable | Bishop et al., JAMA, 2023 |
+| Average psychiatrist commercial reimbursement (60-min eval) | $130-$160 | Stable | APA, 2023 |
+| Average psychiatrist self-pay rate (60-min eval) | $250-$400 | Increasing | APA, 2023 |
+
+The reimbursement gap has not narrowed since MHPAEA's enactment. In fact, Milliman's data shows that medical/surgical reimbursement has increased faster than MH/SUD reimbursement over the past decade, widening the gap in real terms. This occurs because medical providers -- organized into hospital systems and large group practices -- have greater bargaining power with insurers than behavioral health providers, who are predominantly solo practitioners or small group practices.
 
 ### Provider Network Composition
 
@@ -92,8 +130,25 @@ Low reimbursement rates are the primary reason behavioral health providers decli
 | Psychiatrists in-network with commercial plans | 38% | Melek et al., Milliman, 2024 |
 | Psychologists in-network with commercial plans | 47% | APA Practice Survey, 2023 |
 | Licensed clinical social workers in-network | 52% | NASW Survey, 2023 |
+| Addiction medicine specialists in-network | 31% | ASAM, 2023 |
+| Child/adolescent psychiatrists in-network | 28% | AACAP, 2023 |
 | Primary care physicians in-network | 86% | CMS, 2023 |
 | Cardiologists in-network | 81% | Avalere Health, 2023 |
+| Orthopedic surgeons in-network | 79% | Avalere Health, 2023 |
+
+### Ghost Networks
+
+Ghost networks -- provider directories that list clinicians who are not actually available to see patients -- compound the network adequacy problem. State investigations have revealed that insurer provider directories significantly overstate the actual availability of behavioral health providers.
+
+| State/Investigation | Ghost Network Rate for MH/SUD Providers | Year | Source |
+|---|---|---|---|
+| California DMHC | 43% of listed MH/SUD providers unavailable | 2023 | CA DMHC Market Conduct Report |
+| Illinois DOI | 52% of listed behavioral health providers unreachable or not accepting new patients | 2023 | IL DOI Parity Examination |
+| Massachusetts DOI | 47% of listed MH/SUD providers inaccurate | 2022 | MA DOI Network Adequacy Report |
+| New York DFS | 38% of listed behavioral health providers not available | 2023 | NY DFS Examination |
+| HHS OIG (Medicare Advantage) | 53% of listed providers unavailable | 2022 | HHS OIG Report OEI-02-22-00050 |
+
+When ghost network rates of 40-50% are combined with the already low in-network participation rates for MH/SUD providers, the effective in-network behavioral health workforce is far smaller than plan directories suggest. A plan that lists 200 in-network psychiatrists but of which only 100 are actually available, accepting new patients, and reachable at the listed contact information has an effective network half the size that compliance audits based on directory counts would indicate.
 
 ---
 
@@ -108,8 +163,15 @@ NQTLs are the design features of insurance plans -- such as prior authorization 
 | Prior authorization | Required for most inpatient and many outpatient services | Required selectively for high-cost procedures | More restrictive for MH/SUD |
 | Concurrent review | Frequent (every 3-7 days for inpatient) | Less frequent (every 7-14 days) | More frequent for MH/SUD |
 | Step therapy (fail-first) | Required for most psychiatric medications | Required for some specialty drugs | Applied more broadly to MH/SUD |
-| Medical necessity criteria | Often uses strietary criteria without clinical evidence basis | Generally uses evidence-based clinical guidelines | Stricter for MH/SUD |
+| Medical necessity criteria | Often uses proprietary criteria without clinical evidence basis | Generally uses evidence-based clinical guidelines | Stricter for MH/SUD |
 | Network admission standards | Higher credentialing barriers, lower reimbursement | Standard credentialing, competitive reimbursement | More restrictive for MH/SUD |
+| Residential treatment exclusions | Residential MH/SUD treatment often excluded or requires exhaustive prior auth | Comparable medical residential programs (e.g., rehabilitation) covered more readily | Disparate exclusion for MH/SUD |
+
+### Medical Necessity Criteria: The Proprietary Standards Problem
+
+A key finding in *Wit v. United Behavioral Health* (N.D. Cal. 2020) was that UBH developed internal medical necessity guidelines that were more restrictive than generally accepted standards of care. The court found that UBH's guidelines prioritized crisis stabilization over comprehensive treatment, effectively requiring patients to deteriorate to a crisis level before authorizing ongoing care. This pattern is not unique to UBH. A 2023 analysis by the Kennedy Forum found that four of the five largest managed behavioral health organizations used proprietary medical necessity criteria for MH/SUD that did not align with the clinical guidelines published by the American Psychiatric Association, the American Society of Addiction Medicine (ASAM), or the American Academy of Child and Adolescent Psychiatry.
+
+By contrast, medical necessity criteria for medical/surgical services more commonly reference published clinical guidelines (e.g., American College of Cardiology guidelines for cardiac procedures, National Comprehensive Cancer Network guidelines for oncology). This asymmetry -- proprietary and restrictive criteria for MH/SUD, evidence-based and less restrictive criteria for medical/surgical -- is precisely the type of NQTL disparity that MHPAEA prohibits and that the 2024 final rule targets.
 
 ### NQTL Compliance Under the 2024 Final Rule
 
@@ -122,6 +184,10 @@ The 2024 final rule (89 Fed. Reg. 77586) requires plans to conduct comparative a
 | Outcomes data reporting | Plan years beginning on/after January 1, 2026 | Plans must evaluate whether NQTLs produce disparate outcomes |
 | Network composition reporting | Plan years beginning on/after January 1, 2026 | Plans must report in-network vs. out-of-network utilization |
 | Corrective action for non-compliance | Ongoing | Plans found non-compliant must cease imposing the NQTL until corrected |
+| Meaningful benefits standard | January 1, 2025 | Plans must ensure MH/SUD benefits are not merely nominal |
+| Elimination of independent professional judgment defense | January 1, 2025 | Plans cannot use clinician discretion as blanket justification for restrictive criteria |
+
+The 2024 final rule also introduces the "meaningful benefits" standard, which provides that if a plan's network is so inadequate that MH/SUD benefits are effectively unavailable in a geographic area, the plan is deemed non-compliant regardless of its benefit design. This standard directly targets the ghost network problem and the practice of offering benefits on paper while providing no practical access to care.
 
 ---
 
@@ -140,7 +206,22 @@ EBSA is the primary federal enforcer of MHPAEA for employer-sponsored plans gove
 | Comparative analysis requests | 204 | 312 | Upward | DOL EBSA, 2023 |
 | Comparative analyses found insufficient | 100% of initial submissions | 100% of initial submissions | Stable | DOL EBSA, 2023 |
 
-The finding that 100% of initial NQTL comparative analyses reviewed by DOL were insufficient underscores the depth of the compliance challenge.
+The finding that 100% of initial NQTL comparative analyses reviewed by DOL were insufficient underscores the depth of the compliance challenge. Common deficiencies included: failure to identify the specific NQTLs applied to MH/SUD benefits; failure to identify the analogous NQTLs applied to medical/surgical benefits; reliance on conclusory assertions of compliance without supporting data; and failure to analyze whether the NQTL was applied more stringently in operation, not just in design. The DOL's FY2023 Report to Congress documented these patterns and noted that even after initial correction requests, many plans required multiple rounds of revision before producing adequate analyses.
+
+### Enforcement Resource Constraints
+
+The scale of the enforcement challenge relative to available resources is a critical constraint:
+
+| Metric | Value | Source |
+|---|---|---|
+| Total ERISA-governed health plans | ~2.5 million | DOL EBSA, 2023 |
+| EBSA investigators (total, all ERISA enforcement) | ~500 | DOL EBSA FY2024 Budget Justification |
+| EBSA investigators dedicated to MHPAEA | ~40-60 (estimated) | DOL EBSA, 2023 |
+| Plans investigated for MHPAEA per year | ~200 | DOL EBSA, 2023 |
+| Coverage rate (plans investigated / total plans) | ~0.008% | Calculated |
+| Average investigation duration | 12-18 months | DOL OIG, 2020 |
+
+At the current investigation rate, it would take approximately 12,500 years to investigate every ERISA-governed plan once. Even accounting for the fact that a large share of covered workers are concentrated in a smaller number of plans, the enforcement coverage rate is far too low to create deterrence.
 
 ### Centers for Medicare & Medicaid Services (CMS)
 
@@ -151,6 +232,9 @@ CMS enforces parity for individual and small group market plans and for certain 
 | Individual/small group plans subject to parity | ~15 million enrollees | CMS, 2023 |
 | Medicaid managed care plans subject to parity | ~55 million enrollees (since March 2024) | CMS, 2024 |
 | Parity enforcement actions (2022-2023) | 47 | CMS, 2023 |
+| States where CMS acts as direct enforcer (no state program) | 5 | CMS, 2023 |
+
+The March 2024 Medicaid managed care parity rule represents a significant expansion of CMS's parity enforcement mandate. Prior to this rule, Medicaid managed care plans were subject to parity requirements only through general managed care regulations; the 2024 rule applies MHPAEA's specific NQTL requirements to these plans for the first time, covering approximately 55 million enrollees.
 
 ### State Enforcement
 
@@ -160,6 +244,10 @@ CMS enforces parity for individual and small group market plans and for certain 
 | States with dedicated parity enforcement staff | 18 | Parity Track, 2024 |
 | States requiring proactive parity reporting by insurers | 12 | Parity Track, 2024 |
 | State enforcement limited to fully insured plans | All states (due to ERISA preemption) | ERISA section 514 |
+| States that have conducted proactive market conduct examinations for parity | 9 | Kennedy Forum, 2024 |
+| Average state parity enforcement FTEs | 1.5 | NAIC Survey, 2023 |
+
+The average of 1.5 FTEs dedicated to parity enforcement per state illustrates the resource constraint at the state level. Even in states with strong parity laws, enforcement capacity is limited. The nine states that have conducted proactive market conduct examinations (Connecticut, Colorado, Illinois, Oregon, Massachusetts, New York, California, Maryland, and New Hampshire) represent a best-practice model, but the remaining states rely entirely on consumer complaints -- a model that, as the appeal data demonstrates, captures a fraction of violations.
 
 ---
 
@@ -174,6 +262,9 @@ CMS enforces parity for individual and small group market plans and for certain 
 | NQTL comparative analyses found sufficient | 0% (initial submissions) | N/A | New requirement, data limited |
 | Adults with unmet MH/SUD treatment needs | 55.2% (28.5 million) | Worsening | Up from 50.5% in 2018 |
 | States with strong parity laws | 39 + D.C. | Increasing | Up from 23 in 2015 |
+| Psychiatrist insurance acceptance rate | 38% | Declining | Down from 43% in 2018 |
+| Child/adolescent MH OON utilization | 24.1% | Worsening | 8.0x higher than med/surg |
+| Commercial MH/SUD spending growth (2019-2023) | +53% | Rapidly increasing | Evernorth, 2024 |
 
 ---
 
@@ -188,8 +279,19 @@ CMS enforces parity for individual and small group market plans and for certain 
 | **ACA Section 1311(j)** | 2010 | Extended MHPAEA to individual and small group plans through essential health benefits |
 | **MHPAEA Interim Final Rule** | 2010 | First regulatory guidance on MHPAEA implementation, including NQTLs |
 | **MHPAEA Final Rule** | 2013 | Detailed guidance on NQTL compliance, classification of benefits |
+| **21st Century Cures Act** | 2016 | Required parity compliance training; established enforcement portal |
 | **Consolidated Appropriations Act (CAA) Section 203** | 2021 | Required plans to perform and document NQTL comparative analyses |
+| **Medicaid Managed Care Parity Rule** | 2024 | Extended MHPAEA NQTL requirements to Medicaid managed care |
 | **2024 MHPAEA Final Rule** | 2024 | Strengthened NQTL requirements; required outcomes data; added network composition standards |
+
+### Key Court Decisions Shaping Current Enforcement
+
+| Case | Year | Holding | Impact |
+|---|---|---|---|
+| *Wit v. United Behavioral Health* | 2020/2023 | UBH used guidelines more restrictive than accepted standards | Established that proprietary criteria can violate parity |
+| *NY State Psychiatric Ass'n v. UnitedHealth Group* | 2015 | OON reimbursement rates can constitute parity violation | Opened door to reimbursement-based parity claims |
+| *Harlick v. Blue Shield of California* | 2012 | MHPAEA applies to state-mandated benefits | Expanded scope of parity protections |
+| *Joseph F. v. Sinclair Services Co.* | 2016 | More restrictive concurrent review for MH/SUD violates MHPAEA | Applied NQTL standard to concurrent review |
 
 ---
 
@@ -206,19 +308,33 @@ State-level parity enforcement varies dramatically, creating uneven protections 
 | **Basic** | Relies on federal floor, minimal state enforcement | 10 + D.C. | PA, OH, MI, VA |
 | **Weak** | No state parity law beyond federal minimum, limited resources | 11 | AL, MS, WY, ID, SD |
 
+### Impact of State Enforcement Tier on Outcomes
+
+A 2023 Kennedy Forum analysis found measurable differences in parity outcomes based on state enforcement strength:
+
+| Metric | Strong Enforcement States | Weak Enforcement States | Difference |
+|---|---|---|---|
+| MH/SUD out-of-network utilization (fully insured) | 11.2% | 18.7% | 7.5 percentage points |
+| MH/SUD denial rate (fully insured) | 17.1% | 23.8% | 6.7 percentage points |
+| Insurer parity complaints per 100,000 enrollees | 4.2 | 1.1 | 3.1 (more complaints = better awareness) |
+
+These differences apply only to fully insured plans, because ERISA preempts state enforcement of self-insured plans regardless of the state's enforcement capacity. In strong enforcement states, the parity gap between fully insured and self-insured plans is itself evidence of the ERISA preemption problem.
+
 ---
 
 ## Recent Trends
 
 ### 2020-2025 Developments
 
-- **COVID-19 pandemic (2020-2022)**: Demand for MH/SUD services surged 38% during the pandemic, exposing network inadequacy and accelerating adoption of telehealth for behavioral health (SAMHSA, 2023)
+- **COVID-19 pandemic (2020-2022)**: Demand for MH/SUD services surged 38% during the pandemic, exposing network inadequacy and accelerating adoption of telehealth for behavioral health (SAMHSA, 2023). Telehealth accounted for 36% of MH/SUD outpatient visits by mid-2021, compared to less than 1% pre-pandemic.
 - **Consolidated Appropriations Act (December 2020)**: Section 203 required NQTL comparative analyses, giving DOL enforcement tools for the first time
 - **DOL enforcement ramp-up (2021-2023)**: Investigations tripled from 67 (FY2018) to 206 (FY2023) following Congressional mandate
 - **100% initial failure rate (2022-2023)**: Every NQTL comparative analysis initially reviewed by DOL was found insufficient, revealing the depth of non-compliance
+- **UnitedHealth Group / Optum litigation**: The *Wit v. United Behavioral Health* case continued through appeals, with the Ninth Circuit affirming in part the district court's finding that UBH used overly restrictive medical necessity guidelines (2023). Multiple state attorneys general opened investigations into UHG's MH/SUD claims practices.
 - **2024 final rule (September 2024)**: Strengthened NQTL standards, required outcomes data, added network composition reporting
 - **Medicaid managed care parity (March 2024)**: CMS finalized rules applying MHPAEA to Medicaid managed care plans, extending protections to ~55 million enrollees
-- **State legislative activity (2023-2024)**: 14 states enacted new or strengthened parity laws during the 2023-2024 legislative sessions
+- **State legislative activity (2023-2024)**: 14 states enacted new or strengthened parity laws during the 2023-2024 legislative sessions, including California's SB 855 implementation regulations, Colorado's expanded enforcement funding, and Illinois's proactive market conduct examination requirement
+- **Commercial MH/SUD spending surge**: Evernorth (Cigna's pharmacy and benefits subsidiary) reported that commercial plan spending on behavioral health increased 53% from 2019 to 2023, driven by increased utilization, higher acuity, and pandemic-related demand
 
 ---
 
@@ -226,19 +342,23 @@ State-level parity enforcement varies dramatically, creating uneven protections 
 
 ### Measurement and Compliance Complexity
 
-The 2024 final rule's requirement that plans collect and analyze outcomes data on NQTLs creates unprecedented compliance obligations. Plans must develop new data systems, hire compliance staff, and engage actuarial consultants. Smaller self-insured employers may lack the resources to comply, creating a tiered compliance landscape.
+The 2024 final rule's requirement that plans collect and analyze outcomes data on NQTLs creates unprecedented compliance obligations. Plans must develop new data systems, hire compliance staff, and engage actuarial consultants. Smaller self-insured employers may lack the resources to comply, creating a tiered compliance landscape. Third-party administrators (TPAs) who administer benefits for self-insured employers will play a critical role, as most self-insured plans rely on their TPA for plan design, claims administration, and regulatory compliance. The five largest TPAs -- UnitedHealth Group, Cigna, Aetna, Anthem, and HCSC -- administer benefits for the majority of self-insured enrollees, meaning that the compliance practices of a small number of companies will determine the parity experience for tens of millions of Americans.
 
 ### Digital and Telehealth Parity
 
-The expansion of telehealth for MH/SUD services during and after the pandemic raises new parity questions. Plans that cover telehealth for medical visits but impose additional restrictions on behavioral health telehealth (such as requiring in-person intake or limiting session frequency) may violate parity. Regulatory guidance on digital parity remains undeveloped.
+The expansion of telehealth for MH/SUD services during and after the pandemic raises new parity questions. Plans that cover telehealth for medical visits but impose additional restrictions on behavioral health telehealth (such as requiring in-person intake or limiting session frequency) may violate parity. Regulatory guidance on digital parity remains undeveloped. The emergence of digital therapeutics -- software-based treatments for conditions like substance use disorders and insomnia -- creates additional classification questions: are these MH/SUD benefits subject to parity requirements, and how should plans compare their coverage limitations to medical/surgical equivalents?
 
 ### Cost Pressure from Rising Demand
 
-MH/SUD utilization has grown faster than medical utilization since the pandemic, with commercial plan spending on behavioral health increasing 53% from 2019 to 2023 (Evernorth, 2024). This creates pressure on plans to deploy cost management tools, which may conflict with parity requirements if those tools are applied more stringently to MH/SUD services.
+MH/SUD utilization has grown faster than medical utilization since the pandemic, with commercial plan spending on behavioral health increasing 53% from 2019 to 2023 (Evernorth, 2024). This creates pressure on plans to deploy cost management tools, which may conflict with parity requirements if those tools are applied more stringently to MH/SUD services. Plans may attempt to implement across-the-board utilization management tightening that is facially neutral but has a disproportionate impact on MH/SUD services due to the existing structural disparities in provider networks and reimbursement rates.
 
 ### Enforcement Capacity
 
-Even with increased enforcement activity, DOL oversees approximately 2.5 million health plans with approximately 500 EBSA investigators. The agency cannot audit more than a fraction of plans in any given year, making proactive enforcement difficult and complaint-driven enforcement the default.
+Even with increased enforcement activity, DOL oversees approximately 2.5 million health plans with approximately 500 EBSA investigators. The agency cannot audit more than a fraction of plans in any given year, making proactive enforcement difficult and complaint-driven enforcement the default. The 2024 final rule's expanded compliance requirements will increase the volume of analyses that DOL must review, potentially overwhelming existing capacity unless additional investigators and data analysts are appropriated.
+
+### Legal Challenges to the 2024 Final Rule
+
+Industry groups including AHIP and ERIC have signaled potential legal challenges to the 2024 final rule, arguing that the outcomes data requirement and the meaningful benefits standard exceed MHPAEA's statutory authority. The legal outcome is uncertain, and a successful challenge could roll back the most significant enforcement advances since the law's enactment.
 
 ---
 

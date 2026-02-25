@@ -20,6 +20,9 @@ Suicide prevention is one of the few policy areas where individual action can li
 - **Ask the question directly**: If you are concerned about someone, ask them directly: "Are you thinking about suicide?" Research shows that asking does not increase risk and may reduce it by opening a path to help (Dazzi et al., *Psychological Medicine*, 2014).
 - **Stay connected**: Maintain relationships and reach out to isolated friends, family members, and neighbors. Social connection is a protective factor against suicide. A simple check-in call or visit can be lifesaving.
 - **Know your resources**: Save 988 in your phone contacts. Know the crisis resources available in your community, including the nearest crisis stabilization center and mobile crisis team availability.
+- **Check on veterans in your life**: If you know veterans, particularly those who have recently transitioned from military service, maintain regular contact. The majority (62.1%) of veteran suicides occur among veterans not connected to VA healthcare (VA Annual Report, 2023). A check-in call, invitation to a community activity, or offer to help navigate VA services can be a lifeline.
+- **Model healthy emotional expression**: Particularly for men and boys, demonstrate that discussing emotional struggles is a sign of strength, not weakness. Traditional masculine norms that equate vulnerability with weakness are a direct contributor to the 4:1 male-to-female suicide death ratio.
+- **Support bereaved individuals**: If someone in your life has lost a loved one to suicide, reach out and maintain contact beyond the initial weeks. Suicide loss survivors face elevated personal suicide risk and often experience social isolation as friends and acquaintances withdraw due to discomfort with the topic.
 
 ### Use Your Voice
 
@@ -44,6 +47,18 @@ Suicide prevention is one of the few policy areas where individual action can li
 - **Bridge the gun safety divide**: Engage firearm-owning community members as partners in suicide prevention. The most effective means safety messages come from fellow gun owners. Support programs like Walk the Talk (AFSP) that train gun-owning veterans and community members as means safety ambassadors.
 - **Engage faith communities**: Many faith traditions emphasize the sanctity of life and community care. Partner with congregations to integrate suicide prevention awareness into existing care ministries. The National Action Alliance provides faith-community-specific resources (<https://theactionalliance.org/faith-hope-life>).
 - **Connect with schools**: Work with school boards to adopt evidence-based prevention curricula (Sources of Strength, Signs of Suicide). Advocate for school counselors trained in suicide risk assessment.
+- **Engage workplaces**: Advocate for your employer to implement an employee assistance program (EAP) with robust mental health coverage and to train managers in recognizing warning signs. Workplace suicide prevention programs are particularly important for reaching middle-aged men, who are the demographic at highest absolute risk but least likely to access traditional mental health services.
+- **Support local 988 capacity**: Attend county or city council meetings when crisis services funding is on the agenda. Many local 988 crisis centers depend on a mix of federal, state, and local funding; local government support can be the difference between adequate staffing and chronic vacancies.
+- **Advocate for bridge barriers and structural safety**: If there are known high-lethality sites in your community (bridges, parking garages, overlooks), advocate to local transportation or public works authorities for the installation of barriers. Cite the evidence: barriers reduce site-specific suicides by 77-90% without significant displacement to nearby sites (Perron et al., *British Journal of Psychiatry*, 2013).
+
+### Support Attempt Survivors
+
+Suicide attempt survivors face unique challenges including physical recovery, psychological trauma, stigma, and ongoing risk. Individual actions to support survivors include:
+
+- **Avoid judgment**: Never characterize a suicide attempt as "selfish," "attention-seeking," or "manipulative." These characterizations are clinically inaccurate and discourage future help-seeking.
+- **Maintain connection**: Continue reaching out in the weeks and months after an attempt. The period following discharge from an emergency department or hospital is the highest-risk period for repeat attempts.
+- **Support safety planning**: If an attempt survivor shares their safety plan with you (a common component of evidence-based treatment), take it seriously and be prepared to fulfill any role you have been assigned (e.g., as a person to call during crisis, as a temporary custodian for firearms or medications).
+- **Encourage ongoing care**: Support the survivor's engagement with follow-up treatment. Offer practical help such as transportation to appointments, childcare during therapy sessions, or assistance navigating insurance.
 
 ---
 
@@ -129,6 +144,16 @@ Current or proposed legislation to support:
 - Evaluate candidates' willingness to address firearm suicide as distinct from the broader gun debate
 - Key committees: Senate HELP Committee, House Energy and Commerce Committee, Senate and House Appropriations Subcommittees on Labor-HHS, Senate and House Veterans Affairs Committees
 
+### State-Level Political Actions
+
+State legislatures are often where the most impactful suicide prevention policy is enacted. Key state-level actions include:
+
+- **Advocate for a state 988 telecom fee**: Only 9 states have enacted dedicated 988 funding mechanisms (as of 2024). If your state has not, this is the single most impactful state-level legislative action for suicide prevention. Contact your state legislators and cite the Colorado model ($0.50/line/month generating dedicated crisis services revenue).
+- **Support state ERPO legislation**: If your state does not have an extreme risk protection order law, advocate for passage. Provide legislators with evidence from Connecticut and Indiana (5-14% firearm suicide reduction; one suicide prevented per 10-20 orders). If your state already has an ERPO law, advocate for implementation funding, training for law enforcement and courts, and public education.
+- **Push for school prevention mandates**: Several states require suicide prevention training for school personnel or prevention curricula for students. If your state does not, advocate for legislation requiring evidence-based programs in all public schools.
+- **Monitor Medicaid mental health coverage**: State Medicaid programs are the largest payer for mental health services. Advocate for your state to cover crisis stabilization services, peer support, and same-day mental health appointments. Contact your state Medicaid director and state legislators on the health committee.
+- **Support state mental health parity enforcement**: While the Mental Health Parity and Addiction Equity Act is a federal law, state insurance commissioners are responsible for much of the enforcement. Contact your state insurance commissioner's office to report parity violations and advocate for stronger enforcement.
+
 ---
 
 ## Professional Actions
@@ -139,6 +164,10 @@ Current or proposed legislation to support:
 - **For Journalists**: Follow the Reporting on Suicide guidelines (<https://reportingonsuicide.org>). Include the 988 number and Crisis Text Line in all suicide coverage. Avoid reporting method details, sensationalizing death, or romanticizing suicide. Cover suicide prevention success stories and policy developments.
 - **For Clergy and Faith Leaders**: Complete gatekeeper training (QPR). Integrate mental health awareness into pastoral care. Partner with local mental health providers to create referral pathways for congregants in crisis. Use the National Action Alliance's faith community resources (<https://theactionalliance.org/faith-hope-life>).
 - **For Firearm Retailers and Range Operators**: Participate in the Gun Shop Project. Display suicide prevention materials. Train staff to recognize warning signs and delay sales when customers display distress. Offer temporary firearm storage for customers in crisis.
+- **For Law Enforcement**: Complete Crisis Intervention Team (CIT) training, which includes suicide-specific modules. When responding to welfare checks or crisis calls, coordinate with 988 mobile crisis teams where available rather than defaulting to involuntary transport. Departments should establish protocols for lethal means counseling during domestic disturbance and welfare check responses. Support department-level suicide prevention programs for officers, who face elevated personal suicide risk (estimated 17 per 100,000, per Blue H.E.L.P., 2023).
+- **For Mental Health Researchers**: Prioritize implementation science -- studying how to scale evidence-based interventions in real-world settings -- alongside efficacy research. Engage loss survivors and attempt survivors as co-investigators in research design. Publish in open-access formats to maximize policy impact. Support the development of culturally specific interventions for underserved populations (AI/AN communities, Black youth, Hispanic communities, rural populations).
+- **For Technology Workers**: If you work at a social media company, advocate internally for stronger self-harm content moderation, crisis resource integration, and algorithmic safeguards for minors. If you work in health technology, advocate for responsible AI development in suicide risk prediction, including transparency, bias auditing, and patient consent.
+- **For Veterans**: If you are a veteran, consider training as a VA peer support specialist or community-based veteran mentor. Your credibility with fellow veterans makes you a uniquely effective messenger for both help-seeking and lethal means safety. The VA's "Be There for Veterans" campaign provides resources for veteran-to-veteran outreach (<https://www.veteranscrisisline.net/support/be-there>).
 
 ---
 
@@ -165,6 +194,19 @@ Current or proposed legislation to support:
 - **SAMHSA 988 Updates**: Performance data, implementation news, funding announcements - <https://www.samhsa.gov/find-help/988>
 - **NAMI Advocate Newsletter**: Mental health policy news, legislative action alerts - <https://nami.org/Advocacy>
 - **SPRC Weekly Spark Newsletter**: Research summaries, best practices, training opportunities - <https://sprc.org/news/weekly-spark>
+- **Everytown Research Digest**: State-level gun violence prevention policy updates including firearm suicide - <https://www.everytown.org>
+- **VA Suicide Prevention Newsletter**: Veteran-specific prevention updates, research, and program announcements - <https://www.mentalhealth.va.gov/suicide_prevention/>
+
+### Key Reports to Monitor
+
+| Report | Publisher | Frequency | Why It Matters |
+|---|---|---|---|
+| CDC WISQARS Fatal Injury Data | CDC | Annual | Definitive national suicide mortality data |
+| National Veteran Suicide Prevention Annual Report | VA | Annual (September) | Most comprehensive veteran suicide data |
+| 988 Performance Metrics Dashboard | SAMHSA | Quarterly | Tracks crisis system performance in real time |
+| Trevor Project National Survey | The Trevor Project | Annual | Largest survey of LGBTQ+ youth mental health |
+| State of Mental Health in America | Mental Health America | Annual | State-by-state mental health rankings |
+| HEDIS Follow-up Measures | NCQA | Annual | Tracks post-discharge care quality |
 
 ### Social Media Accounts to Follow
 
@@ -204,6 +246,31 @@ When discussing suicide prevention with others, emphasize:
 | "Suicide only affects people with mental illness" | Approximately 54% of people who die by suicide do not have a diagnosed mental health condition at the time of death | CDC Psychological Autopsy studies |
 | "Suicide is a selfish or cowardly act" | Suicide results from unbearable psychological pain, not character flaws; stigmatizing language deters help-seeking | Joiner, *Why People Die by Suicide*, 2005 |
 | "Only professionals can help someone who is suicidal" | Gatekeeper training programs (QPR, safeTALK) enable anyone to recognize warning signs and connect people to help | QPR Institute evaluation data |
+
+### Calendar of Annual Advocacy Opportunities
+
+| Date | Event | Actions |
+|---|---|---|
+| February | National Gun Violence Survivors Week | Share stories; advocate for means restriction legislation |
+| March | National Social Work Month | Highlight mental health workforce needs; advocate for NHSC funding |
+| May | Mental Health Awareness Month | Host awareness events; contact legislators during recess; share resources |
+| June | PTSD Awareness Month | Focus on veteran and trauma-related suicide prevention |
+| June | Pride Month | Highlight LGBTQ+ youth suicide risk; support affirming programs |
+| September 10 | World Suicide Prevention Day | Participate in AFSP Out of the Darkness walks; contact media about responsible coverage |
+| September | Suicide Prevention Month | Full month of advocacy, awareness, and community engagement |
+| November | Veterans Day / Military Family Month | Advocate for veteran suicide prevention funding; honor military service members lost to suicide |
+| Ongoing | State legislative sessions | Track and advocate for state-level 988 funding, ERPO, and mental health legislation |
+
+### Building a Personal Advocacy Plan
+
+For sustained impact, create a personal suicide prevention advocacy plan:
+
+1. **Choose your focus**: Select 1-2 specific policy areas where your voice can be most effective (e.g., 988 funding in your state, school prevention programs in your district, veteran suicide in your community)
+2. **Identify your targets**: Know who makes decisions on your focus areas (specific legislators, school board members, city council members, state agency officials)
+3. **Build relationships**: Attend town halls, schedule office visits, and make yourself known as a constituent who cares about suicide prevention. Consistent, respectful engagement over time is more effective than one-time contacts.
+4. **Join an advocacy network**: AFSP's Field Advocacy Network, NAMI's state advocacy programs, and the Trevor Project's advocacy initiatives provide training, talking points, and coordinated action alerts
+5. **Share your story (if comfortable)**: Personal narratives -- whether as a loss survivor, attempt survivor, or concerned community member -- are the most powerful advocacy tool available. AFSP and NAMI provide training for telling your story effectively in legislative settings.
+6. **Track your impact**: Document your advocacy activities, legislator responses, and policy outcomes. Share successes with your advocacy network to build momentum.
 
 ---
 

@@ -35,10 +35,17 @@ Psychiatrists are the only mental health professionals routinely authorized to p
 | Active psychiatrists | ~37,000 | Stable | AAMC, 2023 |
 | Psychiatrists per 100,000 population | 11.1 | Slight decline | AAMC, 2023 |
 | Mean age of psychiatrists | 53.4 years | Aging | AAMC, 2023 |
+| Psychiatrists aged 55+ | ~45% | Growing share | AAMC, 2023 |
 | Child and adolescent psychiatrists | ~9,500 | Slight increase | AACAP, 2023 |
 | Addiction psychiatrists | ~2,700 | Stable | ABPN, 2023 |
 | Geriatric psychiatrists | ~1,600 | Declining | ABPN, 2023 |
+| Consultation-liaison psychiatrists | ~2,400 | Growing | ABPN, 2023 |
+| Forensic psychiatrists | ~2,800 | Stable | ABPN, 2023 |
 | Psychiatry residency fill rate (2024 Match) | 99.7% | High demand | NRMP, 2024 |
+| International medical graduates in psychiatry | ~33% of residents | Stable | NRMP, 2024 |
+| Median psychiatrist compensation | $275,000 | Below most procedural specialties | Medscape, 2024 |
+
+The subspecialty shortage is particularly acute. The American Academy of Child and Adolescent Psychiatry estimates that the nation needs approximately 30,000 child psychiatrists to meet current demand, meaning the existing supply of ~9,500 meets less than one-third of the need (AACAP, 2023). The geriatric psychiatry pipeline is shrinking: fewer than 50 fellows complete geriatric psychiatry training annually, against a growing elderly population with rising dementia and late-life depression rates (ABPN, 2023). Addiction psychiatry fellowships fill only about 70% of available positions despite the ongoing overdose crisis, largely because general psychiatry compensation exceeds addiction fellowship-trained compensation in most markets (ABPN, 2023).
 
 ### Psychologists
 
@@ -48,6 +55,13 @@ Psychiatrists are the only mental health professionals routinely authorized to p
 | States authorizing prescriptive authority | 7 (ID, IL, IA, LA, NM, UT, CO + military/IHS) | Expanding | APA, 2024 |
 | Doctoral programs (Ph.D./Psy.D.) | ~400 | Stable | APA, 2023 |
 | Average time to complete doctorate | 6.6 years | Stable | APA Center for Workforce Studies, 2023 |
+| Psychologists per 100,000 population | 31.5 | Slight growth | APA, 2023 |
+| Neuropsychologists | ~6,000 | Growing | NAN, 2023 |
+| Health service psychologists (clinical, counseling, school) | ~80,000 | Growing | APA, 2023 |
+| Mean psychologist age | 52.8 years | Aging | APA, 2023 |
+| Psychologists accepting Medicare | ~60% | Declining | APA, 2023 |
+
+The psychology workforce faces its own distribution crisis. While the national ratio of 31.5 psychologists per 100,000 appears reasonable, the distribution is heavily skewed: Massachusetts has 54 psychologists per 100,000 while Mississippi has 12 per 100,000 (APA, 2023). The doctoral training model creates a lengthy pipeline -- an average of 6.6 years for the doctorate followed by 1-2 years of postdoctoral supervised practice in most states -- meaning that efforts to increase supply today will not produce licensed practitioners for 7-9 years. The internship bottleneck persists: approximately 600 doctoral students annually fail to match into accredited internships, delaying or derailing their career paths (APPIC, 2024).
 
 ### Clinical Social Workers
 
@@ -56,7 +70,13 @@ Psychiatrists are the only mental health professionals routinely authorized to p
 | Licensed clinical social workers (LCSWs) | ~190,000 | Growing | BLS, 2023 |
 | Master's-level social work graduates (annual) | ~30,000 | Growing | CSWE, 2023 |
 | Social workers in behavioral health settings | ~120,000 | Growing | NASW, 2023 |
-| Average LCSW salary | $61,000 | Below inflation-adjusted growth | BLS, 2023 |
+| Average LCSW salary (all settings) | $61,000 | Below inflation-adjusted growth | BLS, 2023 |
+| Average LCSW salary in community mental health | $52,000 | Stagnant | NASW, 2023 |
+| Average LCSW salary in private practice | $75,000-$95,000 | Growing | NASW, 2023 |
+| Average MSW student loan debt | $60,000 | Growing | CSWE, 2023 |
+| Social workers who are women | 83% | Stable | CSWE, 2023 |
+
+Clinical social workers represent the single largest discipline in the behavioral health workforce by absolute numbers. They serve as the backbone of community mental health centers, hospital social work departments, school-based programs, and integrated care teams. However, the LCSW pipeline has a significant attrition problem: of the approximately 30,000 MSW graduates per year, fewer than half ultimately obtain clinical licensure, and of those who do, many migrate to private practice within five years due to the salary gap between public-sector and private practice settings (NASW, 2023). The post-master's supervised experience requirement -- typically 3,000 hours over two years -- creates a "pre-licensure" period during which clinicians earn substantially less and often lack adequate supervision, contributing to early-career burnout and dropout.
 
 ### Licensed Professional Counselors and Marriage/Family Therapists
 
@@ -65,6 +85,12 @@ Psychiatrists are the only mental health professionals routinely authorized to p
 | Licensed professional counselors (LPCs) | ~180,000 | Growing | NBCC, 2023 |
 | Licensed marriage and family therapists | ~60,000 | Stable | AAMFT, 2023 |
 | States requiring post-master's supervised hours | 50 states | Universal but variable (2,000-4,000 hours) | ACA, 2023 |
+| Average time from master's graduation to full licensure | 3.2 years | Stable | ACA, 2023 |
+| Median pre-licensure associate counselor salary | $38,000 | Below living wage in most markets | ACA, 2023 |
+| CACREP-accredited counseling programs | ~900 | Growing | CACREP, 2023 |
+| Annual counseling master's graduates | ~45,000 | Growing | CACREP, 2023 |
+
+LPCs and LMFTs constitute a large and growing segment of the behavioral health workforce, but their impact is structurally limited by two policy barriers. First, LPCs and LMFTs are currently excluded from direct Medicare reimbursement, meaning they cannot independently bill for services provided to the 65 million Americans enrolled in Medicare. This exclusion removes tens of thousands of trained providers from the effective supply available to one of the populations with the highest behavioral health need. The Mental Health Access Improvement Act, which would grant Medicare billing authority to LPCs and LMFTs, has been introduced in multiple Congresses with bipartisan support (300+ cosponsors in recent sessions) but has not been enacted. Second, the wide variation in supervised practice requirements across states -- ranging from 2,000 hours in some states to 4,000 hours in others -- creates portability barriers and delays workforce entry. A counselor who completes requirements in a state requiring 2,000 hours may face an additional 1,000-2,000 hours of supervised practice to be licensed in a new state (ACA, 2023).
 
 ### Psychiatric Nurse Practitioners and Physician Assistants
 
@@ -74,6 +100,11 @@ Psychiatrists are the only mental health professionals routinely authorized to p
 | Psychiatric PAs | ~3,200 | Growing | NCCPA, 2023 |
 | States granting full practice authority to NPs | 27 states + DC | Expanding | AANP, 2024 |
 | PMHNP program graduates (annual) | ~6,000 | Doubling since 2018 | AACN, 2024 |
+| PMHNP programs accredited | ~350 | Rapidly growing | AACN, 2024 |
+| Average PMHNP salary | $145,000 | Growing | AANP, 2024 |
+| PMHNPs in rural practice | ~18% | Below need | AANP, 2024 |
+
+PMHNPs are the fastest-growing segment of the prescribing mental health workforce and are increasingly filling gaps left by the psychiatrist shortage. In states with full practice authority, PMHNPs practice independently, prescribe medications including controlled substances, and manage complex patients. Their growth has been driven by shorter training pathways (master's or doctoral NP programs typically require 2-3 years post-BSN), strong demand, and compensation that, while below psychiatrist levels, is substantially higher than non-prescribing behavioral health professions. However, the PMHNP workforce faces its own quality and distribution concerns. The rapid expansion of PMHNP programs -- from approximately 150 in 2015 to over 350 in 2024 -- has raised questions about clinical training adequacy, particularly in programs with limited psychiatric clinical rotation sites (AACN, 2024). Additionally, PMHNPs, like psychiatrists, concentrate in urban and suburban areas; only 18% practice in rural settings despite the greatest shortages being rural (AANP, 2024).
 
 ### Peer Specialists and Community Health Workers
 
@@ -83,6 +114,23 @@ Psychiatrists are the only mental health professionals routinely authorized to p
 | States with Medicaid reimbursement for peer services | 46 states + DC | Expanding | SAMHSA, 2024 |
 | Community health workers in behavioral health | ~15,000 (estimate) | Growing | NACHW, 2023 |
 | Average peer specialist hourly wage | $17.50 | Low | BLS, 2023 |
+| Average peer specialist annual salary | $36,000 | Below living wage in most markets | BLS, 2023 |
+| Peer specialist annual turnover rate | 40-50% | High | SAMHSA, 2023 |
+| States with standardized peer specialist certification | 48 states + DC | Near-universal but highly variable | SAMHSA, 2024 |
+
+The peer specialist workforce represents a distinct and evidence-based component of the behavioral health system. Peer specialists bring lived experience with mental illness or substance use disorder and provide non-clinical support including engagement, navigation, crisis intervention, and recovery coaching. Research consistently demonstrates that peer services reduce psychiatric hospitalization, improve treatment engagement, and enhance self-reported recovery outcomes (Davidson et al., 2012; Chinman et al., 2014). However, the peer workforce faces chronic underinvestment. The average hourly wage of $17.50 -- approximately $36,000 annually -- is below a living wage in most metropolitan areas and creates extreme turnover. Certification requirements vary enormously across states, from 40 hours of training in some states to over 100 hours plus supervised practice in others, creating portability and quality-consistency challenges (SAMHSA, 2024).
+
+### Substance Use Disorder Counselors
+
+| Metric | Value | Trend | Source |
+|---|---|---|---|
+| Licensed/certified SUD counselors | ~100,000 (estimate) | Growing | SAMHSA, 2023 |
+| SUD counselors with master's degree or higher | ~45% | Growing | NAADAC, 2023 |
+| SUD counselors with bachelor's degree or lower | ~55% | Declining | NAADAC, 2023 |
+| Average SUD counselor salary | $48,000 | Below comparable health professions | BLS, 2023 |
+| SUD treatment facilities reporting staffing shortages | 74% | Worsening | SAMHSA NSSATS, 2023 |
+
+Substance use disorder counselors represent a critical workforce segment given the ongoing opioid, stimulant, and polysubstance crisis. The field has a unique educational profile: unlike other behavioral health disciplines, SUD counseling has historically accepted practitioners with associate's degrees or bachelor's degrees, though credentialing requirements have been increasing. The workforce faces among the highest turnover rates in behavioral health (35-50% annually in many treatment settings), driven by low pay, secondary traumatic stress, and the emotional toll of working with a population experiencing high morbidity and mortality (NAADAC, 2023).
 
 ---
 
@@ -291,7 +339,7 @@ Sources: U.S. Census (2023), APA (2023), AAMC (2023), CSWE (2023), NBCC (2023)
 
 ### Post-Pandemic Demand Surge
 
-Demand for mental health services surged during and after the COVID-19 pandemic and has not abated. National surveys show persistent elevation in anxiety, depression, and substance use, particularly among youth. The supply pipeline has not kept pace, and wait times for new patient appointments have lengthened in most markets.
+Demand for mental health services surged during and after the COVID-19 pandemic and has not abated. National surveys show persistent elevation in anxiety, depression, and substance use, particularly among youth. The supply pipeline has not kept pace, and wait times for new patient appointments have lengthened in most markets. The APA reported that 60% of psychologists had no openings for new patients in 2023, up from 38% in 2019. The average wait time for a new psychiatric appointment now exceeds 48 days nationally and surpasses 90 days in many rural markets (Merritt Hawkins, 2023). Youth mental health referrals to specialty care increased by 25-40% between 2019 and 2023, overwhelming an already insufficient child and adolescent workforce (AACAP, 2023).
 
 ### Telehealth Expansion and Limits
 
@@ -303,7 +351,15 @@ Psychiatry has one of the oldest average physician ages of any specialty (53.4 y
 
 ### Integration with Primary Care
 
-The Collaborative Care Model (CoCM), endorsed by CMS and supported by billing codes (99492-99494), integrates behavioral health into primary care settings. Scaling this model requires a workforce trained in measurement-based care, consultation, and brief intervention -- skills that many training programs do not yet emphasize.
+The Collaborative Care Model (CoCM), endorsed by CMS and supported by billing codes (99492-99494), integrates behavioral health into primary care settings. Scaling this model requires a workforce trained in measurement-based care, consultation, and brief intervention -- skills that many training programs do not yet emphasize. As of 2024, fewer than 5% of primary care practices nationally have implemented the full CoCM model, despite strong evidence of effectiveness: meta-analyses show CoCM produces a twofold improvement in depression outcomes compared to usual care (Archer et al., 2012). The bottleneck is workforce: each CoCM practice requires a behavioral health care manager (typically a licensed social worker or counselor) and access to a psychiatric consultant, and neither role is available in sufficient numbers to scale the model nationally (Raney et al., 2023).
+
+### School-Based Mental Health Workforce
+
+The school-based behavioral health workforce faces its own acute shortage. The American School Counselor Association recommends a ratio of 1 counselor per 250 students, but the national average is 1 per 385 (ASCA, 2023). For school psychologists, the National Association of School Psychologists recommends 1 per 500 students; the actual ratio is approximately 1 per 1,127 (NASP, 2023). School social worker ratios are similarly inadequate. The Bipartisan Safer Communities Act of 2022 provided $1 billion for school-based mental health services, but implementation has been hampered by the inability to recruit qualified professionals in many districts, particularly rural districts and those serving low-income communities.
+
+### Conrad 30 and International Medical Graduates
+
+International medical graduates (IMGs) play a significant role in the psychiatry workforce, comprising approximately 33% of psychiatry residents (NRMP, 2024). The Conrad 30 waiver program allows each state to sponsor up to 30 J-1 visa physicians for waivers of the two-year home-country return requirement, provided they serve in underserved areas. Many states use a substantial share of their Conrad 30 slots for psychiatry. However, the program is limited in scale, has not been updated to reflect current shortage levels, and faces periodic reauthorization uncertainty. The bipartisan Conrad State 30 and Physician Access Reauthorization Act has been introduced in multiple Congresses to expand and modernize the program but has not been enacted as a standalone measure.
 
 ---
 

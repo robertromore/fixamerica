@@ -134,6 +134,36 @@ The proposed reforms operate on two timescales. In the short term (1-5 years), b
 
 **Impact Metrics**: Youth suicide rate ages 10-24 (target: 25% reduction by Year 10); LGBTQ+ youth suicide attempt rate (target: 40% reduction); percentage of schools with suicide prevention programs (target: 90%).
 
+### Solution 8: Postvention and Contagion Prevention
+
+**Description**: Establish a national postvention infrastructure to support communities affected by suicide, prevent contagion (suicide clusters), and integrate survivor experiences into prevention efforts. Components include: (a) federal funding for community postvention response teams in every state; (b) mandatory safe messaging training for journalism programs receiving federal accreditation; (c) expansion of school postvention protocols to all K-12 districts; (d) FTC guidance on platform responsibilities following high-profile suicide deaths; (e) national bereavement support network expansion.
+
+**Evidence Base**: Each suicide death significantly affects approximately 135 people (Cerel et al., *Suicide and Life-Threatening Behavior*, 2019). Suicide loss survivors have elevated personal suicide risk, with studies suggesting a 2-3 times increase in suicidal ideation following the loss of a close family member or friend to suicide (Jordan & McIntosh, 2011). Suicide clusters -- where one death triggers additional deaths in a community -- are well-documented, particularly among adolescents, and can be mitigated through rapid community response protocols. The StoryCorps-based "Loss and Healing" project has demonstrated that structured narrative processing reduces complicated grief among loss survivors.
+
+**Implementation**: SAMHSA grants for state postvention response teams ($100 million annually). Department of Education requirement for school postvention protocols as a condition of Garrett Lee Smith grant funding. FCC/FTC voluntary industry agreement on safe messaging following high-profile suicide events. AFSP/SAMHSA expansion of the Healing Conversations program to all 50 states.
+
+**Cost/Resources**: Total: $150 million annually.
+
+**Timeline**: School protocols Years 1-2; community response teams Years 2-4; media standards framework Year 1-2.
+
+**Challenges**: First Amendment limits on media regulation; stigma among loss survivors; variation in community capacity. Address through voluntary industry standards, survivor-led program design, and flexible implementation models.
+
+**Impact Metrics**: Suicide clusters identified and responded to within 72 hours (target: 95%); school districts with postvention protocols (target: 100%); loss survivor support group access (target: within 50 miles for all Americans); media adherence to safe messaging guidelines (target: 80% of major outlets).
+
+### Solution 9: Data, Surveillance, and Research Infrastructure
+
+**Description**: Modernize the national suicide surveillance system to enable real-time detection of trends, clusters, and emerging risk factors. Components include: (a) CDC transition from annual to quarterly or real-time suicide mortality reporting; (b) national syndromic surveillance integration for suicidal behavior (ED visits, crisis contacts); (c) expanded research funding for implementation science, culturally specific interventions, and digital health approaches; (d) standardized data collection across the 988 system for outcome tracking.
+
+**Evidence Base**: The current 18-24 month lag between suicide deaths and CDC data publication means that policymakers and communities are always responding to outdated information. Syndromic surveillance systems, already operational for infectious disease, can be adapted to detect emerging suicide clusters weeks or months before traditional mortality data becomes available. The National Syndromic Surveillance Program (NSSP) piloted suicide-related ED visit monitoring during COVID-19, demonstrating feasibility (CDC MMWR, 2021).
+
+**Implementation**: CDC funding for real-time mortality reporting system ($50 million for infrastructure). NSSP expansion to include standardized suicide-related ED visit codes in all participating jurisdictions. NIH funding for suicide prevention implementation science ($100 million annually). SAMHSA standardization of 988 data collection and outcome tracking protocols.
+
+**Cost/Resources**: Total: $200 million annually.
+
+**Timeline**: Surveillance modernization Years 1-3; research expansion Years 1-5; 988 data standardization Year 1-2.
+
+**Impact Metrics**: Time from death to data availability (target: < 3 months); jurisdictions with syndromic surveillance for suicidal behavior (target: 100%); suicide prevention research funding as share of burden (target: 1% of economic cost).
+
 ---
 
 ## International Models
@@ -162,6 +192,22 @@ The proposed reforms operate on two timescales. In the short term (1-5 years), b
 
 **Applicability to U.S.**: The IDF model is directly applicable to the U.S. military context and supports policies such as commander-directed temporary weapon storage during high-risk periods. For civilians, the principle supports waiting periods, voluntary safe storage programs, and ERPO laws.
 
+### United Kingdom: National Confidential Inquiry and Real-Time Surveillance
+
+**Description**: The UK National Confidential Inquiry into Suicide and Safety in Mental Health (NCISH) collects detailed data on every suicide death among individuals in recent contact with mental health services, enabling rapid identification of system failures and patterns. The UK also pioneered the National Suicide Prevention Strategy (2012), which set explicit rate reduction targets and assigned accountability to specific government departments. Beginning in 2019, several regions implemented real-time surveillance systems that report suicide deaths within days rather than months.
+
+**Results**: The UK achieved a sustained suicide rate of approximately 7.9 per 100,000 (2021), roughly half the U.S. rate. The NCISH has driven specific system improvements, including reduced access to ligature points in psychiatric inpatient units, improved care transitions, and enhanced monitoring during the first three months after psychiatric discharge.
+
+**Applicability to U.S.**: The NCISH model could be adapted for the U.S. healthcare system through CMS-mandated mortality review for all suicide deaths among patients in recent contact with federally funded healthcare systems. Real-time surveillance, already piloted by CDC during COVID-19, could be permanently institutionalized. The UK's explicit target-setting and accountability model offers a governance framework that the U.S. National Strategy has lacked.
+
+### Japan: Comprehensive Anti-Suicide Strategy
+
+**Description**: Japan, which experienced a severe suicide crisis in the late 1990s (peaking at 34,427 deaths in 2003), implemented a comprehensive national strategy combining economic recovery programs, mental health system reform, community-based support networks, and corporate overwork reduction mandates. The 2006 Basic Act for Suicide Prevention established suicide prevention as a national priority with dedicated funding and required local governments to develop prevention plans.
+
+**Results**: Japan's suicide rate declined from 25.5 per 100,000 in 2003 to approximately 15.7 per 100,000 in 2021, a 38% reduction. The decline was particularly pronounced among middle-aged men, the demographic most affected by the late-1990s economic crisis.
+
+**Applicability to U.S.**: Japan's experience demonstrates that sustained national commitment, combining economic policy, healthcare reform, and cultural change, can produce large-scale reductions in suicide. The emphasis on workplace reform (reducing "karoshi" or death from overwork) and community-based support networks offers models for addressing middle-aged male suicide in the U.S.
+
 ---
 
 ## Pilot Programs and Demonstrations
@@ -181,6 +227,18 @@ The VA's distribution of 5 million free gun locks and implementation of lethal m
 ### Sources of Strength (Schools)
 
 This peer-led upstream prevention program trains student leaders to connect peers to adult resources and strengthen protective factors. A randomized controlled trial demonstrated 40% reductions in suicide attempts in participating schools (Wyman et al., 2010). The program operates in over 3,000 schools but reaches only a fraction of U.S. students.
+
+### Centerstone (Tennessee/Indiana)
+
+Centerstone, a large nonprofit behavioral health provider operating across multiple states, implemented the Zero Suicide framework beginning in 2015. By systematically training staff, implementing universal screening, conducting safety planning for all at-risk patients, and establishing caring contacts post-discharge, Centerstone achieved a 64% reduction in suicide attempts among its patient population over five years (SPRC Case Studies, 2022). The Centerstone model demonstrates that Zero Suicide can be implemented in community mental health settings, not only in integrated health systems like Henry Ford.
+
+### Governor's and Mayor's Challenges to Prevent Veteran Suicide
+
+This SAMHSA/VA-sponsored initiative engages state governors and city mayors in implementing community-based veteran suicide prevention strategies. Participating states and cities convene coalitions of VA, state agencies, community organizations, and veterans to implement tailored prevention plans. By 2024, all 50 states, 4 territories, and over 60 cities had enrolled. Early evaluations indicate improved interagency coordination and increased veteran access to community-based mental health services in participating jurisdictions.
+
+### Garrett Lee Smith Act Grantee Communities
+
+Communities receiving GLS Act funding for youth and campus suicide prevention programs have demonstrated measurable impact. A 2015 evaluation published in the *American Journal of Public Health* (Walrath et al.) found that counties receiving GLS grants experienced 5-10% reductions in youth suicide rates compared to matched non-funded counties. By 2024, GLS grants had been awarded to every state and hundreds of college campuses. The evidence supports expansion and increased per-grant funding levels.
 
 ---
 
@@ -218,6 +276,24 @@ Suicide prevention cannot succeed in isolation. The following policy changes in 
 - **Mental health parity enforcement**: Strengthen enforcement of the Mental Health Parity and Addiction Equity Act to close the 2.7x out-of-network disparity for behavioral health services (see [Healthcare: Solutions](../../healthcare/07-solutions.md))
 - **Housing and economic security**: Expand housing-first programs and economic opportunity initiatives in high-distress communities to address the upstream drivers of despair (see [Housing: Solutions](../../housing/07-solutions.md))
 - **Veteran transition support**: Strengthen military-to-civilian transition programs with integrated mental health screening and care continuity (see [Veterans: Solutions](../../veterans/07-solutions.md))
+- **Social isolation reduction**: Invest in community infrastructure (senior centers, youth programs, civic organizations) that rebuilds social connectedness as a protective factor (see [Social: Solutions](../../social/07-solutions.md))
+- **Criminal justice reform**: Address the 3-5x elevated suicide rate among incarcerated individuals through jail suicide prevention protocols, diversion programs, and reentry mental health support (see [Justice: Solutions](../../justice/07-solutions.md))
+
+## Cost-Benefit Summary
+
+| Solution | Annual Cost | Expected Impact | Cost per Life Saved (est.) |
+|---|---|---|---|
+| 988 Crisis Continuum | $2.6 billion | 15-20% reduction in crisis mortality | ~$200,000-$400,000 |
+| Lethal Means Safety | $1.7 billion (Year 1-5 avg.) | 10-20% reduction in firearm suicide | ~$100,000-$300,000 |
+| Zero Suicide Healthcare | $350 million | 25-50% reduction in patient suicide | ~$150,000-$350,000 |
+| Workforce Expansion | $900 million | Indirect: enables all other solutions | N/A (enabling investment) |
+| Social Connectedness | $660 million | 10-15% reduction in upstream risk | ~$300,000-$600,000 |
+| Veteran/Military | $1.4 billion | 25% reduction in veteran suicide | ~$250,000-$500,000 |
+| Youth/LGBTQ+ | $325 million | 25-40% reduction in target populations | ~$100,000-$300,000 |
+| Postvention | $150 million | Reduced contagion; survivor support | ~$500,000-$1,000,000 |
+| Data/Research | $200 million | Enables evidence-based targeting | N/A (enabling investment) |
+
+For context, the statistical value of a human life used in federal regulatory analysis is approximately $10-12 million (EPA, DOT, 2023). At 49,449 annual deaths, even a 10% reduction (4,945 lives saved) represents $49-59 billion in statistical value -- far exceeding the total annual cost of all proposed solutions combined.
 
 ---
 

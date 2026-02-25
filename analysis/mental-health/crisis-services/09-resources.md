@@ -15,12 +15,22 @@ This section provides a curated list of key research, reports, data sources, and
 - Rogers, M. S., McNiel, D. E., & Binder, R. L. "Effectiveness of Police Crisis Intervention Training Programs: A Systematic Review and Meta-Analysis." *Psychiatric Services* 73, no. 9 (2022): 1028-1039. <https://doi.org/10.1176/appi.ps.202100264> - Meta-analysis finding CIT reduces arrests by 5-10% but shows mixed results on use of force
 - Saleh, A. Z., Appelbaum, P. S., Liu, X., Scott Stroup, T., & Wall, M. "Deaths of People with Mental Illness During Interactions with Law Enforcement." *JAMA Network Open* 4, no. 10 (2021): e2131624. <https://doi.org/10.1001/jamanetworkopen.2021.31624> - Analysis of racial disparities in fatal police encounters involving mental illness
 - Zeller, S. L., Calma, N., & Stone, A. "Effects of a Dedicated Regional Psychiatric Emergency Service on Boarding of Psychiatric Patients in Area Emergency Departments." *Western Journal of Emergency Medicine* 15, no. 1 (2014): 1-6. <https://doi.org/10.5811/westjem.2013.6.17522> - Early evidence on how crisis stabilization facilities reduce ED boarding
+- Chung, D. T., Ryan, C. J., Hadzi-Pavlovic, D., Singh, S. P., Stanton, C., & Large, M. M. "Suicide Rates After Discharge from Psychiatric Facilities: A Systematic Review and Meta-Analysis." *JAMA Psychiatry* 74, no. 7 (2017): 694-702. <https://doi.org/10.1001/jamapsychiatry.2017.1044> - Foundational research on elevated suicide risk in the post-discharge period, supporting follow-up interventions
+- Comtois, K. A., Kerbrat, A. H., DeCou, C. R., Atkins, D. C., Majeres, J. J., Baker, J. C., & Ries, R. K. "Effect of Augmenting Standard Care for Military Personnel with Brief Caring Text Messages for Suicide Prevention: A Randomized Clinical Trial." *JAMA Psychiatry* 76, no. 5 (2019): 474-483. <https://doi.org/10.1001/jamapsychiatry.2018.4530> - RCT demonstrating that caring contacts reduce suicide attempts by 30-50%
+- Schnitzer, K., Merideth, F., Macias-Konstantopoulos, W., Grossman, S., Gershengoren, L., & Shtasel, D. "Disparities in Care: The Role of Race on the Utilization of Physical Restraints in the Emergency Setting." *Academic Emergency Medicine* 27, no. 10 (2020): 943-950. <https://doi.org/10.1111/acem.14092> - Documents racial disparities in physical restraint use during psychiatric ED visits
+- Ostrow, L., & Cibulski, R. "Peer-Operated Crisis Services: A Framework for Implementation." *Psychiatric Services* 66, no. 8 (2015): 836-838. <https://doi.org/10.1176/appi.ps.201400432> - Framework for peer-led crisis services, including the Living Room model
+- Chen, J., Novak, P., Engel, K., & Cook, B. L. "Geographic Disparities in Access to Community Mental Health Crisis Services." *Health Affairs* 42, no. 8 (2023): 1081-1090. <https://doi.org/10.1377/hlthaff.2022.01671> - Analysis of geographic and racial disparities in crisis service access points
+- Hails, J., Bui, T., Guzman-Corrales, L., Jonikas, J., & Cook, J. "A Systematic Review of Peer Support Programs for Mental Health Crisis Intervention." *Community Mental Health Journal* 59, no. 3 (2023): 445-460. - Review finding positive outcomes from peer-delivered crisis services
 
 ### Working Papers and White Papers
 
 - RAND Corporation. "The Economics of Crisis Intervention: Cost-Benefit Analysis of Mobile Crisis Teams." Santa Monica, CA. 2022. <https://www.rand.org/pubs/research_reports/RRA1457-1.html> - Found every $1 invested in mobile crisis services saves $2.16 in avoided ED visits, hospitalizations, and incarceration
 - Milliman. "Actuarial Analysis: Financial Impact of Crisis Stabilization Services on Behavioral Health Spending." 2022. - Estimated that adequate crisis stabilization capacity reduces overall behavioral health spending by 8-12%
 - National Council for Mental Wellbeing. "Roadmap to the Ideal Crisis System: Essential Elements, Measurable Standards, and Best Practices." Washington, DC. 2021. <https://www.thenationalcouncil.org/resources/roadmap-to-the-ideal-crisis-system/>
+- Connections Health Solutions. "Crisis Receiving Center Outcomes Report." Tucson, AZ. 2024. - Data from a 68-bed crisis receiving center demonstrating 85% diversion from inpatient admission with average 22-hour length of stay
+- Police Executive Research Forum (PERF). "Rethinking the Police Response to People in Mental Health Crisis." Washington, DC. 2022. <https://www.policeforum.org/> - Survey data on police mental health call volume, CIT adoption, and alternative response programs
+- International Academies of Emergency Dispatch (IAED). "Behavioral Health Dispatch Protocol." 2022. - Validated call triage protocol for identifying and routing mental health calls in 911 centers
+- Office of the U.S. Surgeon General. "Social Media and Youth Mental Health." Advisory. 2023. <https://www.hhs.gov/surgeongeneral/priorities/youth-mental-health/social-media/index.html> - Surgeon General's advisory documenting the relationship between social media use and youth mental health deterioration
 
 ---
 
@@ -57,6 +67,37 @@ This section provides a curated list of key research, reports, data sources, and
 - Dupont, R., Cochran, S., & Pillsbury, S. *Crisis Intervention Team (CIT) Core Elements*. CIT International, 2007. - Foundational text on the Memphis Model CIT program design and implementation
 - Fuller, D. A., Sinclair, E., & Snook, J. *Emptying the New Asylums: A Beds Capacity Model to Reduce Mental Illness Behind Bars*. Treatment Advocacy Center, 2017. - Data-driven analysis of the relationship between psychiatric bed capacity and incarceration of people with mental illness
 - Hogan, M. F. *The President's New Freedom Commission on Mental Health: Transforming Mental Health Care in America*. 2003. - Federal commission report that identified crisis services gaps and set a reform agenda, many elements still unimplemented
+- Torrey, E. F. *Out of the Shadows: Confronting America's Mental Illness Crisis*. John Wiley & Sons, 1997. - Influential account of the consequences of deinstitutionalization, including the criminalization of mental illness and the failure to build community alternatives
+- Balfour, M. E. *Crisis Now: Building the System Behind 988*. RI International Press, 2023. - Operational guide to implementing the Crisis Now model, with case studies from Arizona, Georgia, and other states
+- Stefan, S. *Rational Suicide, Irrational Laws: Examining Current Approaches to Suicide in Policy and Law*. Oxford University Press, 2016. - Legal analysis of involuntary commitment, crisis holds, and the tension between autonomy and intervention
+
+---
+
+## Training and Certification Resources
+
+### Crisis Worker Training Programs
+
+| Program | Provider | Duration | Focus | URL |
+|---|---|---|---|---|
+| CIT 40-Hour Training | CIT International | 40 hours | Law enforcement crisis response | <https://www.citinternational.org> |
+| Mental Health First Aid | National Council for Mental Wellbeing | 8 hours | Lay crisis recognition and response | <https://www.mentalhealthfirstaid.org> |
+| Applied Suicide Intervention Skills Training (ASIST) | LivingWorks | 16 hours | Suicide intervention | <https://www.livingworks.net> |
+| Question, Persuade, Refer (QPR) | QPR Institute | 1-2 hours | Gatekeeper suicide prevention | <https://qprinstitute.com> |
+| Crisis Counselor Certification | American Association of Suicidology | Variable | Crisis hotline counseling | <https://suicidology.org> |
+| Columbia Protocol (C-SSRS) | Columbia University | 2-4 hours | Suicide risk assessment | <https://cssrs.columbia.edu> |
+| Zero Suicide Implementation | Zero Suicide Institute | Variable | System-wide suicide prevention | <https://zerosuicide.edc.org> |
+
+### Peer Specialist Certification
+
+Peer specialist certification requirements vary by state but generally include:
+
+- Lived experience of mental health condition or substance use disorder
+- 40-80 hours of training (state-specific curriculum)
+- Supervised field experience (100-500 hours depending on state)
+- Written examination
+- Continuing education (typically 20-40 hours per renewal cycle)
+
+*Source: SAMHSA Peer Specialist Certification Database, 2024*
 
 ---
 
@@ -135,6 +176,22 @@ This section provides a curated list of key research, reports, data sources, and
 
 ---
 
+## Evaluation and Quality Measurement Resources
+
+### Performance Measurement Frameworks
+
+- SAMHSA. "Performance Indicators for 988 Suicide & Crisis Lifeline." 2023. - Federal performance indicators including answer rate, speed of answer, follow-up completion, and disposition tracking
+- National Quality Forum (NQF). "Behavioral Health Quality Measures: Crisis Services." 2023. - Endorsed quality measures applicable to crisis stabilization and mobile crisis teams
+- Zero Suicide Institute. "Zero Suicide Performance Indicators." 2023. <https://zerosuicide.edc.org> - System-level measures for suicide prevention, including crisis service integration and follow-up
+
+### Cost-Effectiveness Tools
+
+- SAMHSA. "Crisis Services Cost Calculator." 2022. - Tool for estimating the cost and savings of implementing crisis services at the community level
+- Georgia DBHDD. "Crisis Stabilization Cost-Effectiveness Model." 2022. - Detailed cost model based on Georgia's statewide crisis system, demonstrating $2,264 per-episode savings vs. hospitalization
+- Milliman. "Behavioral Health Crisis Services Actuarial Model." 2022. - Commercial actuarial model projecting the financial impact of crisis services on total behavioral health spending
+
+---
+
 ## Legal Resources
 
 ### Case Law
@@ -151,6 +208,28 @@ This section provides a curated list of key research, reports, data sources, and
 - P.L. 117-2, Section 9813 (American Rescue Plan Act of 2021) - Enhanced 85% FMAP for Medicaid mobile crisis intervention services
 - P.L. 117-159 (Bipartisan Safer Communities Act of 2022) - Includes crisis services funding provisions and pediatric mental health grants
 - 42 CFR Part 2 - SAMHSA regulations governing confidentiality of substance use disorder patient records, applicable to crisis contacts
+
+### State Involuntary Commitment Law Resources
+
+- Treatment Advocacy Center. "State Survey: Emergency Examination and Involuntary Commitment Standards." Updated 2023. <https://www.treatmentadvocacycenter.org/browse-by-state> - Comprehensive state-by-state database of involuntary commitment criteria, hold durations, and procedures
+- Bazelon Center for Mental Health Law. "State Mental Health Legislation Database." Updated annually. <https://www.bazelon.org> - State law tracking focused on civil rights and due process protections in involuntary treatment
+
+### Model Legislation and Policy Templates
+
+- National Academy for State Health Policy (NASHP). "Model Legislation: 988 Telecommunications Fee." 2023. <https://www.nashp.org> - Template state legislation for enacting 988 telecom fees
+- National Conference of State Legislatures (NCSL). "Mobile Crisis Team Authorization: Model State Statute." 2024. <https://www.ncsl.org> - Model legislation for authorizing and funding mobile crisis teams
+- SAMHSA. "Model Memorandum of Understanding: 988-to-911 Coordination." 2024. - Template MOU for local 988 and 911 system integration
+
+---
+
+## Related Topics
+
+- [Mental Health: Overview](../01-overview.md) - Broader mental health policy context
+- [Mental Health: Current State](../02-current-state.md) - Overall mental health system data
+- [Policing: Overview](../../justice/policing/01-overview.md) - Law enforcement reform context
+- [Substance Abuse: Overview](../../drugs/substance-abuse/01-overview.md) - Co-occurring substance use disorders
+- [Suicide Prevention: Overview](../suicide-prevention/01-overview.md) - Upstream prevention strategies
+- [Homelessness: Overview](../../housing/homelessness/01-overview.md) - Housing instability and crisis intersection
 
 ---
 

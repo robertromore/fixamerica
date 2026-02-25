@@ -60,6 +60,21 @@ Policing tactics that precede drug arrests show pronounced racial disparities. D
 | Ferguson, Missouri | Black residents were 2.07 times more likely to be searched during traffic stops, despite a lower contraband hit rate (26% vs. 30% for white drivers) | 2013 | DOJ Ferguson Report, 2015 |
 | Connecticut (statewide) | Black and Hispanic drivers searched at 2x and 1.5x the rate of white drivers | 2020 | CT Racial Profiling Prohibition Project, 2021 |
 | Stanford Open Policing Project | Across 21 state patrol agencies, Black drivers were stopped at higher rates; lower search thresholds applied to Black and Hispanic drivers | 2015-2020 | Stanford Open Policing, 2020 |
+| Los Angeles | Black residents stopped at 4.6x their share of the driving-age population; consent searches of Black drivers 6x higher | 2019-2022 | LAPD Stop Data Report, 2023 |
+| Illinois | Statewide data shows Black drivers 2.3x more likely to be asked for consent searches during traffic stops | 2021 | Illinois Traffic and Pedestrian Stop Study, 2022 |
+
+### Contraband Hit Rates
+
+A critical test of whether racial disparities in searches are justified by differential offending is the "hit rate" -- the percentage of searches that yield contraband. Consistently, jurisdictions that track this data find equal or lower hit rates for searches of Black and Hispanic individuals compared to white individuals, indicating that officers apply lower evidentiary thresholds when deciding to search minority drivers.
+
+| Jurisdiction | White Hit Rate | Black Hit Rate | Hispanic Hit Rate | Source |
+|--------------|---------------|----------------|-------------------|--------|
+| Ferguson, MO | 30% | 26% | N/A | DOJ, 2015 |
+| Connecticut (statewide) | 29% | 25% | 26% | CT Racial Profiling Prohibition Project, 2021 |
+| North Carolina (statewide) | 32% | 26% | 28% | UNC Frank Porter Graham Study, 2020 |
+| Stanford (21 state patrols) | Higher | Lower | Lower | Pierson et al., *Nature Human Behaviour*, 2020 |
+
+The "veil of darkness" analysis -- comparing racial composition of traffic stops before and after sunset, when officers cannot readily see the race of the driver -- has provided additional evidence of racial profiling. Studies in multiple jurisdictions found that Black drivers constituted a higher share of stops during daylight hours when their race was visible (Grogger and Ridgeway, *Journal of the American Statistical Association*, 2006).
 
 ## Sentencing Disparities
 
@@ -104,7 +119,7 @@ Mandatory minimum sentences for drug offenses disproportionately affect people o
 
 ### Prosecutorial Discretion
 
-Federal prosecutors exercise significant discretion in charging decisions, particularly regarding mandatory minimum triggers.
+Federal prosecutors exercise significant discretion in charging decisions, particularly regarding mandatory minimum triggers. Because approximately 97% of federal criminal cases are resolved through plea bargains, prosecutorial charging decisions -- not judicial sentencing -- are the primary determinant of outcomes.
 
 | Metric | Value | Source |
 |--------|-------|--------|
@@ -113,6 +128,24 @@ Federal prosecutors exercise significant discretion in charging decisions, parti
 | Safety valve eligibility denial rate (Black defendants) | Higher than white | USSC, 2023 |
 | Substantial assistance departures (Black defendants) | 25.3% of cases | USSC, 2023 |
 | Substantial assistance departures (white defendants) | 29.5% of cases | USSC, 2023 |
+| Charge reduction through plea bargaining (white defendants) | 25% more likely than Black defendants | Berdejo, *Boston College Law Review*, 2018 |
+| Pretrial detention rate (Black drug defendants, federal) | 52.3% | USSC, 2023 |
+| Pretrial detention rate (white drug defendants, federal) | 34.7% | USSC, 2023 |
+
+Research by Rehavi and Starr (2014) in the *Journal of Political Economy* found that Black defendants in federal drug cases received sentences approximately 10% longer than comparable white defendants, and that this gap was primarily driven by prosecutors' initial charging decisions -- specifically, the decision to file charges carrying mandatory minimums -- rather than by judicial sentencing discretion.
+
+### Diversion and Drug Court Disparities
+
+Drug courts and diversion programs, designed as alternatives to incarceration for people with substance use disorders, exhibit their own racial disparities in access and outcomes.
+
+| Metric | Value | Source |
+|--------|-------|--------|
+| Black adults referred to drug courts vs. arrested for drug offenses | Underrepresented relative to arrest share | National Association of Drug Court Professionals, 2022 |
+| Completion rates (Black participants vs. white) | 38% vs. 52% | NADCP, 2022 |
+| Drug court judges who are white | ~78% | NADCP survey, 2021 |
+| Black share of federal pretrial diversion program participants | 16% (vs. 33% of federal drug defendants) | DOJ, 2023 |
+
+A 2019 study in the *Journal of Criminal Justice* found that Black defendants were significantly less likely to be referred to drug court by prosecutors, even after controlling for criminal history, substance use severity, and offense type. When admitted, Black participants faced higher rates of sanctions for program violations.
 
 ## Incarceration Disparities
 
@@ -141,7 +174,7 @@ The Black-to-white drug imprisonment ratio has declined from 8.7:1 in 2000 to 5.
 
 ## Collateral Consequences
 
-Drug convictions produce cascading penalties that disproportionately affect communities of color.
+Drug convictions produce cascading penalties that disproportionately affect communities of color. These consequences extend far beyond the criminal sentence itself, creating what scholars have termed "invisible punishment" -- a web of civil disabilities that follows individuals for years or decades after their criminal sentence has been served.
 
 ### Key Collateral Consequences by Race
 
@@ -153,6 +186,39 @@ Drug convictions produce cascading penalties that disproportionately affect comm
 | SNAP/TANF ban for drug felons | 26 states retain full or partial ban | Black families overrepresented among those denied benefits | The Sentencing Project, 2021 |
 | Felon disenfranchisement | ~4.6 million Americans disenfranchised | 1 in 16 Black adults disenfranchised (vs. 1 in 59 non-Black) | Sentencing Project, 2022 |
 | Child welfare involvement | Drug conviction increases foster care placement risk | Black children 2x more likely to be in foster care | Children's Bureau, 2023 |
+| Immigration consequences | Drug conviction = deportation for non-citizens | Latino immigrants disproportionately subject to drug-related removal proceedings | TRAC Immigration, 2023 |
+| Professional licensing bars | Drug felony disqualifies from licensed professions in most states | Reduces economic mobility in communities with highest conviction rates | National Conference of State Legislatures, 2023 |
+| Jury service exclusion | Felony conviction bars jury service in 28 states | Juries in drug cases lack representation from communities most affected by drug enforcement | Kalt, *American Criminal Law Review*, 2003 |
+
+### Cumulative Impact on Communities
+
+The collateral consequences of drug convictions are not merely individual hardships -- they concentrate in specific neighborhoods, compounding community-level disadvantage. Research by Crutchfield and Weeks (*Social Problems*, 2015) documented that neighborhoods with high incarceration rates experience reduced labor force participation, lower property values, weakened social institutions, and diminished civic engagement. This neighborhood-level effect means that even residents without criminal records are harmed by the concentration of drug enforcement in their communities.
+
+## Expungement and Record Clearing
+
+### State Expungement Progress
+
+As of 2024, the expungement movement has gained significant momentum, though implementation varies widely:
+
+| State | Expungement Type | Records Affected | Status | Source |
+|-------|-----------------|------------------|--------|--------|
+| Illinois | Automatic (cannabis) | ~800,000 records | Operational | Governor's Office, 2023 |
+| New Jersey | Automatic (cannabis + other) | Hundreds of thousands eligible | Implemented 2023 | NJ Courts, 2023 |
+| New York | Automatic (cannabis) | ~200,000 records expected | In process | NY OCM, 2024 |
+| California | Automatic (Prop 64) | ~230,000 records | Ongoing since 2018 | CA DOJ, 2023 |
+| Michigan | Clean Slate Act | 1 million+ eligible | Implemented 2023 | MI Courts, 2023 |
+| Pennsylvania | Clean Slate Act | Millions eligible for sealing | Implemented 2019 | PA Courts, 2022 |
+| Virginia | Cannabis expungement | ~300,000 eligible | In process | VA AG, 2023 |
+| Connecticut | Clean Slate Act | Hundreds of thousands eligible | Implemented 2023 | CT Courts, 2023 |
+
+### Federal Expungement Status
+
+At the federal level, expungement for drug convictions remains limited:
+
+- President Biden pardoned all federal simple marijuana possession convictions in October 2022, affecting approximately 6,500 individuals
+- No automatic federal expungement system exists for drug offenses
+- The Clean Slate Act (federal), introduced in the 117th and 118th Congresses, would create automatic sealing of federal criminal records after a waiting period
+- Federal marijuana rescheduling from Schedule I to Schedule III (proposed 2024) would not itself expunge prior convictions
 
 ## Cannabis Legalization and Equity
 
@@ -177,6 +243,23 @@ Twenty states have established cannabis social equity programs designed to ensur
 | Legal cannabis industry revenue (2023) | ~$33.6 billion | MJBizDaily, 2024 |
 | Share of cannabis industry employment (minorities) | ~28% | Headset/Leafly, 2023 |
 
+## Treatment Access Disparities
+
+Racial disparities extend beyond enforcement into the treatment system, where Black and Latino individuals face systematic barriers to accessing evidence-based drug treatment.
+
+### Treatment Access by Race
+
+| Metric | Value | Source |
+|--------|-------|--------|
+| Black adults receiving treatment for substance use disorder | 9.3% of those with SUD | SAMHSA NSDUH, 2023 |
+| White adults receiving treatment for substance use disorder | 12.1% of those with SUD | SAMHSA NSDUH, 2023 |
+| Black patients receiving buprenorphine for opioid use disorder | 35% less likely than white patients | Lagisetty et al., *JAMA Network Open*, 2019 |
+| Black patients receiving methadone (daily-supervised, clinic-based) vs. buprenorphine (office-based, take-home) | Disproportionately directed to methadone | Hansen et al., *Social Science & Medicine*, 2013 |
+| Black share of medication-assisted treatment recipients | 15% (vs. 33% of drug offenders in federal system) | SAMHSA TEDS, 2023 |
+| Treatment facilities in majority-Black neighborhoods offering MAT | 54% (vs. 72% in majority-white neighborhoods) | *Health Affairs*, 2022 |
+
+The treatment access disparity reflects both geographic barriers (fewer providers in communities of color) and systemic channeling: Black individuals with substance use disorders are more likely to encounter the criminal justice system first and the treatment system second, while white individuals are more likely to receive medical intervention before criminal justice involvement. Hansen and colleagues documented in *Social Science & Medicine* (2013) that the two-tier MAT system -- methadone (clinic-based, daily attendance, heavily regulated) versus buprenorphine (office-based, take-home, prescribed by private physicians) -- effectively replicates racial segregation in treatment.
+
 ## Geographic Variation
 
 Racial disparities in drug enforcement vary substantially by jurisdiction, reflecting differences in policing strategies, prosecutorial cultures, and state law.
@@ -190,6 +273,33 @@ Racial disparities in drug enforcement vary substantially by jurisdiction, refle
 | Midwest | Highest marijuana arrest disparity ratios | Iowa, Illinois (pre-legalization), Wisconsin |
 | West | Lower disparities where cannabis is legal; persistent disparities in methamphetamine enforcement targeting Latino communities | California, Oregon |
 
+### County-Level Variation
+
+The ACLU's 2020 analysis found that marijuana arrest disparities varied enormously at the county level, with some counties showing Black-to-white arrest ratios exceeding 10:1. In many cases, the highest disparities were found not in the most segregated or poorest counties, but in predominantly white counties with small Black populations -- suggesting that visible racial difference itself is a factor in enforcement targeting.
+
+| County | Black-to-White Marijuana Arrest Ratio | State | Source |
+|--------|---------------------------------------|-------|--------|
+| Jasper County, IA | >14:1 | Iowa | ACLU, 2020 |
+| Livingston County, KY | >12:1 | Kentucky | ACLU, 2020 |
+| Sangamon County, IL | 10.2:1 | Illinois | ACLU, 2020 |
+| Mineral County, MT | >9:1 | Montana | ACLU, 2020 |
+| Raleigh County, WV | >8:1 | West Virginia | ACLU, 2020 |
+
+## Drug Use Rates by Race
+
+The foundational fact underlying all analysis of racial disparities in drug enforcement is that drug use rates are roughly comparable across racial groups. The federal government's own survey -- SAMHSA's National Survey on Drug Use and Health (NSDUH) -- consistently documents this finding:
+
+| Substance | Black Past-Year Use | White Past-Year Use | Hispanic Past-Year Use | Source |
+|-----------|--------------------|--------------------|----------------------|--------|
+| Any illicit drug | 15.1% | 14.4% | 12.8% | SAMHSA NSDUH, 2023 |
+| Marijuana | 12.4% | 11.8% | 9.7% | SAMHSA NSDUH, 2023 |
+| Cocaine (any form) | 1.9% | 2.1% | 1.8% | SAMHSA NSDUH, 2023 |
+| Heroin | 0.3% | 0.4% | 0.2% | SAMHSA NSDUH, 2023 |
+| Methamphetamine | 0.4% | 0.8% | 0.6% | SAMHSA NSDUH, 2023 |
+| Prescription opioid misuse | 2.8% | 3.4% | 2.6% | SAMHSA NSDUH, 2023 |
+
+Drug selling rates are also comparable: a study by Ramchand, Pacula, and Iguchi (*Drug and Alcohol Dependence*, 2006) found no statistically significant racial differences in drug selling behavior after controlling for socioeconomic factors. The disconnect between comparable use/selling rates and vastly disproportionate enforcement outcomes is the central empirical fact that defines this policy domain.
+
 ## Recent Developments (2020-2025)
 
 - **George Floyd Policing Reforms**: Following the 2020 racial justice protests, several cities and states enacted policing reforms including restrictions on pretextual stops and consent searches, though most did not directly address drug enforcement disparities.
@@ -200,10 +310,12 @@ Racial disparities in drug enforcement vary substantially by jurisdiction, refle
 
 ## Emerging Challenges
 
-- **Fentanyl Enforcement Disparities**: As enforcement focus shifts to fentanyl, early data suggests racial disparities are replicating in synthetic opioid cases. Black individuals constituted 19.4% of federal fentanyl trafficking defendants in FY2022, while Hispanic individuals constituted 52.8% (USSC, 2023). Latino communities face increasing targeting in fentanyl enforcement operations near the southern border.
-- **Digital Surveillance**: Drug enforcement increasingly relies on geofence warrants, cell-site location information, and social media monitoring, tools that may reproduce racial bias when directed at historically over-policed communities.
-- **Cannabis Banking Gap**: The lack of federal banking access for cannabis businesses disproportionately affects social equity licensees who lack the capital reserves to operate as cash-only businesses.
-- **Data Gaps**: The FBI's transition from the Uniform Crime Reporting (UCR) system to the National Incident-Based Reporting System (NIBRS) in 2021 created data gaps that make trend analysis more difficult, as not all agencies initially complied with NIBRS reporting requirements.
+- **Fentanyl Enforcement Disparities**: As enforcement focus shifts to fentanyl, early data suggests racial disparities are replicating in synthetic opioid cases. Black individuals constituted 19.4% of federal fentanyl trafficking defendants in FY2022, while Hispanic individuals constituted 52.8% (USSC, 2023). Latino communities face increasing targeting in fentanyl enforcement operations near the southern border. Proposed federal legislation to increase fentanyl sentencing penalties risks repeating the crack cocaine dynamic -- severe penalties attached to a substance disproportionately prosecuted in minority communities.
+- **Digital Surveillance**: Drug enforcement increasingly relies on geofence warrants, cell-site location information, social media monitoring, and automated license plate readers -- tools that may reproduce racial bias when directed at historically over-policed communities. A 2022 Georgetown Law Center on Privacy and Technology report found that facial recognition technology was disproportionately used by law enforcement in investigations in Black neighborhoods.
+- **Cannabis Banking Gap**: The lack of federal banking access for cannabis businesses disproportionately affects social equity licensees who lack the capital reserves to operate as cash-only businesses. The SAFE Banking Act, which would grant cannabis businesses access to financial services, has passed the House repeatedly but stalled in the Senate.
+- **Data Gaps**: The FBI's transition from the Uniform Crime Reporting (UCR) system to the National Incident-Based Reporting System (NIBRS) in 2021 created data gaps that make trend analysis more difficult, as not all agencies initially complied with NIBRS reporting requirements. In the transition year, approximately 40% of law enforcement agencies did not report data to NIBRS, rendering 2021 arrest data incomplete.
+- **Predictive Policing Algorithm Expansion**: Despite documented concerns about algorithmic bias, police departments continue adopting predictive policing tools (PredPol/Geolitica, ShotSpotter/SoundThinking) that direct enforcement resources to neighborhoods with high historical arrest rates -- predominantly communities of color. Research by Lum and Isaac (*Significance*, 2016) demonstrated that these tools amplify existing racial disparities rather than reflecting underlying offense patterns.
+- **Post-Reform Recriminalization**: Oregon's 2024 partial reversal of Measure 110, recriminalizing public drug use, signals a political backlash that may stall decriminalization efforts in other states. The recriminalization debate has centered on visible public drug use rather than on the racial equity motivations that initially supported decriminalization.
 
 ---
 

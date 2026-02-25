@@ -63,6 +63,18 @@ The sequencing is deliberately front-loaded with bipartisan measures (988 fundin
 
 By the end of Year 2: sustainable 988 funding mechanism enacted; in-state 988 answer rate improved from ~70% to ~80%; 1,000+ new crisis counselors deployed; safety planning and lethal means counseling reimbursable in all federally funded healthcare settings; 10,000+ gun retailers participating in voluntary means safety; VA mental health services available to all veterans.
 
+### Phase 1 Political Strategy
+
+The Phase 1 agenda is deliberately constructed to maximize bipartisan support:
+
+- **988 funding**: Models the established 911 telecom fee structure; supported by telecom industry precedent and National Governors Association endorsement
+- **VA expansion**: Veteran suicide prevention commands near-universal political support; leverages existing IAVA, American Legion, and VFW advocacy networks
+- **CMS billing codes**: Administrative action not requiring legislation; can be framed as reducing healthcare costs by preventing expensive ED visits and hospitalizations
+- **Gun Shop Project expansion**: Voluntary, industry-partnered, and explicitly non-regulatory; demonstrates that suicide prevention and gun ownership are compatible
+- **School prevention programs**: Framed around child safety; avoids LGBTQ+-specific content in initial phase to prevent cultural opposition from blocking universal programs
+
+The most politically challenging Phase 1 action is the introduction of federal ERPO legislation. This is sequenced as "introduced" (not "enacted") in Phase 1, allowing coalition-building and public education before seeking passage in Phase 2.
+
 ---
 
 ## Phase 2: Systemic Reform and Expansion (Years 3-5)
@@ -127,6 +139,16 @@ By the end of Year 5: 988 in-state answer rate at ~90%; mobile crisis teams avai
 
 By Year 10: age-adjusted suicide rate below 12 per 100,000 (from 14.3 in 2022); 95% 988 answer rate; universal mobile crisis access; 50% reduction in shortage areas; 80% secure firearm storage rate; veteran suicide rate reduced by 25%; youth suicide rate reduced by 25%; measurable improvements in social connectedness indicators.
 
+### Phase 3 Sustainability Mechanisms
+
+Long-term sustainability requires structural mechanisms that survive changes in political leadership:
+
+- **Dedicated revenue**: The federal 988 telecom fee, once established, generates automatic annual revenue without annual appropriations battles -- the same mechanism that sustains 911 infrastructure
+- **CMS conditions of participation**: Once Zero Suicide becomes a condition for Medicare/Medicaid reimbursement, healthcare systems have permanent financial incentive to maintain compliance
+- **Institutional infrastructure**: The permanent Office of Suicide Prevention, once established, creates bureaucratic permanence with career staff, institutional memory, and cross-agency authority that outlasts any single administration
+- **State-level lock-in**: States that have enacted ERPO laws, 988 telecom fees, and school prevention mandates rarely repeal them; the political cost of reversing suicide prevention measures exceeds the cost of maintaining them
+- **Cultural change**: By Year 10, the normalization of secure firearm storage, universal crisis access, and healthcare screening should produce self-reinforcing social norms that are resilient to policy reversal
+
 ---
 
 ## Success Metrics and Milestones
@@ -154,6 +176,10 @@ By Year 10: age-adjusted suicide rate below 12 per 100,000 (from 14.3 in 2022); 
 **State Accountability**: Condition 988 federal funding on state compliance with minimum standards for answer rates, mobile crisis deployment, and crisis stabilization capacity. Publish annual state-by-state scorecards.
 
 **Public Dashboard**: Maintain a publicly accessible dashboard (modeled on the current SAMHSA 988 Performance Dashboard) tracking all success metrics in real time or near-real time.
+
+**Equity Accountability**: Require disaggregated reporting by race, ethnicity, age, gender, sexual orientation, geography, and veteran status for all success metrics. Flag disparities that exceed 20% of the national average for targeted corrective action.
+
+**Feedback Loops**: Establish formal mechanisms for crisis center workers, healthcare providers, loss survivors, and attempt survivors to provide input on program design, implementation, and evaluation. The "nothing about us without us" principle, borrowed from the disability rights movement, should govern suicide prevention policy development.
 
 ## Risk Mitigation
 
@@ -233,6 +259,40 @@ By Year 10: age-adjusted suicide rate below 12 per 100,000 (from 14.3 in 2022); 
 - **Technology**: 988 call center infrastructure upgrades, telehealth platforms, electronic health record integration for Zero Suicide screening and safety planning, public dashboard system
 - **Facilities**: 500 crisis stabilization units (average 8-10 beds); mobile crisis team vehicles and equipment; bridge barrier construction at high-lethality sites
 - **Training**: Workforce training curricula for Zero Suicide, lethal means counseling, safety planning, cultural competency (LGBTQ+, AI/AN, veteran populations)
+
+## Dependencies and Sequencing Logic
+
+The roadmap's sequencing reflects critical dependencies between reforms:
+
+```text
+Phase 1: Foundation
+  988 Funding → enables → Mobile Crisis Deployment (Phase 2)
+  CMS Billing Codes → enables → Zero Suicide Implementation (Phase 2)
+  Workforce Pipeline → enables → All service delivery expansions
+  Gun Shop Project → builds cultural support for → Federal ERPO (Phase 2)
+  VA Expansion → demonstrates → Means counseling effectiveness at scale
+
+Phase 2: Systemic Reform
+  Mobile Crisis + Stabilization Units → creates → Full crisis continuum
+  Zero Suicide Mandate → drives → Healthcare system transformation
+  Federal ERPO + Waiting Period → achieves → Means restriction at scale
+  School Programs → establishes → Upstream prevention infrastructure
+
+Phase 3: Transformation
+  Full crisis continuum → produces → Measurable rate reduction
+  Workforce adequacy → sustains → All system improvements
+  Cultural change in storage norms → reduces → Firearm access during crisis
+  Permanent Office → ensures → Cross-administration continuity
+```
+
+### Critical Path Items
+
+The following actions are on the critical path -- delays in these items will cascade through the entire roadmap:
+
+1. **988 federal telecom fee legislation**: Without sustainable funding, the entire crisis continuum remains underfunded. This is the single most important legislative action in the roadmap.
+2. **Crisis Counselor Corps launch**: Workforce is the binding constraint on service delivery. Every other expansion depends on having trained people to deliver services.
+3. **CMS billing code rulemaking**: Without reimbursement for safety planning, lethal means counseling, and caring contacts, healthcare systems lack financial incentive to implement these evidence-based practices.
+4. **Federal ERPO legislation introduction**: Even if not enacted in Phase 1, the introduction and public debate build political groundwork for passage in Phase 2.
 
 ---
 

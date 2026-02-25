@@ -13,10 +13,14 @@ Rebuilding America's inpatient psychiatric care system requires a multi-faceted 
 - Build psychiatric bed capacity to a minimum of 40-60 beds per 100,000 population, consistent with Treatment Advocacy Center recommendations and international benchmarks
 - Include strong patient rights protections, quality standards, and civil rights safeguards in all capacity expansion legislation
 - Invest in the psychiatric workforce as a necessary precondition for any facility expansion
+- Ensure equitable geographic distribution so that no American lives more than 60 miles from an inpatient psychiatric facility
+- Address the pediatric psychiatric bed crisis through dedicated funding and age-appropriate facility standards
 
 ### Theory of Change
 
 The current bed shortage is primarily a product of financial incentive structures, not clinical evidence or patient preference. By restructuring Medicaid reimbursement to treat psychiatric inpatient care on par with medical/surgical inpatient care, establishing federal capital investment programs, and building the workforce to staff new capacity, the reform framework removes the barriers that have prevented organic growth. At the same time, pairing bed expansion with community service investment creates a complete continuum of care that reduces demand for inpatient beds over time while ensuring beds are available when needed.
+
+The reform framework recognizes that different solutions operate on different timescales. Executive and regulatory actions (IMD waiver expansion, parity enforcement guidance) can take effect within months. Legislative reforms (IMD repeal, infrastructure investment) require 1-3 years for enactment and 3-5 years for full implementation. Workforce pipeline investments require 5-10 years to produce measurable increases in clinician supply. The sequencing of these interventions is critical: workforce investments must begin before or simultaneously with facility construction to ensure that new beds can be staffed when they open.
 
 ---
 
@@ -26,25 +30,36 @@ The current bed shortage is primarily a product of financial incentive structure
 
 **Description**: Fully repeal the Institutions for Mental Diseases exclusion from the Social Security Act (42 U.S.C. 1396d(a)(B)), allowing federal Medicaid reimbursement for inpatient psychiatric care in facilities of any size for adults ages 21-64. This is the single most impactful reform that could be enacted, as it removes the financial distortion at the center of the capacity crisis.
 
-**Evidence Base**: The 12 states that have obtained Section 1115 IMD waivers for serious mental illness have reported reduced ED boarding times (averaging 23% reductions), increased bed availability, and improved discharge planning within the first two years of waiver implementation (CMS Waiver Evaluation Reports, 2023). The Congressional Research Service has documented the IMD exclusion's role in driving bed closures and ED boarding. International comparisons confirm that nations without comparable exclusions (every other OECD nation) maintain substantially higher per-capita bed rates.
+**Evidence Base**: The 12 states that have obtained Section 1115 IMD waivers for serious mental illness have reported reduced ED boarding times (averaging 23% reductions), increased bed availability, and improved discharge planning within the first two years of waiver implementation (CMS Waiver Evaluation Reports, 2023). The Congressional Research Service has documented the IMD exclusion's role in driving bed closures and ED boarding. International comparisons confirm that nations without comparable exclusions (every other OECD nation) maintain substantially higher per-capita bed rates. Oregon's experience with its IMD waiver showed an 18% reduction in psychiatric ED boarding within 18 months and measurably improved continuity of care for Medicaid enrollees with serious mental illness (Oregon Health Authority, 2023).
 
-**Implementation**: Congress would amend 42 U.S.C. 1396d to remove the IMD exclusion. CMS would issue implementing regulations within 12 months establishing reimbursement rates, quality standards, and reporting requirements for Medicaid-covered psychiatric inpatient stays.
+**Implementation**: Congress would amend 42 U.S.C. 1396d to remove the IMD exclusion. CMS would issue implementing regulations within 12 months establishing reimbursement rates, quality standards, and reporting requirements for Medicaid-covered psychiatric inpatient stays. Regulations should include:
 
-**Cost/Resources**: CBO has estimated the cost of full IMD exclusion repeal at $10-15 billion annually in new federal Medicaid spending. However, offsets from reduced ED boarding, reduced Medicaid-funded emergency department visits, and reduced incarceration costs would partially mitigate this figure.
+- Reimbursement rates set at parity with medical/surgical inpatient per-diem rates of comparable acuity
+- Quality standards consistent with Joint Commission accreditation requirements
+- Mandatory public reporting of outcomes (readmission rates, average length of stay, use of seclusion and restraint, 7-day follow-up rates)
+- Community integration requirements ensuring that states receiving federal IMD funding also maintain or expand community-based services
+
+**Cost/Resources**: CBO has estimated the cost of full IMD exclusion repeal at $10-15 billion annually in new federal Medicaid spending. However, offsets from reduced ED boarding (estimated at $4-8 billion annually in avoided costs), reduced Medicaid-funded emergency department visits, and reduced incarceration costs would partially mitigate this figure. The Medicaid and CHIP Payment and Access Commission (MACPAC) has recommended that CBO scoring of IMD repeal incorporate these offsets.
 
 **Timeline**: Legislative passage within 1-2 years; full implementation within 3 years.
 
-**Challenges**: Significant fiscal cost; resistance from CBO and budget-conscious members of Congress; need for accompanying quality standards to prevent re-institutionalization.
+**Challenges**: Significant fiscal cost; resistance from CBO and budget-conscious members of Congress; need for accompanying quality standards to prevent re-institutionalization; potential opposition from disability rights organizations unless paired with community service investment.
 
-**Impact Metrics**: Psychiatric beds per 100,000 population; average ED boarding time; 30-day readmission rates; total Medicaid psychiatric spending.
+**Impact Metrics**: Psychiatric beds per 100,000 population; average ED boarding time; 30-day readmission rates; total Medicaid psychiatric spending; state hospital operating margins.
 
 ### Solution 2: Federal Psychiatric Infrastructure Investment Program
 
 **Description**: Create a federal grant and low-interest loan program to fund construction, renovation, and expansion of psychiatric inpatient facilities, modeled on the Hill-Burton Act of 1946 that built America's general hospital infrastructure. Target funding to states and regions with the most severe bed shortages (below 15 beds per 100,000 population).
 
-**Evidence Base**: The Hill-Burton Act funded construction of nearly 7,000 healthcare facilities over four decades and is credited with substantially expanding hospital access, particularly in rural and underserved areas. A comparable psychiatric infrastructure program would address the capital investment gap identified by NASMHPD ($10+ billion needed to modernize existing state psychiatric hospital stock, plus additional billions for new construction).
+**Evidence Base**: The Hill-Burton Act funded construction of nearly 7,000 healthcare facilities over four decades and is credited with substantially expanding hospital access, particularly in rural and underserved areas. A comparable psychiatric infrastructure program would address the capital investment gap identified by NASMHPD ($10+ billion needed to modernize existing state psychiatric hospital stock, plus additional billions for new construction). The Department of Agriculture's Community Facilities Program provides a smaller-scale precedent for federal facility construction grants in underserved areas.
 
-**Implementation**: Federal appropriation of $5 billion over 5 years for construction grants and loan guarantees. States apply for funding with plans demonstrating bed shortfall, community service integration, workforce recruitment strategy, and quality assurance frameworks. Priority given to states below 15 beds per 100,000.
+**Implementation**: Federal appropriation of $5 billion over 5 years for construction grants and loan guarantees. States apply for funding with plans demonstrating bed shortfall, community service integration, workforce recruitment strategy, and quality assurance frameworks. Priority given to states below 15 beds per 100,000. Grant conditions include:
+
+- Minimum 20-year community benefit obligations (facilities must serve Medicaid and uninsured patients)
+- Evidence-based facility design requirements (natural light, single-occupancy rooms, outdoor spaces, de-escalation areas, ligature-resistant environments)
+- Workforce recruitment and retention plans with demonstrated partnerships with training programs
+- Integration with the national bed registry (Solution 3)
+- Annual quality reporting as a condition of continued federal support
 
 **Cost/Resources**: $5 billion over 5 years ($1 billion per year) in federal grants and loan guarantees; additional state matching funds.
 
@@ -58,25 +73,37 @@ The current bed shortage is primarily a product of financial incentive structure
 
 **Description**: Establish a real-time, nationwide electronic bed registry that tracks available psychiatric inpatient beds across all facility types (state hospitals, private facilities, general hospital units, crisis stabilization units, VA facilities). Emergency departments would use the registry to identify available beds, reducing search time and boarding durations.
 
-**Evidence Base**: State-level bed registries in Georgia, North Carolina, and Oklahoma have demonstrated 20-40% reductions in ED boarding times (SAMHSA, 2023). Georgia's Georgia Crisis and Access Line (GCAL) reduced average time to psychiatric bed placement from 8.2 hours to 4.7 hours within two years of implementation (Georgia DBHDD, 2022). National implementation would extend these benefits across state lines and address the problem of patients who could be placed at out-of-state facilities.
+**Evidence Base**: State-level bed registries in Georgia, North Carolina, and Oklahoma have demonstrated 20-40% reductions in ED boarding times (SAMHSA, 2023). Georgia's Georgia Crisis and Access Line (GCAL) reduced average time to psychiatric bed placement from 8.2 hours to 4.7 hours within two years of implementation (Georgia DBHDD, 2022). Oklahoma's Crisis Line and bed registry reduced average search time from 12 hours to 5.3 hours. North Carolina's Behavioral Health Crisis Services system uses real-time bed tracking integrated with its 988 call center to route patients to available beds across the state, achieving placement within 6.3 hours on average. National implementation would extend these benefits across state lines and address the problem of patients who could be placed at out-of-state facilities.
 
-**Implementation**: SAMHSA or CMS would develop and operate a national registry platform, building on existing state registry systems. Participation would be mandatory for all Medicaid-certified psychiatric facilities. Real-time bed availability updates would be required at least every 4 hours.
+**Implementation**: SAMHSA or CMS would develop and operate a national registry platform, building on existing state registry systems. Participation would be mandatory for all Medicaid-certified psychiatric facilities. Real-time bed availability updates would be required at least every 4 hours. The registry would include:
+
+- Bed availability by type (adult, pediatric, geriatric, forensic, substance use co-occurring)
+- Facility acceptance criteria (voluntary only, involuntary, insurance requirements, age restrictions)
+- Real-time transport coordination with EMS systems
+- Integration with 988 Suicide and Crisis Lifeline call centers
+- Data analytics for capacity planning and shortage identification
 
 **Cost/Resources**: Approximately $50-75 million for initial development and first-year operations; $15-20 million annually for ongoing maintenance. Minimal cost relative to impact.
 
 **Timeline**: Development within 12-18 months; pilot in 5 states by Year 2; national rollout by Year 3.
 
-**Challenges**: Interoperability between existing state systems; facility compliance with real-time reporting; liability questions when patients are transferred across state lines.
+**Challenges**: Interoperability between existing state systems; facility compliance with real-time reporting; liability questions when patients are transferred across state lines; privacy and security requirements for patient data.
 
-**Impact Metrics**: Average time from ED presentation to bed identification; percentage of facilities reporting in real time; cross-state transfer volume.
+**Impact Metrics**: Average time from ED presentation to bed identification; percentage of facilities reporting in real time; cross-state transfer volume; boarding time reduction.
 
 ### Solution 4: Psychiatric Workforce Pipeline Expansion
 
 **Description**: Comprehensive investment in psychiatric workforce development, including expanded psychiatric residency positions, loan repayment programs for psychiatrists and psychiatric nurses who practice in underserved areas, visa streamlining for international psychiatric professionals, and expanded scope of practice for psychiatric nurse practitioners and physician assistants.
 
-**Evidence Base**: The National Health Service Corps loan repayment program has successfully recruited physicians to underserved areas, with 86% of participants remaining in underserved practice after completing their obligations (HRSA, 2023). International medical graduates fill approximately 30% of U.S. psychiatry residency positions, demonstrating the potential of immigration-based workforce strategies (AAMC, 2023). States that have expanded psychiatric nurse practitioner scope of practice have seen 12-18% increases in psychiatric provider availability within 3 years (Rand Corporation, 2022).
+**Evidence Base**: The National Health Service Corps loan repayment program has successfully recruited physicians to underserved areas, with 86% of participants remaining in underserved practice after completing their obligations (HRSA, 2023). International medical graduates fill approximately 30% of U.S. psychiatry residency positions, demonstrating the potential of immigration-based workforce strategies (AAMC, 2023). States that have expanded psychiatric nurse practitioner scope of practice have seen 12-18% increases in psychiatric provider availability within 3 years (Rand Corporation, 2022). The VA's Mental Health Education Expansion has trained over 1,500 additional psychiatric providers since 2019, providing a federal model.
 
-**Implementation**: Federal legislation would fund 1,000 additional psychiatric residency positions over 5 years (through Medicare GME expansion), create a dedicated loan repayment program for psychiatric providers in shortage areas ($100,000 per provider for 4-year commitment), streamline J-1 and H-1B visa processes for international psychiatrists, and provide grants to states that expand NP/PA scope of practice for psychiatric care.
+**Implementation**: Federal legislation would fund 1,000 additional psychiatric residency positions over 5 years (through Medicare GME expansion), create a dedicated loan repayment program for psychiatric providers in shortage areas ($100,000 per provider for 4-year commitment), streamline J-1 and H-1B visa processes for international psychiatrists, and provide grants to states that expand NP/PA scope of practice for psychiatric care. Additional components:
+
+- Child and adolescent psychiatry fellowship expansion (200 additional positions over 5 years)
+- Psychiatric nursing scholarships targeting BSN and MSN students committed to inpatient practice
+- Peer specialist certification and employment programs for psychiatric inpatient settings
+- Telepsychiatry infrastructure grants to extend specialist coverage to rural inpatient facilities
+- Psychiatric technician training and certification programs through community colleges
 
 **Cost/Resources**: $2.5 billion over 5 years ($500 million/year) for residency expansion, loan repayment, and workforce development programs.
 
@@ -84,15 +111,22 @@ The current bed shortage is primarily a product of financial incentive structure
 
 **Challenges**: Long training pipeline for psychiatrists (4-year residency after medical school); scope of practice opposition from physician organizations; geographic distribution challenges even with incentives.
 
-**Impact Metrics**: Psychiatrists per 100,000 population by state; percentage of counties with no psychiatrist; psychiatric nursing vacancy rates; psychiatric residency fill rates.
+**Impact Metrics**: Psychiatrists per 100,000 population by state; percentage of counties with no psychiatrist; psychiatric nursing vacancy rates; psychiatric residency fill rates; child psychiatrist supply.
 
 ### Solution 5: Crisis Stabilization Network Expansion
 
 **Description**: Fund a national network of crisis stabilization units (CSUs) and crisis receiving centers (CRCs) that provide up to 23-hour observation and stabilization, diverting patients who do not need full hospitalization from emergency departments while connecting those who do need inpatient care to available beds via the national bed registry.
 
-**Evidence Base**: SAMHSA's National Guidelines for Behavioral Health Crisis Care (2020) identified crisis stabilization units as a core component of effective crisis systems. Existing CSUs divert 60-70% of psychiatric ED presentations from hospitalization (SAMHSA, 2023). Tucson, Arizona's Crisis Response Center handles over 10,000 contacts annually and diverts 70% of contacts from ED visits or arrest (Connections Health Solutions, 2023).
+**Evidence Base**: SAMHSA's National Guidelines for Behavioral Health Crisis Care (2020) identified crisis stabilization units as a core component of effective crisis systems. Existing CSUs divert 60-70% of psychiatric ED presentations from hospitalization (SAMHSA, 2023). Tucson, Arizona's Crisis Response Center (operated by Connections Health Solutions) handles over 10,000 contacts annually and diverts 70% of contacts from ED visits or arrest. The facility operates 24/7 with a medical team, peer specialists, and direct admission capability, serving as a national model. San Antonio, Texas's Restoration Center, operated in partnership with the University Health System and the Center for Health Care Services, provides crisis stabilization with co-located detoxification services, reducing psychiatric arrests by 50% in the target area since opening.
 
-**Implementation**: Federal grants to states and communities to establish CSUs in areas with high psychiatric ED boarding rates. Minimum capacity of 1 CSU per 200,000 population. CSUs would be connected to the national bed registry and staffed by psychiatric professionals with authority to initiate voluntary admission to available inpatient beds.
+**Implementation**: Federal grants to states and communities to establish CSUs in areas with high psychiatric ED boarding rates. Minimum capacity of 1 CSU per 200,000 population. CSUs would be connected to the national bed registry and staffed by psychiatric professionals with authority to initiate voluntary admission to available inpatient beds. Design standards would include:
+
+- 24/7 operation with medical staff capable of managing psychiatric emergencies
+- Recliner-based observation areas (rather than hospital beds) for sub-24-hour stays
+- Peer specialist staffing alongside clinical staff
+- Co-located substance use stabilization services
+- Direct law enforcement drop-off protocols (officers can leave patients and return to patrol within 10 minutes)
+- Integrated referral to outpatient services, housing, and community support
 
 **Cost/Resources**: $1.5 billion over 5 years for construction and startup grants; ongoing operating costs covered by Medicaid (CSUs are not subject to the IMD exclusion if structured as less-than-16-bed facilities or as outpatient-classified programs).
 
@@ -100,15 +134,21 @@ The current bed shortage is primarily a product of financial incentive structure
 
 **Challenges**: Workforce to staff CSUs; integration with existing emergency systems; Medicaid billing classifications; community siting resistance.
 
-**Impact Metrics**: Number of CSUs operational; annual diversions from ED; average CSU length of stay; percentage of CSU patients connected to outpatient follow-up within 7 days.
+**Impact Metrics**: Number of CSUs operational; annual diversions from ED; average CSU length of stay; percentage of CSU patients connected to outpatient follow-up within 7 days; law enforcement drop-off utilization.
 
 ### Solution 6: Parity Enforcement for Inpatient Psychiatric Care
 
 **Description**: Strengthen enforcement of the Mental Health Parity and Addiction Equity Act (MHPAEA) as it applies to inpatient psychiatric care, including requiring transparent utilization review criteria, banning step-therapy requirements for acute psychiatric admissions, establishing minimum length-of-stay standards based on clinical guidelines, and creating a private right of action for patients denied medically necessary inpatient care.
 
-**Evidence Base**: A 2023 report by the Department of Labor found that over 50% of health plans subjected behavioral health inpatient claims to more restrictive prior authorization than comparable medical/surgical claims, violating MHPAEA requirements. The Milliman behavioral health parity report found that in-network reimbursement for inpatient psychiatric care averaged 20-40% below comparable medical/surgical rates (Milliman, 2023). Stronger enforcement would increase the financial viability of psychiatric inpatient units.
+**Evidence Base**: A 2023 report by the Department of Labor found that over 50% of health plans subjected behavioral health inpatient claims to more restrictive prior authorization than comparable medical/surgical claims, violating MHPAEA requirements. The Milliman behavioral health parity report found that in-network reimbursement for inpatient psychiatric care averaged 20-40% below comparable medical/surgical rates (Milliman, 2023). Stronger enforcement would increase the financial viability of psychiatric inpatient units. State-level enforcement in Connecticut (which has one of the strongest state parity laws) has been associated with 15% higher average authorized lengths of stay and 10% lower readmission rates compared to states with minimal enforcement (Connecticut Insurance Department, 2023).
 
-**Implementation**: CMS and the Department of Labor would issue joint enforcement guidance specifying prohibited utilization review practices for psychiatric inpatient care. Congress would amend MHPAEA to create a private right of action, establish minimum medical necessity review standards, and require annual parity compliance audits by all insurers.
+**Implementation**: CMS and the Department of Labor would issue joint enforcement guidance specifying prohibited utilization review practices for psychiatric inpatient care. Congress would amend MHPAEA to create a private right of action, establish minimum medical necessity review standards, and require annual parity compliance audits by all insurers. Specific provisions:
+
+- Prohibition on concurrent review more frequently than every 3 days for psychiatric inpatient stays (current practice: every 1-2 days)
+- Requirement that utilization review criteria for psychiatric admissions be no more restrictive than criteria for medical/surgical admissions of comparable acuity
+- Mandatory transparency: insurers must publish their medical necessity criteria for psychiatric inpatient care
+- Private right of action allowing patients or their families to sue insurers for parity violations, with attorney's fees recoverable by prevailing plaintiffs
+- Annual CMS audits of the 50 largest health plans for MHPAEA compliance, with public reporting of results and escalating penalties for repeat violators
 
 **Cost/Resources**: Minimal direct federal cost; increased insurance claims costs borne by insurers and passed to premiums (estimated 0.5-1.0% premium impact based on Milliman analysis).
 
@@ -122,9 +162,15 @@ The current bed shortage is primarily a product of financial incentive structure
 
 **Description**: Create a dedicated federal-state partnership program to modernize existing state psychiatric hospital infrastructure, replacing outdated buildings with modern, trauma-informed facilities that meet current accreditation and safety standards.
 
-**Evidence Base**: NASMHPD's 2023 survey found the average age of state psychiatric hospital buildings was 47 years, with many predating modern building codes, ADA requirements, and evidence-based facility design. Studies of modern psychiatric facility design demonstrate reductions in patient aggression (35-40%), use of seclusion and restraint (50%), and staff injury (25-30%) compared to older facilities (Health Environments Research and Design Journal, 2022).
+**Evidence Base**: NASMHPD's 2023 survey found the average age of state psychiatric hospital buildings was 47 years, with many predating modern building codes, ADA requirements, and evidence-based facility design. Studies of modern psychiatric facility design demonstrate reductions in patient aggression (35-40%), use of seclusion and restraint (50%), and staff injury (25-30%) compared to older facilities (Health Environments Research and Design Journal, 2022). The Sheppard Pratt Hospital in Maryland and the McLean Hospital in Massachusetts demonstrate how modern facility design -- including natural light, outdoor spaces, single-occupancy rooms, and dedicated de-escalation areas -- can dramatically improve treatment environments and outcomes.
 
-**Implementation**: Federal grants covering 65% of modernization costs, with states providing 35% match. Competitive application process prioritizing facilities with safety violations, accessibility deficiencies, or operating under consent decrees. Projects must incorporate evidence-based design principles including natural light, outdoor spaces, single-occupancy rooms, and de-escalation spaces.
+**Implementation**: Federal grants covering 65% of modernization costs, with states providing 35% match. Competitive application process prioritizing facilities with safety violations, accessibility deficiencies, or operating under consent decrees. Projects must incorporate evidence-based design principles including natural light, outdoor spaces, single-occupancy rooms, and de-escalation spaces. Additional requirements:
+
+- Compliance with current ADA accessibility standards
+- Ligature-resistant construction throughout patient care areas
+- Integration of technology (electronic health records, telepsychiatry capability, real-time bed registry connectivity)
+- Staff safety features (adequate sight lines, panic alarm systems, secure entry/exit)
+- Patient-centered amenities (private rooms, family visiting areas, outdoor recreation spaces, patient education rooms)
 
 **Cost/Resources**: $3 billion over 10 years ($300 million/year) in federal grants; $1.6 billion in state matching funds.
 
@@ -142,7 +188,7 @@ The current bed shortage is primarily a product of financial incentive structure
 
 **Description**: Australia maintains approximately 29 psychiatric beds per 100,000 population (2.5 times the U.S. rate) alongside robust community mental health services, funded through a combination of federal (Medicare) and state government funding without an IMD-equivalent exclusion.
 
-**Results**: Australia's average ED boarding time for psychiatric patients is approximately 4 hours (compared to 8 hours in the U.S.), and 30-day readmission rates average 14% (compared to 19.3% in the U.S.) (Australian Institute of Health and Welfare, 2023).
+**Results**: Australia's average ED boarding time for psychiatric patients is approximately 4 hours (compared to 8 hours in the U.S.), and 30-day readmission rates average 14% (compared to 19.3% in the U.S.) (Australian Institute of Health and Welfare, 2023). Australia's "headspace" youth mental health centers provide a national model for early intervention that has measurably reduced acute psychiatric hospitalizations among young people.
 
 **Applicability to U.S.**: The key transferable lesson is that federal health insurance (Medicare in Australia) covers psychiatric inpatient care without discriminatory exclusions, demonstrating that removing the IMD exclusion would not necessarily produce the fiscal catastrophe that opponents predict. Australia's per-capita mental health spending is approximately 20% higher than the U.S., suggesting that adequate care requires additional investment but not an unreasonable amount.
 
@@ -150,26 +196,36 @@ The current bed shortage is primarily a product of financial incentive structure
 
 **Description**: The NHS operates Crisis Resolution and Home Treatment (CRHT) teams that provide intensive home-based crisis support as an alternative to hospitalization. Every area in England has a CRHT team available 24/7. These teams can visit patients at home multiple times per day during acute episodes.
 
-**Results**: CRHT teams have reduced acute psychiatric admissions by approximately 20% in areas where they operate effectively, while maintaining patient safety outcomes (Lancet Psychiatry, 2020). The UK maintains approximately 34 psychiatric beds per 100,000 population.
+**Results**: CRHT teams have reduced acute psychiatric admissions by approximately 20% in areas where they operate effectively, while maintaining patient safety outcomes (Lancet Psychiatry, 2020). The UK maintains approximately 34 psychiatric beds per 100,000 population. The NHS Long Term Plan (2019) committed to expanding CRHT teams and establishing 24/7 crisis alternatives in every area by 2024.
 
-**Applicability to U.S.**: CRHT teams could be adapted as an extension of the 988 crisis system, providing home-based crisis intervention for patients who do not require hospitalization but need more support than a crisis hotline. However, they require a dense workforce and cannot replace inpatient beds for patients with the most severe presentations.
+**Applicability to U.S.**: CRHT teams could be adapted as an extension of the 988 crisis system, providing home-based crisis intervention for patients who do not require hospitalization but need more support than a crisis hotline. However, they require a dense workforce and cannot replace inpatient beds for patients with the most severe presentations. Mobile crisis teams authorized under the American Rescue Plan Act's Medicaid provisions represent an early step in this direction.
 
 ### Germany: Integrated Psychiatric Care Districts
 
-**Description**: Germany maintains 128 psychiatric beds per 100,000 population and organizes care through regional psychiatric care districts, each with a defined catchment area responsible for providing the full continuum of care (inpatient, day treatment, outpatient, and community support).
+**Description**: Germany maintains 128 psychiatric beds per 100,000 population and organizes care through regional psychiatric care districts, each with a defined catchment area responsible for providing the full continuum of care (inpatient, day treatment, outpatient, and community support). The Gemeindepsychiatrie (community psychiatry) model ensures that each geographic area has a designated provider network.
 
-**Results**: Germany's 30-day readmission rate is approximately 12%, substantially lower than the U.S. rate of 19.3%. Average length of stay is approximately 22 days (compared to 7.2 days in U.S. general hospital units), allowing more complete stabilization before discharge (Federal Statistical Office of Germany, 2023).
+**Results**: Germany's 30-day readmission rate is approximately 12%, substantially lower than the U.S. rate of 19.3%. Average length of stay is approximately 22 days (compared to 7.2 days in U.S. general hospital units), allowing more complete stabilization before discharge (Federal Statistical Office of Germany, 2023). Germany's longer stays, while more expensive per admission, produce substantially lower readmission rates, suggesting that the net cost difference is smaller than the per-admission cost difference.
 
 **Applicability to U.S.**: The regional catchment area model could inform state-level reorganization of psychiatric services, ensuring that each geographic area has a defined provider responsible for the full care continuum. However, Germany's substantially higher bed count and longer stays reflect a different philosophical approach that would require significant investment to replicate.
+
+### Italy: The Trieste Model
+
+**Description**: Following the Basaglia Law of 1978, Italy closed its large psychiatric hospitals and replaced them with a network of community mental health centers, small residential facilities, and general hospital psychiatric units of 15 beds or fewer. Trieste, under the leadership of Franco Basaglia, became the international model for community-based psychiatric care.
+
+**Results**: Trieste maintains approximately 10 psychiatric beds per 100,000 in its general hospital units, supplemented by 24/7 community mental health centers that provide crisis intervention, home visits, and supported housing. Involuntary commitment rates are among the lowest in Europe. However, the model depends on extraordinarily high staffing levels in community settings (approximately 1 mental health worker per 1,500 population) that would be extremely expensive to replicate at scale.
+
+**Applicability to U.S.**: The Trieste model is frequently cited by community-care advocates as evidence that inpatient beds can be minimized. However, it is important to note that even Trieste maintains nearly as many beds per capita as the U.S. while providing vastly more community support. The model's community staffing ratios would require a workforce investment far beyond current U.S. capacity. The most transferable element is the principle of 24/7 community crisis response as a complement to (not replacement for) inpatient capacity.
 
 ---
 
 ## Pilot Programs and Demonstrations
 
 - **Georgia Crisis and Access Line (GCAL)**: Statewide bed registry and crisis line serving 10+ million Georgians. Reduced average psychiatric bed search time from 8.2 hours to 4.7 hours. Demonstrates feasibility of statewide bed registry model.
-- **Arizona's Crisis Now system (Tucson)**: Crisis Response Center handling 10,000+ contacts annually with 70% diversion from ED and arrest. Demonstrates crisis stabilization model with law enforcement partnership.
+- **Arizona's Crisis Now system (Tucson)**: Crisis Response Center handling 10,000+ contacts annually with 70% diversion from ED and arrest. Demonstrates crisis stabilization model with law enforcement partnership. Operated by Connections Health Solutions, which is now expanding to multiple states.
 - **Oregon's Section 1115 IMD Waiver**: Among the first states to implement an SMI IMD waiver, Oregon reported 18% reduction in psychiatric ED boarding within 18 months (Oregon Health Authority, 2023).
 - **New York City's NYC Safe program**: Mobile crisis teams paired with hospital-based crisis stabilization to reduce psychiatric boarding and incarceration. Early results show 25% reduction in psychiatric arrests in target areas (NYC Mayor's Office, 2023).
+- **San Antonio Restoration Center**: Co-located crisis stabilization and detoxification facility that has reduced psychiatric arrests by 50% in the service area. Officers can drop off individuals in crisis and return to patrol within 10 minutes, dramatically increasing police availability.
+- **Colorado Crisis Services**: Statewide crisis system including walk-in centers, mobile crisis teams, and a 24/7 hotline, funded through a combination of state general funds and Medicaid. The system handles over 200,000 contacts annually and diverts approximately 60% from hospitalization.
 
 ## Sequencing and Prioritization
 
@@ -179,6 +235,7 @@ The current bed shortage is primarily a product of financial incentive structure
 - Fund national psychiatric bed registry development and pilot deployment
 - Issue strengthened MHPAEA enforcement guidance for inpatient psychiatric care
 - Establish first round of crisis stabilization unit grants
+- Launch psychiatric workforce loan repayment program
 
 ### Medium-term Reforms (2-5 years)
 
@@ -187,6 +244,7 @@ The current bed shortage is primarily a product of financial incentive structure
 - Fund 1,000 additional psychiatric residency positions through Medicare GME expansion
 - Deploy national bed registry to all 50 states
 - Target 500+ crisis stabilization units operational
+- Begin state psychiatric hospital modernization program
 
 ### Long-term Transformation (5-10 years)
 
@@ -198,10 +256,11 @@ The current bed shortage is primarily a product of financial incentive structure
 
 ## Complementary Policies
 
-- **Supported housing expansion**: Patients cannot be discharged safely without stable housing. Federal investment in supported housing for people with serious mental illness is essential to reducing readmissions and freeing inpatient beds for acute patients.
-- **Outpatient civil commitment (Assisted Outpatient Treatment)**: Court-ordered outpatient treatment for individuals with serious mental illness who meet specific criteria can reduce hospitalization, incarceration, and homelessness. Currently authorized in 47 states but underutilized.
-- **988 crisis system buildout**: The 988 Lifeline identifies people in crisis but needs a care delivery system behind it. Crisis stabilization units, mobile crisis teams, and inpatient beds are the infrastructure that makes 988 effective.
-- **Medicaid reentry coverage**: Extending Medicaid coverage to incarcerated individuals 30 days before release (as authorized by recent CMS guidance) can improve continuity of care for people with serious mental illness leaving jails and prisons.
+- **Supported housing expansion**: Patients cannot be discharged safely without stable housing. Federal investment in supported housing for people with serious mental illness is essential to reducing readmissions and freeing inpatient beds for acute patients. The HUD-VASH (Veterans Affairs Supportive Housing) program demonstrates that permanent supportive housing with integrated services reduces psychiatric hospitalization by 40-60% among formerly homeless veterans.
+- **Outpatient civil commitment (Assisted Outpatient Treatment)**: Court-ordered outpatient treatment for individuals with serious mental illness who meet specific criteria can reduce hospitalization, incarceration, and homelessness. Currently authorized in 47 states but underutilized. New York's Kendra's Law program demonstrated 77% fewer hospital days and 83% fewer jail days among participants.
+- **988 crisis system buildout**: The 988 Lifeline identifies people in crisis but needs a care delivery system behind it. Crisis stabilization units, mobile crisis teams, and inpatient beds are the infrastructure that makes 988 effective. SAMHSA estimates that 1,000+ crisis stabilization facilities are needed nationwide; fewer than 250 currently exist.
+- **Medicaid reentry coverage**: Extending Medicaid coverage to incarcerated individuals 30 days before release (as authorized by recent CMS guidance) can improve continuity of care for people with serious mental illness leaving jails and prisons. This policy addresses the revolving door between incarceration and psychiatric emergency by ensuring that medication, outpatient appointments, and housing support are in place before release.
+- **Discharge planning standards**: Federal requirements for discharge planning from psychiatric inpatient care -- including guaranteed outpatient appointment within 7 days, 30-day medication supply, housing assessment, and warm handoff to community providers -- should be established as conditions of Medicaid participation.
 
 ---
 

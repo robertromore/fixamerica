@@ -37,6 +37,7 @@ The fentanyl crisis provides both urgency and political opportunity. Adolescent 
 - Expand naloxone access in school settings
 - Begin prevention workforce development
 - Launch FDA enforcement against social media vaping marketing to minors
+- Initiate universal adolescent SBIRT through CMS guidance
 
 ### Key Actions
 
@@ -49,11 +50,23 @@ The fentanyl crisis provides both urgency and political opportunity. Adolescent 
 | FDA enforcement actions against social media vaping marketing to minors | FDA Center for Tobacco Products | Months 1-24 | Existing FDA authority; prioritize enforcement budget allocation | Warning letters issued; platform compliance actions |
 | Strengthen ONDCP evidence requirements for Drug-Free Communities grants | ONDCP | Months 6-18 | Existing authority; updated grant guidance | DFC coalitions required to implement evidence-based strategies |
 | Convene interagency task force on digital drug threats to adolescents | ONDCP + FTC + FDA + DOJ | Months 1-6 | Existing authority; staff time | Task force report with actionable recommendations |
+| Issue CMS guidance on Medicaid/CHIP coverage of adolescent SBIRT | CMS | Months 3-12 | Existing authority; $10 million for provider training | Guidance issued; training initiated |
+| Launch state-level prevention infrastructure assessments | SAMHSA + Dept. of Education | Months 6-18 | $8 million for assessments | All 50 states assessed for prevention capacity |
 
 ### Legislative Requirements
 
 - No new legislation required for Phase 1; actions utilize existing agency authority and appropriations
 - Begin Congressional engagement for Phase 2 legislation (Evidence-Based Youth Prevention Act)
+- Submit budget request for Phase 2 appropriation increases
+
+### Phase 1 Political Strategy
+
+Phase 1 is designed to demonstrate feasibility and build political support for Phase 2 investment. Key political actions during this period:
+
+- **Bipartisan Congressional caucus**: Establish a Congressional Prevention Science Caucus with champions from both parties, leveraging the fentanyl urgency and the fiscal ROI argument
+- **Demonstration sites**: Fund 50-100 "Prevention Innovation Sites" in Congressional districts across all 50 states to create local constituencies for evidence-based prevention
+- **Media strategy**: Coordinate with parent advocacy organizations and fentanyl-affected families to generate media coverage of both the prevention gap and early successes
+- **State partnerships**: Identify 10 "first mover" states willing to implement stronger evidence standards with federal technical assistance
 
 ### Expected Outcomes
 
@@ -71,6 +84,7 @@ Phase 1 establishes the foundation for evidence-based prevention reform without 
 - Expand Drug-Free Communities program from ~700 to 2,000 coalitions
 - Implement universal SBIRT for adolescents in pediatric settings
 - Achieve 50% of schools implementing evidence-based prevention programs
+- Integrate prevention with school-based mental health services in 30% of schools
 
 ### Key Actions
 
@@ -80,16 +94,29 @@ Phase 1 establishes the foundation for evidence-based prevention reform without 
 | Increase prevention appropriations to $1.0 billion (Year 3) and $1.5 billion (Year 5) | Congress (Appropriations Committees) | Years 3-5 | Appropriations increase of ~$1 billion | Funded at target levels |
 | Launch National Prevention Workforce Development Initiative | SAMHSA + HRSA + Dept. of Education | Years 3-5 | $150 million/year | 10,000 additional Certified Prevention Specialists by Year 5 |
 | Expand Drug-Free Communities to 2,000 coalitions | ONDCP | Years 3-5 | $200 million/year | 2,000 active coalitions with evidence-based implementation |
-| Issue CMS guidance requiring Medicaid/CHIP coverage of adolescent SBIRT | CMS | Year 3 | Existing authority; $20 million for training | 50% of pediatric practices implementing SBIRT by Year 5 |
+| Achieve 50% pediatric SBIRT compliance | CMS + AAP + HRSA | Years 3-5 | $20 million for training; existing Medicaid billing codes | 50% of pediatric practices implementing SBIRT |
 | Fund state-level prevention infrastructure grants | SAMHSA | Years 3-5 | $200 million/year | All 50 states with evidence-based prevention systems |
 | Establish National Prevention Research Rapid Response Center | NIDA | Year 3 | $50 million/year | Curriculum updates for emerging threats within 6 months |
 | Implement digital prevention platform partnerships | ONDCP + private sector | Years 3-5 | $50 million/year | Evidence-based digital content reaching 10 million adolescents annually |
+| Launch integrated prevention-mental health pilot programs | Dept. of Education + SAMHSA | Years 3-5 | $100 million/year | 30% of schools with integrated Behavioral Health Teams |
+| Establish Prevention Implementation Support Centers (regional) | SAMHSA | Years 3-5 | $30 million/year | 10 regional centers providing implementation technical assistance |
 
 ### Legislative Requirements
 
 - **Evidence-Based Youth Prevention Act**: Comprehensive legislation establishing evidence standards, authorizing increased appropriations, and creating workforce and infrastructure programs (see [Legislation](11-legislation.md))
 - **Reauthorization of Drug-Free Communities Act**: Expanded authorization and appropriation for community coalitions
 - **SBIRT Coverage Act**: Legislation requiring all insurers (public and private) to cover adolescent SBIRT
+- **ESSA Reauthorization (Title IV-A)**: Strengthen evidence requirements and protect prevention funding within the block grant
+
+### Phase 2 Implementation Challenges and Mitigation
+
+| Challenge | Likelihood | Mitigation Strategy |
+|---|---|---|
+| Schools resist adopting new curricula | High | 3-year transition period with free training and materials; allow phase-out rather than immediate discontinuation of existing programs |
+| Evidence-based programs produce smaller effects at scale than in trials | Medium | Invest heavily in implementation fidelity monitoring; Regional Support Centers provide ongoing coaching |
+| Teacher turnover disrupts program delivery | High | Build prevention delivery into teacher certification; cross-train multiple staff per school; develop online booster training |
+| Rural communities lack prevention workforce | High | Loan forgiveness for rural-serving prevention specialists; telehealth-based prevention consultation; university Extension partnerships (PROSPER model) |
+| D.A.R.E. lobby blocks evidence mandate | Medium | Phase-in approach allows D.A.R.E. to qualify by demonstrating effectiveness; do not frame as "anti-D.A.R.E." but as "pro-evidence" |
 
 ### Expected Outcomes
 
@@ -106,6 +133,7 @@ Phase 2 transforms the prevention system from a fragmented, evidence-light colle
 - Scale community-wide prevention models (Planet Youth-inspired) in 500+ communities
 - Reduce adolescent substance use initiation by 30-50% from 2025 baseline
 - Establish continuous quality improvement infrastructure
+- Achieve 90% adolescent SBIRT coverage in pediatric settings
 
 ### Key Actions
 
@@ -116,6 +144,15 @@ Phase 2 transforms the prevention system from a fragmented, evidence-light colle
 | Establish real-time prevention surveillance system | CDC + SAMHSA | Years 6-8 | $30 million/year | Quarterly reporting on emerging substance threats and prevention response |
 | Conduct 10-year comprehensive prevention system evaluation | NIDA + GAO | Year 10 | $25 million for evaluation | Rigorous evaluation report with policy recommendations |
 | Develop AI-assisted personalized prevention | NIDA + academic partners | Years 7-10 | $50 million for research and development | Prototype personalized prevention tools tested in schools |
+| Achieve 90% adolescent SBIRT coverage | CMS + AAP + school health | Years 6-10 | Sustained training and quality improvement | 90% of adolescents screened at well-child visits or school health encounters |
+| Establish prevention outcome-based funding | SAMHSA + Congress | Years 8-10 | Legislative authority; evaluation infrastructure | Portion of prevention funding tied to measured adolescent substance use outcomes |
+
+### Phase 3 Innovation Priorities
+
+- **Personalized prevention**: Use adolescent risk assessment data (from SBIRT screening, CTC youth surveys, and school behavioral health records) to tailor prevention intensity and content to individual risk profiles, delivering universal prevention to all youth while providing enhanced programming to those at elevated risk
+- **Digital-native prevention**: Develop prevention content delivered through platforms where adolescents spend time (social media, gaming, messaging apps) rather than exclusively through school-based curricula, meeting adolescents where they are rather than requiring them to be in specific settings
+- **Real-time threat response**: Build a prevention surveillance and response system that can identify emerging substance threats (new drugs, new delivery systems, new social media sales channels) and deploy prevention content within weeks, rather than the current multi-year curriculum development cycle
+- **Cross-sector integration**: Fully integrate prevention with mental health, pediatric healthcare, juvenile justice, and child welfare systems, creating a comprehensive behavioral health prevention infrastructure rather than siloed substance-specific programming
 
 ### Expected Outcomes
 
@@ -135,6 +172,8 @@ Phase 3 achieves the vision of a national evidence-based prevention system that 
 | Adolescent nicotine vaping | Annual (MTF) | Past-month nicotine vaping, 12th grade | 10.0% | 8% | 6% | 4% |
 | Adolescent overdose deaths | Annual (CDC) | Overdose deaths ages 14-18 | ~1,800 | 1,400 | 1,000 | 500 |
 | Adolescent SBIRT | Annual | % of adolescents screened at well-child visits | <50% | 55% | 75% | 90% |
+| Implementation fidelity | Annual | % of funded programs meeting fidelity standards | Unknown | 60% | 75% | 85% |
+| Mental health integration | Annual | % of schools with integrated prevention-MH teams | <5% | 15% | 30% | 50% |
 
 ## Governance and Oversight
 
@@ -142,6 +181,8 @@ Phase 3 achieves the vision of a national evidence-based prevention system that 
 - **Congressional Reporting**: Annual report to Congress from ONDCP on prevention funding allocation, evidence-based program adoption rates, and adolescent substance use trends. Independent GAO evaluation every 3 years.
 - **State Accountability**: States receiving prevention formula grants must submit annual progress reports including evidence-based program implementation rates, workforce development metrics, and outcome data.
 - **Community Coalition Accountability**: DFC grantees must report on evidence-based strategy implementation, community-level youth survey data (using the CTC Youth Survey or equivalent), and coalition functioning metrics.
+- **Independent Evaluation**: NIDA-funded independent evaluations of the prevention system at Years 3, 5, and 10, published publicly with policy recommendations.
+- **Public Dashboard**: A publicly accessible prevention data dashboard tracking evidence-based program implementation, funding allocation, and adolescent substance use outcomes by state and community.
 
 ## Risk Mitigation
 
@@ -153,7 +194,7 @@ Phase 3 achieves the vision of a national evidence-based prevention system that 
 
 **Mitigation Strategy**: Build bipartisan coalition emphasizing fiscal ROI ($18 per $1 invested); tie prevention funding to opioid/fentanyl emergency response, which has bipartisan urgency; identify budget offsets within existing drug enforcement spending.
 
-**Contingency Plan**: If full appropriation is not achieved, maximize evidence standards for existing funding (achievable without new appropriation) and pursue state-level prevention funding through cannabis tax revenue and other state sources.
+**Contingency Plan**: If full appropriation is not achieved, maximize evidence standards for existing funding (achievable without new appropriation) and pursue state-level prevention funding through cannabis tax revenue and other state sources. Colorado, Washington, Oregon, and other legalization states have demonstrated that cannabis tax revenue can fund meaningful state-level prevention investments.
 
 ### Risk 2: Institutional Resistance from Legacy Programs
 
@@ -171,7 +212,7 @@ Phase 3 achieves the vision of a national evidence-based prevention system that 
 
 **Impact**: High
 
-**Mitigation Strategy**: Invest heavily in prevention workforce development and implementation support infrastructure; require program developers to provide ongoing training and quality assurance; build fidelity monitoring into grant requirements.
+**Mitigation Strategy**: Invest heavily in prevention workforce development and implementation support infrastructure; require program developers to provide ongoing training and quality assurance; build fidelity monitoring into grant requirements. Establish Regional Prevention Implementation Support Centers to provide ongoing coaching and technical assistance.
 
 **Contingency Plan**: If implementation fidelity is poor in initial scaling, slow expansion and invest in quality improvement before expanding further. Prioritize depth of implementation over breadth.
 
@@ -195,6 +236,16 @@ Phase 3 achieves the vision of a national evidence-based prevention system that 
 
 **Contingency Plan**: If harm reduction messaging for youth is politically blocked at the federal level, pursue through state and local health departments and school districts with supportive leadership.
 
+### Risk 6: COVID-19 or Future Pandemic Disrupts Prevention Delivery
+
+**Likelihood**: Medium
+
+**Impact**: Medium-High
+
+**Mitigation Strategy**: Develop validated virtual and hybrid prevention delivery models as standard alternatives (not emergency backups); invest in digital prevention infrastructure that can maintain programming during school closures; ensure that prevention workforce training includes virtual delivery competencies.
+
+**Contingency Plan**: Activate digital-first prevention delivery immediately upon school closure; provide emergency technical assistance to communities transitioning to virtual prevention; maintain family-based prevention components that can continue in home settings.
+
 ## Resource Requirements
 
 ### Funding
@@ -215,10 +266,12 @@ Phase 3 achieves the vision of a national evidence-based prevention system that 
 ### Infrastructure
 
 - National Prevention Technical Assistance Center (virtual and regional offices)
+- 10 Regional Prevention Implementation Support Centers
 - Prevention Research Rapid Response Center (housed at NIDA)
 - Digital prevention content development and distribution platform
 - Real-time prevention surveillance system integrated with CDC's existing substance use monitoring
 - State-level prevention infrastructure in all 50 states (prevention coordinators, quality assurance systems, training programs)
+- Public prevention data dashboard for transparency and accountability
 
 ---
 

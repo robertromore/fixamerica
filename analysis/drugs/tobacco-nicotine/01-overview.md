@@ -10,6 +10,8 @@ The proposed ban on menthol cigarettes and flavored cigars, first announced by t
 
 At the heart of tobacco and nicotine policy lies a profound tension: the imperative to eliminate combustible tobacco use, which causes nearly all tobacco-related death and disease, while navigating the uncertain promise and risks of novel nicotine products that may help adult smokers quit but also threaten to addict a new generation. The concept of a "nicotine continuum of risk" -- with combustible cigarettes at the most dangerous end and FDA-approved cessation medications at the safest -- has gained traction among public health researchers, but translating this framework into coherent regulatory policy remains an ongoing challenge.
 
+Meanwhile, the market landscape continues to shift. Nicotine pouches, led by Zyn (Philip Morris International/Swedish Match), have grown from a niche product to a $3 billion U.S. market in just four years, raising new questions about youth appeal, regulatory classification, and the appropriate role of tobacco companies in promoting alternatives to their own combustible products. The 1998 Master Settlement Agreement, which has delivered over $200 billion to states, was designed to fund tobacco prevention and cessation -- yet states spend only 22.6% of CDC-recommended levels on these programs, diverting the vast majority of tobacco revenue to general fund purposes unrelated to public health.
+
 ## Scope
 
 This analysis covers the key aspects of tobacco and nicotine policy:
@@ -20,6 +22,8 @@ This analysis covers the key aspects of tobacco and nicotine policy:
 - **Tobacco Harm Reduction**: The nicotine continuum of risk, heated tobacco products (IQOS), nicotine pouches (Zyn), smokeless tobacco, and the Swedish snus model
 - **Smoking Cessation**: FDA-approved cessation medications, quitline infrastructure, insurance coverage mandates, and the treatment gap
 - **Tobacco Taxation and Economics**: Federal and state excise taxes, the Master Settlement Agreement, industry economics, and illicit trade concerns
+- **Smoke-Free Laws and Public Spaces**: Clean indoor air policies, smoke-free housing, outdoor smoking restrictions, and their effectiveness
+- **International Comparisons**: UK pragmatic harm reduction, Swedish snus model, Canada menthol ban, Australian plain packaging, and emerging tobacco endgame strategies (New Zealand, Finland)
 
 ## Key Facts
 
@@ -33,9 +37,33 @@ This analysis covers the key aspects of tobacco and nicotine policy:
 | Menthol cigarette market share | ~37% of U.S. cigarette market | FTC Cigarette Report, 2023 |
 | Black smokers using menthol cigarettes | ~85% | SAMHSA/NSDUH, 2023 |
 | FDA PMTA applications received (as of 2024) | >26 million products | FDA CTP, 2024 |
+| FDA-authorized e-cigarette products (as of 2024) | 34 (all tobacco-flavored) | FDA CTP, 2024 |
 | Federal cigarette excise tax | $1.01 per pack | 26 U.S.C. Section 5701 |
 | Master Settlement Agreement total payments (1998-2023) | >$200 billion | NAAG, 2024 |
 | Deaths preventable from menthol ban (40-year estimate) | 654,000 | FDA Regulatory Impact Analysis, 2022 |
+| U.S. e-cigarette market value (2023) | ~$8.3 billion | Euromonitor International, 2024 |
+| Zyn nicotine pouch U.S. sales (2024) | >$3 billion | Wells Fargo Securities, 2024 |
+| States with comprehensive smoke-free laws (workplaces, restaurants, bars) | 28 + D.C. | Americans for Nonsmokers' Rights, 2024 |
+
+## Health Impact by Disease Category
+
+Tobacco use contributes to death and disease across nearly every organ system:
+
+| Disease Category | Annual U.S. Deaths Attributable to Smoking | % of All Deaths in Category | Source |
+|---|---|---|---|
+| Lung cancer | 130,000 | ~80% of lung cancer deaths | CDC, 2024 |
+| Heart disease | 160,000 | ~20% of cardiovascular deaths | AHA/CDC, 2024 |
+| Chronic obstructive pulmonary disease (COPD) | 113,000 | ~80% of COPD deaths | CDC, 2024 |
+| Other cancers (bladder, esophageal, stomach, etc.) | 36,000 | Varies by cancer type | NCI, 2024 |
+| Stroke | 15,000 | ~12% of stroke deaths | CDC, 2024 |
+| Diabetes complications | 8,000 | Smoking doubles diabetes risk | CDC, 2024 |
+| Secondhand smoke exposure | 41,000 | Nonsmokers exposed to others' smoke | Surgeon General, 2014 |
+
+Beyond mortality, smoking causes chronic morbidity affecting quality of life for millions:
+
+- An estimated 16 million Americans live with a smoking-caused disease (CDC, 2024)
+- Smoking during pregnancy causes approximately 1,000 infant deaths annually and contributes to low birth weight, preterm delivery, and sudden infant death syndrome (SIDS)
+- Secondhand smoke exposure in children causes ear infections, asthma attacks, respiratory infections, and increases the risk of SIDS
 
 ## Core Tensions and Tradeoffs
 
@@ -51,12 +79,16 @@ This analysis covers the key aspects of tobacco and nicotine policy:
 
 - **Industry Transformation vs. Industry Accountability**: Major tobacco companies are investing heavily in "reduced risk" products and positioning themselves as partners in harm reduction. Whether to engage with or resist this industry pivot is a defining question for public health advocates.
 
+- **Price Policy vs. Regressivity**: Tobacco excise taxes are among the most effective tools for reducing consumption, but they are also among the most regressive taxes. Low-income smokers bear a disproportionate share of the tax burden, even as they benefit most from the consumption reductions that higher prices produce.
+
 ## Key Questions
 
 1. How should the FDA regulate novel nicotine products to protect youth while preserving potential adult harm reduction benefits?
 2. Can the menthol cigarette ban be implemented in a way that achieves public health goals without creating racially disparate enforcement outcomes?
 3. What is the appropriate role of tobacco harm reduction in a comprehensive regulatory framework, and how should the nicotine continuum of risk be translated into product standards?
 4. How can the tobacco treatment gap be closed so that the majority of the 28.8 million American smokers who want to quit have access to evidence-based cessation support?
+5. Should the United States pursue a tobacco endgame strategy -- such as a generational smoking ban or a nicotine reduction standard -- that aims to effectively end combustible tobacco use within a defined timeframe?
+6. How can federal and state tobacco tax policy be reformed to maximize public health impact while addressing regressivity concerns and funding cessation services?
 
 ## Vision of Success
 
@@ -67,6 +99,8 @@ A successful tobacco and nicotine policy in the 21st century would feature:
 - **Universal Cessation Access**: Every smoker who wants to quit has access to FDA-approved cessation medications and behavioral counseling at no out-of-pocket cost, with quitline and digital cessation services available in all 50 states
 - **Evidence-Based Harm Reduction**: A clear, science-driven regulatory framework that permits less harmful nicotine products for adult smokers under strict marketing and access controls while preventing youth uptake
 - **Equity-Centered Enforcement**: Tobacco regulations designed and enforced in ways that address historical disparities without creating new vectors for racially discriminatory policing
+- **Adequate Prevention Investment**: States spending at or above CDC-recommended levels on tobacco prevention and cessation, funded by a combination of tobacco taxes, MSA payments, and federal grants
+- **Global Leadership**: The United States serving as a model for evidence-based, equity-centered tobacco endgame policy, demonstrating that the leading cause of preventable death can be effectively addressed through comprehensive regulation
 
 ---
 

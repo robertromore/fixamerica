@@ -18,12 +18,22 @@ This section provides a curated list of key research, reports, data sources, and
 - Fazel, S., Khosla, V., Doll, H., & Geddes, J. "The Prevalence of Mental Disorders Among the Homeless in Western Countries: Systematic Review and Meta-Regression Analysis." *PLOS Medicine* 5, no. 12 (2008): e225. <https://doi.org/10.1371/journal.pmed.0050225>
 - Stergiopoulos, V., Hwang, S. W., Gozdzik, A., et al. "Effect of Scattered-Site Housing Using Rent Supplements and Intensive Case Management on Housing Stability Among Homeless Adults with Mental Illness: A Randomized Trial." *JAMA* 313, no. 9 (2015): 905-915. <https://doi.org/10.1001/jama.2015.1163>
 
+### Meta-Analyses and Systematic Reviews
+
+- Fazel, S., Geddes, J. R., & Kushel, M. "The Health of Homeless People in High-Income Countries: Descriptive Epidemiology, Health Consequences, and Clinical and Policy Recommendations." *The Lancet* 384, no. 9953 (2014): 1529-1540. <https://doi.org/10.1016/S0140-6736(14)61132-6>
+- Baxter, A. J., Tweed, E. J., Katikireddi, S. V., & Thomson, H. "Effects of Housing First Approaches on Health and Well-Being of Adults Who Are Homeless or At Risk of Homelessness: Systematic Review and Meta-Analysis of Randomised Controlled Trials." *Journal of Epidemiology and Community Health* 73, no. 5 (2019): 379-387. <https://doi.org/10.1136/jech-2018-210981>
+- Aubry, T., Goering, P., Veldhuizen, S., et al. "A Multiple-City RCT of Housing First with Assertive Community Treatment for Homeless Canadians with Serious Mental Illness." *Psychiatric Services* 67, no. 3 (2016): 275-281. <https://doi.org/10.1176/appi.ps.201400587>
+- Coldwell, C. M., & Bender, W. S. "The Effectiveness of Assertive Community Treatment for Homeless Populations with Severe Mental Illness: A Meta-Analysis." *American Journal of Psychiatry* 164, no. 3 (2007): 393-399. <https://doi.org/10.1176/ajp.2007.164.3.393>
+
 ### Working Papers and White Papers
 
 - Flaming, D., Burns, P., & Matsunaga, M. "Where We Sleep: Costs When Homeless and Housed in Los Angeles." Economic Roundtable. 2018. <https://economicrt.org/publication/where-we-sleep/>
 - Kushel, M., et al. "Toward a New Understanding: The California Statewide Study of People Experiencing Homelessness." UCSF Benioff Homelessness and Housing Initiative. 2023. <https://homelessness.ucsf.edu/our-impact/our-studies/california-statewide-study-people-experiencing-homelessness>
 - Corporation for Supportive Housing. "Frequent Users Systems Engagement (FUSE): A National Overview." 2020. <https://www.csh.org/fuse/>
 - National Alliance to End Homelessness. "The State of Homelessness: 2024 Edition." 2024. <https://endhomelessness.org/homelessness-in-america/homelessness-statistics/state-of-homelessness/>
+- Glynn, C., & Fox, E. B. "Dynamics of Homelessness in Urban America." *Annals of Applied Statistics* 13, no. 1 (2019): 573-605. Working paper version available from Zillow Research, 2017. - Establishes the relationship between housing cost increases and homelessness rates across metropolitan areas.
+- Metraux, S., & Culhane, D. P. "Homeless Shelter Use and Reincarceration Following Prison Release." *Criminology and Public Policy* 3, no. 2 (2004): 139-160. - Documents the jail-to-street pipeline for people with mental illness.
+- Swanson, J. W., et al. "Superseding *Grants Pass*: Evidence-Based Policy Alternatives to Criminalizing Homelessness." Policy brief. Duke University, 2024. - Post-*Grants Pass* analysis of engagement-first alternatives to enforcement.
 
 ---
 
@@ -60,10 +70,15 @@ This section provides a curated list of key research, reports, data sources, and
 - Padgett, D., Henwood, B., & Tsemberis, S. *Housing First: Ending Homelessness, Transforming Systems, and Changing Lives*. Oxford University Press, 2016. - The definitive account of the Housing First model by its developers, including research evidence and implementation guidance.
 - Desmond, M. *Evicted: Poverty and Profit in the American City*. Crown, 2016. - Pulitzer Prize-winning investigation of eviction as a driver of homelessness, with implications for mental health and housing stability.
 - Torrey, E. F. *American Psychosis: How the Federal Government Destroyed the Mental Health Treatment System*. Oxford University Press, 2014. - Critical history of deinstitutionalization and the failure to build community alternatives.
+- Torrey, E. F. *Out of the Shadows: Confronting America's Mental Illness Crisis*. Wiley, 1997. - Earlier work documenting the consequences of deinstitutionalization, including homelessness and incarceration.
 - Hoch, C., & Slayton, R. A. *New Homeless and Old: Community and the Skid Row Hotel*. Temple University Press, 1989. - Documents the loss of SRO housing and its impact on homelessness.
 - Deutsch, A. *The Shame of the States*. Harcourt, Brace, 1948. - The foundational expose of conditions in state psychiatric hospitals that catalyzed deinstitutionalization.
 - Rosenheck, R., Kasprow, W., Frisman, L., & Liu-Mares, W. *Cost-Effectiveness of Supported Housing for Homeless Persons with Mental Illness*. Department of Veterans Affairs, 2003. - Early VA research demonstrating cost-effectiveness of supportive housing for veterans.
 - Lurie, I., & Riccucci, N. M. *At the Front Lines of the Welfare System: A Perspective on the Decline in Welfare Caseloads*. Rockefeller Institute Press, 2003. - Context on safety net implementation affecting mentally ill populations.
+- Eide, S. *Homelessness in America: The History and Tragedy of an Intractable Social Problem*. Rowman & Littlefield, 2022. - Conservative perspective on homelessness policy, critical of Housing First and supportive of accountability-based models.
+- Tsemberis, S. *Housing First: The Pathways Model to End Homelessness for People with Mental Illness and Addiction*. Hazelden, 2010. - Implementation manual for the Housing First model, including fidelity standards, clinical protocols, and organizational guidance.
+- Burt, M. R., et al. *Homelessness: Programs and the People They Serve*. Urban Institute, 1999. - The most comprehensive study of the homeless service system's characteristics and populations, based on the National Survey of Homeless Assistance Providers and Clients (NSHAPC).
+- Amador, X. *I Am Not Sick, I Don't Need Help!* Vida Press, 2000 (updated 2012). - Clinical guide to anosognosia in schizophrenia and strategies for engaging people who do not recognize their illness.
 
 ---
 
@@ -81,10 +96,15 @@ This section provides a curated list of key research, reports, data sources, and
 ### Policy Briefs
 
 - National Low Income Housing Coalition. "The Gap: A Shortage of Affordable Homes." 2024. <https://nlihc.org/gap> - Annual analysis of affordable housing shortfall by state and metro area.
+- National Low Income Housing Coalition. "Out of Reach: The High Cost of Housing." 2024. <https://nlihc.org/oor> - Annual analysis comparing housing costs to wages and benefit levels, including SSI.
 - Treatment Advocacy Center. "Grading the States: An Analysis of U.S. Psychiatric Treatment Laws." 2020. <https://www.treatmentadvocacycenter.org/grading-the-states> - State-by-state assessment of involuntary treatment laws and psychiatric bed availability.
 - Treatment Advocacy Center. "The Role of Mental Illness in Homelessness." Backgrounder. 2023. <https://www.treatmentadvocacycenter.org/>
+- Treatment Advocacy Center. "Serious Mental Illness and Homelessness." Fact Sheet. 2022. <https://www.treatmentadvocacycenter.org/> - Data on prevalence, bed shortages, and criminal justice intersection.
 - National Council for Mental Wellbeing. "CCBHC Impact Report." 2023. <https://www.thenationalcouncil.org/> - Data on CCBHC outcomes and implementation.
 - Colorado Coalition for the Homeless. "Cost Study of Permanent Supportive Housing in Denver." 2019. <https://www.coloradocoalition.org/>
+- Council of State Governments Justice Center. "Stepping Up: A National Initiative to Reduce the Number of People with Mental Illnesses in Jails." 2023. <https://stepuptogether.org/> - Data on mental illness in jails and diversion strategies.
+- Police Executive Research Forum. "Responding to People in Behavioral Health Crisis via Co-Responder Models." 2022. <https://www.policeforum.org/> - Law enforcement perspectives on crisis response reform.
+- Furman Center, NYU. "The Impact of Supportive Housing on Surrounding Neighborhoods: Evidence from New York City." 2008. <https://furmancenter.org/> - Research showing no negative property value impact from PSH.
 
 ---
 
@@ -138,6 +158,24 @@ This section provides a curated list of key research, reports, data sources, and
 - *Politico*. Health care and housing policy. <https://www.politico.com/> - Congressional and executive branch coverage of homelessness legislation.
 - *CalMatters*. California homelessness and mental health coverage. <https://calmatters.org/> - State-level policy analysis for California, the state with the largest homeless population.
 - *Invisible People* (YouTube/Blog). <https://invisiblepeople.tv/> - Documentary-style coverage centering the voices of people experiencing homelessness.
+- *The Oregonian/OregonLive*. Portland homelessness coverage. <https://www.oregonlive.com/> - Extensive reporting on the intersection of drug policy, mental health, and homelessness in Portland.
+- *Arizona Republic*. Phoenix homelessness and heat crisis coverage. <https://www.azcentral.com/> - Reporting on encampments, heat mortality, and policy responses in the Phoenix metro area.
+
+## Training and Clinical Resources
+
+### Clinical Practice Guidelines
+
+- National Health Care for the Homeless Council. *Adapting Your Practice: Treatment and Recommendations for Homeless Patients*. Clinical Practice Guidelines Series. <https://nhchc.org/clinical-practice/> - Comprehensive clinical guidelines for treating homeless patients, including mental health and substance use protocols.
+- SAMHSA. *Behavioral Health Services for People Who Are Homeless*. TIP 55. Treatment Improvement Protocol. 2013. <https://store.samhsa.gov/> - Federal clinical guidance on evidence-based practices for homeless populations.
+- SAMHSA. *Permanent Supportive Housing: How to Use the Evidence-Based Practices KIT*. 2010. <https://store.samhsa.gov/> - Implementation toolkit for PSH programs.
+- SAMHSA. *Assertive Community Treatment: Evidence-Based Practices KIT*. 2008. <https://store.samhsa.gov/> - Implementation toolkit for ACT team development and fidelity monitoring.
+
+### Professional Development
+
+- National Health Care for the Homeless Council. Annual conference and clinical training series. <https://nhchc.org/training/> - The primary clinical training venue for homeless health care professionals.
+- Corporation for Supportive Housing. Technical assistance and training. <https://www.csh.org/training/> - Training on PSH development, operations, and evaluation.
+- Mental Health First Aid. 8-hour certification course. <https://www.mentalhealthfirstaid.org/> - Widely available training for community members and professionals on recognizing and responding to mental health crises.
+- Crisis Intervention Team (CIT) International. CIT training for law enforcement. <https://www.citinternational.org/> - 40-hour training program for police officers on responding to people experiencing mental health crises, including homeless individuals.
 
 ---
 
@@ -149,6 +187,17 @@ This section provides a curated list of key research, reports, data sources, and
 - Y-Foundation. "A Home of Your Own: Housing First and Ending Homelessness in Finland." 2019. <https://yvsa.fi/en/> - Comprehensive account of Finland's Housing First implementation.
 - Sacred Heart Mission. "Journey to Social Inclusion (J2SI) Phase 3 Evaluation." 2021. <https://www.sacredheartmission.org/> - Australian randomized trial of intensive long-term support for chronic homelessness.
 - World Health Organization. "Mental Health and Homelessness." Fact Sheet. 2023. <https://www.who.int/> - Global perspective on mental illness and homelessness prevalence and response.
+- European Federation of National Organisations Working with the Homeless (FEANTSA). "European Typology of Homelessness and Housing Exclusion (ETHOS)." <https://www.feantsa.org/> - Framework for classifying homelessness used across Europe; useful for comparative analysis.
+
+---
+
+## Documentaries and Films
+
+- *Dark Days* (2000). Director: Marc Singer. Documentary filmed in the Freedom Tunnel beneath New York City, following homeless residents living in the Amtrak tunnel. Academy Award nominee.
+- *Lost Angels: Skid Row Is My Home* (2010). Director: Thomas Q. Napper. Documentary exploring the lives of people living on Skid Row in Los Angeles, many with mental illness.
+- *Skid Row Marathon* (2017). Director: Mark Hayes. Documentary about a running club for residents of Skid Row, touching on mental illness, addiction, and community.
+- *Housing First* (2016). Directors: Finnish Ministry of the Environment. Short documentary on Finland's national Housing First strategy and its outcomes.
+- *Bedlam* (2019). Director: Kenneth Paul Rosenberg, MD. PBS documentary following patients with mental illness through the Los Angeles County mental health system, including homelessness, incarceration, and ERs.
 
 ---
 

@@ -134,6 +134,54 @@ The workforce shortage is driven by a set of interconnected structural problems:
 
 **Impact Metrics**: Number of certified peer specialists; average wage; retention rate; hospitalization rates among clients receiving peer services.
 
+### Solution 8: Establish a Behavioral Health Reimbursement Floor
+
+**Description**: Require all state Medicaid programs to reimburse behavioral health services at no less than 100% of Medicare rates. For Medicare, increase behavioral health reimbursement to achieve parity with comparable medical/surgical services on a per-RVU-hour basis. Implement automatic annual adjustments tied to the Medicare Economic Index to prevent erosion over time.
+
+**Evidence Base**: Low reimbursement is the single most frequently cited reason providers avoid public insurance. Only 35.7% of psychiatrists accept new Medicaid patients, compared to 74.3% of physicians overall (MACPAC, 2023). Out-of-network utilization for psychiatry is 5.4 times higher than for medical specialties, indicating that insured patients cannot find in-network providers at current rates (Milliman, 2023). The states with the highest Medicaid behavioral health reimbursement rates (e.g., Alaska, Connecticut, Vermont) consistently have higher provider participation rates.
+
+**Implementation**: Congress amends Title XIX (Medicaid) to establish a behavioral health rate floor and Title XVIII (Medicare) to mandate RVU parity for behavioral health. CMS issues implementing regulations and monitors state compliance. States may exceed the floor but may not fall below it.
+
+**Cost/Resources**: Estimated $3-5 billion annually in additional federal Medicaid matching and Medicare spending. Cost is partially offset by increased in-network utilization (reducing out-of-network spending) and improved population health outcomes.
+
+**Timeline**: Legislation in Year 1; rate adjustments implemented over 18 months; provider participation response within 2-3 years.
+
+**Challenges**: State opposition to Medicaid mandates; insurer resistance to Medicare rate increases; CBO scoring.
+
+**Impact Metrics**: Psychiatrist Medicaid acceptance rate; out-of-network utilization rates; wait times for publicly insured patients.
+
+### Solution 9: Expand and Modernize the Conrad 30 J-1 Waiver Program
+
+**Description**: Expand the Conrad 30 waiver program from 30 slots per state to 50, with 10 dedicated specifically to psychiatry and behavioral health specialties. Create a supplemental federal program that provides additional waivers beyond the state cap for physicians who commit to serving in Mental Health HPSAs for at least five years. Streamline the application process and extend the program's authorization permanently.
+
+**Evidence Base**: International medical graduates (IMGs) comprise approximately 33% of psychiatry residents (NRMP, 2024), making them a critical source of psychiatrist supply, particularly in underserved areas. Many IMGs who complete psychiatry residency on J-1 visas are required to return to their home countries for two years unless they obtain a Conrad 30 waiver. The current 30-per-state cap is arbitrary and does not reflect the scale of the shortage. States routinely exhaust their Conrad 30 allocations, with some states maintaining multi-year waiting lists (AAMC, 2023).
+
+**Implementation**: Congressional reauthorization and expansion of the Conrad 30 program. HRSA administers the supplemental federal waiver program. State health departments continue to administer state-level waivers.
+
+**Cost/Resources**: Minimal direct federal cost. Administrative costs for expanded program estimated at $10-15 million annually.
+
+**Timeline**: Legislation in Year 1; expanded waivers available in Year 2.
+
+**Challenges**: Immigration politics; visa processing backlogs; ensuring retention after waiver obligation period.
+
+**Impact Metrics**: Number of J-1 psychiatrists placed in HPSAs; retention rate after waiver obligation; HPSA designations in areas receiving waiver physicians.
+
+### Solution 10: Fund Community-Based Clinical Training Infrastructure
+
+**Description**: Establish a $250 million annual HRSA grant program to support community mental health centers, CCBHCs, and Federally Qualified Health Centers that serve as clinical training sites for behavioral health trainees (psychology interns, MSW field placements, counseling practicum students, PMHNP clinical rotations). Grants would fund clinical supervisor salaries, training space and equipment, electronic health record training modules, and trainee stipends.
+
+**Evidence Base**: Community agencies bear the primary cost of clinical training for non-physician behavioral health professionals but receive no compensation for this role. This unfunded mandate reduces training site capacity and quality. A 2023 CSWE study found that 47% of MSW programs reported difficulty placing students in behavioral health settings, and programs in rural areas reported the greatest difficulty (CSWE, 2023). Compensating training sites would expand capacity, improve supervision quality, and increase the likelihood that trainees remain in community settings after graduation.
+
+**Implementation**: HRSA administers competitive grants to community-based training sites. Grants are conditional on accepting trainees from diverse backgrounds and providing structured supervision that meets accreditation standards.
+
+**Cost/Resources**: $250 million annually. Ten-year total: $2.5 billion.
+
+**Timeline**: Grant program launched in Year 2; training site expansion measurable by Year 3.
+
+**Challenges**: Ensuring quality supervision; distributing grants equitably between urban and rural sites; measuring outcomes.
+
+**Impact Metrics**: Number of funded training sites; trainees placed in community settings; post-graduation employment in community behavioral health.
+
 ---
 
 ## International Models
@@ -162,14 +210,33 @@ The workforce shortage is driven by a set of interconnected structural problems:
 
 **Applicability to U.S.**: Supports the Collaborative Care Model (CoCM) already endorsed by CMS. The Canadian experience shows that integration works best with team-based payment models, not bolt-on fee-for-service.
 
+### Norway: High-Density Psychology Workforce
+
+**Description**: Norway maintains approximately 30 psychologists per 100,000 population -- roughly three times the effective U.S. ratio -- through government-funded training programs, public-sector salary parity with the private sector, and regional distribution requirements. Municipal mental health services are universally available and staffed by a mix of psychologists, psychiatric nurses, and social workers.
+
+**Results**: Norway's mental health access metrics are among the best in the OECD: average wait time for psychological services is under 30 days, and the rate of untreated depression is significantly lower than in the U.S. (OECD, 2023).
+
+**Applicability to U.S.**: The Norwegian model demonstrates that a high-density psychology workforce is achievable with sustained public investment and deliberate geographic distribution policy. The key lesson is that public-sector salaries competitive with private practice are essential to preventing the urban-affluent concentration that characterizes the U.S. market.
+
+### India: Task-Sharing Model for Low-Resource Settings
+
+**Description**: India's National Mental Health Programme uses task-sharing -- training non-specialist health workers to deliver evidence-based mental health interventions under specialist supervision -- to extend behavioral health capacity in a country with fewer than 1 psychiatrist per 100,000 population. The PRIME and MANAS projects demonstrated that community health workers could effectively deliver structured psychosocial interventions for depression and alcohol use disorders.
+
+**Results**: Randomized controlled trials in India showed that community health worker-delivered interventions produced significant improvements in depression outcomes comparable to specialist-delivered care for mild-to-moderate depression (Patel et al., 2010).
+
+**Applicability to U.S.**: Task-sharing principles are directly relevant to scaling the peer specialist and community health worker workforce in the U.S. The evidence from India supports the argument that non-clinical workers, with structured training and supervision, can safely and effectively deliver certain behavioral health interventions -- expanding system capacity without requiring every interaction to involve a fully licensed clinician.
+
 ---
 
 ## Pilot Programs and Demonstrations
 
-- **CCBHC Demonstration (2017-present)**: 46 states participating; cost-based reimbursement produces 15-25% higher staff salaries, 18-22% turnover (vs. 30-40% in traditional CMHCs), and expanded access
-- **Missouri CCBHC Statewide Model**: Missouri was the first state to make CCBHCs universal; serves as proof of concept for national scale-up
-- **HRSA Behavioral Health Workforce Education and Training (BHWET)**: $135 million annual program supports ~11,000 training slots; evaluation shows increased post-graduation placement in underserved settings
-- **DoD Prescribing Psychologist Program (1991-present)**: Demonstrated safe and effective psychologist prescribing in military settings for over 30 years
+- **CCBHC Demonstration (2017-present)**: 46 states participating; cost-based reimbursement produces 15-25% higher staff salaries, 18-22% turnover (vs. 30-40% in traditional CMHCs), and expanded access. CCBHCs serve approximately 10 million people annually and have demonstrated 18-25% reductions in emergency department psychiatric visits (SAMHSA, 2024).
+- **Missouri CCBHC Statewide Model**: Missouri was the first state to make CCBHCs universal, converting all community mental health centers to CCBHCs in 2017. The result: a statewide 23% increase in staff salaries, 19% turnover rate (vs. 37% pre-CCBHC), and a 22% reduction in psychiatric ED visits. Missouri serves as proof of concept for national scale-up.
+- **HRSA Behavioral Health Workforce Education and Training (BHWET)**: $135 million annual program supports ~11,000 training slots across psychology, social work, counseling, and peer support. Evaluation data show that BHWET-funded trainees are 40% more likely to enter underserved-area practice within two years of graduation than non-funded peers (HRSA, 2023).
+- **DoD Prescribing Psychologist Program (1991-present)**: Demonstrated safe and effective psychologist prescribing in military settings for over 30 years. The program has produced zero malpractice claims and strong patient satisfaction data, providing the most robust longitudinal evidence for psychologist prescriptive authority.
+- **VA Mental Health Integration**: The VA has integrated behavioral health into primary care through its Primary Care-Mental Health Integration (PC-MHI) initiative, embedding behavioral health providers in over 700 primary care clinics. Evaluation shows reduced wait times, improved depression outcomes, and high veteran satisfaction (VA, 2023).
+- **California MHSA Workforce Programs**: California's Mental Health Services Act (Proposition 63, 2004) dedicated a portion of millionaire tax revenue to mental health, including workforce development. The MHSA Workforce Education and Training program has funded over 10,000 stipends for behavioral health trainees, with emphasis on diverse and bilingual candidates, producing measurable improvements in workforce diversity in participating counties (CalMHSA, 2023).
+- **Project ECHO (Extension for Community Healthcare Outcomes)**: Developed at the University of New Mexico, Project ECHO uses telementoring to extend specialist expertise to primary care and community providers. Psychiatric ECHO programs in multiple states have enabled primary care providers to manage psychiatric medication with remote specialist support, effectively multiplying the impact of a limited psychiatrist workforce without requiring additional psychiatrists.
 
 ## Sequencing and Prioritization
 

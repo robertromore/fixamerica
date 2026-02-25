@@ -16,12 +16,23 @@ This section provides a curated list of key research, government reports, data s
 - Cabral, R.R. & Smith, T.B. "Racial/Ethnic Matching of Clients and Therapists in Mental Health Services: A Meta-Analytic Review of Preferences, Perceptions, and Outcomes." *Journal of Counseling Psychology* 58, no. 4 (2011): 537-554. <https://doi.org/10.1037/a0025266> - Evidence that racial concordance improves treatment engagement and outcomes.
 - Alegria, M., Chatterji, P., Wells, K., Cao, Z., Chen, C.N., Takeuchi, D., Jackson, J., & Meng, X.L. "Disparity in Depression Treatment Among Racial and Ethnic Minority Populations in the United States." *Psychiatric Services* 59, no. 11 (2013): 1264-1272. - Documents disparities in treatment access by race/ethnicity.
 - Bashshur, R.L., Shannon, G.W., Bashshur, N., & Yellowlees, P.M. "The Empirical Evidence for Telemedicine Interventions in Mental Disorders." *Telemedicine and e-Health* 22, no. 2 (2016): 87-113. <https://doi.org/10.1089/tmj.2015.0206> - Evidence base for telepsychiatry effectiveness across diagnoses.
+- Olfson, M., Blanco, C., Wall, M.M., & Marcus, S.C. "National Trends in the Mental Health Care of Children, Adolescents, and Adults by Office-Based Physicians." *JAMA Psychiatry* 71, no. 1 (2014): 81-90. <https://doi.org/10.1001/jamapsychiatry.2013.3074> - Documents shift in psychiatrist practice toward medication management and away from psychotherapy, relevant to workforce role changes.
+- Andrilla, C.H.A., Patterson, D.G., Garberson, L.A., Coulthard, C., & Larson, E.H. "Geographic Variation in the Supply of Selected Behavioral Health Providers." *American Journal of Preventive Medicine* 54, no. 6 (2018): S199-S207. <https://doi.org/10.1016/j.amepre.2018.01.004> - Foundational analysis of geographic maldistribution of behavioral health providers.
+- Patel, V., Weiss, H.A., Chowdhary, N., et al. "Effectiveness of an Intervention Led by Lay Health Counsellors for Depressive and Anxiety Disorders in Primary Care in Goa, India (MANAS): A Cluster Randomised Controlled Trial." *The Lancet* 376, no. 9758 (2010): 2086-2095. <https://doi.org/10.1016/S0140-6736(10)61508-5> - Evidence for task-sharing model using non-specialist health workers for depression treatment.
+- Archer, J., Bower, P., Gilbody, S., et al. "Collaborative Care for Depression and Anxiety Problems." *Cochrane Database of Systematic Reviews* 10 (2012). <https://doi.org/10.1002/14651858.CD006525.pub2> - Meta-analysis demonstrating Collaborative Care Model produces twofold improvement in depression outcomes.
+- Offodile, A.C., Cerullo, M., Bindal, M., Rauh-Hain, J.A., & Ho, V.P. "Private Equity Investments in Health Care: An Overview of Hospital and Health System Leveraged Buyouts, 2003-2017." *Health Affairs* 40, no. 5 (2021): 719-726. <https://doi.org/10.1377/hlthaff.2020.01535> - Documents private equity investment trends in healthcare relevant to behavioral health consolidation.
+- Raney, L.E., Bergman, D., Torous, J., & Teshale, S. "Collaborative Care: Outcome Evidence and Implementation Experience." *Psychiatric Clinics of North America* 46, no. 4 (2023): 669-685. - Current evidence on CoCM implementation barriers and workforce requirements.
 
 ### Working Papers and White Papers
 
 - Annapolis Coalition on the Behavioral Health Workforce. "An Action Plan for Behavioral Health Workforce Development." Updated 2023. <https://annapoliscoalition.org/action-plan/> - Foundational framework for workforce strategy.
 - Lancet Commission on Global Mental Health and Sustainable Development. "Global Costs of Mental Illness." 2024. - Documents the $280 billion annual U.S. economic cost of untreated mental illness.
 - RAND Corporation. "Nurse Practitioner and Physician Assistant Practice: An Analysis of State Legislation." Working Paper. 2021. <https://www.rand.org/pubs/research_reports/RRA1080-2.html> - Analysis of NP practice outcomes across state regulatory environments.
+- Institute of Medicine. *The Future of Nursing: Leading Change, Advancing Health*. 2010. - Landmark report recommending NPs practice to full extent of training; accelerated PMHNP growth.
+- Merritt Hawkins. "Physician Supply and Demand Surveys." Annual. <https://www.merritthawkins.com/> - Appointment wait time data including 48+ day average wait for new psychiatric appointments.
+- American Academy of Child and Adolescent Psychiatry. "Workforce Maps and Data." 2023. <https://www.aacap.org/AACAP/Advocacy/Federal_and_State_Initiatives/Workforce_Maps/Home.aspx> - State-by-state child psychiatrist supply data and shortage estimates.
+- National Association of School Psychologists. "Shortages in School Psychology: Challenges to Meeting the Growing Needs of U.S. Students and Schools." 2023. <https://www.nasponline.org/> - Documents 1:1,127 school psychologist-to-student ratio vs. 1:500 recommended.
+- Well Being Trust. "Vital Signs: The State of the Behavioral Health Workforce." 2023. <https://wellbeingtrust.org/> - Analysis of workforce trends with projections for shortage growth through 2030.
 
 ---
 
@@ -36,6 +47,10 @@ This section provides a curated list of key research, government reports, data s
 - Centers for Medicare & Medicaid Services. "Medicare Physician Fee Schedule." Updated annually. <https://www.cms.gov/medicare/physician-fee-schedule/search> - Official reimbursement rates for behavioral health services (90837 at $131.65, 2024).
 - Bureau of Labor Statistics. "Occupational Outlook Handbook: Mental Health Counselors and Marriage and Family Therapists." Updated 2023. <https://www.bls.gov/ooh/community-and-social-service/mental-health-counselors-and-marriage-and-family-therapists.htm> - Salary data, employment projections, and workforce demographics.
 - Bureau of Labor Statistics. "Occupational Outlook Handbook: Substance Abuse, Behavioral Disorder, and Mental Health Counselors." Updated 2023. <https://www.bls.gov/ooh/community-and-social-service/substance-abuse-behavioral-disorder-and-mental-health-counselors.htm>
+- Centers for Disease Control and Prevention. "Youth Risk Behavior Survey (YRBS)." 2023. <https://www.cdc.gov/healthyyouth/data/yrbs/index.htm> - Data on youth mental health trends including persistent sadness, suicidality, and self-harm.
+- U.S. Surgeon General. "Protecting Youth Mental Health: The U.S. Surgeon General's Advisory." 2021. <https://www.hhs.gov/surgeongeneral/priorities/youth-mental-health/index.html> - Landmark advisory documenting the youth mental health crisis and workforce implications.
+- Department of Veterans Affairs Office of Inspector General. "OIG Determination of Veterans Health Administration's Occupational Staffing Shortages." Annual. <https://www.va.gov/oig/> - VA behavioral health vacancy rate data by service network.
+- Indian Health Service. "IHS Behavioral Health Programs." 2023. <https://www.ihs.gov/> - Data on behavioral health workforce shortages in tribal and urban Indian health programs.
 
 ### Congressional Reports
 
@@ -78,6 +93,15 @@ This section provides a curated list of key research, government reports, data s
 - National Council for Mental Wellbeing. "CCBHC Impact Report." 2023. <https://www.thenationalcouncil.org/> - Data on CCBHC outcomes: 15-25% salary increases, 18-22% turnover, expanded access.
 - National Academy for State Health Policy. "States Expand the Behavioral Health Workforce." 2023. <https://www.nashp.org/> - State-level innovation in workforce expansion, licensing reform, and telehealth.
 - Milliman Research. "Addiction and Mental Health vs. Physical Health: Widening Disparities in Network Use and Provider Reimbursement." 2023. <https://www.milliman.com/> - Data on out-of-network utilization (5.4x for psychiatry, 5.8x for psychotherapy vs. medical care).
+- Well Being Trust. "Healing the Nation: Advancing Mental Health and Addiction Policy." 2023. <https://wellbeingtrust.org/> - Comprehensive policy framework for behavioral health system reform including workforce recommendations.
+- National Academy of Sciences, Engineering, and Medicine. "Implementing High-Quality Primary Care: Rebuilding the Foundation of Health Care." 2021. <https://www.nationalacademies.org/> - Includes recommendations on behavioral health integration into primary care and workforce requirements.
+
+### State-Level Policy Resources
+
+- National Academy for State Health Policy (NASHP). "State Approaches to Behavioral Health Workforce Development." Ongoing series. <https://www.nashp.org/> - Tracks state-level innovation in workforce policy including licensing reform, Medicaid rate increases, and compact adoption.
+- Council of State Governments. "Interstate Compacts in Behavioral Health." 2023. <https://www.csg.org/> - Analysis of PSYPACT, Counseling Compact, and proposed social work compact design and adoption progress.
+- National Conference of State Legislatures (NCSL). "Behavioral Health Legislation Tracker." Ongoing. <https://www.ncsl.org/> - Tracks state legislation on scope of practice, telehealth, licensing, and behavioral health funding.
+- California Mental Health Services Authority (CalMHSA). "Workforce Education and Training Program Evaluation." 2023. <https://www.calmhsa.org/> - Data on California's MHSA-funded workforce diversity programs and outcomes.
 
 ---
 
@@ -97,6 +121,18 @@ This section provides a curated list of key research, government reports, data s
 | National Association of Community Health Workers (NACHW) | CHW workforce development and professionalization | Professional | <https://nachw.org/> |
 | Annapolis Coalition on the Behavioral Health Workforce | Workforce development strategy and research | Research/Advocacy | <https://annapoliscoalition.org/> |
 | Behavioral Health Workforce Research Center (Univ. of Michigan) | Workforce supply/demand research and data | Academic | <https://www.behavioralhealthworkforce.org/> |
+| Well Being Trust | Mental health system reform and workforce advocacy | Research/Advocacy | <https://wellbeingtrust.org/> |
+| American Academy of Child and Adolescent Psychiatry (AACAP) | Child psychiatry workforce, training, advocacy | Professional | <https://www.aacap.org/> |
+| National Association of State Mental Health Program Directors (NASMHPD) | State mental health agency leadership and policy | Government/Professional | <https://www.nasmhpd.org/> |
+| American Association of Colleges of Nursing (AACN) | Nursing education including PMHNP programs | Educational/Professional | <https://www.aacnnursing.org/> |
+| Council on Social Work Education (CSWE) | Social work education accreditation and workforce data | Educational/Professional | <https://www.cswe.org/> |
+| Council for Accreditation of Counseling and Related Programs (CACREP) | Counseling program accreditation | Educational/Professional | <https://www.cacrep.org/> |
+| National Board for Certified Counselors (NBCC) | National counselor certification and workforce data | Professional/Certification | <https://www.nbcc.org/> |
+| NAADAC, the Association for Addiction Professionals | SUD counselor workforce advocacy and certification | Professional | <https://www.naadac.org/> |
+| American School Counselor Association (ASCA) | School counselor workforce advocacy and standards | Professional | <https://www.schoolcounselor.org/> |
+| National Association of School Psychologists (NASP) | School psychologist workforce and ratio standards | Professional | <https://www.nasponline.org/> |
+| PSYPACT Commission | Interstate psychology practice compact administration | Regulatory | <https://psypact.org/> |
+| Counseling Compact Commission | Interstate counseling practice compact administration | Regulatory | <https://counselingcompact.org/> |
 
 ---
 
@@ -158,7 +194,12 @@ This section provides a curated list of key research, government reports, data s
 - Pub. L. 110-343, Section 512 - Mental Health Parity and Addiction Equity Act of 2008.
 - Pub. L. 116-260, Division CC, Section 126 - Consolidated Appropriations Act of 2021, authorizing 1,000 new GME slots.
 - Pub. L. 117-169 (Inflation Reduction Act) - Medicare telehealth provisions relevant to behavioral health.
+- Pub. L. 117-159 (Bipartisan Safer Communities Act) - $1 billion for school-based mental health and community behavioral health services.
 - 42 U.S.C. Section 290bb-34 - SAMHSA grant authority for behavioral health workforce programs.
+- 42 U.S.C. Section 254l-254l-1 - NHSC scholarship and loan repayment program authorizing statutes.
+- 42 U.S.C. Section 256a - HRSA Behavioral Health Workforce Education and Training (BHWET) grant authority.
+- 8 U.S.C. Section 1184(l) - Conrad 30 J-1 visa waiver program for physicians in underserved areas.
+- H.R. 828 / S. 828 (multiple Congresses) - Mental Health Access Improvement Act (LPC/LMFT Medicare billing authority; not yet enacted).
 
 ---
 

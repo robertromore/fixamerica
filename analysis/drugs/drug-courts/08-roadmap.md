@@ -82,9 +82,11 @@ Phase 1 establishes the data infrastructure, MAT access baseline, and diversion 
 
 ### Legislative Requirements
 
-- Drug Court Block Grant Act: Creates formula-based funding allocated to states based on eligible population and treatment costs
-- Drug Court Quality Improvement Act: Authorizes national certification system and ties funding to certification within 5 years
-- Reauthorization and expansion of the Veterans Treatment Court Improvement Act
+- Drug Court Block Grant Act: Creates formula-based funding allocated to states based on eligible population, treatment costs, and overdose mortality rates. Includes a minimum state allocation to ensure rural and low-population states receive adequate support.
+- Drug Court Quality Improvement Act: Authorizes national certification system and ties funding to certification within 5 years. Includes provisions for technical assistance to courts seeking certification.
+- Reauthorization and expansion of the Veterans Treatment Court Improvement Act: Increases VTC funding to $50 million and expands eligibility criteria to include veterans with other-than-honorable discharges.
+- Family Drug Court Expansion Act: Authorizes dedicated funding for family dependency treatment courts through both BJA and HHS Children's Bureau, recognizing that parental substance use drives approximately 36% of foster care placements.
+- Tribal Healing-to-Wellness Court Development Act: Creates dedicated funding and technical assistance for tribal courts, administered in consultation with the Tribal Law and Policy Institute and respecting tribal sovereignty in court design.
 
 ### Expected Outcomes
 
@@ -143,6 +145,27 @@ By Year 10, the drug court system has been transformed from a fragmented network
 
 **Annual Public Reporting**: BJA publishes an annual "State of Drug Courts" report with national outcome data disaggregated by race, court type, geography, and certification status.
 
+**Tribal Court Governance**: Tribal healing-to-wellness courts maintain sovereign authority over court design and operations. Federal funding and technical assistance respect tribal self-determination while providing resources for evidence-based program development. The Tribal Law and Policy Institute serves as the primary intermediary between federal funders and tribal courts.
+
+**Independent Evaluation**: An independent evaluation entity (e.g., a university consortium or research organization selected through competitive procurement) conducts periodic national assessments of drug court outcomes, equity metrics, and certification system effectiveness. Independent evaluation prevents the drug court iron triangle (NADCP-BJA-local courts) from self-certifying its own success.
+
+## Legislative and Advocacy Calendar
+
+| Month | Activity | Target Audience |
+|---|---|---|
+| January-February | State legislative sessions begin; introduce state drug court bills | State legislators, governors |
+| February-March | President's budget request released; analyze drug court funding levels | Congressional appropriations committees, advocates |
+| March-April | BJA Drug Court Discretionary Grant Program solicitation | Local drug courts, state coordinators |
+| May | National Drug Court Month; NADCP advocacy campaign | Congress, state legislators, public |
+| May-June | NADCP Annual Training Conference | Drug court professionals, researchers, policymakers |
+| June-July | Congressional appropriations markup season | Senate/House Appropriations subcommittees |
+| August-September | State legislative sessions conclude in many states | State legislators, governors |
+| September-October | Federal fiscal year begins (Oct 1); new grant awards announced | Local drug courts, state coordinators |
+| October-November | BJA grant reporting deadlines; outcome data collection | Funded drug courts, BJA |
+| November-December | NADCP annual survey; year-end data compilation | Drug court professionals, researchers |
+
+This calendar provides advocates with a framework for timing their engagement at both federal and state levels. Effective advocacy aligns with legislative calendars and funding cycles rather than operating ad hoc.
+
 ## Risk Mitigation
 
 ### Risk 1: Congressional Funding Shortfall
@@ -195,6 +218,36 @@ By Year 10, the drug court system has been transformed from a fragmented network
 
 **Contingency Plan**: If decriminalization significantly reduces criminal referrals, pivot drug court resources to family courts, DUI courts, veterans courts, and post-incarceration reentry courts where criminal justice processing remains active.
 
+### Risk 6: Workforce Shortage Prevents Treatment Capacity Expansion
+
+**Likelihood**: High
+
+**Impact**: High
+
+**Mitigation Strategy**: Coordinate drug court expansion with federal behavioral health workforce initiatives. Expand loan forgiveness for SUD counselors serving in drug court settings. Invest in peer recovery specialist training as a cost-effective workforce supplement. Leverage telehealth to extend provider reach across geographic barriers.
+
+**Contingency Plan**: If workforce shortages persist, prioritize technology-enabled treatment delivery (telehealth, digital therapeutics, smartphone-based monitoring) and peer-delivered services to supplement licensed clinician capacity. Adjust expansion timelines to match available workforce.
+
+### Risk 7: Fentanyl Crisis Increases Participant Mortality
+
+**Likelihood**: High (already occurring)
+
+**Impact**: Very High
+
+**Mitigation Strategy**: Universal naloxone distribution to all participants and families at program entry. Mandate overdose response training for all drug court staff and participants. Accelerate MAT adoption to reduce relapse-related overdose risk. Modify graduated sanctions to avoid interruptions in MAT during jail sanctions. Integrate fentanyl test strips into drug court programming where legally permissible.
+
+**Contingency Plan**: If participant mortality increases despite prevention efforts, consider whether the drug court model's abstinence-monitoring framework needs fundamental revision to prioritize survival over compliance in the fentanyl era.
+
+### Risk 8: Political Backlash Against Drug Courts During Election Cycles
+
+**Likelihood**: Medium
+
+**Impact**: Medium
+
+**Mitigation Strategy**: Maintain bipartisan messaging that emphasizes public safety, fiscal responsibility, and accountability. Pre-empt "soft on crime" attacks by publicizing recidivism reduction data and participant accountability requirements. Engage conservative allies (Heritage Foundation, Right on Crime) to provide political cover for Republican supporters.
+
+**Contingency Plan**: If political headwinds intensify, focus advocacy on veterans treatment courts and family drug courts, which have the strongest bipartisan appeal and are least vulnerable to "soft on crime" attacks.
+
 ## Resource Requirements
 
 ### Funding
@@ -218,6 +271,31 @@ By Year 10, the drug court system has been transformed from a fragmented network
 - Health information exchange integration: $100 million over 10 years
 - Telehealth infrastructure for rural drug courts: $25 million
 - Certification system infrastructure: $15 million development, $15 million annual operations
+- Tribal healing-to-wellness court development: $50 million over 10 years
+- Family drug court expansion infrastructure: $75 million over 10 years
+- Naloxone and harm reduction supply chain: $10 million annually
+- Housing assistance integration: $200 million over 10 years
+
+## State-Level Implementation Considerations
+
+Implementation will vary significantly by state, depending on existing drug court infrastructure, political climate, healthcare landscape, and substance use patterns:
+
+| State Category | Characteristics | Priority Actions | Examples |
+|---|---|---|---|
+| High-infrastructure states | Statewide coordination office; state standards/certification; dedicated state funding; high court density | Quality improvement; equity monitoring; certification readiness; specialized court expansion | Missouri, Kentucky, Oregon |
+| Moderate-infrastructure states | Some coordination; partial standards; mixed funding; moderate court density | Standards development; sustainable funding advocacy; data system upgrades | Ohio, Virginia, Colorado |
+| Low-infrastructure states | Limited coordination; no state standards; minimal state funding; low court density | Basic infrastructure development; drug court planning grants; treatment capacity building | Texas, California, Georgia |
+| Tribal nations | Healing-to-wellness courts; tribal sovereignty; IHS integration; cultural programming | Dedicated federal funding; cultural adaptation support; workforce development; IHS coordination | Varies by nation |
+| Non-expansion Medicaid states | No Medicaid expansion; limited treatment funding; higher uninsured rates among participants | Medicaid expansion advocacy; alternative treatment funding; FQHC partnerships | 10 states as of 2024 |
+
+### State Champions and Early Adopters
+
+Identifying state champions -- elected officials, judges, or advocacy organizations willing to lead reform -- is critical for implementation. Historical precedent suggests that drug court reform advances most rapidly when a state chief justice, governor, or legislative committee chair becomes personally invested. Examples include:
+
+- **Kentucky**: Chief Justice John Minton championed statewide drug court standards and MAT access requirements, leveraging the state's severe opioid crisis to build political support
+- **Missouri**: The state Office of State Courts Administrator developed one of the nation's most comprehensive drug court data systems, enabling performance-based funding allocation
+- **Texas**: The Texas Public Policy Foundation (Right on Crime) provided conservative intellectual cover for drug court expansion, enabling bipartisan support in a traditionally law-and-order state
+- **New York**: Chief Judge Janet DiFiore created the Commission on Justice in Problem-Solving Courts, which recommended reforms to address racial disparities and improve quality across the state's drug court system
 
 ---
 

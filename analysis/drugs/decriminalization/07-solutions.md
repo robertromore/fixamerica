@@ -175,6 +175,22 @@ Decriminalization works through three interconnected pathways: (1) removing the 
 
 **Applicability to U.S.**: HAT is legally prohibited in the United States under the CSA. Enabling HAT would require legislative change. However, the model demonstrates the effectiveness of medical approaches to severe addiction and complements decriminalization by providing treatment pathways for the hardest-to-reach populations.
 
+### Australia: State-Level Variation (Various Dates)
+
+**Description**: Australia provides a model of decriminalization within a federal system analogous to the United States. Individual states and territories have adopted different approaches: South Australia (cannabis expiation notice since 1987), Australian Capital Territory (decriminalized all drugs in small quantities, 2023), and other states with cannabis diversion programs.
+
+**Results**: The Australian Institute of Health and Welfare (AIHW, 2023) reports that states with diversion programs have lower rates of cannabis-related criminal justice contact without increased use among young people. The ACT's 2023 comprehensive decriminalization is too recent to evaluate fully but initial implementation has proceeded smoothly.
+
+**Applicability to U.S.**: Australia's federal system, with states exercising primary criminal justice authority, closely parallels the U.S. model. The Australian experience demonstrates that decriminalization can function differently across jurisdictions within a single nation without producing chaos or drug tourism.
+
+### The Netherlands: Tolerance Policy and Drug Checking (1976/1992)
+
+**Description**: Beyond the cannabis coffee shop system, the Netherlands pioneered drug checking services at music festivals and events beginning in 1992 through the Drug Information and Monitoring System (DIMS). Individuals can submit drug samples for analysis at 31 testing locations nationwide.
+
+**Results**: Drug checking has been associated with behavioral changes -- 45% of individuals who received results indicating unexpected substances discarded the drugs or reduced dosage. The service provides population-level surveillance data on drug supply trends, enabling early warning about dangerous adulterants.
+
+**Applicability to U.S.**: Drug checking services are beginning to operate in the U.S. (approximately 15 cities have FTIR spectrometry pilots) and could be integrated into a civil citation system. Individuals cited for drug possession could have their substances tested as part of the health assessment process, providing both individual safety information and population-level supply data.
+
 ---
 
 ## Pilot Programs and Demonstrations
@@ -183,6 +199,35 @@ Decriminalization works through three interconnected pathways: (1) removing the 
 - **New York City Overdose Prevention Centers** (2021-present): Two supervised consumption sites operating legally under city authorization. Over 1,000 overdoses reversed. Zero deaths. Demonstration that supervised consumption is operationally feasible in the U.S.
 - **Seattle LEAD Program** (2011-present): Law Enforcement Assisted Diversion program allowing officers to divert low-level drug and prostitution offenders to case management. 58% reduction in recidivism. Cost savings of $2.40 for every $1 invested (University of Washington, 2017).
 - **California Proposition 47** (2014): Defelonized drug possession. Reduced state prison population by ~10,000. $150 million annual savings reinvested in treatment, mental health, and victim services. No measurable increase in crime (Public Policy Institute of California, 2018).
+
+## Solution 8: State-Level Model Decriminalization Act
+
+**Description**: Develop and promote a model state decriminalization statute that can be adapted by individual states, providing a standardized framework while allowing state-specific customization. The model act would: (a) reclassify personal possession of drugs below specified thresholds from criminal to civil; (b) create a health assessment and referral system as the primary response; (c) establish graduated civil sanctions for non-compliance; (d) maintain criminal penalties for trafficking and distribution; (e) prohibit public consumption while decriminalizing private possession; (f) require racial equity monitoring and corrective action; (g) include automatic expungement for prior convictions that have been decriminalized.
+
+**Evidence Base**: The Uniform Law Commission's model legislation approach has been effective in harmonizing state laws across multiple domains (commercial code, probate, partnerships). The National Conference of Commissioners on Uniform State Laws provides a mechanism for interstate coordination. Several model drug policy bills have been drafted by the Drug Policy Alliance and the ACLU that could serve as templates.
+
+**Implementation**: Model act drafted by a coalition of public health experts, legal scholars, and stakeholder representatives. Promoted through the Uniform Law Commission, National Conference of State Legislatures, and direct state legislative engagement. States would adapt the model to local conditions, treatment capacity, and political context.
+
+**Cost/Resources**: Minimal federal cost; model legislation drafting funded through philanthropy. State implementation costs would vary based on existing treatment infrastructure.
+
+**Timeline**: Model act drafted within 12 months; adoption by first states within 24 months; 10+ states within 5 years.
+
+**Challenges**: State legislative politics vary enormously; model legislation may not gain traction in conservative states without federal incentives or compelling in-state evidence.
+
+**Impact Metrics**: Number of states adopting model act (full or adapted); uniformity of civil penalty systems across states; racial equity outcomes.
+
+## Solution Comparison Matrix
+
+| Solution | Federal/State | Cost (10yr) | Political Feasibility | Implementation Speed | Expected Impact |
+|----------|--------------|-------------|----------------------|---------------------|----------------|
+| 1. Federal decriminalization | Federal | Low (reclassification) | Low (requires Congress) | Medium (6-12mo after enactment) | High (eliminates ~1.3M arrests/yr) |
+| 2. Treatment expansion | Federal + State | $25 billion | Medium-High (bipartisan) | Medium (3-5yr buildout) | High (closes treatment gap) |
+| 3. Possession thresholds | Federal | Minimal | Medium | Fast (regulatory) | Medium (defines personal use) |
+| 4. Civil citation system | State + Federal | $5 billion | Medium | Medium (18-36mo rollout) | High (replaces arrest with engagement) |
+| 5. Record expungement | Federal + State | $500 million | Medium-High | Medium (24-36mo) | High (removes barriers for 20M+) |
+| 6. Pre-arrest deflection | Local + Federal | $5 billion | High (bipartisan) | Fast (existing programs) | Medium (reaches fraction of arrests) |
+| 7. Harm reduction | Federal + State | $15 billion | Medium | Fast-Medium | High (reduces overdose deaths) |
+| 8. Model state act | State | Minimal federal | Medium | Slow (state-by-state) | High (long-term systemic change) |
 
 ## Sequencing and Prioritization
 
@@ -210,15 +255,97 @@ Decriminalization works through three interconnected pathways: (1) removing the 
 - Evaluate and potentially expand supervised consumption sites
 - Fundamental rebalance of federal drug budget toward demand reduction (60%+ to treatment, prevention, harm reduction)
 
+## Design Lessons from Failed Implementations
+
+Understanding why specific decriminalization implementations have failed is as important as understanding successful models.
+
+### Critical Design Failures to Avoid
+
+| Design Element | Oregon Failure | Corrected Design |
+|---------------|---------------|------------------|
+| Engagement mechanism | Optional phone call to hotline (~1% engagement) | Mandatory in-person health assessment within 14 days (Portugal model: ~85% appearance rate) |
+| Treatment infrastructure timing | Treatment funding delayed 18+ months after decriminalization effective | Treatment capacity benchmarks must be met before criminal penalties are removed |
+| Accountability for non-engagement | No consequences for failing to call hotline | Graduated civil fines ($250, $500, $1,000) for failure to appear for health assessment, enforceable through civil collection |
+| Public use distinction | No separate provision for public consumption | Decriminalize private possession while maintaining civil penalties for public consumption |
+| Data collection | Limited real-time tracking of outcomes | Mandatory data dashboard tracking citations, assessments, treatment referrals, overdose deaths, and racial disparities |
+| Law enforcement role | Police confused about role; many disengaged | Clear protocols for citation issuance; deflection training; integration of police into the civil response system |
+| Political communication | Framed as "decriminalization" -- politically polarizing | Frame as "health response system" or "treatment-centered accountability" |
+
+### Minimum Viable Infrastructure for Decriminalization
+
+Based on Portugal's success and Oregon's failure, the following minimum infrastructure must be operational before decriminalization takes effect:
+
+1. **Treatment capacity**: Wait time for publicly funded SUD treatment must be less than 14 days (goal: 72 hours)
+2. **Health assessment panels**: Staffed and operational in every county or judicial district, with capacity to process the expected volume of citations
+3. **Harm reduction services**: Naloxone widely distributed; fentanyl test strips legal and available; syringe services operational
+4. **Data systems**: Real-time tracking of citations, assessments, treatment referrals, outcomes, and racial disparities
+5. **Law enforcement training**: All officers trained in citation procedures, deflection, and trauma-informed response
+6. **Public communication**: Clear public messaging that decriminalization means health accountability, not permissiveness
+7. **Outreach teams**: Street outreach workers deployed to connect visibly affected individuals to services, preventing the "public disorder" backlash
+
 ## Complementary Policies
 
 Decriminalization will be most effective when paired with reforms in related policy areas:
 
-- **Housing**: Expanded permanent supportive housing and elimination of drug conviction barriers to public housing (see [Housing analysis](../../housing/01-overview.md))
-- **Healthcare**: Medicaid expansion in remaining states; mental health parity enforcement; integration of SUD treatment into primary care
-- **Employment**: Ban-the-box legislation; federal contractor non-discrimination requirements for expunged records
-- **Cannabis legalization**: Federal cannabis legalization removes the most common drug arrest category entirely, complementing broader decriminalization
-- **Harm reduction**: Legal protections for Good Samaritan 911 callers; syringe service program expansion; naloxone standing orders in all 50 states
+- **Housing**: Expanded permanent supportive housing and elimination of drug conviction barriers to public housing. Stable housing is the strongest predictor of sustained recovery; without it, treatment gains are easily lost. See [Housing analysis](../../housing/01-overview.md).
+- **Healthcare**: Medicaid expansion in remaining 10 states; mental health parity enforcement; integration of SUD treatment into primary care; expansion of telehealth for rural treatment access. Universal coverage for SUD treatment is the single most important complementary reform.
+- **Employment**: Ban-the-box legislation at federal and state levels; federal contractor non-discrimination requirements for expunged records; wage subsidies for employers who hire people in early recovery. Employment is the second strongest predictor of sustained recovery after housing.
+- **Cannabis legalization**: Federal cannabis legalization removes the most common drug arrest category entirely (~350,000 arrests annually), complementing broader decriminalization and freeing law enforcement resources for public health responses.
+- **Harm reduction**: Legal protections for Good Samaritan 911 callers; syringe service program expansion to all 50 states; naloxone standing orders in all 50 states; federal authorization and funding for supervised consumption sites.
+- **Mental health**: Integration of mental health treatment with SUD treatment, addressing the 38% co-occurrence rate. Expansion of the 988 Suicide and Crisis Lifeline and crisis response teams that can serve as alternatives to police response.
+- **Education**: Evidence-based drug education in schools, replacing outdated scare-based programs (D.A.R.E.) with programs shown to reduce harm (Life Skills Training, Good Behavior Game). Early intervention for youth identified as at risk for SUD.
+- **Criminal justice reform**: Broader sentencing reform, including elimination of mandatory minimums for drug offenses, expansion of earned-time credits, and compassionate release for aging drug offenders. See [Justice analysis](../../justice/01-overview.md).
+- **Data infrastructure**: National drug policy data dashboard integrating overdose death data (CDC WONDER), treatment enrollment data (SAMHSA TEDS), arrest data (FBI UCR), and state-level decriminalization outcome data. Transparent, real-time data is essential for building and maintaining political support.
+
+## Equity Considerations in Solution Design
+
+Every proposed solution must be evaluated for its potential to reproduce, reduce, or eliminate the racial and socioeconomic disparities embedded in the current system.
+
+### Disparity Risks in Decriminalization
+
+| Solution Component | Potential Disparity Risk | Mitigation Strategy |
+|-------------------|------------------------|---------------------|
+| Civil citations | Officers may cite Black and Hispanic individuals at disproportionate rates (reproducing arrest disparities) | Mandatory racial equity data collection; corrective action thresholds; officer training on implicit bias |
+| Health assessments | Low-income individuals may face barriers to appearing (transportation, childcare, work schedules) | Mobile assessment units; evening/weekend hours; childcare and transportation assistance |
+| Graduated fines | Fines disproportionately burden low-income individuals | Income-scaled fines; community service alternatives; fine waiver for assessment completion |
+| Possession thresholds | People purchasing for group use (common in communities of color) may exceed personal thresholds | "Totality of circumstances" provision; prohibition on using threshold alone as basis for distribution charges |
+| Record expungement | Automated systems may miss records in fragmented state databases, disproportionately affecting people with records in multiple jurisdictions | Federal investment in record database integration; outreach to affected communities; legal aid for complex cases |
+| Treatment access | Rural and minority communities have fewer treatment facilities | Geographic equity requirements in treatment infrastructure grants; telehealth expansion; culturally competent treatment programs |
+
+### Equity Monitoring Requirements
+
+All civil citation systems should be required to:
+
+1. Collect and publicly report citation data disaggregated by race, ethnicity, gender, age, geography, and income
+2. Establish disparity thresholds (e.g., citation rate for any racial group shall not exceed 1.5x its population share)
+3. Trigger mandatory corrective action plans when thresholds are exceeded
+4. Fund independent annual equity audits conducted by community-based organizations
+5. Include community advisory boards with representation from affected populations in system governance
+
+## Workforce Requirements for Implementation
+
+Effective decriminalization requires a substantial expansion of the behavioral health workforce. The current treatment system faces critical staffing shortages that must be addressed as a precondition for reform.
+
+### Workforce Gap Analysis
+
+| Role | Current Supply | Estimated Need Under Decriminalization | Gap |
+|------|---------------|---------------------------------------|-----|
+| Addiction counselors | ~98,000 | ~148,000 | ~50,000 |
+| Clinical social workers (SUD-specialized) | ~45,000 | ~70,000 | ~25,000 |
+| Peer support specialists | ~30,000 | ~80,000 | ~50,000 |
+| Psychiatric nurse practitioners | ~28,000 | ~40,000 | ~12,000 |
+| Addiction psychiatrists | ~5,000 | ~9,000 | ~4,000 |
+| Health assessment panel staff | ~0 | ~15,000 | ~15,000 |
+
+Sources: BLS Occupational Outlook Handbook, 2024; SAMHSA workforce projections; author estimates based on Portugal staffing ratios scaled to U.S. population.
+
+### Workforce Development Strategies
+
+- **Loan forgiveness**: Federal student loan forgiveness for addiction counselors and social workers who serve in underserved areas for 3+ years, modeled on the National Health Service Corps
+- **Peer certification expansion**: Standardized national peer support specialist certification with Medicaid reimbursement, enabling people in recovery to serve as frontline workers in the civil citation system
+- **Training pipeline**: Federal grants to universities and community colleges to expand SUD treatment training programs, with particular emphasis on rural and tribal-serving institutions
+- **Wage competitiveness**: Require federally funded treatment programs to pay addiction counselors at parity with clinical social workers (median $55,000 vs. current $35,000-45,000), reducing the 30%+ annual turnover that undermines treatment quality
+- **Cultural competency requirements**: All health assessment panel staff and treatment providers receiving federal decriminalization funding must complete training in culturally competent care, with specific modules for serving Black, Latino, Native American, LGBTQ+, and rural populations
 
 ---
 

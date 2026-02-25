@@ -65,6 +65,32 @@ Per capita consumption, after declining from its 1981 peak of 2.76 gallons per y
 
 Underage drinking has declined significantly over the past two decades. In 2002, 28.8% of 12-20 year-olds reported past-month alcohol use; by 2023, that figure had fallen to 15.1% -- a 48% decrease. Nevertheless, nearly 4 million minors binge-drank in the past month.
 
+### College Drinking
+
+College campuses remain the highest-risk environment for binge drinking and alcohol-related harm among young adults.
+
+| Metric | Value | Source |
+|---|---|---|
+| College students (18-22) who drank in past month | 52.8% | SAMHSA NSDUH, 2024 |
+| College students who binge-drank (past month) | 29.4% | SAMHSA NSDUH, 2024 |
+| Same-age non-college peers who binge-drank | 24.1% | SAMHSA NSDUH, 2024 |
+| Alcohol-related deaths among college students (annual) | ~1,519 | NIAAA College Fact Sheet, 2023 |
+| Alcohol-related sexual assaults (college, annual) | ~97,000 | NIAAA College Fact Sheet, 2023 |
+| Alcohol-related academic problems reported | 25% of college students | NIAAA, 2023 |
+
+College drinking rates have declined from their peak (44.4% binge rate in 2002) but remain substantially higher than same-age peers not in college. The concentration of young adults in environments with permissive social norms, high outlet density near campuses, and aggressive alcohol marketing contributes to elevated risk.
+
+### Drinking and Pregnancy
+
+| Metric | Value | Source |
+|---|---|---|
+| Women aged 18-44 who drank in past 30 days | 53.6% | CDC BRFSS, 2023 |
+| Pregnant women who drank (any amount, past 30 days) | 13.5% | CDC BRFSS, 2023 |
+| Pregnant women who binge-drank (past 30 days) | 5.2% | CDC BRFSS, 2023 |
+| Women who drank before knowing they were pregnant | ~50% of pregnancies are unplanned | CDC, 2023 |
+
+Alcohol use during pregnancy is the leading preventable cause of developmental disabilities in the United States. The combination of unplanned pregnancies (approximately 45% of all U.S. pregnancies) and the prevalence of drinking among women of reproductive age means that a significant number of fetuses are exposed to alcohol before the pregnancy is recognized.
+
 ---
 
 ## Mortality and Morbidity
@@ -106,10 +132,28 @@ The COVID-19 pandemic produced a sharp spike in alcohol-related mortality. While
 | Americans with AUD (past year, 2023) | 29.5 million (10.5% of adults) | SAMHSA NSDUH, 2024 |
 | AUD prevalence among males | 14.1% | SAMHSA NSDUH, 2024 |
 | AUD prevalence among females | 7.3% | SAMHSA NSDUH, 2024 |
+| AUD prevalence among 18-25 year-olds | 15.8% | SAMHSA NSDUH, 2024 |
 | Received any treatment (past year) | 2.2 million (7.6% of those with AUD) | SAMHSA NSDUH, 2024 |
 | Treatment gap (AUD but no treatment) | 27.3 million (92.4%) | SAMHSA NSDUH, 2024 |
+| Received medication for AUD | ~450,000 (1.5% of those with AUD) | SAMHSA NSDUH, 2024 |
+| AUD with co-occurring mental illness | 40.7% | SAMHSA NSDUH, 2024 |
 
-The treatment gap for alcohol use disorder is the largest in substance use medicine. Fewer than 1 in 13 Americans with AUD receive any form of treatment. Barriers include stigma, cost, lack of awareness of treatment options, and insufficient provider capacity.
+The treatment gap for alcohol use disorder is the largest in substance use medicine. Fewer than 1 in 13 Americans with AUD receive any form of treatment. Barriers include stigma, cost, lack of awareness of treatment options, and insufficient provider capacity. Among those who do receive treatment, only a small fraction receive FDA-approved medications (naltrexone, acamprosate, disulfiram), despite strong evidence of their effectiveness.
+
+The high rate of co-occurring mental health conditions (40.7%) underscores the need for integrated treatment approaches. AUD frequently co-occurs with depression, anxiety, PTSD, and other substance use disorders, yet the fragmented U.S. treatment system often addresses these conditions in separate, uncoordinated settings.
+
+### Economic Burden
+
+| Cost Category | Annual Cost | Share of Total | Source |
+|---|---|---|---|
+| Healthcare expenditures | $28 billion | 11.2% | CDC/Sacks et al., 2015 (inflated to 2024) |
+| Lost workplace productivity | $179 billion | 71.9% | CDC/Sacks et al., 2015 (inflated to 2024) |
+| Criminal justice costs | $25 billion | 10.0% | CDC/Sacks et al., 2015 (inflated to 2024) |
+| Motor vehicle crashes | $13 billion | 5.2% | CDC/Sacks et al., 2015 (inflated to 2024) |
+| Other costs (property damage, social services) | $4 billion | 1.6% | CDC/Sacks et al., 2015 (inflated to 2024) |
+| **Total** | **$249 billion** | **100%** | **CDC, 2024** |
+
+Excessive drinking cost the United States an estimated $249 billion in 2024, equivalent to approximately $2.05 per drink consumed. The federal and state governments bore approximately 40% of these costs ($100 billion) through healthcare programs, criminal justice, and lost tax revenue. The remaining 60% was borne by employers, private insurers, and individuals. Notably, binge drinking accounted for approximately 77% of total costs.
 
 ### Fetal Alcohol Spectrum Disorders
 
@@ -251,6 +295,33 @@ The alcohol industry operates under a self-regulatory framework administered by 
 | Three-tier enforcement (strict) | ~30 | Mandatory separation of production, distribution, retail |
 | Three-tier exceptions | ~20 | Various exceptions (farm wineries, brewpubs, direct shipping) |
 
+### Hours-of-Sale and Sunday Sales Restrictions
+
+| Restriction Type | States | Description |
+|---|---|---|
+| Prohibit off-premise Sunday sales (spirits) | 3 (as of 2024) | Down from 18 in 2002; most states have repealed Sunday bans |
+| Prohibit off-premise Sunday sales (beer/wine) | 1 (partial) | Near-universal Sunday sales now permitted |
+| Restrict late-night on-premise sales (2 AM or earlier closing) | 38 | Standard closing time varies: 1 AM to 4 AM |
+| Allow 24-hour service (no mandated closing) | 5 (NV, LA partial, MO partial, GA partial, IN partial) | Nevada has the most permissive hours-of-sale framework |
+| Prohibit happy hour drink specials | 10 | Ban on below-cost or heavily discounted drink promotions |
+| Restrict drink-per-person limits | 15 | Limit the number of drinks that can be served to one person at a time |
+
+Hours-of-sale restrictions are among the most effective availability controls. A 2010 systematic review by Hahn et al. for the Community Preventive Services Task Force found that reducing hours and days of sale was associated with significant reductions in alcohol-related harms, including a 2-4% reduction in alcohol-related crashes per hour of reduced availability. The trend toward repealing Sunday sales bans and extending closing hours reflects industry lobbying rather than public health evidence.
+
+### Alcohol Outlet Density
+
+Alcohol outlet density -- the number of on-premise (bars, restaurants) and off-premise (liquor stores, convenience stores) retailers per geographic unit -- varies dramatically across communities and is consistently associated with alcohol-related harm.
+
+| Metric | Value | Source |
+|---|---|---|
+| Total retail alcohol outlets in the U.S. | ~680,000 | TTB/NIAAA APIS, 2023 |
+| Average outlets per 10,000 population | ~20 | NIAAA APIS, 2023 |
+| Outlet density in low-income urban areas | 2-5x higher than affluent areas | Campbell et al., 2009; Toomey et al., 2012 |
+| Association with violence | 10% increase in density associated with 2-3% increase in violent crime | Gruenewald et al., 2014 |
+| Association with DUI crashes | Higher density correlated with increased DUI crash rates | Livingston, 2011 |
+
+Research consistently shows that low-income communities and communities of color bear a disproportionate burden of high outlet density, contributing to health disparities in alcohol-related disease and violence (Toomey et al., 2012).
+
 ---
 
 ## Geographic Variation
@@ -301,6 +372,32 @@ Alcohol-associated liver disease hospitalizations among adults aged 25-34 increa
 ### International Policy Divergence
 
 Other nations are moving more aggressively on alcohol policy. Ireland enacted the Public Health (Alcohol) Act in 2018 mandating minimum unit pricing and health labeling. Scotland implemented minimum unit pricing in 2018 with positive early results. Canada's updated Low-Risk Drinking Guidelines (2023) recommend no more than 2 drinks per week. These international developments are creating pressure for U.S. policy reassessment.
+
+### Industry Consolidation and Political Spending
+
+The alcohol industry has undergone significant consolidation, concentrating political and market power:
+
+| Metric | Value | Source |
+|---|---|---|
+| Top 5 producers' share of U.S. beer market | ~65% | IWSR/Beer Marketer's Insights, 2024 |
+| Top 3 distributors' share of U.S. wholesale market | ~65% | Industry data, 2023 |
+| Federal lobbying spending (2023) | $30.1 million | OpenSecrets, 2024 |
+| Federal campaign contributions (2022 cycle) | $23.8 million | OpenSecrets, 2024 |
+| State-level lobbying and contributions (estimated) | $50+ million per cycle | FollowTheMoney/NISP, 2023 |
+| Industry "responsibility" campaign spending | ~$250 million annually | FTC, 2022 |
+
+The National Beer Wholesalers Association (NBWA) is consistently among the top 20 PAC contributors in Congress. The consolidation of the distribution tier into a small number of powerful wholesalers has created a political force that vigorously defends the three-tier system and opposes direct-to-consumer sales, tax increases, and access restrictions.
+
+### The Surgeon General's 2025 Advisory
+
+On January 3, 2025, U.S. Surgeon General Vivek Murthy issued an advisory calling for updated health warning labels on alcoholic beverages to include information about the link between alcohol and cancer. This was the first proposed change to alcohol warning labels since the Alcoholic Beverage Labeling Act of 1988. The advisory specifically cited:
+
+- Alcohol as a Group 1 carcinogen (WHO/IARC classification, same category as tobacco and asbestos)
+- An estimated 20,000 alcohol-attributable cancer deaths annually in the United States
+- Evidence that even moderate consumption increases cancer risk, particularly for breast and colorectal cancers
+- The need for Congress to act on label modernization
+
+The advisory generated significant media coverage but faces substantial industry opposition and requires Congressional or regulatory action to implement.
 
 ---
 

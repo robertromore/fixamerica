@@ -52,6 +52,19 @@ Scheduling reform requires a phased approach that sequences politically achievab
 - Congressional support helpful for cannabis rescheduling (reduces litigation risk)
 - Appropriations for additional DEA licensing staff ($5-10 million)
 
+### Coalition Building (Phase 1)
+
+Phase 1 coalition strategy focuses on leveraging the broadest possible support for actions that require no new legislation:
+
+| Coalition Member | Role in Phase 1 | Engagement Mechanism |
+|---|---|---|
+| Medical research community | Public statements supporting rescheduling; testimony at ALJ hearings | AMA, AAMC, individual researcher advocacy |
+| Veterans organizations | Testimony supporting research access; media advocacy | VCP, Heroic Hearts, VFW, American Legion |
+| State governors and attorneys general | Formal support for DEA rescheduling rule; multi-state letters | National Governors Association; AG coalition letters |
+| Cannabis industry | Public comment submissions; economic impact data | NCIA, U.S. Cannabis Council, state trade associations |
+| Patients and patient advocacy | Personal testimony; public comment; media stories | ASA, MPP, patient coalitions |
+| Bipartisan Congressional supporters | Floor statements; oversight hearings; appropriations pressure | Cannabis Caucus; Judiciary Committee members |
+
 ### Expected Outcomes
 
 Phase 1 should achieve: cannabis reclassified to Schedule III, ending the 55-year Schedule I designation; average Schedule I research licensing time reduced from 9-12 months to under 90 days; at least 10 DEA-licensed cannabis cultivators operational; significant increase in new Schedule I research applications; elimination of Section 280E tax burden on cannabis businesses (~$2 billion annual effective tax relief); and presidential pardons for all federal simple cannabis possession convictions.
@@ -87,6 +100,18 @@ Phase 1 should achieve: cannabis reclassified to Schedule III, ending the 55-yea
 - Sentencing Reform Act amendments: Eliminates mandatory minimums for simple possession
 - Federal Analogue Act revision: Creates tiered temporary scheduling with mandatory scientific review within 12 months
 - Drug Classification Commission Act: Establishes independent commission with binding scheduling authority
+
+### Coalition Building (Phase 2)
+
+Phase 2 requires broader Congressional support. Coalition strategy shifts to legislative engagement:
+
+| Coalition Member | Role in Phase 2 | Key Legislation |
+|---|---|---|
+| Research institutions (universities, NIH) | Testimony on research barriers; demonstration of Phase 1 research gains | SAFE Research Act |
+| Criminal justice reform organizations (FAMM, Sentencing Project) | Advocacy for penalty reform; data on racial disparities | Sentencing reform amendments |
+| State regulatory officials | Testimony on federal-state coordination needs; implementation expertise | Periodic review legislation |
+| International partners (Canada, Germany, Australia) | Diplomatic support; model legislation sharing | Treaty modernization |
+| Fiscal conservatives | Data on cost savings from reduced incarceration; tax revenue potential | Budget arguments for reform |
 
 ### Expected Outcomes
 
@@ -190,6 +215,56 @@ Phase 3 should achieve: an independent Drug Classification Commission operationa
 **Mitigation Strategy**: Design federal framework to accommodate existing state programs; include grandfathering provisions; establish joint state-federal regulatory coordination mechanisms.
 
 **Contingency Plan**: Issue interim DOJ guidance (updated Cole Memorandum) during transition period to protect state programs from federal enforcement.
+
+### Risk 6: Industry Capture of Regulatory Framework
+
+**Likelihood**: Medium
+
+**Impact**: Medium
+
+**Mitigation Strategy**: Include strong marketing restrictions, conflict-of-interest provisions, and public health safeguards in any regulatory framework. Model on Canada's Cannabis Act restrictions. Limit corporate consolidation through anti-monopoly provisions.
+
+**Contingency Plan**: Empower state regulatory agencies to impose additional restrictions beyond federal minimums. Establish independent public health advisory board within regulatory framework.
+
+### Risk 7: Inadequate Treatment Infrastructure
+
+**Likelihood**: Medium-High
+
+**Impact**: Medium
+
+**Mitigation Strategy**: Pair scheduling reform with increased treatment funding. Reinvest cannabis tax revenue and incarceration cost savings in treatment infrastructure. Expand MAT access, particularly in rural areas.
+
+**Contingency Plan**: Phase implementation to allow treatment infrastructure to develop alongside regulatory changes. Establish treatment access benchmarks that must be met before each phase proceeds.
+
+## Adaptive Strategy
+
+The roadmap is designed to be adaptive rather than rigid. Key decision points require assessment of political conditions, legal developments, and implementation progress:
+
+### Decision Point 1: Cannabis Rescheduling Outcome (Year 1-2)
+
+| If... | Then... |
+|---|---|
+| Administrative rescheduling to Schedule III succeeds | Proceed with Phase 2 legislative agenda; use rescheduling as proof of concept |
+| Administrative rescheduling is blocked by litigation | Pursue Congressional scheduling action as alternative pathway; accelerate research access reforms |
+| Political environment shifts hostile to reform | Focus on research access reforms (least controversial); defer more ambitious reforms |
+| New administration reverses rescheduling | Build Congressional supermajority for statutory scheduling change; pursue state-level protections |
+
+### Decision Point 2: Legislative Feasibility Assessment (Year 3-4)
+
+| If... | Then... |
+|---|---|
+| Congress enacts SAFE Research Act and periodic review | Pursue Drug Classification Commission legislation; build on legislative momentum |
+| Congress passes SAFE Banking but not broader reform | Accept incremental progress; continue building coalition for comprehensive reform |
+| Congressional gridlock prevents all legislation | Maximize executive action; support state-level reforms; wait for political conditions to change |
+| Bipartisan breakthrough enables comprehensive reform | Pursue cannabis descheduling with full regulatory framework (accelerated Phase 3) |
+
+### Decision Point 3: International Treaty Engagement (Year 5-7)
+
+| If... | Then... |
+|---|---|
+| Coalition of reform-minded nations grows (5+ G7 nations) | Propose formal treaty amendment process through UN Commission on Narcotic Drugs |
+| INCB criticizes U.S. reforms but takes no enforcement action | Proceed with domestic reform; issue interpretive declarations asserting treaty compatibility |
+| Treaty reform faces resistance from prohibitionist nations | Pursue bilateral/multilateral agreements with reform-minded nations; work around treaty framework |
 
 ## Resource Requirements
 

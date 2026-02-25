@@ -50,16 +50,45 @@ This analysis covers the key aspects of serious mental illness policy:
 2. What structural reforms -- including repeal or modification of the IMD exclusion -- are necessary to create adequate inpatient and outpatient psychiatric capacity?
 3. Why does the United States dramatically underutilize clozapine compared to other high-income nations, and what policy interventions can close this gap?
 4. How can the criminal justice system be effectively diverted from serving as the primary mental health system for people with untreated SMI?
+5. What workforce strategies can address the reality that 60% of U.S. counties have no practicing psychiatrist, and how can telepsychiatry, scope-of-practice reform, and peer specialist expansion fill the gap?
+6. How can the federal and state governments close the 10-25 year life expectancy gap for people with SMI, which is driven primarily by treatable medical conditions rather than by mental illness itself?
+7. What is the appropriate balance between federal mandates and state flexibility in mental health policy, given the enormous variation in state spending, capacity, and outcomes?
+
+## International Context
+
+The United States spends more on healthcare per capita than any other high-income nation but achieves significantly worse outcomes for people with SMI. Comparisons are illustrative:
+
+| Country | Psychiatric Beds per 100,000 | Clozapine Use (% of Schizophrenia) | Involuntary Treatment Rate | Incarceration of People with SMI |
+|---|---|---|---|---|
+| United States | 11.7 (state); ~18.6 (total) | ~4% | Low (due to narrow criteria) | ~383,000 in jails/prisons |
+| Finland | 39 | ~30% | Moderate | Minimal |
+| Australia | 29 | ~25% | Moderate | Low |
+| United Kingdom | 42 | ~20% | Moderate (Community Treatment Orders) | Low |
+| Italy | ~10 | ~15% | Low | Low |
+
+The lesson from international comparison is not that the U.S. needs to replicate any single country's system, but that other nations achieve far better outcomes for people with SMI through combinations of adequate bed capacity, higher clozapine utilization, comprehensive community services, and functional pathways for court-ordered outpatient treatment. Italy demonstrates that low bed counts can work if community services are adequately funded; Finland demonstrates that assertive early intervention can dramatically reduce the burden of schizophrenia; and Australia demonstrates that national first-episode psychosis programs can be implemented at scale.
+
+## The Economic Burden
+
+The total economic cost of serious mental illness in the United States is estimated at $317 billion annually (NAMI, 2023). This figure encompasses direct treatment costs, criminal justice expenditures, homelessness services, emergency department utilization, and lost productivity. Medicaid is the single largest payer for SMI-related services, spending approximately $105 billion on behavioral health in FY2023 (CMS, 2023), yet much of this spending goes to crisis-driven care -- emergency department visits, short inpatient stays, and correctional healthcare -- rather than sustained community treatment that prevents crises from occurring.
+
+State mental health authority spending averages $134 per capita nationally but varies enormously, from $48 in Idaho to $372 in the District of Columbia (NASMHPD, 2023). This variation produces sharply different outcomes: states with higher per capita spending tend to have lower rates of incarceration and homelessness among people with SMI. The federal government spends an additional $1.86 billion through the SAMHSA Mental Health Block Grant and $430 million on Certified Community Behavioral Health Clinic (CCBHC) expansion grants (SAMHSA, FY2024). Despite these investments, the treatment gap persists because spending remains fragmented across agencies and weighted toward crisis response rather than sustained treatment.
+
+## Why This Issue Is Different
+
+Serious mental illness occupies a unique position in the landscape of American policy challenges. Unlike most health conditions, SMI often impairs the very cognitive capacity that people need to seek treatment. Unlike most social problems, SMI policy sits at the intersection of healthcare, criminal justice, housing, disability rights, and family law -- requiring coordinated reform across systems that are typically siloed. Unlike most political issues, SMI does not fit neatly into partisan categories: conservatives and liberals alike have both contributed to and attempted to address the crisis, and both ideological frameworks contain blind spots that have perpetuated failure. And unlike most policy debates, the SMI debate involves a population that often cannot advocate for itself, making the voices of families, clinicians, and law enforcement essential proxies for the experiences of those most affected.
 
 ## Vision of Success
 
 A successful SMI policy framework in the 21st century would feature:
 
-- **Treatment Before Crisis**: A continuum of care from early intervention for first-episode psychosis through long-term recovery support, with no one falling through the cracks between systems. Every community would have 24/7 psychiatric crisis response capacity.
-- **Evidence-Based Medication Access**: Clozapine utilization rates for treatment-resistant schizophrenia approaching the 20% to 30% seen in other high-income nations, and long-acting injectable antipsychotics available as a first-line option rather than a last resort.
-- **Housing Stability**: Adequate permanent supportive housing stock so that no person with SMI experiences chronic homelessness. The research is clear that Housing First works; the challenge is funding it at scale.
-- **Decriminalization**: Jail diversion programs, mental health courts, and crisis intervention teams operating in every jurisdiction, reducing the number of people with SMI in jails and prisons by at least 50% within a decade.
-- **Empowered Families**: Families equipped with psychoeducation, respite services, and legal authority to participate meaningfully in their loved one's care while respecting the dignity of the person with SMI.
+- **Treatment Before Crisis**: A continuum of care from early intervention for first-episode psychosis through long-term recovery support, with no one falling through the cracks between systems. Every community would have 24/7 psychiatric crisis response capacity, including mobile crisis teams, crisis stabilization units, and crisis residential beds at a ratio of at least 10 per 100,000 population.
+- **Evidence-Based Medication Access**: Clozapine utilization rates for treatment-resistant schizophrenia approaching the 20% to 30% seen in other high-income nations, and long-acting injectable antipsychotics available as a first-line option rather than a last resort. Point-of-care testing infrastructure in every community mental health center.
+- **Housing Stability**: Adequate permanent supportive housing stock so that no person with SMI experiences chronic homelessness. The research is clear that Housing First works; the challenge is funding it at scale. A target of 100,000 new permanent supportive housing units over 10 years would meaningfully reduce the ~43,000-57,000 chronically homeless individuals with SMI.
+- **Decriminalization**: Jail diversion programs, mental health courts, and crisis intervention teams operating in every jurisdiction, reducing the number of people with SMI in jails and prisons by at least 50% within a decade. Forensic assertive community treatment (FACT) teams in every county with a population over 100,000.
+- **Empowered Families**: Families equipped with psychoeducation, respite services, and legal authority to participate meaningfully in their loved one's care while respecting the dignity of the person with SMI. HIPAA clarification to ensure that clinicians can share necessary treatment information with identified caregivers.
+- **Workforce Adequacy**: A psychiatric workforce sufficient to eliminate the 7,114 mental health professional shortage areas currently designated by HRSA. This includes expanded psychiatric residency slots, loan forgiveness programs, peer specialist certification in every state, and scope-of-practice reform to allow nurse practitioners and physician assistants to prescribe clozapine and LAIs under collaborative agreements.
+- **Racial Equity**: Elimination of the documented racial disparities in SMI diagnosis and involuntary treatment. Black Americans are diagnosed with schizophrenia at 3-4 times the rate of white Americans (Schwartz and Blankenship, 2014), and mandatory racial equity monitoring in all publicly funded treatment programs would help ensure that expanded treatment authority is not applied in discriminatory ways.
 
 ---
 

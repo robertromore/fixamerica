@@ -30,6 +30,8 @@ The theory of change is straightforward: veteran mental health outcomes will imp
 
 Phase 1 focuses on actions achievable through executive authority, existing legislative authority, and modest new appropriations. Phase 2 requires major legislation and institutional reform. Phase 3 aims for full systemic transformation that sustains gains and prevents regression.
 
+A critical design principle throughout is that reform must be self-reinforcing: each phase should create political constituency, institutional capacity, and data infrastructure that makes subsequent phases easier to achieve and harder to reverse. The historical pattern of episodic attention followed by neglect can only be broken if reform creates its own momentum.
+
 ---
 
 ## Phase 1: Foundation and Crisis Response (Years 1-2)
@@ -41,6 +43,7 @@ Phase 1 focuses on actions achievable through executive authority, existing legi
 - Require military cultural competency training for all Community Care mental health providers
 - Deploy first 50 mobile mental health units for National Guard and Reserve populations
 - Implement mandatory standardized outcome measurement across all VA mental health encounters
+- Expand Vet Center hours and eligibility to reach more veterans outside the traditional VA system
 
 ### Key Actions
 
@@ -53,6 +56,8 @@ Phase 1 focuses on actions achievable through executive authority, existing legi
 | Implement standardized outcome measurement (PCL-5, PHQ-9, C-SSRS) at all VA mental health encounters | VA OMHSP | Months 1-12 | $40 million for IT infrastructure | >80% encounter compliance by Month 12 |
 | Streamline VA mental health hiring from 95 to 45 days average | VA HR, OPM | Months 1-12 | $50 million for process redesign | Time-to-hire reduced to <50 days |
 | Expand Vet Center hours to include evenings and weekends at all 300 locations | VA Readjustment Counseling Service | Months 1-12 | $80 million/year for additional staffing | Weekend/evening utilization established |
+| Scale ATLAS telehealth access points from 50 to 200 community locations | VA OCC / Community partners | Months 6-18 | $25 million for equipment and connectivity | 200 ATLAS sites operational |
+| Expand Solid Start post-separation outreach to include warm referrals | VA OMHSP / DoD TAP | Months 1-12 | $15 million for expanded staffing | Warm referral rate >60% of contacts |
 
 ### Legislative Requirements
 
@@ -62,7 +67,7 @@ Phase 1 focuses on actions achievable through executive authority, existing legi
 
 ### Expected Outcomes
 
-Phase 1 should establish the infrastructure for sustained reform: a growing workforce pipeline, expanded community-based suicide prevention, quality measurement systems, and initial mobile care capacity for underserved Guard/Reserve populations. By the end of Year 2, VA mental health vacancy rates should decline from approximately 4,600 to below 3,000, the Fox Grant Program should be reaching veterans in 400+ counties, and outcome measurement should be operational system-wide.
+Phase 1 should establish the infrastructure for sustained reform: a growing workforce pipeline, expanded community-based suicide prevention, quality measurement systems, and initial mobile care capacity for underserved Guard/Reserve populations. By the end of Year 2, VA mental health vacancy rates should decline from approximately 4,600 to below 3,000, the Fox Grant Program should be reaching veterans in 400+ counties, and outcome measurement should be operational system-wide. The ATLAS telehealth expansion should provide 200 community-based access points for rural veterans, and extended Vet Center hours should increase after-hours utilization by at least 25%.
 
 ---
 
@@ -75,6 +80,7 @@ Phase 1 should establish the infrastructure for sustained reform: a growing work
 - Establish 10 VA Psychedelic-Assisted Therapy Centers of Excellence
 - Deploy veteran suicide prevention coordinators in 800 counties
 - Implement the Seamless DoD-VA Mental Health Transition program at all major installations
+- Scale intensive PTSD treatment programs from 20 to 75 sites
 
 ### Key Actions
 
@@ -88,6 +94,8 @@ Phase 1 should establish the infrastructure for sustained reform: a growing work
 | Mandate Community Care military competency certification | VA Office of Community Care | Year 3-5 | $120 million (training delivery + administration) | 100% Community Care MH providers certified by Year 5 |
 | Implement national VA mental health quality dashboard | VA OMHSP | Year 3 | $60 million (development + deployment) | Facility-level outcome data publicly available |
 | Extend Guard/Reserve mental health eligibility to all combat zone deployers | Congress / VA | Year 3 | $300 million/year (ongoing) | Guard/Reserve MH engagement rate doubles |
+| Expand intensive PTSD programs to 75 sites | VA OMHSP / Academic affiliates | Years 3-5 | $350 million over 5 years | 15,000 veterans completing intensive programs annually |
+| Implement 12-month dual enrollment period for separating service members | Congress / DoD / VA | Year 3 | $100 million/year | >90% of eligible separating members enrolled |
 
 ### Legislative Requirements
 
@@ -95,10 +103,11 @@ Phase 1 should establish the infrastructure for sustained reform: a growing work
 - **VA Psychedelic Research and Access Act**: Authorize Centers of Excellence, Compassionate Use pathway, and funding for clinical trials
 - **Guard and Reserve Mental Health Equity Act**: Extend VA mental health eligibility regardless of activation status for combat zone deployers
 - **VA Mental Health Quality and Accountability Act**: Require outcome-based performance metrics for VA facility leadership
+- **Intensive PTSD Treatment Expansion Act**: Authorize and fund expansion of intensive outpatient PTSD programs to 75 VA sites
 
 ### Expected Outcomes
 
-By the end of Year 5, the VA mental health system should be fundamentally transformed. Mental health vacancy rates should be below 10%, wait times below 14 days, and evidence-based treatment fidelity should be systematically monitored. The upstream suicide prevention infrastructure -- 800 county coordinators, tripled Fox grants, lethal means programs -- should be reaching veterans who were previously invisible to the system. DoD-VA transition should be seamless for the highest-risk service members. And the VA should have initial data from psychedelic-assisted therapy trials that can inform integration decisions.
+By the end of Year 5, the VA mental health system should be fundamentally transformed. Mental health vacancy rates should be below 10%, wait times below 14 days, and evidence-based treatment fidelity should be systematically monitored. The upstream suicide prevention infrastructure -- 800 county coordinators, tripled Fox grants, lethal means programs -- should be reaching veterans who were previously invisible to the system. DoD-VA transition should be seamless for the highest-risk service members. The intensive PTSD treatment network should be offering high-completion-rate programs across 75 sites. And the VA should have initial data from psychedelic-assisted therapy trials that can inform integration decisions.
 
 ---
 
@@ -111,6 +120,7 @@ By the end of Year 5, the VA mental health system should be fundamentally transf
 - Integrate psychedelic-assisted therapy into standard VA care (if evidence supports)
 - Achieve <14-day access standard nationwide, including in all rural and frontier areas
 - Eliminate the DoD-VA mental health transition gap
+- Achieve formal diagnostic recognition of moral injury and establish dedicated treatment protocols
 
 ### Key Actions
 
@@ -121,11 +131,13 @@ By the end of Year 5, the VA mental health system should be fundamentally transf
 | Expand mobile mental health fleet to 200 units | VA / Guard Bureau | Years 6-8 | $300 million (additional 100 units + staffing) | Mobile coverage in all rural/frontier areas |
 | Implement real-time suicide risk surveillance system | VA OMHSP / SAMHSA / states | Years 6-10 | $150 million (data infrastructure) | Near-real-time identification of at-risk populations |
 | Establish VA-Community Care integrated treatment planning platform | VA OIT | Years 6-8 | $200 million | Unified treatment plans across all care settings |
+| Develop and disseminate moral injury treatment protocols | VA National Center for PTSD / Academic partners | Years 6-10 | $100 million for research and training | Validated moral injury treatment available at all VAMCs |
+| Expand Vet Center network from 300 to 500 locations | VA Readjustment Counseling Service | Years 6-10 | $400 million (capital + ongoing staffing) | Vet Center within 30-minute drive for 90% of veterans |
 | Conduct 10-year comprehensive program evaluation | VA / independent evaluator | Year 10 | $50 million | Published evaluation with legislative recommendations |
 
 ### Expected Outcomes
 
-By Year 10, the veterans mental health system should achieve: a veteran suicide rate reduced by at least 40% from the 2021 baseline of 17.5 per day (target: <10.5 per day); universal 14-day access to military-competent mental health care regardless of location; a self-sustaining workforce pipeline; seamless DoD-VA transition; and a robust evidence base for emerging treatments that enables continued innovation. The system should be permanently structured to prevent regression to the current crisis state.
+By Year 10, the veterans mental health system should achieve: a veteran suicide rate reduced by at least 40% from the 2021 baseline of 17.5 per day (target: <10.5 per day); universal 14-day access to military-competent mental health care regardless of location; a self-sustaining workforce pipeline; seamless DoD-VA transition; and a robust evidence base for emerging treatments that enables continued innovation. The system should be permanently structured to prevent regression to the current crisis state. The expansion of the Vet Center network to 500 locations, combined with the 200-unit mobile fleet and 200+ ATLAS telehealth points, should ensure that no veteran in America is more than 30 minutes from a mental health access point.
 
 ---
 
@@ -141,16 +153,21 @@ By Year 10, the veterans mental health system should achieve: a veteran suicide 
 | EBP treatment completion | Year 5 | Completion rate | 35-40% | 45% | 55% | 65% |
 | Guard/Reserve MH engagement | Year 5 | Engagement rate | ~25% | 35% | 50% | 60% |
 | Fox Grant Program reach | Year 3 | Counties with funded programs | ~200 (2023) | 400 | 600 | 800 |
+| Intensive PTSD program sites | Year 5 | Number of sites | ~20 | 40 | 75 | 100 |
+| Vet Center locations | Year 10 | Number of centers | 300 | 350 | 400 | 500 |
+| ATLAS telehealth access points | Year 5 | Number of sites | ~50 | 150 | 200 | 300 |
+| Veteran Crisis Line call volume | Year 5 | Annual calls answered | ~803,000 | 900,000 | 1,000,000 | Stabilized or declining (indicating upstream prevention working) |
 
 ## Governance and Oversight
 
-Effective governance is essential to sustaining reform momentum across administrations and congressional cycles.
+Effective governance is essential to sustaining reform momentum across administrations and congressional cycles. The historical pattern of episodic attention followed by neglect requires institutional structures that lock in progress regardless of political turnover.
 
-- **VA Mental Health Reform Implementation Office**: Establish a dedicated office within the VA Secretary's immediate staff with authority to coordinate across VHA, OMHSP, OIT, and the Office of Community Care. This office reports directly to the Secretary and is staffed by both career civil servants and term-limited experts.
-- **Congressional Reporting**: Require biannual progress reports to the Senate and House Veterans' Affairs Committees with specific data on all success metrics. Reports must include independent outcome data, not only self-reported VA metrics.
-- **Independent Evaluation Board**: Contract with RAND, the Institute of Medicine (now National Academy of Medicine), or similar institutions for annual independent evaluations of workforce, access, quality, and suicide prevention outcomes.
-- **Veteran Advisory Council**: Establish a 15-member council of veterans, family members, and veteran service organization leaders to advise the Implementation Office. Members serve staggered 3-year terms and must include representation from rural areas, women veterans, Guard/Reserve, and post-9/11 cohorts.
-- **Sunset Review**: Require a comprehensive 10-year reauthorization review with mandatory congressional action to continue, modify, or terminate programs based on evidence.
+- **VA Mental Health Reform Implementation Office**: Establish a dedicated office within the VA Secretary's immediate staff with authority to coordinate across VHA, OMHSP, OIT, and the Office of Community Care. This office reports directly to the Secretary and is staffed by both career civil servants and term-limited experts. The office should have a 10-year charter that extends across presidential administrations.
+- **Congressional Reporting**: Require biannual progress reports to the Senate and House Veterans' Affairs Committees with specific data on all success metrics. Reports must include independent outcome data, not only self-reported VA metrics. The biannual cadence creates regular accountability checkpoints that prevent reform fatigue.
+- **Independent Evaluation Board**: Contract with RAND, the Institute of Medicine (now National Academy of Medicine), or similar institutions for annual independent evaluations of workforce, access, quality, and suicide prevention outcomes. The independent evaluation mandate must be written into authorizing legislation to prevent administrative cancellation.
+- **Veteran Advisory Council**: Establish a 15-member council of veterans, family members, and veteran service organization leaders to advise the Implementation Office. Members serve staggered 3-year terms and must include representation from rural areas, women veterans, Guard/Reserve, post-9/11 cohorts, and veterans with lived experience of mental health conditions and recovery.
+- **Interagency Coordination Council**: Create a formal coordination mechanism between VA, DoD, SAMHSA, HHS, HUD, and the Department of Labor to align veteran mental health efforts across federal agencies. The council should meet quarterly and have the authority to identify and resolve cross-agency barriers to veteran care.
+- **Sunset Review**: Require a comprehensive 10-year reauthorization review with mandatory congressional action to continue, modify, or terminate programs based on evidence. This sunset provision creates both accountability and a forcing function for sustained congressional attention.
 
 ## Risk Mitigation
 
@@ -160,7 +177,7 @@ Effective governance is essential to sustaining reform momentum across administr
 
 **Impact**: High
 
-**Mitigation Strategy**: The National Workforce Initiative includes pipeline expansion (2,000 new training slots) alongside recruitment incentives. The VA's academic affiliate network (131 medical schools) provides a direct training-to-employment channel. Telehealth expansion reduces the need for on-site providers in some settings.
+**Mitigation Strategy**: The National Workforce Initiative includes pipeline expansion (2,000 new training slots) alongside recruitment incentives. The VA's academic affiliate network (131 medical schools) provides a direct training-to-employment channel. Telehealth expansion reduces the need for on-site providers in some settings. The peer specialist workforce expansion (from 2,200 to 5,000) provides a supplementary workforce that can be trained more rapidly than doctoral-level clinicians.
 
 **Contingency Plan**: If pipeline expansion is insufficient, accelerate telehealth-first delivery models, expand psychology technician and peer specialist roles, and explore international recruitment agreements for psychiatrists (with cultural competency requirements).
 
@@ -170,7 +187,7 @@ Effective governance is essential to sustaining reform momentum across administr
 
 **Impact**: Medium
 
-**Mitigation Strategy**: Frame psychedelic-assisted therapy as a research-driven, veteran-demanded approach for treatment-resistant PTSD. Build bipartisan support through veteran testimonials and clinical trial data. Separate psychedelic research funding from broader drug policy debates.
+**Mitigation Strategy**: Frame psychedelic-assisted therapy as a research-driven, veteran-demanded approach for treatment-resistant PTSD. Build bipartisan support through veteran testimonials and clinical trial data. Separate psychedelic research funding from broader drug policy debates. Engage conservative champions (e.g., Rep. Dan Crenshaw, Sen. Dan Sullivan) who have publicly supported veteran psychedelic research.
 
 **Contingency Plan**: If FDA approval is delayed or denied for MDMA-assisted therapy, accelerate research into other emerging treatments (psilocybin, ketamine protocols, stellate ganglion block) that face fewer regulatory barriers.
 
@@ -180,7 +197,7 @@ Effective governance is essential to sustaining reform momentum across administr
 
 **Impact**: High
 
-**Mitigation Strategy**: Make certification free and available online to minimize burden. Provide CEU credits that satisfy state licensing requirements. Phase in over 18 months with a grace period for existing providers.
+**Mitigation Strategy**: Make certification free and available online to minimize burden. Provide CEU credits that satisfy state licensing requirements. Phase in over 18 months with a grace period for existing providers. Partner with established training programs like the Star Behavioral Health Providers (SBHP) and Center for Deployment Psychology that have successfully trained thousands of community providers.
 
 **Contingency Plan**: If attrition from the Community Care network exceeds 15%, implement a tiered certification (basic vs. advanced) with basic certification as the minimum requirement and reduced training hours.
 
@@ -190,7 +207,7 @@ Effective governance is essential to sustaining reform momentum across administr
 
 **Impact**: High
 
-**Mitigation Strategy**: Rather than pursuing full EHR integration (which has failed repeatedly), mandate a specific mental health data exchange standard using FHIR (Fast Healthcare Interoperability Resources) protocols for defined data elements: diagnoses, medications, treatment plans, and crisis assessments.
+**Mitigation Strategy**: Rather than pursuing full EHR integration (which has failed repeatedly over 20+ years), mandate a specific mental health data exchange standard using FHIR (Fast Healthcare Interoperability Resources) protocols for defined data elements: diagnoses, medications, treatment plans, and crisis assessments. This targeted approach is technically simpler than full EHR integration and has precedent in the VA's successful health data exchange with private systems.
 
 **Contingency Plan**: If technical interoperability is not achieved by Year 4, implement a human-mediated transition process: VA transition coordinators physically co-located at military installations manually transfer essential mental health records with patient consent.
 
@@ -200,9 +217,19 @@ Effective governance is essential to sustaining reform momentum across administr
 
 **Impact**: High
 
-**Mitigation Strategy**: Secure bipartisan authorization language that protects mental health and suicide prevention funding from across-the-board cuts. Build a broad coalition of VSOs, family groups, and bipartisan congressional champions who will defend appropriations.
+**Mitigation Strategy**: Secure bipartisan authorization language that protects mental health and suicide prevention funding from across-the-board cuts. Build a broad coalition of VSOs, family groups, and bipartisan congressional champions who will defend appropriations. Frame the investment in cost-of-inaction terms: the annual economic cost of veteran suicide and undertreated mental health conditions ($15-20 billion per RAND estimates) far exceeds the annual program cost ($1.24 billion average).
 
 **Contingency Plan**: Prioritize funding for suicide prevention (Fox grants, county coordinators, lethal means) and workforce recruitment (EDRP, training slots) as the highest-impact investments. Delay Centers of Excellence and mobile unit expansion if necessary.
+
+### Risk 6: Reform Fatigue and Political Attention Drift
+
+**Likelihood**: High
+
+**Impact**: High
+
+**Mitigation Strategy**: Design self-reinforcing reform architecture. Each phase creates political constituency (Fox grant recipients in 800 counties), institutional capacity (10,000 new hires with career stakes in the system), and data infrastructure (outcome dashboards that make regression visible) that resist rollback. The Veteran Advisory Council and Independent Evaluation Board provide ongoing external pressure for sustained implementation.
+
+**Contingency Plan**: If political attention drifts, the VSO coalition (VFW, American Legion, DAV, IAVA) serves as a permanent accountability mechanism. The Independent Budget process ensures that VA mental health remains a line item in annual advocacy regardless of the news cycle.
 
 ## Resource Requirements
 
@@ -211,25 +238,28 @@ Effective governance is essential to sustaining reform momentum across administr
 | Phase | Estimated Cost | Funding Source | Notes |
 |-------|----------------|----------------|-------|
 | Phase 1 (Yrs 1-2) | $2.1 billion | VA appropriation increase + Fox grant expansion | Immediate crisis response and infrastructure |
-| Phase 2 (Yrs 3-5) | $4.8 billion | New legislative authorization + VA budget growth | Structural reform and scaling |
-| Phase 3 (Yrs 6-10) | $5.5 billion | Sustained appropriations + efficiency gains | Full transformation and maintenance |
-| **Total (10 years)** | **$12.4 billion** | | Approximately $1.24 billion/year average |
+| Phase 2 (Yrs 3-5) | $5.3 billion | New legislative authorization + VA budget growth | Structural reform and scaling |
+| Phase 3 (Yrs 6-10) | $6.0 billion | Sustained appropriations + efficiency gains | Full transformation and maintenance |
+| **Total (10 years)** | **$13.4 billion** | | Approximately $1.34 billion/year average |
 
-Context: The 10-year cost of $12.4 billion represents approximately 1% of total projected VA spending over the same period and less than 0.2% of projected federal spending. For comparison, the annual economic cost of veteran suicide and undertreated mental health conditions is estimated at $15-20 billion in lost productivity, criminal justice involvement, homelessness services, and medical costs (RAND, 2021).
+Context: The 10-year cost of $13.4 billion represents approximately 1% of total projected VA spending over the same period and less than 0.2% of projected federal spending. For comparison, the annual economic cost of veteran suicide and undertreated mental health conditions is estimated at $15-20 billion in lost productivity, criminal justice involvement, homelessness services, and medical costs (RAND, 2021). The cost of the entire 10-year reform program is less than the annual cost of inaction.
 
 ### Personnel
 
 | Phase | New FTEs Needed | Key Roles | Recruitment Source |
 |-------|----------------|-----------|-------------------|
 | Phase 1 | 2,500 | Psychiatrists, psychologists, social workers, peer specialists | EDRP recruitment, academic pipeline |
-| Phase 2 | 7,500 additional | Full mental health discipline range + transition coordinators + county coordinators | National Workforce Initiative, NHSC partnership |
-| Phase 3 | Maintenance + 1,000 | Psychedelic-assisted therapy specialists, mobile unit staff, data analysts | Centers of Excellence training programs |
+| Phase 2 | 8,500 additional | Full mental health discipline range + transition coordinators + county coordinators + intensive program staff | National Workforce Initiative, NHSC partnership |
+| Phase 3 | Maintenance + 2,000 | Psychedelic-assisted therapy specialists, mobile unit staff, data analysts, Vet Center staff | Centers of Excellence training programs, RCS recruitment |
 
 ### Infrastructure
 
-- **IT Systems**: Outcome measurement platform, quality dashboard, EHR interoperability bridge ($500 million over 10 years)
+- **IT Systems**: Outcome measurement platform, quality dashboard, EHR interoperability bridge, REACH VET expansion ($500 million over 10 years)
 - **Mobile Units**: 200 telehealth-equipped mobile mental health vans with satellite connectivity ($450 million capital + operating)
+- **ATLAS Telehealth Points**: 300 community-based telehealth access stations in VFW posts, American Legion halls, and other community locations ($75 million)
 - **Centers of Excellence**: 10 Psychedelic-Assisted Therapy Centers at existing VA medical centers ($200 million in facility modifications and specialized equipment)
+- **Vet Center Expansion**: 200 new Vet Center locations ($400 million in capital plus ongoing operating costs)
+- **Intensive PTSD Program Sites**: 55 new intensive outpatient PTSD treatment programs at existing VA facilities ($150 million in facility modifications and startup costs)
 - **Training Infrastructure**: Online and in-person military competency certification programs hosted through VA academic affiliates ($100 million)
 
 ---

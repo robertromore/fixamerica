@@ -24,6 +24,16 @@ Mental health care for people with SMI is funded through a patchwork of Medicaid
 
 **Evidence**: A person with schizophrenia who is arrested may receive psychiatric medication in jail (county-funded), lose Medicaid eligibility upon incarceration (federal policy), be released without a prescription or follow-up appointment, become homeless (addressed by HUD), cycle back through an emergency department (hospital/Medicaid), and eventually be re-arrested (county-funded again). Each handoff represents a potential point of system failure.
 
+### The Medicaid-Incarceration Disconnect
+
+Federal law requires states to suspend (and in some cases terminate) Medicaid benefits during incarceration. When a person with SMI is released from jail or prison, re-enrollment can take 30-90 days -- during which they have no insurance to cover psychiatric medication, outpatient appointments, or community support. The CMS "Reentry" Section 1115 demonstration, approved for several states beginning in 2023-2024, allows Medicaid coverage to begin 90 days before release from incarceration, but implementation remains limited to a handful of states (CMS, 2024). For the majority of the approximately 2 million annual jail bookings involving people with SMI, the release-to-treatment gap remains a primary driver of the revolving door.
+
+### Lack of Data Integration Across Systems
+
+Mental health, criminal justice, housing, and social services systems typically maintain separate data systems that do not communicate with each other. A county jail may not know that a person booked on a trespassing charge has an active case with the community mental health center, a housing voucher application pending with the housing authority, and an upcoming court date in the mental health court. The absence of integrated data systems means that care coordination depends on individual case managers who may be managing caseloads of 40-60 clients, making person-level coordination nearly impossible at scale.
+
+**Evidence**: A 2023 study by the Council of State Governments Justice Center found that only 12 states had operational data-sharing agreements between their state mental health authority, Medicaid agency, and department of corrections. In states with data integration, recidivism rates for people with SMI were 15-20% lower, because treatment providers could be notified upon arrest or release and respond with continuity of care (CSG Justice Center, 2023).
+
 ## Funding and Economic Causes
 
 ### Chronic Underfunding of Public Mental Health
@@ -40,9 +50,15 @@ Despite the Mental Health Parity and Addiction Equity Act of 2008 and the 2024 s
 
 ### Low Provider Reimbursement
 
-Psychiatrists receive lower reimbursement from insurance (including Medicaid and Medicare) than other medical specialists, contributing to workforce shortages and driving many psychiatrists to cash-only practice.
+Psychiatrists receive lower reimbursement from insurance (including Medicaid and Medicare) than other medical specialists, contributing to workforce shortages and driving many psychiatrists to cash-only practice. This creates a two-tier system: people with private insurance or the ability to pay cash can access psychiatrists relatively quickly, while people dependent on Medicaid or Medicare -- who disproportionately have SMI -- face wait times of weeks to months.
 
-**Evidence**: The average Medicaid reimbursement for psychiatric evaluation is approximately $90-130, compared to $150-250 for similar-duration medical evaluations. Medicare pays psychiatrists approximately 80% of what it pays other specialists for equivalent time (APA, 2023). Approximately 55% of psychiatrists do not accept Medicaid, and 33% do not accept Medicare (Bishop et al., JAMA Internal Medicine, 2022).
+**Evidence**: The average Medicaid reimbursement for psychiatric evaluation is approximately $90-130, compared to $150-250 for similar-duration medical evaluations. Medicare pays psychiatrists approximately 80% of what it pays other specialists for equivalent time (APA, 2023). Approximately 55% of psychiatrists do not accept Medicaid, and 33% do not accept Medicare (Bishop et al., JAMA Internal Medicine, 2022). In community mental health centers, where most publicly funded SMI treatment occurs, psychiatrist salaries average $220,000-260,000 -- competitive with primary care but far below the $350,000-450,000 that private practice or hospital-based psychiatrists can earn (Merritt Hawkins, 2023). This salary gap makes it difficult for public-sector settings to recruit and retain psychiatrists, particularly in rural and underserved areas.
+
+### Medicaid Managed Care Barriers
+
+The majority of Medicaid enrollees are now covered through managed care organizations (MCOs), which contract with states to provide services at a capitated rate. MCOs have financial incentives to minimize utilization of expensive services, including inpatient psychiatric care, assertive community treatment, and clozapine management. Prior authorization requirements for psychiatric medications -- including LAIs -- create delays that can interrupt treatment and lead to decompensation.
+
+**Evidence**: A 2024 GAO report (GAO-24-106008) found that over half of Medicaid managed care enrollees lived in areas with insufficient behavioral health provider networks, and that prior authorization denial rates for mental health services were 2-3 times higher than for medical/surgical services. In a 2023 survey by the National Council for Mental Wellbeing, 74% of community mental health center directors reported that Medicaid MCO prior authorization requirements were a "significant" or "severe" barrier to timely treatment for people with SMI.
 
 ## Workforce Causes
 
@@ -109,11 +125,19 @@ The current system creates perverse incentives at every level:
 
 Despite decades of awareness campaigns, serious mental illness remains deeply stigmatized. Media coverage disproportionately associates SMI with violence, even though people with SMI are far more likely to be victims than perpetrators of violent crime (Desmarais et al., 2014). Stigma contributes to NIMBYism against supportive housing, employer reluctance to hire people with SMI, and public resistance to funding mental health services.
 
-**Evidence**: A 2023 American Psychological Association survey found that 55% of Americans would be uncomfortable living next door to someone with schizophrenia, and 67% believed people with schizophrenia were "likely to be violent" -- despite research showing that untreated SMI accounts for only 3-5% of violent crime (Swanson et al., 2015).
+**Evidence**: A 2023 American Psychological Association survey found that 55% of Americans would be uncomfortable living next door to someone with schizophrenia, and 67% believed people with schizophrenia were "likely to be violent" -- despite research showing that untreated SMI accounts for only 3-5% of violent crime (Swanson et al., 2015). Television news coverage of mass shootings routinely foregrounds mental illness as a primary cause, even though the vast majority of mass shootings are committed by people without diagnosed SMI. This media framing reinforces public perception that mental illness is synonymous with danger, making it politically more difficult to fund treatment programs framed as compassionate care rather than public safety measures.
+
+### Structural Racism in Diagnosis and Treatment
+
+Racial disparities pervade every aspect of the SMI system. Black Americans are diagnosed with schizophrenia at 3-4 times the rate of white Americans (Schwartz and Blankenship, 2014), a disparity driven in part by clinician bias in diagnostic assessment rather than actual differences in prevalence. Studies using standardized diagnostic instruments show much smaller racial differences in schizophrenia prevalence than clinical diagnoses suggest, indicating that bias in clinical judgment inflates the disparity (Neighbors et al., *Archives of General Psychiatry*, 2003). Once diagnosed, Black and Hispanic individuals with SMI are more likely to receive antipsychotic medication and less likely to receive psychotherapy, supported employment, or family psychoeducation compared to white individuals with the same diagnosis (Cook et al., *Psychiatric Services*, 2017). In New York's Kendra's Law AOT program, Black and Hispanic individuals have been disproportionately represented relative to their share of the SMI population, raising concerns about racially disparate application of involuntary treatment authority (Swartz et al., 2022).
 
 ### The Myth of the "High-Functioning" Standard
 
-Cultural expectations that people with SMI should be able to "pull themselves together" or access treatment independently ignore the reality that cognitive impairment, psychosis, and anosognosia directly compromise the executive function needed to navigate complex bureaucratic systems, maintain medication adherence, and keep appointments.
+Cultural expectations that people with SMI should be able to "pull themselves together" or access treatment independently ignore the reality that cognitive impairment, psychosis, and anosognosia directly compromise the executive function needed to navigate complex bureaucratic systems, maintain medication adherence, and keep appointments. Cognitive deficits in schizophrenia -- including impairments in working memory, attention, and processing speed -- affect 80-90% of people with the diagnosis and are independent of medication side effects (Keefe et al., *Neuropsychopharmacology*, 2007). These deficits mean that the standard intake process at a community mental health center -- which may require completing paperwork, providing identification, documenting insurance eligibility, and making follow-up appointments -- presents barriers that many people with SMI cannot overcome without assistance.
+
+### Public Conflation of SMI with General "Mental Health"
+
+A significant cultural barrier to SMI-specific policy is the tendency to conflate serious mental illness with the broader category of "mental health." The national conversation about mental health has expanded enormously since the COVID-19 pandemic, but it has focused primarily on anxiety, depression, burnout, and general wellness -- conditions that affect a much larger share of the population but involve fundamentally different policy needs than schizophrenia or bipolar disorder. When politicians pledge to "improve mental health," they typically mean expanding access to talk therapy, mindfulness apps, and school counselors -- interventions that are valuable for general mental health but largely irrelevant to the 14.1 million people with SMI who need psychiatric medication, crisis services, housing, and intensive case management. This conflation dilutes political attention and funding from the most severely affected population.
 
 ## Causal Chain
 
@@ -133,15 +157,25 @@ Brief Stabilization → Discharge Without Follow-Up
 Cycle Repeats (revolving door)
 ```
 
+## Systemic Feedback Loops
+
+The root causes of the SMI crisis do not operate independently; they form reinforcing feedback loops that make the system self-perpetuating:
+
+- **The Bed Shortage-ED Boarding-Bed Conversion Loop**: As psychiatric beds are reduced, more people with SMI present to emergency departments. ED psychiatric boarding increases costs and disrupts emergency operations, but hospitals respond by converting remaining psychiatric beds to higher-revenue medical/surgical beds, further reducing psychiatric capacity.
+- **The Workforce-Reimbursement-Access Loop**: Low Medicaid reimbursement rates drive psychiatrists out of public-sector practice. Workforce shortages reduce access, leading to treatment gaps that produce crises. Crisis-driven care is more expensive than outpatient treatment, consuming budget that could fund higher reimbursement rates.
+- **The Incarceration-Medicaid Suspension-Recidivism Loop**: Incarceration suspends Medicaid eligibility. Release without insurance creates a gap in psychiatric medication and treatment. The gap leads to decompensation, which leads to re-arrest and re-incarceration, perpetuating the cycle.
+- **The Stigma-Underfunding-Outcome-Stigma Loop**: Stigma against people with SMI reduces political will to fund treatment. Underfunding produces poor outcomes (homelessness, violence, incarceration), which reinforce stigma, which further reduces political will.
+
 ## Why Reform Has Failed
 
 Past reform efforts have failed for interconnected reasons:
 
-1. **Funding without mandates**: Federal legislation authorizes programs but leaves funding to annual appropriations, which are routinely insufficient. The Community Mental Health Act of 1963 is the paradigmatic example.
-2. **Ideological polarization**: The left emphasizes autonomy and community integration; the right emphasizes personal responsibility and cost control. Neither side fully addresses the population with anosognosia who cannot exercise autonomy meaningfully.
-3. **Siloed advocacy**: Disability rights organizations, family advocacy groups (NAMI), anti-psychiatry movements, and law enforcement reform advocates often work at cross-purposes, preventing a unified coalition.
-4. **Invisible constituency**: People with the most severe SMI are often unable to advocate for themselves due to the nature of their illness. Families are exhausted and stigmatized. Politicians hear from louder, better-organized constituencies.
-5. **Crisis-driven attention**: Public attention to SMI spikes after tragedies (mass shootings, subway incidents) and then fades, preventing sustained policy focus on the far more common outcomes of untreated SMI.
+1. **Funding without mandates**: Federal legislation authorizes programs but leaves funding to annual appropriations, which are routinely insufficient. The Community Mental Health Act of 1963 is the paradigmatic example. Even the 21st Century Cures Act of 2016, which specifically prioritized SMI, authorized programs without guaranteed funding streams.
+2. **Ideological polarization**: The left emphasizes autonomy and community integration; the right emphasizes personal responsibility and cost control. Neither side fully addresses the population with anosognosia who cannot exercise autonomy meaningfully. This ideological impasse has prevented the formation of a durable reform coalition.
+3. **Siloed advocacy**: Disability rights organizations, family advocacy groups (NAMI), anti-psychiatry movements, and law enforcement reform advocates often work at cross-purposes, preventing a unified coalition. The deep divide between autonomy-focused advocates (Bazelon Center, ACLU) and treatment-focused advocates (TAC, NAMI) has fragmented the political power of the broader mental health advocacy community.
+4. **Invisible constituency**: People with the most severe SMI are often unable to advocate for themselves due to the nature of their illness. Families are exhausted and stigmatized. Politicians hear from louder, better-organized constituencies. Unlike cancer, heart disease, or diabetes, SMI does not have a patient-led advocacy movement because the illness itself impairs the ability to organize and advocate.
+5. **Crisis-driven attention**: Public attention to SMI spikes after tragedies (mass shootings, subway incidents) and then fades, preventing sustained policy focus on the far more common outcomes of untreated SMI: quiet deterioration, homelessness, premature death from treatable medical conditions, and family breakdown.
+6. **Misalignment of costs and benefits**: The entities that bear the costs of untreated SMI (counties that fund jails, hospitals that absorb ED boarding costs, families who provide unpaid caregiving) are different from the entities that would fund treatment (federal and state Medicaid, SAMHSA). This misalignment creates a classic collective action problem: no single actor captures enough of the benefit of investment to justify the cost, even though the total social benefit far exceeds the total cost.
 
 ---
 

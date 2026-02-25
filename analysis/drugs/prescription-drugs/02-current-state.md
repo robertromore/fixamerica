@@ -44,6 +44,18 @@ While opioid prescribing has declined, prescribing of other controlled substance
 | Gabapentinoids (gabapentin, pregabalin) | ~70 million | Stable/slight increase | Moderate -- increasing abuse reports | IQVIA, 2024 |
 | Z-drugs (zolpidem, eszopiclone) | ~24 million | Declining | Low | IQVIA, 2024 |
 
+#### Benzodiazepine Concerns
+
+Benzodiazepines remain a critical area of concern due to their involvement in overdose deaths, particularly when combined with opioids. In 2023, benzodiazepines were involved in approximately 10,964 overdose deaths (CDC, 2024), and concurrent opioid-benzodiazepine prescribing -- identified as a major risk factor by the FDA's 2016 black box warning -- has declined but persists. A 2023 analysis in *JAMA Network Open* found that 16% of patients receiving long-term opioid therapy also received concurrent benzodiazepine prescriptions, despite guidelines advising against the combination. The challenge is that abrupt benzodiazepine discontinuation carries serious medical risks including seizures, and many patients have been on long-term therapy for years, requiring careful taper protocols that many prescribers lack training to manage.
+
+#### Stimulant Prescribing and Shortages
+
+The 35% increase in stimulant prescriptions since 2019 reflects expanded ADHD diagnosis in adults, particularly through telehealth platforms. Companies such as Cerebral, Done, and Ahead drew scrutiny from the DEA and state medical boards for high-volume prescribing practices, with the DOJ filing fraud charges against Cerebral's former CEO in 2024. Simultaneously, the DEA's aggregate production quotas for amphetamine salts and methylphenidate have not kept pace with demand, creating shortages that began in late 2022 and persisted through 2024. The FDA shortage database listed both amphetamine mixed salts and methylphenidate as in shortage for 18+ consecutive months. This has forced patients with established ADHD diagnoses to ration medications or switch formulations, raising patient safety concerns.
+
+#### Gabapentinoid Surveillance
+
+Gabapentin, though not federally scheduled, has been placed on state PDMP schedules in 12 states (including Kentucky, Virginia, and West Virginia) in response to growing evidence of abuse, particularly in combination with opioids. A 2022 study in *Addiction* found that gabapentin was present in 16% of opioid-related overdose deaths in states with comprehensive testing. Pregabalin remains a Schedule V controlled substance at the federal level.
+
 ---
 
 ## Prescription Drug Monitoring Programs (PDMPs)
@@ -85,6 +97,12 @@ Research on PDMP effectiveness has produced mixed but generally positive results
 | Reduction in doctor shopping (multiple provider episodes) | 50-80% reduction | Buchmueller & Carey, *AEJ: Economic Policy*, 2018 |
 | Reduction in opioid-related overdose deaths (mandatory PDMPs) | 5-10% reduction | Pardo, *Journal of Policy Analysis & Management*, 2017 |
 | Increase in heroin overdose deaths (in some states post-PDMP) | Observed in early studies | Mallatt, *Journal of Health Economics*, 2020 |
+| Reduction in prescriber visits per patient (mandatory PDMPs) | 15-20% fewer providers visited | Buchmueller & Carey, *AEJ*, 2018 |
+| PDMP cost-effectiveness | Estimated $2-4 return per $1 invested | Haffajee et al., *Health Affairs*, 2018 |
+
+### PDMP Integration with Electronic Health Records
+
+A critical barrier to PDMP effectiveness is workflow integration. When PDMP queries require prescribers to log into a separate system, compliance drops and the check becomes a checkbox exercise rather than a clinical tool. States that have integrated PDMP data directly into electronic health record (EHR) systems report significantly higher query rates and better-quality clinical decision-making. Indiana's INSPECT integration with major EHR platforms increased PDMP query rates from 55% to 88% within 12 months (Indiana PDMP, 2023). However, as of 2024, only approximately 35% of prescribers nationwide access PDMP data through integrated EHR workflows; the remainder use standalone web portals (PDMP TTAC, 2024).
 
 ---
 
@@ -193,6 +211,65 @@ The Drug Enforcement Administration maintains the registration system for prescr
 
 Doctor shopping -- obtaining controlled substances from multiple prescribers without disclosure -- has declined substantially since the expansion of PDMPs but has not been eliminated. A 2023 analysis found that multiple-provider episodes for opioids declined by approximately 75% between 2012 and 2022 in states with mandatory PDMP checks, but patterns of diversion have shifted toward theft, forgery, and illicit online pharmacies.
 
+### Pill Mill Enforcement
+
+The era of large-scale pill mills -- high-volume pain clinics that dispensed controlled substances with minimal medical justification -- has largely ended in most states due to PDMP mandates, DEA enforcement, and state regulatory action. Florida's 2010-2012 crackdown is the most documented example: the state's pain clinic registration law, combined with PDMP implementation and DEA operations, reduced the number of top-prescribing physicians by over 80% and contributed to a 50% decline in oxycodone distribution in the state (Kennedy-Hendricks et al., *American Journal of Public Health*, 2016). However, enforcement has shifted to address smaller-scale operations and telehealth-based prescribing mills. In 2023, the DEA initiated 45 enforcement actions targeting telehealth prescribers of controlled substances, compared to fewer than 5 in 2019 (DEA, 2024).
+
+### Pain Management Access
+
+The prescribing pullback has created documented access problems for patients with legitimate chronic pain, cancer pain, and palliative care needs. A 2023 survey by the American Academy of Pain Medicine found that 38% of pain management specialists reported difficulty referring patients to primary care providers for opioid continuity, as primary care practices increasingly refuse to prescribe opioids at any dose. The Human Rights Watch report *Not Allowed to Be Compassionate* (2023) documented cases of patients with terminal illness being denied adequate pain medication due to pharmacy-level restrictions, insurer prior authorization requirements, and prescriber fear of regulatory scrutiny. The CDC's 2022 revised prescribing guidelines explicitly addressed these concerns, emphasizing that the guidelines should not be used to deny opioid therapy to patients with appropriate clinical indications or to mandate rigid dose ceilings.
+
+---
+
+## Drug Take-Back Programs and Safe Disposal
+
+### DEA National Prescription Drug Take Back Day
+
+The DEA has conducted semiannual National Prescription Drug Take Back Day events since 2010, providing free, anonymous collection of unused medications at thousands of sites nationwide.
+
+| Metric | Value | Source |
+|---|---|---|
+| Total medications collected (2010-2023, all events) | >8,800 tons | DEA, 2024 |
+| Collection sites per event (average, recent events) | ~5,000-6,000 | DEA, 2024 |
+| Single-event record collection (October 2023) | 324 tons | DEA, 2024 |
+| Participating law enforcement agencies per event | ~4,500 | DEA, 2024 |
+
+### Year-Round Collection Infrastructure
+
+The Secure and Responsible Drug Disposal Act of 2010 authorized pharmacies, hospitals, and other entities to maintain year-round drug collection receptacles under DEA authorization. As of 2024, over 13,000 authorized collection sites operate nationwide (DEA, 2024), though distribution is uneven, with rural and tribal communities significantly underserved.
+
+| Collection Channel | Sites | Notes | Source |
+|---|---|---|---|
+| Pharmacy-based collection bins | ~9,000 | Major chains (CVS, Walgreens, Walmart) and independents | DEA, 2024 |
+| Law enforcement collection | ~3,500 | Police departments, sheriff offices | DEA, 2024 |
+| Hospital/clinic collection | ~600 | Primarily at discharge pharmacies | DEA, 2024 |
+| Mail-back programs | Multiple vendors | Prepaid envelopes, estimated 500,000+ uses/year | DEA, 2024 |
+| Deactivation products (DisposeRx, Deterra) | Retail availability | Chemical deactivation pouches for home use | FDA guidance, 2023 |
+
+### Disposal Gaps
+
+Despite expanded infrastructure, the majority of unused medications remain in households. A 2020 ONDCP analysis estimated that approximately 70% of people who misuse prescription opioids obtained them from friends, family, or personal medicine cabinets. Environmental concerns also persist: the USGS has detected pharmaceutical compounds in 80% of U.S. waterways tested, with improper toilet disposal identified as a contributing factor (USGS, 2022).
+
+---
+
+## Prescriber Education and Training
+
+### Controlled Substance CME Requirements
+
+The SUPPORT Act of 2018 required all DEA-registered prescribers to complete 8 hours of training on substance use disorders, including opioid prescribing, as a condition of DEA registration renewal beginning in 2023. Implementation has been uneven.
+
+| Metric | Value | Source |
+|---|---|---|
+| DEA registrants subject to CME requirement | ~1.87 million | DEA, 2024 |
+| Compliance rate (first renewal cycle) | Estimated 70-80% | SAMHSA, 2024 |
+| States with additional state-level CME mandates | 37 | Federation of State Medical Boards, 2024 |
+| Average required hours (state mandates, where applicable) | 2-4 hours per renewal | FSMB, 2024 |
+| Medical schools with required addiction medicine curriculum | ~65% | AAMC, 2023 |
+
+### CDC Opioid Prescribing Guidelines
+
+The CDC issued updated Clinical Practice Guidelines for Prescribing Opioids in November 2022, replacing the controversial 2016 guidelines. Key changes include emphasis on individualized patient assessment over rigid dose thresholds, explicit statements against involuntary tapering of stable patients, and recognition that the 2016 guidelines were misapplied as mandatory limits by insurers, pharmacies, and state regulators.
+
 ---
 
 ## Geographic Variation
@@ -208,6 +285,18 @@ Prescription drug policy outcomes vary significantly by state, reflecting differ
 | National average | 43.0 per 100 | -- | CDC, 2023 |
 | Below-average states | 30-43 per 100 | Massachusetts (37.2), California (34.1), New York (32.1) | CDC, 2023 |
 | Lowest prescribing states | <30 per 100 | Hawaii (27.8), Minnesota (28.9), New Jersey (29.1) | CDC, 2023 |
+
+### State-Level Drug Policy Innovation
+
+States have emerged as primary laboratories for prescription drug reform, with significant variation in policy approaches:
+
+| Policy Area | Leading States | Approach | Results | Source |
+|---|---|---|---|---|
+| PBM transparency | Arkansas, Ohio, Virginia | Spread pricing bans, fiduciary duty requirements | Ohio recovered $224 million in Medicaid overcharges | State legislative records, 2024 |
+| Drug importation | Florida, Colorado, Vermont | Section 804(j) importation programs from Canada | Awaiting federal certification | State reports, 2024 |
+| Drug pricing transparency | California, Oregon, Nevada | Manufacturer price increase justification requirements | Increased public awareness; uncertain direct price impact | NASHP, 2024 |
+| Prescribing limits | Massachusetts, New Jersey | 7-day first-fill limits for opioids | Reduced initial exposure without documented access harms | State health department evaluations, 2024 |
+| Gabapentin PDMP tracking | Kentucky, Virginia, West Virginia | Added gabapentin to state PDMP schedules | 10-15% reduction in gabapentin prescribing in first year | State PDMP reports, 2024 |
 
 ---
 
@@ -240,7 +329,15 @@ AI-driven clinical decision support tools are increasingly integrated into elect
 
 ### Cybersecurity Threats to Pharmacy Systems
 
-The February 2024 ransomware attack on Change Healthcare disrupted pharmacy operations across the United States for weeks, highlighting the vulnerability of centralized digital infrastructure in the prescription drug supply chain.
+The February 2024 ransomware attack on Change Healthcare disrupted pharmacy operations across the United States for weeks, highlighting the vulnerability of centralized digital infrastructure in the prescription drug supply chain. The attack affected claims processing for approximately 94% of U.S. hospitals and resulted in an estimated $2.3 billion in costs to the healthcare system (AHA, 2024).
+
+### Pharmacy Desert Expansion
+
+The closure of independent and chain pharmacies -- driven in part by PBM reimbursement practices -- has created growing "pharmacy deserts" where residents lack reasonable access to prescription drug services. A 2024 USC Schaeffer Center analysis found that approximately 19 million Americans live in pharmacy deserts (more than a mile from the nearest pharmacy in urban areas or more than 10 miles in rural areas). States with the highest closure rates include Mississippi, West Virginia, and Arkansas, areas that also have the highest rates of chronic disease and controlled substance prescribing.
+
+### Electronic Prescribing of Controlled Substances (EPCS)
+
+Twenty-eight states now mandate electronic prescribing for controlled substances, up from just 2 states in 2016. EPCS reduces prescription forgery, improves PDMP data accuracy, and enables real-time clinical alerts. New York's 2016 EPCS mandate was associated with a 70% reduction in prescription forgeries for opioids within two years (New York Department of Health, 2019). Federal EPCS requirements for Medicare Part D controlled substances took effect in January 2021 under the SUPPORT Act.
 
 ---
 

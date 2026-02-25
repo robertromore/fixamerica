@@ -66,6 +66,26 @@ The critical insight guiding this strategy is that workforce is the binding cons
 
 By the end of Phase 1, the structural foundations for a national crisis system will be in place: permanent federal funding authorized, sustainable state revenue mechanisms enabled, workforce pipeline launched, interoperability standards published, and the first wave of civilian alternative response programs operational. The 988 in-network answer rate should improve from 85% to 90%, and the number of states with Medicaid mobile crisis benefits should increase from 28 to 40.
 
+### Critical Path Dependencies
+
+Phase 1 success depends on resolving several critical path dependencies in the correct sequence:
+
+1. **Congressional action must precede state implementation**: Permanent 988 funding authorization and Medicaid FMAP permanence require legislation before states can build sustainable programs on federal dollars
+2. **Workforce pipeline must precede facility construction**: Crisis Corps placements must begin before new crisis stabilization facilities open, or facilities will sit empty. Training pipeline development is a 12-24 month lead time before first placements
+3. **Standards must precede technology deployment**: 988-to-911 interoperability standards must be published before 911 centers invest in technology upgrades, to avoid incompatible systems
+4. **State telecom fee legislation must follow federal framework**: States need the FCC's national framework as a model before enacting individual state fee statutes
+
+### State Readiness Assessment
+
+States will enter the national crisis system build-out from very different starting points. A state readiness assessment framework should categorize states by current capacity:
+
+| Readiness Tier | States | Phase 1 Focus |
+|---|---|---|
+| **Tier 1 -- Ready to scale** | GA, AZ, CO, OR | Expand existing systems to full coverage; serve as national models |
+| **Tier 2 -- Partially built** | CA, MA, NY, IL, WA, MN | Fill geographic gaps; integrate 988 with mobile crisis dispatch |
+| **Tier 3 -- Early development** | TX, FL, OH, PA, MI, NJ | Launch mobile crisis programs; establish first crisis stabilization units |
+| **Tier 4 -- Minimal capacity** | MS, WY, WV, AL, ID, SD | Foundational investments: 988 center staffing, first mobile team, telehealth crisis |
+
 ---
 
 ## Phase 2: Scaled Expansion (Years 3-5)
@@ -102,6 +122,15 @@ By the end of Phase 1, the structural foundations for a national crisis system w
 ### Expected Outcomes
 
 By the end of Phase 2, the crisis continuum will be operational for a majority of the U.S. population. Mobile crisis teams will cover 70% of the population with average response times under 60 minutes in urban areas. The first wave of new crisis stabilization facilities will be operational, beginning to reduce ED psychiatric boarding. The 988 system will be sustainably funded and achieving near-universal answer rates. The crisis workforce will have grown by 67%, though still below full staffing targets.
+
+### Phase 2 Rural Strategy
+
+Rural and frontier areas require a distinct strategy because traditional urban models (staffed mobile teams, brick-and-mortar facilities) are not financially viable at low population densities:
+
+- **Telehealth-assisted mobile crisis**: Pair a locally based peer specialist or community health worker with a remote crisis clinician via telehealth for rural crisis responses. The local responder provides in-person presence while the clinician conducts assessment and de-escalation remotely
+- **Regional crisis stabilization hubs**: Rather than building small facilities in every county, establish regional crisis stabilization centers (serving 3-5 county areas) in strategic locations along major transportation corridors
+- **Community paramedicine**: Train rural paramedics and EMTs in behavioral health crisis response, leveraging the existing EMS infrastructure that already covers rural areas 24/7. Several states (Minnesota, Colorado, Idaho) have piloted community paramedicine models for behavioral health with promising results
+- **Tribal-specific programs**: Develop crisis services models designed for tribal communities, incorporating traditional healing practices, tribal sovereignty, and the unique geographic and cultural circumstances of reservation settings. The Indian Health Service should be a co-funder alongside SAMHSA
 
 ---
 
@@ -240,6 +269,38 @@ Implementation requires clear accountability at every level:
 - **Facilities**: Approximately 23,500 new crisis stabilization beds across 400-600 new or expanded facilities ($5 billion in capital construction over 10 years)
 - **Vehicles**: Mobile crisis team vehicles (estimated 5,000 nationwide), including modified vehicles for rural and specialized populations ($500 million)
 - **Training facilities**: Regional crisis training centers for workforce development (20 centers, $200 million)
+
+## Political Strategy for Implementation
+
+The roadmap requires sustained political support across multiple election cycles and both political parties. Key elements of the political strategy:
+
+### Building and Maintaining Bipartisan Support
+
+- **988 as the anchor**: The 988 Lifeline has already achieved bipartisan support. All subsequent crisis system investments should be framed as "building the system behind 988" to leverage this consensus
+- **Republican governors as champions**: Several Republican governors (Brian Kemp in Georgia, Doug Ducey in Arizona) have invested heavily in crisis systems. Their leadership provides political cover for conservative legislators
+- **Law enforcement partnerships**: Endorsements from sheriffs' associations, the IACP, and individual police chiefs are essential for maintaining support in conservative districts
+- **Veteran focus**: Framing crisis investments as veteran suicide prevention creates political consensus and access to veteran-focused appropriations
+- **Cost-effectiveness messaging**: Leading with fiscal arguments (crisis services save money vs. ED and jail costs) resonates with fiscal conservatives
+
+### Legislative Sequencing
+
+The roadmap assumes legislation is introduced in this sequence, reflecting political feasibility:
+
+1. **Year 1**: 988 reauthorization with permanent funding (highest bipartisan support)
+2. **Year 1**: Permanent Medicaid mobile crisis FMAP (moderate support; builds on ARP precedent)
+3. **Year 1-2**: 988 telecom fee framework (requires FCC cooperation)
+4. **Year 2**: Crisis Corps authorization (workforce investment broadly popular)
+5. **Year 3**: IMD exclusion reform (most politically difficult; requires healthcare coalition)
+6. **Year 3-4**: Mental Health Parity Act amendment for crisis services (insurance industry opposition expected)
+
+### Accountability Mechanisms
+
+To maintain momentum across phases:
+
+- **Annual SAMHSA Crisis System Report Card**: Public, state-by-state data on all key metrics, creating transparency and political accountability
+- **GAO review at Year 5**: Independent evaluation of progress, spending, and outcomes to inform Phase 3 adjustments
+- **Congressional reporting requirements**: Require SAMHSA to report annually to Congress on crisis system development, workforce progress, and cost savings
+- **Public dashboard**: Expand the existing 988 performance dashboard to include mobile crisis, crisis stabilization, and outcome data accessible to the public
 
 ---
 

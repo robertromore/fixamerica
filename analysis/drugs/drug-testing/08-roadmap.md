@@ -139,11 +139,53 @@ Phase 3 completes the transformation from a metabolite-based, punitive testing s
 
 ## Governance and Oversight
 
-**Interagency Coordination**: The Office of National Drug Control Policy (ONDCP) should establish a Drug Testing Modernization Task Force comprising representatives from DOT, SAMHSA, NIDA, NHTSA, DOL, EEOC, and HHS. The Task Force would coordinate across agencies, track implementation progress, and issue annual reports to Congress.
+### Interagency Coordination
 
-**Congressional Oversight**: The Senate HELP Committee and House Education and Workforce Committee should hold annual oversight hearings on drug testing reform implementation, with testimony from affected agencies, employers, workers, and civil liberties organizations.
+The Office of National Drug Control Policy (ONDCP) should establish a Drug Testing Modernization Task Force comprising representatives from DOT, SAMHSA, NIDA, NHTSA, DOL, EEOC, and HHS. The Task Force would:
 
-**Independent Evaluation**: The GAO should conduct a comprehensive evaluation at Year 5 (midpoint) and Year 10 (completion) assessing safety outcomes, privacy impacts, racial equity, cost-effectiveness, and technology readiness.
+- Coordinate regulatory actions across agencies to ensure consistency and avoid conflicting standards
+- Track implementation progress against milestones and report quarterly to the ONDCP Director
+- Issue annual reports to Congress on reform implementation, safety outcomes, and remaining barriers
+- Convene stakeholder advisory committees including employer representatives, worker advocates, testing industry participants, harm reduction organizations, and civil liberties groups
+- Publish a public dashboard tracking key metrics (testing volume, positivity rates, impairment technology development status, drug checking coverage, overdose deaths)
+
+### Congressional Oversight
+
+The Senate HELP Committee and House Education and Workforce Committee should hold annual oversight hearings on drug testing reform implementation, with testimony from:
+
+- Agency officials (DOT, SAMHSA, NIDA, NHTSA, DOL, EEOC)
+- Employer representatives from reformed testing programs (including major employers that have dropped cannabis screening)
+- Workers affected by testing -- both those who have experienced adverse consequences and those in safety-sensitive positions
+- Civil liberties organizations (ACLU, NORML, DPA)
+- Testing industry representatives (DATIA, Quest Diagnostics)
+- Harm reduction organizations operating drug checking services
+- Researchers specializing in impairment detection and drug checking effectiveness
+
+### Independent Evaluation
+
+The GAO should conduct comprehensive evaluations at Year 3 (early assessment), Year 5 (midpoint), and Year 10 (completion) assessing:
+
+- Safety outcomes in DOT-regulated industries before and after oral fluid transition
+- Workplace accident and fatality rates in states with cannabis employment protections vs. those without
+- Racial equity metrics in testing outcomes (hair testing prohibition impact, false positive rates by race)
+- Cost-effectiveness of reformed testing compared to the current system
+- Drug checking program outcomes (samples analyzed, behavior change rates, overdose deaths in served communities)
+- Impairment technology development progress and deployment readiness
+- Privacy and civil liberties impact assessment
+
+### Stakeholder Roles in Implementation
+
+| Stakeholder | Phase 1 Role | Phase 2 Role | Phase 3 Role |
+|-------------|-------------|-------------|-------------|
+| Congress | Enact 4-5 pieces of legislation; appropriate funds | Authorize DOT modernization; continued appropriations | Oversight; harmonization legislation |
+| DOT | Begin oral fluid rulemaking; maintain current testing | Finalize oral fluid transition; pilot impairment testing | Deploy impairment testing; harmonize standards |
+| SAMHSA | Launch drug checking grants; certify oral fluid labs | Expand grants; publish impairment testing guidelines | Finalize guidelines; national coverage |
+| NIDA/NHTSA | Launch R&D program; issue competitive grants | Oversee validation studies; publish results | Support deployment of validated technologies |
+| EEOC | Issue hair testing guidance; disparate impact enforcement | Monitor racial equity in testing; update guidance | Comprehensive anti-discrimination framework |
+| State legislatures | Enact cannabis employment protections; legalize FTS | Harmonize with federal standards; fund drug checking | Align testing standards with federal framework |
+| Employers | Update policies; implement confirmatory testing | Transition to oral fluid; pilot impairment tools | Deploy impairment testing; comprehensive reform |
+| Testing industry | Adapt to oral fluid; develop impairment products | Laboratory certification for oral fluid; technology innovation | Full transition to new testing paradigm |
+| Harm reduction orgs | Expand FTS distribution; apply for drug checking grants | Scale drug checking services; train staff | Maintain and expand infrastructure |
 
 ---
 
@@ -189,6 +231,27 @@ Phase 3 completes the transformation from a metabolite-based, punitive testing s
 
 **Contingency Plan**: If political backlash stalls federal reform, accelerate state-level reform in supportive states while building evidence base for eventual federal action.
 
+## State-Level Implementation Strategy
+
+Federal reform provides the foundation, but state-level action is necessary for full implementation and to address areas of state jurisdiction (employment law, paraphernalia reform, welfare programs):
+
+### Priority State Actions
+
+| Action | Target States | Timeline | Lead Actors |
+|--------|--------------|----------|-------------|
+| Cannabis employment protection legislation | 38 states without protections | Years 1-3 | State legislatures; NORML/ACLU state chapters |
+| Fentanyl test strip legalization | 11 states where FTS remain paraphernalia | Years 1-2 | State legislatures; DPA/NHRC state chapters |
+| Welfare drug testing program repeal | 15 states with active programs | Years 1-3 | State legislatures; fiscal conservative and progressive coalitions |
+| Workers' comp premium discount reform | 14+ states with drug-free workplace discounts | Years 2-4 | State insurance departments; employer groups |
+| Drug checking program funding | All 50 states | Years 2-5 | State health departments; SAMHSA grants |
+| Student drug testing program review | States with testing authorization | Years 2-4 | State boards of education; parent advocacy |
+
+### State Tiers for Implementation
+
+- **Tier 1 (Immediate action possible)**: States with legal recreational cannabis, existing harm reduction infrastructure, and progressive drug policy frameworks. Examples: California, Colorado, New York, Massachusetts, Illinois, Oregon, Washington. These states should be the first to fully implement reforms and serve as models.
+- **Tier 2 (Achievable within 3-5 years)**: States with medical cannabis programs, growing harm reduction capacity, and emerging support for testing reform. Examples: Ohio, Pennsylvania, Michigan, Minnesota, New Mexico, Virginia. These states require targeted advocacy and coalition-building.
+- **Tier 3 (Long-term transformation)**: States without cannabis legalization, limited harm reduction infrastructure, and political resistance to drug policy reform. Examples: Texas, Alabama, Idaho, Kansas, Wyoming, South Carolina. In these states, federal preemption (for drug checking legalization and welfare testing prohibition) may be necessary to achieve reform.
+
 ---
 
 ## Resource Requirements
@@ -215,6 +278,31 @@ For context, the federal drug control budget is $46.1 billion (FY2025). This ref
 - Drug checking equipment: 500+ FTIR spectrometers ($25,000-$50,000 each = $12.5-$25 million)
 - Impairment testing devices: Procurement dependent on validated technology; estimated $50-$100 million for initial DOT deployment
 - IT systems: Upgraded SAMHSA and DOT data reporting systems for oral fluid and impairment testing ($20-$30 million)
+
+---
+
+## Dependencies and Critical Path
+
+### Critical Path Items
+
+The following items are on the critical path -- delays in these areas will delay the overall reform timeline:
+
+1. **Congressional action on drug checking legalization and cannabis employment protections** (Phase 1): Without legislative authorization, SAMHSA cannot fund drug checking grants and employers have no federal standard for cannabis testing reform.
+2. **Impairment technology validation** (Phase 2): The transition from metabolite-based to impairment-based DOT testing depends on successful validation of at least one impairment detection technology. If validation fails or is significantly delayed, the DOT transition timeline extends.
+3. **DOT oral fluid rulemaking** (Phase 2): The DOT rulemaking process typically takes 2-4 years (NPRM, comment period, final rule). This timeline is largely fixed by the Administrative Procedure Act and cannot be significantly accelerated.
+4. **SAMHSA laboratory certification for oral fluid** (Phase 2): Laboratories must be certified under SAMHSA's National Laboratory Certification Program before they can process oral fluid specimens for federal programs. The certification process takes 12-18 months per laboratory.
+
+### Key Dependencies
+
+| Item | Depends On | Risk of Delay |
+|------|-----------|---------------|
+| Drug checking grants | Congressional appropriations; drug checking legalization | Medium -- bipartisan support exists |
+| Cannabis employment protections | Congressional action; potentially cannabis rescheduling | Medium-High -- testing industry opposition |
+| DOT oral fluid transition | SAMHSA rule finalization; laboratory certification | Medium -- regulatory process is time-bound |
+| Impairment technology deployment | R&D program success; clinical validation | Medium-High -- scientific uncertainty |
+| Welfare testing elimination | Congressional amendment to PRWORA | Medium -- political will in Congress |
+| Hair testing prohibition | Congressional legislation or EEOC guidance | Medium -- limited organized opposition |
+| Federal-state harmonization | Federal cannabis scheduling change; DOT rulemaking | High -- depends on cannabis scheduling decisions |
 
 ---
 

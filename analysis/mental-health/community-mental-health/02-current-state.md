@@ -47,6 +47,25 @@ The United States faces a persistent gap between mental health need and service 
 
 The treatment gap is most severe for substance use disorders, where more than 9 in 10 affected individuals receive no treatment. For serious mental illness, the 34.6% unmet need rate translates to nearly 5 million adults who are not receiving the services they need despite having conditions such as schizophrenia, bipolar disorder, or severe major depression.
 
+### Barriers to Treatment
+
+Among adults with any mental illness who did not receive treatment, the most commonly reported reasons reveal both systemic and individual-level barriers:
+
+| Barrier | % Citing as Reason | Category |
+|---|---|---|
+| Could not afford cost | 42.2% | Financial |
+| Did not know where to go for services | 22.4% | System navigation |
+| Did not have time | 18.6% | Access/logistical |
+| Concerned about confidentiality | 14.8% | Stigma |
+| Thought could handle without treatment | 41.7% | Perception/stigma |
+| Health insurance did not cover enough | 20.9% | Financial |
+| No transportation or inconvenient scheduling | 12.3% | Access/logistical |
+| Fear of being committed or forced medication | 10.2% | Stigma/trust |
+
+Source: SAMHSA NSDUH, 2022
+
+These barriers interact in compounding ways. Individuals living in rural areas, for example, may simultaneously face cost barriers, transportation limitations, and a lack of awareness of available services. Uninsured adults are nearly three times as likely to report cost as a barrier compared to insured adults (SAMHSA NSDUH, 2022).
+
 ## Community Mental Health Center Infrastructure
 
 ### Facility Landscape
@@ -80,6 +99,25 @@ Traditional CMHCs vary enormously in their service offerings. A 2020 SAMHSA surv
 | Peer support services | 38% | Growing but not yet standard |
 
 Source: SAMHSA National Mental Health Services Survey (N-MHSS), 2020
+
+### State-Level CMHC Variation
+
+The density and capacity of community mental health centers varies dramatically by state:
+
+| State | Approximate CMHCs | CMHCs per 100,000 Population | CCBHC Adoption Status |
+|---|---|---|---|
+| New York | 320+ | 1.64 | Early adopter; 70+ CCBHCs |
+| California | 280+ | 0.72 | Demonstration state; expanding |
+| Texas | 39 (Local Mental Health Authorities) | 0.13 | Late adopter; planning phase |
+| Missouri | 120+ | 1.96 | Original demonstration state; statewide CCBHC |
+| Minnesota | 100+ | 1.78 | Original demonstration state |
+| Florida | 90+ | 0.41 | Moderate adoption |
+| Idaho | 7 | 0.37 | Among lowest-capacity states |
+| Mississippi | 15 (Regional Community Mental Health Centers) | 0.51 | Limited CCBHC participation |
+
+Source: SAMHSA URS, 2023; state mental health authority reports
+
+States with robust community mental health infrastructure (New York, Missouri, Minnesota) tend to have higher per-capita spending, earlier CCBHC adoption, and lower rates of psychiatric incarceration and homelessness. States with thin infrastructure (Texas, Idaho, Mississippi) rely more heavily on emergency departments, jails, and state hospitals as de facto psychiatric service settings.
 
 ## Certified Community Behavioral Health Clinics (CCBHCs)
 
@@ -139,6 +177,22 @@ The CCBHC model's financial innovation is the Prospective Payment System, which 
 | Care coordination | Included | Rarely reimbursed |
 
 Source: SAMHSA CCBHC Criteria, 2023; Medicaid and CHIP Payment and Access Commission (MACPAC), 2023
+
+### CCBHC State Adoption Progress
+
+As of 2024, states have adopted or are pursuing the CCBHC model through several pathways:
+
+| Pathway | States | Description |
+|---|---|---|
+| Original demonstration (Section 223) | MN, MO, NV, NJ, NY, OK, OR, PA | 8 states in initial 2017 demonstration |
+| Expanded demonstration | +2 additional states by 2021 | Extended by Congress |
+| Medicaid State Plan Amendment (P.L. 117-159) | 15+ states filed or planning SPAs | Permanent option created by Bipartisan Safer Communities Act |
+| SAMHSA expansion grants only | 10+ states with grant-funded CCBHCs | Operating under grant authority without Medicaid SPA |
+| Planning or early exploration | 5-8 states | Have not yet adopted any CCBHC pathway |
+
+Source: National Council for Mental Wellbeing, 2024; CMS State Plan Amendment tracker, 2024
+
+States that have adopted the Medicaid SPA pathway benefit from sustainable federal matching funds, while those relying solely on SAMHSA grants face fiscal cliffs when grant periods expire. The National Council for Mental Wellbeing estimates that full national CCBHC implementation would require an additional 1,500-2,000 clinics beyond the current 540+ (National Council, 2024).
 
 ## Federal Funding Landscape
 
@@ -292,6 +346,60 @@ The shift toward value-based payment and quality measurement requires data infra
 ### Equity Gaps
 
 Racial and ethnic minorities access community mental health services at lower rates despite equal or higher prevalence of mental illness. Only 33.9% of Black adults and 36.1% of Hispanic adults with AMI received treatment in 2021, compared to 52.4% of white adults (SAMHSA NSDUH, 2022). Language barriers, cultural stigma, provider workforce diversity gaps, and structural racism in service delivery all contribute.
+
+### Equity Indicators by Race and Ethnicity
+
+| Population | % with AMI Receiving Treatment | % with SUD Receiving Treatment | Suicide Rate per 100,000 | Source |
+|---|---|---|---|---|
+| White adults | 52.4% | 8.1% | 17.4 | SAMHSA NSDUH, 2022; CDC, 2022 |
+| Black adults | 33.9% | 6.4% | 8.0 | SAMHSA NSDUH, 2022; CDC, 2022 |
+| Hispanic adults | 36.1% | 6.8% | 7.9 | SAMHSA NSDUH, 2022; CDC, 2022 |
+| Asian adults | 25.4% | 4.2% | 6.9 | SAMHSA NSDUH, 2022; CDC, 2022 |
+| AI/AN adults | 42.6% | 9.0% | 28.1 | SAMHSA NSDUH, 2022; CDC, 2022 |
+| Multiracial adults | 49.1% | 7.5% | 14.2 | SAMHSA NSDUH, 2022; CDC, 2022 |
+
+American Indian and Alaska Native communities face the highest suicide rates of any racial or ethnic group -- more than double the national average -- while operating with some of the most limited community mental health infrastructure in the country. The Indian Health Service (IHS) behavioral health budget was approximately $180 million in FY2024, serving a population of 2.56 million (IHS, 2024).
+
+### LGBTQ+ Mental Health
+
+LGBTQ+ adults experience mental illness at significantly higher rates than the general population, with particular severity among transgender individuals:
+
+| Population | % with AMI | % with Serious Psychological Distress | Suicide Attempt Rate (Past Year) | Source |
+|---|---|---|---|---|
+| LGBTQ+ adults (all) | 39.0% | 20.5% | 4.5% | Williams Institute, 2023 |
+| Transgender adults | 54.3% | 31.4% | 8.9% | Williams Institute, 2023 |
+| Cisgender heterosexual adults | 20.0% | 10.2% | 0.4% | SAMHSA NSDUH, 2022 |
+
+Community mental health centers with culturally competent LGBTQ+ services remain scarce, particularly in rural areas and conservative states. A 2023 National Council survey found that only 28% of CMHCs reported having staff specifically trained in LGBTQ+ mental health care.
+
+## Assertive Community Treatment (ACT) Current Status
+
+### National ACT Landscape
+
+Assertive Community Treatment teams provide the most intensive evidence-based community service for individuals with serious mental illness, yet ACT remains available to only a fraction of those who could benefit:
+
+| Metric | Value | Source |
+|---|---|---|
+| Estimated ACT teams nationally | ~800 | SAMHSA, 2023 |
+| Individuals served by ACT | ~80,000-100,000 | SAMHSA estimates, 2023 |
+| Adults with SMI who could benefit from ACT | ~2-3 million | NASMHPD, 2022 |
+| ACT coverage rate (served/could benefit) | 3-5% | Calculated |
+| Average ACT team size | 10-12 staff | DACTS standards |
+| Staff-to-client ratio | ~1:10 | DACTS standards |
+| Annual cost per ACT client | $7,500-$12,000 | SAMHSA, 2023 |
+
+### State ACT Implementation Variation
+
+| State | Approximate ACT Teams | Medicaid ACT Coverage | Fidelity Monitoring | Source |
+|---|---|---|---|---|
+| New York | 80+ | Yes | Strong state oversight | NY OMH, 2023 |
+| Wisconsin | 45+ | Yes | Original ACT state; strong fidelity | WI DHS, 2023 |
+| Indiana | 40+ | Yes | Established program | IN DMHA, 2023 |
+| Virginia | 35+ | Yes | Growing program | VA DBHDS, 2023 |
+| Texas | 10 | Limited | Minimal fidelity oversight | TX HHSC, 2023 |
+| Mississippi | 2 | No dedicated coverage | No fidelity monitoring | MS DMH, 2023 |
+
+States with strong ACT programs (New York, Wisconsin, Indiana) demonstrate significantly lower rates of hospitalization and incarceration among individuals with serious mental illness compared to states with minimal ACT coverage (Treatment Advocacy Center, 2023).
 
 ---
 

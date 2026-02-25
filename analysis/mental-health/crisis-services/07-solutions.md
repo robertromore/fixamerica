@@ -118,7 +118,23 @@ Building a complete crisis continuum reduces reliance on emergency departments a
 
 **Impact Metrics**: Share of 911 centers with behavioral health dispatch protocols (target: 90%); share of mental health 911 calls routed to clinical resources (target: 50%); response time for triaged mental health calls (target: within standard).
 
-### Solution 7: Medicaid and Insurance Coverage Reform for Crisis Services
+### Solution 7: National Real-Time Crisis Data Infrastructure
+
+**Description**: Build a national crisis data system that connects 988 call centers, mobile crisis teams, crisis stabilization facilities, emergency departments, and 911 centers in real time. The system would include crisis bed tracking (showing available beds by type and location), mobile team dispatch and location tracking, patient outcome tracking from first contact through follow-up, and standardized quality metrics reported to SAMHSA and CMS.
+
+**Evidence Base**: Only 6 states have implemented real-time crisis bed tracking systems as of 2024 (NASMHPD, 2024). Without bed tracking, crisis workers spend significant time calling facilities individually to find open beds, delaying care by hours. Arizona's crisis bed registry reduced average time-to-placement by 45% after implementation (RI International, 2023). Georgia's electronic crisis tracking system enables statewide performance monitoring and quality improvement.
+
+**Implementation**: SAMHSA and the Office of the National Coordinator for Health IT (ONC) would develop interoperability standards for crisis data systems. Federal grants ($300 million over 5 years) would support state implementation. The system would comply with HIPAA, 42 CFR Part 2, and state privacy laws while enabling the operational data sharing necessary for coordinated crisis response.
+
+**Cost/Resources**: $300 million in federal technology grants; $50 million annually for maintenance and operations.
+
+**Timeline**: Standards published Year 1; pilot implementation in 10 states by Year 2; 30 states by Year 4; national coverage by Year 7.
+
+**Challenges**: Interoperability across diverse technology platforms; privacy concerns; resistance from providers concerned about data transparency; ongoing maintenance costs.
+
+**Impact Metrics**: States with real-time bed tracking (target: 50); average time-to-placement (target: <2 hours); data completeness (target: >90% of crisis contacts tracked); quality metric reporting (target: annual state-by-state reports).
+
+### Solution 8: Medicaid and Insurance Coverage Reform for Crisis Services
 
 **Description**: Require all health insurance plans (Medicaid, Medicare, commercial, ACA marketplace) to cover the full crisis continuum -- crisis line contacts, mobile crisis team responses, crisis stabilization stays, and post-crisis follow-up -- at parity with emergency medical services, with no prior authorization, copays, or deductibles. Make the Medicaid enhanced FMAP for mobile crisis permanent and extend it to crisis stabilization.
 
@@ -133,6 +149,38 @@ Building a complete crisis continuum reduces reliance on emergency departments a
 **Challenges**: Insurance industry opposition; complexity of adding new mandated benefits; rate-setting for novel service categories; enforcement across diverse state Medicaid programs.
 
 **Impact Metrics**: Share of insured population with crisis coverage (target: 100%); crisis provider Medicaid acceptance rate (target: >80%); payer mix for crisis services (target: <30% uncompensated care).
+
+### Solution 9: Youth-Specific Crisis Services
+
+**Description**: Create a dedicated youth crisis services infrastructure, recognizing that children and adolescents require developmentally appropriate crisis intervention that differs from adult services. This includes pediatric mobile crisis teams, youth crisis stabilization units (separate from adult facilities), school-based crisis response protocols, and specialized 988 youth sub-networks.
+
+**Evidence Base**: Pediatric mental health ED visits increased 31% between 2019 and 2022 (AHRQ, 2023). Suicide is the second leading cause of death for ages 10-14. The American Academy of Pediatrics declared a national emergency in child and adolescent mental health in 2021. Massachusetts operates one of the few statewide pediatric mobile crisis programs (Emergency Services Program for Children), which diverts 70% of youth crisis contacts from ED visits (Massachusetts DMH, 2024).
+
+**Implementation**: Federal grants for pediatric mobile crisis teams ($500 million over 5 years); Medicaid coverage mandate for youth crisis stabilization; school-based crisis response training through SAMHSA's Project AWARE; 988 youth routing with age-appropriate counseling protocols; family involvement requirements in youth crisis plans.
+
+**Cost/Resources**: $500 million in startup grants; $300 million annually in ongoing Medicaid and insurance coverage. Approximately 15,000 additional youth-specialized crisis workers needed.
+
+**Timeline**: Youth 988 sub-network by Year 1; pediatric mobile crisis grants by Year 2; youth crisis stabilization standards by Year 3; full implementation by Year 6.
+
+**Challenges**: Parental consent requirements vary by state; shortage of child and adolescent mental health professionals; coordination with schools, child welfare agencies, and pediatricians; liability concerns for treating minors without parental consent during emergencies.
+
+**Impact Metrics**: Youth crisis ED visits (target: 40% reduction); youth crisis response time (target: 45 minutes in urban areas); school-based crisis protocol adoption (target: 80% of school districts); youth crisis follow-up rate (target: 90%).
+
+### Solution 10: Post-Crisis Follow-Up and Care Transition System
+
+**Description**: Mandate and fund a standardized post-crisis follow-up system ensuring that every person who contacts the crisis system receives a follow-up contact within 24 hours, a warm handoff to outpatient or community-based care within 72 hours, and peer support during the transition period. This addresses the well-documented risk of the period immediately following crisis stabilization, when suicide risk remains elevated.
+
+**Evidence Base**: The risk of suicide is highest in the 30 days following psychiatric ED discharge, with some studies finding risk up to 100 times the general population rate (Chung et al., *JAMA Psychiatry*, 2017). "Caring contacts" -- brief follow-up phone calls or texts after crisis encounters -- reduce subsequent suicide attempts by 30-50% (Comtois et al., *JAMA Psychiatry*, 2019). The Zero Suicide model, which includes systematic follow-up, has reduced suicide deaths by 65% in health systems that implement it fully (Zero Suicide Institute, 2023).
+
+**Implementation**: Require 988 centers to conduct 24-hour follow-up for all contacts involving suicidal ideation; fund peer support specialists for post-crisis transition (warm handoffs to outpatient care); establish Medicaid coverage for post-crisis follow-up contacts; create standardized follow-up protocols with data tracking.
+
+**Cost/Resources**: $200 million annually for follow-up staffing and infrastructure. Peer support specialists conducting follow-up estimated at 10,000 positions nationally.
+
+**Timeline**: Follow-up protocol standards by Year 1; 988 follow-up mandate by Year 2; full implementation by Year 4.
+
+**Challenges**: Tracking individuals after crisis encounter without violating privacy; ensuring outpatient capacity exists for warm handoffs; follow-up workforce recruitment; data systems for follow-up completion tracking.
+
+**Impact Metrics**: 24-hour follow-up completion rate (target: 95%); 72-hour outpatient connection rate (target: 80%); 30-day re-contact rate (target: <20%); 90-day suicide attempt rate among crisis contacts (target: <2%).
 
 ---
 
@@ -162,6 +210,14 @@ Building a complete crisis continuum reduces reliance on emergency departments a
 
 **Applicability to U.S.**: The CRHT gatekeeping model -- requiring community crisis team assessment before any voluntary psychiatric admission -- could significantly reduce unnecessary hospitalizations. However, the U.S. lacks the unified health system governance that makes UK implementation possible. Adaptation would require Medicaid and insurance policy changes to incentivize CRHT-style gatekeeping.
 
+### Israel: Community-Based Psychiatric First Aid
+
+**Description**: Israel operates a network of psychiatric first-aid stations and mobile crisis teams integrated with its national emergency medical service (Magen David Adom). Mental health professionals respond alongside paramedics to behavioral health emergencies, and community-based crisis centers provide walk-in stabilization in every health district.
+
+**Results**: Israel's community crisis system, built in the context of frequent national security emergencies, demonstrates that crisis infrastructure can serve both everyday mental health crises and mass casualty events. The dual-use model provides resilience capacity that justifies investment beyond routine demand.
+
+**Applicability to U.S.**: The integration of crisis services with emergency medical services (rather than treating them as separate systems) and the dual-use emergency preparedness rationale could help build political support for crisis infrastructure investment in the United States, particularly in communities concerned about disaster preparedness.
+
 ---
 
 ## Pilot Programs and Demonstrations
@@ -172,6 +228,24 @@ Several U.S. programs provide proof-of-concept for scaled crisis services:
 - **Arizona Crisis Now Implementation**: Based on the Crisis Now model, Arizona operates crisis receiving centers (walk-in, no appointment), mobile crisis teams, and a crisis line integrated with 911 dispatch. Averages 26-minute response times in Maricopa County (RI International, 2023)
 - **CAHOOTS (Eugene, OR)**: 35+ years of operation; 24,000 annual contacts; <1% police backup rate; estimated $14 million/year savings to the city (White Bird Clinic, 2023)
 - **988 + Mobile Crisis Integration Pilots (Colorado, Oregon)**: Testing real-time dispatch of mobile crisis teams directly from 988 call centers, with early results showing 30-40% reduction in ED referrals compared to phone-only intervention (SAMHSA, 2024)
+- **Massachusetts Emergency Services Program**: Statewide pediatric mobile crisis program serving youth under 18 with specialized protocols. Diverts 70% of youth crisis contacts from ED visits. Operates 24/7 in all Massachusetts counties. One of the few youth-specific mobile crisis models in the country (Massachusetts DMH, 2024)
+- **Houston Crisis Intervention Response Team (CIRT)**: A CIT co-response model pairing trained officers with licensed clinicians. Handles approximately 15,000 contacts annually and resolves 85% without arrest. Recognized by the Police Executive Research Forum as a national model for law enforcement-clinical partnerships (PERF, 2023)
+- **Connections Health Solutions (Tucson, AZ)**: Operates a 68-bed crisis receiving center that accepts walk-ins 24/7 without appointment, insurance verification, or police involvement. Average length of stay: 22 hours. Diverts 85% from inpatient admission. Serves as the real-world exemplar of the Crisis Now receiving center model (Connections Health Solutions, 2024)
+- **Living Room (Maricopa County, AZ)**: Peer-staffed, home-like crisis alternative operating since 2012. Uses comfortable furniture, shared meals, and peer support instead of clinical environments. Resolves 65% of contacts without ED referral. 89% client satisfaction (Ostrow & Cibulski, *Psychiatric Services*, 2015)
+
+## Cost-Benefit Summary
+
+| Solution | Annual Cost (Fully Implemented) | Annual Savings | Net Annual Cost | Benefit-Cost Ratio |
+|---|---|---|---|---|
+| Permanent 988 funding | $1.5-$1.7 billion | $500M in avoided ED/police contacts | $1.0-$1.2 billion | 1:1.3 |
+| Universal mobile crisis | $2.5-$3.5 billion | $5.4-$7.5 billion in avoided ED/jail/hospital | Net savings | 1:2.2 |
+| Triple crisis stabilization beds | $1.5-$2.0 billion operating | $3.0-$4.0 billion in avoided hospitalization | Net savings | 1:2.0 |
+| Civilian alternative response | $0.8-$1.4 billion | $1.5-$2.5 billion in avoided police/ED costs | Net savings | 1:1.8 |
+| Workforce development | $500 million | Enables all other solutions | Foundational investment | N/A |
+| 988-911 integration | $100 million operating | $200-$400 million in improved dispatch efficiency | Net savings | 1:2.5 |
+| Crisis data infrastructure | $50 million operating | Efficiency gains across system | Net savings | 1:3+ |
+
+*Sources: RAND, 2022; Georgia DBHDD, 2022; Milliman, 2022; SAMHSA, 2024. Note: savings estimates are approximate and depend on implementation quality and local conditions.*
 
 ## Sequencing and Prioritization
 
@@ -208,6 +282,18 @@ Crisis services expansion requires parallel investments in:
 - **Substance use treatment**: Co-occurring substance use disorders affect 40-60% of crisis contacts; integrated treatment capacity is essential
 - **Insurance parity enforcement**: Stronger DOL/HHS enforcement of the Mental Health Parity Act ensures commercial insurers cover crisis services
 - **Suicide prevention strategy**: Crisis services are part of a broader prevention continuum that includes means restriction, lethal means counseling, and upstream intervention
+- **Workforce pipeline (general)**: Expanding graduate programs in social work, counseling, psychology, and psychiatry addresses not just crisis services but the entire behavioral health workforce shortage
+- **School-based mental health**: Prevention-oriented school mental health programs reduce the number of youth who reach crisis, complementing youth crisis services
+- **Primary care integration**: Embedding behavioral health screening in primary care catches mental health conditions earlier, reducing the volume of crisis contacts
+- **Firearm safety and means restriction**: Access to firearms is the strongest risk factor for completed suicide. Lethal means counseling and temporary firearm storage programs reduce suicide deaths during crisis periods
+
+## Related Topics
+
+- [Mental Health: Solutions](../07-solutions.md) - Broader mental health system reform
+- [Policing: Solutions](../../justice/policing/07-solutions.md) - Law enforcement reform and alternative response
+- [Substance Abuse: Solutions](../../drugs/substance-abuse/07-solutions.md) - Integrated substance use and mental health treatment
+- [Homelessness: Solutions](../../housing/homelessness/07-solutions.md) - Supportive housing as a crisis prevention strategy
+- [Healthcare Access: Solutions](../../healthcare/access/07-solutions.md) - Insurance coverage and Medicaid expansion
 
 ---
 

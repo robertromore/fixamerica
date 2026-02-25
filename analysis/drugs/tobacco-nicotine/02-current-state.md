@@ -39,16 +39,25 @@ Adult cigarette smoking in the United States has declined substantially over the
 | American Indian/Alaska Native | 22.6% | Stable | NHIS/CDC, 2024 |
 | Adults with mental illness | ~25% | Slowly declining | SAMHSA NSDUH, 2024 |
 | LGBTQ+ adults | ~20% | Slowly declining | NHIS/CDC, 2024 |
+| Medicaid enrollees | ~22% | Slowly declining | CMS, 2024 |
+| Adults ages 18-24 | 4.9% | Declining | NHIS/CDC, 2024 |
+| Adults ages 25-44 | 12.6% | Declining | NHIS/CDC, 2024 |
+| Adults ages 45-64 | 14.9% | Slowly declining | NHIS/CDC, 2024 |
+| Adults ages 65+ | 8.3% | Declining | NHIS/CDC, 2024 |
 
 ### Disparities in Smoking
 
 Smoking prevalence varies dramatically by socioeconomic status, education, geography, and mental health status. Adults living below the poverty line smoke at nearly six times the rate of those with graduate degrees (21.6% vs. 3.7%). Rural residents smoke at higher rates than urban residents (15.4% vs. 10.6%). Adults with serious mental illness consume approximately 30% of all cigarettes sold in the United States despite comprising roughly 5% of the adult population (SAMHSA, 2024).
 
-Geographic variation is pronounced. States with the highest adult smoking rates include West Virginia (23.8%), Kentucky (22.6%), and Mississippi (20.1%), while the lowest rates are found in Utah (7.1%), California (8.1%), and Connecticut (8.6%) (CDC BRFSS, 2023).
+Geographic variation is pronounced. States with the highest adult smoking rates include West Virginia (23.8%), Kentucky (22.6%), and Mississippi (20.1%), while the lowest rates are found in Utah (7.1%), California (8.1%), and Connecticut (8.6%) (CDC BRFSS, 2023). This geographic disparity correlates with state tobacco control investment, tax levels, and the strength of clean indoor air laws. States with comprehensive tobacco control programs -- particularly California, which has invested in tobacco control since 1988 -- have achieved the largest reductions in smoking prevalence.
+
+Racial and ethnic disparities intersect with socioeconomic factors. While overall smoking rates among Black adults (12.2%) are similar to the national average, menthol cigarette use is far higher (85% of Black smokers use menthol, compared to ~30% of white smokers), reflecting decades of targeted industry marketing. American Indian/Alaska Native populations have the highest smoking rates (22.6%) among racial/ethnic groups, compounded by limited access to cessation services on reservations and in rural tribal communities.
 
 ### Cigarette Consumption
 
 Total U.S. cigarette consumption has fallen from a peak of 640 billion cigarettes in 1981 to approximately 196 billion in 2023 (USDA ERS, 2024). Per-capita consumption among adults fell from approximately 4,300 cigarettes per year in 1965 to under 1,000 in 2023. The U.S. cigarette market generated approximately $95 billion in retail sales in 2023 (Euromonitor International, 2024).
+
+The top cigarette brands by U.S. market share remain Marlboro (Altria, ~42%), Newport (Reynolds American/BAT, ~13%), Camel (Reynolds American/BAT, ~8%), and Pall Mall (Reynolds American/BAT, ~6%). Discount brands have gained market share in recent years as price-conscious smokers trade down from premium brands in response to tax increases (Altria 10-K, 2024).
 
 ---
 
@@ -67,12 +76,17 @@ The 2024 National Youth Tobacco Survey (NYTS), conducted by the FDA and CDC, fou
 | Smokeless tobacco | 1.3% | 0.8% | Stable | NYTS/FDA, 2024 |
 | Nicotine pouches | 1.5% | 0.6% | Increasing | NYTS/FDA, 2024 |
 | Hookah | 0.8% | 0.6% | Declining | NYTS/FDA, 2024 |
+| Heated tobacco products | 0.3% | 0.2% | New tracking category | NYTS/FDA, 2024 |
 
 ### The Youth Vaping Epidemic
 
 Youth e-cigarette use surged from 1.5% of high school students in 2011 to a peak of 27.5% in 2019, driven by JUUL's nicotine salt technology and aggressive social media marketing (NYTS, 2019). Then-Surgeon General Jerome Adams declared youth vaping an "epidemic" in December 2018. Since the peak, youth vaping rates have declined significantly -- to 5.9% of high school students in 2024 -- driven by flavor enforcement actions, age verification improvements, COVID-19 disruptions, and JUUL's market decline.
 
 However, the market has shifted from pod-based devices (JUUL) to disposable flavored e-cigarettes. Among current youth e-cigarette users in 2024, approximately 88% used flavored products, and disposable devices accounted for the majority of use (FDA/CDC, 2024). The leading brands among youth shifted from JUUL to Elf Bar, Lost Mary, and other disposable brands -- many manufactured in China and sold without FDA marketing authorization.
+
+### Youth Nicotine Pouch Use
+
+Nicotine pouches represent an emerging concern in youth tobacco surveillance. The 2024 NYTS added nicotine pouches as a specific product category for the first time, finding that 1.5% of high school students and 0.6% of middle school students reported current use. While these rates are lower than e-cigarette use, the rapid growth of the nicotine pouch market -- and the availability of products in flavors such as coffee, mint, and citrus -- has prompted public health advocates to call for preemptive regulatory action before a repeat of the youth vaping trajectory (Truth Initiative, 2024).
 
 ---
 
@@ -96,6 +110,15 @@ As of late 2024, the FDA has authorized only a handful of e-cigarette products t
 
 The FDA issued marketing denial orders (MDOs) for approximately 1.4 million flavored e-cigarette products through 2024, though many of these decisions have been challenged in court. In several cases, the U.S. Court of Appeals for the Fifth Circuit vacated FDA denial orders, finding that the agency had not provided fair notice of its scientific expectations regarding comparative population-level evidence. The Supreme Court declined to hear the FDA's appeal in *FDA v. Wages and White Lion Investments* (2024).
 
+Key authorized products as of late 2024 include:
+
+| Product | Manufacturer | Authorization Date | Flavors Authorized |
+|---|---|---|---|
+| Vuse Alto | R.J. Reynolds Vapor (BAT) | October 2021 | Tobacco only |
+| NJOY Ace | NJOY (Altria acquired 2023) | April 2022 | Tobacco, menthol |
+| NJOY Daily (disposable) | NJOY (Altria) | June 2024 | Tobacco, menthol |
+| Logic Power/Pro | Japan Tobacco International | Various 2023-2024 | Tobacco only |
+
 ---
 
 ## Menthol and Flavored Products
@@ -110,6 +133,7 @@ Key facts about the menthol proposal:
 - Approximately 85% of Black smokers use menthol cigarettes, compared to ~30% of white smokers (SAMHSA/NSDUH, 2023)
 - The FDA estimated a menthol ban would lead 923,000 smokers to quit within the first year and prevent 654,000 deaths over 40 years (FDA RIA, 2022)
 - The proposed rule specifically states it would not apply to individual consumer possession or use -- enforcement would target manufacturers, distributors, and retailers
+- The rule received over 300,000 public comments during the comment period, the largest response to any FDA tobacco rulemaking
 
 As of early 2025, the menthol cigarette rule has not been finalized. The White House Office of Management and Budget (OMB) delayed action before the 2024 election, and the rule's future remains uncertain under the current administration.
 
@@ -124,6 +148,34 @@ Several states and localities have enacted their own flavor restrictions:
 | New Jersey | Flavored e-cigarette ban | 2020 | E-cigarettes only (menthol cigarettes exempt) |
 | New York | Flavored e-cigarette ban | 2020 | E-cigarettes only |
 | Rhode Island | Flavored e-cigarette ban | 2020 | E-cigarettes only |
+| Washington D.C. | Flavored tobacco ban | 2022 | All flavored tobacco products |
+
+Early evidence from Massachusetts and California suggests that comprehensive flavor bans reduce sales of banned products, with some substitution to non-flavored products and some cross-border purchasing, but also measurable increases in quit attempts (Asare et al., 2023). In Massachusetts, menthol cigarette sales fell by 83% in the year following implementation, while total cigarette sales declined by approximately 24% (Kingsley et al., 2023).
+
+---
+
+## Smoke-Free Laws
+
+### Clean Indoor Air Coverage
+
+Smoke-free laws prohibiting smoking in workplaces, restaurants, and bars have been one of the most successful tobacco control interventions. As of 2024:
+
+| Coverage Area | States with Comprehensive Law | Population Covered |
+|---|---|---|
+| Smoke-free workplaces | 28 + D.C. | ~58% of U.S. population |
+| Smoke-free restaurants | 29 + D.C. | ~60% of U.S. population |
+| Smoke-free bars | 27 + D.C. | ~56% of U.S. population |
+| Smoke-free all three | 27 + D.C. | ~56% of U.S. population |
+
+Source: Americans for Nonsmokers' Rights, 2024
+
+Notably, 22 states still lack comprehensive smoke-free workplace laws. Many tobacco-growing states (Kentucky, Virginia, North Carolina, Tennessee) have weak or no statewide clean indoor air protections, though some cities within these states have adopted local ordinances.
+
+### Smoke-Free Housing
+
+In February 2017, the U.S. Department of Housing and Urban Development (HUD) finalized a rule requiring smoke-free policies in all public housing authorities, covering approximately 940,000 units and 2 million residents. The rule, which took effect in July 2018, prohibits the use of combustible tobacco products (but not e-cigarettes) in all living units, common areas, and outdoor areas within 25 feet of housing and administrative buildings. Compliance has been inconsistent, with enforcement left largely to individual housing authorities (HUD, 2023).
+
+The private sector has also moved toward smoke-free housing: an estimated 60% of market-rate apartment complexes in the U.S. now have voluntary smoke-free policies, up from approximately 20% in 2010 (Americans for Nonsmokers' Rights, 2024).
 
 ---
 
@@ -142,6 +194,7 @@ Several states and localities have enacted their own flavor restrictions:
 | **Deeming Rule** | 2016 | Extended FDA authority to e-cigarettes, cigars, hookah, pipe tobacco |
 | **Tobacco 21 (T21)** | 2019 | Raised federal minimum purchase age from 18 to 21 |
 | **PACT Act Amendment** | 2020 | Banned U.S. Postal Service from mailing e-cigarettes |
+| **Consolidated Appropriations Act (synthetic nicotine)** | 2022 | Brought synthetic nicotine products under FDA jurisdiction |
 
 ### FDA Center for Tobacco Products
 
@@ -153,7 +206,11 @@ The FDA's Center for Tobacco Products (CTP) is responsible for implementing the 
 4. **Public Education**: Operating the "Real Cost" and "Fresh Empire" youth prevention campaigns
 5. **Research**: Funding the Population Assessment of Tobacco and Health (PATH) Study
 
-CTP operates with a budget of approximately $712 million (FY2024), funded entirely by tobacco industry user fees, not taxpayer appropriations (FDA, 2024).
+CTP operates with a budget of approximately $712 million (FY2024), funded entirely by tobacco industry user fees, not taxpayer appropriations (FDA, 2024). The center employs approximately 1,100 staff, a figure that tobacco control advocates argue is insufficient given the scope of its regulatory mandate -- overseeing an industry with nearly $100 billion in annual U.S. sales and more than 300,000 retail outlets.
+
+### Enforcement Challenges
+
+The FDA's enforcement capacity remains a critical gap. In FY2023, the agency conducted approximately 50,000 retail compliance checks, finding a violation rate of approximately 11% (primarily sales to minors). However, enforcement against manufacturers and importers of unauthorized products has been far less effective. Despite issuing thousands of warning letters to manufacturers of unauthorized e-cigarettes, the FDA has secured only a handful of injunctions and no criminal prosecutions. The agency initiated a joint enforcement initiative with U.S. Customs and Border Protection in 2024, resulting in increased seizures of unauthorized imported e-cigarettes at ports of entry, but the volume of unauthorized products continues to overwhelm enforcement resources (FDA CTP Enforcement Report, 2024).
 
 ---
 
@@ -171,6 +228,7 @@ The federal cigarette excise tax is $1.01 per pack (20 cigarettes), set by the C
 | Smokeless tobacco (snuff) | $1.51 per pound | 2009 |
 | Pipe tobacco | $2.8311 per pound | 2009 |
 | Roll-your-own tobacco | $24.78 per pound | 2009 |
+| E-cigarettes / nicotine pouches | No federal excise tax | N/A |
 
 ### State Excise Taxes
 
@@ -192,7 +250,7 @@ State cigarette excise taxes range from $0.17 per pack (Missouri) to $5.35 per p
 
 ### E-Cigarette and Vaping Taxes
 
-As of 2024, 32 states and D.C. have enacted taxes on e-cigarettes or vaping products. Tax structures vary widely -- some states tax by volume of liquid (e.g., Minnesota at $0.285/mL), others as a percentage of wholesale price (e.g., California at 56.93%), and some use per-unit taxes (Public Health Law Center, 2024). There is no federal excise tax on e-cigarettes.
+As of 2024, 32 states and D.C. have enacted taxes on e-cigarettes or vaping products. Tax structures vary widely -- some states tax by volume of liquid (e.g., Minnesota at $0.285/mL), others as a percentage of wholesale price (e.g., California at 56.93%), and some use per-unit taxes (Public Health Law Center, 2024). There is no federal excise tax on e-cigarettes. The lack of a federal e-cigarette tax creates a significant gap in the tobacco tax framework, as untaxed e-cigarettes are substantially cheaper per unit of nicotine than taxed cigarettes. Several bills to impose a federal e-cigarette tax have been introduced in Congress but none have advanced.
 
 ---
 
@@ -220,6 +278,8 @@ Despite the MSA's origins in tobacco-related healthcare costs, states consistent
 | States spending <10% of recommended | 8 | 0 | 16% of states |
 
 Source: Campaign for Tobacco-Free Kids, "Broken Promises to Our Children," 2024
+
+The vast majority of MSA and tobacco tax revenue is diverted to non-tobacco purposes -- general fund expenses, infrastructure, education, and in some states, tobacco revenue has been securitized (sold to investors as bonds), eliminating any future flexibility in how those funds are used (GAO, 2022).
 
 ---
 
@@ -251,11 +311,11 @@ Seven FDA-approved cessation medications are available:
 | Bupropion (Zyban) | Non-NRT (Rx) | 1.5-2x quit rate | Prescription |
 | Varenicline (Chantix) | Non-NRT (Rx) | 2-3x quit rate | Prescription |
 
-The ACA requires most private insurance plans to cover cessation treatments without cost-sharing. Medicaid coverage varies by state; all state Medicaid programs now cover some cessation treatments, but only 14 states cover all seven FDA-approved medications plus counseling (American Lung Association, 2024).
+The ACA requires most private insurance plans to cover cessation treatments without cost-sharing. Medicaid coverage varies by state; all state Medicaid programs now cover some cessation treatments, but only 14 states cover all seven FDA-approved medications plus counseling (American Lung Association, 2024). Notably, varenicline (the most effective single cessation medication) experienced supply shortages beginning in 2021 due to a recall related to nitrosamine contamination in the brand-name product. Generic versions have since become available, but the shortage disrupted cessation treatment for hundreds of thousands of smokers at a critical time (FDA Drug Shortages Database, 2024).
 
 ### Quitlines
 
-All 50 states, D.C., and territories operate tobacco quitlines, accessible through 1-800-QUIT-NOW. In FY2023, state quitlines received approximately 416,000 calls, a decline from the peak of 800,000+ calls in 2012 (NAQC, 2024). Quitline budgets have declined as states reduced tobacco control funding.
+All 50 states, D.C., and territories operate tobacco quitlines, accessible through 1-800-QUIT-NOW. In FY2023, state quitlines received approximately 416,000 calls, a decline from the peak of 800,000+ calls in 2012 (NAQC, 2024). Quitline budgets have declined as states reduced tobacco control funding. Digital cessation tools -- including text-message programs (SmokefreeTXT) and smartphone applications -- have emerged as complementary channels, though evidence on their effectiveness remains mixed (NCI, 2024).
 
 ---
 
@@ -265,15 +325,21 @@ All 50 states, D.C., and territories operate tobacco quitlines, accessible throu
 
 Nicotine pouches -- small, white pouches containing nicotine derived from tobacco leaf or synthesized, placed between the gum and lip -- have emerged as one of the fastest-growing nicotine product categories. The Swedish brand Zyn (Philip Morris International/Swedish Match) dominates the U.S. market, with sales growing from approximately $170 million in 2020 to over $3 billion in 2024 (Wells Fargo Securities, 2024).
 
-The FDA has not yet completed review of any nicotine pouch PMTA. These products occupy a regulatory gray area -- the FDA classifies tobacco-derived nicotine pouches as tobacco products subject to regulation, but synthetic nicotine products were only brought under FDA jurisdiction by the Consolidated Appropriations Act of 2022.
+Other nicotine pouch brands include On! (Altria), Rogue (Swisher International), and Velo (BAT). The product category appeals to consumers as a discrete, spit-free, smoke-free nicotine delivery system that can be used in environments where smoking and vaping are prohibited. Nicotine concentrations range from 2 mg to 8 mg per pouch, with flavors including mint, wintergreen, coffee, citrus, and cinnamon.
+
+The FDA has not yet completed review of any nicotine pouch PMTA. These products occupy a regulatory gray area -- the FDA classifies tobacco-derived nicotine pouches as tobacco products subject to regulation, but synthetic nicotine products were only brought under FDA jurisdiction by the Consolidated Appropriations Act of 2022. PMI submitted PMTAs for Zyn products in 2020, and a modified risk tobacco product (MRTP) application in 2023, but neither has been resolved as of early 2025.
 
 ### Heated Tobacco Products
 
 Philip Morris International's IQOS, which heats rather than burns tobacco sticks, received FDA authorization as a modified risk tobacco product (MRTP) in July 2020 -- the first product to receive such an order. The FDA found that IQOS switching "significantly reduces your body's exposure to harmful or potentially harmful chemicals." However, IQOS sales in the U.S. were suspended in 2021 due to a patent dispute with British American Tobacco (BAT), and the product has not returned to the U.S. market as of early 2025.
 
+BAT's own heated tobacco product, Glo, has not been submitted for U.S. marketing authorization. Japan Tobacco International's Ploom is available internationally but not in the U.S. As a result, the heated tobacco category remains effectively absent from the U.S. market, unlike in Japan, South Korea, and parts of Europe where heated tobacco products have captured significant market share.
+
 ### Illicit and Unauthorized Products
 
 The unauthorized e-cigarette market has grown substantially. An estimated 9,000+ unique flavored e-cigarette products were available in the U.S. market in 2024, the vast majority without FDA marketing authorization (Truth Initiative, 2024). Chinese manufacturers dominate the disposable e-cigarette market, and enforcement against unauthorized products remains a major challenge. In 2024, the FDA and U.S. Customs and Border Protection (CBP) increased seizures of unauthorized e-cigarettes at ports of entry, but supply continues to outpace enforcement capacity.
+
+The illicit market includes both products from manufacturers who never submitted PMTAs and products for which the FDA has issued marketing denial orders but which continue to be sold through retail and online channels. Enforcement is complicated by the ease of rebranding (manufacturers change product names to evade enforcement actions), the involvement of overseas manufacturing facilities beyond FDA jurisdiction, and the diffuse nature of the U.S. tobacco retail system, which includes more than 300,000 points of sale.
 
 ---
 
@@ -286,6 +352,8 @@ The unauthorized e-cigarette market has grown substantially. An estimated 9,000+
 - **State-level action**: States continue to lead on flavor bans, tax increases, and Tobacco 21 enforcement
 - **JUUL settlement**: JUUL agreed to pay $462 million to six states plus $1.7 billion in a multistate settlement (2023) to resolve youth marketing claims
 - **Smoking rate plateau risk**: The pace of decline in adult smoking has slowed, raising concerns that the remaining smoker population is harder to reach
+- **Nicotine reduction rulemaking**: The FDA issued an Advance Notice of Proposed Rulemaking on a nicotine reduction standard for cigarettes in 2018, but a formal proposed rule has not been published as of early 2025
+- **Graphic health warnings**: The FDA proposed graphic health warnings covering 50% of cigarette packages in 2020, but implementation has been blocked by industry litigation in the D.C. Circuit
 
 ---
 
@@ -294,6 +362,8 @@ The unauthorized e-cigarette market has grown substantially. An estimated 9,000+
 The tobacco and nicotine landscape faces several emerging challenges that will shape policy in the coming years. The proliferation of unauthorized disposable e-cigarettes, many manufactured overseas, has overwhelmed FDA enforcement capacity. The rapid growth of nicotine pouches has outpaced the regulatory framework designed for traditional tobacco products. Synthetic nicotine products, now under FDA jurisdiction since 2022, present novel regulatory questions about manufacturing standards and product characterization.
 
 Additionally, the tobacco industry's ongoing transformation -- with companies like Philip Morris International declaring a "smoke-free future" -- raises fundamental questions about whether regulators can effectively partner with or rely on companies with a documented history of deception. The convergence of cannabis and nicotine vaping technology further complicates the regulatory environment, as many devices can be used interchangeably for both substances.
+
+The international landscape also presents challenges. While the U.S. was once the global leader in tobacco control, other countries have surged ahead: New Zealand enacted (and then repealed under a new government) a generational smoking ban; the UK is advancing comprehensive tobacco and vapes legislation; Finland has a national target to become smoke-free by 2030; and Canada has implemented both menthol bans and plain packaging. The U.S. risks falling behind the global curve on tobacco endgame strategies even as it continues to lead on certain fronts, such as FDA premarket review authority.
 
 ---
 

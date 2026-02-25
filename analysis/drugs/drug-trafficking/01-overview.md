@@ -8,6 +8,8 @@ The current challenge is defined by the fentanyl crisis. Illicitly manufactured 
 
 The federal government spends approximately $26.3 billion annually on supply reduction efforts including interdiction, international programs, and domestic law enforcement (ONDCP, FY2025). Despite this investment, federal agencies interdict only an estimated 5-10% of illicit drugs entering the country (DEA, 2023). The inflation-adjusted street price of cocaine, heroin, and methamphetamine has fallen over the past four decades, while purity has increased -- indicating that supply has consistently outpaced enforcement capacity. Meanwhile, the rise of dark web marketplaces and cryptocurrency-based money laundering has introduced new distribution channels that bypass traditional physical trafficking routes.
 
+The organizational landscape is dominated by two Mexican cartels. The Sinaloa Cartel and the Jalisco New Generation Cartel (CJNG) together control an estimated 80-90% of the fentanyl and methamphetamine entering the United States (DEA, 2024). Both organizations have evolved from simple drug transporters into vertically integrated criminal enterprises with diversified revenue streams including human smuggling, extortion, fuel theft, and illegal mining. The July 2024 arrests of Sinaloa Cartel co-founder Ismael "El Mayo" Zambada and Joaquin Guzman Lopez have triggered factional violence within the organization, but historical precedent strongly suggests that leadership removal does not reduce drug flows -- a phenomenon known as the "hydra effect."
+
 The core policy debate centers on whether the United States should continue to prioritize supply-side enforcement -- investing in border interdiction, cartel disruption, and international cooperation -- or shift resources toward demand reduction strategies including treatment, prevention, and harm reduction. The evidence strongly suggests that demand reduction yields greater returns per dollar invested, yet political and institutional incentives continue to favor enforcement-heavy approaches. Resolving this tension is essential to reducing both overdose deaths and the destabilizing effects of the drug trade on source and transit countries.
 
 ## Scope
@@ -20,6 +22,8 @@ This analysis covers the key aspects of drug trafficking policy:
 - **Financial Networks**: Money laundering methods, hawala networks, cryptocurrency, and the role of the formal banking system
 - **Dark Web Markets**: Online drug sales, encryption, and the challenge of regulating decentralized digital marketplaces
 - **International Cooperation**: U.S. partnerships with Mexico, China, Colombia, and multilateral organizations on counter-narcotics
+- **Precursor Chemical Control**: The China-to-Mexico pipeline for fentanyl precursors and the regulatory challenges of dual-use chemical substances
+- **Domestic Distribution**: How drugs move from the border to street-level sales across all 50 states, including the role of social media platforms
 
 ## Key Facts
 
@@ -35,6 +39,10 @@ This analysis covers the key aspects of drug trafficking policy:
 | DEA personnel (2024) | ~10,800 (5,000+ special agents) | DEA, 2024 |
 | Fentanyl precursor chemicals -- primary source | China (>90% of supply) | DEA, 2023 |
 | Mexican cartel revenue from U.S. drug sales | $12-15 billion annually | CRS, 2024 |
+| DEA fentanyl pill seizures (2023) | 115 million counterfeit pills | DEA, 2024 |
+| Fentanyl cost to produce per kilogram | $3,000-$5,000 | DEA, 2023 |
+| Fentanyl retail value per kilogram (in pills) | $1-2 million | DEA, 2023 |
+| Global drug money laundered through U.S. system | $80-100 billion annually | UNODC, 2023 |
 
 ## Core Tensions and Tradeoffs
 
@@ -48,12 +56,16 @@ This analysis covers the key aspects of drug trafficking policy:
 
 - **Technology and Privacy**: Monitoring encrypted communications, dark web activity, and cryptocurrency transactions could yield intelligence on trafficking networks, but expanded surveillance raises serious civil liberties concerns and risks government overreach.
 
+- **Kingpin Strategy vs. Network Degradation**: Traditional enforcement targets high-value individuals for arrest and prosecution, but financial network disruption -- targeting the ability to move, store, and invest profits -- may produce more durable impact on cartel operations than leadership removal.
+
 ## Key Questions
 
 1. Can the United States meaningfully reduce drug trafficking through supply-side enforcement, or is the economic incentive structure of the drug trade fundamentally resistant to interdiction?
 2. How should the U.S. recalibrate its relationship with Mexico on counter-narcotics given the sovereignty concerns and mixed results of past cooperation models?
 3. What strategies can effectively disrupt the China-to-Mexico fentanyl precursor pipeline, and what diplomatic leverage does the U.S. have?
 4. How should law enforcement adapt to the rise of dark web markets, cryptocurrency laundering, and synthetic drug manufacturing that bypass traditional trafficking routes?
+5. Is the "kingpin strategy" of targeting cartel leadership a counterproductive approach, and what alternatives exist for degrading trafficking organizations?
+6. How can the United States address the role of its own financial system in enabling drug trafficking through money laundering?
 
 ## Vision of Success
 
@@ -63,6 +75,8 @@ A successful drug trafficking policy in the 21st century would feature:
 - **Modernized Interdiction**: Advanced detection technology deployed at all 328 ports of entry, increasing interdiction rates from 5-10% to 25-30% for fentanyl and precursor chemicals
 - **Disrupted Financial Networks**: Cartel revenues reduced by 40% through aggressive money laundering prosecution, beneficial ownership transparency, and cryptocurrency regulation
 - **Sustainable International Partnerships**: Joint U.S.-Mexico-China enforcement frameworks that respect sovereignty while effectively targeting precursor chemical supply chains and cartel logistics
+- **Demand Reduction at Scale**: The federal drug control budget rebalanced to 40% supply / 60% demand, with treatment access expanded to close the 76% treatment gap and reduce the customer base that drives trafficking
+- **Precursor Chemical Control**: An international regulatory framework that tracks dual-use chemical shipments from manufacture to end-use, reducing the availability of fentanyl precursors to clandestine laboratories
 
 ---
 

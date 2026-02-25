@@ -43,12 +43,16 @@ Reform of the prescription drug system requires a phased approach that sequences
 | Fund state PDMP upgrade grants | SAMHSA/CDC | Months 6-18 | $200 million in appropriations | Grants awarded to all 50 states |
 | Finalize DEA telehealth prescribing permanent rule | DEA | Months 6-12 | Existing rulemaking authority | Final rule published |
 | Mandate 8-hour controlled substance CME for DEA registrants | Congress/DEA | Months 6-18 | Minimal federal cost; prescriber time | Mandate effective within 24 months |
+| Issue CDC/SAMHSA recommendation for universal gabapentin PDMP tracking | CDC/SAMHSA | Months 3-12 | Existing authority; minimal cost | Recommendation published |
+| Require deactivation product distribution with opioid prescriptions | CMS/state pharmacy boards | Months 6-18 | $50 million for subsidized distribution | Deactivation product co-dispensing rate >50% |
+| Publish DEA telehealth prescribing final rule | DEA | Months 6-12 | Existing rulemaking authority | Final rule effective |
 
 ### Legislative Requirements
 
 - PBM Transparency and Accountability Act (bipartisan bills already introduced in both chambers)
 - PDMP Modernization Authorization (new appropriations or reauthorization of Harold Rogers grant program)
 - Controlled Substance CME mandate (may be included in DEA reauthorization or standalone bill)
+- Pharmaceutical Disposal Responsibility Act (establishing manufacturer EPR framework for unused medication collection)
 
 ### Expected Outcomes
 
@@ -77,6 +81,10 @@ Phase 1 will establish the transparency and monitoring infrastructure necessary 
 | Mandate CDS for controlled substance prescribing in EHRs | ONC/CMS | Months 24-36 | $150 million for development and deployment | CDS modules included in certified EHR standards |
 | Expand drug importation to EU countries | HHS/FDA | Months 36-60 | Additional certification assessments | EU importation channels operational |
 | Complete state PDMP-EHR integration | States/ONC | Months 36-60 | $300 million in implementation grants | 90%+ of prescribers using integrated systems |
+| Establish pharmaceutical EPR for drug take-back | Congress/EPA/DEA | Months 24-42 | Legislation + joint rulemaking | EPR program operational; manufacturer funding flowing |
+| Require pharmacy-based controlled substance collection | DEA/state boards | Months 30-48 | Regulatory implementation | All dispensing pharmacies participate in collection |
+| Achieve universal gabapentin PDMP tracking | States/SAMHSA | Months 24-48 | $50 million in state implementation grants | All 50 states tracking gabapentin |
+| Deploy telehealth prescribing volume monitoring | DEA/CMS | Months 24-36 | $25 million for system development | High-volume outlier identification operational |
 
 ### Legislative Requirements
 
@@ -110,6 +118,9 @@ Phase 2 will produce measurable reductions in drug prices, accelerated generic c
 | Expand NIH translational research capacity | Congress/NIH | Months 60-120 | $1 billion annually in expanded appropriations | Public-funded drug development pipeline operational |
 | Achieve universal PDMP-EHR integration | ONC/States | Months 60-84 | $200 million in final implementation grants | 99%+ prescriber integration rate |
 | Comprehensive reform evaluation and adjustment | GAO/CMS/HHS | Months 72-120 | Evaluation studies funded in Phase 1-2 legislation | Published evaluation reports; legislative adjustments |
+| Achieve 60%+ medication collection rate | EPA/DEA/states | Months 60-120 | Mature EPR system + expanded infrastructure | National collection rate surveys |
+| Deploy predictive analytics for prescribing trends | CDC/SAMHSA/ONC | Months 72-96 | $100 million for system development | Early warning system operational for all drug classes |
+| Establish prescriber quality reporting system | CMS/state boards | Months 60-84 | $75 million for development and deployment | Peer-comparison reports to all prescribers |
 
 ### Expected Outcomes
 
@@ -198,6 +209,30 @@ Prescription drug reform spans FDA, DEA, CMS, FTC, ONC, SAMHSA, NIH, and state a
 
 ---
 
+### Risk 5: Cybersecurity Threats to Prescription Drug Infrastructure
+
+**Likelihood**: High -- the February 2024 Change Healthcare attack demonstrated systemic vulnerability
+
+**Impact**: High -- disruption of pharmacy operations, PDMP access, and claims processing
+
+**Mitigation Strategy**: Require FISMA-compliant cybersecurity standards for all national PDMP infrastructure. Mandate cybersecurity assessments for EHR-PDMP integration points. Establish redundant PDMP access pathways. Include cybersecurity requirements in all federal grant conditions for PDMP and prescription drug infrastructure.
+
+**Contingency Plan**: Maintain offline PDMP access capabilities for emergency situations. Establish pharmacy operations continuity protocols similar to those activated during the Change Healthcare incident.
+
+---
+
+### Risk 6: Telehealth Prescribing Abuse Escalation
+
+**Likelihood**: Medium -- regulatory uncertainty creates opportunity for bad actors
+
+**Impact**: Medium -- undermines public trust in telehealth and may trigger regulatory overreaction
+
+**Mitigation Strategy**: Implement telehealth platform registration with DEA. Establish prescribing volume monitoring with automatic flags for outlier prescribers. Require telehealth platforms to maintain clinical governance standards equivalent to traditional healthcare settings.
+
+**Contingency Plan**: If telehealth-based diversion increases significantly, implement emergency rulemaking to require initial in-person evaluation for all Schedule II prescriptions while maintaining telehealth access for Schedule III-V medications and treatment continuity.
+
+---
+
 ## Resource Requirements
 
 ### Funding
@@ -207,7 +242,9 @@ Prescription drug reform spans FDA, DEA, CMS, FTC, ONC, SAMHSA, NIH, and state a
 | Phase 1 (Yrs 1-2) | $500 million | Appropriations + PDUFA reauthorization | PDMP grants, FTC enforcement, PBM oversight |
 | Phase 2 (Yrs 3-5) | $800 million | Appropriations + savings from Phase 1 reforms | Importation certification, CDS deployment, state implementation |
 | Phase 3 (Yrs 6-10) | $2 billion | Appropriations + substantial savings from pricing reforms | HTA Institute, NIH expansion, system completion |
-| **Total (10 years)** | **$3.3 billion** | **Net savings far exceed costs** | CBO estimates net federal savings of $100+ billion over 10 years from pricing reforms |
+| Drug take-back infrastructure (Yrs 1-5) | $300 million | EPR manufacturer fees + federal grants | Rural/tribal collection, pharmacy mandates |
+| Telehealth framework (Yrs 1-3) | $50 million | Appropriations + DEA registration fees | Monitoring systems, platform oversight |
+| **Total (10 years)** | **$3.65 billion** | **Net savings far exceed costs** | CBO estimates net federal savings of $100+ billion over 10 years from pricing reforms |
 
 ### Personnel
 
@@ -221,6 +258,33 @@ Prescription drug reform spans FDA, DEA, CMS, FTC, ONC, SAMHSA, NIH, and state a
 - CDS module certification and testing infrastructure
 - Drug importation verification and supply chain tracking systems
 - HTA evaluation infrastructure including clinical evidence databases and pharmacoeconomic modeling capacity
+- Drug take-back collection infrastructure in rural and tribal communities
+- Telehealth prescribing monitoring platform
+- Prescriber quality reporting and peer-comparison system
+
+---
+
+## State-Level Implementation Considerations
+
+Federal reforms require state-level implementation, and states vary significantly in regulatory infrastructure, political environment, and healthcare system capacity.
+
+### State Readiness Assessment
+
+| Factor | High-Readiness States | Low-Readiness States | Intervention Needed |
+|--------|----------------------|---------------------|---------------------|
+| PDMP maturity | KY, NY, OH, VA (mandatory, EHR-integrated) | NH (voluntary), states with weak mandates | Federal minimum mandate standards |
+| PBM regulation | AR, OH, VA, ME (transparency laws enacted) | States without PBM regulation | Federal floor with state flexibility to exceed |
+| Drug take-back infrastructure | States with pharmacy mandates | Rural states with limited pharmacy access | Targeted federal grants for underserved areas |
+| Telehealth prescribing framework | States with established telehealth parity laws | States without telehealth prescribing standards | Federal floor through DEA rulemaking |
+| Opioid settlement fund governance | States with independent oversight commissions | States directing funds to general revenue | Federal settlement agreement enforcement |
+
+### Technical Assistance Model
+
+Federal agencies should provide tiered technical assistance to states based on readiness:
+
+- **Tier 1 (High readiness)**: Focus on advanced integration, interoperability, and data analytics; share best practices with peer states
+- **Tier 2 (Medium readiness)**: Provide implementation grants, template legislation, and technical support for PDMP upgrades and PBM regulation
+- **Tier 3 (Low readiness)**: Intensive federal support including dedicated staff liaisons, accelerated grant funding, and regulatory model development
 
 ---
 

@@ -55,6 +55,22 @@ The strategy is informed by the successful reduction of veteran homelessness (55
 - Bipartisan Safer Communities Act reauthorization with expanded 988 funding
 - HHS authority to condition Medicaid participation on discharge planning compliance
 
+### Quick-Win Demonstration: "100-Day Housing Challenge"
+
+Within the first 100 days, USICH should launch a "100-Day Housing Challenge" in 10 pilot communities, modeled on the Built for Zero rapid-cycle methodology. Each community would commit to housing 100 chronically homeless individuals with SMI within 100 days using existing resources (coordinated entry, available PSH and rapid re-housing slots, landlord engagement). The challenge would demonstrate that system redesign and coordination can produce immediate results without waiting for new legislation or funding, building political momentum for Phase 2 investments.
+
+### State-Level Early Movers
+
+Phase 1 should identify and support "early mover" states that are positioned to implement reforms rapidly:
+
+| State | Readiness Factor | Phase 1 Priority |
+|---|---|---|
+| California | CARE Act framework; CalAIM Medicaid waiver; largest homeless population | Medicaid housing services; CCBHC expansion; CARE Act evaluation |
+| New York | Kendra's Law AOT experience; right-to-shelter mandate; extensive CoC infrastructure | Discharge planning enforcement; ACT expansion; coordinated entry reform |
+| Texas | Houston success model; large veteran population; affordable housing stock | Built for Zero expansion; landlord engagement scaling; HUD-VASH expansion |
+| Oregon | CAHOOTS model; 988 investment; Medicaid housing services pilot | Mobile crisis team expansion; Medicaid housing services statewide |
+| Colorado | Denver Basic Income Project; CCBHC implementation; strong CoC system | CCBHC expansion; crisis stabilization buildout |
+
 ### Expected Outcomes
 
 By the end of Phase 1, 10+ states will have adopted Medicaid housing-related services, 25+ states will operate CCBHCs, mobile crisis teams will be operational in 50 metro areas, and frontline workforce turnover will begin declining. Discharge planning requirements will prevent an estimated 10,000-15,000 post-institutional homelessness episodes annually. The policy infrastructure for Phase 2 scale-up will be in place.
@@ -90,6 +106,19 @@ By the end of Phase 1, 10+ states will have adopted Medicaid housing-related ser
 - Medicaid ACT Coverage Act (mandatory ACT coverage in all state Medicaid plans)
 - Supportive Housing Zoning Reform Act (conditioning federal housing funds on by-right zoning)
 - Mental Health Workforce Development Act (NHSC expansion + GME slots)
+
+### Cross-System Savings Capture Mechanism
+
+A critical Phase 2 innovation is the establishment of cross-system savings capture demonstrations. Currently, the savings from PSH (reduced ER visits, hospitalizations, and jail days) accrue to health care and criminal justice budgets, while the costs of PSH are borne by housing budgets. This misalignment creates a persistent political barrier to housing investment.
+
+The savings capture demonstration would work as follows:
+
+1. CMS and HUD jointly identify 20 communities with high rates of chronic homelessness among people with SMI
+2. Medicaid managed care organizations, county jails, and hospital systems agree to track the costs associated with a defined cohort of chronically homeless individuals with SMI
+3. When PSH placement reduces emergency utilization and incarceration, a portion of the documented savings is redirected to the housing trust fund through an intergovernmental transfer mechanism
+4. Independent evaluation documents cost flows and net savings to inform national policy
+
+This model has precedent in the "pay for success" or "social impact bond" demonstrations in Massachusetts, Colorado, and New York, though those efforts were limited in scale. A federal demonstration would provide the evidence base for permanent cross-system financing reform.
 
 ### Expected Outcomes
 
@@ -153,6 +182,24 @@ CoCs remain the primary local planning entity. Each CoC will develop a 5-year st
 ### Independent Evaluation
 
 A congressionally mandated evaluation (modeled on the CCBHC national evaluation by Mathematica) will assess cost-effectiveness, housing outcomes, mental health outcomes, and quality of life for program participants. The evaluation will include a randomized or quasi-experimental design component to isolate program effects.
+
+### Lived Experience Advisory Council
+
+Each phase should be informed by a federally chartered Lived Experience Advisory Council composed of people with current or past experience of homelessness and mental illness. This council would review proposed regulations, advise on program design, and participate in evaluation design. USICH's 2023 strategic plan recommends lived experience inclusion; the roadmap makes it mandatory. The council should have a formal role in reviewing HUD CoC competition scoring criteria and SAMHSA grant guidelines.
+
+## Lessons from Comparable Scale-Up Efforts
+
+### The Veterans Homelessness Model (2008-2023)
+
+The HUD-VASH program and the broader federal effort to end veteran homelessness provide the closest domestic analogy to the proposed roadmap. Key lessons include:
+
+| Lesson | Veteran Homelessness Experience | Application to Broader Population |
+|---|---|---|
+| Targeted vouchers work | HUD-VASH vouchers with VA services reduced veteran homelessness 55.3% | A similar voucher + services model (PSH Trust Fund + CCBHCs) can work for the SMI population |
+| Single-agency coordination is powerful | VA served as both housing and service coordinator | No equivalent single agency exists; USICH must play a stronger coordinating role |
+| Data-driven accountability accelerates progress | Built for Zero by-name lists enabled real-time tracking | Extending by-name list methodology to the SMI population is essential |
+| Political will is sustained by visible results | Bipartisan support grew as veteran homelessness declined | Early Phase 1 wins (100-Day Challenge) are critical for sustaining political support |
+| Geographic variation requires flexibility | Dense urban areas needed different approaches than rural communities | The roadmap must allow local adaptation within a national framework |
 
 ## Risk Mitigation
 

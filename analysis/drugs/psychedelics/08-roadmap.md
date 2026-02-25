@@ -57,9 +57,22 @@ The key strategic insight is that FDA approval of a psychedelic-assisted therapy
 - DEA Research Licensing Reform: Mandate 30-day processing for Schedule I research registrations with automatic approval if not acted upon
 - Peyote Conservation and Indigenous Protections Act: Fund peyote conservation; expand AIRFA protections
 
+### Immediate Executive Actions (No Legislation Required)
+
+Several Phase 1 actions can be taken through executive authority without Congressional legislation:
+
+| Action | Authority | Timeline | Actor |
+|--------|----------|----------|-------|
+| Convene interagency psychedelic policy task force | Executive order | 30 days | President/HHS Secretary |
+| Issue updated FDA guidance on psychedelic therapy development | FDA administrative authority | 6-12 months | FDA Commissioner |
+| Direct DEA to establish expedited research licensing track | AG directive to DEA | 90 days | Attorney General |
+| Direct VA to expand psychedelic research at medical centers | VA Secretary authority | 6 months | VA Secretary |
+| Issue FDA guidance on compassionate use for psychedelics with Breakthrough designation | FDA administrative authority | 6-12 months | FDA |
+| Direct NIDA to expand Drug Supply Program for research-grade psychedelics | NIH administrative authority | 6 months | NIDA Director |
+
 ### Expected Outcomes
 
-Phase 1 should produce a dramatically expanded research pipeline, with 50+ federally funded psychedelic clinical trials active by the end of Year 2. DEA licensing delays should be eliminated as a barrier to research. The interagency task force should produce a comprehensive federal psychedelic policy framework. Peyote conservation programs should be operational.
+Phase 1 should produce a dramatically expanded research pipeline, with 50+ federally funded psychedelic clinical trials active by the end of Year 2. DEA licensing delays should be eliminated as a barrier to research. The interagency task force should produce a comprehensive federal psychedelic policy framework. Peyote conservation programs should be operational. Compassionate use pathways should be providing individual patient access.
 
 ---
 
@@ -94,9 +107,19 @@ Phase 1 should produce a dramatically expanded research pipeline, with 50+ feder
 - Mental Health Parity Psychedelic Coverage Clarification: Amend parity act to explicitly include FDA-approved psychedelic therapies
 - Psychedelic Therapy Workforce Development Act: Fund therapist training, scholarships, and certification
 
+### Workforce Development Milestones (Phase 2)
+
+| Milestone | Year 3 Target | Year 5 Target | Mechanism |
+|-----------|---------------|---------------|-----------|
+| Accredited training programs | 5-10 programs | 20+ programs | HHS accreditation standards; HRSA grants |
+| Certified practitioners | 1,000 | 3,000 | National certification body; scholarship programs |
+| Diverse practitioner pipeline | 30% practitioners of color | 40% practitioners of color | Targeted scholarships; community recruitment |
+| Rural practitioners | 100 | 500 | Rural training incentives; telehealth integration |
+| Integration into medical education | Elective modules at 20+ medical schools | Required curriculum at 50+ schools | Medical school partnerships; AAMC engagement |
+
 ### Expected Outcomes
 
-By the end of Phase 2, at least one psychedelic-assisted therapy should be FDA-approved, rescheduled, and covered by insurance and the VA. A national therapist certification program should have graduated 2,000+ practitioners. Community-based pilot programs should be serving underserved populations. Federal-state coordination should ensure that Oregon, Colorado, and emerging state programs operate within a coherent national framework.
+By the end of Phase 2, at least one psychedelic-assisted therapy should be FDA-approved, rescheduled, and covered by insurance and the VA. A national therapist certification program should have graduated 2,000+ practitioners. Community-based pilot programs should be serving underserved populations. Federal-state coordination should ensure that Oregon, Colorado, and emerging state programs operate within a coherent national framework. The ketamine clinic industry should be operating under standardized federal safety protocols.
 
 ---
 
@@ -204,6 +227,26 @@ Implementation oversight should be structured as follows:
 
 **Contingency Plan**: If commercial demand threatens indigenous resources, impose supply management regulations and increase conservation funding.
 
+### Risk 6: Oregon Measure 110 Backlash Contaminates Psychedelic Reform
+
+**Likelihood**: Medium-High
+
+**Impact**: Medium
+
+**Mitigation Strategy**: Proactively distinguish psychedelic therapy (Measure 109) from drug decriminalization (Measure 110) in all communications. Emphasize that psychedelic therapy involves licensed practitioners, screening protocols, and supervised sessions -- fundamentally different from the decriminalization of personal possession.
+
+**Contingency Plan**: If political backlash spreads to psychedelic therapy programs, emphasize clinical outcome data from Oregon service centers and clinical trials. Frame any restrictions as an argument for more structured regulation, not prohibition.
+
+### Risk 7: Patent Monopolies Restrict Access and Inflate Prices
+
+**Likelihood**: Medium
+
+**Impact**: Medium-High
+
+**Mitigation Strategy**: Support patent challenges (inter partes review petitions) against overbroad psychedelic therapy patents. Advocate for compulsory licensing provisions in federal legislation. Fund open-source therapy protocol development through nonprofit organizations.
+
+**Contingency Plan**: If patent monopolies materialize, advocate for march-in rights under the Bayh-Dole Act (for therapies developed with federal funding) and price regulation mechanisms under the Inflation Reduction Act framework.
+
 ## Resource Requirements
 
 ### Funding
@@ -223,9 +266,40 @@ Implementation oversight should be structured as follows:
 
 ### Infrastructure
 
-- Research infrastructure: Expanded NIDA Drug Supply Program; DEA-licensed compound manufacturing
-- Treatment infrastructure: 500+ licensed treatment centers (primarily private, supported by HRSA grants)
-- Technology: National adverse event reporting system; practitioner certification database; outcome tracking system
+- Research infrastructure: Expanded NIDA Drug Supply Program; DEA-licensed compound manufacturing; clinical trial sites at 50+ academic medical centers and VA facilities
+- Treatment infrastructure: 500+ licensed treatment centers (primarily private, supported by HRSA grants); community health center psychedelic therapy programs in underserved areas
+- Technology: National adverse event reporting system; practitioner certification database; outcome tracking system; patient registry for long-term follow-up
+- Training infrastructure: 20+ accredited psychedelic therapy training programs; continuing education platforms; supervision networks for new practitioners
+
+## Critical Path Dependencies
+
+The roadmap contains several critical path dependencies that must be managed carefully:
+
+```text
+Research funding expansion (Phase 1)
+    │
+    └──> Expanded clinical trial pipeline
+         │
+         ├──> FDA approval (Phase 2) ──> Rescheduling ──> Insurance coverage
+         │
+         └──> Diverse trial enrollment ──> Equity in access ──> Political legitimacy
+              │
+              └──> Community engagement ──> Workforce diversity ──> Equitable delivery
+
+DEA licensing reform (Phase 1)
+    │
+    └──> Faster research approvals ──> More trials ──> Stronger evidence base
+         │
+         └──> Compassionate use access ──> Patient testimonies ──> Political momentum
+
+State programs (ongoing)
+    │
+    ├──> Oregon/Colorado data ──> Evidence for federal policy
+    │
+    └──> Federal-state coordination ──> Coherent national framework
+```
+
+The single most important dependency is FDA approval: virtually all Phase 2 and Phase 3 actions depend on at least one psychedelic-assisted therapy achieving FDA approval. The roadmap must therefore prioritize actions that accelerate the path to approval (research funding, DEA licensing reform, FDA guidance) while simultaneously building the infrastructure (workforce, coverage, safety systems) needed to translate approval into patient access.
 
 ---
 

@@ -10,6 +10,8 @@ The prevention landscape has become more complex in the 2020s. Adolescent use of
 
 The core challenge is bridging the gap between prevention science and prevention practice. Researchers have identified multiple evidence-based programs -- including Life Skills Training, the Strengthening Families Program, and Communities That Care -- that reduce adolescent substance use by 25-50% in rigorous trials. Yet these programs reach only a fraction of eligible youth. Scaling evidence-based prevention to a national level requires sustained federal investment, quality assurance infrastructure, workforce development, and political will to redirect resources from symbolic programs to effective ones.
 
+The adolescent brain development research of the past two decades has fundamentally reframed the scientific understanding of youth substance use risk. Longitudinal neuroimaging studies demonstrate that the prefrontal cortex -- the brain region responsible for judgment, impulse control, and risk assessment -- does not fully mature until approximately age 25 (Casey et al., 2019; Volkow & Koob, 2015). Meanwhile, the brain's reward-seeking circuitry matures much earlier, creating a developmental window during which adolescents are neurologically predisposed to seek novel sensations while lacking fully developed capacity for consequence evaluation. This asynchronous development is not a character flaw; it is a universal feature of human neurobiology. Effective prevention must work with this developmental reality rather than against it, which is why programs relying primarily on willpower and refusal skills produce smaller effects than programs that modify the social environment, build transferable life skills, and strengthen family protective factors.
+
 ## Scope
 
 This analysis covers the key aspects of youth drug prevention:
@@ -20,6 +22,8 @@ This analysis covers the key aspects of youth drug prevention:
 - **Adolescent Brain Development and Risk Factors**: Neuroscience of adolescent vulnerability, risk and protective factors, and the developmental rationale for prevention timing
 - **Digital-Age Challenges**: Social media influence on substance use norms, vaping marketing to youth, online drug markets, and digital prevention strategies
 - **Policy and Funding Infrastructure**: Federal prevention funding through SAMHSA, the Drug-Free Communities Act, state block grants, and the gap between prevention spending and prevention science
+- **Screening and Early Intervention**: SBIRT (Screening, Brief Intervention, and Referral to Treatment) protocols for adolescents, the CRAFFT screening tool, and integration of substance use screening into pediatric and school health settings
+- **Demographic and Geographic Disparities**: Variation in prevention access and substance use outcomes across racial, ethnic, socioeconomic, and geographic populations, including disproportionate impacts on Native American, LGBTQ+, and rural youth
 
 ## Key Facts
 
@@ -35,6 +39,10 @@ This analysis covers the key aspects of youth drug prevention:
 | Schools implementing evidence-based prevention programs | ~10% | RAND Corporation, 2022 |
 | D.A.R.E. programs still operating in U.S. schools | ~6,500 communities | D.A.R.E. America, 2024 |
 | Average age of first substance use (all substances) | 13.5 years | SAMHSA NSDUH, 2023 |
+| Adolescent overdose deaths (ages 14-18, 2023) | ~1,800 | CDC WONDER, 2024 |
+| Prefrontal cortex full maturation age | ~25 years | Casey et al., 2019 |
+| High school students reporting persistent sadness/hopelessness (2023) | 43% | CDC YRBS, 2023 |
+| Adolescents with 4+ ACEs at elevated SUD risk | 5x for alcohol, 10x for injection drug use | Felitti et al., 1998; CDC, 2023 |
 
 ## Core Tensions and Tradeoffs
 
@@ -43,6 +51,7 @@ This analysis covers the key aspects of youth drug prevention:
 - **Universal vs. Targeted Prevention**: Universal programs reach all youth but at high per-capita cost with modest effect sizes. Targeted programs for high-risk youth show larger effects but risk stigmatization and miss youth who do not fit risk profiles. The optimal balance between universal and selective prevention is contested.
 - **Local Control vs. Evidence Standards**: Education is primarily a state and local function, and school districts resist federal mandates on curricula. But without evidence requirements, districts frequently select programs based on cost, tradition, or marketing rather than research evidence.
 - **Privacy vs. Early Identification**: Screening tools can identify adolescents at elevated risk for substance use, enabling early intervention. However, screening raises concerns about student privacy, stigmatization, and the potential for information to be used punitively rather than therapeutically.
+- **Short-Term Costs vs. Long-Term Savings**: Evidence-based prevention programs require upfront investment in training, curricula, and workforce development that produces returns over years and decades. Budget cycles and political timelines favor immediate, visible spending over long-term investments with delayed but larger payoffs.
 
 ## Key Questions
 
@@ -50,15 +59,20 @@ This analysis covers the key aspects of youth drug prevention:
 2. How can evidence-based prevention be scaled to reach all American youth without sacrificing implementation fidelity?
 3. What prevention strategies are effective against novel threats like nicotine vaping, fentanyl-contaminated substances, and social media normalization of drug use?
 4. How should prevention messaging balance abstinence goals with realistic harm reduction approaches for adolescents?
+5. What role should adolescent brain development science play in shaping the timing, content, and delivery of prevention programming?
+6. How can prevention systems address the co-occurring mental health crisis that increases adolescent vulnerability to substance use?
 
 ## Vision of Success
 
 A successful youth drug prevention system in the 21st century would feature:
 
-- **Evidence-Based Standard**: At least 80% of schools implementing prevention curricula with strong or moderate evidence ratings from federal registries (Blueprints for Healthy Youth Development, SAMHSA NSDUH), up from approximately 10% today
+- **Evidence-Based Standard**: At least 80% of schools implementing prevention curricula with strong or moderate evidence ratings from federal registries (Blueprints for Healthy Youth Development, SAMHSA NREPP), up from approximately 10% today
 - **Sustained Investment**: Federal prevention spending increased to at least $1 billion annually (from ~$345 million currently) with state matching requirements and quality assurance infrastructure
 - **Developmental Approach**: Prevention programming aligned with adolescent brain development science, beginning in elementary school and extending through high school with age-appropriate content that addresses digital-age substance risks
 - **Family and Community Integration**: School-based prevention complemented by family strengthening programs and community coalition strategies that address environmental risk factors, with particular investment in communities disproportionately affected by the opioid and fentanyl crises
+- **Adaptive Capacity**: Prevention infrastructure capable of responding to emerging substance threats -- new drug formulations, novel delivery systems, shifting social media dynamics -- within months rather than the current multi-year lag
+- **Equity**: Prevention resources distributed based on need, with targeted investment in Native American, rural, LGBTQ+, and economically disadvantaged communities that currently have the least access to evidence-based programming and the highest rates of adolescent substance use
+- **Integrated Systems**: Prevention fully integrated with school-based mental health services, pediatric healthcare (through universal SBIRT), and community development, recognizing that substance use risk cannot be addressed in isolation from the social and psychological factors that drive it
 
 ---
 

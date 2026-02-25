@@ -18,6 +18,15 @@ This section provides a curated list of key research, government reports, and or
 - Millwood, I. Y., et al. "Conventional and Genetic Evidence on Alcohol and Vascular Disease Aetiology: A Prospective Study of 500,000 Men and Women in China." *The Lancet* 393, no. 10183 (2019): 1831-1842. <https://doi.org/10.1016/S0140-6736(18)31772-0>
 - Biddinger, K. J., et al. "Association of Habitual Alcohol Intake with Risk of Cardiovascular Disease." *JAMA Network Open* 5, no. 3 (2022): e223849. <https://doi.org/10.1001/jamanetworkopen.2022.3849>
 - Babor, T. F., & Robaina, K. "Public Health, Academic Medicine, and the Alcohol Industry's Corporate Strategy of Producing Doubt." *Journal of Studies on Alcohol and Drugs* 74, no. 2 (2013): 200-213.
+- Elder, R. W., et al. "The Effectiveness of Tax Policy Interventions for Reducing Excessive Alcohol Consumption and Related Harms." *American Journal of Preventive Medicine* 38, no. 2 (2010): 217-229. <https://doi.org/10.1016/j.amepre.2009.11.005>
+- Hahn, R. A., et al. "Effectiveness of Policies Restricting Hours of Alcohol Sales in Preventing Excessive Alcohol Consumption and Related Harms." *American Journal of Preventive Medicine* 39, no. 6 (2010): 590-604. <https://doi.org/10.1016/j.amepre.2010.09.016>
+- Campbell, C. A., et al. "The Effectiveness of Limiting Alcohol Outlet Density as a Means of Reducing Excessive Alcohol Consumption and Alcohol-Related Harms." *American Journal of Preventive Medicine* 37, no. 6 (2009): 556-569. <https://doi.org/10.1016/j.amepre.2009.09.028>
+- Tapper, E. B., & Parikh, N. D. "Mortality Due to Cirrhosis and Liver Cancer in the United States, 1999-2016: Observational Study." *BMJ* 362 (2018): k2817. <https://doi.org/10.1136/bmj.k2817>
+- Gruenewald, P. J., et al. "Ecological Models of Alcohol Outlets and Violent Assaults: Crime Potentials and Geospatial Analysis." *Addiction* 101, no. 5 (2006): 666-677. <https://doi.org/10.1111/j.1360-0443.2006.01405.x>
+- Smith, S. W., et al. "Alcohol Industry Corporate Social Responsibility Initiatives and Harmful Drinking: A Systematic Review." *Addiction* 114, no. 6 (2019): 955-982. <https://doi.org/10.1111/add.14499>
+- Wagenaar, A. C., & Toomey, T. L. "Effects of Minimum Drinking Age Laws: Review and Analyses of the Literature from 1960 to 2000." *Journal of Studies on Alcohol* Supplement No. 14 (2002): 206-225.
+- Sacks, J. J., et al. "2010 National and State Costs of Excessive Alcohol Consumption." *American Journal of Preventive Medicine* 49, no. 5 (2015): e73-e79. <https://doi.org/10.1016/j.amepre.2015.05.031>
+- Zhao, J., et al. "The Effect of Alcohol Warning Labels on Population Alcohol Consumption: An Interrupted Time Series Analysis of Alcohol Sales in Yukon, Canada." *Journal of Studies on Alcohol and Drugs* 81, no. 2 (2020): 225-237.
 
 ### Working Papers and White Papers
 
@@ -60,6 +69,11 @@ This section provides a curated list of key research, government reports, and or
 - Lender, Mark Edward, & Martin, James Kirby. *Drinking in America: A History*. Free Press, 1987. - Comprehensive social history of alcohol in the U.S.
 - Blocker, Jack S., Fahey, David M., & Tyrrell, Ian R. *Alcohol and Temperance in Modern History: An International Encyclopedia*. ABC-CLIO, 2003.
 - Room, Robin, et al. *Alcohol in Developing Societies: A Public Health Approach*. Finnish Foundation for Alcohol Studies, 2002. - Comparative international policy analysis
+- McGovern, Patrick E. *Uncorking the Past: The Quest for Wine, Beer, and Other Alcoholic Beverages*. University of California Press, 2009. - Archaeological and historical perspective on alcohol in human civilization
+- Rorabaugh, W. J. *The Alcoholic Republic: An American Tradition*. Oxford University Press, 1979. - Classic study of alcohol consumption in early America
+- Gusfield, Joseph R. *Symbolic Crusade: Status Politics and the American Temperance Movement*. 2nd ed. University of Illinois Press, 1986. - Sociological analysis of temperance as a status movement
+- Jernigan, David H. *Framing a Public Health Debate over Alcohol Advertising: The Center on Alcohol Marketing and Youth*. Johns Hopkins Bloomberg School of Public Health, 2022. - Strategy for shifting the alcohol advertising debate
+- Mosher, James F. *Alcohol Industry Involvement in Science: Lessons from the NIAAA Controversy*. Johns Hopkins Bloomberg School of Public Health, 2019. - Analysis of industry influence on research
 
 ---
 
@@ -78,6 +92,8 @@ This section provides a curated list of key research, government reports, and or
 - Trust for America's Health. "The State of Alcohol Harm: A Blueprint for Action." 2023. <https://www.tfah.org>
 - Alcohol Justice. "Big Alcohol: Exposed -- The Playbook for Protecting Profits." 2022. <https://alcoholjustice.org>
 - OECD. "Preventing Harmful Alcohol Use." OECD Health Policy Studies. 2021. <https://doi.org/10.1787/6e4b4ffb-en>
+- WHO. "The SAFER Initiative: A World Free from Alcohol Related Harms." 2018. <https://www.who.int/initiatives/SAFER> - Evidence-based framework for reducing alcohol-related harm
+- Surgeon General. "Advisory on Alcohol and Cancer Risk." January 3, 2025. <https://www.hhs.gov/surgeongeneral/alcohol-and-cancer> - First proposed update to alcohol health warnings since 1988
 
 ---
 
@@ -95,6 +111,12 @@ This section provides a curated list of key research, government reports, and or
 | National Council for Behavioral Health | Treatment access, workforce, parity enforcement | Professional/Advocacy | <https://www.thenationalcouncil.org> |
 | American Society of Addiction Medicine (ASAM) | Clinical standards, AUD treatment, medical education | Professional | <https://www.asam.org> |
 | Insurance Institute for Highway Safety (IIHS) | Traffic safety research, DUI policy analysis | Research | <https://www.iihs.org> |
+| National Transportation Safety Board (NTSB) | Recommends 0.05% BAC, ignition interlocks, advanced vehicle technology | Federal agency | <https://www.ntsb.gov> |
+| Shatterproof | Addiction treatment quality, stigma reduction | Advocacy | <https://www.shatterproof.org> |
+| American Society of Addiction Medicine (ASAM) | Clinical standards, treatment guidelines, workforce | Professional | <https://www.asam.org> |
+| National Highway Traffic Safety Administration (NHTSA) | DUI enforcement, vehicle safety standards, FARS data | Federal agency | <https://www.nhtsa.gov> |
+| Center on Alcohol Marketing and Youth (CAMY) | Youth alcohol marketing exposure monitoring | Research | <https://www.camy.org> |
+| International Center for Alcohol Policies (ICAP) | Industry-funded international policy analysis | Industry | <https://www.iard.org> |
 
 ---
 
@@ -126,6 +148,14 @@ This section provides a curated list of key research, government reports, and or
 - *STAT News*. Addiction coverage. <https://www.statnews.com/category/addiction/> - Broad addiction and treatment reporting with regular alcohol coverage
 - *The Guardian*. "Is Alcohol the New Tobacco?" Series (2024). <https://www.theguardian.com> - International reporting on alcohol-cancer link and policy reform
 - *Undark Magazine*. Science journalism on alcohol research. <https://undark.org>
+- *The Atlantic*. "America Has a Drinking Problem." Series (2021-2024). <https://www.theatlantic.com> - Long-form reporting on alcohol's public health toll and policy failures
+- *Washington Post*. "Alcohol Deaths Surge During COVID-19 Pandemic." (2022). <https://www.washingtonpost.com> - Data journalism on pandemic-era alcohol mortality increase
+
+### Key Documentaries and Multimedia
+
+- **"Risky Drinking"** (HBO, 2016). Documentary exploring the spectrum of alcohol use disorder and treatment options.
+- **"Under the Influence"** (PBS, 2024). Documentary series on alcohol industry lobbying and the gap between science and policy.
+- **"Last Call: America's Drinking Problem"** (Discovery, 2022). Multi-part series on alcohol's impact on American families and communities.
 
 ---
 
@@ -136,6 +166,19 @@ This section provides a curated list of key research, government reports, and or
 - OECD. "Preventing Harmful Alcohol Use." 2021. <https://doi.org/10.1787/6e4b4ffb-en> - Cross-national policy analysis and economic modeling
 - Public Health Scotland. "Minimum Unit Pricing Evaluation Reports." 2020-2023. <https://www.publichealthscotland.scot> - Ongoing evaluation of Scotland's MUP policy
 - European Commission. "EU Strategy to Reduce Alcohol-Related Harm." Updated 2023. <https://ec.europa.eu/health/alcohol>
+- Government of Ireland. "Public Health (Alcohol) Act 2018." <https://www.gov.ie> - Comprehensive alcohol reform including minimum unit pricing and health labeling
+- Centre for Addiction and Mental Health (CAMH). "Alcohol Policy Framework." Toronto, 2023. <https://www.camh.ca> - Canadian perspective on evidence-based alcohol policy
+- Australian Institute of Health and Welfare. "Alcohol, Tobacco & Other Drugs in Australia." Updated 2024. <https://www.aihw.gov.au> - Comprehensive Australian alcohol data and policy analysis
+- New Zealand Health Promotion Agency. "Alcohol Regulatory Review." 2024. <https://www.hpa.org.nz> - NZ experience with alcohol regulatory reform
+
+### International Policy Databases
+
+| Database | Provider | Coverage | URL |
+|---|---|---|---|
+| Global Information System on Alcohol and Health (GISAH) | WHO | 194 countries | <https://www.who.int/data/gho/data/themes/global-information-system-on-alcohol-and-health> |
+| European Monitoring Centre for Drugs and Drug Addiction (EMCDDA) | EU | EU member states | <https://www.emcdda.europa.eu> |
+| OECD Health Statistics - Alcohol Consumption | OECD | 38 OECD members | <https://stats.oecd.org/index.aspx?DataSetCode=HEALTH_STAT> |
+| Global Drug Policy Observatory | Swansea University | Global | <https://www.swansea.ac.uk/gdpo/> |
 
 ---
 
@@ -153,12 +196,24 @@ This section provides a curated list of key research, government reports, and or
 
 ### Statutory References
 
+- U.S. Const. amend. XVIII - Prohibition of alcohol (ratified 1919; repealed 1933)
+- U.S. Const. amend. XXI - Repeal of Prohibition; state regulatory authority (ratified 1933)
+- 15 U.S.C. Section 45 - Federal Trade Commission Act (unfair or deceptive acts or practices)
 - 23 U.S.C. Section 158 - National Minimum Drinking Age Act (federal highway funding condition)
+- 23 U.S.C. Section 164 - Minimum penalties for repeat DUI offenders (federal highway funding condition)
 - 26 U.S.C. Sections 5001, 5041, 5051 - Federal alcohol excise tax rates
 - 27 U.S.C. Sections 201-211 - Federal Alcohol Administration Act (labeling, advertising, trade practices)
 - 27 U.S.C. Section 215 - Alcoholic Beverage Labeling Act of 1988 (warning labels)
+- 29 U.S.C. Section 1185a - Mental Health Parity and Addiction Equity Act (MHPAEA) (insurance parity)
+- 42 U.S.C. Section 290aa - SAMHSA establishment and authority
 - 42 U.S.C. Section 290bb-25 - SAMHSA substance abuse prevention and treatment programs
-- U.S. Const. amend. XXI - Repeal of Prohibition; state regulatory authority
+- Infrastructure Investment and Jobs Act, Pub. L. 117-58, Section 24220 (2021) - HALT Act (advanced impaired driving prevention technology in vehicles)
+
+### Regulatory References
+
+- 27 C.F.R. Parts 4, 5, 7 - TTB regulations on labeling and advertising of wine, spirits, and malt beverages
+- 49 C.F.R. Part 1313 - NHTSA DUI-related vehicle safety standards
+- Federal Register, Vol. 88 (2023) - USDA/HHS Dietary Guidelines Advisory Committee charter
 
 ---
 

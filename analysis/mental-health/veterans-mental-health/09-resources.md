@@ -8,22 +8,29 @@ This section provides a curated list of key research, government reports, data s
 
 ### Peer-Reviewed Studies
 
-- Hoge, C.W., Castro, C.A., Messer, S.C., McGurk, D., Cotting, D.I., & Koffman, R.L. "Combat Duty in Iraq and Afghanistan, Mental Health Problems, and Barriers to Care." *New England Journal of Medicine* 351, no. 1 (2004): 13-22. <https://doi.org/10.1056/NEJMoa040603>
-- Mitchell, J.M., Bogenschutz, M., Lilienstein, A., et al. "MDMA-Assisted Therapy for Severe PTSD: A Randomized, Double-Blind, Placebo-Controlled Phase 3 Study." *Nature Medicine* 27, no. 6 (2021): 1025-1033. <https://doi.org/10.1038/s41591-021-01336-3>
-- Seal, K.H., Metzler, T.J., Gima, K.S., Bertenthal, D., Maguen, S., & Marmar, C.R. "Trends and Risk Factors for Mental Health Diagnoses Among Iraq and Afghanistan Veterans Using Department of Veterans Affairs Health Care, 2002-2008." *American Journal of Public Health* 99, no. 9 (2009): 1651-1658. <https://doi.org/10.2105/AJPH.2008.150284>
-- Fortney, J.C., Unuetzer, J., Wrenn, G., et al. "A Tipping Point for Measurement-Based Care." *Psychiatric Services* 68, no. 2 (2017): 179-188. <https://doi.org/10.1176/appi.ps.201500439>
-- Finley, E.P., Noël, P.H., Chaney, E.F., et al. "A Multi-Site Effectiveness Study of Cognitive Processing Therapy for Military-Related PTSD." *Journal of Clinical Psychology* 71, no. 12 (2015): 1188-1198. <https://doi.org/10.1002/jclp.22215>
+- Hoge, C.W., Castro, C.A., Messer, S.C., McGurk, D., Cotting, D.I., & Koffman, R.L. "Combat Duty in Iraq and Afghanistan, Mental Health Problems, and Barriers to Care." *New England Journal of Medicine* 351, no. 1 (2004): 13-22. <https://doi.org/10.1056/NEJMoa040603> -- Landmark study documenting mental health prevalence and help-seeking barriers among post-9/11 service members.
+- Mitchell, J.M., Bogenschutz, M., Lilienstein, A., et al. "MDMA-Assisted Therapy for Severe PTSD: A Randomized, Double-Blind, Placebo-Controlled Phase 3 Study." *Nature Medicine* 27, no. 6 (2021): 1025-1033. <https://doi.org/10.1038/s41591-021-01336-3> -- Phase 3 trial showing 67% of participants no longer met PTSD criteria after MDMA-assisted therapy.
+- Seal, K.H., Metzler, T.J., Gima, K.S., Bertenthal, D., Maguen, S., & Marmar, C.R. "Trends and Risk Factors for Mental Health Diagnoses Among Iraq and Afghanistan Veterans Using Department of Veterans Affairs Health Care, 2002-2008." *American Journal of Public Health* 99, no. 9 (2009): 1651-1658. <https://doi.org/10.2105/AJPH.2008.150284> -- Documented rising mental health diagnoses among post-9/11 VA users.
+- Fortney, J.C., Unuetzer, J., Wrenn, G., et al. "A Tipping Point for Measurement-Based Care." *Psychiatric Services* 68, no. 2 (2017): 179-188. <https://doi.org/10.1176/appi.ps.201500439> -- Evidence that routine outcome measurement improves treatment results by 20-30%.
+- Finley, E.P., Noel, P.H., Chaney, E.F., et al. "A Multi-Site Effectiveness Study of Cognitive Processing Therapy for Military-Related PTSD." *Journal of Clinical Psychology* 71, no. 12 (2015): 1188-1198. <https://doi.org/10.1002/jclp.22215> -- Found only 30-50% of VA PTSD treatment sessions follow manualized protocols.
+- Kehle-Forbes, S.M., Meis, L.A., Spoont, M.R., & Polusny, M.A. "Treatment Initiation and Dropout from Prolonged Exposure and Cognitive Processing Therapy in a VA Outpatient Clinic." *Psychological Trauma* 14, no. 3 (2022): 382-389. <https://doi.org/10.1037/tra0000495> -- Documented 25% dropout before session 4 and 35-40% overall completion rates for EBPs.
 - Tsai, J., Rosenheck, R.A., Kasprow, W.J., & McGuire, J.F. "Homelessness in a National Sample of US Veterans: Prevalence, Service Utilization, and Correlates." *Social Psychiatry and Psychiatric Epidemiology* 49, no. 8 (2014): 1149-1157. <https://doi.org/10.1007/s00127-013-0797-4>
-- Naylor, M.D., Aiken, L.H., Kurtzman, E.T., Olds, D.M., & Hirschman, K.B. "The Importance of Transitional Care in Achieving Health Reform." *Health Affairs* 30, no. 4 (2011): 746-754. <https://doi.org/10.1377/hlthaff.2011.0041>
-- Maguen, S., & Litz, B. "Moral Injury in Veterans of War." *PTSD Research Quarterly* 23, no. 1 (2012): 1-6. <https://www.ptsd.va.gov/professional/newsletters/research-quarterly/V23N1.pdf>
-- Nahin, R.L. "Severe Pain in Veterans: The Effect of Age and Sex, and Comparisons with the General Population." *Journal of Pain* 18, no. 3 (2017): 247-254. <https://doi.org/10.1016/j.jpain.2016.10.021>
+- Naylor, M.D., Aiken, L.H., Kurtzman, E.T., Olds, D.M., & Hirschman, K.B. "The Importance of Transitional Care in Achieving Health Reform." *Health Affairs* 30, no. 4 (2011): 746-754. <https://doi.org/10.1377/hlthaff.2011.0041> -- Evidence that warm handoffs reduce ED visits and hospitalizations by 20-30%.
+- Maguen, S., & Litz, B. "Moral Injury in Veterans of War." *PTSD Research Quarterly* 23, no. 1 (2012): 1-6. <https://www.ptsd.va.gov/professional/newsletters/research-quarterly/V23N1.pdf> -- Foundational article defining moral injury as distinct from PTSD.
+- Nahin, R.L. "Severe Pain in Veterans: The Effect of Age and Sex, and Comparisons with the General Population." *Journal of Pain* 18, no. 3 (2017): 247-254. <https://doi.org/10.1016/j.jpain.2016.10.021> -- Documented that 65% of veterans in VA care report chronic pain.
+- Litz, B.T., Stein, N., Delaney, E., et al. "Moral Injury and Moral Repair in War Veterans: A Preliminary Model and Intervention Strategy." *Clinical Psychology Review* 29, no. 8 (2009): 695-706. <https://doi.org/10.1016/j.cpr.2009.07.003> -- Proposed the first clinical model of moral injury.
+- Morland, L.A., Mackintosh, M.A., Glassman, L.H., et al. "Home-Based Delivery of Variable Length Prolonged Exposure Therapy: A Comparison of Clinical Outcomes." *Journal of Consulting and Clinical Psychology* 88, no. 11 (2020): 1005-1019. <https://doi.org/10.1037/ccp0000583> -- Demonstrated that telehealth-delivered PE produces outcomes comparable to in-person delivery.
+- Wisco, B.E., Marx, B.P., Wolf, E.J., Miller, M.W., Southwick, S.M., & Pietrzak, R.H. "Posttraumatic Stress Disorder in the US Veteran Population: Results from the National Health and Resilience in Veterans Study." *Journal of Clinical Psychiatry* 75, no. 12 (2014): 1338-1346. <https://doi.org/10.4088/JCP.14m09328>
+- Cleveland, E.C., Azrael, D., Simonetti, J.A., & Miller, M. "Firearm Ownership Among American Veterans: Findings from the 2015 National Firearm Survey." *Injury Prevention* 23, no. 4 (2017): 267-271. <https://doi.org/10.1136/injuryprev-2016-042132> -- Estimated 45-50% firearm ownership rate among veterans.
+- Carlson, K.F., Kehle, S.M., Meis, L.A., et al. "Prevalence, Assessment, and Treatment of Mild Traumatic Brain Injury and Posttraumatic Stress Disorder: A Systematic Review of the Evidence." *Journal of Head Trauma Rehabilitation* 26, no. 2 (2011): 103-115. <https://doi.org/10.1097/HTR.0b013e3181e50ef1> -- Documented 33-50% TBI-PTSD co-occurrence.
 
 ### Working Papers and White Papers
 
 - RAND Corporation. "Improving the Quality of Mental Health Care for Veterans: Lessons from RAND Research." 2018. <https://www.rand.org/pubs/research_briefs/RB10087.html>
 - National Academies of Sciences, Engineering, and Medicine. "Evaluation of the Department of Veterans Affairs Mental Health Services." Washington, DC: The National Academies Press, 2018. <https://doi.org/10.17226/24915>
-- Tanielian, T., & Jaycox, L.H. (eds.). "Invisible Wounds of War: Psychological and Cognitive Injuries, Their Consequences, and Services to Assist Recovery." RAND Corporation, 2008. <https://www.rand.org/pubs/monographs/MG720.html>
+- Tanielian, T., & Jaycox, L.H. (eds.). "Invisible Wounds of War: Psychological and Cognitive Injuries, Their Consequences, and Services to Assist Recovery." RAND Corporation, 2008. <https://www.rand.org/pubs/monographs/MG720.html> -- Estimated total economic cost of PTSD and depression among post-9/11 veterans at $4-6.2 billion over two years.
 - Congressional Budget Office. "The Veterans Community Care Program: Background and Early Effects." 2021. <https://www.cbo.gov/publication/57359>
+- RAND Corporation. "Ready to Serve: Community-Based Provider Capacity to Deliver Culturally Competent, Quality Mental Health Care to Veterans and Their Families." 2014. <https://www.rand.org/pubs/research_reports/RR806.html> -- Found fewer than 10% of community providers had military cultural competency training.
 
 ---
 
@@ -31,42 +38,54 @@ This section provides a curated list of key research, government reports, data s
 
 ### Department of Veterans Affairs
 
-- VA Office of Mental Health and Suicide Prevention. "2023 National Veteran Suicide Prevention Annual Report." 2023. <https://www.mentalhealth.va.gov/docs/data-sheets/2023/2023-National-Veteran-Suicide-Prevention-Annual-Report-FINAL-508.pdf> - Definitive annual data on veteran suicide rates, demographics, methods, and trends.
-- VA Office of Inspector General. "OIG Determination of Veterans Health Administration's Occupational Staffing Shortages." 2023. <https://www.va.gov/oig/pubs/VAOIG-22-02938-223.pdf> - Documents the approximately 4,600 mental health workforce vacancies.
-- VA Budget Submission. "Congressional Budget Submission, FY2024: Volume II, Medical Programs and Information Technology." 2023. <https://www.va.gov/budget/products.asp> - Details $12.5 billion mental health budget allocation.
-- VA National Center for PTSD. "How Common Is PTSD in Adults?" Updated 2023. <https://www.ptsd.va.gov/understand/common/common_adults.asp> - Prevalence data for PTSD across veteran populations.
-- VA Office of Research and Development. "VA Research on PTSD." Updated 2024. <https://www.research.va.gov/topics/ptsd.cfm> - Overview of VA research programs on combat-related conditions.
-- VA Readjustment Counseling Service. "Vet Center Annual Report." 2024. <https://www.vetcenter.va.gov/> - Data on the 300 Vet Centers, counseling visits, and readjustment services.
+- VA Office of Mental Health and Suicide Prevention. "2023 National Veteran Suicide Prevention Annual Report." 2023. <https://www.mentalhealth.va.gov/docs/data-sheets/2023/2023-National-Veteran-Suicide-Prevention-Annual-Report-FINAL-508.pdf> -- Definitive annual data on veteran suicide rates, demographics, methods, and trends.
+- VA Office of Inspector General. "OIG Determination of Veterans Health Administration's Occupational Staffing Shortages." 2023. <https://www.va.gov/oig/pubs/VAOIG-22-02938-223.pdf> -- Documents the approximately 4,600 mental health workforce vacancies.
+- VA Budget Submission. "Congressional Budget Submission, FY2024: Volume II, Medical Programs and Information Technology." 2023. <https://www.va.gov/budget/products.asp> -- Details $12.5 billion mental health budget allocation.
+- VA National Center for PTSD. "How Common Is PTSD in Adults?" Updated 2023. <https://www.ptsd.va.gov/understand/common/common_adults.asp> -- Prevalence data for PTSD across veteran populations.
+- VA Office of Research and Development. "VA Research on PTSD." Updated 2024. <https://www.research.va.gov/topics/ptsd.cfm> -- Overview of VA research programs on combat-related conditions.
+- VA Readjustment Counseling Service. "Vet Center Annual Report." 2024. <https://www.vetcenter.va.gov/> -- Data on the 300 Vet Centers, counseling visits, and readjustment services.
+- VA Office of Rural Health. "Rural Veterans." 2023. <https://www.ruralhealth.va.gov/> -- Data on the 4.7 million veterans living in rural areas, access challenges, and rural-specific programs.
+- VA Office of Connected Care. "VA Telehealth Services." 2024. <https://connectedcare.va.gov/> -- Telehealth utilization data including 8.5 million mental health encounters.
+- VA MST Support Team. "Military Sexual Trauma Report." 2023. <https://www.mentalhealth.va.gov/msthome/index.asp> -- Screening data, treatment utilization, and claims outcomes for MST.
+- VA Women's Health Services. "Women Veterans Health Care." 2023. <https://www.womenshealth.va.gov/> -- Data on women veteran health needs including mental health and MST.
 
 ### Congressional Reports
 
-- Congressional Research Service. "Veterans' Mental Health: Scope of the Problem and VA Response." Report R46981 (2023). <https://crsreports.congress.gov/product/pdf/R/R46981> - Comprehensive overview of VA mental health programs and challenges.
-- Congressional Research Service. "The Veterans Community Care Program: An Overview." Report IF11360 (2023). <https://crsreports.congress.gov/product/pdf/IF/IF11360> - Analysis of the MISSION Act community care expansion.
-- Government Accountability Office. "VA Mental Health: Opportunities Exist to Better Ensure Timely Access to Care." GAO-22-104113 (2022). <https://www.gao.gov/products/gao-22-104113> - Documents wait time challenges and access disparities.
-- Government Accountability Office. "Veteran Suicide: VA Has Taken Steps to Implement Provisions in Recent Legislation." GAO-23-105325 (2023). <https://www.gao.gov/products/gao-23-105325> - Reviews VA implementation of the Commander John Scott Hannon Act.
+- Congressional Research Service. "Veterans' Mental Health: Scope of the Problem and VA Response." Report R46981 (2023). <https://crsreports.congress.gov/product/pdf/R/R46981> -- Comprehensive overview of VA mental health programs and challenges.
+- Congressional Research Service. "The Veterans Community Care Program: An Overview." Report IF11360 (2023). <https://crsreports.congress.gov/product/pdf/IF/IF11360> -- Analysis of the MISSION Act community care expansion.
+- Congressional Research Service. "Military Sexual Trauma (MST) and VA Disability Compensation." Report R44765 (2023). <https://crsreports.congress.gov/product/pdf/R/R44765> -- Analysis of MST-related disability claims and approval rates.
+- Government Accountability Office. "VA Mental Health: Opportunities Exist to Better Ensure Timely Access to Care." GAO-22-104113 (2022). <https://www.gao.gov/products/gao-22-104113> -- Documents wait time challenges and access disparities.
+- Government Accountability Office. "Veteran Suicide: VA Has Taken Steps to Implement Provisions in Recent Legislation." GAO-23-105325 (2023). <https://www.gao.gov/products/gao-23-105325> -- Reviews VA implementation of the Commander John Scott Hannon Act.
+- Government Accountability Office. "VA Health Care: Actions Needed to Better Understand and Reduce Patient Wait Times." GAO-23-105364 (2023). <https://www.gao.gov/products/gao-23-105364> -- Updated analysis of VA wait time measurement and performance.
 
 ### Department of Defense
 
-- DoD Defense Suicide Prevention Office. "Annual Suicide Report, Calendar Year 2022." 2023. <https://www.dspo.mil/Prevention/Data-Surveillance/> - Active-duty and reserve component suicide data providing pre-separation baseline.
-- DoD Traumatic Brain Injury Worldwide Numbers. "DoD TBI Worldwide Numbers." Updated quarterly. <https://health.mil/Military-Health-Topics/Centers-of-Excellence/Traumatic-Brain-Injury-Center-of-Excellence/DOD-TBI-Worldwide-Numbers> - Comprehensive TBI incidence and prevalence data.
+- DoD Defense Suicide Prevention Office. "Annual Suicide Report, Calendar Year 2022." 2023. <https://www.dspo.mil/Prevention/Data-Surveillance/> -- Active-duty and reserve component suicide data providing pre-separation baseline.
+- DoD Traumatic Brain Injury Worldwide Numbers. "DoD TBI Worldwide Numbers." Updated quarterly. <https://health.mil/Military-Health-Topics/Centers-of-Excellence/Traumatic-Brain-Injury-Center-of-Excellence/DOD-TBI-Worldwide-Numbers> -- Comprehensive TBI incidence and prevalence data (~473,000 documented TBIs since 2000).
+- DoD Transition Assistance Program. "TAP Curriculum and Resources." <https://www.dodtap.mil/> -- Information on the transition program available to separating service members.
 
 ### Agency Data Portals
 
-- VA Suicide Prevention Data Portal. <https://www.mentalhealth.va.gov/suicide_prevention/data.asp> - State-by-state veteran suicide data, interactive dashboards, and annual reports.
-- SAMHSA Behavioral Health Data. <https://www.samhsa.gov/data/> - National Survey on Drug Use and Health (NSDUH) data including veteran-specific estimates.
-- VA Access and Quality Reports. <https://www.accesstocare.va.gov/> - Facility-level wait time data, quality metrics, and patient satisfaction scores.
+- VA Suicide Prevention Data Portal. <https://www.mentalhealth.va.gov/suicide_prevention/data.asp> -- State-by-state veteran suicide data, interactive dashboards, and annual reports.
+- SAMHSA Behavioral Health Data. <https://www.samhsa.gov/data/> -- National Survey on Drug Use and Health (NSDUH) data including veteran-specific estimates.
+- VA Access and Quality Reports. <https://www.accesstocare.va.gov/> -- Facility-level wait time data, quality metrics, and patient satisfaction scores.
+- HRSA Health Workforce Data. <https://data.hrsa.gov/topics/health-workforce/> -- National and state mental health workforce supply/demand projections, including mental health professional shortage area designations.
+- VA Survey of Healthcare Experiences of Patients (SHEP). <https://www.va.gov/health/shep/> -- Patient satisfaction data for VA health care services including mental health.
 
 ---
 
 ## Books
 
-- Finkel, David. *Thank You for Your Service*. Sarah Crichton Books, 2013. - Intimate account of post-9/11 veterans' struggles with PTSD and the VA system.
-- Junger, Sebastian. *Tribe: On Homecoming and Belonging*. Twelve, 2016. - Examines why veterans struggle to reintegrate into civilian society and the role of community.
-- Shay, Jonathan. *Achilles in Vietnam: Combat Trauma and the Undoing of Character*. Scribner, 1994. - Foundational work connecting ancient literature to modern understanding of combat PTSD and moral injury.
-- Shay, Jonathan. *Odysseus in America: Combat Trauma and the Trials of Homecoming*. Scribner, 2002. - Examines the challenges of reintegration through the lens of classical literature.
-- Wood, David. *What Have We Done: The Moral Injury of Our Longest Wars*. Little, Brown and Company, 2016. - Investigative account of moral injury among post-9/11 veterans.
-- Koenigs, Harold. *Invisible Wounds: Mental Health and Cognitive Care Needs of America's Returning Veterans*. Praeger, 2018. - Policy-focused analysis of the veterans mental health system.
-- Pollan, Michael. *How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence*. Penguin, 2018. - Accessible overview of psychedelic research with direct relevance to veteran PTSD treatment.
+- Finkel, David. *Thank You for Your Service*. Sarah Crichton Books, 2013. -- Intimate account of post-9/11 veterans' struggles with PTSD and the VA system; follows soldiers from the 2-16 Infantry Battalion after deployment to Baghdad.
+- Junger, Sebastian. *Tribe: On Homecoming and Belonging*. Twelve, 2016. -- Examines why veterans struggle to reintegrate into civilian society and the role of community; argues that modern individualism is itself a cause of veteran mental health crisis.
+- Shay, Jonathan. *Achilles in Vietnam: Combat Trauma and the Undoing of Character*. Scribner, 1994. -- Foundational work connecting ancient literature to modern understanding of combat PTSD and moral injury; introduced the concept of "moral injury" into clinical discourse.
+- Shay, Jonathan. *Odysseus in America: Combat Trauma and the Trials of Homecoming*. Scribner, 2002. -- Examines the challenges of reintegration through the lens of classical literature.
+- Wood, David. *What Have We Done: The Moral Injury of Our Longest Wars*. Little, Brown and Company, 2016. -- Investigative account of moral injury among post-9/11 veterans; Pulitzer Prize-winning reporter's examination of the psychological costs of modern warfare.
+- Koenigs, Harold. *Invisible Wounds: Mental Health and Cognitive Care Needs of America's Returning Veterans*. Praeger, 2018. -- Policy-focused analysis of the veterans mental health system.
+- Pollan, Michael. *How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence*. Penguin, 2018. -- Accessible overview of psychedelic research with direct relevance to veteran PTSD treatment.
+- Philipps, Dave. *Lethal Warriors: When the New Band of Brothers Came Home*. St. Martin's Press, 2010. -- Investigative account of violence and mental health crisis among returning soldiers from Fort Carson, Colorado.
+- Brennan, Thomas. *Shooting Ghosts: A U.S. Marine, a Combat Photographer, and Their Journey Back from War*. Viking, 2017. -- Co-authored memoir by a Marine veteran (and later founder of The War Horse) documenting PTSD, TBI, and recovery.
+- Misztal, Bronislaw. *Trustworthy: How the Smartest Brands Beat Cynicism and Bridge the Trust Gap*. Kogan Page, 2022. -- While not veteran-specific, addresses the institutional trust deficit that shapes veteran disengagement from the VA and government systems.
 
 ---
 
@@ -74,18 +93,22 @@ This section provides a curated list of key research, government reports, data s
 
 ### Research Organizations
 
-- RAND Corporation. "Ready to Serve: Community-Based Provider Capacity to Deliver Culturally Competent, Quality Mental Health Care to Veterans and Their Families." 2014. <https://www.rand.org/pubs/research_reports/RR806.html> - Landmark study finding fewer than 10% of community providers had military cultural competency training.
+- RAND Corporation. "Ready to Serve: Community-Based Provider Capacity to Deliver Culturally Competent, Quality Mental Health Care to Veterans and Their Families." 2014. <https://www.rand.org/pubs/research_reports/RR806.html> -- Landmark study finding fewer than 10% of community providers had military cultural competency training.
 - RAND Corporation. "Improving Quality of Care for Veterans: Promoting Evidence-Based Practice." 2018. <https://www.rand.org/pubs/research_reports/RR1542.html>
-- Brookings Institution. "A New Approach to Veterans' Mental Health." 2020. <https://www.brookings.edu/research/> - Analysis of VA mental health reform options.
+- RAND Corporation. "Veteran Suicide: A Supplementary Analysis of the Costs of Veterans' Mortality." 2021. <https://www.rand.org/pubs/research_reports/RRA1193-1.html> -- Estimated the annual economic cost of veteran suicide and undertreated mental health at $15-20 billion.
+- Brookings Institution. "A New Approach to Veterans' Mental Health." 2020. <https://www.brookings.edu/research/> -- Analysis of VA mental health reform options.
 - Center for a New American Security. "The Veteran Transition and Mental Health." 2019. <https://www.cnas.org/research/military-veterans-and-society>
 - Bipartisan Policy Center. "Behavioral Health Integration Task Force: Recommendations." 2023. <https://bipartisanpolicy.org/report/behavioral-health-integration/>
-- Heritage Foundation. "Reforming the VA: Options to Improve Veterans' Access to Health Care." 2019. <https://www.heritage.org/> - Conservative perspective on VA reform including privatization arguments.
+- Heritage Foundation. "Reforming the VA: Options to Improve Veterans' Access to Health Care." 2019. <https://www.heritage.org/> -- Conservative perspective on VA reform including privatization arguments.
+- American Enterprise Institute. "Performance-Based Budgeting for the VA." 2022. <https://www.aei.org/> -- Analysis arguing for outcome-based VA funding models.
+- Center for Strategic and International Studies. "Military Veteran Health and Wellbeing." 2023. <https://www.csis.org/> -- International comparative analysis of veteran health systems.
 
 ### Policy Briefs
 
-- Concerned Veterans for America. "Fixing Veterans Health Care." 2016. <https://cv4a.org/> - Advocacy for expanded community care and VA restructuring.
-- Veterans of Foreign Wars. "Priority Goals for the 118th Congress." 2023. <https://www.vfw.org/advocacy/national-legislative-service> - VSO legislative priorities including mental health.
-- Iraq and Afghanistan Veterans of America. "Policy Agenda." 2024. <https://iava.org/policy-agenda/> - Post-9/11 veteran organization's mental health policy priorities.
+- Concerned Veterans for America. "Fixing Veterans Health Care." 2016. <https://cv4a.org/> -- Advocacy for expanded community care and VA restructuring.
+- Veterans of Foreign Wars. "Priority Goals for the 118th Congress." 2023. <https://www.vfw.org/advocacy/national-legislative-service> -- VSO legislative priorities including mental health.
+- Iraq and Afghanistan Veterans of America. "Policy Agenda." 2024. <https://iava.org/policy-agenda/> -- Post-9/11 veteran organization's mental health policy priorities.
+- Disabled American Veterans. "The Independent Budget for FY2025." 2024. <https://www.independentbudget.org/> -- Joint DAV/PVA/VFW budget proposal for VA programs.
 
 ---
 
@@ -100,13 +123,18 @@ This section provides a curated list of key research, government reports, data s
 | American Legion | Veteran advocacy and community service | VSO (1.6 million members) | <https://www.legion.org/> |
 | Disabled American Veterans (DAV) | Disability benefits and mental health advocacy | VSO (1 million members) | <https://www.dav.org/> |
 | Iraq and Afghanistan Veterans of America (IAVA) | Post-9/11 veteran advocacy, mental health focus | Advocacy (425,000+ members) | <https://iava.org/> |
-| Cohen Veterans Network | Free mental health care for post-9/11 veterans and families | Nonprofit (clinical) | <https://www.cohenveteransnetwork.org/> |
+| Cohen Veterans Network | Free mental health care for post-9/11 veterans and families (22 clinics) | Nonprofit (clinical) | <https://www.cohenveteransnetwork.org/> |
 | Give an Hour | Free mental health services from volunteer clinicians | Nonprofit (clinical) | <https://giveanhour.org/> |
 | Headstrong Project | Free, confidential mental health treatment for post-9/11 veterans | Nonprofit (clinical) | <https://getheadstrong.org/> |
 | Steven A. Cohen Military Family Clinic | Mental health clinics for veterans and families at no cost | Nonprofit (clinical network) | <https://www.cohenveteransnetwork.org/clinics/> |
 | Multidisciplinary Association for Psychedelic Studies (MAPS) | Psychedelic-assisted therapy research including veteran PTSD | Research nonprofit | <https://maps.org/> |
 | Bob Woodruff Foundation | Veteran well-being including mental health, transition | Nonprofit (funder) | <https://bobwoodrufffoundation.org/> |
 | Team Red White & Blue | Veteran social connection and physical activity | Nonprofit (wellness) | <https://www.teamrwb.org/> |
+| The Mission Continues | Veteran civic engagement and community service | Nonprofit (service) | <https://www.missioncontinues.org/> |
+| Stop Soldier Suicide | Data-driven suicide prevention for service members/veterans | Nonprofit (prevention) | <https://stopsoldiersuicide.org/> |
+| National Veterans Legal Services Program (NVLSP) | Legal assistance for discharge upgrades and benefits appeals | Nonprofit (legal) | <https://www.nvlsp.org/> |
+| Swords to Plowshares | Legal services and support for veterans, especially those with OTH discharges | Nonprofit (legal/service) | <https://www.swords-to-plowshares.org/> |
+| Center for Deployment Psychology | Training community providers in military cultural competency | Academic/training | <https://deploymentpsych.org/> |
 
 ---
 
@@ -121,6 +149,7 @@ This section provides a curated list of key research, government reports, data s
 | DoD TBI Worldwide Numbers | Defense Health Agency | Quarterly | <https://health.mil/Military-Health-Topics/Centers-of-Excellence/Traumatic-Brain-Injury-Center-of-Excellence/DOD-TBI-Worldwide-Numbers> | TBI incidence across military services |
 | DoD Annual Suicide Report | Defense Suicide Prevention Office | Annual | <https://www.dspo.mil/Prevention/Data-Surveillance/> | Active-duty and reserve suicide data |
 | HRSA Health Workforce Data | HRSA Bureau of Health Workforce | Annual | <https://data.hrsa.gov/topics/health-workforce/> | National and state mental health workforce supply/demand projections |
+| VA SHEP Survey | VA Office of Quality and Patient Safety | Annual | <https://www.va.gov/health/shep/> | Patient satisfaction and experience data for VA health care |
 
 ---
 
@@ -128,25 +157,29 @@ This section provides a curated list of key research, government reports, data s
 
 ### Investigative Reports
 
-- ProPublica. "Unfounded: How the VA Fails Veterans Who Report Sexual Assault." 2021. <https://www.propublica.org/> - Investigation of VA handling of military sexual trauma claims.
-- The War Horse. Ongoing coverage of veteran mental health, suicide, and VA services. <https://thewarhorse.org/> - Nonprofit newsroom specializing in military and veteran issues.
-- Stars and Stripes. "VA Mental Health Wait Times." 2023. <https://www.stripes.com/> - Data-driven reporting on VA mental health access.
-- NPR. "The Veterans Coming Home Project." <https://www.npr.org/series/veterans-coming-home/> - Multi-year reporting series on veteran transition and mental health.
+- ProPublica. "Unfounded: How the VA Fails Veterans Who Report Sexual Assault." 2021. <https://www.propublica.org/> -- Investigation of VA handling of military sexual trauma claims.
+- The War Horse. Ongoing coverage of veteran mental health, suicide, and VA services. <https://thewarhorse.org/> -- Nonprofit newsroom specializing in military and veteran issues, founded by Marine veteran Thomas Brennan in 2018.
+- Stars and Stripes. "VA Mental Health Wait Times." 2023. <https://www.stripes.com/> -- Data-driven reporting on VA mental health access.
+- NPR. "The Veterans Coming Home Project." <https://www.npr.org/series/veterans-coming-home/> -- Multi-year reporting series on veteran transition and mental health.
+- CBS News. "Suicide and the Military." 2007. <https://www.cbsnews.com/> -- The investigative series that first revealed the veteran suicide crisis and led to the establishment of the Veterans Crisis Line.
 
 ### Ongoing Coverage
 
-- *Military Times*. Veteran mental health and VA coverage. <https://www.militarytimes.com/> - Leading publication for military and veteran policy news.
-- *STAT News*. Mental health and psychedelic therapy coverage. <https://www.statnews.com/> - Reporting on MDMA, psilocybin, and emerging veteran PTSD treatments.
-- *Task and Purpose*. Veteran advocacy and military culture. <https://taskandpurpose.com/> - Veteran-focused news covering mental health policy developments.
+- *Military Times*. Veteran mental health and VA coverage. <https://www.militarytimes.com/> -- Leading publication for military and veteran policy news.
+- *STAT News*. Mental health and psychedelic therapy coverage. <https://www.statnews.com/> -- Reporting on MDMA, psilocybin, and emerging veteran PTSD treatments.
+- *Task and Purpose*. Veteran advocacy and military culture. <https://taskandpurpose.com/> -- Veteran-focused news covering mental health policy developments.
+- *Connecting Vets*. <https://connectingvets.com/> -- Daily coverage of veteran issues including mental health, benefits, and policy.
 
 ---
 
 ## International Sources
 
-- Australian Institute of Health and Welfare. "A Profile of Australia's Veterans." 2023. <https://www.aihw.gov.au/reports/veterans/a-profile-of-australias-veterans/> - Comparative data on Australian veteran mental health outcomes.
-- Veterans Affairs Canada. "Operational Stress Injury Clinics." <https://www.veterans.gc.ca/eng/health-support/mental-health-wellness/operational-stress-injury-clinics> - Information on Canada's specialized PTSD treatment clinic model.
-- NATO. "Military Mental Health: International Perspectives." 2020. <https://www.nato.int/> - Comparative approaches to military and veteran mental health across NATO allies.
-- World Health Organization. "Mental Health and Psychosocial Support in Conflict Settings." 2021. <https://www.who.int/> - International standards for conflict-related mental health care.
+- Australian Institute of Health and Welfare. "A Profile of Australia's Veterans." 2023. <https://www.aihw.gov.au/reports/veterans/a-profile-of-australias-veterans/> -- Comparative data on Australian veteran mental health outcomes.
+- Open Arms -- Veterans and Families Counselling (Australia). <https://www.openarms.gov.au/> -- Information on Australia's independent veteran counseling system, comparable to U.S. Vet Centers.
+- Veterans Affairs Canada. "Operational Stress Injury Clinics." <https://www.veterans.gc.ca/eng/health-support/mental-health-wellness/operational-stress-injury-clinics> -- Information on Canada's specialized PTSD treatment clinic model.
+- Combat Stress (United Kingdom). <https://combatstress.org.uk/> -- UK charity providing specialized residential PTSD treatment for military veterans.
+- NATO. "Military Mental Health: International Perspectives." 2020. <https://www.nato.int/> -- Comparative approaches to military and veteran mental health across NATO allies.
+- World Health Organization. "Mental Health and Psychosocial Support in Conflict Settings." 2021. <https://www.who.int/> -- International standards for conflict-related mental health care.
 
 ---
 
@@ -154,18 +187,32 @@ This section provides a curated list of key research, government reports, data s
 
 ### Case Law
 
-- *Veterans for Common Sense v. Shinseki*, 644 F.3d 845 (9th Cir. 2011) - Class action challenging VA mental health care delays; established that veterans have a due process right to timely mental health treatment.
-- *Rudisill v. McDonough*, 601 U.S. 316 (2024) - Supreme Court ruling on GI Bill education benefits with implications for how VA interprets benefit eligibility.
-- *Monk v. Wilkie*, 30 Vet. App. 167 (2018) - Federal Circuit precedent on VA's duty to consider military sexual trauma in disability claims.
+- *Veterans for Common Sense v. Shinseki*, 644 F.3d 845 (9th Cir. 2011) -- Class action challenging VA mental health care delays; established that veterans have a due process right to timely mental health treatment.
+- *Rudisill v. McDonough*, 601 U.S. 316 (2024) -- Supreme Court ruling on GI Bill education benefits with implications for how VA interprets benefit eligibility.
+- *Monk v. Wilkie*, 30 Vet. App. 167 (2018) -- Federal Circuit precedent on VA's duty to consider military sexual trauma in disability claims.
+- *Cushman v. Shinseki*, 576 F.3d 1290 (Fed. Cir. 2009) -- Addressed VA's duty to assist veterans in developing disability claims, with implications for mental health claims where service records are incomplete.
 
 ### Statutory References
 
-- 38 U.S.C. Chapter 17 (Hospital, Nursing Home, Domiciliary, and Medical Care) - Primary statutory authority for VA health care including mental health services.
-- Pub. L. 116-171, Commander John Scott Hannon Veterans Mental Health Care Improvement Act of 2020 - Expanded suicide prevention grants, community-based programs, and emerging therapy research.
-- Pub. L. 115-182, VA MISSION Act of 2018 (38 U.S.C. 1703) - Established the Veterans Community Care Program, expanding veteran access to non-VA mental health providers.
-- Pub. L. 117-328, Veterans Auto-Enrollment Act provisions (2022) - Streamlined VA health care enrollment for eligible veterans.
-- 38 U.S.C. 1720D - VA authority to provide counseling and treatment for military sexual trauma.
-- 10 U.S.C. 1145 - Transitional health care for separating service members.
+- 38 U.S.C. Chapter 17 (Hospital, Nursing Home, Domiciliary, and Medical Care) -- Primary statutory authority for VA health care including mental health services.
+- Pub. L. 116-171, Commander John Scott Hannon Veterans Mental Health Care Improvement Act of 2020 -- Expanded suicide prevention grants, community-based programs, OTH discharge eligibility, and emerging therapy research.
+- Pub. L. 115-182, VA MISSION Act of 2018 (38 U.S.C. 1703) -- Established the Veterans Community Care Program, expanding veteran access to non-VA mental health providers.
+- Pub. L. 117-168, PACT Act of 2022 -- Expanded VA eligibility for millions of veterans exposed to toxic substances, many requiring mental health services.
+- Pub. L. 117-328, Veterans Auto-Enrollment Act provisions (2022) -- Streamlined VA health care enrollment for eligible veterans.
+- 38 U.S.C. 1720D -- VA authority to provide counseling and treatment for military sexual trauma.
+- 10 U.S.C. 1145 -- Transitional health care for separating service members.
+- 38 U.S.C. 1720G -- Program of Comprehensive Assistance for Family Caregivers, including mental health caregiving support.
+
+---
+
+## Clinical Tools and Training Resources
+
+- **VA/DoD Clinical Practice Guideline for PTSD**: <https://www.healthquality.va.gov/guidelines/MH/ptsd/> -- Official treatment guidelines for combat-related PTSD.
+- **VA Community Provider Toolkit**: <https://www.mentalhealth.va.gov/communityproviders/> -- Training resources for community providers treating veterans.
+- **Star Behavioral Health Providers Program**: <https://starproviders.org/> -- Tiered training program for community providers in military cultural competency.
+- **Center for Deployment Psychology Training**: <https://deploymentpsych.org/training> -- Military cultural competency and evidence-based treatment training for clinicians.
+- **PTSD Coach App**: <https://www.ptsd.va.gov/appvid/mobile/ptsdcoach_app.asp> -- VA-developed mobile application for PTSD self-management.
+- **PC-PTSD-5 Screening Tool**: <https://www.ptsd.va.gov/professional/assessment/screens/pc-ptsd.asp> -- Five-item PTSD screening instrument used in VA primary care settings.
 
 ---
 

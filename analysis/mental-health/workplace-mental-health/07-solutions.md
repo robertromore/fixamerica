@@ -134,6 +134,61 @@ Workplace mental health outcomes will improve when: (1) employers are legally re
 
 **Impact Metrics**: Number of states covering mental-mental claims; increase in workers' comp claims filed for workplace mental health conditions; reduction in time to treatment; return-to-work rates after mental health claims.
 
+### Solution 8: Workplace Anti-Bullying Legislation
+
+**Description**: Federal legislation establishing a cause of action for workplace bullying (repeated, unreasonable behavior that causes psychological harm), modeled on the Healthy Workplace Bill that has been introduced in 32 state legislatures. The law would: (a) define workplace bullying as a pattern of abusive conduct that a reasonable person would find hostile; (b) create a civil cause of action for targets of workplace bullying; (c) require employers to develop and enforce anti-bullying policies; (d) provide affirmative defense for employers who take prompt corrective action.
+
+**Evidence Base**: An estimated 49 million Americans experience workplace bullying annually (Workplace Bullying Institute, 2021). Targets of workplace bullying are 3 to 5 times more likely to develop PTSD, depression, and anxiety (Nielsen et al., *Aggression and Violent Behavior*, 2015). McKinsey research (2022) identified toxic workplace behavior as the single strongest predictor of employee burnout. The United States is the only major industrialized democracy without a workplace bullying law; the EU Framework Agreement on Harassment and Violence at Work (2007), UK Protection from Harassment Act (1997), and Australian Fair Work Act all address workplace bullying.
+
+**Implementation**: Federal legislation enacted. EEOC issues guidance on distinguishing bullying from legitimate management. Employers with 15+ employees required to implement anti-bullying policies within 24 months.
+
+**Cost/Resources**: Minimal employer compliance costs for policy development. EEOC enforcement costs: $20 million annually. Potential litigation costs for employers who fail to address bullying offset by reduced turnover, workers' comp, and disability costs.
+
+**Timeline**: Legislation introduced Year 1-2. Enacted Year 3. Implementation Year 4-5.
+
+**Challenges**: Defining the line between legitimate management and bullying; potential for strategic or retaliatory claims; business opposition to new cause of action.
+
+**Impact Metrics**: Reduction in self-reported workplace bullying prevalence; increase in employer anti-bullying policy adoption; decrease in bullying-related turnover and disability claims.
+
+### Solution 9: Industry-Specific Occupational Mental Health Standards
+
+**Description**: Develop and issue sector-specific occupational mental health standards for the highest-risk industries: healthcare, first response, construction, and education. These standards would address the unique psychosocial hazards of each sector (e.g., staffing ratios in healthcare, traumatic exposure in first response, seasonal isolation in construction, student behavioral challenges in education) and require tailored prevention programs.
+
+**Evidence Base**: Industry-specific risks vary substantially and require tailored interventions:
+
+| Industry | Primary Psychosocial Hazards | Existing Interventions |
+|---|---|---|
+| Healthcare | Understaffing, moral injury, workplace violence, administrative burden | Dr. Breen Act; some state staffing ratios |
+| First response | Traumatic exposure, shift work, organizational culture | Peer support programs; some PTSD presumption laws |
+| Construction | Seasonal employment, isolation, pain, substance use | SAFE programs; CPWR toolbox talks |
+| Education | Student behavior, administrative burden, political conflict, low pay | Few systematic interventions |
+
+**Implementation**: OSHA develops sector-specific guidance and compliance standards in partnership with industry organizations (AMA, IAFF, AGC, NEA). Standards address the top 3-5 psychosocial hazards in each sector with required prevention measures.
+
+**Cost/Resources**: Standard development: $10 million per sector. Compliance costs vary by sector. Offset by reduced industry-specific turnover, disability, and workers' comp costs.
+
+**Timeline**: Standards development: Years 2-4. Implementation: Years 4-6.
+
+**Challenges**: Industry opposition; variability within sectors; staffing cost implications in healthcare and education.
+
+**Impact Metrics**: Sector-specific burnout and PTSD rates; industry turnover rates; workers' comp claim trends; workforce retention rates.
+
+### Solution 10: Right to Disconnect
+
+**Description**: Legislation establishing workers' right to disconnect from work-related electronic communications outside of scheduled working hours, modeled on laws enacted in France (2017), Portugal (2021), Belgium (2022), and proposed in the EU. Employers with 50+ employees would be required to establish clear policies on after-hours communication, and workers could not be penalized for not responding to work communications during non-work hours.
+
+**Evidence Base**: Workers who report constant connectivity to work communications experience 2.6 times the burnout rate of those with clear boundaries (Deloitte, 2023). France's right to disconnect law has been associated with improved work-life satisfaction, though enforcement remains challenging (Eurofound, 2022). 52% of U.S. workers report checking work email outside working hours daily (APA, 2023).
+
+**Implementation**: Federal legislation or DOL rulemaking. Employers develop written policies within 12 months. Enforcement through DOL complaint process.
+
+**Cost/Resources**: Minimal direct cost to employers. May require adjustment of management practices in always-on industries.
+
+**Timeline**: Legislation or rulemaking: Year 2-3. Implementation: Year 3-4.
+
+**Challenges**: Defining "essential" after-hours communications; global workforce coordination; industry-specific exceptions (e.g., on-call healthcare workers); cultural resistance in competitive industries.
+
+**Impact Metrics**: Reduction in after-hours work communication; improvement in work-life satisfaction scores; reduction in burnout rates.
+
 ---
 
 ## International Models
@@ -174,9 +229,29 @@ Workplace mental health outcomes will improve when: (1) employers are legally re
 
 ## Pilot Programs and Demonstrations
 
-- **Total Worker Health (TWH) program**: NIOSH's TWH initiative has funded pilot programs integrating occupational safety with worker well-being. Studies show 15-25% improvement in worker health metrics where TWH approaches are implemented (NIOSH, 2023).
-- **Mindful Employer programs**: Several cities (Portland, OR; San Francisco, CA) have piloted voluntary employer certification programs for workplace mental health practices, with participating employers showing 20% higher employee satisfaction scores.
-- **Construction Industry Mental Health Programs**: The construction industry, which has the highest suicide rate of any occupation, has piloted peer support and jobsite mental health awareness programs through SAFE (Suicide Awareness for Everyone), showing 40% increases in help-seeking behavior (CPWR, 2023).
+### Federal Programs
+
+- **Total Worker Health (TWH) program**: NIOSH's TWH initiative has funded pilot programs integrating occupational safety with worker well-being across 20+ worksites. Studies show 15-25% improvement in worker health metrics where TWH approaches are implemented (NIOSH, 2023). The program provides a model for integrating psychosocial risk management with existing occupational health infrastructure.
+- **VA Whole Health initiative**: The VA's Whole Health approach, which integrates mental health with overall well-being for veteran employees and patients, has demonstrated reduced burnout among VA healthcare workers and improved patient outcomes (VA, 2023). The model is potentially transferable to civilian healthcare settings.
+
+### State and Local Programs
+
+- **Mindful Employer programs**: Several cities (Portland, OR; San Francisco, CA; Austin, TX) have piloted voluntary employer certification programs for workplace mental health practices, with participating employers showing 20% higher employee satisfaction scores and 15% lower turnover.
+- **California Cal/OSHA workplace violence prevention**: California's SB 553 (effective July 2024) requires all employers to develop written workplace violence prevention plans including assessment of psychological safety risks. Early implementation provides data on employer compliance costs and worker outcomes that will inform broader psychosocial hazard regulation.
+- **New York City's Mental Health at Work initiative**: NYC's Department of Health has provided free workplace mental health training to over 1,000 small businesses, with participating employers reporting 30% increase in employee awareness of mental health resources.
+
+### Industry-Specific Programs
+
+- **Construction Industry Mental Health Programs**: The construction industry, which has the highest suicide rate of any occupation, has piloted peer support and jobsite mental health awareness programs through SAFE (Suicide Awareness for Everyone), showing 40% increases in help-seeking behavior (CPWR, 2023). The "Hard Hat Pledge" campaign has reached over 200,000 construction workers across 48 states.
+- **Healthcare worker peer support**: The Schwartz Center Rounds program, implemented in over 500 healthcare organizations, provides structured forums for healthcare workers to discuss the emotional aspects of their work. Participants report 15% reduction in burnout symptoms and 20% improvement in perceived organizational support (Schwartz Center, 2023).
+- **First responder peer support teams**: Peer support programs for law enforcement and fire services have been implemented in over 5,000 departments nationwide. Research shows that peer-delivered psychological first aid increases help-seeking behavior by 45-65% compared to departments without peer support (International Association of Chiefs of Police, 2023).
+- **Legal profession well-being task force**: Following a 2016 ABA/Hazelden Betty Ford Foundation study finding that 28% of lawyers experience depression and 19% report problem drinking, the legal profession launched well-being pledge campaigns in 40+ states. The National Task Force on Lawyer Well-Being has driven adoption of firm-level mental health programs and reduced stigma in legal workplaces.
+
+### Academic and Research Programs
+
+- **Harvard/MIT Good Jobs Institute**: Research collaboration studying companies that invest in frontline worker well-being, demonstrating that "good jobs" strategies (higher pay, stable scheduling, training, autonomy) improve both worker mental health and business performance.
+- **Stanford WorkLife Lab**: Research on work design, scheduling, and management practices that support worker mental health, with particular focus on low-wage and service-sector workers.
+- **University of Michigan Healthy Work Design Center**: NIOSH-funded center studying organizational factors that promote or undermine worker mental health, with emphasis on intervention research.
 
 ---
 
@@ -189,22 +264,33 @@ Workplace mental health outcomes will improve when: (1) employers are legally re
 - Federal contractor manager mental health training requirement
 - Manager training tax credit program enacted
 - DOL issues model workplace mental health policy for federal agencies
+- First Responder and Healthcare Worker Mental Health Protection Act enacted
+- Surgeon General issues updated workplace mental health guidance with measurement tools
+- NIOSH launches expanded Total Worker Health pilot programs in 10 sites
 
 ### Medium-term Reforms (2-5 years)
 
 - OSHA proposed psychosocial hazard standard published
-- EAP Modernization Act enacted
+- EAP Modernization Act enacted with ERISA amendments
 - Universal paid mental health leave legislation introduced
 - Workers' compensation mental health reform legislation enacted
 - Workplace psychological safety measurement standard developed
+- Industry-specific standards developed for healthcare, first response, construction, education
+- Workplace anti-bullying legislation introduced
+- Right to disconnect rulemaking initiated
 
 ### Long-term Transformation (5-10 years)
 
-- OSHA psychosocial hazard standard finalized and enforced
-- Full implementation of paid mental health leave
+- OSHA psychosocial hazard standard finalized and enforced across all covered employers
+- Full implementation of paid mental health leave through social insurance
 - All states cover mental-mental workers' compensation claims
 - Workplace psychological safety reporting for large employers operational
 - U.S. aligns with international best practices for psychosocial hazard management
+- Workplace bullying law enacted and enforced
+- Right to disconnect established for all workers
+- Gig and contract workers included in portable mental health benefit system
+- National workplace mental health data warehouse operational
+- Mental health workforce sufficient to staff expanded programs
 
 ## Complementary Policies
 
@@ -214,6 +300,25 @@ Workplace mental health reform requires complementary action in several related 
 - **Labor standards**: Minimum wage increases, overtime protections, and predictive scheduling reduce the economic precarity that drives workplace mental health problems. See [Labor Analysis](../../labor/01-overview.md).
 - **Paid family and medical leave**: A national paid leave program would provide the foundation for the mental health leave provisions proposed here. See [Social Analysis](../../social/01-overview.md).
 - **Telehealth and broadband**: Rural and underserved workers depend on telehealth for mental health access. See [Infrastructure Analysis](../../infrastructure/01-overview.md).
+- **Mental health workforce development**: Expanding training programs, loan repayment, and scope of practice for mental health professionals is essential to staffing expanded workplace programs. See [Mental Health Analysis](../01-overview.md).
+- **Anti-discrimination enforcement**: Strengthening protections against race, gender, and disability discrimination reduces psychosocial hazards that disproportionately affect marginalized workers. See [Justice Analysis](../../justice/01-overview.md).
+- **Child care and family support**: Access to affordable child care reduces work-family conflict, a significant psychosocial stressor for parents in the workforce. See [Social Analysis](../../social/01-overview.md).
+- **Housing affordability**: Housing cost burden is a primary source of financial stress for workers. Addressing housing affordability reduces a key upstream driver of workforce mental health problems. See [Housing Analysis](../../housing/01-overview.md).
+
+## Evidence Summary
+
+| Solution | Evidence Strength | Political Feasibility | Expected ROI | International Precedent |
+|---|---|---|---|---|
+| OSHA Psychosocial Hazard Standard | Strong | Low-Medium | 4:1+ | Australia, EU, UK |
+| EAP Modernization Act | Moderate | Medium | 3:1 | Canada, Australia |
+| ADA Mental Health Accommodation Clarification | Strong | High | >10:1 (most accommodations cost $0) | N/A (U.S.-specific) |
+| Universal Paid Mental Health Leave | Strong | Low | 2:1 to 4:1 | Norway, Sweden, UK |
+| Manager Mental Health Competency | Moderate-Strong | High | 5:1+ | Australia (Beyond Blue) |
+| Psychological Safety Measurement | Moderate | Medium | Indirect (measurement drives improvement) | EU, Australia, Japan |
+| Workers' Compensation Reform | Strong | Medium | 2:1 | Most developed nations |
+| Workplace Anti-Bullying Legislation | Strong | Low-Medium | Indirect (reduced turnover, disability) | EU, UK, Australia |
+| Industry-Specific Standards | Strong | Medium-High | Varies by sector | EU sector-specific guidance |
+| Right to Disconnect | Moderate | Low-Medium | Indirect (reduced burnout) | France, Portugal, Belgium |
 
 ---
 

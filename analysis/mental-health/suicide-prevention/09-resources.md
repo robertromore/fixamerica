@@ -22,6 +22,16 @@ This section provides a curated list of key research, reports, data sources, and
 - Stanley, B., et al. "Comparison of the Safety Planning Intervention with Follow-up vs Usual Care of Suicidal Patients Treated in the Emergency Department." *JAMA Psychiatry* 75.9 (2018): 894-900. <https://doi.org/10.1001/jamapsychiatry.2018.1776>
 - Swanson, J.W., et al. "Implementation and Effectiveness of Connecticut's Risk-Based Gun Removal Law: Does It Prevent Suicides?" *Law and Contemporary Problems* 80.2 (2017): 179-208.
 - Wyman, P.A., et al. "An Outcome Evaluation of the Sources of Strength Suicide Prevention Program Delivered by Adolescent Peer Leaders in High Schools." *American Journal of Public Health* 100.9 (2010): 1653-1661. <https://doi.org/10.2105/AJPH.2009.190025>
+- Brown, G.K., et al. "Cognitive Therapy for the Prevention of Suicide Attempts: A Randomized Controlled Trial." *JAMA* 294.5 (2005): 563-570. <https://doi.org/10.1001/jama.294.5.563>
+- Linehan, M.M., et al. "Cognitive-Behavioral Treatment of Chronically Parasuicidal Borderline Patients." *Archives of General Psychiatry* 48.12 (1991): 1060-1064. <https://doi.org/10.1001/archpsyc.1991.01810360024003>
+- Felitti, V.J., et al. "Relationship of Childhood Abuse and Household Dysfunction to Many of the Leading Causes of Death in Adults." *American Journal of Preventive Medicine* 14.4 (1998): 245-258. <https://doi.org/10.1016/S0749-3797(98)00017-8>
+- Dube, S.R., et al. "Childhood Abuse, Household Dysfunction, and the Risk of Attempted Suicide Throughout the Life Span." *JAMA* 286.24 (2001): 3089-3096. <https://doi.org/10.1001/jama.286.24.3089>
+- Hawton, K., et al. "Long Term Effect of Reduced Pack Sizes of Paracetamol on Poisoning Deaths and Liver Transplant Activity in England and Wales." *BMJ* 346 (2013): f403. <https://doi.org/10.1136/bmj.f403>
+- Knox, K.L., et al. "Risk of Suicide and Related Adverse Outcomes After Exposure to a Suicide Prevention Programme in the US Air Force: Cohort Study." *BMJ* 327.7428 (2003): 1376. <https://doi.org/10.1136/bmj.327.7428.1376>
+- Fleischmann, A., et al. "Effectiveness of Brief Intervention and Contact for Suicide Attempters: A Randomized Controlled Trial in Five Countries." *Bulletin of the World Health Organization* 86.9 (2008): 703-709. <https://doi.org/10.2471/BLT.07.046995>
+- Ahmedani, B.K., et al. "Health Care Contacts in the Year Before Suicide Death." *Journal of General Internal Medicine* 29.6 (2014): 870-877. <https://doi.org/10.1007/s11606-014-2767-3>
+- Cerel, J., et al. "How Many People Are Exposed to Suicide? Not Six." *Suicide and Life-Threatening Behavior* 49.2 (2019): 529-534. <https://doi.org/10.1111/sltb.12450>
+- Pierce, J.R., & Schott, P.K. "Trade Liberalization and Mortality: Evidence from US Counties." *American Economic Review: Insights* 2.1 (2020): 47-64.
 
 ### Working Papers and White Papers
 
@@ -67,6 +77,9 @@ This section provides a curated list of key research, reports, data sources, and
 - Linehan, M.M. *Building a Life Worth Living: A Memoir*. Random House, 2020. - Developer of dialectical behavior therapy describes her own suicidal history and the evolution of DBT
 - Durkheim, E. *Suicide: A Study in Sociology*. 1897; reprint, Free Press, 1997. - The foundational sociological analysis of suicide as shaped by social integration and regulation
 - Stanley, B., & Brown, G.K. "Safety Planning Intervention: A Brief Intervention to Mitigate Suicide Risk." *Cognitive and Behavioral Practice* 19.2 (2012): 256-264. - The widely adopted safety planning approach used in Zero Suicide and VA programs
+- Murthy, V.H. *Together: The Healing Power of Human Connection in a Sometimes Lonely World*. Harper Wave, 2020. - Surgeon General's analysis of social isolation as a public health crisis, with direct implications for upstream suicide prevention
+- Jobes, D.A. *Managing Suicidal Risk: A Collaborative Approach*. 2nd ed. Guilford Press, 2016. - Comprehensive guide to the Collaborative Assessment and Management of Suicidality (CAMS) framework
+- Barber, C., & Miller, M. *The Behavioral Health Crisis: Why Prevention Must Include Lethal Means Counseling*. Harvard T.H. Chan School of Public Health, 2021. - Practical guide for clinicians on integrating lethal means counseling into standard care
 
 ---
 
@@ -85,6 +98,8 @@ This section provides a curated list of key research, reports, data sources, and
 - Everytown for Gun Safety. "Firearm Suicide in the United States." 2024. <https://www.everytown.org/issues/gun-violence-suicide/>
 - Giffords Law Center. "Extreme Risk Protection Orders." 2024. <https://giffords.org/lawcenter/gun-laws/policy-areas/who-can-have-a-gun/extreme-risk-protection-orders/>
 - National Conference of State Legislatures. "Suicide Prevention Legislation Database." Updated annually. <https://www.ncsl.org/health/suicide-prevention-legislation>
+- Milliman. "Addiction and Mental Health vs. Physical Health: Widening Disparities in Network Use and Provider Reimbursement." 2023. <https://www.milliman.com> - Analysis documenting the 2.7x out-of-network disparity for behavioral health services
+- NAMI. "The Doctor Is Out: Continuing Disparities in Access to Mental and Physical Health Care." 2017. <https://www.nami.org> - Survey-based documentation of mental health access barriers
 
 ---
 
@@ -122,6 +137,20 @@ This section provides a curated list of key research, reports, data sources, and
 | NICS Firearm Checks | FBI | Monthly | <https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/nics> | Proxy for firearm sales volume |
 | HPSA Data | HRSA | Quarterly | <https://data.hrsa.gov/topics/health-workforce/shortage-areas> | Mental health workforce shortage designations |
 
+### Crisis Resources for At-Risk Populations
+
+| Population | Resource | Contact |
+|---|---|---|
+| General population | 988 Suicide and Crisis Lifeline | Call or text 988 |
+| Text-based crisis support | Crisis Text Line | Text HOME to 741741 |
+| Veterans and military | Veterans Crisis Line | Call 988 (press 1), text 838255, or chat online |
+| LGBTQ+ youth | The Trevor Project | Call 1-866-488-7386, text START to 678-678 |
+| Deaf/hard of hearing | 988 TTY/relay | 711 then 988 |
+| Spanish-language | 988 en Espanol | Call 988 (press 2 for Spanish) |
+| American Indian/Alaska Native | StrongHearts Native Helpline | Call 1-844-762-8483 |
+| Trans community | Trans Lifeline | Call 877-565-8860 |
+| Substance use crisis | SAMHSA National Helpline | Call 1-800-662-4357 |
+
 ---
 
 ## News and Journalism
@@ -139,6 +168,12 @@ This section provides a curated list of key research, reports, data sources, and
 - *The 19th*. LGBTQ+ youth mental health coverage. <https://19thnews.org> - Reporting on legislative and cultural dynamics affecting LGBTQ+ youth
 - *KFF Health News*. Behavioral health and crisis services coverage. <https://kffhealthnews.org> - Comprehensive health policy journalism with strong mental health focus
 
+### Documentary and Multimedia
+
+- *The Ripple Effect* (2018). Documentary film directed by Matt Gibb exploring the impact of suicide on military veterans and their communities. Available on streaming platforms.
+- *It's Not a Cry for Help* (2023). AFSP documentary on the science of suicide prevention and the experiences of attempt survivors and loss survivors.
+- CDC *Vital Signs: Suicide Rising Across the U.S.* (2018). CDC multimedia briefing with data visualization on rising suicide rates by state and demographic group. <https://www.cdc.gov/vitalsigns/suicide/>
+
 ---
 
 ## International Sources
@@ -148,6 +183,25 @@ This section provides a curated list of key research, reports, data sources, and
 - WHO. "LIVE LIFE: An Implementation Guide for Suicide Prevention in Countries." 2021. <https://www.who.int/publications/i/item/9789240026629> - International framework for national suicide prevention strategies
 - International Association for Suicide Prevention (IASP). "World Suicide Prevention Day Resources." <https://www.iasp.info/resources/> - Global research network and prevention resources
 - Australian Institute of Health and Welfare. "Suicide and Self-harm Monitoring." <https://www.aihw.gov.au/suicide-self-harm-monitoring> - Model for national suicide surveillance systems
+- Japan Ministry of Health, Labour and Welfare. "Annual Report on Suicide Prevention." Published annually. - Documentation of Japan's comprehensive national strategy and rate reduction achievements
+- Erlangsen, A., et al. "The Danish Model: Suicide Prevention Clinics." *The Lancet Psychiatry* 2.1 (2015). - Evidence base for rapid-access specialized outpatient care
+
+---
+
+## Clinical Tools and Training Resources
+
+| Resource | Description | Access |
+|---|---|---|
+| Columbia Suicide Severity Rating Scale (C-SSRS) | Standardized suicide risk assessment tool endorsed by FDA, CDC, VA, DoD, and WHO | <https://cssrs.columbia.edu> |
+| PHQ-9 (Patient Health Questionnaire-9) | Depression screening instrument; Item 9 assesses suicidal ideation | Freely available; widely used in primary care |
+| Ask Suicide-Screening Questions (ASQ) | Brief validated screener for pediatric and ED settings developed by NIMH | <https://www.nimh.nih.gov/research/research-conducted-at-nimh/asq-toolkit-materials> |
+| QPR (Question, Persuade, Refer) | Gatekeeper training for civilians; 90-minute online course | <https://qprinstitute.com> (~$30 individual; free through many organizations) |
+| safeTALK | Half-day suicide alertness training for community members | Applied Suicide Intervention Skills Training (ASIST) program; <https://www.livingworks.net/safetalk> |
+| ASIST (Applied Suicide Intervention Skills Training) | Two-day interactive workshop for first responders, healthcare workers, and community gatekeepers | <https://www.livingworks.net/asist> |
+| Zero Suicide Toolkit | Comprehensive implementation guide for healthcare systems | <https://zerosuicide.edc.org> |
+| Safety Planning Intervention Manual | Clinician guide for conducting safety planning with suicidal patients | Brown & Stanley; available through Suicide Prevention Resource Center |
+| CALM (Counseling on Access to Lethal Means) | Online training for clinicians on lethal means counseling | <https://training.sprc.org/enrol/index.php?id=3>; free; 2 hours |
+| VA Lethal Means Safety Training | Training module for healthcare providers on firearm-specific means counseling | <https://www.mentalhealth.va.gov/suicide_prevention/lethal-means.asp> |
 
 ---
 
@@ -167,6 +221,17 @@ This section provides a curated list of key research, reports, data sources, and
 - 47 U.S.C. 251(e)(4) (National Suicide Hotline Designation Act of 2020) - 988 designation
 - Pub. L. 117-159 (Bipartisan Safer Communities Act, 2022) - Crisis services funding, community mental health, ERPO implementation support
 - 29 U.S.C. 1185a (Mental Health Parity and Addiction Equity Act) - Insurance parity requirements
+- 42 U.S.C. 290bb-36b (Mental Health and Suicide Prevention Act, Title I of P.L. 108-355) - Youth suicide early intervention and prevention strategies
+- Various state ERPO statutes: Conn. Gen. Stat. 29-38c (1999); Ind. Code 35-47-14 (2005); Cal. Penal Code 18100-18205 (2014); Fla. Stat. 790.401 (2018)
+
+### State Legislation Databases
+
+| Resource | Coverage | Access |
+|---|---|---|
+| NCSL Suicide Prevention Legislation Database | All states; updated annually | <https://www.ncsl.org/health/suicide-prevention-legislation> |
+| Giffords Law Center ERPO Tracker | State ERPO laws; regularly updated | <https://giffords.org/lawcenter/gun-laws/policy-areas/who-can-have-a-gun/extreme-risk-protection-orders/> |
+| NAMI State Legislation Tracker | 988 funding and mental health legislation | <https://www.nami.org/Advocacy/State-Fact-Sheets> |
+| Everytown Gun Law Navigator | Comprehensive state firearm law database | <https://www.everytown.org/gun-law-navigator/> |
 
 ---
 

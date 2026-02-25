@@ -17,11 +17,21 @@ This section provides a curated list of key research, government reports, legal 
 - Joseph, A.M., Manseau, M.W., Engstrom, A.K., & Wyka, K. "Workplace drug testing and state cannabis legalization: A review of employment protections." *Journal of Occupational and Environmental Medicine* 64.12 (2022): e831-e837.
 - Hoffman, R.S. & Goldfrank, L.R. "The poisoned patient with altered consciousness: Controversies in the use of a coma cocktail." *JAMA* 274.7 (1995): 562-569. - Background on immunoassay cross-reactivity.
 
+### Systematic Reviews and Meta-Analyses
+
+- Pidd, K. & Roche, A.M. "How effective is drug testing as a workplace safety strategy? A systematic review of the evidence." *Accident Analysis & Prevention* 71 (2014): 154-165. <https://doi.org/10.1016/j.aap.2014.05.012> -- Found weak and inconsistent evidence for testing's safety benefits.
+- National Research Council. "Informing America's Policy on Illegal Drugs." National Academies Press, 2007. <https://nap.nationalacademies.org/catalog/10021> -- The most comprehensive review of drug testing effectiveness; found "no evidence" that workplace testing reduces drug use.
+- Rogeberg, O. & Elvik, R. "The effects of cannabis intoxication on motor vehicle collision revisited and revised." *Addiction* 111.8 (2016): 1348-1359. -- Meta-analysis of cannabis and driving risk.
+- Wolff, K. & Johnston, A. "Cannabis use: a perspective in relation to the proposed UK drug-driving legislation." *Drug Testing and Analysis* 6.1-2 (2014): 143-154. -- Review of cannabis detection methods and impairment correlation.
+- McCartney, D., Arkell, T.R., Irwin, C., & McGregor, I.S. "Determining the magnitude and duration of acute Δ9-tetrahydrocannabinol (Δ9-THC)-induced driving and cognitive impairment." *Neuroscience & Biobehavioral Reviews* 126 (2021): 175-193. -- Systematic review finding impairment typically resolves within 3-6 hours while metabolites persist for weeks.
+
 ### Working Papers and White Papers
 
 - RAND Corporation. "An Ounce of Prevention, a Pound of Uncertainty: The Cost-Effectiveness of School-Based Drug Prevention Programs." 2002. <https://www.rand.org/pubs/monograph_reports/MR1491.html>
 - American College of Occupational and Environmental Medicine (ACOEM). "Marijuana in the Workplace: Guidance for Occupational Health Professionals and Employers." Joint Task Force Position Statement. 2022.
 - National Academies of Sciences, Engineering, and Medicine. "The Health Effects of Cannabis and Cannabinoids: The Current State of Evidence and Recommendations for Research." 2017. <https://nap.nationalacademies.org/catalog/24625>
+- Institute of Education Sciences. "The Effectiveness of Mandatory-Random Student Drug Testing." U.S. Department of Education, 2012. <https://ies.ed.gov/ncee/pubs/20124025/> -- The definitive evaluation of student drug testing; found no effect on substance use.
+- Rossman, S.B. et al. "The Multi-Site Adult Drug Court Evaluation." National Institute of Justice, 2011. <https://www.ncjrs.gov/pdffiles1/nij/grants/237112.pdf> -- Evidence for graduated sanctions in drug court testing.
 
 ---
 
@@ -55,6 +65,10 @@ This section provides a curated list of key research, government reports, legal 
 - Alexander, M. *The New Jim Crow: Mass Incarceration in the Age of Colorblindness*. New Press, 2010. - Context for racial disparities in drug enforcement and testing.
 - Hart, C.L. *Drug Use for Grown-Ups: Chasing Liberty in the Land of Fear*. Penguin Press, 2021. - Arguments for drug policy reform including testing reform from a Columbia neuroscientist.
 - Mauer, M. & King, R.S. *A 25-Year Quagmire: The War on Drugs and Its Impact on American Society*. The Sentencing Project, 2007.
+- Sznitman, S.R. & Zolotov, Y. "Cannabis for Therapeutic Purposes and Public Health and Safety: A Systematic and Critical Review." *International Journal of Drug Policy* 26.1 (2015): 20-29. -- Context for medical cannabis and workplace testing.
+- Macdonald, S. et al. *Alcohol, Drugs, and Workplace Safety: Results from the WHO Collaborative Study*. World Health Organization, 2004.
+- Baer, J.S. et al. "An experimental test of three methods of alcohol risk reduction with young adults." *Journal of Consulting and Clinical Psychology* 60.6 (1992): 974-979. -- Early harm reduction research relevant to testing philosophy.
+- Zimmer, L. & Morgan, J.P. *Marijuana Myths, Marijuana Facts: A Review of the Scientific Evidence*. Lindesmith Center, 1997. -- Early evidence-based challenge to marijuana testing assumptions.
 
 ---
 
@@ -119,6 +133,22 @@ This section provides a curated list of key research, government reports, legal 
 - *Marijuana Moment*. Cannabis policy and employment law coverage. <https://www.marijuanamoment.net> - Comprehensive daily coverage of cannabis legislation including testing reform.
 - *Filter Magazine*. Harm reduction and drug policy. <https://filtermag.org> - Coverage of drug checking, fentanyl test strips, and testing policy.
 - *STAT News*. Drug policy and public health. <https://www.statnews.com> - Coverage of opioid crisis, drug checking, and treatment policy.
+- *The Intercept*. Drug policy investigations. <https://theintercept.com> - Investigative reporting on War on Drugs and testing industry.
+- *Bloomberg Law*. Employment drug testing law. <https://www.bloomberglaw.com> - Coverage of workplace testing litigation and regulatory developments.
+- *Overdose Prevention News*. Drug checking and harm reduction. <https://overdosepreventionnetwork.org> - Coverage of drug checking programs and policy.
+
+### Academic Journals Publishing Drug Testing Research
+
+| Journal | Focus Area | Relevance |
+|---------|-----------|-----------|
+| *Drug and Alcohol Dependence* | Substance use research | Drug checking effectiveness; testing accuracy |
+| *Harm Reduction Journal* | Harm reduction interventions | Drug checking; fentanyl test strips |
+| *Journal of Occupational and Environmental Medicine* | Workplace health | Workplace testing effectiveness; impairment |
+| *Forensic Science International* | Forensic analysis | Testing accuracy; hair testing bias |
+| *International Journal of Drug Policy* | Drug policy analysis | Cannabis legalization; workplace testing |
+| *Addiction* | Addiction science | Treatment; harm reduction; policy |
+| *Journal of Analytical Toxicology* | Analytical chemistry | Testing methodology; cutoff levels |
+| *Clinical Chemistry* | Laboratory medicine | Immunoassay accuracy; confirmation testing |
 
 ---
 
@@ -151,7 +181,64 @@ This section provides a curated list of key research, government reports, legal 
 - 49 U.S.C. Section 31306 - DOT drug and alcohol testing authority
 - 49 CFR Part 40 - DOT testing procedures
 - 42 U.S.C. Section 604a - TANF drug testing authorization (Section 902 of PRWORA)
+- 42 U.S.C. Section 12114 - ADA provisions on drug testing and substance use disorders
 - Executive Order 12564 (1986) - Drug-free federal workplace
+- P.L. 112-96 (2012) - Middle Class Tax Relief and Job Creation Act, authorizing drug testing for UI applicants in certain circumstances
+
+### State Law Trackers
+
+- NCSL Cannabis Legalization Overview: <https://www.ncsl.org/research/civil-and-criminal-justice/marijuana-overview.aspx> -- Current status of state cannabis laws
+- NORML State Law Tracker: <https://norml.org/laws> -- Comprehensive state-by-state cannabis law tracker including employment protections
+- Legislative Analysis and Public Policy Association (LAPPA) Fentanyl Test Strip Tracker: <https://legislativeanalysis.org> -- Tracks FTS legal status by state
+- Network for Public Health Law: <https://www.networkforphl.org> -- State harm reduction law analysis including paraphernalia reform
+- LawAtlas Syringe Services Law Tracker: <https://lawatlas.org> -- Interactive mapping of syringe services and harm reduction laws by state
+
+---
+
+## Emerging Technology Resources
+
+### Impairment Detection Technology
+
+| Technology | Developer | Status | Key Resource |
+|-----------|-----------|--------|--------------|
+| Breath-based THC detection | Hound Labs | Pilot testing; pre-validation | <https://houndlabs.com> |
+| DRUID cognitive impairment app | University of Massachusetts | Pilot deployment in Colorado | <https://druidapp.com> |
+| AlertMeter fitness-for-duty | Predictive Safety | Commercial deployment | <https://predictivesafety.com/alertmeter> |
+| Impairment Science platform | Impairment Science Inc. | Early development | <https://impairmentscience.com> |
+| Eye-tracking impairment detection | Multiple developers | Research phase | Various academic publications |
+| SannTek oral fluid analyzer | SannTek Labs | Point-of-collection oral fluid | <https://sannteklabs.com> |
+
+### Drug Checking Technology
+
+| Technology | Manufacturer/Source | Cost | Resource |
+|-----------|-------------------|------|----------|
+| BTNX fentanyl test strips | BTNX Inc. | $0.50-$2.00/strip | <https://www.btnx.com> |
+| Bruker Alpha II (FTIR) | Bruker Corporation | $25,000-$50,000 | <https://www.bruker.com> |
+| Thermo Scientific mass spectrometry | Thermo Fisher | $100,000+ | <https://www.thermofisher.com> |
+| Mira M-1 (Raman spectroscopy) | Metrohm | $30,000-$45,000 | <https://www.metrohm.com> |
+| Paper spray mass spectrometry | Academic development | Research phase | Multiple academic publications |
+
+---
+
+## Training and Educational Materials
+
+### For Employers and HR Professionals
+
+- SHRM Drug Testing Toolkit: <https://www.shrm.org/topics-tools/topics/drug-testing> -- Employer guidance on testing policies
+- DOT ODAPC Employer Resources: <https://www.transportation.gov/odapc/employer> -- Compliance resources for DOT-regulated employers
+- SAMHSA Workplace Programs: <https://www.samhsa.gov/workplace> -- Federal workplace testing standards and guidance
+
+### For Workers
+
+- ACLU Know Your Rights - Drug Testing: <https://www.aclu.org/know-your-rights/drug-testing> -- Worker rights information
+- NORML Legal Resources: <https://norml.org/legal> -- Cannabis employment law resources by state
+- NELP Worker Guide to Drug Testing: <https://www.nelp.org> -- Employment law guidance for workers facing testing
+
+### For Harm Reduction Workers
+
+- NHRC Drug Checking Resource Guide: <https://harmreduction.org/issues/drug-checking/> -- Training and operational guidance for drug checking services
+- DanceSafe Drug Checking Training: <https://dancesafe.org/drug-checking/> -- Volunteer training for event-based drug checking
+- BCCSU Drug Checking Guidelines: <https://www.bccsu.ca> -- Canadian best practices for drug checking operations
 
 ---
 

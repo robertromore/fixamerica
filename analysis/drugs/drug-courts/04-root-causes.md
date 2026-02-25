@@ -4,6 +4,20 @@
 
 The current challenges in drug court policy are not the result of a single failure but of several long-term, interlocking trends. These include the structural limitations of embedding healthcare delivery within the criminal justice system, misaligned incentive structures that reward punishment over treatment, chronic underfunding relative to need, the legacy of racially disparate drug enforcement, and institutional resistance to evidence-based practices. Understanding these root causes is essential for designing reforms that address the systemic barriers to effective, equitable drug court operations.
 
+## Root Cause Summary
+
+| Root Cause | Mechanism | Severity | Amenable to Reform |
+|---|---|---|---|
+| Criminal justice gateway requirement | Arrest and charges required for treatment access | High | Moderate (pre-arrest diversion alternatives exist) |
+| Restrictive eligibility criteria | High-need populations excluded by categorical rules | High | High (evidence-based targeting can replace offense-based exclusions) |
+| Chronic funding inadequacy | Federal funding serves <7% of courts; no formula-based allocation | High | Moderate (requires congressional action) |
+| Misaligned fiscal incentives | Costs and benefits accrue to different government levels | Medium | Moderate (requires intergovernmental reform) |
+| Institutional resistance to MAT | Abstinence-only culture conflicts with pharmacotherapy evidence | High | High (standards exist; enforcement needed) |
+| Judicial variability | Quality depends on individual judges without enforceable standards | Medium | Moderate (certification can help but judicial independence limits mandates) |
+| Racial disparities in upstream systems | Biased arrest and prosecution patterns feed inequitable referral pools | High | Low (requires broader criminal justice reform) |
+| Treatment provider ecosystem limitations | Workforce shortages, fragmented systems, abstinence-only provider dominance | Medium | Moderate (workforce development and Medicaid expansion can help) |
+| Geographic access gaps | Rural counties lack drug courts and treatment infrastructure | Medium | Moderate (telehealth and circuit models can partially address) |
+
 ## Structural Limitations of the Criminal Justice Gateway
 
 ### Arrest as a Prerequisite for Treatment
@@ -24,7 +38,19 @@ Drug courts operate within a judicial system designed for adversarial proceeding
 - Prosecutors retain gatekeeping authority over who enters drug court, which allows eligibility decisions to be driven by charging discretion rather than clinical need
 - Judges, trained in law rather than addiction medicine, make decisions about treatment that may conflict with clinical best practices
 
-**Evidence**: The American Bar Association's Standards on Treatment Courts (2019) documented the ethical tensions defense attorneys face in drug court settings and recommended reforms to protect due process while maintaining therapeutic goals.
+**Evidence**: The American Bar Association's Standards on Treatment Courts (2019) documented the ethical tensions defense attorneys face in drug court settings and recommended reforms to protect due process while maintaining therapeutic goals. The National Association of Criminal Defense Lawyers (NACDL) has also raised concerns that defense attorneys in drug courts may become "therapeutic agents" rather than zealous advocates, compromising the adversarial protections that the Constitution guarantees.
+
+### Geographic Access Gaps
+
+Drug court access is deeply uneven across the country, creating a geographic lottery in which a defendant's location -- not their clinical need -- determines whether treatment is available:
+
+- Approximately 40% of rural counties lack a drug court program (National Center for State Courts, 2022)
+- Rural drug courts that do exist face limited treatment provider availability, transportation barriers, and smaller participant pools that increase per-capita costs
+- Western states (California, Washington) have the lowest drug court density per capita despite significant substance use burdens
+- Tribal nations are particularly underserved: only 135 healing-to-wellness courts serve a population with the highest overdose death rate in the country (56.1 per 100,000, CDC WONDER, 2024)
+- Some states (e.g., Kentucky, Missouri, North Dakota) have achieved relatively high coverage through statewide coordination and dedicated state funding, while others (e.g., California, Texas, Georgia) leave large geographic gaps
+
+**Evidence**: The National Drug Court Resource Center (2023) found that drug court coverage ranges from 2.8 per 100,000 population in North Dakota to 0.5 per 100,000 in California, a 5.6x disparity that bears no relationship to differences in substance use prevalence.
 
 ## Restrictive Eligibility Criteria
 
@@ -47,6 +73,29 @@ Drug courts face an incentive to select participants most likely to succeed, rat
 
 **Evidence**: Sevigny et al. (2013) documented creaming effects in federal drug court data, finding that jurisdictions with competitive grant structures were more likely to restrict eligibility criteria.
 
+### Prosecutor-Controlled Referral as a Structural Filter
+
+In approximately 70% of drug courts, prosecutors control the initial referral decision -- determining which defendants are offered the opportunity to participate (NADCP, 2022). This prosecutorial gatekeeping introduces multiple sources of bias:
+
+- Prosecutors may deny referral based on offense severity perceptions that are unrelated to clinical need or treatment responsiveness
+- Implicit racial bias in prosecutorial screening has been documented: Marlowe et al. (2018) found that eligible Black defendants were referred at a rate of 25% compared to 38% for eligible white defendants
+- Prosecutors may use drug court referral as a bargaining tool in plea negotiations, conditioning referral on acceptance of other plea terms
+- Office-level policies may categorically exclude entire offense categories without individualized assessment
+- In jurisdictions where prosecutors face election pressures, drug court referral patterns may shift based on political climate rather than evidence
+
+**Evidence**: A 2019 study in the *Journal of Criminal Justice* found that switching from prosecutor-controlled to clinical screening-based referral increased Black defendant drug court enrollment by 35% without any increase in program safety incidents or decrease in graduation rates.
+
+### Exclusion of Individuals with Co-Occurring Disorders
+
+An estimated 50-60% of individuals with substance use disorders in the criminal justice system also have co-occurring mental health disorders (SAMHSA, 2023). However, many drug courts lack the capacity or willingness to serve this population:
+
+- Approximately 35% of drug courts exclude individuals with serious mental illness (e.g., schizophrenia, bipolar disorder) from eligibility
+- Some jurisdictions operate separate mental health courts and drug courts, with limited cross-referral and no integrated programming for individuals who need both
+- Treatment providers contracted by drug courts may lack the clinical expertise to address co-occurring disorders
+- Psychotropic medications may complicate drug testing protocols, creating administrative barriers to participation
+
+**Evidence**: The MADCE found that participants with co-occurring disorders had lower graduation rates but still showed significant recidivism reductions, suggesting that the drug court model can work for this population with appropriate modifications. A 2017 study by Peters et al. in *Behavioral Sciences & the Law* found that integrated dual-diagnosis drug courts achieved graduation rates comparable to standard drug courts when adequate mental health services were provided.
+
 ## Funding Inadequacy and Misalignment
 
 ### Chronic Underinvestment
@@ -67,7 +116,9 @@ The costs and benefits of drug courts accrue to different levels of government a
 - Treatment costs are borne by health budgets, while the benefits (reduced crime, increased employment, lower healthcare utilization) spread across multiple agencies
 - Police and correctional officer unions may resist diversion programs that reduce caseloads and, by extension, personnel needs
 
-**Evidence**: The Pew Charitable Trusts (2018) documented the "wrong pockets" problem in criminal justice reform, finding that local governments that invest in drug courts may not recoup the savings, which instead flow to state corrections budgets.
+**Evidence**: The Pew Charitable Trusts (2018) documented the "wrong pockets" problem in criminal justice reform, finding that local governments that invest in drug courts may not recoup the savings, which instead flow to state corrections budgets. This misalignment helps explain why drug court expansion has stagnated despite strong evidence of positive returns: the governments that must invest are not the governments that save money.
+
+A few states have attempted to address this misalignment through "justice reinvestment" models. Texas, for example, redirected projected prison construction savings ($443 million in 2007) to community-based treatment and diversion programs, including drug courts. Kansas and Kentucky have adopted similar approaches. However, these models require state-level political will and budget flexibility that many states lack.
 
 ## Political Economy
 
@@ -115,6 +166,37 @@ Drug courts are uniquely dependent on individual judges. Research consistently s
 
 **Evidence**: The MADCE found that judicial behavior -- specifically the duration, quality, and fairness of bench interactions -- was the strongest predictor of participant outcomes, more important than treatment modality or program design.
 
+## Treatment Provider Ecosystem Limitations
+
+### Workforce Shortages
+
+The behavioral health workforce gap directly constrains drug court treatment capacity:
+
+- SAMHSA (2023) estimates a national shortage of 250,000-300,000 behavioral health professionals
+- The average annual salary for substance abuse counselors is $48,520 (Bureau of Labor Statistics, 2023), well below comparable healthcare professions, contributing to recruitment difficulties and high turnover
+- Rural areas face the most acute shortages: approximately 60% of designated mental health professional shortage areas are rural (HRSA, 2023)
+- Drug court treatment providers report average annual staff turnover rates of 30-40%, disrupting therapeutic relationships and program continuity
+- The pipeline of new clinicians is insufficient: master's-level SUD counselor training programs graduate approximately 10,000 students annually against a need for 25,000+ (NAADAC, 2023)
+
+### Fragmented Treatment System
+
+Drug courts depend on community-based treatment providers that operate in a fragmented system:
+
+- Treatment funding comes from multiple sources (Medicaid, SAMHSA block grants, state funds, court fees, private insurance) with different eligibility criteria, reporting requirements, and reimbursement rates
+- No single entity coordinates treatment capacity across the multiple providers that drug courts rely upon
+- In many jurisdictions, residential treatment beds are in short supply: average wait times for residential treatment exceed 30 days in 25 states (SAMHSA, 2023)
+- Treatment providers contracted by drug courts may not be the same providers who offer community-based aftercare, creating discontinuity at graduation
+- Data systems between drug courts and treatment providers are often incompatible, limiting real-time information sharing about participant progress
+
+### Abstinence-Only Provider Dominance
+
+The treatment provider marketplace in many drug court jurisdictions is dominated by programs rooted in abstinence-only, 12-step philosophies:
+
+- Many drug court contracts predate the MAT evidence revolution and were awarded to abstinence-based providers
+- In rural areas, the only available treatment provider may be a faith-based or 12-step program that philosophically opposes MAT
+- Treatment providers that depend on drug court referrals for their business may resist MAT adoption because it threatens their established model
+- Courts that switch to MAT-permitting treatment providers may face disruption, cost increases, or loss of institutional knowledge
+
 ## Causal Chain
 
 ```text
@@ -150,6 +232,12 @@ Past reform efforts have been constrained by several factors:
 4. **Stakeholder resistance**: Reforms that would expand eligibility, require MAT access, or shift drug court funding toward pre-arrest diversion face resistance from prosecutors (who lose gatekeeping authority), abstinence-oriented treatment providers (who lose business), and tough-on-crime political actors.
 
 5. **Structural limitation of the model**: Some reform goals -- such as eliminating the requirement for criminal justice contact as a prerequisite for treatment -- are fundamentally incompatible with the drug court model as currently designed. Achieving those goals requires not reforming drug courts but replacing them with alternative structures.
+
+6. **Absence of participant voice**: Drug court design and reform have historically been driven by judges, prosecutors, treatment providers, and researchers. Participants and graduates have limited input into program design, sanction policies, or equity reforms. The absence of lived-experience perspective in policy development contributes to design decisions that may not reflect participant needs or preferences.
+
+7. **Data system inadequacy**: Many drug courts lack the data infrastructure to track outcomes beyond graduation, identify racial disparities in real time, or compare their performance to evidence-based benchmarks. Without robust data, underperforming courts cannot be identified or held accountable, and successful innovations cannot be replicated.
+
+8. **Insurance and Medicaid limitations**: In the 10 states that have not expanded Medicaid under the ACA, many drug court participants lack health insurance, meaning the court must bear the full cost of treatment services. Even in expansion states, Medicaid reimbursement rates for SUD treatment are often below the cost of providing care, discouraging provider participation.
 
 ---
 

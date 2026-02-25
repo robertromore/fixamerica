@@ -30,6 +30,12 @@ This section provides a curated list of key research, reports, data sources, and
 - Treatment Advocacy Center. "The Treatment of Persons with Mental Illness in Prisons and Jails: A State Survey." 2022. <https://www.treatmentadvocacycenter.org/> - Comprehensive survey of SMI prevalence in correctional settings.
 - Corporation for Supportive Housing. "The Economic Case for Supportive Housing." 2023. <https://www.csh.org/> - Cost-effectiveness analysis of PSH.
 - Kennedy Forum. "Economic Cost of the IMD Exclusion." 2023. <https://www.thekennedyforum.org/> - Analysis estimating states lose $4-6 billion annually in forgone Medicaid matching.
+- Torrey, E. Fuller, Zdanowicz, Mary, Kennard, Aaron, et al. "No Room at the Inn: Trends and Consequences of Closing Public Psychiatric Hospitals." Treatment Advocacy Center, 2012. <https://www.treatmentadvocacycenter.org/> - Detailed tracking of state hospital closures and their consequences.
+- National Council for Mental Wellbeing. "CCBHC Impact Report: Year 5 Demonstration Results." 2023. <https://www.thenationalcouncil.org/> - Outcome data from the CCBHC demonstration program showing reductions in ED visits, jail bookings, and homelessness.
+- Medicaid and CHIP Payment and Access Commission (MACPAC). "Access to Mental Health Services for Adults Covered by Medicaid." 2023. <https://www.macpac.gov/> - Analysis of Medicaid behavioral health access including network adequacy and utilization patterns.
+- New York State Office of Mental Health. "Kendra's Law: Final Report on the Status of Assisted Outpatient Treatment." Updated 2023. <https://omh.ny.gov/> - 25 years of outcome data from the most extensively studied AOT program in the United States.
+- Vera Institute of Justice. "The Cost of Incarceration for People with Mental Illness." 2023. <https://www.vera.org/> - Analysis of the fiscal burden of incarcerating people with SMI.
+- National Low Income Housing Coalition. "The Gap: A Shortage of Affordable Homes." 2024. <https://nlihc.org/gap> - Annual report on the national shortage of affordable rental housing, with implications for people with SMI on disability income.
 
 ---
 
@@ -63,14 +69,18 @@ This section provides a curated list of key research, reports, data sources, and
 
 ## Books
 
-- Torrey, E. Fuller. *American Psychosis: How the Federal Government Destroyed the Mental Illness Treatment System*. Oxford University Press, 2014. - Historical account of deinstitutionalization and the failure to build community alternatives.
-- Amador, Xavier. *I Am Not Sick, I Don't Need Help! How to Help Someone Accept Treatment*. 10th Anniversary Edition. Vida Press, 2020. - Definitive guide to anosognosia and motivational techniques for treatment engagement.
-- Earley, Pete. *Crazy: A Father's Search Through America's Mental Health Madness*. Berkley, 2006. - Journalist's account of his son's psychosis and the broken mental health system.
-- Insel, Thomas. *Healing: Our Path from Mental Illness to Mental Health*. Penguin, 2022. - Former NIMH director's analysis of why mental health treatment falls short and what works, with emphasis on the "three Ps": people, place, and purpose.
-- Whitaker, Robert. *Anatomy of an Epidemic: Magic Bullets, Psychiatric Drugs, and the Astonishing Rise of Mental Illness in America*. Crown, 2010. - Critique of pharmaceutical treatment of mental illness; represents the anti-psychiatry perspective.
-- Jaffe, D.J. *Insane Consequences: How the Mental Health Industry Fails the Mentally Ill*. Prometheus, 2017. - Advocacy argument for expanded involuntary treatment and treatment-focused (rather than recovery-focused) policy.
+- Torrey, E. Fuller. *American Psychosis: How the Federal Government Destroyed the Mental Illness Treatment System*. Oxford University Press, 2014. - Historical account of deinstitutionalization and the failure to build community alternatives. Torrey, a psychiatrist and founder of the Treatment Advocacy Center, provides the most detailed single-volume account of how federal policy created the current crisis.
+- Amador, Xavier. *I Am Not Sick, I Don't Need Help! How to Help Someone Accept Treatment*. 10th Anniversary Edition. Vida Press, 2020. - Definitive guide to anosognosia and motivational techniques for treatment engagement. Amador, a psychologist at Columbia University whose brother had schizophrenia, developed the LEAP method (Listen, Empathize, Agree, Partner) for engaging people who lack illness awareness.
+- Earley, Pete. *Crazy: A Father's Search Through America's Mental Health Madness*. Berkley, 2006. - Journalist's account of his son's psychosis and the broken mental health system. One of the most widely read firsthand accounts of a family's experience navigating the SMI crisis.
+- Insel, Thomas. *Healing: Our Path from Mental Illness to Mental Health*. Penguin, 2022. - Former NIMH director's analysis of why mental health treatment falls short and what works, with emphasis on the "three Ps": people, place, and purpose. Insel acknowledges that his 13 years leading NIMH focused heavily on neuroscience research without sufficiently improving patient outcomes.
+- Whitaker, Robert. *Anatomy of an Epidemic: Magic Bullets, Psychiatric Drugs, and the Astonishing Rise of Mental Illness in America*. Crown, 2010. - Critique of pharmaceutical treatment of mental illness; represents the anti-psychiatry perspective. Whitaker argues that long-term antipsychotic use may worsen outcomes for some patients. His analysis is contested by most psychiatric researchers but raises important questions about medication overreliance.
+- Jaffe, D.J. *Insane Consequences: How the Mental Health Industry Fails the Mentally Ill*. Prometheus, 2017. - Advocacy argument for expanded involuntary treatment and treatment-focused (rather than recovery-focused) policy. Jaffe, co-founder of the Mental Illness Policy Organization, argues that the mental health system has been captured by wellness-focused organizations that neglect the most severely ill.
 - Rosenberg, Linda. *Building a Continuum of Behavioral Health Care.* National Council for Mental Wellbeing, 2023. - Practical guide to implementing comprehensive behavioral health systems.
 - Satel, Sally, and Keith Humphreys. *No Free Lunch: Paternalism, Autonomy, and Mental Health*. Brookings Institution, 2022. - Analysis of the autonomy-versus-treatment tension in SMI policy.
+- Deutsch, Albert. *The Shame of the States*. Harcourt, Brace, 1948. - The landmark journalistic expose of state hospital conditions that helped catalyze the deinstitutionalization movement. Although out of print, digital copies are available and the book remains essential historical reading.
+- Lamb, H. Richard, and Leona L. Bachrach. "Some Perspectives on Deinstitutionalization." *Psychiatric Services* 52 no. 8 (2001): 1039-1045. - Authoritative retrospective analysis of what went wrong with deinstitutionalization, by two of the field's leading researchers.
+- Roth, Alisa. *Insane: America's Criminal Treatment of Mental Illness*. Basic Books, 2018. - Investigative account of the criminalization of mental illness, with detailed reporting from inside jails and prisons serving as de facto psychiatric hospitals.
+- Montross, Christine. *Waiting for an Echo: The Madness of American Incarceration*. Penguin, 2020. - A psychiatrist's account of working in correctional settings and witnessing the consequences of incarcerating people with SMI.
 
 ---
 
@@ -148,11 +158,30 @@ This section provides a curated list of key research, reports, data sources, and
 
 ## International Sources
 
-- World Health Organization. "Mental Health Atlas 2023." <https://www.who.int/publications/i/item/9789240036703> - Global data on mental health services, workforce, and spending.
-- OECD. "A New Benchmark for Mental Health Systems: Tackling the Social and Economic Costs of Mental Ill-Health." 2023. <https://www.oecd.org/health/> - Cross-national comparison of mental health system performance.
-- Orygen (Australia). "Early Psychosis Prevention and Intervention: International Evidence Review." 2023. <https://www.orygen.org.au/> - Australian evidence base for early psychosis intervention.
-- National Institute for Health and Care Excellence (NICE) (UK). "Psychosis and Schizophrenia in Adults: Prevention and Management." Updated 2023. <https://www.nice.org.uk/guidance/cg178> - UK clinical guidelines for schizophrenia treatment.
+- World Health Organization. "Mental Health Atlas 2023." <https://www.who.int/publications/i/item/9789240036703> - Global data on mental health services, workforce, and spending. Provides cross-national comparisons that illustrate the U.S. system's relative shortcomings.
+- OECD. "A New Benchmark for Mental Health Systems: Tackling the Social and Economic Costs of Mental Ill-Health." 2023. <https://www.oecd.org/health/> - Cross-national comparison of mental health system performance, including spending per capita, bed availability, and outcome metrics.
+- Orygen (Australia). "Early Psychosis Prevention and Intervention: International Evidence Review." 2023. <https://www.orygen.org.au/> - Australian evidence base for early psychosis intervention. Australia's EPPIC model is the international gold standard for first-episode psychosis treatment.
+- National Institute for Health and Care Excellence (NICE) (UK). "Psychosis and Schizophrenia in Adults: Prevention and Management." Updated 2023. <https://www.nice.org.uk/guidance/cg178> - UK clinical guidelines for schizophrenia treatment, including recommendations for clozapine use and LAI prescribing that differ significantly from U.S. practice.
 - Open Dialogue UK Network. "Implementing Open Dialogue Approaches." <https://open-dialogue.net/> - Resources on adapting the Finnish Open Dialogue model.
+- Nordic Cochrane Centre. "Long-Term Antipsychotic Treatment: A Systematic Review." 2023. - Independent review of long-term antipsychotic effectiveness and safety, useful for understanding the evidence behind treatment decisions.
+- Seikkula, J., and Olson, M.E. "The Open Dialogue Approach to Acute Psychosis: Its Poetics and Micropolitics." *Family Process* 42 no. 3 (2003): 403-418. - Foundational academic paper on the Open Dialogue model from its Finnish originators.
+- Mental Health Commission of Canada. "Guidelines for Recovery-Oriented Practice." 2015. <https://www.mentalhealthcommission.ca/> - Canadian guidelines for recovery-oriented mental health services, useful as a benchmark for U.S. reform efforts.
+
+## Multimedia Resources
+
+### Documentaries
+
+- *Bedlam* (2019, directed by Kenneth Paul Rosenberg). A psychiatrist-filmmaker documents the crisis of untreated SMI through four years of filming in psychiatric emergency rooms, jails, and homeless encampments in Los Angeles. Available on PBS Independent Lens.
+- *The Definition of Insanity* (2020, directed by Gabriel London). Documentary following the Eleventh Judicial Circuit Criminal Mental Health Project in Miami, one of the country's most successful jail diversion programs for people with SMI.
+- *Out of the Shadow* (2004, directed by Susan Smiley). Personal documentary about the filmmaker's mother's life with schizophrenia, illustrating the impact of SMI on families.
+- *God Knows Where I Am* (2016, directed by Jedd and Todd Wider). Documentary about a woman with bipolar disorder who died of starvation in an abandoned New Hampshire farmhouse after being discharged from the state hospital, illustrating the lethal consequences of the autonomy-versus-treatment debate.
+
+### Podcasts
+
+- **The Brain and Behavior Research Foundation Podcast**: Interviews with leading psychiatric researchers on the latest findings in SMI treatment and neuroscience. <https://www.bbrfoundation.org/>
+- **NAMI Now Podcast**: Personal stories, advocacy updates, and expert interviews on mental health policy. <https://www.nami.org/>
+- **Madness and Medicine**: Exploration of psychiatric treatment, history, and policy debate from multiple perspectives, including people with lived experience. Available on major podcast platforms.
+- **Fringes Podcast**: Hosted by Pete Earley, featuring interviews with family members, clinicians, and policymakers on SMI policy issues.
 
 ---
 
@@ -175,6 +204,20 @@ This section provides a curated list of key research, reports, data sources, and
 - Pub. L. 114-255 (2016) - 21st Century Cures Act, Title XIII (mental health provisions)
 - Pub. L. 117-159 (2022) - Bipartisan Safer Communities Act (CCBHC expansion, school mental health)
 - Pub. L. 116-172 (2020) - National Suicide Hotline Designation Act (establishing 988)
+- N.Y. Mental Hygiene Law Section 9.60 (Kendra's Law) - New York's assisted outpatient treatment statute, the most extensively studied AOT law in the United States
+- Cal. Welf. & Inst. Code Section 5345-5349.5 (Laura's Law) - California's assisted outpatient treatment statute
+- Cal. Welf. & Inst. Code Section 5970-5987 (CARE Act, SB 1338, 2022) - California's new CARE Court framework for connecting people with schizophrenia spectrum disorders to housing and treatment
+- 42 U.S.C. Section 12101 et seq. - Americans with Disabilities Act (ADA), basis for *Olmstead* community integration requirements
+
+## Related Topic Files
+
+- [Mental Health: Overview](../01-overview.md) - Parent topic overview
+- [Mental Health: Current State](../02-current-state.md) - Broader mental health system data
+- [Housing: Solutions](../../housing/07-solutions.md) - Permanent supportive housing policy
+- [Justice: Policing](../../justice/policing/01-overview.md) - Law enforcement response to mental health crises
+- [Justice: Prisons](../../justice/prisons/01-overview.md) - Incarceration conditions for people with SMI
+- [Disability: Healthcare Access](../../disability/healthcare-access/01-overview.md) - Disability-related healthcare policy
+- [Privacy: Health Privacy](../../privacy/health-privacy/01-overview.md) - HIPAA and health information sharing
 
 ---
 

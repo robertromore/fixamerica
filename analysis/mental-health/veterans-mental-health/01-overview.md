@@ -8,6 +8,8 @@ Despite substantial and growing investment -- VA mental health spending exceeded
 
 The challenge is compounded by a severe workforce shortage. The VA has approximately 4,600 vacancies in mental health positions nationwide, and many rural and underserved areas lack any VA mental health presence. Wait times for initial mental health appointments average 29.6 days at some facilities, despite a VA standard of 20 days for new patients and same-day access for mental health emergencies. The MISSION Act of 2018 expanded veterans' access to community care, but referral processes are complex and community providers often lack training in military culture and combat-related conditions.
 
+The veteran population itself is undergoing a demographic transformation that shapes mental health demand. The median age of veterans is now 65, meaning the largest single cohort -- approximately 6.4 million Vietnam-era veterans -- is entering a period of elevated late-onset PTSD risk, cognitive decline, and comorbid chronic disease. Simultaneously, the post-9/11 cohort of approximately 4.1 million veterans carries exceptionally high rates of PTSD (11-20%), TBI (~22%), and MST, with decades of care needs ahead. Women veterans, the fastest-growing segment at roughly 10% of the total population, face disproportionate rates of MST (33% screening positive) and rising suicide rates -- 2.2 times the rate of non-veteran women. National Guard and Reserve members, approximately 800,000 of whom deployed post-9/11, face distinctive barriers to care including loss of TRICARE coverage after demobilization, geographic dispersion far from VA facilities, and identity ambiguity about whether they qualify as "veterans" at all.
+
 At the same time, the field of veterans mental health has developed an exceptional evidence base. Treatments such as Cognitive Processing Therapy (CPT) and Prolonged Exposure (PE) therapy have been validated in rigorous randomized controlled trials as effective for combat-related PTSD. Newer approaches -- including MDMA-assisted therapy, psilocybin research, stellate ganglion block, and intensive outpatient programs -- offer hope for treatment-resistant cases. The fundamental policy question is not whether effective treatments exist, but whether the system can deliver them reliably, equitably, and at scale to all veterans who need them.
 
 ## Scope
@@ -20,6 +22,8 @@ This analysis covers the key aspects of veterans mental health:
 - **Workforce and Access**: Mental health workforce shortages, geographic disparities, wait times, and the VA Community Care program under the MISSION Act
 - **Transition and Reintegration**: The challenges veterans face moving from active duty to civilian life, including the Transition Assistance Program (TAP) and the unique barriers confronting National Guard and Reserve members
 - **Evidence-Based Treatments**: The clinical evidence for CPT, PE, EMDR, and emerging therapies including psychedelic-assisted treatment and telehealth expansion
+- **Moral Injury**: The distinct psychological damage caused by perpetrating, witnessing, or failing to prevent acts that violate deeply held moral beliefs, which is not fully captured by the PTSD diagnosis and requires separate clinical attention
+- **Firearm Suicide and Lethal Means**: The intersection of veteran firearm culture, suicide risk, and lethal means safety as a prevention strategy
 
 ## Key Facts
 
@@ -33,7 +37,11 @@ This analysis covers the key aspects of veterans mental health:
 | Veteran suicides involving firearms (2021) | 62.8% | VA NSPAR, 2023 |
 | Veterans who died by suicide not using VA care | ~60.6% | VA NSPAR, 2023 |
 | VA mental health workforce vacancies | ~4,600 positions | VA OIG, 2023 |
+| Post-9/11 veterans with PTSD | 11-20% | VA National Center for PTSD, 2023 |
+| Vietnam-era veteran population | ~6.4 million | VA, 2023 |
+| Women veterans screening positive for MST | 33% | VA MST Support Team, 2023 |
 | Vet Centers nationwide | 300 | VA Readjustment Counseling Service, 2024 |
+| VA telehealth mental health encounters (FY2023) | ~8.5 million | VA OCC, 2024 |
 | Commander John Scott Hannon Act | Signed October 2020 | Pub. L. 116-171 |
 
 ## Core Tensions and Tradeoffs
@@ -43,6 +51,8 @@ This analysis covers the key aspects of veterans mental health:
 - **Evidence-Based Treatment vs. Veteran Choice**: The VA has invested heavily in CPT and PE as first-line PTSD treatments, but many veterans prefer alternative or complementary approaches. Mandating evidence-based protocols may improve aggregate outcomes while alienating individual veterans from the system.
 - **Workforce Expansion vs. Quality Assurance**: Rapidly hiring thousands of mental health providers to fill vacancies risks lowering standards or onboarding clinicians without adequate training in military culture and combat-related conditions.
 - **Federal Responsibility vs. State Capacity**: Veterans mental health is primarily a federal responsibility through the VA, but state-level programs, crisis services, and community organizations play essential roles that vary dramatically in quality and funding across states.
+- **Disability Compensation vs. Recovery Incentives**: The current disability compensation system may create a perceived tension between clinical improvement and financial security, as some veterans fear that demonstrating recovery could lead to reduced disability ratings and income loss -- a perception that can undermine treatment engagement regardless of whether the fear is actuarially justified.
+- **Pharmacotherapy vs. Psychotherapy**: While the VA has championed evidence-based psychotherapies, many veterans receive medication-only treatment. The pharmaceutical industry's influence on clinical guidelines, combined with workforce shortages that make therapy sessions harder to schedule than prescriptions, risks defaulting to a less effective treatment modality for trauma-related conditions.
 
 ## Key Questions
 
@@ -50,6 +60,8 @@ This analysis covers the key aspects of veterans mental health:
 2. What structural reforms to VA workforce recruitment, retention, and deployment would most effectively close the 4,600-position mental health staffing gap?
 3. How should the VA balance its commitment to evidence-based treatments (CPT, PE) with growing veteran demand for emerging therapies including psychedelic-assisted treatment?
 4. What governance and accountability mechanisms are needed to ensure that Community Care referrals under the MISSION Act deliver equivalent quality to VA in-house mental health services?
+5. How can moral injury -- which does not fit neatly within existing PTSD diagnostic criteria -- be formally recognized and addressed in both clinical practice and disability compensation frameworks?
+6. What role should predictive analytics and artificial intelligence (such as the VA's REACH VET program) play in suicide risk identification, and what ethical safeguards are required?
 
 ## Vision of Success
 
@@ -59,6 +71,8 @@ A successful veterans mental health policy in the 21st century would feature:
 - **Dramatic Suicide Reduction**: Veteran suicide rates decline by at least 40% within a decade through comprehensive upstream prevention, lethal means safety, and crisis intervention that reaches veterans outside the VA system
 - **Military-Competent Workforce**: Every clinician treating veterans -- whether at the VA or through Community Care -- has documented training in military culture, combat-related PTSD, MST, TBI, and moral injury
 - **Seamless DoD-VA Transition**: Service members transitioning from active duty to veteran status experience no gap in mental health care, with warm handoffs, shared electronic health records, and proactive outreach during the high-risk first year post-separation
+- **Equitable Access Across Populations**: Women veterans, National Guard and Reserve members, veterans with Other-Than-Honorable discharges, LGBTQ+ veterans, and rural veterans receive care that is responsive to their specific circumstances and free from institutional bias
+- **Sustained Innovation Pipeline**: The VA leads global research into emerging treatments for combat-related conditions, with a clear regulatory pathway from clinical trial to standard care for therapies that demonstrate efficacy
 
 ---
 
